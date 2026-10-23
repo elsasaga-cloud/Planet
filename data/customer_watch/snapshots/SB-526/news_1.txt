@@ -1,0 +1,83 @@
+# SB-526 avalan.com · news_1 · https://www.avalan.com/blog · fetched 2026-10-23T04:20:51Z · HTTP 200
+Blog | AvaLAN Networks
+top of page
+Home
+Fuel Center Solutions
+EMV Solutions
+Gilbarco Solutions
+Ethernet Switches
+Managed Network Services
+More
+About Us
+Blog
+More
+Use tab to navigate through the menu items.
+Search
+AvaLAN AW585ANT-8FT Mounting Guide
+Our recent blog post illustrated some of the ideal placement locations for the use of our external antennas. Similar to how the location...
+nicolebierbauer6 Aug 26, 2022 1 min read
+AvaLAN's Bandwidth and Reliability
+Bandwidth and throughput are common determinations for how fast and how much data can travel across any medium (wired or wireless). It is...
+nicolebierbauer6 Aug 1, 2022 2 min read
+How Forecourt Networking is Solved with Wireless
+While a wired solution may have been used in the past there are now newer wireless technology solutions available that allow for a more...
+nicolebierbauer6 Jul 29, 2022 2 min read
+Wireless, Antennas, and your AvaLAN EMV Solution: A Brief Briefing
+The In-Dispenser Subscriber Units (IDSUs) and the In-Store Access Point (AP) are installed, you’ve just finished pairing the units, and...
+nicolebierbauer6 Jul 25, 2022 2 min read
+AvaLAN's Encryption and Security
+In today’s world, credit cards and personal information are routinely sent through “exposed connections” like the Internet, WLANs and...
+nicolebierbauer6 Jul 21, 2022 2 min read
+Challenges of Forecourt Networking
+When it comes to forecourt networking there are numerous components that come into play. Depending on your kind of forecourt setup there...
+nicolebierbauer6 Jul 19, 2022 2 min read
+What Is A Trunk Port And Why Do I Need One?
+This article assumes that the reader has a fundamental knowledge computer networking and of VLAN segmentation. We will not cover those...
+nicolebierbauer6 Jul 12, 2022 2 min read
+AvaLAN's Latest Firmware and Updated Security
+So, you’ve been using AvaLAN EMV units for a while now, but suddenly you see that the new units you are receiving are marked “Version...
+nicolebierbauer6 Jun 29, 2022 2 min read
+Dover Announces Acquisition of AvaLAN Wireless Systems, Inc.
+AUSTIN, TEXAS – April 19, 2021 – Dover (NYSE: DOV) announced today that it has completed the acquisition of AvaLAN Wireless Systems...
+Courtney Apr 27, 2021 2 min read
+Managed Network Service
+Today, data security is the key to many operations success or demise. The problem is that not everyone understands the complexity of...
+Matthew Nelson Jul 9, 2020 1 min read
+Costs of EMV Upgrades for the Fuel Dispenser
+Let's review some of the costs of EMV upgrades for the fuel center and the options to consider for upgrading to EMV.
+Courtney Jun 16, 2020 1 min read
+AvaLAN IP Secure Wireless for EMV Upgrades
+Courtney Jun 16, 2020 0 min read
+Curious about Wireless Outdoor EMV but not sure where to start?
+Have you heard the industry buzz about Wireless Outdoor EMV solutions but don’t know where to start?
+Courtney Apr 9, 2020 1 min read
+How are you handling network security with EMV payment in the Fuel Dispenser?
+The shift from serial to Ethernet communications at the gas pump offers the higher speeds required to transact via EMV chip cards.
+Courtney Apr 2, 2020 2 min read
+36 Weeks and counting
+Personally, I have not talked to anyone who hasn't had their card replaced in the past two years
+Matthew Nelson Jan 21, 2020 2 min read
+Understanding Security for Outdoor Payment Systems
+this major “industry first” win was actually based on the AvaLAN proprietary and multi-layer security technology
+Courtney Dec 6, 2019 1 min read
+AvaLAN Total Solution for Fuel Center Communication
+Courtney Dec 12, 2018 0 min read
+100 Weeks to EMV — Where Do I Start?
+You can actually become EMV compliant in minutes and requires no disruption to your services.
+Courtney Oct 8, 2018 2 min read
+Digital Signage at the Pump: Why It’s Worth It and Four Inspiring Ideas for Content
+Digital signage at the pump presents a unique chance to communicate with shoppers.
+Courtney Jul 23, 2018 2 min read
+Current Loop/Serial Over IP
+Courtney Jul 16, 2018 0 min read
+About Us
+Blog
+Careers
+Employee Login
+Support
+Copyright©2024 by AvaLAN Wireless
+Contact us at: 866-533-6216
+Privacy Policy
+Terms and Conditions
+Madison, AL.
+bottom of page

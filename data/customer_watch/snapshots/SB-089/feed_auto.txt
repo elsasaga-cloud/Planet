@@ -1,0 +1,11 @@
+# SB-089 linx-com.com · feed_auto · https://www.linx-com.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Sun, 03 Oct 2021 23:00:11 +0000	TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED	https://www.linx-com.com/tight-buffered-cable-vs-loose-tube-gel-filled/
+Sun, 19 Sep 2021 23:00:49 +0000	AWG CONVERSION GUIDE	https://www.linx-com.com/awg-conversion-guide/
+Sun, 12 Sep 2021 23:00:41 +0000	HOW ARE TWISTED PAIR CABLES TERMINATED?	https://www.linx-com.com/how-are-twisted-pair-cables-terminated/
+Sun, 05 Sep 2021 23:00:02 +0000	A GUIDE TO LAN CABLE	https://www.linx-com.com/a-guide-to-lan-cable/
+Sun, 29 Aug 2021 23:00:07 +0000	USES OF OPTICAL DISTRIBUTION FRAME (ODF)	https://www.linx-com.com/uses-of-optical-distribution-frame-odf/
+Sun, 22 Aug 2021 23:00:51 +0000	BANDWIDTH IN CABLES	https://www.linx-com.com/bandwidth-in-cables/
+Sun, 15 Aug 2021 23:00:21 +0000	CABLE ATTENUATION EXPLAINED	https://www.linx-com.com/cable-attenuation-explained/
+Sun, 08 Aug 2021 23:00:26 +0000	WI-FI VS ETHERNET – WHICH IS FASTER?	https://www.linx-com.com/wi-fi-vs-ethernet-which-is-faster/
+Sun, 01 Aug 2021 23:00:30 +0000	RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?	https://www.linx-com.com/rj45-connector-what-is-it-and-how-does-it-differ-from-rj11/
+Sun, 25 Jul 2021 23:00:48 +0000	WHY ARE CABLES BRAIDED?	https://www.linx-com.com/why-are-cables-braided/

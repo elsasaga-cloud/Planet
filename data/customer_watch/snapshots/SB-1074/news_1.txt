@@ -1,0 +1,139 @@
+# SB-1074 intrising.com.tw · news_1 · https://www.intrising.com.tw/news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Intrising Networks
+...
+News
+New Feature
+Expo
+Case Study
+Products
+Industrial Switches
+D Series
+R Series
+K Series
+PRP / HSR Series
+Industrial Wireless
+Wireless Router
+Application
+Management
+AV over IP
+Extender
+Accessories
+DIN-Rail Power Supply
+SFP-MINI-GBIC
+Solutions
+Contact Us
+About
+Home
+News
+Menu
+Home
+News
+Products
+Solutions
+Contact Us
+About
+Home
+News
+News of expo, case study, and product feature.
+Subscribe via RSS reader
+All
+New Feature
+Expo
+Case Study
+New Feature
+ISO 9001:2015 Certification
+Elevating Excellence in Quality
+Intrising Networks, Inc., is pleased to inform you that our ISO 9001:2015 certification from Afnor Groupe has been completed successfully. We currently adhere to the most recent version of the Quality Management System for the following scope: design, development, and production...
+Case Study
+PTP Technology Enables Precise Autonomous Data
+Intrising's 10G PTP switching solution serves as the critical synchronization backbone
+In order to achieve Level 4 autonomy, the Intrising DTS-8GP-4X solves Split Architecture challenges by using gPTP Transparent Clock technology for microsecond sync. Its 10G uplink handles 4.8Gbps camera streams, ensuring spatiotemporal consistency for precise LiDAR and AI sensor....
+Expo
+Let's Meet at SPS 2025!
+Information of SPS 2025
+Intrising is going to SPS 2025 and we are excited to meet you there!...
+New Feature
+T Series
+Intrising Unveils the Future of Industrial Networking
+Intrising’s launchues T Series 10G TSN switches for Industry 4.0. Featuring IEEE 802.1Qbv/AS for nanosecond sync and HSR/PRP for zero-loss redundancy, these ruggedized solutions bridge IT/OT with deterministic, high-bandwidth performance....
+Expo
+Let's Meet at SPS 2024!
+Information of SPS 2024
+We are thrilled to announce that Intrising is participating in the upcoming SPS (November 12-14), a premier exhibition for automation technology innovations....
+Expo
+Visit us in Germany!
+Information of the Expo in Hannover Messe 2024
+With great pleasure, Intrising Networks announces its participation in the world's premier Industrial Technologies exhibition, Hannover Messe, which will take place in Germany from April 22–26, 2024....
+Case Study
+Enhanced Micro Switch for Future-Ready Networking
+Intrising's Hardware and Software Solution for Improved Network Reliability and Management
+Intrising provides software and hardware solutions for FTTO applications, including Ring (G8032 ring) with less than 50 ms recovery time, enhanced security through SSH and SNMPv3, and device management automation through Docker Visualization Environment....
+Case Study
+Intrising Switches Adopted in Existing PRP Topology
+How Intrising Helps Customer to Scale up Network While Keeping Compatibility of Existing Equipment
+Intrising implemented PRP to provide fault tolerance and high availability, while also ensuring zero-recovery time and compatibility. This ensures smooth communication between devices without having to discard old devices. Intrising created P1000 that supports PRP....
+New Feature
+IEC 62443-4-1 Certification
+Intrising Obtains IEC 62443-4-1 Certification
+Intrising has obtained the international certification of IEC 62443-4-1 by Bureau Veritas to ensure the security of our industrial equipment. Intrising has complied with security regulations to ensure information security and will continue to enhance network security....
+New Feature
+Layer 3
+Invaluable Inclusion to Your Network
+High-speed data networks are built using industrial network switches. Layer 3 switches are developed to enhance network routing performance on big LAN such as corporate intranets. These switches can function in the environments where total security is required....
+New Feature
+NAT Feature
+Reduce Your Address Usage
+NAT is a mechanism that allows numerous devices on a local network to share a single IP address, even though each device has a distinct private IP address on that network. NAT overcomes the lack of IP addresses in IP version 4 by allowing users to save IP addresses....
+New Feature
+MACsec Feature
+A Novel Approach to Encrypt Network Traffic
+MACsec, or Media Access Control Security, protects data transmitted between Ethernet-connected devices. Intrising's MACsec is a new feature that can be found on our industrial equipment. Intrising's MACsec feature can be enabled using static CAK mode and dynamic CAK mode....
+New Feature
+DDoS Protection
+Advanced Feature for Network Security Improvement
+By having DDoS protection, a device will be able to detect abnormality resulting from an attack and then proceed to block the connection, so your network can function normally again. Intrising proudly announces that our device is equipped with DDoS protection now....
+New Feature
+DAS Series L3 Switches
+Exemplary Aid for Your Business Growth
+Intrising launches a new product which is called, DAS-8GP8S-4X, that is a stellar industrial switch. 10 Gigabit Ethernet increases connection speeds, enables computers to remain linked on a single server, and offers an option to simply joining numerous gigabit Ethernet ports....
+New Feature
+RAS Series L3 Switches
+Towards The Optimized Data Centers
+Intrising introduces RAS-24GP-2X2T, a perfect switch that has all features a data center can ask for. Data centers are essential to the operations of an enterprise and without them, they will suffer from the lack of quick and secure access to data....
+New Feature
+gPTP Solution
+Automation Revolution: The Driving Force of gPTP
+Most of the working networks and connected applications have been converted to Ethernet. gPTP has many unique functions to achieve high timing accuracy. It provides scheduling, traffic shaping, and fault-tolerance features that enable Ethernet to be used in real-time application....
+New Feature
+PTP Solution
+Intrising PTP Provides Better Time Service
+DBS-16GP-4X has uniquely positioned the advantage of easy installation and low maintenance costs to satisfy the need for critical infrastructures to accurately monitor their network. It can provide nanosecond precision synchronization via Ethernet....
+New Feature
+PoE++ Solution
+Powerful and Intelligent PoE++ Solution
+Intrising DAS-8GHP-4X is powerful and intelligent and can deliver up to 60 watts over Cat 5 cables. PoE nonstop supports PoE real-time monitoring and proactive alerts when any PoE errors occur. It can schedule to supply power to devices only during business hours....
+Expo
+Visit us in Las Vegas!
+Information of the Expo in InfoComm 2020
+We invite you to experience our 4K HDMI total solution and industrial networking technology......
+Expo
+Visit us in Amsterdam!
+Information of the Expo in ISE 2020
+We invite you to experience our 4K HDMI total solution in the world's largest exhibition for AV and systems integration.......
+Expo
+Visit us in Tokyo!
+Information of the Expo in VCOM 2019
+We invite you to experience our 4K HDMI total solution in the only show specialized in video communications in Japan.......
+Expo
+Visit us in Orlando!
+Information of the Expo in InfoComm 2019
+We invite you to experience our 4K HDMI total solution and industrial networking technology......
+Expo
+Visit us in Las Vegas!
+Information of the Expo in NAB 2019
+We invite you to experience our 4K HDMI total solution in the world's largest show for media, entertainment, and technology.......
+Expo
+Visit us in Amsterdam!
+Information of the Expo in ISE 2019
+We invite you to experience our 4K HDMI total solution in the world's largest exhibition for AV and systems integration.......
+Inc • All Rights Reserved

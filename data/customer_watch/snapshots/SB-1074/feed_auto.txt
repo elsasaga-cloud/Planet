@@ -1,0 +1,25 @@
+# SB-1074 intrising.com.tw · feed_auto · https://www.intrising.com.tw/feeds/rss/news.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+Fri, 24 Jul 2026 00:00:00 GMT	ISO 9001:2015 Certification	https://www.intrising.com.tw/news/new_feature/iso_9001_2015
+Thu, 05 Feb 2026 00:00:00 GMT	PTP Technology Enables Precise Autonomous Data	https://www.intrising.com.tw/news/case_study/gptp_vehicle_solution
+Fri, 21 Nov 2025 00:00:00 GMT	Let's Meet at SPS 2025!	https://www.intrising.com.tw/news/expo/sps_2025
+Thu, 20 Nov 2025 00:00:00 GMT	T Series	https://www.intrising.com.tw/news/new_feature/t_series
+Fri, 18 Oct 2024 00:00:00 GMT	Let's Meet at SPS 2024!	https://www.intrising.com.tw/news/expo/sps_2024
+Mon, 22 Apr 2024 00:00:00 GMT	Visit us in Germany!	https://www.intrising.com.tw/news/expo/hannover_2024
+Mon, 29 May 2023 00:00:00 GMT	Enhanced Micro Switch for Future-Ready Networking	https://www.intrising.com.tw/news/case_study/odm_ftto_networking_solution
+Tue, 16 May 2023 00:00:00 GMT	Intrising Switches Adopted in Existing PRP Topology	https://www.intrising.com.tw/news/case_study/location_existed_prp_topology
+Thu, 23 Feb 2023 00:00:00 GMT	IEC 62443-4-1 Certification	https://www.intrising.com.tw/news/new_feature/iec62443_4_1
+Fri, 21 Oct 2022 00:00:00 GMT	Layer 3	https://www.intrising.com.tw/news/new_feature/layer_3
+Wed, 19 Oct 2022 00:00:00 GMT	NAT Feature	https://www.intrising.com.tw/news/new_feature/nat_feature
+Tue, 04 Oct 2022 00:00:00 GMT	MACsec Feature	https://www.intrising.com.tw/news/new_feature/macsec_feature
+Wed, 14 Sep 2022 00:00:00 GMT	DDoS Protection	https://www.intrising.com.tw/news/new_feature/ddos_protection
+Thu, 11 Aug 2022 00:00:00 GMT	DAS Series L3 Switches	https://www.intrising.com.tw/news/new_feature/layer3_das
+Thu, 11 Aug 2022 00:00:00 GMT	RAS Series L3 Switches	https://www.intrising.com.tw/news/new_feature/layer3_ras
+Fri, 03 Dec 2021 00:00:00 GMT	gPTP Solution	https://www.intrising.com.tw/news/new_feature/gptp_solution
+Fri, 10 Sep 2021 00:00:00 GMT	PTP Solution	https://www.intrising.com.tw/news/new_feature/ptp_solution
+Thu, 09 Sep 2021 00:00:00 GMT	PoE++ Solution	https://www.intrising.com.tw/news/new_feature/poeplusplus_solution
+Wed, 17 Jun 2020 00:00:00 GMT	Visit us in Las Vegas!	https://www.intrising.com.tw/news/expo/infocomm_2020
+Tue, 11 Feb 2020 00:00:00 GMT	Visit us in Amsterdam!	https://www.intrising.com.tw/news/expo/ise_2020
+Wed, 17 Jul 2019 00:00:00 GMT	Visit us in Tokyo!	https://www.intrising.com.tw/news/expo/vcom_2019
+Wed, 12 Jun 2019 00:00:00 GMT	Visit us in Orlando!	https://www.intrising.com.tw/news/expo/infocomm_2019
+Mon, 08 Apr 2019 00:00:00 GMT	Visit us in Las Vegas!	https://www.intrising.com.tw/news/expo/nab_2019
+Tue, 05 Feb 2019 00:00:00 GMT	Visit us in Amsterdam!	https://www.intrising.com.tw/news/expo/ise_2019

@@ -1,0 +1,2 @@
+# SB-995 pctelecom.co.th · feed_auto · https://www.pctelecom.co.th/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Sun, 21 Nov 2021 03:30:02 +0000	Hello world!	https://www.pctelecom.co.th/hello-world/

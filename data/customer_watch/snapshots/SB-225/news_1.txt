@@ -1,0 +1,632 @@
+# SB-225 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
+Skip to content
+Twitter
+LinkedIn
+Facebook
+Instagram
+Youtube
+Inicio
+Producto
+Tutorial
+Conoce
+Casos de éxito
+Promociones
+Webinar
+Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
+22 de octubre de 2026
+Conoce
+El MP66W lleva las llamadas de Microsoft Teams a entornos donde la movilidad, la protección IP67 y el audio claro importan tanto como la gestión del dispositivo.
+Read More
+NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma
+20 de octubre de 2026
+Conoce
+La serie NETGEAR M4350 reúne PoE/PoE++ hasta 3314 W, conectividad multigigabit de 1G a 100G, apilado virtual VSF y perfiles AVoIP en switches gestionables para redes AV y empresariales exigentes.
+Read More
+Grandstream GWN7673: Wi-Fi 7 de doble banda para redes con alta densidad de dispositivos
+20 de octubre de 2026
+Conoce
+El GWN7673 combina Wi-Fi 7 BE5000 de doble banda, enlace de 2,5 GbE y opciones de montaje flexibles para proyectos profesionales con muchos dispositivos conectados.
+Read More
+MikroTik LGO-LTE-W: antena compacta para LTE y LoRa® en instalaciones IoT
+20 de octubre de 2026
+Conoce
+La MikroTik LGO-LTE-W (DPD0830AL08) es una antena compacta para LTE y LoRa® de 617 a 5925 MHz, con 3 dBi y SMA macho, en solo 172 × 19 × 13 mm. Recomendada para KNOT.
+Read More
+MikroTik Back to Home: acceso remoto seguro incluso sin IP pública
+19 de octubre de 2026
+Conoce
+Accede de forma cifrada a tu red con Back to Home de MikroTik, también detrás de NAT. Te explicamos compatibilidad, configuración, límites y equipos disponibles en Instant Byte.
+Read More
+Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
+19 de octubre de 2026
+Formación
+Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
+Read More
+UniFi Industrial: switches DIN sin ventilador y U7 Industrial IP67 para entornos exigentes
+15 de octubre de 2026
+Conoce
+Ubiquiti completa su familia UniFi Industrial con tres switches DIN rail redundantes y el U7 Industrial, un punto de acceso IP67 con antena direccional, cobertura 360° y aislador RF, todo gestionado desde UniFi.
+Read More
+DAP-E3620: Wi-Fi 7 empresarial a medida del proyecto y del presupuesto
+14 de octubre de 2026
+Conoce
+El D-Link DAP-E3620 ofrece Wi-Fi 7 BE3600 de doble banda, 2,5 GbE PoE y opciones de gestión para redes profesionales. Analizamos cuándo esa configuración encaja y cuándo conviene valorar 6 GHz.
+Read More
+UniFi Network 11: más visibilidad, SD-WAN y dispositivos Matter en una sola red
+14 de octubre de 2026
+Conoce
+Ubiquiti renueva la telemetría de UniFi Network 11 con más de un 30 % de mejora en escalabilidad, tráfico en tiempo real, WiFi WAN en modelos compatibles, nuevas políticas SD-WAN y visibilidad de dispositivos Matter.
+Read More
+Grandstream GWN7072: router Wi-Fi 7 tribanda con WAN de 10 GbE y mesh de hasta 16 nodos
+13 de octubre de 2026
+Conoce
+Grandstream estrena su primer router Wi-Fi 7: el GWN7072, tribanda (2,4, 5 y 6 GHz) con hasta 11 Gbps de velocidad Wi-Fi agregada, puerto WAN combo de 10 GbE, mesh de hasta 16 nodos, VPN y firewall.
+Read More
+Certificación oficial Grandstream GCPNS en Madrid: 25, 26 y 27 de noviembre
+13 de octubre de 2026
+Formación
+Cuatro certificaciones oficiales Grandstream en un único curso presencial en Leganés (Madrid): GCPS, Routing & Switching, Wireless y Security.
+Read More
+MikroTik KNOT Gateway: pasarela IoT IP66 con BLE 5.1 y LoRa o Wi‑Fi HaLow
+13 de octubre de 2026
+Conoce
+KNOT Gateway, la nueva pasarela IoT robusta de MikroTik: IP66, BLE 5.1, LoRa 868 MHz (LR8) o Wi‑Fi HaLow 915 MHz (HL9), Ethernet con PoE, Wi‑Fi, LTE Cat 1 bis, GNSS y RouterOS v7.
+Read More
+Paginación de entradas
+1
+2
+3
+…
+59
+>
+Volver a la home (instantbyte.com)
+Casos de éxito
+Conoce
+Formación
+Producto
+Promociones
+Tutorial
+Webinar
+Todas las etiquetas
+1.8 gps
+10 gigabit
+10 kim
+10 puertos
+10+1
+100 gigas
+10G
+10gbe
+10GBPS
+128 gbps
+15 euros descuento
+16 nucleos
+16 puertos
+18 puertos
+1TB
+2 Gbps
+2 puertos
+2.4 GHz
+2.5 Gigabit
+20 puertos
+220W
+23–40 Rack Rail R0
+24 puertos
+25 gbps
+25 llamadas
+256 clientes
+256 clientes simultaneos
+25G
+26TB
+28 puertos
+29% de descuento
+2×2 mimo
+300 clientes simultáneos
+40 Gbps
+400g
+48 puertos
+4G
+4G LTE
+4k
+5 Gbps
+5 gh
+5 GHz
+5 megapíxeles
+5 mp
+5 puertos
+50 usuarios
+512 clientes
+56 G capacidad total de conmutación
+5g
+5MP
+6 gbps
+60 GHz
+60 GHZ CAMBIUM
+60G
+60GHz
+8 puertos
+8 puertos fxo
+8.0 unifi network
+802.11ax
+868 Omni antenna LoRa
+8mp
+9 dbi
+A170 Negro
+AC
+AC Wave2
+ac12
+AC1900
+acceso
+acceso a internet
+acceso remto
+accesorio
+accesorios
+access point
+ACTI
+actualiación
+actualiza n670ip
+actualizacion
+actualización
+actualizacion con internet
+actualizacion con winbox
+actualizacion firmware
+actualizacion firmware mikrotik
+actualizacion sin internet
+actualizacion telefono
+actualizacón de redes
+acupick
+acusense
+adaptador
+adaptador telefónico
+adaptador telefónico analógico
+adaptador USB
+adaptador usb c
+adaptador USB WiFi
+adaptador WiFi
+adaptador wireless
+adaptadores
+adaptadores rf elements
+adaptadores twistport
+adaptadores usb
+adaptadores wi-fi
+adaptadores wireless
+adlist
+administración
+administración simplificada
+administrador
+administrador de puertos
+AES67
+agregación de enlaces
+agrícola
+agricultura
+ahd
+ahorro ancho de banda
+AI Multi Sensor 4
+airCube
+airfiber
+airfiber 60
+airfiber 60-xg
+airmax
+airvision
+AL117 A
+alarma
+alarma en hogares
+alarma en negocios
+alcance
+alfa
+alfa network
+algorimo
+algoritmo de aprendizaje profundo
+alimentación PoE
+alimentación redundante
+alimentación redundante en caliente
+almacén
+almacenamiento
+ALMC1308U-868
+alta definición
+alta densidad
+alta gama
+alta precision
+alta velocidad
+altas prestaciones
+altavoces
+altavoz
+ampliar-cobertura-wifi
+ampliar-wifi
+análisis de la red
+analisis metadatos
+analógico
+analogico
+ancho de banda
+android
+android 12
+angulos muertos
+anidación
+año nuevo
+anpr
+antena
+antena alta ganancia
+antena de bocina
+antena de corneta
+antena de panel
+antena direccional
+antena externa
+antena horn
+antena mikrotik
+antena ominireccional
+antena omnidireccional
+antena parabólica
+antena sectorial
+antena yagui
+antenas
+antenas alfa
+antenas horn
+antenas internas
+antenas lora
+antenas mikrotik
+antenas omni
+antenas omnidireccionales
+antenas rubber
+antenas sectoriales
+antenas sectoriales integradas
+antenna
+antivandálica
+antivandalico
+antivirus
+AOA-868-2ACM
+AOA-868-5ACM
+ap
+ap cambium
+ap de interior
+ap interior
+AP mikrotik
+apertura de puertas
+apilado
+apilamiento
+APOLLO BP3EW-4G
+app
+Application Behavior Control
+aprovisionamiento zero touch
+ar303
+ar720
+ar730
+aramarios profundos
+armarios rack
+asignación de vlans
+asimetricas
+asistente configuracion
+asterisk
+ata
+ATL 5G R16
+audio
+audio hd
+audioconferencia
+audiovisuales
+auditoria wifi
+auricular
+auricular biaural
+auricular bluetooth
+auricular de diadema
+auricular de pinganillo
+auricular dect
+auricular monoaural
+auricular para recepción
+auricular para secretaria
+auricular profesional
+auricular secreatía
+auricular telefonía
+auricular telefónico
+auricular yealink
+auriculares
+auriculares DECT
+auriculares inalámbricas
+auriculares inalámbricos
+auriculares usb
+autofirma
+autonomía
+autónomo
+autónomos
+av
+AWUS036EACS
+ax pro
+axpro
+back to home
+backhaul
+backhaul inalámbrico
+bajo consumo
+baliza
+baliza v16
+base
+base de datos
+base dect
+base dect ip
+base grandstream
+base monocelda
+base multicelda
+bases dect
+batería
+batería integrada
+bateria inteligente
+batería larga duración
+baterial
+beamforming
+bh70
+bh71
+bh72
+bh74
+bh76
+biometrico
+black friday
+bluetooh
+bluetooth
+bocina
+BOE
+bridge
+BTH
+building-to-building
+bullet
+busqueda coches
+búsqueda de IA
+busqueda forense
+busqueda personas
+busqueda personas y coches
+busqueda vehiculos
+byom
+C3NP
+C5+
+C5S
+C6NP
+cable
+cable de cobre
+cable de exterior
+cable de red
+cable híbrido
+cableado
+cables
+calidad de imagen
+calidad de servicio
+calidad del aire
+calidad sonido
+call center
+call-center
+callcenter
+cámara
+camara
+cámara analógica
+cámara bullet
+camara bullet
+cámara coche
+cámara con IA
+cámara con inteligencia artificial
+camara conduccion
+camara conexion inalambrica
+cámara dahua
+camara de seguridad
+cámara de videovigilancia
+cámara doméstica
+cámara domo
+camara dsm
+camara dual
+cámara erize
+cámara exterior
+camara exterior
+camara ezviz
+Cámara G6 Pro Bullet
+cámara hikvision
+cámara hogar
+camara inalambrica
+camara infrarroja
+cámara interior
+camara ip
+camara minidomo
+cámara motorizada
+camara ojo de pez
+camara panoramica
+cámara ptz
+camara ptz
+camara sin conexion
+camara sin electricidad
+camara sin internet
+camara solar
+cámara solar
+camara solar 4g
+cámara stock
+Cámara térmica
+camara termica solar
+camara termica solar e inalambrica
+cámara tráfico
+cámara vehículo
+cámara vehículos
+cámara videovigilancia
+cámara vigilancia coche
+cámara wifi
+camara wifi
+camara wifi hilook
+camara wireless
+cámaras
+camaras anpr
+camaras colorvu
+cámaras dahua
+camaras dahua
+cámaras de mano
+cámaras de seguridad
+cámaras de videovigilancia
+camaras hikvision
+cámaras IP
+camaras ip
+Cámaras IP Serie 3
+cámaras pt
+cámaras PTZ
+camaras ptz
+camaras ptz dahua
+camaras solares
+cámaras térmicas
+camaras termograficas
+camaras tiandy
+camaras tioc
+camaras tioc dahua
+camaras videovigilancia
+cambios wifi
+cambium
+cambium en español
+cambium epmp
+cambium epmp force 400
+Cambium Networks
+cambium networks español
+cambium punto a multipunto
+cambium webinar
+canal
+canal de YouTube
+canales
+cancelación de ruido
+cancelacion de sonido
+cancelacion ruido
+cap xl
+cap xl mikrotik
+capa 2
+capa 2+
+capa 3
+capa 3 de agregación
+capa 7
+capacidades
+capacitación
+capara ip solar
+capsman
+características
+cargador
+carril din
+cascos
+caso de exito
+caso de exito mikrotik
+casos de exito
+castellano
+cat 4
+cat 6a
+cat 7
+cat-m
+cat5e
+cat6
+cat8
+catálogo
+catálogo Dahua
+catálogo grandstream
+categoria 6a
+categoría 8
+CC EAL3+
+ccr
+CCR1036-8G-2S+
+CCR1072-1G-8S+
+CCR2004-16G2S+PC
+ccr2116-12g-4S+
+CCR2216
+cctv
+central de alarma
+central de alarma axpro
+central de alarma hikvision
+centralita
+centralita + firewall + router + wifi
+centralita basada en asterisk
+centralita cloud
+centralita configurable
+centralita en la nube
+centralita en movil
+centralita escalable
+centralita grandstream
+centralita grandtream
+centralita ip
+centralita ip p550
+centralita ip yeastar
+centralita modular
+centralita nube
+Centralita PBX Grandstream
+centralita pequeña empresa
+centralita pequeñas empresas
+centralita pyme
+centralita pymes
+centralita s20
+centralita sencilla
+centralita sofware
+centralita telefónica
+centralita UCM
+Centralita yeastar
+centralitas
+centralitas grandstream
+certificación
+certificacion
+certificación españa
+certificacion español
+certificación microsoft
+certificación microsoft teams
+certificación mikrotik
+certificacion mikrotik
+certificación mikrotik españa
+certificación oficial
+certificacion oficial
+certificacion zoom
+certificacion zoom phone
+certificaciones
+certificaciones oficiales
+certificaciones oficiales mikrotik
+certificados autofirmados
+cesta de navidad
+chateau 5g ax r17
+Chateau LTE7 ax
+ciberseguridad
+Cisco
+CLAIRÉ
+clasificación del tráfico
+clientes simultáneos
+cloud
+cloud care router
+cloud lancom
+cloud pbx
+cluster
+cluster computacional
+cluster de quimica computacional
+cme mikrotik
+CME22-2n-BG77
+CNAF
+cnmaestro
+cnmaestro X
+cnMatrix
+cnPilot
+cnvisión
+cnvision
+cnWave
+cnWave cambium
+cnwave60Ghz
+co2
+coaxial
+cobertura
+cobertura ampliada
+cobertura wifi
+cobertura-wifi
+códec
+codificación
+codificación de vídeo Dahua
+colaboracion
+colas
+colas de prioridad
+colorVy hikvision
+cómo crear mapas de calor
+como crear un voucher
+como hacer un enlace ptp
+compacta
+compacto
+comparativa puntos grandstream
+compatibilidad adptadores antenas
+compatibilidad navegador
+compatible todos operadores
+componentes de red
+comprar cambium
+comprar engenius
+comprar RF elements
+comprar ubiquiti
+comprar unifi
+compras +1500 €
+compresión de vídeo
+comunicación
+comunicacion bidireccional
+comunicación empresas
+comunicacion unificada
+comunicacion unificad

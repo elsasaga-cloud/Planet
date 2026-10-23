@@ -1,0 +1,441 @@
+# SA-030 americanfibertek.com · news_1 · https://americanfibertek.com/assets/Interlogix-AFI-Cross-Ref.htm · fetched 2026-10-23T04:20:51Z · HTTP 200
+Interlogix to AFI Cross Reference
+➡️
+MEDIA CONVERSION
+Category
+Interlogix Model
+AFI Model
+Notes
+Fast Ethernet
+MCR205-1T/1S
+MX-1G
+Open SFP Port
+MX-46-FX-XX
+Fixed SC or ST connector (replace XX with SC or ST)
+MC250-1T/1S
+MX-1G
+Open SFP Port
+MX-46-FX-XX
+Fixed SC or ST connector (replace XX with SC or ST)
+MC100FX-TX-PoE
+MX-1G-PoE+
+Open SFP Port
+MX-46-FX-XX-PoE+
+Fixed SC or ST connector (replace XX with SC or ST)
+MC201-1P/1FS
+MX-1G-PoE+
+Open SFP Port
+MX-46-FX-SL-XX-PoE+
+Fixed SC or ST connector (replace XX with SC or ST)
+MC250-4T/2S
+MX-6p-FX
+AFI unit has (2) SFP
+ports
+MC251-4P/1S
+MX-6p-FX-PoE
+MC-4TX2FX
+MX-6p-FX
+AFI
+unit has (2) SFP ports
+MC250-4T/1FM
+MX-6p-FX
+MC250-4T/1FS
+MX-6p-FX
+Gigabit
+Ethernet
+MCR300-1T/1S
+MX-1G
+Open SFP Port
+MX-48-LX-XX
+Fixed SC or ST connector (replace XX with SC or ST)
+MCR300-1T-2S
+MX-1G
+Open SFP Port
+MX-48-LX-XX
+Fixed SC or ST connector (replace XX with SC or ST)
+MC355-1T/1S
+MX-1G
+Open SFP Port
+MX-48-LX-XX
+Fixed SC or ST connector (replace XX with SC or ST)
+MC352-1P/1S
+MX-1G-PoE+
+Open SFP Port
+MX-48-LX-XX-PoE+
+Fixed SC or ST connector (replace XX with SC or ST)
+MC350-1T-2S
+MX-1G
+Open SFP Port
+MX-48-LX-XX
+Fixed SC or ST connector (replace XX
+with SC or ST)
+D7120 Series
+46 Series
+MC350-4T-2S
+MX-6p
+AFI unit has (2) SFP ports
+MC352-4P/2S
+MX-6p-PoE
+Indicates PoE
+Italics indicate IFS Commercial Grade
+NOTES:
+1.
+IFS Commercial Grade temperature range is 0°C to 50°C, Industrial
+Grade -40°C to 75°C
+2.
+All AFI units are Industrial Grade, -40°C to 75°C
+3.
+AFI products carry a Limited Lifetime Warranty, IFS Warranty is 3
+years
+NOTE: For all audio, video and
+data products crosses, when replacing an IFS part with an AFI part, both ends
+of the link will need to be replaced.
+VIDEO, VIDEO + DATA
+Category
+Interlogix Model
+AFI Model
+Notes
+FM Video
+VR1100
+MRM-301CE
+VT11010MPS-12DC
+MTM-301CE
+VT4010
+MTM-301CE
+VR4010-R3
+RRM-301C
+VR4030-R3
+RRM-301C
+S700VT-EST
+MTM-301CE
+S700VR-EST
+MRM-301CE
+S700VT-RST
+RTM-301CE
+S700VR-RST
+RRM-301CE
+VT4030M
+MTM-301CE-S
+AFI
+also offers a 3-channel / 3-fiber transmitter and receiver.
+VR4030-R3
+RRM-301C-S
+Digital Video
+VT14120
+MTM-910
+AFI also offers a
+2-channel / 2-fiber receiver.
+VR4030
+MRM-910
+VT14120
+MTM-910SL-ST
+VR14130
+MRM-910SL-ST
+Video with PTZ
+Control, One-Way Data
+S731 SERIES
+915C SERIES
+The AFI unit is
+two-way multi-protocol data plus contact closure.
+VT1500WDM
+MT-915C
+VR1500WDM
+MR-915C
+VT1520WDM
+MT-915C
+VR1520WDM
+MR-915C
+VT1530WDM
+MT-915C-SL
+VR1530WDM
+MR-915C-SL
+Video with PTZ
+Control, Two-Way Data
+VT1910WDM
+MTM-1400
+VR1910WDM
+MRM-1400
+VT1920WDM
+MT-1400E
+VR1920WDM
+MR-1400E
+VT1930WDM
+MTM-3400C
+VR1930WDM
+MRM-3400C
+Video with PTZ
+Control, Up-the-Coax Data
+VT1505
+MTM-1605
+AFI only offers a 1-fiber solution
+VR1505
+MRM-1605
+1505 Series
+1605p Series
+Panasonic
+compatible
+VT1505WDM
+MTM-1605
+VR1505WDM
+MRM-1605
+S739DVR Series
+1605 Series
+VT1535WDM
+MT-1600E
+VR1535WDM
+MR-1600E
+VDT1535WDM
+MTM-3600C
+VDR1535WDM
+MRM-3600C
+Digital Video with
+PTZ Control, Two-Way Data
+VDT14120WDM
+MT-915C
+The AFI unit is
+multi-protocol data plus contact closure.
+VDR14120WDM
+MR-915C
+VDT14130WDM
+MT-915C-SL
+VDR14130WDM
+MR-915C-SL
+2-Channel Video
+Multiplexers, Video Only
+VT2010
+MT-220C-12VDC
+VR2010
+MR-220C-12VDC
+VT7220
+MT-920C
+VR7220
+MR-920C
+7220 Series
+925C Series
+VT7230
+MT-920C-SL
+VR7230
+MR-920C-SL
+4-Channel Video
+Multiplexers, Video Only
+VT6010
+MT-404C-12VDC
+VR6010
+MR-404C-12VDC
+6010 Series
+945C Series
+VT7420
+MT-940C
+VR7420
+MR-940C
+S704 Series
+940C Series
+VT7430
+MT-940C-SL
+VR7430
+MR-940C-SL
+8-Channel Video
+Multiplexers, Video Only
+VT7820
+MT-980C
+VR7820
+MR-980C
+S706 Series
+980C Series
+VT7830
+MT-980C-SL
+VR7830
+MR-980C-SL
+16-Channel Video
+Multiplexers, Video Only
+VT71620-R3
+MRT-91600C
+AFI offers a
+16-channel solution in singlemode, along with a 24, 32, 40, and 48-channel
+solution in both multimode and singlemode.
+VR71620-R3
+MRR-91600C
+2-Channel Video +
+Data Multiplexers
+VT7220-2DRDT
+MT-925C
+VR7220-2DRDT
+MR-925C
+VT7230-2DRDT
+MT-925C-SL
+VR7230-2DRDT
+MR-925C-SL
+4-Channel Video +
+Data Multiplexers, Contact Closure
+VT6010-DRDT
+MT-945C
+VR6010-DRDT
+MR-945C
+VT7420-2DRDT
+MT-945C
+VR7420-2DRDT
+MR-945C
+VT7430-2DRDT
+MT-945C-SL
+VR7430-2DRDT
+MR-945C-SL
+S734 SERIES
+946C SERIES
+946C/946C-SL Series supports 1 contact closure, S734/S7734
+Series supports 4 contact closures
+S7734 SERIES
+946C-SL SERIES
+8-Channel Video +
+Data Multiplexers
+VT7820-2DRDT
+MT-985C
+VR7820-2DRDT
+MR-985C
+VT7830-2DRDT
+MT-985C-SL
+VR7830-2DRDT
+MR-985C-SL
+16-Channel Video +
+Data Multiplexers
+VT71630-2DRDT-R3
+MTX-91685C-SL
+Multimode soluion
+available. Also available is a 24, 32, 40, and 48-channel solution.
+VR71630-2DRDT-R3
+MRX-91685C-SL
+Indicates singlemode
+NOTE: AFI also offers an
+extensive line of multi-channel video, audio, data, contact closure, and
+ethernet products in both multimode and singlemode, 1 fiber solution.
+NOTE: For all audio, video and
+data products crosses, when replacing an IFS part with an AFI part, both ends
+of the link will need to be replaced.
+DATA, TELEPHONE, AUDIO
+Category
+Interlogix Model
+AFI Model
+Notes
+Data
+- RS232/422/ Multiprotocol
+D1010
+MX-480-ST
+The AFI unit is RS232/422/485 & Manchester
+D1010WDMA
+MTX-480-ST
+D1010WDMB
+MRX-480-ST
+D1030
+MX-480-SL-ST
+D1030WDMA
+MTX-480-SL-ST
+D1030WDMB
+MRX-480-SL-ST
+VR1920WDM Series
+1400E Series
+S711D Series
+MX-480-SL-ST
+S7711D Series
+MX-480-SL-XX
+Data - RS232/422
+Drop-and-Repeat
+D2100
+MX-483T-1F-ST
+The AFI solution is
+RS232 only.
+D2100WDM
+MX-483T-ST
+D2125
+MX-483T-1F-SL-ST
+Data -
+RS485 2-Wire
+D1300
+MX-480-ST
+The AFI unit is RS232/422/485
+D1300WDMA
+MTX-480-ST
+D1300WDMB
+MRX-480-ST
+D1320
+MX-480-ST
+D1325
+MX-480-SL-ST
+Data RS485
+Drop-and-Repeat
+D2300
+MX-481T-ST
+AFI offers a 1 or
+2-fiber solution.
+D2320
+MX-481T-ST
+D2325
+MX-481T-1F-SL-ST
+Data -
+RS485 4-Wire
+D1315
+MX-480-ST
+The AFI unit is RS232/422/485
+D1315WDMA
+MTX-480-ST
+D1315WDMB
+MRX-480-ST
+D1315-SM
+MX-480-SL-ST
+Contact Closure 2-Way
+D1810
+MX-489-ST
+AFI offers a 1 or
+2-fiber solution in multimode or singlemode.
+N/A
+MX-489-SL-ST
+8-Channel Contact
+Closure
+DT3010
+MT-81 or MT-88
+DR3010
+MR-81 or MR-88
+DT3020
+MT-81 or MT-81
+DR3020
+MR-81 or MR-88
+DT3025
+MT-81SL or MT-88SL
+DR3030
+MR-81SL or MT-88SL
+Touchtone Telephone
+Interface
+TT3020WDM
+MT-86C
+AFI system includes a
+contact closure
+TR3020WDM
+MR-86C
+TT3030WDM
+MT-86C-SL
+TR3030WDM
+MR-86C-SL
+Audio One Way
+AT1000
+MT-05E
+AR1000
+MR-05E
+AT1025
+MT-05E-S
+AR1030
+MR-05E-S
+Audio Two Way
+AR2010WDMA
+MT-9P8
+AR2010WDMB
+MR-9P8
+Indicates singlemode
+NOTE: AFI offers an extensive line of additional
+contact closure configurations, such as 4-ch/2-way, 8-ch/2-way, 8-ch
+supervised, and 16-ch.
+NOTE: AFI offers products
+in an -R3 rack card version. Please contact us for details.
+NOTE:
+For Rack Card versions of AFI products, change the first letter in the part
+number from M to R
+NOTE: For all audio, video and
+data products crosses, when replacing an IFS part with an AFI part, both ends
+of the link will need to be replaced.

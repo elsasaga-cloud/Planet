@@ -1,0 +1,4 @@
+# SB-476 octogate.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxJqegYxobUfM0FG_nPBFLg · fetched 2026-10-23T04:20:51Z · HTTP 404
+Error 404 (Not Found)!!1
+404. That’s an error.
+The requested URL /feeds/videos.xml?channel_id=UCxJqegYxobUfM0FG_nPBFLg was not found on this server. That’s all we know.

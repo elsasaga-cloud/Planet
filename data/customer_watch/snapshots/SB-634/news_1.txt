@@ -1,0 +1,266 @@
+# SB-634 avanis.de · news_1 · https://avanis.de/news · fetched 2026-10-23T04:20:51Z · HTTP 200
+Neuigkeiten und Fachartikel - Avanis Blog
+document.getElementById(forward)?.focus());
+return;
+}
+if(backward != '' && event.shiftKey) {
+event.preventDefault();
+$nextTick(() => document.getElementById(backward)?.focus());
+return;
+}
+},
+}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
+English
+Service & Downloads
+Home
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/ueber-uns');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-avanis-red' : ''">
+Unternehmen
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/netzwerk');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-avanis-red' : ''">
+Netzwerk
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/wlan');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '3' ? 'border-b-2 border-avanis-red' : ''">
+WLAN
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/sicherheit');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-avanis-red' : ''">
+Sicherheit
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+English
+Home
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Unternehmen
+Über Uns
+Team
+Karriere
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Netzwerk
+KTI Networks
+Edgecore
+Netsys
+SlimWire
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+WLAN
+Ekahau
+Produkte
+Dienstleistungen
+Airista
+Branchen
+Produkte
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Sicherheit
+Fortinet
+Lancom
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+Über Uns
+Erfahre mehr über unsere Mission
+Team
+Lerne unser Team kennen
+Karriere
+Werde Teil unseres Teams
+KTI Networks
+Medienkonverter, Switches und Industrial Ethernet
+Edgecore
+Netzwerkverteilung für Office und KMU
+Netsys
+VDSL2 - die Zweidrahtlösung
+SlimWire
+Das ultraflache Patchkabel
+Ekahau
+WLAN-Netzwerke richtig planen
+Produkte
+Dienstleistungen
+Airista
+Echtzeitortung von Personen und Objekten
+Branchen
+Produkte
+Fortinet
+Die High-End-Sicherheitslösung vom Weltmarktführer
+Lancom
+Das Sicherheitskonzept "made in Germany"
+Welttag der Patientensicherheit 2026
+Von: Inga Müller | 16.09.2026
+Wie RTLS-Technologie chronisch Kranke schützt und Pflegekräfte entlastet
+Mehr erfahren
+WLAN: Unsichtbar, aber für die moderne IT-Infrastruktur in Unternehmen essentiell
+Von: Inga Müller | 14.07.2026
+Moderne WLAN-Planung für Unternehmen: Erfahren Sie, welche Herausforderungen bei der Planung von WLAN-Netzwerken entstehen und wie sie gelöst werden.
+Mehr erfahren
+Tag der Pflege 2026: Zeit für das Wesentliche - dank smarter Technik
+Von: Inga Müller | 11.05.2026
+Zum Tag der Pflege 2026: Wie AiRISTA-Echtzeit-Ortungssysteme Pflegekräfte entlasten, die Patientensicherheit erhöhen – und Avanis als zertifizierter Partner bei der Umsetzung unterstützt.
+Mehr erfahren
+Welt-Passwort-Tag 2026: Ist Ihr Unternehmen bereit für die Post-Passwort-Ära?
+Von: Inga Müller | 06.05.2026
+Zum Welt-Passwort-Tag 2026: Warum schwache Passwörter noch immer ein Risiko sind und wie Fortinet-Lösungen Ihr Unternehmen effektiv absichern.
+Mehr erfahren
+Welttag für Sicherheit und Gesundheit am Arbeitsplatz
+Von: Inga Müller | 28.04.2026
+Moderne Arbeitssicherheit neu gedacht: Erfahren Sie, wie KI-gestützte Technologien wie AIRSTA Arbeitsplätze sicherer, effizienter und resilienter machen – von Echtzeit-Notfallhilfe bis smarter Ressourcenplanung.
+Mehr erfahren
+Avanis erhält Bonitätszertifikat von Creditreform
+Von: Inga Müller | 27.01.2026
+Creditreform bescheinigt uns eine ausgezeichnete Bonität und Finanzlage. Vertrauen Sie auf einen stabilen Partner für Ihre IT-Projekte.
+Mehr erfahren
+NEU eingetroffen: KTI-Switches für‘s Office & PoE-Anwendungen
+Von: Inga Müller | 08.01.2026
+Entdecken Sie die neuen KTI-Switches für Office & PoE: Der KGS-1021 für Gigabit-Vernetzung und der KGS-1020-HP mit 130W PoE-Power. Jetzt bei Avanis informieren!
+Mehr erfahren
+Lernen Sie Sofia kennen
+Von: Inga Müller | 30.09.2025
+Die neue, intuitive Benutzeroberfläche von AiRISTA für präzise Echtzeitortung (RTLS) von Personen und Objekten. Jetzt bei Avanis entdecken!
+Mehr erfahren
+NEU: SlimWire jetzt mit Cat7-Standard
+Von: Inga Müller | 21.07.2025
+Entdecken Sie das ultraflache Cat7-Patchkabel für 10 Gigabit Ethernet und PoE bis 90W. Maximale Leistung auf kleinstem Raum – jetzt bei Avanis!
+Mehr erfahren
+FortiAnalyzer - Effektiver Schutz vor Cyberangriffen
+Von: Inga Müller | 03.06.2025
+Zentralisierte Bedrohungserkennung und KI-gestützte Analyse für Ihre Fortinet Security Fabric. Schützen Sie Ihr Netzwerk effizient vor Cyberangriffen. Jetzt lesen!
+Mehr erfahren
+Neue Ortungs-Tags für Personen und Objekte unterstützen BLE
+Von: Inga Müller | 08.05.2025
+Neue AiRISTA e-Serie: Ortungs-Tags für Personen und Objekte mit BLE- und WLAN-Support. Entdecken Sie präzise Echtzeitortung und längere Akkulaufzeiten bei Avanis.
+Mehr erfahren
+Treffen Sie uns auf der DMEA I 8-10 APR 2025, Berlin
+Von: Inga Müller | 27.03.2025
+Avanis auf der DMEA 2025 in Berlin: Erleben Sie gemeinsam mit AiRISTA innovative RTLS-Lösungen für das Gesundheitswesen. Besuchen Sie uns in Halle 2.2, Stand D-103!
+Mehr erfahren
+Der neue Avanis-Katalog ist da
+Von: Inga Müller | 05.03.2025
+Der neue Avanis-Katalog 25/26 ist da! Entdecken Sie aktuelle Netzwerk-Trends, detaillierte Produkt-Keyfacts und exklusive Online-Vorteile. Jetzt digital durchblättern!
+Mehr erfahren
+Spannende Berufe in der IT beim Digital Day 2025
+Von: Inga Müller | 05.03.2025
+Digital Day 2025 bei Avanis: Schüler erleben spannende IT-Berufe hautnah. Einblicke in echte IT-Praxis: Von der IP-Konfiguration über Netzwerktechnik bis hin zum digitalen Marketing. Jetzt den Rückblick lesen!
+Mehr erfahren
+Avanis beim Bielefelder Digital Day 2025 – Ein Tag voller Einblicke in die IT-Welt! 🚀
+Von: Inga Müller | 13.02.2025
+Wir öffnen unsere Türen für Schüler! Erlebe praxisnahe Einblicke in IT-Berufe, moderne Netzwerktechnologien und interaktive Sessions.
+Mehr erfahren
+Advent-Moment: Auf Social Media gibt’s jetzt mehr von uns…
+Von: Inga Müller | 29.11.2024
+Advent bei Avanis: Erleben Sie unsere „Advent-Momente“ auf Social Media! Freuen Sie sich auf exklusive Einblicke hinter die Kulissen, festliche Überraschungen und vieles mehr.
+Mehr erfahren
+Avanis auf der FMB 2024: Inspirierende Tage und bereichernde Gespräche
+Von: Inga Müller | 24.09.2024
+Erfahren Sie mehr über unsere Messe-Highlights in Bad Salzuflen. Entdecken Sie innovative IT-Infrastruktur-Lösungen für den modernen Maschinenbau.
+Mehr erfahren
+Treffen Sie uns auf der FMB
+Von: Inga Müller | 23.09.2024
+Entdecken Sie zukunftsweisende IT-Infrastruktur-Lösungen für den Maschinenbau und vernetzen Sie sich mit unseren Expertenin Bad Salzuflen!
+Mehr erfahren
+Neue Switch-Serie von Edge-Core: ECS-4650
+Von: Inga Müller | 24.08.2024
+Entdecken Sie die Edge-Core ECS-4650 Serie: Layer 3 Gigabit Switches mit 25G SFP28 Uplinks und bis zu 90W PoE pro Port. Maximale Performance für Campus-Netzwerke!
+Mehr erfahren
+Netzwerk über Telefonkabel: Netsys bringt neuen VDSL2-Konverter an den Start!
+Von: Inga Müller | 02.08.2024
+Entdecken Sie den Netsys NV-520G VDSL2-Konverter. Übertragen Sie bis zu 160 Mbps über vorhandene Zweidrahtleitungen bis zu 3 km weit.
+Mehr erfahren
+Willkommen im Team
+Von: Inga Müller | 10.08.2023
+Zuwachs bei Avanis: Wir begrüßen unsere vier neuen Auszubildenden! Erfahren Sie mehr über den Karrierestart in den Bereichen IT-Systemmanagement, Marketing und Technik.
+Mehr erfahren
+Glückwunsch: Unser Azubi Anton Paul hat seine Abschlussprüfung bestanden!!
+Von: Inga Müller | 22.06.2023
+Unser Azubi Anton Paul hat seine Abschlussprüfung zum Fachinformatiker für Anwendungsentwicklung bestanden! Wir gratulieren herzlich zum Karrierestart im Team.
+Mehr erfahren
+G.fast: 10 mal schneller als VDSL2 - bei fast doppelter Reichweite
+Von: Inga Müller | 16.07.2020
+G.fast bei Avanis: Erleben Sie bis zu 10-mal schnellere Datenraten als mit VDSL2. Nutzen Sie vorhandene Kupferleitungen für Highspeed-Netzwerke mit bis zu 1 Gbps. Jetzt lesen!
+Mehr erfahren
+Grundsteinlegung an der Meisenstraße
+Von: Inga Müller | 29.11.2019
+Meilenstein für Avanis: Grundsteinlegung an der Meisenstraße! Erfahren Sie mehr über unseren Neubau in Bielefeld und die Erweiterung unserer Kapazitäten für die Zukunft.
+Mehr erfahren
+Fünf auf einen Streich!
+Von: Inga Müller | 18.09.2019
+Fünf auf einen Streich: Avanis begrüßt fünf neue Auszubildende im Team! Erfahren Sie mehr über unsere Nachwuchsförderung und den Karrierestart in der IT-Distribution.
+Mehr erfahren
+Wie Schulen mit dem DigitalPakt nachhaltig in das Klassenzimmer von morgen investieren können
+Von: Inga Müller | 14.08.2019
+Wir unterstützen Bildungseinrichtungen bei der Modernisierung ihrer IT-Infrastruktur. Erfahren Sie, wie Avanis Schulen bei der Planung und Umsetzung hilft.
+Mehr erfahren
+Ekahau Connect: Die All-in-One-Produktsuite für das beste WLAN
+Von: Inga Müller | 16.04.2019
+Die All-in-One Lösung für professionelles WLAN. Erfahren Sie alles über WLAN-Planung, Analyse und Fehlerbehebung mit Survey, Sidekick und Cloud-Integration.
+Mehr erfahren
+So schützen sich Pfleger und Schwestern vor Angriffen
+Von: Inga Müller | 29.10.2018
+Sicherheit im Pflegealltag: Erfahren Sie, wie moderne Personen-Notsignal-Systeme Pflegekräfte vor Übergriffen schützen und im Ernstfall schnell Hilfe herbeirufen.
+Mehr erfahren
+Tatort Krankenhaus
+Von: Inga Müller | 09.10.2018
+Wie Echtzeitortung (RTLS) Pflegepersonal vor Angriffen schützt. Erfahren Sie, wie WLAN-basierte Notrufsysteme in Kliniken für schnelle Hilfe sorgen.
+Mehr erfahren
+Lokalisierung in Echtzeit
+Von: Inga Müller | 23.01.2018
+Erfahren Sie, wie WLAN-basierte Ortungssysteme (RTLS) Arbeitsprozesse optimieren und die Sicherheit in Kliniken sowie Industrie erhöhen. Jetzt lesen!
+Mehr erfahren
+Gemeinsam Verantwortung übernehmen
+Von: Inga Müller | 21.12.2017
+Wir unterstützen regionale Projekte in Bielefeld und NRW, von der Johanniter-Unfall-Hilfe bis zum Theatermobil. Erfahren Sie mehr!
+Mehr erfahren
+Avanis ist Fortinets „Newcomer of the Year 2017“
+Von: Inga Müller | 24.11.2017
+Avanis ist Fortinets „Newcomer of the Year 2017“! Erfahren Sie mehr über unsere preisgekrönten Security-Lösungen und unser Großprojekt im Health-Care-Sektor.
+Mehr erfahren
+Ekahau Site Survey 9.0: Jetzt auch für MAC OS
+Von: Inga Müller | 24.08.2017
+Jetzt auch für macOS! Entdecken Sie neue Features wie individuelle Kapazitätsprofile und den optimierten Autoplaner für perfekte WLAN-Planung.
+Mehr erfahren
+Belastbarer Netzwerkprofi sucht neue Herausforderung in kritischer IT-Umgebung
+Von: Inga Müller | 09.08.2016
+Edge-Core ECS-4120: Der belastbare Gigabit-Switch für kritische IT-Umgebungen. Mit OAM-Zertifizierung, 10G Uplinks und hoher Flexibilität für ISPs und Campus-Netze.
+Mehr erfahren
+Lichtruf und Echtzeit-Ortung miteinander kombinieren: ERA macht´s möglich!
+Von: Inga Müller | 12.02.2016
+Effizienter Patientenschutz: Der ERA (ESPA RTLS Adapter) verbindet klassische Lichtruf-Anlagen mit moderner WLAN-Echtzeit-Ortung. Maximale Sicherheit für Kliniken und Pflegeheime.
+Mehr erfahren
+Regisseur in großen VDSL2-Netzwerken: neuer DSLAM von Netsys
+Von: Inga Müller | 28.10.2015
+Netsys NV-1602S: Der 16-Port VDSL2 DSLAM für große Netzwerke. Nutzen Sie vorhandene Telefonkabel für Highspeed-Daten in Hotels, Parkhäusern und Industriehallen.
+Mehr erfahren
+Zweidraht – fertig – los: Die Vorteile von Telefonkabeln für das Netzwerk nutzen!
+Von: Inga Müller | 21.10.2015
+Netzwerk über Telefonkabel: Erfahren Sie, wie Sie mit VDSL2-Konvertern vorhandene Zweidraht-Leitungen für Highspeed-Internet nutzen und teure Neuverkabelungen sparen.
+Mehr erfahren
+Kosten senken - Sicherheit erhöhen
+Von: Inga Müller | 12.10.2015
+Erfahren Sie, wie Echtzeit-Lokalisierung (RTLS) Klinikpersonal schützt, Medizingeräte trackt und OP-Prozesse effizient optimiert.
+Mehr erfahren
+Kontakt
+Mo - Fr  - Uhr
+0521 26012 0
+info@avanis.de
+Anschrift
+Meisenstraße 79a
+33607 Bielefeld
+Impressum
+AGB
+Datensc

@@ -1,0 +1,11 @@
+# SB-774 ktinet.com.tw · feed_auto · https://www.ktinet.com.tw/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Tue, 13 Jan 2026 14:17:35 +0000	KSC-200 benefits & application	https://www.ktinet.com.tw/ksc-200-benefits-application-2/
+Tue, 13 Jan 2026 14:17:35 +0000	KSD-541 benefits & application	https://www.ktinet.com.tw/ksd-541-benefits-application-2/
+Tue, 13 Jan 2026 14:17:35 +0000	KSD-103 benefits & application	https://www.ktinet.com.tw/ksd-103-benefits-application-2/
+Wed, 27 Oct 2021 14:25:57 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application/
+Wed, 27 Oct 2021 10:26:01 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application-2/
+Wed, 27 Oct 2021 10:26:01 +0000	KPOE-800 benefits & application	https://www.ktinet.com.tw/kpoe-800-benefits-application-2-2/
+Thu, 12 Aug 2021 07:57:14 +0000	New firmware v1.02 release for KGS-510F-D	https://www.ktinet.com.tw/new-firmware-v1-02-release-for-kgs-510f-d/
+Mon, 19 Apr 2021 08:03:38 +0000	New Firmware v1.08 release for KC-1300	https://www.ktinet.com.tw/new-firmware-v1-08-release-for-kc-1300/
+Tue, 30 Mar 2021 08:06:16 +0000	New Firmware v1.029 release for KGC-310M Ver.C	https://www.ktinet.com.tw/new-firmware-v1-029-release-for-kgc-310m-ver-c/
+Tue, 26 Jan 2021 14:37:09 +0000	Failure Relay Output for KGD-802	https://www.ktinet.com.tw/failure-relay-output-for-kgd-802/

@@ -1,0 +1,149 @@
+# SB-054 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Blog | Desecure Technology
+İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+444 76 49
+Çözümler AI Güvenlik Teknolojileri Görüntüyü güvenlik operasyonuna dönüştüren analiz
+Video Gözetim ve Akıllı Kamera Her saha için doğru kamera, doğru senaryo
+Çevre Güvenliği 3D LiDAR, entegre radar ve termal kamera
+Yangın Algılama ve Erken Uyarı Sıcaklık artışını alev oluşmadan görmek
+IoT ve Entegrasyon Sensörler, BESS ve çok lokasyon
+Tüm çözümler ->
+Hizmetler Alarm İzleme Merkezi 7/24 · 5188 7/24 doğrulama, müdahale ve raporlama
+Uzaktan Video İzleme Bağlantı, kayıt, VMS ve çok lokasyon altyapısı
+Tüm hizmetler ->
+Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD ve MİA; altyapısız sahalar
+Canlı İletişim Sahayla görüntülü ve çift yönlü sesli iletişim
+Tüm proaktif teknolojiler ->
+Sektörler Enerji ve Yenilenebilir SEKTÖREL ODAK RES, GES, BESS ve hibrit santraller
+Üretim ve Fabrika Çevre hattı, giriş kontrol, İSG ve yangın riski
+Sanayi ve OSB Çok tesisli bölgelerde ortak prosedür
+Lojistik ve Depolama Araç giriş çıkışı, yükleme alanı, açık saha
+Maden ve Saha Geniş açık saha, uzun çevre hattı, uzak lokasyon
+Havalimanı ve Liman Terminal alanları, araç ve ekipman takibi
+İnşaat ve Şantiye Altyapısız sahada mobil izleme birimleri
+Tüm sektörler ->
+Kurumsal Hakkımızda Kim olduğumuz, grup yapısı ve operasyon ağı
+Neden Desecure Saha deneyimi, 7/24 izleme ve kurulum sonrası destek
+Yaklaşımımız Olay olmadan önce yöneten proaktif model
+İletişim
+Kaynaklar Blog Teknik yazılar ve saha rehberleri
+Sıkça Sorulan Sorular Kaynaklı kısa cevaplar
+444 76 49 Teklif Al Menü Kapat Çözümler + Tüm çözümler ->
+AI Güvenlik Teknolojileri
+Video Gözetim ve Akıllı Kamera
+Çevre Güvenliği
+Yangın Algılama ve Erken Uyarı
+IoT ve Entegrasyon
+Hizmetler + Tüm hizmetler ->
+Alarm İzleme Merkezi
+Uzaktan Video İzleme
+Proaktif Teknolojiler + Tüm proaktif teknolojiler ->
+Mobil Güvenlik Sistemleri
+Canlı İletişim
+Sektörler + Tüm sektörler ->
+Enerji ve Yenilenebilir
+Üretim ve Fabrika
+Sanayi ve OSB
+Lojistik ve Depolama
+Maden ve Saha
+Havalimanı ve Liman
+İnşaat ve Şantiye
+Kurumsal + Kurumsal ->
+Hakkımızda
+Neden Desecure
+Yaklaşımımız
+İletişim
+Kaynaklar + Kaynaklar ->
+Blog
+Sıkça Sorulan Sorular
+20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+Ana Sayfa
+/ Kaynaklar
+/ Blog
+Kaynaklar
+Blog
+Güvenlik teknolojileri, alarm izleme, video analiz ve enerji tesisi güvenliği üzerine saha diliyle yazılmış teknik yazılar.
+Yazılar
+Enerji · 4 Ekim 2026
+EIF 2026 Antalya enerji fuarında Desecure Technology standında neler var?
+EIF Energy Expo 2026, enerji sektörünün buluştuğu fuardır ve 5-7 Kasım 2026'da ANFAŞ Antalya'da düzenlenir; önceki dönemde İstanbul'da yapılan fuar bu yıl Antalya'ya taşındı. Desecure Technology standında iki Mobil İzleme Kulesi, bir Mobil Alarm Standı, Desecure Vision V10 ve Desecure One sergileniyor. Bu yazı standdaki senaryo bazlı deneyimi, sahadan merkeze yaklaşımı ve enerjide odaklanılan alanları anlatır.
+-> Yazıyı oku
+Enerji · 17 Eylül 2026
+Enerji santrallerinde görüntü analizi hangi olayı nasıl yakalar?
+Enerji sahalarında kamera sayısını artırmak tek başına güvenlik üretmez. Belirleyici olan, görüntünün hangi senaryoya göre analiz edildiği ve üretilen alarmın kim tarafından doğrulandığıdır. Bu yazı, bir enerji sahasında hangi olayın nasıl yakalandığını ve doğrulama adımının yanlış alarm yükünü nasıl değiştirdiğini anlatır.
+-> Yazıyı oku
+Enerji · 17 Eylül 2026
+Enerji tesislerinde güvenlik operasyonunun yönetimi
+Birden fazla santrali olan bir enerji şirketinde zorluk, farklı sahalarda aynı standardı kurabilmektir. Bu yazı, merkezden izlemenin ne anlama geldiğini, müdahale süresini belirleyen unsurları ve sistem sürekliliğinin nasıl ölçülüp raporlandığını anlatır.
+-> Yazıyı oku
+Enerji · 17 Eylül 2026
+RES ve GES sahalarında çevre güvenliği: LiDAR, radar ve termal kamera
+Rüzgâr ve güneş santrallerinde çevre hattı kilometrelerce uzar, aydınlatma çoğu noktada yoktur ve saha büyük bölümüyle personelsizdir. Bu yazı, çevre güvenliğinde neden birden fazla teknolojinin birlikte kullanıldığını ve LiDAR, radar, termal kamera ile video analizinin sahada nasıl iş bölümü yaptığını anlatır.
+-> Yazıyı oku
+Alarm ve izleme · 30 Temmuz 2025
+Uzaktan izleme, CCTV, alarm ve fiziki koruma nasıl karşılaştırılır?
+Uzaktan izleme; kamera, yapay zeka destekli analiz ve 7/24 canlı operatör izlemesini tek hizmette birleştiren güvenlik modelidir. Bu yazı, uzaktan izlemeyi yalnız kayıt yapan CCTV, telefondan izleme, hırsız alarmı ve sahadaki güvenlik görevlisiyle dokuz ölçüt üzerinden karşılaştırır ve her seçeneğin hangi noktada yetersiz kaldığını gösterir.
+-> Yazıyı oku
+Yangın · 17 Mart 2025
+Yangın alarm sistemi nasıl test edilir, bakımı ne sıklıkla yapılır?
+Yangın alarm sisteminin gerçek bir yangında çalışması, düzenli bakım ve testlere bağlıdır. Bakımın ihmal edilmesi yanlış alarm, geç algılama ve sistem arızası olarak geri döner. Bu yazı günlükten yıllığa uzanan bakım periyotlarını, beş temel test prosedürünü, en sık görülen arızaları ve Binaların Yangından Korunması Hakkında Yönetmelik'in öngördüğü yükümlülüğü anlatır.
+-> Yazıyı oku
+Teknik sözlük · 29 Ocak 2025
+ONVIF nedir, güvenlik sistemlerinde neden önemlidir?
+ONVIF (Open Network Video Interface Forum), IP tabanlı fiziksel güvenlik cihazlarının birlikte çalışabilmesi için oluşturulmuş küresel bir standarttır. Farklı üreticilerin kamera, kayıt cihazı ve video yönetim yazılımlarının aynı platformda entegre çalışmasını hedefler. Bu yazı ONVIF profillerini, standardın sağladığı avantajları ve çok üreticili bir güvenlik sistemindeki yerini anlatır.
+-> Yazıyı oku
+Alarm ve izleme · 3 Eylül 2024
+Alarm sistemleri nelerdir ve tesislerde nasıl çalışır?
+Alarm sistemleri, sensörler aracılığıyla izinsiz giriş, yangın, gaz kaçağı ve acil durum gibi tehlikeleri algılayan ve bu durumlara hızlı müdahale imkânı sağlayan sistemlerdir. Bu yazı, tesislerde kullanılan altı temel alarm türünü, her birinin hangi riski hedeflediğini ve hangi algılama bileşenleriyle çalıştığını anlatır; alarmın değer üretmesi için neden izlenmesi gerektiğini de açıklar.
+-> Yazıyı oku
+Kamera ve video analiz · 26 Ağustos 2024
+Güvenlik kamerası seçerken nelere dikkat edilmeli?
+Bir tesis için güvenlik kamerası seçimi tek bir özelliğe değil, sahanın koşullarına göre birlikte değerlendirilen on ölçüte dayanır: kamera tipi, çözünürlük, gece görüşü, görüş açısı, kayıt altyapısı, hareket algılama, dış ortam dayanıklılığı, bağlantı türü, mobil erişim ve yatırım kapsamı. Bu yazı her ölçütün kurumsal bir sahada neyi değiştirdiğini anlatır.
+-> Yazıyı oku
+Teknik sözlük · 26 Ağustos 2024
+Güvenlik kamerasında fiber kablo kullanmanın avantajı nedir?
+Fiber optik kablo, güvenlik kamerasından gelen görüntüyü ışık sinyaliyle taşır. Bakır kabloya göre daha yüksek iletim hızı, uzun mesafede düşük sinyal kaybı ve elektromanyetik parazite karşı dayanıklılık sağlar. Bu yazı, fiber altyapının kamera sistemine yedi somut katkısını ve özellikle geniş sahalarda, endüstriyel tesislerde neden tercih edildiğini anlatır.
+-> Yazıyı oku
+Yangın · 23 Ağustos 2024
+Hangi sektörler yangın algılama sistemine ihtiyaç duyar?
+Yangın algılama sistemi, yangını erken tespit ederek kontrol altına alınmasını ve kayıpların en aza indirilmesini sağlar. İhtiyacın düzeyi ise sektöre göre değişir: yanıcı malzeme yoğunluğu, kritik ekipman ve binadaki insan sayısı riski belirler. Bu yazı sekiz sektörde yangın riskinin kaynağını ve erken tespitin neyi koruduğunu anlatır.
+-> Yazıyı oku
+Sektör ve çözüm · 21 Ağustos 2024
+Kritik altyapı güvenliğinde hangi yeni teknolojiler kullanılıyor?
+Kritik altyapı güvenliği; enerji, su, ulaşım ve sağlık gibi toplumsal yaşamın sürekliliği için vazgeçilmez tesislerin fiziksel varlıklarını korumaya yönelik güvenlik disiplinidir. Bu yazı, olaydan sonra tepki veren geleneksel yaklaşımdan riski önceden gören proaktif modele geçişi ve bu geçişi mümkün kılan yapay zeka, merkezi izleme ve akıllı sensör teknolojilerini anlatır.
+-> Yazıyı oku
+Teknik sözlük · 21 Ağustos 2024
+Wi-Fi kamera nedir, nasıl çalışır?
+Wi-Fi kamera, görüntü ve ses verisini kablosuz ağ bağlantısı üzerinden ileten güvenlik kamerasıdır. Kablolama ihtiyacını azalttığı için kurulumu pratiktir. Bu yazı Wi-Fi kameranın nasıl çalıştığını, hangi özellikleri taşıdığını, internet bağlantısının ne zaman gerektiğini ve kablosuz kameranın kurumsal bir tesisin güvenlik mimarisinde nasıl değerlendirildiğini anlatır.
+-> Yazıyı oku
+Teknik sözlük · 20 Ağustos 2024
+Ağ yönetim merkezi (NMC) nedir, ne işe yarar?
+Ağ yönetim merkezi (Network Management Center, NMC), bir kurumun ağ altyapısını tek bir noktadan izleyen, yöneten ve iyileştiren yapıdır. Ağ performansını izler, sorunları tespit edip çözer ve ağ kaynaklarını yönetir. Bu yazı NMC'nin temel işlevlerini, sağladığı avantajları, yapısını ve güvenlik sistemlerinde bağlantı sürekliliğiyle ilişkisini anlatır.
+-> Yazıyı oku
+Teknik sözlük · 20 Ağustos 2024
+DVR kayıt cihazı nedir ve analog kameralarla nasıl çalışır?
+DVR (Digital Video Recorder), güvenlik kameralarından gelen görüntüyü dijital formatta kaydeden ve saklayan video kayıt cihazıdır. Analog kameraların sinyalini dijitale çevirerek mevcut analog sistemlerin dijital kayda geçişini sağlar. Bu yazı DVR'nin temel özelliklerini, hareket algılama ve olay bazlı kayıt gibi işlevlerini ve kaydın merkezî izlemeye nasıl bağlandığını anlatır.
+-> Yazıyı oku
+Teknik sözlük · 20 Ağustos 2024
+NVR kayıt cihazı nedir ve IP kameralarla nasıl çalışır?
+NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp dijital olarak kaydeden video kayıt cihazıdır. Analog sinyali dönüştüren DVR'den farkı, görüntünün kameradan kayda kadar dijital kalmasıdır. Bu yazı NVR'nin nasıl çalıştığını, büyük ve çok lokasyonlu tesislerde neden tercih edildiğini ve kayıt cihazının merkezî izlemeye nasıl bağlandığını anlatır.
+-> Yazıyı oku
+Sektör ve çözüm · 31 Temmuz 2024
+Video analiz güvenlik sistemleri nasıl çalışır?
+Video analiz güvenlik sistemi, kamera görüntüsünü yapay zeka destekli algoritmalarla anlık değerlendiren ve olağan dışı bir durumda uyarı üreten gözetim teknolojisidir. Bu yazı, video analizin teknik temellerini, sistem seçerken bakılacak ölçütleri, kurumlara sağladığı faydaları ve lojistikten kritik altyapıya kadar farklı tesislerdeki kullanımını anlatır.
+-> Yazıyı oku
+Teknik sözlük · 3 Temmuz 2024
+Termal kamera nedir, ne işe yarar?
+Termal kamera, nesnelerin yaydığı kızılötesi ışınımı algılayarak sıcaklık farklarını görüntüye çeviren kameradır. Görünür ışığa ihtiyaç duymadığı için karanlıkta ve düşük görüş koşullarında görüntü üretir. Bu yazı termal kameranın çalışma prensibini, tesis güvenliğinde hangi işlerde kullanıldığını ve seçimde hangi özelliklere bakıldığını anlatır.
+-> Yazıyı oku
+Yangın · 2 Temmuz 2024
+Yangın alarm sistemleri ne işe yarar, hangi türleri vardır?
+Yangın alarm sistemi, duman ve ısı sensörleriyle yangını erken aşamada tespit eden ve hızlı müdahaleyi başlatan güvenlik sistemidir. Erken uyarı, can ve mal kaybını en aza indirmenin temel koşuludur. Bu yazı sistemin endüstriyel tesislerdeki önemini, başlıca sistem türlerini ve bir sistemi değerlendirirken bakılması gereken ölçütleri anlatır.
+-> Yazıyı oku
+Sektör ve çözüm · 29 Mayıs 2024
+Endüstriyel tesisler için ileri düzey VMS çözümleri ne sağlar?
+Video yönetim sistemi (VMS), çoklu kamera sistemlerini ve üçüncü parti yazılımları tek platformda birleştiren yazılımdır. Bu yazı, geniş alanlara yayılan endüstriyel tesislerde VMS'in izleme kapsamını, entegrasyonu, operasyonel verimliliği ve gece izlemesini nasıl etkilediğini; enerji tesisleri dahil kritik sahalarda neden temel bir bileşen olduğunu anlatır.
+-> Yazıyı oku
+Alarm ve izleme · 29 Mayıs 2024
+Gelişmiş alarm sistemleri işletmelere ne sağlar?
+Gelişmiş alarm sistemleri, hırsızlık, vandalizm ve sabotaj gibi tehditleri erken algılayan ve bir izleme merkeziyle birlikte çalıştığında olay yönetimini de üstlenen güvenlik sistemleridir. Bu yazı, gelişmiş alarm sistemlerinin sağladığı faydaları, izleme hizmetinin sisteme ne eklediğini ve sistemin kapsamını belirleyen unsurları işletme bakış açısıyla a

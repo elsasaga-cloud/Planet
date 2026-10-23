@@ -1,0 +1,105 @@
+# SB-894 cctvspot.co.uk · news_1 · https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/hikvision-sadp-tool-how-to-use-it · fetched 2026-10-23T04:20:51Z · HTTP 200
+What is Hikvision SADP tool and how to use it? - cctvspot.co.uk
+Menu
+Your Cart
+Facebook
+Twitter
+YouTube
+Contact us
+€
+Euro
+EUR
+€
+Euro
+EUR
+£
+Pound Sterling
+GBP
+$
+US Dollar
+USD
+Account Login / Register
+Login
+Register
+Menu
+Home
+Specials
+Turbo HD Hikvision
+Turbo HD DVRs
+Turbo HD cameras
+HD-CVI Dahua
+HD-CVI DVRs
+HD-CVI cameras
+IP equipment
+IP cameras
+NVR devices
+Accessories
+CCTV cables
+Power supplies
+CCTV connectors
+Network Accessories
+Bases, Junction boxes
+DVR kits
+4 cameras DVR kits
+8 cameras DVR kits
+Blog
+FAQ
+0 item(s) - 0.00€
+0
+Your shopping cart is empty!
+Login
+Register
+Menu
+CCTV security cameras and systems blog
+What is Hikvision SADP tool and how to use it?
+07 Aug
+Posted By
+CCTV Spot
+0 Comment(s)
+15817 View(s)
+CCTV products` reviews
+SADP stands for Search Active Devices Protocol.
+Hikvision`s SADP tool is one of the basic tools you can use to set up your devices on your network. Basically the app scans your network and looks for devices by their MAC address. After finding them it shows them in a table where you can configure them by selecting the device you`d like to work with.
+SADP tool allows you to see a lot of useful information about your Hikvision`s devices connected to your LAN such as firmware version, IP address, SN ect.
+Using SADP tool you can change or set up password, reset it or configure Hikvision`s device IP address. If you need to reset the password for a Hikvision device which does not have a physical reset button, then you will need to use SADP's 'forgot password' feature to export a file which you send to your supplier. They will in turn send this to Hikvision Technical Support and obtain a password reset file for you to import via SADP. Please note that when doing this - your device must remain powered-on from start to completion (the device's powered-on time is used as part of the security checks when resetting passwords).
+As we`ve mentioned at the beginning SADP tool is one of the basic Hikvision`s so you must have in mind that you can`t use it for monitoring your cameras or CCTV system.
+For the latest version of SADP tool please check download section here
+Leave a Comment
+Your Name
+E-Mail
+Web Site
+Comments
+Submit
+About the store
+About Us
+Terms & Conditions
+Delivery
+VAT on CCTV: EU and UK Transactions
+Coockies
+Privacy Policy
+Coockies
+My Account
+Order History
+FAQ
+Returns
+Newsletter
+Customer Service
+Contact
+Site Map
+Brands
+Contact us
+Dahua`s data sheets
+Newsletter
+Don't miss any updates or promotions by signing up to our newsletter.
+Send "> Send
+Captcha
+Please complete the captcha validation below
+I have read and agree to the Privacy Policy
+Facebook
+Twitter
+Copyright © 2012-2026, CCTVSpot.Co.UK - Authorized Dahua`s and Hikvision`s reseller, All Rights Reserved
+Visa
+Mastercart
+Paypal
+Amex
+Discover

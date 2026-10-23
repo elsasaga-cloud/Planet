@@ -1,0 +1,44 @@
+# SB-854 patton.com · news_1 · https://www.patton.com/news.rss · fetched 2026-10-23T04:20:51Z · HTTP 200
+Patton Electronics Co. - News and Top Stories http://www.patton.com Patton Electronics Co. - News and Top Stories
+us-en Copyright 2012, patton.com webmaster@patton.com Patton Electronics Co. http://www.patton.com/images/home/pattoncorporatelogo.gif http://www.patton.com 144 41
+Software Update - Trinity 3.13.1 - SmartNode 4991-GSHDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 4991-GSHDSL
+Thu, 26 Apr 2018 EST
+danny
+Software Update - Trinity 3.13.1 - SmartNode 4991-VDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 4991-VDSL
+Thu, 26 Apr 2018 EST
+danny
+Software Update - Trinity 3.12.4 - SmartNode 5501
+http://upgrades.patton.com/list.asp?model=SmartNode 5501
+Fri, 20 Apr 2018 EST
+danny
+Software Update - Trinity 3.13.1 - SmartNode 5501
+http://upgrades.patton.com/list.asp?model=SmartNode 5501
+Fri, 6 Apr 2018 EST
+danny
+SmartNode� SN10500 Session Border Controller - Carrier-Grade Session Border Controller with TDM Fallback Capabilities | Up to 5000 signaling/media sessions
+http://www.patton.com/products/pe_products.asp?category=632
+The Patton SN10500 is a carrier-grade session border controller (SBC) designed for network-to-network interface (NNI) and peering deployments.
+Fri, 23 Mar 2018 EST
+cchristner
+Software Update - Trinity 3.13.0 - SmartNode 5551-GSHDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 5551-GSHDSL
+Wed, 14 Feb 2018 EST
+danny
+Software Update - Trinity 3.13.0 - SmartNode 5551-VDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 5551-VDSL
+Wed, 14 Feb 2018 EST
+danny
+Software Update - Trinity 3.12.3 - SmartNode 5551-VDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 5551-VDSL
+Wed, 14 Feb 2018 EST
+danny
+Software Update - Trinity 3.12.3 - SmartNode 5551-GSHDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 5551-GSHDSL
+Wed, 14 Feb 2018 EST
+danny
+Software Update - Trinity 3.12.2 - SmartNode 5551-GSHDSL
+http://upgrades.patton.com/list.asp?model=SmartNode 5551-GSHDSL
+Wed, 14 Feb 2018 EST
+danny

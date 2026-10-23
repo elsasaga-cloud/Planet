@@ -1,0 +1,10 @@
+# SB-1084 omctech.com · feed_auto · https://omctech.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Wed, 10 Jun 2026 08:58:32 +0000	100Gbps QSFP28 FR1	https://omctech.com/100gbps-qsfp28-fr1/
+Fri, 22 May 2026 05:25:01 +0000	Armored Detachable 8K HDMI 2.1 AOC	https://omctech.com/armored-detachable-8k-hdmi-2-1-aoc/
+Fri, 22 May 2026 05:12:01 +0000	Armored Detachable 4K HDMI 2.0 AOC	https://omctech.com/armored-detachable-4k-hdmi-2-0-aoc/
+Mon, 18 May 2026 23:29:53 +0000	25GBASE-LR SFP28 CWDM Transceiver, I-temp	https://omctech.com/25gbase-lr-sfp28-cwdm-transceiver-i-temp/
+Mon, 12 Jan 2026 08:58:52 +0000	25GBASE-ER SFP28 Transceiver, C-temp	https://omctech.com/25gbase-er-sfp28-transceiver-c-temp/
+Fri, 09 Jan 2026 06:09:33 +0000	100G QSFP28-ER4, I-Temp	https://omctech.com/100g-qsfp28-er4-i-temp/
+Fri, 09 Jan 2026 05:46:52 +0000	100G QSFP28-LR4, I-Temp	https://omctech.com/100g-qsfp28-lr4-i-temp/
+Fri, 09 Jan 2026 05:13:40 +0000	NAB 2026	https://omctech.com/nab-2026/
+Wed, 07 Jan 2026 15:50:18 +0000	12G SDI Single Transmitter SFP+, 1310nm, 10km, MSA	https://omctech.com/12g-sdi-single-transmitter-sfp-1310nm-10km-msa/

@@ -1,0 +1,34 @@
+# SB-542 jdktech.com.au · news_1 · https://www.jdktech.com.au/case-studies · fetched 2026-10-23T04:20:51Z · HTTP 200
+Case Studies | JDK Technologies
+JDK Technologies Products Services Case Studies Resources About
+Contact Us
+Case Studies
+Real-world deployments of JDK Technologies products across Australian industry.
+Water Utilities & Smart Metering Infrastructure Itron Australasia
+IR302 Industrial Routers Powering Itron's EverBlu Multi-Level Water Metering Network
+Compact industrial routers providing stable cellular backhaul inside EverBlu Access Points, securely delivering water meter data to utility companies nationwide
+Healthcare Private Hospital Group
+Wireless Duress & Nurse Call System for a Private Hospital
+A fully wireless LoRaWAN duress and nurse-call network — covering both patient call points and staff duress pendants — replacing a failed legacy wired system, with JDK responsible for the wireless network and the software platform behind it
+Water Utilities & Environmental Monitoring Ventia
+PS-NS-NA Solar NB-IoT Sensors for Ventia Environmental Monitoring Stations
+Solar-powered NB-IoT liquid level sensors delivering water depth data directly to Ventia's existing FTP-based telemetry pipeline
+JDK Technologies
+Industrial networking & IoT solutions for Australian industry.
+Products
+Industrial Gateways
+LoRaWAN Gateways
+Industrial Routers
+Serial Converters
+PoE Switches
+LoRaWAN Sensors
+NB-IoT Sensors
+Services
+JDK VPN
+Case Studies
+All Case Studies
+Company
+About Us
+Resources
+Contact
+© 2026 JDK Technologies Pty Ltd. All rights reserved.

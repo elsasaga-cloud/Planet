@@ -1,0 +1,68 @@
+# SB-366 osd.com.au · news_1 · https://osd.com.au/osd-news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+OSD News Archives - Optical Systems DesignOptical Systems Design
+Home
+About
+Letter from the General Manager
+Quality Assurance and Warranty
+Quality, Health & Safety and Environment Policy
+OSD Return Policy
+OSD TERMS OF SALE
+Our Products
+Ethernet
+Power over Ethernet (PoE)
+ANALOG VIDEO
+DATA, AUDIO & ALARMS
+BROADCAST
+CATV/RFoF
+Accessories
+END OF LIFE / MAINTENANCE
+Featured Products
+News
+Projects
+Tech Corner
+Contact
+Contact OSD
+E-newsletter
+International Distributors
+Presentation
+FAQs
+OSD News
+Post navigation
+← Older posts
+Newsletter August 2024
+Additional Optical Port Options for OSD products OSD values feedback from all customers and prides itself on the ability to customise products to meet individual project needs. As a result, OSD has released two additional optical port options for the OSD138 and OSD2041. After 20 … Continue reading →
+Posted on August 15, 2024 by Nick Fitzsimmons in OSD News
+Newsletter December 2023
+An update from Optical Systems Design OSD would like to thank all it’s customers for their ongoing support over a difficult few years. OSD product stock levels have been lower than expected and required throughout 2023. However, OSD now has … Continue reading →
+Posted on December 15, 2023 by Nick Fitzsimmons in OSD News
+Newsletter April 2021
+Dynamic Host Configuration Protocol (DHCP) for OSD2184P Last month we highlighted OSD’s commitment to providing a custom solution to a customer who needed to extend their LAN over a optical fiber connection over 150km long. Recently OSD has added additional functionality to … Continue reading →
+Posted on April 22, 2021 by Nick Fitzsimmons in OSD News
+Newsletter March 2021
+How far do you want to go? OSD has a wide and expanding range of Ethernet media converters and switches operating from 10Mbps to 10Gbps. As part of this range we also offer Small Form-Factor Pluggable (SFP) optical modules that … Continue reading →
+Posted on March 31, 2021 by Nick Fitzsimmons in OSD News
+Newsletter February 2021
+It’s not all about IP…… In the past few newsletters OSD has been promoting our growing range of Industrial Ethernet Switches, media converters and accessories designed to meet industry requirements for rugged network devices. However, there is still a demand for serial … Continue reading →
+Posted on February 26, 2021 by Nick Fitzsimmons in OSD News
+Newsletter – December 2020
+Port security on Industrial Ethernet Switches To meet the growing demand for increased security on edge devices, OSD has developed a MAC based security option on it’s OSD225* and OSD21*4 series of products. This will allow for each port to … Continue reading →
+Posted on December 16, 2020 by Nick Fitzsimmons in OSD News
+Post navigation
+← Older posts
+Categories
+OSD News
+OSD Featured Products
+OSD Projects
+OSD Tech Corner
+Featured Product
+OSD2524P – 24 Port PoE Switch
+The OSD2524P is a Layer 2 managed 26-port industrial ethernet switch offering Power over Ethernet... more»
+Contact
+FAQs
+OSD Extras
+About
+Home
+Get in touch with Optical Systems Design today:
+Phone: +61 2 9913 8540 | Fax: +61 2 9913 8735 | More contact options
+Site Design by Sol1
+php developer india

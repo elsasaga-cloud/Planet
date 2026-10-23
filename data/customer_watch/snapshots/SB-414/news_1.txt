@@ -1,0 +1,179 @@
+# SB-414 tpole.it · news_1 · https://www.tpole.it/news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+News TPole | Soluzioni PC based per automazione industriale e applicazioni embedded
+Search
+it en
+Azienda
+Chi siamo
+Cosa facciamo
+Perché lavorare con noi
+La nostra storia
+Jobs
+ESG
+Prodotti
+PC Industriali
+PC Embedded
+HMI
+SBC e Motherboard
+Server Industriali
+Networking
+Periferiche
+Soluzioni custom
+Chassis custom
+Periferiche custom
+Servizi
+Assemblaggio e test
+Sviluppo immagini OS personalizzate
+Strumenti di ripristino
+Corso di gestione immagini OS di produzione
+Supporto tecnico
+Sistemi operativi
+News
+Contatti
+News
+25 settembre 2026
+La versatilità di Yocto valorizzata dall’esperienza TPole in soluzioni Embedded su misura
+Nel mondo embedded, il sistema operativo non può essere considerato un elemento standard e indipendente dall’hardware: deve essere costruito attorno…
+16 settembre 2026
+Edge AI: ACS-1000 basato su Qualcomm IQ9 è l’alternativa a Jetson che stavamo aspettando
+Il mercato dell’intelligenza artificiale applicata ai veicoli e ai contesti industriali richiede una potenza di calcolo senza precedenti, unita a…
+15 luglio 2026
+Strumenti di backup e ripristino dei sistemi operativi Microsoft: l’approccio TPole
+Ripristino rapido e affidabile: zero dipendenze da terze parti Nel mondo industriale e professionale, la gestione delle immagini dei sistemi…
+8 luglio 2026
+PTH171/PTH173: L’eccellenza di Intel Panther Lake H e dell’IA nativa per l’Edge Computing industriale
+L’evoluzione dei sistemi industriali richiede una capacità di calcolo massiva direttamente alla fonte del dato, ottimizzando consumi e ingombri. La…
+17 giugno 2026
+TPole presenta mii670: evoluzione, potenza e continuità per le applicazioni industriali
+TPole annuncia il lancio del nuovo mii670 (vedi datasheet), l’ultima evoluzione della consolidata serie miixxx, progettata per rispondere alle crescenti…
+10 giugno 2026
+Il controllo che non va mai offline: scopri i vantaggi dell’Out-of-Band
+Nel mondo industriale la continuità operativa è un requisito imprescindibile. Quando un sistema si blocca o diventa irraggiungibile, intervenire rapidamente…
+20 maggio 2026
+TPM 2.0 – Trusted Platform Module: il “chip” che rende sicuro il tuo sistema
+Sicurezza by design: TPole integra il TPM 2.0 nei tuoi progetti Il TPM 2.0 (Trusted Platform Module) è un microchip…
+13 maggio 2026
+EAC-7000: La potenza di NVIDIA Thor incontra l’architettura Blackwell per la rivoluzione della Physical AI
+TPole e NVIDIA Blackwell: l’EAC-7000 che muove la robotica autonoma del futuro L’evoluzione dei sistemi autonomi richiede una capacità di…
+22 aprile 2026
+Gestione integrata degli avvisi EOL, PCN e SAN su myTPole
+La soluzione per gestire proattivamente il ciclo di vita dei tuoi componenti Il portale aziendale myTPole (my.tpole.it) mette a disposizione…
+15 aprile 2026
+Server custom industrial grade: single/dual socket, chassis compatti, multi GPU
+Da Single a Dual Socket: Un Solo Ecosistema, Scalabilità Infinita Nell’era dell’Edge AI, la flessibilità è il fattore determinante: poter…
+18 marzo 2026
+Sicurezza mirata: porte USB disabilitabili singolarmente a livello BIOS
+Controllo granulare delle periferiche per ambienti aziendali ad alta sicurezza Il problema I nuovi requisiti di Cyber Security richiedono una…
+11 marzo 2026
+Pico-ITX M93053: La potenza dell’AI di NXP i.MX93 nel palmo di una mano
+M93053: 2.5 pollici di potenza ARM per l’automazione intelligente di domani Nel contesto dell’evoluzione industriale verso l’Edge AI, la capacità…
+25 febbraio 2026
+TPole presenta MH-T01T & MH-T01A: potenza modulare e robustezza per il lavoro sul campo
+Intelligenza a portata di mano: robusto, elegante, completamente modulare Nel panorama professionale odierno, la produttività non può essere confinata tra…
+18 febbraio 2026
+Cos’è un SoftPLC e perché è importante
+Perché in tanti casi è meglio usare un SoftPLC? Molte applicazioni industriali nascono con un’idea chiara: affidarsi a un PLC…
+21 gennaio 2026
+Aggiornato nella tecnologia, fedele nelle dimensioni
+Il problema della retrocompatibilità negli impianti industriali Nell’industria moderna, aggiornare le prestazioni dei sistemi embedded senza compromettere la compatibilità con…
+14 gennaio 2026
+ICS-2000 – Performance avanzate per l’Edge, firmate TPole
+Porta l’intelligenza all’Edge e la potenza oltre i limiti Nel panorama tecnologico odierno la velocità di elaborazione dei dati non…
+17 dicembre 2025
+AITRON: HMI per l’industria – performance ed eleganza
+AITRON di Aplex: nuova gamma di pannelli industriali in collaborazione con Tpole La nuova gamma AITRON di Aplex rappresenta un’evoluzione…
+10 dicembre 2025
+Non solo hardware: porting e sviluppo di driver e librerie su misura
+Ti serve un driver custom o il porting di un driver per Linux o Windows? Sebbene molti progetti embedded inizino…
+3 dicembre 2025
+30 anni di visione, innovazione e crescita per TPole, nel cuore dell’industria 4.0
+Portalbera (PV), [Dicembre 2025] – TPole s.r.l., leader nella fornitura di soluzioni basate su computer e server industriali per l’automazione…
+28 novembre 2025
+L’Eccellenza tecnologica industriale Lombarda – Articolo su Affari Italiani
+La nostra azienda è stata recentemente menzionata in un articolo pubblicato su Affari Italiani, a seguito di un’intervista con il…
+19 novembre 2025
+La garanzia della continuità produttiva: l’importanza del footprint hardware nei sistemi critici
+In ambienti di produzione critici, come il settore farmaceutico, l’uniformità dei sistemi informatici è un requisito non negoziabile. Le aziende…
+12 novembre 2025
+Ottimizzazione dell’AI industriale con i moduli NPU: il vantaggio TPole
+Garantire la portabilità degli algoritmi tra piattaforme eterogenee L’adozione di moduli NPU (Neural Processing Unit) esterni dedicati rappresenta un passo…
+5 novembre 2025
+Proteggi i tuoi sistemi operativi industriali con Unified Write Filter (UWF)
+La Sfida dell’affidabilità sul campo Nei contesti industriali critici, come i sistemi di monitoraggio del traffico installati su pali o…
+22 ottobre 2025
+Intelligenza artificiale industriale: smetti di usare GPU sovradimensionate
+Il mondo dell’automazione industriale è in fermento grazie alle promesse dell’Intelligenza Artificiale, in particolare delle reti neurali. Le vediamo impiegate…
+15 ottobre 2025
+L’impegno ESG di TPole: sostenibilità e trasparenza come vantaggio competitivo
+Negli ultimi anni, i criteri ESG (Environmental, Social and Governance) hanno smesso di essere una semplice tendenza per trasformarsi in…
+8 ottobre 2025
+PC-based automation: la soluzione flessibile per il controllo industriale moderno
+Nell’era dell’Industria 4.0, l’automazione industriale richiede soluzioni sempre più potenti, flessibili e interconnesse. Le macchine automatiche moderne si affidano in…
+1 ottobre 2025
+Problemi all’accensione del computer? La causa potrebbe essere nascosta nei transitori di tensione
+Mai capitato che il computer, all’accensione, non riconosca una porta di rete o un’altra periferica? O peggio ancora, che si…
+24 settembre 2025
+Ottimizzazione e potenza per l’AI, dall’edge al data centre
+L’intelligenza artificiale e il machine learning richiedono una potenza di calcolo enorme, ma lo spazio fisico, specialmente nei quadri elettrici…
+17 settembre 2025
+Il tramonto di Windows 10 e le tue opzioni
+Come già anticipato in precedenza in un nostro articolo, il supporto per Windows 10 sta per concludersi. L’ultimo aggiornamento cumulativo…
+10 settembre 2025
+Schermo nero all’avvio? L’importanza della stabilità dei cicli di accensione nei Panel PC
+Ti è mai capitato di accendere un Panel PC e, nonostante il sistema si avvii, lo schermo rimane desolatamente nero?…
+3 settembre 2025
+Superare i limiti del formato 2U: la soluzione rack custom di TPole per schede PCIe standard
+Il formato rack 2U è una scelta diffusa in molti settori grazie al suo eccellente compromesso tra densità di calcolo…
+27 agosto 2025
+L’importanza di una corretta gestione delle immagini Windows nei sistemi industriali
+Nel settore dei computer industriali e dei sistemi embedded, la corretta installazione e il deployment del sistema operativo sono un…
+20 agosto 2025
+CPU o GPU? Guida alla scelta hardware per sistemi di visione e intelligenza artificiale
+Molti progetti ai quali lavoriamo richiedono alta potenza di calcolo come in casi quali: La scelta del sistema di elaborazione…
+13 agosto 2025
+Sfrutta al massimo il tuo computer industriale: gestisci i GPIO con facilità
+I computer industriali rappresentano il cervello di innumerevoli applicazioni di automazione, ma la loro potenza di calcolo deve potersi tradurre…
+6 agosto 2025
+Far rivivere il software legacy: come TPole ottimizza l’hardware moderno per le applicazioni del passato
+Software del passato su hardware del presente Nel mondo della tecnologia, l’innovazione è costante. Tuttavia, per molte aziende che hanno…
+23 luglio 2025
+Personalizzazione di Windows IoT: sicurezza e brand identity per i tuoi dispositivi
+L’interfaccia utente è il primo punto di contatto tra un utente e un dispositivo. Quando un cliente acquista una macchina…
+16 luglio 2025
+Clear CMOS: soluzione definitiva o semplice workaround? L’importanza di indagare la causa del problema
+È una situazione fin troppo comune per molti utenti di computer: la macchina si blocca, non si accende o non…
+9 luglio 2025
+EVS2000: la rivoluzione silenziosa per le sale controllo con 8 uscite video Nvidia
+Le moderne sale di controllo per infrastrutture complesse, che si tratti di reti energetiche, trasporti o sicurezza, si trovano di…
+2 luglio 2025
+Ottimizzare i costi e la conformità: la guida strategica alle licenze Microsoft per l’industria
+Nel mondo delle applicazioni industriali e dei sistemi embedded, l’integrazione di tecnologie Microsoft, come Windows Server o SQL Server, è…
+25 giugno 2025
+Addio complessità: come remotare monitor industriali fino a 100 metri con un semplice cavo Ethernet
+Nell’ambito dell’automazione industriale, la distanza tra il computer di controllo e il pannello operatore rappresenta spesso una sfida tecnica ed…
+18 giugno 2025
+Affidabilità silenziosa: l’importanza dei test approfonditi per il rilevamento delle periferiche
+Un utente accende il proprio PC e il touchscreen, semplicemente, non risponde. Riavvia il sistema e, come per magia, tutto…
+11 giugno 2025
+TPTEST: L’eccellenza nei test di omologazione per i sistemi industriali
+Nel panorama altamente competitivo dei sistemi informatici industriali, l’affidabilità è un fattore non negoziabile. Ogni prodotto immesso sul mercato deve…
+4 giugno 2025
+Blindare l’interfaccia utente con il filtro tastiera
+Nell’era dei sistemi embedded e delle soluzioni personalizzate, che spaziano dai kiosk interattivi nelle aree pubbliche ai sofisticati pannelli di…
+28 maggio 2025
+Sistemi operativi custom e blocco degli aggiornamenti
+L’esigenza di stabilità nell’ambiente industriale: Windows IoT LTSC Nel complesso panorama dell’Information Technology, in particolare in ambito industriale, la stabilità…
+21 maggio 2025
+Server su misura: TPole al servizio dell’innovazione e dell’industria
+Oltre alla componentistica, TPole si afferma come partner strategico nella configurazione di infrastrutture server per i mercati più esigenti. Non…
+14 maggio 2025
+Duplicazione dei MAC address in azienda
+Il problema: due macchine, stesso MAC address? Immaginate la seguente situazione: due macchine nella vostra fabbrica manifestano comportamenti erratici, difficoltà…
+7 maggio 2025
+Sostituzione di un sistema EOL con soluzione full custom, rack 6U e upgrade all’architettura PCIe
+A noi di TPole piacciono le sfide; molti dei nostri clienti sono consapevoli e ci consentono di offrire loro la…
+2 maggio 2025
+Kit InfiniBand 200G: la soluzione TPole per collegamento ad alte prestazioni tra acquisizione ed elaborazione dati
+Nel mondo dell’elaborazione dati ad alte prestazioni (HPC) e delle applicazioni industriali avanzate, la velocità e l’efficienza del trasferimento dati…
+29 aprile 2025
+Affidabilità in condizioni estreme: test termici per sistemi mission-critical
+Introduzione Molti nostri clienti operano in settori dov

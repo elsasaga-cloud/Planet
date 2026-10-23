@@ -1,0 +1,158 @@
+# SB-1098 3sti-technologies.com · news_1 · https://3sti-technologies.com/documentation/functions-reference.php · fetched 2026-10-23T04:20:51Z · HTTP 200
+PHP Form Builder - Functions reference
+PHP Form Builder
+Toggle navigation
+Home
+Drag & drop Form Builder
+Quick Start Guide
+Form Templates
+jQuery Plugins
+Code Samples
+Class Doc.
+Functions Reference
+Help Center
+General
+Elements
+Rendering
+Shortcut functions
+Plugins
+Popover & Modal
+Email sending
+Buy PHP Form Builder
+Functions reference
+General
+__construct
+$form = new Form($form_ID, $layout = 'horizontal', $attr = '', $framework = 'bs4');
+doc.
+setMode
+$form->setMode($mode);
+doc.
+setOptions
+$form->setOptions($user_options = array());
+doc.
+setMethod
+$form->setMethod($method);
+doc.
+setAction
+$form->setAction($url, $add_get_vars = true);
+doc.
+startFieldset
+$form->startFieldset($legend = '', $fieldset_attr = '', $legend_attr = '');
+doc.
+endFieldset
+$form->endFieldset();
+doc.
+startDependentFields
+$form->startDependentFields($parent_field, $show_values[, $inverse = false]);
+doc.
+endDependentFields
+$form->endDependentFields();
+doc.
+clear static
+Form::clear($form_ID);
+doc.
+registerValues static
+Form::registerValues($form_ID);
+doc.
+mergeValues static
+Form::mergeValues($form_names_array);
+doc.
+testToken static
+Form::testToken($form_ID);
+doc.
+Elements
+addInput
+$form->addInput($type, $name, $value = '', $label = '', $attr = '');
+doc.
+groupInputs
+$form->groupInputs($input1, $input2, $input3 = '', $input4 = '');
+doc.
+addTextarea
+$form->addTextarea($name, $value = '', $label = '', $attr = '');
+doc.
+addOption
+$form->addOption($select_name, $value, $txt, $group_name = '', $attr = '');
+doc.
+addSelect
+$form->addSelect($select_name, $label = '', $attr = '', $displayGroupLabels = true);
+doc.
+addCountrySelect
+$form->addCountrySelect($select_name, $label = '', $attr = '', $user_options = array());
+doc.
+addRadio
+$form->addRadio($group_name, $label, $value, $attr = '');
+doc.
+printRadioGroup
+$form->printRadioGroup($group_name, $label = '', $inline = true, $attr = '');
+doc.
+addCheckbox
+$form->addCheckbox($group_name, $label, $value, $attr = '');
+doc.
+printCheckboxGroup
+$form->printCheckboxGroup($group_name, $label = '', $inline = true, $attr = '');
+doc.
+addBtn
+$form->addBtn($type, $name, $value, $text, $attr = '', $btnGroupName = '')
+doc.
+printBtnGroup
+$form->printBtnGroup($btnGroupName, $label = '')
+doc.
+addHtml
+$form->addHtml($html, $element_name = '', $pos = 'after');
+doc.
+addInputWrapper
+$form->addInputWrapper($html, $element_name);
+doc.
+Rendering
+render
+$form->render([$debug = false, $display = true]);
+doc.
+useLoadJs
+$form->useLoadJs($bundle = '');
+doc.
+printIncludes
+$form->printIncludes($type, $debug = false, $display = true);
+doc.
+printJsCode
+$form->printJsCode($debug = false);
+doc.
+Shortcut functions
+setCols
+$form->setCols($labelsCols, $fieldsCols, $breakpoint = 'sm');
+doc.
+addHelper
+$form->addHelper($helper_text, $element_name);
+doc.
+addAddon
+$form->addAddon($input_name, $addon_html, $pos);
+doc.
+addIcon
+$form->addIcon($input_name, $icon_html, $pos);
+doc.
+centerButtons
+$form->centerButtons($center);
+doc.
+Plugins
+addPlugin
+$form->addPlugin($plugin_name, $selector, $js_content = 'default', $js_replacements = '');
+doc.
+addFileUpload
+$form->addFileUpload($type, $name, $value = '', $label = '', $attr = '', $fileUpload_config = '', $current_file = '');
+doc.
+addRecaptcha
+$form->addRecaptcha($key);
+doc.
+addInvisibleRecaptcha
+$form->addInvisibleRecaptcha($key);
+doc.
+Popover & Modal
+popover
+$form->popover('#popover-link', $popover_options);
+doc.
+modal
+$form->modal('#modal-target');
+doc.
+Email sending
+sendMail static
+Form::sendMail($options, $smtp_settings = array());
+doc.

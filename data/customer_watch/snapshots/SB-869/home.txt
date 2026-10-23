@@ -1,0 +1,322 @@
+# SB-869 tccomm.com · home · https://tccomm.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions
+Toggle navigation
+Solutions
+Industries
+Utilities
+Public Safety
+Rail Systems
+Military & Government
+Aviation
+Oil & Gas
+Specialization Topics
+Leased Line Replacement
+SCADA
+Teleprotection Over IP
+Analog Radio Over Modern Networks
+Carrier Ethernet
+TDM over IP/Ethernet
+TCView® Network Management System
+Mode Converter Solutions
+Channel Bank Replacement Solutions
+Cybersecurity for JumboSwitch
+Grid Modernization Solutions
+SONET/SDH to Ethernet/IP Migration
+Products
+Product Series
+Multi-Service Ethernet Platform - JumboSwitch®
+Mini Channel Bank
+JumboBank™
+Interactive Product Matrix
+Fiber
+T1/E1
+Ethernet
+Multiplexers
+Ethernet
+Switches
+Serial
+T1/E1
+Phone
+Ethernet Media Converters
+Modem & Media Converters
+Fiber
+Mode Converters
+Analog Radio
+Serial
+Phone
+Broadcasters & Bridges
+TCView® Network Management System
+Chassis
+Chassis (JSW)
+Power Adapters
+Power Adapters (JSW)
+Accessories
+Support
+Request Tech Support
+Support Contracts
+Training
+Frequently Asked Questions
+Warranty
+Resources
+Literature Home
+Case Studies
+Application Notes
+White Papers
+Education
+Videos Library
+News And Product Updates
+Events
+American Goods Defined
+Corporate Documents
+Consultants Program
+Company
+About TC
+Our History
+TC's 35th Anniversary
+Why Choose Us
+Testimonials
+Contact Us
+Designed and manufactured in the U.S.A. since 1991
+Product Catalog
+Interactive Product Matrix
+TC1230 - RS366 Dial-Up Fiber Modem
+TC1631 - T1/E1 Fiber Modem Converter
+TC1680 - T3 / E3 Fiber Modem
+TC1705 - Multi-Interface Fiber Modem
+TC1710 - Hi-Speed Multi-Interface Fiber Modem
+TC1900 - RS-232 Telephone Extender
+TC1901 - Fiber Optic Telephone/Analog Extender
+TC1903 - Telephone/Analog Fiber Optic Extender (w/ 1-Fiber Bi-Directional Option)
+TC1905 - Telephone & Dry Contact Extender
+TC1910 - Ethernet Telephone/Analog Extender
+TC1920 - Telephone over 10/100BaseT Ethernet Extender
+TC1925 - Radio over IP ED-137 Gateway
+TC3004 - MM-to-SM Fiber Converter (OC-12 rate up to 622 Mbps)
+TC3005 - MM-to-SM Fiber Converter (to 200 Mbps)
+TC3006 - MM-to-SM Converter (to 1.25 Gbps)
+TC3007 - MM-to-SM Fiber Converter w/WDM (to 200 Mbps)
+TC3024 - Fiber Mode Converter/Repeater (30bps to 10 Mbps)
+TC3025 - Fiber Optic Mode Converter/Repeater for C37.94
+TC3026 - Fiber Optic Mode Converter/Repeater (to 52 Mbps)
+TC3212 - 10/100 Media Converter/Switch (1 Ethernet Port)
+TC3240 - 10/100 Media Converter/Switch (3 Ethernet Ports)
+TC3340 - Managed 2+2 10/100/1000 Switch (Self-Healing Ring)
+TC3345 - Managed 5+2 Gigabit Ethernet Switch
+TC3840-5 - JumboSwitch 2.5G 1U/2U/4U Management Card
+TC3840DR - JumboSwitch-DR DIN Rail Ethernet Switch
+TC3840DR2 - JumboSwitch DIN Rail Industrial Ethernet Switch
+TC3840U - JumboSwitch 24-Port Ethernet Switch
+TC3841 - 6-Port Copper Gb Ethernet Switch
+TC3842 - 6-Port SFP Gigabit Ethernet Switch
+TC3844-1 - Ethernet-over-T1/E1 Card
+TC3844-3 - Ethernet-over-T3/E3
+TC3844-5 - Ethernet-over-OC-3/STM-1
+TC3845-1 - T1 / E1-over-IP Gateway
+TC3846-2 - C37.94-over-IP Gateway
+TC3846-6 - Analog and Dry Contact IP Gateway
+TC3847-1 - 4-Channel Serial Server
+TC3847-1DR - DIN Rail Industrial Ethernet Switch & Serial Server
+TC3847-3 - 4-Channel Turbo Serial-Over-IP
+TC3847-4 - 2-Ch. RS-422 Sync Serial over IP
+TC3847-5 - Dry Contact IP Gateway
+TC3847-6 - 8-Channel Alarm Monitoring Control
+TC3847-7 - 2-Ch. Turbo RS-422 Serial
+TC3848-1/-2 and DR - VoIP Virtual PBX
+TC3848-3 and -4 - Modem-over-IP
+TC3850-1 - 10G Multi-Service Ethernet Switch
+TC3PS-TB-25 - 2 or 3 Pin Terminal Block
+TC4001 - WDM Multiplexer (2-ch.)
+TC8000 - Analog , Intercom & Data Multiplexer
+TC8108 - Data Multiplexer (8-128 ch.)
+TC8116 - Data Multiplexer (8/16 ch.)
+TC8518 - T1/E1, Data/Voice & Ethernet Multiplexer
+TC8610 - 4 Ch Serial-over-T1/E1 Multiplexer
+TC8611 - T1/E1 Redundancy Controller
+TC8612 - 8 Ch DIO over T1/E1 Multiplexer
+TC8614 - 4 Ch 600 ohm Analog & Dry Contact-over-T1/E1 Multiplexer
+TC8616 - C37.94-Over-T1/E1 Multiplexer
+TC8618-1 and -2 - 4 Ch Voice-over-T1/E1 Multiplexer
+TC8619 - Ethernet over T1/E1 Multiplexer
+TC8624 - 8 or 16 Ch 600 Ohm Analog & Dry Contact-over-T1/E1 Multiplexer
+TC8630-1 - 1U T1/E1 Redundancy Card
+TC8631-1 - 1U 4 Ch. Serial over T1/E1 Multiplexer
+TC8631-4 - DB9 RS-232 Sync-over-T1/E1 Multiplexer
+TC8634 - 4 or 8 Ch 600 ohm Analog & Dry Contact-over-T1/E1 Multiplexer
+TC8636 - 2-10 Ch. C37.94-Over-T1/E1 Multiplexer
+TC8638-1/2 - 4 Ch Voice-over-T1/E1 Multiplexer
+TC8640-1 - 8 Channel T1/E1 Base Card
+TC8641-4 - 4 Channel RS232 over T1/E1
+TC8714-2 - 2 Ch 600 ohm Analog & Dry Contact Gateway Channel Bank
+TC8734E - 1U 4-24 Ch. 4-Wire E&M Channel Bank
+TC8738E - 4-24 Ch. FXS/FXO over T1/E1 Channel Banks
+TC8800E - Telephone, Data & Analog Multiplexer
+TC8800S/R - Telephone, Analog & Data Multiplexer
+TC8916 - Broadcast & Receive Device
+TC8926 - 8 or 16 Ch. Hoot-n-holler Bridge
+TC8927 - Analog Paging System with Dry Contact
+TC8928 - Analog Broadcaster/Bridge
+TC8938 - Emergency Phone Line Bridge
+TCRM191/192 - 4U 19'' Rackmount Card Cage
+TCRM195/196 - 1U 19" Rackmount Card Cage
+TCRM199i - 1U JumboSwitch Standalone Chassis
+TCRM19BR - 4U JumboSwitch Card Cage
+TCRM19DR - 1U JumboSwitch Card Cage
+TCRM19GR - 2U JumboSwitch Card Cage
+TCRMPS3 - Power Supply Card for the 4U JumboSwitch Chassis
+TCRMPS6 - 2U Power Supply Card for JumboSwitch Chassis
+TCSD11-1/2 - 1S/2S JumboSwitch Card Cage
+TCView® - Network Management System
+End-of-Life Products
+Bringing your critical devices onto your network
+Industries
+Utilities
+Public Safety
+Government
+Rail
+Aviation
+Oil & Gas
+Previous
+Next
+Specialization Topics
+TDM over IP/Ethernet
+Teleprotection
+RoIP
+Leased Line Replacement
+SCADA
+Carrier Ethernet
+TCView®
+Mode Converter Solutions
+Channel Bank Replacement Solutions
+Cybersecurity for JumboSwitch
+Grid Modernization Solutions
+SONET/SDH to Ethernet/IP Migration
+Previous
+Next
+Featured
+Read more
+Explore
+Learn more
+Interactive Product Matrix
+Utilities Solution Guide
+Previous
+Next
+Resources
+Video Library
+Literature
+News
+Narratives & Shorts
+Ways to reach us +1 (949) 852-1972 | Contact Us |
+Need help finding the right product?
+See our Product Categories
+Products by category and transport type:
+JumboSwitch®
+Mini Channel Bank
+JumboBank™
+Multiplexers
+Fiber
+T1/E1
+Ethernet
+Mode Converters
+Fiber
+Modem & Media Converters
+Serial
+T1/E1
+Phone
+Ethernet Media Converters
+Broadcasters & Bridges
+Analog Radio
+Serial
+Phone
+Switches
+Ethernet
+TCView® Network Management System
+Accessories
+Chassis
+Chassis (JSW)
+Power Adapters
+Power Adapters (JSW)
+Interactive Product Matrix
+Utilities Solution Guide
+Find a product by interface and transport
+Flagship Transport Platforms
+Multi-Service Ethernet Platform
+Learn more
+Plug & Play T1 Multiplexer Series
+Learn more
+Modern Channel Bank
+Learn more
+World Class Support
+Phone: +1 (949) 852-1972
+Email: TechnicalSupport@tccomm.com
+Support is available in English, Spanish or Mandarin. TC offers comprehensive technical support from its corporate headquarters in Irvine, California. It includes assistance with planning, installation & troubleshooting issues.
+If a troubleshooting situation arises, TC will make every effort, including providing advance product replacement, to keep a customer's network in full operation.
+Learn more
+Testimonials
+"We decided to use the JumboSwitch for our network because it is a multiservice device capable of accepting and transporting various forms of data...It was also easily integrated into our existing networks...we are satisfied with the level of service and the quality of the products"
+Continue Reading
+- Clive Wright, Manager, ECS Department.
+Jamaica Public Service Company Ltd.
+"District 6 of the State of California Department of Transportation (Caltrans) has been using TC Communication products for over 10 years. We have not encountered any issues with this product. [TC] played an important role in providing training and helping District 6 to configure the first Jumboswitch"
+Continue Reading
+- Samuel Campos Caltrans District 6
+Traffic Electrical, TMC Support
+"I believe in your product, services, and definitely your support. Every one of the folks I have dealt with at TC Comm has been professional, energetic, and anxious to provide the best services available. It is a credit to the company that bar none your staff believes in your product and organization!"
+Continue Reading
+- Donald T Hodges MBOM/IT
+Ice Technical Services – Vice President
+Read more
+Connect With Us
+Be the first to receive the latest TC Comm news and product updates. Connect with us on LinkedIN, subscibe to us on YouTube, or join our mailing list.
+TC Communications
+@TCCommInc
+Get Email Updates
+Top
+TC Communications
+(949) 852-1972
+(949) 852-1948
+17881 Cartwright Road
+Irvine, CA 92614 U.S.A.
+Office Hours:
+Monday - Friday
+Sales:  to  (PST)
+Business:  to  (PST)
+Contact Us
+Connect with us on:
+Products
+Interactive Product Matrix
+Multi-Service Ethernet Platform - JumboSwitch®
+Mini Channel Bank
+JumboBank™
+Multiplexers
+Switches
+Modems & Media Converters
+Mode Converters
+Broadcasters & Bridges
+TCView® Network Management System
+Accessories
+Solutions
+Industries
+Specialization Topics
+Support
+Resources
+Support Contracts
+Training and Education
+Frequently Asked Questions
+Glossary
+Warranty & Return Policy
+Corporate Documents
+American Goods Defined
+Consultants Program
+Video Library
+Literature
+Case Studies
+Application Notes
+White Papers
+Education
+About TC
+Our History
+Why Choose Us
+Testimonials
+News
+Events
+©2026 TC Communications, Inc. ISO 9001 | Site Map | Privacy Policy

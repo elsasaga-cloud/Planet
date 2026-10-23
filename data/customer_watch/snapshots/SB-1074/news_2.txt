@@ -1,0 +1,57 @@
+# SB-1074 intrising.com.tw · news_2 · https://www.intrising.com.tw/news/case_study/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Intrising Networks
+...
+News
+New Feature
+Expo
+Case Study
+Products
+Industrial Switches
+D Series
+R Series
+K Series
+PRP / HSR Series
+Industrial Wireless
+Wireless Router
+Application
+Management
+AV over IP
+Extender
+Accessories
+DIN-Rail Power Supply
+SFP-MINI-GBIC
+Solutions
+Contact Us
+About
+Home
+News
+Case Study
+Menu
+Home
+News
+Products
+Solutions
+Contact Us
+About
+Home
+News
+Case Study
+News
+News of expo, case study, and product feature.
+Subscribe via RSS reader
+All
+New Feature
+Expo
+Case Study
+PTP Technology Enables Precise Autonomous Data
+Intrising's 10G PTP switching solution serves as the critical synchronization backbone
+In order to achieve Level 4 autonomy, the Intrising DTS-8GP-4X solves Split Architecture challenges by using gPTP Transparent Clock technology for microsecond sync. Its 10G uplink handles 4.8Gbps camera streams, ensuring spatiotemporal consistency for precise LiDAR and AI sensor....
+Case Study
+Enhanced Micro Switch for Future-Ready Networking
+Intrising's Hardware and Software Solution for Improved Network Reliability and Management
+Intrising provides software and hardware solutions for FTTO applications, including Ring (G8032 ring) with less than 50 ms recovery time, enhanced security through SSH and SNMPv3, and device management automation through Docker Visualization Environment....
+Case Study
+Intrising Switches Adopted in Existing PRP Topology
+How Intrising Helps Customer to Scale up Network While Keeping Compatibility of Existing Equipment
+Intrising implemented PRP to provide fault tolerance and high availability, while also ensuring zero-recovery time and compatibility. This ensures smooth communication between devices without having to discard old devices. Intrising created P1000 that supports PRP....
+Inc • All Rights Reserved

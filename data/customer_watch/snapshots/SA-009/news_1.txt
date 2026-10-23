@@ -1,0 +1,30 @@
+# SA-009 fhn-na.com · news_1 · https://fhn-na.com/news-3/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+News
+Home
+About
+Solutions
+News
+Contact
+Home
+About
+Solutions
+News
+Contact
+1
+[Indonesia, Jakarta, Fed 2022] FHN the leading communication solution supplier announced its mainstream Datacom product POE Ethernet switch got large-scale commercial use in Indosat, the Indonesia's second-largest mobile operator.Depending on outstanding performance and high reliability, Fiberhome Networks POE switch had tough competition with corresponding products of several industry-leading international vendors. FHN-NA POE switches had got large market share of Indosat 3G offload procurement project.Winning this project will definitely drive new market exploring such as Thailand, Chile. It offers WLAN coverage solution reference to operators in South-east Asia as well as South America; help them to improve customer experience satisfaction.
+2
+1-27-2022, Recently, FHN-NA full Gigabit L3 carrier-grade Ethernet switch F-engine S3600 series successfully passed all the test items of IPV6 Ready Enhanced, and finally got IPV6 READY Enhanced identity authentication. During the process of this authentication, the test products have to get 100% consistency and interoperability respectively. F-engine S3600 series full Gigabit L3 switches that get certificate are released to fulfill multi-service access in broadband access network. This series switches could be working as fast switching equipment in aggregation layer, realizing high-density Gigabit high-speed switching and routing for Ethernet interface. Based on excellent networking capability and reliable performance, FHN F-engine S3600 series Ethernet switches have got application in broadband metro network build-up, RESIDENTIAL, enterprise network, campus network, etc, and received wide acclaim as well. It's understood that, IPv6 Ready defined by IPv6 Forum is recognized as the most authoritative certification in IPV6 field. It is designed to enhance the user¡¯s confidence that is already operating IPV6 network and contribute to promoting that.
+3
+1-21-2022, Recently, F-engine PoE series Ethernet switch have got large-scale application in Telecom operator’s network in multiple provinces such as Chinese Guangdong, Liaoning, Hunan, Yunnan, Sichuan, etc. Aim at full-service operation and network IP-based reconstruction, FHN-NA released PoE Ethernet switch based on over-all analysis of inherent product advantages F-engine Ethernet switch process. This product family include 1000M carrier Ethernet switch F-engine S2200ME-PAF and carrier-grade campus Ethernet switch F-engine S3900-PAF, F-engine S3500-PAF series, which address a broad variety demand from different customers.The PoE series Ethernet switch that used in large-scale support full wire-speed forwarding, PoE, QinQ, VLAN-based service control, powerful ACL, multicast, QoS, etc. functionalities. F-engine PoE switch offers visual and powerful GUI as well as cluster network management that fulfill the broadband networking requirement in various application scenarios.Moreover, F-engine PoE series switches support PoE( Power over Ethernet) technology, allow IP phone, wireless AP, IPC and many other connected appliances to receive power as well as data over existing LAN cabling, without needing to use additional power supply that facilitate the network deployment and management. In actual operation, PoE switch could provide over-temperature and over-power protection, offer power supply management over different port, which fully meet the latest power supply demand from industry users.
+Read More
+© Copyright 2022, FHN-NA.com
+Solutions
+Products
+Satisfactions
+News
+About Us
+Contact Us
+WordPress Theme
+created with
+WordPress Website Creator
+.

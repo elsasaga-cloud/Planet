@@ -1,0 +1,8 @@
+# SB-071 isrcorp.co.il · sitemap · https://isrtech.co.il/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+	https://isrtech.co.il/
+	https://isrtech.co.il/about-us
+	https://isrtech.co.il/products
+	https://isrtech.co.il/technology
+	https://isrtech.co.il/contact
+	https://isrtech.co.il/accessibility
+	https://isrtech.co.il/privacy-policy

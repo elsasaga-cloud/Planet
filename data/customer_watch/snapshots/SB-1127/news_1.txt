@@ -1,0 +1,160 @@
+# SB-1127 throughput.co.za · news_1 · https://throughput.co.za/knowledge-hub/index.html · fetched 2026-10-23T04:20:51Z · HTTP 200
+Structured Knowledge for Real-World Decisions for Industrial Networks | Throughput Technologies
+SALES & SUPPORT
+Mon - Fri  -
+Industries
+Industries Overview
+Rail & Trackside
+Utilities [incl. Nuclear]
+Mining
+Manufacturing
+Smart Cities
+Critical / Smart Infrastructure
+Fire & Security
+Road Transportation & ITS
+Solutions
+Solutions | Overview
+Industrial Ethernet Networks
+Fibre Optic Communications
+Secure Remote Access
+Network Redundancy & Resilience
+OT Cybersecurity
+Network Diagnostics & Monitoring
+Knowledge Hub
+The Knowledge Hub | Overview
+Protocols & Industrial Communications
+Media & Connectivity
+Network Architecture & Redundancy
+Cybersecurity & Secure Access
+Diagnostics, Monitoring & Visibility
+Edge Intelligence & Data Conversion
+Standards & Compliance
+Partners
+Partners | Overview
+Partner Product Solutions
+Westermo
+Welotec
+ProSoft Technology
+ATOP Technologies
+Secomea
+Flex DSL
+Micromedia ALERT
+Info
+Newsletter
+Our Services
+About
+About Throughput
+Contact
+CALL US TODAY
++2711 705 2497
+Structured Knowledge for Real-World Decisions for Industrial Networks
+HOME
+The Knowledge Hub
+Structured industrial network knowledge for engineers, integrators and decision-makers responsible for infrastructure that must perform reliably, securely and predictably for decades.
+Explore the Knowledge Domains
+Seven connected domains build a coherent understanding of industrial networking – from protocols and physical media through architecture, security, visibility, modernisation and governance.
+01 - Protocols & Industrial Communications
+The language of industrial networks – timing, determinism, addressing, resilience and longevity.
+GO TO THE PAGE →
+02 - Media & Connectivity
+The physical reality of copper, fibre and wireless – and how it shapes network behaviour.
+GO TO THE PAGE →
+03 - Network Architecture & Redundancy
+How industrial networks are designed to survive through architecture, segmentation and validated resilience.
+GO TO THE PAGE →
+04 - Cybersecurity & Secure Access
+Security as architecture – controlled access, segmentation, visibility and defined boundaries.
+GO TO THE PAGE →
+05 - Diagnostics, Monitoring & Visibility
+Understanding what the network is doing, detecting degradation and finding evidence before failure.
+GO TO THE PAGE →
+06 - Edge Intelligence & Data Conversion
+Modernising proven systems through protocol conversion, data normalisation and controlled integration.
+GO TO THE PAGE →
+07 - Standards & Compliance
+The standards, constraints and governance that shape defensible industrial network design.
+GO TO THE PAGE →
+Start With the Question
+You don't need to know the domain before you begin. Start with the engineering question, then follow the knowledge to the underlying principle.
+How should the network behave? → Protocols & Industrial Communications
+What physical infrastructure is required? → Media & Connectivity
+How should it survive failure? → Network Architecture & Redundancy
+How should access be controlled? → Cybersecurity & Secure Access
+How do we know what is happening? → Diagnostics, Monitoring & Visibility
+EXPLORE THE KNOWLEDGE DOMAINS →
+Why This Knowledge Hub Exists
+Industrial networks are increasingly critical, increasingly complex and increasingly misunderstood. Knowledge is fragmented across vendors, industries and disciplines. The result is that important engineering decisions are often made without a complete understanding of what the network is actually required to do.
+This Knowledge Hub exists to provide a structured, engineering-first reference for the principles that govern industrial communications. It does not follow product cycles. It does not chase trends. It explains how industrial networks behave, why they fail, and how they should be architected to survive.
+The material is written for experienced engineers and technical decision-makers who already understand the basics – and want to examine what happens beyond them.
+Built for Long-Lived, Safety-Critical Environments
+The Knowledge Hub is not trend reporting. It is a structured reference for infrastructure that must endure.
+Industrial networks are expected to operate for 10–30 years. The technology inside them will change multiple times during that period. The principles that govern how they behave should not.
+The material in this Hub is therefore built around enduring engineering principles rather than transient technology commentary. It is designed to remain useful long after publication, and to be referenced whenever a decision must be made about how an industrial network should behave.
+How to Use This Hub
+You can enter at any domain. For comprehensive understanding, follow the natural sequence:
+Protocols & Industrial Communications – The language of industrial networks
+Media & Connectivity – The physical reality of copper, fibre and wireless
+Network Architecture & Redundancy – Designed survivability
+Cybersecurity & Secure Access – Security as architecture
+Diagnostics, Monitoring & Visibility – Understanding network behaviour
+Edge Intelligence & Data Conversion – Modernising proven systems
+Standards & Compliance – Governance and defensible design
+EXPLORE THE KNOWLEDGE SEQUENCE →
+A Living Reference, Not a Static Library
+The Knowledge Hub is not complete – and it never will be.
+Industrial networking evolves. Standards are revised. Technologies mature. New challenges emerge. The Knowledge Hub evolves with them.
+This is a living reference, not a static library. Material is added, refined and expanded as understanding deepens. The objective is not completeness. It is ongoing usefulness.
+Explore the Knowledge Domains
+The material in this Hub is written for experienced engineers and technical decision-makers who already understand the basics – and want to examine what happens beyond them.
+Start with the question. Follow the knowledge to the underlying principle.
+CONNECT WITH A SOLUTIONS SPECIALIST
+Fill out the online form .
+Close
+Answered – Some Frequently Asked Questions
+1. Who is this Knowledge Hub for?
+The Knowledge Hub is written for experienced engineers, systems integrators, consultants, operations managers and technical decision-makers who need to understand how industrial networks behave, why they fail and how they should be architected. The material assumes technical competence and does not explain basic networking concepts merely to fill space.
+2. Is this about products or engineering principles?
+This Hub is about engineering principles. Products and partner technologies are referenced where they help explain how a principle is applied. The objective is to explain what the network must achieve and why, rather than to promote specific equipment.
+3. How is the material maintained and updated?
+The Knowledge Hub is a living reference. Material is added, refined and expanded as understanding deepens. The objective is ongoing usefulness rather than static completeness.
+The Knowledge Hub
+The Knowledge Hub | Overview
+Protocols & Industrial Communications
+Media & Connectivity
+Network Architecture & Redundancy
+Cybersecurity & Secure Access
+Diagnostics, Monitoring & Visibility
+Edge Intelligence & Data Conversion
+Standards & Compliance
+About Throughput
+Since 1997, Throughput Technologies has acted as a trusted guide in industrial data communications.
+We support system integrators and OT teams in designing resilient, secure networks for rail, mining, utilities, manufacturing, and smart infrastructure — focusing on architectural clarity, field-proven reliability, and long-term operational resilience.
+Address
+41 Thembi Place Business Park,
+15 Calderwood Road, Lonehill, Sandton
+Call Us Now
++2711 705 2497
+Tech Support
++2781 332 4530
+Make Contact
+PHONE
+Support: +2781 332 4530
+EMAIL
+Enquiries
+ADDRESS
+GET DIRECTIONS
+Core Services
+Industries Served
+Resilient Solutions
+The Knowledge Hub
+Our Partners
+About Throughput
+Open Hours
+Mon - Fri:  to
+Saturday: Closed
+Sunday: Closed
+© Throughput Technologies. All Rights Reserved. | Another truEDGE project.
+Privacy Policy
+FAQ's
+Sitemap
+Contact

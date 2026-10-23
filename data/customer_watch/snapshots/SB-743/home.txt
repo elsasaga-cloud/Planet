@@ -1,0 +1,579 @@
+# SB-743 tiscontrol.com · home · https://www.tiscontrol.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Smart Home Automation | Hotel Automation System | TIS
+Products
+TIS Dehumidifier
+TIS AIR Purifier
+Smart Toilet
+Door Phone
+Hotel Lock
+Smart Lock
+Access Control
+Accessories
+Panels
+Hotel Interface
+Screens
+Dimmers
+Relays
+Sensors
+BMS/PMS
+Motors
+Panels
+Controllers
+Sensors
+Gateways
+Audio/Video
+Wall Switch
+Controller
+Security/Sensor
+Lights
+Gateway
+Meters
+Gateways
+Other
+Occupancy Sensor
+Zigbee BUS Converter
+Zigbee IR Emitter
+TIS-AIR-DHM24L
+TIS-AIR-PUR800
+Triton Series
+Zigbee EON Switch
+Nano Server
+Data Cable
+TIS-WC-FS80
+Zigbee IP HUB
+2PLY Amplifier
+AC Zoning
+Fans Controller
+INT-INU
+INT-1VL
+INT-5PB
+INT-43
+INT-80
+RF Card Encoder
+Access Control
+TIS-K710
+TIS-H168
+TIS-E908
+TIS-A270
+TIS-A233
+TIS-S181
+TIS-E901
+TIS-E300
+TIS-E200
+TIS-A210
+Zigbee Motor
+Dion Curtain Switch
+1AC-GTY
+Water Meter
+3 Phase Energy Meter
+4zone Amplifier
+22DL
+0-10V Input
+4-20mA Module
+Mercury Hotel series
+Click Series
+Saturn 133
+Saturn 101
+Saturn 80
+Saturn 40
+Saturn Remote
+VRF AC GATEWAY
+Venera Zigbee Switch
+Audio Player PL17100
+Saturn 57
+AV IP Matrix
+IO Hotel Series
+Health Sensor
+10 Function Sensor
+Motion Sensor
+4 Zone Input
+Luna Series
+4 Temperature Sensor
+Aut Timer
+Security Module
+Water Leak Sensor
+SMS Module
+Titan&Titania
+Ven Bus
+Venera Switch
+Venera Dimmer
+Venera Thermostat
+ADS Controller
+ACM Switch
+AIR Socket
+AIR IR Emitter
+Motion Sensor
+10 Function Sensor
+3 Digital Inputs
+AIR BUS CONVERTER
+Modbus,VRF,UPB Gateway
+Luna Hotel Series
+Terre Hotel Series
+Relays
+Leading Edge Dimmer
+Trailing Edge Dimmer
+0-10V Dimmer
+DALI
+DMX
+HVAC
+Curtain Motor
+Audio Matrix
+Energy Meter
+Weather Station
+Modbus,VRF,UPB Gateway
+AIR BUS CONVERTER
+Remote Control
+Power Supply
+Cable Manager
+IR Emitter
+Roller Motor
+Projector Lift
+Industrial Dimmers
+Mini Relay
+Speakers
+IR Learner
+Accessories
+Distributor Box
+Panel Addition
+Rcu Controller
+KNX Gateway
+TRV Controller
+Dion Switch
+Dion Wall Remote
+Plug (UK/EU)
+Valve (Gas/water)
+Switch Module (1/2 gang)
+Dimmer Module
+Shutter Module
+LEDs Driver
+Door Contact
+PIR Sensor
+Smoke Detector
+Gas Sensor
+Water Leak
+CO Sensor
+Key Fob
+Siren
+RGBW Bulb
+Zigbee-BUS Hub
+232_485
+Mercury Series
+SOL Series
+Terre Series
+Europa Series
+Sirius Series
+Mars Series
+Current Sensor
+Water Level Sensor
+Solutions
+By Project Type
+Smart Cinema
+Smart Farm
+Smart Home
+Smart Hospital
+Smart Hotel
+Smart Mall
+Smart Mosque
+Smart Office
+Smart Restaurant
+Smart School
+Smart Yacht
+Smart Yard
+Support & Resources
+TIS Academy
+Start Learning
+Get Certified
+Advanced Training
+Tools & Calculators
+Software & Application
+Power Supply Calculator
+Design Your Project
+Barcode Search
+Compatibility
+Resources & Certificates
+Info Center
+System Catalogs
+Certificate and Patent
+Marketing Data
+Partner with Us
+Partnership
+Integrate with TIS
+About Us
+Company Info
+CEO Message
+Mission and Vision
+Membership/Awards
+Technology & Innovation
+Our Technology
+Integration
+Explore TIS
+Virtual Tour
+Projects
+Case Studies
+Contact Us
+EN
+English
+ES
+Español
+FR
+Français
+AR
+العربية
+CN
+中文
+HI
+हिन्दी
+RU
+русский
+PT
+Português
+IT
+Italiano
+DE
+Deutsch
+ID
+Bahasa
+FA
+فارسی
+SW
+Kiswahili
+RO
+Română
+PL
+polski
+TR
+Türkçe
+VN
+Tiếng Việt
+GR
+Ελληνικά
+AZ
+Azərbaycanca
+Home
+Products
+Panels
+Luna Series
+Titan&Titania
+Ven Bus
+Mercury Series
+SOL Series
+Terre Series
+Europa Series
+Sirius Series
+Mars Series
+Hotel Interface
+Mercury Hotel series
+Click Series
+IO Hotel Series
+Luna Hotel Series
+Terre Hotel Series
+Screens
+Saturn 133
+Saturn 101
+Saturn 80
+Saturn 40
+Saturn Remote
+Saturn 57
+Dimmers
+Leading Edge Dimmer
+Trailing Edge Dimmer
+0-10V Dimmer
+DALI
+DMX
+Industrial Dimmers
+Relays
+AC Zoning
+Fans Controller
+Relays
+HVAC
+Mini Relay
+Rcu Controller
+Sensors
+Occupancy Sensor
+Health Sensor
+10 Function Sensor
+Motion Sensor
+Water Leak Sensor
+Current Sensor
+Water Level Sensor
+BMS/PMS
+22DL
+0-10V Input
+4-20mA Module
+4 Zone Input
+4 Temperature Sensor
+Aut Timer
+Security Module
+SMS Module
+Motors
+Curtain Motor
+Roller Motor
+Projector Lift
+Audio/Video
+2PLY Amplifier
+4zone Amplifier
+Audio Player PL17100
+AV IP Matrix
+Audio Matrix
+IR Emitter
+Speakers
+Meters
+Water Meter
+3 Phase Energy Meter
+Energy Meter
+Weather Station
+Gateways
+Nano Server
+1AC-GTY
+VRF AC GATEWAY
+Modbus,VRF,UPB Gateway
+AIR BUS CONVERTER
+KNX Gateway
+232_485
+Other
+Data Cable
+Remote Control
+Power Supply
+Cable Manager
+IR Learner
+Accessories
+Distributor Box
+Panel Addition
+Panels
+Triton Series
+Venera Switch
+Venera Dimmer
+Venera Thermostat
+Controllers
+ADS Controller
+ACM Switch
+AIR Socket
+AIR IR Emitter
+TRV Controller
+Sensors
+Motion Sensor
+10 Function Sensor
+3 Digital Inputs
+Gateways
+AIR BUS CONVERTER
+Modbus,VRF,UPB Gateway
+Wall Switch
+Zigbee EON Switch
+Dion Curtain Switch
+Venera Zigbee Switch
+Dion Switch
+Dion Wall Remote
+Controller
+Zigbee IR Emitter
+Zigbee Motor
+Plug (UK/EU)
+Valve (Gas/water)
+Switch Module (1/2 gang)
+Dimmer Module
+Shutter Module
+LEDs Driver
+Security/Sensor
+Door Contact
+PIR Sensor
+Smoke Detector
+Gas Sensor
+Water Leak
+CO Sensor
+Key Fob
+Siren
+Lights
+RGBW Bulb
+Gateway
+Zigbee BUS Converter
+Zigbee IP HUB
+Zigbee-BUS Hub
+TIS Dehumidifier
+TIS-AIR-DHM24L
+TIS AIR Purifier
+TIS-AIR-PUR800
+Smart Toilet
+TIS-WC-FS80
+Door Phone
+INT-INU
+INT-1VL
+INT-5PB
+INT-43
+INT-80
+Hotel Lock
+TIS-S181
+TIS-E901
+TIS-E300
+TIS-E200
+Smart Lock
+TIS-K710
+TIS-H168
+TIS-E908
+TIS-A270
+TIS-A233
+TIS-A210
+Access Control
+Accessories
+RF Card Encoder
+Solutions
+By Project Type
+Smart Cinema
+Smart Farm
+Smart Home
+Smart Hospital
+Smart Hotel
+Smart Mall
+Smart Mosque
+Smart Office
+Smart Restaurant
+Smart School
+Smart Yacht
+Smart Yard
+Support & Resources
+TIS Academy
+Start Learning
+Get Certified
+Advanced Training
+Tools & Calculators
+Software & Application
+Power Supply Calculator
+Design Your Project
+Barcode Search
+Compatibility
+Resources & Certificates
+Info Center
+System Catalogs
+Certificate and Patent
+Marketing Data
+Partner with Us
+Partnership
+Integrate with TIS
+About Us
+Company Info
+CEO Message
+Mission and Vision
+Membership/Awards
+Technology & Innovation
+Our Technology
+Integration
+Explore TIS
+Virtual Tour
+Projects
+Case Studies
+Contact Us
+EN
+English
+ES
+Español
+FR
+Français
+AR
+العربية
+CN
+中文
+HI
+हिन्दी
+RU
+русский
+PT
+Português
+IT
+Italiano
+DE
+Deutsch
+ID
+Bahasa
+FA
+فارسی
+SW
+Kiswahili
+RO
+Română
+PL
+polski
+TR
+Türkçe
+VN
+Tiếng Việt
+GR
+Ελληνικά
+AZ
+Azərbaycanca
+LOGIN
+SELECT YOUR PORTAL
+Dealer Login
+Dealers Online Shop
+Training Exam
+Take online certification exam
+Technical Support
+Access support resources
+Web and voice Control login
+Voice control access
+LOGIN
+FOR TRAINING CERTIFICATE
+Don't have an account? Sign up
+Login
+Forgot Password? Click here
+Forgot password?
+Enter your registered email to receive a password reset link
+Send Reset Link
+Check your email
+Back to Login
+Freedom to Choose
+Built for Every Project
+200+
+wired and wireless products across multiple protocols, designed for homes, buildings, and complex automation needs
+One Platform
+Fully Connected
+Lighting, HVAC, security, shading, and more unified under HYBRID BUS + ZigBee with seamless third-party integration
+Global Strength
+Local Confidence
+Manufactured in Australia, Malta, and China
+60+
+Countries around the world are now supported by our distributor network
+Smart Doesn't Have to Be Expensive
+Flexible automation solutions that adapt to your budget, scale, and technical needs without compromising performance
+Smarter Living
+Greener Future
+Intelligent energy management that reduces waste, optimizes performance, and enhances everyday comfort
+What's New in TIS
+Triton Series
+Sirius Series
+Europa Series
+Occupancy Sensor
+Dion Curtain Switch
+Saturn 57
+Mercury Series
+Click Series
+Mars Series
+Zigbee EON Switch
+SMART SOLUTIONS
+WHERE TO BUY
+PROJECTS
+EVENTS
+PARTNER WITH TIS
+Design Your Smart Home
+We provide a complete range of home automation products to meet all your needs.
+Wired and wireless home automation products offer innovative solutions that bring affordable elegance into your home.
+We offer state-of-the-art product solutions for all home automation needs to fit all lifestyles and building requirements. With increasing demand for our products, we have expanded worldwide. We market and sell our products through our exclusive distributors and dealers.
+Create Now!
+About
+News and Events
+TIS Technology
+Press
+Privacy Policy
+Shop
+Technical
+Software
+Compatibility
+HVAC Compatibility
+Info Center
+Contact Us
+User
+Where to buy
+Complaint
+Design your project
+Blogs
+Copyright © 2026 TIS All Rights Reserved
+Top
+We use cookies to personalize content, customize and analyze advertising and ensure the safe use of the site. By clicking or navigating this site, you consent to the collection of information at www.tiscontrol.com and beyond using cookies. More information is available in our Privacy Policy
+OK

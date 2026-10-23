@@ -1,0 +1,2844 @@
+# A/B 级客户 · 动态监控 · 变化日志（append-only；每轮一节，无变化也记）
+
+## 2026-10-23T04:20:51Z（源 2836）
+
+### A 级
+- SA-002 simrex.com · home（html）：首轮基线
+- SA-003 Eyescan security Systems · home（html）：首轮基线
+- SA-003 Eyescan security Systems · sitemap（sitemap）：首轮基线
+- SA-003 Eyescan security Systems · news_1（html）：首轮基线
+- SA-003 Eyescan security Systems · news_2（html）：首轮基线
+- SA-005 Boecek Sec · home（html）：首轮基线
+- SA-008 rio-krsk.ru · home（html）：首轮基线
+- SA-010 Taurus Vision · home（html）：首轮基线
+- SA-014 coptek.com.tr · home（html）：首轮基线
+- SA-014 coptek.com.tr · sitemap（sitemap）：首轮基线
+- SA-017 NEXTU EZ-NET · home（html）：首轮基线
+- SA-017 NEXTU EZ-NET · youtube（youtube_handle）：首轮基线
+- SA-019 cxr.com · home（html）：首轮基线
+- SA-019 cxr.com · sitemap（sitemap）：首轮基线
+- SA-019 cxr.com · news_1（html）：首轮基线
+- SA-019 cxr.com · news_2（html）：首轮基线
+- SA-019 cxr.com · youtube（youtube_handle）：首轮基线
+- SA-020 widen.co.th · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='widen.co.th', port=443) at 0x7fd15cf0c830>, 'Connection to wid
+- SA-021 alfa.com.tw · home（html）：首轮基线
+- SA-021 alfa.com.tw · sitemap（sitemap）：首轮基线
+- SA-023 impulsecctv.com · home（html）：首轮基线
+- SA-023 impulsecctv.com · feed_auto（rss）：首轮基线
+- SA-023 impulsecctv.com · sitemap（sitemap）：首轮基线
+- SA-023 impulsecctv.com · news_1（html）：首轮基线
+- SA-023 impulsecctv.com · news_2（html）：首轮基线
+- SA-024 megnet.co.uk · home（html）：首轮基线
+- SA-024 megnet.co.uk · feed_auto（rss）：首轮基线
+- SA-024 megnet.co.uk · sitemap（sitemap）：首轮基线
+- SA-027 parallaxdigital.co.uk · home（html）：首轮基线
+- SA-027 parallaxdigital.co.uk · feed_auto（rss）：首轮基线
+- SA-027 parallaxdigital.co.uk · sitemap（sitemap）：首轮基线
+- SA-027 parallaxdigital.co.uk · news_1（html）：首轮基线
+- SA-027 parallaxdigital.co.uk · news_2（html）：首轮基线
+- SA-027 parallaxdigital.co.uk · youtube（rss）：首轮基线
+- SA-028 Sewell · home（html）：首轮基线
+- SA-028 Sewell · sitemap（sitemap）：首轮基线
+- SA-028 Sewell · youtube（youtube_handle）：首轮基线
+- SA-029 allnet.de · home（html）：首轮基线
+- SA-031 bitstream.pl · home（html）：首轮基线
+- SA-031 bitstream.pl · feed_auto（rss）：首轮基线
+- SA-031 bitstream.pl · sitemap（sitemap）：首轮基线
+- SA-031 bitstream.pl · news_1（html）：首轮基线
+- SA-031 bitstream.pl · youtube（rss）：首轮基线
+- SA-033 optiviewusa.com · home（html）：首轮基线
+- SA-036 Addon Computer Products · home（html）：首轮基线
+- SA-036 Addon Computer Products · sitemap（sitemap）：首轮基线
+- SA-036 Addon Computer Products · news_1（html）：首轮基线
+- SA-036 Addon Computer Products · news_2（html）：首轮基线
+- SA-036 Addon Computer Products · youtube（rss）：首轮基线
+- SA-037 fcnet.pl · home（html）：首轮基线
+- SA-038 Cable Distribution Services · home（html）：首轮基线
+- SA-038 Cable Distribution Services · sitemap（sitemap）：首轮基线
+- SA-039 getsecurityalarm.com · home（html）：首轮基线
+- SA-039 getsecurityalarm.com · sitemap（sitemap）：首轮基线
+- SA-040 hardenednetworks.com · home（html）：首轮基线
+- SA-040 hardenednetworks.com · feed_auto（rss）：首轮基线
+- SA-040 hardenednetworks.com · sitemap（sitemap）：首轮基线
+- SA-041 Al Salami Trading L.L.C · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='alsalami.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certif
+- SA-043 entasource.co.th · home（html）：首轮基线
+- SA-043 entasource.co.th · sitemap（sitemap）：首轮基线
+- SA-043 entasource.co.th · youtube（youtube_handle）：首轮基线
+- SA-044 gtwave.co.kr · home（html）：首轮基线
+- SA-045 snexus.com.tr · home（html）：首轮基线
+- SA-045 snexus.com.tr · feed_auto（rss）：首轮基线
+- SA-045 snexus.com.tr · sitemap（sitemap）：首轮基线
+- SA-045 snexus.com.tr · news_1（html）：首轮基线
+- SA-045 snexus.com.tr · youtube（rss）：首轮基线
+- SA-048 Truong Son Solutions · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='truongsonsolutions.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify faile
+- SA-048 Truong Son Solutions · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='truongsonsolutions.vn', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifi
+- SA-050 bluewarrior.com · home（html）：首轮基线
+- SA-050 bluewarrior.com · sitemap（sitemap）：首轮基线
+- SA-051 rfog.pl · home（html）：首轮基线
+- SA-051 rfog.pl · sitemap（sitemap）：首轮基线
+- SA-052 td-fe.com · home（html）：首轮基线
+- SA-052 td-fe.com · sitemap（sitemap）：首轮基线
+- SA-052 td-fe.com · news_1（html）：首轮基线
+- SA-054 svn-video.ru · home（html）：首轮基线
+- SA-054 svn-video.ru · sitemap（sitemap）：首轮基线
+- SA-054 svn-video.ru · news_1（html）：首轮基线
+- SA-054 svn-video.ru · news_2（html）：首轮基线
+- SA-054 svn-video.ru · telegram（html）：首轮基线
+- SA-054 svn-video.ru · youtube（youtube_handle）：首轮基线
+- SA-054 svn-video.ru · vk（html）：首轮基线
+- SA-055 aeconnect.co.in · home（html）：首轮基线
+- SA-055 aeconnect.co.in · feed_auto（rss）：首轮基线
+- SA-055 aeconnect.co.in · news_1（html）：首轮基线
+- SA-055 aeconnect.co.in · youtube（rss）：首轮基线
+- SA-056 dncsolutions.co.in · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='dncsolutions.co.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='dncsolutions.co.in', port=443) at 0x7fd15cb39610>, 'Con
+- SA-057 mt-link.com · home（html）：首轮基线
+- SA-057 mt-link.com · sitemap（sitemap）：首轮基线
+- SA-057 mt-link.com · youtube（youtube_handle）：首轮基线
+- SA-058 success-network.co.th · home（html）：首轮基线
+- SA-058 success-network.co.th · sitemap（sitemap）：首轮基线
+- SA-058 success-network.co.th · news_1（html）：首轮基线
+- SA-063 lightoptics.pl · home（html）：首轮基线
+- SA-066 antronix.com · home（html）：首轮基线
+- SA-066 antronix.com · feed_auto（rss）：首轮基线
+- SA-066 antronix.com · sitemap（sitemap）：首轮基线
+- SA-067 direktronik.se · home（html）：首轮基线
+- SA-068 dymec.com · home（html）：首轮基线
+- SA-068 dymec.com · feed_auto（rss）：首轮基线
+- SA-068 dymec.com · sitemap（sitemap）：首轮基线
+- SA-068 dymec.com · news_1（html）：首轮基线
+- SA-068 dymec.com · news_2（html）：首轮基线
+- SA-069 energyplusystems.cl · home（html）：首轮基线
+- SA-069 energyplusystems.cl · sitemap（sitemap）：首轮基线
+- SA-070 ipcampower.com · home（html）：首轮基线
+- SA-070 ipcampower.com · sitemap（sitemap）：首轮基线
+- SA-072 sge.com.tr · home（html）：首轮基线
+- SA-072 sge.com.tr · news_1（html）：首轮基线
+- SA-072 sge.com.tr · news_2（html）：首轮基线
+- SA-072 sge.com.tr · youtube（rss）：首轮基线
+- SA-073 ekhalas.com · home（html）：首轮基线
+- SA-073 ekhalas.com · sitemap（sitemap）：首轮基线
+- SA-073 ekhalas.com · news_1（html）：首轮基线
+- SA-074 iotsistem.com · home（html）：首轮基线
+- SA-074 iotsistem.com · feed_auto（rss）：首轮基线
+- SA-074 iotsistem.com · sitemap（sitemap）：首轮基线
+- SA-074 iotsistem.com · news_1（html）：首轮基线
+- SA-076 impakt.com.pl · home（html）：首轮基线
+- SA-076 impakt.com.pl · sitemap（sitemap）：首轮基线
+- SA-077 Tecpro Solutions · home（html）：首轮基线
+- SA-078 bsn-system.com · home（html）：首轮基线
+- SA-078 bsn-system.com · feed_auto（rss）：首轮基线
+- SA-078 bsn-system.com · sitemap（sitemap）：首轮基线
+- SA-079 infrateq.id · home（html）：首轮基线
+- SA-081 softnetworks.net · home（html）：首轮基线
+- SA-081 softnetworks.net · feed_auto（rss）：首轮基线
+- SA-081 softnetworks.net · sitemap（sitemap）：首轮基线
+- SA-082 NOVA Group Engineering Project · home（html）：首轮基线
+- SA-083 B&S electronics · home（html）：首轮基线
+- SA-083 B&S electronics · sitemap（sitemap）：首轮基线
+- SA-089 Born SPb LLC · home（html）：首轮基线
+- SA-089 Born SPb LLC · sitemap（sitemap）：首轮基线
+- SA-091 alphanetcom.com · home（html）：首轮基线
+- SA-091 alphanetcom.com · sitemap（sitemap）：首轮基线
+- SA-092 data-connect.com · home（html）：首轮基线
+- SA-092 data-connect.com · sitemap（sitemap）：首轮基线
+- SA-093 gofiberx.com · home（html）：首轮基线
+- SA-093 gofiberx.com · sitemap（sitemap）：首轮基线
+- SA-098 RYMTECH EAS · home（html）：首轮基线
+- SA-103 ipns-uae.com · home（html）：首轮基线
+- SA-108 Areca Embedded Systems Pvt Ltd · home（html）：首轮基线
+- SA-110 optat.ru · home（html）：首轮基线
+- SA-112 smbit.co.il · home（html）：首轮基线
+- SA-112 smbit.co.il · feed_auto（rss）：首轮基线
+- SA-112 smbit.co.il · sitemap（sitemap）：首轮基线
+- SA-112 smbit.co.il · news_1（html）：首轮基线
+- SA-112 smbit.co.il · news_2（html）：首轮基线
+- SA-112 smbit.co.il · youtube（rss）：首轮基线
+- SA-116 ccs-msk.ru · home（html）：首轮基线
+- SA-116 ccs-msk.ru · sitemap（sitemap）：首轮基线
+- SA-116 ccs-msk.ru · news_1（html）：首轮基线
+- SA-116 ccs-msk.ru · news_2（html）：首轮基线
+- SA-120 Latmedia Group, LLC · home（html）：首轮基线
+- SA-120 Latmedia Group, LLC · sitemap（sitemap）：首轮基线
+- SA-120 Latmedia Group, LLC · news_1（html）：首轮基线
+- SA-120 Latmedia Group, LLC · youtube（youtube_handle）：首轮基线
+- SA-124 Pt.ras otomasi indonesia · home（html）：首轮基线
+- SA-134 bptehno.ru · home（html）：首轮基线
+- SA-138 Top Italia · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='topsicurezza.com', port=443): Read timed out. (read timeout=20)
+- SA-147 surlink-tech.com · home（html）：首轮基线
+- SA-149 trans audio video group · home（html）：首轮基线
+- SA-149 trans audio video group · sitemap（sitemap）：首轮基线
+- SA-150 vicomsecurity.com · home（html）：首轮基线
+- SA-150 vicomsecurity.com · sitemap（sitemap）：首轮基线
+- SA-150 vicomsecurity.com · news_1（html）：首轮基线
+- SA-153 Elite Team Security Ltd · home（html）：首轮基线
+- SA-153 Elite Team Security Ltd · feed_auto（rss）：首轮基线
+- SA-153 Elite Team Security Ltd · sitemap（sitemap）：首轮基线
+- SA-153 Elite Team Security Ltd · news_1（html）：首轮基线
+- SA-154 Falke security · home（html）：首轮基线
+- SA-154 Falke security · feed_auto（rss）：首轮基线
+- SA-154 Falke security · sitemap（sitemap）：首轮基线
+- SA-154 Falke security · news_1（html）：首轮基线
+- SA-154 Falke security · youtube（youtube_handle）：首轮基线
+- SA-159 Telemobil · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tbi.com.tr', port=443) at 0x7fd16408f6b0>, 'Connection to tbi.c
+- SB-020 4power.it · home（html）：首轮基线
+- SB-020 4power.it · feed_auto（rss）：首轮基线
+- SB-020 4power.it · sitemap（sitemap）：首轮基线
+- SB-020 4power.it · news_1（html）：首轮基线
+- SB-079 ISIMKO GmbH,Guhrower Straße · home（html）：首轮基线
+- SB-079 ISIMKO GmbH,Guhrower Straße · sitemap（sitemap）：首轮基线
+- SB-079 ISIMKO GmbH,Guhrower Straße · news_1（html）：首轮基线
+- SB-1262 ute.de · home（html）：首轮基线
+- SB-1262 ute.de · feed_auto（rss）：首轮基线
+- SB-1262 ute.de · sitemap（sitemap）：首轮基线
+- SB-183 kyma.it · home（html）：首轮基线
+- SB-183 kyma.it · sitemap（sitemap）：首轮基线
+- SB-183 kyma.it · news_1（html）：首轮基线
+- SB-183 kyma.it · youtube（youtube_handle）：首轮基线
+- SB-336 Eds protection technology · home（html）：首轮基线
+- SB-336 Eds protection technology · sitemap（sitemap）：首轮基线
+- SB-336 Eds protection technology · news_1（html）：首轮基线
+- SB-336 Eds protection technology · youtube（rss）：首轮基线
+- SB-338 HCS · home（html）：首轮基线
+- SB-553 norelcosafecam.com · home（html）：首轮基线
+- SB-553 norelcosafecam.com · sitemap（sitemap）：首轮基线
+- SB-553 norelcosafecam.com · news_1（html）：首轮基线
+- SC-594 lancomat.cz · home（html）：首轮基线
+
+### B 级
+- SA-009 fhn-na.com · home（html）：首轮基线
+- SA-009 fhn-na.com · feed_auto（rss）：首轮基线
+- SA-009 fhn-na.com · sitemap（sitemap）：首轮基线
+- SA-009 fhn-na.com · news_1（html）：首轮基线
+- SA-015 rovez.sk · home（html）：首轮基线
+- SA-015 rovez.sk · sitemap（sitemap）：首轮基线
+- SA-018 germany24.com.ua · home（html）：首轮基线
+- SA-018 germany24.com.ua · feed_auto（rss）：首轮基线
+- SA-018 germany24.com.ua · sitemap（sitemap）：首轮基线
+- SA-025 sicurmax.com · home（html）：首轮基线
+- SA-025 sicurmax.com · sitemap（sitemap）：首轮基线
+- SA-030 americanfibertek.com · home（html）：首轮基线
+- SA-030 americanfibertek.com · feed_auto（rss）：首轮基线
+- SA-030 americanfibertek.com · sitemap（sitemap）：首轮基线
+- SA-030 americanfibertek.com · news_1（html）：首轮基线
+- SA-032 greentechme.net · home（html）：首轮基线
+- SA-032 greentechme.net · sitemap（sitemap）：首轮基线
+- SA-034 xcam.cz · home（html）：首轮基线
+- SA-034 xcam.cz · feed_auto（rss）：首轮基线
+- SA-034 xcam.cz · news_1（html）：首轮基线
+- SA-035 synchcom.com.pk · home（html）：首轮基线
+- SA-035 synchcom.com.pk · feed_auto（rss）：首轮基线
+- SA-035 synchcom.com.pk · sitemap（sitemap）：首轮基线
+- SA-047 ITS, S.L.-S.B.T. · home（html）：首轮基线
+- SA-053 suministros-industriales.es · home（html）：首轮基线
+- SA-053 suministros-industriales.es · feed_auto（rss）：首轮基线
+- SA-053 suministros-industriales.es · sitemap（sitemap）：首轮基线
+- SA-053 suministros-industriales.es · news_1（html）：首轮基线
+- SA-060 Securitytec · home（html）：首轮基线
+- SA-060 Securitytec · sitemap（sitemap）：首轮基线
+- SA-061 Smart-Protect · home（html）：首轮基线
+- SA-061 Smart-Protect · sitemap（sitemap）：首轮基线
+- SA-062 aetektec.com · home（html）：首轮基线
+- SA-062 aetektec.com · news_1（html）：首轮基线
+- SA-062 aetektec.com · news_2（html）：首轮基线
+- SA-062 aetektec.com · youtube（rss）：首轮基线
+- SA-065 LOOP TELECOM · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='looptelecom.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: una
+- SA-065 LOOP TELECOM · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='looptelecom.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify 
+- SA-065 LOOP TELECOM · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='looptelecom.com', port=443): Max retries exceeded with url: /en/news (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fail
+- SA-075 Desk Technologies · home（html）：首轮基线
+- SA-075 Desk Technologies · sitemap（sitemap）：首轮基线
+- SA-075 Desk Technologies · news_1（html）：首轮基线
+- SA-075 Desk Technologies · news_2（html）：首轮基线
+- SA-075 Desk Technologies · youtube（youtube_handle）：首轮基线
+- SA-080 itk.co.th · home（html）：首轮基线
+- SA-080 itk.co.th · sitemap（sitemap）：首轮基线
+- SA-084 ERSTECH · home（html）：首轮基线
+- SA-085 SIPe · home（html）：首轮基线
+- SA-085 SIPe · feed_auto（rss）：首轮基线
+- SA-085 SIPe · sitemap（sitemap）：首轮基线
+- SA-085 SIPe · news_1（html）：首轮基线
+- SA-086 Safe-tech CCTV systems Sweden  · home（html）：首轮基线
+- SA-087 VoIPDistri · home（html）：首轮基线
+- SA-088 fibotelecom.ru · home（html）：首轮基线
+- SA-088 fibotelecom.ru · sitemap（sitemap）：首轮基线
+- SA-088 fibotelecom.ru · news_1（html）：首轮基线
+- SA-088 fibotelecom.ru · news_2（html）：首轮基线
+- SA-094 ETRADINGKOREA Co., Ltd · home（html）：首轮基线
+- SA-095 Medias-Com'S · home（html）：首轮基线
+- SA-095 Medias-Com'S · sitemap（sitemap）：首轮基线
+- SA-095 Medias-Com'S · news_1（html）：首轮基线
+- SA-096 OM Telecom S.R.L. · home（html）：首轮基线
+- SA-096 OM Telecom S.R.L. · sitemap（sitemap）：首轮基线
+- SA-097 PIOLINK · home（html）：首轮基线
+- SA-097 PIOLINK · sitemap（sitemap）：首轮基线
+- SA-097 PIOLINK · news_1（html）：首轮基线
+- SA-097 PIOLINK · news_2（html）：首轮基线
+- SA-097 PIOLINK · youtube（youtube_handle）：首轮基线
+- SA-099 Marvel ITCS Bahrain · home（html）：首轮基线
+- SA-099 Marvel ITCS Bahrain · sitemap（sitemap）：首轮基线
+- SA-099 Marvel ITCS Bahrain · news_1（html）：首轮基线
+- SA-100 TJ Computer · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='tj2003.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='tj2003.net', port=443): Failed to resolve 'tj2003.net' ([Errno 
+- SA-101 Thimphu Techpark · home（html）：首轮基线
+- SA-102 inthouse.eu · home（html）：首轮基线
+- SA-102 inthouse.eu · sitemap（sitemap）：首轮基线
+- SA-104 pulsar.kz · home（html）：首轮基线
+- SA-104 pulsar.kz · sitemap（sitemap）：首轮基线
+- SA-104 pulsar.kz · news_1（html）：首轮基线
+- SA-105 tricomp.com.pl · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='tricomp.com.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='tricomp.com.pl', port=443): Failed to resolve 'tricomp.com.
+- SA-106 zelax.ru · home（html）：首轮基线
+- SA-106 zelax.ru · sitemap（sitemap）：首轮基线
+- SA-106 zelax.ru · news_1（html）：首轮基线
+- SA-106 zelax.ru · news_2（html）：首轮基线
+- SA-107 4Demand Co · home（html）：首轮基线
+- SA-107 4Demand Co · feed_auto（rss）：首轮基线
+- SA-109 Telcam Fire&securoty Ltd · home（html）：首轮基线
+- SA-109 Telcam Fire&securoty Ltd · sitemap（sitemap）：首轮基线
+- SA-109 Telcam Fire&securoty Ltd · news_1（html）：首轮基线
+- SA-111 regalsecurity.co.za · home（html）：首轮基线
+- SA-113 Euro Technology · home（html）：首轮基线
+- SA-113 Euro Technology · sitemap（sitemap）：首轮基线
+- SA-113 Euro Technology · news_1（html）：首轮基线
+- SA-114 Win-Tech Alliance Ltd · home（html）：首轮基线
+- SA-115 advancedigital.co.in · home（html）：首轮基线
+- SA-117 domoticalia.es · home（html）：首轮基线
+- SA-118 topica.mn · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to
+- SA-118 topica.mn · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed
+- SA-118 topica.mn · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /blog (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+- SA-119 Almaks Security SystemsGospoda · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.almaks.rs', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+- SA-119 Almaks Security SystemsGospoda · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='www.almaks.rs', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ver
+- SA-119 Almaks Security SystemsGospoda · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.almaks.rs', port=443): Max retries exceeded with url: /novosti/standard-list/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificat
+- SA-119 Almaks Security SystemsGospoda · news_2（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.almaks.rs', port=443): Max retries exceeded with url: /portfolio-category/alarmni-sistemi/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILE
+- SA-121 MULTILINK (PVT) LTD · home（html）：首轮基线
+- SA-122 PT. ANUGERAH · home（html）：首轮基线
+- SA-123 Prestige Satellites Communicat · home（html）：首轮基线
+- SA-123 Prestige Satellites Communicat · sitemap（sitemap）：首轮基线
+- SA-126 onnettechnologies.com · home（html）：首轮基线
+- SA-127 testronix.ph · home（html）：首轮基线
+- SA-127 testronix.ph · feed_auto（rss）：首轮基线
+- SA-127 testronix.ph · sitemap（sitemap）：首轮基线
+- SA-127 testronix.ph · news_1（html）：首轮基线
+- SA-127 testronix.ph · news_2（html）：首轮基线
+- SA-128 DIOS ULTRA HD VIDEO SECURITY S · home（html）：首轮基线
+- SA-129 Net Work Business Solutions · home（html）：首轮基线
+- SA-130 Rfcom · home（html）：首轮基线
+- SA-130 Rfcom · news_1（html）：首轮基线
+- SA-130 Rfcom · news_2（html）：首轮基线
+- SA-132 avanca.com.sg · home（html）：首轮基线
+- SA-132 avanca.com.sg · sitemap（sitemap）：首轮基线
+- SA-132 avanca.com.sg · news_1（html）：首轮基线
+- SA-133 bargas.ru · home（html）：首轮基线
+- SA-133 bargas.ru · news_1（html）：首轮基线
+- SA-133 bargas.ru · news_2（html）：首轮基线
+- SA-135 megatelindustries.com · home（html）：首轮基线
+- SA-135 megatelindustries.com · sitemap（sitemap）：首轮基线
+- SA-136 Aarya ITES Pvt. Ltd. · home（html）：首轮基线
+- SA-136 Aarya ITES Pvt. Ltd. · feed_auto（rss）：首轮基线
+- SA-136 Aarya ITES Pvt. Ltd. · sitemap（sitemap）：首轮基线
+- SA-137 Avesta · home（html）：首轮基线
+- SA-137 Avesta · feed_auto（rss）：首轮基线
+- SA-139 amitytechnologies.co.in · home（html）：首轮基线
+- SA-139 amitytechnologies.co.in · feed_auto（rss）：首轮基线
+- SA-139 amitytechnologies.co.in · sitemap（sitemap）：首轮基线
+- SA-139 amitytechnologies.co.in · news_1（html）：首轮基线
+- SA-140 ayk.com.pk · home（html）：首轮基线
+- SA-140 ayk.com.pk · feed_auto（rss）：首轮基线
+- SA-140 ayk.com.pk · sitemap（sitemap）：首轮基线
+- SA-140 ayk.com.pk · news_1（html）：首轮基线
+- SA-140 ayk.com.pk · news_2（html）：首轮基线
+- SA-141 comtec.com.vn · home（html）：首轮基线
+- SA-141 comtec.com.vn · feed_auto（rss）：首轮基线
+- SA-141 comtec.com.vn · sitemap（sitemap）：首轮基线
+- SA-142 crec.com.ph · home（html）：首轮基线
+- SA-142 crec.com.ph · sitemap（sitemap）：首轮基线
+- SA-143 ict-integrators.com · home（html）：首轮基线
+- SA-144 mutexsystemsltd.com · home（html）：首轮基线
+- SA-144 mutexsystemsltd.com · sitemap（sitemap）：首轮基线
+- SA-144 mutexsystemsltd.com · news_1（html）：首轮基线
+- SA-144 mutexsystemsltd.com · news_2（html）：首轮基线
+- SA-144 mutexsystemsltd.com · youtube（youtube_handle）：首轮基线
+- SA-145 neowine · home（html）：首轮基线
+- SA-145 neowine · sitemap（sitemap）：首轮基线
+- SA-145 neowine · news_1（html）：首轮基线
+- SA-145 neowine · news_2（html）：首轮基线
+- SA-146 nkstech.net · home（html）：首轮基线
+- SA-146 nkstech.net · sitemap（sitemap）：首轮基线
+- SA-146 nkstech.net · news_1（html）：首轮基线
+- SA-148 technosys.co.in · home（html）：首轮基线
+- SA-148 technosys.co.in · feed_auto（rss）：首轮基线
+- SA-148 technosys.co.in · sitemap（sitemap）：首轮基线
+- SA-148 technosys.co.in · youtube（rss）：首轮基线
+- SA-151 ANB rimex · home（html）：首轮基线
+- SA-151 ANB rimex · sitemap（sitemap）：首轮基线
+- SA-151 ANB rimex · news_1（html）：首轮基线
+- SA-151 ANB rimex · news_2（html）：首轮基线
+- SA-152 Bilge SECURITY SYSTEMS · home（html）：首轮基线
+- SA-152 Bilge SECURITY SYSTEMS · sitemap（sitemap）：首轮基线
+- SA-152 Bilge SECURITY SYSTEMS · news_1（html）：首轮基线
+- SA-152 Bilge SECURITY SYSTEMS · news_2（html）：首轮基线
+- SA-155 Gmka · home（html）：首轮基线
+- SA-155 Gmka · feed_auto（rss）：首轮基线
+- SA-156 IST surveillance · home（html）：首轮基线
+- SA-156 IST surveillance · sitemap（sitemap）：首轮基线
+- SA-157 Liveye · home（html）：首轮基线
+- SA-157 Liveye · feed_auto（rss）：首轮基线
+- SA-157 Liveye · sitemap（sitemap）：首轮基线
+- SA-157 Liveye · news_1（html）：首轮基线
+- SA-157 Liveye · news_2（html）：首轮基线
+- SA-157 Liveye · youtube（youtube_handle）：首轮基线
+- SA-158 Sitis Sarl · home（html）：首轮基线
+- SA-162 cansisteknoloji.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='cansisteknoloji.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='cansisteknoloji.com', port=443) at 0x7fd15cf4c050>, 'C
+- SA-163 cyber-tec.net · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='cyber-tec.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='cyber-tec.net', port=443): Failed to resolve 'cyber-tec.net'
+- SA-164 dabos.com · home（html）：首轮基线
+- SA-167 voltechelektronik.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='voltechelektronik.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='voltechelektronik.com', port=443): Failed to resolve
+- SB-001 MERIT LILIN ENT. CO., LTD. · home（html）：首轮基线
+- SB-001 MERIT LILIN ENT. CO., LTD. · sitemap（sitemap）：首轮基线
+- SB-001 MERIT LILIN ENT. CO., LTD. · news_1（html）：首轮基线
+- SB-001 MERIT LILIN ENT. CO., LTD. · news_2（html）：首轮基线
+- SB-001 MERIT LILIN ENT. CO., LTD. · youtube（youtube_handle）：首轮基线
+- SB-002 AD-NET TECHNOLOGY CO., LTD. · home（html）：首轮基线
+- SB-002 AD-NET TECHNOLOGY CO., LTD. · sitemap（sitemap）：首轮基线
+- SB-002 AD-NET TECHNOLOGY CO., LTD. · news_1（html）：首轮基线
+- SB-002 AD-NET TECHNOLOGY CO., LTD. · youtube（youtube_handle）：首轮基线
+- SB-003 DIGI Group · home（html）：首轮基线
+- SB-003 DIGI Group · sitemap（sitemap）：首轮基线
+- SB-003 DIGI Group · news_1（html）：首轮基线
+- SB-003 DIGI Group · news_2（html）：首轮基线
+- SB-004 TAILYN · home（html）：首轮基线
+- SB-004 TAILYN · sitemap（sitemap）：首轮基线
+- SB-004 TAILYN · news_1（html）：首轮基线
+- SB-004 TAILYN · news_2（html）：首轮基线
+- SB-005 ASSMANN ASIA · home（html）：首轮基线
+- SB-006 EDIMAX · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='edimax.com.tw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='edimax.com.tw', port=443) at 0x7fd164121ca0>, 'Connection to
+- SB-007 Winsonic Electronics Co., Ltd. · home（html）：首轮基线
+- SB-008 adlerss.com · home（html）：首轮基线
+- SB-009 fingerprint-access-control.com · home（html）：首轮基线
+- SB-010 spacetronik.pl · home（html）：首轮基线
+- SB-011 konakguvenlik.com.tr · home（html）：首轮基线
+- SB-012 maxcomcorp.com · home（html）：首轮基线
+- SB-012 maxcomcorp.com · sitemap（sitemap）：首轮基线
+- SB-012 maxcomcorp.com · news_1（html）：首轮基线
+- SB-013 mtechnology.it · home（html）：首轮基线
+- SB-013 mtechnology.it · sitemap（sitemap）：首轮基线
+- SB-014 ovisscctv.com · home（html）：首轮基线
+- SB-014 ovisscctv.com · feed_auto（rss）：首轮基线
+- SB-015 lansan.com.tr · home（html）：首轮基线
+- SB-015 lansan.com.tr · sitemap（sitemap）：首轮基线
+- SB-015 lansan.com.tr · news_1（html）：首轮基线
+- SB-015 lansan.com.tr · youtube（rss）：首轮基线
+- SB-016 nexxtsolutions.com · home（html）：首轮基线
+- SB-016 nexxtsolutions.com · sitemap（sitemap）：首轮基线
+- SB-017 rocstor.com · home（html）：首轮基线
+- SB-017 rocstor.com · feed_auto（rss）：首轮基线
+- SB-017 rocstor.com · sitemap（sitemap）：首轮基线
+- SB-018 telkolink.com · home（html）：首轮基线
+- SB-018 telkolink.com · sitemap（sitemap）：首轮基线
+- SB-018 telkolink.com · news_1（html）：首轮基线
+- SB-018 telkolink.com · youtube（youtube_handle）：首轮基线
+- SB-021 AVICAM Ltd. · home（html）：首轮基线
+- SB-021 AVICAM Ltd. · feed_auto（rss）：首轮基线
+- SB-021 AVICAM Ltd. · sitemap（sitemap）：首轮基线
+- SB-021 AVICAM Ltd. · news_1（html）：首轮基线
+- SB-022 Denso Electronics Ltd · home（html）：首轮基线
+- SB-022 Denso Electronics Ltd · sitemap（sitemap）：首轮基线
+- SB-022 Denso Electronics Ltd · news_1（html）：首轮基线
+- SB-023 Grundig · home（html）：首轮基线
+- SB-023 Grundig · sitemap（sitemap）：首轮基线
+- SB-023 Grundig · news_1（html）：首轮基线
+- SB-023 Grundig · news_2（html）：首轮基线
+- SB-023 Grundig · youtube（rss）：首轮基线
+- SB-024 STS Italia S.r.l. · home（html）：首轮基线
+- SB-025 cenova.com.tr · home（html）：首轮基线
+- SB-026 citicalls.com · home（html）：首轮基线
+- SB-026 citicalls.com · sitemap（sitemap）：首轮基线
+- SB-027 glm.ge · home（html）：首轮基线
+- SB-028 gwsecurityusa.com · home（html）：首轮基线
+- SB-028 gwsecurityusa.com · feed_auto（rss）：首轮基线
+- SB-028 gwsecurityusa.com · sitemap（sitemap）：首轮基线
+- SB-028 gwsecurityusa.com · youtube（rss）：首轮基线
+- SB-029 ite.net.pk · home（html）：首轮基线
+- SB-030 itkati.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='itkati.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='itkati.com', port=443): Failed to resolve 'itkati.com' ([Errno 
+- SB-031 nivoxtech.com · home（html）：首轮基线
+- SB-031 nivoxtech.com · sitemap（sitemap）：首轮基线
+- SB-032 opax.com · home（html）：首轮基线
+- SB-032 opax.com · sitemap（sitemap）：首轮基线
+- SB-033 regionprof.ru · home（html）：首轮基线
+- SB-034 swift.net.pk · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='swift.net.pk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-s
+- SB-034 swift.net.pk · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='swift.net.pk', port=443): Max retries exceeded with url: /blog.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify faile
+- SB-039 genrov.com · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='genrov.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-sig
+- SB-040 wirestar.net · home（html）：首轮基线
+- SB-042 Pronet Connectivity (Pvt) Ltd. · home（html）：首轮基线
+- SB-042 Pronet Connectivity (Pvt) Ltd. · feed_auto（rss）：首轮基线
+- SB-042 Pronet Connectivity (Pvt) Ltd. · sitemap（sitemap）：首轮基线
+- SB-043 STORM ICT · home（html）：首轮基线
+- SB-044 Tera Technologies and Engineer · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='teratech.co.tz', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='teratech.co.tz', port=443) at 0x7fd16408f920>, 'Connection 
+- SB-045 tdtorus.ru · home（html）：首轮基线
+- SB-045 tdtorus.ru · sitemap（sitemap）：首轮基线
+- SB-045 tdtorus.ru · news_1（html）：首轮基线
+- SB-045 tdtorus.ru · news_2（html）：首轮基线
+- SB-046 telconet.net · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='telconet.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='telconet.net', port=443) at 0x7fd15cecd310>, 'Connection to t
+- SB-046 telconet.net · news_1（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='telconet.net', port=443): Max retries exceeded with url: /noticias (Caused by ConnectTimeoutError(<HTTPSConnection(host='telconet.net', port=443) at 0x7fd15c7cbe30>, 'Connect
+- SB-046 telconet.net · news_2（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='telconet.net', port=443): Max retries exceeded with url: /noticias/noticias (Caused by ConnectTimeoutError(<HTTPSConnection(host='telconet.net', port=443) at 0x7fd13c621880>,
+- SB-049 cablewindow.com · home（html）：首轮基线
+- SB-049 cablewindow.com · feed_auto（rss）：首轮基线
+- SB-049 cablewindow.com · sitemap（sitemap）：首轮基线
+- SB-049 cablewindow.com · news_1（html）：首轮基线
+- SB-050 izux.es · home（html）：首轮基线
+- SB-050 izux.es · sitemap（sitemap）：首轮基线
+- SB-050 izux.es · news_1（html）：首轮基线
+- SB-050 izux.es · news_2（html）：首轮基线
+- SB-050 izux.es · youtube（youtube_handle）：首轮基线
+- SB-051 orbitadigital.com · home（html）：首轮基线
+- SB-051 orbitadigital.com · youtube（youtube_handle）：首轮基线
+- SB-052 Addon Technology Ltd · home（html）：首轮基线
+- SB-053 Bonmag International · home（html）：首轮基线
+- SB-054 DE secure · home（html）：首轮基线
+- SB-054 DE secure · sitemap（sitemap）：首轮基线
+- SB-054 DE secure · news_1（html）：首轮基线
+- SB-055 F.A.S.T · home（html）：首轮基线
+- SB-055 F.A.S.T · feed_auto（rss）：首轮基线
+- SB-055 F.A.S.T · news_1（html）：首轮基线
+- SB-055 F.A.S.T · youtube（rss）：首轮基线
+- SB-056 Gigalight Pte ltd · home（html）：首轮基线
+- SB-056 Gigalight Pte ltd · feed_auto（rss）：首轮基线
+- SB-056 Gigalight Pte ltd · news_1（html）：首轮基线
+- SB-056 Gigalight Pte ltd · news_2（html）：首轮基线
+- SB-057 Kassaba Systems · home（html）：首轮基线
+- SB-057 Kassaba Systems · sitemap（sitemap）：首轮基线
+- SB-058 LABOR · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='labormuhendislik.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai
+- SB-058 LABOR · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='labormuhendislik.com.tr', port=443): Max retries exceeded with url: /projects (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ve
+- SB-059 Metalog International DMCC · home（html）：首轮基线
+- SB-059 Metalog International DMCC · feed_auto（rss）：首轮基线
+- SB-059 Metalog International DMCC · sitemap（sitemap）：首轮基线
+- SB-060 ORAL GUVENLIK · home（html）：首轮基线
+- SB-060 ORAL GUVENLIK · sitemap（sitemap）：首轮基线
+- SB-061 Volktek · home（html）：首轮基线
+- SB-061 Volktek · sitemap（sitemap）：首轮基线
+- SB-061 Volktek · news_1（html）：首轮基线
+- SB-061 Volktek · news_2（html）：首轮基线
+- SB-061 Volktek · youtube（rss）：首轮基线
+- SB-062 acusenseteknoloji.com · home（html）：首轮基线
+- SB-063 ag-bilgisayar.com · home（html）：首轮基线
+- SB-063 ag-bilgisayar.com · sitemap（sitemap）：首轮基线
+- SB-064 agilenetworks.com · home（html）：首轮基线
+- SB-064 agilenetworks.com · feed_auto（rss）：首轮基线
+- SB-064 agilenetworks.com · sitemap（sitemap）：首轮基线
+- SB-065 airpo.co.id · home（html）：首轮基线
+- SB-066 broadstar.com · home（html）：首轮基线
+- SB-066 broadstar.com · feed_auto（rss）：首轮基线
+- SB-067 bsdnetworks.com · home（html）：首轮基线
+- SB-067 bsdnetworks.com · sitemap（sitemap）：首轮基线
+- SB-068 digicomm.de · home（html）：首轮基线
+- SB-068 digicomm.de · sitemap（sitemap）：首轮基线
+- SB-068 digicomm.de · news_1（html）：首轮基线
+- SB-068 digicomm.de · news_2（html）：首轮基线
+- SB-069 exsys.it · home（html）：首轮基线
+- SB-070 genieproducts.co.uk · home（html）：首轮基线
+- SB-070 genieproducts.co.uk · sitemap（sitemap）：首轮基线
+- SB-070 genieproducts.co.uk · news_1（html）：首轮基线
+- SB-070 genieproducts.co.uk · news_2（html）：首轮基线
+- SB-071 isrcorp.co.il · home（html）：首轮基线
+- SB-071 isrcorp.co.il · sitemap（sitemap）：首轮基线
+- SB-072 klasnet.com.tr · home（html）：首轮基线
+- SB-072 klasnet.com.tr · sitemap（sitemap）：首轮基线
+- SB-073 nexxus.cc · home（html）：首轮基线
+- SB-073 nexxus.cc · feed_auto（rss）：首轮基线
+- SB-073 nexxus.cc · sitemap（sitemap）：首轮基线
+- SB-073 nexxus.cc · news_1（html）：首轮基线
+- SB-074 optiwatch monitoring solution · home（html）：首轮基线
+- SB-075 pulsar.pl · home（html）：首轮基线
+- SB-075 pulsar.pl · news_1（html）：首轮基线
+- SB-075 pulsar.pl · youtube（youtube_handle）：首轮基线
+- SB-076 sinerjik · home（html）：抓取失败：ReadTimeout: HTTPConnectionPool(host='sinerjik.net', port=80): Read timed out. (read timeout=20)
+- SB-077 wire.tech · home（html）：首轮基线
+- SB-077 wire.tech · sitemap（sitemap）：首轮基线
+- SB-077 wire.tech · news_1（html）：首轮基线
+- SB-077 wire.tech · news_2（html）：首轮基线
+- SB-082 cyberteam.pl · home（html）：首轮基线
+- SB-082 cyberteam.pl · sitemap（sitemap）：首轮基线
+- SB-082 cyberteam.pl · youtube（youtube_handle）：首轮基线
+- SB-083 dci.jp · home（html）：首轮基线
+- SB-083 dci.jp · feed_auto（rss）：首轮基线
+- SB-083 dci.jp · sitemap（sitemap）：首轮基线
+- SB-083 dci.jp · news_1（html）：首轮基线
+- SB-083 dci.jp · news_2（html）：首轮基线
+- SB-085 diatrend.com · home（html）：首轮基线
+- SB-085 diatrend.com · sitemap（sitemap）：首轮基线
+- SB-085 diatrend.com · youtube（youtube_handle）：首轮基线
+- SB-086 elmospa.com · home（html）：首轮基线
+- SB-086 elmospa.com · news_1（html）：首轮基线
+- SB-086 elmospa.com · news_2（html）：首轮基线
+- SB-086 elmospa.com · youtube（youtube_handle）：首轮基线
+- SB-089 linx-com.com · home（html）：首轮基线
+- SB-089 linx-com.com · feed_auto（rss）：首轮基线
+- SB-089 linx-com.com · sitemap（sitemap）：首轮基线
+- SB-089 linx-com.com · news_1（html）：首轮基线
+- SB-090 mahanet-jp.com · home（html）：首轮基线
+- SB-090 mahanet-jp.com · sitemap（sitemap）：首轮基线
+- SB-091 optigo.net · home（html）：首轮基线
+- SB-091 optigo.net · sitemap（sitemap）：首轮基线
+- SB-091 optigo.net · news_1（html）：首轮基线
+- SB-091 optigo.net · news_2（html）：首轮基线
+- SB-092 skeo.ru · home（html）：首轮基线
+- SB-092 skeo.ru · sitemap（sitemap）：首轮基线
+- SB-092 skeo.ru · news_1（html）：首轮基线
+- SB-092 skeo.ru · news_2（html）：首轮基线
+- SB-092 skeo.ru · vk（html）：首轮基线
+- SB-092 skeo.ru · youtube（rss）：首轮基线
+- SB-093 unea-x.com · home（html）：首轮基线
+- SB-093 unea-x.com · sitemap（sitemap）：首轮基线
+- SB-094 yminc.ca · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='yminc.ca', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='yminc.ca', port=443) at 0x7fd164165dc0>, 'Connection to yminc.ca 
+- SB-096 ONSIS ELEKTRONIK · home（html）：首轮基线
+- SB-096 ONSIS ELEKTRONIK · feed_auto（rss）：首轮基线
+- SB-096 ONSIS ELEKTRONIK · sitemap（sitemap）：首轮基线
+- SB-098 WIMEX TECHNOLOGIES · home（html）：首轮基线
+- SB-099 agsplus.in · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='agsplus.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname
+- SB-100 balter.de · home（html）：首轮基线
+- SB-100 balter.de · news_1（html）：首轮基线
+- SB-100 balter.de · youtube（rss）：首轮基线
+- SB-1000 stasanet.rs · home（html）：首轮基线
+- SB-1000 stasanet.rs · sitemap（sitemap）：首轮基线
+- SB-1000 stasanet.rs · news_1（html）：首轮基线
+- SB-1000 stasanet.rs · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-1001 stordis.com · home（html）：首轮基线
+- SB-1001 stordis.com · feed_auto（rss）：首轮基线
+- SB-1002 teamon.com.tr · home（html）：首轮基线
+- SB-1002 teamon.com.tr · news_1（html）：首轮基线
+- SB-1003 technopc.com.tr · home（html）：首轮基线
+- SB-1003 technopc.com.tr · sitemap（sitemap）：首轮基线
+- SB-1003 technopc.com.tr · news_1（html）：首轮基线
+- SB-1003 technopc.com.tr · news_2（html）：首轮基线
+- SB-1003 technopc.com.tr · youtube（rss）：首轮基线
+- SB-1004 techpoint-gmbh.de · home（html）：首轮基线
+- SB-1004 techpoint-gmbh.de · feed_auto（rss）：首轮基线
+- SB-1004 techpoint-gmbh.de · sitemap（sitemap）：首轮基线
+- SB-1004 techpoint-gmbh.de · news_1（html）：首轮基线
+- SB-1004 techpoint-gmbh.de · news_2（html）：首轮基线
+- SB-1005 telcofusion.com.mx · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='telcofusion.com.mx', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='telcofusion.com.mx', port=443): Failed to resolve 'telc
+- SB-1006 trassir.ru · home（html）：首轮基线
+- SB-1006 trassir.ru · sitemap（sitemap）：首轮基线
+- SB-1006 trassir.ru · news_1（html）：首轮基线
+- SB-1006 trassir.ru · news_2（html）：首轮基线
+- SB-1007 video-svp.ru · home（html）：首轮基线
+- SB-1007 video-svp.ru · news_1（html）：首轮基线
+- SB-1007 video-svp.ru · news_2（html）：首轮基线
+- SB-1008 vilcom.ru · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='vilcom.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certifica
+- SB-101 comtek-de.com · home（html）：首轮基线
+- SB-101 comtek-de.com · sitemap（sitemap）：首轮基线
+- SB-1011 xvi.ru · home（html）：首轮基线
+- SB-1011 xvi.ru · sitemap（sitemap）：首轮基线
+- SB-1011 xvi.ru · news_1（html）：首轮基线
+- SB-1011 xvi.ru · news_2（html）：首轮基线
+- SB-1012 摄像头公司 · home（html）：首轮基线
+- SB-1012 摄像头公司 · sitemap（sitemap）：首轮基线
+- SB-1018 Nuthill · home（html）：首轮基线
+- SB-1019 TELTRONIX | BRITICOM · home（html）：首轮基线
+- SB-102 consteel-electronics.com · home（html）：首轮基线
+- SB-102 consteel-electronics.com · news_1（html）：首轮基线
+- SB-1020 avizio.pl · home（html）：首轮基线
+- SB-1021 besd.nl · home（html）：首轮基线
+- SB-1022 ctservicestore.it · home（html）：首轮基线
+- SB-1022 ctservicestore.it · sitemap（sitemap）：首轮基线
+- SB-1023 daejinnetworks.com · home（html）：首轮基线
+- SB-1023 daejinnetworks.com · feed_auto（rss）：首轮基线
+- SB-1023 daejinnetworks.com · sitemap（sitemap）：首轮基线
+- SB-1026 etictelecom.com · home（html）：首轮基线
+- SB-1026 etictelecom.com · sitemap（sitemap）：首轮基线
+- SB-1026 etictelecom.com · news_1（html）：首轮基线
+- SB-1028 itmarket.co.il · home（html）：首轮基线
+- SB-103 inaxsys.com · home（html）：首轮基线
+- SB-103 inaxsys.com · news_1（html）：首轮基线
+- SB-1030 lanpro.com · home（html）：首轮基线
+- SB-1030 lanpro.com · sitemap（sitemap）：首轮基线
+- SB-1031 mro-tek.com · home（html）：首轮基线
+- SB-1031 mro-tek.com · sitemap（sitemap）：首轮基线
+- SB-1031 mro-tek.com · news_1（html）：首轮基线
+- SB-1031 mro-tek.com · news_2（html）：首轮基线
+- SB-1032 radwin.com · home（html）：首轮基线
+- SB-1032 radwin.com · sitemap（sitemap）：首轮基线
+- SB-1032 radwin.com · news_1（html）：首轮基线
+- SB-1032 radwin.com · news_2（html）：首轮基线
+- SB-1033 skipod.lk · home（html）：首轮基线
+- SB-1035 torqsys.com · home（html）：首轮基线
+- SB-1035 torqsys.com · sitemap（sitemap）：首轮基线
+- SB-1036 Alston Systems · home（html）：首轮基线
+- SB-1036 Alston Systems · feed_auto（rss）：首轮基线
+- SB-1036 Alston Systems · sitemap（sitemap）：首轮基线
+- SB-1038 Bismon Co.,Ltd · home（html）：首轮基线
+- SB-1039 Blue Skill Ltd · home（html）：首轮基线
+- SB-1039 Blue Skill Ltd · sitemap（sitemap）：首轮基线
+- SB-104 karerguvenlik.com · home（html）：首轮基线
+- SB-104 karerguvenlik.com · sitemap（sitemap）：首轮基线
+- SB-1041 Fiberbase · home（html）：首轮基线
+- SB-1042 HYESUNG TECHWIN · home（html）：首轮基线
+- SB-1043 Intracom Middle East FZ-LLC · home（html）：首轮基线
+- SB-1043 Intracom Middle East FZ-LLC · sitemap（sitemap）：首轮基线
+- SB-1043 Intracom Middle East FZ-LLC · news_1（html）：首轮基线
+- SB-1043 Intracom Middle East FZ-LLC · news_2（html）：首轮基线
+- SB-1043 Intracom Middle East FZ-LLC · youtube（youtube_handle）：首轮基线
+- SB-1044 MIRAE SIGNAL CO.,LTD · home（html）：首轮基线
+- SB-1044 MIRAE SIGNAL CO.,LTD · sitemap（sitemap）：首轮基线
+- SB-1046 Osool Coummunications · home（html）：首轮基线
+- SB-1046 Osool Coummunications · feed_auto（rss）：首轮基线
+- SB-1046 Osool Coummunications · sitemap（sitemap）：首轮基线
+- SB-1046 Osool Coummunications · news_1（html）：首轮基线
+- SB-1046 Osool Coummunications · news_2（html）：首轮基线
+- SB-1047 RARMX ENGINEERING SA DE CV · home（html）：首轮基线
+- SB-1047 RARMX ENGINEERING SA DE CV · feed_auto（rss）：首轮基线
+- SB-1047 RARMX ENGINEERING SA DE CV · sitemap（sitemap）：首轮基线
+- SB-1048 SEVEN Stars · home（html）：首轮基线
+- SB-1048 SEVEN Stars · sitemap（sitemap）：首轮基线
+- SB-1048 SEVEN Stars · news_1（html）：首轮基线
+- SB-1049 SOLTECH · home（html）：首轮基线
+- SB-105 mbtc.com.sa · home（html）：首轮基线
+- SB-1050 Socra Spa. · home（html）：首轮基线
+- SB-1050 Socra Spa. · feed_auto（rss）：首轮基线
+- SB-1050 Socra Spa. · sitemap（sitemap）：首轮基线
+- SB-1050 Socra Spa. · news_1（html）：首轮基线
+- SB-1050 Socra Spa. · youtube（rss）：首轮基线
+- SB-1051 Wave1 Pty Ltd · home（html）：首轮基线
+- SB-1051 Wave1 Pty Ltd · sitemap（sitemap）：首轮基线
+- SB-1051 Wave1 Pty Ltd · news_1（html）：首轮基线
+- SB-1051 Wave1 Pty Ltd · news_2（html）：首轮基线
+- SB-1052 acceed.com · home（html）：首轮基线
+- SB-1052 acceed.com · sitemap（sitemap）：首轮基线
+- SB-1052 acceed.com · news_1（html）：首轮基线
+- SB-1052 acceed.com · news_2（html）：首轮基线
+- SB-1054 airlive.com · home（html）：首轮基线
+- SB-1054 airlive.com · sitemap（sitemap）：首轮基线
+- SB-1054 airlive.com · news_1（html）：首轮基线
+- SB-1054 airlive.com · news_2（html）：首轮基线
+- SB-1055 alibisecurity.com · home（html）：首轮基线
+- SB-1055 alibisecurity.com · sitemap（sitemap）：首轮基线
+- SB-1055 alibisecurity.com · news_1（html）：首轮基线
+- SB-1055 alibisecurity.com · news_2（html）：首轮基线
+- SB-1055 alibisecurity.com · youtube（youtube_handle）：首轮基线
+- SB-1056 alshuaibelectronics.com · home（html）：首轮基线
+- SB-1056 alshuaibelectronics.com · feed_auto（rss）：首轮基线
+- SB-1056 alshuaibelectronics.com · sitemap（sitemap）：首轮基线
+- SB-1056 alshuaibelectronics.com · news_1（html）：首轮基线
+- SB-1057 altronics.com.au · home（html）：首轮基线
+- SB-1058 anewtech.net · home（html）：首轮基线
+- SB-1058 anewtech.net · sitemap（sitemap）：首轮基线
+- SB-1058 anewtech.net · news_1（html）：首轮基线
+- SB-1058 anewtech.net · news_2（html）：首轮基线
+- SB-1059 c4line.com · home（html）：首轮基线
+- SB-1059 c4line.com · news_1（html）：首轮基线
+- SB-1059 c4line.com · news_2（html）：首轮基线
+- SB-1059 c4line.com · youtube（youtube_handle）：首轮基线
+- SB-106 oksa.co.uk · home（html）：首轮基线
+- SB-106 oksa.co.uk · feed_auto（rss）：首轮基线
+- SB-106 oksa.co.uk · sitemap（sitemap）：首轮基线
+- SB-1060 cleverkey.ru · home（html）：首轮基线
+- SB-1060 cleverkey.ru · sitemap（sitemap）：首轮基线
+- SB-1061 cominet.co.kr · home（html）：首轮基线
+- SB-1061 cominet.co.kr · news_1（html）：首轮基线
+- SB-1061 cominet.co.kr · news_2（html）：首轮基线
+- SB-1062 comptek.kz · home（html）：首轮基线
+- SB-1065 dmtrade.pl · home（html）：首轮基线
+- SB-1066 dorani.com.au · home（html）：首轮基线
+- SB-1066 dorani.com.au · sitemap（sitemap）：首轮基线
+- SB-107 sklep-ecsystem.pl · home（html）：首轮基线
+- SB-1070 fybera.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='fybera.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='fybera.com', port=443): Failed to resolve 'fybera.com' ([Errno 
+- SB-1071 grep.sg · home（html）：首轮基线
+- SB-1074 intrising.com.tw · home（html）：首轮基线
+- SB-1074 intrising.com.tw · feed_auto（rss）：首轮基线
+- SB-1074 intrising.com.tw · sitemap（sitemap）：首轮基线
+- SB-1074 intrising.com.tw · news_1（html）：首轮基线
+- SB-1074 intrising.com.tw · news_2（html）：首轮基线
+- SB-1075 ison-tech.com · home（html）：首轮基线
+- SB-1075 ison-tech.com · sitemap（sitemap）：首轮基线
+- SB-1075 ison-tech.com · news_1（html）：首轮基线
+- SB-1075 ison-tech.com · news_2（html）：首轮基线
+- SB-1076 krysma.com.au · home（html）：首轮基线
+- SB-1077 ksm.com.au · home（html）：首轮基线
+- SB-1078 line-net · home（html）：首轮基线
+- SB-108 wisp.pl · home（html）：首轮基线
+- SB-108 wisp.pl · sitemap（sitemap）：首轮基线
+- SB-1080 montavue.com · home（html）：首轮基线
+- SB-1080 montavue.com · sitemap（sitemap）：首轮基线
+- SB-1080 montavue.com · news_1（html）：首轮基线
+- SB-1080 montavue.com · youtube（rss）：首轮基线
+- SB-1081 mse.com.tw · home（html）：首轮基线
+- SB-1081 mse.com.tw · sitemap（sitemap）：首轮基线
+- SB-1081 mse.com.tw · news_1（html）：首轮基线
+- SB-1082 nemon.co.kr · home（html）：首轮基线
+- SB-1083 netstar.in · home（html）：首轮基线
+- SB-1083 netstar.in · sitemap（sitemap）：首轮基线
+- SB-1084 omctech.com · home（html）：首轮基线
+- SB-1084 omctech.com · feed_auto（rss）：首轮基线
+- SB-1085 psaproducts.com.au · home（html）：首轮基线
+- SB-1085 psaproducts.com.au · feed_auto（rss）：首轮基线
+- SB-1085 psaproducts.com.au · sitemap（sitemap）：首轮基线
+- SB-1085 psaproducts.com.au · news_1（html）：首轮基线
+- SB-1085 psaproducts.com.au · youtube（youtube_handle）：首轮基线
+- SB-1086 servo-tech.co.kr · home（html）：首轮基线
+- SB-1087 sieuthivienthong.com · home（html）：首轮基线
+- SB-1088 silarius.com · home（html）：首轮基线
+- SB-1088 silarius.com · sitemap（sitemap）：首轮基线
+- SB-1089 steren.com.mx · home（html）：首轮基线
+- SB-1090 top-fa.com · home（html）：首轮基线
+- SB-1090 top-fa.com · news_1（html）：首轮基线
+- SB-1091 triplenet.co.kr · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='triplenet.co.kr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))
+- SB-1092 unitelco.co.kr · home（html）：首轮基线
+- SB-1093 uplinker.ru · home（html）：首轮基线
+- SB-1093 uplinker.ru · sitemap（sitemap）：首轮基线
+- SB-1094 vidcom.uz · home（html）：首轮基线
+- SB-1094 vidcom.uz · telegram（html）：首轮基线
+- SB-1095 view-tel.co.kr · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='view-tel.co.kr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='view-tel.co.kr', port=443): Failed to resolve 'view-tel.co.
+- SB-1096 ynminc.com · home（html）：首轮基线
+- SB-1096 ynminc.com · sitemap（sitemap）：首轮基线
+- SB-1096 ynminc.com · news_1（html）：首轮基线
+- SB-1096 ynminc.com · news_2（html）：首轮基线
+- SB-1097 zenithtek.co.kr · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='zenithtek.co.kr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010
+- SB-1098 3sti-technologies.com · home（html）：首轮基线
+- SB-1098 3sti-technologies.com · news_1（html）：首轮基线
+- SB-1099 EION Inc · home（html）：首轮基线
+- SB-1101 IPS · home（html）：首轮基线
+- SB-1101 IPS · feed_auto（rss）：首轮基线
+- SB-1101 IPS · sitemap（sitemap）：首轮基线
+- SB-1101 IPS · youtube（rss）：首轮基线
+- SB-1102 KN Electrologic Services Ltd · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='electrologicservices.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='electrologicservices.com', port=443) at 0x7fd14cc
+- SB-1103 Multi Technology System · home（html）：首轮基线
+- SB-1106 b-plus.com · home（html）：首轮基线
+- SB-1106 b-plus.com · news_1（html）：首轮基线
+- SB-1106 b-plus.com · news_2（html）：首轮基线
+- SB-1106 b-plus.com · youtube（youtube_handle）：首轮基线
+- SB-1107 cctv-global.co.uk · home（html）：首轮基线
+- SB-111 FOLINE · home（html）：首轮基线
+- SB-111 FOLINE · sitemap（sitemap）：首轮基线
+- SB-111 FOLINE · telegram（html）：首轮基线
+- SB-1111 eltrox.cz · home（html）：首轮基线
+- SB-1111 eltrox.cz · sitemap（sitemap）：首轮基线
+- SB-1111 eltrox.cz · news_1（html）：首轮基线
+- SB-1112 eurobyte.co.za · home（html）：首轮基线
+- SB-1112 eurobyte.co.za · sitemap（sitemap）：首轮基线
+- SB-1115 iOneresources · home（html）：首轮基线
+- SB-1115 iOneresources · feed_auto（rss）：首轮基线
+- SB-1115 iOneresources · sitemap（sitemap）：首轮基线
+- SB-1115 iOneresources · news_1（html）：首轮基线
+- SB-1115 iOneresources · news_2（html）：首轮基线
+- SB-1116 ipvoiceshop.nl · home（html）：首轮基线
+- SB-1116 ipvoiceshop.nl · sitemap（sitemap）：首轮基线
+- SB-1117 l-com.com · home（html）：首轮基线
+- SB-1118 mcss.co.kr · home（html）：首轮基线
+- SB-1118 mcss.co.kr · sitemap（sitemap）：首轮基线
+- SB-1118 mcss.co.kr · news_1（html）：首轮基线
+- SB-1118 mcss.co.kr · news_2（html）：首轮基线
+- SB-1118 mcss.co.kr · youtube（youtube_handle）：首轮基线
+- SB-112 Interpos · home（html）：首轮基线
+- SB-1120 nltinc.com · home（html）：首轮基线
+- SB-1120 nltinc.com · feed_auto（rss）：首轮基线
+- SB-1120 nltinc.com · sitemap（sitemap）：首轮基线
+- SB-1120 nltinc.com · news_1（html）：首轮基线
+- SB-1121 olsontech.com · home（html）：首轮基线
+- SB-1121 olsontech.com · sitemap（sitemap）：首轮基线
+- SB-1123 qnv.com · home（html）：首轮基线
+- SB-1123 qnv.com · feed_auto（rss）：首轮基线
+- SB-1123 qnv.com · sitemap（sitemap）：首轮基线
+- SB-1126 testsol.ru · home（html）：首轮基线
+- SB-1126 testsol.ru · news_1（html）：首轮基线
+- SB-1126 testsol.ru · news_2（html）：首轮基线
+- SB-1127 throughput.co.za · home（html）：首轮基线
+- SB-1127 throughput.co.za · news_1（html）：首轮基线
+- SB-1127 throughput.co.za · news_2（html）：首轮基线
+- SB-1134 Infinity Hardware · home（html）：首轮基线
+- SB-1134 Infinity Hardware · feed_auto（rss）：首轮基线
+- SB-1138 Precision · home（html）：首轮基线
+- SB-1138 Precision · sitemap（sitemap）：首轮基线
+- SB-1139 Tubal · home（html）：首轮基线
+- SB-1141 Wave electronics Ltd · home（html）：首轮基线
+- SB-1141 Wave electronics Ltd · sitemap（sitemap）：首轮基线
+- SB-1141 Wave electronics Ltd · news_1（html）：首轮基线
+- SB-1141 Wave electronics Ltd · news_2（html）：首轮基线
+- SB-1143 abigo4u.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='abigo4u.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='abigo4u.com', port=443): Failed to establish a new connection: 
+- SB-1144 accuratetechnologies.com · home（html）：首轮基线
+- SB-1144 accuratetechnologies.com · sitemap（sitemap）：首轮基线
+- SB-1144 accuratetechnologies.com · news_1（html）：首轮基线
+- SB-1144 accuratetechnologies.com · news_2（html）：首轮基线
+- SB-1144 accuratetechnologies.com · youtube（rss）：首轮基线
+- SB-1145 acixme.com · home（html）：首轮基线
+- SB-1145 acixme.com · feed_auto（rss）：首轮基线
+- SB-1145 acixme.com · sitemap（sitemap）：首轮基线
+- SB-1145 acixme.com · news_1（html）：首轮基线
+- SB-1145 acixme.com · news_2（html）：首轮基线
+- SB-1145 acixme.com · youtube（youtube_handle）：首轮基线
+- SB-1146 adj.it · home（html）：首轮基线
+- SB-1146 adj.it · sitemap（sitemap）：首轮基线
+- SB-1146 adj.it · youtube（youtube_handle）：首轮基线
+- SB-1147 agmultivision.it · home（html）：首轮基线
+- SB-1147 agmultivision.it · sitemap（sitemap）：首轮基线
+- SB-1147 agmultivision.it · news_1（html）：首轮基线
+- SB-1147 agmultivision.it · news_2（html）：首轮基线
+- SB-1147 agmultivision.it · youtube（youtube_handle）：首轮基线
+- SB-1148 akistechnologies.com · home（html）：首轮基线
+- SB-1148 akistechnologies.com · sitemap（sitemap）：首轮基线
+- SB-1148 akistechnologies.com · news_1（html）：首轮基线
+- SB-1148 akistechnologies.com · news_2（html）：首轮基线
+- SB-1149 algosolutions.com · home（html）：首轮基线
+- SB-1149 algosolutions.com · sitemap（sitemap）：首轮基线
+- SB-1149 algosolutions.com · news_1（html）：首轮基线
+- SB-1149 algosolutions.com · news_2（html）：首轮基线
+- SB-1149 algosolutions.com · youtube（rss）：首轮基线
+- SB-115 Vernetzen Pty Ltd · home（html）：首轮基线
+- SB-115 Vernetzen Pty Ltd · feed_auto（rss）：首轮基线
+- SB-115 Vernetzen Pty Ltd · sitemap（sitemap）：首轮基线
+- SB-115 Vernetzen Pty Ltd · news_1（html）：首轮基线
+- SB-1150 alphaelettronica.com · home（html）：首轮基线
+- SB-1150 alphaelettronica.com · sitemap（sitemap）：首轮基线
+- SB-1151 altelix.com · home（html）：首轮基线
+- SB-1152 amplicon.com · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.amplicon.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: un
+- SB-1152 amplicon.com · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='www.amplicon.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify
+- SB-1152 amplicon.com · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.amplicon.com', port=443): Max retries exceeded with url: /about/news-events/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate
+- SB-1152 amplicon.com · news_2（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.amplicon.com', port=443): Max retries exceeded with url: /whitepapers/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verif
+- SB-1152 amplicon.com · youtube（youtube_handle）：首轮基线
+- SB-1154 aplusnet.de · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='aplusnet.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='aplusnet.de', port=443): Failed to resolve 'aplusnet.de' ([Err
+- SB-1155 arpeo.pl · home（html）：首轮基线
+- SB-1155 arpeo.pl · feed_auto（rss）：首轮基线
+- SB-1155 arpeo.pl · sitemap（sitemap）：首轮基线
+- SB-1157 asit.it · home（html）：首轮基线
+- SB-1157 asit.it · sitemap（sitemap）：首轮基线
+- SB-1157 asit.it · news_1（html）：首轮基线
+- SB-1158 audio.com.tr · home（html）：首轮基线
+- SB-1158 audio.com.tr · sitemap（sitemap）：首轮基线
+- SB-1158 audio.com.tr · news_1（html）：首轮基线
+- SB-1159 avnordic.se · home（html）：首轮基线
+- SB-1159 avnordic.se · sitemap（sitemap）：首轮基线
+- SB-116 Zeytek · home（html）：首轮基线
+- SB-116 Zeytek · sitemap（sitemap）：首轮基线
+- SB-1160 avstek.fi · home（html）：首轮基线
+- SB-1161 batna24.com · home（html）：首轮基线
+- SB-1162 bayiden.com.tr · home（html）：首轮基线
+- SB-1162 bayiden.com.tr · sitemap（sitemap）：首轮基线
+- SB-1162 bayiden.com.tr · news_1（html）：首轮基线
+- SB-1162 bayiden.com.tr · youtube（youtube_handle）：首轮基线
+- SB-1163 binarteknik.se · home（html）：首轮基线
+- SB-1163 binarteknik.se · youtube（rss）：首轮基线
+- SB-1164 bitstreamcore.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='bitstreamcore.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='bitstreamcore.com', port=443) at 0x7fd15cd0d340>, 'Conne
+- SB-1165 bizsyscon.com · home（html）：首轮基线
+- SB-1165 bizsyscon.com · sitemap（sitemap）：首轮基线
+- SB-1165 bizsyscon.com · youtube（youtube_handle）：首轮基线
+- SB-1166 bluenote.ro · home（html）：首轮基线
+- SB-1166 bluenote.ro · feed_auto（rss）：首轮基线
+- SB-1166 bluenote.ro · sitemap（sitemap）：首轮基线
+- SB-1167 br-network-shop.de · home（html）：首轮基线
+- SB-1169 cae-groupe.com · home（html）：首轮基线
+- SB-1169 cae-groupe.com · news_1（html）：首轮基线
+- SB-1169 cae-groupe.com · news_2（html）：首轮基线
+- SB-1169 cae-groupe.com · youtube（rss）：首轮基线
+- SB-117 basaranelektronik.net · home（html）：首轮基线
+- SB-117 basaranelektronik.net · news_1（html）：首轮基线
+- SB-117 basaranelektronik.net · news_2（html）：首轮基线
+- SB-1172 cellco.com.pl · home（html）：首轮基线
+- SB-1173 coeldistribution.it · home（html）：首轮基线
+- SB-1173 coeldistribution.it · feed_auto（rss）：首轮基线
+- SB-1173 coeldistribution.it · sitemap（sitemap）：首轮基线
+- SB-1173 coeldistribution.it · news_1（html）：首轮基线
+- SB-1173 coeldistribution.it · youtube（youtube_handle）：首轮基线
+- SB-1174 connectixcablingsystems.com · home（html）：首轮基线
+- SB-1175 cratsol.ae · home（html）：首轮基线
+- SB-1175 cratsol.ae · feed_auto（rss）：首轮基线
+- SB-1176 cyberbajt.pl · home（html）：首轮基线
+- SB-1176 cyberbajt.pl · feed_auto（rss）：首轮基线
+- SB-1177 danbit.dk · home（html）：首轮基线
+- SB-1177 danbit.dk · youtube（rss）：首轮基线
+- SB-1178 dipol.pt · home（html）：首轮基线
+- SB-1178 dipol.pt · sitemap（sitemap）：首轮基线
+- SB-1178 dipol.pt · news_1（html）：首轮基线
+- SB-1179 dowtechnologies.com · home（html）：首轮基线
+- SB-1179 dowtechnologies.com · sitemap（sitemap）：首轮基线
+- SB-1182 elfon.com.pl · home（html）：首轮基线
+- SB-1182 elfon.com.pl · news_1（html）：首轮基线
+- SB-1183 epygi.com · home（html）：首轮基线
+- SB-1183 epygi.com · feed_auto（rss）：首轮基线
+- SB-1183 epygi.com · sitemap（sitemap）：首轮基线
+- SB-1183 epygi.com · news_1（html）：首轮基线
+- SB-1183 epygi.com · news_2（html）：首轮基线
+- SB-1183 epygi.com · youtube（youtube_handle）：首轮基线
+- SB-1184 everbesthk.com · home（html）：首轮基线
+- SB-1184 everbesthk.com · sitemap（sitemap）：首轮基线
+- SB-1184 everbesthk.com · news_1（html）：首轮基线
+- SB-1184 everbesthk.com · news_2（html）：首轮基线
+- SB-1185 fibersavvy.com · home（html）：首轮基线
+- SB-1185 fibersavvy.com · sitemap（sitemap）：首轮基线
+- SB-1185 fibersavvy.com · news_1（html）：首轮基线
+- SB-1185 fibersavvy.com · news_2（html）：首轮基线
+- SB-1186 fibersystem.com · home（html）：首轮基线
+- SB-1186 fibersystem.com · sitemap（sitemap）：首轮基线
+- SB-1186 fibersystem.com · news_1（html）：首轮基线
+- SB-1186 fibersystem.com · news_2（html）：首轮基线
+- SB-1187 fibertronics.com · home（html）：首轮基线
+- SB-1187 fibertronics.com · news_1（html）：首轮基线
+- SB-1188 findcontrols.com · home（html）：首轮基线
+- SB-1188 findcontrols.com · sitemap（sitemap）：首轮基线
+- SB-1188 findcontrols.com · news_1（html）：首轮基线
+- SB-1188 findcontrols.com · youtube（rss）：首轮基线
+- SB-1189 foppex.com · home（html）：首轮基线
+- SB-119 pelikanbilgisayar.com · home（html）：首轮基线
+- SB-1191 garmasl.com · home（html）：首轮基线
+- SB-1191 garmasl.com · youtube（youtube_handle）：首轮基线
+- SB-1192 gogss.com · home（html）：首轮基线
+- SB-1193 gponnetwork.com · home（html）：首轮基线
+- SB-1193 gponnetwork.com · feed_auto（rss）：首轮基线
+- SB-1193 gponnetwork.com · sitemap（sitemap）：首轮基线
+- SB-1195 grinsrl.it · home（html）：首轮基线
+- SB-1195 grinsrl.it · feed_auto（rss）：首轮基线
+- SB-1195 grinsrl.it · news_1（html）：首轮基线
+- SB-1195 grinsrl.it · news_2（html）：首轮基线
+- SB-1196 hightrade-international.com · home（html）：首轮基线
+- SB-1196 hightrade-international.com · sitemap（sitemap）：首轮基线
+- SB-1197 icecom.is · home（html）：首轮基线
+- SB-1198 ico.de · home（html）：首轮基线
+- SB-1198 ico.de · news_1（html）：首轮基线
+- SB-1198 ico.de · news_2（html）：首轮基线
+- SB-1199 icpdas.ro · home（html）：首轮基线
+- SB-1199 icpdas.ro · feed_auto（rss）：首轮基线
+- SB-120 saf-slk.de · home（html）：首轮基线
+- SB-120 saf-slk.de · sitemap（sitemap）：首轮基线
+- SB-1202 intshop.pl · home（html）：首轮基线
+- SB-1203 iotkomponenty.sk · home（html）：首轮基线
+- SB-1204 ipcamerawebwinkel.nl · home（html）：首轮基线
+- SB-1204 ipcamerawebwinkel.nl · sitemap（sitemap）：首轮基线
+- SB-1204 ipcamerawebwinkel.nl · news_1（html）：首轮基线
+- SB-1205 ipcctv.ch · home（html）：首轮基线
+- SB-1205 ipcctv.ch · sitemap（sitemap）：首轮基线
+- SB-1207 itm-components.co.uk · home（html）：首轮基线
+- SB-1207 itm-components.co.uk · sitemap（sitemap）：首轮基线
+- SB-1207 itm-components.co.uk · news_1（html）：首轮基线
+- SB-1207 itm-components.co.uk · news_2（html）：首轮基线
+- SB-1207 itm-components.co.uk · youtube（rss）：首轮基线
+- SB-1208 ivolta.pl · home（html）：首轮基线
+- SB-1208 ivolta.pl · sitemap（sitemap）：首轮基线
+- SB-1208 ivolta.pl · news_1（html）：首轮基线
+- SB-1208 ivolta.pl · youtube（youtube_handle）：首轮基线
+- SB-1209 kamsys.pl · home（html）：首轮基线
+- SB-1209 kamsys.pl · news_1（html）：首轮基线
+- SB-1209 kamsys.pl · news_2（html）：首轮基线
+- SB-1209 kamsys.pl · youtube（rss）：首轮基线
+- SB-121 vintronsmartvision.com · home（html）：首轮基线
+- SB-121 vintronsmartvision.com · sitemap（sitemap）：首轮基线
+- SB-121 vintronsmartvision.com · news_1（html）：首轮基线
+- SB-1210 kargor.com · home（html）：首轮基线
+- SB-1211 kdelectronics.ie · home（html）：首轮基线
+- SB-1211 kdelectronics.ie · youtube（youtube_handle）：首轮基线
+- SB-1212 keydence.com · home（html）：首轮基线
+- SB-1212 keydence.com · feed_auto（rss）：首轮基线
+- SB-1212 keydence.com · sitemap（sitemap）：首轮基线
+- SB-1212 keydence.com · news_1（html）：首轮基线
+- SB-1212 keydence.com · news_2（html）：首轮基线
+- SB-1213 klemsan.com.tr · home（html）：首轮基线
+- SB-1214 lan.hu · home（html）：首轮基线
+- SB-1214 lan.hu · sitemap（sitemap）：首轮基线
+- SB-1214 lan.hu · news_1（html）：首轮基线
+- SB-1214 lan.hu · news_2（html）：首轮基线
+- SB-1214 lan.hu · youtube（youtube_handle）：首轮基线
+- SB-1215 lichtleiterkabel.com · home（html）：首轮基线
+- SB-1217 luxritesecurity.com · home（html）：首轮基线
+- SB-1217 luxritesecurity.com · sitemap（sitemap）：首轮基线
+- SB-1217 luxritesecurity.com · news_1（html）：首轮基线
+- SB-1217 luxritesecurity.com · youtube（youtube_handle）：首轮基线
+- SB-1218 marcomweb.it · home（html）：首轮基线
+- SB-1219 mikrodev.com · home（html）：首轮基线
+- SB-1219 mikrodev.com · sitemap（sitemap）：首轮基线
+- SB-1219 mikrodev.com · news_1（html）：首轮基线
+- SB-1219 mikrodev.com · news_2（html）：首轮基线
+- SB-1219 mikrodev.com · youtube（rss）：首轮基线
+- SB-122 A Hamson Middle East FZE · home（html）：首轮基线
+- SB-1220 mondoplast.ro · home（html）：首轮基线
+- SB-1221 multiproject.com.pl · home（html）：首轮基线
+- SB-1221 multiproject.com.pl · sitemap（sitemap）：首轮基线
+- SB-1222 neteon.net · home（html）：首轮基线
+- SB-1222 neteon.net · sitemap（sitemap）：首轮基线
+- SB-1222 neteon.net · news_1（html）：首轮基线
+- SB-1223 norteh.com · home（html）：首轮基线
+- SB-1223 norteh.com · sitemap（sitemap）：首轮基线
+- SB-1224 obserwuj.pl · home（html）：首轮基线
+- SB-1225 odoo.com · home（html）：首轮基线
+- SB-1225 odoo.com · sitemap（sitemap）：首轮基线
+- SB-1225 odoo.com · news_1（html）：首轮基线
+- SB-1225 odoo.com · news_2（html）：首轮基线
+- SB-1225 odoo.com · youtube（rss）：首轮基线
+- SB-1227 pc-industriali.it · home（html）：首轮基线
+- SB-1227 pc-industriali.it · news_1（html）：首轮基线
+- SB-1229 portdepo.ru · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='portdepo.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='portdepo.ru', port=443): Failed to establish a new connection: 
+- SB-1230 poznan.pl · home（html）：首轮基线
+- SB-1230 poznan.pl · sitemap（sitemap）：首轮基线
+- SB-1230 poznan.pl · news_1（html）：首轮基线
+- SB-1231 pramoninisrysys.lt · home（html）：首轮基线
+- SB-1231 pramoninisrysys.lt · sitemap（sitemap）：首轮基线
+- SB-1232 raytelsecurity.com · home（html）：首轮基线
+- SB-1232 raytelsecurity.com · feed_auto（rss）：首轮基线
+- SB-1232 raytelsecurity.com · news_1（html）：首轮基线
+- SB-1232 raytelsecurity.com · news_2（html）：首轮基线
+- SB-1232 raytelsecurity.com · youtube（rss）：首轮基线
+- SB-1233 rbline.pl · home（html）：首轮基线
+- SB-1234 reweb.it · home（html）：首轮基线
+- SB-1234 reweb.it · feed_auto（rss）：首轮基线
+- SB-1234 reweb.it · sitemap（sitemap）：首轮基线
+- SB-1234 reweb.it · news_1（html）：首轮基线
+- SB-1234 reweb.it · youtube（rss）：首轮基线
+- SB-1236 safeguard.se · home（html）：首轮基线
+- SB-1236 safeguard.se · sitemap（sitemap）：首轮基线
+- SB-1236 safeguard.se · youtube（youtube_handle）：首轮基线
+- SB-1238 scada-hmi.it · home（html）：首轮基线
+- SB-1239 securame.com · home（html）：首轮基线
+- SB-1240 sensoguard.com · home（html）：首轮基线
+- SB-1240 sensoguard.com · sitemap（sitemap）：首轮基线
+- SB-1240 sensoguard.com · news_1（html）：首轮基线
+- SB-1240 sensoguard.com · youtube（rss）：首轮基线
+- SB-1241 setik.biz · home（html）：首轮基线
+- SB-1241 setik.biz · sitemap（sitemap）：首轮基线
+- SB-1242 silmarelectronics.com · home（html）：首轮基线
+- SB-1243 simplifinetworks.com · home（html）：首轮基线
+- SB-1243 simplifinetworks.com · sitemap（sitemap）：首轮基线
+- SB-1243 simplifinetworks.com · news_1（html）：首轮基线
+- SB-1243 simplifinetworks.com · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-1245 soft-tronik.ru · home（html）：首轮基线
+- SB-1245 soft-tronik.ru · news_1（html）：首轮基线
+- SB-1245 soft-tronik.ru · news_2（html）：首轮基线
+- SB-1245 soft-tronik.ru · telegram（html）：首轮基线
+- SB-1246 solimedia.net · home（html）：首轮基线
+- SB-1246 solimedia.net · sitemap（sitemap）：首轮基线
+- SB-1246 solimedia.net · news_1（html）：首轮基线
+- SB-1246 solimedia.net · news_2（html）：首轮基线
+- SB-1247 spesaelettrica.it · home（html）：首轮基线
+- SB-1248 sphinxcomputer.de · home（html）：首轮基线
+- SB-1248 sphinxcomputer.de · sitemap（sitemap）：首轮基线
+- SB-1249 sswmcctvshop.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='sswmcctvshop.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='sswmcctvshop.com', port=443): Failed to resolve 'sswmcctv
+- SB-1250 standardaudio.se · home（html）：首轮基线
+- SB-1251 systemfabricworks.com · home（html）：首轮基线
+- SB-1251 systemfabricworks.com · sitemap（sitemap）：首轮基线
+- SB-1251 systemfabricworks.com · news_1（html）：首轮基线
+- SB-1251 systemfabricworks.com · news_2（html）：首轮基线
+- SB-1252 targoncavilla.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='www.frekvent.com', port=443): Max retries exceeded with url: /sct/882409/category (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.frekvent.com', port=443) at 0x7fd1
+- SB-1253 tayama.pl · home（html）：首轮基线
+- SB-1254 teamtelecom.ro · home（html）：首轮基线
+- SB-1254 teamtelecom.ro · feed_auto（rss）：首轮基线
+- SB-1254 teamtelecom.ro · sitemap（sitemap）：首轮基线
+- SB-1255 tehnoelectric.ro · home（html）：首轮基线
+- SB-1257 tipteh.com · home（html）：首轮基线
+- SB-1257 tipteh.com · feed_auto（rss）：首轮基线
+- SB-1257 tipteh.com · sitemap（sitemap）：首轮基线
+- SB-1257 tipteh.com · news_1（html）：首轮基线
+- SB-1257 tipteh.com · youtube（rss）：首轮基线
+- SB-1258 tpnet.com.br · home（html）：首轮基线
+- SB-1259 tramaweb.com.br · home（html）：首轮基线
+- SB-1259 tramaweb.com.br · sitemap（sitemap）：首轮基线
+- SB-1259 tramaweb.com.br · news_1（html）：首轮基线
+- SB-1259 tramaweb.com.br · news_2（html）：首轮基线
+- SB-1259 tramaweb.com.br · youtube（youtube_handle）：首轮基线
+- SB-1260 triotronik.com · home（html）：首轮基线
+- SB-1261 unifibre.it · home（html）：首轮基线
+- SB-1261 unifibre.it · youtube（rss）：首轮基线
+- SB-1264 vercoma.nl · home（html）：首轮基线
+- SB-1264 vercoma.nl · sitemap（sitemap）：首轮基线
+- SB-1264 vercoma.nl · youtube（rss）：首轮基线
+- SB-1266 videobits.co.uk · home（html）：首轮基线
+- SB-1266 videobits.co.uk · feed_auto（rss）：首轮基线
+- SB-1267 vidom.pl · home（html）：首轮基线
+- SB-1267 vidom.pl · sitemap（sitemap）：首轮基线
+- SB-1267 vidom.pl · news_1（html）：首轮基线
+- SB-1268 westpennwire.com · home（html）：首轮基线
+- SB-1268 westpennwire.com · sitemap（sitemap）：首轮基线
+- SB-127 SRI ANNAI BUSINESS ASSOCIATES · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='sabaindia.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='sabaindia.com', port=443): Failed to resolve 'sabaindia.com'
+- SB-1270 yatun.cz · home（html）：首轮基线
+- SB-1270 yatun.cz · news_1（html）：首轮基线
+- SB-1270 yatun.cz · youtube（youtube_handle）：首轮基线
+- SB-1271 zintronic.pl · home（html）：首轮基线
+- SB-1272 zxtech.co · home（html）：首轮基线
+- SB-1272 zxtech.co · sitemap（sitemap）：首轮基线
+- SB-1276 vienthonggiatot.com · home（html）：首轮基线
+- SB-1276 vienthonggiatot.com · sitemap（sitemap）：首轮基线
+- SB-1277 ara.com.bd · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='ara.com.bd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='ara.com.bd', port=443): Failed to resolve 'ara.com.bd' ([Errno 
+- SB-128 bkgrupe.lt · home（html）：首轮基线
+- SB-1282 Sunmars Enterprises · home（html）：首轮基线
+- SB-129 extradigital.eu · home（html）：首轮基线
+- SB-130 intellisystem.it · home（html）：首轮基线
+- SB-130 intellisystem.it · feed_auto（rss）：首轮基线
+- SB-130 intellisystem.it · news_1（html）：首轮基线
+- SB-130 intellisystem.it · news_2（html）：首轮基线
+- SB-131 katalita.lt · home（html）：首轮基线
+- SB-131 katalita.lt · sitemap（sitemap）：首轮基线
+- SB-132 korekonect.com · home（html）：首轮基线
+- SB-133 sysnetcenter.com · home（html）：首轮基线
+- SB-133 sysnetcenter.com · news_1（html）：首轮基线
+- SB-133 sysnetcenter.com · news_2（html）：首轮基线
+- SB-1336 Fikes Media · home（html）：首轮基线
+- SB-1337 Milliseconds Evolution Limited · home（html）：首轮基线
+- SB-1338 Litech (Pvt) Ltd · home（html）：首轮基线
+- SB-1338 Litech (Pvt) Ltd · feed_auto（rss）：首轮基线
+- SB-1339 Switchcom Distribution (Pty) L · home（html）：首轮基线
+- SB-1340 CXR · home（html）：首轮基线
+- SB-135 Elsi · home（html）：首轮基线
+- SB-135 Elsi · news_1（html）：首轮基线
+- SB-135 Elsi · youtube（rss）：首轮基线
+- SB-136 Engineering Group Contractors · home（html）：首轮基线
+- SB-136 Engineering Group Contractors · news_1（html）：首轮基线
+- SB-136 Engineering Group Contractors · youtube（rss）：首轮基线
+- SB-138 aaagroup.pk · home（html）：首轮基线
+- SB-138 aaagroup.pk · feed_auto（rss）：首轮基线
+- SB-138 aaagroup.pk · news_1（html）：首轮基线
+- SB-138 aaagroup.pk · news_2（html）：首轮基线
+- SB-139 barox.de · home（html）：首轮基线
+- SB-139 barox.de · sitemap（sitemap）：首轮基线
+- SB-139 barox.de · news_1（html）：首轮基线
+- SB-139 barox.de · youtube（youtube_handle）：首轮基线
+- SB-140 brainboxes.com · home（html）：首轮基线
+- SB-140 brainboxes.com · feed_auto（rss）：首轮基线
+- SB-140 brainboxes.com · sitemap（sitemap）：首轮基线
+- SB-140 brainboxes.com · news_1（html）：首轮基线
+- SB-140 brainboxes.com · news_2（html）：首轮基线
+- SB-140 brainboxes.com · youtube（youtube_handle）：首轮基线
+- SB-141 ccontrols.de · home（html）：首轮基线
+- SB-141 ccontrols.de · sitemap（sitemap）：首轮基线
+- SB-142 delock.com · home（html）：首轮基线
+- SB-142 delock.com · sitemap（sitemap）：首轮基线
+- SB-143 denwaip.com · home（html）：首轮基线
+- SB-143 denwaip.com · sitemap（sitemap）：首轮基线
+- SB-144 deonet.co.kr · home（html）：首轮基线
+- SB-145 een.com · home（html）：首轮基线
+- SB-145 een.com · news_1（html）：首轮基线
+- SB-145 een.com · news_2（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='www.een.com', port=443): Read timed out. (read timeout=20)
+- SB-145 een.com · youtube（youtube_handle）：首轮基线
+- SB-146 fti-optronic.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='fti-optronic.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='fti-optronic.com', port=443): Failed to establish a new co
+- SB-147 kti.de · home（html）：首轮基线
+- SB-147 kti.de · news_1（html）：首轮基线
+- SB-147 kti.de · youtube（youtube_handle）：首轮基线
+- SB-148 level1.com · home（html）：首轮基线
+- SB-148 level1.com · sitemap（sitemap）：首轮基线
+- SB-149 lindy.co.uk · home（html）：首轮基线
+- SB-149 lindy.co.uk · sitemap（sitemap）：首轮基线
+- SB-150 ltsecurityinc.com.au · home（html）：首轮基线
+- SB-150 ltsecurityinc.com.au · news_1（html）：首轮基线
+- SB-150 ltsecurityinc.com.au · news_2（html）：首轮基线
+- SB-150 ltsecurityinc.com.au · youtube（youtube_handle）：首轮基线
+- SB-151 microsens.com · home（html）：首轮基线
+- SB-151 microsens.com · sitemap（sitemap）：首轮基线
+- SB-151 microsens.com · news_1（html）：首轮基线
+- SB-151 microsens.com · news_2（html）：首轮基线
+- SB-151 microsens.com · youtube（rss）：首轮基线
+- SB-152 nag.ru · home（html）：首轮基线
+- SB-152 nag.ru · feed_auto（rss）：首轮基线
+- SB-152 nag.ru · news_1（html）：首轮基线
+- SB-152 nag.ru · telegram（html）：首轮基线
+- SB-152 nag.ru · vk（html）：首轮基线
+- SB-152 nag.ru · youtube（youtube_handle）：首轮基线
+- SB-154 sieraelectronics.com · home（html）：首轮基线
+- SB-154 sieraelectronics.com · feed_auto（rss）：首轮基线
+- SB-154 sieraelectronics.com · sitemap（sitemap）：首轮基线
+- SB-154 sieraelectronics.com · news_1（html）：首轮基线
+- SB-154 sieraelectronics.com · news_2（html）：首轮基线
+- SB-155 sun-flowers.co.kr · home（html）：首轮基线
+- SB-156 tyconsystems.com · home（html）：首轮基线
+- SB-156 tyconsystems.com · sitemap（sitemap）：首轮基线
+- SB-156 tyconsystems.com · news_1（html）：首轮基线
+- SB-156 tyconsystems.com · news_2（html）：首轮基线
+- SB-156 tyconsystems.com · youtube（youtube_handle）：首轮基线
+- SB-158 2mtechnology.net · home（html）：首轮基线
+- SB-158 2mtechnology.net · sitemap（sitemap）：首轮基线
+- SB-158 2mtechnology.net · youtube（youtube_handle）：首轮基线
+- SB-160 CESS Govalik · home（html）：抓取失败：ConnectionError: ('Connection aborted.', HTTPException('got more than 100 headers'))
+- SB-161 HANCHANG Infotech CO.,LTD · home（html）：首轮基线
+- SB-163 Negoh-Op · home（html）：首轮基线
+- SB-164 TESCOM COMPANY LIMITED · home（html）：首轮基线
+- SB-165 adin.it · home（html）：首轮基线
+- SB-165 adin.it · sitemap（sitemap）：首轮基线
+- SB-165 adin.it · news_1（html）：首轮基线
+- SB-165 adin.it · youtube（rss）：首轮基线
+- SB-166 advance.technology · home（html）：首轮基线
+- SB-166 advance.technology · feed_auto（rss）：首轮基线
+- SB-166 advance.technology · sitemap（sitemap）：首轮基线
+- SB-166 advance.technology · news_1（html）：首轮基线
+- SB-167 aixontec.com · home（html）：首轮基线
+- SB-167 aixontec.com · sitemap（sitemap）：首轮基线
+- SB-167 aixontec.com · news_1（html）：首轮基线
+- SB-167 aixontec.com · youtube（youtube_handle）：首轮基线
+- SB-168 avycon.com · home（html）：首轮基线
+- SB-168 avycon.com · feed_auto（rss）：首轮基线
+- SB-168 avycon.com · sitemap（sitemap）：首轮基线
+- SB-169 benzotronic.it · home（html）：首轮基线
+- SB-170 bositaly.it · home（html）：首轮基线
+- SB-170 bositaly.it · feed_auto（rss）：首轮基线
+- SB-170 bositaly.it · sitemap（sitemap）：首轮基线
+- SB-170 bositaly.it · news_1（html）：首轮基线
+- SB-170 bositaly.it · news_2（html）：首轮基线
+- SB-170 bositaly.it · youtube（rss）：首轮基线
+- SB-171 congtyminhphuoc.vn · home（html）：首轮基线
+- SB-171 congtyminhphuoc.vn · sitemap（sitemap）：首轮基线
+- SB-172 dalessandris.it · home（html）：首轮基线
+- SB-172 dalessandris.it · sitemap（sitemap）：首轮基线
+- SB-173 digimax.it · home（html）：首轮基线
+- SB-173 digimax.it · sitemap（sitemap）：首轮基线
+- SB-173 digimax.it · news_1（html）：首轮基线
+- SB-174 empicstar.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='empicstar.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='empicstar.com', port=443): Failed to resolve 'empicstar.com'
+- SB-175 frogfish.de · home（html）：首轮基线
+- SB-175 frogfish.de · sitemap（sitemap）：首轮基线
+- SB-177 grothe.de · home（html）：首轮基线
+- SB-177 grothe.de · sitemap（sitemap）：首轮基线
+- SB-177 grothe.de · news_1（html）：首轮基线
+- SB-177 grothe.de · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-178 hfcl.com · home（html）：首轮基线
+- SB-178 hfcl.com · sitemap（sitemap）：首轮基线
+- SB-178 hfcl.com · news_1（html）：首轮基线
+- SB-178 hfcl.com · news_2（html）：首轮基线
+- SB-178 hfcl.com · youtube（rss）：首轮基线
+- SB-179 innowatt.it · home（html）：首轮基线
+- SB-179 innowatt.it · sitemap（sitemap）：首轮基线
+- SB-179 innowatt.it · news_1（html）：首轮基线
+- SB-180 iotech-italia.net · home（html）：首轮基线
+- SB-180 iotech-italia.net · sitemap（sitemap）：首轮基线
+- SB-181 isnetworks.pl · home（html）：首轮基线
+- SB-181 isnetworks.pl · sitemap（sitemap）：首轮基线
+- SB-181 isnetworks.pl · news_1（html）：首轮基线
+- SB-182 jpg.lt · home（html）：首轮基线
+- SB-182 jpg.lt · sitemap（sitemap）：首轮基线
+- SB-184 nellyssecurity.com · home（html）：首轮基线
+- SB-184 nellyssecurity.com · sitemap（sitemap）：首轮基线
+- SB-184 nellyssecurity.com · news_1（html）：首轮基线
+- SB-185 netbergtw.com · home（html）：首轮基线
+- SB-185 netbergtw.com · sitemap（sitemap）：首轮基线
+- SB-185 netbergtw.com · news_1（html）：首轮基线
+- SB-185 netbergtw.com · news_2（html）：首轮基线
+- SB-186 pf-electronic.pl · home（html）：首轮基线
+- SB-187 pixcom.ae · home（html）：首轮基线
+- SB-187 pixcom.ae · feed_auto（rss）：首轮基线
+- SB-187 pixcom.ae · sitemap（sitemap）：首轮基线
+- SB-187 pixcom.ae · news_1（html）：首轮基线
+- SB-187 pixcom.ae · news_2（html）：首轮基线
+- SB-187 pixcom.ae · youtube（youtube_handle）：首轮基线
+- SB-188 platinumcctv.com · home（html）：首轮基线
+- SB-189 provision-isr.com · home（html）：首轮基线
+- SB-189 provision-isr.com · feed_auto（rss）：首轮基线
+- SB-190 sicurtecnicanapoli.it · home（html）：首轮基线
+- SB-190 sicurtecnicanapoli.it · feed_auto（rss）：首轮基线
+- SB-191 switchtek · home（html）：首轮基线
+- SB-191 switchtek · sitemap（sitemap）：首轮基线
+- SB-191 switchtek · news_1（html）：首轮基线
+- SB-192 tvprzemyslowa.pl · home（html）：首轮基线
+- SB-192 tvprzemyslowa.pl · news_1（html）：首轮基线
+- SB-193 voxplus.it · home（html）：首轮基线
+- SB-193 voxplus.it · feed_auto（rss）：首轮基线
+- SB-193 voxplus.it · sitemap（sitemap）：首轮基线
+- SB-193 voxplus.it · news_1（html）：首轮基线
+- SB-193 voxplus.it · news_2（html）：首轮基线
+- SB-194 Arfanet · home（html）：首轮基线
+- SB-197 Dourte · home（html）：首轮基线
+- SB-199 HK GmbH · home（html）：首轮基线
+- SB-201 RecTec servis, s.r.o. · home（html）：首轮基线
+- SB-201 RecTec servis, s.r.o. · sitemap（sitemap）：首轮基线
+- SB-203 Software Effect Enterprises, I · home（html）：首轮基线
+- SB-203 Software Effect Enterprises, I · feed_auto（rss）：首轮基线
+- SB-203 Software Effect Enterprises, I · sitemap（sitemap）：首轮基线
+- SB-204 TECside BV · home（html）：首轮基线
+- SB-204 TECside BV · sitemap（sitemap）：首轮基线
+- SB-204 TECside BV · news_1（html）：首轮基线
+- SB-204 TECside BV · news_2（html）：首轮基线
+- SB-204 TECside BV · youtube（youtube_handle）：首轮基线
+- SB-205 TIER1 DATA SYSTEMS LIMITED · home（html）：首轮基线
+- SB-206 Vdeotronic AG · home（html）：首轮基线
+- SB-206 Vdeotronic AG · news_1（html）：首轮基线
+- SB-206 Vdeotronic AG · youtube（rss）：首轮基线
+- SB-210 axilogi.com · home（html）：首轮基线
+- SB-212 bio-cognitive.com · home（html）：首轮基线
+- SB-212 bio-cognitive.com · sitemap（sitemap）：首轮基线
+- SB-212 bio-cognitive.com · news_1（html）：首轮基线
+- SB-214 bulutlarbilisim.com · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='bulutlarbilisim.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protoco
+- SB-215 contradata.it · home（html）：首轮基线
+- SB-215 contradata.it · feed_auto（rss）：首轮基线
+- SB-217 damixsat.pl · home（html）：首轮基线
+- SB-218 dodicelettronica.it · home（html）：首轮基线
+- SB-218 dodicelettronica.it · feed_auto（rss）：首轮基线
+- SB-218 dodicelettronica.it · news_1（html）：首轮基线
+- SB-218 dodicelettronica.it · youtube（youtube_handle）：首轮基线
+- SB-220 electronikhouse.it · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='electronikhouse.it', port=443): Read timed out. (read timeout=20)
+- SB-220 electronikhouse.it · sitemap（sitemap）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='electronikhouse.it', port=443): Read timed out. (read timeout=20)
+- SB-220 electronikhouse.it · youtube（rss）：首轮基线
+- SB-221 eretekne.com · home（html）：首轮基线
+- SB-222 fiberix.com.tr · home（html）：首轮基线
+- SB-223 gelecekbt.com · home（html）：首轮基线
+- SB-223 gelecekbt.com · youtube（youtube_handle）：首轮基线
+- SB-224 hanelektronik.com · home（html）：首轮基线
+- SB-224 hanelektronik.com · sitemap（sitemap）：首轮基线
+- SB-224 hanelektronik.com · news_1（html）：首轮基线
+- SB-224 hanelektronik.com · news_2（html）：首轮基线
+- SB-224 hanelektronik.com · youtube（rss）：首轮基线
+- SB-225 instantbyte.com · home（html）：首轮基线
+- SB-225 instantbyte.com · news_1（html）：首轮基线
+- SB-225 instantbyte.com · youtube（rss）：首轮基线
+- SB-226 lanmus.com · home（html）：首轮基线
+- SB-226 lanmus.com · feed_auto（rss）：首轮基线
+- SB-226 lanmus.com · sitemap（sitemap）：首轮基线
+- SB-226 lanmus.com · news_1（html）：首轮基线
+- SB-226 lanmus.com · youtube（youtube_handle）：首轮基线
+- SB-227 marlexconexion.com · home（html）：首轮基线
+- SB-228 metcom.com.tr · home（html）：首轮基线
+- SB-228 metcom.com.tr · feed_auto（rss）：首轮基线
+- SB-228 metcom.com.tr · sitemap（sitemap）：首轮基线
+- SB-228 metcom.com.tr · news_1（html）：首轮基线
+- SB-228 metcom.com.tr · news_2（html）：首轮基线
+- SB-229 multiGuide GmbH · home（html）：首轮基线
+- SB-231 nfsteknoloji.com · home（html）：首轮基线
+- SB-231 nfsteknoloji.com · sitemap（sitemap）：首轮基线
+- SB-231 nfsteknoloji.com · news_1（html）：首轮基线
+- SB-231 nfsteknoloji.com · news_2（html）：首轮基线
+- SB-232 oncuguvenlik.com.tr · home（html）：首轮基线
+- SB-232 oncuguvenlik.com.tr · sitemap（sitemap）：首轮基线
+- SB-233 provowire.com · home（html）：首轮基线
+- SB-234 rfteknoloji.com.tr · home（html）：首轮基线
+- SB-234 rfteknoloji.com.tr · news_1（html）：首轮基线
+- SB-234 rfteknoloji.com.tr · news_2（html）：首轮基线
+- SB-235 rimaelektronik.com · home（html）：首轮基线
+- SB-235 rimaelektronik.com · youtube（youtube_handle）：首轮基线
+- SB-236 sea-srl.it · home（html）：首轮基线
+- SB-237 secomp-international.com · home（html）：首轮基线
+- SB-237 secomp-international.com · sitemap（sitemap）：首轮基线
+- SB-238 sisav.it · home（html）：首轮基线
+- SB-238 sisav.it · feed_auto（rss）：首轮基线
+- SB-238 sisav.it · sitemap（sitemap）：首轮基线
+- SB-238 sisav.it · news_1（html）：首轮基线
+- SB-238 sisav.it · news_2（html）：首轮基线
+- SB-239 solpakutec.com · home（html）：首轮基线
+- SB-239 solpakutec.com · sitemap（sitemap）：首轮基线
+- SB-239 solpakutec.com · news_1（html）：首轮基线
+- SB-239 solpakutec.com · news_2（html）：首轮基线
+- SB-240 technosources.ca · home（html）：首轮基线
+- SB-241 teslanetworks.be · home（html）：首轮基线
+- SB-241 teslanetworks.be · sitemap（sitemap）：首轮基线
+- SB-242 virtualprotective.com · home（html）：首轮基线
+- SB-242 virtualprotective.com · feed_auto（rss）：首轮基线
+- SB-242 virtualprotective.com · sitemap（sitemap）：首轮基线
+- SB-242 virtualprotective.com · news_1（html）：首轮基线
+- SB-243 viva bilgisayar · home（html）：首轮基线
+- SB-244 wicomsolutions.it · home（html）：首轮基线
+- SB-244 wicomsolutions.it · feed_auto（rss）：首轮基线
+- SB-244 wicomsolutions.it · sitemap（sitemap）：首轮基线
+- SB-244 wicomsolutions.it · news_1（html）：首轮基线
+- SB-244 wicomsolutions.it · news_2（html）：首轮基线
+- SB-245 BHS Telecom 视频比较多一些 · home（html）：首轮基线
+- SB-247 VNS technologies · home（html）：首轮基线
+- SB-247 VNS technologies · feed_auto（rss）：首轮基线
+- SB-247 VNS technologies · sitemap（sitemap）：首轮基线
+- SB-247 VNS technologies · news_1（html）：首轮基线
+- SB-247 VNS technologies · news_2（html）：首轮基线
+- SB-247 VNS technologies · youtube（rss）：首轮基线
+- SB-249 ayezeegroup.com · home（html）：首轮基线
+- SB-249 ayezeegroup.com · feed_auto（rss）：首轮基线
+- SB-249 ayezeegroup.com · sitemap（sitemap）：首轮基线
+- SB-250 camsanordu.com · home（html）：首轮基线
+- SB-250 camsanordu.com · sitemap（sitemap）：首轮基线
+- SB-250 camsanordu.com · news_1（html）：首轮基线
+- SB-250 camsanordu.com · news_2（html）：首轮基线
+- SB-251 ebatek.com · home（html）：首轮基线
+- SB-251 ebatek.com · news_1（html）：首轮基线
+- SB-251 ebatek.com · news_2（html）：首轮基线
+- SB-252 turkuaz · home（html）：首轮基线
+- SB-253 watchnetinc.com · home（html）：首轮基线
+- SB-253 watchnetinc.com · feed_auto（rss）：首轮基线
+- SB-253 watchnetinc.com · news_1（html）：首轮基线
+- SB-253 watchnetinc.com · news_2（html）：首轮基线
+- SB-253 watchnetinc.com · youtube（youtube_handle）：首轮基线
+- SB-254 AADONA COMMUNICATION Pvt. Ltd. · home（html）：首轮基线
+- SB-254 AADONA COMMUNICATION Pvt. Ltd. · sitemap（sitemap）：首轮基线
+- SB-255 Bits&Byte CONSULTING PVT LTD · home（html）：首轮基线
+- SB-255 Bits&Byte CONSULTING PVT LTD · sitemap（sitemap）：首轮基线
+- SB-255 Bits&Byte CONSULTING PVT LTD · youtube（youtube_handle）：首轮基线
+- SB-257 Saxco Marketing Sdn Bhd · home（html）：首轮基线
+- SB-258 alconlink.com · home（html）：首轮基线
+- SB-258 alconlink.com · sitemap（sitemap）：首轮基线
+- SB-258 alconlink.com · news_1（html）：首轮基线
+- SB-258 alconlink.com · news_2（html）：首轮基线
+- SB-258 alconlink.com · youtube（rss）：首轮基线
+- SB-259 alternetivo.cz · home（html）：首轮基线
+- SB-259 alternetivo.cz · news_1（html）：首轮基线
+- SB-259 alternetivo.cz · youtube（youtube_handle）：首轮基线
+- SB-260 arcanlibya.com · home（html）：首轮基线
+- SB-263 dipolnet.cz · home（html）：首轮基线
+- SB-263 dipolnet.cz · sitemap（sitemap）：首轮基线
+- SB-263 dipolnet.cz · news_1（html）：首轮基线
+- SB-264 fibercomtelecoms.com · home（html）：首轮基线
+- SB-264 fibercomtelecoms.com · feed_auto（rss）：首轮基线
+- SB-264 fibercomtelecoms.com · sitemap（sitemap）：首轮基线
+- SB-264 fibercomtelecoms.com · news_1（html）：首轮基线
+- SB-264 fibercomtelecoms.com · news_2（html）：首轮基线
+- SB-265 intellcom.net · home（html）：首轮基线
+- SB-265 intellcom.net · sitemap（sitemap）：首轮基线
+- SB-266 rspotsolutions.com · home（html）：首轮基线
+- SB-266 rspotsolutions.com · sitemap（sitemap）：首轮基线
+- SB-266 rspotsolutions.com · news_1（html）：首轮基线
+- SB-267 stc-vietnam.com · home（html）：首轮基线
+- SB-267 stc-vietnam.com · sitemap（sitemap）：首轮基线
+- SB-268 swl.co.nz · home（html）：首轮基线
+- SB-268 swl.co.nz · youtube（youtube_handle）：首轮基线
+- SB-269 techfors.cz · home（html）：首轮基线
+- SB-269 techfors.cz · sitemap（sitemap）：首轮基线
+- SB-270 verdelon.com · home（html）：首轮基线
+- SB-270 verdelon.com · sitemap（sitemap）：首轮基线
+- SB-271 viewtech.co.nz · home（html）：首轮基线
+- SB-271 viewtech.co.nz · sitemap（sitemap）：首轮基线
+- SB-273 BWsystems · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='bwsystems.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))
+- SB-274 Blackbear TechHive · home（html）：首轮基线
+- SB-274 Blackbear TechHive · feed_auto（rss）：首轮基线
+- SB-274 Blackbear TechHive · sitemap（sitemap）：首轮基线
+- SB-276 Elhem Trading Co., Sal · home（html）：首轮基线
+- SB-276 Elhem Trading Co., Sal · feed_auto（rss）：首轮基线
+- SB-276 Elhem Trading Co., Sal · sitemap（sitemap）：首轮基线
+- SB-278 PROXEET LIMITED · home（html）：首轮基线
+- SB-278 PROXEET LIMITED · youtube（youtube_handle）：首轮基线
+- SB-278 PROXEET LIMITED · telegram（html）：首轮基线
+- SB-281 Techno Tower · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='technotower-lb.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')
+- SB-282 advice.co.il · home（html）：首轮基线
+- SB-282 advice.co.il · sitemap（sitemap）：首轮基线
+- SB-282 advice.co.il · news_1（html）：首轮基线
+- SB-282 advice.co.il · news_2（html）：首轮基线
+- SB-282 advice.co.il · youtube（youtube_handle）：首轮基线
+- SB-283 cansol.co.kr · home（html）：首轮基线
+- SB-284 omninet.com.vn · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.omninet.com.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
+- SB-284 omninet.com.vn · youtube（rss）：首轮基线
+- SB-285 retelem-dz.com · home（html）：首轮基线
+- SB-286 simplelogin.com · home（html）：首轮基线
+- SB-286 simplelogin.com · feed_auto（rss）：首轮基线
+- SB-286 simplelogin.com · sitemap（sitemap）：首轮基线
+- SB-287 yli.ro · home（html）：首轮基线
+- SB-291 INTERCOAX CO.,LTD · home（html）：首轮基线
+- SB-291 INTERCOAX CO.,LTD · sitemap（sitemap）：首轮基线
+- SB-294 MAX protect · home（html）：首轮基线
+- SB-298 Sure Transport · home（html）：首轮基线
+- SB-298 Sure Transport · news_1（html）：首轮基线
+- SB-299 Zekko Tech Private Limited · home（html）：首轮基线
+- SB-299 Zekko Tech Private Limited · sitemap（sitemap）：首轮基线
+- SB-299 Zekko Tech Private Limited · news_1（html）：首轮基线
+- SB-300 amer.com · home（html）：首轮基线
+- SB-300 amer.com · news_1（html）：首轮基线
+- SB-301 andcorp.com.au · home（html）：首轮基线
+- SB-303 atz.com.sg · home（html）：首轮基线
+- SB-304 avcomm.us · home（html）：首轮基线
+- SB-304 avcomm.us · sitemap（sitemap）：首轮基线
+- SB-304 avcomm.us · news_1（html）：首轮基线
+- SB-304 avcomm.us · news_2（html）：首轮基线
+- SB-305 cloudtronics.com.au · home（html）：首轮基线
+- SB-305 cloudtronics.com.au · feed_auto（rss）：首轮基线
+- SB-305 cloudtronics.com.au · news_1（html）：首轮基线
+- SB-307 dualcomm.com · home（html）：首轮基线
+- SB-307 dualcomm.com · sitemap（sitemap）：首轮基线
+- SB-307 dualcomm.com · news_1（html）：首轮基线
+- SB-307 dualcomm.com · news_2（html）：首轮基线
+- SB-308 edge-networks.us · home（html）：首轮基线
+- SB-308 edge-networks.us · news_1（html）：首轮基线
+- SB-309 enetusa.com · home（html）：首轮基线
+- SB-309 enetusa.com · sitemap（sitemap）：首轮基线
+- SB-310 fiberdyne.com · home（html）：首轮基线
+- SB-311 fiberopticcableshop.com · home（html）：首轮基线
+- SB-312 fiberopticlink.com · home（html）：首轮基线
+- SB-313 gaotek.com · home（html）：首轮基线
+- SB-313 gaotek.com · feed_auto（rss）：首轮基线
+- SB-313 gaotek.com · sitemap（sitemap）：首轮基线
+- SB-315 infinicoreinc.com · home（html）：首轮基线
+- SB-316 infonet-tech.com · home（html）：首轮基线
+- SB-316 infonet-tech.com · sitemap（sitemap）：首轮基线
+- SB-316 infonet-tech.com · news_1（html）：首轮基线
+- SB-316 infonet-tech.com · youtube（rss）：首轮基线
+- SB-317 kyolis.com · home（html）：首轮基线
+- SB-317 kyolis.com · feed_auto（rss）：首轮基线
+- SB-317 kyolis.com · sitemap（sitemap）：首轮基线
+- SB-318 larch-networks.com · home（html）：首轮基线
+- SB-318 larch-networks.com · feed_auto（rss）：首轮基线
+- SB-318 larch-networks.com · sitemap（sitemap）：首轮基线
+- SB-318 larch-networks.com · news_1（html）：首轮基线
+- SB-318 larch-networks.com · news_2（html）：首轮基线
+- SB-319 longtek · home（html）：首轮基线
+- SB-319 longtek · sitemap（sitemap）：首轮基线
+- SB-320 luckyjoint.com.sg · home（html）：首轮基线
+- SB-320 luckyjoint.com.sg · sitemap（sitemap）：首轮基线
+- SB-320 luckyjoint.com.sg · news_1（html）：首轮基线
+- SB-321 maintechconnect.com · home（html）：首轮基线
+- SB-321 maintechconnect.com · sitemap（sitemap）：首轮基线
+- SB-322 meridian-tech.com · home（html）：首轮基线
+- SB-322 meridian-tech.com · sitemap（sitemap）：首轮基线
+- SB-322 meridian-tech.com · news_1（html）：首轮基线
+- SB-322 meridian-tech.com · news_2（html）：首轮基线
+- SB-323 nitrotelmanufacturing.com · home（html）：首轮基线
+- SB-323 nitrotelmanufacturing.com · sitemap（sitemap）：首轮基线
+- SB-323 nitrotelmanufacturing.com · news_1（html）：首轮基线
+- SB-324 robofiber.com · home（html）：首轮基线
+- SB-325 th-it.com · home（html）：首轮基线
+- SB-325 th-it.com · sitemap（sitemap）：首轮基线
+- SB-326 thuyluc.com · home（html）：首轮基线
+- SB-326 thuyluc.com · sitemap（sitemap）：首轮基线
+- SB-327 welotec.com · home（html）：首轮基线
+- SB-327 welotec.com · sitemap（sitemap）：首轮基线
+- SB-327 welotec.com · news_1（html）：首轮基线
+- SB-327 welotec.com · news_2（html）：首轮基线
+- SB-327 welotec.com · youtube（youtube_handle）：首轮基线
+- SB-328 wieland-electric.com · home（html）：首轮基线
+- SB-328 wieland-electric.com · sitemap（sitemap）：首轮基线
+- SB-328 wieland-electric.com · news_1（html）：首轮基线
+- SB-328 wieland-electric.com · youtube（youtube_handle）：首轮基线
+- SB-329 wildix.com · home（html）：首轮基线
+- SB-329 wildix.com · feed_auto（rss）：首轮基线
+- SB-329 wildix.com · sitemap（sitemap）：首轮基线
+- SB-330 wirewerks.com · home（html）：首轮基线
+- SB-330 wirewerks.com · news_1（html）：首轮基线
+- SB-330 wirewerks.com · youtube（rss）：首轮基线
+- SB-332 很多UK公司在卖他们的产品 · home（html）：首轮基线
+- SB-332 很多UK公司在卖他们的产品 · sitemap（sitemap）：首轮基线
+- SB-332 很多UK公司在卖他们的产品 · news_1（html）：首轮基线
+- SB-332 很多UK公司在卖他们的产品 · news_2（html）：首轮基线
+- SB-334 3s.com.tr · home（html）：首轮基线
+- SB-334 3s.com.tr · sitemap（sitemap）：首轮基线
+- SB-339 Leamratech · home（html）：首轮基线
+- SB-339 Leamratech · feed_auto（rss）：首轮基线
+- SB-339 Leamratech · sitemap（sitemap）：首轮基线
+- SB-339 Leamratech · news_1（html）：首轮基线
+- SB-339 Leamratech · youtube（youtube_handle）：首轮基线
+- SB-340 PROVES · home（html）：首轮基线
+- SB-340 PROVES · feed_auto（rss）：首轮基线
+- SB-340 PROVES · sitemap（sitemap）：首轮基线
+- SB-341 Pal Wintec · home（html）：首轮基线
+- SB-341 Pal Wintec · feed_auto（rss）：首轮基线
+- SB-341 Pal Wintec · sitemap（sitemap）：首轮基线
+- SB-341 Pal Wintec · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-342 TRK solution Ltd · home（html）：首轮基线
+- SB-342 TRK solution Ltd · sitemap（sitemap）：首轮基线
+- SB-344 Yellowbox Co Pty Ltd · home（html）：首轮基线
+- SB-344 Yellowbox Co Pty Ltd · sitemap（sitemap）：首轮基线
+- SB-345 accessofranco.com · home（html）：首轮基线
+- SB-345 accessofranco.com · feed_auto（rss）：首轮基线
+- SB-345 accessofranco.com · sitemap（sitemap）：首轮基线
+- SB-345 accessofranco.com · news_1（html）：首轮基线
+- SB-348 autechcontrol.com.au · home（html）：首轮基线
+- SB-348 autechcontrol.com.au · sitemap（sitemap）：首轮基线
+- SB-348 autechcontrol.com.au · youtube（youtube_handle）：首轮基线
+- SB-351 canacctv.com · home（html）：首轮基线
+- SB-351 canacctv.com · sitemap（sitemap）：首轮基线
+- SB-352 dtsdigitalcctv.co.uk · home（html）：首轮基线
+- SB-352 dtsdigitalcctv.co.uk · sitemap（sitemap）：首轮基线
+- SB-353 dvs.co.uk · home（html）：首轮基线
+- SB-354 fatwiredist.ca · home（html）：首轮基线
+- SB-355 fhguvenlik.com · home（html）：首轮基线
+- SB-355 fhguvenlik.com · sitemap（sitemap）：首轮基线
+- SB-357 hiperonline.com · home（html）：首轮基线
+- SB-357 hiperonline.com · sitemap（sitemap）：首轮基线
+- SB-358 hunters-wholesalers.co.uk · home（html）：首轮基线
+- SB-359 inscapedata.com · home（html）：首轮基线
+- SB-359 inscapedata.com · sitemap（sitemap）：首轮基线
+- SB-359 inscapedata.com · news_1（html）：首轮基线
+- SB-359 inscapedata.com · news_2（html）：首轮基线
+- SB-359 inscapedata.com · youtube（youtube_handle）：首轮基线
+- SB-360 makrosisas.com.tr · home（html）：首轮基线
+- SB-360 makrosisas.com.tr · sitemap（sitemap）：首轮基线
+- SB-361 mapleye.com · home（html）：首轮基线
+- SB-361 mapleye.com · sitemap（sitemap）：首轮基线
+- SB-362 maxtel.bg · home（html）：首轮基线
+- SB-362 maxtel.bg · feed_auto（rss）：首轮基线
+- SB-362 maxtel.bg · sitemap（sitemap）：首轮基线
+- SB-362 maxtel.bg · news_1（html）：首轮基线
+- SB-362 maxtel.bg · news_2（html）：首轮基线
+- SB-363 mercku.com · home（html）：首轮基线
+- SB-364 morekamer.ru · home（html）：首轮基线
+- SB-365 netiks.rs · home（html）：首轮基线
+- SB-365 netiks.rs · feed_auto（rss）：首轮基线
+- SB-365 netiks.rs · sitemap（sitemap）：首轮基线
+- SB-366 osd.com.au · home（html）：首轮基线
+- SB-366 osd.com.au · feed_auto（rss）：首轮基线
+- SB-366 osd.com.au · sitemap（sitemap）：首轮基线
+- SB-366 osd.com.au · news_1（html）：首轮基线
+- SB-366 osd.com.au · news_2（html）：首轮基线
+- SB-367 petawise.com · home（html）：首轮基线
+- SB-367 petawise.com · feed_auto（rss）：首轮基线
+- SB-367 petawise.com · sitemap（sitemap）：首轮基线
+- SB-367 petawise.com · news_1（html）：首轮基线
+- SB-367 petawise.com · youtube（rss）：首轮基线
+- SB-368 safanetworks.com · home（html）：首轮基线
+- SB-369 securasound.co.uk · home（html）：首轮基线
+- SB-369 securasound.co.uk · news_1（html）：首轮基线
+- SB-370 sfpturkey.com.tr · home（html）：首轮基线
+- SB-370 sfpturkey.com.tr · youtube（youtube_handle）：首轮基线
+- SB-372 surveillance-video.com · home（html）：首轮基线
+- SB-372 surveillance-video.com · sitemap（sitemap）：首轮基线
+- SB-373 teamac-arabia.com · home（html）：首轮基线
+- SB-373 teamac-arabia.com · feed_auto（rss）：首轮基线
+- SB-373 teamac-arabia.com · news_1（html）：首轮基线
+- SB-373 teamac-arabia.com · news_2（html）：首轮基线
+- SB-374 tinycontrol.pl · home（html）：首轮基线
+- SB-374 tinycontrol.pl · sitemap（sitemap）：首轮基线
+- SB-375 volokno.kz · home（html）：首轮基线
+- SB-375 volokno.kz · sitemap（sitemap）：首轮基线
+- SB-375 volokno.kz · youtube（rss）：首轮基线
+- SB-376 winnerintertech.com · home（html）：首轮基线
+- SB-376 winnerintertech.com · sitemap（sitemap）：首轮基线
+- SB-376 winnerintertech.com · news_1（html）：首轮基线
+- SB-376 winnerintertech.com · news_2（html）：首轮基线
+- SB-377 xblue.com · home（html）：首轮基线
+- SB-377 xblue.com · feed_auto（rss）：首轮基线
+- SB-377 xblue.com · sitemap（sitemap）：首轮基线
+- SB-378 xlrsecurity.com · home（html）：首轮基线
+- SB-378 xlrsecurity.com · feed_auto（rss）：首轮基线
+- SB-378 xlrsecurity.com · sitemap（sitemap）：首轮基线
+- SB-378 xlrsecurity.com · news_1（html）：首轮基线
+- SB-378 xlrsecurity.com · news_2（html）：首轮基线
+- SB-378 xlrsecurity.com · youtube（youtube_handle）：首轮基线
+- SB-379 4sltd.com.tr · home（html）：首轮基线
+- SB-383 Floter · home（html）：首轮基线
+- SB-385 LTE ELEKTRONIK · home（html）：首轮基线
+- SB-385 LTE ELEKTRONIK · sitemap（sitemap）：首轮基线
+- SB-389 a2s.pl · home（html）：首轮基线
+- SB-389 a2s.pl · news_1（html）：首轮基线
+- SB-389 a2s.pl · news_2（html）：首轮基线
+- SB-390 abcv.pl · home（html）：首轮基线
+- SB-391 alidex.it · home（html）：首轮基线
+- SB-392 atel.com.pl · home（html）：首轮基线
+- SB-392 atel.com.pl · feed_auto（rss）：首轮基线
+- SB-392 atel.com.pl · sitemap（sitemap）：首轮基线
+- SB-393 avproglobal.com · home（html）：首轮基线
+- SB-393 avproglobal.com · sitemap（sitemap）：首轮基线
+- SB-393 avproglobal.com · news_1（html）：首轮基线
+- SB-393 avproglobal.com · news_2（html）：首轮基线
+- SB-394 cdr.pl · home（html）：首轮基线
+- SB-394 cdr.pl · sitemap（sitemap）：首轮基线
+- SB-394 cdr.pl · youtube（rss）：首轮基线
+- SB-395 distribolutions.com · home（html）：首轮基线
+- SB-395 distribolutions.com · news_1（html）：首轮基线
+- SB-396 efb-elektronik.com.tr · home（html）：首轮基线
+- SB-396 efb-elektronik.com.tr · sitemap（sitemap）：首轮基线
+- SB-396 efb-elektronik.com.tr · news_1（html）：首轮基线
+- SB-396 efb-elektronik.com.tr · news_2（html）：首轮基线
+- SB-396 efb-elektronik.com.tr · youtube（rss）：首轮基线
+- SB-397 es-france.com · home（html）：首轮基线
+- SB-397 es-france.com · news_1（html）：首轮基线
+- SB-397 es-france.com · news_2（html）：首轮基线
+- SB-399 golmar.es · home（html）：首轮基线
+- SB-399 golmar.es · sitemap（sitemap）：首轮基线
+- SB-399 golmar.es · news_1（html）：首轮基线
+- SB-399 golmar.es · news_2（html）：首轮基线
+- SB-399 golmar.es · youtube（rss）：首轮基线
+- SB-400 gsginternational.com · home（html）：首轮基线
+- SB-400 gsginternational.com · sitemap（sitemap）：首轮基线
+- SB-400 gsginternational.com · news_1（html）：首轮基线
+- SB-401 helmholz.de · home（html）：首轮基线
+- SB-401 helmholz.de · sitemap（sitemap）：首轮基线
+- SB-401 helmholz.de · news_1（html）：首轮基线
+- SB-401 helmholz.de · news_2（html）：首轮基线
+- SB-401 helmholz.de · youtube（rss）：首轮基线
+- SB-402 longlinenetwork.com · home（html）：首轮基线
+- SB-402 longlinenetwork.com · feed_auto（rss）：首轮基线
+- SB-402 longlinenetwork.com · news_1（html）：首轮基线
+- SB-403 media-konwertery.pl · home（html）：首轮基线
+- SB-403 media-konwertery.pl · youtube（youtube_handle）：首轮基线
+- SB-405 murrelektronik.de · home（html）：首轮基线
+- SB-405 murrelektronik.de · sitemap（sitemap）：首轮基线
+- SB-405 murrelektronik.de · youtube（youtube_handle）：首轮基线
+- SB-406 pro-tek.pro · home（html）：首轮基线
+- SB-406 pro-tek.pro · sitemap（sitemap）：首轮基线
+- SB-407 protekna.com · home（html）：首轮基线
+- SB-408 qubix.it · home（html）：首轮基线
+- SB-408 qubix.it · feed_auto（rss）：首轮基线
+- SB-409 rister.com · home（html）：首轮基线
+- SB-410 s-connect.es · home（html）：首轮基线
+- SB-410 s-connect.es · sitemap（sitemap）：首轮基线
+- SB-411 saucontech.com · home（html）：首轮基线
+- SB-411 saucontech.com · sitemap（sitemap）：首轮基线
+- SB-411 saucontech.com · news_1（html）：首轮基线
+- SB-412 steplockaccess.se · home（html）：首轮基线
+- SB-414 tpole.it · home（html）：首轮基线
+- SB-414 tpole.it · sitemap（sitemap）：首轮基线
+- SB-414 tpole.it · news_1（html）：首轮基线
+- SB-418 CTCU · home（html）：首轮基线
+- SB-418 CTCU · sitemap（sitemap）：首轮基线
+- SB-418 CTCU · news_1（html）：首轮基线
+- SB-418 CTCU · news_2（html）：首轮基线
+- SB-419 Exxell Vision · home（html）：首轮基线
+- SB-419 Exxell Vision · sitemap（sitemap）：首轮基线
+- SB-420 JMP · home（html）：首轮基线
+- SB-422 Optima Soft · home（html）：首轮基线
+- SB-422 Optima Soft · sitemap（sitemap）：首轮基线
+- SB-422 Optima Soft · news_1（html）：首轮基线
+- SB-422 Optima Soft · news_2（html）：首轮基线
+- SB-422 Optima Soft · youtube（youtube_handle）：首轮基线
+- SB-424 Tritonsystems spol. s r.o. · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho
+- SB-424 Tritonsystems spol. s r.o. · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify
+- SB-424 Tritonsystems spol. s r.o. · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port=443): Max retries exceeded with url: /references (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify 
+- SB-425 aicom.pl · home（html）：首轮基线
+- SB-425 aicom.pl · sitemap（sitemap）：首轮基线
+- SB-425 aicom.pl · news_1（html）：首轮基线
+- SB-426 amatek.su · home（html）：首轮基线
+- SB-426 amatek.su · sitemap（sitemap）：首轮基线
+- SB-426 amatek.su · news_1（html）：首轮基线
+- SB-426 amatek.su · news_2（html）：首轮基线
+- SB-426 amatek.su · vk（html）：首轮基线
+- SB-426 amatek.su · youtube（rss）：首轮基线
+- SB-427 automationsystem.in · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='automationsystem.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
+- SB-428 bettinivideo.com · home（html）：首轮基线
+- SB-428 bettinivideo.com · feed_auto（rss）：首轮基线
+- SB-428 bettinivideo.com · sitemap（sitemap）：首轮基线
+- SB-428 bettinivideo.com · news_1（html）：首轮基线
+- SB-429 bvsecurity.com · home（html）：首轮基线
+- SB-429 bvsecurity.com · sitemap（sitemap）：首轮基线
+- SB-429 bvsecurity.com · news_1（html）：首轮基线
+- SB-430 comtech.net.pk · home（html）：首轮基线
+- SB-430 comtech.net.pk · feed_auto（rss）：首轮基线
+- SB-430 comtech.net.pk · sitemap（sitemap）：首轮基线
+- SB-430 comtech.net.pk · news_1（html）：首轮基线
+- SB-431 e-saudi.net · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='e-saudi.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable 
+- SB-433 espuk.com · home（html）：首轮基线
+- SB-434 gmtcontrol.com · home（html）：首轮基线
+- SB-434 gmtcontrol.com · feed_auto（rss）：首轮基线
+- SB-434 gmtcontrol.com · sitemap（sitemap）：首轮基线
+- SB-434 gmtcontrol.com · news_1（html）：首轮基线
+- SB-434 gmtcontrol.com · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-435 leoptics.pl · home（html）：首轮基线
+- SB-435 leoptics.pl · sitemap（sitemap）：首轮基线
+- SB-436 maxlink.cz · home（html）：首轮基线
+- SB-436 maxlink.cz · sitemap（sitemap）：首轮基线
+- SB-437 pancakumala.co.id · home（html）：首轮基线
+- SB-437 pancakumala.co.id · news_1（html）：首轮基线
+- SB-438 pavotek.com.tr · home（html）：首轮基线
+- SB-438 pavotek.com.tr · youtube（rss）：首轮基线
+- SB-439 satsdigital.com · home（html）：首轮基线
+- SB-439 satsdigital.com · sitemap（sitemap）：首轮基线
+- SB-440 ssdcam.ru · home（html）：首轮基线
+- SB-440 ssdcam.ru · news_1（html）：首轮基线
+- SB-440 ssdcam.ru · news_2（html）：首轮基线
+- SB-440 ssdcam.ru · telegram（html）：首轮基线
+- SB-440 ssdcam.ru · youtube（rss）：首轮基线
+- SB-441 4G-GmbH · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='4g-gmbh.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='4g-gmbh.de', port=443): Failed to resolve '4g-gmbh.de' ([Errno 
+- SB-443 EMOS · home（html）：首轮基线
+- SB-443 EMOS · news_1（html）：首轮基线
+- SB-443 EMOS · youtube（youtube_handle）：首轮基线
+- SB-444 Eter biometric technologies Sr · home（html）：首轮基线
+- SB-444 Eter biometric technologies Sr · feed_auto（rss）：首轮基线
+- SB-444 Eter biometric technologies Sr · sitemap（sitemap）：首轮基线
+- SB-444 Eter biometric technologies Sr · news_1（html）：首轮基线
+- SB-444 Eter biometric technologies Sr · youtube（youtube_handle）：首轮基线
+- SB-446 HAMDAZTECH TECHNOLOGIES INC LL · home（html）：首轮基线
+- SB-446 HAMDAZTECH TECHNOLOGIES INC LL · sitemap（sitemap）：首轮基线
+- SB-449 Koza · home（html）：首轮基线
+- SB-449 Koza · sitemap（sitemap）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='kozaguvenlik.com.tr', port=443): Read timed out. (read timeout=20)
+- SB-449 Koza · news_1（html）：首轮基线
+- SB-450 MicroFast Technologies · home（html）：首轮基线
+- SB-451 NORTEL · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='norteliletisim.com', port=443): Read timed out. (read timeout=20)
+- SB-452 Ninh Thanh Production and Trad · home（html）：首轮基线
+- SB-452 Ninh Thanh Production and Trad · news_1（html）：首轮基线
+- SB-453 Novy Telecom sro · home（html）：首轮基线
+- SB-455 asm.cz · home（html）：首轮基线
+- SB-456 austec.net · home（html）：首轮基线
+- SB-456 austec.net · feed_auto（rss）：首轮基线
+- SB-456 austec.net · sitemap（sitemap）：首轮基线
+- SB-457 bma-networks.com · home（html）：首轮基线
+- SB-457 bma-networks.com · sitemap（sitemap）：首轮基线
+- SB-457 bma-networks.com · news_1（html）：首轮基线
+- SB-457 bma-networks.com · news_2（html）：首轮基线
+- SB-457 bma-networks.com · youtube（rss）：首轮基线
+- SB-458 bturesearch.com · home（html）：首轮基线
+- SB-458 bturesearch.com · sitemap（sitemap）：首轮基线
+- SB-459 casecomms.com · home（html）：首轮基线
+- SB-459 casecomms.com · feed_auto（rss）：首轮基线
+- SB-459 casecomms.com · sitemap（sitemap）：首轮基线
+- SB-459 casecomms.com · news_1（html）：首轮基线
+- SB-459 casecomms.com · news_2（html）：首轮基线
+- SB-460 cctvdepo.com · home（html）：首轮基线
+- SB-460 cctvdepo.com · sitemap（sitemap）：首轮基线
+- SB-460 cctvdepo.com · youtube（youtube_handle）：首轮基线
+- SB-462 eminnovate.com · home（html）：首轮基线
+- SB-462 eminnovate.com · sitemap（sitemap）：首轮基线
+- SB-463 eurocamguvenlik.com.tr · home（html）：首轮基线
+- SB-463 eurocamguvenlik.com.tr · sitemap（sitemap）：首轮基线
+- SB-464 ezy.hr · home（html）：首轮基线
+- SB-466 hanyotele.com · home（html）：首轮基线
+- SB-467 itegra.lt · home（html）：首轮基线
+- SB-467 itegra.lt · feed_auto（rss）：首轮基线
+- SB-469 keme-tec.com · home（html）：首轮基线
+- SB-470 melbyefiber.com · home（html）：首轮基线
+- SB-470 melbyefiber.com · news_1（html）：首轮基线
+- SB-470 melbyefiber.com · news_2（html）：首轮基线
+- SB-470 melbyefiber.com · youtube（youtube_handle）：首轮基线
+- SB-471 mosonetworks.com · home（html）：首轮基线
+- SB-471 mosonetworks.com · feed_auto（rss）：首轮基线
+- SB-472 n-itus.com · home（html）：首轮基线
+- SB-474 ngapl.in · home（html）：首轮基线
+- SB-474 ngapl.in · feed_auto（rss）：首轮基线
+- SB-474 ngapl.in · youtube（youtube_handle）：首轮基线
+- SB-475 npotelecom.ru · home（html）：首轮基线
+- SB-476 octogate.de · home（html）：首轮基线
+- SB-476 octogate.de · news_1（html）：首轮基线
+- SB-476 octogate.de · youtube（rss）：首轮基线
+- SB-477 portel.com.tr · home（html）：首轮基线
+- SB-477 portel.com.tr · feed_auto（rss）：首轮基线
+- SB-477 portel.com.tr · sitemap（sitemap）：首轮基线
+- SB-479 radioteknoloji.com.tr · home（html）：首轮基线
+- SB-479 radioteknoloji.com.tr · sitemap（sitemap）：首轮基线
+- SB-480 raskpreke.lt · home（html）：首轮基线
+- SB-480 raskpreke.lt · sitemap（sitemap）：首轮基线
+- SB-481 sistel-networking.it · home（html）：首轮基线
+- SB-481 sistel-networking.it · feed_auto（rss）：首轮基线
+- SB-481 sistel-networking.it · sitemap（sitemap）：首轮基线
+- SB-481 sistel-networking.it · news_1（html）：首轮基线
+- SB-481 sistel-networking.it · youtube（rss）：首轮基线
+- SB-482 syserso.com · home（html）：首轮基线
+- SB-482 syserso.com · feed_auto（rss）：首轮基线
+- SB-482 syserso.com · sitemap（sitemap）：首轮基线
+- SB-482 syserso.com · youtube（youtube_handle）：首轮基线
+- SB-483 teleone.com.tr · home（html）：首轮基线
+- SB-483 teleone.com.tr · feed_auto（rss）：首轮基线
+- SB-483 teleone.com.tr · news_1（html）：首轮基线
+- SB-483 teleone.com.tr · news_2（html）：首轮基线
+- SB-484 topnetdistribution.com · home（html）：首轮基线
+- SB-484 topnetdistribution.com · feed_auto（rss）：首轮基线
+- SB-484 topnetdistribution.com · sitemap（sitemap）：首轮基线
+- SB-484 topnetdistribution.com · news_1（html）：首轮基线
+- SB-484 topnetdistribution.com · news_2（html）：首轮基线
+- SB-487 Cong Ty TNHH CONG NGHE QUANG L · home（html）：首轮基线
+- SB-487 Cong Ty TNHH CONG NGHE QUANG L · sitemap（sitemap）：首轮基线
+- SB-487 Cong Ty TNHH CONG NGHE QUANG L · news_1（html）：首轮基线
+- SB-488 DTI Tecnologia Ltda · home（html）：抓取失败：ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- SB-491 cetsingapore.com · home（html）：首轮基线
+- SB-491 cetsingapore.com · feed_auto（rss）：首轮基线
+- SB-493 diteksurgeprotection.com · home（html）：首轮基线
+- SB-493 diteksurgeprotection.com · feed_auto（rss）：首轮基线
+- SB-493 diteksurgeprotection.com · sitemap（sitemap）：首轮基线
+- SB-493 diteksurgeprotection.com · news_1（html）：首轮基线
+- SB-493 diteksurgeprotection.com · news_2（html）：首轮基线
+- SB-493 diteksurgeprotection.com · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-494 elimopt.co.kr · home（html）：首轮基线
+- SB-495 elprotech.com · home（html）：首轮基线
+- SB-495 elprotech.com · feed_auto（rss）：首轮基线
+- SB-495 elprotech.com · sitemap（sitemap）：首轮基线
+- SB-495 elprotech.com · news_1（html）：首轮基线
+- SB-495 elprotech.com · news_2（html）：首轮基线
+- SB-495 elprotech.com · youtube（youtube_handle）：首轮基线
+- SB-496 eltech.com.au · home（html）：首轮基线
+- SB-496 eltech.com.au · sitemap（sitemap）：首轮基线
+- SB-497 eso.co.th · home（html）：首轮基线
+- SB-497 eso.co.th · sitemap（sitemap）：首轮基线
+- SB-497 eso.co.th · news_1（html）：首轮基线
+- SB-497 eso.co.th · news_2（html）：首轮基线
+- SB-497 eso.co.th · youtube（youtube_handle）：首轮基线
+- SB-498 fibertek-ap.com · home（html）：首轮基线
+- SB-499 fibreoptic.com.au · home（html）：首轮基线
+- SB-499 fibreoptic.com.au · sitemap（sitemap）：首轮基线
+- SB-499 fibreoptic.com.au · news_1（html）：首轮基线
+- SB-500 gotinc.co.kr · home（html）：首轮基线
+- SB-503 ionetech.com · home（html）：首轮基线
+- SB-507 rivershop.co.kr · home（html）：首轮基线
+- SB-507 rivershop.co.kr · sitemap（sitemap）：首轮基线
+- SB-507 rivershop.co.kr · youtube（youtube_handle）：首轮基线
+- SB-508 solustecnologia.com · home（html）：首轮基线
+- SB-508 solustecnologia.com · feed_auto（rss）：首轮基线
+- SB-508 solustecnologia.com · sitemap（sitemap）：首轮基线
+- SB-509 starlink.co.kr · home（html）：首轮基线
+- SB-511 257.cz · home（html）：首轮基线
+- SB-511 257.cz · news_1（html）：首轮基线
+- SB-512 3tel.com.sg · home（html）：首轮基线
+- SB-512 3tel.com.sg · sitemap（sitemap）：首轮基线
+- SB-512 3tel.com.sg · news_1（html）：首轮基线
+- SB-514 Brigit Group · home（html）：首轮基线
+- SB-517 Kyber Electronics · home（html）：首轮基线
+- SB-517 Kyber Electronics · sitemap（sitemap）：首轮基线
+- SB-517 Kyber Electronics · news_1（html）：首轮基线
+- SB-519 abctech.cz · home（html）：首轮基线
+- SB-520 aceonline.co.uk · home（html）：首轮基线
+- SB-520 aceonline.co.uk · sitemap（sitemap）：首轮基线
+- SB-521 adilec.com · home（html）：首轮基线
+- SB-521 adilec.com · sitemap（sitemap）：首轮基线
+- SB-522 aristel.com.au · home（html）：首轮基线
+- SB-522 aristel.com.au · feed_auto（rss）：首轮基线
+- SB-522 aristel.com.au · sitemap（sitemap）：首轮基线
+- SB-522 aristel.com.au · news_1（html）：首轮基线
+- SB-523 armadi-rack.it · home（html）：首轮基线
+- SB-523 armadi-rack.it · sitemap（sitemap）：首轮基线
+- SB-524 atlantis-land.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='atlantis-land.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='atlantis-land.com', port=443) at 0x7fd12cc5f530>, 'Conne
+- SB-525 automationstore.it · home（html）：首轮基线
+- SB-526 avalan.com · home（html）：首轮基线
+- SB-526 avalan.com · feed_auto（rss）：首轮基线
+- SB-526 avalan.com · sitemap（sitemap）：首轮基线
+- SB-526 avalan.com · news_1（html）：首轮基线
+- SB-526 avalan.com · youtube（rss）：首轮基线
+- SB-527 commfront.com · home（html）：首轮基线
+- SB-527 commfront.com · sitemap（sitemap）：首轮基线
+- SB-527 commfront.com · news_1（html）：首轮基线
+- SB-527 commfront.com · youtube（youtube_handle）：首轮基线
+- SB-528 dmsimfg.com · home（html）：首轮基线
+- SB-529 dss-kuwait.com · home（html）：首轮基线
+- SB-530 dynamode.co.uk · home（html）：首轮基线
+- SB-530 dynamode.co.uk · sitemap（sitemap）：首轮基线
+- SB-531 eclipsecctv.com · home（html）：首轮基线
+- SB-532 eks-engel.de · home（html）：首轮基线
+- SB-532 eks-engel.de · sitemap（sitemap）：首轮基线
+- SB-532 eks-engel.de · news_1（html）：首轮基线
+- SB-532 eks-engel.de · news_2（html）：首轮基线
+- SB-532 eks-engel.de · youtube（youtube_handle）：首轮基线
+- SB-533 elfcams.com · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', port=443): Read timed out. (read timeout=20)
+- SB-533 elfcams.com · sitemap（sitemap）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', port=443): Read timed out. (read timeout=20)
+- SB-533 elfcams.com · news_1（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', port=443): Read timed out. (read timeout=20)
+- SB-534 escadtrade.cz · home（html）：首轮基线
+- SB-534 escadtrade.cz · sitemap（sitemap）：首轮基线
+- SB-536 highlink.co.kr · home（html）：首轮基线
+- SB-536 highlink.co.kr · sitemap（sitemap）：首轮基线
+- SB-537 htvision.ru · home（html）：首轮基线
+- SB-538 infinitecables.com · home（html）：首轮基线
+- SB-538 infinitecables.com · sitemap（sitemap）：首轮基线
+- SB-541 ipcomm.de · home（html）：首轮基线
+- SB-541 ipcomm.de · sitemap（sitemap）：首轮基线
+- SB-541 ipcomm.de · news_1（html）：首轮基线
+- SB-541 ipcomm.de · news_2（html）：首轮基线
+- SB-542 jdktech.com.au · home（html）：首轮基线
+- SB-542 jdktech.com.au · sitemap（sitemap）：首轮基线
+- SB-542 jdktech.com.au · news_1（html）：首轮基线
+- SB-543 kbcnetworks.com · home（html）：首轮基线
+- SB-543 kbcnetworks.com · news_1（html）：首轮基线
+- SB-543 kbcnetworks.com · news_2（html）：首轮基线
+- SB-544 lanopia.de · home（html）：首轮基线
+- SB-544 lanopia.de · sitemap（sitemap）：首轮基线
+- SB-544 lanopia.de · news_1（html）：首轮基线
+- SB-544 lanopia.de · news_2（html）：首轮基线
+- SB-546 luetze.com · home（html）：首轮基线
+- SB-547 makonetworks.com · home（html）：首轮基线
+- SB-547 makonetworks.com · feed_auto（rss）：首轮基线
+- SB-547 makonetworks.com · sitemap（sitemap）：首轮基线
+- SB-547 makonetworks.com · news_1（html）：首轮基线
+- SB-547 makonetworks.com · news_2（html）：首轮基线
+- SB-548 mreit.co.kr · home（html）：首轮基线
+- SB-549 ness.com.au · home（html）：首轮基线
+- SB-550 netinet.pl · home（html）：首轮基线
+- SB-550 netinet.pl · feed_auto（rss）：首轮基线
+- SB-550 netinet.pl · sitemap（sitemap）：首轮基线
+- SB-550 netinet.pl · news_1（html）：首轮基线
+- SB-551 netsys-direct.com · home（html）：首轮基线
+- SB-551 netsys-direct.com · sitemap（sitemap）：首轮基线
+- SB-556 poewit.com · home（html）：首轮基线
+- SB-556 poewit.com · feed_auto（rss）：首轮基线
+- SB-557 reichelt.com · home（html）：首轮基线
+- SB-557 reichelt.com · sitemap（sitemap）：首轮基线
+- SB-558 sanspot.com · home（html）：首轮基线
+- SB-559 securevision.com.sg · home（html）：首轮基线
+- SB-559 securevision.com.sg · sitemap（sitemap）：首轮基线
+- SB-560 sequrinet.us · home（html）：首轮基线
+- SB-561 sysnettelematica.it · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='sysnettelematica.it', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
+- SB-562 tacel.ca · home（html）：首轮基线
+- SB-562 tacel.ca · sitemap（sitemap）：首轮基线
+- SB-562 tacel.ca · news_1（html）：首轮基线
+- SB-562 tacel.ca · news_2（html）：首轮基线
+- SB-562 tacel.ca · youtube（youtube_handle）：首轮基线
+- SB-565 ubf.de · home（html）：首轮基线
+- SB-565 ubf.de · sitemap（sitemap）：首轮基线
+- SB-566 ubitron.co.kr · home（html）：首轮基线
+- SB-566 ubitron.co.kr · news_1（html）：首轮基线
+- SB-567 uniformatic.fr · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='uniformatic.fr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='uniformatic.fr', port=443): Failed to resolve 'uniformatic.
+- SB-569 vipausa.com · home（html）：首轮基线
+- SB-569 vipausa.com · news_1（html）：首轮基线
+- SB-569 vipausa.com · news_2（html）：首轮基线
+- SB-569 vipausa.com · youtube（rss）：首轮基线
+- SB-570 womaster.eu · home（html）：首轮基线
+- SB-570 womaster.eu · sitemap（sitemap）：首轮基线
+- SB-570 womaster.eu · news_1（html）：首轮基线
+- SB-570 womaster.eu · news_2（html）：首轮基线
+- SB-571 zoomlinenetwork.com · home（html）：首轮基线
+- SB-571 zoomlinenetwork.com · feed_auto（rss）：首轮基线
+- SB-571 zoomlinenetwork.com · sitemap（sitemap）：首轮基线
+- SB-571 zoomlinenetwork.com · news_1（html）：首轮基线
+- SB-571 zoomlinenetwork.com · youtube（rss）：首轮基线
+- SB-572 ALT VISION · home（html）：首轮基线
+- SB-572 ALT VISION · sitemap（sitemap）：首轮基线
+- SB-575 Latitude · home（html）：首轮基线
+- SB-577 PCG Bilgisayar LTD.STI. · home（html）：首轮基线
+- SB-577 PCG Bilgisayar LTD.STI. · sitemap（sitemap）：首轮基线
+- SB-577 PCG Bilgisayar LTD.STI. · news_1（html）：首轮基线
+- SB-577 PCG Bilgisayar LTD.STI. · news_2（html）：首轮基线
+- SB-577 PCG Bilgisayar LTD.STI. · youtube（youtube_handle）：首轮基线
+- SB-579 TGM Global Pte Ltd · home（html）：首轮基线
+- SB-583 cablematic.com · home（html）：首轮基线
+- SB-584 certech.com.au · home（html）：首轮基线
+- SB-586 energus.eu · home（html）：首轮基线
+- SB-586 energus.eu · sitemap（sitemap）：首轮基线
+- SB-588 fourline.com.tr · home（html）：首轮基线
+- SB-589 integranetwork.es · home（html）：首轮基线
+- SB-589 integranetwork.es · feed_auto（rss）：首轮基线
+- SB-589 integranetwork.es · sitemap（sitemap）：首轮基线
+- SB-590 lanberg.pl · home（html）：首轮基线
+- SB-592 marbim.com.tr · home（html）：首轮基线
+- SB-593 matrix.es · home（html）：首轮基线
+- SB-593 matrix.es · feed_auto（rss）：首轮基线
+- SB-593 matrix.es · sitemap（sitemap）：首轮基线
+- SB-593 matrix.es · news_1（html）：首轮基线
+- SB-594 metaworldcomputers.com · home（html）：首轮基线
+- SB-596 niaar.net · home（html）：首轮基线
+- SB-596 niaar.net · sitemap（sitemap）：首轮基线
+- SB-596 niaar.net · news_1（html）：首轮基线
+- SB-597 nnc.net.vn · home（html）：首轮基线
+- SB-599 sheildify.com · home（html）：首轮基线
+- SB-599 sheildify.com · sitemap（sitemap）：首轮基线
+- SB-599 sheildify.com · news_1（html）：首轮基线
+- SB-600 smartintercom.eu · home（html）：首轮基线
+- SB-600 smartintercom.eu · feed_auto（rss）：首轮基线
+- SB-600 smartintercom.eu · sitemap（sitemap）：首轮基线
+- SB-602 vanphatdat.vn · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='vanphatdat.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi
+- SB-602 vanphatdat.vn · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='vanphatdat.vn', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ver
+- SB-603 vidos.pl · home（html）：首轮基线
+- SB-603 vidos.pl · sitemap（sitemap）：首轮基线
+- SB-605 Matrix vision systems · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='www.matrixsystems.co.ke', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.matrixsystems.co.ke', port=443): Failed to res
+- SB-607 WAN networking technology · home（html）：首轮基线
+- SB-607 WAN networking technology · news_1（html）：首轮基线
+- SB-607 WAN networking technology · news_2（html）：首轮基线
+- SB-607 WAN networking technology · youtube（rss）：首轮基线
+- SB-609 bydemes.com · home（html）：首轮基线
+- SB-609 bydemes.com · sitemap（sitemap）：首轮基线
+- SB-609 bydemes.com · news_1（html）：首轮基线
+- SB-609 bydemes.com · news_2（html）：首轮基线
+- SB-610 carritech.com · home（html）：首轮基线
+- SB-611 elementuengenharia.com.br · home（html）：首轮基线
+- SB-611 elementuengenharia.com.br · feed_auto（rss）：首轮基线
+- SB-611 elementuengenharia.com.br · sitemap（sitemap）：首轮基线
+- SB-611 elementuengenharia.com.br · news_1（html）：首轮基线
+- SB-611 elementuengenharia.com.br · youtube（rss）：首轮基线
+- SB-612 fotech.com.tr · home（html）：首轮基线
+- SB-612 fotech.com.tr · news_1（html）：首轮基线
+- SB-613 ibdglobal.com · home（html）：首轮基线
+- SB-613 ibdglobal.com · sitemap（sitemap）：首轮基线
+- SB-613 ibdglobal.com · news_1（html）：首轮基线
+- SB-613 ibdglobal.com · news_2（html）：首轮基线
+- SB-614 kmsoltec.com · home（html）：首轮基线
+- SB-614 kmsoltec.com · news_1（html）：首轮基线
+- SB-614 kmsoltec.com · news_2（html）：首轮基线
+- SB-614 kmsoltec.com · youtube（youtube_handle）：首轮基线
+- SB-616 mpcl.in · home（html）：首轮基线
+- SB-616 mpcl.in · feed_auto（rss）：首轮基线
+- SB-616 mpcl.in · sitemap（sitemap）：首轮基线
+- SB-616 mpcl.in · news_1（html）：首轮基线
+- SB-616 mpcl.in · news_2（html）：首轮基线
+- SB-617 optokon.pl · home（html）：首轮基线
+- SB-617 optokon.pl · sitemap（sitemap）：首轮基线
+- SB-619 plus-nn.ru · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='plus-nn.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname
+- SB-620 solway.co.kr · home（html）：首轮基线
+- SB-621 symanitron.ru · home（html）：首轮基线
+- SB-621 symanitron.ru · news_1（html）：首轮基线
+- SB-622 t1nexus.com · home（html）：首轮基线
+- SB-622 t1nexus.com · feed_auto（rss）：首轮基线
+- SB-622 t1nexus.com · sitemap（sitemap）：首轮基线
+- SB-623 visus.pt · home（html）：首轮基线
+- SB-623 visus.pt · news_1（html）：首轮基线
+- SB-623 visus.pt · news_2（html）：首轮基线
+- SB-624 ANIL · home（html）：首轮基线
+- SB-624 ANIL · news_1（html）：首轮基线
+- SB-624 ANIL · news_2（html）：首轮基线
+- SB-624 ANIL · youtube（youtube_handle）：首轮基线
+- SB-626 Burns Precision Ag · home（html）：首轮基线
+- SB-626 Burns Precision Ag · sitemap（sitemap）：首轮基线
+- SB-627 Elkov Elektro · home（html）：首轮基线
+- SB-627 Elkov Elektro · sitemap（sitemap）：首轮基线
+- SB-628 HME Solutions · home（html）：首轮基线
+- SB-628 HME Solutions · sitemap（sitemap）：首轮基线
+- SB-628 HME Solutions · news_1（html）：首轮基线
+- SB-628 HME Solutions · news_2（html）：首轮基线
+- SB-629 JTOPTICS · home（html）：首轮基线
+- SB-629 JTOPTICS · sitemap（sitemap）：首轮基线
+- SB-629 JTOPTICS · news_1（html）：首轮基线
+- SB-629 JTOPTICS · news_2（html）：首轮基线
+- SB-629 JTOPTICS · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-631 ablelink.co.th · home（html）：首轮基线
+- SB-631 ablelink.co.th · sitemap（sitemap）：首轮基线
+- SB-631 ablelink.co.th · news_1（html）：首轮基线
+- SB-634 avanis.de · home（html）：首轮基线
+- SB-634 avanis.de · news_1（html）：首轮基线
+- SB-634 avanis.de · news_2（html）：首轮基线
+- SB-635 clouditnetwork.com · home（html）：首轮基线
+- SB-635 clouditnetwork.com · feed_auto（rss）：首轮基线
+- SB-635 clouditnetwork.com · sitemap（sitemap）：首轮基线
+- SB-635 clouditnetwork.com · news_1（html）：首轮基线
+- SB-636 cozzmic.com · home（html）：首轮基线
+- SB-636 cozzmic.com · feed_auto（rss）：首轮基线
+- SB-636 cozzmic.com · sitemap（sitemap）：首轮基线
+- SB-636 cozzmic.com · youtube（youtube_handle）：首轮基线
+- SB-637 focomm-cabling.com · home（html）：首轮基线
+- SB-637 focomm-cabling.com · sitemap（sitemap）：首轮基线
+- SB-637 focomm-cabling.com · youtube（youtube_handle）：首轮基线
+- SB-638 handsonsecurity.co.za · home（html）：首轮基线
+- SB-638 handsonsecurity.co.za · feed_auto（rss）：首轮基线
+- SB-638 handsonsecurity.co.za · sitemap（sitemap）：首轮基线
+- SB-639 intant.kz · home（html）：首轮基线
+- SB-639 intant.kz · sitemap（sitemap）：首轮基线
+- SB-640 ipc2u.com · home（html）：首轮基线
+- SB-640 ipc2u.com · sitemap（sitemap）：首轮基线
+- SB-640 ipc2u.com · news_1（html）：首轮基线
+- SB-640 ipc2u.com · news_2（html）：首轮基线
+- SB-640 ipc2u.com · youtube（rss）：首轮基线
+- SB-641 jeatech.com.au · home（html）：首轮基线
+- SB-641 jeatech.com.au · sitemap（sitemap）：首轮基线
+- SB-641 jeatech.com.au · news_1（html）：首轮基线
+- SB-641 jeatech.com.au · news_2（html）：首轮基线
+- SB-642 jmdv.ru · home（html）：首轮基线
+- SB-643 karma-group.ru · home（html）：首轮基线
+- SB-643 karma-group.ru · sitemap（sitemap）：首轮基线
+- SB-643 karma-group.ru · news_1（html）：首轮基线
+- SB-644 lanshack.com · home（html）：首轮基线
+- SB-644 lanshack.com · sitemap（sitemap）：首轮基线
+- SB-644 lanshack.com · news_1（html）：首轮基线
+- SB-644 lanshack.com · news_2（html）：首轮基线
+- SB-645 market-telecom.kz · home（html）：首轮基线
+- SB-645 market-telecom.kz · sitemap（sitemap）：首轮基线
+- SB-647 smol-electro.ru · home（html）：首轮基线
+- SB-647 smol-electro.ru · sitemap（sitemap）：首轮基线
+- SB-647 smol-electro.ru · news_1（html）：首轮基线
+- SB-650 ubwh.com.au · home（html）：首轮基线
+- SB-651 virtware.pt · home（html）：首轮基线
+- SB-651 virtware.pt · news_1（html）：首轮基线
+- SB-652 visiondynamics.de · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='visiondynamics.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: s
+- SB-653 zonagsm.su · home（html）：首轮基线
+- SB-653 zonagsm.su · sitemap（sitemap）：首轮基线
+- SB-654 BRIGHTNET SERVICES SDN BHD · home（html）：首轮基线
+- SB-654 BRIGHTNET SERVICES SDN BHD · news_1（html）：首轮基线
+- SB-655 C-TECH · home（html）：首轮基线
+- SB-655 C-TECH · feed_auto（rss）：首轮基线
+- SB-655 C-TECH · sitemap（sitemap）：首轮基线
+- SB-655 C-TECH · news_1（html）：首轮基线
+- SB-656 CORE IT SOLUTIONS · home（html）：首轮基线
+- SB-656 CORE IT SOLUTIONS · feed_auto（rss）：首轮基线
+- SB-656 CORE IT SOLUTIONS · sitemap（sitemap）：首轮基线
+- SB-659 Gigaxysafe Technologies Ltd · home（html）：首轮基线
+- SB-659 Gigaxysafe Technologies Ltd · news_1（html）：首轮基线
+- SB-659 Gigaxysafe Technologies Ltd · news_2（html）：首轮基线
+- SB-660 Grypen Technologies Private Li · home（html）：首轮基线
+- SB-661 Hoang Long Import-Export and T · home（html）：首轮基线
+- SB-662 Hoang Thien An Technology Trad · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='hoangthienan.com.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
+- SB-663 LMD Hitech India (P) Ltd. · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='radiantgroup.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='radiantgroup.org', port=443): Failed to resolve 'radiantg
+- SB-664 MARZETEK (Pty) Ltd · home（html）：首轮基线
+- SB-666 NaSys Inc · home（html）：首轮基线
+- SB-667 OPATOV 之前联系过的客户 · home（html）：首轮基线
+- SB-667 OPATOV 之前联系过的客户 · news_1（html）：首轮基线
+- SB-670 Technoverse Business Solutions · home（html）：首轮基线
+- SB-670 Technoverse Business Solutions · sitemap（sitemap）：首轮基线
+- SB-670 Technoverse Business Solutions · youtube（youtube_handle）：首轮基线
+- SB-679 apolloinfoways.in · home（html）：首轮基线
+- SB-680 apresteknoloji.com.tr · home（html）：首轮基线
+- SB-681 arbybilgisayar.com.tr · home（html）：首轮基线
+- SB-681 arbybilgisayar.com.tr · sitemap（sitemap）：首轮基线
+- SB-681 arbybilgisayar.com.tr · youtube（rss）：首轮基线
+- SB-682 art2soft.eu · home（html）：首轮基线
+- SB-682 art2soft.eu · feed_auto（rss）：首轮基线
+- SB-683 arthaberlesme.com · home（html）：首轮基线
+- SB-683 arthaberlesme.com · sitemap（sitemap）：首轮基线
+- SB-683 arthaberlesme.com · news_1（html）：首轮基线
+- SB-684 artsistem.com · home（html）：首轮基线
+- SB-684 artsistem.com · sitemap（sitemap）：首轮基线
+- SB-684 artsistem.com · news_1（html）：首轮基线
+- SB-684 artsistem.com · news_2（html）：首轮基线
+- SB-684 artsistem.com · youtube（rss）：首轮基线
+- SB-685 arttelekom.com.tr · home（html）：首轮基线
+- SB-685 arttelekom.com.tr · sitemap（sitemap）：首轮基线
+- SB-686 atelekom.com.tr · home（html）：首轮基线
+- SB-686 atelekom.com.tr · sitemap（sitemap）：首轮基线
+- SB-686 atelekom.com.tr · news_1（html）：首轮基线
+- SB-686 atelekom.com.tr · youtube（youtube_handle）：首轮基线
+- SB-687 basarimuhendislik.com · home（html）：首轮基线
+- SB-687 basarimuhendislik.com · feed_auto（rss）：首轮基线
+- SB-687 basarimuhendislik.com · sitemap（sitemap）：首轮基线
+- SB-687 basarimuhendislik.com · news_1（html）：首轮基线
+- SB-687 basarimuhendislik.com · news_2（html）：首轮基线
+- SB-687 basarimuhendislik.com · youtube（rss）：首轮基线
+- SB-688 beastteknoloji.com · home（html）：首轮基线
+- SB-688 beastteknoloji.com · feed_auto（rss）：首轮基线
+- SB-688 beastteknoloji.com · youtube（rss）：首轮基线
+- SB-689 biges.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='biges.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='biges.com', port=443) at 0x7fd14cc1aea0>, 'Connection to biges.c
+- SB-689 biges.com · sitemap（sitemap）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='biges.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='biges.com', port=443) at 0x7fd14c2dec30>, 'Connection
+- SB-690 comxus.com · home（html）：首轮基线
+- SB-690 comxus.com · feed_auto（rss）：首轮基线
+- SB-690 comxus.com · sitemap（sitemap）：首轮基线
+- SB-690 comxus.com · news_1（html）：首轮基线
+- SB-691 coredata.com.tr · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='coredata.com.tr', port=443): Max retries exceeded with url: /login_up.php (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify
+- SB-692 davantel.com · home（html）：首轮基线
+- SB-692 davantel.com · feed_auto（rss）：首轮基线
+- SB-692 davantel.com · sitemap（sitemap）：首轮基线
+- SB-693 digisol.com · home（html）：首轮基线
+- SB-693 digisol.com · feed_auto（rss）：首轮基线
+- SB-693 digisol.com · sitemap（sitemap）：首轮基线
+- SB-693 digisol.com · news_1（html）：首轮基线
+- SB-693 digisol.com · news_2（html）：首轮基线
+- SB-693 digisol.com · youtube（youtube_handle）：首轮基线
+- SB-694 dijitalbina.com · home（html）：首轮基线
+- SB-694 dijitalbina.com · sitemap（sitemap）：首轮基线
+- SB-694 dijitalbina.com · news_1（html）：首轮基线
+- SB-695 egesanteknoloji.com.tr · home（html）：首轮基线
+- SB-695 egesanteknoloji.com.tr · sitemap（sitemap）：首轮基线
+- SB-696 ekingen.com.tr · home（html）：首轮基线
+- SB-696 ekingen.com.tr · feed_auto（rss）：首轮基线
+- SB-696 ekingen.com.tr · sitemap（sitemap）：首轮基线
+- SB-696 ekingen.com.tr · news_1（html）：首轮基线
+- SB-697 entpa.com.tr · home（html）：首轮基线
+- SB-697 entpa.com.tr · sitemap（sitemap）：首轮基线
+- SB-697 entpa.com.tr · news_1（html）：首轮基线
+- SB-701 fonet.com.tr · home（html）：首轮基线
+- SB-701 fonet.com.tr · sitemap（sitemap）：首轮基线
+- SB-704 goldnet.com.tr · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='goldnet.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: cert
+- SB-706 hssl.us · home（html）：首轮基线
+- SB-706 hssl.us · sitemap（sitemap）：首轮基线
+- SB-707 hstn.co.th · home（html）：首轮基线
+- SB-707 hstn.co.th · sitemap（sitemap）：首轮基线
+- SB-707 hstn.co.th · news_1（html）：首轮基线
+- SB-707 hstn.co.th · news_2（html）：首轮基线
+- SB-707 hstn.co.th · youtube（youtube_handle）：首轮基线
+- SB-709 jm.pl · home（html）：首轮基线
+- SB-709 jm.pl · sitemap（sitemap）：首轮基线
+- SB-711 marsateknoloji.com · home（html）：首轮基线
+- SB-712 mavialarm.com.tr · home（html）：首轮基线
+- SB-712 mavialarm.com.tr · sitemap（sitemap）：首轮基线
+- SB-712 mavialarm.com.tr · news_1（html）：首轮基线
+- SB-712 mavialarm.com.tr · youtube（rss）：首轮基线
+- SB-714 mgt.bayern · home（html）：首轮基线
+- SB-714 mgt.bayern · sitemap（sitemap）：首轮基线
+- SB-715 midosa.com.tr · home（html）：首轮基线
+- SB-716 mnsbilisim.com · home（html）：首轮基线
+- SB-716 mnsbilisim.com · news_1（html）：首轮基线
+- SB-716 mnsbilisim.com · news_2（html）：首轮基线
+- SB-716 mnsbilisim.com · youtube（rss）：首轮基线
+- SB-717 monkas.com.tr · home（html）：首轮基线
+- SB-719 my-tec.co · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='my-tec.co', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='my-tec.co', port=443): Failed to resolve 'my-tec.co' ([Errno -2]
+- SB-720 netshieldsa.com · home（html）：首轮基线
+- SB-720 netshieldsa.com · feed_auto（rss）：首轮基线
+- SB-722 nodactechnology.com · home（html）：首轮基线
+- SB-722 nodactechnology.com · sitemap（sitemap）：首轮基线
+- SB-722 nodactechnology.com · news_1（html）：首轮基线
+- SB-722 nodactechnology.com · news_2（html）：首轮基线
+- SB-722 nodactechnology.com · youtube（rss）：首轮基线
+- SB-724 noxel.pl · home（html）：首轮基线
+- SB-724 noxel.pl · feed_auto（rss）：首轮基线
+- SB-724 noxel.pl · sitemap（sitemap）：首轮基线
+- SB-724 noxel.pl · news_1（html）：首轮基线
+- SB-724 noxel.pl · news_2（html）：首轮基线
+- SB-724 noxel.pl · youtube（youtube_handle）：首轮基线
+- SB-725 pandacomdirekt.de · home（html）：首轮基线
+- SB-725 pandacomdirekt.de · sitemap（sitemap）：首轮基线
+- SB-725 pandacomdirekt.de · news_1（html）：首轮基线
+- SB-727 pctedarik.com · home（html）：首轮基线
+- SB-727 pctedarik.com · sitemap（sitemap）：首轮基线
+- SB-727 pctedarik.com · youtube（youtube_handle）：首轮基线
+- SB-728 perkotek.com · home（html）：首轮基线
+- SB-728 perkotek.com · sitemap（sitemap）：首轮基线
+- SB-728 perkotek.com · news_1（html）：首轮基线
+- SB-728 perkotek.com · youtube（rss）：首轮基线
+- SB-730 qntmnet.com · home（html）：首轮基线
+- SB-730 qntmnet.com · feed_auto（rss）：首轮基线
+- SB-730 qntmnet.com · sitemap（sitemap）：首轮基线
+- SB-730 qntmnet.com · youtube（rss）：首轮基线
+- SB-731 saratota.com · home（html）：首轮基线
+- SB-731 saratota.com · sitemap（sitemap）：首轮基线
+- SB-731 saratota.com · news_1（html）：首轮基线
+- SB-732 schrack.cz · home（html）：首轮基线
+- SB-732 schrack.cz · news_1（html）：首轮基线
+- SB-732 schrack.cz · youtube（rss）：首轮基线
+- SB-734 serrackkabin.com.tr · home（html）：首轮基线
+- SB-734 serrackkabin.com.tr · sitemap（sitemap）：首轮基线
+- SB-734 serrackkabin.com.tr · news_1（html）：首轮基线
+- SB-734 serrackkabin.com.tr · news_2（html）：首轮基线
+- SB-734 serrackkabin.com.tr · youtube（rss）：首轮基线
+- SB-735 serverblink.com · home（html）：首轮基线
+- SB-735 serverblink.com · news_1（html）：首轮基线
+- SB-736 spectra.de · home（html）：首轮基线
+- SB-736 spectra.de · sitemap（sitemap）：首轮基线
+- SB-736 spectra.de · news_1（html）：首轮基线
+- SB-736 spectra.de · news_2（html）：首轮基线
+- SB-738 technics-india.com · home（html）：首轮基线
+- SB-738 technics-india.com · sitemap（sitemap）：首轮基线
+- SB-738 technics-india.com · news_1（html）：首轮基线
+- SB-738 technics-india.com · news_2（html）：首轮基线
+- SB-739 techsouq.com · home（html）：首轮基线
+- SB-740 teknoktadestek.com · home（html）：首轮基线
+- SB-740 teknoktadestek.com · sitemap（sitemap）：首轮基线
+- SB-741 telkotim.com · home（html）：首轮基线
+- SB-741 telkotim.com · sitemap（sitemap）：首轮基线
+- SB-742 teslakom.com · home（html）：首轮基线
+- SB-742 teslakom.com · news_1（html）：首轮基线
+- SB-742 teslakom.com · news_2（html）：首轮基线
+- SB-743 tiscontrol.com · home（html）：首轮基线
+- SB-743 tiscontrol.com · sitemap（sitemap）：首轮基线
+- SB-744 troyykontrol.com · home（html）：首轮基线
+- SB-744 troyykontrol.com · news_1（html）：首轮基线
+- SB-744 troyykontrol.com · youtube（rss）：首轮基线
+- SB-745 vitel.com.tr · home（html）：首轮基线
+- SB-746 Anda Telecom · home（html）：首轮基线
+- SB-747 Bin Hilal Group · home（html）：首轮基线
+- SB-747 Bin Hilal Group · feed_auto（rss）：首轮基线
+- SB-747 Bin Hilal Group · sitemap（sitemap）：首轮基线
+- SB-747 Bin Hilal Group · news_1（html）：首轮基线
+- SB-751 Leandro Roisenberg FI · home（html）：首轮基线
+- SB-751 Leandro Roisenberg FI · sitemap（sitemap）：首轮基线
+- SB-754 aironix.co.il · home（html）：首轮基线
+- SB-754 aironix.co.il · feed_auto（rss）：首轮基线
+- SB-755 alliedasia.com.sg · home（html）：首轮基线
+- SB-755 alliedasia.com.sg · feed_auto（rss）：首轮基线
+- SB-755 alliedasia.com.sg · news_1（html）：首轮基线
+- SB-758 cbo-it.de · home（html）：首轮基线
+- SB-758 cbo-it.de · sitemap（sitemap）：首轮基线
+- SB-759 ccdact.com.au · home（html）：首轮基线
+- SB-759 ccdact.com.au · sitemap（sitemap）：首轮基线
+- SB-760 cctvcamara.pt · home（html）：首轮基线
+- SB-763 ctsystem.com · home（html）：首轮基线
+- SB-763 ctsystem.com · feed_auto（rss）：首轮基线
+- SB-763 ctsystem.com · sitemap（sitemap）：首轮基线
+- SB-763 ctsystem.com · news_1（html）：首轮基线
+- SB-763 ctsystem.com · news_2（html）：首轮基线
+- SB-763 ctsystem.com · youtube（rss）：首轮基线
+- SB-766 engitel.com.mx · home（html）：首轮基线
+- SB-767 ethical-ltd.com · home（html）：首轮基线
+- SB-767 ethical-ltd.com · sitemap（sitemap）：首轮基线
+- SB-768 eware.com.hk · home（html）：首轮基线
+- SB-768 eware.com.hk · news_1（html）：首轮基线
+- SB-768 eware.com.hk · news_2（html）：首轮基线
+- SB-769 eworldme.com · home（html）：首轮基线
+- SB-769 eworldme.com · sitemap（sitemap）：首轮基线
+- SB-770 goetz-automation.de · home（html）：首轮基线
+- SB-770 goetz-automation.de · news_1（html）：首轮基线
+- SB-771 hyconext.com · home（html）：首轮基线
+- SB-771 hyconext.com · news_1（html）：首轮基线
+- SB-772 ic-intracom.bg · home（html）：首轮基线
+- SB-772 ic-intracom.bg · sitemap（sitemap）：首轮基线
+- SB-774 ktinet.com.tw · home（html）：首轮基线
+- SB-774 ktinet.com.tw · feed_auto（rss）：首轮基线
+- SB-774 ktinet.com.tw · news_1（html）：首轮基线
+- SB-775 madalix.co.il · home（html）：首轮基线
+- SB-775 madalix.co.il · feed_auto（rss）：首轮基线
+- SB-775 madalix.co.il · sitemap（sitemap）：首轮基线
+- SB-775 madalix.co.il · news_1（html）：首轮基线
+- SB-776 maplesystems.com · home（html）：首轮基线
+- SB-776 maplesystems.com · feed_auto（rss）：首轮基线
+- SB-776 maplesystems.com · sitemap（sitemap）：首轮基线
+- SB-778 netronicsnetworks.com · home（html）：首轮基线
+- SB-778 netronicsnetworks.com · feed_auto（rss）：首轮基线
+- SB-778 netronicsnetworks.com · sitemap（sitemap）：首轮基线
+- SB-778 netronicsnetworks.com · news_1（html）：首轮基线
+- SB-779 netsecurity.com.au · home（html）：首轮基线
+- SB-780 netsys.com.tw · home（html）：首轮基线
+- SB-780 netsys.com.tw · news_1（html）：首轮基线
+- SB-781 radioparts.com.au · home（html）：首轮基线
+- SB-782 skyware.com.hk · home（html）：首轮基线
+- SB-782 skyware.com.hk · news_1（html）：首轮基线
+- SB-785 teksarf.com · home（html）：首轮基线
+- SB-786 trioms.com · home（html）：首轮基线
+- SB-786 trioms.com · sitemap（sitemap）：首轮基线
+- SB-787 unitech-shop.ru · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='unitech-shop.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='unitech-shop.ru', port=443): Failed to resolve 'unitech-sh
+- SB-788 woodcomm.ie · home（html）：首轮基线
+- SB-788 woodcomm.ie · feed_auto（rss）：首轮基线
+- SB-788 woodcomm.ie · sitemap（sitemap）：首轮基线
+- SB-788 woodcomm.ie · news_1（html）：首轮基线
+- SB-788 woodcomm.ie · news_2（html）：首轮基线
+- SB-789 Aptvel global technologies · home（html）：首轮基线
+- SB-789 Aptvel global technologies · sitemap（sitemap）：首轮基线
+- SB-791 Comms Express Ltd · home（html）：首轮基线
+- SB-793 Elettronica E Sicurezza · home（html）：首轮基线
+- SB-793 Elettronica E Sicurezza · sitemap（sitemap）：首轮基线
+- SB-796 Heitech Padu Berhad · home（html）：首轮基线
+- SB-797 ITSS Inc/ · home（html）：首轮基线
+- SB-800 Maxitulin · home（html）：首轮基线
+- SB-800 Maxitulin · sitemap（sitemap）：首轮基线
+- SB-800 Maxitulin · news_1（html）：首轮基线
+- SB-800 Maxitulin · youtube（rss）：首轮基线
+- SB-801 Preciso Technology SDN BHD · home（html）：首轮基线
+- SB-802 SIGMA RECTRIX SYSTEMS (M) SDN  · home（html）：首轮基线
+- SB-802 SIGMA RECTRIX SYSTEMS (M) SDN  · sitemap（sitemap）：首轮基线
+- SB-805 Sun Energy Enterprise Sdn Bhd · home（html）：首轮基线
+- SB-809 arcdyn.com · home（html）：首轮基线
+- SB-809 arcdyn.com · sitemap（sitemap）：首轮基线
+- SB-810 britaniccablingproduction.com · home（html）：首轮基线
+- SB-811 canarycom.com · home（html）：首轮基线
+- SB-813 cctvroom.com · home（html）：首轮基线
+- SB-813 cctvroom.com · sitemap（sitemap）：首轮基线
+- SB-813 cctvroom.com · news_1（html）：首轮基线
+- SB-814 cleerlinefiber.com · home（html）：首轮基线
+- SB-815 commandonetworks.com · home（html）：首轮基线
+- SB-815 commandonetworks.com · sitemap（sitemap）：首轮基线
+- SB-815 commandonetworks.com · news_1（html）：首轮基线
+- SB-815 commandonetworks.com · news_2（html）：首轮基线
+- SB-815 commandonetworks.com · youtube（youtube_handle）：首轮基线
+- SB-815 commandonetworks.com · telegram（html）：首轮基线
+- SB-817 comtrol.co.uk · home（html）：首轮基线
+- SB-817 comtrol.co.uk · sitemap（sitemap）：首轮基线
+- SB-817 comtrol.co.uk · news_1（html）：首轮基线
+- SB-818 cybron.com.my · home（html）：首轮基线
+- SB-818 cybron.com.my · feed_auto（rss）：首轮基线
+- SB-818 cybron.com.my · sitemap（sitemap）：首轮基线
+- SB-818 cybron.com.my · news_1（html）：首轮基线
+- SB-819 digitclik.it · home（html）：首轮基线
+- SB-820 dnaelektro.cz · home（html）：首轮基线
+- SB-820 dnaelektro.cz · sitemap（sitemap）：首轮基线
+- SB-821 ecin.ca · home（html）：首轮基线
+- SB-821 ecin.ca · sitemap（sitemap）：首轮基线
+- SB-821 ecin.ca · news_1（html）：首轮基线
+- SB-821 ecin.ca · news_2（html）：首轮基线
+- SB-823 enableit.com · home（html）：首轮基线
+- SB-823 enableit.com · sitemap（sitemap）：首轮基线
+- SB-823 enableit.com · news_1（html）：首轮基线
+- SB-823 enableit.com · news_2（html）：首轮基线
+- SB-824 engeniustech.com · home（html）：首轮基线
+- SB-824 engeniustech.com · feed_auto（rss）：首轮基线
+- SB-824 engeniustech.com · news_1（html）：首轮基线
+- SB-824 engeniustech.com · news_2（html）：首轮基线
+- SB-824 engeniustech.com · youtube（youtube_handle）：首轮基线
+- SB-825 enika.cz · home（html）：首轮基线
+- SB-825 enika.cz · sitemap（sitemap）：首轮基线
+- SB-825 enika.cz · news_1（html）：首轮基线
+- SB-825 enika.cz · news_2（html）：首轮基线
+- SB-825 enika.cz · youtube（rss）：首轮基线
+- SB-826 eu.com · home（html）：首轮基线
+- SB-826 eu.com · sitemap（sitemap）：首轮基线
+- SB-827 fastercable.com · home（html）：首轮基线
+- SB-828 fibresales.com.au · home（html）：首轮基线
+- SB-829 fluxlight.com · home（html）：首轮基线
+- SB-829 fluxlight.com · youtube（youtube_handle）：首轮基线
+- SB-830 flyteccomputers.com · home（html）：首轮基线
+- SB-830 flyteccomputers.com · sitemap（sitemap）：首轮基线
+- SB-831 fossfibreoptics.com · home（html）：首轮基线
+- SB-831 fossfibreoptics.com · news_1（html）：首轮基线
+- SB-831 fossfibreoptics.com · news_2（html）：首轮基线
+- SB-832 futurereadysolutions.com · home（html）：首轮基线
+- SB-832 futurereadysolutions.com · sitemap（sitemap）：首轮基线
+- SB-832 futurereadysolutions.com · news_1（html）：首轮基线
+- SB-833 galaxysecurity.com · home（html）：首轮基线
+- SB-833 galaxysecurity.com · sitemap（sitemap）：首轮基线
+- SB-835 getscw.com · home（html）：首轮基线
+- SB-835 getscw.com · sitemap（sitemap）：首轮基线
+- SB-835 getscw.com · news_1（html）：首轮基线
+- SB-835 getscw.com · news_2（html）：首轮基线
+- SB-835 getscw.com · youtube（youtube_handle）：首轮基线
+- SB-836 groundcontrol.com · home（html）：首轮基线
+- SB-836 groundcontrol.com · sitemap（sitemap）：首轮基线
+- SB-836 groundcontrol.com · youtube（rss）：首轮基线
+- SB-837 idome.uk · home（html）：首轮基线
+- SB-837 idome.uk · sitemap（sitemap）：首轮基线
+- SB-838 ifotec.com · home（html）：首轮基线
+- SB-838 ifotec.com · feed_auto（rss）：首轮基线
+- SB-838 ifotec.com · sitemap（sitemap）：首轮基线
+- SB-838 ifotec.com · news_1（html）：首轮基线
+- SB-838 ifotec.com · news_2（html）：首轮基线
+- SB-839 inv-technology.com · home（html）：首轮基线
+- SB-839 inv-technology.com · sitemap（sitemap）：首轮基线
+- SB-839 inv-technology.com · news_1（html）：首轮基线
+- SB-839 inv-technology.com · news_2（html）：首轮基线
+- SB-839 inv-technology.com · youtube（rss）：首轮基线
+- SB-840 invidtech.com · home（html）：首轮基线
+- SB-840 invidtech.com · sitemap（sitemap）：首轮基线
+- SB-840 invidtech.com · youtube（youtube_handle）：首轮基线
+- SB-842 itmsystems.co.uk · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed
+- SB-842 itmsystems.co.uk · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ve
+- SB-842 itmsystems.co.uk · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', port=443): Max retries exceeded with url: /case-studies/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate 
+- SB-843 kbvdatacom.rs · home（html）：首轮基线
+- SB-843 kbvdatacom.rs · news_1（html）：首轮基线
+- SB-843 kbvdatacom.rs · news_2（html）：首轮基线
+- SB-845 konturm.ru · home（html）：首轮基线
+- SB-845 konturm.ru · sitemap（sitemap）：首轮基线
+- SB-845 konturm.ru · news_1（html）：首轮基线
+- SB-845 konturm.ru · news_2（html）：首轮基线
+- SB-846 lanode.com · home（html）：首轮基线
+- SB-846 lanode.com · news_1（html）：首轮基线
+- SB-847 lanprosa.com · home（html）：首轮基线
+- SB-847 lanprosa.com · feed_auto（rss）：首轮基线
+- SB-847 lanprosa.com · sitemap（sitemap）：首轮基线
+- SB-847 lanprosa.com · youtube（youtube_handle）：抓取失败：RuntimeError: channelId not found (HTTP 404)
+- SB-851 mencom.com · home（html）：首轮基线
+- SB-852 microseven.com · home（html）：首轮基线
+- SB-852 microseven.com · feed_auto（rss）：首轮基线
+- SB-852 microseven.com · sitemap（sitemap）：首轮基线
+- SB-853 netwerkproducten.com · home（html）：首轮基线
+- SB-853 netwerkproducten.com · sitemap（sitemap）：首轮基线
+- SB-854 patton.com · home（html）：首轮基线
+- SB-854 patton.com · sitemap（sitemap）：首轮基线
+- SB-854 patton.com · news_1（html）：首轮基线
+- SB-854 patton.com · news_2（html）：首轮基线
+- SB-854 patton.com · youtube（youtube_handle）：首轮基线
+- SB-855 prolink2u.com · home（html）：首轮基线
+- SB-855 prolink2u.com · sitemap（sitemap）：首轮基线
+- SB-855 prolink2u.com · youtube（youtube_handle）：首轮基线
+- SB-857 proplex.com · home（html）：首轮基线
+- SB-857 proplex.com · sitemap（sitemap）：首轮基线
+- SB-858 pyramid.lt · home（html）：首轮基线
+- SB-858 pyramid.lt · sitemap（sitemap）：首轮基线
+- SB-860 shop4power.nl · home（html）：首轮基线
+- SB-860 shop4power.nl · feed_auto（rss）：首轮基线
+- SB-860 shop4power.nl · sitemap（sitemap）：首轮基线
+- SB-861 signamax.com · home（html）：首轮基线
+- SB-862 silvernet.com · home（html）：首轮基线
+- SB-863 simpleuk.com · home（html）：首轮基线
+- SB-863 simpleuk.com · feed_auto（rss）：首轮基线
+- SB-863 simpleuk.com · sitemap（sitemap）：首轮基线
+- SB-863 simpleuk.com · news_1（html）：首轮基线
+- SB-863 simpleuk.com · news_2（html）：首轮基线
+- SB-864 sitech-bitdriver.com · home（html）：首轮基线
+- SB-864 sitech-bitdriver.com · sitemap（sitemap）：首轮基线
+- SB-864 sitech-bitdriver.com · news_1（html）：首轮基线
+- SB-865 sklep-bcs.pl · home（html）：首轮基线
+- SB-865 sklep-bcs.pl · youtube（rss）：首轮基线
+- SB-866 smartsystems.jo · home（html）：首轮基线
+- SB-869 tccomm.com · home（html）：首轮基线
+- SB-869 tccomm.com · sitemap（sitemap）：首轮基线
+- SB-869 tccomm.com · news_1（html）：首轮基线
+- SB-869 tccomm.com · news_2（html）：首轮基线
+- SB-869 tccomm.com · youtube（youtube_handle）：首轮基线
+- SB-872 tss-e.com · home（html）：首轮基线
+- SB-873 visarcctv.com · home（html）：首轮基线
+- SB-873 visarcctv.com · sitemap（sitemap）：首轮基线
+- SB-874 vulsanx.com · home（html）：首轮基线
+- SB-874 vulsanx.com · sitemap（sitemap）：首轮基线
+- SB-875 wachendorff-prozesstechnik.de · home（html）：首轮基线
+- SB-875 wachendorff-prozesstechnik.de · sitemap（sitemap）：首轮基线
+- SB-875 wachendorff-prozesstechnik.de · news_1（html）：首轮基线
+- SB-875 wachendorff-prozesstechnik.de · news_2（html）：首轮基线
+- SB-876 weltronproducts.com · home（html）：首轮基线
+- SB-878 worldstarsecuritycameras.com · home（html）：首轮基线
+- SB-878 worldstarsecuritycameras.com · feed_auto（rss）：首轮基线
+- SB-879 wut.de · home（html）：首轮基线
+- SB-879 wut.de · news_1（html）：首轮基线
+- SB-880 yachtgurus.us · home（html）：首轮基线
+- SB-880 yachtgurus.us · sitemap（sitemap）：首轮基线
+- SB-880 yachtgurus.us · news_1（html）：首轮基线
+- SB-882 Destek Elektronik Tic. Ltd. · home（html）：首轮基线
+- SB-882 Destek Elektronik Tic. Ltd. · sitemap（sitemap）：首轮基线
+- SB-882 Destek Elektronik Tic. Ltd. · news_1（html）：首轮基线
+- SB-883 Excel Engineering (SG) Pte Ltd · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='excelengineeringsg.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='excelengineeringsg.net', port=443): Failed to resol
+- SB-884 Getec · home（html）：首轮基线
+- SB-889 acelink.com.tw · home（html）：首轮基线
+- SB-889 acelink.com.tw · news_1（html）：首轮基线
+- SB-889 acelink.com.tw · news_2（html）：首轮基线
+- SB-889 acelink.com.tw · youtube（youtube_handle）：首轮基线
+- SB-890 aurcore.net · home（html）：首轮基线
+- SB-890 aurcore.net · sitemap（sitemap）：首轮基线
+- SB-890 aurcore.net · news_1（html）：首轮基线
+- SB-890 aurcore.net · news_2（html）：首轮基线
+- SB-890 aurcore.net · youtube（youtube_handle）：首轮基线
+- SB-891 baldota.co.in · home（html）：首轮基线
+- SB-891 baldota.co.in · news_1（html）：首轮基线
+- SB-891 baldota.co.in · news_2（html）：首轮基线
+- SB-892 bestpc.bg · home（html）：首轮基线
+- SB-892 bestpc.bg · sitemap（sitemap）：首轮基线
+- SB-893 bm-switch.com · home（html）：首轮基线
+- SB-893 bm-switch.com · feed_auto（rss）：首轮基线
+- SB-893 bm-switch.com · sitemap（sitemap）：首轮基线
+- SB-893 bm-switch.com · news_1（html）：首轮基线
+- SB-894 cctvspot.co.uk · home（html）：首轮基线
+- SB-894 cctvspot.co.uk · news_1（html）：首轮基线
+- SB-894 cctvspot.co.uk · news_2（html）：首轮基线
+- SB-894 cctvspot.co.uk · youtube（rss）：首轮基线
+- SB-896 datageneral.co · home（html）：首轮基线
+- SB-896 datageneral.co · feed_auto（rss）：首轮基线
+- SB-896 datageneral.co · sitemap（sitemap）：首轮基线
+- SB-896 datageneral.co · news_1（html）：首轮基线
+- SB-897 datastream.by · home（html）：首轮基线
+- SB-897 datastream.by · sitemap（sitemap）：首轮基线
+- SB-898 deponet.com.tr · home（html）：首轮基线
+- SB-898 deponet.com.tr · feed_auto（rss）：首轮基线
+- SB-898 deponet.com.tr · sitemap（sitemap）：首轮基线
+- SB-898 deponet.com.tr · news_1（html）：首轮基线
+- SB-899 econnet.it · home（html）：首轮基线
+- SB-899 econnet.it · sitemap（sitemap）：首轮基线
+- SB-899 econnet.it · news_1（html）：首轮基线
+- SB-900 enssecurity.com · home（html）：首轮基线
+- SB-901 esoft.fi · home（html）：首轮基线
+- SB-901 esoft.fi · feed_auto（rss）：首轮基线
+- SB-901 esoft.fi · sitemap（sitemap）：首轮基线
+- SB-902 ethernetdirect-jp.com · home（html）：首轮基线
+- SB-902 ethernetdirect-jp.com · sitemap（sitemap）：首轮基线
+- SB-902 ethernetdirect-jp.com · news_1（html）：首轮基线
+- SB-907 ifocusshop.com · home（html）：首轮基线
+- SB-907 ifocusshop.com · feed_auto（rss）：首轮基线
+- SB-907 ifocusshop.com · sitemap（sitemap）：首轮基线
+- SB-908 istream.by · home（html）：首轮基线
+- SB-908 istream.by · sitemap（sitemap）：首轮基线
+- SB-908 istream.by · news_1（html）：首轮基线
+- SB-909 lendoux.com · home（html）：首轮基线
+- SB-910 lorwen.it · home（html）：首轮基线
+- SB-910 lorwen.it · sitemap（sitemap）：首轮基线
+- SB-911 masstracktech.com · home（html）：首轮基线
+- SB-913 nabludenie.by · home（html）：首轮基线
+- SB-913 nabludenie.by · sitemap（sitemap）：首轮基线
+- SB-913 nabludenie.by · news_1（html）：首轮基线
+- SB-913 nabludenie.by · news_2（html）：首轮基线
+- SB-914 prismwifi.com · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.prismwifi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: u
+- SB-914 prismwifi.com · sitemap（sitemap）：抓取失败：SSLError: HTTPSConnectionPool(host='www.prismwifi.com', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate
+- SB-914 prismwifi.com · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='www.prismwifi.com', port=443): Max retries exceeded with url: /technical-article-1/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certific
+- SB-914 prismwifi.com · youtube（rss）：首轮基线
+- SB-918 server-x.by · home（html）：首轮基线
+- SB-919 solidcable.com · home（html）：首轮基线
+- SB-919 solidcable.com · sitemap（sitemap）：首轮基线
+- SB-919 solidcable.com · news_1（html）：首轮基线
+- SB-920 synchronet.net · home（html）：首轮基线
+- SB-920 synchronet.net · feed_auto（rss）：首轮基线
+- SB-920 synchronet.net · sitemap（sitemap）：首轮基线
+- SB-920 synchronet.net · news_1（html）：首轮基线
+- SB-920 synchronet.net · youtube（rss）：首轮基线
+- SB-921 synchsoft.com.pk · home（html）：首轮基线
+- SB-921 synchsoft.com.pk · feed_auto（rss）：首轮基线
+- SB-921 synchsoft.com.pk · sitemap（sitemap）：首轮基线
+- SB-922 t-automation.by · home（html）：首轮基线
+- SB-922 t-automation.by · sitemap（sitemap）：首轮基线
+- SB-922 t-automation.by · news_1（html）：首轮基线
+- SB-922 t-automation.by · news_2（html）：首轮基线
+- SB-922 t-automation.by · telegram（html）：首轮基线
+- SB-924 versitron.com · home（html）：首轮基线
+- SB-924 versitron.com · sitemap（sitemap）：首轮基线
+- SB-924 versitron.com · news_1（html）：首轮基线
+- SB-924 versitron.com · news_2（html）：首轮基线
+- SB-924 versitron.com · youtube（rss）：首轮基线
+- SB-928 GOIP Global Services Pvt Ltd · home（html）：首轮基线
+- SB-929 LMP Lux Media Plan · home（html）：首轮基线
+- SB-930 Optimus · home（html）：首轮基线
+- SB-933 actelis.com · home（html）：首轮基线
+- SB-933 actelis.com · feed_auto（rss）：首轮基线
+- SB-933 actelis.com · sitemap（sitemap）：首轮基线
+- SB-933 actelis.com · news_1（html）：首轮基线
+- SB-933 actelis.com · news_2（html）：首轮基线
+- SB-933 actelis.com · youtube（rss）：首轮基线
+- SB-934 alidex.es · home（html）：首轮基线
+- SB-935 comtime-com.de · home（html）：首轮基线
+- SB-935 comtime-com.de · sitemap（sitemap）：首轮基线
+- SB-935 comtime-com.de · news_1（html）：首轮基线
+- SB-937 eneo-security.com · home（html）：首轮基线
+- SB-938 fiberopticsupply.com · home（html）：首轮基线
+- SB-939 fiberworks.no · home（html）：首轮基线
+- SB-939 fiberworks.no · feed_auto（rss）：首轮基线
+- SB-939 fiberworks.no · sitemap（sitemap）：首轮基线
+- SB-940 giga-link.ru · home（html）：首轮基线
+- SB-940 giga-link.ru · news_1（html）：首轮基线
+- SB-940 giga-link.ru · news_2（html）：首轮基线
+- SB-941 gmidatabox.fr · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='gmidatabox.fr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='gmidatabox.fr', port=443) at 0x7fd124cf5910>, 'Connection to
+- SB-942 ilucoltd.com · home（html）：首轮基线
+- SB-942 ilucoltd.com · feed_auto（rss）：首轮基线
+- SB-942 ilucoltd.com · sitemap（sitemap）：首轮基线
+- SB-943 inline-info.com · home（html）：首轮基线
+- SB-943 inline-info.com · sitemap（sitemap）：首轮基线
+- SB-944 kohen.ca · home（html）：首轮基线
+- SB-945 kzn-gps.ru · home（html）：首轮基线
+- SB-945 kzn-gps.ru · sitemap（sitemap）：首轮基线
+- SB-946 mir-sb.com · home（html）：首轮基线
+- SB-946 mir-sb.com · sitemap（sitemap）：首轮基线
+- SB-946 mir-sb.com · news_1（html）：首轮基线
+- SB-948 oemarket.com · home（html）：首轮基线
+- SB-949 osbornsalessolutions.com · home（html）：首轮基线
+- SB-949 osbornsalessolutions.com · sitemap（sitemap）：首轮基线
+- SB-949 osbornsalessolutions.com · news_1（html）：首轮基线
+- SB-952 qualicam.de · home（html）：首轮基线
+- SB-952 qualicam.de · sitemap（sitemap）：首轮基线
+- SB-952 qualicam.de · youtube（rss）：首轮基线
+- SB-953 rollan.ca · home（html）：首轮基线
+- SB-954 setilend.ru · home（html）：首轮基线
+- SB-954 setilend.ru · feed_auto（rss）：首轮基线
+- SB-954 setilend.ru · sitemap（sitemap）：首轮基线
+- SB-954 setilend.ru · news_1（html）：首轮基线
+- SB-955 ssd.ru · home（html）：首轮基线
+- SB-955 ssd.ru · sitemap（sitemap）：首轮基线
+- SB-955 ssd.ru · news_1（html）：首轮基线
+- SB-955 ssd.ru · news_2（html）：首轮基线
+- SB-955 ssd.ru · vk（html）：首轮基线
+- SB-955 ssd.ru · telegram（html）：首轮基线
+- SB-955 ssd.ru · youtube（rss）：首轮基线
+- SB-956 symway.com · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='symway.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certific
+- SB-957 tayle.ru · home（html）：首轮基线
+- SB-957 tayle.ru · sitemap（sitemap）：首轮基线
+- SB-957 tayle.ru · news_1（html）：首轮基线
+- SB-957 tayle.ru · vk（html）：首轮基线
+- SB-957 tayle.ru · telegram（html）：首轮基线
+- SB-959 JM Fiber Optics Inc · home（html）：首轮基线
+- SB-959 JM Fiber Optics Inc · sitemap（sitemap）：首轮基线
+- SB-959 JM Fiber Optics Inc · news_1（html）：首轮基线
+- SB-959 JM Fiber Optics Inc · news_2（html）：首轮基线
+- SB-961 NetCat SYSTEMS GmbH · home（html）：首轮基线
+- SB-961 NetCat SYSTEMS GmbH · sitemap（sitemap）：首轮基线
+- SB-961 NetCat SYSTEMS GmbH · news_1（html）：首轮基线
+- SB-962 Nextlan · home（html）：首轮基线
+- SB-962 Nextlan · feed_auto（rss）：首轮基线
+- SB-962 Nextlan · sitemap（sitemap）：首轮基线
+- SB-963 Omond-Tong Consultancy Ltd · home（html）：首轮基线
+- SB-963 Omond-Tong Consultancy Ltd · sitemap（sitemap）：首轮基线
+- SB-963 Omond-Tong Consultancy Ltd · news_1（html）：首轮基线
+- SB-964 airpro.in · home（html）：首轮基线
+- SB-964 airpro.in · feed_auto（rss）：首轮基线
+- SB-964 airpro.in · sitemap（sitemap）：首轮基线
+- SB-964 airpro.in · news_1（html）：首轮基线
+- SB-964 airpro.in · news_2（html）：首轮基线
+- SB-965 areskom.com.tr · home（html）：首轮基线
+- SB-965 areskom.com.tr · feed_auto（rss）：首轮基线
+- SB-965 areskom.com.tr · sitemap（sitemap）：首轮基线
+- SB-965 areskom.com.tr · youtube（rss）：首轮基线
+- SB-966 baburtech.com · home（html）：首轮基线
+- SB-966 baburtech.com · sitemap（sitemap）：首轮基线
+- SB-966 baburtech.com · youtube（rss）：首轮基线
+- SB-967 basithamitech.com · home（html）：首轮基线
+- SB-967 basithamitech.com · sitemap（sitemap）：首轮基线
+- SB-968 bimel.com.tr · home（html）：首轮基线
+- SB-968 bimel.com.tr · news_1（html）：首轮基线
+- SB-968 bimel.com.tr · news_2（html）：首轮基线
+- SB-968 bimel.com.tr · youtube（youtube_handle）：首轮基线
+- SB-969 cebecigrup.com · home（html）：首轮基线
+- SB-969 cebecigrup.com · feed_auto（rss）：首轮基线
+- SB-969 cebecigrup.com · sitemap（sitemap）：首轮基线
+- SB-969 cebecigrup.com · news_1（html）：首轮基线
+- SB-970 cmd-sec.ru · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='cmd-sec.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='cmd-sec.ru', port=443): Failed to establish a new connection: [E
+- SB-972 dacelsolutions.com · home（html）：首轮基线
+- SB-972 dacelsolutions.com · sitemap（sitemap）：首轮基线
+- SB-972 dacelsolutions.com · youtube（rss）：首轮基线
+- SB-974 egemenelektronik.com · home（html）：首轮基线
+- SB-974 egemenelektronik.com · youtube（rss）：首轮基线
+- SB-975 erete.com.tr · home（html）：首轮基线
+- SB-975 erete.com.tr · sitemap（sitemap）：首轮基线
+- SB-975 erete.com.tr · news_1（html）：首轮基线
+- SB-975 erete.com.tr · youtube（rss）：首轮基线
+- SB-976 fiberden.com · home（html）：首轮基线
+- SB-976 fiberden.com · sitemap（sitemap）：首轮基线
+- SB-976 fiberden.com · youtube（youtube_handle）：首轮基线
+- SB-978 futurist.com.pk · home（html）：首轮基线
+- SB-980 hunter-cctv.ru · home（html）：首轮基线
+- SB-980 hunter-cctv.ru · sitemap（sitemap）：首轮基线
+- SB-981 intenet.com.tr · home（html）：首轮基线
+- SB-981 intenet.com.tr · sitemap（sitemap）：首轮基线
+- SB-981 intenet.com.tr · news_1（html）：首轮基线
+- SB-984 istccorp.com · home（html）：首轮基线
+- SB-984 istccorp.com · sitemap（sitemap）：首轮基线
+- SB-985 keno-cctv.ru · home（html）：首轮基线
+- SB-985 keno-cctv.ru · news_1（html）：首轮基线
+- SB-986 lemaxguvenlik.com · home（html）：首轮基线
+- SB-986 lemaxguvenlik.com · sitemap（sitemap）：首轮基线
+- SB-986 lemaxguvenlik.com · news_1（html）：首轮基线
+- SB-987 lilin.vn · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='silverseahcm.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hos
+- SB-988 ltv-cctv.ru · home（html）：首轮基线
+- SB-988 ltv-cctv.ru · sitemap（sitemap）：首轮基线
+- SB-988 ltv-cctv.ru · news_1（html）：首轮基线
+- SB-988 ltv-cctv.ru · news_2（html）：首轮基线
+- SB-988 ltv-cctv.ru · vk（html）：首轮基线
+- SB-988 ltv-cctv.ru · youtube（youtube_handle）：首轮基线
+- SB-988 ltv-cctv.ru · telegram（html）：首轮基线
+- SB-989 magnusgulf.com · home（html）：首轮基线
+- SB-989 magnusgulf.com · feed_auto（rss）：首轮基线
+- SB-989 magnusgulf.com · sitemap（sitemap）：首轮基线
+- SB-989 magnusgulf.com · news_1（html）：首轮基线
+- SB-989 magnusgulf.com · news_2（html）：首轮基线
+- SB-989 magnusgulf.com · youtube（youtube_handle）：首轮基线
+- SB-990 mfd.com.tr · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname
+- SB-990 mfd.com.tr · news_1（html）：抓取失败：SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443): Max retries exceeded with url: /win-eurasia-2022-fuari_s_tr_1357_.aspx (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILE
+- SB-990 mfd.com.tr · news_2（html）：抓取失败：SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443): Max retries exceeded with url: /References.aspx?lang=tr (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate 
+- SB-990 mfd.com.tr · youtube（youtube_handle）：首轮基线
+- SB-992 netsolutionstore.com.au · home（html）：首轮基线
+- SB-992 netsolutionstore.com.au · sitemap（sitemap）：首轮基线
+- SB-992 netsolutionstore.com.au · youtube（youtube_handle）：首轮基线
+- SB-993 nexlar.com · home（html）：首轮基线
+- SB-993 nexlar.com · feed_auto（rss）：首轮基线
+- SB-993 nexlar.com · sitemap（sitemap）：首轮基线
+- SB-993 nexlar.com · youtube（youtube_handle）：首轮基线
+- SB-995 pctelecom.co.th · home（html）：首轮基线
+- SB-995 pctelecom.co.th · feed_auto（rss）：首轮基线
+- SB-995 pctelecom.co.th · sitemap（sitemap）：首轮基线
+- SB-996 phuongdung.com · home（html）：首轮基线
+- SB-997 polyvision.ru · home（html）：首轮基线
+- SB-997 polyvision.ru · sitemap（sitemap）：首轮基线
+- SB-997 polyvision.ru · news_1（html）：首轮基线
+- SB-997 polyvision.ru · news_2（html）：首轮基线
+- SB-997 polyvision.ru · vk（html）：首轮基线
+- SB-998 riverplus.com · home（html）：首轮基线
+- SB-998 riverplus.com · sitemap（sitemap）：首轮基线
+- SB-998 riverplus.com · youtube（youtube_handle）：首轮基线
+- SB-999 sarmatt.ru · home（html）：首轮基线
+- SB-999 sarmatt.ru · sitemap（sitemap）：首轮基线
+- SC-1034 marugged.com · home（html）：首轮基线
+- SC-1325 netram.de · home（html）：首轮基线
+- SC-329 noktaelektronik.net · home（html）：首轮基线
+- SC-496 connectec.uk · home（html）：首轮基线
+- SC-539 fonex.pl · home（html）：首轮基线
+- SC-545 globall.ca · home（html）：首轮基线
+- SC-589 klinger.fi · home（html）：首轮基线
+- SC-589 klinger.fi · feed_auto（rss）：首轮基线
+- SC-598 linhawstore.com · home（html）：首轮基线
+- SC-602 losan.cz · home（html）：首轮基线
+- SC-602 losan.cz · feed_auto（rss）：首轮基线
+- SC-675 redcorp.com · home（html）：首轮基线
+- 本轮抓取失败 424：SA-017/youtube：HTTP 404；SA-019/youtube：HTTP 404；SA-020/home：ConnectTimeout: HTTPSConnectionPool(host='widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='widen.co.th', port=443) at 0x7fd15cf0c830>, 'Connection to wid；SA-027/youtube：HTTP 404；SA-028/youtube：HTTP 404；SA-031/youtube：HTTP 404；SA-033/home：HTTP 403；SA-036/youtube：HTTP 404；SA-037/home：HTTP 403；SA-041/home：SSLError: HTTPSConnectionPool(host='alsalami.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certif；SA-043/youtube：HTTP 404；SA-045/youtube：HTTP 404；SA-048/home：SSLError: HTTPSConnectionPool(host='truongsonsolutions.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify faile；SA-048/sitemap：SSLError: HTTPSConnectionPool(host='truongsonsolutions.vn', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifi；SA-052/news_1：HTTP 500；SA-054/youtube：HTTP 404；SA-055/youtube：HTTP 404；SA-056/home：ConnectTimeout: HTTPSConnectionPool(host='dncsolutions.co.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='dncsolutions.co.in', port=443) at 0x7fd15cb39610>, 'Con；SA-057/youtube：HTTP 404；SA-058/home：HTTP 403；SA-058/sitemap：HTTP 403；SA-058/news_1：HTTP 403；SA-072/youtube：HTTP 404；SA-073/home：HTTP 429；SA-073/sitemap：HTTP 429；SA-073/news_1：HTTP 429；SA-077/home：HTTP 403；SA-098/home：HTTP 403；SA-103/home：HTTP 403；SA-112/youtube：HTTP 404；SA-120/youtube：HTTP 404；SA-138/home：ReadTimeout: HTTPSConnectionPool(host='topsicurezza.com', port=443): Read timed out. (read timeout=20)；SA-147/home：HTTP 403；SA-150/news_1：HTTP 500；SA-154/youtube：HTTP 404；SA-159/home：ConnectTimeout: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tbi.com.tr', port=443) at 0x7fd16408f6b0>, 'Connection to tbi.c；SB-183/youtube：HTTP 404；SB-336/youtube：HTTP 404；SA-047/home：HTTP 404；SA-062/youtube：HTTP 404…

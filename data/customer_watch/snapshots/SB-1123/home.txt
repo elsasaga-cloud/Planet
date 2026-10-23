@@ -1,0 +1,345 @@
+# SB-1123 qnv.com · home · https://qnv.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Informática industrial, IA y automatización | QNV
+Saltar al contenido
+Buscar por:
+Menu Inicio
+Empresa Política de Calidad y Medio Ambiente
+Productos Ordenadores Industriales Chasis Ordenador Industrial Backplanes
+Chasis compacto
+Chasis RACK 19″
+Fuentes de alimentación
+CPU Industrial Formato largo (PICMG)
+Formato Corto
+Embedded PC-104, EPIC…
+Motherboard (ATX, mini ITX…)
+Computer-on-Modules COM Express
+ETX
+COM HPC
+Qseven
+SMARC
+OSM
+Carrier
+Sistemas Compact PCI y PXi CPU Compact PCI
+Chasis Compact PCI
+CPU PXI
+Chasis PXI
+Backplanes cPCI y PXI
+Fuentes de Alimentación cPCI y PXI
+Servidor Industrial
+Equipos Embedded para uso Industrial y Transporte
+Panel PC Panel PC Industrial
+Uso Industrial Alto Brillo
+Open Frame
+Panel Pc FullIP 65
+Panel PC Médico
+Monitor táctil industrial Monitor para uso industrial
+Monitor táctil Open Frame
+Monitor Médico
+Equipos Médicos Embedded
+Sistemas Advanced TCA Chasis aTCA
+CPU aTCA
+Switch aTCA
+Sistemas VPX
+Dispositivos Móviles
+Periféricos
+Extensiones de bus PCI/PXI
+Network Appliance – OCP
+Tablets Industriales
+Adquisición de datos Tarjetas DAQ PCI/PCIExpress/ISA Multifunción
+Entrada Analógica
+Salida Analógica
+Entrada/Salida digital
+Contadores
+Tarjetas DAQ PXI/CompactPCI Multifunción
+Entrada Analógica
+Salida Analógica
+Entrada/Salida digital
+Contadores
+Adquisición por USB
+Ethercat
+Tarjetas Externas (borneros y acondicionamiento)
+PC-104
+Módulos 485
+Módulos distribuidos Ethernet
+Módulos distribuidos HSL
+Control de motores
+Visión artificial
+Software Drivers Windows
+Soporte para aplicaciones de terceros
+Aplicaciones para test y medida
+Componentware/Control ActiveX
+GPIB
+Comunicaciones Industriales Switch Ethernet Industrial No gestionables
+Gestionables
+Layer3-Router-Firewall-Cable
+Accesorios (mini-Gbic)
+Switch Ethernet Industrial PoE No gestionables
+Gestionables
+Router Industrial/Firewall
+Puntos de acceso Wifi
+Equipos LORA/LORAWAN/NBiOt
+Smart Gateway M2M
+Servidor de puertos serie a ethernet
+Conversores RS232, USB y Ethernet a fibra
+Ethercat
+Entradas y salidas por Ethernet Analógico
+Digital
+Multifunción
+Tarjetas de comunicaciones
+Fuentes de Alimentación Carril DIN
+Inteligencia artificial (IA) Equipos IA Embedded
+Equipos con CPU Intel + GPU Embedded
+Equipos Embedded para GPU en formato PCI Express
+Módulos aceleradores MxM, PCIe…
+Tarjetas gráficas GPU basadas en NVIDIA
+Sistemas de visión industrial basados en IA
+Plataformas de aprendizaje IA Deep Learning
+Visión Industrial Cámaras inteligentes con IA
+Ópticas 2MPx Iris Manual
+2MPx Auto Iris
+3MPx
+5MPx
+IR (Montaje M12)
+Sistemas de visión embedded
+Frame Grabbers
+Software
+Sistemas de visión configurables
+iiot – M2M Gateways o puntos remotos
+Servidores Cloud
+Servidores Fog-Edge
+Routers
+City Box
+ROS2 – Robots autónomos ROS2 – Robots autónomos
+Servicio Técnico
+Notícias
+Contactar
+Trabaja con nosotros
+Catálogos
+Informática industrial de extrema robustez a medida de cada aplicación
+INDUSTRIA FERROVIARIA
+EN50155/EN50121
+AUTOMATIZACIÓN INDUSTRIAL
+NETWORKING
+INDUSTRIA 4.0/IoT/Cloud
+APLICACIONES DE VISIÓN
+SUBESTACIONES ELÉCTRICAS
+IEC61850
+TRANSPORTE E-MARK
+TELECOMUNICACIONES CLOUD/EDGE
+ROS 2
+Robots Autónomos
+PRODUCTOS DESTACADOS
+Vista Rápida
+Comunicaciones Industriales
+EPS-9905 + EPS-6000
+Chasis EtherCAT con acoplador de bus Ethercat EPS-6000
+×
+Solicitar oferta para
+EPS-9905 + EPS-6000
+Nombre y apellidos
+Empresa
+Correo electrónico
+Teléfono de contacto
+Ciudad
+Código postal
+Consulta
+Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
+Send me a copy
+Enviar
+¡Gracias!
+Solicitar oferta
+Vista Rápida
+Comunicaciones Industriales
+Talos-3012
+Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
+×
+Solicitar oferta para
+Talos-3012
+Nombre y apellidos
+Empresa
+Correo electrónico
+Teléfono de contacto
+Ciudad
+Código postal
+Consulta
+Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
+Send me a copy
+Enviar
+¡Gracias!
+Solicitar oferta
+Vista Rápida
+Industria 4.0/IoT/Cloud
+MXE-100i
+Gateway para M2M basado en equipo embedded fanless
+×
+Solicitar oferta para
+MXE-100i
+Nombre y apellidos
+Empresa
+Correo electrónico
+Teléfono de contacto
+Ciudad
+Código postal
+Consulta
+Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
+Send me a copy
+Enviar
+¡Gracias!
+Solicitar oferta
+Vista Rápida
+Visión artificial
+NEON-1040
+SmartCam basada en procesador Intel Atom Quad-Core E3845 a1.9GHz, con 4MP, 60fps y sensor con obturador global
+×
+Solicitar oferta para
+NEON-1040
+Nombre y apellidos
+Empresa
+Correo electrónico
+Teléfono de contacto
+Ciudad
+Código postal
+Consulta
+Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
+Send me a copy
+Enviar
+¡Gracias!
+Solicitar oferta
+TODAS LAS CATEGORÍAS DE PRODUCTOS
+ORDENADORES INDUSTRIALES
+Chasis Ordenador Industrial
+CPU Industrial
+Servidor ultra robusto
+Equipos Embedded para uso industrial y Transporte
+Equipos médicos embedded
+Panel PC
+Monitor táctil industrial
+Sistemas Compact PCI y PXi
+Sistemas Advanced TCA
+Sistemas VPX
+Dispositivo Móvil
+Periféricos
+Extensiones de bus PCI/PXI
+Network Appliance – OCP
+ADQUISICIÓN DE DATOS
+Tarjetas ISA/PCI/PCIExpress
+Tarjetas PXI/Compact PCI
+Adquisición por USB
+Tarjetas Externas (borneros y acondicionamiento)
+PC-104
+Módulos 485
+Modulos distribuidos Ethernet
+Móduls distribuidos HSL
+Control de motores
+Visión artificial
+GPIB
+Software
+Cables y accesorios
+INTELIGENCIA ARTIFICIAL (IA)
+Plataformas IA embedded para Edge
+Módulos aceleradores MxM, PCIe,…
+Sistemas de visión industrial basados en IA
+Plataformas de aprendizaje IA Deep Learning
+COMUNICACIONES INDUSTRIALES
+Switch Ethernet Industrial
+Switch Ethernet Industrial o PoE
+EtherCAT
+Tarjetas de comunicaciones
+Router-Firewall
+Servidor de puertos serie a ethernet
+Conversores RS232, USB y Ethernet a fibra
+Puntos de acceso industriales
+Ordenador Embedded de Comunicaciones
+Fuentes de Alimentación Carril DIN
+Entradas y Salidas por Ethernet
+Equipos para M2M
+VISIÓN INDUSTRIAL
+Cámaras Inteligentes
+Ópticas
+Sistemas de visión embedded
+Frame Grabbers
+Software
+Sistemas de visión configurables
+IIOT-M2M
+Gateways o puntos remotos
+Servidores Cloud
+Servidores Fog-Edge
+Routers
+City BOX
+NOTÍCIAS
+Superar los límites de rendimiento en la movilidad autónoma para acelerar el despliegue a gran escala
+07
+Sep
+Cómo la inteligencia artificial está impulsando una nueva etapa en las telecomunicaciones
+26
+May
+Creciendo de forma sostenible: QNV completa el Programa de Proveedores Sostenibles
+15
+Jul
+Intel Bay Trail garantiza que las cosas buenas duren para siempre
+19
+Mar
+En QNV tenemos una experiencia de más de 30 años, en el desarrollo, montaje y distribución de
+Ordenadores industriales
+Tablets industriales
+Adquisición de datos
+Comunicaciones industriales
+Inteligencia artificial (IA)
+Visión industrial
+IIOT-M2M
+ROS2 Robots Autónomos
+QNV, una empresa en el Recinto Industrial de la Colònia Güell
+ISO 9001:2015 / 14001
+Últimas notícias
+Superar los límites de rendimiento en la movilidad autónoma para acelerar el despliegue a gran escala
+Comentarios desactivados en Superar los límites de rendimiento en la movilidad autónoma para acelerar el despliegue a gran escala
+Cómo la inteligencia artificial está impulsando una nueva etapa en las telecomunicaciones
+Comentarios desactivados en Cómo la inteligencia artificial está impulsando una nueva etapa en las telecomunicaciones
+Creciendo de forma sostenible: QNV completa el Programa de Proveedores Sostenibles
+Comentarios desactivados en Creciendo de forma sostenible: QNV completa el Programa de Proveedores Sostenibles
+¿Quieres recibir las últimas novedades?
+Suscríbete a nuestro bolentín para recibir las últimas novedades y promociones.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, acepto que QNV S.L. trate mis datos conforme a la Política de Privacidad.
+Deja vacío este campo si eres humano:
+Visa
+PayPal
+Stripe
+MasterCard
+Cash On Delivery
+Servicio Técnico
+Política de privacidad
+Política de cookies
+Copyright 2026 © QNV Solutions | Diseño y programación web: Infoactiva't
+Gestionar el consentimiento de cookies
+Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
+Funcional
+Siempre activo
+El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.
+Preferencias
+El almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.
+Estadísticas
+El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos.
+El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin un requerimiento, el cumplimiento voluntario por parte de tu proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarte.
+Marketing
+El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.
+Administrar opciones
+Gestionar los servicios
+Gestionar {vendor_count} proveedores
+Leer más sobre estos propósitos
+Aceptar
+Denegar
+Ver preferencias
+Guardar preferencias
+Ver preferencias
+{title}
+Gestionar consentimiento
+Acceder
+Nombre de usuario o correo electrónico * Obligatorio
+Contraseña * Obligatorio
+Recuérdame
+Acceso
+¿Olvidaste la contraseña?

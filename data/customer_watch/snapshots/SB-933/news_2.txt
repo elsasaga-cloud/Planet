@@ -1,0 +1,215 @@
+# SB-933 actelis.com · news_2 · https://actelis.com/category/in-the-news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+In The News | Actelis Networks
+Skip to content
+info@actelis.com
+My Actelis
+Log In
+Menu
+My Actelis
+Log In
+Industries
+Intelligent Traffic Systems
+Anticipate & fast reaction to Incidents city-wide
+IoT-enabled Sites & Campuses
+Unlocking connectivity hidden in airport, factory, hospital & campus networks
+Smart Rail
+Transform existing rail communications Infrastructure
+Utilities
+Secure, responsive, energy, oil, gas and water communication networks
+Multi-Dwelling Units
+Instant, Gigabit broadband connectivity without building rewiring
+Smart City
+Secure, business-friendly
+connected cities & communities
+Military
+Oversight, awareness, security, fast response for military facilities
+Providers
+Connectivity For Apartments
+Immediate Gigabit connectivity with no building rewiring
+Business Ethernet Connectivity
+Making Business-Class Ethernet possible to millions of new locations
+Residential Broadband
+High-Speed Internet in previously unreached Single and Multi-dwelling Home Locations
+Backhaul Services
+Integrating Industry, IIoT, City and campus Wi-Fi and Fiber-extension backhaul
+Products
+Product Solutions Overview
+By Type
+Solutions Portfolio Overview
+Ethernet Switches
+All Ethernet Switches
+Fiber Optic Switches
+Power over Ethernet Switches
+10 Gigabit Ethernet Switches
+Layer 3 Network Switches
+View by Port Density
+Cybersecurity
+Security & Encryption
+Broadband Amplifiers
+Repeaters
+Enclosures
+Management
+By Technology
+Fiber
+G.fast
+G.hn
+G.SHDSL
+VDSL2, ADSL2+/ADSL2/ADSL
+Product Listing - GigaLine
+GL800 Multi-Gig Hybrid-Fiber
+GL900 Fiber Extender/Splitter
+GL5010 Gigabit DIN Rail Switch
+GL5020 Gigabit DIN Rail Switch
+GL5030 Gigabit DIN Rail Switch
+GL5060 Gigabit DIN Rail Switch
+GL5070 Gigabit DIN Rail Switch
+GL5080 Gigabit DIN Rail Switch
+GL6010 Gigabit Rackmount Switch
+GL6030 Gigabit Rackmount Switch
+GL6040 Gigabit Rackmount Switch
+GL7000 In-Pole Connectivity Switch
+GL9110C PON Extender G.hn Aggregator
+GL9104C PON Extender G.hn Aggregator
+Product Listing - Other Products
+ADSL Broadband Amplifier
+VDSL Broadband Amplifier
+XR239/PFU-8 Repeaters
+EAD/NTU Enclosures
+Product Listing - Cybersecurity
+MetaShield Asset Intelligence & Threat Detection
+Product Listing - MetaLIGHT
+ML230 Compact Ethernet Aggregator
+ML510D-ML5114D/P Gigabit DIN Rail Switch
+ML540E Gigabit Rackmount Switch
+ML540M Gigabit Rackmount Switch
+ML600 Hybrid Fiber-Copper Series
+ML650SV Gigabit Fiber Switch
+ML680D Gigabit DIN Rail Switch
+ML684D Gigabit Hybrid-Fiber DIN Rail Switch
+ML700 Hybrid Fiber-Copper Rackmount
+ML690E/ES/EN/EL Hybrid Mini Aggregator
+ML2300 Aggregation Switch
+ML2300N Hybrid Mini Aggregator
+Technology
+Broadband Technologies
+Fiber Optics
+G.fast
+G.hn
+G.SHDSL and VDSL2
+Cross Talk
+DSL Analog Amplification and Regeneration
+Enhanced System Level Security
+Triple Shield Security
+Ethernet Networking
+Ethernet in the First Mile (EFM)
+Carrier Ethernet 2.0
+Ethernet OAM
+Cybersecurity
+MetaShield Asset Intelligence & Threat Detection
+Performance Enhancement
+EFM plus
+Symmetrical Vectoring (DRB)
+DSS
+Coordinated Calibration
+Broadband Amplifiers
+Support
+Actelis Publications
+Case Studies
+Articles & Blog Posts
+Resource Library
+My Actelis – Home
+My Actelis – Register
+Technical Documentation
+Training Webinars
+Data Sheets
+Performance Calculators
+Product Downloads
+Service and Support
+Support Contact Details
+Education
+Maintenance Services
+Professional Services
+Company
+About Actelis
+Why we exist and the difference we make for our customers
+News
+Actelis new customers, applications and product introductions
+Events
+Come visit Actelis at shows and conferences worldwide
+Leadership
+What Actelis leadership team brings to your organization
+Careers
+Opportunties to make a difference to the future of networking
+Investors
+Join us in enabling cyber hardened solutions for IoT
+Contact Us
+Getting started on how Actelis can help you
+Search
+Close
+Contact Us
+In The News
+Home >
+Actelis News & Publications >
+In The News
+Actelis Networks Powers Broadband to Remote Alaska Schools and Healthcare Facilities Through Regional Carrier Orders
+SUNNYVALE, Calif, Aug. 10, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTCQB: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that it has recently received a series of orders valued at over $100,000 from regional broadband carriers serving communities across Alaska. The carriers will deploy Actelis’ hybrid fiber-copper networking solution to extend broadband services to remote school districts and healthcare service facilities across the State. Deployment over existing infrastructure delivers reliable and cyber-resilient connectivity in some of the most challenging rural environments in the United States “We’re proud to enable the critically necessary education and healthcare services across
+Continue Reading »
+Actelis Networks Secures $0.85 Million Software and Services Renewal from Leading North American Carrier
+SUNNYVALE, Calif., July 01, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTCQB: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that it has received an approximately $850,000 one-year renewal for software license and services from a leading North American carrier operating a large critical network across multiple states. Renewal covers maintenance services, disaster-readiness support and upgraded, cyber hardened, and modernized Meta-Assist element management software across the customer’s large multi-state critical network. The renewal covers maintenance services, disaster-readiness support and licensed access to Actelis’ Meta-Assist Element Management System (EMS), the cyber-hardened, highly scalable software platform the customer uses to
+Continue Reading »
+Actelis Networks Receives Approximately $200,000 Order from a Central European Carrier for GL800 Multi-Gigabit Connectivity Serving SOHO Customers
+SUNNYVALE, Calif, June 23, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTCQB: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that it has received an order valued at approximately $0.2 million from a major telecommunications carrier in Central Europe that is part of a global telecommunications group. The order is for Actelis’ GL800 multi-Gigabit hybrid fiber-copper solution, which the carrier will deploy to extend fiber-grade connectivity into multi-dwelling unit buildings to serve Small Office/Home Office (“SOHO”) customers. Order leverages Actelis’ GL800 multi-Gigabit hybrid fiber-copper solution to deliver fiber-grade connectivity into Multi Dwelling Unit buildings for Small Office/Home Office
+Continue Reading »
+Actelis Networks Continues Momentum in Washington, D.C. Department of Transportation as Modernization Expands
+SUNNYVALE, Calif., May 07, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTCQB: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that it has received multiple follow-on orders in the first four months of 2026 for the Washington, D.C. Department of Transportation (“DDOT”), continuing the multi-year expansion of Actelis’ deployment across the nation’s capital intelligent transportation systems (“ITS”) infrastructure. Multiple follow-on orders received in 2026 to date reflect both deepening of Actelis’ footprint within DDOT’s intelligent transportation systems infrastructure The continued order activity builds on a deployment that began with the foundational modernization order announced in May 2024 and
+Continue Reading »
+Actelis Networks Secures New Order for Alaska State Department of Transportation Intelligent Transportation System Project
+Sunnyvale, Calif., April 23, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTC: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that it has received an order to supply its hybrid fiber-copper networking solution for an intelligent transportation system (“ITS”) project for the Alaska State Department of Transportation. The order, placed through one of Actelis’ long-standing partners, supports the modernization of traffic signal and cabinet infrastructure in the Anchorage area. Deployment Further Extends the Company’s Growing Roster of U.S. State, County, and Municipal Transportation Agency Customers “Our growing list of U.S. state,county and municipal transportation customers includes the State
+Continue Reading »
+U.S. Air Force Successfully Deploys a Pilot with Actelis’ Technology to Modernize Mission Critical Networks Generating Over 85% Cost Savings Compared to SpaceX’s StarShield and 5G
+Sunnyvale, Calif., April 14, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (OTC: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced that its hybrid-fiber Ethernet technology has been successfully deployed in a pilot by the U.S. Air Force (“USAF”) at an undisclosed base, delivering over 85% in combined upfront and recurring cost savings. Rapid Deployment Over Existing Infrastructure Positions Actelis as a Cost-Effective Solution for Mission-Critical Defense Networks The deployment supports mission-critical sensors in remote and hard-to-reach environments, where traditional approaches would have required new infrastructure buildouts, extended timelines, and substantially higher costs. These types of deployments are increasingly
+Continue Reading »
+Actelis Networks Secures Follow-On Order from Major North American Railway for Trackside Network Expansion Supporting Rail Safety Systems
+Sunnyvale, Calif., March 26, 2026 (GLOBE NEWSWIRE) — Actelis Networks, Inc. (NASDAQ: ASNS) (“Actelis” or the “Company”), a market leader in cyber-hardened, rapid-deployment networking solutions for IoT and broadband applications, today announced it has received a follow-on order from a major North American railway operator to expand its trackside networking infrastructure supporting critical rail safety and control systems. Repeat order underscores demand for reliable, high-performance communications across remote rail networks This follow-on order builds on prior deployments and reflects the ongoing expansion of advanced rail safety and control systems across North American rail networks, where dependable communications infrastructure is a foundational requirement. The new order will support the continued rollout
+Continue Reading »
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Industries
+Intelligent Traffic Systems
+Smart Rail
+Smart City
+IoT - Sites & Campuses
+Utilities
+Military
+Providers
+Business Ethernet
+Residential Broadband
+Backhaul Services
+Products & Support
+Products
+Technology
+Support
+Company
+About Actelis
+News
+Events
+Leadership
+Investors
+Careers
+Contact
+Terms of Use
+Privacy Policy
+Facebook
+Twitter
+Linkedin
+Youtube
+©2025 Actelis Networks®, Inc. All Rights Reserved
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+Cookie Settings Accept All
+Manage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of th

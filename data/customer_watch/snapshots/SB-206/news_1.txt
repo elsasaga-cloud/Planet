@@ -1,0 +1,240 @@
+# SB-206 Vdeotronic AG · news_1 · https://videotronic.ch/news · fetched 2026-10-23T04:20:51Z · HTTP 200
+News
+Skip to Content
+Site Suche
+{
+const searchInput = document.querySelector('#search');
+searchInput.focus();
+searchInput.select();
+});
+">
+Search
+Menu
+Produkte
+View All
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+Dienstleistungen
+View All
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+Lösungen
+View All
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+Wissen & Aktuelles
+View All
+News
+Schulungen
+Newsletter
+Download
+Unternehmen
+View All
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+Webshop
+Compare
+Wishlist
+VIDEOTRONIC
+DE/AT/CH
+International
+Schließen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '810';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Produkte
+Toggle submenu for Produkte
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+{
+$dispatch('unset-category-image');
+openSubmenuId = '819';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Dienstleistungen
+Toggle submenu for Dienstleistungen
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '837';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Lösungen
+Toggle submenu for Lösungen
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '827';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Wissen & Aktuelles
+Toggle submenu for Wissen & Aktuelles
+News
+Schulungen
+Newsletter
+Download
+{
+$dispatch('unset-category-image');
+openSubmenuId = '821';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Unternehmen
+Toggle submenu for Unternehmen
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+{
+$dispatch('unset-category-image');
+openSubmenuId = '820';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Webshop
+Startseite
+/
+News
+Nach Marke sortieren
+All News
+Videotronic
+September 24, 2026
+Videotronic
+50 Jahre Videotronic
+Videotronic feiert 50 Jahre Unternehmensgeschichte (1976–2026) – von den Anfängen als Schweizer CCTV- und AV-Pionier in Zürich bis zum etablierten Unternehmen in Regensdorf. Im Jubiläumsjahr steht vor allem der Dank an Mitarbeitende, Kunden und Partner im Mittelpunkt. Seit 2026 bündeln Videotronic und VIDEOR ihre Kräfte, um gemeinsam die Zukunft der Video- und Sicherheitstechnik zu gestalten.
+Juli 29, 2026
+Videotronic
+Partnerschaft von VIDEOR und Videotronic: Schulterschluss für mehr Kundennutzen
+Im Doppelinterview sprechen die beiden Geschäftsführer von VIDEOR (Dominik Mizdrak) und Videotronic (Christos Sgouros) darüber, was die neue Partnerschaft auszeichnet und welche Perspektiven sie für die beiden Unternehmen und deren Kunden eröffnet.
+Juni 25, 2026
+Videotronic
+VIDEOR beteiligt sich an der Videotronic AG
+Die VIDEOR E. Hartig GmbH, einer der führenden Distributoren und Kompetenzpartner für professionelle Videoüberwachung und Sicherheitstechnik im deutschsprachigen Raum, beteiligt sich mehrheitlich an der Videotronic AG.
+Juni 01, 2026
+Entdecken Sie die 2N IP Force 2.0
+Die 2N IP Force 2.0 ist eine fortschrittliche Video-Gegensprechanlage, die mit einer 5-MPx-Kamera ausgestattet ist.
+Mai 31, 2026
+End-to-End Sicherheit mit der Axis Camera Station Video Management Software
+Axis Camera Station, die Video Management Software, sorgt für einen reibungslosen Betrieb. Einfach zu konfigurieren, zu installieren und zu warten, bietet die Axis Camera Station (ACS) ein Höchstmaß an Flexibilität bei dem Betrieb und der Verwaltung ihrer Videosicherheitssysteme – egal ob, in der Cloud, On-Premise oder in einer hybriden Form.
+Mai 01, 2026
+Hanwha Vision stellt X-Serie AI-Kameras der zweiten Generation mit Wisenet 9-Chipsatz vor
+Hanwha Vision, ein führendes Unternehmen in Sicherheits- und Überwachungslösungen, freut sich, die zweite Generation der X-Serie AI-Kameras vorzustellen, mit derzeit sechs verfügbaren Modellen, angetrieben von dem neuen Wisenet 9 AI-native System on Chip (SoC).
+April 01, 2026
+Sicherheit für die Langlebigkeit von Aussen-Sprechanlagen
+Gegensprechanlagen sind nicht immer in sauberen, übersichtlichen Umgebungen installiert. Industriegebiete an der Küste, belegte Parkplätze oder Laderampen von Lagerhäusern sind typische Orte, an denen die Umgebung deinem Außenkommunikationssystem ständig zu schaffen macht.
+März 25, 2026
+Videotronic
+Zusammenarbeit mit Dallmeier: Vier Fragen an Christos Sgouros
+Ob Casino, Stadion oder Perimeter – die Videotronic AG plant und realisiert seit 1976 AV- und Videoüberwachungssysteme in der gesamten Schweiz. Warum das Unternehmen dabei auf Lösungen von Dallmeier setzt und welche Vorteile sich daraus ergeben, verrät Geschäftsführer Christos Sgouros im Interview.
+Öffnungszeiten
+Montag – Donnerstag
+– und  –
+Freitag
+– und  –
+Kontakt
+Moosäckerstrasse 73
+8105 Regensdorf
+Tel.
++41 44 843 90 00
+info@videotronic.ch
+Info & Hilfe
+Service und Support
+Ansprechpartner
+Videotronic
+Karriere
+Newsletter abonnieren
+© Videor E. Hartig GmbH
+Allgemeine Geschäftsbedingungen
+Videotronic Faktenindex
+Impressum und Datenschutz
+Cookie-Einstellungen
+{
+onInputName();
+})"
+x-bind="eventListeners">
+$refs.inputadd.focus());">
++ Neue Merkliste anlegen
+Hinzufügen
+A List With The Same Name Already Exist.

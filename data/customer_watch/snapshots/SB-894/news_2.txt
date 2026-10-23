@@ -1,0 +1,110 @@
+# SB-894 cctvspot.co.uk · news_2 · https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/how-to-install-hard-drive-into-dvr · fetched 2026-10-23T04:20:51Z · HTTP 200
+How to install HDD into DVR - Video tutorial and easy step-by-step guide - cctvspot.co.uk
+Menu
+Your Cart
+Facebook
+Twitter
+YouTube
+Contact us
+€
+Euro
+EUR
+€
+Euro
+EUR
+£
+Pound Sterling
+GBP
+$
+US Dollar
+USD
+Account Login / Register
+Login
+Register
+Menu
+Home
+Specials
+Turbo HD Hikvision
+Turbo HD DVRs
+Turbo HD cameras
+HD-CVI Dahua
+HD-CVI DVRs
+HD-CVI cameras
+IP equipment
+IP cameras
+NVR devices
+Accessories
+CCTV cables
+Power supplies
+CCTV connectors
+Network Accessories
+Bases, Junction boxes
+DVR kits
+4 cameras DVR kits
+8 cameras DVR kits
+Blog
+FAQ
+0 item(s) - 0.00€
+0
+Your shopping cart is empty!
+Login
+Register
+Menu
+CCTV security cameras and systems blog
+How to install HDD into DVR - Video tutorial and easy step-by-step guide
+10 Nov
+Posted By
+CCTV Spot
+0 Comment(s)
+6617 View(s)
+CCTV products` reviews
+1. First you have to remove the top cover of the dvr. In order to that remove the mounting screws. They are the ones that hold the top cover. You will find them on the bottom side of DVR`s case. Usually there are 4-6 (depending on the model) mounting screws
+2. After removing the mounting screws you have lift the cover up or slide it (depends on the model of the DVR you`re using)
+3. Look inside the DVR`s case – there you will spot an empty space with the dimensions of the hard drive. There is metal tab in the four corners which are used for attaching the HDD drive to the case
+4. Check dvr`s box – there you will find two plastic bags with the cables needed for connecting the hard drive with the main board. Plug the cables to the HDD
+5. After connecting the cables place the hard drive inside the case and attach it to the dvr`s case using the mounting screws for the purpose (you should check the package box). It is really easy – just align the hard drive so that it match the metal tabs, then fix it with the mounting screws.
+6. Now it is time to attach the cables coming from the hard drive to the main board.
+7. Reassemble the recorder.
+That`s it!
+After turning the recorder on go to settings/config menu and look for Storage menu or HDD manage menu just to make sure your device can “see” the hard drive you`ve just installed.
+Each and every time when a hard drive is installed it is highly recommended to be formatted. In order to do that simply check the checkbox next to your hard drive (in Storage manu) and press “Format” button.
+For details you can check the video tutorial bellow:
+Leave a Comment
+Your Name
+E-Mail
+Web Site
+Comments
+Submit
+About the store
+About Us
+Terms & Conditions
+Delivery
+VAT on CCTV: EU and UK Transactions
+Coockies
+Privacy Policy
+Coockies
+My Account
+Order History
+FAQ
+Returns
+Newsletter
+Customer Service
+Contact
+Site Map
+Brands
+Contact us
+Dahua`s data sheets
+Newsletter
+Don't miss any updates or promotions by signing up to our newsletter.
+Send "> Send
+Captcha
+Please complete the captcha validation below
+I have read and agree to the Privacy Policy
+Facebook
+Twitter
+Copyright © 2012-2026, CCTVSpot.Co.UK - Authorized Dahua`s and Hikvision`s reseller, All Rights Reserved
+Visa
+Mastercart
+Paypal
+Amex
+Discover

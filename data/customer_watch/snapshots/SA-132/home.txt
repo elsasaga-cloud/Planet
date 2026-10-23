@@ -1,0 +1,109 @@
+# SA-132 avanca.com.sg · home · https://avanca.com.sg/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Industrial 4G/5G Routers Modems Singapore - Avanca Technologies
+Allied Solutions
+Search for:
+Home
+About Us
+Company
+Avanca Technologies Pte Ltd
+Our Parent Company
+Allied Solutions Pte Ltd
+Knowledge & Expertise
+Our Voices
+Our Partners
+Career
+Products
+Device Networking
+External Device Networking
+Embedded Device Networking
+IT Management
+IT / Data Center Management
+KVM-over-IP
+Print Servers
+Audio Over IP
+Automation
+Industrial Ethernet Switches & Media Converters
+Industrial Unmanaged Ethernet Switches
+Industrial Managed Ethernet Switches
+Media Converters
+Industrial Wireless M2M
+Industrial Edge Computing Gateway
+5G Industrial Routers
+Global IoT Router
+Industrial Cellular Routers
+LoRaWAN Gateways
+Smart Industrial IoT Gateway
+Cellular Modems
+Embedded 3G/4G Routers
+RCMS
+Modbus Gateway
+Support
+Contact Us
+Avanca Technologies work closely with the world’s leading manufacturers to deliver best industrial communication products in various industrial applications .
+Increasing data transaction of industrial applications that rely on wireless network demands for better connectivity, higher bandwidth, and faster network responsiveness.
+5G wireless technology offers some inherent advantages over previous generation of mobile communications which makes it improves connectivity performance for industrial machine to machine (M2M) applications:
+Higher bandwidth, improved data speeds in comparison to 4G
+Lower latency, improved network responsiveness
+Higher spectrum efficiency, increasing overall network capacity
+Backwards compatibility and future-proofing
+Enhancements to security and Quality of Service differentiation
+5G cellular networks offer much more coverage than other systems such as WiFi, which forces users to depend upon access points in each area. Since 5G offers widespread coverage, users would be assured of complete connectivity at all times.
+We work closely with Robustel , the world’s leading manufacturers to deliver a wide range of Industrial 4G/5G routers and modems to our customers. Our industrial modem and industrial router products are industrial grade, easy-to-deploy, rugged and reliable designed for M2M/IoT applications.
+Industrial 5G Router
+R5020
+R5020 is Robustel’s first 5G-capable router supporting global 5G, 4G and 3G bands in a compact industrial form factor. R5020 is equipped with 4x Gigabit Ethernet ports, dual-band 802.11ac Wi-Fi and GNSS (GPS/GLONASS/BeiDou/Galileo). It enables rapid deployment of high-speed IoT applications in verticals as diverse as Transportation, Enterprise Connectivity and Digital Signage.
+R5020 Lite
+R5020 Lite is Robustel’s new 5G capable router supporting global 5G, 4G and 3G bands with a powerful Cat-18 LTE (4G) fallback. R5020 Lite is equipped with 2x Gigabit Ethernet ports and dual-band 802.11ac Wi-Fi for low latency and reliable data transfer.
+Smart Industrial 4G Modem
+M1200
+Robustel M1200 Smart Industrial IoT Gateway is a compact industrial cellular modem/gateway based on GSM/GPRS/EDGE/UMTS/WCDMA/HSDPA/HSUPA/HSPA+/FDD LTE/TDD LTE/Cat.M1/Cat.NB1 networks.
+M1200 enables remote data transmission of local serial ports and I/O, and supports such interfaces as RS-232, RS-485 and mini-USB. This dual-SIM gateway provides users with stable network connectivity and data transmission.
+Industrial 4G Router
+R2010
+Robustel R2010 Industrial Dual SIM Cellular VPN Router is a rugged cellular router with built-in WiFi offering state-of-the-art mobile connectivity for machine to machine (M2M) applications.
+R3000 Lite
+Robustel R3000 Lite Industrial Dual SIM Cellular VPN Router is a cost effective, industrial-grade VPN gateway designed for cost-sensitive M2M applications.
+R3000
+Robustel R3000 Industrial Dual SIM Cellular VPN Router is a rugged cellular router with optional Wifi and GPS offering state-of-the-art mobile connectivity for M2M applications.
+About Avanca Technologies
+Headquartered in Singapore, Avanca Technologies Pte Ltd is a privately owned company with its key operational footprint over Asia. Established in 2002, Avanca has grown strength by strength and we strive to become the leading solution provider of providing innovative, industrial grade networking products and solutions:
+Device Networking
+IT Management
+Audio Over IP
+Automation
+Industrial Ethernet Switches & Media Converters
+Industrial Wireless M2M
+Our key strength lies in our in-depth understanding of our products, and our team of highly qualified technical experts.
+With experience more than ten years in industrial automation, IT networking and communications, we are able to provide end-to-end solutions; from infrastructure planning, procurement, to after-sales support.
+Many MNCs and established firms rely on top quality poducts and solutions by Avanca for their day-to-day, mission critical operations.
+News & Events
+Robustel Release High Speed Smart 5G Router R5020 Lite
+Visit Us at Data Centre World 2017
+Visit us at Data Centre World 2016
+Visit us at CommunicAsia 2014
+Products Highlights
+R5020 Lite
+Dual SIM Industrial Cellular 5G VPN Router with 802.11ac Wi-Fi and Dual Gigabit Ethernet
+R5020
+Dual SIM Industrial Cellular 5G VPN Router with 802.11ac Wi-Fi, 4x Gb Eth, GNSS (GPS/GLONASS/BeiDou/Galileo)
+R2010
+Dual SIM Industrial Cellular 4G VPN Router with Wi-Fi and Dual Ethernet
+R3000 Lite
+Dual SIM Industrial Cellular 4G VPN Router
+R3000
+Dual SIM Industrial Cellular 4G VPN Router with Wi-Fi, GPS, Dual Ethernet
+SLC 8000
+Out of Band Management solution with modular Secure Console Server
+SGX 5150
+High Performance, Dual Band (2.4/5GHz) Application Server For Wi-Fi Connectivity
+Barionet
+Universal network-enabled automation interface for control and monitoring applications
+About ●
+Support ●
+Contact
+© 2026 Avanca Technologies Pte Ltd
++65 6242 5108
+[email protected]
+23 New Industrial Road #07-06/07
+Solstice Business Center
+Singapore 536209

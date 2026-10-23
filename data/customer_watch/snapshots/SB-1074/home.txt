@@ -1,0 +1,88 @@
+# SB-1074 intrising.com.tw · home · https://www.intrising.com.tw/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Home - Intrising Networks
+...
+News
+New Feature
+Expo
+Case Study
+Products
+Industrial Switches
+D Series
+R Series
+K Series
+PRP / HSR Series
+Industrial Wireless
+Wireless Router
+Application
+Management
+AV over IP
+Extender
+Accessories
+DIN-Rail Power Supply
+SFP-MINI-GBIC
+Solutions
+Contact Us
+About
+Menu
+Home
+News
+Products
+Solutions
+Contact Us
+About
+IEC 61850-3
+Protecting the Substation Starts with IEC 61850-3-Certified Switches
+Learn More
+IEC 61850-3
+Protecting the Substation Starts with IEC 61850-3-Certified Switches
+Learn More
+IEC 61850-3
+Protecting the Substation Starts with IEC 61850-3-Certified Switches
+Learn More
+Industrial L3 Switches
+Intrising Industrial Layer 3 Switches
+Learn More
+Intrising PTP
+Intrising PTP Provides Better Time Service
+Learn More
+ISO 9001:2015 Certification
+Elevating Excellence in Quality
+Learn More
+AV Over IP
+Extenders / Controller / Switch / App & Cloud Service Total Solution
+Learn More
+News
+New Feature
+ISO 9001:2015 Certification
+Elevating Excellence in Quality
+Intrising Networks, Inc., is pleased to inform you that our ISO 9001:2015 certification from Afnor Groupe has been completed successfully. We currently adhere to the most recent version of the Quality Management System for the following scope: design, development, and production
+Case Study
+PTP Technology Enables Precise Autonomous Data
+Intrising's 10G PTP switching solution serves as the critical synchronization backbone
+In order to achieve Level 4 autonomy, the Intrising DTS-8GP-4X solves Split Architecture challenges by using gPTP Transparent Clock technology for microsecond sync. Its 10G uplink handles 4.8Gbps camera streams, ensuring spatiotemporal consistency for precise LiDAR and AI sensor.
+Expo
+Let's Meet at SPS 2025!
+Information of SPS 2025
+Intrising is going to SPS 2025 and we are excited to meet you there!
+New Feature
+T Series
+Intrising Unveils the Future of Industrial Networking
+Intrising’s launchues T Series 10G TSN switches for Industry 4.0. Featuring IEEE 802.1Qbv/AS for nanosecond sync and HSR/PRP for zero-loss redundancy, these ruggedized solutions bridge IT/OT with deterministic, high-bandwidth performance.
+Intrising Networks
+Your Trustworthy Partner For A Connected Future
+Integration
+Software, Hardware and consumables are all available from us.
+Creativity
+Focused on market trends continue for improvement and innovation.
+Support
+We can help with system design or troubleshooting in 24/7.
+Solutions
+Solution
+Redbox HSR/PRP
+How Redbox HSR/PRP Eliminates Industrial Network Reconvergence Delays
+Redboxes eliminate catastrophic reconvergence delays by enabling legacy devices to achieve zero-recovery-time redundancy through simultaneous HSR/PRP packet duplication across networks.
+Solution
+Time-Sensitive Networking
+TSN: The Foundation of Unified Industrial Communication
+TSN brings determinism to Ethernet, replacing proprietary silos with unified, real-time synchronization to ensure mission-critical data arrives precisely on schedule.
+Inc • All Rights Reserved

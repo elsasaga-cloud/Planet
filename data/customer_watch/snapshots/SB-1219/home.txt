@@ -1,0 +1,291 @@
+# SB-1219 mikrodev.com · home · https://www.mikrodev.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Mikrodev
+Company
+About
+Blog
+Announcement
+Products
+Distributed Control System (DCS)
+DM100 Series RTU (Remote Terminal Unit)
+DM50 Series RTU Routers (Industrial RTU Router)
+DM500 Series RTU (Rack Mount Remote Terminal Unit)
+RTU100 Series RTU (Remote Terminal Unit)
+RTU300 Series RTU (Remote Terminal Unit)
+Programmable Logic Controller (PLC)
+MP110 Series PLC (Micro Level Controller)
+MP211 Series PLC (Compact Controller)
+IoT Protocol Converters
+MBS100 Series MODBUS Gateway
+MDC100 Series DLMS MODBUS Gateway
+MMS100 Series M-BUS MODBUS Gateway
+SC100 Series Serial Device Server
+Operator Control & Monitoring System | SCADA Systems
+MDC AMR Server
+ViewPLUS SCADA
+Expansion Modules
+XIO110 Series Expansion Modules
+XIO211 Series Expansion Modules
+Solutions
+Power Management & Energy SCADA System
+Water & Wastewater SCADA Systems
+BMS & Campus Automation
+Smart City
+Industrial Automation
+Automatic Meter Reading (AMR) Solutions
+Power Management & Energy SCADA System
+Services
+Downloads
+Contact
+Search
+How To Buy
+EN
+TR
+Products
+Industrial Automation And Communication
+Distrubuted Control System (DCS), Programmable Logic Controller (PLC), IoT Protocol Gateway, Operator Control & Monitoring Sytem (SCADA), I/O Module
+> FOR MORE DETAILS
+Products
+Distributed Control System (DCS)
+DM50 Series (Industrial RTU Router), DM100 Series (Remote Terminal Unit), DM500 Series (Rack Mount Remote Terminal Unit), RTU300 Series (Remote Terminal Unit),
+> FOR MORE DETAILS
+Products
+Programmable Logic Controller (PLC)
+MP110 Series (Micro Level Programmable Logic Controller), MP211 Series (Medium and Large Level Programmable Logic Controller)
+> FOR MORE DETAILS
+Products
+IoT Protocol Converters
+MBS100 Series (MODBUS Gateway), MDC100 Series (DLMS to MODBUS Gateway), MMS100 Series (M-BUS to MODBUS Gateway), SC100 Series (Serial Device Server)
+> FOR MORE DETAILS
+Products
+Operator Control & Monitoring System
+View PLUS SCADA
+> FOR MORE DETAILS
+About Mikrodev
+We are manufacturing industrial control & communication products since 2006.
+Mikrodev has been founded in 2006 in İstanbul, Türkiye. After completing turnkey product or system development projects, Mikrodev has started commercial production activities in 2011. Mikrodev has been focused for making a difference and becoming a leading company in industrial automation field with its strong technical infrastructure, innovative view, flexible solutions and customer based approach.
+> GET TO KNOW US
+Products
+How We Do, What We Do
+> HOW TO BUY
+Distributed Control System (DCS)
+DM100 Series RTU
+Remote Terminal Unit
+> For More Details
+Hot Stand by Redundant CPU
+Redundant Communication Ports
+Integrated TCP Communication Ports
+1 or 2 Ports Ethernet, Multi-connection
+Serial Communication Ports
+2 Ports (2 RS485) or 3 Ports (1 RS232, 2 RS485)
+Integratad SD Card
+Micro SD Support
+Telemetry Protocol Support
+MODBUS, MQTT, IEC 62056-21, DLMS/COSEM, DNP3, IEC 60870-5-101/103/104, IEC 61850, DALI, REST API
+Programming Editor
+IEC 61131-3 FBD Programmable
+Distributed Control System (DCS)
+RTU300 Series RTU
+Remote Terminal Unit
+> For More Details
+Integrated TCP Communication Ports
+1 Port Ethernet, 1 Port GSM/LTE (Optional)
+Serial Communication Ports
+2 Ports (1 RS232, 1 RS485 or 2 RS485) / 3 Ports (1 RS232, 2 RS485) ,Optional
+Telemetry Protocol Support
+MODBUS, MQTT, IEC 62056-21, DLMS/COSEM, DNP3, IEC 60870-5-101/103/104, IEC 61850
+Integrated I/O
+16 DI, 8 DO, 4 Relay, 4 AI, 2 AO (Optional Board Type), Expansion Up to 1024 I/O
+Programming Editor
+IEC 61131-3 FBD Programmable
+Distributed Control System (DCS)
+DM50 Series RTU Router
+Industrial RTU Router
+> For More Details
+Network Protocols
+PPP, PPPoE, TCP, UDP, DHCP, ICMP, NAT, DDNS, VRRP, HTTP, HTTPs, DNS, NTP, SNTP, ARP, QoS, Telnet, TLS
+VPN
+IPSec, OpenVPN
+Firewall
+DMZ, Filtering(IP/Port/Domain Name/MAC Address), Port Mapping, Access Control
+Telemetry Protocol Support
+MODBUS, MQTT, IEC 62056-21, DLMS/COSEM, DNP3, IEC 60870-5-101/103/104, IEC 61850, DALI, IP Protocols
+Integrated TCP Communication Ports
+1 or 2 Ports Ethernet, 1 Port GSM/LTE, 1 Port Wi-Fi (Optional)
+Serial Communication Ports
+2 Ports (2 RS485) or 3 Ports (1 RS232, 2 RS485), Optional
+Integrated I/O
+2 DI, 2 DO, Expansion Up to 512 I/O
+Programming Editor
+IEC 61131-3 FBD Programmable
+Programmable Logic Controller (PLC)
+MP110 Series PLC
+Micro Level Programmable Logic Controller
+> For More Details
+Integrated TCP Communication Ports
+1 Port Ethernet, 1 Port GSM-2G / GSM-LTE (Optional)
+Serial Communication Ports
+1 Port RS485
+Communication Protocol Support
+MODBUS, MQTT
+Integrated I/O
+4 DI, 4 DO, 2 AI (Optional Board Type), Expansion Up to 512 I/O
+Special GSM Functions Support
+SMS Sending/Receiving, DTMF Calling
+Programming Editor
+IEC 61131-3 FBD Programmable
+Programmable Logic Controller (PLC)
+MP211 Series PLC
+Medium and Large Level Programmable Logic Controller
+> For More Details
+Integrated TCP Communication Ports
+1 Port Ethernet, 1 Port GSM-2G / GSM-LTE / WiFi (Optional)
+Serial Communication Ports
+2 Ports (1 RS232, 1 RS485 or 2 RS485)
+Integrated I/O
+16 DI, 8 DO, 4 Relay, 4 AI, 2 AO (Optional Board Type), Expansion Up to 1024 I/O
+Communication Protocol Support
+MODBUS, MQTT
+Integratad SD Card
+Micro SD Support (Optional)
+Special GSM Functions Support
+SMS Sending/Receiving, DTMF Calling
+Programming Editor
+IEC 61131-3 FBD Programmable
+IOT Protocol Converters
+MBS100 Series IoT Protocol Converters
+MODBUS RTU to MODBUS TCP Gateway
+> For More Details
+Integrated TCP Communication Ports
+1 Port (Ethernet / GSM-2G / GSM-LTE / WiFi)
+Serial Communication Ports
+2 Ports (1 RS232, 1 RS485 or 2 RS485), Max. devices limited by hardware
+Communication Protocol Support
+MODBUS RTU, MODBUS TCP
+IOT Protocol Converters
+MDC100 Series IoT Protocol Converters
+DLMS to MODBUS Gateway
+> For More Details
+Integrated TCP Communication Ports
+1 Port (Ethernet / GSM-2G / GSM-LTE / WiFi)
+Serial Communication Ports
+2 Ports (1 RS232, 1 RS485 or 2 RS485), Max. 2,8,16,32 Meter Connection Options
+Communication Protocol Support
+IEC 62056-21, DLMS/COSEM, MODBUS
+IOT Protocol Converters
+MMS100 Series IoT Protocol Converters
+M-BUS to MODBUS Gateway
+> For More Details
+Integrated TCP Communication Ports
+1 Port (Ethernet / GSM-2G / GSM-LTE / WiFi)
+Serial Communication Ports
+1 Port M-BUS, 1 Port RS485, Max. 2,8,16,32 Meter Connection Options
+Communication Protocol Support
+M-BUS EN1434-3, MODBUS
+IOT Protocol Converters
+SC100 Series IoT Protocol Converters
+Serial Device Server
+> For More Details
+Integrated TCP Communication Ports
+1 Port (Ethernet/ GSM-2G / GSM-LTE / Wi-Fi / RF)
+Serial Communication Ports
+2 Ports (1 RS232, 1 RS485), Max. devices limited by hardware
+Transparent Communication
+Data Transmission Between Networks
+Operator Control & Monitoring System
+ViewPLUS SCADA
+> For More Details
+Compatible with Platforms
+Windows, Linux, MacOS
+Database Support
+PostgreSQL, Oracle
+Redundant SCADA
+Redundant SCADA Server (With Double Licence)
+Communication Protocol Support
+MODBUS, MQTT, IEC 60870-5-104, DNP3, ICCP TASE.2, REST API, etc.
+Mobile APP Client Support
+Android, iOS
+Alarm & Event Management
+Alarm/Event Identification, Logging and Reporting (E-Mail Notification)
+GIS Integration
+Google Maps(Java Script API), ArcGIS
+User Management
+256 Different Authorization Levels
+SCADA Server
+OPC UA Server, Web Server Support
+Categories
+Check out our latest products.
+> ALL PRODUCTS
+Distributed Control System (DCS)
+Programmable Logic Controller (PLC)
+IoT Protocol Converters
+Operator Control & Monitoring System | SCADA Systems
+Expansion Modules
+Solutions
+We develop reliable solutions in many sectors.
+> ALL SOLUTIONS
+Power Management & Energy SCADA System
+Water & Wastewater SCADA Systems
+Smart City
+Industrial Automation
+> ALL SOLUTIONS
+Announcement
+Announcement and more here.
+17-21
+APR
+2023
+HANNOVER MESSE 2023
+As Mikrodev, we were participate in the HANNOVER MESSE 2023 Fair, held in Hannover, Germany, between 17 - 21 April.
+1
+DEC
+2022
+IOT TECH EXPO GLOBAL 2022 POWERING THE CONNECTED WORLD WITH IOT
+We are at IOT TECH EXPO GLOBAL 2022 POWERING THE CONNECTED WORLD WITH IOT Fair which is held on 1-2 December 2022 in London.
+24
+MAY
+2022
+EX4S CYBER DEFENSE SIMULATION IN THE ENERGY SECTOR
+As Mikrodev, we provided Offensive Oriented Simulation infrastructure installations at the Ex4S Cyber Defense Simulation in the Energy Sector event, which was held for the first time this year at Republic of Türkiye EMRA's Ankara campus on 24-25 May 2022.
+> ALL ANNOUNCEMENT
+Mikrodev has been founded for making a difference and becoming a leading company in industrial automation field with its strong technical.
+Company
+About
+Blog
+Announcement
+Services
+Contact
+Download
+Products
+Distributed Control System (DCS)
+Programmable Logic Controller (PLC)
+IoT Protocol Converters
+Operator Control & Monitoring System | SCADA Systems
+Expansion Modules
+Solutions
+Power Management & Energy SCADA System
+Water & Wastewater SCADA Systems
+BMS & Campus Automation
+Smart City
+Industrial Automation
+Automatic Meter Reading (AMR) Solutions
+Copyright © 2026 Mikrodev
+Web
+Tasarım
+Penta
+Yazılım
+PROTECTION OF PERSONAL DATA
+WEBSITE COOKIE POLICY
+Your personal data; Protecting the privacy of visitors to the website operated by Mikrodev (www.mikrodev.com) operated by mikrodev (hereinafter referred to as mikrodev as the data controller is one of the leading principles of our Corporation. This Cookie Use Policy (“Policy”) explains to all our website visitors and users which types of cookies are used and under what circumstances.
+Cookies are small text files that are stored on your device or network server by websites you visit through your computer or mobile device.
+It is often used to provide you with a personalized experience during your use of the website you are visiting, to improve the services offered and to improve your experience, and may contribute to ease of use when browsing a website. If you do not choose to use Cookies, you can delete or block Cookies in your browser settings. However, we would like to remind you that this may affect your use of our website. Unless you change your Cookie settings from your browser, we will assume that you agree to the use of cookies on this site.
+1. WHAT KIND OF DATA IS PROCESSED IN COOKIES?
+In the cookies on the websites, depending on the type, data about your browsing and usage preferences on the device on which you visit the site are collected. This data includes information about the pages you access, the services and products you view, your preferred language option, and your other preferences.
+2. WHAT IS COOKY AND WHAT ARE THEIR INTENDED USES?
+Cookies are small text files that are stored on your device or network server via browsers by websites you visit. These small text files, which contain your preferred language and other settings on the site, help remember your preferences the next time you visit the site and help us make improvements to our services to improve your experience on the site. So you can have a better and personalized user experience on your next visit.
+The main purposes of using cookies on our Website are listed below:
+To improve the services offered to you by increasing the functionality and performance of the website,
+To improve the Website and to offer new features through the Website and to personalize the features offered according to your preferences;
+To ensure the legal and commercial security of the Website, you and the Authority, to prevent fraudulent transactions through the Site;
+To fulfill its legal and contractual obligations, especially those arising from the Law No. 5651 on the Regulation of Publications on the Internet and the Fight Against Crimes Committed Through These Publications and the Regulation on the Procedures and Principles for the Regulation of Publications on the Internet.
+3. TYPES OF COOKIES USED ON OUR WEBSITE
+3.1. Session Cookies
+Session cookies ensure that the website functions properly during your visit. They are used for purposes such as ensuring the security and continuity of our sites and you during your visit. Session coo

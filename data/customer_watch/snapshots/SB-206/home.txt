@@ -1,0 +1,223 @@
+# SB-206 Vdeotronic AG · home · https://videotronic.ch/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Videotronic | Videosicherheit & Zutrittskontrolle Schweiz
+Skip to Content
+Site Suche
+{
+const searchInput = document.querySelector('#search');
+searchInput.focus();
+searchInput.select();
+});
+">
+Search
+Menu
+Produkte
+View All
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+Dienstleistungen
+View All
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+Lösungen
+View All
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+Wissen & Aktuelles
+View All
+News
+Schulungen
+Newsletter
+Download
+Unternehmen
+View All
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+Webshop
+Compare
+Wishlist
+VIDEOTRONIC
+DE/AT/CH
+International
+Schließen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '810';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Produkte
+Toggle submenu for Produkte
+Mobile Überwachung
+Perimeterschutz
+Biometrische Zutrittskontrolle
+Intercom
+Digital Signage
+EVAK
+Smart Home
+{
+$dispatch('unset-category-image');
+openSubmenuId = '819';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Dienstleistungen
+Toggle submenu for Dienstleistungen
+Beratung und Planung
+Umsetzung und Inbetriebnahme
+Service und Support
+Sicherheitskontrollen und Audits
+Produktion und Lackierservice
+Auswertungen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '837';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Lösungen
+Toggle submenu for Lösungen
+Sicherheit im Bankensektor
+Cloudbasierte Videoüberwachung
+Sicherheit im Energiesektor
+Videoüberwachung für Gemeinden
+Sicherheit zu Hause
+Sicherheit in der Hotellerie
+Sicherheit in der Landwirtschaft
+Sicherheit in der Schifffahrt
+Sicherheit im Strassenverkehr
+Mobile Videoüberwachung
+Sicherheit an Tankstellen
+Sicherheit in Lagerhallen
+Sicherheit an Bus- und Bahnhöfen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '827';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Wissen & Aktuelles
+Toggle submenu for Wissen & Aktuelles
+News
+Schulungen
+Newsletter
+Download
+{
+$dispatch('unset-category-image');
+openSubmenuId = '821';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Unternehmen
+Toggle submenu for Unternehmen
+Über uns
+Ansprechpartner
+Karriere
+Partner und Zertifizierungen
+Unsere Marken
+{
+$dispatch('unset-category-image');
+openSubmenuId = '820';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Webshop
+Kompetenz und Erfahrung im Bereich Videoüberwachung und Intercom seit 1976
+Die Videotronic AG ist seit über 50 Jahren Ihr erfahrener Partner für Videosicherheits- und Intercom-Lösungen.
+Mit herstellerunabhängiger Beratung, fundierter Projektexpertise und umfassenden Services von der Planung bis zur Inbetriebnahme entwickeln wir passgenaue Lösungen für Ihre Anforderungen. Unsere Stärke liegt in der Verbindung aus langjähriger Erfahrung, technischer Kompetenz und individueller Betreuung für Ihren nachhaltigen Projekterfolg im Schweizer Markt.
+Seit 2026 gehört Videotronic mehrheitlich zur VIDEOR E. Hartig GmbH (www.videor.com) .
+Unser Leistungsspektrum
+Produktvielfalt, die überzeugt
+Verfügbar. Pünktlich. Vollständig.
+Webshop
+Dienstleistungen rund um Ihr Projekt
+Erfahren. Vernetzt. Kompetent.
+Support
+Das sagen unsere Kunden
+Was uns überzeugt hat: Die Kombination aus tiefem Know-how, ehrlicher Beratung und maßgeschneiderten Lösungen – bei der Videotronic AG fühlt man sich von Anfang an richtig verstanden.
+Ob Support, Schulung oder Umsetzung – auf die Videotronic AG ist jederzeit Verlass. Genau so stellt man sich einen langfristigen Partner vor.
+Mit der Videotronic AG haben wir nicht nur Produkte bezogen, sondern einen Partner gewonnen, der unser Projekt von der ersten Idee bis zur Inbetriebnahme mit echter Expertise begleitet hat.
+Unsere Marken
+Weitere Marken entdecken
+Öffnungszeiten
+Montag – Donnerstag
+– und  –
+Freitag
+– und  –
+Kontakt
+Moosäckerstrasse 73
+8105 Regensdorf
+Tel.
++41 44 843 90 00
+info@videotronic.ch
+Info & Hilfe
+Service und Support
+Ansprechpartner
+Videotronic
+Karriere
+Newsletter abonnieren
+© Videor E. Hartig GmbH
+Allgemeine Geschäftsbedingungen
+Videotronic Faktenindex
+Impressum und Datenschutz
+Cookie-Einstellungen
+{
+onInputName();
+})"
+x-bind="eventListeners">
+$refs.inputadd.focus());">
++ Neue Merkliste anlegen
+Hinzufügen
+A List With The Same Name Already Exist.

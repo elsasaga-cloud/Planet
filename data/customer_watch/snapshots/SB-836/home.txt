@@ -1,0 +1,148 @@
+# SB-836 groundcontrol.com · home · https://www.groundcontrol.com:443/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control
+Skip to content
+About
+Knowledge
+Partners
+Developers
+Support
+Contact
+Store
+Log in
+Solutions
+Toggle Solutions submenu
+IoT & M2M Connectivity Build reliable connected products and systems with satellite and cellular hardware, networks and data services designed for remote IoT.
+Asset Tracking Keep people, vehicles, vessels and aircraft visible and connected, wherever their work takes them.
+Airtime & Networks Find the right satellite network and airtime plan for your devices, data volumes and operating requirements.
+A-PNT Protect critical operations with an independent source of position and timing when GNSS is jammed, spoofed or unavailable.
+Portable Satellite Internet Stay connected in remote locations with compact hotspots and terminals for field teams, vehicles and temporary sites.
+RockFLEET Assured
+Stay on course when GNSS cannot be trusted.
+Learn More
+Markets
+Toggle Markets submenu
+Agriculture Remote monitoring and connectivity for equipment, sensors and workers.
+Aviation Global tracking, messaging and positioning for aircraft and crews.
+Drones & UAVs Beyond-line-of-sight connectivity for drones and autonomous systems.
+Environmental Monitoring Reliable data delivery from remote environmental sensors.
+Maritime Tracking and communications for vessels, crews and offshore operations.
+Military & Defense Resilient connectivity for personnel, assets and critical systems.
+Utilities Connectivity and control for remote utility infrastructure.
+View All Markets Explore solutions for every industry and operating environment.
+IoT Platform
+Toggle IoT Platform submenu
+Cloudloop Subscription Manager Activate services, manage airtime plans and keep track of usage and billing across your connected devices.
+Cloudloop Data Route satellite data into your applications through APIs, MQTT, webhooks, email and cloud integrations.
+Cloudloop Device Manager Monitor, configure and troubleshoot supported remote devices without needing to visit them in the field.
+Cloudloop Tracking View live positions, journey history, alerts, geofences and messages across people, vehicles, vessels and aircraft.
+Get Pricing
+About
+Knowledge
+Partners
+Developers
+Support
+Contact
+Store
+Log in
+Search
+Extend the reach of your IoT application with satellite
+We deliver seamless communication and control for high value assets in remote environments.
+IoT Solutions
+A-PNT & Tracking Services
+WITH IRIDIUM PNT ASIC
+Stay Navigating When GPS Stops.
+Meet RockFLEET Assured
+Alternative navigation and timing that never relies on GNSS alone. RockFLEET Assured continuously compares GNSS with an independent Iridium PNT reference, helping crews identify interference and maintain confidence in vessel position.
+View Product
+Satellite-Enabled Solutions
+Ground Control designs and builds satellite IoT and tracking technology that helps people connect, monitor and manage things in places terrestrial networks can’t reach. Our UK-manufactured hardware is used by customers around the world to support everything from environmental monitoring and infrastructure management to safer, more sustainable operations. Behind it all is an engineering-led team that’s practical, approachable, and always ready to help solve a difficult connectivity challenge.
+28 Years
+Longest Customer Tenure
+4,500
+Customers in 130 Countries
+205,000
+Devices in Active Use
+Connected Across Leading Satellite Networks
+How We Can Support You
+Connectivity Without Limits
+Ground Control works with multiple satellite networks, including Iridium , Viasat , and Globalstar , to ensure uninterrupted global coverage. Whether your devices are stationary, mobile, or airborne, we match the right network to your needs, now and as they evolve.
+Total Control Over Your Data
+Cloudloop gives you real time visibility and management of your IoT devices, airtime, and data, all through a single platform. With API-first integration, you can automate workflows, control costs, and ensure your data is exactly where you need it, when you need it.
+Scalable, Future-Proof Hardware
+We design and build our own satellite IoT and tracking devices , ensuring they’re rugged, power efficient, and optimized for real world applications. Our modular approach means you can scale from a single unit to a full fleet with minimal integration effort.
+Reliable and Secure Data Transmission
+Our unique Delivery Network enhances data security, while providing unparalleled insight into deployed devices. With end-to-end encryption and customizable security levels, your data stays protected while flowing seamlessly between devices and applications.
+How Remote IoT Comes Together
+Understanding the Mission
+We start by understanding what your application needs in the real world. That includes where your assets are, whether they move, how much data you need to send, how secure it needs to be, what power is available, and how quickly that data needs to arrive.
+These details matter early, because they shape the constraints of the job, and help define what a workable solution looks like from day one.
+View Our Full IoT Tech Stack
+Gateway & Network Connectivity
+Once that’s clear, we design the right gateway and communications path. That can include sensor connectivity, edge processing, and the satellite link itself. Because we work across multiple satellite networks, we can choose the mix of throughput, latency, coverage, and cost that fits the job.
+Cloudloop Platform & Integration
+Cloudloop is the layer that brings devices, subscriptions, and data together. It gives customers clear control over deployments and a straightforward way to route data into the systems they already use. Access is available through a simplified, well-documented API, making integration easier.
+Empowering Industry
+Environmental Monitoring
+Utilities & Infrastructure
+Maritime
+Unmanned Systems
+Environmental Monitoring
+Ground Control keeps remote environmental sensors online in places other networks can’t reach. From water level gauges and flood monitoring stations to data buoys and coastal cameras, we provide low power satellite IoT and mixed satellite / cellular links that slip easily into your own hardware.
+You get a simple, robust path from sensor or logger to cloud, so manufacturers can ship connected products, and operators can keep critical sites visible without constant site visits.
+For research teams and government agencies, we turn hostile, off-grid locations into routine data points, streaming measurements for flood risk, water quality, soil moisture and even iceberg and sea ice movement in near real time.
+Tracking Fishing Gear, Protecting Marine Life
+Blue Ocean Gear’s satellite-connected buoys help crews locate lost or displaced gear at sea, cutting replacement costs while reducing the risk of abandoned traps continuing to harm marine life.
+Find Out More
+Tracking Glacier Melt on Everest
+Satellite connectivity is helping scientists monitor the Khumbu Glacier in near real time, sending environmental data from more than 6,500 m above sea level without repeated visits to the site.
+Find Out More
+Keeping Flood Data Flowing
+Green Stream Technologies uses cellular and Iridium connectivity to keep critical flood monitoring data moving from remote and high risk locations, even when severe weather disrupts terrestrial networks.
+Find out more
+Utilities & Infrastructure
+Ground Control keeps critical assets connected and visible across utilities, renewables, oil and gas, mining and infrastructure. From substations and pump stations to wind farms, pipelines and remote industrial sites, our rugged satellite and cellular solutions keep sensors, meters, RTUs and field teams connected beyond terrestrial coverage.
+Cloudloop brings devices, airtime and data together, helping operators reduce site visits, respond faster to faults and maintain a clearer view of remote operations.
+Keeping Remote Reclosers Connected
+A Brazilian utility uses satellite backhaul to maintain reliable communication with remote reclosers, improving SCADA visibility, simplifying deployment, and keeping critical control links independent of local terrestrial networks.
+Find Out More
+Turning Rainfall into Renewable Energy
+Satellite connected hydrology stations give RWE accurate data from remote mountain catchments, helping it respond to changing water levels, reduce waste and generate more hydroelectric power.
+Find Out More
+Finding Better Sites for Offshore Oil and Gas
+40Geo’s satellite-connected drifting buoys collect ocean and weather data from remote offshore areas, helping oil and gas operators make better informed decisions about where and when to develop new sites.
+Find Out More
+Maritime
+Ground Control delivers resilient connectivity and positioning solutions tailored to the maritime sector. From small fishing vessels needing trusted tracking for regulatory compliance, to coastguard and patrol fleets that rely on precise situational awareness, our vessel tracking services provide secure, real time visibility wherever you operate.
+For merchant shipping, our Assured PNT (Positioning, Navigation and Timing) solutions offer a robust alternative when GPS is jammed, spoofed or otherwise unavailable, ensuring continuity of safe navigation.
+Complementing this, our out of band management services keep you connected to critical onboard systems even when your primary satcoms are offline, and allow you to separate IT and OT networks for stronger cyber resilience and operational control.
+Maintaining Position Confidence at Sea
+Ambrey has added RockFLEET Assured to its maritime security services, helping commercial vessels validate their position, identify possible GNSS interference and operate with greater confidence in high risk regions.
+Find Out More
+Keeping Fishing Fleets Compliant
+More than 700 RockFLEET units help fishing vessels across Queensland and New Zealand meet monitoring regulations, with reliable tracking, messaging, SOS alerts, and catch reporting at sea.
+Find Out More
+Protecting Canada’s Waterways
+Satellite-connected monitoring helps the Canadian Coast Guard track hazardous vessels remotely, respond quickly to changes, and prioritize those posing the greatest risk to navigation and the environment.
+Find Out More
+Unmanned Systems
+Ground Control keeps drones, USVs and other autonomous systems connected beyond cellular and line of sight coverage. Our compact satellite solutions support tracking, telemetry, command and control, and payload data, with options ranging from low power messaging to real time IP connectivity.
+Hardware can be integrated into new or existing platforms, while Cloudloop supports remote device management, diagnostics and data delivery. That helps operators extend missions, reduce dependence on terrestrial networks and maintain visibility of unmanned assets wherever they operate.
+Delivering Medical Care by Drone
+Skylift UAV uses satellite connectivity to keep medical delivery drones in contact beyond cellular coverage, supporting the safe transport of chemotherapy and prescriptions to the Isle of Wight.
+Find Out More
+Attempting the Atlantic by Robot Boat
+Epsom College students used RockBLOCK satellite connectivity to track an autonomous sailing boat as it took on the Microtransat Challenge: crossing the Atlantic without a crew.
+Find Out More
+Taking USVs Beyond Cellular Reach
+Oshen uses satellite IoT to keep compact USVs connected far offshore, gathering data for weather forecasting, marine research and wildlife monitoring.
+Find Out More
+Latest News
+Beyond Cellular: Smart LoRaWAN Backhaul for Remote Water Sites
+October 22, 2026
+No cellular coverage? Compare satellite broadband, point-to-point radio and low power satellite messaging for backhauling remote LoRaWAN water monitoring sites.
+Read More
+Designing UAVs for GNSS-Denied Environments
+October 7, 2026
+GNSS can be jammed or spoofed without warning. Learn how UAV developers can build navigational independence with Iridium PNT and RockBLOCK APNT.
+Read More
+When GNSS Can’t Be 

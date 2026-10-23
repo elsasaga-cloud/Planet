@@ -1,0 +1,249 @@
+# SB-679 apolloinfoways.in · home · https://www.mywatchdog.in/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+WatchDog | Enterprise Networking, Data Center, Cloud & Security
+Home
+Products
+Switch
+Data
+Center Switches Enterprise Network
+Switches Industrial Switches
+Router
+Core
+Router Aggregation
+Router Access Router
+Wireless
+Outdoor
+Access Point Indoor Access Point Wireless Controller
+Server
+Edge Servers
+Rack Servers
+Storage Servers AI-Ready Servers
+Security
+Management
+SDN Controller Network Management System SD-WAN Network Access Control
+SFP Optical
+Transceivers
+SFP
+/ SFP+ Modules QSFP /
+QSFP28 DAC & AOC
+Cables
+Firewall
+Next-Gen Firewall (NGFW) Network Detection & Response (NDR) Managed Detection & Response
+(MDR) Extended Detection
+& Response (XDR)
+Solutions
+AI Integrated Cloud
+Routing
+Cloud
+Wireless (5G / 6G)
+Data Centers
+SD WAN
+Switching
+Security Solutions (SOC - EDR |
+XDR)
+Industries
+Defence
+Manufacturing
+Education
+Banking & Finance
+Energy
+Federal Government
+Transportation
+Enterprise
+Company
+About Us
+Partner
+Compliance Policy
+Career
+Technical Support
+Product Inquiry
+Policy
+Resources
+Case Studies
+Events
+Learning Material
+White Paper
+Blogs
+Product Documentation
+Demo
+Firmware Download
+News
+E-Books
+Contact Us
+About us
+Contact Us
+Powering Global Networks with Proven Performance
+1,000+
+Enterprise Customers
+5+
+Countries Served
+50+
+Network Endpoints Protected
+99.99%
+Uptime SLA
+Featured Products
+Advanced Technology. Built for Modern Infrastructure.
+Explore high-performance networking, security, cloud, and data center products designed to deliver reliability, scalability, and enterprise-grade performance for every layer of your digital infrastructure.
+800G
+Silicon Photonics Data Center Switch
+Ultra-fast, energy-efficient data center switching built for AI-scale performance, low latency, and next-generation enterprise networking.
+Explore
+Wi-Fi 7.0
+Enterprise-Grade
+Blazing-fast wireless connectivity built for high-density enterprise networks, seamless performance, and next-generation digital infrastructure.
+Explore
+WD16000-F
+High-End Routers
+The WD16000-F is a high-end router series independently developed by Apollo Infoways Pvt Ltd. It utilizes distributed hardware forwarding, and non-blocking switching technology.
+Explore
+Make in India - Sovereign Networking
+Where We Outperform.
+Where Others Compromise.
+Purpose-built networking platforms for India's most critical infrastructure - engineered to deliver at scale, in the field, and under pressure.
+Railway-Grade
+Networking the rails of a nation
+Mission-critical networking for stations, signalling, and onboard systems. Engineered to railway environmental and EMI standards — proven across pan-India deployments.
+Learn More
+Power over Ethernet
+One cable. Power. Data. Done.
+PoE / PoE+ / PoE++ access switching that runs IP cameras, access points, IP phones, and IoT — without a separate power infrastructure.
+Learn More
+Industrial
+Built for −40°C to 85°C
+Hardened, fanless industrial switches for manufacturing, energy, substations, and outdoor deployments. IP40, wide-temperature, redundant power.
+Learn More
+AI Spine upto 800G
+Fabric for the AI era
+Next-generation 800G data center spine. EVPN-VXLAN ready, RoCE optimised, engineered for AI/ML training workloads and hyperscale East-West traffic.
+Learn More
+The full networking stack.
+One unified platform.
+From data center fabric to wireless access, WatchDog delivers the complete networking spectrum — engineered to interoperate as one.
+View All Products
+Network Switches
+L2 / L3 switching from access to spine. 1G, 10G, 25G, 100G, 400G, 800G.
+Up to 800GbE
+Zero-touch provisioning
+Advanced L3 routing
+Explore
+Routers
+Carrier-grade routing platforms with deep packet inspection and intelligent traffic engineering.
+SD-WAN ready
+BGP / OSPF / IS-IS
+Hardware acceleration
+Explore
+Wireless Access Points
+Wi-Fi 6E and Wi-Fi 7 access points for high-density enterprise environments.
+Wi-Fi 6E / Wi-Fi 7
+Cloud-managed
+AI-driven optimization
+Explore
+Network Security
+Next-gen firewalls, IDS / IPS, and zero-trust network access for end-to-end threat protection.
+Zero-trust NGFW
+AI-powered IDS/IPS
+Unified threat management
+Explore
+Working With Great Brands
+Trusted across India's most critical sectors
+Solutions
+Solutions for every challenge.
+Built for every scale.
+Six purpose-built solution areas — covering everything from campus to cloud, edge to core, security to AI-driven operations.
+Enterprise Networking
+End-to-end campus, branch, and remote-workforce networking.
+Data Center
+Spine-leaf fabric, EVPN-VXLAN, 800G ready, RoCE optimised.
+Cloud Networking
+Hybrid and multi-cloud connectivity with unified policy.
+Network Security
+Zero-trust framework with AI-powered detection and response.
+AI & Automation
+AI-driven NetOps with predictive analytics and self-healing.
+IoT Networking
+Secure, scalable connectivity for billions of edge devices.
+Why Choose Watch Dog
+The trusted choice for
+India's digital backbone.
+A decade of engineering. A nation of deployments. Built on the belief that India deserves networking infrastructure designed, owned, and supported here.
+Innovation First
+Continuous R&D investment driving next-generation networking - from 800G AI spine switching to indigenous WDOS firmware.
+Proven Reliability
+99.99% uptime backed by enterprise SLAs and 24/7 support engineers, deployed across India's most critical infrastructure.
+Security Built-In
+Zero-trust architecture, MACsec encryption, and AI-driven threat detection at every layer — sovereign, auditable, secure.
+Indian Roots, Global Reach
+Engineered in Noida. Listed on GeM. Cleared for government, PSU, and defence procurement. Distributed across four continents.
+Client Review's
+Real results.
+Real organisations.
+Discover how India's leading enterprises and institutions are transforming their networks with WatchDog.
+Banking & Finance
+Global Financial Corp
+‹
+›
+Challenge
+Legacy network infrastructure unable to handle 10x transaction growth
+Solution
+Deployed WatchDog data center fabric with zero-trust security overlay
+Result
+99.999% uptime, 40% cost reduction, 10x throughput improvement
+"WatchDog transformed our entire network infrastructure in just 3 months."
+Ready to transform your network?
+Talk to our experts and discover the right solution for your business.
+Contact Sales
+Explore Products
+Latest from
+WatchDog
+Product launches, deployments, and company news.
+Product Launch
+March 2026
+WatchDog Launches 800G Data Center Switch Series
+Read More
+Recognition
+Jan 2026
+WatchDog Named Leader in Indian Enterprise Networking
+Read More
+Product Update
+February 2026
+AI-Driven Network Operations Platform — Generally Available
+Read More
+Company News
+June, 2026
+Apollo Infoways Expands With Bangalore Regional Office
+Read More
+Subscribe to Our Newsletter
+Subscribe to our newsletter and receive the latest product updates, security insights, and industry news directly in your inbox.
+Subscribe
+Securing and powering modern networks across the globe. Enterprise-grade
+solutions for the digital age.
+H-102, Sector-63, Noida, U.P. 201301
+Toll Free: 1800 309 9415
+info@mywatchdog.in
+Products
+Network Switches
+Routers
+Wireless
+Server
+Security Management
+SFP Optical Transceivers
+Firewalls
+Solutions
+Enterprise Networking
+Data Center Solutions
+Cloud Networking
+Network Security
+AI & Automation
+IoT Networking
+Company
+About Us
+Partner
+Careers
+Product Inquiry
+Technical Support
+Policy
+Compliance Policy
+© 2026 Apollo Infoways Private Limited. All rights reserved.
+Privacy Policy
+Terms of Service
+Cookie Policy
+Sitemap

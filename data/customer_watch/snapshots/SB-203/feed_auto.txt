@@ -1,0 +1,11 @@
+# SB-203 Software Effect Enterprises, Inc · feed_auto · https://www.seei.biz/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Mon, 14 Sep 2026 12:50:17 +0000	Configure BIND to prefer IPv4 without disabling IPv6	https://www.seei.biz/configure-bind-to-prefer-ipv4-without-disabling-ipv6/
+Sun, 23 Aug 2026 21:58:07 +0000	GrapheneOS / Pixel 9a – screen turning on every time you move phone	https://www.seei.biz/grapheneos-pixel-9a-screen-turning-on-every-time-you-move-phone/
+Sat, 18 Jul 2026 18:29:35 +0000	Calculate power from falling water	https://www.seei.biz/calculate-power-from-falling-water/
+Mon, 18 May 2026 20:41:01 +0000	Steps to Enable Pop-Ups in Brave Browser	https://www.seei.biz/steps-to-enable-pop-ups-in-brave-browser/
+Mon, 18 May 2026 17:54:41 +0000	URL Shortcut on Synology NAS	https://www.seei.biz/url-shortcut-on-synology-nas/
+Sun, 17 May 2026 23:48:04 +0000	Signal Desktop on Fedora using Snap	https://www.seei.biz/signal-desktop-on-fedora-using-snap/
+Sun, 17 May 2026 18:53:04 +0000	favicon.ico	https://www.seei.biz/favicon-ico/
+Thu, 19 Mar 2026 13:03:44 +0000	Hole Sizes For Sheet Metal Screws In 3d Printed PETG	https://www.seei.biz/hole-sizes-for-sheet-metal-screws-in-3d-printed-petg/
+Wed, 18 Mar 2026 16:37:57 +0000	Free Topographical Maps	https://www.seei.biz/free-topographical-maps/
+Mon, 16 Mar 2026 22:36:24 +0000	Radius Authentication on Junos	https://www.seei.biz/radius-authentication-on-junos/

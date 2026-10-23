@@ -1,0 +1,549 @@
+# SB-751 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+LRI Automação Industrial - Soluções em Automação Industrial
+Menu
+Projetos Especiais
+Fontes Industriais
+Ver Fontes Industriais
+Fontes AC/DC
+Drivers de LED
+Trilho DIN
+Com Caixa
+Sem Caixa
+Carregadores de Bateria
+Adaptadores
+Rack Alimentação
+Proposta Específica
+Acessórios
+Encapsulado
+Fonte de Alimentação de Campo
+Conversores CC/CC
+Encapsulados
+Com Caixa
+Sem Caixa
+On Board
+Trilho DIN
+Inversores DC/AC
+Onda Senoidal Modificada
+Onda Senoidal Pura
+Acessórios/Módulos de Controle
+Módulo de Proteção
+Trilho DIN
+Módulo de Redundância
+Fontes com Certificação Médica
+Módulo UPS
+VFD - AC/AC
+Comunicação de Dados
+Ver Comunicação de Dados
+Família LRI-CON
+Wireless e IoT Industrial
+Wi-Fi Industrial
+ZigBee
+Gateway e Roteador 4G/LTE
+LoRa, RF, Bluetooth e GPS
+Antenas e Cabos
+Sensores e Monitoramento Remoto
+Conectividade
+Placas Multiseriais
+Conversores, Isoladores e Repetidores Seriais
+Conversor de Mídia (Fibra para RJ45)
+Conversores e Hubs USB Industriais
+Soluções KVM
+Servidor Serial (Serial para Ethernet)
+Switches Industriais
+Switch Gerenciável
+Switch Não Gerenciável
+Switch IEC 61850-3
+Switch Ferroviário EN 50155
+Switch PoE
+Switch com Redundância em Anel
+Gateways e Protocolos Industriais
+Conversores, Repetidores e Bridges CAN/Fieldbus
+Gateway de Protocolo (Modbus, CAN, PROFIBUS)
+Placas de Comunicação para PC (CAN, PROFIBUS, EtherCAT)
+PAC/uPAC
+Data Logger
+Módulos
+Cabos e Acessórios de Comunicação
+Transceiver SFP (Módulo Óptico)
+Computadores Industriais
+Ver Computadores Industriais
+Computadores Embarcados
+PC BOX Entrada
+PC BOX Ultra-slim
+PC BOX Expansão
+PC BOX Trilho DIN
+Tablet Industrial
+Acessórios Tablet
+Plataforma Risc
+Backplanes
+Periféricos
+Audio
+Floppy
+Coolers
+Fontes
+Chassis
+Shoe Box
+Acessórios
+Placa Mãe
+Aquisição de Dados
+Ver Aquisição de Dados
+Teracom
+Controladores Programável
+Módulos E/S Remoto
+Ethernet
+RS-485
+ZigBee
+Fieldbus
+PAC E/S
+FRnet
+Placas para PC
+PCI Express Multifuncional
+PCI Express Saída Analógica
+PCI Express Digital E/S
+PCI Multifuncional
+PCI Saída Analógica
+PCI Digital E/S
+PCI Controle Movimento
+ISA Multifuncional
+ISA Saída Analógica
+ISA Digital E/S
+ISA Controle Movimento / Watch Dog
+Condicionador de Sinal
+USB/Ethernet
+Multifunction DAQ
+GPIB / IEEE 488
+Digital I/O
+Temperatura
+Registradores de Dados
+USB
+Modbus TCP/MQTT/HTTP
+Ethernet
+Wi-Fi
+RS-485
+Acessórios para Aquisição de Dados
+Cabos/Adaptadores/Borneiras/Fonte
+Detecção de Vazamento
+Cabo IR
+Dispositivos de Controle
+Ver Dispositivos de Controle
+Medidores de Energia
+Interface RS-232/RS-485/Ethernet
+RF 433MHZ
+Transformador de Corrente
+Relés de Proposta Geral
+Relé SSR 1 Fase
+Relé de Monitoramento*
+Relé SSR 3 Fases*
+Placa e Módulo de Relé
+Relé Intermediário*
+Interruptor Temporizado*
+Proteção Tensão-Corrente-Transdutores*
+Contator*
+Automação e Controle de Máquinas
+Ver Automação e Controle de Máquinas
+Controlador IIoT
+PAC
+IPAC
+Automação de Máquinas
+ViewPAC
+Windows PAC
+Win-GRAF e ISaGRAF
+IndusSoft
+MiniOS7
+ROM-DOS
+Controlador/Server
+Módulos e Placas de Expansão
+Painel Display
+TouchPAD
+Display
+Soluções Motinnet
+Placas PC
+Módulos de Movimento
+Módulos de E/S
+Módulos HUB
+Controle EtherCAT
+CLP / PLC
+Outlet
+Ver Outlet
+Aten
+Drow
+Hon Turing
+IcpDas
+MccDaq
+Meanwell
+Moxa
+Oring
+Sunix
+Parceiros
+Ver Parceiros
+AAEON
+NK Technologies
+Meanwell
+Ebyte
+Ewind
+Moxa
+ICP DAS
+MCC DAQ
+ORing
+PULS
+Geya
+PUSR
+Minha Conta
+Entrar
+/
+Cadastrar
+Olá,
+Minha conta
+/
+Sair
+LRI Automação Industrial
+Olá,
+Minha conta
+/
+Sair
+Minha Conta
+Entrar
+/
+Cadastrar
+0
+Fontes Industriais
+Fontes AC/DC
+Drivers de LED
+Trilho DIN
+Com Caixa
+Sem Caixa
+Carregadores de Bateria
+Adaptadores
+Rack Alimentação
+Proposta Específica
+Acessórios
+Encapsulado
+Fonte de Alimentação de Campo
+Conversores CC/CC
+Encapsulados
+Com Caixa
+Sem Caixa
+On Board
+Trilho DIN
+Inversores DC/AC
+Onda Senoidal Modificada
+Onda Senoidal Pura
+Acessórios/Módulos de Controle
+Módulo de Proteção
+Trilho DIN
+Módulo de Redundância
+Fontes com Certificação Médica
+Módulo UPS
+VFD - AC/AC
+Comunicação de Dados
+Família LRI-CON
+Wireless e IoT Industrial
+Wi-Fi Industrial
+ZigBee
+Gateway e Roteador 4G/LTE
+LoRa, RF, Bluetooth e GPS
+Antenas e Cabos
+Sensores e Monitoramento Remoto
+Conectividade
+Placas Multiseriais
+Conversores, Isoladores e Repetidores Seriais
+Conversor de Mídia (Fibra para RJ45)
+Conversores e Hubs USB Industriais
+Soluções KVM
+Servidor Serial (Serial para Ethernet)
+Switches Industriais
+Switch Gerenciável
+Switch Não Gerenciável
+Switch IEC 61850-3
+Switch Ferroviário EN 50155
+Switch PoE
+Switch com Redundância em Anel
+Gateways e Protocolos Industriais
+Conversores, Repetidores e Bridges CAN/Fieldbus
+Gateway de Protocolo (Modbus, CAN, PROFIBUS)
+Placas de Comunicação para PC (CAN, PROFIBUS, EtherCAT)
+PAC/uPAC
+Data Logger
+Módulos
+Cabos e Acessórios de Comunicação
+Transceiver SFP (Módulo Óptico)
+Computadores Industriais
+Computadores Embarcados
+PC BOX Entrada
+PC BOX Ultra-slim
+PC BOX Expansão
+PC BOX Trilho DIN
+Tablet Industrial
+Acessórios Tablet
+Plataforma Risc
+Backplanes
+Periféricos
+Audio
+Floppy
+Coolers
+Fontes
+Chassis
+Shoe Box
+Acessórios
+Placa Mãe
+Aquisição de Dados
+Teracom
+Controladores Programável
+Módulos E/S Remoto
+Ethernet
+RS-485
+ZigBee
+Fieldbus
+PAC E/S
+FRnet
+Placas para PC
+PCI Express Multifuncional
+PCI Express Saída Analógica
+PCI Express Digital E/S
+PCI Multifuncional
+PCI Saída Analógica
+PCI Digital E/S
+PCI Controle Movimento
+ISA Multifuncional
+ISA Saída Analógica
+ISA Digital E/S
+ISA Controle Movimento / Watch Dog
+Condicionador de Sinal
+USB/Ethernet
+Multifunction DAQ
+GPIB / IEEE 488
+Digital I/O
+Temperatura
+Registradores de Dados
+USB
+Modbus TCP/MQTT/HTTP
+Ethernet
+Wi-Fi
+RS-485
+Acessórios para Aquisição de Dados
+Cabos/Adaptadores/Borneiras/Fonte
+Detecção de Vazamento
+Cabo IR
+Dispositivos de Controle
+Medidores de Energia
+Interface RS-232/RS-485/Ethernet
+RF 433MHZ
+Transformador de Corrente
+Relés de Proposta Geral
+Relé SSR 1 Fase
+Relé de Monitoramento*
+Relé SSR 3 Fases*
+Placa e Módulo de Relé
+Relé Intermediário*
+Interruptor Temporizado*
+Proteção Tensão-Corrente-Transdutores*
+Contator*
+Automação e Controle de Máquinas
+Controlador IIoT
+PAC
+IPAC
+Automação de Máquinas
+ViewPAC
+Windows PAC
+Win-GRAF e ISaGRAF
+IndusSoft
+MiniOS7
+ROM-DOS
+Controlador/Server
+Módulos e Placas de Expansão
+Painel Display
+TouchPAD
+Display
+Soluções Motinnet
+Placas PC
+Módulos de Movimento
+Módulos de E/S
+Módulos HUB
+Controle EtherCAT
+CLP / PLC
+Outlet
+Aten
+Drow
+Hon Turing
+IcpDas
+MccDaq
+Meanwell
+Moxa
+Oring
+Sunix
+Projetos Especiais
++ Categorias
+Parceiros
+AAEON
+NK Technologies
+Meanwell
+Ebyte
+Ewind
+Moxa
+ICP DAS
+MCC DAQ
+ORing
+PULS
+Geya
+PUSR
+Engenharia própria LRI
+Switches, fontes e inversores com engenharia própria — não é só distribuição Mean Well
+Catálogo técnico com mais de 3.500 produtos documentados. Nestes três, o projeto, a ficha técnica e o suporte são da LRI.
+Comunicação industrial
+Fontes CA/CC
+Conversores CC/CC
+Inversores CC/CA
+Marca própria LRI
+Comunicação industrial
+LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
+8 portas Gigabit RJ45 · Não gerenciável · Trilho DIN
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Marca própria LRI
+Inversores de potência
+Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
+1000 W · Entrada 125Vcc · Saída 127Vca 60Hz
+R$ 1.682,95
+R$
+1.632 , 46
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Marca própria LRI
+Fontes de alimentação
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
+65 W · Saída 24Vcc 2,7A · Trilho DIN
+R$ 255,00
+R$ 127,50
+R$
+123 , 68
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
+Destaques
+-50%
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 24W, 24V - LRI-PS2424
+R$ 165,00
+R$ 82,50
+R$
+80 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Monomodo SC 20km - LRI-MC-1G1SM20
+R$ 375,00
+R$
+363 , 75
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
+R$
+960 , 30
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+MDR-10 Fonte CA/CC 10 Watts Trilho DIN Compacta para Automação Industrial MeanWell
+R$ 120,83
+R$
+117 , 21
+à vista
+com desconto Pix - Vindi
+Ver opções
+Lançamentos
+Software de Monitoramento Remoto TC Monitor
+Sob consulta
+Saiba mais
+Pedir cotação
+Módulo de Monitoramento de Energia TCW260
+R$ 3.703,08
+R$
+3.591 , 99
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+1-Wire Transmissor de Loop de Corrente TSA200
+Sob consulta
+Saiba mais
+Pedir cotação
+1-Wire Sensor de Temperatura TST100
+Sob consulta
+Saiba mais
+Pedir cotação
+Depoimentos
+Nome: Djalma Filho
+Avaliação: Positivo
+Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Comentado em: 09/01/2024
+LRI Automação Industrial
+Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Written by: Djalma Filho
+LRI Automação Industrial
+1 / 1 stars
+1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
+[ Ver todos ]
+Cadastre-se em nossa newsletter
+e receba novidades via E-mail ou Telegram
+Telegram
+Cadastre-se
+Institucional
+Empresa
+Como comprar
+Política de Segurança e Confidencialidade
+Envio
+Pagamento
+Tempo de Garantia
+Depoimentos de Clientes
+Política de Devolução de Produtos da LRI Automação Industrial
+Fale Conosco
+Atendimento
+(51) 2129-3000
+(11) 4020-2470
+vendas@lri.com.br
+Formas de pagamento
+Selos de Segurança
+Linhas LRI
+Switches Industriais
+Inversores Senoidais
+Conversores CC/CC
+Conversor Serial LRI-CON
+PC Industrial
+Condicionadores de Sinal
+AEM: Supervisão DC
+Projetos Especiais
+Marcas no Brasil
+ICP DAS
+Teracom
+Seneca
+ORing
+PULS
+PUSR
+Hi-Link
+NK Technologies
+LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
+Tecnologia Tray
+Load time: 1.078 secs - 23-10-2026  - node: commerce-web3-bot-lw - store
+×

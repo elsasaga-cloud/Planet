@@ -1,0 +1,80 @@
+# SB-835 getscw.com · news_2 · https://www.getscw.com/knowledge-base/the-ban · fetched 2026-10-23T04:20:51Z · HTTP 200
+Which Security Cameras are NDAA Compliant? | SCW
+On-Demand Demo
+Sales: 828-483-4237 Support: 828-352-2242 Get A Quote
+Menu
+Products
+Services
+Industries
+Clients
+Resources
+Partners
+My Account
+Cart
+Contact Us
+1-866-414-2725
+Products
+Services
+Industries
+Clients
+Resources
+Partners
+Home
+Knowledge Base
+NDAA
+Understanding Security Camera Compliance with the National Defense Authorization Act (NDAA)
+Also covers the the 2019 Hikvision / Dahua Sanctions, the Dec 2021/22 FCC import ban, and the 2022 Russian Sanctions
+Shop Compliant Cameras
+The 2019 National Defense Authorization Act (NDAA) and Surveillance Industry
+Editors note: the National Defense Authorization Act is typically passed yearly. The 2020 and 2021 versions of the NDAA also passed. Although they did continue forward the regulations for the surveillance industry that were originally passed in 2019, they didn’t materially change the surveillance industry in any additional ways.
+When it happened
+On Aug 1, 2018, the US government passed a resolution, effective Aug 1, 2019, to prevent the federal government, and anyone else who is involved with national security, from making purchases of telecommunications and surveillance cameras originally manufactured at five specific companies in China. The ban affects some or all Honeywell, Hikvision, Dahua, Lorex, Swann, LTS, Annke, Alibi, Laview, WBox, Interlogix, Flir, Bosch, ICRealtime, QSee, Panasonic, ADT, Indigo Vision, Montavue, and many more security products.
+What the NDAA ban does:
+The ban was part of the 2019 National Defense Authorization Act (NDAA) and specifically bans security cameras by Hikvision, Dahua, and their OEMs. NDAA also requires all federal government and "critical infrastructure" to remove any product that originated in a Hikvision or Dahua factory before Aug 1, 2019. The NDAA also bans ZTE, Huawei, and Hytera telecommunication equipment, but not surveillance equipment, for use both in the federal government and for use in 5G cellular infrastructure.
+Who is affected by the NDAA ban?
+The NDAA bans both the federal government from purchasing Hikvision / Dahua equipment, but also bans it from purchasing anything from anyone who has these devices on their networks . If you sell to the federal government you must now attest that you do not have "foreign advisory security or telecommunication devices" on your network. Many states and large companies also followed suit, requiring the same rules.
+Almost all state and local governments have volunteered to follow the NDAA ban for state-level purchasing, but only Vermont has legally banned these products for state government purchases. Many local governments have passed laws requiring that they follow the same rules and regulations as the NDAA.
+NDAA FAQ
+Why were Hikvision and Dahua banned by the NDA? The NDAA, itself, did not provide an explanation for the ban.
+Congressional testimony of those who voted for the ban centered around these ideas:
+1. Believing that the Chinese government could use these manufacturers in mass espionage.
+2. A lack of cybersecurity safeguards (This has been a major problem in our industry, especially after the 2017-2018 major hacks of Dahua (Lorex) cameras, please see our Best Practices to prevent IOT Security Camera Hacks for a list of what happened and advice on how to harden your security camera system's cybersecurity).
+3. Concerns about the contracts awarded to these two companies in relation to the humanitarian crisis and mass imprisonment of the Uyghur people (Hikvision and Dahua received large military contracts for monitoring the Uyghur people).
+4. The belief that this would bring manufacturing back to the US.
+What's the result of the federal use ban on the surveillance industry? The firms banned were the major manufacturers of most security cameras. The ban is currently upending the security industry with a large number of providers selling these systems at or below cost because of oversupply of product that is now banned for federal uses and facing human rights sanctions. There is also some fear in the industry that the Magnitsky Act sanctions could be used to seize products or prevent the import of products by these companies.
+Ironically, this mass sell-off is currently making it more difficult for American companies to compete. There has been significant disruption to the marketplace with some US companies selling entire divisions, posting massive Q4 losses, or going under completely. (Arlo posted a 100M loss in Q4, and Interlogix, previously a part of GE, went bankrupt, for example)
+What about equipment that includes parts from these brands? On Aug 9th, 2019, the US government released new proposed interim rules for the administration of the NDAA. Of particular note, this update included in the ban "substantial or essential components" which is defined as "any component necessary for the proper function or performance of a piece of equipment, system, or service" of "covered telecommunications equipment or services."
+The law then defines its terms:
+“Covered telecommunications equipment or services,” as defined in the statute, means—
+• Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities);
+• For the purpose of public safety, security of Government facilities, physical security surveillance of critical infrastructure, and other national security purposes, video surveillance and telecommunications equipment produced by Hytera Communications Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua Technology Company (or any subsidiary or affiliate of such entities);
+...
+This definition seems to ban Huawei for telecommunications but not surveillance. It also seems to only ban Hikvision or Dahua for "public safety, security of Government facilities, physical security surveillance of critical infrastructure" projects. For example, if you are a government entity using cameras to track wildlife outdoors, you may be exempt from the Hikvision/Dahua ban. Consult your agency for clarification.
+One reason why Huawei is mentioned for telecommunication, but not surveillance, is that Huawei HiSilicon SOC chips are in 90% of all surveillance cameras and NVRs . The only provider, who we know of, that doesn't carry any devices that use Huawei components is Avigilon. Even Axis has a line that uses Hisilicon SOCs.
+Here at SCW, our reading of the law is that Huawei HiSilicon SOCs are not banned for use in surveillance, but are banned for telecommunications. This view is supported by the Security Industry Association's report on the NDAA .
+Nevertheless, we understand that opinions may differ about the law. We always want our customers to be able to make an informed decision with all available information, so will be taking steps to clearly identify which SCW camera models have Hisilicon DSP chips and include that information in our spec sheets. No cameras with Hisilicon chipsets are listed in the product section of this page.
+The 2019 US Treasury Department Sanctions of Hikvision and Dahua and their OEMs
+When it happened
+On March 4, 2019, additional Magnitsky Act sanctions on Hikvision and Dahua were proposed (they passed as law on 10/09/2019) because of their part in the Uyghur “re-education camps” . Magnitsky Act sanctions can result in the US government seizing equipment and assets, imposing fines and penalties, revoking licenses, or blocking the import of products, among other things.
+On May 15th, 2019, President Trump signed an executive order directing the Secretary of Commerce to draft rules, within 150 days, banning US companies from doing business with "foreign adversary technology."
+This executive order broadened the definition of the companies that were banned by the NDAA, to:
+information and communications technology or services designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary....
+The relevant phrase here has to do with state ownership. This is highly relevant to the surveillance industry, as many of the companies who had previously done business with Hikvision and Dahua had switched their supply to the relative newcomer on the low cost camera market, Rayshap.cn, who is also Chinese Communist Party owned (41%). Update: Raysharp was added to the Sanctions list on October 30th 2024.
+Although never mentioned by name, this presents new risk to the many US companies that use Raysharp equipment, including Swann, Hanwha Techwin, Lorex, Harbor Freight Tools, 3R Global, and GW Security.
+On Oct 7, 2019, the US government also placed sanctions on Hikvision and Dahua for human rights abuses. Again, some or all Honeywell, Hikvision, Dahua, Lorex, Swann, LTS, Annke, Alibi, Laview, WBox, Interlogix, Flir, Bosch, ICRealtime, QSee, Panasonic, ADT, Indigo Vision, Montavue, and many more security products are included.
+This letter also discussed the need to impose financial penalties on American companies that do business with Hikvision and Dahua, but did not specify what they would be (these penalties would be addressed in the FCC ban, which is up next).
+What these sanctions do
+These companies were put on the "entity list,"which is a listing of companies that cannot use US technology (without an exception) and which US companies who imported Hikvision and Dahua equipment would be put on a watch list.
+These sanctions prevent these companies from using US technology or standards in future software or firmware releases and from using US patents in future hardware models. This means that they are going to face a situation where they either don't update firmware for cybersecurity concerns or lose ONVIF compliance or features when their firmware is updated. For these reasons, we recommend staying away from these brands.
+Who is affected by the Sanctions?
+Everyone is affected by the sanction in some way, most specifically in that they prevent the use of USA technology by any of these brands. This means that someone who has purchased or might purchase this equipment will find its software update and support pipelines broken as they can no longer be maintained. An update to the security of the firmware, a bug fix or anything else will not be possible as updates cannot use any USA tech and most firmware contains tons of USA technologies.
+The 2020 FCC Import Ban
+When it happened
+On Nov 12, 2021, President Biden signed the Secure Equipment Act into law, mandating the FCC block new equipment authorizations for covered entities by Nov 12, 2022.
+What the FCC Import Ban does
+It bans the FCC from authorizing any new models from these companies for import into the United States by no later than Nov 12, 2022. These companies can never introduce a new model again.
+This makes it illegal to import new models from these companies into the United States, with a $7,000 fine per instance, if a company continues to import these models. This ends the private use loophole in the NDAA.
+Whereas the NDAA specifically named HIkvision and Dahua, the FCC import ban does not name any specific brands, but instead included the broader description of what constituted "FOREIGN ADVERSARY TECHNOLOGY" as phrased in the Sanctions ruling by the Secretary of Commerce. This certainly means that the import ban includes Dahua, Hikvision, Huawei, ZTE, and Hytera, but also makes it highly likely to also include Raysharp. Update: Raysharp was added to the Sanctions list on October 30th 2024.
+Whereas previous legislation specified China, in particular, the FCC ruling even broadens the definition of "FOREIGN ADVERSARY," to include any hostile nation:
+the term “foreign adversary” means any foreign government or foreign non-government person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons;..
+The FCC also requested comments from the community 

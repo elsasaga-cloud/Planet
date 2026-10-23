@@ -1,0 +1,7 @@
+# SB-901 esoft.fi · feed_auto · https://www.esoft.fi/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Mon, 13 Jul 2015 11:00:12 +0000	Tietoa evästeistä	https://www.esoft.fi/info/tietoa-evasteista/
+Tue, 09 Jun 2015 16:04:10 +0000	Asiakaspalvelu	https://www.esoft.fi/info/asiakaspalvelu/
+Sun, 19 Oct 2014 10:28:10 +0000	Tuotevertailu	https://www.esoft.fi/kauppa/tuotevertailu/
+Sat, 28 Sep 2013 15:58:26 +0000	MonivetoWeb	https://www.esoft.fi/monivetoweb/monivetoweb/
+Tue, 20 Mar 2012 18:26:07 +0000	FAQ – Usein kysytyt kysymykset	https://www.esoft.fi/info/faq-usein-kysytyt-kysymykset/
+Tue, 20 Mar 2012 18:25:21 +0000	Yritystiedot ja tietosuojaseloste	https://www.esoft.fi/info/yritystiedot-ja-rekisteriseloste/

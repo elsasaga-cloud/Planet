@@ -1,0 +1,719 @@
+# SB-543 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+KBC Networks - KBC Networks - Home
+PRODUCTS
+NETWORK SWITCHES
+THRULINK HARDWARE VPN
+ECOPPER
+SFP MODULES
+MEDIA CONVERTERS
+WIRELESS ETHERNET SYSTEMS
+MOBILE SURVEILLANCE
+POWER SOLUTIONS
+FIBER SOLUTIONS
+KBC NEXUS™
+NEW
+Secure Infrastructure Networking and Management Platform
+Find out more
+NEW
+NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance
+Find out more
+SOLUTIONS
+REFERENCES
+CASE STUDIES/APPLICATIONS
+BROCHURES & INFOSHEETS
+SUPPORT
+SATISFACTION SURVEY
+CELLULAR APNS
+DESIGN & SUPPORT
+SWITCH COMPARISON
+SOLAR & BATTERY ESTIMATOR
+DOWNLOAD RESOURCES
+NEWS & EVENTS
+BLOG
+KBC BLOG
+LATIN AMERICA
+EVENTS
+JOIN OUR NEWSWIRE
+Webinars
+CONTACT
+KBC OFFICES
+North America Reps
+Search
+Off-Grid
+View details
+Contact KBC
+Off-Grid
+Off-Grid Surveillance
+Connected by Cellular
+Solar-powered security with ThruLink LTE for reliable remote connectivity.
+View Product
+Contact KBC
+MSS
+MSS Mobile Surveillance System
+The KBC Networks Mobile Surveillance System provides “eyes and ears” with the ability to monitor and record what is happening in real time.
+View Product
+Contact KBC
+ThruLink
+Live video over 4G
+Live, encrypted, multicast video streamed to multiple control rooms and vehicles simultaneously without any fixed IP, license or special software.
+View Product page
+Critical Infrastructure
+With multiple solutions and our rugged design,
+we can ensure systems remain working at all times
+View Products
+ThruLink 1
+Town and City
+Our Media Converters and Switches can help
+keep information flowing
+View Products
+Brochure
+Download Our Brochure
+Get the complete guide to our rugged
+networking & remote power solutions
+Download Now
+KBC Networks
+Industrial Transmission and Power Solutions
+Wireless Ethernet Systems
+Line of sight, Point to point/Multipoint, 2Gbps throughput Wireless
+Read more
+Mobile Surveillance System
+Maneuverable System with optional built in Solar panels, Batteries and controller
+Read more
+ThruLink™ Hardware VPN
+Simple, Secure and Encrypted transmission over any network, including 4G/LTE and 5G
+Read more
+Rugged Industrial
+Network Switches
+Managed, Unmanaged, PoE,PoE+ and ++, 2 up to 24 ports and full SFP rugged Ethernet switches
+Read more
+eCopper™ IP over Coax & UTP
+IP over Coax and UTP solutions including 2 and 4 wire with PoE/PoE+/PoE++
+Read more
+Power Solutions
+Solar panels, Wind turbines, outdoor UPS and fully rugged power solutions
+Read more
+Media Converters
+IP over Single or Multimode Fiber with transmission distances up to 80km
+Read more
+Fiber Optic Converters
+Digital Fiber Optic transmission solutions from BNC video to RS485 solutions
+Read more
+Design Services
+We offer a wireless design service to assist you in product selection, placement, and configuration of your network.
+System Design
+USA & Canada
+System Design
+Europe, Middle East and Africa
+System Design
+Latin America
+System Design
+Asia Pacific
+Product Support FAQs
+Visit our support FAQs for troubleshooting help and solutions to common help questions, you can also ask a question
+Visit our Support pages
+ThruLink™
+An incredibly simple yet highly secure transmission solution that makes use of public and private networks with ease
+Secure
+Encryption up to 256bit
+Ciphers include: AES, Blowfish & Camellia
+Secure authentication, unique two-way process
+Simple and Agnostic
+Supports any IP based device
+No software or plugins required
+Unicast and Multicast supported
+Over any Network
+3G/4G/LTE support
+Any public or private network
+WAN or LAN use
+Find out more
+Case studies and applications
+Application examples and Case studies where KBC solutions have made transmisison and power simple and reliable
+Real-Time Traffic Control and
+Smart City Objectives
+ThruLink™ provided a simple, secure, and cost-effective integrated solution for growth in Kuwait. Integration included traffic enforcement and ANPR camera systems, traffic control and traffic radar systems, and the replacement of Tetra with a Band 28 solution.
+Read more
+Navigating the IP Migration Challenge at Sea
+KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
+Read more
+Countrywide Rail Crossing
+Safety and Communication
+Indian Railways, one of the world’s largest rail networks,identified a pressing need to improve safety and communication at Level Crossing (LC) gates, particularly in remote areas
+Read more
+KBC eCopper™ products offer a cost-effective way to connect the latest IP cameras using existing coax or copper (UTP) wiring to a remote monitoring station.
+In addition to saving costs and time from cabling infrastructure upgrades to CAT5/5e/6, eCopper™ powers both the transmitter and remote cameras, eliminating the need for any additional power source at the camera site.
+Visit product page
+About KBC Networks
+KBC Networks manufactures secure, industrial transmission and power solutions for a wide range of applications and markets.
+Quick Links
+Satisfaction Survey
+Quality Information
+Privacy & Cookie Policy
+Terms & Warranty
+NDAA Compliance
+KBC Offices
+Login
+Contact KBC
+USA
++1 949 503 3470
++1 888 366 4276
+EMEA
++44 (0)1553600001
+LATAM
++52 33 3148 3286
+APAC
++86 25 5882 1656
+Latest Brochure
+© 2026 KBC Networks
+Search
+Sign In
+PRODUCTS
+column 1
+NETWORK SWITCHES
+THRULINK HARDWARE VPN
+ECOPPER
+SFP MODULES
+MEDIA CONVERTERS
+column 2
+WIRELESS ETHERNET SYSTEMS
+MOBILE SURVEILLANCE
+POWER SOLUTIONS
+FIBER SOLUTIONS
+KBC NEXUS™
+Column 3
+SOLUTIONS
+REFERENCES
+CASE STUDIES/APPLICATIONS
+BROCHURES & INFOSHEETS
+SUPPORT
+SATISFACTION SURVEY
+CELLULAR APNS
+DESIGN & SUPPORT
+SWITCH COMPARISON
+SOLAR & BATTERY ESTIMATOR
+DOWNLOAD RESOURCES
+NEWS & EVENTS
+BLOG KBC BLOG
+LATIN AMERICA
+EVENTS
+JOIN OUR NEWSWIRE
+Webinars
+CONTACT
+KBC OFFICES
+North America Reps
+Simulation Hub
+×
+Ask a Question
+Select Region
+USA and Canada
+Latin America
+EMEA
+Asia Pacific
+China
+Please select Subject
+Wireless
+Solar
+Network Switches
+Media Converters
+Power Solutions
+MSS
+Fiber Optic
+ThruLink
+Other subject not listed
+Submit
+reCAPTCHA *
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Message
+×
+KBC Employee Registration
+Employee Portal Registration
+Enter your full name *
+Your KBC email address
+(this is your username) *
+Set your password (min 8 characters, 1 number,1 symbol, 1 uppercase) *
+Month you started at KBC *
+Year you started at KBC *
+Day of your birthday *
+Month of your birthday *
+Mobile number *
++1
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saba
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Eustatius
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Submit
+Website
+×
+Select Country
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia, Federated States of
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saba
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Eustatius
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Ar

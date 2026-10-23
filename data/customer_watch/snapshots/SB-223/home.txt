@@ -1,0 +1,549 @@
+# SB-223 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+GelecekBT Bilgi ve İletişim Teknolojileri
+E-Posta
+İletişim
+$ US Dollar
+Euro €
+Türk Lirası TL
+$ US Dollar
+0 ürün - $0,00 Alışveriş sepetiniz boş!
+MENU
+Anasayfa
++
+Markalar
++
+Çözümlerimiz Ağ Çözümleri ve Entegrasyon
+Görüntü ve Ses Sistemleri
+Endüstriyel Haberleşme Çözümleri
+Endüstri 4.0 Çözümleri
+CCTV Güvenlik Çözümleri
+RF Haberleşme Çözümleri
+BT Kablolama Çözümleri
+Veri Depolama Çözümleri
+Sunucu Çözümleri
+Sanallaştırma Çözümleri
+BT Güvenlik Çözümleri
+Teknik Bilgiler
++
+Kurumsal GelecekBT Hakkında
+İletişim Bilgileri
+Banka Hesap Bilgileri
+Müşteri Memnuniyet Anketi
+İnsan Kaynakları
+Referanslarımız
++
+Teknik Destek Teknik Şartnameler
+Teknik Çözümler
+Uygulama Dökümanları
+Teknik Eğitim
+Referanslarımız
+Garanti Sayfası
++
+Web Adreslerimiz Telkolink Kurumsal
+Ethernet Switch Merkezi
+SFP&GBIC Modül
+Test ve Ölçüm Cihazları
+Netkablo BT Kablolama
++
+Kategoriler
+Ethernet Switch
++
+Ethernet Switch
+Ethernet POE Switch
+Endüstriyel Switch
+Endüstriyel POE Switch
+Endüstriyel Omurga Switch
+Omurga Fiber Switch
+10Gigabit Switch
+Multirate Switch
+Ethernet SFP Modül
+POE Switch AI
+PD POE Switch
+SFP Modül
++
+800G
+100M SFP Modül
+1.25G SFP Modül
+2.5G SFP Modül
+10G SFP+ Modül
+10G XFP Modül
+25G SFP28 Modül
+40G QSFP Modül
+100G QSFP28 Modül
+200G QSFP56 Modül
+400G QSFP-DD Modül
+DAC/AOC/MPO Kablolar + MPO Fiber Optik Kablo
+DAC Kablo [10/25/40/100G]
+AOC Fiber Kablo
+Endüstriyel SFP
+HP Uyumlu SFP
+Bidi SFP Modül
+RJ45 SFP Modül
+Fiber Kanal SFP
+SDH STM SFP
+Transceivers
+CFP Modül
+GPON SFP
+Media Converter
++
+Fast Ethernet Çevirici
+Gigabit Ethernet Çevirici
+10G Ethernet Çevirici
+Endüstriyel Media Converter
+Fiber Mode Converter
+Media Converter Şasi
+Video - Fiber Çevirici
+Telefon - Fiber Çevirici
+HDMI - Fiber Çevirici
+Kuru Kontakt F/O Çevirici
+Canbus - Fiber Çevirici
+POE Media Converter
+Video & Audio Ürünleri
++
+USB Ürünleri + USB to RJ45
+USB AOC Fiber Kablo
+USB to Fiber
+Görüntü Sistemleri + HDMI Extender
+HDMI KVM Extender
+HDMI F/O Çevirici
+HDMI Matriks & Switch
+HDMI Kablosuz
+HDMI Splitter
+HDMI Video Wall
+HDMI Multiviewer
+HDMI Kablo + Hdmi 1.4 Kablo
+HDMI 2.0 Kablo
+HDMI 2.1 Kablo
+Hdmi Fiber Kablo
+Hdmi ve Sdi Encoder
+HDMI Sunucu
+Display Port
+HDMI Diğer Ürünler
+Ses Sistemleri + Audio - Fiber Çevirici
+Audio Video over IP
+Audio Kablolar
+Audio Cihazları
+VGA/DVI/SDI + VGA KVM Extender
+VGA KVM Switch
+SDI Fiber Converter
+SDI Video Kablosu
+DVI Fiber Converter
+VGA SDI DVI HDMI Kablo
+Digital Signage
+Video Konferans
+Wi-Fi & Wireless
++
+Wi-Fi Kablosuz Ağ + Indoor AP
+Ceiling AP
+Outdoor AP
+PTP/PTMP Bridge
+4G/5G Wireless CPE
+Anten ve Aksesuarlar
+4G/5G LTE VPN Router
+LoraWAN & IIoT
+Antenler
+Helium Lora Networks
+Mobil & GSM
+Superbox
+Endüstriyel Haberleşme
++
+Field Bus + EtherCAT
+Canbus
+Modbus
+Profibus/Profinet
+Bacnet Gateway
+M-Bus Gateway
+Otomasyon Switch + EN50155 Railway
+IEC 61850 Switch
+ITxPT Switch
+Profinet Switch
+TSN Switch
+PTP Switch
+Scada & PLC & RTU
+Edge Computing
+Kuru Kontakt F/O Çevirici
+Input & Output Modüller
+Endüstriyel IPC & HMI
+AI Edge Kameralar
+Elektronik Geliştirme
+Datacenter
++
+Datacenter Switch & SFP
+KVM Switch
+Akıllı IP PDU
+ATS
+Ortam İzleme Sistemleri
+Datacenter Interconnect - DCI
+Seri Haberleşme
++
+Seri Ethernet Sunucu
+Seri Fiber Optik Çevirici
+RS232/422/485 Çevirici
+Seri to Hücresel Ağ
+Seri TTL Çevirici
+Seri USB Converter
+IT & BT Kablolama
++
+Fiber Optik + Fiber Optik Kablo + F/O Kablo SM
+F/O Kablo MM OM1
+F/O Kablo MM OM2
+F/O Kablo MM OM3
+F/O Kablo MM OM4
+Fiber Zipcord
+FO Kablo MM OM5
+Fiber Armoured Zipcord
+Fiber OBK Kablo
+Fiber Sonlandırma Kutuları + Rack Tipi Patch Panel
+Duvar Tipi Patch Panel
+Ray Tipi F/O Kutu
+Arazi Tip Fiber Ek Kutusu
+Pivot Tipi Panel
+F/O Plastik Ek Kutusu
+Fiber Optik Patch Cord + FO Patch Kablo - SM
+FO Patch Kablo MM OM1
+FO Patch Kablo MM OM2
+FO Patch Kablo MM OM3
+FO Patch Kablo MM OM4
+Fiber Breakout Kablo
+FO Çelik Zırhlı P. Cord
+F/O G.657 Patch Cord
+Fiber Patch OM5
+MTP/MPO Fiber Kablolama + MPO Fiber Kablo PB
+MPO Fiber Kablo PA
+MPO Kaset ve Panel
+MPO to LC Breakout
+Fiber Optik Adaptör
+Fiber Konnektör
+Fiber Optik Pigtail
+Fiber Optik Splitter
+Çıplak Fiber Adaptörü
+Fiber Optik Attenuator
+Fiber Optik Priz
+F/O Temizleme Ürünleri
+Fiber E2000 Ürünler
+Fiber MTRJ Ürünler
+Fiber Kılavuz
+FTTH Kablolama
+FTTA Kablolama
+Polishing Zımpara
+POF Plastik Fiber
+ONET VELOCITY™
+DAS / DTS
+Yapısal Kablolama + Ağ Kablosu + Dahili Tip Ağ Kablosu
+Harici Tip Ağ Kablosu
+Stranded Ağ Kablosu
+SWA & SWB Ağ Kablosu
+Data Patch Cord + CAT6 Patch Cord
+CAT6A Patch Cord
+CAT7 Patch Kablo
+CAT8 Patch Cord
+Special Patch Cord
+Çelik Zırhlı Patch Cord
+Data Patch Panel + Dolu Patch Panel
+Modüler Patch Panel
+RJ45 to RJ45 Panel
+RJ45 Keystone Jack
+RJ45 Konnektör - Plug
+RJ45 Data Prizi
+Din Rail RJ45
+CAT8 Kablolama
+M12 Patch & Konnektör + M12 Konnektör
+M12 Patch Kablo
+Onet Magnus
+RJ45 / RJ45 Adaptör
+Panel Mount
+Koaksiyel Kablolama + LMR Serisi Kablolama
+MIL-C-17 Koaksiyel Kablo
+BNC Panel & Patch Cord
+Konnektör & Adaptör
+Koaksiyel Patch Kablo
+RG Serisi Kablolar
+Microwave RF Ürünleri
+Semi Rigid Kablo
+RF Haberleşme + RF Kablo
+RF Jumper
+RF Konnektör & Adaptör
+RF Ürünler
+Telsiz Çözümleri
+Telefon Kablolama + Reglet & Modül
+Reglet Çatısı
+Telefon Kutuları
+Test Kordonu & Camper
+Telefon Patch Panel
+El Aletleri + Kablo Etiketleme
+Fiber El Aletleri
+Bakır Kablolama El Aletleri
+Waterproof Konnektörler
+Rack Kabinet + Kabinet Aksesuar
+Duvar Tipi Kabinet
+Dikili Tip Kabinet
+SOHO Kabinet
+Outdoor Kabinet
+Test & Ölçüm Cihazları
++
+Fiber Ek Cihazları
+OTDR Test Cihazları
+OTDR Tampon Kablosu
+F/O Test Cihazları + Fiber Işık Test Cihazları
+Fiber Optik Güç Ölçer
+Fiber Optik Light Source
+Fiber Optik İdentifier
+Ayarlanabilir Atennuator
+Ağ Test Cihazları
+Telekom Test Cihazları
+CCTV Test Cihazları
+RF Test Cihazları
+Telekomünikasyon
++
+CWDM / DWDM
+PRI / Fiber Optik Çevirici
+Ethernet to E1 Çevirici
+PRI / V.35 Çevirici
+Telekom Test Cihazları
+SDH Sistemleri
+DSL Ürünler
+DDF Ürünleri
+CCTV Güvenlik
++
+Analog F/O Çevirici
+PoE Enjektörler
+POE Extender
+Ethernet Extender
+Kameralar + IP Kameralar
+Termal Kameralar
+Kayıt Cihazları
+Güvenlik Diski
+CCTV Monitör
+CCTV Diğer Ürünler
+EOC Ethernet to Koaksiyel
+Otomasyon Sistemleri
++
+Haberleşme Arayüzleri
+Bina Otomasyonu
+Akıllı Sensörler
+Remote Kontrol
+Datalogger
+Endüstri 4.0 - IoT
+Otomasyon ve Kontrol Kabloları
+Sunucu & Server
++
+Fiber Kanal SFP
+KVM Switch
+Sunucular
+PCIe Fiber Kartlar
+Sunucu Aksesuarları
+İş İstasyonu
+AI Server
+Sunucu Bellekleri
+Veri Depolama
++
+NAS / SAN
+Veri Depolama Diski
+Güvenlik Harddisk
+Bulut Depolama
+Ağ Güvenliği
++
+Firewall
+Ağ Analizi
+DLP - Veri Yedekleme ve Kurtarma
+Kurumsal Antivirüs
+Ağ Ürünleri
++
+Load Balancer
+NTP/PTP
+Router & Modem
+Ağ Çevre Birimleri
+Enerji / Elektrik
++
+AC/DC Çevirici
+DC/AC Çevirici
+DC/DC Çevirici
+Akü Şarj Cihazı
+PDU Grup Priz
+Bürotik Priz
+Power Güç Kablosu
+Güç Adaptörleri
+Metal Kasa Güç Kaynağı
+KGK (UPS)
+Enerji Kabloları
+Topraklama Sistemleri
+Elektrik Malzemeleri
+Elektrik Ölçü ve Test
+IP68 Bağlantı
+LED Driver
+Yıldırım Koruma
++
+Ethernet Surge Arrester
+Seri Surge Arrester
+Koaksiyel & RF Surge Arrester
+Telefon ve DSL Surge Arrester
+Santral & PBX
++
+Analog Telefon F/O Çevirci
+IP PBX Santral
+IP Telefon
+VoIP Gateway
+Bilgisayar ve Çevre Birimleri
++
+VGA
+PCI Kart
+Hard Disk
+Centronics Konnektör
+RS232
+Monitör
+Projeksiyon Cihazları
+Teknik Egitim & Çözümler
++
+Teknik Eğitim
+Teknik Uygulamalar
+Zayıf Akım
++
+TV Yayın Sistemi + IP TV
+Canlı Yayın Sistemi
+Uydu ve Kablolu TV
+Yangın İhbar + Adresli Yangın Algılama
+Konvansiyonel Yangın Alarm
+Dedektörler
+Haberleşme Sistemleri
+Butonlar
+Geçiş Kontrol + Parmak İzi Okuyucular
+Yüz Okuma Sistemi
+Kartlı Geçiş Sistemleri
+Plaka Tanıma Sistemi
+Bariyer Sistemleri
+Diğer Ürünler
+Ağ Cihazları
+SFP Modül
+HDMI Ürünler
+Media Converter
+Fiber Optik
+CCTV
+Seri Ethernet
+Test & Ölçüm
+Otomasyon
+Ek Cihazı
+CLR Networks
+POE Switch
+ONET
+10G SFP+ Modül
+Ağ Güvenliği
+Fieldbus
+Son Eklenenler
+İletişime Geçiniz
+Aşırı Gerilim Koruma Cihazı DT-TELE-SHDSL @ 2801593
+Phoenix Contact 2801593 DT-TELE-SHDSL Aşırı Gerilim Koruma Cihazı İki SHDSL..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+CLR-DCF-C16 @ 16 Port Kuru Kontak Fiber Optik Çevirici Set
+CLR-DCF-C16 16 Port Kuru Kontak Singlemode Fiber Optik Çevirici Set ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+Aşırı Gerilim Koruma Cihazı DT-TELE-RJ45 @ 2882925
+Phoenix Contact DT-TELE-RJ45 Aşırı Gerilim Koruma Cihazı, 2882925 Analog ve d..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+Ethernet Switch 28 Port Web Smart Managed @ DES-1210-28/C1A
+DES-1210-28/C1A @ Dlink Web Smart Ethernet Switch24 Port 10/100M RJ45 + 2 Port 10..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+4G LTE IoT Wireless Router 2 port 10/100M RJ45 CLR-CNS-L506
+CLR-CNS-L506 @ 4G LTE M2M Router Yüksek Hızlı 3G 4G Ağ CLR-CNS-L506 dahili etherne..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+M12 Endüstriyel Switch 5 Port Gigabit Car Industrial @ CLR-RWS-6505G
+CLR-RWS-6505G @ 5 port 10/100/1000Base-T M12 Railway Endüstriyel ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+J9151E @ Aruba 10G SFP+ LC LR 10km SMF
+Aruba J9151E 10 Gigabit SFP+ Transceiver Modül 10GBase-LR, SMF, 10km A..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+Endüstriyel Gigabit SFP Modül 1000Base-LX SM 1310nm 10km AT-SPLX10/I
+Allied Telesis AT-SPLX10/I Endüstriyel Gigabit SFP Modül 1000Base-LX LC Duplex S..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+CLR-CFP-SR10C 100GE/OTN CFP SR10 850nm MPO24 Multimode 400m
+CLR-CFP-SR10C 100GE/OTN CFP Modül SR10 MPO24 Multi-Mode MMF 850nm 400Mt..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+ON-MPO-FB425C @ MPO Breakout Fiber OM4 8-Core 4*LC Duplex 25m
+ON-MPO-FB425C 40/100/200Gbps Multimode OM4 8-Core MPO 4*LC Duplex Breakout ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-GES-B40A @ Tek Core BiDi SFP Modül 1000Base-BX LC Simplex SM 40km
+CLR-GES-B40A Gigabit Bidi SFP Transceiver Modül 1000Base-BX 40km [TX: 1310n..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+R9D18A @ Aruba Instant On 10G SFP+ LC SR 300m OM3 MMF XCVR Modül
+R9D18A 10 Gigabit SFP+ Transceiver Modül 10GBase-SR MMF 300m [Aruba In..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver)
+ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver) ATEN VE8662 modeli, p..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+4Kx2K HDMI 2.0 Extender Lokal HDMI Çıkışlı Kaskat Bağlantı CLR-HDMI-E606
+CLR-HDMI-E606 # 4K@60Hz HDMI2.0 Cat6 Extender Seti 60 Metre, Lokal Loop IR uzaktan kumanda..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+HDMI Cat6 Mesafe Uzatıcı 50Metre CM196
+CM196 Ugreen HDMI Cat6 Extender 50metre 1080P Cat5 ve cat6 bakır ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L20R @ HDMI TCPIP Extender 200m Receiver
+CLR-HDMI-L20R # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı 200m Receiver (RX) C..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+Kablosuz Hdmi Görüntü Aktarıcı 200Metre CLR-WHD-K1201
+CLR-WHD-K1201 Kablosuz HDMI Görüntü Aktarıcı [Wireless HDMI KVM Extender] 1..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L11 @ HDMI 4K*2K 30Hz Cat6 Mesafe Uzatma Seti 70m
+CLR-HDMI-L11 # 4Kx2K@30Hz HDMI Cat6 Extender 70m, IR uzaktan kumanda, SET&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-MCF-10 @ Fast Ethernet Fiber Optik Media Converter SC MM
+CLR-MCF-10 1 Port Fast Ethernet Fiber Optik Media Çevirici/Dönüştür&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-MCR-1401 @ Media Converter Rack 19" 2U 14-Slot Dual AC Power
+CLR-MCR-1401 # Media Converter Rack 19" 2U 14-Slot Dual AC Power 14 ad..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-FXS/FXO-160SF @ 16 Hat Analog Telefon Fiber Optik Çevirici
+CLR-FXS/FXO-160SF # 16 Hat Analog Telefon Fiber Optik Çevirici, Single Fiber, ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-CAN-F11 CAN Bus Fiber Opt

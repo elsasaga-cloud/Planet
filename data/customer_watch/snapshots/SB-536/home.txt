@@ -1,0 +1,81 @@
+# SB-536 highlink.co.kr · home · https://www.highlink.co.kr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+산업용무선 | 하이링크 | 대한민국
+top of page
+솔루션
+제품
+네트워크 구성
+견적/기술 문의
+회사소개
+더보기
+Use tab to navigate through the menu items.
+​ 산업용 유무선 네트워크 전문 기업 하이링크
+주식회사 하이링크는 지속적 제품 개발과 생산, 분야별 전문가 파트너 협력
+​안정적인 고객지원으로 유무선 네트워크 융합을 선도합니다.
+1/5
+산업용 무선
+유선랜 네트워크
+시리얼 통신
+I/O 데이터
+산업용 USB
+고객 맞춤 펌웨어 개발
+Best Products
+산업용 이중 무선랜 AP / CPE
+​모델명 : DIVA-IAP-AX
+​동작모드 : Access Point, Client, 802.11s Mesh
+무선 규격 : IEEE802.11a/b/g/n/ac/ax WiFi
+유선랜 인터페이스 : 기가비트 이더넷 2포트
+입력 전원 : IEEE802.3at/af PoE, 12/24V DC
+35mm 딘레일, 벽면 장착 ​​ ​ ​​
+장거리 무선랜 AP / CPE
+​모델명 : DIVA-AXP
+무선 규격 : IEEE802.11a/b/g/n/ac/ax WiFi
+​안테나 : 10/14dBi 고성능 지향성 일체형
+유선랜 인터페이스 : 기가비트 이더넷 2포트
+입력 전원 : IEEE802.3at/af PoE
+IP66 방수/방진​ 케이스 ​​ ​ ​​
+무선랜 로밍 클라이언트
+​모델명 : DIVA-WRM, DIVA-WRM2
+​RSSI / SNR 로밍 설정
+무선 규격 : IEEE802.11a/b/g/n/ac WiFi
+유선랜 인터페이스 : 2포트
+시리얼 : RS232 1포트, RS422/485 1포트
+입력 전원 : 12/24V DC
+장거리 RF 모뎀
+​모델명 : DIVA-RIO-DI4DO4
+무선 규격 : 424/447MHz RF
+유선랜 인터페이스 : 1포트
+시리얼 : RS232/422/485 1포트
+NPN/PNP 디지털 입력 4채널
+Open Collector 디지털 출력 4채널
+산업용 기가비트 이더넷 스위치
+​모델명 : DIVA-IS0516K, DIVA-IS0508K
+유선랜 : 기가비트 이더넷 5/8/16 포트
+입력 전원 : 12-48V DC
+35mm 딘레일
+동작 환경 : -40 ~ +75 ℃
+​콤팩트 사이즈 ​​ ​ ​​
+산업용 PoE 인젝터
+​모델명 : DIVA-IPoEI, DIVA-IPoEI++
+유선랜 : 기가비트 이더넷 2 포트
+802.3af/at/bt 48VDC PoE 출력
+입력 전원 : 12-48V DC
+35mm 딘레일
+동작 환경 : -40 ~ +80 ℃
+시리얼 광 컨버터
+​모델명 : DIVA-MS-SM, DIVA-MS-MM
+광 : 싱글/멀티모드 (WDM 지원)
+시리얼 : RS232/422/485 1포트
+입력 전원 : 9-40V DC
+모드버스 게이트웨이
+​모델명 : DIVA-IDS, DIVA-IO-DI4DO4
+유선랜 : 2 포트
+시리얼 : RS232 1포트 RS422/485 1포트
+​최대 16개 시리얼 포트 확장 가능
+입력 전원 : 9-30V DC
+동작 환경 : -40 ~ +85 ℃
+​맞춤형 펌웨어 제작 지원
+TRXmall
+( 16954 ) 경기도 용인시 기흥구 흥덕1로 13 흥덕아이티밸리 콤플렉스동 516호 support@highlink.co.kr TEL. 031 8065 6994
+COPYRIGHT ⓒ 2021 (주)하이링크 Co., LTD ALL RIGHTS RESERVED.
+HIGH LINK
+bottom of page

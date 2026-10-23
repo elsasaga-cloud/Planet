@@ -1,0 +1,145 @@
+# SB-939 fiberworks.no · home · https://www.fiberworks.no/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Hjem - Fiberworks
+1002001
+/search
+FiberworksD4_V2
+Oppdaterer, vennligst vent...
+0">
+Produkter
+0">
+Totalt antall treff:
+Se hele resultatet...
+Kategorier
+Merker
+Merkenavn
+0 && ! ShowArticlesRHS()">
+Artikler
+Antall artikler funnet:
+0">
+Produkter
+Varenr:
+Pris
+0">
+AI svar:
+Tilbehør
+Alternativer
+Artikler
+Antall artikler funnet:
+Kundesenter
+Kontakt oss
+Bli kunde
+Logg inn
+-1 && isVisible())" style="display: none;">
+0 }">
+0, text: favoriteCount()">
+0 }">
+= 0, css: { 'cart-small-has-item': cartItems().length > 0 }, popover: { html: true, titleid: 'small-cart-title', contentid: 'small-cart-content', contentClass: 'cart-small-popover' + (OrderbookActive ? ' cart-small-orderbook' : '') }"
+style="display: none; border: none;">
+Ingen varer i handlevognen
+Ingen varer i ordreboka
+0), text: cartName" style="display: none;">
+0 && isVisible())" style="display: none;">
+produkt
+1 && isVisible())">
+produkter
+( )
+0, css: { 'cart-small-togle-open': popoverOpen() }" style="display: none;">
+0 && showGoToCheckout " style="display: none;">
+Til kassen
+0 && !showGoToCheckout" style="display: none;">
+Til kassen
+×
+0" class="btn-group" role="group" aria-label="...">
+Aktiv leveringsdato
+Leveringsdatoer
+Ordre oversikt
+Handlevogn
+0 && !showOrderbookSummary()" style="display: none;">
+varer i handlevognen
+0, text: displayDate ">
+0">
+0 && numberOfItemsToShow() > 0 && cartItems().length > numberOfItemsToShow())">
+Klikk her for å se alle
+Handlevognen er tom.
+Priser inkl. mva.
+Veil.
+Skjul Netto
+0" style="display: none;">
+Totalt eks. mva
+Eller kjøp nå for
+0), text: summarySumAfterCostReductionsIncVat">
+Totalt eks. mva
+Totalt ink. mva
+0), text: summarySumAfterCostReductionsIncVat">
+0)">
+Eller leasing for
+0), css: {'btn-primary' : !showGoToCheckout, 'btn-default': showGoToCheckout}">
+Til handlevogn
+0 && OrderbookDate() != null && OrderbookDate().length > 0, text: displayDate">
+0)">
+Til kassen
+0 && OrderbookDate() != null && OrderbookDate().length > 0, text: displayDate">
+Søk
+Datasheet
++47 23 03 53 30
+salg@fiberworks.no
+Hentepunkt og lager
+Eikenga 11
+0579 Oslo
+Åpent alle hverdager
+–
+Hold deg oppdatert på fremtidens nettverksløsninger
+Eksklusive artikler, produktnyheter og innsikt i fiberoptisk teknologi fra fagekspertene – rett i innboksen.
+Meld deg på nyhetsbrev →
+Nettbutikk
+Transceivere
+Multipleksere
+MPO/MTP
+Fibersnor
+Aktivt utstyr
+TAPs og splittere
+Paneler/skap
+Komponenter
+Blåsemaskiner
+Instrumenter
+Verktøy
+Lagersalg
+Se alle produkter
+Tjenester
+Kurs
+Testlab
+Klimakammer
+Service
+Nettverksanalyse
+Fiberanalyse WDM
+Løsninger
+Datasenter
+Offshore
+Enterprise
+Infrastruktur
+Helse
+Forsvar
+Fiberworks AS
+Org. nr. 959 977 046
+Om oss
+Kontakt oss
+Registrer konto
+Kundesenter
+Kvalitet og miljø
+Åpenhetsloven
+Personvern
+Betingelser
+ISO-sertifisering
+Fiberworks er sertifisert i henhold til ISO 9001:2015 for kvalitet og ISO 14001:2015 for miljøstyring.
+Les mer om kvalitet og miljø →
++47 23 03 53 30
+sales@fiberworks.no
+Copyright © 2026 Fiberworks - All rights reserved
+Forretningssystem og nettbutikkløsning levert av Multicase™ Norge AS
+Filter
+Logg inn / Ny kunde
+Registrer meg som kunde
+Kundesenter
+Kontakt oss
+Bli kunde
+Tilbake

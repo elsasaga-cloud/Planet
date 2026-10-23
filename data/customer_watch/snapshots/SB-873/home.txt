@@ -1,0 +1,292 @@
+# SB-873 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Prekes viSar
+.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
+Show all results
+lietuvių
+english
+Registracija Prisijungti My Account
+Registracija
+Prisijungti
+.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
+Show all results
+Nauji Produktai
+IP Vaizdo Stebėjimo Sistemos
+HD Vaizdo Stebėjimo Sistemos
+Tinklo Komutatoriai
+Priedai
+Pagalba
+IP Vaizdo Stebėjimo Sistemos IP Kameros Tinkliniai Įrašymo Įrenginiai (NVR) Įeigos Kontrolė
+HD Vaizdo Stebėjimo Sistemos HD Kameros HD Vaizdo Įrašymo Įrenginiai (AHD)
+Tinklo Komutatoriai Komutatoriai POE Tinklo Komutatoriai Pramoniniai POE Tinklo Komutatoriai Priedai
+Priedai Kietieji Diskai Laikikliai, Komutacinės Dėžutės Kabeliai Klaviatūros, Valdymo Svirtys Monitoriai
+Pagalba Parsisiųsti Atitikties deklaracija
+Specialūs pasiūlymai
+VSC IPT8PNDe3b-ALD - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P, Juoda
+VSC-IPT8PNDE3B-ALD 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-AL - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P
+VSC-IPT8PNDE3B-AL 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6LR, IP vaizdo kamera 6MP, 7-22mm, IR100, Objektų klasifikavimo funkcija, AI
+VSC-IPT6LR 353 .32 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+Nauji produktai
+Rodyti viska
+VSI ME1104WD, Pasikalbėjimo sistemos mini monitorius
+VSI-ME1104WD 168 .19 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSW KIT0404W1 WiFi vaizdo sistemos komplektas, 4CH WiFi NVR ir 4 vnt. 4MP 2.8mm WiFi IP kameros
+VSW-KIT0404W1 360 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSW KIT0804W1 WiFi vaizdo sistemos komplektas, 8CH WiFi NVR ir 4 vnt. 4MP 2.8mm WiFi IP kameros
+VSW-KIT0804W1 384 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04POE2 4*FE PoE+2*FE PoE komutatorius
+VSS-W04POE2 50 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08POE2G 8*FE+2GE PoE komutatorius
+VSS-W08POE2G 107 .69 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08POE2 8*FE+2FE PoE komutatorius
+VSS-W08POE2 71 .39 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI MA108S1 IP telefonspynė 2MP, 1-8 abonentų, LAN, Wifi, RFID
+VSI-MA108S1 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4GDs4lF28D IP vaizdo kamera 4MP, 2.8mm, IR 30m, skaidrus gaubtas, Juoda
+VSC-IPT4GDs4lF28D 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4GDs4lF28 IP vaizdo kamera 4MP, 2.8mm, IR 30m, skaidrus gaubtas
+VSC-IPT4GDs4lF28 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-ALD - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P, Juoda
+VSC-IPT8PNDE3B-ALD 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04POE1 4*FE PoE+1*FE PoE komutatorius
+VSS-W04POE1 54 .45 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cMZ vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CMZ 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cMZD vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CMZD 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cMZ IP vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cMZ 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cMZD IP vaizdo kamera 8MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cMZD 312 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cF28D IP vaizdo kamera 8MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cF28D 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cF28D vaizdo kamera 8MP, 2.8mm, Dual light iki 30m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CF28D 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8PNDe3b-AL - IP vaizdo kamera 8MP, Panoraminė, Dual light iki 30m, Obj. klas. funkcija, Garso ir šviesos perspėjimas, P2P
+VSC-IPT8PNDE3B-AL 326 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8VDs4cF28 vaizdo kamera 8MP, 2.8mm, Dual light iki 30m, objektų klasifikavimo funkcija AI
+VSC-IPT8VDS4CF28 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI SE2223W Daugiaabonentinis domofonas
+VSI-SE2223W 457 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W24POE3G 24*FE PoE+2*GE+1*GF PoE komutatorius
+VSS-W24POE3G 240 .79 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W16POE3G 16*FE+2*GE+1*GF PoE komutatorius
+VSS-W16POE3G 216 .59 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08GPOE2 8*GE+2GE PoE komutatorius
+VSS-W08GPOE2 157 .30 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W04GPOE2 4*GE PoE+2*GE PoE komutatorius
+VSS-W04GPOE2 64 .13 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08G 8 portų 10/100/1000Mbps Gigabitinis tinklo komutatorius
+VSS-W08G 37 .51 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W08 8 Portų 10/100Mbps Tinklo komutatorius
+VSS-W08 18 .51 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W05G 5 portų 10/100/1000Mbps Gigabitinis tinklo komutatorius
+VSS-W05G 22 .87 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSS W05 5 Portų 10/100Mbps Tinklo komutatorius
+VSS-W05 14 .40 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDe4F28 (AI PRO) IP vaizdo kamera 6MP, 2.8mm, Dual light iki 30m, P2P
+VSC-IPT6VDe4F28 263 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLe4F28 (AI PRO) IP vaizdo kamera 6MP, 2.8mm, Dual light iki 50m, P2P
+VSC-IPT6BLe4F28 263 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4CWF21 IP vaizdo kamera 4MP, 2.1mm, IR10, Cube, P2P, WiFi
+VSC-IPT4CWF21 119 .79 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSTh IPT5VDe1vF4 IP Šiluminė kamera 5MP
+VSTh-IPT5VDe1vF4 868 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8BLs4cF28 IP vaizdo kamera 8MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2
+VSC-IPT8BLs4cF28 239 .58 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI ME2137WD Vaizdo telefonspynės monitorius Juodas
+VSI-ME2137WD 241 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSTh IPT5BLe1vF4 IP Šiluminė kamera 5MP
+VSTh-IPT5BLe1vF4 868 .78 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT8SD32IR200 8MP Valdoma IP kamera, x32, IR200, AI funkcijos
+VSC-IPT8SD32IR200 1 398 .76 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI DB1 Komutacinė dėžutė, stogelis skirtas VSI E3110
+VSI-DB1 11 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI ME2137W Vaizdo telefonspynės monitorius Baltas
+VSI-ME2137W 241 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSM 65IND4K, Pramoninis 4K 65" LCD CCTV monitorius
+VSM-65IND4K 2 359 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSI-E3110 Iškvietimo modulis
+VSI-E3110 191 .18 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+Populiarūs produktai
+Rodyti viska
+VSC-IPT4VD-BSF28 IP vaizdo kamera 4MP, 2.8mm, Dual Light iki 50m, LIght explorer
+VSC-IPT4VD-BSF28 181 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC-IPT4BL-BSF28 IP vaizdo kamera 4MP, 2.8mm, Dual Light iki 50m, LIght explorer
+VSC-IPT4BL-BSF28 181 .50 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSL ANPRbh2MZ, 2MP Automobilių numerių atpažinimo ANPR kamera su motorizuotu objektyvu
+VSL-ANPR2bhMZ 727 .21 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cMZD IP vaizdo kamera 6MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkc. P2P
+VSC-IPT6BLs4cMZD 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BLs4cF28D IP vaizdo kamera 4MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT4BLs4cF28D 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VDs4cF28D IP vaizdo kamera 4MP, 2.8mm, Dual light iki 50m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT4VDs4cF28D 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT2VDs4cF28 IP vaizdo kamera 2MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkcija, P2P
+VSC-IPT2vds4cF28 84 .70 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VD-ALMZD IP vaizdo kamera 6MP, Motor zoom, Dual light iki 50m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P, Juoda
+VSC-IPT6VD-ALMZD 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VD-ALMZ IP vaizdo kamera 6MP, Motor zoom, Dual light iki 50m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P
+VSC-IPT6VD-ALMZ 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDs4cMZD IP vaizdo kamera 6MP, Motor zoom, Dual Light iki 50m, Objektų klasifikavimo funkcija, P2P, Juoda
+VSC-IPT6VDs4cMZD 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6VDs4cMZ IP vaizdo kamera 6MP, Motor zoom, Dual Light iki 50m, Objektų klasifikavimo funkcija, P2P
+VSC-IPT6VDS4CMZ 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BL-ALMZD IP Video Camera 6MP, Motor zoom, Dual light up to 40m, Object Classification, Light and Sound Alert, P2P, Black
+VSC-IPT6BL-ALMZD 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VD-ALF28D IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas, Juoda
+VSC-IPT4VD-ALF28D 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BL-ALF28D IP kamera 4 MP, 2,8 mm, dviguba šviesa, mirksinčios įspėjamosios lemputės, juoda
+VSC-IPT4BL-ALF28D 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BL-ALMZ IP vaizdo kamera 6MP, Motor zoom, Dual light iki 40m, Objektų klasifikavimo funkcija, šviesos ir garso perspėjimas, P2P
+VSC-IPT6BL-ALMZ 234 .74 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BL-ALF28 IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas
+VSC-IPT4BL-ALF28 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VD-ALF28 IP vaizdo kamera 4MP, 2.8mm, Dual light, šviesos ir garso perspėjimas
+VSC-IPT4VD-ALF28 215 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cF28D IP vaizdo kamera 6MP, 2.8mm, Dual light 30m
+VSC-IPT6BLs4cF28D 166 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cF28 IP vaizdo kamera 6MP, 2.8mm, Dual light 30m
+VSC-IPT6BLs4cF28 166 .98 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT2BLPF28 IP vaizdo kamera 2MP, 2.8mm, Dual light 20m, Plastikas
+VSC-IPT2BLPF28 62 .92 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4VDs4cF28 IP vaizdo kamera 4MP, 2.8mm, Dual light iki 30m, Objektų klasifikavimo funkc., P2P
+VSC-IPT4VDs4cF28 130 .68 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT6BLs4cMZ IP vaizdo kamera 6MP, 2.8-12mm, Dual light iki 50m, Objektų klasifikavimo funkc. P2P
+VSC-IPT6BLs4cMZ 220 .22 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC IPT4BLDLF28D IP vaizdo kamera 4MP, 2.8mm, Dual Light 30m, Black
+VSC-IPT4BLDLF28D 94 .38 € /vnt.
+pridėti į pasirinktus
+Pridėti į krepšelį
+VSC

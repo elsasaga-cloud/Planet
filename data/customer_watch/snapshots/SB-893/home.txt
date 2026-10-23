@@ -1,0 +1,81 @@
+# SB-893 bm-switch.com · home · https://bm-switch.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+All about bare metal switches – Bare metal switches, networking software, optics.
+Skip to content
+Shop
+Blog
+Company
+Close Company
+Open Company
+Contact Us
+About Us
+Policies
+Sign In
+$ 0.00
+0
+Cart
+BM-switch.com is dedicated to delivering the open economy model to networking worlds. We believe that disaggregation of traditional enterprise networking into bare metal switching (BMS, also known as a white-box switch) hardware with preloaded Open Network Install Environment (ONIE) and HW-agnostic network OS (NOS) enable users to build new systems that are more flexible, more scalable, and more efficient.
+An open economy with transparent pricing decrease OPEX/CAPEX and break free from vendor lock-in.
+A significant part of these efforts is providing a stable, feature-rich NOS with open source code, and the industry choice here is SONiC – Software for Open Networking in the Cloud. Widely supported, with a strong roadmap, and working on multiple ASICs because of SAI adoption, it’s a natural choice for many applications.
+We aim to provide accurate product information, availability and ensure your orders are fulfilled as quickly and efficiently as possible.
+How to Run Custom Code on Broadcom-based Switches Using SONiC
+January 20, 2026
+Read More »
+Intel Tofino EOL
+July 7, 2025
+Read More »
+Promo for Marvell Teralynx systems
+October 21, 2024
+Read More »
+How to start developing custom apps on Broadcom Trident-based switches?
+July 3, 2024
+Read More »
+Contact us at sales@bm-switch.com
+Company
+Contact Us
+About Us
+Shipping and Delivery
+Payment Options
+Quick Links
+Blog
+Site Map
+Copyright © 2015-2026 bm-switch.com by Netberg
+Please login to your account here.
+Username or Email Address
+Password
+Remember Me
+Forgot Password?
+Log In
+Register Now
+Verify Your Email
+We have sent a 6-digit verification code to your email. Please enter it below to continue.
+Verify
+Resend Code
+Create an account to track your orders.
+Username
+Email
+Password
+Register
+Sign In
+Verify Your Email
+We have sent a 6-digit verification code to your email. Please enter it below to continue.
+Verify
+Resend Code
+Username or Email Address
+Reset Password
+Sign In
+PayPal Information
+To pay with PayPal, select PayPal as your payment method at Checkout. You will be redirected to the PayPal payment page, where you can log in with your PayPal username and password and confirm your payment. This method also allows payments without a PayPal account. You can enter your credit card information and pay safely via PayPal.
+Our PayPal account is paypal@netbergtw.com .
+Wire Transfer Information
+When placing the order, select Bank Transfer on the Checkout page, and you will see our bank account information.
+After you pay with a bank transfer, please send the bank slip to your account manager for tracking.
+Bank:
+E.Sun Commercial Bank, Ltd., Taipei, Taiwan
+Bank Address:
+No. 66-1, Sanchong Rd. Nangang District, 115, Taipei.
+Account name:
+Netberg Ltd.
+Account number:
+1182441011646
+SWIFT:
+ESUNTWTP

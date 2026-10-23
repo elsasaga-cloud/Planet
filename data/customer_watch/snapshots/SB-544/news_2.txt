@@ -1,0 +1,104 @@
+# SB-544 lanopia.de · news_2 · https://www.lanopia.de/news/omnitron-spoe-switches/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Lanopia - LAN und WAN Netzwerk Lösungen - Omnitron SPoE Switches
+Navigation aufklappen/zuklappen
+Startseite
+Company Philosophie
+Partners
+Location
+News Omnitron SPoE Switches
+Products Media Converter iConverter Management
+iConverter Network Interface Devices (NID)
+iConverter Copper UTP to Fiber
+iConverter Serielle Konverter
+iConverter Fiber to Fiber
+iConverter Coax to Fiber
+iConverter 4-Port Copper Switch
+iConverter CWDM Transponder
+1-Modul Industrial Chassis
+iConverter Chassis Optionen
+iConverter Managed Media Converter
+FlexPoint Unmanaged Media Converter
+FlexPoint Copper UTP to Fiber
+FlexPoint Serielle Konverter
+FlexPoint Fiber to Fiber
+FlexPoint Coax to Fiber
+FlexPoint Chassis Mounting Options
+miConverter Unmanaged Media Converter
+PoE / PoE+/PoE++ PoE / PoE+/PSE Media Converter
+PoE / PoE+ Fiber Switches
+SPE Ethernet
+Industrial Switche Industrial PoE PSE Fiber Switches
+Industrial PoE Copper Extenders
+Industrial Ethernet Switches
+Ethernet Switch Modules
+Flex Compact Switches
+Ethernet Switches
+Industrial Power Supplies
+Protocol Converter Ethernet über E1
+V.35 über E1
+TDM über IP
+Multiplexer CWDM Multiplexer
+DWDM Multiplexer
+T1/E1 Multiplexer
+SDH Multiplexer
+PDH Multiplexer
+PCM Multiplexer
+Optical Transceiver
+Service AGBs
+Order Info
+Price Request
+Garantie
+RMAs
+Support Product Catalog
+Application Notes
+White Papers
+Downloads
+Links
+Contact
+Impressum
+Startseite
+Company
+News
+Products
+Service
+Support
+Contact
+Impressum
+Omnitron Launches SPoE Ethernet Switches
+Omnitron a US manufacturer of innovative network solutions, announced the launch of compact Single Pair Power over
+Ethernet (SPoE) switches and injectors that extend Ethernet and PoE up to 1,000 meters over 2-Wire Single Pair Ethernet Cable.
+Omnitron Systems continues to design and develop end to end connectivity solutions for the video surveillance, building
+automation and industrial automation markets by launching a series of complimentary Single Pair Ethernet products that enables customers to bridge Information Technology (IT) and Operational
+technology (OT) networks - the basis for Industry 4.0 and IIoT.
+The OmniConverter® GLPoE/Sx and RuggedNet® GLPoE/Si IEEE 802.3cg-compliant 10BASE-T1L switches connect the field/edge
+IoT/IIoT devices to the cloud seamlessly. The products feature four single pair Ethernet ports that can send both data and power to end devices referred as Power Over Data Line (PoDL) or Single pair
+Power Over Ethernet (SPoE). The SPoE switches are capable of powering powered devices (PDs) ranging from 30VDC class 10 - 12 up to 12.6W and 58VDC class 13 - 15 up to 79W. They also include two
+uplink ports – choose between 10/100/1000 RJ-45 or 100/1000 fiber SFP to ensure versatile connectivity options. The dual uplink ports provide redundancy for point-to-point and ring network protection
+with restoration and automatic failover capabilities.
+“Omnitron’s SPE/SPoE switch introduction enables customers to interface directly with 10T1L single-pair Ethernet IoT
+& IIoT edge devices. Pairing with Omnitron’s SPE/SPoE 10T1L Media Converter makes the connection seamless to any standards-compliant four-pair Ethernet device. Omnitron’s Single Pair Ethernet
+family of products brings new levels of flexibility and efficiency to industrial and enterprise networking,” said Sankar Ramachandran, VP of engineering and product management.
+Key Features and Benefits:
+IEEE 802.3cg SPoE Layer 2 Switch – Provides seamless IT and OT integration for
+industrial networks upgrades and digitalization
+Dual Device Mode – Operates as two independent Ethernet switches for disparate
+network isolation deployments
+Directed Switch Mode – Prevents flooding of multicast traffic, ensuring optimized
+bandwidth usage
+Flexible Port Options –3-Pin SPE Terminal connectors or IEC 63171-2 SPE
+connectors
+Wide Operating Temperature Range – Designed for commercial (0º to 50ºC), wide
+(-40º to 60ºC), and extended (-40º to 75ºC) environments.
+Regulatory Compliance – TAA, BAA, and NDAA compliant, and Made in the USA
+The OmniConverter GLPoE/Sx and RuggedNet GLPoE/Si are now available for order.
+Omnitron SPoE Switches
+News
+New Product​
+SPE Ethernet OmniConverter® GLPoE/Sx
+Single Pair Power over Ethernet Switch
+Druckversion |
+Sitemap
+© © Lanopia GmbH
+Webansicht Mobile-Ansicht
+Logout |
+Seite bearbeiten

@@ -1,0 +1,81 @@
+# SB-1054 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-10-23T04:20:51Z · HTTP 200
+wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
+Open Navigation Search
+AirCloud
+Products
+AirCloud and Wireless
+Telecom XGPON and Cloud
+Enterprise Campus & Multiport Fiber Switch
+Enterprise L3 Switch
+PoE Switch
+10G Switch(NON POE)
+2.5G Switch(NON POE)
+Gigabit Switch (non PoE)
+Industrial Switch
+Industrial 5G / 4G Gateway
+Network Adapter and Accessories
+AirCam Surveillance Security
+AirCore AI AutoPilot AirSwitch PoE/Non-PoE
+Solutions
+Small Office/Home
+Enterprise
+Data Center
+News
+Product News
+Press Review and Award
+Event
+EDM
+Marketing
+Banner
+Catalogues & DM
+Product Photo
+Video
+Commercial Video
+Tutorial Video
+Download
+Document
+User Guide
+QIG
+Software
+About Us
+Company
+Trademark
+Warranty & RMA
+Privacy Policy
+Contact Us
+NEWS
+All
+Product News
+AirCore Platform Updates
+AirCore Windows Updates
+Press Review and Award
+Event
+EDM
+AirCore Windows 2.19.7
+2026/10/19
+AirCore Windows Updates
+2.19.7 ships two real-machine-reproduced fixes, plus the accumulated backlog of VN parity work that was already sitting on the shipping branch.
+Fixed
+- Clip Player could crash silently the first time it ever played a real clip with real detection da
+Social
+Facebook
+Youtube
+Instagram
+LatAm
+Phone : 886-2-8912-1060
+Mail : info@airlive.com
+Marketing
+Banner
+Catalogues & DM
+Product Photo
+Video
+Commercial Video
+Tutorial Video
+Sitemap
+About Us
+Company
+Warranty & RMA
+Privacy Policy
+Contact Us
+Copyright © 2026 AirLive Technology Corporation. All rights reserved. WebDesign - GRNET
+TOP

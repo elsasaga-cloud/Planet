@@ -1,0 +1,9 @@
+# SB-600 smartintercom.eu · feed_auto · https://smartintercom.eu/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Mon, 29 Jan 2018 13:35:16 +0000	Akuvox IT83R	https://smartintercom.eu/it83r/
+Mon, 29 Jan 2018 13:31:29 +0000	Akuvox R20A	https://smartintercom.eu/r20a/
+Mon, 29 Jan 2018 13:31:20 +0000	Akuvox C313S	https://smartintercom.eu/c313s/
+Mon, 29 Jan 2018 14:31:01 +0000	Akuvox R29C	https://smartintercom.eu/r29c/
+Mon, 29 Jan 2018 14:24:47 +0000	Akuvox R29S	https://smartintercom.eu/r29s/
+Mon, 29 Jan 2018 14:23:42 +0000	Akuvox R27A	https://smartintercom.eu/r27a/
+Mon, 29 Jan 2018 14:21:57 +0000	Last Shoot	https://smartintercom.eu/last-shoot/
+Mon, 29 Jan 2018 14:21:26 +0000	Last Day in Vegas	https://smartintercom.eu/last-day-in-vegas/

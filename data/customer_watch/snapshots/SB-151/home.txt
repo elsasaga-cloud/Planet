@@ -1,0 +1,296 @@
+# SB-151 microsens.com · home · https://www.microsens.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+MICROSENS - Home
+X
+Customer Satisfaction
+At MICROSENS, the satisfaction of our customers is our top priority. You will help us to become even better!
+Start now
+EN
+DE
+ES
+FR
+PL
+Login
+Englisch
+Deutsch
+Español
+Français
+Polski
+Company
+Company Get to know our company, learn more about our history and solution portfolio, find out about current events, news and press releases, study our publications.
+Company About MICROSENS
+Application Areas
+Sustainability - Compliance - Certificates
+Milestones
+Locations
+Career
+Customer satisfaction survey
+Press/Events Press Releases
+Events
+Publications Brochures / Catalogues
+White Paper
+Success Stories
+Application Notes
+Products
+Products Find the right product for every area. Individually applicable and state of the art.
+FTTO - Fiber To The Office 10G Micro Switches
+Micro Switches
+Medical Micro Switches
+Desktop Switches
+Multiport Converter
+FTTO Installation Accessories
+FTTO Power Supplies PoE+
+Industrial Solutions Industrial 10G Switches
+Profi Line G6 Switches
+Profi Line Switches
+Profi Line Converter
+Ruggedized Micro Switches G6
+Entry Line Switches
+Entry Line Converter / Bridges
+Entry Line PoE Injectors
+Entry Line Extender VDSL2
+Wi-Fi / 5G
+Outdoor Box IP67
+Industrial Power Supplies
+Enterprise 19" Switches
+Enterprise Desktop Switches
+Media Converter / Bridges
+PC Slot Converter
+Enterprise Wi-Fi
+Optical Transport MSP3000
+MSP1000
+MSP800 (Enterprise Access)
+Passive Multiplexer
+Smart Building Solutions Central Smart Lighting Controller
+Smart Lighting Controller
+Smart I/O Controller
+Automation
+IP500
+Transceiver FE Transceiver
+GbE Transceiver
+10G Transceiver
+xWDM Transceiver
+compatible Transceiver
+NMP Software NMP Professional
+NMP Enterprise
+NMP Web+
+Support / Service Services
+Product-specific service
+Solutions
+Solutions Fiber optic technology from MICROSENS offers application-specific solutions on different levels
+Applications Digital School
+PoE Lighting
+DC Lighting
+Building Automation
+Sensor technology
+Building Network
+Outdoor IP video network
+Outdoor Wifi Coverage
+Workplace Networking
+Metro Networks (MAN / WAN)
+Data Center Coupling
+Industrial Networks
+Business Sectors Public Sector
+Health & Care
+Research & Education
+Railway & Transport
+Public Utilities
+Banks & Insurance
+Airports
+Data Center
+Carrier
+Support
+Support Do you have questions that our website, data sheets or commissioning instructions could not answer?
+Support Support Request
+Service Level Agreements
+RMA Process
+Support Portal
+Training request
+Newsletter - TechNews
+Customer satisfaction survey
+Documentation Application Notes
+NMP Web+
+White Paper
+Brochures / Catalogues
+Downloads NMP
+Firmware
+Support Tools
+Smart Building Manager
+Smart Building Studio
+How to buy
+How to buy Would you like an offer tailored to your needs? Simply contact our sales team and we will be happy to send you an offer. Below you can find contact details of our respective sales managers.
+How to buy Request an offer
+Contact persons
+Contact formular
+Certificates & General Terms and Conditions
+Career
+Profi Line X
+Switches for maximum security with Layer 3, 10G, PoE++ and multi-gigabit ports
+Smart Sensor
+COLLECTING ENVIRONMENTAL DATA TO OPTIMISE ENERGY EFFICIENCY & WELLBEING IN BUILDINGS
+Smart Building Solutions
+IP-based building automation
+Enterprise Networks
+Optical Solutions for the modern building
+MICROSENS TechNews!
+Subscribe here!
+10G Micro Switch
+The Original - meaning high performance for efficient networks
+Industrial Ethernet
+High availability in harsh environments
+Optical Transport
+Flexible Connectivity
+SMART BUILDING SOLUTIONS
+IP-based building automation.
+ENTERPRISE NETWORKS
+Optical Solutions for the modern building
+INDUSTRIAL SOLUTIONS
+High availability in harsh environments
+OPTICAL TRANSPORT
+Flexible Connectivity
+HIGHLIGHTS
+Low Power Consumption SFP
+Micro Switch Variants
+Sensor Technology
+MICROSENS APPLICATIONS
+The selection of components suited to the respective application purpose takes place taking various criteria into
+consideration in order to create an ideal solution based on flexibility, future needs and cost optimisation.
+Outdoor WiFi Coverage
+Reliable communication and high-performance data exchange are the prerequisites for mobile applications. Whether Smartphone, IoT applications, Smart City or autonomous driving - they all require a comprehensive, seamless supply with high data rates. WiFi and 5G provide the necessary bandwidth. They need a powerful infrastructure to transmit the enormous amounts of data.
+The compact Ruggedized Micro Switches from MICROSENS are the ideal solution for the economical realisation of area-wide networks whose infrastructures do not justify the investment in Industrial Ethernet components, but do not get along with standard components. At the same time, they offer exactly the functions of Industrial Ethernet that are also required for WiFi coverage, star and ring topology, as well as decentralized intelligence for increased reliability. If the central connection fails, the Ruggedized Mirco Switch switches off the Power-over-Ethernet supply and thus the connected access point. In this way, the end devices can automatically connect to another access point and maintain communication. In connection with a central WiFi controller, only the access points are authenticated as network devices, then the entire data stream of the end devices is transmitted via tunneling and managed by the central WiFi controller. Complex, time-consuming authentication of each individual terminal device is no longer necessary.
+6-Port GbE Ruggedized Micro Switch G6 PoE+
+Product Brochure Ruggedized Micro Switch
+Reference Public WiFi Hamburg
+Medical Micro Switch
+High performance, reliable, secure
+With the Medical Switch, MICROSENS is setting new standards in terms of performance, reliability, and security for data networks in medical technology, hospitals, and medical practices. The device exceeds the strict stipulations in terms of electromagnetic compatibility, as well as the requirements of the Medical Products Law. The network accesses are decoupled galvanically by means of special insulators to protect patients and devices against fault currents from the network. For particularly high demands placed on network security in the medical environment, the Medical Switch off ers extensive security features, which make sure that confidential data will actually remain confidential. The Medical Switch builds on the proven, decentralised network architecture. The economic efficiency of this architecture has been established through independent surveys and numerous projects.
+Go To Medical Switches
+Product Brochure Medical Switch
+Reference Charité Berlin
+Robust network technology
+Network technology has become since indispensable in rail transportation, traffic control technology and in industrial environments long ago. Robust and reliable products from MICROSENS guarantee secure data transmission even under adverse conditions.
+The Ethernet ring technology developed by MICROSENS permits the setup of redundant ring structures in Ethernet networks. The ultra-fast protection mechanism provides short reaction time for mission critical and fail sensitive applications. The physical ring structure optimizes cabling demands and helps to save costs for optical cables.
+Go To Profi Line Switches
+Industrial Solutions Catalogue
+Success Story: Eurotunnel builds up a new IP network with MICROSENS industrial switches
+Building Network - Fiber To The Office
+Originally only used in the backbone area, fiber optics is now widely seen in the office and intranet area. The integration of data, telephony and video guarantees long-term investment security.
+The Fiber To The Office (FTTO) concept developed by MICROSENS enables such networks to be implemented in both a flexible and cost-effective manner.
+Under the name „Basic Fiber Optic Products” MICROSENS developed a product line of switches, converters, transceivers, adapter cards which fully complies with the market requirements regarding the pricing and the availability.
+Expert opinion confirms profitability of FTTO
+WIK-Consult, a leading telecommunications consulting company, carried out a cost comparison between a typical copper cabling system and FTTO in order to prove the economic efficiency. According to the report prepared by WIK-Consult, companies can save on average 30 percent of the costs for the IT building infrastructure by using FTTO. The study examined the acquisition and operating costs of various installation scenarios: Office environments in new and old buildings with 220 and 1040 workstations respectively. The detailed report contains over 30 pages of valuable information for planners and decision-makers. In addition to the investment costs for technology and installation, the running costs, such as for maintenance and care, as well as energy consumption, are also presented. We will be happy to send you the complete study on request. A Management Summary is available for free download on this website.
+Go To Micro Switches
+Product Brochure Micro Switch
+Reference The Bavarian Ministry of Culture
+MICROSENS PRODUCTS
+As an internationally successful manufacturer MICROSENS distributes its products worldwide. In addition to the company headquarters in Hamm, Westphalia, MICROSENS maintains sales offices in France and Poland in order to be able to optimally meet the differentiated requirements of its customers on site.
+NEWS
+10G Micro Switch
+FTTO in schools
+Smart Building Manager
+Contact Persons
+Contact Form
+YouTube
+LinkedIn
+Contact us
+Mail Telephone On-site
+Register with us
+Login request
+Company About MICROSENS
+Application Areas
+Sustainability - Compliance - Certificates
+Milestones
+Locations
+Career
+Customer satisfaction survey
+Publications Brochures / Catalogues
+White Paper
+Success Stories
+Application Notes
+Press/Events Press Releases
+Events
+Support Support Request
+Service Level Agreements
+RMA Process
+Support Portal
+Training request
+Newsletter - TechNews
+Customer satisfaction survey
+Downloads NMP
+Firmware
+Support Tools
+Smart Building Manager
+Smart Building Studio
+How to buy Request an offer
+Contact persons
+Contact formular
+Certificates & General Terms and Conditions
+© 2025 MICROSENS. All rights reserved.
+Imprint
+Privacy Policy
+Picture Credits
+GTC
+Cookie Settings
+Essentials
+Analytics
+In order to continuously optimize and improve our website, we are using cookies.
+By continuing to use the website, you agree to the use of cookies.
+Accept all
+Accept only essential
+Save and Close
+Get more info about used cookies
+Open cookie settings
+Essentials
+omCookieConsent
+Descr.:
+Saves the consent status of the user on the current domain
+Lifetime:
+1 year
+Provider:
+MICROSENS
+Analytics
+_gat_gtag_UA_126181822_1
+Descr.:
+Lifetime:
+Session
+Provider:
+Google
+_ga
+Descr.:
+Registers a unique ID that is used to generate statistical data about how the visitor uses the site.
+Lifetime:
+2 years
+Provider:
+Google
+_gac
+Descr.:
+Contains the user's campaign-related information, such as AdWords-website-conversion-tags.
+Lifetime:
+90 days
+Provider:
+Google
+_gat
+Descr.:
+Used by Google Analytics to limit the request rate.
+Lifetime:
+Session
+Provider:
+Google
+_gid
+Descr.:
+Registers a unique ID that is used to generate statistical data about how the visitor uses the site.
+Lifetime:
+Session
+Provider:
+Google
+LinkedIn Insight Tag
+Descr.:
+The purpose of the processing is to measure the impact of our advertisements and play out interest-based advertising
+Lifetime:
+----
+Provider:
+LinkedIn
+_gtm
+Descr.:
+Lifetime:
+Session
+Provider:

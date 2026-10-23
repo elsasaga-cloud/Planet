@@ -1,0 +1,172 @@
+# SB-007 Winsonic Electronics Co., Ltd. · home · https://ewinsonic.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Industrial Panel PC, Fanless Box PC, LCD monitor - Winsonic
+Home lg ... /
+Products Industrial Motherboards
+Server Motherboard
+Workstation Motherboard
+GPU
+SBC
+Mini-ITX
+RISC
+Computing System
+Panel PC
+Industrial Monitor
+Network &
+Edge Connectivity
+Router & Gateway
+Cellular Router / Gateway
+IIoT Router / Gateway
+EN50155 / Transit Gateway
+Industrial Switch
+EN50155 Switch
+Wireless AP/Bridge/Client
+SFP Module
+Case Study
+Environments
+Advanced Hydroponic Farming Systems
+Forest Fire Detection and Alarm System
+Remote Reservoir Monitoring Overview
+Remote Weather Station Monitoring
+Smart City
+Remote Monitoring for Pump Stations
+Wastewater Management and Monitoring
+Smart Elevator System
+Smart Traffic Management System
+5G Wireless Router Applications in Healthcare
+Transportation
+5G Industrial Router Powers Smart Parking Garage Solution
+Monitoring Highway Tunnels
+Smart Bus Connectivity System
+For Helicopter Applications
+Real-Time Subway Data Analysis and Fault Detection
+Energy
+Power Dispatching Solution
+Remote Power Station Control Solution
+Advanced Remote Monitoring for Gas Pipelines
+Reliable Data Transfer Solutions for Automation
+Industrial Automation
+4G LTE modem Smart factory use cases
+CNC Machines Remote Monitoring
+Package Machines Remote Monitoring
+Remote Machines Monitoring
+Water Plant Monitoring Solution
+5G Router for Innovative Manufacturing
+Retail
+ATM
+Digital Signage
+Gaming
+Vending Machine
+Board & Power
+AD Board
+Wireless Module
+Power Module
+PoE
+Sensor
+Industrial Automation
+& IIoT
+Human Machine Interface
+Industrial Gateway
+IoT Gateway
+Motion Control
+EtherCAT Master
+EtherCAT I/O
+Machine vision
+Industrial Camera
+Industrial Camera Lens
+Remote I/O
+Modbus RTU/TCP
+Modbus TCP (Daisy Chain)
+EtherNet/IP
+PROFINET
+PowerLink
+Software Platform
+Auto-Search RIO
+AI Solutions
+Manufacturing
+AI Robotics
+AI Surveillance
+ITS
+Precision Agriculture
+AI in Military
+Support Case Study
+Technology Center
+Important Notice
+Warranty Policy
+Downloads
+Quality & Certifications
+About Us
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Why Choose Winsonic as Your Motherboard Manufacturer?
+Intel & ARM Platform Support: From x86 to ARM Cortex, Supporting a wide range of computing brands.
+Extended Lifecycle: Long-term availability and revision control for mission-critical environments
+Customization Ready: Tailored I/O, BIOS, thermal, and layout design based on customer needs.
+CB0M0-005
+Learn More
+Meteor Lake Ultra
+4*Intel LAN
+4*USB3.0
+4*USB2.0
+2*COM
+CB0M0-010
+Learn More
+ARM Rockchip®
+RK3568, Quad-Core
+Cortex-A55, up to 2.0GHz
+CB050-003
+Learn More
+Intel Core™ Ultra Processors (Series 2)
+Intel® Q870 Chipset, TDP 6W
+Fanless Panel PC The industrial grade panel PC, we built-in the best industrial grade components with fully qualified harsh environment, it supports water resistance IP65, IP66, M12 metal connectors, wide temperature -20°C to +70°C and wide voltage input 9V~36V DC isolated power which are ready to handle comprehensive fields.
+BC001 offers a compact enclosure with high efficiency fanless heatsink cooling design. Built-in the latest Intel® CPU Celeron J6412 2.0GHz Quad Core 4-Threads processor. The performance and reliability ready to meet harsh military computing system requirements.
+BC00C offers a fully IP66 water resistance enclosure with perfect efficiency fanless heatsink cooling design to handle MIL-STD-810F anti-vibration and anti-shock requirements. It supports Intel® Tiger Lake 11th Core i5-113G7 2.4GHz quad core.
+BC00B offers a compact size DIN-Rail fanless embedded box PC built-in the latest Intel® CPU Celeron J6412 2.0 GHz Quad Core 4-Threads processor. BC16 series supports wide temperature -20°C to +70°C and wide voltage input 9V~36V DC power which are ready to handle comprehensive industrial fields.
+Solutions
+Marine
+Marine Display and Panel PC
+Military
+Military Rugged Display
+Gas and Oil
+Industrial Monitors and Panel PCATEX Zone
+Vehicle
+Car PC Solutions
+Digital Signage
+A new way of Digital Signage
+Industrial Automation & IIoT
+Ethernet Remote IO with 2 port Ethernet switch
+Case Study
+Shop Window Digital Touch Display
+With a window touch solution, you can make a store 24/7 availabe to your customer, at anytime-even after closing hours continuous operation.
+Learn More
+EMI Shielding Display
+As displays continuous to evolve in size and definition. EMI shielding displays standard multi-function operator console, a IP65 or NEMA 4X military rugged touch screen panel computer.
+Learn More
+Smart Automation
+The integration of automation and enterprise systems easily through internet technology, can be monitored and controlled from any browser on mobile devices whilst in the field and when the engineer is connected to their network.
+Learn More
+Field Solutions
+Marine
+Military
+Gas and Oil
+Vehicle
+Digital Signage
+Industrial Automation & IIoT
+Support
+Case Study
+Technology Center
+Important Notice
+Warranty Policy
+Downloads
+About Us
+Company Profile
+Email ： sales@ewinsonic.com
+TEL ： 886-3-3704789
+Address ： No.290-1, Wen Zhong Rd., Taoyuan City, Taoyuan County 330059, Taiwan (R.O.C.)
+Copyright © 2026 . Winsonic Electronics All rights reserved.

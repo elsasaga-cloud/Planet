@@ -1,0 +1,118 @@
+# SB-1075 ison-tech.com · news_2 · https://www.ison-tech.com/index.php/blog/detail?id=58&n=Thailand Solar Power Plant · fetched 2026-10-23T04:20:51Z · HTTP 200
+Thailand Solar Power Plant
+Industrial Solution Over Network
++886 3 3582699
+[email protected]
+Home
+About ISON
+Company
+Why ISON
+Core Value
+Quality
+Career
+Green Promise
+Edgecore Network
+Products
+Industrial Switch Solutions
+Industrial PoE Switch Solutions
+Industrial Converter/PoE Solutions
+Serial Connectivties Solutions
+Commercial Switch/PoE Solutions
+Accessories
+Industrial Wireless
+Application
+Factory Automation
+ITS
+IP Surveillance
+Railway
+IT & IA Networks
+Technology
+I.A. Ring / I.A. Chain
+Rugged Design
+IoT(Internet of Things)
+Support & Download
+Download Center
+Product Datasheet
+RMA Service
+FAQ
+Contacts
+Thailand Solar Power Plant
+Home
+Blogs
+Thailand Solar Power Plant
+2020-10-11
+Reference
+A solar power plant of total capacity 90 million watts has been built at a northern Thai area that covers a wide area. In addition to intensive sunshine, the area is often hit by afternoon thunderstorms. Under such special weather conditions, high-end hardware equipment must be used in the entire solar power plant to reduce failure rates and maintenance costs. Among them, the plant’s network devices of power inverter system and monitoring system are equipped with ISON’s Industrial Ethernet switches to ensure that the plant engineers are able to grasp the real-time operation status of the entire power plant under any circumstances.
+The ISON’s Industrial Ethernet switches used in this solar power plant include unmanaged Ethernet switch DF308P series and unmanaged Ethernet switch DF305 series to serve as the front-end terminal equipment connection such as video cameras and network communication equipment of power converter. Meanwhile, DF308P powered Ethernet switch can directly provide 30W full power to the video cameras and simultaneously perform image data transmission through the standard RJ45 PoE port of IEEE 902.3af/at.
+All product line of ISON’s Industrial Ethernet switches are in fanless design, and all series have passed the wide temperature endurance test of -40 ~70°C. Models can even operate normally under harsh environment to simultaneously provide two power supplies for redundancy management, and offer much higher quality hardware specifications than those used in the industry. They are suitable for use as the network backbone in relevant vertical industries such as transportation, factories, green energy, etc.
+Shown at below is an architectural diagram of a solar power plant’s network system equipped with ISON’s I.A. Ring network redundant technology. It ensures that the entire network system can restore operation within 20ms should there be any problem in any one of the switches.
+Categories
+All Topics
+Others
+News
+New Product
+Reference
+FAQ
+Certification
+New Exposure
+Recent News
+New product launch IS-DF208T
+2023-12-26
+IS-RH709 is the most compact size layer 2 ethernet switch!
+2023-09-12
+ISON Introduces Edgecore New Gigabit Ethernet Access Switches with Six 25G Uplinks for Unparalleled Connectivity, Tailor-Made for ISPs and MSOs
+2023-09-05
+Looking for Professional Solution and Quality Services ?
+Contact Us Today
+Contacts
+14F.-2, No. 11, Jingguo Rd., Taoyuan Dist., Taoyuan City 330020, Taiwan (R.O.C.)
++886 3 3582699
++886 3 3581123
+[email protected]
+Quick Links
+Industrial Switch Solutions
+Industrial PoE Switch Solutions
+Industrial Converter/PoE Solutions
+Serial Connectivties Solutions
+Commercial Switch/PoE Solutions
+Accessories
+Industrial Wireless
+Edgecore Network
+Recent Posts
+Tags
+ISON Technology Co., Ltd. © 2026. All Rights Reserved.
+Search Product
+Please select the filter conditions and submit for searching products.
+Switch Type
+Unmanaged switches
+Layer 2 managed switches
+Layer 3 managed switches
+Media converters
+Others
+PoE
+PoE switches
+non PoE switches
+Ports
+1
+2
+3
+4
+5
+6
+8
+9
+10
+12
+14
+16
+18
+20
+24
+26
+28
+36
+50
+Chassis
+Din-rail
+Rackmount
+Search

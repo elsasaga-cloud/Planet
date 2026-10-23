@@ -1,0 +1,11 @@
+# SB-838 ifotec.com · feed_auto · https://www.ifotec.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Thu, 22 Oct 2026 09:40:09 +0000	Cybersécurité	https://www.ifotec.com/cybersecurite-equipements-reseau/
+Thu, 08 Oct 2026 15:54:28 +0000	Cybersécurité armoire de rue	https://www.ifotec.com/cybersecurite-armoire-de-rue/
+Thu, 24 Sep 2026 16:35:54 +0000	Comprendre le PoE	https://www.ifotec.com/comprendre-le-poe-power-over-ethernet/
+Tue, 01 Sep 2026 11:31:55 +0000	De la conception au Made in France	https://www.ifotec.com/concu-developpe-fabrique-ou-made-in-france/
+Fri, 07 Aug 2026 12:19:13 +0000	Fermeture estivale	https://www.ifotec.com/fermeture-estivale/
+Fri, 07 Aug 2026 10:46:03 +0000	Optimiser un réseau fibre optique	https://www.ifotec.com/3-solutions-pour-optimiser-un-reseau-fibre-optique/
+Tue, 07 Jul 2026 13:18:16 +0000	Convertisseur de média industriel	https://www.ifotec.com/convertisseur-de-media-industriel/
+Fri, 12 Jun 2026 14:34:06 +0000	Switch 10 Gigabit sécurisé	https://www.ifotec.com/switch-10-gigabit-securise/
+Mon, 01 Jun 2026 10:31:27 +0000	Solutions de sécurité sur fibre optique	https://www.ifotec.com/videoprotection-sur-fibre-optique/
+Thu, 07 May 2026 08:17:47 +0000	Solutions sur fibre optique sur mesure	https://www.ifotec.com/conception-de-solutions-sur-fibre-optique-sur-mesure/

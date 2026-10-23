@@ -1,0 +1,186 @@
+# SB-634 avanis.de · home · https://avanis.de/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik
+document.getElementById(forward)?.focus());
+return;
+}
+if(backward != '' && event.shiftKey) {
+event.preventDefault();
+$nextTick(() => document.getElementById(backward)?.focus());
+return;
+}
+},
+}" x-init="mobileDetection.detectMobile(), getLocation()" @mouseleave="dropdownOpen = null">
+English
+Service & Downloads
+Home
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/ueber-uns');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '1' ? 'border-b-2 border-avanis-red' : ''">
+Unternehmen
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/netzwerk');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '2' ? 'border-b-2 border-avanis-red' : ''">
+Netzwerk
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/wlan');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '3' ? 'border-b-2 border-avanis-red' : ''">
+WLAN
+this.currentPage.startsWith(page)) || this.currentPage.startsWith('/sicherheit');
+}
+}" x-init="currentPageMatch()"
+x-bind:class="dropdownOpen === '4' ? 'border-b-2 border-avanis-red' : ''">
+Sicherheit
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+English
+Home
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Unternehmen
+Über Uns
+Team
+Karriere
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Netzwerk
+KTI Networks
+Edgecore
+Netsys
+SlimWire
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+WLAN
+Ekahau
+Produkte
+Dienstleistungen
+Airista
+Branchen
+Produkte
+this.currentPage.startsWith(page));
+}
+}" x-init="currentPageMatch()">
+Sicherheit
+Fortinet
+Lancom
+Academy
+Aktuelles
+Kontakt
+Shop
+Neu
+Über Uns
+Erfahre mehr über unsere Mission
+Team
+Lerne unser Team kennen
+Karriere
+Werde Teil unseres Teams
+KTI Networks
+Medienkonverter, Switches und Industrial Ethernet
+Edgecore
+Netzwerkverteilung für Office und KMU
+Netsys
+VDSL2 - die Zweidrahtlösung
+SlimWire
+Das ultraflache Patchkabel
+Ekahau
+WLAN-Netzwerke richtig planen
+Produkte
+Dienstleistungen
+Airista
+Echtzeitortung von Personen und Objekten
+Branchen
+Produkte
+Fortinet
+Die High-End-Sicherheitslösung vom Weltmarktführer
+Lancom
+Das Sicherheitskonzept "made in Germany"
+Wir sind die Netzwerk-Architekten!
+Seit mehr als 20 Jahren bieten wir unseren Partnern sichere und zuverlässige Netzwerk-Lösungen. Als Netzwerk-Architekten stehen wir für einen erstklassigen Rundum-Service. Von der ersten Beratung bis zum anschließenden Support – wir sind für Sie da!
+Netzwerk
+Sind Sie gut vernetzt?
+Avanis bietet ein sorgfältig ausgewähltes Produktportfolio im Bereich aktiver Netzwerktechnik - Von Switches und Medienkonvertern bis zu VDSL2-Technik, passgenau für ihre Anforderungen. Mit unseren ultraflachen SlimWire-Patchkabeln sorgen wir für die optimale Verkabelung.
+WLAN
+Wireless Design – unsere Stärke
+Als zertifizierter Ekahau-Partner planen, messen und analysieren wir Ihr drahtloses Netzwerk. Alternativ schulen wir Sie, damit Sie die Planung mit Ekahau AI Pro selbst übernehmen können. Mit AiRISTA RTLS bieten wir ein WLAN-gestütztes Echtzeit-Ortungssystem.
+Sicherheit
+Schützen Sie Ihr Netzwerk
+Mit den Sicherheitslösungen von Fortinet oder LANCOM Systems behalten Sie jederzeit die Kontrolle über Ihr Netzwerk. Wir planen, konfigurieren und warten die maßgeschneiderte Sicherheitsarchitektur für Sie, damit Sie jederzeit sicher in Ihrem Netzwerk arbeiten können.
+Einfach online blättern
+In unserem aktuellen Produktkatalog zeigen wir Ihnen, was wir können. Produkte, Dienstleistungen, Schulungen - alles auf einen Klick:
+Schauen Sie mal rein!
+Aktuelles
+Welttag der Patientensicherheit 2026
+WLAN: Unsichtbar, aber für die moderne IT-Infrastruktur in Unternehmen essentiell
+Tag der Pflege 2026: Zeit für das Wesentliche - dank smarter Technik
+Unsere Schulungen & Seminare
+CSSE Schulung
+Certified Site Survey Engineer
+Das Seminar vermittelt die Kenntnisse zur Durchführung von WLAN Site Surveys mit Ekahau.
+Bielefeld
+3 Tage
+Ekahau Connect Skills Upgrade
+Weiterbildung zur Durchführung von WLAN Site Surveys mit Ekahau.
+Online
+1 Tag
+Grundlagen der aktiven Netzwerktechnik
+Das Seminar vermittelt Grundlagen der Netzwerkverkabelung und Switch-Konfiguration
+Bielefeld
+2 Tage
+Unsere Top Produkte!
+Ekahau AI PRO Software
+Ekahau Sidekick V2
+SlimWire Ultra7 Patchkabel
+RTLS-B4i.W Tag
+AiRISTA Asset Tag A1
+Jetzt zum Newsletter anmelden und nichts verpassen!
+Neue Produkte, Rabatte, Aktionen? Sie erfahren zuerst davon.
+Melden Sie sich hier zu unserem Newsletter an.
+{
+this.changing = !this.changing
+}, 2500)
+setInterval(() => {
+this.text = this.text === 'In 360° ansehen' ? 'Besuchen Sie uns digital' : 'In 360° ansehen'
+}, 5000)
+}
+}" x-init="changeText()" aria-label="In 360° ansehen" class="bg-avanis-red text-white font-bold py-2 px-4 rounded-xl group-hover:scale-105 transition-all mx-auto block
+lg:w-96 lg:h-14 lg:translate-x-[54.75%] lg:translate-y-[20%] lg:-mb-14
+md:w-80 md:h-[3rem] md:translate-x-[53.5%] md:translate-y-[15%] md:-mb-[3rem]
+sm:w-64 h-[2.5rem] sm:translate-x-[54.5%] sm:translate-y-[10%] -mb-[2.5rem]
+w-full max-w-[60%] translate-y-[20%] z-10 relative">
+✕
+Über Mitarbeiter
+verbindet Leidenschaft für Netzwerktechnik zu einem großartigen Team. Egal ob hochspezialisiert, technisch begabt oder kreatives Mastermind.
+Wir sind für Sie da.
+Seit
+begleiten wir von unserem Standort im ostwestfälischen Bielefeld regionale, nationale und internationale Kundenprojekte.
+Vor Ort und aus der Ferne.
+Partner
+×
+Ekahau Wi-Fi Day
+Erleben Sie die neuesten Trends in der WLAN-Planung und -Analyse. Melden Sie sich jetzt für unseren kostenlosen Ekahau Wi-Fi Day an!
+Alle Informationen
+Kontakt
+Mo - Fr  - Uhr
+0521 26012 0
+info@avanis.de
+Anschrift
+Meisenstraße 79a
+33607 Bielefeld
+Impressum
+AGB
+Datenschutz
+Kontakt
+Newsletter
+Service & Downloads
+DIN ISO 9001 Zertifikat
+Google Rezensionen
+Danke nochmal an das Team. Hier wird noch Kundenservice gelebt. Kompetent, freundlich und lösungsorientiert, einfach klasse
+Rezension schreiben

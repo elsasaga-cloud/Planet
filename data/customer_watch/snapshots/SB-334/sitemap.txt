@@ -1,0 +1,4 @@
+# SB-334 3s.com.tr · sitemap · https://3s.com.tr/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+	https://3s.com.tr/
+	https://3s.com.tr/Hakkında/
+	https://3s.com.tr/İletişim/

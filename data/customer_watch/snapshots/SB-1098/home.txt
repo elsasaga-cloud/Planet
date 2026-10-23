@@ -1,0 +1,256 @@
+# SB-1098 3sti-technologies.com · home · https://3sti-technologies.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+PHP Form Builder - Bootstrap Form Generator - 20+ jQuery plugins
+PHP Form Builder Toggle navigation
+Home
+Drag & drop Form Builder
+Quick Start Guide
+Form Templates
+jQuery Plugins
+Code Samples
+Class Doc.
+Functions Reference
+Help Center
+Toggle navigation
+Overview
+Package structure
+Sublime Text plugin
+Where to start ?
+Features
+Themes
+Upgrade PHP Form Builder
+Changelog
+Sources & Credits
+About
+www.hack-hunt.com
+Thank you for purchasing
+PHP Form Builder
+PHP Form Generator Class - Save tons of programming hours
+To get started, just open the Quick Start Guide and follow the instructions
+For any question or request
+Take a look at the Help Center
+Contact me through PHP Form Builder's comments on Codecanyon
+E-mail me at https://www.miglisoft.com/#contact
+Chat on www.phpformbuilder.pro
+If you feel lost or have any trouble, please contact me before dropping any rating
+I can build you a form for free, or for a small fee if your form is a complex one
+I can propose a refund if PHP Form Builder doesn't match what you intended
+Please if you like Php Form Builder
+Don't forget to rate it at http://codecanyon.net/downloads (login to your account and go to download page) And/Or drop a review at https://goo.gl/teKs6x
+Where to start ?
+Depending on your preferences:
+Quick and easy form building
+Drag & Drop
+Form Generator
+You'll just have to drag and drop the form elements, choose your settings then paste the generated code.
+PHP Beginners
+Beginners Guide
+Tutorial for PHP beginners including full detailed explanations
+PHP Programmers
+Quick start Guide
+Quick and easy start with minimum required.
+About functions and how to
+Class documentation
+Full class documentation.
+Code Samples
+F.A.Q. with code examples to help with layout, icons, plugins, dependent fields and so on.
+Functions reference
+All functions & arguments.
+Build a fully-working contact form in 2 minutes without any knowledge
+Contact form in 2 minutes
+If you just want a working contact form.
+Package Structure
+PHP Form Builder's package includes the Form Builder itself, the documentation and all the templates.
+You don't have to upload all the files and folders on your production server.
+Documentation and Templates are available online at https://www.phpformbuilder.pro/ .
+There's no need to upload them on your production server.
+You only have to upload the following directories on your server:
+your-project-root
+assets Contains images used in some email templates
+file-uploads Upload folder used with the file upload plugin
+phpformbuilder Main form builder files including all the plugins
+The assets folder is not required if you don't use the styled email templates
+The file-uploads folder is not required if you don't use the file-upload plugin or choose to upload your files elsewhere
+The phpformbuilder folder structure
+your-project-root
+phpformbuilder Main form builder files including all the plugins
+database Contains Mysql class. Not required if you have no database.
+mailer Contains phpmailer class, the email templates and utilities to sanitize the emails contents and inline the emails css.
+plugins Contains all the plugins. You can remove the ones you don't use in your forms.
+plugins-config Contains all the plugins configuration files ("domready" codes stored into xml files). You can remove the ones you don't use in your forms.
+plugins-config-custom Empty folder to store your plugin configurations files if you customize.
+Validator PHP Validation class.
+Form.php PHP Form Builder's main class.
+FormatHtml.php PHP Class to beautify HTML output code
+FormExtended.php Extends PHP Form Builder's main class with useful shortcut functions.
+register.php required to register & activate your PHP Form Builder copy..
+server.php file used for debugging purpose if you encounter paths issues on your server.
+Features
+Form generation with complex layout capabilities (horizontal, vertical, inline)
+PHP Form Builder generates clean HTML5 markup, with separates functions to render form, generate CSS and JS code, so you can render them separately (generally in <head> or just before </body>).
+Bootstrap 4 Forms, Bootstrap 3 Forms, Material Design Forms, Compatible with any framework or can be used as Standalone.
+Accepts any HTML5 form elements, including fieldsets, multiple selects, optgroups, button groups, ...
+Allows to customize HTML with wrappers, IDs, classes and attributes, Javascript events, custom code almost anywhere.
+Server-side validation can be done on any destination page ; errors are stored in session
+Send your emails with simple or advanced function - detects and replaces posted values in default or custom html/css template. Uses PHPMailer and Emogrifier to inline css.
+XSS / CSRF Protection
+Database class included to easily prefill fields with values from your database, Insert/Update/Delete elements using posted values.
+Numerous jQuery plugins included:
+Checkboxes & Selects
+Select2
+Bootstrap Select
+iCheck
+Nice Check
+LC-Switch
+Pickers
+Colorpicker
+Pickadate Datepicker
+Pickadate Timepicker
+Material Design Datepicker
+Material Design Timepicker
+Image picker
+Validation & Captcha
+Formvalidation
+Recaptcha V2
+Invisible Recaptcha
+Captcha
+Modal & Popover
+Modal
+Popover
+Uploaders
+File Uploader
+Text Editors
+Tinymce
+Others
+Autocomplete
+Dependent Fields
+Intl Tel Input (International Phone Numbers)
+Passfield
+Tooltip
+Material Design
+Ladda (Buttons spinners)
+Wordcharactercount
+Memorization / recall of any custom configuration for each plugin
+You can easily add any other external plugin (see plugins section).
+When you activate a plugin, the needed css and js files will be automaticaly added to your page.
+Free Visual Studio Code extension available on Visual Studio Marketplace
+Free Sublime-text 3 plugin available on Github
+Free Bracket plugin available on Github
+Themes (Frameworks)
+All options are ready to use. Choose your framework when you instanciate your form, for example
+$form = new Form('my-form', 'horizontal', 'novalidate', 'bs3'); .
+PHP Form Builder will generate the correct markup for you (containers, fields, classnames, ...)
+Default'theme is Bootstrap 4.
+Bootstrap 3
+$form = new Form('my-form', 'horizontal', 'novalidate', 'bs3');
+Bootstrap 4
+$form = new Form('my-form', 'horizontal', 'novalidate');
+Foundation
+$form = new Form('my-form', 'horizontal', 'novalidate', 'foundation');
+Bootstrap 4 + Material Design
+$form = new Form('my-form', 'horizontal', 'novalidate', 'material');
+// materialize plugin
+$form->addPlugin('materialize', '#my-form');
+Material Design
+$form = new Form('my-form', 'horizontal', 'novalidate', 'material');
+License and Registration
+License
+1 License = 1 project
+If you want to use PHP Form Builder on several websites you've got to buy a new license for each one.
+Standard license vs. extended license
+If you use PHP Form Builder for a personal project or for a work (ie: website) sold to a single client, a standard license is sufficient.
+If you include PHP Form Builder into a sold package (ie: theme, plugin) you must purchase an extended license and contact me to have my agreement.
+Registration
+Before using PHP Form Builder you must register your copy .
+Registration is for lifetime & just have to be done once for each installation (localhost/production server).
+If you change your installation directory:
+open phpformbuilder/register.php to unregister your copy
+move your folders where you want to
+open phpformbuilder/register.php to register your new path
+Upgrade PHP Form Builder
+Backup your phpformbuilder folder
+Replace your old phpformbuilder folder with the new one
+Copy your [your-domain]/license.php from your old installation to the new one
+Copy your phpformbuilder/database/db-connect.php from your old installation to the new one
+If you customized the following files/folders, copy them from your old installation to the new one:
+phpformbuilder/mailer/email-templates-custom
+phpformbuilder/plugins-config-custom
+phpformbuilder/FormExtended.php
+Upgrade from V 2.x to V 3.x
+More efficient & simple than ever, this release contains some code simplifications, new features and new syntax to send emails.
+All V 2.x features are still available using old V 2.x syntax, except for email sending.
+sendMail() and sendAdvancedMail() functions have been merged into a single sendMail() function (see details below)
+Plugins path
+No need to setup plugins path anymore (it's now automagically detected).
+(phpformbuilder/plugins-path.php has been removed)
+Server-side validation
+No need to include Validator files
+Required fields can now be validated automagically
+/* OLD CODE V 2.x */
+include_once rtrim($_SERVER['DOCUMENT_ROOT'], DIRECTORY_SEPARATOR) . '/phpformbuilder/Validator/Validator.php';
+include_once rtrim($_SERVER['DOCUMENT_ROOT'], DIRECTORY_SEPARATOR) . '/phpformbuilder/Validator/Exception.php';
+$validator = new Validator($_POST);
+$required = array('user-name', 'user-first-name', 'user-email', 'user-phone', 'message');
+foreach ($required as $required) {
+$validator->required()->validate($required);
+}
+$validator->maxLength(100)->validate('message');
+$validator->email()->validate('user-email');
+/* NEW CODE V 3.x */
+// create validator & auto-validate required fields
+$validator = Form::validate('contact-form-1');
+// additional validation
+$validator->maxLength(100)->validate('message');
+$validator->email()->validate('user-email');
+Email sending
+SendMail() function has now full capabilities to send attachments, add cc/bcc and a lot more.
+See sendMail function for complete features list.
+/* OLD CODE V 2.x */
+$from_email = 'contact@phpformbuilder.pro';
+$address = addslashes($_POST['user-email']);
+$subject = 'phpformbuilder - Contact Form 1';
+$filter_values = 'contact-form-1, submit-btn, token';
+$sent_message = Form::sendMail($from_email, $address, $subject, $filter_values);
+/* NEW CODE V 3.x */
+$email_config = array(
+'sender_email' => 'contact@phpformbuilder.pro',
+'sender_name' => 'PHP Form Builder',
+'recipient_email' => addslashes($_POST['user-email']),
+'subject' => 'PHP Form Builder - Contact Form',
+'filter_values' => 'contact-form-1'
+);
+$sent_message = Form::sendMail($email_config);
+Visual Studio Code extension
+PHP Form Builder Visual Studio Code extension is available on Visual Studio Code Marketplace
+The extension adds auto-completions for all Form Builder functions.
+Sublime Text plugin
+PHP Form Builder Sublime Text plugin is available on Package Control
+The plugin adds auto-completions for all Form Builder functions.
+Changelog -
+version 4.5.7 (06/2021)
+New Features:
+- add "readonly" option to the inputs in the drag & drop form builder
+Improvements:
+- improve the dropzone sizing in the drag & drop form builder
+Bug Fix:
+- popup close not working in the drag & drop form builder when clicking "no"
+version 4.5.6 (05/2021)
+New Features:
+- add new Bootstrap Input Spinner plugin ('+' and '-' buttons for number inputs)
+Improvements:
+- add $mail->Sender in Form.php for PHPMailer to improve email deliverability
+- edit the Fileuploader PHP image upload script to crop the images AFTER resizing
+(the original behaviour that center-crops the original image is still available in the file code comments)
+- edit phpformbuilder/plugins-config/formvalidation.xml to accept empty tel numbers if they're not required
+- add new 'no-auto-submit' attribute to the jQuery validator plugin to allow to prevent the form submission after validation
+(this allows to write custom Ajax requests, useful in some cases like step forms)
+- increase the height of the drop area in the drag & drop form generator
+Bug Fix:
+- validator now validates integers with leading zeros (PHP :: Bug #43372)
+- fix jQuery validation with the file uploader plugin on required fields
+- remove php warning whith Form::clear() combined with dependent fields
+- fix accidentaly removed classes with Material Design textareas
+- repair the Passfield plugin Bootstrap popover - was broken by the latest Bootstrap versions
+- fix error in Material Datepicker months (error coming from the original plugin)
+version 4.5.5 (12/2020)
+New Features:
+- add "disabled

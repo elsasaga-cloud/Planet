@@ -1,0 +1,344 @@
+# SB-410 s-connect.es · home · https://s-connect.es/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+S-Connect - Su socio para el IoT
+Iniciar sesión
+o
+Registro
+Servicio/ayuda
+Productos
+Marcas
+Training and Services
+Antenas y accesorios
+Cas d'usage
+Contactar
+Blog
+Inicio
+Quiénes somos
+Marcas
+Productos
+Accesorios
+Casos de uso
+Contactar
+Blog
+A la categoría Marcas
+Moxa
+Nport Moxa
+Moxa ioLogik
+Sintrones
+Semtech Sierra Wireless
+Milesight
+Lanner Electronics Inc.
+Advantech
+Kerlink
+Adder Technology
+InHand Networks
+Premio Taiwan Inc. (C&T Solution)
+Terz Industrial Electronics
+Lantronix
+Barix
+NETIO
+Panorama Antennas
+Metatronix
+MACTRON GROUP
+QuWireless
+Watteco
+XNET / Niseva
+Digi International
+ZPE Systems
+Perle Systems
+Raritan Legrand
+Opengear
+NetModule
+Tosibox
+MultiTech Systems
+SECLAB
+Icron Technologies
+TYREX
+Hâpy Services
+Taoglas
+A la categoría Productos
+Adquisición de datos
+Sensores IoT
+LoRaWAN sensor
+LoRaWAN sensor de temperatura
+Módulo E/S
+Advantech ADAM: Módulo E/S
+Tarjetas PCI
+Conversor RS232 a Ethernet
+Convertidor de fibra óptica a Ethernet
+Convertidor RS232/422/485 a fibra óptica
+Convertidor RS232 a Wifi
+Convertidor USB a RS232
+Conversor USB a RS232/422/485
+Convertidor RS232 a RS422/485
+Modbus Gateway
+Gateway PROFINET
+Gateway Ethernet/IP
+HUB USB industrial
+I/O Controller
+Cámara IP
+Red industrial
+Router industrial
+Router 4G industrial
+Router 5G industrial
+Router ferroviario
+Módem
+Switch Ethernet industrial
+Moxa Ethernet Switch
+Switch 8 puertos
+Switch no gestionable
+Switches Capa 2
+Switches Capa 3
+Switch PoE industrial
+Switch rackeable industrial
+Switch carril DIN
+Gateway IoT
+Wireless M-Bus Gateway
+Servidor de consola
+LoRaWAN gateway
+LoRaWAN gateway indoor
+LoRaWAN gateway outdoor
+Audio sobre IP
+WIFI industrial y puntos de acceso
+Extensor Ethernet
+Procesamiento de datos
+Panel PC
+Panel PC Advantech
+Panel PC Android
+Pantalla táctil industrial
+Pantallas táctiles capacitivas
+Pantallas táctiles resistivas
+PC industrial
+PC fanless industrial
+Box PC / Mini PC fanless
+PC rackeable industrial
+PC embebido
+PC DIN-rail
+PC para Edge AI
+PC para transporte
+Accesorios para PC industriales
+Tablet industrial
+Supervisión
+Software de gestión de redes OT
+Ciberseguridad OT
+Routers 4G/5G IEC 62443
+Switches industriales IEC 62443
+Soluciones certificadas EN 18031
+Soluciones IEC 62443-4-2
+Estación de descontaminación USB
+VPN industrial
+KVM
+KVM Switch
+Switch KVM 2 PC
+KVM extender
+Matrix KVM
+Out of Oand Management
+KVM sobre IP
+Accesorios KVM
+Extensor USB
+A la categoría Accesorios
+Antenas
+Antenas WiFi
+Antenas GPS/GNSS
+Antenas LoRa de 868 MHz
+Antenas 2G/3G/4G/5G
+Antenas 4G/5G indoor
+Antenas 4G/5G outdoor
+Antenas para vehículos
+Fuentes de alimentación y cables
+Fuentes de alimentación
+Cables de alimentación
+Unidad de distribución de energía (PDU)
+Inyector PoE
+Otros accesorios
+A la categoría Casos de uso
+Energía
+Sistema de monitorización de centrales solares
+Sistema de almacenamiento de energía (BESS)
+Smart Grid (Moxa)
+Smart Energy (Milesight)
+Monitorización energética inteligente (NETIO)
+Transporte
+Telemática embebida y gestión de flotas
+IA embebida para vehículos (In-Vehicle AI)
+Sistema Edge AI para AGV y AMR
+Arquitectura ferroviaria inteligente (Moxa)
+Sistema de vigilancia para vehículos de emergencia
+Ferrocarril inteligente (Sintrones)
+Sector marítimo
+Sistema de navegación marítima inteligente
+Sistema de grúas RTG automatizado
+Militar / Defensa
+Sistema Edge AI para operaciones militares
+Sistema Edge AI para vehículos terrestres no tripulados
+Industria 4.0
+Ciberseguridad en líneas de producción
+Conectividad 5G en automatización industrial (InHand)
+Piece-Picking inteligente con Edge AI (Premio)
+Agua (telelectura)
+Smart Water Management (Milesight)
+Smart Building
+Sistema de monitorización de la calidad del aire (IAQ)
+Casos de uso
+Guías
+Catálogos
+Eventos
+Tu cuenta
+Iniciar sesión
+o registro
+Resumen
+Perfil personal
+Direcciones
+Modalidades de pago
+Solicitar un presupuesto
+0,00 €*
+Menú
+Servicio/ayuda
+Productos
+Marcas
+Training and Services
+Antenas y accesorios
+Cas d'usage
+Contactar
+Blog
+Categorías
+Quiénes somos
+Marcas
+Productos
+Accesorios
+Casos de uso
+Contactar
+Blog
+Saber más
+Ciberseguridad OT: Soluciones certificadas para proteger sus infraestructuras industriales
+La ciberseguridad OT es esencial para garantizar la seguridad de sus redes y sistemas industriales. Descubra nuestras soluciones certificadas IEC 62443, diseñadas para abordar los desafíos únicos de los entornos industriales modernos, mientras garantizan una protección máxima contra las ciberamenazas.
+Moxa
+Soluciones de conectividad segura para sus redes industriales, certificadas IEC 62443-4-1 y 62443-4-2.
+Saber más
+Seclab
+Soluciones de ciberseguridad basadas en la ruptura protocolaire para asegurar infraestructuras críticas.
+Saber más
+TYREX
+Estaciones blancas USB certificadas CSPN para proteger sus sistemas contra ciberamenazas a través de dispositivos removibles.
+Saber más
+Tosibox
+Acceso remoto seguro y sencillo a sus redes OT mediante una solución escalable y segura (Firewall, VPN...).
+Saber más
+Nuestras categorías destacadas de soluciones IoT
+Ya sea que usted sea distribuidor, integrador o instalador de sistemas, S-Connect le acompaña en el desarrollo de sus proyectos IoT y de conectividad industrial, ofreciéndole una amplia gama de tecnologías avanzadas y el respaldo de socios de confianza.
+Switch Ethernet
+Descubrir
+Router 4G industrial
+Descubrir
+PC industrial
+Descubrir
+Gateway LoRaWAN
+Descubrir
+Convertidor RS232 a Ethernet
+Descubrir
+Conversor USB a RS485
+Descubrir
+Switch KVM
+Descubrir
+KVM Extender
+Descubrir
+Productos destacados
+Empuje los límites de la Industria 4.0 con nuestros productos IIoT de vanguardia.
+Moxa EDS-205 - Switch no gestionable de 5 puertos
+0,00 €*
+Moxa NPort 5110 - Convertidor RS232 a Ethernet
+0,00 €*
+Moxa UPort 1150 - Convertidor USB a RS232/422/485 de 1 puerto
+Sintrones VBOX-3611-M12X - PC embebido para vehículos
+Terz NITE-RS8-1100 - Switch no gestionable de 8 puertos
+0,00 €*
+Milesight UG65 - Gateway LoRaWAN semi-industrial
+0,00 €*
+Milesight UR32 - Router 4G industrial
+246,70 €*
+Su socio único para el
+Internet Industrial de las Cosas
+Más de 16 años de experiencia
+Más de 12.000 referencias para todas sus necesidades
+Acompañamiento personalizado y experiencia reconocida
+Saber más
+Shop now
+Headphones
+Shop now
+Nuestros bestsellers
+Descubra nuestra selección de productos más vendidos.
+Sintrones VBOX-3611 - PC embebido
+Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
+Moxa NPort 5232 - Convertidor RS-422/485 a Ethernet de 2 puertos
+0,00 €*
+Moxa EDS-G512E - Switch Ethernet industrial
+0,00 €*
+Advantech EKI-7710E-2CP/2CPI - Switch PoE gestionable
+10,00 €*
+Sintrones SBOX-2320 - Box PC fanless
+Lanner LEC-2580 - PC industrial embebido
+10,00 €*
+Descubrir
+Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
+Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
+Niseva XE33-1C-LoRa - Gateway LoRa
+Gateway LoRaWAN industrial serie WISE-6610 de Advantech
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+LoRaWAN gateway outdoor MultiTech Conduit IP67
+193,00 €*
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
+Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
+Moxa MPC-3070W - Panel PC fanless de 7"
+Moxa MPC-3100 - Panel PC fanless de 10.4"
+Moxa MPC-3120 - Panel PC fanless de 12.1"
+Advantech TPC-2121T - Panel PC
+Advantech PPC-321W EHL - Panel PC
+10,00 €*
+Advantech PPC-324W-P7 - Panel PC
+10,00 €*
+Premio HIO-W210-ADL - Panel PC
+0,00 €*
+Premio HIO-W215-ADL - Panel PC
+Premio HIO-W221-ADL - Panel PC
+Descubrir
+Colonne 1
+Con más de 16 años de experiencia , S-Connect es su socio ideal para llevar a cabo con éxito sus proyectos IoT. Nuestras soluciones innovadoras conectan los equipos para un mundo más inteligente.
+Colonne 2
+Enlaces útiles
+Cookies
+Condiciones de uso
+Newsletter
+Colonne 3
+Contáctenos
+Oficina 601-B, Centro de Transporte de Madrid
+Ctra. de Villaverde a Vallecas, km 3.5
+28053 Madrid, España
+C/ Villarroel 216, 4º 3
+08036 Barcelona, España
+Teléfono : +34 910 421 886 / +34 933 396 542
+Autorización de devolución de mercancía (RMA)
+Detalles de contacto
+S-CONNECT S.L., Centro de Transportes de Madrid - Oficina 601-B, Ctra. de Villaverde a Vallecas, km. 3,5 28053 Madrid
+C/ Villarroel 216, 4º 3, 08036 Barcelona
++34 910 421 886 / +34 933 396 542
+PHONE
+Saber más
+Condiciones de uso
+Cookies
+Newsletter
+Servicio Integrado de Pedidos (BTOS)
+Confidencialidad - Protección de datos personales
+Smart World
+© 2026 S-Connect - with by Zenit Design
+Productos
+Marcas
+Training and Services
+Antenas y accesorios
+Cas d'usage
+Contactar
+Blog
+Este sitio web utiliza cookies para garantizar la mejor experiencia posible. Más información
+Rechazar
+Configurar
+Aceptar todas las cookies

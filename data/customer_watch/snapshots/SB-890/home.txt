@@ -1,0 +1,142 @@
+# SB-890 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+AurCore Technology
+About Us
+Solutions
+Products
+Support & Services
+Resources
+Partner
+More
+Where to buy Contact Us
+Loading...
+Network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era.
+Subscribe to Newsletter
+Submit
+Products
+Data Center Switches
+Enterprise Switches
+Industrial Switches
+Accessories
+Company
+About Us
+Partners
+Contact Us
+Resources
+News
+Blog
+Webinars
+Contact
+info@aurcore.net
+20472 Crescent Bay Dr #102
+Lake Forest, CA 92630
+Subscribe to Newsletter
+Submit
+Copyright © 2026 AURCORE TECHNOLOGY . All rights reserved.
+Terms of service Privacy policy
+AI Networking, Your Way.
+Open, flexible, and built around your AI infrastructure—from enterprise deployments to large-scale GPU clusters.
+Learn more
+Scale AI with 400G Ethernet
+Purpose-built switching that delivers the bandwidth and efficiency modern AI workloads demand—without vendor lock-in.
+Explore now
+Your Network. Your Choice.
+Choose open-source SONiC or our enterprise-ready AURCNOS to match your operational model and business needs.
+Read more
+Take AurCore for a 60-Day Test Drive
+A limited program for U.S.-based SI and Reseller partners — field-test our next-gen AES and AIS switch platforms in your own deployment, free for 60 days, with a direct line to our product team.
+View Details
+Our Partner Ecosystem
+About Us
+Powering the networks behind AI innovation.
+AurCore Technology is a network infrastructure company headquartered in Lake Forest, California, delivering enterprise and data center solutions engineered for the AI era.
+Partner-Driven Growth
+Success is built on strong relationships. We invest in lasting partnerships with our suppliers, customers, and channel partners, because your growth drives ours.
+AI-Ready Infrastructure
+Power your AI workloads with high-performance switching. Deliver the speed and reliability your training, inference, and storage clusters demand.
+Support at Every Stage
+Your success is our priority. We offer pre- and post-sales support at every level, backed by a ticketing system designed for fast, reliable response times.
+Solutions
+Scalable Network Architectures
+Explore our comprehensive range of networking solutions designed for the AI era
+AI Networks
+AurCore provides a zero-loss, high-radix networking foundation purpose-built for AI and Machine Learning. By eliminating fabric bottlenecks, we ensure your data moves at the speed of innovation while maximizing the ROI of every GPU.
+Data Center Networks
+AurCore provides a high-density, open networking foundation engineered for the demands of modern hyperscale and enterprise data centers. By delivering a scalable, high-bandwidth fabric, we eliminate connectivity bottlenecks and lower the total cost of ownership (TCO) for your digital infrastructure.
+Enterprise Networks
+AurCore delivers a secure, L3-intelligent foundation for modern campus environments. We provide seamless 1G, 2.5G, and 10G connectivity optimized for high-density IoT, Wi-Fi 7, and hybrid work.
+Industrial Networks
+AurCore delivers a rugged, deterministic networking foundation purpose-built for the transition to Industrial AI. We provide unbreakable 1G/10G connectivity from the factory floor to the control room, managed via our unified ACC Cloud or ACN On-Prem platforms.
+AurCore AES8001 400G Data Center Switch
+This flagship 400G switch is engineered for spine-layer deployments, delivering the throughput and resilience required for modern AI, cloud-native, and high-performance computing (HPC) environments.
+Play Video
+Products
+Featured Products
+Explore our cutting-edge network infrastructure solutions designed for the AI era
+Featured
+Data Center Switches AES8001 | 32 x 400GE, 2 x SFP+
+32 x 400GE QSFP-DD, 2 x 10GE SFP+, Front to Rear, AURC-NOS, SONiC, 3 Years Warranty
+Learn More
+Data Center Switches AES6101 | 48 x 25G SFP28, 6 x 100G QSFP28
+48 x 25GE SFP28, 6 x 100GE QSFP28, AURC-NOS, 3 Years Warranty
+Learn More
+Data Center Switches AES6002 | 48 x 10G SFP+, 6 x 100G QSFP28
+48 x 10GE SFP+, 6 x 100GE QSFP28, AURC-NOS, 3 Years Warranty
+Learn More
+Enterprise Switches AES4002P | 48 x GE, 6 x 10 GE SFP+, L3 PoE+
+48 × GE PoE+ RJ45 ports | 6 × 10GE SFP+ Uplink ports
+Learn More
+Enterprise Switches AES4001P | 24 x GE, 4 x 10 GE SFP+, L3 PoE+
+24 × GE PoE+ RJ45 ports | 4 × 10GE SFP+ Uplink ports
+Learn More
+Featured
+Enterprise Switches AES2012P | 24 x GE, 2 x GE Base-T/SFP Combo, 2 x GE SFP, LCD, PoE++
+24 × GE PoE++ RJ45 ports | 2 x GE Combo ports | 2 × GE SFP Uplink ports
+Learn More
+Enterprise Switches AES2001P | 8 x GE, 2 x GE, 2 x GE SFP, PoE+
+8 × GE PoE+ RJ45 ports | 2 × GE RJ45 ports | 2 × GE SFP uplink ports
+Learn More
+Industrial Switches AIS4001P | 8 x GE, 4 x 10 GE SFP+, L3 PoE+
+8 x GE PoE+ RJ45 ports + 4 x 10GE SFP+ uplink ports
+Learn More
+Industrial Switches AIS2002P | 8 x GE, 2 x GE SFP, PoE+
+8 x GE PoE+ RJ45 ports + 2 x GE SFP uplink ports
+Learn More
+AURC-NOS
+AurCore Networking Operating System
+Intelligent automation, lossless performance, and always-on reliability for modern data centers
+Intelligent Automation
+Zero-touch provisioning and VXLAN-EVPN overlay networks enable rapid, scalable deployment across data centers and enterprise environments.
+Lossless Performance
+RoCEv2, ECN, and priority flow control deliver the low-latency, congestion-free forwarding that AI and HPC workloads demand.
+Always-On Reliability
+MLAG, VRRP, and sub-50ms ERPS failover ensure continuous operations with seamless redundancy.
+Device Intelligence Meets Centralized Control
+AURC-NOS
+AURC-NOS is a high-performance, modular network OS purpose-built for AI and cloud. It delivers deterministic performance, ultra-low latency, and lossless Ethernet for resilient, large-scale fabrics.
+ACC Cloud & ACN On-Prem Platforms
+AurCore’s ACC and ACN platforms provide a unified network management ecosystem, offering flexible cloud-based oversight and secure on-premises operations for our entire 1G to 400G portfolio
+SONiC
+AurCore offers a production-ready SONiC solution validated by PalC Networks, providing a scalable, disaggregated alternative to proprietary systems for high performance switching infrastructures.
+Latest Updates
+AurCore in the News
+Stay informed about our latest innovations, industry events, and technical insights
+Press Release
+March 24, 2026
+AurCore Bolsters Open, Scalable AI Networking with New High-Bandwidth Switches New Models powered with Marvell and SONiC solutions from PalC Networks
+AurCore Technology introduces the AES8000 Series 400G AI-Ready Switch and the AES9000 Series 800G Ultra-Performance switch featuring Marvell switch ASICs and partnership with PalC Networks to ensure open scalable AI at OFC 2026
+Read More
+Press Release
+February 9, 2026
+AurCore partners with DVCOM Technology to accelerate digital transformation across Middle East and Africa
+AurCore, a U.S.-based network technology innovator, has officially signed a Master Distribution agreement with DVCOM Technology, a leading value-added distributor (VAD) in the Middle East and Africa (MEA).
+Read More
+Events
+February 9, 2026
+Meet the AurCore Team at OFC 2026 – West Hall 5151
+Visit AurCore at OFC 2026 in Los Angeles, March 17-19. Meet our team at Booth 5151 (West Hall) to explore our 100G/400G data center networking solutions for optical infrastructure and AI workloads.
+Read More
+View All News
+Let's Connect
+Ready to transform your network infrastructure?
+Let's discuss how AurCore can support your infrastructure goals and accelerate your AI initiatives.
+Contact Us

@@ -1,0 +1,11 @@
+# SB-274 Blackbear TechHive · feed_auto · https://blackbear-ics.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+Tue, 04 Aug 2026 05:28:16 +0000	Secure Cold Chain Operations with BlackBear Intelligent Gateway	https://blackbear-ics.com/secure-cold-chain-operations-with-blackbear-intelligent-gateway/
+Thu, 09 Jul 2026 02:58:23 +0000	Make work harder for testers and hackers	https://blackbear-ics.com/make-work-harder-for-testers-and-hackers/
+Fri, 26 Jun 2026 08:39:04 +0000	FPGA data diodes for hardware-based OT cybersecurity	https://blackbear-ics.com/fpga-data-diodes-for-hardware-based-ot-cybersecurity/
+Thu, 04 Jun 2026 01:29:55 +0000	Allowlist or Blocklist: How to Choose the Right Security Approach?	https://blackbear-ics.com/allowlist-or-blocklist-how-to-choose-the-right-security-approach/
+Mon, 11 May 2026 08:54:55 +0000	Reducing PLC Cyber Risks by Redefining Connectivity	https://blackbear-ics.com/reducing-plc-cyber-risks-by-redefining-connectivity/
+Mon, 13 Apr 2026 03:16:26 +0000	What the Iberian Blackout Teaches About OT Security	https://blackbear-ics.com/what-the-iberian-blackout-teaches-about-ot-security/
+Tue, 31 Mar 2026 04:07:05 +0000	Evolving FCC Direction Signals Stronger Cybersecurity Expectations	https://blackbear-ics.com/evolving-fcc-direction-signals-stronger-cybersecurity-expectations/
+Thu, 12 Mar 2026 05:59:01 +0000	Securing Traction SCADA: A Unidirectional Architecture	https://blackbear-ics.com/securing-traction-scada-a-unidirectional-architecture/
+Tue, 10 Mar 2026 03:19:19 +0000	Physical Layer Isolation in OT: When Security Becomes Architecture	https://blackbear-ics.com/physical-layer-isolation-in-ot-when-security-becomes-architecture/
+Thu, 12 Feb 2026 02:14:46 +0000	U.S. Cybersecurity Bills Signal Stronger Focus on Utility Infrastructure Protection	https://blackbear-ics.com/u-s-cybersecurity-bills-signal-stronger-focus-on-utility-infrastructure-protection/

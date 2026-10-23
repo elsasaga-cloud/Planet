@@ -1,0 +1,13 @@
+# SB-140 brainboxes.com · feed_auto · https://www.brainboxes.com/feed · fetched 2026-10-23T04:20:51Z · HTTP 200
+Mon, 28 Sep 2026 12:56:49 +0000	Brainboxes are Exhibiting at Machine Building Live!	https://www.brainboxes.com/events/machine-building-live-2026
+Mon, 14 Sep 2026 13:28:41 +0000	Join Brainboxes at SEMICON West!	https://www.brainboxes.com/events/brainboxes-at-semicon-west
+Mon, 24 Aug 2026 08:44:34 +0000	Visit Brainboxes at the WoTS 2026!	https://www.brainboxes.com/events/brainboxes-wots-2026
+Tue, 04 Aug 2026 12:00:48 +0000	The Hidden Ingredient Behind Smart Manufacturing	https://www.brainboxes.com/articles/hidden-ingredient-smart-manufacturing
+Fri, 19 Jun 2026 10:26:36 +0000	Brainboxes are Exhibiting at Machine Building South 2026!	https://www.brainboxes.com/events/machine-building-south-2026
+Mon, 08 Jun 2026 11:53:19 +0000	Brainboxes are Back at Automate!	https://www.brainboxes.com/events/automate-2026
+Mon, 08 Jun 2026 09:49:42 +0000	Join Brainboxes at Hardware Pioneers 2026!	https://www.brainboxes.com/events/hardware-pioneers-2026
+Mon, 01 Jun 2026 14:08:30 +0000	Brainboxes are Excited to Exhibit at ITS America 2026!	https://www.brainboxes.com/events/itsamerica2026
+Tue, 12 May 2026 11:07:28 +0000	Visit Brainboxes at Smart Factory Expo 2026!	https://www.brainboxes.com/events/smart-factory-expo-2026
+Tue, 28 Apr 2026 12:12:52 +0000	Brainboxes are Exhibiting at Machine Building North 2026!	https://www.brainboxes.com/events/machine-building-north-2026
+Thu, 26 Mar 2026 15:56:16 +0000	Join Brainboxes at EPTECH 2026!	https://www.brainboxes.com/events/brainboxes-at-eptech
+Thu, 26 Mar 2026 13:17:54 +0000	Happy Easter from Brainboxes!	https://www.brainboxes.com/news/happy-easter
