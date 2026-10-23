@@ -55,22 +55,48 @@ except Exception:  # pragma: no cover
 
 
 # ----------------------------------------------------------------------------- fetch
+import threading as _th
+_YT_LOCK = _th.Lock()
+_YT_LAST = [0.0]
+
+
+def _yt_throttle():
+    """YouTube 全局串行 + ≥2 s 间隔：全层基线（04:20Z）227 个 YouTube 源 221 个 404（含肯定存在的频道 RSS），
+    而零星几个成功 → 疑似 12 线程并发触发了 YouTube 对该 IP 的拦截（以 404 形式）。"""
+    with _YT_LOCK:
+        wait = 2.0 - (time.time() - _YT_LAST[0])
+        if wait > 0:
+            time.sleep(wait)
+        _YT_LAST[0] = time.time()
+
+
 def fetch(url, accept=None, attempts=3, timeout=None):
-    """返回 (status_code, text, final_url)。失败抛异常。面层（A/B）用 attempts=2、timeout 20 s，控制总时长。"""
+    """返回 (status_code, text, final_url)。失败抛异常。面层（A/B）用 attempts=2、timeout 20 s，控制总时长。
+    特例：youtube.com 一开始就用浏览器 UA + 同意 cookie、全局限速，404 也重试一次；https 证书错误时降级 http 再试一次。"""
     if requests is None:
         raise RuntimeError('requests not installed')
     h = {'User-Agent': UA, 'Accept-Language': 'en,tr;q=0.8,ru;q=0.7,th;q=0.6,zh;q=0.5'}
     if accept:
         h['Accept'] = accept
+    is_yt = 'youtube.com' in url.lower()
+    if is_yt:
+        h['User-Agent'] = BROWSER_UA
+        h['Accept-Language'] = 'en-US,en;q=0.9'
+        h['Cookie'] = 'CONSENT=YES+cb.20210328-17-p0.en+FX+417; SOCS=CAI'
+        attempts = max(attempts, 2)
     last = None
     timeout = timeout or TIMEOUT
+    ssl_fallback_done = False
     for attempt in range(attempts):
         try:
-            if attempt:   # 第 2 次起换成普通浏览器 UA（首轮基线：vilinknet.com 403 / sundartechno feed 429 / govtribe 403 都是反爬 UA 过滤）
+            if attempt and not is_yt:   # 第 2 次起换成普通浏览器 UA（首轮基线：vilinknet.com 403 / sundartechno feed 429 / govtribe 403 都是反爬 UA 过滤）
                 h['User-Agent'] = BROWSER_UA
                 h['Accept'] = h.get('Accept') or 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+            if is_yt:
+                _yt_throttle()
             r = requests.get(url, headers=h, timeout=timeout, allow_redirects=True)
-            if (r.status_code >= 500 or r.status_code in (403, 429)) and attempt < attempts - 1:
+            retry_codes = (403, 429, 404) if is_yt else (403, 429)
+            if (r.status_code >= 500 or r.status_code in retry_codes) and attempt < attempts - 1:
                 last = RuntimeError(f'HTTP {r.status_code}')
                 time.sleep(4 * (attempt + 1) if r.status_code != 429 else 15 * (attempt + 1))
                 continue
@@ -84,6 +110,11 @@ def fetch(url, accept=None, attempts=3, timeout=None):
             return r.status_code, text, r.url
         except Exception as e:  # noqa: BLE001
             last = e
+            if 'SSLError' in type(e).__name__ or 'SSL' in str(e)[:200]:
+                if url.lower().startswith('https://') and not ssl_fallback_done:
+                    ssl_fallback_done = True
+                    url = 'http://' + url[8:]          # 证书坏了的小站：http 往往还活着
+                    continue
             time.sleep(3 * (attempt + 1))
     raise last or RuntimeError('fetch failed')
 
@@ -584,7 +615,16 @@ def write_status(customers, state, changes_by_layer):
     ab = [c for c in customers if c['layer'] in ('A', 'B')]
     if ab:
         n_src = sum(len(c['sources']) for c in ab)
+        cats = {}
+        for c in ab:
+            for s_ in c['sources']:
+                e = (state.get(f"{c['code']}/{s_['id']}") or {}).get('error')
+                if e:
+                    k = re.sub(r'\(.*', '', e).strip()[:36]
+                    cats[k] = cats.get(k, 0) + 1
+        cat_line = '；'.join(f'{k} ×{v}' for k, v in sorted(cats.items(), key=lambda x: -x[1])[:10]) or '无'
         L = ['# A/B 级客户 · 动态监控 · 当前状态（T29-U19）', '',
+             f'> 失败分类（最近一次状态）：{cat_line}。403 = 站点反爬（运行器 IP 被拦，人工看）；404 = 页面/频道不存在或 YouTube 拦截；SSL/连接/DNS 错误 = 站点本身问题，连续多轮失败再从清单摘掉。', '',
              f'> 本轮 {TS}。客户 {len(ab)} 家 / 源 {n_src} 个。清单 `scripts/web_watch/targets_auto.json`（discover.py 离线生成：首页 / sitemap / 新闻栏目 / YouTube / GitHub / Telegram / VK + 运行时自动发现的 feed）。'
              f'变化见 `变化日志_AB.md`；每客户文本快照在 `snapshots/<客户码>/`。「最近变化」= 任一源最近一次内容变化的时间（首轮 = 基线时间）；「人工看」= 有登录墙的社媒，链接在 targets_auto.json 的 manual 字段。', '',
              '| 客户 | 级 | 源数 | 本轮可达/失败 | 最近变化 | 最近变化摘要 | 人工看 |', '|---|---|---|---|---|---|---|']
