@@ -167,6 +167,9 @@ updated: 2026-10-23
 - **【Simon 口述】绑定等级：轻度绑定，且「卡在门槛」——Taylan 要把 Saga 管理型接入其 NMS（2025-03-23 要 MIB），但订单少、官网迟迟不用 Saga 产品图片（已委婉对 Levent 提过几次）**
   > Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出
   > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
+- **【Simon 文档】绑定等级（文档）：轻度绑定——「SmartByte 也背书了」；同文档记录 Larch（NOS/BSP/SONiC）与 Angora 有合作并主动联系 Saga，「Marvell 生态 → Larch → Angora → Saga」三方协同的可能**
+  > 土耳其 Angora　轻度绑定 = Smartbyte也背书了……Angora 跟 Larch 有合作，你又和 Angora 深度合作，Larch 又主动联系你
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Levent Kılıç（负责人/商务（付款、合同、项目））lkilic@angoranetworks.com +90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Taylan Esen（技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS））tesen@angoranetworks.com 〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕

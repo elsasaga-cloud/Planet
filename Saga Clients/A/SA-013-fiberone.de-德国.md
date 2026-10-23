@@ -138,6 +138,9 @@ updated: 2026-10-23
 - **【Simon 口述】绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高**
   > 尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定
   > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
+- **【Simon 文档】绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）**
+  > 德国 Frederik　轻度绑定 = Smartbyte也背书了
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A

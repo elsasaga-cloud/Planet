@@ -84,6 +84,9 @@ updated: 2026-10-23
 - **【Simon 口述】绑定等级：轻度绑定——客户官网宣传了 Saga 的型号**
   > 轻度：代表没那么死，如果客户官网宣传了我的型号 比如那个泰国客户，他网站是有我型号的，这就算轻度绑定了
   > 来源：docs/requirements/对话全记录.md § T29-U28（抓取 2026-10-23）
+- **【Simon 文档】绑定等级（文档）：轻度绑定——「网站已经宣传 Saga 型号比较久了」**
+  > 泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Peeranun Ratannabuajan（CEO）pomnong9@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 

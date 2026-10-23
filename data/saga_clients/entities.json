@@ -5532,6 +5532,13 @@
 "quote": "尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定",
 "url": "docs/requirements/对话全记录.md § T29-U28",
 "date": "2026-10-23"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）",
+"quote": "德国 Frederik　轻度绑定 = Smartbyte也背书了",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
@@ -62424,6 +62431,13 @@
 "quote": "Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出",
 "url": "docs/requirements/对话全记录.md § T29-U28",
 "date": "2026-10-23"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级（文档）：轻度绑定——「SmartByte 也背书了」；同文档记录 Larch（NOS/BSP/SONiC）与 Angora 有合作并主动联系 Saga，「Marvell 生态 → Larch → Angora → Saga」三方协同的可能",
+"quote": "土耳其 Angora　轻度绑定 = Smartbyte也背书了……Angora 跟 Larch 有合作，你又和 Angora 深度合作，Larch 又主动联系你",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -62782,6 +62796,13 @@
 "quote": "Angora james这些都是轻度绑定，都是基于沟通，客户订单和实际使用等等角度来衡量的……这个主要就是指加拿大成单的James 其他的似乎没了",
 "url": "docs/requirements/对话全记录.md § T29-U28",
 "date": "2026-10-23"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级（文档）：轻度绑定——「前期客户投入了较大精力，产品也没啥问题」",
+"quote": "加拿大 James　轻度绑定 = 前期客户投入了较大精力，产品也没啥问题",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -63101,6 +63122,13 @@
 "quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
 "url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
 "date": "2026-10-23"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）",
+"quote": "尼日利亚 Mbata　轻度绑定=转账啥的都OK",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -63151,7 +63179,9 @@
 "deep": {
 "done_at": "2026-10-23",
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
-}
+},
+"binding_level": "轻度",
+"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
 }
 },
 {
@@ -63362,6 +63392,13 @@
 "quote": "轻度：代表没那么死，如果客户官网宣传了我的型号 比如那个泰国客户，他网站是有我型号的，这就算轻度绑定了",
 "url": "docs/requirements/对话全记录.md § T29-U28",
 "date": "2026-10-23"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级（文档）：轻度绑定——「网站已经宣传 Saga 型号比较久了」",
+"quote": "泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -283012,6 +283049,13 @@
 "quote": "müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır",
 "url": "https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685",
 "date": "2026-06-16"
+},
+{
+"kind": "Simon 文档",
+"claim": "绑定等级：轻度绑定——「SmartByte 也背书了」",
+"quote": "土耳其 Netas　轻度绑定 = Smartbyte也背书了",
+"url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+"date": "2026-10-22"
 }
 ],
 "kp": [
@@ -283085,7 +283129,9 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SB-473",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
-}
+},
+"binding_level": "轻度",
+"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
 }
 },
 {

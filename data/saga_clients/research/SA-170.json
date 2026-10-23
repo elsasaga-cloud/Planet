@@ -118,6 +118,13 @@
    "quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
    "url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
    "date": "2026-10-23"
+  },
+  {
+   "kind": "Simon 文档",
+   "claim": "绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）",
+   "quote": "尼日利亚 Mbata　轻度绑定=转账啥的都OK",
+   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -168,5 +175,7 @@
  "deep": {
   "done_at": "2026-10-23",
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- }
+ },
+ "binding_level": "轻度",
+ "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
 }

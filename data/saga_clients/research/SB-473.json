@@ -63,6 +63,13 @@
    "quote": "müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır",
    "url": "https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685",
    "date": "2026-06-16"
+  },
+  {
+   "kind": "Simon 文档",
+   "claim": "绑定等级：轻度绑定——「SmartByte 也背书了」",
+   "quote": "土耳其 Netas　轻度绑定 = Smartbyte也背书了",
+   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+   "date": "2026-10-22"
   }
  ],
  "kp": [
@@ -136,5 +143,7 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SB-473",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
- }
+ },
+ "binding_level": "轻度",
+ "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
 }

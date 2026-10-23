@@ -81,6 +81,9 @@ updated: 2026-10-23
 - **【公开平台核查（T29-U18）】2026-06 KAP 披露：来自土耳其头部运营商 19,584,122 美元服务器订单，2026 年内交付，售后 7 年**
   > müşterisinden sunucu satışına ilişkin olarak 19.584.122 ABD Doları tutarında sipariş almıştır
   > 来源：https://www.cnbce.com/borsa/netas-duyurdu-turkiyenin-onde-gelen-telekom-operatorunden-195-milyon-dolarlik-sunucu-siparisi-h31685（抓取 2026-06-16）
+- **【Simon 文档】绑定等级：轻度绑定——「SmartByte 也背书了」**
+  > 土耳其 Netas　轻度绑定 = Smartbyte也背书了
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Ender Bulut（（自建站询盘人；职务待核））ebulut@netas.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Burak Ozdemir（单据联系人）buozdemir@netas.com.tr 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A

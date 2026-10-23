@@ -96,6 +96,9 @@ updated: 2026-10-23
 - **【公开平台核查（T29-U18）】尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备**
   > BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment
   > 来源：http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/（抓取 2026-10-23）
+- **【Simon 文档】绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）**
+  > 尼日利亚 Mbata　轻度绑定=转账啥的都OK
+  > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Valentine Mbata（单据联系人）info@belnetworks.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
 
