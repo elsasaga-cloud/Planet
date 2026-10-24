@@ -102,7 +102,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
     },

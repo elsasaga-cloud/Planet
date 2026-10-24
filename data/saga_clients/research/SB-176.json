@@ -72,7 +72,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → gluszek.tomasz@gmail.com",
       "action": "首封：按 email_hook 一问",
       "one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
     },

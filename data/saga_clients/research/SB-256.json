@@ -83,7 +83,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → digital_sys@hotmail.com（Jayesh Patel）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },

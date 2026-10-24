@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → sales@technoversebs.com（Suyash Mishra） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。
 - **断点 / 为什么停在这里**：品牌经销为主，白牌接受度待验证
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——经销补白牌 PoE 线 → STC-28DGGPM（$80.7 @20%）。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@technoversebs.com（Suyash Mishra）　首封：按 email_hook 一问
   - 第一问（只问一个）：Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

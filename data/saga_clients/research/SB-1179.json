@@ -127,7 +127,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
       "one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },

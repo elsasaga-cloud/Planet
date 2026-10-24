@@ -115,7 +115,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@oralguvenlik.com（Muhammad Azeem (Ullah)）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
     },

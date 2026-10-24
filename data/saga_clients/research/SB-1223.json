@@ -99,7 +99,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@norteh.com（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
       "one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },

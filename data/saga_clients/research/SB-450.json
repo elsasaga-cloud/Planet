@@ -102,7 +102,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → sales@mrdsdistributers.com（Manishkumar Patel）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
     },

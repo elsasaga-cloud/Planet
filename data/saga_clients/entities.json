@@ -45051,7 +45051,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → admin-dir@medias-coms.ch",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -54318,7 +54318,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → luthra@win-alliance.com（Harvinder Luthra）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
 },
@@ -54731,7 +54731,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@advancedigital.co.in（Subodh）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -59584,7 +59584,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → vadim@nbs.ee",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
 },
@@ -60355,7 +60355,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）",
 "action": "首封：按 email_hook 一问",
 "one_question": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
 },
@@ -62803,7 +62803,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → chirag.s@a-ites.com（Chirag Shah）",
 "action": "首封：按 email_hook 一问",
 "one_question": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?"
 },
@@ -64060,7 +64060,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?"
 },
@@ -66757,7 +66757,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → contact@technosys.co.in（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
 },
@@ -68341,7 +68341,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → bilge.guvenlik@hotmail.com",
 "action": "首封：按 email_hook 一问",
 "one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?"
 },
@@ -71663,7 +71663,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → acan@cansisteknoloji.com（Ahmet Can）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
 },
@@ -73131,7 +73131,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@voltechelektronik.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $145.7 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?"
 },
@@ -87922,7 +87922,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → hemanth@nivoxtech.com（Hemanth Kumar）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -88493,7 +88493,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@regionprof.ru（Коровина Марина Григорьевна）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?"
 },
@@ -91882,7 +91882,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → alban.beqiri@storm.ict.com（Alban S. Beqiri）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Following our chat at ISAF about managed industrial PoE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, $145.7 EXW at 25-unit tier — how many units does your next infrastructure project in Pristina or Skopje need?"
 },
@@ -95632,7 +95632,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → serdar.turker@desecure.com.tr（Serdar Türker）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?"
 },
@@ -95913,7 +95913,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → ercan@fasttr.com（Ercan Erinç）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ercan Bey, ISAF'ta sorduğunuz 5 port endüstriyel PoE switch: DIN ray 4 PoE + 1 uplink, 48 V DC giriş (Meanwell DIN kaynaklarınızla uyumlu), −40/+75 °C, distribütör fiyatı EXW 31,2 USD — bayi ağınız için ilk sipariş 50 adet olur mu?"
 },
@@ -96977,7 +96977,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?"
 },
@@ -97472,7 +97472,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@oralguvenlik.com（Muhammad Azeem (Ullah)）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
 },
@@ -98051,7 +98051,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?"
 },
@@ -98306,7 +98306,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@ag-bilgisayar.com（Aycan Çam）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?"
 },
@@ -103807,7 +103807,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?"
 },
@@ -113713,7 +113713,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → in@trassir.ru",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -114417,7 +114417,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@vilcom.ru（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -115816,7 +115816,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@dexi.ru（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -117694,7 +117694,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → bilecik@hotmail.com（Necdet Şenkaya）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Necdet Bey, ISAF'ta istediğiniz endüstriyel PoE switch: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD EXW — firma adınız ve adet bilgisini yazarsanız resmi teklif göndereyim."
 },
@@ -119889,7 +119889,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
 },
@@ -125808,7 +125808,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?"
 },
@@ -139114,7 +139114,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@fybera.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -143583,7 +143583,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → admin@montavue.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -144933,7 +144933,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → switch@netstar.in",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -146919,7 +146919,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@silarius.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -164017,7 +164017,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?"
 },
@@ -166199,7 +166199,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@abigo4u.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -166988,7 +166988,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@adj.it（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -167206,7 +167206,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@agmultivision.it（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the switches behind your digital-signage and visitor-attraction installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count do your AV projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -167420,7 +167420,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -167638,7 +167638,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@algosolutions.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -168626,7 +168626,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → gina.c@amplicon.com（Gina C.）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?"
 },
@@ -169016,7 +169016,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sonja.geserick@aplusnet.de（Sonja Geserick）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -169945,7 +169945,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@audio.com.tr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -170164,7 +170164,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@avnordic.se（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -170919,7 +170919,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → shop@batna24.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -171158,7 +171158,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -172085,7 +172085,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → petru.pislariu@bluenote.ro（Petru Pislariu）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -172300,7 +172300,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@br-network.de（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?"
 },
@@ -172673,7 +172673,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → contact@cae-groupe.fr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -173537,7 +173537,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → tomasz.wieczorek@cellco.com.pl（Tomasz Wieczorek）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -174357,7 +174357,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -175529,7 +175529,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -177167,7 +177167,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@fibersavvy.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -177445,7 +177445,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → anne.ekblad@fibersystem.com（Anne Ekblad）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -179017,7 +179017,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → tina@gogss.com（Tina）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -179800,7 +179800,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@grinsrl.it（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -180029,7 +180029,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -180496,7 +180496,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → vertrieb@ico.de",
 "action": "首封：按 email_hook 一问",
 "one_question": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
 },
@@ -181918,7 +181918,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@iotkomponenty.sk（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -182134,7 +182134,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@zeevalk.nl（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -182351,7 +182351,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -183093,7 +183093,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → kontakt@ivolta.pl（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Utepo PoE switches in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -184164,7 +184164,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@kdelectronics.ie（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -184744,7 +184744,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@klemsan.com.tr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -186071,7 +186071,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@mikrodev.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -186758,7 +186758,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → timisoara@mondoplast.net",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -187240,7 +187240,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@neteon.net（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -187462,7 +187462,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@norteh.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -187670,7 +187670,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@obserwuj.pl（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -189468,7 +189468,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → oferty@delta.poznan.pl",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -189917,7 +189917,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -190382,7 +190382,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → m.colli@reweb.it",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -191153,7 +191153,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@sielcosistemi.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -191405,7 +191405,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → contacto@securame.com",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?"
 },
@@ -192120,7 +192120,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@setik.biz（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?"
 },
@@ -192321,7 +192321,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -193505,7 +193505,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@spesaelettrica.it（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -193757,7 +193757,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?"
 },
@@ -194638,7 +194638,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@standardaudio.se（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -195056,7 +195056,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → villa@frekvent.com",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -195268,7 +195268,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → esklep@tayama.pl",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -195690,7 +195690,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → office@tehnoelectric.ro（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -198046,7 +198046,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@vercoma.nl（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -198415,7 +198415,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@videobits.co.uk（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -198633,7 +198633,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → grenton@vidom.pl",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -198853,7 +198853,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@westpennwire.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -199407,7 +199407,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@sabaindia.com（R. Sampath Kumar）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?"
 },
@@ -200073,7 +200073,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@zxtech.co（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most? Reference: STC-204GP at $26.2 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -201897,7 +201897,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -202334,7 +202334,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找）",
 "action": "首封：按 email_hook 一问",
 "one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -225589,7 +225589,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → gluszek.tomasz@gmail.com",
 "action": "首封：按 email_hook 一问",
 "one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -235370,7 +235370,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → charles@softwareeffect.com（Charles H. Deling）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -235600,7 +235600,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → orders@tecside.be（Giovanni Desramault）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer in three lines: our Marvell line has 2.5G only on the SFP/SFP+ cages (copper access 1G); our commercial Realtek line does have 2.5G copper — 8 x 2.5G PoE + 1 x 10G SFP web-managed at $66 USD EXW, or 8 x 10G multi-gig copper + 4 x 10G SFP+ web-managed (non-PoE) at $204 USD EXW (2026-10 price table, valid 15 days); and multi-gig PoE++ rack units sit on the CENTEC line from 16 ports. IGMP snooping on all, CE/RoHS, neutral brand — which of the two Realtek units is closer to the AV job, or is 4 x 10G SFP+ with PoE mandatory in one box?"
 },
@@ -235842,7 +235842,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@tier1ds.com（Sameer JamJam）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -240455,7 +240455,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → karasu@fiberix.com.tr（Karasu）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?"
 },
@@ -242716,7 +242716,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -246831,7 +246831,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → jon@virtualprotective.com（Jonathan Byrd）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -249970,7 +249970,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sclcule.o@camsanordu.com",
 "action": "首封：按 email_hook 一问",
 "one_question": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?"
 },
@@ -250478,7 +250478,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → naktar@antalyaturkuaz.com（Gökhan Naktar）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
 },
@@ -251952,7 +251952,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → digital_sys@hotmail.com（Jayesh Patel）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -256719,7 +256719,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → service@bwsystems.de（Hans Georg Werner）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -261470,7 +261470,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）",
 "action": "首封：按 email_hook 一问",
 "one_question": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?"
 },
@@ -265871,7 +265871,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → rkahir65@gmail.com（Rk Ahir）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?"
 },
@@ -281917,7 +281917,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → savas@3s.com.tr（Savaş Tulgar）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Savaş Bey, ISAF'ta istediğiniz endüstriyel switch için: DIN ray 8 port gigabit + 2 SFP, PoE'li 59,8 USD / PoE'siz 48,6 USD, yönetilebilir 145,7 USD (EXW) — uygulamanızda PoE ve yönetim gerekiyor mu?"
 },
@@ -283732,7 +283732,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → bilgi@proves.com.tr（Serdar Karasu）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
 },
@@ -288559,7 +288559,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → hasti@fhguvenlik.com（Hasti F. Göller）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?"
 },
@@ -290249,7 +290249,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → m.demirel@makrosisas.com.tr（Mustafa Demirel）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli)."
 },
@@ -294146,7 +294146,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → ufuk.goren@sfpturkey.com.tr（Ufuk Gören）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 77,0 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
 },
@@ -299263,7 +299263,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））",
 "action": "首封：按 email_hook 一问",
 "one_question": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?"
 },
@@ -316593,7 +316593,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（maxlink.cz 官网 /kontakt；库内无邮箱）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -318162,7 +318162,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -320581,7 +320581,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@mrdsdistributers.com（Manishkumar Patel）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -321307,7 +321307,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → procurement@novytel.cz（Miloš Holec）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -325795,7 +325795,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -334073,7 +334073,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（diteksurgeprotection.com 官网联系页；库内无邮箱）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -366571,7 +366571,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
 },
@@ -369337,7 +369337,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@cablematic.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the BeMatik-branded PoE switches and media converters, we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail gigabit models under your label from small lots, CE/RoHS, neutral packing — which BeMatik SKU is due for a refresh first, the PoE switch or the media converter? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -370130,7 +370130,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@energus.eu（Daniel Šuškevič）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
 },
@@ -370596,7 +370596,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@fourline.com.tr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
 },
@@ -374850,7 +374850,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → biuro@vidos.pl（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -381526,7 +381526,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → cumhur@aniltelekom.com（Cumhur Ölmez）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
 },
@@ -393005,7 +393005,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sucheytaa@grypen.in（Shubham Kumar）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -395232,7 +395232,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → dia@opatov.ru（Igor Dashchinski）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -396042,7 +396042,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@technoversebs.com（Suyash Mishra）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Suyash, next to the TP-Link / Netgear PoE lines you resell — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW (neutral box, 1-year warranty (commercial line)); worth a 5-pc trial for SMB CCTV jobs?"
 },
@@ -423546,7 +423546,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?"
 },
@@ -447756,7 +447756,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → dponjavic@gmail.com（Dušan Ponjavić）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -465719,7 +465719,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@datastream.by（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -465912,7 +465912,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@deponet.com.tr（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -468515,7 +468515,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@istream.by（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -470120,7 +470120,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@nabludenie.by（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -471204,7 +471204,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → sales@server-x.by（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -472234,7 +472234,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@t-automation.by（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -494135,7 +494135,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → 待找地址（ltv-cctv.ru 官网联系页；库内无邮箱）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the industrial PoE switches in the LTV range, we can be a second ODM source (DIN-rail 4/8-PoE + SFP, managed on Marvell L2+ or unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -495575,7 +495575,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@nexlar.com（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -496889,7 +496889,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@polyvision.ru（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -497509,7 +497509,7 @@
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@sarmatt.ru（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
 "one_question": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },

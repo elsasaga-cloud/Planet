@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料；首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → charles@softwareeffect.com（Charles H. Deling） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
 - **断点 / 为什么停在这里**：小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料
 - **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → charles@softwareeffect.com（Charles H. Deling）　首封：按 email_hook 一问
   - 第一问（只问一个）：Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

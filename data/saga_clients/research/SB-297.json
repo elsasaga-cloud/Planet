@@ -82,7 +82,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → rkahir65@gmail.com（Rk Ahir）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?"
     },

@@ -102,7 +102,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → procurement@novytel.cz（Miloš Holec）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },

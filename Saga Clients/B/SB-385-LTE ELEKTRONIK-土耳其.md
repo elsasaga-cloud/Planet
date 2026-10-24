@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核）） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
 - **断点 / 为什么停在这里**：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）
 - **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））　首封：按 email_hook 一问
   - 第一问（只问一个）：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

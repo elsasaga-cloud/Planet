@@ -83,7 +83,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → 待找地址（Suraj Katte，2023-08 要过价格册；库内无邮箱——先在 S 邮箱 2023-08 往来里找）",
       "action": "首封：按 email_hook 一问",
       "one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },

@@ -1,120 +1,120 @@
 {
- "code": "SB-1152",
- "name_official": "Amplicon Liveline Ltd（布莱顿，英国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（amplicon.com，快照 2026-10-21）",
- "summary": "英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Hirschmann",
-  "Advantech",
-  "Moxa",
-  "Case Communications"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "工业计算、数据通信、测控、安防自动化，服务集成商 / OEM / 制造商；品牌 Cisco / Hirschmann / Advantech / Moxa；+44 (0)1273 570 220",
-   "quote": "Amplicon supply Industrial Computing, Data Communications, Measurement and Control, Security Automation solutions to systems integrators, OEMs and manufacturers",
-   "url": "https://amplicon.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 很多牌子的销售平台；有 Case Communications 的",
-   "quote": "兴趣：工业FS 很多牌子的 销售平台 有case communication的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Gina C.",
-   "title": "（表内联系人）",
-   "email": "gina.c@amplicon.com",
-   "phone": "+44 1273 570 220",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Amplicon Liveline Ltd",
-  "founded": "1973（待核）",
-  "hq": "Brighton, UK",
-  "size": "中型工业分销商（50+ 人）",
-  "other": "工业网络多品牌"
- },
- "business_lines": [
-  "工业计算 / 数据通信分销",
-  "测控 / 安防自动化"
- ],
- "channels": {
-  "role": "工业分销商（多品牌）",
-  "region": "英国"
- },
- "signals": [
-  "工业网络多品牌（Hirschmann / Moxa 高价位）→ 低价工业线有位置",
-  "面向 OEM 客户 → 白牌需求"
- ],
- "risks": [
-  "英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。"
- },
- "email_hook": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业FS 很多牌子的 销售平台 有case communication的」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS 很多牌子的 销售平台 有case communication的」；研究档 risks：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长"
-  },
-  "situation": "英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。",
-  "need": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。",
-  "breakpoint": "英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS 很多牌子的 销售平台 有case communication的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1152",
+  "name_official": "Amplicon Liveline Ltd（布莱顿，英国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（amplicon.com，快照 2026-10-21）",
+  "summary": "英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "Hirschmann",
+    "Advantech",
+    "Moxa",
+    "Case Communications"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "工业计算、数据通信、测控、安防自动化，服务集成商 / OEM / 制造商；品牌 Cisco / Hirschmann / Advantech / Moxa；+44 (0)1273 570 220",
+      "quote": "Amplicon supply Industrial Computing, Data Communications, Measurement and Control, Security Automation solutions to systems integrators, OEMs and manufacturers",
+      "url": "https://amplicon.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 很多牌子的销售平台；有 Case Communications 的",
+      "quote": "兴趣：工业FS 很多牌子的 销售平台 有case communication的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Gina C.",
+      "title": "（表内联系人）",
+      "email": "gina.c@amplicon.com",
+      "phone": "+44 1273 570 220",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Amplicon Liveline Ltd",
+    "founded": "1973（待核）",
+    "hq": "Brighton, UK",
+    "size": "中型工业分销商（50+ 人）",
+    "other": "工业网络多品牌"
+  },
+  "business_lines": [
+    "工业计算 / 数据通信分销",
+    "测控 / 安防自动化"
+  ],
+  "channels": {
+    "role": "工业分销商（多品牌）",
+    "region": "英国"
+  },
+  "signals": [
+    "工业网络多品牌（Hirschmann / Moxa 高价位）→ 低价工业线有位置",
+    "面向 OEM 客户 → 白牌需求"
+  ],
+  "risks": [
+    "英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。"
+  },
+  "email_hook": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业FS 很多牌子的 销售平台 有case communication的」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS 很多牌子的 销售平台 有case communication的」；研究档 risks：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长"
+    },
+    "situation": "英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。",
+    "need": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。",
+    "breakpoint": "英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → gina.c@amplicon.com（Gina C.）",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业FS 很多牌子的 销售平台 有case communication的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,117 +1,117 @@
 {
- "code": "SB-1241",
- "name_official": "Setik S.r.l.（意大利）",
- "researched_at": "2026-10-21",
- "website_status": "在线（setik.biz，快照 2026-10-21）",
- "summary": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Hikvision",
-  "ZKTeco",
-  "TP-Link"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "CCTV、监控套件、报警、对讲电商；品牌 Dahua / Hikvision / ZKTeco / TP-Link；+39 0362 1855440",
-   "quote": "Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik… brands Dahua, Hikvision, ZKTeco, TP-Link",
-   "url": "https://setik.biz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch；质量一般",
-   "quote": "兴趣：switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@setik.biz",
-   "phone": "+39 0362 185 5440",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Setik S.r.l.（待核）",
-  "founded": "",
-  "hq": "Lombardia, Italy（+39 0362）",
-  "size": "中小型安防电商",
-  "other": ""
- },
- "business_lines": [
-  "安防电商"
- ],
- "channels": {
-  "role": "电商 / 分销",
-  "region": "意大利"
- },
- "signals": [
-  "PoE 交换机为配套品类"
- ],
- "risks": [
-  "仅 info@；电商比价"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。"
- },
- "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：switch」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：switch」；研究档 risks：仅 info@；电商比价"
-  },
-  "situation": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
-  "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
-  "breakpoint": "仅 info@；电商比价",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1241",
+  "name_official": "Setik S.r.l.（意大利）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（setik.biz，快照 2026-10-21）",
+  "summary": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Hikvision",
+    "ZKTeco",
+    "TP-Link"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "CCTV、监控套件、报警、对讲电商；品牌 Dahua / Hikvision / ZKTeco / TP-Link；+39 0362 1855440",
+      "quote": "Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik… brands Dahua, Hikvision, ZKTeco, TP-Link",
+      "url": "https://setik.biz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch；质量一般",
+      "quote": "兴趣：switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@setik.biz",
+      "phone": "+39 0362 185 5440",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Setik S.r.l.（待核）",
+    "founded": "",
+    "hq": "Lombardia, Italy（+39 0362）",
+    "size": "中小型安防电商",
+    "other": ""
+  },
+  "business_lines": [
+    "安防电商"
+  ],
+  "channels": {
+    "role": "电商 / 分销",
+    "region": "意大利"
+  },
+  "signals": [
+    "PoE 交换机为配套品类"
+  ],
+  "risks": [
+    "仅 info@；电商比价"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。"
+  },
+  "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：switch」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：switch」；研究档 risks：仅 info@；电商比价"
+    },
+    "situation": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
+    "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
+    "breakpoint": "仅 info@；电商比价",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@setik.biz（无具名 KP；公用地址）",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

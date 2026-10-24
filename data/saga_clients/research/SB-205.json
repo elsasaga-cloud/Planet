@@ -116,7 +116,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → sales@tier1ds.com（Sameer JamJam）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
     },

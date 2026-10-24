@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7）作标准答复；带光 bypass 用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，$194.3，Saga 暂无对应型号）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@ag-bilgisayar.com（Aycan Çam） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7）作标准答复；带光 bypass 用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，$194.3，Saga 暂无对应型号）
 - **断点 / 为什么停在这里**：微型本地安装商、单量小；bypass 仅 SmartByte 4 SFP 版（$194.3）→ 价格可能超预期；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7）作标准答复；带光 bypass 用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，$194.3，Saga 暂无对应型号）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@ag-bilgisayar.com（Aycan Çam）　首封：按 email_hook 一问
   - 第一问（只问一个）：Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 145,7 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

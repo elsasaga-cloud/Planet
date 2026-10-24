@@ -113,7 +113,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）",
       "action": "首封：按 email_hook 一问",
       "one_question": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
     },

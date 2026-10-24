@@ -1,103 +1,103 @@
 {
- "code": "SB-058",
- "name_official": "Labor Mühendislik（labormuhendislik.com.tr，TR；官网未检索到）",
- "researched_at": "2026-10-21",
- "website_status": "未检索到（搜索引擎无该域结果）",
- "summary": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "ISAF：不会英文；工业 PoE；要价格表",
-   "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ramazan Daş",
-   "role": "（ISAF 名片；职务待核）",
-   "email": "info@labormuhendislik.com.tr（用户表）",
-   "phone": "—",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "官网未检索到 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Labor Mühendislik（待核）",
-  "hq": "Türkiye（城市待核）",
-  "size": "待核（工程公司）",
-  "other": "仅 info@ 邮箱；不会英文"
- },
- "business_lines": [
-  "工程承包（Mühendislik；细分待核）"
- ],
- "channels": {
-  "邮箱": "info@labormuhendislik.com.tr（用户表）"
- },
- "signals": [
-  "主动要价格表 → 发土耳其语工业 PoE 价目（4/8/16 口）"
- ],
- "risks": [
-  "无公开资料；语言；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）"
- },
- "email_hook": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhend」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr」；研究档 risks：无公开资料；语言；无后续跟进"
-  },
-  "situation": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
-  "need": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）",
-  "breakpoint": "无公开资料；语言；无后续跟进",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-058",
+  "name_official": "Labor Mühendislik（labormuhendislik.com.tr，TR；官网未检索到）",
+  "researched_at": "2026-10-21",
+  "website_status": "未检索到（搜索引擎无该域结果）",
+  "summary": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：不会英文；工业 PoE；要价格表",
+      "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Ramazan Daş",
+      "role": "（ISAF 名片；职务待核）",
+      "email": "info@labormuhendislik.com.tr（用户表）",
+      "phone": "—",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "官网未检索到 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Labor Mühendislik（待核）",
+    "hq": "Türkiye（城市待核）",
+    "size": "待核（工程公司）",
+    "other": "仅 info@ 邮箱；不会英文"
+  },
+  "business_lines": [
+    "工程承包（Mühendislik；细分待核）"
+  ],
+  "channels": {
+    "邮箱": "info@labormuhendislik.com.tr（用户表）"
+  },
+  "signals": [
+    "主动要价格表 → 发土耳其语工业 PoE 价目（4/8/16 口）"
+  ],
+  "risks": [
+    "无公开资料；语言；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）"
+  },
+  "email_hook": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhend」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr」；研究档 risks：无公开资料；语言；无后续跟进"
+    },
+    "situation": "ISAF 记录：Ramazan Daş（info@labormuhendislik.com.tr）——不会英文，要工业级 PoE 交换机，拿了彩页，让发价格表；无后续跟进。域名 labormuhendislik.com.tr 在搜索引擎无结果（同名 labor.com.tr 为实验室耗材公司，非本客户）→ 仅表内信息；需求明确（工业 PoE + 价格表）→ 直接用土耳其语发报价。",
+    "need": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）",
+    "breakpoint": "无公开资料；语言；无后续跟进",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价格表首项；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@labormuhendislik.com.tr（Ramazan Daş）",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi ektedir: DIN ray 8 PoE + 2 SFP 59,8 USD, 4 PoE + 1 SFP 35,5 USD, yönetilebilir 8 PoE 145,7 USD (EXW) — projeniz için hangi port sayısı öncelikli?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

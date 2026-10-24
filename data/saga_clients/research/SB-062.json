@@ -1,114 +1,114 @@
 {
- "code": "SB-062",
- "name_official": "Acusense Teknoloji（Hikvision 网店/项目供应商，İstanbul, TR；acusenseteknoloji.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线（电商）",
- "summary": "伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Hikvision（主销）"
- ],
- "evidence": [
-  {
-   "kind": "电商站",
-   "claim": "业务与联系方式",
-   "quote": "Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi … Çağrı Merkezi 0542 839 68 98 0216 888 29 34 info@acusenseteknoloji.com … Hikvision Proje Ürünleri",
-   "url": "https://www.acusenseteknoloji.com/proje-urunler/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：不会英文；找工业 PoE",
-   "quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ümit Çelik",
-   "role": "（ISAF 名片；职务待核）",
-   "email": "info@acusenseteknoloji.com（用户表）",
-   "phone": "+90 542 839 68 98（公司 GSM，公开）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（电商站核对）"
- },
- "company_facts": {
-  "legal_name": "Acusense Teknoloji（待核法人）",
-  "hq": "İstanbul（亚洲侧，0216）（+90 216 888 29 34；info@acusenseteknoloji.com）",
-  "size": "小型电商/项目商",
-  "other": "Hikvision 全线（含 AcuSense/DeepinView 项目机型）"
- },
- "business_lines": [
-  "Hikvision 摄像/NVR 电商与项目供货"
- ],
- "channels": {
-  "电商": "https://www.acusenseteknoloji.com/",
-  "电话": "+90 216 888 29 34 / +90 542 839 68 98（公开）",
-  "邮箱（公开）": "info@acusenseteknoloji.com"
- },
- "signals": [
-  "Hikvision 项目机型（高温/PTZ）多为工业现场 → 工业 PoE 交换机可作网店新增品类并随项目出货"
- ],
- "risks": [
-  "电商比价；语言；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）"
- },
- "email_hook": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」；研究档 risks：电商比价；语言；无后续跟进"
-  },
-  "situation": "伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。",
-  "need": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）",
-  "breakpoint": "电商比价；语言；无后续跟进",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-062",
+  "name_official": "Acusense Teknoloji（Hikvision 网店/项目供应商，İstanbul, TR；acusenseteknoloji.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（电商）",
+  "summary": "伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Hikvision（主销）"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "电商站",
+      "claim": "业务与联系方式",
+      "quote": "Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi … Çağrı Merkezi 0542 839 68 98 0216 888 29 34 info@acusenseteknoloji.com … Hikvision Proje Ürünleri",
+      "url": "https://www.acusenseteknoloji.com/proje-urunler/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：不会英文；找工业 PoE",
+      "quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ümit Çelik",
+      "role": "（ISAF 名片；职务待核）",
+      "email": "info@acusenseteknoloji.com（用户表）",
+      "phone": "+90 542 839 68 98（公司 GSM，公开）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（电商站核对）"
+  },
+  "company_facts": {
+    "legal_name": "Acusense Teknoloji（待核法人）",
+    "hq": "İstanbul（亚洲侧，0216）（+90 216 888 29 34；info@acusenseteknoloji.com）",
+    "size": "小型电商/项目商",
+    "other": "Hikvision 全线（含 AcuSense/DeepinView 项目机型）"
+  },
+  "business_lines": [
+    "Hikvision 摄像/NVR 电商与项目供货"
+  ],
+  "channels": {
+    "电商": "https://www.acusenseteknoloji.com/",
+    "电话": "+90 216 888 29 34 / +90 542 839 68 98（公开）",
+    "邮箱（公开）": "info@acusenseteknoloji.com"
+  },
+  "signals": [
+    "Hikvision 项目机型（高温/PTZ）多为工业现场 → 工业 PoE 交换机可作网店新增品类并随项目出货"
+  ],
+  "risks": [
+    "电商比价；语言；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）"
+  },
+  "email_hook": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik」；研究档 risks：电商比价；语言；无后续跟进"
+    },
+    "situation": "伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。",
+    "need": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）",
+    "breakpoint": "电商比价；语言；无后续跟进",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik）",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

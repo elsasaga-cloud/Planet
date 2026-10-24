@@ -110,7 +110,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → karasu@fiberix.com.tr（Karasu）",
       "action": "首封：按 email_hook 一问",
       "one_question": "Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?"
     },

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低；首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → sales@tier1ds.com（Sameer JamJam） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低
 - **断点 / 为什么停在这里**：RFQ 指定 Cisco：品牌货需求，白牌契合低
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@tier1ds.com（Sameer JamJam）　首封：按 email_hook 一问
   - 第一问（只问一个）：Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

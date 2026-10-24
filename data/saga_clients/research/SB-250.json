@@ -1,128 +1,128 @@
 {
- "code": "SB-250",
- "name_official": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司历史与总部",
-   "quote": "1984 yılında Türkiye, Orta Doğu ve Balkanların ilk, Avrupa'nın dördüncü MDF üreticisi olarak Ordu'da kurulan … 2011 yılından itibaren ÇAMSAN ORDU … 0 312 446 92 92 … info@camsanordu.com … Kızılırmak Mah. Dumlupınar Bul. A Blok No: 9A İç Kapı No: 685 (YDA Center 17. Kat) Çankaya / ANKARA",
-   "url": "https://camsanordu.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "员工数",
-   "quote": "Camsan Ordu Agac A.S. … incorporated on February 25, 2011. The total number of employees is currently 780 (2026).",
-   "url": "https://www.emis.com/php/company-profile/TR/Camsan_Ordu_Agac_AS_en_3324679.html",
-   "date": "2026-05-27"
-  },
-  {
-   "kind": "名录",
-   "claim": "MDF3 投资",
-   "quote": "Çamsan Ordu made a huge investment of 70 million Euros for the new MDF 3 facility in 2019",
-   "url": "https://www.tradeatlas.com/en/company-hs-codes/camsan-ordu-agac-sanayi-ve-tic-as/turkey?company-code=3YcDF5He",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：拿彩页未交谈；邮箱待核",
-   "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（姓名待核；邮箱前缀 sclcule.o）",
-   "role": "（ISAF 名片；用户表注：邮箱需与客户再确认）",
-   "email": "sclcule.o@camsanordu.com（用户表，待核）",
-   "phone": "—",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.",
-  "founded": "1984（工厂）/ 2011-02-25（现法人）",
-  "hq": "Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00）",
-  "size": "780 人（EMIS 2026）；501–1,000（LinkedIn）",
-  "other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂"
- },
- "business_lines": [
-  "MDF / 层压板 / 强化地板制造与出口"
- ],
- "channels": {
-  "网站": "https://camsanordu.com/",
-  "电话": "+90 312 446 92 92（总部，公开）",
-  "邮箱（公开）": "info@camsanordu.com"
- },
- "signals": [
-  "大型木业工厂（粉尘/宽温/长距离光纤）= 工业 DIN 交换机与 MC 的典型自用场景；MDF3 新线 = 新建网络点位",
-  "工厂采购走 IT/电气部门 → 需先确认联系人"
- ],
- "risks": [
-  "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）"
- },
- "email_hook": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；研究档 risks：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
-  },
-  "situation": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
-  "need": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
-  "breakpoint": "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-250",
+  "name_official": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司历史与总部",
+      "quote": "1984 yılında Türkiye, Orta Doğu ve Balkanların ilk, Avrupa'nın dördüncü MDF üreticisi olarak Ordu'da kurulan … 2011 yılından itibaren ÇAMSAN ORDU … 0 312 446 92 92 … info@camsanordu.com … Kızılırmak Mah. Dumlupınar Bul. A Blok No: 9A İç Kapı No: 685 (YDA Center 17. Kat) Çankaya / ANKARA",
+      "url": "https://camsanordu.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "员工数",
+      "quote": "Camsan Ordu Agac A.S. … incorporated on February 25, 2011. The total number of employees is currently 780 (2026).",
+      "url": "https://www.emis.com/php/company-profile/TR/Camsan_Ordu_Agac_AS_en_3324679.html",
+      "date": "2026-05-27"
+    },
+    {
+      "kind": "名录",
+      "claim": "MDF3 投资",
+      "quote": "Çamsan Ordu made a huge investment of 70 million Euros for the new MDF 3 facility in 2019",
+      "url": "https://www.tradeatlas.com/en/company-hs-codes/camsan-ordu-agac-sanayi-ve-tic-as/turkey?company-code=3YcDF5He",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：拿彩页未交谈；邮箱待核",
+      "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "（姓名待核；邮箱前缀 sclcule.o）",
+      "role": "（ISAF 名片；用户表注：邮箱需与客户再确认）",
+      "email": "sclcule.o@camsanordu.com（用户表，待核）",
+      "phone": "—",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.",
+    "founded": "1984（工厂）/ 2011-02-25（现法人）",
+    "hq": "Kızılırmak Mah. Dumlupınar Bul. A Blok No:9A İç Kapı 685 (YDA Center K:17) Çankaya / Ankara；工厂 Uzunisa Kökenli Köyü, Ordu（+90 452 225 53 00）",
+    "size": "780 人（EMIS 2026）；501–1,000（LinkedIn）",
+    "other": "MDF、MDFLAM、强化地板；MDF3 投资 7,000 万欧元（2019）；参股 Kolçam 刨花板厂"
+  },
+  "business_lines": [
+    "MDF / 层压板 / 强化地板制造与出口"
+  ],
+  "channels": {
+    "网站": "https://camsanordu.com/",
+    "电话": "+90 312 446 92 92（总部，公开）",
+    "邮箱（公开）": "info@camsanordu.com"
+  },
+  "signals": [
+    "大型木业工厂（粉尘/宽温/长距离光纤）= 工业 DIN 交换机与 MC 的典型自用场景；MDF3 新线 = 新建网络点位",
+    "工厂采购走 IT/电气部门 → 需先确认联系人"
+  ],
+  "risks": [
+    "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）"
+  },
+  "email_hook": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；研究档 risks：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈"
+    },
+    "situation": "土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。",
+    "need": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
+    "breakpoint": "终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → sclcule.o@camsanordu.com",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

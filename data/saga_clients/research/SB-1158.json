@@ -96,7 +96,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@audio.com.tr（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
       "one_question": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },

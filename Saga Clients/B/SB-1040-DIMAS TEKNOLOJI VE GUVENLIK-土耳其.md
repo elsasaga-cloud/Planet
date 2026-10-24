@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：SFP 未在价格表；微型；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-110GE（工业千兆 MC，$23.4）+ SFP 模块（向 SmartByte 另询）作光纤接入组合；交换机 STC-228GP（$30.8）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → dimasteknoloji@gmail.com（Mustafa Yıldız）　首封：按 email_hook 一问
   - 第一问（只问一个）：Mustafa Bey, Türkiye'de bayimiz yok, doğrudan fabrikadan gönderiyoruz; SFP modül fiyatını adet ve mesafe (1G/10G, 10/20 km) bilgisiyle verebilirim, yanında endüstriyel medya çevirici 23,4 USD EXW — kaç adet ve hangi tip modül lazım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

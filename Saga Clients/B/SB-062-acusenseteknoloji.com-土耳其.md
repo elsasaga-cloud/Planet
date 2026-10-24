@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：电商比价；语言；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——项目/电商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）配 Hikvision 工业现场；管理型 STI-288DGGPM（$145.7）；网店走量 STC-228GP（$30.8）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@acusenseteknoloji.com（Ümit Çelik）　首封：按 email_hook 一问
   - 第一问（只问一个）：Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD; Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik deneme partisi ister misiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

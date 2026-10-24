@@ -94,7 +94,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@westpennwire.com（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
       "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },

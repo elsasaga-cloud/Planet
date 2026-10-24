@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-111GP — 自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供；首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供
 - **断点 / 为什么停在这里**：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供
 - **Saga 现在该推什么**：P1 **STI-111GP**（30% 档，首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 待找地址（Nam Sang Jun；hanyotele.com 官网 / EC21 页；库内无邮箱）　首封：按 email_hook 一问
   - 第一问（只问一个）：Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

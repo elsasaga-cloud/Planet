@@ -80,7 +80,7 @@
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）",
       "action": "首封：按 email_hook 一问",
       "one_question": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?"
     },

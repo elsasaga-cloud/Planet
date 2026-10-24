@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp） 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）
 - **断点 / 为什么停在这里**：产品缺口（splitter/extender）；无公开资料；无后续跟进
 - **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit））——待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → ufuk@sinerjik.net（Ufuk Gökalp）　首封：按 email_hook 一问
   - 第一问（只问一个）：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
