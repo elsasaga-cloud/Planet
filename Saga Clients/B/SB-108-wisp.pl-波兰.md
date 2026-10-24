@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机。类型：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）。信号：wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda / TP-Link / Ubiquiti / Zyxel 为主）；媒体转换器类目 /k116 「Planet (4)」；产品页 ISW-621（工业 4×FE + 2×FX）、MC-RPS130（135,30 zł brutto，Dostępny）、VC-231（已停产，后继 VC-231G）；首页横幅推 Scodeno 工业交换机（中国品牌）。Planet 渠道档案 PB-065 评级 B（需求：PLANET 仅 4 款交换机 + 4 款媒体转换器，且主力为 MikroTik/Ubiquiti/TP-Link → PLANET 为边线、需求弱；但网店已主推 Scodeno 中国工业交换机 → 对 Saga 品类有真实需求；触达：sklep@wisp.pl 公开（第三方 MikroTik 经销商名录转载），无具名 KP；体量：2–10 人、MikroTik VAD → 可赢但单量小；Mikrotik 仓 A-380 已人工 A 且有邮箱 → 本仓并档，首触以 Mikrotik 仓库为准（INH 规则：Mikrotik A 有邮箱的并档行不从本仓发）→ B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-108，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：有Elink和中科德能的；中科德能的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-05 $300（48 port switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：西里西亚 Bełk 一家 2–10 人的 WISP 设备网店（MikroTik VAD），PLANET 只剩工业 FE 款与媒体转换器，已主推中国品牌 Scodeno 工业交换机。类型：分销/电商（2003 年起的 WISP 设备网店；MikroTik Master Distributor + VAD；品牌 MikroTik / Ubiquiti / TP-Link / Tenda / Teltonika / Cudy / Solarix / StalFlex + Scodeno 工业交换机；PLANET 交换机 4 款 + 媒体转换器 4 款）。信号：wisp.pl 交换机类目 /k19,switche.html 品牌筛选「Producent Planet (4)」（≈350 款交换机里的边线品牌：Cisco / D-Link / MikroTik / Netgear / Tenda /
 - **对方真实需求（有据）**：其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：
 - **断点 / 为什么停在这里**：Scodeno 进货渠道（直接进口还是经波兰代理）；PLANET 4 款是否只是长尾；谁负责选品（2–10 人，大概率老板）；Mikrotik 仓 A-380 首触是否已发（本仓不发）
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-05 $300（48 port switch））——其 PLANET 工业槽位为 ISW-621（4×FE + 2×FX 非管理，已属老款）且已主推 Scodeno 工业 GE 款 → WISP 塔站真正走量的是工业 DIN 8×GE + 2×SFP 非管理；直接对位 ISW-621 的 STI-240FE（$25.1）列为备选小单款；分销/网店 → 20%（沿用 Planet 档案 PB-065）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：意大利卡塞塔的专业影像/广播/安防分销集团 Trans Audio Video S.r.l.（1987 年由 Salvatore Brighel 创立；P.IVA 01675270613；30 名专业人员；三大事业部 Media / Academy / Security；2024 年营收 €18.0M、净利 €33.8k；办公室 Caserta Viale Melvin Jones 12 与 Cologno Monzese Corso Roma 186；参展 SICUREZZA 2025 米兰）。展会（IFSEC UK 2023）记录：GM Francesco Brighel——采购过多次交换机（主要商业级、少量工业级），希望合作，问工业电源，要详细报价单；之后 14 次推送 0 回复。（调研 2026-10-21；表内兴趣：采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单）
 - **为什么是 A 级**：**调研后定级 A**（A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STC-424DGGPM-280W — 已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 WhatsApp 一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：23 封被打开 2 次（同日）。
 - **对方真实需求（有据）**：8/24 口 PoE 项目价。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—）——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM / STC-424DGGPM-280W**（25% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-04 $65（10G media converter）、2024-10-14 $300（48 Port PoE Managed Switch））——已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　WhatsApp　一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：MC 工业FS POE；光路的MC系列 Oring的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/日本；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-01-01 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本）；PSE/VCCI 由客户申报
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-01-01 $240（24 Port Fiber Switch））——在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?
 

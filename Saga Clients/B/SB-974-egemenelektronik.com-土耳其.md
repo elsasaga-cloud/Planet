@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。（调研 2026-10-21；表内兴趣：商业POE CCTV为主 很多配件）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 2 次（2025-09-26 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-27 $65（10G Media Converter）
 - **第一问（只问一个）**：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。
 - **对方真实需求（有据）**：分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表
 - **断点 / 为什么停在这里**：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-27 $65（10G Media Converter））——分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 

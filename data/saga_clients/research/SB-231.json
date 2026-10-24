@@ -111,7 +111,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-19 $300（48 port poe managed switch）",
       "why": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）",
       "repeat": [],
       "gaps": []

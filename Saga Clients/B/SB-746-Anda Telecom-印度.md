@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。（调研 2026-10-21；表内兴趣：对EDFA台式很有兴趣 画了一个应用图；从ONV买 也有其他国内的 也买AOA的）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-27 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 Elsa 邮箱 → subhash@andatelecom.com（抄 harish@） 只问一句
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。
 - **对方真实需求（有据）**：对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。
 - **断点 / 为什么停在这里**：堆叠（stacking）被视为必需；AC5 口径与 Versitron 同题
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-27 $300（48 Port PoE Managed Switch））——对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）　只问一句
   - 第一问（只问一个）：Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?
 

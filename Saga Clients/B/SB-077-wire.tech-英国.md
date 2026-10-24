@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 Wire Technologies（wire.tech：光模块、DAC/AOC、光纤与 MPO 线缆、CAT 线、扩展坞、MC、PDU；Cisco/Juniper/H3C 兼容；表内「MC 有光路的外壳 12 机架，好几种外壳 自己的 logo，SFP」；KP Nathan Barrowclough、James）；群发 16 次无回复。（调研 2026-10-21；表内兴趣：MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-05 $220（48 port managed switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-05 $220（48 port managed switch））——已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）

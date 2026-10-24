@@ -111,7 +111,7 @@
     "saga_now": {
       "p1": "STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表",
       "tier": 30,
-      "price": "按主表 OEM 30% 档；IGMP 标注",
+      "price": "按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）",
       "why": "品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [

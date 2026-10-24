@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：意大利 CCTV / 网络分销商（在线商店；Ubiquiti、Dahua、D-Link、Huawei、Netgear、Zyxel；switch 86 / poe 39），Owner & CEO Jacopo Ganz、VP Sales Marco Gabriele；表内 CCTV 分销商；群发 4 次无回复。（调研 2026-10-21；表内兴趣：CCTV 分销商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-09-30 $180（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 CCTV / 网络分销商（在线商店；Ubiquiti、Dahua、D-Link、Huawei、Netgear、Zyxel；switch 86 / poe 39），Owner & CEO Jacopo Ganz、VP Sales Marco Gabriele；表内 CCTV 分销商；群发 4 次无回复。
 - **对方真实需求（有据）**：10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。
 - **断点 / 为什么停在这里**：品牌分销为主；群发无回复
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-09-30 $180（24 Port PoE Managed Switch））——10G/2.5G 词频 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；CCTV 配套 STC-424DGGPM-280W。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Marco, for the CCTV and SMB channel — Marvell L2+ 24-PoE + 4 uplinks at $135 and 24-GE + 4×10G at $127 EXW, neutral box; would a 2-unit test next to the Netgear/Zyxel units you list make sense?
 

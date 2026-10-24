@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-24 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → logan@longtek.co.uk 短信一问（email_hook）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。
 - **对方真实需求（有据）**：安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：微型、采购量小；17 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-24 $300（48 Port PoE Managed Switch））——安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → logan@longtek.co.uk　短信一问（email_hook）
   - 第一问（只问一个）：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
 

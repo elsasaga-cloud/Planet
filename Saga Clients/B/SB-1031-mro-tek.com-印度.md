@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度班加罗尔 MRO-TEK Realty Ltd（1984 年起的印度网络/电信/安防 OEM：「designed, manufactured and certified in India」；工业交换机 CORNUS-82P/84P、L3 LAVENDER-84X；表内「MC / 工业 FS / 普通 FS / 周边，从 Raisecom 买一些产品」；KP Arun Raj（AVP-Solution Sales）、Satish）；表内无跟进记录。（调研 2026-10-21；表内兴趣：MC 工业FS 普通FS 周边产品；switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」。已打开的主题（1/14 封有打开记录）：「24 Port Fiber Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」。已打开的主题（1/14 封有打开记录）：「24 Port Fiber Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-05 $65（10G media converter）
 - **第一问（只问一个）**：Arun, for the CORNUS industrial PoE family, we can be a second ODM source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches — full units or SKD kits for local assembly — from small lots with CE/RoHS/FCC test reports; would an SKD option for your Make-in-India line be of interest?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：印度班加罗尔 MRO-TEK Realty Ltd（1984 年起的印度网络/电信/安防 OEM：「designed, manufactured and certified in India」；工业交换机 CORNUS-82P/84P、L3 LAVENDER-84X；表内「MC / 工业 FS / 普通 FS / 周边，从 Raisecom 买一些产品」；KP Arun Raj（AVP-Solution Sales）、Satish）；表内无跟进记录。
 - **对方真实需求（有据）**：CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」
 - **断点 / 为什么停在这里**：印度 BIS 强制认证（交换机类）：Saga 无 BIS，需由 MRO-TEK 以其名义取证
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」。已打开的主题（1/14 封有打开记录）：「24 Port Fiber Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-05 $65（10G media converter））——CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」。已打开的主题（1/14 封有打开记录）：「24 Port Fiber Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Arun, for the CORNUS industrial PoE family, we can be a second ODM source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches — full units or SKD kits for local assembly — from small lots with CE/RoHS/FCC test reports; would an SKD option for your Make-in-India line be of interest?
 

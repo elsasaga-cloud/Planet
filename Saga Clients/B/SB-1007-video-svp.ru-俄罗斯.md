@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 机架 VC；工业FS MC EOC等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-10 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-22 $300（48 port switch）、2024-12-31 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。
 - **对方真实需求（有据）**：自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧
 - **断点 / 为什么停在这里**：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为 inbox.ru 免费邮箱
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-22 $300（48 port switch）、2024-12-31 $240（24 Port Fiber Switch））——自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧。已打开的主题（1/20 封有打开记录）：「10g fiber media converter」(2024-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
 

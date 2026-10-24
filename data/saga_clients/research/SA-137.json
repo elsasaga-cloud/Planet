@@ -135,7 +135,7 @@
     "saga_now": {
       "p1": "STC-2024GP",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-07 $65（10G media converter）",
       "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈。已打开的主题（1/27 封有打开记录）：「8 Port Industrial PoE Switch」(2025-02-03) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

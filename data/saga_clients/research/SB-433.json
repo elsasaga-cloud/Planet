@@ -83,7 +83,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-10-21 $65（10G Media Converter）、2024-11-27 $300（48 Port PoE Managed Switch）",
       "why": "ESP 标 PoE（现 Folksafe）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理 4/8 PoE 位 HRUI（列表价，注明）",
       "repeat": [],
       "gaps": []

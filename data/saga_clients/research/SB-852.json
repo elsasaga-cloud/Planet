@@ -101,7 +101,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-05 $300（48 port commercial switch）、2024-12-26 $240（24 Port Fiber Switch）",
       "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位。已打开的主题（2/28 封有打开记录）：「8 Port Ethernet Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-11-28) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []

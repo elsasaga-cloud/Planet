@@ -1,127 +1,127 @@
 {
- "code": "SB-1044",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（miraesignal.com，快照 2026-10-21）",
- "summary": "韩国 미래시그널 Mirae Signal（有线/无线网络专业企业：自有 MV-IPG804MBT 系列 2.5G/BT PoE、SFP、电源 XDR-240E-48；展会接触，表内备注「说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商：光开关、收发器在飞宇拿，交换机也是深圳找的供应商」；attn Roy Yeo（吕尚俊））；群发 9 次无回复。",
- "type": "韩国网络品牌商（明确供应商稳定，低期望）",
- "size": "",
- "brands_seen": [
-  "飞宇"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：미래시그널；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "{{AUTO_META_DESCRIPTION}}",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
+  "code": "SB-1044",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（miraesignal.com，快照 2026-10-21）",
+  "summary": "韩国 미래시그널 Mirae Signal（有线/无线网络专业企业：自有 MV-IPG804MBT 系列 2.5G/BT PoE、SFP、电源 XDR-240E-48；展会接触，表内备注「说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商：光开关、收发器在飞宇拿，交换机也是深圳找的供应商」；attn Roy Yeo（吕尚俊））；群发 9 次无回复。",
+  "type": "韩国网络品牌商（明确供应商稳定，低期望）",
+  "size": "",
+  "brands_seen": [
+    "飞宇"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：미래시그널；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "{{AUTO_META_DESCRIPTION}}",
+      "url": "http://miraesignal.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商。 / attn: Roy Yeo（吕尚俊） | telephone: 82-31-708-4017 | mobile.: 82-10-5374-4015 | fax.: 82-31-708-4018 | 网址: www.miraesignal.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Mirae Signal 站点",
+      "quote": "미래시그널 ; 미래시그널은 유선/무선 네트워크 전문기업입니다 ; MV-IPG804MBT ; XDR-240E-48",
+      "url": "http://miraesignal.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "供应商稳定不想换；飞宇/深圳供应商",
+      "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商 / attn: Roy Yeo（吕尚俊）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Roy Yeo（吕尚俊）",
+      "title": "（职务待核）",
+      "email": "sjyeo@miraesignal.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商。 / attn: Roy Yeo（吕尚俊） | telephone: 82-31-708-4017 | mobile.: 82-10-5374-4015 | fax.: 82-31-708-4018 | 网址: www.miraesignal.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 miraesignal.com，语言 kr-KR，快照状态 ok；角色判定来源：待核"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Mirae Signal 站点",
-   "quote": "미래시그널 ; 미래시그널은 유선/무선 네트워크 전문기업입니다 ; MV-IPG804MBT ; XDR-240E-48",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "有线 / 无线网络产品（自有品牌 MV 系列）"
+  ],
+  "channels": {
+    "role": "韩国网络品牌商（明确供应商稳定，低期望）",
+    "region": "韩国",
+    "contact": "sjyeo@miraesignal.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "供应商稳定不想换；飞宇/深圳供应商",
-   "quote": "参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商 / attn: Roy Yeo（吕尚俊）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "首页 미래시그널은 유선/무선 네트워크 전문기업입니다；站内 MV-IPG804MBT / MV-IPG804MBTN-2BP / MV-IPG802 / XDR-240E-48；kw poe 20 / sfp 9 / 2.5g 6",
+    "表内：参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商；attn Roy Yeo（吕尚俊）"
+  ],
+  "risks": [
+    "客户明确表示供应商稳定、不太想换（展会反馈）：低期望，仅做备选报价",
+    "非主攻区（T5，韩国）；KC 由客户申报；9 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "供应商稳定、不想换 → 低期望维持：以 Marvell 2.5G/BT PoE 差异化（SmartByte 2.5G 系列，注明）或 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作备选报价"
+  },
+  "email_hook": "Roy, we understand your current switch and transceiver suppliers are stable — we would simply like to be on file as a backup for your MV-series PoE line: Marvell-based 8-PoE + 2 SFP L2+ and 2.5G/BT PoE options in your packaging from small lots, CE/RoHS. May we send a one-page comparative quote for the model you reorder most?",
+  "products_seen": [
+    {
+      "brand": "Mirae Signal（自有）",
+      "model": "MV-IPG804MBT",
+      "spec": "4 口 2.5G BT PoE 交换机",
+      "saga": "SmartByte 2.5G PoE 系列（注明）",
+      "url": "http://miraesignal.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封韩语展会邀请群发）",
+      "type": "韩国网络品牌商（Mirae Signal）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "KR",
+      "cadence": "不动",
+      "evidence": "k=a71ed91fdc4fc72f"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-25 $65（10G media converter）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Roy Yeo（吕尚俊）",
-   "title": "（职务待核）",
-   "email": "sjyeo@miraesignal.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 miraesignal.com，语言 kr-KR，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "有线 / 无线网络产品（自有品牌 MV 系列）"
- ],
- "channels": {
-  "role": "韩国网络品牌商（明确供应商稳定，低期望）",
-  "region": "韩国",
-  "contact": "sjyeo@miraesignal.com"
- },
- "signals": [
-  "首页 미래시그널은 유선/무선 네트워크 전문기업입니다；站内 MV-IPG804MBT / MV-IPG804MBTN-2BP / MV-IPG802 / XDR-240E-48；kw poe 20 / sfp 9 / 2.5g 6",
-  "表内：参展商，说是有收到过我们的邮件，已经有供应商，现在比较稳定，不太想换供应商，光开关是在飞宇拿的，收发器也是飞宇的，交换机也是深圳找的供应商；attn Roy Yeo（吕尚俊）"
- ],
- "risks": [
-  "客户明确表示供应商稳定、不太想换（展会反馈）：低期望，仅做备选报价",
-  "非主攻区（T5，韩国）；KC 由客户申报；9 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "供应商稳定、不想换 → 低期望维持：以 Marvell 2.5G/BT PoE 差异化（SmartByte 2.5G 系列，注明）或 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作备选报价"
- },
- "email_hook": "Roy, we understand your current switch and transceiver suppliers are stable — we would simply like to be on file as a backup for your MV-series PoE line: Marvell-based 8-PoE + 2 SFP L2+ and 2.5G/BT PoE options in your packaging from small lots, CE/RoHS. May we send a one-page comparative quote for the model you reorder most?",
- "products_seen": [
-  {
-   "brand": "Mirae Signal（自有）",
-   "model": "MV-IPG804MBT",
-   "spec": "4 口 2.5G BT PoE 交换机",
-   "saga": "SmartByte 2.5G PoE 系列（注明）",
-   "url": "http://miraesignal.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封韩语展会邀请群发）",
-   "type": "韩国网络品牌商（Mirae Signal）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "KR",
-   "cadence": "不动",
-   "evidence": "k=a71ed91fdc4fc72f"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

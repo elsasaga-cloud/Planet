@@ -75,7 +75,7 @@
     "saga_now": {
       "p1": "STI-050GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）",
       "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

@@ -1,164 +1,164 @@
 {
- "code": "SA-063",
- "name_official": "Fibermarkt Sp. z o.o.（自有品牌 LightOptics，Kraków, Poland）",
- "website_status": "在线",
- "summary": "克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。",
- "type": "分销商/电商（自有品牌贴牌）",
- "size": "未见人数（中小）",
- "brands_seen": [
-  "LightOptics",
-  "磊通",
-  "GXCOM"
- ],
- "evidence": [
-  {
-   "kind": "第三方（inwestrut）",
-   "claim": "自有品牌含 PoE 网管交换机 + 联系方式",
-   "quote": "Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575",
-   "url": "https://inwestrut.pl/fibermarkt-sp-z-o-o/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "品牌定位与客户群",
-   "quote": "Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.",
-   "url": "https://fibermarkt.com/pl/brand/5-lightoptics?page=6",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "LO-IGS-4GT2GF-POE 规格与经销价",
-   "quote": "LO-IGS-4GT2GF-POE … Cena netto: 888,00 PLN netto … 4 porty PoE RJ45 10/100/1000 Mbps … 2 porty SFP 1000 Mbps … Budżet mocy PoE: 120 W … Redundantne zasilanie 48–57V DC … -40°C do +85°C … IP40",
-   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净",
-   "quote": "Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto",
-   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "销售（用户表邮箱；电话即 WhatsApp）",
-   "email": "sales@fibermarkt.com",
-   "phone": "+48 533 533 575",
-   "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
-  }
- ],
- "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
-  "hq": "Kraków, Poland",
-  "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
- },
- "business_lines": [
-  "兼容光模块（60+ 厂商编码）、DAC、xWDM",
-  "LightOptics MC 与工业/接入 PoE 交换机",
-  "ISP 与集成商供货，本地仓库与售后"
- ],
- "products_seen": [
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-4GT2GF-POE",
-   "spec": "工业非管理 4×GE PoE + 2 SFP，120W，48–57VDC 双电源，-40~85℃，IP40，DIN；经销价 888 PLN 净",
-   "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-8GT2GF-POE",
-   "spec": "工业 8×GE PoE + 2 SFP；经销价 1,406 PLN 净",
-   "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-M8GT2GF-HPOE",
-   "spec": "工业管理 8 PoE + 2 SFP（首轮调研）",
-   "url": "https://fibermarkt.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-2GT1GF-POE / LO-IGS-4GT1GF-POE",
-   "spec": "工业 2/4 PoE + 1 SFP（博客 2026-08-30 / Ceneo）",
-   "url": "https://fibermarkt.com/pl/blog/post/kamera-wifi-czy-poe-ktora-wybrac.html",
-   "date": "2026-08-30",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "LightOptics",
-   "model": "LO-IGS-4GT2GF（非 PoE）",
-   "spec": "网店 €101.67（原 €125.05）",
-   "url": "https://fibermarkt.com/en/search/?q=modu%C5%82-sfp-tx-lightoptics-lo-sf-1g-rj-l-sfp-rj45-10-100-1000-tx-utp",
-   "date": "2026-10-21",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站/网店": "https://fibermarkt.com/（EUR/PLN）",
-  "直邮": "sales@fibermarkt.com（用户表）",
-  "二级渠道": "Profi Systems、Ceneo"
- },
- "signals": [
-  "2026-08-30 博客仍在推 LO-IGS PoE 系列——产品线活跃（fibermarkt.com）",
-  "用户表：磊通、GXCOM 为现供应商（华南 ODM）"
- ],
- "risks": [
-  "现供应商为磊通/GXCOM（价格极低），Saga 需以 Marvell 平台 + 一致性切入而非底价",
-  "波兰语/CE/WEEE 合规"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
- },
- "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文）",
-   "type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "23 封 0 打开（sales@ 通用箱）",
-   "revive": "找产品负责人",
-   "lane": "PL/EU",
-   "cadence": "一次",
-   "evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
-  },
-  "situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
-  "need": "LO-IGS-M8GT2GF-HPOE 对位。",
-  "breakpoint": "触达层。",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "—",
-   "channel": "—",
-   "action": "换联系人",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [
-   "「2 次实质回复」无原文"
+  "code": "SA-063",
+  "name_official": "Fibermarkt Sp. z o.o.（自有品牌 LightOptics，Kraków, Poland）",
+  "website_status": "在线",
+  "summary": "克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。",
+  "type": "分销商/电商（自有品牌贴牌）",
+  "size": "未见人数（中小）",
+  "brands_seen": [
+    "LightOptics",
+    "磊通",
+    "GXCOM"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "第三方（inwestrut）",
+      "claim": "自有品牌含 PoE 网管交换机 + 联系方式",
+      "quote": "Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575",
+      "url": "https://inwestrut.pl/fibermarkt-sp-z-o-o/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "品牌定位与客户群",
+      "quote": "Light Optics to dostawca dobrej i sprawdzonej jakości modułów optycznych oraz konwerterów mediów w najlepszej cenie. Głównymi odbiorcami są firmy ISP oraz integratorzy.",
+      "url": "https://fibermarkt.com/pl/brand/5-lightoptics?page=6",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "经销商",
+      "claim": "LO-IGS-4GT2GF-POE 规格与经销价",
+      "quote": "LO-IGS-4GT2GF-POE … Cena netto: 888,00 PLN netto … 4 porty PoE RJ45 10/100/1000 Mbps … 2 porty SFP 1000 Mbps … Budżet mocy PoE: 120 W … Redundantne zasilanie 48–57V DC … -40°C do +85°C … IP40",
+      "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "经销商",
+      "claim": "LO-IGS-8GT2GF-POE 经销价 1,406 PLN 净",
+      "quote": "Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto",
+      "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "销售（用户表邮箱；电话即 WhatsApp）",
+      "email": "sales@fibermarkt.com",
+      "phone": "+48 533 533 575",
+      "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
+    }
+  ],
+  "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Fibermarkt Sp. z o.o.（品牌 LightOptics）",
+    "hq": "Kraków, Poland",
+    "other": "自有品牌 LightOptics 工业 PoE 交换机 LO-IGS 系列经 Profi Systems、Ceneo 等二级渠道销售；fibermarkt.com 网店 EUR 标价（LO-IGS-4GT2GF €101.67）"
+  },
+  "business_lines": [
+    "兼容光模块（60+ 厂商编码）、DAC、xWDM",
+    "LightOptics MC 与工业/接入 PoE 交换机",
+    "ISP 与集成商供货，本地仓库与售后"
+  ],
+  "products_seen": [
+    {
+      "brand": "LightOptics",
+      "model": "LO-IGS-4GT2GF-POE",
+      "spec": "工业非管理 4×GE PoE + 2 SFP，120W，48–57VDC 双电源，-40~85℃，IP40，DIN；经销价 888 PLN 净",
+      "url": "https://profisystems.pl/pl/product/130880,przemyslowy-przelacznik-lightoptics-lo-igs-4gt2gf-poe",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "LightOptics",
+      "model": "LO-IGS-8GT2GF-POE",
+      "spec": "工业 8×GE PoE + 2 SFP；经销价 1,406 PLN 净",
+      "url": "https://profisystems.pl/pl/producer/lightoptics,103922",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "LightOptics",
+      "model": "LO-IGS-M8GT2GF-HPOE",
+      "spec": "工业管理 8 PoE + 2 SFP（首轮调研）",
+      "url": "https://fibermarkt.com/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "LightOptics",
+      "model": "LO-IGS-2GT1GF-POE / LO-IGS-4GT1GF-POE",
+      "spec": "工业 2/4 PoE + 1 SFP（博客 2026-08-30 / Ceneo）",
+      "url": "https://fibermarkt.com/pl/blog/post/kamera-wifi-czy-poe-ktora-wybrac.html",
+      "date": "2026-08-30",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "LightOptics",
+      "model": "LO-IGS-4GT2GF（非 PoE）",
+      "spec": "网店 €101.67（原 €125.05）",
+      "url": "https://fibermarkt.com/en/search/?q=modu%C5%82-sfp-tx-lightoptics-lo-sf-1g-rj-l-sfp-rj45-10-100-1000-tx-utp",
+      "date": "2026-10-21",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://fibermarkt.com/（EUR/PLN）",
+    "直邮": "sales@fibermarkt.com（用户表）",
+    "二级渠道": "Profi Systems、Ceneo"
+  },
+  "signals": [
+    "2026-08-30 博客仍在推 LO-IGS PoE 系列——产品线活跃（fibermarkt.com）",
+    "用户表：磊通、GXCOM 为现供应商（华南 ODM）"
+  ],
+  "risks": [
+    "现供应商为磊通/GXCOM（价格极低），Saga 需以 Marvell 平台 + 一致性切入而非底价",
+    "波兰语/CE/WEEE 合规"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 20,
+    "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
+  },
+  "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文）",
+      "type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "23 封 0 打开（sales@ 通用箱）",
+      "revive": "找产品负责人",
+      "lane": "PL/EU",
+      "cadence": "一次",
+      "evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
+    },
+    "situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
+    "need": "LO-IGS-M8GT2GF-HPOE 对位。",
+    "breakpoint": "触达层。",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-19 $300（48 Port PoE Managed Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "—",
+      "channel": "—",
+      "action": "换联系人",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [
+      "「2 次实质回复」无原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Exsys（exsys.it，快照 HTTP 错误；EXSYS 为接口/网络配件品牌（总部瑞士/德国），意大利站；表内「switch 自己的 logo PoE Ethernet；用的 E-link 的设备」「可以尝试多跟进一下」）；群发 15 次无回复。（调研 2026-10-21；表内兴趣：switch 自己的logo PoE Ethernet 用的E-link的设备）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-02 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-21 $300（48 Port PoE Managed Switch）、2024-12-13 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Exsys（exsys.it，快照 HTTP 错误；EXSYS 为接口/网络配件品牌（总部瑞士/德国），意大利站；表内「switch 自己的 logo PoE Ethernet；用的 E-link 的设备」「可以尝试多跟进一下」）；群发 15 次无回复。
 - **对方真实需求（有据）**：自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：官网快照 HTTP 错误（意大利站状态待核；EXSYS 总部站另查）；现供 E-link（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-21 $300（48 Port PoE Managed Switch）、2024-12-13 $240（24 Port Fiber Switch））——自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?
 

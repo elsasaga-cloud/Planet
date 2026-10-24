@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：智利比尼亚德尔马的矿业/工业技术供应商（团队 15+ 年经验）：变频器、软启动、矿用电缆与接插件、变压器、PLC、传感器、工业交换机与通信、光纤/机柜/UTP、IoT、光伏套件。用户表：S 重点名单，1 次实质回复，18 次跟进；兴趣工业 FS（中科德能款）；联系人 Ling。（调研 2026-10-21；表内兴趣：工业FS 中科德能的）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-30 → 2025-12-29）；最近一次客户回复：2024-09-27：price and moq
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Ling 问价与最小量，Simon 报 38 USD、MOQ 1。无回。
 - **对方真实需求（有据）**：4 口工业 PoE（矿业）。
 - **断点 / 为什么停在这里**：项目型；非重点区。
-- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd）——不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch））——不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

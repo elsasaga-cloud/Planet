@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：商业POE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-15 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-26 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。
 - **对方真实需求（有据）**：丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **断点 / 为什么停在这里**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-26 $300（48 Port PoE Managed Switch））——丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

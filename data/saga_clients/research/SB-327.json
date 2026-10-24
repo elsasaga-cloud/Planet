@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch）",
       "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []

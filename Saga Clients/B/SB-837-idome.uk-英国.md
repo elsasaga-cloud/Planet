@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。（调研 2026-10-21；表内兴趣：销售平台 商业PoE 有帝捷安的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-14 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）
 - **第一问（只问一个）**：For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：英国 IDome（CCTV 供应商/网店：家用与商用安防系统，自有标摄像机 DO5028POE-5MP / BU8028POE-8MP 等，配件栏 PoE 交换机 POE42 / POE82 / POE162；表内「销售平台，商业 PoE，有帝捷安的」）；群发 16 次无回复。
 - **对方真实需求（有据）**：自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）
 - **断点 / 为什么停在这里**：现货源深圳（表内「帝捷安」）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter））——自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the POE42 / POE82 / POE162 switches you bundle with IDome cameras, we can supply the same 4+2 / 8+2 / 16+2 layouts under your label from small lots, plus a Marvell-based gigabit L2+ 8-PoE model, CE/RoHS/UKCA — which size ships most with your kits?
 

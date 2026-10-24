@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号。类型：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）。信号：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking。Planet 渠道档案 PB-024 评级 B（需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1173，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：CCTV 分销商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-09-30 $180（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号。类型：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）。信号：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking。Planet 渠道档案 PB-024 评级 B（需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准）。并档说明
 - **对方真实需求（有据）**：其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：
 - **断点 / 为什么停在这里**：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-09-30 $180（24 Port PoE Managed Switch））——其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

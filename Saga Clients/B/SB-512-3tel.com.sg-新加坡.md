@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 3Tel International Pte Ltd（2013 年起：安防（Hikvision 型号 DS-K2600 / DS-7204HQHI）、电信、网络、线缆产品供应；站内 Utepo UTP3-SW04-TP60、工业 8 口 PoE、L3 管理 PoE、4/8 口 PoE + 2 上联页面；表内「工商业 FS，有 Utepo 的」；KP Elvin Tan（Co-founder & Director，elvin.tan@））；群发 15 次无回复。（调研 2026-10-21；表内兴趣：工商业FS 有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $220（10G managed switch）
 - **第一问（只问一个）**：Elvin, alongside the Utepo industrial and 4/8-port PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS, neutral packing — which of the two bands do your Hikvision projects use more?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：新加坡 3Tel International Pte Ltd（2013 年起：安防（Hikvision 型号 DS-K2600 / DS-7204HQHI）、电信、网络、线缆产品供应；站内 Utepo UTP3-SW04-TP60、工业 8 口 PoE、L3 管理 PoE、4/8 口 PoE + 2 上联页面；表内「工商业 FS，有 Utepo 的」；KP Elvin Tan（Co-founder & Director，elvin.tan@））；群发 15 次无回复。
 - **对方真实需求（有据）**：在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）
 - **断点 / 为什么停在这里**：现卖 Utepo（深圳）价格基准低；非主攻区（T5）
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $220（10G managed switch））——在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Elvin, alongside the Utepo industrial and 4/8-port PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS, neutral packing — which of the two bands do your Hikvision projects use more?
 

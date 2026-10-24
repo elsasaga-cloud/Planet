@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：意大利西西里 Misterbianco（CT）的安防进口分销商 Top Italia S.r.l.（2004-06 成立；P.IVA 04592850871；进口视频监控/防盗/消防产品并以自有品牌 Videostar 分销；Secolink 意大利独家代理，Texecom/Teletek 防盗分销，Teletek/Kentec/Apollo/Argus 消防分销；总机 +39 095 471449）。展会（IFSEC UK 2023）记录：从 ONV 买、质量满意但价格有时觉得高；问多光口 12 光 12 电、WiFi（Saga 不供）、芯片与电源，比较专业；之后 14 次推送 0 回复（发往 info@）。加厚发现：官网公开商务总监 Alfredo Timpanaro 直邮与手机、进口负责人 Tommaso Daniele——改向具名 KP 发 ONV 对位报价。（调研 2026-10-21；表内兴趣：从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业）
 - **为什么是 A 级**：**调研后定级 A**（A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 一封对位表
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：23 封被打开 2 次。
 - **对方真实需求（有据）**：12 光 12 电（ONV 对位）。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **SmartByte 12 光 12 电**（25% 档，—）——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **SmartByte 12 光 12 电**（25% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch））——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　A 邮箱　一封对位表
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

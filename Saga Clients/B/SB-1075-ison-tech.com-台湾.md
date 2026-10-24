@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 ISON Technology（Industrial Solution Over Network：工业网络品牌，面向自动化应用做系统规划；站内自有型号 IS-RH709 / IS-DF208T / ECS4150-54P；表内「工业 FS / FS / MC，自己的 logo」）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS FS MC  自己的logo）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 ISON Technology（Industrial Solution Over Network：工业网络品牌，面向自动化应用做系统规划；站内自有型号 IS-RH709 / IS-DF208T / ECS4150-54P；表内「工业 FS / FS / MC，自己的 logo」）；群发 19 次无回复。
 - **对方真实需求（有据）**：自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch））——自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 

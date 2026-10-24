@@ -99,7 +99,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-23 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）",
       "why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []

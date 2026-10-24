@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Setilend（车里雅宾斯克网络设备网店：光模块（sfp 184）、交换机、路由、MC、Cisco / Moxa / Juniper、TFortis 与 PowerTone PoE、工业以太网栏目，免费测试设备；表内「WDM（卖几个牌子的）/ DCI；PoE 交换机及安防类目」）；群发 12 次无回复。（调研 2026-10-21；表内兴趣：WDM(卖几个牌子的) DCI PoE交换机及安防类目）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-10 推送 12 次无任何回复（聋名单）
 - **历史互动**：推送 12 次（2025-03-06 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业以太网栏目（Moxa/TFortis）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 PoE 位 STC-28DGGPM；SFP/WDM Saga 不供（Q-32）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业以太网栏目（Moxa/TFortis）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 PoE 位 STC-28DGGPM；SFP/WDM Saga 不供（Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-21 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Alongside the Moxa and TFortis units in your industrial Ethernet and PoE categories, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches and commercial 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS, EXW USD — which band do your Chelyabinsk customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 Setilend（车里雅宾斯克网络设备网店：光模块（sfp 184）、交换机、路由、MC、Cisco / Moxa / Juniper、TFortis 与 PowerTone PoE、工业以太网栏目，免费测试设备；表内「WDM（卖几个牌子的）/ DCI；PoE 交换机及安防类目」）；群发 12 次无回复。
 - **对方真实需求（有据）**：工业以太网栏目（Moxa/TFortis）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 PoE 位 STC-28DGGPM；SFP/WDM Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）；主品类光模块 Saga 不供
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——工业以太网栏目（Moxa/TFortis）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 PoE 位 STC-28DGGPM；SFP/WDM Saga 不供（Q-32）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-21 $300（48 Port PoE Managed Switch））——工业以太网栏目（Moxa/TFortis）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 PoE 位 STC-28DGGPM；SFP/WDM Saga 不供（Q-32）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Moxa and TFortis units in your industrial Ethernet and PoE categories, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches and commercial 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS, EXW USD — which band do your Chelyabinsk customers order most?
 

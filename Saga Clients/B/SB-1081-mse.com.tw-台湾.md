@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：主要是POE 商业 工业 配件 自己的logo 工业白色外壳）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-14 $65（10G media converter）
 - **第一问（只问一个）**：Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。
 - **对方真实需求（有据）**：主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）
 - **断点 / 为什么停在这里**：主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-14 $65（10G media converter））——主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?
 

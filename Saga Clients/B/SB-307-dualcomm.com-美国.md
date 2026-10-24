@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Dualcomm（网络分流器 TAP 自有品牌：ETAP 系列（10G–25G TAP 低于 $1000）、以太网同轴 EoC 套件 DECA-100/200；表内「MC / FS / 工业 MC / EoC，标价很高，最近在上新品，自己的牌子」）；群发 20 次无回复。（调研 2026-10-21；表内兴趣：MC FS 工业MC EOC  标价很高 最近在上新品    自己的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-13 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Dualcomm（网络分流器 TAP 自有品牌：ETAP 系列（10G–25G TAP 低于 $1000）、以太网同轴 EoC 套件 DECA-100/200；表内「MC / FS / 工业 MC / EoC，标价很高，最近在上新品，自己的牌子」）；群发 20 次无回复。
 - **对方真实需求（有据）**：主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明
 - **断点 / 为什么停在这里**：主品类 TAP / EoC：Saga 不做（Q-32），仅 MC 可对位，契合度低
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-13 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch））——主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?
 

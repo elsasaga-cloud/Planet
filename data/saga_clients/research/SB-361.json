@@ -110,7 +110,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）",
       "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
       "repeat": [],
       "gaps": []

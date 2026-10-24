@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：保加利亚索菲亚的视频监控进口商/分销商兼安装商（2004 年成立；1–10 人；自称保加利亚三大监控元件进口商之一；2012 年起 APEXIS 独家代理；全国 17 城安装团队；在线商店）。展会记录：CEO（年长、英语一般）+ 年轻翻译同来，做 CCTV、懂 VC 系列、问分辨率，介绍了 2V2D2A 等；联系人 K. Kassabow（CEO）/ A. Kasabov（BD）；15 次跟进 0 回复。（调研 2026-10-21；表内兴趣：2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution, 给他们介绍了2V2D2A和2光10电，问了PoE总功率，让发VC系列和2光10电的资料，整体上交流比较顺利，客户比较懂 2个人）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-06-13 → 2025-10-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-07 $220（48 port managed switch）、2024-09-03 $65（10G media converter）、2025-01-13 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：保加利亚索菲亚的视频监控进口商/分销商兼安装商（2004 年成立；1–10 人；自称保加利亚三大监控元件进口商之一；2012 年起 APEXIS 独家代理；全国 17 城安装团队；在线商店）。展会记录：CEO（年长、英语一般）+ 年轻翻译同来，做 CCTV、懂 VC 系列、问分辨率，介绍了 2V2D2A 等；联系人 K. Kassabow（CEO）/ A. Kasabov（BD）；15 次跟进 0 回复。
 - **对方真实需求（有据）**：进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机
 - **断点 / 为什么停在这里**：语言障碍（CEO 英语一般）；保加利亚非主动开拓市场；15 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-07 $220（48 port managed switch）、2024-09-03 $65（10G media converter）、2025-01-13 $240（24 Port Fiber Switch））——进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?
 

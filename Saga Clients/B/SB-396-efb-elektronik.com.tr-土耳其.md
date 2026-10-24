@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：MC 机架 SFP DAC FS 工业设备）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-25 → 2025-09-25）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）。已打开的主题（1/12 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）。已打开的主题（1/12 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-19 $65（10G fiber media converter）
 - **第一问（只问一个）**：Tuğrul, for the EFB-labelled PoE and industrial switches in your transmission catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, commercial 8/24-PoE L2+) from small lots, CE/RoHS — is product sourcing for Türkiye decided locally or through Bielefeld?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 EFB-Elektronik Türkiye（德国 EFB-Elektronik 集团（1988 年起，布线与网络产品制造商）土耳其公司：传输网络技术目录 2026/27、安防方案、PoE 远程供电方案页；表内「MC / 机架 / SFP / DAC / FS / 工业设备」；KP Tuğrul Akarsu（a.tugrul@））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：集团采购可能集中在德国总部（土耳其公司为销售/方案）；SFP/DAC/机架为其主品类，Saga 不供
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）。已打开的主题（1/12 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-19 $65（10G fiber media converter））——自有 EFB 标工业/PoE 设备 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 商用 PoE 位 STC-28DGGPM；MC 位 STI-110GE；SFP/DAC/机架 Saga 不供（Q-32）。已打开的主题（1/12 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Tuğrul, for the EFB-labelled PoE and industrial switches in your transmission catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, commercial 8/24-PoE L2+) from small lots, CE/RoHS — is product sourcing for Türkiye decided locally or through Bielefeld?
 

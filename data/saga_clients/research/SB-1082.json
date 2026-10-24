@@ -80,7 +80,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）",
       "why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
       "repeat": [],
       "gaps": []

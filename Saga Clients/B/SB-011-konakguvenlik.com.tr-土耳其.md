@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Konak Güvenlik（安防电商：报警、摄像机、OPAX PoE 交换机 OPAX-2427 / OPAX-1619 / OPAX-0810；表内「洪瑞（HRUI）、丰润达的商业 PoE」；KP Erkut Sevin（+90 531…））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：洪瑞 丰润达的商业POE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：AT-FS750-28 同类。
 - **断点 / 为什么停在这里**：Q-33。
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）——已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch））——已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

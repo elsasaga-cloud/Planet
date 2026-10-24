@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：波兰 Zintronic（CCTV 品牌/网店；表内「商业 PoE Hasivo 的」「质量一般」；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：商业PoE hasivo的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-06 $65（10G media converter）
 - **第一问（只问一个）**：For the PoE switches you sell with Zintronic camera kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE port count do your customers buy most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰 Zintronic（CCTV 品牌/网店；表内「商业 PoE Hasivo 的」「质量一般」；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：现供 Hasivo 价格基准低；官网 http_error；表内「质量一般」；未跟进过，仅 biuro@
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-06 $65（10G media converter））——PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE switches you sell with Zintronic camera kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE port count do your customers buy most?
 

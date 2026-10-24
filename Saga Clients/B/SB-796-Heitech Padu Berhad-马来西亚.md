@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。（调研 2026-10-21；表内兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. 1, Jalan Astaka U8/81,Seksyen U8, 40150 ）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。
 - **对方真实需求（有据）**：工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。
 - **断点 / 为什么停在这里**：大型上市公司采购流程长、倾向品牌；政府项目守界
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch））——工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.
 

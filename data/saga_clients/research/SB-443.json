@@ -1,112 +1,112 @@
 {
- "code": "SB-443",
- "name_official": "EMOS spol. s r.o.（Přerov, CZ；emos.cz / emos.eu；自有品牌消费电子，Legrand 集团）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "捷克 Přerov 的自有品牌消费电子/电工产品公司（1991 年成立；IČO 19014104；集团约 450 名员工，Přerov 340；2022 年并入 Legrand；姐妹公司在 SK/PL/SI/HU，经分销网络覆盖 26 国；GP Batteries 独家分销；16,000 m² 物流中心）。展会记录：问商业 PoE、要小尺寸、介绍了 4 口机型并问价、不要工业级、拍了展位照片；联系人 valcuha@/vesely@emos.cz；15 次跟进 0 回复。典型 OEM 品牌买家（EMOS 标）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "EMOS（自有品牌）",
-  "GP Batteries（独家分销）"
- ],
- "evidence": [
-  {
-   "kind": "百科",
-   "claim": "规模、股东、分销范围",
-   "quote": "Zaměstnanci: 401 Majitel: Legrand … Společnost vznikla v roce 1991 v Přerově … dodávají prostřednictvím distributorské sítě své výrobky do 26 zemí Evropy. Je výhradním distributorem GP Batteries.",
-   "url": "https://cs.wikipedia.org/wiki/EMOS",
-   "date": "2026-07-18"
+  "code": "SB-443",
+  "name_official": "EMOS spol. s r.o.（Přerov, CZ；emos.cz / emos.eu；自有品牌消费电子，Legrand 集团）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "捷克 Přerov 的自有品牌消费电子/电工产品公司（1991 年成立；IČO 19014104；集团约 450 名员工，Přerov 340；2022 年并入 Legrand；姐妹公司在 SK/PL/SI/HU，经分销网络覆盖 26 国；GP Batteries 独家分销；16,000 m² 物流中心）。展会记录：问商业 PoE、要小尺寸、介绍了 4 口机型并问价、不要工业级、拍了展位照片；联系人 valcuha@/vesely@emos.cz；15 次跟进 0 回复。典型 OEM 品牌买家（EMOS 标）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "EMOS（自有品牌）",
+    "GP Batteries（独家分销）"
+  ],
+  "evidence": [
+    {
+      "kind": "百科",
+      "claim": "规模、股东、分销范围",
+      "quote": "Zaměstnanci: 401 Majitel: Legrand … Společnost vznikla v roce 1991 v Přerově … dodávají prostřednictvím distributorské sítě své výrobky do 26 zemí Evropy. Je výhradním distributorem GP Batteries.",
+      "url": "https://cs.wikipedia.org/wiki/EMOS",
+      "date": "2026-07-18"
+    },
+    {
+      "kind": "媒体",
+      "claim": "Legrand 并购与员工数",
+      "quote": "Fúze firmy EMOS s koncernem Legrand povolena … Skupina EMOS má 450 zaměstnanců, z toho přímo v Přerově 340.",
+      "url": "https://prerovsky.denik.cz/podnikani/antimonopolni-urad-fuze-emos-legrand/",
+      "date": "2022-02-15"
+    },
+    {
+      "kind": "行业协会",
+      "claim": "联系方式",
+      "quote": "EMOS spol. s r. o. Lipnická 2844 750 02 Přerov Telefon: +420 581 261 111 E-mail: emos@emos.cz Web: www.emos.eu",
+      "url": "https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "展会互动；15 次跟进 0 回复",
+      "quote": "问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（登记 + 名录核对）"
   },
-  {
-   "kind": "媒体",
-   "claim": "Legrand 并购与员工数",
-   "quote": "Fúze firmy EMOS s koncernem Legrand povolena … Skupina EMOS má 450 zaměstnanců, z toho přímo v Přerově 340.",
-   "url": "https://prerovsky.denik.cz/podnikani/antimonopolni-urad-fuze-emos-legrand/",
-   "date": "2022-02-15"
+  "company_facts": {
+    "legal_name": "EMOS spol. s r.o.（IČO 19014104；Krajský soud v Ostravě C 1167）",
+    "founded": "1991",
+    "hq": "Lipnická 2844, 750 02 Přerov, Czechia（+420 581 261 111；emos@emos.cz）",
+    "size": "集团约 450 人（2022）；维基 401 人",
+    "other": "Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销"
   },
-  {
-   "kind": "行业协会",
-   "claim": "联系方式",
-   "quote": "EMOS spol. s r. o. Lipnická 2844 750 02 Přerov Telefon: +420 581 261 111 E-mail: emos@emos.cz Web: www.emos.eu",
-   "url": "https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921",
-   "date": "2026-10-21"
+  "business_lines": [
+    "EMOS 品牌消费电子与电工产品（照明、电池、天线、门铃、延长线等）",
+    "中东欧多国分销网络"
+  ],
+  "channels": {
+    "网站": "https://www.emos.cz/",
+    "电话": "+420 581 261 111（公开）",
+    "邮箱（公开）": "emos@emos.cz"
   },
-  {
-   "kind": "用户表",
-   "claim": "展会互动；15 次跟进 0 回复",
-   "quote": "问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "明确要小尺寸商业 PoE 4 口并问价 → EMOS 标白牌 PoE 桌面机进其 26 国渠道；非工业级、价格敏感 → Realtek 线"
+  ],
+  "risks": [
+    "Legrand 集团采购合规/供应商准入流程长；15 次跟进 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-024GP",
+    "tier": 30,
+    "why": "OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）"
+  },
+  "email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "捷克消费电子品牌（EMOS，Legrand 集团）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "CZ",
+      "cadence": "不动",
+      "evidence": "k=22e19b96edf97fa4"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-03 $65（10G media converter）、2024-12-06 $300（48 Port PoE Managed Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（登记 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "EMOS spol. s r.o.（IČO 19014104；Krajský soud v Ostravě C 1167）",
-  "founded": "1991",
-  "hq": "Lipnická 2844, 750 02 Přerov, Czechia（+420 581 261 111；emos@emos.cz）",
-  "size": "集团约 450 人（2022）；维基 401 人",
-  "other": "Legrand 100% 持有（2022 反垄断批准）；品牌 EMOS；26 国分销；GP 电池独家分销"
- },
- "business_lines": [
-  "EMOS 品牌消费电子与电工产品（照明、电池、天线、门铃、延长线等）",
-  "中东欧多国分销网络"
- ],
- "channels": {
-  "网站": "https://www.emos.cz/",
-  "电话": "+420 581 261 111（公开）",
-  "邮箱（公开）": "emos@emos.cz"
- },
- "signals": [
-  "明确要小尺寸商业 PoE 4 口并问价 → EMOS 标白牌 PoE 桌面机进其 26 国渠道；非工业级、价格敏感 → Realtek 线"
- ],
- "risks": [
-  "Legrand 集团采购合规/供应商准入流程长；15 次跟进 0 回复"
- ],
- "saga_fit": {
-  "p1": "STC-024GP",
-  "tier": 30,
-  "why": "OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）"
- },
- "email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "捷克消费电子品牌（EMOS，Legrand 集团）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "CZ",
-   "cadence": "不动",
-   "evidence": "k=22e19b96edf97fa4"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

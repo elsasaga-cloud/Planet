@@ -1,107 +1,107 @@
 {
- "code": "SB-521",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（parked_or_empty）",
- "summary": "西班牙 Guilera（guilera.com；adilec.com 已停放出售）：光纤传输设备品牌（MC、FS、VC、SFP 全部自有 logo，MC 外壳不错）；表内「质量高」；邮箱 guilera@、compras@（采购））；群发 15 次无回复。",
- "type": "西班牙光纤传输品牌商（自有标 MC/FS/VC）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "自己的logo SFP MC FS VC 都是自己的logo MC外壳不错",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-521",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（parked_or_empty）",
+  "summary": "西班牙 Guilera（guilera.com；adilec.com 已停放出售）：光纤传输设备品牌（MC、FS、VC、SFP 全部自有 logo，MC 外壳不错）；表内「质量高」；邮箱 guilera@、compras@（采购））；群发 15 次无回复。",
+  "type": "西班牙光纤传输品牌商（自有标 MC/FS/VC）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "自己的logo SFP MC FS VC 都是自己的logo MC外壳不错",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "都是自己的 logo MC 外壳不错",
+      "quote": "自己的logo SFP  MC  FS VC 都是自己的logo  MC外壳不错；质量高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "adilec.com 停放",
+      "quote": "Adilec.com is for sale | HugeDomains",
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=adilec.com",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（采购部）",
+      "title": "Compras",
+      "email": "compras@guilera.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "都是自己的 logo MC 外壳不错",
-   "quote": "自己的logo SFP  MC  FS VC 都是自己的logo  MC外壳不错；质量高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "西班牙",
+    "other": "官网 adilec.com，语言 en，快照状态 parked_or_empty；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "adilec.com 停放",
-   "quote": "Adilec.com is for sale | HugeDomains",
-   "url": "https://www.hugedomains.com/domain_profile.cfm?d=adilec.com",
-   "date": "2026-10-21"
+  "business_lines": [
+    "光纤传输设备（自有品牌 Guilera：MC / FS / VC / SFP）"
+  ],
+  "channels": {
+    "role": "西班牙光纤传输品牌商（自有标 MC/FS/VC）",
+    "region": "西班牙",
+    "contact": "guilera@guilera.com、compras@guilera.com"
+  },
+  "signals": [
+    "表内：自己的 logo SFP MC FS VC 都是自己的 logo MC 外壳不错；质量高",
+    "快照：Adilec.com is for sale | HugeDomains（停放）"
+  ],
+  "risks": [
+    "adilec.com 域名已停放（以 guilera.com 为准）；15 次无回复 → 改向采购邮箱 compras@ 首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "自有 logo MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；工业 FS 位 STI-288GPM（$85.5）贴 Guilera 标；VC/SFP Saga 不供"
+  },
+  "email_hook": "For the media converters and switches sold under the Guilera label, we can be an ODM source on a Marvell/Realtek platform (industrial gigabit and PoE MCs, DIN-rail 8-PoE + 2 SFP managed; CE/RoHS) in your housing from small lots — which MC model do your Spanish integrators reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "西班牙光纤传输品牌商（Adilec）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "ES",
+      "cadence": "不动",
+      "evidence": "k=4cebc7ea9764d9cf"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-03 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "（采购部）",
-   "title": "Compras",
-   "email": "compras@guilera.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 adilec.com，语言 en，快照状态 parked_or_empty；角色判定来源：用户表"
- },
- "business_lines": [
-  "光纤传输设备（自有品牌 Guilera：MC / FS / VC / SFP）"
- ],
- "channels": {
-  "role": "西班牙光纤传输品牌商（自有标 MC/FS/VC）",
-  "region": "西班牙",
-  "contact": "guilera@guilera.com、compras@guilera.com"
- },
- "signals": [
-  "表内：自己的 logo SFP MC FS VC 都是自己的 logo MC 外壳不错；质量高",
-  "快照：Adilec.com is for sale | HugeDomains（停放）"
- ],
- "risks": [
-  "adilec.com 域名已停放（以 guilera.com 为准）；15 次无回复 → 改向采购邮箱 compras@ 首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 logo MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；工业 FS 位 STI-288GPM（$85.5）贴 Guilera 标；VC/SFP Saga 不供"
- },
- "email_hook": "For the media converters and switches sold under the Guilera label, we can be an ODM source on a Marvell/Realtek platform (industrial gigabit and PoE MCs, DIN-rail 8-PoE + 2 SFP managed; CE/RoHS) in your housing from small lots — which MC model do your Spanish integrators reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "西班牙光纤传输品牌商（Adilec）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "ES",
-   "cadence": "不动",
-   "evidence": "k=4cebc7ea9764d9cf"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

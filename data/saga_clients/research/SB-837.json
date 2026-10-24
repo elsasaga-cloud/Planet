@@ -107,7 +107,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $220（48 port managed switch）、2024-09-05 $65（10G media converter）",
       "why": "自有标摄像机配套 PoE（POE82 = 8+2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 IDome 标；POE42/POE162 位 HRUI STC-204GP（$20.4）/ STC-2016GP（$88.0）",
       "repeat": [],
       "gaps": []

@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-30 $220（48 port managed switch）",
       "why": "主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1",
       "repeat": [],
       "gaps": []

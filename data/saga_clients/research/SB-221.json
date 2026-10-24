@@ -77,7 +77,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-22 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）",
       "why": "工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供",
       "repeat": [],
       "gaps": []

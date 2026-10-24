@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。（调研 2026-10-21；表内兴趣：his colleague Aaron is more interested in MC）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-06-07 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM — 集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM — 集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。
 - **对方真实需求（有据）**：集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目
 - **断点 / 为什么停在这里**：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进
-- **Saga 现在该推什么**：P1 **STC-4168XGGCM**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-4168XGGCM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch））——集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.
 

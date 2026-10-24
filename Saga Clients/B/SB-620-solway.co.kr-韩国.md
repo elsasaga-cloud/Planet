@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：韩国 Solway（solway.co.kr；表内「bypass」；KP Jinsoo Kim（公司邮箱 + gmail）；官网为防爬验证页）；表内未跟进。（调研 2026-10-21；表内兴趣：bypass）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — 已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表；历史报价（邮件原话，老汇率）：2026-02-06 
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — 已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：What volume would copper bypass need, and in which form — built-in or a separate 1U module?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 补价
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：光/铜 bypass。
 - **断点 / 为什么停在这里**：产品线。
-- **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表；历史报价（邮件原话，老汇率）：2026-02-06 ）——已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $300（48 Port PoE Managed Switch））——已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：光 bypass 报价是否已给
 - **下一步（具体）**：2026-11　A 邮箱　补价
   - 第一问（只问一个）：What volume would copper bypass need, and in which form — built-in or a separate 1U module?

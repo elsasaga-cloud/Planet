@@ -104,7 +104,7 @@
     "saga_now": {
       "p1": "STI-054GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-10-22 $65（10G Media Converter）",
       "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

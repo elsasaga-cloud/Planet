@@ -115,7 +115,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-27 $300（48 Port PoE Managed Switch）",
       "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

@@ -83,7 +83,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）",
       "why": "自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

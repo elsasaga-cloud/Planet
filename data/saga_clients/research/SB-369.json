@@ -1,116 +1,116 @@
 {
- "code": "SB-369",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（securasound.co.uk，快照 2026-10-21）",
- "summary": "英国 Securasound Ltd（面向安装商的 CCTV、门禁、门口对讲（2 线「Soul」套件）分销商，医疗/教育/住宅板块；表内「主要是 CCTV 类产品，有商业 PoE ONV 的」「可以多跟进一下」；KP Jason Wainwright（CEO））；群发 16 次无回复。",
- "type": "安防分销商（英国，PoE 现 ONV）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Welcome to Securasound | Securasound Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Securasound Ltd；Deal of The Week；“Soul” video kit 2-wire technology, 7\" Handsfree Monitor；Sectors；Healthcare；Education",
-   "url": "https://securasound.co.uk/",
-   "date": "2026-10-21"
+  "code": "SB-369",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（securasound.co.uk，快照 2026-10-21）",
+  "summary": "英国 Securasound Ltd（面向安装商的 CCTV、门禁、门口对讲（2 线「Soul」套件）分销商，医疗/教育/住宅板块；表内「主要是 CCTV 类产品，有商业 PoE ONV 的」「可以多跟进一下」；KP Jason Wainwright（CEO））；群发 16 次无回复。",
+  "type": "安防分销商（英国，PoE 现 ONV）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Welcome to Securasound | Securasound Limited；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Securasound Ltd；Deal of The Week；“Soul” video kit 2-wire technology, 7\" Handsfree Monitor；Sectors；Healthcare；Education",
+      "url": "https://securasound.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV类产品 有商业PoE ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Securasound 定位",
+      "quote": "Welcome to Securasound | Securasound Limited ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic",
+      "url": "https://securasound.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE ONV 的",
+      "quote": "主要是CCTV类产品 有商业PoE ONV的；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jason Wainwright",
+      "title": "CEO",
+      "email": "jason@securasound.co.uk",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV类产品 有商业PoE ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Securasound 定位",
-   "quote": "Welcome to Securasound | Securasound Limited ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic",
-   "url": "https://securasound.co.uk/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "CCTV / 门禁 / 门口对讲分销（英国）"
+  ],
+  "channels": {
+    "role": "安防分销商（英国，PoE 现 ONV）",
+    "region": "英国",
+    "contact": "info@securasound.co.uk、jason@securasound.co.uk"
   },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE ONV 的",
-   "quote": "主要是CCTV类产品 有商业PoE ONV的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Welcome to Securasound | Securasound Limited ; Deal of The Week ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic；kw installer 8 / access control 7",
+    "表内：主要是 CCTV 类产品 有商业 PoE ONV 的；KP Jason Wainwright / CEO；可以多跟进一下"
+  ],
+  "risks": [
+    "现供 ONV（价格基准低）；16 次无回复 → 改向 CEO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（2 封自动回复）",
+      "type": "英国安防分销（PoE 现 ONV）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "UK",
+      "cadence": "不动",
+      "evidence": "k=c899d22bff81b409 / ce7192e0322a174b"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-11 $220（48 port managed switch）、2024-08-09 $65（10G media converter）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Jason Wainwright",
-   "title": "CEO",
-   "email": "jason@securasound.co.uk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 securasound.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV / 门禁 / 门口对讲分销（英国）"
- ],
- "channels": {
-  "role": "安防分销商（英国，PoE 现 ONV）",
-  "region": "英国",
-  "contact": "info@securasound.co.uk、jason@securasound.co.uk"
- },
- "signals": [
-  "官网：Welcome to Securasound | Securasound Limited ; Deal of The Week ; “Soul” video kit 2-wire technology ; Sectors ; Healthcare ; Education ; Domestic；kw installer 8 / access control 7",
-  "表内：主要是 CCTV 类产品 有商业 PoE ONV 的；KP Jason Wainwright / CEO；可以多跟进一下"
- ],
- "risks": [
-  "现供 ONV（价格基准低）；16 次无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（2 封自动回复）",
-   "type": "英国安防分销（PoE 现 ONV）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "UK",
-   "cadence": "不动",
-   "evidence": "k=c899d22bff81b409 / ce7192e0322a174b"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

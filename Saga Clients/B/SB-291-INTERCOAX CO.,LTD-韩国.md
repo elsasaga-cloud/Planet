@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。（调研 2026-10-21；表内兴趣：之前联系的那个韩国买样客户 看了产品，聊了几次，拿了catalog 问了2+2+8，上联2个光2个网的型号）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-22 推送 44 次无任何回复（聋名单）
 - **历史互动**：推送 44 次（2024-05-01 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-16 $65（10G media converter）
 - **第一问（只问一个）**：Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。
 - **对方真实需求（有据）**：2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。
 - **断点 / 为什么停在这里**：韩国 KC 认证；44 次跟进无回复
-- **Saga 现在该推什么**：P1 **STC-228GP**（30% 档，按主表（研究档 saga_fit））——2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-228GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-16 $65（10G media converter））——2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?
 

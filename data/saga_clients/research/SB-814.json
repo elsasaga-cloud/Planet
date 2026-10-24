@@ -90,7 +90,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-25 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）",
       "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
       "repeat": [],
       "gaps": []
