@@ -74663,6 +74663,14 @@
 "as_of": "2026-10-24",
 "facts": [
 {
+"date": "2024-09-08",
+"dir": "内",
+"who": "Saga 首单贴牌工作单（PI 包 1st order《Design.docx》+ 两份《发货_箱标.docx》）",
+"quote": "包装盒 3 款按客户 BNSC 品牌重排版：315×215×85 mm → BNSC-228GP；312×262×84 mm → BNSC-28GPM；525×390×95 mm → BNSC-424DGGPM（文字 Times New Roman，图案铺满 70%，「设计好以后需发给客户确认」）；机身标签：BNSC-228GP「12 Port Commercial PoE Switch，8 PoE + 2 GE + 2 SFP，120W」SN 202409080001 起 5 台、BNSC-28GPM「10 Port … L2 Managed」25 台，「注意是 PoE 不是 POE」；HRUI 30 台 + SmartByte 12 台分别送 广州市越秀区瑶台前进北街73号（瑶台二社创意园）B排B117 Jessica/管丹 13544315510，箱标 A4 贴「品牌 无 · VALENTINE (LAGOS-NIGERIA)」",
+"why": "Mbata 从第一单就是 BNSC 自有品牌 + 三款彩盒 + 顺序 SN——这就是 Simon 说的「轻度绑定」的实物：盒子、标签、SN 规则都已按他的品牌做过一次，复购时零沟通成本；也记下第 4 个广州货代仓（瑶台前进北街）",
+"k": "data/pi_2026-10/text/…12_尼日利亚_Mbata…1st_order__Design.docx / 采购_Hrui__发货_箱标.docx / 采购_Smartbyte__发货_箱标.docx"
+},
+{
 "date": "2024-09-09",
 "dir": "去",
 "who": "Saga 内部（Design.docx，1st order 包装盒设计）",
@@ -74671,10 +74679,10 @@
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
 },
 {
-"date": "2025-01-15",
+"date": "2025-03-02",
 "dir": "内",
 "who": "Saga 发货信息单（PI 包 3rd/4th/10th/11th order「发货信息_Hrui.docx」）",
-"quote": "3rd 单：申娟 15811851420，广州市越秀区广园西路83号宇航通讯大厦负二楼227档（添越中心），7 台 12 kg；4th 单：Tony Uhutex 13119574676，广州市越秀区瑶台西街89号（美泰城）A2038 档，5 台 8.1 kg；10th/11th 单与「14 台」：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库，7 台 12 kg / 2 台 3 kg / 14 台 20 kg；每单都写「商业交换机 Commercial Ethernet Switch · HS 8517622990 · 品牌 无 · 没有内置电池，普货，不带电不带磁」；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325",
+"quote": "3rd 单（STEC20250302012，2025-03）：申娟 15811851420，广州市越秀区广园西路83号宇航通讯大厦负二楼227档（添越中心），7 台 12 kg；4th 单（STEC20250609012，2025-06）：Tony Uhutex 13119574676，广州市越秀区瑶台西街89号（美泰城）A2038 档，5 台 8.1 kg；10th/11th 单（2026-06/07）与「14 台」：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库，7 台 12 kg / 2 台 3 kg / 14 台 20 kg；每单都写「商业交换机 Commercial Ethernet Switch · HS 8517622990 · 品牌 无 · 没有内置电池，普货，不带电不带磁」；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325",
 "why": "Mbata 的货从来不出 Saga 的报关线——三个不同的广州货代仓（越秀两处、花都一处）由客户指定，Saga 只送到仓、写发货信息单；这是「客户自带货代」这条物流线最完整的样本（也说明他在广州有稳定的拼箱渠道，换供应商成本低）",
 "k": "data/pi_2026-10/text/…12_尼日利亚_Mbata…发货信息_Hrui*.docx / Shipping_Mark_STEC20260618012.docx"
 },
