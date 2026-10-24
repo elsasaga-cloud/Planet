@@ -3044,7 +3044,7 @@
 },
 "next_move": {
 "when": "2027-Q1（ISP 年度预算）",
-"channel": "S 邮箱",
+"channel": "S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew）",
 "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
 "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
 },
@@ -7434,7 +7434,7 @@
 },
 "next_move": {
 "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
-"channel": "S 邮箱（Simon 主线）",
+"channel": "S 邮箱 → f.kriewitz@nynex.de（Frederik Kriewitz）（Simon 主线）",
 "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
 "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
 },
@@ -19748,7 +19748,7 @@
 },
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-"channel": "A 邮箱（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
+"channel": "A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
 "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
 "one_question": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -22059,7 +22059,7 @@
 },
 "next_move": {
 "when": "2027-Q1",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
 "action": "一句话问 PoE 线外采情况",
 "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -29986,7 +29986,7 @@
 },
 "next_move": {
 "when": "不主动",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@walker-security.systems（Andrew Walker）",
 "action": "先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价",
 "one_question": ""
 },
@@ -35442,7 +35442,7 @@
 },
 "next_move": {
 "when": "不主动；他下次来信时一次性答复",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@iotsistem.com（Berk）",
 "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
 "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW list (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
 },
@@ -42379,7 +42379,7 @@
 },
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-"channel": "S 邮箱（Born SPb；用户表 5 次回复渠道不明）",
+"channel": "S 邮箱 → sales@born-spb.ru（Федотов Сергей Иванович（Sergey I. Fedotov））（Born SPb；用户表 5 次回复渠道不明）",
 "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
 "one_question": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -55051,7 +55051,7 @@
 },
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-"channel": "E 邮箱（Elsa 原串，Pavel Karpov）",
+"channel": "E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）",
 "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
 "one_question": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -58333,7 +58333,7 @@
 },
 "next_move": {
 "when": "按 Simon 口径不动",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah）",
 "action": "若动：只答 08-10 六个配置中的 2–3 个有现货对位的",
 "one_question": "Which of your six configurations is this year's volume SKU, so we quote that one first?"
 },
@@ -63839,7 +63839,7 @@
 },
 "next_move": {
 "when": "2027-Q1",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）",
 "action": "一封对位表",
 "one_question": ""
 },
@@ -314944,7 +314944,7 @@
 },
 "next_move": {
 "when": "2027-Q1",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → saeed@e-saudi.net（Saeed Mohammed）",
 "action": "一句话",
 "one_question": "Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?"
 },
@@ -316850,7 +316850,7 @@
 },
 "next_move": {
 "when": "2027-Q1",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → customerservice.pkj@gmail.com",
 "action": "季度",
 "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
 },
@@ -328023,7 +328023,7 @@
 "who": "Ender Bulut",
 "quote": "I checked the Realtek-based solutions, the temperature range seems acceptable what do you think about the STI-488XGGPM-2BT, STI-0288XGGPM-2BT and STI-2288XGGGPM-2BT modules? What were the limitations or constraints related to our use of Realtek-based solutions?",
 "why": "Netaş 从 Drive 看到了 Saga 的 Realtek 工业 L3 表（第四张表）并点名三款；证明这条线对客户可见",
-"k": ""
+"k": "bbdc059bf34b2fbc"
 },
 {
 "date": "2026-02-27",
@@ -328031,7 +328031,7 @@
 "who": "Saga（Alan）",
 "quote": "For Realtek, it is even far from enough, the management functions are even worse than Marvell. What you need is an industrial access switch(L3) with a wide-range temperature range… I am afraid that we have to let it go.",
 "why": "Saga 自己对 Realtek 工业 L3 的定性——车载 L3（PIM/RIPng/PBR）不能拿它答",
-"k": ""
+"k": "03c82403b3c7d367"
 },
 {
 "date": "2026-03-02",

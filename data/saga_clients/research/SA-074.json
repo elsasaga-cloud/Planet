@@ -144,7 +144,7 @@
     },
     "next_move": {
       "when": "不主动；他下次来信时一次性答复",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@iotsistem.com（Berk）",
       "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
       "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW list (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
     },

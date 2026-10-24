@@ -39,7 +39,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：按 Simon 口径不动 A 邮箱 若动：只答 08-10 六个配置中的 2–3 个有现货对位的
+- **下一步**：按 Simon 口径不动 A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah） 若动：只答 08-10 六个配置中的 2–3 个有现货对位的
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：不是对方没需求，是 Saga 选择不投入（战略取舍）。记录在案，不改 Simon 口径。
 - **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
   - 做不了 / 要先核的：Simon 是否维持「不投入」——不问，按现口径
-- **下一步（具体）**：按 Simon 口径不动　A 邮箱　若动：只答 08-10 六个配置中的 2–3 个有现货对位的
+- **下一步（具体）**：按 Simon 口径不动　A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah）　若动：只答 08-10 六个配置中的 2–3 个有现货对位的
   - 第一问（只问一个）：Which of your six configurations is this year's volume SKU, so we quote that one first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

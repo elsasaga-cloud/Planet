@@ -142,7 +142,7 @@
     },
     "next_move": {
       "when": "按 Simon 口径不动",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → piyush@onnettechnologies.com（Piyush S. Shah）",
       "action": "若动：只答 08-10 六个配置中的 2–3 个有现货对位的",
       "one_question": "Which of your six configurations is this year's volume SKU, so we quote that one first?"
     },

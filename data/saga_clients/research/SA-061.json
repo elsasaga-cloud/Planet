@@ -93,7 +93,7 @@
     },
     "next_move": {
       "when": "不主动",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@walker-security.systems（Andrew Walker）",
       "action": "先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价",
       "one_question": ""
     },

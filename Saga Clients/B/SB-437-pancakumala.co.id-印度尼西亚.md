@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1 A 邮箱 季度
+- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 季度
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
 - **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
-- **下一步（具体）**：2027-Q1　A 邮箱　季度
+- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　季度
   - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

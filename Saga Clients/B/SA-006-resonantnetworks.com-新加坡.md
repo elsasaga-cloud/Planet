@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Realtek/HRUI 多千兆机已经卖过他 1 台（STC-08XGWE $185，PO SGP250051 2024-08）；2026-10 对外价 STC-05XGWE 5×10G 网管 $138 / STC-08XGWE $193 / STC-08XGE 非管理 $181.5 / STC-18XGDGE 1×10G + 8×2.5G $50.1（`data/hrui_STC对照表.csv`）——比 2024 报的 $145/$200/$170 还高，ISP 价格敏感无解，不推；等有 ≤$100 多千兆方案再触达 — C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常；不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（ISP 年度预算） S 邮箱 只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
+- **下一步**：2027-Q1（ISP 年度预算） S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew） 只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。
 - **Saga 现在该推什么**：P1 **Realtek/HRUI 多千兆机已经卖过他 1 台（STC-08XGWE $185，PO SGP250051 2024-08）；2026-10 对外价 STC-05XGWE 5×10G 网管 $138 / STC-08XGWE $193 / STC-08XGE 非管理 $181.5 / STC-18XGDGE 1×10G + 8×2.5G $50.1（`data/hrui_STC对照表.csv`）——比 2024 报的 $145/$200/$170 还高，ISP 价格敏感无解，不推；等有 ≤$100 多千兆方案再触达**（25% 档，不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch））——C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常
   - 做不了 / 要先核的：HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定；无风扇版 5/8 口 10G 多千兆（2024-09-04 问过，Saga 未答）
-- **下一步（具体）**：2027-Q1（ISP 年度预算）　S 邮箱　只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
+- **下一步（具体）**：2027-Q1（ISP 年度预算）　S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew）　只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
   - 第一问（只问一个）：（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

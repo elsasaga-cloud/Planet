@@ -133,7 +133,7 @@
     },
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
+      "channel": "A 邮箱 → paul@cabledistribution.com.au（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）",
       "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
       "one_question": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity)."
     },

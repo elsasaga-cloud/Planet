@@ -311,7 +311,7 @@
     },
     "next_move": {
       "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
-      "channel": "S 邮箱（Simon 主线）",
+      "channel": "S 邮箱 → f.kriewitz@nynex.de（Frederik Kriewitz）（Simon 主线）",
       "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
       "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
     },

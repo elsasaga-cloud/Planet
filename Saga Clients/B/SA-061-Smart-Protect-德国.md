@@ -39,7 +39,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不主动 A 邮箱 先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
+- **下一步**：不主动 A 邮箱 → info@walker-security.systems（Andrew Walker） 先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：替换一批（数量不明）安防用 PoE 交换机，要管理型。
 - **断点 / 为什么停在这里**：付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）**（25% 档，按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：不主动　A 邮箱　先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
+- **下一步（具体）**：不主动　A 邮箱 → info@walker-security.systems（Andrew Walker）　先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

@@ -145,7 +145,7 @@
     },
     "next_move": {
       "when": "2027-Q1",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → master@gtwave.co.kr（Moonsoo Park）",
       "action": "一句话问 PoE 线外采情况",
       "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
     },

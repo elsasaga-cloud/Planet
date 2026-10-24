@@ -223,7 +223,7 @@
     },
     "next_move": {
       "when": "2027-Q1（ISP 年度预算）",
-      "channel": "S 邮箱",
+      "channel": "S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew）",
       "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
       "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
     },

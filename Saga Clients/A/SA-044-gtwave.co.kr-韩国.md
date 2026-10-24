@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 一句话问 PoE 线外采情况
+- **下一步**：2027-Q1 A 邮箱 → master@gtwave.co.kr（Moonsoo Park） 一句话问 PoE 线外采情况
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：自有品牌 PoE 交换机。
 - **断点 / 为什么停在这里**：身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　A 邮箱　一句话问 PoE 线外采情况
+- **下一步（具体）**：2027-Q1　A 邮箱 → master@gtwave.co.kr（Moonsoo Park）　一句话问 PoE 线外采情况
   - 第一问（只问一个）：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

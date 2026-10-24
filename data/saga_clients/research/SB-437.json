@@ -115,7 +115,7 @@
     },
     "next_move": {
       "when": "2027-Q1",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → customerservice.pkj@gmail.com",
       "action": "季度",
       "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
     },
