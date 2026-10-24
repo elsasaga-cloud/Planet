@@ -1,19 +1,19 @@
-# mootek.in
+# Mootek（印度，销售 gmail）
 
 > **评级 C**　|　印度　|　档案编号 `SC-1574`　|　优先级 —　|　状态：名单内·未触达
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India、补录、归属补洞　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1574
 rating: C
 rating_auto: C
-score: 3
+score: 5
 country: 印度
 region: 南亚
 website: mootek.in
 type: 经销/集成（类型待核）
-tier_tags: ["群发(筛选后质量一般的_群发)", "表:India"]
+tier_tags: ["群发(筛选后质量一般的_群发)", "表:India", "补录", "归属补洞"]
 deal: no
 replies: 0
 followups: 0
@@ -24,14 +24,14 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
 site_snapshot: none
-sources: 1
+sources: 2
 updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：三旺 长飞
-- **为什么是 C 级**：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；C 级细分：群发冷名单无回应
+- **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：三旺 长飞；无实质需求，只是改邮箱通知
+- **为什么是 C 级**：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+2 最近活动 2024；C 级细分：群发冷名单无回应
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
@@ -41,15 +41,16 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | mootek.in（取自域名，公司全名待核） | 推断 |
+| 名称 | Mootek（印度，销售 gmail） | 事实（用户表） |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | mootek.in | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Raj | 事实（用户表） |
-| 来源（From） | 海关数据 | 事实（用户表） |
-| 兴趣（Interested in） | 三旺 长飞 | 事实（用户表） |
-| 用户备注（Remark） | — | 事实（用户表） |
-| 所在清单 | 群发(筛选后质量一般的_群发)、表:India | 事实（文件路径） |
+| 来源（From） | 海关数据 / 补录：S 邮箱 2024-07-19 mooteksales@gmail.com 回「Our official email has changed to raj@mootek.in」（第 70 批(i)） | 事实（用户表） |
+| 兴趣（Interested in） | 三旺 长飞 / 无实质需求，只是改邮箱通知 | 事实（用户表） |
+| 用户备注（Remark） | 同一实体 SC-1574；本行只为把 mooteksales@gmail.com 并入该实体邮箱 | 事实（用户表） |
+| 用户分档（Category） | 分销/集成（mootek.in） | 事实（用户表） |
+| 所在清单 | 群发(筛选后质量一般的_群发)、表:India、补录、归属补洞 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -67,6 +68,7 @@ updated: 2026-10-24
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`raj@mootek.in`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`mooteksales@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 联系人（原值）：Raj
 - 网站/域名：mootek.in
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
@@ -75,17 +77,18 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Raj | — | raj@mootek.in | 用户表原值 | Clients/ 表 |
+| Raj | — | raj@mootek.in / mooteksales@gmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`d:mootek.in`, `e:raj@mootek.in`。
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | E/群发/筛选后质量一般的_群发.xlsx#India:14 | 13 | https://www.mootek.in/category/industrial-ethernet-switches/industrial-unmanaged-switches | 印度 | Raj | 海关数据 | 三旺 长飞 | raj@mootek.in |  | — |
+| 补录客户.jsonl#(补录):20 | AS-补录-2026-10-24-06 | Mootek（印度，销售 gmail） | 印度 | Raj | 补录：S 邮箱 2024-07-19 mooteksales@gmail.com 回「Our official email has changed to raj@mootek.in」（第 70 批(i)） | 无实质需求，只是改邮箱通知 | mooteksales@gmail.com; raj@mootek.in https://mootek.in | 同一实体 SC-1574；本行只为把 mooteksales@gmail.com 并入该实体邮箱 | — |
 
 ## 跟进建议
 
@@ -134,7 +137,7 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 3）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 5）
 
 ---
 
