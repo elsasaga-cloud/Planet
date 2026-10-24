@@ -1,0 +1,140 @@
+{
+  "code": "SC-1617",
+  "name_official": "Fiber Optics For Sale Co.（fo4sale.com / Fosco Connect）",
+  "researched_at": "2026-10-24",
+  "website_status": "有域名（表内：MC / SFP / 光猫 / 工业 FS 什么都卖，多品牌）",
+  "summary": "北美线上光通信配件零售/分销（Fosco Connect；表内疑「国内公司搭建的国外网站」）。A 箱 2025-07 → 2025-11 共 9 封群发 + 1 次往来：2025-07-23 Grace 回 16 口 DIN 千兆群发「Please send me more info about your product line, pricing and your website」→ Alan 次日只回 Download Link_Alan.pdf（链接包）→ 无下文；之后 4 封群发发到 sales@foscoconnect.com，无回。",
+  "type": "线上零售/分销（光纤配件多品牌）",
+  "size": "中小",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "多品牌线上店，MC/SFP/光猫/工业 FS",
+      "quote": "MC SFP 光猫 工业FS 啥都卖 / 很多牌子的产品 / 国内公司搭建的国外网站??",
+      "url": "（本地 Clients/ 表格）",
+      "date": "2026-10-24"
+    },
+    {
+      "kind": "邮件",
+      "claim": "2025-07-23 真人要产品线 + 价格 + 网站",
+      "quote": "Please send me more info about your product line, pricing and your website.",
+      "url": "gmail_a cb73165c3eeea9fa",
+      "date": "2025-07-23"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Grace（Fosco Sales）",
+      "title": "Sales",
+      "email": "sales@fo4sale.com",
+      "phone": "",
+      "source": "gmail_a cb73165c3eeea9fa"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。",
+  "notes": "由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。",
+  "deep": {
+    "done_at": "2026-10-24",
+    "level": "邮件复核 · 未爬官网"
+  },
+  "company_facts": {
+    "legal_name": "Fiber Optics For Sale Co.（待核）",
+    "founded": "",
+    "hq": "北美（表内 CA）",
+    "size": "",
+    "other": "fo4sale.com / foscoconnect.com 两域"
+  },
+  "channels": {
+    "role": "线上零售 / 分销",
+    "region": "北美"
+  },
+  "risks": [
+    "线上店对价格极敏感；多品牌中国货源",
+    "2025-07 要价后给的是链接包，没有价——第一印象已打折"
+  ],
+  "saga_fit": {
+    "p1": "STI-0160GE",
+    "tier": 20,
+    "why": "他回的是 16 口 DIN 千兆；线上分销按 20%"
+  },
+  "email_hook": "把 2025-07-24 那封补完整：型号 + 价 + 交期 + 网站，一问「哪几款上架」",
+  "mail_review": {
+    "as_of": "2026-10-24",
+    "binding": {
+      "level": "轻度触达（2025-07-23 Grace「Please send me more info about your product line, pricing and your website」→ Alan 07-24 只回 Download Link_Alan.pdf → 无下文；之后 4 封群发到 foscoconnect.com 无回，2025-11-19 后未再发）",
+      "type": "北美线上光通信配件零售/分销（Fosco Connect）——第三档分销",
+      "sieve": "2（要价）",
+      "stop": "要「产品线 + 价格 + 网站」，得到的是一个 PDF 链接包；网站当时还没上（sagatele.com 2026 年才有）",
+      "revive": "现在三样都有了：网站 sagatele.com、DIN 线价表、一段话介绍——补一封完整的回信",
+      "lane": "北美主攻",
+      "cadence": "一封针对性信 → 无回则季度群发",
+      "evidence": "gmail_a cb73165c3eeea9fa（来）/ a03d325cd72aad7c（Alan 回链接）"
+    },
+    "situation": "Alan 2025-07-23 的 16 口 DIN 千兆群发（「good and cheap replacement of Wago, Tripplite, Red Lion, Antaira」）当天就有人要产品线、价格和网站。那时 Saga 没有网站，Alan 给了 Drive 链接 PDF，之后把这户当群发对象。线上店要的是「能上架的型号 + 进价」，这个问题至今没答。",
+    "need": "（推断）可上架转售的工业 DIN 交换机（5/8/16 口千兆、PoE 版），要进价。",
+    "breakpoint": "要价没给价；要网站没网站（当时）。",
+    "saga_now": {
+      "p1": "STI-0160GE",
+      "tier": 20,
+      "price": "STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$91.5 EXW @20%；STI-080GE 8 口 $31.4；STI-050GE 5 口 $17.0；PoE 版 STI-244GP（2 SFP + 4 GE PoE）$35.2 @20%",
+      "why": "线上分销按 20%；他点名的是 16 口 DIN 线",
+      "repeat": [
+        "2025-07-23 要产品线 + 价格 + 网站"
+      ],
+      "gaps": [
+        "是否只做光纤配件（交换机是否上架）",
+        "MOQ 期望（线上店常要 5–10 台起）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11 上旬（一封）",
+      "channel": "A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace）",
+      "action": "补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价、交期 3–5 工作日；问哪几款想上架",
+      "one_question": "Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $17 / 8-port $31.4 / 16-port $91.5 / 2 SFP + 4 PoE $35.2 USD EXW, 3–5 working days. Which of these would you consider listing first?"
+    },
+    "facts": [
+      {
+        "date": "2025-07-23",
+        "dir": "去",
+        "who": "Saga（Alan，群发）",
+        "quote": "There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version. It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antaira...",
+        "why": "引出回复的那封；正文无型号无价",
+        "k": "gmail_a（thr of cb73165c3eeea9fa）"
+      },
+      {
+        "date": "2025-07-23",
+        "dir": "来",
+        "who": "Fosco Sales（Grace，sales@fo4sale.com）",
+        "quote": "HI Alan, Please send me more info about your product line, pricing and your website. Thanks.",
+        "why": "本户唯一真人来信——三件套要求",
+        "k": "gmail_a cb73165c3eeea9fa"
+      },
+      {
+        "date": "2025-07-24",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Grace, Please see attached download links for full info.（附 Download Link_Alan.pdf）",
+        "why": "断点：没有价、没有网站、没有型号清单",
+        "k": "gmail_a a03d325cd72aad7c"
+      },
+      {
+        "date": "2025-11-19",
+        "dir": "去",
+        "who": "Saga（Alan，群发 → sales@foscoconnect.com）",
+        "quote": "（2025-08-26 Mini DIN / 09-19 光旁路 / 10-15 10G SFP / 11-19 四封群发，均无回）",
+        "why": "之后停发；本户在 2026 年的群发名单里已不在",
+        "k": "gmail_a 2dbe7b958999a21f / ccf3841f6f306580 / 917dae8064969d5d"
+      }
+    ],
+    "proof_gaps": [
+      "官网未爬：公司所在地（表内 CA）、是否上架交换机",
+      "「国内公司搭建的国外网站」是表内猜测，未证实"
+    ],
+    "draft_en": {
+      "subject": "Re: 16 Port Ethernet Switch — the product line, pricing and website you asked for",
+      "body": "Hi Grace,\n\nIn July last year you asked for our product line, pricing and website, and I answered with a link file. Here is the proper answer.\n\nWebsite: https://sagatele.com\n\nDIN-rail gigabit switches (industrial, DC 12–58 V, DIP switch, −40 to +75 °C, CE/FCC/RoHS), price per unit EXW:\n- STI-050GE, 5 x gigabit copper: $17.0 USD\n- STI-080GE, 8 x gigabit copper: $31.4 USD\n- STI-0160GE, 16 x gigabit copper: $91.5 USD\n- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35.2 USD\nManaged versions, 24-port units and rack-mount commercial PoE switches are on the site. Lead time 3–5 working days, MOQ 1 pc, 15-day price validity, 3-year warranty on the industrial units, neutral or your-brand packaging.\n\nOne question: which of these would you consider listing first? I can send one or two units for your product photos and testing.\n\nThank you.\nAlan"
+    }
+  }
+}
