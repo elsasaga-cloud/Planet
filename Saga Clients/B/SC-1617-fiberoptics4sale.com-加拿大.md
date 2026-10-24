@@ -36,10 +36,10 @@ updated: 2026-10-24
 - **是谁**：北美线上光通信配件零售/分销（Fosco Connect；表内疑「国内公司搭建的国外网站」）。A 箱 2025-07 → 2025-11 共 9 封群发 + 1 次往来：2025-07-23 Grace 回 16 口 DIN 千兆群发「Please send me more info about your product line, pricing and your website」→ Alan 次日只回 Download Link_Alan.pdf（链接包）→ 无下文；之后 4 封群发发到 sales@foscoconnect.com，无回。（调研 2026-10-24；表内兴趣：国内公司搭建的国外网站??；MC SFP 光猫 工业FS 啥都卖 很多牌子的产品；Fiber optics）
 - **为什么是 B 级**：**调研后定级 B**（第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。）；自动分级 C：+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-40 备注含 不再跟进/Spam/骗子 等；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-20 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-0160GE — 线上分销按 20%；他点名的是 16 口 DIN 线；STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$91.5 EXW @20%；STI-080GE 8 口 $31.4；STI-050GE 5 口 $17.0；PoE 版 STI-244GP（2 SFP + 4 GE PoE）$35.2 @20%
-- **第一问（只问一个）**：Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $17 / 8-port $31.4 / 16-port $91.5 / 2 SFP + 4 PoE $35.2 USD EXW, 3–5 working days. Which of these would you consider listing first?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-0160GE — 线上分销；取价 = Simon/Alan 最近实报，不用 SmartByte 成本表档位价；STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$100 EXW（Alan 2025-05-28 对 SC-1922 实报；SA-017 2025-02 $105）；STI-080GE 8 口 $32.5、STI-050GE 5 口 $25（Simon 2025-07-07 对 SB-1019 实报；$22.5 是 STI-050FE 百兆款）；PoE 版 STI-244GP $35（Alan 2025-09-09 对 SA-039）。按规则 ㉕：非管理工业线不用档位价（档位 $17.0/$31.4/$91.5/$35.2 比实报还低）；均低于 2026-06 PDF（$34.1/$55.0/$115.5/$49.5）
+- **第一问（只问一个）**：Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $25 / 8-port $32.5 / 16-port $100 / 2 SFP + 4 PoE $35 USD EXW, 3–5 working days. Which of these would you consider listing first?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 上旬（一封） A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace） 补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价、交期 3–5 工作日；问哪几款想上架
+- **下一步**：2026-11 上旬（一封） A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace） 补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价（$25 / $32.5 / $100 / $35，最近实报）、交期 3–5 工作日；问哪几款想上架
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,11 +49,11 @@ updated: 2026-10-24
 - **现状一句话**：Alan 2025-07-23 的 16 口 DIN 千兆群发（「good and cheap replacement of Wago, Tripplite, Red Lion, Antaira」）当天就有人要产品线、价格和网站。那时 Saga 没有网站，Alan 给了 Drive 链接 PDF，之后把这户当群发对象。线上店要的是「能上架的型号 + 进价」，这个问题至今没答。
 - **对方真实需求（有据）**：（推断）可上架转售的工业 DIN 交换机（5/8/16 口千兆、PoE 版），要进价。
 - **断点 / 为什么停在这里**：要价没给价；要网站没网站（当时）。
-- **Saga 现在该推什么**：P1 **STI-0160GE**（20% 档，STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$91.5 EXW @20%；STI-080GE 8 口 $31.4；STI-050GE 5 口 $17.0；PoE 版 STI-244GP（2 SFP + 4 GE PoE）$35.2 @20%）——线上分销按 20%；他点名的是 16 口 DIN 线
+- **Saga 现在该推什么**：P1 **STI-0160GE**（20% 档，STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$100 EXW（Alan 2025-05-28 对 SC-1922 实报；SA-017 2025-02 $105）；STI-080GE 8 口 $32.5、STI-050GE 5 口 $25（Simon 2025-07-07 对 SB-1019 实报；$22.5 是 STI-050FE 百兆款）；PoE 版 STI-244GP $35（Alan 2025-09-09 对 SA-039）。按规则 ㉕：非管理工业线不用档位价（档位 $17.0/$31.4/$91.5/$35.2 比实报还低）；均低于 2026-06 PDF（$34.1/$55.0/$115.5/$49.5））——线上分销；取价 = Simon/Alan 最近实报，不用 SmartByte 成本表档位价
   - 复购/在买项：2025-07-23 要产品线 + 价格 + 网站
   - 做不了 / 要先核的：是否只做光纤配件（交换机是否上架）；MOQ 期望（线上店常要 5–10 台起）
-- **下一步（具体）**：2026-11 上旬（一封）　A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace）　补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价、交期 3–5 工作日；问哪几款想上架
-  - 第一问（只问一个）：Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $17 / 8-port $31.4 / 16-port $91.5 / 2 SFP + 4 PoE $35.2 USD EXW, 3–5 working days. Which of these would you consider listing first?
+- **下一步（具体）**：2026-11 上旬（一封）　A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace）　补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价（$25 / $32.5 / $100 / $35，最近实报）、交期 3–5 工作日；问哪几款想上架
+  - 第一问（只问一个）：Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $25 / 8-port $32.5 / 16-port $100 / 2 SFP + 4 PoE $35 USD EXW, 3–5 working days. Which of these would you consider listing first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -241,10 +241,10 @@ In July last year you asked for our product line, pricing and website, and I ans
 Website: https://sagatele.com
 
 DIN-rail gigabit switches (industrial, DC 12–58 V, DIP switch, −40 to +75 °C, CE/FCC/RoHS), price per unit EXW:
-- STI-050GE, 5 x gigabit copper: $17.0 USD
-- STI-080GE, 8 x gigabit copper: $31.4 USD
-- STI-0160GE, 16 x gigabit copper: $91.5 USD
-- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35.2 USD
+- STI-050GE, 5 x gigabit copper: $25 USD
+- STI-080GE, 8 x gigabit copper: $32.5 USD
+- STI-0160GE, 16 x gigabit copper: $100 USD
+- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35 USD
 Managed versions, 24-port units and rack-mount commercial PoE switches are on the site. Lead time 3–5 working days, MOQ 1 pc, 15-day price validity, 3-year warranty on the industrial units, neutral or your-brand packaging.
 
 One question: which of these would you consider listing first? I can send one or two units for your product photos and testing.

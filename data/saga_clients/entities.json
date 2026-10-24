@@ -20005,7 +20005,7 @@
 "saga_now": {
 "p1": "STI-244GP",
 "tier": 25,
-"price": "STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $95.3 @25%；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）",
+"price": "STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $100（Alan 2025-05-28 对加拿大 SC-1922 实报；SA-017 2025-02 $105；规则 ㉕ 非管理工业线不用档位价 $95.3）；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）",
 "why": "他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP",
 "repeat": [
 "06-12 问 16 口 DIN GE 价",
@@ -20077,7 +20077,7 @@
 ],
 "draft_en": {
 "subject": "Re: Industrial PoE Switch — the solar-site switch, with price and shipping this time",
-"body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $95.3 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan"
+"body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $100 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }
@@ -607111,8 +607111,8 @@
 "saga_now": {
 "p1": "STI-0160GE",
 "tier": 20,
-"price": "STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$91.5 EXW @20%；STI-080GE 8 口 $31.4；STI-050GE 5 口 $17.0；PoE 版 STI-244GP（2 SFP + 4 GE PoE）$35.2 @20%",
-"why": "线上分销按 20%；他点名的是 16 口 DIN 线",
+"price": "STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$100 EXW（Alan 2025-05-28 对 SC-1922 实报；SA-017 2025-02 $105）；STI-080GE 8 口 $32.5、STI-050GE 5 口 $25（Simon 2025-07-07 对 SB-1019 实报；$22.5 是 STI-050FE 百兆款）；PoE 版 STI-244GP $35（Alan 2025-09-09 对 SA-039）。按规则 ㉕：非管理工业线不用档位价（档位 $17.0/$31.4/$91.5/$35.2 比实报还低）；均低于 2026-06 PDF（$34.1/$55.0/$115.5/$49.5）",
+"why": "线上分销；取价 = Simon/Alan 最近实报，不用 SmartByte 成本表档位价",
 "repeat": [
 "2025-07-23 要产品线 + 价格 + 网站"
 ],
@@ -607124,8 +607124,8 @@
 "next_move": {
 "when": "2026-11 上旬（一封）",
 "channel": "A 邮箱 → sales@fo4sale.com（同一线程「Re: 16 Port Ethernet Switch」，抬头 Grace）",
-"action": "补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价、交期 3–5 工作日；问哪几款想上架",
-"one_question": "Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $17 / 8-port $31.4 / 16-port $91.5 / 2 SFP + 4 PoE $35.2 USD EXW, 3–5 working days. Which of these would you consider listing first?"
+"action": "补齐 2025-07 欠的三样：网站 sagatele.com、DIN 线四个价（$25 / $32.5 / $100 / $35，最近实报）、交期 3–5 工作日；问哪几款想上架",
+"one_question": "Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $25 / 8-port $32.5 / 16-port $100 / 2 SFP + 4 PoE $35 USD EXW, 3–5 working days. Which of these would you consider listing first?"
 },
 "facts": [
 {
@@ -607167,7 +607167,7 @@
 ],
 "draft_en": {
 "subject": "Re: 16 Port Ethernet Switch — the product line, pricing and website you asked for",
-"body": "Hi Grace,\n\nIn July last year you asked for our product line, pricing and website, and I answered with a link file. Here is the proper answer.\n\nWebsite: https://sagatele.com\n\nDIN-rail gigabit switches (industrial, DC 12–58 V, DIP switch, −40 to +75 °C, CE/FCC/RoHS), price per unit EXW:\n- STI-050GE, 5 x gigabit copper: $17.0 USD\n- STI-080GE, 8 x gigabit copper: $31.4 USD\n- STI-0160GE, 16 x gigabit copper: $91.5 USD\n- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35.2 USD\nManaged versions, 24-port units and rack-mount commercial PoE switches are on the site. Lead time 3–5 working days, MOQ 1 pc, 15-day price validity, 3-year warranty on the industrial units, neutral or your-brand packaging.\n\nOne question: which of these would you consider listing first? I can send one or two units for your product photos and testing.\n\nThank you.\nAlan"
+"body": "Hi Grace,\n\nIn July last year you asked for our product line, pricing and website, and I answered with a link file. Here is the proper answer.\n\nWebsite: https://sagatele.com\n\nDIN-rail gigabit switches (industrial, DC 12–58 V, DIP switch, −40 to +75 °C, CE/FCC/RoHS), price per unit EXW:\n- STI-050GE, 5 x gigabit copper: $25 USD\n- STI-080GE, 8 x gigabit copper: $32.5 USD\n- STI-0160GE, 16 x gigabit copper: $100 USD\n- STI-244GP, 2 x SFP + 4 x gigabit PoE+ (120 W): $35 USD\nManaged versions, 24-port units and rack-mount commercial PoE switches are on the site. Lead time 3–5 working days, MOQ 1 pc, 15-day price validity, 3-year warranty on the industrial units, neutral or your-brand packaging.\n\nOne question: which of these would you consider listing first? I can send one or two units for your product photos and testing.\n\nThank you.\nAlan"
 }
 }
 }
