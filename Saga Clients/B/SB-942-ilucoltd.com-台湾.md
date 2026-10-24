@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-10-25 | 来 | styven@ilucoltd.com | Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang | 来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `b795aff546929794` |
+| 2024-10-25 | 去 | Simon | Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」） | 台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来 | `gmail_s 0bee126717d66cdf` |
 
 ## 基本事实（事实/推断/假设分层）
 

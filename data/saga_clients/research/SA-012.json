@@ -240,6 +240,14 @@
         "k": "cost_sheet"
       },
       {
+        "date": "2025-08-24",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Thanks, we got it. Production will be arranged tomorrow. Just one small thing, do we use our model name on WEB GUI and label? We can use yours if you have one.",
+        "why": "付款后次日排产；Saga 对单台客户也主动问「GUI/标签用谁的型号名」——贴牌零门槛的口径证据",
+        "k": "gmail_a 98db755cf311be37"
+      },
+      {
         "date": "2025-09-01",
         "dir": "去",
         "who": "Saga（Alan）",
@@ -256,12 +264,52 @@
         "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
       },
       {
+        "date": "2025-09-01",
+        "dir": "来",
+        "who": "Chris Clemson（GoGreenIT）",
+        "quote": "wondering if you sometimes need unmanaged PoE models? — Sometimes. I have been using the following model in several places: amazon.co.uk …Gigabit-Power-Over-Ethernet-Extender… It isn't the cheapest, but it supports 10mbps half duplex, which other, cheaper makes don't. It also has wall-mounting ears",
+        "why": "他的非管理 PoE 位实际是「PoE 延长器」（亚马逊 B07RRBJ6VJ），并点名 10M 半双工 + 挂耳两个硬需求——这是他后来 11-23 验「10mbps properly」的来源",
+        "k": "gmail_a 73bed98fd65c8091"
+      },
+      {
+        "date": "2025-09-02",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "We mainly focus on Marvell based industrial networkings. For the PoE extender, it is not on our list, maybe you can stick to the model on Amazon. For unmanaged PoE switches, please see attached photo.",
+        "why": "如实说「PoE 延长器不做」，不硬塞；只推非管理 PoE 图——守界口径",
+        "k": "gmail_a 93430b471baec4b1"
+      },
+      {
         "date": "2025-09-08",
         "dir": "来",
         "who": "Chris",
         "quote": "We have received the switch today, and it looks in good order. I have started configuring it",
         "why": "成交闭环（$500，A 总览 §3）",
         "k": "960340fdd0ad3d96"
+      },
+      {
+        "date": "2025-09-17",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Its been a week, I guess you have finished the initial testing. How is it going?（09-09 已催一次「Looking forward to your feedback. We have more interesting models to offer」）",
+        "why": "收货后 Saga 连催两次测试反馈，Chris 一个多月没答——单台家用客户的节奏就是慢，催不出来",
+        "k": "gmail_a 7838cefb5e06900d / 1566da882419f3b8"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "来",
+        "who": "Chris",
+        "quote": "Apologies for the delay in replying. I have configured the switch ready to swap over, but not had chance to swap it over yet. I hope to do it in the next few days, and I will let you know the outcome.",
+        "why": "10-14 第三次催才答：配置好了没换上——到 11-23 才有正式反馈",
+        "k": "gmail_a 0860ef28c415c897"
+      },
+      {
+        "date": "2025-10-16",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "1, OK, please let me know if there is any progress in your testing. 2, In last email, I recommended a new model, I guess you just do not need that type. But it is hot-selling and got interesting features, so there it is.",
+        "why": "Alan 自己收口：推荐的新机型他不需要——以后对 Chris 只谈他那台的使用问题，不再推新品",
+        "k": "gmail_a ca40ede6c5eed6a0"
       },
       {
         "date": "2025-11-23",

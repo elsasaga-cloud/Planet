@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-01-02 | 来 | john.lai@airlive.com | Whats you company url Is those ce certificate? J | 来信原文（主题「RE: Industrial power adapter」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `455bebcee9e0b0b7` |
+| 2024-01-02 | 去 | Simon | It is a new trading company. 1, Company website is under construction and expected to be available within a month. 2, It is CE/UL compliant. Please see attached a new hot-selling model.（答 AirLive John Lai「Whats you company url / Is those ce certificate?」） | 2024 年初的两处旧口径：自称 trading company、说 UL compliant——现行口径都不再用（不称贸易商；认证只有 CE/FCC/RoHS/REACH/UKCA，无 UL）。AirLive 是品牌商，此后无回 | `gmail_s 4df1977995e4e90b` |
 
 ## 基本事实（事实/推断/假设分层）
 

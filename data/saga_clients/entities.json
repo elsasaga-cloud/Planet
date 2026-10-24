@@ -6476,6 +6476,14 @@
 "k": "cost_sheet"
 },
 {
+"date": "2025-08-24",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Thanks, we got it. Production will be arranged tomorrow. Just one small thing, do we use our model name on WEB GUI and label? We can use yours if you have one.",
+"why": "付款后次日排产；Saga 对单台客户也主动问「GUI/标签用谁的型号名」——贴牌零门槛的口径证据",
+"k": "gmail_a 98db755cf311be37"
+},
+{
 "date": "2025-09-01",
 "dir": "去",
 "who": "Saga（Alan）",
@@ -6492,12 +6500,52 @@
 "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
 },
 {
+"date": "2025-09-01",
+"dir": "来",
+"who": "Chris Clemson（GoGreenIT）",
+"quote": "wondering if you sometimes need unmanaged PoE models? — Sometimes. I have been using the following model in several places: amazon.co.uk …Gigabit-Power-Over-Ethernet-Extender… It isn't the cheapest, but it supports 10mbps half duplex, which other, cheaper makes don't. It also has wall-mounting ears",
+"why": "他的非管理 PoE 位实际是「PoE 延长器」（亚马逊 B07RRBJ6VJ），并点名 10M 半双工 + 挂耳两个硬需求——这是他后来 11-23 验「10mbps properly」的来源",
+"k": "gmail_a 73bed98fd65c8091"
+},
+{
+"date": "2025-09-02",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "We mainly focus on Marvell based industrial networkings. For the PoE extender, it is not on our list, maybe you can stick to the model on Amazon. For unmanaged PoE switches, please see attached photo.",
+"why": "如实说「PoE 延长器不做」，不硬塞；只推非管理 PoE 图——守界口径",
+"k": "gmail_a 93430b471baec4b1"
+},
+{
 "date": "2025-09-08",
 "dir": "来",
 "who": "Chris",
 "quote": "We have received the switch today, and it looks in good order. I have started configuring it",
 "why": "成交闭环（$500，A 总览 §3）",
 "k": "960340fdd0ad3d96"
+},
+{
+"date": "2025-09-17",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Its been a week, I guess you have finished the initial testing. How is it going?（09-09 已催一次「Looking forward to your feedback. We have more interesting models to offer」）",
+"why": "收货后 Saga 连催两次测试反馈，Chris 一个多月没答——单台家用客户的节奏就是慢，催不出来",
+"k": "gmail_a 7838cefb5e06900d / 1566da882419f3b8"
+},
+{
+"date": "2025-10-15",
+"dir": "来",
+"who": "Chris",
+"quote": "Apologies for the delay in replying. I have configured the switch ready to swap over, but not had chance to swap it over yet. I hope to do it in the next few days, and I will let you know the outcome.",
+"why": "10-14 第三次催才答：配置好了没换上——到 11-23 才有正式反馈",
+"k": "gmail_a 0860ef28c415c897"
+},
+{
+"date": "2025-10-16",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "1, OK, please let me know if there is any progress in your testing. 2, In last email, I recommended a new model, I guess you just do not need that type. But it is hot-selling and got interesting features, so there it is.",
+"why": "Alan 自己收口：推荐的新机型他不需要——以后对 Chris 只谈他那台的使用问题，不再推新品",
+"k": "gmail_a ca40ede6c5eed6a0"
 },
 {
 "date": "2025-11-23",
@@ -108381,6 +108429,14 @@
 "k": "18a11c4b61a88233"
 },
 {
+"date": "2026-05-04",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "1. Maybe we can start with sample testing, this is prior to any solid commercial frameworks. 2. We do offline deals.（答井上「is it possible to purchase Made in China items from the Alibaba platform?」）",
+"why": "明确不走阿里平台、只做线下直接交易——对日本公司这是采购合规问题，后续若重启要先把「如何付款/谁清关」说清",
+"k": "gmail_a 549f14740ffcd8c1"
+},
+{
 "date": "2026-05-05",
 "dir": "来",
 "who": "UNEAX Inoue（附件 Requirements.xlsx，17 问）",
@@ -131208,6 +131264,14 @@
 "quote": "Whats you company url Is those ce certificate? J",
 "why": "来信原文（主题「RE: Industrial power adapter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "455bebcee9e0b0b7"
+},
+{
+"date": "2024-01-02",
+"dir": "去",
+"who": "Simon",
+"quote": "It is a new trading company. 1, Company website is under construction and expected to be available within a month. 2, It is CE/UL compliant. Please see attached a new hot-selling model.（答 AirLive John Lai「Whats you company url / Is those ce certificate?」）",
+"why": "2024 年初的两处旧口径：自称 trading company、说 UL compliant——现行口径都不再用（不称贸易商；认证只有 CE/FCC/RoHS/REACH/UKCA，无 UL）。AirLive 是品牌商，此后无回",
+"k": "gmail_s 4df1977995e4e90b"
 }
 ],
 "proof_gaps": [],
@@ -477759,6 +477823,14 @@
 "quote": "Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang",
 "why": "来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "b795aff546929794"
+},
+{
+"date": "2024-10-25",
+"dir": "去",
+"who": "Simon",
+"quote": "Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」）",
+"why": "台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来",
+"k": "gmail_s 0bee126717d66cdf"
 }
 ],
 "proof_gaps": [],
