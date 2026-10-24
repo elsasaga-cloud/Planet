@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：以色列 Aironix（工业/无线网络产品分销；表内「工业 FS O-ring 的」「可以尝试多跟进一下」；KP Yair Turjeman（Chief Executive Officer）、Eytan Birenzwige（Vice President Operations））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS O-ring的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-04 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424… 24 口千兆（非 PoE）对位 GS910/24 — 数量 + 目标价 + 距今 2 个月；$60 USD EXW（Alan 2026-08-15 报，型号见当日附件，仓库无该附件型号名）；客户目标 $150 为其采购价 → 利润空间在对方；47/300 两档价仓库无依据，信里不另降价（此前 $58/$54 为臆造，已撤）
-- **第一问（只问一个）**：Yair — $60 USD EXW stands (quoted 2026-08-15); shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版） — 数量 + 目标价 + 距今 2 个月；$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）
+- **第一问（只问一个）**：Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384） 对表 + 样品 + 两档价一次给齐
 
@@ -46,16 +46,18 @@ updated: 2026-10-24
 - **现状一句话**：两个月前的活线索：客户给了型号、数量、年量、目标价四个要素，Saga 的价只有目标价的 40%。断在没有人把「对表 + 样品 + 两档价」一次给齐。
 - **对方真实需求（有据）**：AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。
 - **断点 / 为什么停在这里**：Saga 未闭环。
-- **Saga 现在该推什么**：P1 **STC-424… 24 口千兆（非 PoE）对位 GS910/24**（20% 档，$60 USD EXW（Alan 2026-08-15 报，型号见当日附件，仓库无该附件型号名）；客户目标 $150 为其采购价 → 利润空间在对方；47/300 两档价仓库无依据，信里不另降价（此前 $58/$54 为臆造，已撤））——数量 + 目标价 + 距今 2 个月
+- **Saga 现在该推什么**：P1 **STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版）**（20% 档，$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤））——数量 + 目标价 + 距今 2 个月
   - 做不了 / 要先核的：客户是否已另购；GS910/24 关键参数（非管理、桌面/机架、风扇）逐项对表
 - **下一步（具体）**：现在　A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）　对表 + 样品 + 两档价一次给齐
-  - 第一问（只问一个）：Yair — $60 USD EXW stands (quoted 2026-08-15); shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
+  - 第一问（只问一个）：Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-13 | 来 | Yair | Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. | 需求四要素 | `e38d26c7ab40da80` |
 | 2026-08-15 | 来 | Yair | my customer buying target price is 150usd each | 目标价 | `3a08877b73cf6f38` |
 | 2026-08-15 | 去 | Alan | I checked with ChatGPT… "Technically suitable replacement candidate"… About the price, it is 60USD/PC, EXW term. | 价差 2.5 倍，未闭环 | `44e2d2b34a060ccb` |
+| 2026-08-15 | 去 | Alan | Yes, please see attached datasheet, it is similar.（附件 STC-024GE-D.docx） | 对位型号为 STC-024GE-D 桌面型；AT-GS910/24 是机架型 → 应发 STC-024GE-U | `8cd7e98463599356` |
+| 2026-08-13 | 来 | Yair（附件） | AT-GS910-24@ALLIED TEL.pdf（Allied Telesis 规格书，5,658 字已抽取） | 对表依据在仓库 data/gmail_a/attachments | `e38d26c7ab40da80` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -264,7 +266,7 @@ Hi, Yair,
 Coming back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).
 
 - Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.
-- The unit is a functional replacement, not a 1:1 clone — the differences are in the datasheet I sent; nothing that affects a 24-port GbE desktop/rack role.
+- For a 1U rack role like the AT-GS910/24, the right unit is our rack version STC-024GE-U (24x GbE unmanaged, VLAN/extend mode, loop alarm, AC input) — datasheet attached; the desktop version I sent earlier is the same electronics in a different housing.
 - We can ship 2 test units this month by DHL (paid samples, credited against the first 47).
 
 One question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?

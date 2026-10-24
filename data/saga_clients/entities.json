@@ -220457,14 +220457,14 @@
 ],
 "mail_review": {
 "binding": {
-"level": "轻度触达→明确门槛（Elsa 邮箱 6 封来信 2026-01-08 → 04-06，HFCL DGM Key Strategic Accounts Shantanu Rana：先问「MII 60% 怎么办」，再要「制造国 / 价格 / 型号 / IPR」、「进口到印度的 PO 与销售证明」，最后「text me on WhatsApp」；S/A 邮箱 9 封 0 回 — 之前判「未触达」是因为回信全在 Elsa 邮箱）",
+"level": "轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)",
 "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
 "sieve": "3（要价要证要 WhatsApp，但 MII 门槛未解）",
-"stop": "Elsa 邮箱 2026-04-06 对方要 WhatsApp 后，邮件侧无记录",
+"stop": "2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信",
 "revive": "Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续",
 "lane": "IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》）",
 "cadence": "季度",
-"evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+"evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；Elsa 回复正文 2026-10-24 经 Gmail 连接器读取（msg 19b9ce96044d34d2 / 19d5dda75eb2844d / 19d5df7137413d07 / 19d61799606c69e0）"
 },
 "situation": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
 "need": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
@@ -220472,7 +220472,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定",
 "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
 "repeat": [],
 "gaps": []
@@ -220481,7 +220481,7 @@
 "when": "2026-11（Simon 先定 MII 口径）",
 "channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
 "action": "一句话定调",
-"one_question": "Shantanu — straight answer on MII: we ship complete units from China; we do not have Indian assembly, so 60% local content is not achievable from our side unless you have a local assembly partner for SKD kits. Is that a route HFCL uses?"
+"one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?"
 },
 "facts": [
 {
@@ -220531,11 +220531,43 @@
 "quote": "Can you text me on wats app",
 "why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
 "k": "gmail_e"
+},
+{
+"date": "2026-01-08",
+"dir": "去",
+"who": "Elsa",
+"quote": "About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg）",
+"why": "Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD",
+"k": "gmail_e 19b9ce96044d34d2"
+},
+{
+"date": "2026-04-05",
+"dir": "去",
+"who": "Elsa",
+"quote": "Manufacturing country: China Price: 35USD/PC industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V",
+"why": "对 HFCL 报的是 STI-244GP 级（列表价 $49.5）→ $35 低于列表价，属老汇率/低价口径",
+"k": "gmail_e 19d5dda75eb2844d"
+},
+{
+"date": "2026-04-05",
+"dir": "去",
+"who": "Elsa",
+"quote": "we have supplied this product to India recently … no formal PO … we can provide shipping document and proof of delivery（附 AWB.png / Whatsapp Talk.png）",
+"why": "印度先例证明已给（AWB + 客户 WhatsApp 截图）",
+"k": "gmail_e 19d5df7137413d07"
+},
+{
+"date": "2026-04-06",
+"dir": "去",
+"who": "Elsa",
+"quote": "My colleague Simon said hi on WhatsApp.",
+"why": "渠道交接点：此后进展只在 Simon 手机",
+"k": "gmail_e 19d61799606c69e0"
 }
 ],
 "proof_gaps": [
-"Elsa 2026-01~04 的回复正文未入库（只有索引）",
-"WhatsApp 之后的进展只在 Simon 手机"
+"WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机",
+"SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -409484,9 +409516,9 @@
 "need": "AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。",
 "breakpoint": "Saga 未闭环。",
 "saga_now": {
-"p1": "STC-424… 24 口千兆（非 PoE）对位 GS910/24",
+"p1": "STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版）",
 "tier": 20,
-"price": "$60 USD EXW（Alan 2026-08-15 报，型号见当日附件，仓库无该附件型号名）；客户目标 $150 为其采购价 → 利润空间在对方；47/300 两档价仓库无依据，信里不另降价（此前 $58/$54 为臆造，已撤）",
+"price": "$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）",
 "why": "数量 + 目标价 + 距今 2 个月",
 "repeat": [],
 "gaps": [
@@ -409498,7 +409530,7 @@
 "when": "现在",
 "channel": "A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）",
 "action": "对表 + 样品 + 两档价一次给齐",
-"one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15); shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
+"one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
 },
 "facts": [
 {
@@ -409524,12 +409556,28 @@
 "quote": "I checked with ChatGPT… \"Technically suitable replacement candidate\"… About the price, it is 60USD/PC, EXW term.",
 "why": "价差 2.5 倍，未闭环",
 "k": "44e2d2b34a060ccb"
+},
+{
+"date": "2026-08-15",
+"dir": "去",
+"who": "Alan",
+"quote": "Yes, please see attached datasheet, it is similar.（附件 STC-024GE-D.docx）",
+"why": "对位型号为 STC-024GE-D 桌面型；AT-GS910/24 是机架型 → 应发 STC-024GE-U",
+"k": "8cd7e98463599356"
+},
+{
+"date": "2026-08-13",
+"dir": "来",
+"who": "Yair（附件）",
+"quote": "AT-GS910-24@ALLIED TEL.pdf（Allied Telesis 规格书，5,658 字已抽取）",
+"why": "对表依据在仓库 data/gmail_a/attachments",
+"k": "e38d26c7ab40da80"
 }
 ],
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: 24 Port PoE Managed Switch — AT-GS910/24 replacement, 47 pcs",
-"body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- The unit is a functional replacement, not a 1:1 clone — the differences are in the datasheet I sent; nothing that affects a 24-port GbE desktop/rack role.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan"
+"body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- For a 1U rack role like the AT-GS910/24, the right unit is our rack version STC-024GE-U (24x GbE unmanaged, VLAN/extend mode, loop alarm, AC input) — datasheet attached; the desktop version I sent earlier is the same electronics in a different housing.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }

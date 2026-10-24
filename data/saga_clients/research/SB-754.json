@@ -95,9 +95,9 @@
     "need": "AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。",
     "breakpoint": "Saga 未闭环。",
     "saga_now": {
-      "p1": "STC-424… 24 口千兆（非 PoE）对位 GS910/24",
+      "p1": "STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版）",
       "tier": 20,
-      "price": "$60 USD EXW（Alan 2026-08-15 报，型号见当日附件，仓库无该附件型号名）；客户目标 $150 为其采购价 → 利润空间在对方；47/300 两档价仓库无依据，信里不另降价（此前 $58/$54 为臆造，已撤）",
+      "price": "$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）",
       "why": "数量 + 目标价 + 距今 2 个月",
       "repeat": [],
       "gaps": [
@@ -109,7 +109,7 @@
       "when": "现在",
       "channel": "A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）",
       "action": "对表 + 样品 + 两档价一次给齐",
-      "one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15); shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
+      "one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
     },
     "facts": [
       {
@@ -135,12 +135,28 @@
         "quote": "I checked with ChatGPT… \"Technically suitable replacement candidate\"… About the price, it is 60USD/PC, EXW term.",
         "why": "价差 2.5 倍，未闭环",
         "k": "44e2d2b34a060ccb"
+      },
+      {
+        "date": "2026-08-15",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "Yes, please see attached datasheet, it is similar.（附件 STC-024GE-D.docx）",
+        "why": "对位型号为 STC-024GE-D 桌面型；AT-GS910/24 是机架型 → 应发 STC-024GE-U",
+        "k": "8cd7e98463599356"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "来",
+        "who": "Yair（附件）",
+        "quote": "AT-GS910-24@ALLIED TEL.pdf（Allied Telesis 规格书，5,658 字已抽取）",
+        "why": "对表依据在仓库 data/gmail_a/attachments",
+        "k": "e38d26c7ab40da80"
       }
     ],
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: 24 Port PoE Managed Switch — AT-GS910/24 replacement, 47 pcs",
-      "body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- The unit is a functional replacement, not a 1:1 clone — the differences are in the datasheet I sent; nothing that affects a 24-port GbE desktop/rack role.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan"
+      "body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- For a 1U rack role like the AT-GS910/24, the right unit is our rack version STC-024GE-U (24x GbE unmanaged, VLAN/extend mode, loop alarm, AC input) — datasheet attached; the desktop version I sent earlier is the same electronics in a different housing.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
   }
