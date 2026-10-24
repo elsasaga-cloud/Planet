@@ -75,7 +75,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）",
       "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）",
       "repeat": [],
       "gaps": []
@@ -101,7 +101,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+      "body": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $137.5), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
     },
     "as_of": "2026-10-24"
   }
