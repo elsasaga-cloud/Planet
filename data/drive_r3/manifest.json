@@ -3024,6 +3024,34 @@
 "uploaded":true
 }
 ]
+},
+"Anda Telecom 共享（副本，供入库）":{
+"done":true,
+"at":"2026-10-24T03:34:05Z",
+"files":5,
+"bytes":66931378,
+"parts":[
+{
+"asset":"smartbyte_drive_Anda_Telecom_part01.zip",
+"bytes":66932950,
+"sha256":"75723e3d50552ac25efd1a093391edc001000b642c88248daa96e09c0d1f174f",
+"files":[
+"1Iv1gwHR8XCQ_uPInmI2zoxxjaKLx0OAs",
+"1EwGPuJ2Z6iNcfvvDVfzCWLdXtYS8VMuM",
+"1amjfDI-my-3w2zLPCEYc8Bj9eofFbKBV",
+"1c80LcUX2UL1wAFi1wxSxPRF8XE8L3LVz",
+"1NVzE8z7QKVgdHV1azxE2aNwLjbPU1edq"
+],
+"paths":[
+"Drive第三轮/Anda Telecom 共享（副本，供入库）/ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__ATL1050042022-A1.pdf",
+"Drive第三轮/Anda Telecom 共享（副本，供入库）/ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__SETC22276006_A-2.pdf",
+"Drive第三轮/Anda Telecom 共享（副本，供入库）/ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__SETC240171025(NEMA).pdf",
+"Drive第三轮/Anda Telecom 共享（副本，供入库）/IP PA SYSTEM__AT-PAG6182.pdf",
+"Drive第三轮/Anda Telecom 共享（副本，供入库）/Anda Telecom__TACTICAL OFC INTRODUCTION & EDUCATION INFORMATION.mp4"
+],
+"uploaded":true
+}
+]
 }
 },
 "runs":[
@@ -3046,12 +3074,11 @@
 ],
 "files_total_in_index":1461,
 "index_source":"Google Drive（Elsa 账号）第三轮：SmartByte/CENTEC/Realtek 之外剩余的全部根文件夹 《Saga Telecom Resource Library》(id 1YyJDq-YRG680Z7_HhzCQo_X8GwOM0Ijp)；《MUST KNOW》(id 1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw)；《Marvell Based Industrial Managed Switch》(id 18wELd5rPvpYWkcJHD-P9qEMrL0tCSmhn)；《Marvell Based Industrial Unmanaged Switch》(id 1i0qtbohGJXpaLzUYj4Kr682JMpil2H6u)；《Marvell Based Commercial Managed Switch》(id 1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L)；《Anda Telecom 共享（副本，供入库）》(id 1Wuujl_clSr085L7NUgaEeHPM8-ni5ZoL)",
-"updated_at":"2026-10-24T03:28:31Z",
+"updated_at":"2026-10-24T03:34:05Z",
 "files_in_manifest":1461,
 "status_counts":{
-"fail":5,
-"ok":279,
-"meta":274,
+"ok":283,
+"meta":275,
 "dup":903
 },
 "release_tag":"drive-r3-20261022"
@@ -3066,17 +3093,18 @@
 "type":"PDF",
 "ext":".pdf",
 "bytes":600273,
-"sha256":"",
-"status":"fail",
-"method":"",
-"chars":0,
+"sha256":"23543530b6a41b4bf0867f28e379a85da0cf194668bd7ef34050efffe32710fc",
+"status":"ok",
+"method":"pdfplumber",
+"chars":2961,
 "same_as":"",
-"text_file":"",
+"text_file":"text/1Iv1gwHR8XCQ_uPInmI2zoxxjaKLx0OAs.json",
 "thumb":"",
-"error":"QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑",
-"at":"2026-10-22T12:32:55Z",
+"error":"",
+"at":"2026-10-24T03:28:33Z",
 "index_summary":"ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__ATL10…",
-"secs":1.8
+"bytes_actual":600273,
+"secs":2.2
 },
 "1EwGPuJ2Z6iNcfvvDVfzCWLdXtYS8VMuM":{
 "id":"1EwGPuJ2Z6iNcfvvDVfzCWLdXtYS8VMuM",
@@ -3087,17 +3115,18 @@
 "type":"PDF",
 "ext":".pdf",
 "bytes":3705616,
-"sha256":"",
-"status":"fail",
-"method":"",
-"chars":0,
+"sha256":"1551c8f4954150831dd2b97c1029bd3374bafeb48694063284a8973e6834783b",
+"status":"ok",
+"method":"pdfplumber+OCR(4p)",
+"chars":7680,
 "same_as":"",
-"text_file":"",
+"text_file":"text/1EwGPuJ2Z6iNcfvvDVfzCWLdXtYS8VMuM.json",
 "thumb":"",
-"error":"QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑",
-"at":"2026-10-22T12:32:55Z",
+"error":"",
+"at":"2026-10-24T03:28:33Z",
 "index_summary":"ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__SETC2…",
-"secs":2.3
+"bytes_actual":3705616,
+"secs":92.6
 },
 "1amjfDI-my-3w2zLPCEYc8Bj9eofFbKBV":{
 "id":"1amjfDI-my-3w2zLPCEYc8Bj9eofFbKBV",
@@ -3108,17 +3137,18 @@
 "type":"PDF",
 "ext":".pdf",
 "bytes":13400877,
-"sha256":"",
-"status":"fail",
-"method":"",
-"chars":0,
+"sha256":"3a92c31fc5786c94cd207ba51c4cb304f8bb5af5be2f36b671fb892460c57d4e",
+"status":"ok",
+"method":"pdfplumber+OCR(36p)",
+"chars":48140,
 "same_as":"",
-"text_file":"",
+"text_file":"text/1amjfDI-my-3w2zLPCEYc8Bj9eofFbKBV.json",
 "thumb":"",
-"error":"QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑",
-"at":"2026-10-22T12:32:55Z",
+"error":"",
+"at":"2026-10-24T03:28:33Z",
 "index_summary":"ALL TEST REPORTS__INDUSTRAL SWITCH IEC EMC__SETC2…",
-"secs":3.2
+"bytes_actual":13400877,
+"secs":327.4
 },
 "1NVzE8z7QKVgdHV1azxE2aNwLjbPU1edq":{
 "id":"1NVzE8z7QKVgdHV1azxE2aNwLjbPU1edq",
@@ -3129,17 +3159,26 @@
 "type":"视频",
 "ext":".mp4",
 "bytes":48712049,
-"sha256":"",
-"status":"fail",
-"method":"",
+"sha256":"f190f532a6bc5bec91473b8043f212ab228d5b2a4cf0e15cd74500578f7745a4",
+"status":"meta",
+"method":"ffprobe+ffmpeg",
 "chars":0,
 "same_as":"",
 "text_file":"",
-"thumb":"",
-"error":"QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑",
-"at":"2026-10-22T12:32:55Z",
+"thumb":"thumbs/1NVzE8z7QKVgdHV1azxE2aNwLjbPU1edq.jpg",
+"error":"",
+"at":"2026-10-24T03:28:33Z",
 "index_summary":"Anda Telecom__TACTICAL OFC INTRODUCTION & EDUCATI…",
-"secs":2.5
+"bytes_actual":48712049,
+"meta":{
+"duration_s":293.8,
+"width":848,
+"height":480,
+"vcodec":"h264",
+"acodec":"aac",
+"thumb_bytes":16308
+},
+"secs":4.3
 },
 "1c80LcUX2UL1wAFi1wxSxPRF8XE8L3LVz":{
 "id":"1c80LcUX2UL1wAFi1wxSxPRF8XE8L3LVz",
@@ -3150,17 +3189,18 @@
 "type":"PDF",
 "ext":".pdf",
 "bytes":512563,
-"sha256":"",
-"status":"fail",
-"method":"",
-"chars":0,
+"sha256":"4e92368aa42182ce4346f8fc1f7f782e982a0a3ad13d37680688223c534f0e25",
+"status":"ok",
+"method":"pdfplumber",
+"chars":3207,
 "same_as":"",
-"text_file":"",
+"text_file":"text/1c80LcUX2UL1wAFi1wxSxPRF8XE8L3LVz.json",
 "thumb":"",
-"error":"QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑",
-"at":"2026-10-22T12:32:55Z",
+"error":"",
+"at":"2026-10-24T03:28:33Z",
 "index_summary":"IP PA SYSTEM__AT-PAG6182（PDF，入库时全文提取）",
-"secs":1.1
+"bytes_actual":512563,
+"secs":1.6
 },
 "1e91hN2nlXd385DCPnghQ-HxG_8jtqkb-":{
 "id":"1e91hN2nlXd385DCPnghQ-HxG_8jtqkb-",
