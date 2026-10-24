@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/葡萄牙；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
+- **第一问（只问一个）**：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models (2.5G/10G fiber uplinks; copper access is 1G PoE) from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
+  - 第一问（只问一个）：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models (2.5G/10G fiber uplinks; copper access is 1G PoE) from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

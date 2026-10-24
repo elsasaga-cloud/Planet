@@ -233161,7 +233161,7 @@
 "p1": "STC-28DGGPM",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位",
+"why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：全主表无 2.5G 铜口（DG = 2.5G 光口）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口",
 "repeat": [],
 "gaps": []
 },
@@ -233169,7 +233169,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Giovanni, regarding your 8 × 2.5G + 4 × 10G SFP+ switch requirement for AV installations: we supply Marvell-based L2+ switches (8-GE/PoE + 2 SFP; 24-GE + 4 × 10G SFP+) with IGMP for AV-over-IP from single units, CE/RoHS, EXW USD — how many units and is PoE needed on the 2.5G ports?"
+"one_question": "Giovanni, regarding your 8 × 2.5G + 4 × 10G SFP+ requirement for AV installations: a straight answer — our Marvell line has 2.5G only on SFP/SFP+ cages (e.g. 8-GE PoE + 4 × 1G/2.5G SFP; 24-GE + 4 × 1G/2.5G/10G SFP+), no 2.5G copper ports, with IGMP for AV-over-IP from single units, CE/RoHS, EXW USD — would 1G copper access with 2.5G/10G fiber uplinks still fit, or is 2.5G copper mandatory?"
 },
 "facts": [
 {
@@ -378483,7 +378483,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?"
+"one_question": "Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models (2.5G/10G fiber uplinks; copper access is 1G PoE) from small lots, CE/RoHS, EXW USD — which port count do your installers order most?"
 },
 "facts": [
 {
@@ -420505,7 +420505,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）",
-"why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+"why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为明说多千兆铜口 PoE 不在线上",
 "repeat": [],
 "gaps": []
 },
@@ -420513,7 +420513,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform (8-PoE + 2×2.5G SFP L2+ now, 2.5G-port PoE on request) from small lots in your housing — which SKU would you consider dual-sourcing first?"
+"one_question": "For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform for the 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 × 1G/2.5G SFP L2+; 24-PoE + 4 × 10G SFP+) — multi-gig copper PoE is not in our line today, so that SKU stays with your current source — which of the fiber-uplink SKUs would you consider dual-sourcing first?"
 },
 "facts": [
 {
@@ -495582,7 +495582,181 @@
 "c_sub": "体量过大/品牌厂商/运营商",
 "status": "有回复·跟进中",
 "code": "SC-005",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-005",
+"name_official": "Super Micro Computer, Inc.（美国 San Jose；服务器巨头）— 3 位具名 KP：Michael Chao、Elizabeth Wang (Arch)、Deepali Velayuthan（Global Director BD）",
+"researched_at": "2026-10-24",
+"website_status": "正常（supermicro.com）",
+"summary": "A 邮箱群发 8 封；2025-09-18「Mini Industrial PoE Switch」群发引出 2 人同日真回：Michael Chao 问输入电源/温度/户外合规；Elizabeth Wang 问 -34~74℃ 户外机柜能否；Alan 09-19 答 -40~+75℃ + IP40 + 测温照片；Elizabeth 09-23 追问「3× 10/100/1000M + 802.3at PoE with Microfit Connector」有没有、公司介绍、认证、产地 → Alan 09-23 答「无现成型号，可开发，需评估数量/技术可行性」+ CE/FCC/RoHS/REACH/UKCA + 广东制造 → 无回；11-06、2026-03-30 两次推送无回。巨头规则（supermicro.com 在 GIANT_DOMAINS）自动 C。",
+"type": "服务器/边缘计算巨头（疑为户外边缘机柜内嵌 PoE 板需求）",
+"size": "巨头",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "工程侧问输入电源/温度/户外合规",
+"quote": "May I know the input power and temperature specification? Any compliance for outdoor use?",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2025-09-18"
+},
+{
+"kind": "邮件",
+"claim": "-34~74℃ 户外机柜",
+"quote": "Do you have something which can survive under -34 to 74 degrees which can survive inside outdoor cabinet?",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2025-09-18"
+},
+{
+"kind": "邮件",
+"claim": "具体规格：3×GE 802.3at PoE + Microfit 连接器（板级）",
+"quote": "Do you have \" 3X 10/100/1000M Ethernet Ports, 802.3at PoE with Microfit Connector\" ? Can you tell me more about Saga Telecom ? What kind of certification have you passed for your product? Where do you manufacture?",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2025-09-23"
+}
+],
+"kp": [
+{
+"name": "Elizabeth Wang (Arch)",
+"title": "（架构/采购侧；署名 Arch）",
+"email": "elizabethwang@supermicro.com",
+"phone": "",
+"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+},
+{
+"name": "Michael Chao",
+"title": "（工程侧）",
+"email": "michaelc@supermicro.com",
+"phone": "408-817-0345（信尾）",
+"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+},
+{
+"name": "Deepali Velayuthan",
+"title": "Global Director - Business Development",
+"email": "deepaliv@supermicro.com",
+"phone": "",
+"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "巨头规则 → C 不动（Q-55 默认）；但需求是真的：3 口 GE 802.3at PoE + Microfit 连接器 = 板级/嵌入式 PoE 交换（装进他们的户外边缘机柜/设备），-34~74℃。Saga 的回答停在「可开发，需数量」——他们没给数量。美国巨头几乎必问 UL（Saga 无 UL，《背景信息》不做 UL）→ 天然断点。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据 + 官网常识"
+},
+"company_facts": {
+"legal_name": "Super Micro Computer, Inc.",
+"founded": "1993",
+"hq": "San Jose, CA",
+"size": "巨头",
+"other": "服务器/存储/边缘计算"
+},
+"channels": {
+"role": "工程/架构/BD 三线",
+"region": "美国"
+},
+"risks": [
+"UL/供应商准入（美国巨头）——Saga 无 UL",
+"板级定制需 SmartByte/HRUI 评估，数量不明",
+"3 位 KP 分属不同部门，内部决策链不明"
+],
+"saga_fit": {
+"p1": "无现成；最接近 = 工业 5 口 DIN（STI-054GP 4×GE PoE + 1×GE 上联, -40~+75℃）；Microfit 板级需定制",
+"tier": 30,
+"why": "ODM 板级 + 巨头准入 + 无 UL：三重门槛；只值一封收尾信问数量与 UL 是否硬条件"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（A 邮箱 8 去 4 来：2025-09-18/23 三位具名 KP 围绕「户外机柜内 3 口 GE PoE Microfit 板」连问 4 封；Alan 两次答复后对方不回；巨头规则 C）",
+"type": "巨头 ODM 试探",
+"sieve": "3（规格层面，无数量）",
+"stop": "我们答「可开发但要数量」——他们没给；UL 没谈到就断了",
+"revive": "一封收尾信：问需求是否还在 + 数量级 + UL 是否硬条件；仅此一封",
+"lane": "美国（主攻）；巨头例外档",
+"cadence": "一次收尾，之后不群发",
+"evidence": "gmail_a 2025-06-18 → 2026-03-30；digest in 4 / out 8；flags giant=1"
+},
+"situation": "Supermicro 工程/架构侧 2025-09 问 -34~74℃ 户外机柜用的 3 口 GE 802.3at PoE 板（Microfit 连接器）；Alan 答无现成可开发、认证 CE/FCC/RoHS/REACH/UKCA、广东制造；对方未给数量，13 个月无回。",
+"need": "嵌入式/板级 3×GE PoE at 交换（Microfit 连接器），宽温 -34~74℃，户外机柜内；供应商资质（认证、产地、公司背景）。",
+"breakpoint": "「需要数量才能评估」+ 无 UL——美国巨头准入的两道门，一道没过。",
+"saga_now": {
+"p1": "无现成；板级定制（SmartByte/HRUI 工业线评估）；最近似现成品 STI-054GP（4×GE PoE + 1×GE RJ45 上联，-40~+75℃，主表 $42.9）",
+"tier": "OEM 30%（ODM）",
+"price": "STI-054GP $42.9 EXW（主表 @6.69；2025 对 SB-093 报过 $33）；板级定制无价",
+"why": "巨头规则 C（Q-55 默认不升）；需求真实但三重门槛（板级定制 / 巨头准入 / 无 UL）——收尾信只问三件事：还在不在、数量级、UL 是否硬条件；任何一个答案为否即停｜已发资料（勿重发）：测温照片 ×4 + Outdoor Cabinet.png(2025-09-19)、PROFILE_Saga Telecom.pdf(2025-09-23)、Product Link_2026Q2(2026-03-30)",
+"repeat": "若成为板级供应商 = 年量级；概率低",
+"gaps": "数量；UL 要求；用在哪款产品；三位 KP 谁拍板"
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → elizabethwang@supermicro.com（回 2025-09-23 原线程「Mini Industrial PoE Switch」），抄 michaelc@",
+"action": "一封收尾信（巨头例外档，仅此一封）：承认上次停在「要数量」；给最接近的现成品（STI-054GP 4×GE PoE + 1×GE 上联 -40~+75℃）作参照；问三件事：需求是否还在、数量级、UL 是否硬条件（Saga 认证为 CE/FCC/RoHS/REACH/UKCA，无 UL——先说清，别让对方浪费时间）",
+"one_question": "Elizabeth — picking up the 3×GE 802.3at PoE / Microfit board from September 2025: is that requirement still live, and roughly what annual quantity? One thing to say up front: our certifications are CE/FCC/RoHS/REACH/UKCA, not UL — if UL is mandatory for that cabinet, tell me and we both save time."
+},
+"facts": [
+{
+"date": "2025-09-18",
+"dir": "来",
+"who": "Michael Chao",
+"quote": "May I know the input power and temperature specification? Any compliance for outdoor use?",
+"why": "工程侧第一问",
+"k": "q"
+},
+{
+"date": "2025-09-18",
+"dir": "来",
+"who": "Elizabeth Wang (Arch)",
+"quote": "Do you have something which can survive under -34 to 74 degrees which can survive inside outdoor cabinet?",
+"why": "户外机柜宽温",
+"k": "q"
+},
+{
+"date": "2025-09-19",
+"dir": "去",
+"who": "Alan",
+"quote": "our industrial models stand in -40 to 75 degrees. Please see attached photos… our industrial models are IP40-rated and commonly used in outdoor cabinets.",
+"why": "口径正确（-40~+75 / IP40）",
+"k": "reply"
+},
+{
+"date": "2025-09-23",
+"dir": "来",
+"who": "Elizabeth Wang (Arch)",
+"quote": "Do you have \" 3X 10/100/1000M Ethernet Ports, 802.3at PoE with Microfit Connector\" ? Can you tell me more about Saga Telecom ? What kind of certification have you passed for your product? Where do you manufacture?",
+"why": "板级规格 + 供应商资质三问",
+"k": "rfq"
+},
+{
+"date": "2025-09-23",
+"dir": "去",
+"who": "Alan",
+"quote": "there is no ready model for this specification, we can develop it. But need to evaluate it, like the quantity you need, future demand, technical feasibility etc.… CE/FCC/RoHS/Reach/UKCA… manufactured in Guangdong province",
+"why": "答复后无回——断点",
+"k": "reply"
+},
+{
+"date": "2025-11-06",
+"dir": "去",
+"who": "Alan",
+"quote": "（Re: Mini Industrial PoE Switch 推送 Booster PoE Switch.png）",
+"why": "与板级需求无关的推送",
+"k": "push"
+}
+],
+"proof_gaps": [
+"数量 / 目标产品",
+"UL 是否硬条件",
+"Deepali（BD 总监）只出现过自动回复，是否知情不明"
+],
+"draft_en": {
+"subject": "Re: Mini Industrial PoE Switch — the 3×GE PoE / Microfit board, one year later",
+"body": "Hi Elizabeth,\n\nLast September we stopped at \"we can develop it, but we need the quantity\". Picking that up properly:\n\n- Nearest ready unit for reference: a 4 x GE 802.3at PoE + 1 x GE uplink industrial switch, -40 to +75 C, IP40 (tested photos were in my September mail). A 3 x GE board-level version with a Microfit connector is a custom build on the same platform.\n- Certifications up front: CE/FCC/RoHS/REACH/UKCA. We do not hold UL. If UL is mandatory for that outdoor cabinet, please tell me and we both save time.\n\nOne question: is the requirement still live, and roughly what annual quantity are we talking about? That is the one number the engineering evaluation needs.\n\nThank you.\nAlan"
+}
+}
+}
 },
 {
 "name": "poe-link.com.ua",
@@ -562875,10 +563049,161 @@
 "+5 最近活动 2025",
 "-10 推送 13 次无任何回复（聋名单）"
 ],
-"c_sub": "低价值区域冷线索",
+"c_sub": "",
 "status": "已推送 13 次·未回复",
 "code": "SC-1352",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-1352",
+"name_official": "Conexión de Redes de Centro América（萨尔瓦多；KP Antonio Alberto Guadron, Gerente General）",
+"researched_at": "2026-10-24",
+"website_status": "正常（conexionderedes.com，未爬）",
+"summary": "A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。",
+"type": "中美洲网络集成/分销商（为其客户转发方案）",
+"size": "（未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "要旁路交换机资料",
+"quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2025-05-28"
+},
+{
+"kind": "邮件",
+"claim": "CENTEC 方案转给其客户",
+"quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2026-01-19"
+},
+{
+"kind": "邮件",
+"claim": "提到「Data Center client」并许诺反馈",
+"quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2026-01-20"
+}
+],
+"kp": [
+{
+"name": "Antonio Alberto Guadron",
+"title": "Gerente General",
+"email": "gerencia@conexionderedes.com",
+"phone": "",
+"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": "B",
+"override_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
+"notes": "西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据 + 官网常识"
+},
+"company_facts": {
+"legal_name": "Conexión de Redes de Centro América",
+"founded": "",
+"hq": "萨尔瓦多",
+"size": "",
+"other": "网络集成/分销"
+},
+"channels": {
+"role": "总经理",
+"region": "萨尔瓦多"
+},
+"risks": [
+"DC 客户是否选型结束不明",
+"中美洲物流/付款（T/T USD 可行）",
+"非主攻区，资源有限"
+],
+"saga_fit": {
+"p1": "CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198",
+"tier": 25,
+"why": "集成商转发型；一句话问 DC 客户的反馈即可"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）",
+"type": "集成商转发",
+"sieve": "3（资料转发层面）",
+"stop": "他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关",
+"revive": "一句话问 DC 客户的反馈/是否已定；不再推新品",
+"lane": "中美洲 非主攻（其他 B）",
+"cadence": "季度",
+"evidence": "gmail_a 2024-08-05 → 2026-09-09；digest in 3 / out 24"
+},
+"situation": "萨尔瓦多集成商总经理 Antonio 2026-01 把 CENTEC 资料（PeakNetX V3.1 / Function List V2.4 / STH25G）转给一个数据中心客户，承诺反馈后沉默；此后 Saga 只发了群发和一封不相关的 DIN PoE 推送。",
+"need": "数据中心客户的核心/汇聚方案（CENTEC 25G/100G）；更早对光纤旁路机有兴趣。",
+"breakpoint": "「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。",
+"saga_now": {
+"p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）",
+"tier": "集成商 25%",
+"price": "CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW",
+"why": "已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题",
+"repeat": "集成商：项目制，成一单可带下一单",
+"gaps": "DC 客户是谁/规模；是否已选型；他要的「feedback」是价格还是技术"
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）",
+"action": "一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE",
+"one_question": "Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?"
+},
+"facts": [
+{
+"date": "2025-05-28",
+"dir": "来",
+"who": "Antonio Alberto Guadron（Gerente General）",
+"quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
+"why": "旁路机兴趣",
+"k": "interest"
+},
+{
+"date": "2026-01-19",
+"dir": "来",
+"who": "Antonio",
+"quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
+"why": "CENTEC 转发给客户",
+"k": "interest"
+},
+{
+"date": "2026-01-20",
+"dir": "去",
+"who": "Alan",
+"quote": "Please check attached information and let me know.（附 8C48XF.png、Performance of PeakNetX Platform_EN_V3.1.pptx、Saga Software Function List_EN_V2.4.pptx、STH25G Series.pptx）",
+"why": "资料齐，但没问客户是谁/规模",
+"k": "reply"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Antonio",
+"quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
+"why": "有 DC 客户在手；feedback 未到",
+"k": "promise_in"
+},
+{
+"date": "2026-09-09",
+"dir": "去",
+"who": "Alan",
+"quote": "This is our 16-port DIN PoE switch… Do you need some units for testing?",
+"why": "与 DC 话题无关的推送；无回",
+"k": "push"
+}
+],
+"proof_gaps": [
+"DC 客户身份与规模",
+"他承诺的 feedback 是否通过其他渠道给过（仓内无）"
+],
+"draft_en": {
+"subject": "Re: OEM Core Switching Solution — the data-center client",
+"body": "Dear Antonio,\n\nIn January you took our CENTEC material (STH25G series, function list V2.4) to a data-center client and kindly offered some feedback. I did not follow up on it, so let me do that now.\n\nIf the 25G/100G core is still open on their side: the 48 x 25G + 8 x 100G unit (STH-8C48DX-HSI) is $4,800 USD EXW on the 2026 Q2 list (valid 15 days from this mail), L3 with VXLAN-EVPN, MPLS and MLAG, hot-swap PSUs, with your label if needed.\n\nOne question: did the client decide, and if not, what was their feedback on the material?\n\nThank you.\nAlan"
+}
+}
+}
 },
 {
 "name": "delta-telecom.net",
@@ -836292,7 +836617,167 @@
 "c_sub": "体量过大/品牌厂商/运营商",
 "status": "有回复·跟进中",
 "code": "SC-396",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-396",
+"name_official": "Technetix Ltd.（英国 West Sussex；宽带/光纤接入设备品牌商；KP Mark Basham, VP Product Management – Fiber Access）",
+"researched_at": "2026-10-24",
+"website_status": "正常（technetix.com）",
+"summary": "A 邮箱群发 22 封中两次具名真回：2025-04-22 要规格书/Marvell 芯片型号/能否定制设计/公司介绍 PPT（答：STI-488XGGPM 规格书 + 98DX2515）；2026-01-21 对 CENTEC 群发追问 10G SFP+ 能否跑 2.5G、SFP+ 口最大供电、有无 REST/JSON 管理接口、样机多快（Alan 01-22 答：NO / 见 STH10G 第 6 页 / 「RESTful API with JSON… planned and available in Q2」/ 样机 3~5 工作日）→ 无回；2026-08-10 单发 24 口 PoE $170 → 无回。巨头规则（technetix.com 在 GIANT_DOMAINS）自动 C。",
+"type": "OEM 品牌商（光纤/宽带接入设备）",
+"size": "（集团数百人；未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "VP 产品管理问定制设计与公司介绍",
+"quote": "What Marvell chip is in the switch? Can you do custom designs? Do you have an overview slide deck for Saga telecom",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2025-04-22"
+},
+{
+"kind": "邮件",
+"claim": "CENTEC 线四问：2.5G on SFP+ / SFP+ 供电 / REST·JSON / 样机速度",
+"quote": "Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be drawn by the SFP+ ports? Is there a management interface such as REST, or JSON… how quickly can I get a sample",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2026-01-21"
+},
+{
+"kind": "邮件（去）",
+"claim": "Alan 承诺 REST/JSON API「Q2 可用」",
+"quote": "1, NO 2, …page 6(STH10 Series) 3, A RESTful management API with JSON data format is planned and available in Q2. 4, … 5, For samples, 3~5 working days",
+"url": "data/gmail_a/messages/<year>/<month>.jsonl",
+"date": "2026-01-22"
+}
+],
+"kp": [
+{
+"name": "Mark Basham",
+"title": "Vice President Product Management, Fiber Access",
+"email": "mark.basham@technetix.com",
+"phone": "+44 1444 251260 / m +44 7827 990840（信尾；对外材料不写电话）",
+"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": null,
+"override_reason": "",
+"notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据 + 官网常识"
+},
+"company_facts": {
+"legal_name": "Technetix Ltd.",
+"founded": "",
+"hq": "Albourne, West Sussex, UK",
+"size": "",
+"other": "宽带/光纤接入设备（信尾 Fiber Access）"
+},
+"channels": {
+"role": "VP Product Management",
+"region": "英国"
+},
+"risks": [
+"巨头采购流程（供应商准入/UL/合规）小贸易商难进",
+"2026-01-22 对他说了「RESTful API JSON Q2 可用」——STOS V2.4（2026/Q2）功能表只有「RPC-API management」，无 REST/JSON 字样：承诺未兑现或措辞不符，需交代",
+"他真正的兴趣（2.5G on SFP+、SFP+ 供电）指向光纤接入侧的特殊用法，Saga 标准机型不对位"
+],
+"saga_fit": {
+"p1": "无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G",
+"tier": 30,
+"why": "品牌商/定制意向，但巨头体量；先把承诺交代清楚，再看他是否还有话"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（A 邮箱 22 去 2 来，两次都是 VP Mark Basham 具名、带 4~5 个具体技术问题；2026-01-22 Alan 答复含「REST/JSON API Q2 可用」承诺后无回；巨头规则 C）",
+"type": "品牌商 VP 自问",
+"sieve": "3~4（具体问题层面，未到型号/数量）",
+"stop": "我们的答复一个「NO」（SFP+ 不跑 2.5G）+ 一个未兑现的承诺（REST Q2）——他没再回",
+"revive": "一封收尾信：交代 REST 承诺现状 + 2.5G 的正确对位机型；不带新品，不群发",
+"lane": "英国（四大主攻之一）；巨头例外档",
+"cadence": "一次收尾，之后半年",
+"evidence": "gmail_a 2025-03-24 → 2026-08-10（22 去 2 来）；digest in 2 / out 22；flags giant=1, wa_failed=1"
+},
+"situation": "英国宽带设备品牌商 Technetix 的产品 VP 两次具名提问（2025-04 定制设计/芯片；2026-01 CENTEC 线 2.5G/供电/REST/样机）。Alan 2026-01-22 答「REST/JSON API Q2 可用」，Q2 已过，STOS V2.4 功能表没有 REST——承诺悬着；此后只收到群发与一封 $170 推送。",
+"need": "光纤接入侧的交换/汇聚：10G SFP+ 口能否 2.5G、SFP+ 供电、程序化管理接口（REST/JSON）、快速样机；更早的问题是「能否定制设计」。",
+"breakpoint": "2026-01-22 的答复：一个 NO + 一个未兑现的 Q2 承诺；之后 9 个月没人交代。",
+"saga_now": {
+"p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；全线无 2.5G 铜口",
+"tier": "OEM 30%（品牌商定制）",
+"price": "STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
+"why": "对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
+"repeat": "品牌商若立项为定制，才有复购",
+"gaps": "他的具体应用（为什么要 SFP+ 跑 2.5G）；Technetix 供应商准入要求；REST 是否仍是硬条件"
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → mark.basham@technetix.com（回 2026-01-22 原线程「OEM Core Switching Solution」）",
+"action": "一封收尾信（巨头例外档，仅此一封）：①REST/JSON Q2 承诺——现状是 RPC-API，不是 REST，直说；②「SFP+ 跑 2.5G」在 CENTEC 线是 NO，在 Marvell AC5 线是 YES（1G/2.5G/10G SFP+），1 月答漏了；③只问一个问题：2.5G 那条需求背后是什么应用；不推 $170 的 24 口",
+"one_question": "Mark — closing two loops from January: (1) the programmable interface on the CENTEC line shipped as an RPC-based management API, not the REST/JSON interface I said would come in Q2 — please do not plan on REST; (2) my \"NO\" on 2.5G was only for the CENTEC STH10G — on our Marvell line the SFP+ cages are 1G/2.5G/10G. What is the application behind the 2.5G requirement?"
+},
+"facts": [
+{
+"date": "2025-04-22",
+"dir": "来",
+"who": "Mark Basham（VP Product Management, Fiber Access）",
+"quote": "Do you have a data sheet… What Marvell chip is in the switch? Can you do custom designs? Do you have an overview slide deck for Saga telecom",
+"why": "品牌商 VP 的定制意向问句",
+"k": "interest"
+},
+{
+"date": "2025-04-23",
+"dir": "去",
+"who": "Alan",
+"quote": "please see attached datasheet. 2, Marvell 98DX 2515… Profile: About us>Factory Information>google link. Customization: in the datesheet itself, web gui or manufacturing",
+"why": "答了，但没问他要做什么",
+"k": "reply"
+},
+{
+"date": "2026-01-21",
+"dir": "来",
+"who": "Mark Basham",
+"quote": "Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be drawn by the SFP+ ports? Is there a management interface such as REST, or JSON. Can you send me a data sheet please. And finally how quickly can I get a sample if the answers to above are positive?",
+"why": "四个硬问题 + 样机意愿",
+"k": "rfq"
+},
+{
+"date": "2026-01-22",
+"dir": "去",
+"who": "Alan",
+"quote": "1, NO 2, Please check the power consumption on page 6(STH10 Series) 3, A RESTful management API with JSON data format is planned and available in Q2. 4, Please see attached information. 5, For samples, 3~5 working days is good. We are still improving some features, this takes a while.",
+"why": "REST Q2 承诺——未兑现（STOS V2.4 无 REST）",
+"k": "promise"
+},
+{
+"date": "2026-01-22",
+"dir": "内",
+"who": "（仓内核对 2026-10-24）",
+"quote": "主表规格栏：STC-424XGGM「4*1G/2.5G/10G SFP+」、STI-480XGGM「4*1G/2.5G/10GBase-X SFP+」；STI-288DGGPM 规格书「DG: 2.5 Gigabit based for optical ports」",
+"why": "Alan 的「1, NO」只对 CENTEC；AC5 线 SFP+ 可跑 2.5G——收尾信要补",
+"k": "check"
+},
+{
+"date": "2026-08-10",
+"dir": "去",
+"who": "Alan",
+"quote": "24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC. Do you need some samples for testing?",
+"why": "与他的问题无关的推送；无回",
+"k": "push"
+}
+],
+"proof_gaps": [
+"Technetix 当前产品线中哪一段需要 2.5G/SFP+ 供电（官网未爬）",
+"REST 承诺的来源（Alan 当时依据什么说 Q2）",
+"WhatsApp 加不上（flags.wa_failed）的时间与号码"
+],
+"draft_en": {
+"subject": "Re: OEM Core Switching Solution — closing two loops from January",
+"body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G.\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan"
+}
+}
+}
 },
 {
 "name": "telecamera.ru",

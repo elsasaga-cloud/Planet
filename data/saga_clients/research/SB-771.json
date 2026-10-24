@@ -101,7 +101,7 @@
       "p1": "STC-28DGGPM",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）",
-      "why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+      "why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为明说多千兆铜口 PoE 不在线上",
       "repeat": [],
       "gaps": []
     },
@@ -109,7 +109,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform (8-PoE + 2×2.5G SFP L2+ now, 2.5G-port PoE on request) from small lots in your housing — which SKU would you consider dual-sourcing first?"
+      "one_question": "For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform for the 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 × 1G/2.5G SFP L2+; 24-PoE + 4 × 10G SFP+) — multi-gig copper PoE is not in our line today, so that SKU stays with your current source — which of the fiber-uplink SKUs would you consider dual-sourcing first?"
     },
     "facts": [
       {
