@@ -108329,7 +108329,7 @@
 },
 "situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
 "need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
-"breakpoint": "合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL；对方「Alibaba 采购」的问法说明预算与渠道偏低端。",
+"breakpoint": "合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL（GST 桌面型有 PSE、NDR DIN 型无）；对方「Alibaba 采购」的问法说明预算与渠道偏低端。最后一封是 2026-05-08 Alan 答完 PSE 并让对方「把问题攒一起问」——此后 UNEAX 零来信，09-14 单推 16 口 DIN PoE 也无回。",
 "saga_now": {
 "p1": "STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）",
 "tier": 25,
@@ -108483,6 +108483,22 @@
 "quote": "Has the power supply you suggested already obtained PSE certification? Please confirm this.",
 "why": "日本市场硬门槛：电源要 PSE 认证——Meanwell 多数型号有 PSE，但 Saga 要给出具体型号的 PSE 证书，否则日本线走不通（与 INH 证书规则 CE/RoHS/FCC/REACH/UKCA 之外新增一项地区要求）",
 "k": "gmail_a 2026-05-08 Re: Marvell Managed Commercial Switches"
+},
+{
+"date": "2026-05-08",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Yes, they all are PSE-certified, desktop type, NOT DIN type. I checked why MEANWELL is not issuing PSE certification for DIN models (NDR-120 series and NDR-240 series)… 1.3: MEANWELL is just not issuing it, gotta passively accept this. 2. Please try to gather all questions together, so we can answer together. This is more efficient.",
+"why": "PSE 问题的最终答复（GST 桌面型有、NDR DIN 型无）；同一封里让对方「把问题攒一起问」——这是井上此后再没来信的最后一封。日本客户逐条追问是常态，这句话可能被读成不耐烦",
+"k": "gmail_a 2026-05-08T08:35 → inoue.mari@unea-x.com"
+},
+{
+"date": "2026-09-14",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "This is our 16-port DIN PoE switch featuring 1. 2*1G SFP slots with PoE af/at capability, 240W budget 2. Support PoE watchdog and 250-meter PoE 3. Ideal in CCTV cabinet solutions. Do you need some units for testing?",
+"why": "4 个月后单推 16 口 DIN PoE（他们 4 月问的就是带看门狗的 PoE）——无回；若再动，先接回 5 月那串问题（PSE 电源 Plan B 1,100 日元、标签、认证费用）而不是再推新机",
+"k": "gmail_a 2026-09-14T01:30 → inoue.mari@unea-x.com"
 }
 ],
 "proof_gaps": [],
