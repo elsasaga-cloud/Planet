@@ -1,6 +1,6 @@
 # Drive《SmartByte》全量入库 · 覆盖率报告
 
-- 生成时间：2026-10-24T03:27:13Z；索引：1461 个文件（3.3 GB），manifest：1461 条
+- 生成时间：2026-10-24T03:27:23Z；索引：1461 个文件（3.3 GB），manifest：1461 条
 - 状态含义：**ok** = 抽到正文（Word 段落+表格 / Excel 逐行 / PDF 逐页(或 OCR) / PPT 逐页 / 图片 OCR 有字）；**meta** = 只有元数据+缩略图（无文字的图片/视频/设计源文件，或空文档）；**dup** = 与另一文件 sha256 完全相同，指向 same_as；**fail** = 下载或解析失败（见下表）；**pending** = 本次未处理
 - 原件备份：GitHub Release `drive-r3-20261022`（私有仓库，按顶层文件夹分卷 zip）
 
@@ -8,11 +8,11 @@
 
 | 类型 | ok | meta | dup | fail | pending | 合计 |
 |---|---|---|---|---|---|---|
-| 图片 | 79 | 226 | 803 | 135 | 0 | 1243 |
+| 图片 | 80 | 226 | 803 | 134 | 0 | 1243 |
 | Word | 126 | 0 | 0 | 25 | 0 | 151 |
-| PDF | 41 | 0 | 0 | 9 | 0 | 50 |
+| PDF | 43 | 0 | 0 | 7 | 0 | 50 |
 | 视频 | 0 | 9 | 1 | 1 | 0 | 11 |
-| Excel | 2 | 0 | 0 | 3 | 0 | 5 |
+| Excel | 3 | 0 | 0 | 2 | 0 | 5 |
 | 配置 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 ## 按顶层文件夹
@@ -24,9 +24,9 @@
 | Marvell Based Commercial Managed Switch | 0 | 0 | 0 | 164 | 0 | 164 | — |
 | Marvell Based Industrial Managed Switch | 135 | 64 | 483 | 0 | 0 | 682 | ✅ smartbyte_drive_Marvell_Based_Industrial_Managed_Switch_part01.zip, smartbyte_drive_Marvell_Based_Industrial_Managed_Switch_retry202610240324_part01.zip |
 | Marvell Based Industrial Unmanaged Switch | 65 | 125 | 320 | 0 | 0 | 510 | ✅ smartbyte_drive_Marvell_Based_Industrial_Unmanaged_Switch_part01.zip, smartbyte_drive_Marvell_Based_Industrial_Unmanaged_Switch_retry202610240327_part01.zip |
-| Saga Telecom Resource Library | 0 | 0 | 0 | 4 | 0 | 4 | — |
+| Saga Telecom Resource Library | 4 | 0 | 0 | 0 | 0 | 4 | ✅ smartbyte_drive_Saga_Telecom_Resource_Library_part01.zip |
 
-## 失败清单（173）
+## 失败清单（169）
 
 | 路径 | 类型 | 大小 | 错误 |
 |---|---|---|---|
@@ -199,10 +199,6 @@
 | Drive第三轮/Marvell Based Commercial Managed Switch/Saga Feature List_7.5.x_L2+.xlsx | Excel | 101341 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
 | Drive第三轮/Marvell Based Commercial Managed Switch/Saga Feature List_7.5.x_L3.xlsx | Excel | 103706 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
 | Drive第三轮/Marvell Based Commercial Managed Switch/User Manual_Marvell Commercial Managed Switch.pdf | PDF | 544412 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
-| Drive第三轮/Saga Telecom Resource Library/Roadmap.pdf | PDF | 80616 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
-| Drive第三轮/Saga Telecom Resource Library/Roadmap.png | 图片 | 1544052 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
-| Drive第三轮/Saga Telecom Resource Library/Saga Feature List_7.5.x_L2+.xlsx | Excel | 101237 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
-| Drive第三轮/Saga Telecom Resource Library/Saga Software Feature List_EN_V2.4.pdf | PDF | 244687 | QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑 |
 
 ## 仅元数据的非图片文件（1）
 
@@ -212,5 +208,5 @@
 
 ## 体量
 
-- 抽取正文合计 2,486,568 字符；图片 OCR 有字 79 张；缩略图 314 张
+- 抽取正文合计 2,514,057 字符；图片 OCR 有字 80 张；缩略图 315 张
 - 运行记录：[{"started": "2026-10-22T12:21:15Z", "todo": 1461, "workers": 6, "backup": true, "ocr": true, "finished": "2026-10-22T12:33:34Z", "processed": 1461}, {"started": "2026-10-24T03:23:19Z", "todo": 850, "workers": 6, "backup": true, "ocr": true}]

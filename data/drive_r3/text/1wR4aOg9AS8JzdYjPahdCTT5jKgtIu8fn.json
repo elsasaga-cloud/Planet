@@ -1,0 +1,22 @@
+{
+"id":"1wR4aOg9AS8JzdYjPahdCTT5jKgtIu8fn",
+"name":"Roadmap.png",
+"path":"Drive第三轮/Saga Telecom Resource Library/Roadmap.png",
+"type":"图片",
+"bytes":1544052,
+"sha256":"4e0261120d50100fb2237e91ce1f9b5c20238cbd7a7e8d18fb45941d6d14ad6e",
+"extracted_at":"2026-10-24T03:27:21Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":1536,
+"height":1024,
+"mode":"RGB",
+"thumb_bytes":13789
+},
+"ocr":{
+"text":"An Engineering & Supply-Chain-First Telecom Partner\nA Scalable Path from Access to Core\nPhase 1 S ag a Phase 2\nAccess Foundation Aggregation & Core Expansion\nArchitectural Continuity\nte 1 oy\nManagement & Stability aE\nUnified Management Aggregation & Core\n—— 12+/L3 Switches, PoE ~ Consistent Support _________ 10G / 25G/ 100G + CENTEC\nPB manvere: GENTE\nScalable - Coherent 。 Stable « Low-Friction",
+"conf":81.9
+},
+"text":"An Engineering & Supply-Chain-First Telecom Partner\nA Scalable Path from Access to Core\nPhase 1 S ag a Phase 2\nAccess Foundation Aggregation & Core Expansion\nArchitectural Continuity\nte 1 oy\nManagement & Stability aE\nUnified Management Aggregation & Core\n—— 12+/L3 Switches, PoE ~ Consistent Support _________ 10G / 25G/ 100G + CENTEC\nPB manvere: GENTE\nScalable - Coherent 。 Stable « Low-Friction"
+}
