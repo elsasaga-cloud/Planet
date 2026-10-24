@@ -71,6 +71,7 @@ v3.3（2026-10-23，T29-U18：成单客户活跃平台监控）：
   scripts/web_watch/RUN_ON_CRAWL 含 WATCH_ONLY=1 时，本工作流的这次运行只执行 scripts/web_watch/watch.py（19 家成单客户 + NYNEX 的
   RSS / 网页 / sitemap / GitHub / JSON 源抓取 + 比对 + 提交 data/customer_watch/），不爬站、不动 data/smartbyte_site_raw。
   改回 WATCH_ONLY=0 即恢复 v3.2 行为。监控触发序号 #1：2026-10-23 首轮基线（02:54Z，63 源 / 15 失败）；#2：2026-10-23T03:04:49Z 修正 15 个失败源后的第二轮；
+  #6：2026-10-24T04:34:46Z 全层（成单+A+B）手动触发——10-24 02:23Z 定时未见落地提交，先补一轮并核对管道（T29-U40）。
   #3：2026-10-23 U19 v3.4 —— watch.py 合并 A/B 面层（targets_auto.json，1,100+ 家 / 2,700 源，12 线程），RUN_ON_CRAWL 新增 LAYER=，首次全层运行 = A/B 基线。
   #4：2026-10-23 ≈05:00Z 只跑成单层（LAYER=成单）验证 YouTube 修正（浏览器 UA + 同意 cookie + 全局 2 s 限速 + 404 重试；https 证书错降级 http）。
 """
