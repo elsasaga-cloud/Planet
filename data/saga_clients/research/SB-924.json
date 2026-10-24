@@ -107,7 +107,7 @@
     "saga_now": {
       "p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
       "tier": 30,
-      "price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
+      "price": "他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
       "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）",
       "repeat": [],
       "gaps": "STH1G 仓内无价（主表/CENTEC Q2 xls 都没有 STH-2QX4DX 行）——报价区间要 Simon 自己定；10G 铜口接入（他 2025-01-31 要 10/100/1G/10G copper）STH1G 没有，只有 1G 铜 + 25G/40G 光；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
@@ -126,6 +126,14 @@
         "quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
         "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "85123ce32bd28e55"
+      },
+      {
+        "date": "2023-11-09",
+        "dir": "去",
+        "who": "Simon → Greg Massott（`Price.pdf`，S 邮箱附件，47 款）",
+        "quote": "Saga **首版整表价格单**（2023-11，Realtek 时代命名）：商用非管理 STC-05GE $6.6 / 08GE $10.8 / 016GE $37 / 024GE $47~53 / 248GE $140；商用 PoE 非管理 STC-028GP $24.5 / 228GP $30.5 / 2224GP $100；管理型 STC-28GM $52 / 424GM $100 / **424XGGM $130** / 448XGGM $255 / 4248XGGCM $300 / 28GPM $63 / 424XGGPM $256 / 448XGGPM $394 / 120XGM $168；工业 STI-114GE $19 / 204GE $23.5 / 208GE $51 / 114GP $27.5 / 204GP $31 / 208GP $60。",
+        "why": "Greg 收到后回「congratulations & good luck… keep on-hand」——这是 Versitron 关系的起点；也是价格史上最早的一张整表：STC-424XGGM $130 与 2026 年 SA-002 的 $130 底价同量级，说明三年来 Simon 的量级没变（口径 ㉕ 的「老表量级」有据）",
+        "k": "S 邮箱附件 `Price.pdf` sha=82c72d3e1bd2f784（2023-11-09）"
       },
       {
         "date": "2023-12-12",
@@ -214,6 +222,14 @@
         "quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
         "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "16e894d27961f348"
+      },
+      {
+        "date": "2024-08-14",
+        "dir": "去",
+        "who": "Simon → Greg（Quotation.pdf）",
+        "quote": "工业非管理三款：STI-222GP（2×SFP + 2×GE PoE 60W）$36；STI-266FP（2×100M SFP + 6×FE PoE 180W）$39；STI-088GP（8×GE PoE 240W）$40；validity 15 d，-40~75℃，DIP。→ Greg 当天回「Do you offer managed versions as well? If so, please provide the available models and prices」。",
+        "why": "Greg 要的一直是**管理型/可堆叠**（后来的堆叠长追由此而来）；非管理价他只是存档",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=8b9b9eab6e8f69f3（2024-08-14）"
       },
       {
         "date": "2024-11-19",

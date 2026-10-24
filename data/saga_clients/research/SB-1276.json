@@ -125,7 +125,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—",
+      "price": "他见过的实报（2024-11-03）：STI-288GP $60",
       "why": "已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -144,6 +144,14 @@
         "quote": "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:",
         "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "cd4b791c86455683"
+      },
+      {
+        "date": "2024-11-03",
+        "dir": "去",
+        "who": "Simon（Quotation.pdf）",
+        "quote": "「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。",
+        "why": "同一天同一款 $60 也报给了 SA-030（美国）——STI-288GP $60 是 2024-11 的统一实报价",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）"
       }
     ],
     "proof_gaps": [],

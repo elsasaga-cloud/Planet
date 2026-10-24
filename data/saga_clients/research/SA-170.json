@@ -200,6 +200,14 @@
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
       },
       {
+        "date": "2025-03-06",
+        "dir": "内",
+        "who": "Saga 采购合同 ×2（第 3 单 STEC20250302012 对应：HRUI + 凌特，合同号 STSC20250306012）",
+        "quote": "HRUI：ZX-AFGM-82NS ×7 @¥335（英规电源、蓝色 logo 管理界面、型号改 BNSC-28GPM）= ¥2,345；凌特：LT-S8328GP-4GX24GT-S → BNSC-424DGGPM ×6 @¥750 = ¥4,500，备注「需要刷蓝色的 Logo，后续设备基本都刷这个；刷标网板费用加在合同中请保存好；该客户这次也下了洪瑞的设备（7 台），需要你们帮忙换包装盒 + 刷标」；PI 13 台 ¥7,725。",
+        "why": "**上游涨了、Saga 没涨**：HRUI 8 口 2025-03 ¥335 → 2026-06 ¥355.1（+6%），凌特 24 口 ¥750 → ¥765（+2%），而 BNSC-28GPM 对客价 2025 → 2026 维持 ¥408 → 毛利从 17.9% 掉到 13.0%；另：Mbata 的 HRUI 机器要送到凌特那边统一刷标装盒——两厂合流的实际操作在凌特",
+        "k": "PI 包 `12_尼日利亚_Mbata/3rd order/采购_Hrui|采购_Smartbyte/采购合同_STSC20250306012.xls`"
+      },
+      {
         "date": "2025-11-23",
         "dir": "去",
         "who": "Saga PI STEC20251123012（Elsa 开，Buyer: Biz-Ethics Ltd., Valentine Mbata）",
@@ -279,7 +287,7 @@
     "saga_now": {
       "p1": "BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购",
       "tier": "RMB 货代走账（不走 USD 三档）",
-      "price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提",
+      "price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价",
       "why": "12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳",
       "repeat": [
         "BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）"

@@ -124,13 +124,13 @@
       "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22",
       "evidence": "k=1b4ccb2f0365c41d / 0bff4caab85195a3"
     },
-    "situation": "Tim 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 发资料；无回。AFI 的外采线要 TAA。",
+    "situation": "Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。",
     "need": "8 口工业 PoE/PoE++（TAA）。",
     "breakpoint": "TAA 边界。",
     "saga_now": {
       "p1": "无",
       "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
+      "price": "他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
       "why": "不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -149,6 +149,14 @@
         "quote": "Do you have it in PoE++ as well? Send pricing for both.",
         "why": "唯一来信",
         "k": "1b4ccb2f0365c41d"
+      },
+      {
+        "date": "2024-11-23",
+        "dir": "去",
+        "who": "Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件）",
+        "quote": "报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。",
+        "why": "Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明）",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）"
       }
     ],
     "proof_gaps": [],

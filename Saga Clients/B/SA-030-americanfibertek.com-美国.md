@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。（调研 2026-10-21；表内兴趣：SFP 工业电源 大口FS MC 多功能VC）
 - **为什么是 B 级**：**调研后定级 B**（品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-04-30 → 2025-12-30）；最近一次客户回复：2024-11-23：有bt型号吗？
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动；建议移出群发 — —
@@ -46,15 +46,16 @@ updated: 2026-10-24
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-030` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **绑定等级：未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户）** ｜ 类型：美国品牌商（本土制造 + TAA 外采线）；Tim Orselli ｜ 筛子：2 ｜ 停点：TAA/UL 要求（INH 红线） ｜ 复活：不承诺 TAA/UL → 无复活路径 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22 ｜ 证据：k=1b4ccb2f0365c41d / 0bff4caab85195a3
-- **现状一句话**：Tim 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 发资料；无回。AFI 的外采线要 TAA。
+- **现状一句话**：Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。
 - **对方真实需求（有据）**：8 口工业 PoE/PoE++（TAA）。
 - **断点 / 为什么停在这里**：TAA 边界。
-- **Saga 现在该推什么**：P1 **无**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter））——不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **无**（30% 档，他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter））——不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动；建议移出群发　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-22 | 来 | Tim Orselli | Do you have it in PoE++ as well? Send pricing for both. | 唯一来信 | `1b4ccb2f0365c41d` |
+| 2024-11-23 | 去 | Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件） | 报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。 | Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明） | `S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）` |
 
 ## 基本事实（事实/推断/假设分层）
 

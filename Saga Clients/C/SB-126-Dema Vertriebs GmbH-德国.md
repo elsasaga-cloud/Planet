@@ -45,10 +45,10 @@ updated: 2026-10-24
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-126` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **绑定等级：轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；C 级人工定级不改）** ｜ 类型：德国分销商 Dema Vertriebs GmbH（Markus Geck） ｜ 筛子：2（要报价、已收报价单） ｜ 停点：报价后无记录（S/A 邮箱）；C 级 ｜ 复活：德国 = 四主之一；若 Simon 复核愿升 B，则按 2026-11 一句话回访 ｜ 通路：DE 未通 ｜ 节奏：最后 2025-06-10 报价单 ｜ 证据：A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
-- **现状一句话**：德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。
+- **现状一句话**：Alan 2025-06-09 群发 16 口 DIN 千兆铜口机 → Markus 次日回「very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?」→ Alan 当天给整表 + 长 datasheet，但没正面答「数量」→ 无回；其后 6 封群发（1U PoE、MINI、10G SFP $280、Booster、Alert、…）全无回。
 - **对方真实需求（有据）**：5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格
 - **断点 / 为什么停在这里**：报价后无回；C 级未再跟
-- **Saga 现在该推什么**：P1 **STI-054GP / STI-088GP 级（HRUI 对照表列表价）**（20% 档，历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——分销商 20% 档
+- **Saga 现在该推什么**：P1 **STI-054GP / STI-088GP 级（HRUI 对照表列表价）**（20% 档，他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——分销商 20% 档
 - **下一步（具体）**：不动（C）；Simon 复核后再定　A 邮箱　—
   - 第一问（只问一个）：Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?
 
@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-06-10 | 去 | Alan（Quotation_Copper Switch.pdf，Buyer Dema Vertriebs GmbH / Markus Geck，EXW Germany） | STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days） | 德国分销商拿到的整表价（2025-06，老汇率） | `gmail_a att 2025-06-10` |
 | 2025-06-10 | 来 | Markus Geck（Dema Vertriebs GmbH，德国） | Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches? | A 邮箱 2025-06 对 16 口机群发的真人回信：问 8 口与 24 口的起订量和价——Alan 当天回了全铜口工业系列报价单（见上一行）。C 级是人工定级（DEMA = 五金/园艺电商集团，行业外），不改；但这位 Markus 的询价是真的，留作「行业外个人兴趣」备注 | `gmail_a 2025-06-10 AW: 16 Port Ethernet Switch` |
+| 2025-06-10 | 去 | Alan → Markus Geck（Re: 16 Port Ethernet Switch；附 Quotation_Copper Switch.pdf + STI-0160GE.pdf） | 全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130**（Marvell Chip，-40~75℃，DIN）；Alan 补充「24-port PoE 不常订所以没列，要的话需批量」+「请花时间读 STI-0160GE 的长 datasheet」。 | Markus 当天只问了两件事：**购买数量（MOQ）** 和 8 口/24 口的价——价给了，但「数量」这问题没有被正面回答（报价单备注里只有 validity/neutral/warranty）；他之后再没回，Alan 继续群发 6 封无回。德国户，重启时先把 MOQ 1 / 样品价说清 | `k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核
 

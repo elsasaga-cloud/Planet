@@ -7031,7 +7031,7 @@
 "saga_now": {
 "p1": "STC-4168XGGCM（在产第 6 单）",
 "tier": 30,
-"price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）",
+"price": "他见过的实报：2024-11-15 双电源版 STC-424XGGM $300 / 448XGGM $500 / 4168XGGCM $400 / 448XGGMO $660（含双 AC 物料与模具费）；2024-12-12 STC-110XGE $75 / $70@100 / $65@500；第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）",
 "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报",
 "repeat": [
 "STC-4168XGGCM 双 AC（第 5、6 单）",
@@ -7083,6 +7083,14 @@
 "quote": "It is single AC input by default. But its OK to do dual AC input. Please see attached quotation, it is based on dual AC input. 2, Marvell 98DX336S Flash:512M DRAM:512M CPU: ARM V7 800M 3, Yes, it is completely self-developed… 4, The 10G/100G switch is based on Marvell Aldrin 2 series and Falcon series… not a datasheet for it at the moment (it is a customized version for a client)… maybe start with above 4 models to familiarize yourself with Marvell codes",
 "why": "首单前 Saga 的承诺底稿：双 AC 可做（报价按双 AC）、芯片规格公开、「完全自研」、100G 线只有硬件且为国内某客户定制——后两点是 2025-03 合规部门追问「Saga↔SmartByte 关系」的伏笔；对 NYNEX 这种会逐字核对的客户，「self-developed」要有口径",
 "k": "gmail_s 2024-11-15 Re: 48 Port PoE Managed Switch"
+},
+{
+"date": "2024-11-15",
+"dir": "去",
+"who": "Simon → Frederik（Quotation.pdf，S 邮箱附件）",
+"quote": "首张报价单（全部按 **DUAL AC input** 报，\"Unit price is including dual AC material and molding cost\"）：STC-424XGGM $300、STC-448XGGM $500、STC-4168XGGCM $400、STC-448XGGMO（4×10G SFP + 48×1G SFP 全光）$660；L3 managed，Marvell based，5~10 working days，warranty 1 year，validity 15 days。",
+"why": "NYNEX 的第一组价：双电源版样机价 = 单电源 + $35 的由来（11-21 Simon 改口 $265/pc for dual AC = 单电源 $230 + $35）；STC-448XGGMO 48×SFP 全光机只在这张报价单出现过一次（$660）——NYNEX 当时问 \"24/48 x SFP version\"",
+"k": "S 邮箱附件 `Quotation.pdf` sha=593b7520f47a6cc4（2024-11-15）"
 },
 {
 "date": "2024-11-19",
@@ -7163,6 +7171,14 @@
 "quote": "did you get the payment? It was wired on 28.11.2024 (protocol attached: INVOICE STSC20241121015 Protokoll.pdf)… 10G only on the fiber side is something we probably could live with. What marvel IC does it use? What about the pricing (assuming a 100 to 500 units order)?… Other demand is mostly limited to 24 or 48 x 10g/25g SFP+/28 + 4-8 100G ports switches and 12/24/36 100G switches. And maybe you can check if marvell has a suitable chip for 10G media converters for SFP+ to BASE-T conversion… run on different speeds on the two interfaces",
 "why": "首单 STSC20241121015 付款凭证（2024-11-28 汇出）；同一天 Frederik 已经在问 100–500 台的价格、Marvell 芯片型号、25G/100G 需求和「两侧不同速率」的 10G 光电——NYNEX 从第一单就是按产品线评估 Saga，不是买一台试试",
 "k": "gmail_s 2024-12-12 RE: 48 Port PoE Managed Switch"
+},
+{
+"date": "2024-12-12",
+"dir": "去",
+"who": "Simon → Frederik（Quotation_10G Media Converter.pdf）",
+"quote": "STC-110XGE 10G 光电转换器（1×10G SFP+ + 1×100M/1G/2.5G/5G/10G RJ45，DC5V，Marvell based，电口自适应、光口不支持 100M/1G/2.5G）阶梯价：1 台 $75 / 100 台 $70 / 500 台 $65；validity 30 days；warranty 1 year；附 Google Drive 资料链接。",
+"why": "这是对 Frederik「pricing assuming a 100 to 500 units order」的正式答复——10G MC 的 $65 群发价就是 500 台档；NYNEX 后来没下 MC 单，但 $65~$75 是对欧洲分销商的实报锚",
+"k": "S 邮箱附件 `Quotation_10G Media Converter.pdf` sha=7e73db45c41481a9（2024-12-12）"
 },
 {
 "date": "2025-02-11",
@@ -15629,13 +15645,13 @@
 "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22",
 "evidence": "k=1b4ccb2f0365c41d / 0bff4caab85195a3"
 },
-"situation": "Tim 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 发资料；无回。AFI 的外采线要 TAA。",
+"situation": "Tim 2024-11-22 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 11-23 发了报价单（STI-288GP $60 / STI-288DGGPM-2BT $60）+ 两份 datasheet；之后无回。AFI 的外采线要 TAA/UL（INH 红线），所以没有复活路径。",
 "need": "8 口工业 PoE/PoE++（TAA）。",
 "breakpoint": "TAA 边界。",
 "saga_now": {
 "p1": "无",
 "tier": 30,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
+"price": "他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）",
 "why": "不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -15654,6 +15670,14 @@
 "quote": "Do you have it in PoE++ as well? Send pricing for both.",
 "why": "唯一来信",
 "k": "1b4ccb2f0365c41d"
+},
+{
+"date": "2024-11-23",
+"dir": "去",
+"who": "Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件）",
+"quote": "报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。",
+"why": "Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明）",
+"k": "S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）"
 }
 ],
 "proof_gaps": [],
@@ -72539,6 +72563,14 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-10-19",
+"dir": "去",
+"who": "Simon → Levent（PI STSC20241017007，S 邮箱附件）",
+"quote": "STC-424DGGPM → 买方型号 ANW-2224-PG ×5 @$150 = $750（Neutral device, Marvell based；Show client logo on Web GUI / client model name on Web GUI and label）+ UPS 21 kg $300 + bank $25 = $1,075；4~6 calendar days。",
+"why": "Angora 第二张 PI 的初版（10-21 的 STSC20241021007 $1,545 是加了 STI-280DGGM 后的改版）；24 口 PoE 贴 ANW 型号 $150 是 2024 年的绑定价",
+"k": "S 邮箱附件 `STSC20241017007.pdf`（k=aea2d199d7cd6571）"
+},
+{
 "date": "2024-10-23",
 "dir": "来",
 "who": "Levent（批注在 Simon 的规则稿上）",
@@ -72601,6 +72633,14 @@
 "quote": "TronX 样品清单（FOB）：STC-424DGGPM-280W→TRX-AS-24TP4X $180、STC-448XGGPM→TRX-AS-48TP4X $335、STI-288DGGPM→TRX-IS-8TP2G $125 ×2、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42、WiFi6 AP 外采",
 "why": "PI STSC20241129007（买方 TronX，T/T 预付）在 Drive 标「未付款」——Levent 11-25「TronX… discussing with the public office」；这是 TronX 品牌的首个 PI，未成交；2025-05 5th order 才以 Angora 名义出 TRX-AS-24/48TP4X 样机",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-11-27",
+"dir": "去",
+"who": "Simon → Levent（《Reply on 174 pieces of ANW-2116-PG.docx》，微信谈后的书面确认）",
+"quote": "1 Enclosure：改 16 口专用壳 $10/pc；2 PVC mask：上次 100 片剩 92，新做 100 片 $2.3 / 300 片 $1.5；3 请准备 MAC 列表；4 Deduction：$200 software cost；2% RMA（含上单 182 = 174 + 8 台）→ 扣 2 台（计费 172）或照做 174 + 送 2 台备机（176）；**Discount 5%**（按数量与累计订单量）；5 Payment：日常 50/50，你们提 30/70，**首个批量单 30%-20%-50%**（生产前/生产中/发货前），顺利则以后 30/70——仅限标准/非定制机型，定制另谈；6 Shipping：174~176 台 ≈ 32+ 箱 ≈ 700 kg，UPS 5~10 天 ≈ $7K，建议考虑海运；7 Leadtime 内部核后写进 PI。",
+"why": "176 台订单的**全部商务条款**（壳 / 面膜 / 软件费 / RMA 2% / 5% 折扣 / 30-20-50 付款 / 运费）都在这一份里——Angora 下一个批量单直接沿用；「176 台 = 174 + 2 备机」的由来",
+"k": "S 邮箱附件 `Reply on 174 pieces of ANW-2116-PG.docx`（k=8201390b47f230ac）"
 },
 {
 "date": "2024-12-03",
@@ -72795,6 +72835,14 @@
 "k": "7504c277f2473030"
 },
 {
+"date": "2025-07-11",
+"dir": "去",
+"who": "Simon → Levent（PI STSC20250711007）",
+"quote": "STI-288DGGPM → 买方型号 **TT-2208-PG** ×10 @$125 = $1,250（Marvell AC5，L2+，240W，Regular PVC mask；\"With Turk Telekom Branding\"；MAC 98:06:37:A5:00:19~22；Serial 25052208D0103~1003；\"Show Turk Telekom information on WEB GUI and Label\"）+ STI-G20-SD ×10 @$8 = $80 + UPS 15 kg $270（含保险）− 上单 STSC20250619007 多收 $90 + bank $25 = $1,535。",
+"why": "STI-288DGGPM 以 **Turk Telekom 品牌 TT-2208-PG** 出货——Angora 的终端是土耳其电信，Saga 机器已进 TT 网络；工业光模块随整机 $8/只；Simon 主动退上单多收的 $90（信用细节）",
+"k": "S 邮箱附件 `STSC20250711007.pdf`（k=96c80f372a603572）"
+},
+{
 "date": "2025-07-14",
 "dir": "来",
 "who": "Levent → Karen（nemengine.com）cc Simon",
@@ -72841,6 +72889,14 @@
 "quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
 "why": "部署规模 + 售后进入循环",
 "k": "14e8b46bf6477893"
+},
+{
+"date": "2025-11-03",
+"dir": "来",
+"who": "Taylan Esen（附 Gaziantep_HighLevel_Network.pdf 11-02 / Gaziantep_SW.txt + Gaziantep_Details.txt 11-03）",
+"quote": "终端 = **Gaziantep 市政路口监控网**（\"the most EU funded municipality in the whole Europe\"）：全 L2，每个路口站点 = 摄像头（VLAN 340）+ 路口控制服务器（VLAN 350）+ 管理 VLAN 330，经光纤或无线 radiolink → 运营商 MPLS → 监控中心；现场配置（16 口 ANW-2116-PG 跑 MSTP，VLAN 301~307 KAVSAK/KAMERA/VMS/UPS/BLUESIS，17/18 口 trunk，telnet/ssh/web 全开，CLI 登录横幅 \"Debian GNU/Linux 7\"）。症状逐条：摄像头经 **PoE injector** 接入（不用我们的 PoE），1/4/6/14/16 口挂摄像头；1 口去掉 injector 直连即好；4 口 CRC 很多但传输正常；6 口强制 10M 并重插后好；16 口怎么都不通；客户说 1/4 口「总会再掉」；Uptech / Zyxel 低端机却正常——\"Are there any hidden tuning on the ethernet ports, to make them more forgiving… Maybe via software update\"。",
+"why": "170 台中已部署 60~75 台、仓库 95 台——这是 Angora 最大一单的**售后现场**；问题指向线缆/injector/电源与端口容错（非硬件），但 Taylan 要的是「一版新固件」好对客户交代；后续他们给客户装 Angora 自家 NMS 收日志。给 Simon 的提醒：这类 PoE injector 串联 + 长劣质线的场景，端口 auto-neg 容错是下一次 7.5 固件沟通里值得问的点（内部，不对客户讲）",
+"k": "S 邮箱附件 k=295ade16061bab0c / 78cc16b2cb62bcb4 / 1f3a36658e0378a8；邮件 2025-11-02 10:40Z、11-03 11:39Z"
 },
 {
 "date": "2025-11-07",
@@ -73705,6 +73761,14 @@
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
 },
 {
+"date": "2025-03-06",
+"dir": "内",
+"who": "Saga 采购合同 ×2（第 3 单 STEC20250302012 对应：HRUI + 凌特，合同号 STSC20250306012）",
+"quote": "HRUI：ZX-AFGM-82NS ×7 @¥335（英规电源、蓝色 logo 管理界面、型号改 BNSC-28GPM）= ¥2,345；凌特：LT-S8328GP-4GX24GT-S → BNSC-424DGGPM ×6 @¥750 = ¥4,500，备注「需要刷蓝色的 Logo，后续设备基本都刷这个；刷标网板费用加在合同中请保存好；该客户这次也下了洪瑞的设备（7 台），需要你们帮忙换包装盒 + 刷标」；PI 13 台 ¥7,725。",
+"why": "**上游涨了、Saga 没涨**：HRUI 8 口 2025-03 ¥335 → 2026-06 ¥355.1（+6%），凌特 24 口 ¥750 → ¥765（+2%），而 BNSC-28GPM 对客价 2025 → 2026 维持 ¥408 → 毛利从 17.9% 掉到 13.0%；另：Mbata 的 HRUI 机器要送到凌特那边统一刷标装盒——两厂合流的实际操作在凌特",
+"k": "PI 包 `12_尼日利亚_Mbata/3rd order/采购_Hrui|采购_Smartbyte/采购合同_STSC20250306012.xls`"
+},
+{
 "date": "2025-11-23",
 "dir": "去",
 "who": "Saga PI STEC20251123012（Elsa 开，Buyer: Biz-Ethics Ltd., Valentine Mbata）",
@@ -73784,7 +73848,7 @@
 "saga_now": {
 "p1": "BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购",
 "tier": "RMB 货代走账（不走 USD 三档）",
-"price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提",
+"price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价",
 "why": "12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳",
 "repeat": [
 "BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）"
@@ -116517,6 +116581,14 @@
 "quote": "STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表）",
 "why": "对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回",
 "k": "gmail_a att 2025-07-07"
+},
+{
+"date": "2025-07-07",
+"dir": "去",
+"who": "Alan → Wadii（Quotation_Copper Switch.pdf，同 DEMA 版）",
+"quote": "整表后半：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（前半 050FE $22.5 … 088FP $36.5 已录）；Wadii 当天要求「add the cost of AC and the cost of DC charger next to each quoted line」→ 07-08 Alan 给 DIN 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40。",
+"why": "整机 + 电源两张价合起来才是 Wadii 要的「每行总价」；再报时直接给「整机 + 电源」合并列",
+"k": "A 邮箱附件 `Quotation_Copper Switch.pdf` sha=036352492d085817（2025-07-07）"
 },
 {
 "date": "2025-07-08",
@@ -194694,13 +194766,13 @@
 "cadence": "最后 2025-06-10 报价单",
 "evidence": "A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
-"situation": "德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。",
+"situation": "Alan 2025-06-09 群发 16 口 DIN 千兆铜口机 → Markus 次日回「very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?」→ Alan 当天给整表 + 长 datasheet，但没正面答「数量」→ 无回；其后 6 封群发（1U PoE、MINI、10G SFP $280、Booster、Alert、…）全无回。",
 "need": "5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格",
 "breakpoint": "报价后无回；C 级未再跟",
 "saga_now": {
 "p1": "STI-054GP / STI-088GP 级（HRUI 对照表列表价）",
 "tier": 20,
-"price": "历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+"price": "他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
 "why": "分销商 20% 档",
 "repeat": [],
 "gaps": []
@@ -194727,6 +194799,14 @@
 "quote": "Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?",
 "why": "A 邮箱 2025-06 对 16 口机群发的真人回信：问 8 口与 24 口的起订量和价——Alan 当天回了全铜口工业系列报价单（见上一行）。C 级是人工定级（DEMA = 五金/园艺电商集团，行业外），不改；但这位 Markus 的询价是真的，留作「行业外个人兴趣」备注",
 "k": "gmail_a 2025-06-10 AW: 16 Port Ethernet Switch"
+},
+{
+"date": "2025-06-10",
+"dir": "去",
+"who": "Alan → Markus Geck（Re: 16 Port Ethernet Switch；附 Quotation_Copper Switch.pdf + STI-0160GE.pdf）",
+"quote": "全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130**（Marvell Chip，-40~75℃，DIN）；Alan 补充「24-port PoE 不常订所以没列，要的话需批量」+「请花时间读 STI-0160GE 的长 datasheet」。",
+"why": "Markus 当天只问了两件事：**购买数量（MOQ）** 和 8 口/24 口的价——价给了，但「数量」这问题没有被正面回答（报价单备注里只有 validity/neutral/warranty）；他之后再没回，Alan 继续群发 6 封无回。德国户，重启时先把 MOQ 1 / 样品价说清",
+"k": "k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787"
 }
 ],
 "proof_gaps": [
@@ -199109,7 +199189,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—",
+"price": "他见过的实报（2024-11-03）：STI-288GP $60",
 "why": "已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -199128,6 +199208,14 @@
 "quote": "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:",
 "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "cd4b791c86455683"
+},
+{
+"date": "2024-11-03",
+"dir": "去",
+"who": "Simon（Quotation.pdf）",
+"quote": "「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。",
+"why": "同一天同一款 $60 也报给了 SA-030（美国）——STI-288GP $60 是 2024-11 的统一实报价",
+"k": "S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）"
 }
 ],
 "proof_gaps": [],
@@ -276512,7 +276600,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 25,
-"price": "—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）",
+"price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）",
 "why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -276531,6 +276619,14 @@
 "quote": "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di",
 "why": "来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "6940cc80c3d991e2"
+},
+{
+"date": "2024-06-22",
+"dir": "去",
+"who": "Simon → Ly Thanh Ha（Quotation.pdf）",
+"quote": "10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。",
+"why": "对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚",
+"k": "S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）"
 },
 {
 "date": "2026-09-10",
@@ -469879,7 +469975,7 @@
 "saga_now": {
 "p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
 "tier": 30,
-"price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
+"price": "他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
 "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）",
 "repeat": [],
 "gaps": "STH1G 仓内无价（主表/CENTEC Q2 xls 都没有 STH-2QX4DX 行）——报价区间要 Simon 自己定；10G 铜口接入（他 2025-01-31 要 10/100/1G/10G copper）STH1G 没有，只有 1G 铜 + 25G/40G 光；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
@@ -469898,6 +469994,14 @@
 "quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
 "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "85123ce32bd28e55"
+},
+{
+"date": "2023-11-09",
+"dir": "去",
+"who": "Simon → Greg Massott（`Price.pdf`，S 邮箱附件，47 款）",
+"quote": "Saga **首版整表价格单**（2023-11，Realtek 时代命名）：商用非管理 STC-05GE $6.6 / 08GE $10.8 / 016GE $37 / 024GE $47~53 / 248GE $140；商用 PoE 非管理 STC-028GP $24.5 / 228GP $30.5 / 2224GP $100；管理型 STC-28GM $52 / 424GM $100 / **424XGGM $130** / 448XGGM $255 / 4248XGGCM $300 / 28GPM $63 / 424XGGPM $256 / 448XGGPM $394 / 120XGM $168；工业 STI-114GE $19 / 204GE $23.5 / 208GE $51 / 114GP $27.5 / 204GP $31 / 208GP $60。",
+"why": "Greg 收到后回「congratulations & good luck… keep on-hand」——这是 Versitron 关系的起点；也是价格史上最早的一张整表：STC-424XGGM $130 与 2026 年 SA-002 的 $130 底价同量级，说明三年来 Simon 的量级没变（口径 ㉕ 的「老表量级」有据）",
+"k": "S 邮箱附件 `Price.pdf` sha=82c72d3e1bd2f784（2023-11-09）"
 },
 {
 "date": "2023-12-12",
@@ -469986,6 +470090,14 @@
 "quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
 "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "16e894d27961f348"
+},
+{
+"date": "2024-08-14",
+"dir": "去",
+"who": "Simon → Greg（Quotation.pdf）",
+"quote": "工业非管理三款：STI-222GP（2×SFP + 2×GE PoE 60W）$36；STI-266FP（2×100M SFP + 6×FE PoE 180W）$39；STI-088GP（8×GE PoE 240W）$40；validity 15 d，-40~75℃，DIP。→ Greg 当天回「Do you offer managed versions as well? If so, please provide the available models and prices」。",
+"why": "Greg 要的一直是**管理型/可堆叠**（后来的堆叠长追由此而来）；非管理价他只是存档",
+"k": "S 邮箱附件 `Quotation.pdf` sha=8b9b9eab6e8f69f3（2024-08-14）"
 },
 {
 "date": "2024-11-19",

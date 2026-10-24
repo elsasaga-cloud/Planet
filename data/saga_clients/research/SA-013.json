@@ -295,7 +295,7 @@
     "saga_now": {
       "p1": "STC-4168XGGCM（在产第 6 单）",
       "tier": 30,
-      "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）",
+      "price": "他见过的实报：2024-11-15 双电源版 STC-424XGGM $300 / 448XGGM $500 / 4168XGGCM $400 / 448XGGMO $660（含双 AC 物料与模具费）；2024-12-12 STC-110XGE $75 / $70@100 / $65@500；第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）",
       "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报",
       "repeat": [
         "STC-4168XGGCM 双 AC（第 5、6 单）",
@@ -347,6 +347,14 @@
         "quote": "It is single AC input by default. But its OK to do dual AC input. Please see attached quotation, it is based on dual AC input. 2, Marvell 98DX336S Flash:512M DRAM:512M CPU: ARM V7 800M 3, Yes, it is completely self-developed… 4, The 10G/100G switch is based on Marvell Aldrin 2 series and Falcon series… not a datasheet for it at the moment (it is a customized version for a client)… maybe start with above 4 models to familiarize yourself with Marvell codes",
         "why": "首单前 Saga 的承诺底稿：双 AC 可做（报价按双 AC）、芯片规格公开、「完全自研」、100G 线只有硬件且为国内某客户定制——后两点是 2025-03 合规部门追问「Saga↔SmartByte 关系」的伏笔；对 NYNEX 这种会逐字核对的客户，「self-developed」要有口径",
         "k": "gmail_s 2024-11-15 Re: 48 Port PoE Managed Switch"
+      },
+      {
+        "date": "2024-11-15",
+        "dir": "去",
+        "who": "Simon → Frederik（Quotation.pdf，S 邮箱附件）",
+        "quote": "首张报价单（全部按 **DUAL AC input** 报，\"Unit price is including dual AC material and molding cost\"）：STC-424XGGM $300、STC-448XGGM $500、STC-4168XGGCM $400、STC-448XGGMO（4×10G SFP + 48×1G SFP 全光）$660；L3 managed，Marvell based，5~10 working days，warranty 1 year，validity 15 days。",
+        "why": "NYNEX 的第一组价：双电源版样机价 = 单电源 + $35 的由来（11-21 Simon 改口 $265/pc for dual AC = 单电源 $230 + $35）；STC-448XGGMO 48×SFP 全光机只在这张报价单出现过一次（$660）——NYNEX 当时问 \"24/48 x SFP version\"",
+        "k": "S 邮箱附件 `Quotation.pdf` sha=593b7520f47a6cc4（2024-11-15）"
       },
       {
         "date": "2024-11-19",
@@ -427,6 +435,14 @@
         "quote": "did you get the payment? It was wired on 28.11.2024 (protocol attached: INVOICE STSC20241121015 Protokoll.pdf)… 10G only on the fiber side is something we probably could live with. What marvel IC does it use? What about the pricing (assuming a 100 to 500 units order)?… Other demand is mostly limited to 24 or 48 x 10g/25g SFP+/28 + 4-8 100G ports switches and 12/24/36 100G switches. And maybe you can check if marvell has a suitable chip for 10G media converters for SFP+ to BASE-T conversion… run on different speeds on the two interfaces",
         "why": "首单 STSC20241121015 付款凭证（2024-11-28 汇出）；同一天 Frederik 已经在问 100–500 台的价格、Marvell 芯片型号、25G/100G 需求和「两侧不同速率」的 10G 光电——NYNEX 从第一单就是按产品线评估 Saga，不是买一台试试",
         "k": "gmail_s 2024-12-12 RE: 48 Port PoE Managed Switch"
+      },
+      {
+        "date": "2024-12-12",
+        "dir": "去",
+        "who": "Simon → Frederik（Quotation_10G Media Converter.pdf）",
+        "quote": "STC-110XGE 10G 光电转换器（1×10G SFP+ + 1×100M/1G/2.5G/5G/10G RJ45，DC5V，Marvell based，电口自适应、光口不支持 100M/1G/2.5G）阶梯价：1 台 $75 / 100 台 $70 / 500 台 $65；validity 30 days；warranty 1 year；附 Google Drive 资料链接。",
+        "why": "这是对 Frederik「pricing assuming a 100 to 500 units order」的正式答复——10G MC 的 $65 群发价就是 500 台档；NYNEX 后来没下 MC 单，但 $65~$75 是对欧洲分销商的实报锚",
+        "k": "S 邮箱附件 `Quotation_10G Media Converter.pdf` sha=7e73db45c41481a9（2024-12-12）"
       },
       {
         "date": "2025-02-11",

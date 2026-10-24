@@ -84,13 +84,13 @@
       "cadence": "最后 2025-06-10 报价单",
       "evidence": "A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
     },
-    "situation": "德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。",
+    "situation": "Alan 2025-06-09 群发 16 口 DIN 千兆铜口机 → Markus 次日回「very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?」→ Alan 当天给整表 + 长 datasheet，但没正面答「数量」→ 无回；其后 6 封群发（1U PoE、MINI、10G SFP $280、Booster、Alert、…）全无回。",
     "need": "5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格",
     "breakpoint": "报价后无回；C 级未再跟",
     "saga_now": {
       "p1": "STI-054GP / STI-088GP 级（HRUI 对照表列表价）",
       "tier": 20,
-      "price": "历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+      "price": "他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
       "why": "分销商 20% 档",
       "repeat": [],
       "gaps": []
@@ -117,6 +117,14 @@
         "quote": "Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches?",
         "why": "A 邮箱 2025-06 对 16 口机群发的真人回信：问 8 口与 24 口的起订量和价——Alan 当天回了全铜口工业系列报价单（见上一行）。C 级是人工定级（DEMA = 五金/园艺电商集团，行业外），不改；但这位 Markus 的询价是真的，留作「行业外个人兴趣」备注",
         "k": "gmail_a 2025-06-10 AW: 16 Port Ethernet Switch"
+      },
+      {
+        "date": "2025-06-10",
+        "dir": "去",
+        "who": "Alan → Markus Geck（Re: 16 Port Ethernet Switch；附 Quotation_Copper Switch.pdf + STI-0160GE.pdf）",
+        "quote": "全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130**（Marvell Chip，-40~75℃，DIN）；Alan 补充「24-port PoE 不常订所以没列，要的话需批量」+「请花时间读 STI-0160GE 的长 datasheet」。",
+        "why": "Markus 当天只问了两件事：**购买数量（MOQ）** 和 8 口/24 口的价——价给了，但「数量」这问题没有被正面回答（报价单备注里只有 validity/neutral/warranty）；他之后再没回，Alan 继续群发 6 封无回。德国户，重启时先把 MOQ 1 / 样品价说清",
+        "k": "k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787"
       }
     ],
     "proof_gaps": [

@@ -563,6 +563,14 @@
         "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
       },
       {
+        "date": "2024-10-19",
+        "dir": "去",
+        "who": "Simon → Levent（PI STSC20241017007，S 邮箱附件）",
+        "quote": "STC-424DGGPM → 买方型号 ANW-2224-PG ×5 @$150 = $750（Neutral device, Marvell based；Show client logo on Web GUI / client model name on Web GUI and label）+ UPS 21 kg $300 + bank $25 = $1,075；4~6 calendar days。",
+        "why": "Angora 第二张 PI 的初版（10-21 的 STSC20241021007 $1,545 是加了 STI-280DGGM 后的改版）；24 口 PoE 贴 ANW 型号 $150 是 2024 年的绑定价",
+        "k": "S 邮箱附件 `STSC20241017007.pdf`（k=aea2d199d7cd6571）"
+      },
+      {
         "date": "2024-10-23",
         "dir": "来",
         "who": "Levent（批注在 Simon 的规则稿上）",
@@ -625,6 +633,14 @@
         "quote": "TronX 样品清单（FOB）：STC-424DGGPM-280W→TRX-AS-24TP4X $180、STC-448XGGPM→TRX-AS-48TP4X $335、STI-288DGGPM→TRX-IS-8TP2G $125 ×2、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42、WiFi6 AP 外采",
         "why": "PI STSC20241129007（买方 TronX，T/T 预付）在 Drive 标「未付款」——Levent 11-25「TronX… discussing with the public office」；这是 TronX 品牌的首个 PI，未成交；2025-05 5th order 才以 Angora 名义出 TRX-AS-24/48TP4X 样机",
         "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2024-11-27",
+        "dir": "去",
+        "who": "Simon → Levent（《Reply on 174 pieces of ANW-2116-PG.docx》，微信谈后的书面确认）",
+        "quote": "1 Enclosure：改 16 口专用壳 $10/pc；2 PVC mask：上次 100 片剩 92，新做 100 片 $2.3 / 300 片 $1.5；3 请准备 MAC 列表；4 Deduction：$200 software cost；2% RMA（含上单 182 = 174 + 8 台）→ 扣 2 台（计费 172）或照做 174 + 送 2 台备机（176）；**Discount 5%**（按数量与累计订单量）；5 Payment：日常 50/50，你们提 30/70，**首个批量单 30%-20%-50%**（生产前/生产中/发货前），顺利则以后 30/70——仅限标准/非定制机型，定制另谈；6 Shipping：174~176 台 ≈ 32+ 箱 ≈ 700 kg，UPS 5~10 天 ≈ $7K，建议考虑海运；7 Leadtime 内部核后写进 PI。",
+        "why": "176 台订单的**全部商务条款**（壳 / 面膜 / 软件费 / RMA 2% / 5% 折扣 / 30-20-50 付款 / 运费）都在这一份里——Angora 下一个批量单直接沿用；「176 台 = 174 + 2 备机」的由来",
+        "k": "S 邮箱附件 `Reply on 174 pieces of ANW-2116-PG.docx`（k=8201390b47f230ac）"
       },
       {
         "date": "2024-12-03",
@@ -819,6 +835,14 @@
         "k": "7504c277f2473030"
       },
       {
+        "date": "2025-07-11",
+        "dir": "去",
+        "who": "Simon → Levent（PI STSC20250711007）",
+        "quote": "STI-288DGGPM → 买方型号 **TT-2208-PG** ×10 @$125 = $1,250（Marvell AC5，L2+，240W，Regular PVC mask；\"With Turk Telekom Branding\"；MAC 98:06:37:A5:00:19~22；Serial 25052208D0103~1003；\"Show Turk Telekom information on WEB GUI and Label\"）+ STI-G20-SD ×10 @$8 = $80 + UPS 15 kg $270（含保险）− 上单 STSC20250619007 多收 $90 + bank $25 = $1,535。",
+        "why": "STI-288DGGPM 以 **Turk Telekom 品牌 TT-2208-PG** 出货——Angora 的终端是土耳其电信，Saga 机器已进 TT 网络；工业光模块随整机 $8/只；Simon 主动退上单多收的 $90（信用细节）",
+        "k": "S 邮箱附件 `STSC20250711007.pdf`（k=96c80f372a603572）"
+      },
+      {
         "date": "2025-07-14",
         "dir": "来",
         "who": "Levent → Karen（nemengine.com）cc Simon",
@@ -865,6 +889,14 @@
         "quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
         "why": "部署规模 + 售后进入循环",
         "k": "14e8b46bf6477893"
+      },
+      {
+        "date": "2025-11-03",
+        "dir": "来",
+        "who": "Taylan Esen（附 Gaziantep_HighLevel_Network.pdf 11-02 / Gaziantep_SW.txt + Gaziantep_Details.txt 11-03）",
+        "quote": "终端 = **Gaziantep 市政路口监控网**（\"the most EU funded municipality in the whole Europe\"）：全 L2，每个路口站点 = 摄像头（VLAN 340）+ 路口控制服务器（VLAN 350）+ 管理 VLAN 330，经光纤或无线 radiolink → 运营商 MPLS → 监控中心；现场配置（16 口 ANW-2116-PG 跑 MSTP，VLAN 301~307 KAVSAK/KAMERA/VMS/UPS/BLUESIS，17/18 口 trunk，telnet/ssh/web 全开，CLI 登录横幅 \"Debian GNU/Linux 7\"）。症状逐条：摄像头经 **PoE injector** 接入（不用我们的 PoE），1/4/6/14/16 口挂摄像头；1 口去掉 injector 直连即好；4 口 CRC 很多但传输正常；6 口强制 10M 并重插后好；16 口怎么都不通；客户说 1/4 口「总会再掉」；Uptech / Zyxel 低端机却正常——\"Are there any hidden tuning on the ethernet ports, to make them more forgiving… Maybe via software update\"。",
+        "why": "170 台中已部署 60~75 台、仓库 95 台——这是 Angora 最大一单的**售后现场**；问题指向线缆/injector/电源与端口容错（非硬件），但 Taylan 要的是「一版新固件」好对客户交代；后续他们给客户装 Angora 自家 NMS 收日志。给 Simon 的提醒：这类 PoE injector 串联 + 长劣质线的场景，端口 auto-neg 容错是下一次 7.5 固件沟通里值得问的点（内部，不对客户讲）",
+        "k": "S 邮箱附件 k=295ade16061bab0c / 78cc16b2cb62bcb4 / 1f3a36658e0378a8；邮件 2025-11-02 10:40Z、11-03 11:39Z"
       },
       {
         "date": "2025-11-07",
