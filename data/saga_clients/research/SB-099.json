@@ -77,7 +77,7 @@
     "tier": 20,
     "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
   },
-  "email_hook": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?",
+  "email_hook": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW; is the requirement still there?",
   "mail_review": {
     "binding": {
       "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）",
@@ -104,7 +104,7 @@
       "when": "待 Simon 定 Q-33",
       "channel": "WhatsApp（Simon）",
       "action": "一句话",
-      "one_question": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?"
+      "one_question": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW; is the requirement still there?"
     },
     "facts": [
       {

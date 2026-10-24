@@ -72,7 +72,7 @@
     "tier": 20,
     "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。"
   },
-  "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?",
+  "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 direction@max-protect.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
@@ -90,7 +90,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+      "price": "第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
       "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
       "repeat": [],
       "gaps": []
@@ -99,7 +99,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?"
+      "one_question": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?"
     },
     "facts": [
       {

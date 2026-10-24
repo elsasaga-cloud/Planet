@@ -69,7 +69,7 @@
     "tier": 20,
     "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。"
   },
-  "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?",
+  "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?",
   "mail_review": {
     "binding": {
       "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：switch」）",
@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
       "repeat": [],
       "gaps": []
@@ -96,7 +96,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → info@setik.biz（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
-      "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $81 and budget unmanaged 8-PoE at $24 EXW, with photos and CE files for listing; who manages new suppliers?"
+      "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?"
     },
     "facts": [
       {

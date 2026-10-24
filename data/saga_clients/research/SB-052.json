@@ -79,7 +79,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
   },
-  "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
+  "email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
@@ -106,7 +106,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
+      "one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
     },
     "facts": [
       {

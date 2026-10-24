@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。（调研 2026-10-21；表内兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他  40美金）
 - **为什么是 B 级**：+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/突尼斯；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。；第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
+- **第一问（只问一个）**：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,9 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。
 - **对方真实需求（有据）**：已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。
 - **断点 / 为什么停在这里**：极度价格敏感（$40 样品价不可持续）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?
+  - 第一问（只问一个）：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@ updated: 2026-10-24
   - PoE 为配套品类
 - **风险/边界**：极度价格敏感（$40 样品价不可持续）；突尼斯外汇审批、法语沟通
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。
-- **邮件切入句（英文）**：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?
+- **邮件切入句（英文）**：Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -263,7 +263,7 @@ updated: 2026-10-24
 ```text
 Hi Aymen,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($25.1) pour vos chantiers Dahua ?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

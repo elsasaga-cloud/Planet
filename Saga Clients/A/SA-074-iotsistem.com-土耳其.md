@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回 — C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入。已打开的主题（29/40 封有打开记录）：「Re: 24 Port PoE Managed Switch」(2026-08-20)、「Re: 24 Port PoE Managed Switch」(2026-09-03)、「16 Port Industrial PoE Switch」(2026-09-17)、「Re: 16 Port Industrial PoE Switch」(2026-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续｜对外统一口径（#9/#12）：2026-08-20「We also accept Lira payment」是对土耳其老客户的特例口径，按当日汇率；涨价说明统一「PCB/RAM + 汇率」；HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-24 $220（Re: Industrial network switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW list (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?
+- **第一问（只问一个）**：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?
 - **最大未知**：年走量与现供应商
 - **下一步**：不主动；他下次来信时一次性答复 A 邮箱 → info@iotsistem.com（Berk） 一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回**（20% 档，HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-24 $220（Re: Industrial network switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch））——C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入。已打开的主题（29/40 封有打开记录）：「Re: 24 Port PoE Managed Switch」(2026-08-20)、「Re: 24 Port PoE Managed Switch」(2026-09-03)、「16 Port Industrial PoE Switch」(2026-09-17)、「Re: 16 Port Industrial PoE Switch」(2026-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续｜对外统一口径（#9/#12）：2026-08-20「We also accept Lira payment」是对土耳其老客户的特例口径，按当日汇率；涨价说明统一「PCB/RAM + 汇率」
   - 做不了 / 要先核的：是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）；他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜
 - **下一步（具体）**：不主动；他下次来信时一次性答复　A 邮箱 → info@iotsistem.com（Berk）　一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾
-  - 第一问（只问一个）：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW list (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?
+  - 第一问（只问一个）：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

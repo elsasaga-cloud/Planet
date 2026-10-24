@@ -297,7 +297,7 @@ Yoav,
 
 You once mentioned roughly 150 industrial PoE units a year for municipal and school sites. One question only: is that requirement still live, and which spec did it settle on (8-port or 16-port, 1G or 2.5G uplinks)?
 
-For reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) lists at USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.
+For reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.
 
 Alan Yan
 Saga Telecom

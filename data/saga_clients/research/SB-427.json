@@ -80,7 +80,7 @@
     "tier": 20,
     "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。"
   },
-  "email_hook": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?",
+  "email_hook": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?",
   "mail_review": {
     "binding": {
       "level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）",
@@ -107,7 +107,7 @@
       "when": "2026-11（顺手）",
       "channel": "Elsa 邮箱回原线程",
       "action": "补答 + 一问；附件：STI-244GP 规格书 PDF（2 × SFP + 4 × GE PoE，非管理）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?"
+      "one_question": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?"
     },
     "facts": [
       {

@@ -232,7 +232,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "4-port and 8-port industrial PoE — spec, price, lead time",
-      "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW list\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon"
+      "body": "Hi, Silvia,\n\nIn October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:\n\n- STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n- Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.\n\nOne question: for your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost would make you switch source?\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"
   }

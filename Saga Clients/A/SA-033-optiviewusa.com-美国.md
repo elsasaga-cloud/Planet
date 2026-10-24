@@ -298,7 +298,7 @@ Hi, Silvia,
 In October 2024 you asked for data sheets and prices for the 4-port and 8-port industrial PoE units and we sent the attachments without the three things a buyer actually needs in the body. Here they are:
 
 - STI-154GP: 4x GbE PoE + 1x SFP + 1x GbE uplink, 120 W, DIN, -40 to +75 C — $47 USD EXW
-- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW list
+- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW
 (2026-10 price table, valid 15 days from this mail)
 - Lead time: 4-7 working days ex-works; private label (Optiview logo, model name, GUI) from 50 pcs.
 

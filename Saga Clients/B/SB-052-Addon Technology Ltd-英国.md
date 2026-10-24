@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）；STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
+- **第一问（只问一个）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复
 - **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch））——OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
+  - 第一问（只问一个）：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@ updated: 2026-10-24
   - 自有品牌 + 欧洲分销网络 → 贴 ADDON 标的 5/8 口千兆与 PoE 桌面交换机可直接进其目录
 - **风险/边界**：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复
 - **Saga 对位结论**：P1 STC-028GP（30% 档）——OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU
-- **邮件切入句（英文）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
+- **邮件切入句（英文）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -278,7 +278,7 @@ updated: 2026-10-24
 ```text
 Hi Charles,
 
-Picking up our earlier exchange about PoE / industrial switches. For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
+Picking up our earlier exchange about PoE / industrial switches. For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) is $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

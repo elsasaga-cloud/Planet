@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-10 → 2025-10-02）；最近一次客户回复：2025-04-10：ds
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）
-- **第一问（只问一个）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?
+- **第一问（只问一个）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答 + 一问；附件：STI-244GP 规格书 PDF（2 × SFP + 4 × GE PoE，非管理）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：ONV 价格基准低；印度 BIS
 - **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch））——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答 + 一问；附件：STI-244GP 规格书 PDF（2 × SFP + 4 × GE PoE，非管理）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
-  - 第一问（只问一个）：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?
+  - 第一问（只问一个）：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@ updated: 2026-10-24
   - 要了 2 光 4 PoE DS（2025-04）
 - **风险/边界**：ONV 价格基准低；印度 BIS
 - **Saga 对位结论**：P1 STI-244GP（20% 档）——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
-- **邮件切入句（英文）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?
+- **邮件切入句（英文）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
