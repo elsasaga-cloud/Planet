@@ -92,6 +92,27 @@
       "email": "sales-inf@resonantnetworks.com",
       "phone": "",
       "source": "PI.zip 单据"
+    },
+    {
+      "name": "Andrea Chew",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "andreachewyy@resonantnetworks.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）"
+    },
+    {
+      "name": "Bernard Song",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "bernardsongyw@resonantnetworks.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）"
+    },
+    {
+      "name": "Hairomee",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "hairomee@resonantnetworks.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）"
     }
   ],
   "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",

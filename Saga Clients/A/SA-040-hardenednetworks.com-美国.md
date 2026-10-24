@@ -103,6 +103,7 @@ updated: 2026-10-24
 - **【分销站】HN8012-24+ bypass/环网特性**
   > Built-in bypass fiber ports with switching time <10ms … Fast ITS ring recovery time< 10ms over 250 units of connections … Ring Protocols: STP, RSTP, MSTP, RPVST +, R-RVST+, ITS- Ring, Moxa/ Herschman/ Advatech Rings
   > 来源：https://expresssupply.us/hn8012-24plus/（抓取 2026-10-21）
+- **KP**：Mark Schulting（来信署名人（职务未在邮件署名里出现））mark@expresssupply.net 〔S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）〕
 - 备注：A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -209,7 +210,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | mark@expresssupply.net / sales@expresssupply.net | 用户表原值 | Clients/ 表 |
+| Mark Schulting | 来信署名人（职务未在邮件署名里出现） | mark@expresssupply.net | 调研核实（公开页） | S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发
 

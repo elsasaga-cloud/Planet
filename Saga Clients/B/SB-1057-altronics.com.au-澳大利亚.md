@@ -94,7 +94,7 @@ updated: 2026-10-24
   > POE switch hisource的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Brian Sorensen（）info@altronics.com.au 〔用户表〕
-- **KP**：Dean Stephens（）dean.stephens@altronics.com.au 〔用户表〕
+- **KP**：Dean Stephens（；2025 婉拒「Thank you, not at this time」→ 2027 再看；已入剔除名单 §一）dean.stephens@altronics.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -198,7 +198,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Brian Sorensen | — | info@altronics.com.au | 调研核实（公开页） | 用户表 |
-| Dean Stephens | — | dean.stephens@altronics.com.au | 调研核实（公开页） | 用户表 |
+| Dean Stephens | ；2025 婉拒「Thank you, not at this time」→ 2027 再看；已入剔除名单 §一 | dean.stephens@altronics.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

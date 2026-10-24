@@ -98,6 +98,7 @@ updated: 2026-10-24
   > ALLNET Industrial Switch fully managed Layer 2+ with 12 ports GbE or PoE, budget 240W, 8x PoE BT, 4x SFP, fanless, DIN, JSON API, model ALL-SGI8112PMJ-BT … Release date · 26.5.2025
   > 来源：https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553（抓取 2026-10-21）
 - **KP**：Wolfgang Marcus Bauer（Geschäftsführer） +49 89 894 222-22〔https://www.allnet.de/impressum.html〕
+- **KP**：Gerhard Zerwes（来信署名人（职务未在邮件署名里出现））zerwes@allnet.de 〔S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -203,6 +204,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Wolfgang Marcus Bauer | Geschäftsführer | +49 89 894 222-22 | 调研核实（公开页） | https://www.allnet.de/impressum.html |
+| Gerhard Zerwes | 来信署名人（职务未在邮件署名里出现） | zerwes@allnet.de | 调研核实（公开页） | S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

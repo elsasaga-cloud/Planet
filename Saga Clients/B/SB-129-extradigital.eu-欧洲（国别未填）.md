@@ -105,6 +105,7 @@ updated: 2026-10-24
 - **【用户表】1 次实质回复；11 次跟进；国别未填**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Austėja（EURODIGITAL）（来信署名人（职务未在邮件署名里出现））info@extradigital.eu 〔S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别补齐））
@@ -201,7 +202,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@extradigital.eu | 用户表原值 | Clients/ 表 |
+| Austėja（EURODIGITAL） | 来信署名人（职务未在邮件署名里出现） | info@extradigital.eu | 调研核实（公开页） | S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -270,7 +271,7 @@ updated: 2026-10-24
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Austėja,
 
 Picking up our earlier exchange about PoE / industrial switches. For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?
 

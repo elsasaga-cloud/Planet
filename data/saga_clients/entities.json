@@ -2913,6 +2913,27 @@
 "email": "sales-inf@resonantnetworks.com",
 "phone": "",
 "source": "PI.zip 单据"
+},
+{
+"name": "Andrea Chew",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "andreachewyy@resonantnetworks.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Bernard Song",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "bernardsongyw@resonantnetworks.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Hairomee",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "hairomee@resonantnetworks.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
@@ -10991,6 +11012,13 @@
 "email": "contact@cxr.com",
 "phone": "+33 2 37 62 88 00",
 "source": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation"
+},
+{
+"name": "Marco Di Valerio",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "marco.divalerio@cxr.fr",
+"phone": "",
+"source": "S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
@@ -12146,7 +12174,16 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"kp": [
+{
+"name": "Johnson Wang",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "johnson@alfa.com.tw",
+"phone": "",
+"source": "S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）"
 }
+]
 }
 },
 {
@@ -13378,6 +13415,20 @@
 "email": "",
 "phone": "+44 845 130 1585",
 "source": "https://dev.megnet.co.uk/"
+},
+{
+"name": "Jitendra Sain",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "jitendra@megnet.co.uk",
+"phone": "",
+"source": "S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Nasim Chaudhari",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "nasim@megnet.co.uk",
+"phone": "",
+"source": "S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
@@ -15624,6 +15675,13 @@
 "email": "",
 "phone": "+49 89 894 222-22",
 "source": "https://www.allnet.de/impressum.html"
+},
+{
+"name": "Gerhard Zerwes",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "zerwes@allnet.de",
+"phone": "",
+"source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",
@@ -16168,6 +16226,13 @@
 "email": "sales@americanfibertek.com（官网公开）",
 "phone": "+1 800-323-0660",
 "source": "https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750"
+},
+{
+"name": "Tim Orselli",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "tim.orselli@americanfibertek.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": "B",
@@ -16453,6 +16518,13 @@
 "email": "mbeczek@bitstream.pl",
 "phone": "+48 691 161 866",
 "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
+},
+{
+"name": "Katarzyna Surowiec",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "ksurowiec@bitstream.pl",
+"phone": "",
+"source": "S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
@@ -17235,6 +17307,13 @@
 "email": "sales@optiviewusa.com（Crunchbase 公开）",
 "phone": "+1 904-805-1581",
 "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
+},
+{
+"name": "Silvia Flores",
+"role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
+"email": "silvia.flores@optiviewusa.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",
@@ -20551,7 +20630,16 @@
 "body": "Hi, Mark,\n\nStraight answer to your April 2025 question: we do not build on Broadcom, and I should not have hinted otherwise in February. Our ranges are Marvell (access) and CENTEC (full L3: OSPF/BGP, MPLS, VXLAN/EVPN, MLAG).\n\nFor an ITS-hardened 10G optical aggregation role the CENTEC 24x10G + 2x100G L3 unit is the relevant box; it is quoted per project (DC power, MA license options).\n\nOne question: is \"Broadcom\" written into your customers' ITS specs, or would a CENTEC full-L3 unit qualify if it clears your lab test? If the former, I will stop sending you switch mail; if the latter, I will send the spec sheet and a test-unit price.\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
+},
+"kp": [
+{
+"name": "Mark Schulting",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "mark@expresssupply.net",
+"phone": "",
+"source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）"
 }
+]
 }
 },
 {
@@ -20771,6 +20859,13 @@
 "email": "—（未公开）",
 "phone": "+971 4 265 0333（公司）",
 "source": "https://www.alsalami.com/about-us/"
+},
+{
+"name": "Reyann Salazar Brosoto",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "reyann@alsalami.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。",
@@ -28598,7 +28693,7 @@
 },
 {
 "name": "（Sawithree，姓氏未公开）",
-"role": "ORing 经销名录联系人（销售窗口）",
+"role": "ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效",
 "email": "sawithree@success-network.co.th",
 "phone": "+66 2 973 1670-71",
 "source": "https://oringnet.com/en/where-to-buy/apac"
@@ -32934,6 +33029,13 @@
 "email": "thom.sherer@dymec.com",
 "phone": "+1 713-826-0739",
 "source": "https://www.dymec.com/"
+},
+{
+"name": "Thomas West",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "sales@dymec.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）"
 }
 ],
 "notes": "A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。",
@@ -37836,7 +37938,7 @@
 },
 {
 "name": "Ismed Sitepu",
-"role": "Founder & CEO（2001 至今）",
+"role": "Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址",
 "email": "sales@divatel.id（公司公开）",
 "phone": "+62 852-8940-4589（网站公开 WA）",
 "source": "https://www.linkedin.com/in/ismedsitepu/"
@@ -44152,6 +44254,13 @@
 "email": "",
 "phone": "+1 787-705-6999",
 "source": "用户 Clients 表 + Crunchbase/Facebook"
+},
+{
+"name": "Ivan Rivera",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "irivera@fiberx.net",
+"phone": "",
+"source": "S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": null,
@@ -56192,6 +56301,13 @@
 "email": "info@latmedia.uz（公司公开）",
 "phone": "+998 90 115 51 00（公司 Telegram）",
 "source": "https://latmedia.uz/about/"
+},
+{
+"name": "Vladimir Xe",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "vladimir.xe@latmedia.uz",
+"phone": "",
+"source": "S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": null,
@@ -58994,6 +59110,13 @@
 "email": "",
 "phone": "+31 6 4685 3228（WA）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Jacco Slob",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "j.slob@dios-industries.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": "B",
@@ -62193,6 +62316,13 @@
 "email": "",
 "phone": "",
 "source": "用户 Clients 表（S 重点）"
+},
+{
+"name": "Zack Yu",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "zack@megatelindustries.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": null,
@@ -77274,7 +77404,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Stan Sochur",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "stan@thorfiber.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -107603,7 +107741,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Hussain Alqahtani",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "hussain.alqahtani@linx-com.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -118295,7 +118441,15 @@
 "date": "2024-10-02"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Wadii Kherfani",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "wadii@teltronix.net",
+"phone": "",
+"source": "S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
@@ -133515,7 +133669,8 @@
 "title": "General Manager",
 "email": "dean.stephens@altronics.com.au",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "；2025 婉拒「Thank you, not at this time」→ 2027 再看；已入剔除名单 §一"
 }
 ],
 "grade_override": null,
@@ -158878,7 +159033,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "노현진（MCSS support@）",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "support@mcss.co.kr",
+"phone": "",
+"source": "S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -204998,7 +205161,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Austėja（EURODIGITAL）",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "info@extradigital.eu",
+"phone": "",
+"source": "S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -210965,6 +211136,13 @@
 "email": "rohr.rudolf@barox.ch",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Luis Coello",
+"role": "来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用",
+"email": "luis.coello@barox.de",
+"phone": "",
+"source": "S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": null,
@@ -275186,6 +275364,13 @@
 "email": "azarudniy@larch-networks.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Oksana Loy",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "oksana@larch-networks.com",
+"phone": "",
+"source": "S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）"
 }
 ],
 "grade_override": null,
@@ -278519,7 +278704,8 @@
 "title": "（职务待核）",
 "email": "inquiry@th-it.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "；明确拒绝「sorry, no need」（2024-07-29；2026-09 Elsa 箱再拒）→ 不发"
 }
 ],
 "grade_override": null,
@@ -323505,7 +323691,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Andy",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "andys@case.uk.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -419933,7 +420127,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Chavan Koya",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "chk999@outlook.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-10-30 来信 1 封（私人邮箱）（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -431580,7 +431782,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Joe（显示名 joy tann）",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "joejts@hotmail.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-07-30 → 2025-11-21 来信 2 封（私人邮箱）（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -475628,7 +475838,22 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Casey Hurley",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "pchurley@actelis.com",
+"phone": "",
+"source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Michal Winkler",
+"role": "来信署名人（职务未在邮件署名里出现）",
+"email": "michalw@actelis.com",
+"phone": "",
+"source": "S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",

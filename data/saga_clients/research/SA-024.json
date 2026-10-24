@@ -52,6 +52,20 @@
       "email": "",
       "phone": "+44 845 130 1585",
       "source": "https://dev.megnet.co.uk/"
+    },
+    {
+      "name": "Jitendra Sain",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "jitendra@megnet.co.uk",
+      "phone": "",
+      "source": "S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）"
+    },
+    {
+      "name": "Nasim Chaudhari",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "nasim@megnet.co.uk",
+      "phone": "",
+      "source": "S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）"
     }
   ],
   "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",

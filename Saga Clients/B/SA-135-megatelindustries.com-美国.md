@@ -90,6 +90,7 @@ updated: 2026-10-24
   > IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00
   > 来源：https://www.megatelindustries.com/imc1000100012.html（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表（S 重点）〕
+- **KP**：Zack Yu（来信署名人（职务未在邮件署名里出现））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先））
@@ -212,7 +213,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | zack@megatelindustries.com / sales@megatelindustries.com | 用户表原值 | Clients/ 表 |
+| Zack Yu | 来信署名人（职务未在邮件署名里出现） | zack@megatelindustries.com | 调研核实（公开页） | S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补） |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -279,7 +280,7 @@ updated: 2026-10-24
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Zack,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
 

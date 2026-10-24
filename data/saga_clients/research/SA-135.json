@@ -39,6 +39,13 @@
       "email": "",
       "phone": "",
       "source": "用户 Clients 表（S 重点）"
+    },
+    {
+      "name": "Zack Yu",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "zack@megatelindustries.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）"
     }
   ],
   "grade_override": null,

@@ -242,5 +242,14 @@
       "body": "Hi, Mark,\n\nStraight answer to your April 2025 question: we do not build on Broadcom, and I should not have hinted otherwise in February. Our ranges are Marvell (access) and CENTEC (full L3: OSPF/BGP, MPLS, VXLAN/EVPN, MLAG).\n\nFor an ITS-hardened 10G optical aggregation role the CENTEC 24x10G + 2x100G L3 unit is the relevant box; it is quoted per project (DC power, MA license options).\n\nOne question: is \"Broadcom\" written into your customers' ITS specs, or would a CENTEC full-L3 unit qualify if it clears your lab test? If the former, I will stop sending you switch mail; if the latter, I will send the spec sheet and a test-unit price.\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
-  }
+  },
+  "kp": [
+    {
+      "name": "Mark Schulting",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "mark@expresssupply.net",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）"
+    }
+  ]
 }

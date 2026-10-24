@@ -105,6 +105,7 @@ updated: 2026-10-24
 - **【用户表】关注 MC/SFP/FS 周边；WhatsApp 已加；1 次跟进**
   > MC SFP FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Hussain Alqahtani（来信署名人（职务未在邮件署名里出现））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -203,7 +204,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hussain Alqahtani | — | hussain.alqahtani@linx-com.com / +447584025519 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Hussain Alqahtani | 来信署名人（职务未在邮件署名里出现） | hussain.alqahtani@linx-com.com | 调研核实（公开页） | S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

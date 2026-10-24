@@ -105,6 +105,7 @@ updated: 2026-10-24
   > Over Ethernet Ports:8 Network Chipset Mfr:Broadcom Power Input:48~57 Volts DC Temperature Hardened:YES Operating Temperature:Ext:-40°C ~ 85°C … DYMEC Warranty:5 Year / Limited Lifetime $299.00
   > 来源：https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/（抓取 2026-10-21）
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
+- **KP**：Thomas West（来信署名人（职务未在邮件署名里出现））sales@dymec.com 〔S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）〕
 - 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + dymecdirect 清仓价核对））
@@ -216,6 +217,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Thom Sherer | 联系人（用户表邮箱） | thom.sherer@dymec.com / +1 713-826-0739 | 调研核实（公开页） | https://www.dymec.com/ |
+| Thomas West | 来信署名人（职务未在邮件署名里出现） | sales@dymec.com | 调研核实（公开页） | S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

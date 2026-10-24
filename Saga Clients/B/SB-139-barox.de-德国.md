@@ -108,6 +108,7 @@ updated: 2026-10-24
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jeneeben Jesujeevagan（）mail@barox.de 〔用户表〕
 - **KP**：Rudolf Rohr（）rohr.rudolf@barox.ch 〔用户表〕
+- **KP**：Luis Coello（来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用）luis.coello@barox.de 〔S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -219,6 +220,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | Jeneeben Jesujeevagan | — | mail@barox.de | 调研核实（公开页） | 用户表 |
 | Rudolf Rohr | — | rohr.rudolf@barox.ch | 调研核实（公开页） | 用户表 |
+| Luis Coello | 来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用 | luis.coello@barox.de | 调研核实（公开页） | S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补） |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

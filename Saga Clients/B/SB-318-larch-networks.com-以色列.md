@@ -114,6 +114,7 @@ updated: 2026-10-24
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alexander Cheskis（）alexander@larch-networks.com 〔用户表〕
 - **KP**：Andrey Zarudniy（）azarudniy@larch-networks.com 〔用户表〕
+- **KP**：Oksana Loy（来信署名人（职务未在邮件署名里出现））oksana@larch-networks.com 〔S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -212,6 +213,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | Alexander Cheskis | — | alexander@larch-networks.com | 调研核实（公开页） | 用户表 |
 | Andrey Zarudniy | — | azarudniy@larch-networks.com | 调研核实（公开页） | 用户表 |
+| Oksana Loy | 来信署名人（职务未在邮件署名里出现） | oksana@larch-networks.com | 调研核实（公开页） | S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发
 

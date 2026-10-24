@@ -106,7 +106,7 @@ updated: 2026-10-24
   > Success Network 这个可以跟进 OK的
   > 来源：（对话全记录 T27-U5）（抓取 2026-10-21）
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
-- **KP**：（Sawithree，姓氏未公开）（ORing 经销名录联系人（销售窗口））sawithree@success-network.co.th +66 2 973 1670-71〔https://oringnet.com/en/where-to-buy/apac〕
+- **KP**：（Sawithree，姓氏未公开）（ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效）sawithree@success-network.co.th +66 2 973 1670-71〔https://oringnet.com/en/where-to-buy/apac〕
 - 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册 + 原厂经销名录核对））

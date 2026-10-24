@@ -165,5 +165,14 @@
     "proof_gaps": [],
     "draft_en": null,
     "as_of": "2026-10-24"
-  }
+  },
+  "kp": [
+    {
+      "name": "Johnson Wang",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "johnson@alfa.com.tw",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）"
+    }
+  ]
 }

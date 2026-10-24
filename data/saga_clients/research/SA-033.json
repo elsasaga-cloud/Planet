@@ -59,6 +59,13 @@
       "email": "sales@optiviewusa.com（Crunchbase 公开）",
       "phone": "+1 904-805-1581",
       "source": "https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f"
+    },
+    {
+      "name": "Silvia Flores",
+      "role": "来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人",
+      "email": "silvia.flores@optiviewusa.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）"
     }
   ],
   "notes": "A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。",

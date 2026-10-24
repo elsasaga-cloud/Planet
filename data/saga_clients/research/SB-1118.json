@@ -40,7 +40,15 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "노현진（MCSS support@）",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "support@mcss.co.kr",
+      "phone": "",
+      "source": "S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",

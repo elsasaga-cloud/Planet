@@ -43,6 +43,13 @@
       "email": "",
       "phone": "+31 6 4685 3228（WA）",
       "source": "用户 Clients 表"
+    },
+    {
+      "name": "Jacco Slob",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "j.slob@dios-industries.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）"
     }
   ],
   "grade_override": "B",

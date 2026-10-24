@@ -160,6 +160,9 @@ updated: 2026-10-24
   > 来源：https://resonantnetworks.com/contact-us/（抓取 2026-10-23）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
 - **KP**：Au Wai Choon（单据联系人）sales-inf@resonantnetworks.com 〔PI.zip 单据〕
+- **KP**：Andrea Chew（来信署名人（职务未在邮件署名里出现））andreachewyy@resonantnetworks.com 〔S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Bernard Song（来信署名人（职务未在邮件署名里出现））bernardsongyw@resonantnetworks.com 〔S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Hairomee（来信署名人（职务未在邮件署名里出现））hairomee@resonantnetworks.com 〔S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + ACRA 注册核对））
@@ -287,6 +290,9 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | — | 销售邮箱（Crunchbase 公开） | sales@resonantnetworks.com / +65 6871 4128 | 调研核实（公开页） | https://www.crunchbase.com/organization/resonant-networks |
 | Au Wai Choon | 单据联系人 | sales-inf@resonantnetworks.com | 调研核实（公开页） | PI.zip 单据 |
+| Andrea Chew | 来信署名人（职务未在邮件署名里出现） | andreachewyy@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补） |
+| Bernard Song | 来信署名人（职务未在邮件署名里出现） | bernardsongyw@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补） |
+| Hairomee | 来信署名人（职务未在邮件署名里出现） | hairomee@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补） |
 | Trevor Loi | — | sales@resonantnetworks.com / trevorloijt@resonantnetworks.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -356,7 +362,7 @@ updated: 2026-10-24
 **主题**：STC-448XGGM(L3) - 48-port Gigabit L3 switch with 10G uplinks (CENTEC-based, neutral label)
 
 ```text
-Hi Trevor,
+Hi Andrea,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.
 

@@ -112,6 +112,7 @@ updated: 2026-10-24
   > 来源：https://2gis.uz/tashkent/firm/70000001036910454（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +998 90 976 7748〔用户 Clients 表（自建站询盘）〕
 - **KP**：Пак Максим（Maksim Pak）（CEO LATMEDIA（官网 About））info@latmedia.uz（公司公开） +998 90 115 51 00（公司 Telegram）〔https://latmedia.uz/about/〕
+- **KP**：Vladimir Xe（来信署名人（职务未在邮件署名里出现））vladimir.xe@latmedia.uz 〔S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）〕
 - 备注：唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 黄页核对））
@@ -203,7 +204,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Пак Максим（Maksim Pak） | CEO LATMEDIA（官网 About） | info@latmedia.uz（公司公开） / +998 90 115 51 00（公司 Telegram） | 调研核实（公开页） | https://latmedia.uz/about/ |
-| Vladimir Xe | — | vladimir.xe@latmedia.uz / +998909767748 | 用户表原值 | Clients/ 表 |
+| Vladimir Xe | 来信署名人（职务未在邮件署名里出现） | vladimir.xe@latmedia.uz | 调研核实（公开页） | S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补） |
 | Vladimir Xe, Co-founder | — | vladimir.xe@latmedia.uz / +998909767748 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

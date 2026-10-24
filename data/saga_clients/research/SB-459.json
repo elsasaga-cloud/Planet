@@ -46,7 +46,15 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Andy",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "andys@case.uk.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档）",

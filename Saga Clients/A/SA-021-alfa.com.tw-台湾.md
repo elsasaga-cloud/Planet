@@ -92,6 +92,7 @@ updated: 2026-10-24
 - **【官网】APS08G 规格**
   > APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount
   > 来源：https://www.alfa.com.tw/products/aps08g（抓取 2026-10-21）
+- **KP**：Johnson Wang（来信署名人（职务未在邮件署名里出现））johnson@alfa.com.tw 〔S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）〕
 - 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -217,6 +218,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Johnson Wang | 来信署名人（职务未在邮件署名里出现） | johnson@alfa.com.tw | 调研核实（公开页） | S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补） |
 | Johnson | — | johnson@alfa.com.tw / phoebe@alfa.com.tw | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

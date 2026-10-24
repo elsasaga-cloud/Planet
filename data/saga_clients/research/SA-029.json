@@ -60,6 +60,13 @@
       "email": "",
       "phone": "+49 89 894 222-22",
       "source": "https://www.allnet.de/impressum.html"
+    },
+    {
+      "name": "Gerhard Zerwes",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "zerwes@allnet.de",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）"
     }
   ],
   "notes": "A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。",

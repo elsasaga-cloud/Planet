@@ -95,6 +95,7 @@ updated: 2026-10-24
   > Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC
   > 来源：https://bitstream.pl/en/products/hyperion-200/（抓取 2026-10-21）
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
+- **KP**：Katarzyna Surowiec（来信署名人（职务未在邮件署名里出现））ksurowiec@bitstream.pl 〔S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -206,6 +207,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | M. Beczek（mbeczek@） | 出口/商务联系人（官方名录公开） | mbeczek@bitstream.pl / +48 691 161 866 | 调研核实（公开页） | https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna |
+| Katarzyna Surowiec | 来信署名人（职务未在邮件署名里出现） | ksurowiec@bitstream.pl | 调研核实（公开页） | S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补） |
 | Aleksander Hyz | — | ahyz@bitstream.pl / dpietrzyk@bitstream.pl | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -273,7 +275,7 @@ updated: 2026-10-24
 **主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Aleksander,
+Hi Katarzyna,
 
 Picking up our earlier exchange about PoE / industrial switches. Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.
 

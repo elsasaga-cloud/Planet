@@ -109,6 +109,7 @@ updated: 2026-10-24
 - **【email】同期问 STI-288GP 价格（Simon 报 $60/pc，2024-09-03）；2024-10-02 要 Power Converter 的组网示意图；此后 Saga 群发 2024-10/11/12 三次无回**
   > What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??
   > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
+- **KP**：Wadii Kherfani（来信署名人（职务未在邮件署名里出现））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公司档案核对））
@@ -201,7 +202,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wadii Kherfani | 采购/项目（邮件签名无职务） | briticom@briticom.net / wadii@teltronix.net / +441604434186 | 用户表原值 | Clients/ 表 |
+| Wadii Kherfani | 来信署名人（职务未在邮件署名里出现） | wadii@teltronix.net | 调研核实（公开页） | S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补） |
 | Briticom is a brand of | 采购/项目（邮件签名无职务） | briticom@briticom.net / wadii@teltronix.net / +441604434186 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

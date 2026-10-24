@@ -53,6 +53,13 @@
       "email": "rohr.rudolf@barox.ch",
       "phone": "",
       "source": "用户表"
+    },
+    {
+      "name": "Luis Coello",
+      "role": "来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用",
+      "email": "luis.coello@barox.de",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补）"
     }
   ],
   "grade_override": null,

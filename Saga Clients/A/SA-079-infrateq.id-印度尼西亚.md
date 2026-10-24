@@ -106,7 +106,7 @@ updated: 2026-10-24
   > CEO and Founder PT. Divatel Pratama 2001 - Present … IP PBX Development - Call Center and Contact Center … Paging & Intercom for safe city … Offgrid CCTV Surveillance - Solar Panel Switch / Hub
   > 来源：https://www.linkedin.com/in/ismedsitepu/（抓取 2023-03-25）
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
-- **KP**：Ismed Sitepu（Founder & CEO（2001 至今））sales@divatel.id（公司公开） +62 852-8940-4589（网站公开 WA）〔https://www.linkedin.com/in/ismedsitepu/〕
+- **KP**：Ismed Sitepu（Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址）sales@divatel.id（公司公开） +62 852-8940-4589（网站公开 WA）〔https://www.linkedin.com/in/ismedsitepu/〕
 - **KP**：Bagus Widiyanto（Sales（infrateq.com 公开））— +62 812-9989-0595〔https://infrateq.com/156-industrial-poe-switch〕
 - 备注：A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
@@ -203,7 +203,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Ismed Sitepu | CEO & Founder | ismed@divatel.co.id / +62 852-8940-4589（WA，官网与用户记录一致） | 调研核实（公开页） | 用户 Clients 表 + LinkedIn + 官网 |
-| Ismed Sitepu | Founder & CEO（2001 至今） | sales@divatel.id（公司公开） / +62 852-8940-4589（网站公开 WA） | 调研核实（公开页） | https://www.linkedin.com/in/ismedsitepu/ |
+| Ismed Sitepu | Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址 | sales@divatel.id（公司公开） / +62 852-8940-4589（网站公开 WA） | 调研核实（公开页） | https://www.linkedin.com/in/ismedsitepu/ |
 | Bagus Widiyanto | Sales（infrateq.com 公开） | — / +62 812-9989-0595 | 调研核实（公开页） | https://infrateq.com/156-industrial-poe-switch |
 | Ismed S | — | ismed@divatel.co.id / info@divatel.co.id / +6285289404589 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 

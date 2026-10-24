@@ -100,6 +100,7 @@ updated: 2026-10-24
   > CXR's SWMDH-3016 Series is a hardened DIN-rail mounted 16-port Gigabit switching platform … 12 x 10/100/1000BASE-TX (8 x PoE … SWMDH-3016-12P-4S-2D … (44～57VDC), DIN mount, -40°~75°operating
   > 来源：https://www.cxr.com/documents/brochures/swmdh_3016_uk.pdf（抓取 2026-10-21）
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
+- **KP**：Marco Di Valerio（来信署名人（职务未在邮件署名里出现））marco.divalerio@cxr.fr 〔S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -235,8 +236,8 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机 | contact@cxr.com / +33 2 37 62 88 00 | 调研核实（公开页） | https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation |
+| Marco Di Valerio | 来信署名人（职务未在邮件署名里出现） | marco.divalerio@cxr.fr | 调研核实（公开页） | S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补） |
 | Marco | COO | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
-| Marco Di Valerio | COO | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 

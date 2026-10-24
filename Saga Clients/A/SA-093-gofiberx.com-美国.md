@@ -115,6 +115,7 @@ updated: 2026-10-24
   > Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：（见 Clients 表联系人）（） +1 787-705-6999〔用户 Clients 表 + Crunchbase/Facebook〕
+- **KP**：Ivan Rivera（来信署名人（职务未在邮件署名里出现））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
 - 备注：运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + PeeringDB 核对））
@@ -235,7 +236,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ivan Rivera | — | info@fiberx.net / irivera@fiberx.net | 用户表原值 | Clients/ 表 |
+| Ivan Rivera | 来信署名人（职务未在邮件署名里出现） | irivera@fiberx.net | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发
 

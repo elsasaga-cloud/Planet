@@ -59,6 +59,13 @@
       "email": "contact@cxr.com",
       "phone": "+33 2 37 62 88 00",
       "source": "https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation"
+    },
+    {
+      "name": "Marco Di Valerio",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "marco.divalerio@cxr.fr",
+      "phone": "",
+      "source": "S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）"
     }
   ],
   "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",

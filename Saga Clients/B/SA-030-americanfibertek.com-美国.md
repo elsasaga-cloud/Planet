@@ -98,6 +98,7 @@ updated: 2026-10-24
   > MX-6p-PoE-2HP was $975.33 Special Price $753.00 … American Fibertek MX-6p-PoE-2HP Unmanaged 6-Port Ethernet Switch, (4) 10/100 PoE af & (2) SFP 1000 Ports
   > 来源：https://www.surveillance-video.com/network-mx-6p-poe-2hp.html（抓取 2026-10-21）
 - **KP**：Donna Poulos（President/Owner）sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
+- **KP**：Tim Orselli（来信署名人（职务未在邮件署名里出现））tim.orselli@americanfibertek.com 〔S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。
 - 备注：INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 
@@ -216,6 +217,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Donna Poulos | President/Owner | sales@americanfibertek.com（官网公开） / +1 800-323-0660 | 调研核实（公开页） | https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750 |
+| Tim Orselli | 来信署名人（职务未在邮件署名里出现） | tim.orselli@americanfibertek.com | 调研核实（公开页） | S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发
 

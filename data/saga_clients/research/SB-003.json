@@ -39,7 +39,15 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Stan Sochur",
+      "role": "来信署名人（职务未在邮件署名里出现）",
+      "email": "stan@thorfiber.com",
+      "phone": "",
+      "source": "S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档）",
