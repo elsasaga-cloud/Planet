@@ -356,25 +356,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-140GE samples — tender result (for the record)
 
 ```text
-Hi Sanjay,
+Hi, Sanjay,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. The AST-IMC-GB-POE-8E2U2S class 8-port gigabit industrial PoE unit is the one we can supply with ASTEL packing on a Marvell platform, so I am quoting it with and without the 48 V 240 W DIN power supply you asked about last time.
+For the record on email, following our WeChat chats: after the STI-110GE / STI-140GE samples with HDR-15-24 power supplies (paid Dec 2025), I would like to know how the tender went.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your ASTEL AST-IMC-GB-POE-8E2U2S-PSE at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+If the 1,000-pc supply is still on the table, we can hold price per batch (quotation valid 15 days from issue), ship in lots and keep the same test report for every batch.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: did the samples pass the tender's spec/sample approval, and what target unit price and delivery window are they asking for?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

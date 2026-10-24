@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：ISP 用接入 PoE/非 PoE + ODM。
 - **断点 / 为什么停在这里**：回法。
 - **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档）——韩国 ISP 渠道 + Director
-  - 做不了 / 要先核的：ISP 名单/年量
+  - 做不了 / 要先核的：8； ；口； ；P；o；E； ；商；用； ；=； ；S；T；C；-；2；8；D；G；G；P；M； ；S；a；g；a； ；列；表；价； ；$；9；9；（；主；表；；；S；a；g；a； ；标； ；2；4；0；W；、；S；m；a；r；t；B；y；t；e； ；标； ；1；2；0；W； ；电；源；—；—；报；价；前；核；对；电；源；规；格；）
 - **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页
   - 第一问（只问一个）：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 
@@ -234,21 +234,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: PoE / non-PoE price bands + ODM proposal
 
 ```text
-Hi Peter,
+Hi, Peter,
 
-Picking up our earlier exchange about PoE / industrial switches. Mr. Ahn, on the PoE boost (voltage-step-up) model you asked price and ODM for — to quote we need target input voltage range and PoE budget; meanwhile, the standard 8-PoE + 2-SFP L2+ is available ODM from small lots.
+Thank you for your note in November — price ranges for PoE / non-PoE access switches and an ODM proposal for the Korean ISP market. Attached: price bands and a one-page ODM scope.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $99 USD list (2026-10 table)
+- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $198 USD list
+- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $110 USD list
+- ODM: your logo, model name, web GUI, packaging; MOQ 50 pcs per model; firmware OEM string changes included.
+(All EXW Shenzhen, valid 15 days from this mail.)
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: which ISP account would be the first fit, and is it PoE (cameras/APs) or non-PoE (FTTx CPE side)?
+
+Thank you.
+Alan
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

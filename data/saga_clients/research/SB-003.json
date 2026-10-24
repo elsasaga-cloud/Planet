@@ -1,166 +1,169 @@
 {
- "code": "SB-003",
- "name_official": "Thor Fiber / Thor Broadcast（thorfiber.com · thorbroadcast.com；用户表名「DIGI Group」，联系人 Stan）",
- "researched_at": "2026-10-21",
- "website_status": "在线（thorbroadcast.com 为主站，thorfiber.com 同公司）",
- "summary": "美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Thor Fiber（自有品牌）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "延长器产品与 PoE 规格",
-   "quote": "F-GET-TRS-POE+A 10/100/100Base-T to 1000Base-FX Single Fiber / Side A -1310nm / PoE+ 802.3 /30W … 14 Slot Chassis available PN: F-Chassis -14",
-   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "IP 二线延长器规格",
-   "quote": "Thor Fiber H-IP-TP-TX/RX is a high-performance IP over 2-Wire Copper Extender with PoE … PoE transmission up to 500 m (1,640 ft) … Delivers up to 30 W PoE … Input Power 48–57 VDC or PoE Input",
-   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模、地址、成立年",
-   "quote": "Thor Fiber specializes in manufacture of fiber optic transport equipment and Digital T.V. equipment … Company size: 51-200 employees Headquarters: Torrance, CA … Founded: 2009 … 2421 W 205th St. Torrance, CA 90501",
-   "url": "https://www.linkedin.com/company/thor-fiber",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "S 重点；2 次实质回复、WhatsApp、样品记录；联系人 Stan（stan@thorfiber.com）",
-   "quote": "（用户表字段：实质回复 2 / WA / 样品 / 跟进 22）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网目录核对）"
- },
- "company_facts": {
-  "legal_name": "Thor Fiber（Thor Broadcast）",
-  "hq": "2421 W 205th St, Torrance, CA 90501, USA",
-  "founded": "2006（LinkedIn 记 2009）",
-  "size": "51–200（LinkedIn 自报）",
-  "other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售"
- },
- "business_lines": [
-  "广播/头端光纤传输设备",
-  "以太网光纤 / 二线 延长器（含 PoE/PoE+）",
-  "光纤机箱与配件（14 槽机箱）"
- ],
- "products_seen": [
-  {
-   "brand": "Thor Fiber",
-   "model": "F-GET-TRS-POE+A/B",
-   "spec": "10/100/1000T ↔ 1000Base-FX 单纤 A/B 端，PoE+ 802.3at 30W；14 槽机箱 F-Chassis-14",
-   "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
-   "date": "2026-10-21",
-   "saga": "STI-110GE（同类 MC）/ STC-28DGGPM（含 SFP 上联的 PoE 汇聚）"
-  },
-  {
-   "brand": "Thor Fiber",
-   "model": "H-IP-TP-TX/RX",
-   "spec": "IP over 2-wire 延长器，500 m，PoE 30W，物理层 240 Mbps / 实际 90 Mbps，48–57 VDC 或 PoE 供电",
-   "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
-   "date": "2026-10-21",
-   "saga": "—（Saga 无同类；可配 STC-28DGGPM 作局端 PoE 源）"
-  }
- ],
- "channels": {
-  "网站": "https://thorbroadcast.com/ · thorfiber.com",
-  "分销": "Markertek（brand/thor-fiber）",
-  "LinkedIn": "https://www.linkedin.com/company/thor-fiber"
- },
- "signals": [
-  "贴牌型品牌商 + 已有样品/WA 互动（用户表）→ 适合以 Thor 标 OEM 切入 PoE 汇聚交换机（其目录缺 8/24 口管理 PoE）"
- ],
- "risks": [
-  "美国品牌商可能要求 UL 列名或 TAA 来源——Saga 仅 CE/RoHS/FCC，需在二封前问清（INH 规则：US 客户第二封前核 UL/TAA）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档"
- },
- "email_hook": "Your F-GET PoE+ fiber extenders pair naturally with an 8-port PoE+ 2-SFP managed switch in Thor packing; one question before I quote: does the switch need FCC only, or UL/TAA as well for your federal buyers?",
- "mail_review": {
-  "binding": {
-   "level": "轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）",
-   "type": "美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP",
-   "sieve": "3（两次问 OEM 价、一次技术门槛）",
-   "stop": "两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回",
-   "revive": "一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品",
-   "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
-   "cadence": "现在一封 OEM 价表；之后季度",
-   "evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）"
-  },
-  "situation": "Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。",
-  "need": "OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。",
-  "breakpoint": "OEM 价格表未给全。",
-  "saga_now": {
-   "p1": "STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表",
-   "tier": 30,
-   "price": "按主表 OEM 30% 档；IGMP 标注",
-   "why": "品牌商 + 明确 OEM 意向 + 美国",
-   "repeat": [],
-   "gaps": [
-    "Thor 目标量",
-    "品牌化范围（logo/固件 GUI/包装）"
-   ]
-  },
-  "next_move": {
-   "when": "现在",
-   "channel": "S 邮箱 → stan@thorfiber.com",
-   "action": "发整表 + 问首批型号",
-   "one_question": "Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?"
-  },
-  "facts": [
-   {
-    "date": "2025-06-26",
-    "dir": "来",
-    "who": "Stan Sochur",
-    "quote": "We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol?",
-    "why": "OEM 意向",
-    "k": "809f837f36d8ac93"
-   },
-   {
-    "date": "2025-06-26",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount",
-    "why": "OEM 价推后",
-    "k": "785f5e7be824e94b"
-   },
-   {
-    "date": "2025-06-28",
-    "dir": "来",
-    "who": "Stan",
-    "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
-    "why": "硬门槛",
-    "k": "dc22cb3479825c92"
-   },
-   {
-    "date": "2025-12-01",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster",
-    "why": "单款报价",
-    "k": "822038afc07c951e"
-   }
+  "code": "SB-003",
+  "name_official": "Thor Fiber / Thor Broadcast（thorfiber.com · thorbroadcast.com；用户表名「DIGI Group」，联系人 Stan）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（thorbroadcast.com 为主站，thorfiber.com 同公司）",
+  "summary": "美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Thor Fiber（自有品牌）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "延长器产品与 PoE 规格",
+      "quote": "F-GET-TRS-POE+A 10/100/100Base-T to 1000Base-FX Single Fiber / Side A -1310nm / PoE+ 802.3 /30W … 14 Slot Chassis available PN: F-Chassis -14",
+      "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "IP 二线延长器规格",
+      "quote": "Thor Fiber H-IP-TP-TX/RX is a high-performance IP over 2-Wire Copper Extender with PoE … PoE transmission up to 500 m (1,640 ft) … Delivers up to 30 W PoE … Input Power 48–57 VDC or PoE Input",
+      "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模、地址、成立年",
+      "quote": "Thor Fiber specializes in manufacture of fiber optic transport equipment and Digital T.V. equipment … Company size: 51-200 employees Headquarters: Torrance, CA … Founded: 2009 … 2421 W 205th St. Torrance, CA 90501",
+      "url": "https://www.linkedin.com/company/thor-fiber",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "S 重点；2 次实质回复、WhatsApp、样品记录；联系人 Stan（stan@thorfiber.com）",
+      "quote": "（用户表字段：实质回复 2 / WA / 样品 / 跟进 22）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网目录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Thor Fiber（Thor Broadcast）",
+    "hq": "2421 W 205th St, Torrance, CA 90501, USA",
+    "founded": "2006（LinkedIn 记 2009）",
+    "size": "51–200（LinkedIn 自报）",
+    "other": "由广播工程师创立，主打光纤传输（L-band、头端、卫星电视）与以太网延长；产品页风格为贴牌目录（型号前缀 F-/H-），Markertek 等分销有售"
+  },
+  "business_lines": [
+    "广播/头端光纤传输设备",
+    "以太网光纤 / 二线 延长器（含 PoE/PoE+）",
+    "光纤机箱与配件（14 槽机箱）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Thor Fiber",
+      "model": "F-GET-TRS-POE+A/B",
+      "spec": "10/100/1000T ↔ 1000Base-FX 单纤 A/B 端，PoE+ 802.3at 30W；14 槽机箱 F-Chassis-14",
+      "url": "https://thorbroadcast.com/product/10-100-1000-mbps-fast-and-gigabit-ethernet-over-1-fiber-media-8230.html",
+      "date": "2026-10-21",
+      "saga": "STI-110GE（同类 MC）/ STC-28DGGPM（含 SFP 上联的 PoE 汇聚）"
+    },
+    {
+      "brand": "Thor Fiber",
+      "model": "H-IP-TP-TX/RX",
+      "spec": "IP over 2-wire 延长器，500 m，PoE 30W，物理层 240 Mbps / 实际 90 Mbps，48–57 VDC 或 PoE 供电",
+      "url": "https://thorbroadcast.com/es/producto/ip-over-2-wire-copper-extender-with-poe.html",
+      "date": "2026-10-21",
+      "saga": "—（Saga 无同类；可配 STC-28DGGPM 作局端 PoE 源）"
+    }
+  ],
+  "channels": {
+    "网站": "https://thorbroadcast.com/ · thorfiber.com",
+    "分销": "Markertek（brand/thor-fiber）",
+    "LinkedIn": "https://www.linkedin.com/company/thor-fiber"
+  },
+  "signals": [
+    "贴牌型品牌商 + 已有样品/WA 互动（用户表）→ 适合以 Thor 标 OEM 切入 PoE 汇聚交换机（其目录缺 8/24 口管理 PoE）"
+  ],
+  "risks": [
+    "美国品牌商可能要求 UL 列名或 TAA 来源——Saga 仅 CE/RoHS/FCC，需在二封前问清（INH 规则：US 客户第二封前核 UL/TAA）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档"
+  },
+  "email_hook": "Your F-GET PoE+ fiber extenders pair naturally with an 8-port PoE+ 2-SFP managed switch in Thor packing; one question before I quote: does the switch need FCC only, or UL/TAA as well for your federal buyers?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）",
+      "type": "美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP",
+      "sieve": "3（两次问 OEM 价、一次技术门槛）",
+      "stop": "两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回",
+      "revive": "一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品",
+      "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
+      "cadence": "现在一封 OEM 价表；之后季度",
+      "evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）"
+    },
+    "situation": "Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。",
+    "need": "OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。",
+    "breakpoint": "OEM 价格表未给全。",
+    "saga_now": {
+      "p1": "STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表",
+      "tier": 30,
+      "price": "按主表 OEM 30% 档；IGMP 标注",
+      "why": "品牌商 + 明确 OEM 意向 + 美国",
+      "repeat": [],
+      "gaps": [
+        "Thor 目标量",
+        "品牌化范围（logo/固件 GUI/包装）"
+      ]
+    },
+    "next_move": {
+      "when": "现在",
+      "channel": "S 邮箱 → stan@thorfiber.com",
+      "action": "发整表 + 问首批型号",
+      "one_question": "Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?"
+    },
+    "facts": [
+      {
+        "date": "2025-06-26",
+        "dir": "来",
+        "who": "Stan Sochur",
+        "quote": "We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol?",
+        "why": "OEM 意向",
+        "k": "809f837f36d8ac93"
+      },
+      {
+        "date": "2025-06-26",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount",
+        "why": "OEM 价推后",
+        "k": "785f5e7be824e94b"
+      },
+      {
+        "date": "2025-06-28",
+        "dir": "来",
+        "who": "Stan",
+        "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
+        "why": "硬门槛",
+        "k": "dc22cb3479825c92"
+      },
+      {
+        "date": "2025-12-01",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster",
+        "why": "单款报价",
+        "k": "822038afc07c951e"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: OEM prices — managed industrial PoE with IGMP",
+      "body": "Hi, Stan,\n\nYou asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:\n\n- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)\n- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — list $137.5 USD, OEM tier on the sheet\n- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — list $423.5 / $517 USD, OEM tier on the sheet\n\nAll three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.\n\nOne question: which two SKUs do you want to brand first for the Thor catalog?\n\nThank you.\nSimon"
+    },
+    "as_of": "2026-10-24"
+  }
 }

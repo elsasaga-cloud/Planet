@@ -198,25 +198,24 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Re: customization and API — straight answer
 
 ```text
-Hi Christopher,
+Hi, Christopher,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Thank you for your interest in customization and API access for controller integration.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $196.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Straight answer: today the switches are managed by SNMP v2/v3 (standard MIBs + private OID), CLI (SSH, scriptable) and the web GUI; there is no REST API or cloud controller. OEM customization covers logo, model name, GUI, default config and packaging.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+The 24-port GbE PoE 280W + 4x 10G SFP+ unit is $180 USD EXW (quoted Oct 2026, valid 15 days).
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which controller or NMS are you integrating with (e.g. LibreNMS/Zabbix, or a vendor controller)? Then I can confirm exactly what it can poll and set.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

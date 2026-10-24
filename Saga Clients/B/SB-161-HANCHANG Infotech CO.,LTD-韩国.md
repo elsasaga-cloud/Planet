@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：韩国 HANCHANG Infotech（hcin4.com / rfoint.com；表内「Volktek 的；会英文 PoE switch；自己的 logo 主要是商业 FS，别人在卖他们家的」；KP Peter Youn（Director，070-4306-9494 / 82-10-5336-2982）、Park）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Volktek的；会英文 POE switch；自己的logo 主要是商业FS  别人在卖他们家的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-16 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价；按 2026Q2 CENTEC 价表
-- **第一问（只问一个）**：Peter — the 2026 CENTEC list is final (attached); for the Volktek-class access range we can also quote the 24-port 10G-uplink L2+ under your label.
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）
+- **第一问（只问一个）**：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 list; is the first project 10G/25G aggregation or 100G core?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 A 邮箱 → jryoun74@hcin4.com 补价
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC 核心/汇聚 + 商用 FS 贴标。
 - **断点 / 为什么停在这里**：Saga 未补价。
-- **Saga 现在该推什么**：P1 **STH 系列 + STC-424XGGPM**（30% 档，按 2026Q2 CENTEC 价表）——品牌商 + 主动要价
+- **Saga 现在该推什么**：P1 **STH 系列 + STC-424XGGPM**（30% 档，2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17））——品牌商 + 主动要价
 - **下一步（具体）**：现在　A 邮箱 → jryoun74@hcin4.com　补价
-  - 第一问（只问一个）：Peter — the 2026 CENTEC list is final (attached); for the Volktek-class access range we can also quote the 24-port 10G-uplink L2+ under your label.
+  - 第一问（只问一个）：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 list; is the first project 10G/25G aggregation or 100G core?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -254,25 +254,28 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Re: price for CENTEC core/aggregation + 24-port access
 
 ```text
-Hi Peter,
+Hi, Peter,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Peter, for the PoE switches you sell under your own label, we can be a second source alongside your Taiwanese supplier — Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which model do your resellers reorder most?
+You asked for prices in January and we did not come back properly — sorry for that.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+CENTEC core/aggregation (L3, VXLAN/EVPN, MPLS, MLAG; MA license pre-installed; hot-swap PSU):
+- STH-32C-HSI, 32x100G — $6,000 USD EXW
+- STH-2C6QX-HSI, 6x40G + 2x100G, half-width — $1,200 USD EXW
+- STH-8C48DX-HSI, 48x25G + 8x100G — $4,800 USD EXW
+(2026 Q2 list; valid 15 days from this mail.)
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+For the Volktek-class access range you sell: 24x1G + 4x10G SFP+ L2+ managed, PoE 280W — $198 USD EXW list, OEM label/GUI possible from 50 pcs (price per 2026-10 table, valid 15 days).
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the first project a 10G/25G aggregation box or a 100G core?
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

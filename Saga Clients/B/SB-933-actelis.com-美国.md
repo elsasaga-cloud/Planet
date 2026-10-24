@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。
 - **断点 / 为什么停在这里**：没有闭环问题。
 - **Saga 现在该推什么**：P1 **STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）**（30% 档，$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档）——上市品牌商 + VP 直联 + 七次回复
-  - 做不了 / 要先核的：2025-10 规格书评审结果；Actelis 真正的补线缺口（它在找什么）
+  - 做不了 / 要先核的：U；L；/；N；E；B；S； ；仓；库；明；确；无； ；→； ；若；对；方；要；求；则；直；接；回；「；无；」
 - **下一步（具体）**：现在　S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）　一句话问评审结论
   - 第一问（只问一个）：Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?
 
@@ -278,21 +278,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: 24-port SFP aggregation switch — one question
 
 ```text
-Hello,
+Hi, Casey,
 
-Picking up our earlier exchange about PoE / industrial switches. For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?
+Last October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+If it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) we priced at $500 USD in April 2025 still stands within 15 days of this mail; the aggregation SFP box is priced on request for OEM quantities.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.
+
+Thank you.
+Simon
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,155 +1,156 @@
 {
- "code": "SB-1026",
- "name_official": "Etic Telecom（etictelecom.com，法国）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Etic Telecom（自产）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "产品线构成",
-   "quote": "Our product lines Machine Access Box RAS Family Industrial VPN router IPL Family Ethernet extender XSLAN/XELAN Family VPN servers SIG Family SHDSL tactical switch XSMIL family",
-   "url": "https://www.etictelecom.com/en/",
-   "date": "2024-01-03"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司历史与市场",
-   "quote": "Etic Telecom designs and markets safe, simple, robust and low consumption products … Since 1985, we have been active in the water, energy, transportation, urban infrastructure and industry 4.0 markets. Etic Telecom is a European player designing and selling Telecom Products (routers, VPN servers, gateways, SHDSL switches, modem).",
-   "url": "https://www.etictelecom.com/en/about-us/",
-   "date": "2024-08-20"
-  },
-  {
-   "kind": "官网新闻",
-   "claim": "国防客户（守界依据）",
-   "quote": "Airbus Defense & Space chooses Etic Telecom technologies … has chosen Etic Telecom technologies (IPL routers and Ethernet extender XSLAN) for networking barracks and mobile operational equipment.",
-   "url": "https://www.etictelecom.com/en/airbus-defense-space-chooses-etic-telecom-technologies/",
-   "date": "2020-07-09"
-  },
-  {
-   "kind": "用户表",
-   "claim": "S 重点；1 次实质回复；22 次跟进；用户判定不行；联系人 Charles Chaussonnier",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Charles Chaussonnier",
-   "role": "联系人（用户表）",
-   "email": "charles.chaussonnier@etictelecom.com",
-   "phone": "—",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网产品线核对）"
- },
- "company_facts": {
-  "legal_name": "Etic Telecom",
-  "founded": "1985",
-  "hq": "France（官网未列详细地址于摘要）",
-  "other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）"
- },
- "business_lines": [
-  "工业 VPN 路由器与远程维护（IPL / RAS / SIG）",
-  "SHDSL / SPE 以太网延长器（XSLAN / XELAN）",
-  "军规战术通信（XSMIL；守界：不参与）"
- ],
- "products_seen": [
-  {
-   "brand": "Etic Telecom",
-   "model": "IPL-E-100 / IPL-E-400 / IPL-E-220",
-   "spec": "工业路由器 IP31 金属壳 DIN 导轨，10 条 VPN，SPI 防火墙，−20~+70 ℃，QoS/VLAN",
-   "url": "https://www.etictelecom.com/en/etic-product/ipl-e-100/",
-   "date": "2024-12-09",
-   "saga": "—（路由器，Saga 无）"
-  },
-  {
-   "brand": "Etic Telecom",
-   "model": "XSLAN+1xxx/2xxx/4xxx · XSMIL-4200",
-   "spec": "工业级 1/2/4 口 SHDSL 以太网交换机；XSMIL-4200 军规",
-   "url": "https://www.etictelecom.com/wp-content/uploads/2021/01/DOC_DEV_XS_Setup_guide_C.pdf",
-   "date": "2021-01-01",
-   "saga": "—（SHDSL 介质，Saga 无）"
-  }
- ],
- "channels": {
-  "网站": "https://www.etictelecom.com/en/"
- },
- "signals": [
-  "唯一可能的切入点：其工业路由器/延长器需要配套的 DIN 导轨千兆管理 PoE 交换机（产品线空白）→ OEM 补线（Etic 标或中性）；但用户已判定「不行」，仅作低频备案"
- ],
- "risks": [
-  "军规/国防客户（Airbus Defence & Space、XSMIL）→ 守界，仅限水务/能源等民用线",
-  "制造商兼潜在竞争者；用户判定不行 → 不主动推进"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）"
- },
- "email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?",
- "mail_review": {
-  "binding": {
-   "level": "轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回）",
-   "type": "法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型",
-   "sieve": "3（三档量询价）",
-   "stop": "他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本",
-   "revive": "重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清）",
-   "lane": "FR 主攻",
-   "cadence": "一封重报",
-   "evidence": "k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）"
-  },
-  "situation": "客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。",
-  "need": "DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。",
-  "breakpoint": "贸易条款与阶梯价。",
-  "saga_now": {
-   "p1": "STI-42424XGGPM 三档 DAP 价",
-   "tier": 30,
-   "price": "按主表 OEM 30% 档 + 百运网 DAP",
-   "why": "法国品牌商 + 真询价",
-   "repeat": [],
-   "gaps": [
-    "DAP 法国运费/关税估算"
-   ]
-  },
-  "next_move": {
-   "when": "现在",
-   "channel": "S 邮箱 → charles.chaussonnier@etictelecom.com",
-   "action": "重报三档 DAP",
-   "one_question": "Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?"
-  },
-  "facts": [
-   {
-    "date": "2024-05-22",
-    "dir": "来",
-    "who": "Charles Chaussonnier",
-    "quote": "What is the price DDP for 10, 50, 100 units?",
-    "why": "三档量询价",
-    "k": "1e2c24b00883813d"
-   },
-   {
-    "date": "2024-05-22",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
-    "why": "条款错位",
-    "k": "320115425c459bcb"
-   }
+  "code": "SB-1026",
+  "name_official": "Etic Telecom（etictelecom.com，法国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Etic Telecom（自产）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "产品线构成",
+      "quote": "Our product lines Machine Access Box RAS Family Industrial VPN router IPL Family Ethernet extender XSLAN/XELAN Family VPN servers SIG Family SHDSL tactical switch XSMIL family",
+      "url": "https://www.etictelecom.com/en/",
+      "date": "2024-01-03"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司历史与市场",
+      "quote": "Etic Telecom designs and markets safe, simple, robust and low consumption products … Since 1985, we have been active in the water, energy, transportation, urban infrastructure and industry 4.0 markets. Etic Telecom is a European player designing and selling Telecom Products (routers, VPN servers, gateways, SHDSL switches, modem).",
+      "url": "https://www.etictelecom.com/en/about-us/",
+      "date": "2024-08-20"
+    },
+    {
+      "kind": "官网新闻",
+      "claim": "国防客户（守界依据）",
+      "quote": "Airbus Defense & Space chooses Etic Telecom technologies … has chosen Etic Telecom technologies (IPL routers and Ethernet extender XSLAN) for networking barracks and mobile operational equipment.",
+      "url": "https://www.etictelecom.com/en/airbus-defense-space-chooses-etic-telecom-technologies/",
+      "date": "2020-07-09"
+    },
+    {
+      "kind": "用户表",
+      "claim": "S 重点；1 次实质回复；22 次跟进；用户判定不行；联系人 Charles Chaussonnier",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Charles Chaussonnier",
+      "role": "联系人（用户表）",
+      "email": "charles.chaussonnier@etictelecom.com",
+      "phone": "—",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网产品线核对）"
+  },
+  "company_facts": {
+    "legal_name": "Etic Telecom",
+    "founded": "1985",
+    "hq": "France（官网未列详细地址于摘要）",
+    "other": "自研自产，欧洲玩家；产品线 RAS / IPL / XSLAN-XELAN / SIG / XSMIL；配置手册公开（SHDSL 交换机 XSLAN+1xxx/2xxx/4xxx，XSMIL-4200 军规 4 口）"
+  },
+  "business_lines": [
+    "工业 VPN 路由器与远程维护（IPL / RAS / SIG）",
+    "SHDSL / SPE 以太网延长器（XSLAN / XELAN）",
+    "军规战术通信（XSMIL；守界：不参与）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Etic Telecom",
+      "model": "IPL-E-100 / IPL-E-400 / IPL-E-220",
+      "spec": "工业路由器 IP31 金属壳 DIN 导轨，10 条 VPN，SPI 防火墙，−20~+70 ℃，QoS/VLAN",
+      "url": "https://www.etictelecom.com/en/etic-product/ipl-e-100/",
+      "date": "2024-12-09",
+      "saga": "—（路由器，Saga 无）"
+    },
+    {
+      "brand": "Etic Telecom",
+      "model": "XSLAN+1xxx/2xxx/4xxx · XSMIL-4200",
+      "spec": "工业级 1/2/4 口 SHDSL 以太网交换机；XSMIL-4200 军规",
+      "url": "https://www.etictelecom.com/wp-content/uploads/2021/01/DOC_DEV_XS_Setup_guide_C.pdf",
+      "date": "2021-01-01",
+      "saga": "—（SHDSL 介质，Saga 无）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.etictelecom.com/en/"
+  },
+  "signals": [
+    "唯一可能的切入点：其工业路由器/延长器需要配套的 DIN 导轨千兆管理 PoE 交换机（产品线空白）→ OEM 补线（Etic 标或中性）；但用户已判定「不行」，仅作低频备案"
+  ],
+  "risks": [
+    "军规/国防客户（Airbus Defence & Space、XSMIL）→ 守界，仅限水务/能源等民用线",
+    "制造商兼潜在竞争者；用户判定不行 → 不主动推进"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）"
+  },
+  "email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回）",
+      "type": "法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型",
+      "sieve": "3（三档量询价）",
+      "stop": "他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本",
+      "revive": "重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清）",
+      "lane": "FR 主攻",
+      "cadence": "一封重报",
+      "evidence": "k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）"
+    },
+    "situation": "客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。",
+    "need": "DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。",
+    "breakpoint": "贸易条款与阶梯价。",
+    "saga_now": {
+      "p1": "STI-42424XGGPM 三档 DAP 价",
+      "tier": 30,
+      "price": "按主表 OEM 30% 档 + 百运网 DAP",
+      "why": "法国品牌商 + 真询价",
+      "repeat": [],
+      "gaps": "DAP 运费按百运网当期报价 → 阶梯表由 Simon 填；仓库不编运费"
+    },
+    "next_move": {
+      "when": "现在",
+      "channel": "S 邮箱 → charles.chaussonnier@etictelecom.com",
+      "action": "重报三档 DAP",
+      "one_question": "Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?"
+    },
+    "facts": [
+      {
+        "date": "2024-05-22",
+        "dir": "来",
+        "who": "Charles Chaussonnier",
+        "quote": "What is the price DDP for 10, 50, 100 units?",
+        "why": "三档量询价",
+        "k": "1e2c24b00883813d"
+      },
+      {
+        "date": "2024-05-22",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
+        "why": "条款错位",
+        "k": "320115425c459bcb"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: 24-port DIN L3 PoE — 10/50/100 pcs, DAP France",
+      "body": "Hi, Charles,\n\nIn May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.\n\n- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +75 C — $517 USD/pc EXW list (2026-10 table, valid 15 days).\n- 10 / 50 / 100 pcs: tiered prices on the attached sheet.\n- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.\n\nOne question: is this still a live requirement for your router bundles, and which quantity should I firm up first?\n\nThank you.\nSimon"
+    },
+    "as_of": "2026-10-24"
+  }
 }

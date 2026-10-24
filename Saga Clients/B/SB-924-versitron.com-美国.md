@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」 — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价
-- **第一问（只问一个）**：Greg — is the stackable line still on your 2027 roadmap, and if so, which is the first SKU you would need (24/48-port 1G access with 10G uplinks, or 10G access with 40/100G stacking)?
+- **第一问（只问一个）**：Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch） 一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
 
@@ -49,9 +49,9 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。
 - **断点 / 为什么停在这里**：承诺与交付之间的 16 个月；以及产品线对不上（AC5 ≠ Catalyst 9300 级堆叠）。
 - **Saga 现在该推什么**：P1 **CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」**（30% 档，按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价）——美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信
-  - 做不了 / 要先核的：Greg 是否仍在职/是否已找到替代（2026-03 后无回）；CENTEC 线堆叠的真实成熟度（固件 7.5 口径：PIM-SM CLI only——堆叠在哪个版本、几台、什么口，要查固件说明再写）
+  - 做不了 / 要先核的：C；E；N；T；E；C； ；堆；叠；能；力；仓；库；无；证；（；Q；2； ；表；功；能；栏；只；列； ；V；X；L；A；N；/；E；V；P；N；/；B；G；P；/；O；S；P；F；/；M；P；L；S；/；M；L；A；G；/；I；P；v；6；）；，；信；里；不；写； ；C；E；N；T；E；C； ；s；t；a；c；k；i；n；g；；；M；L；A；G； ；作；为；替；代；口；径
 - **下一步（具体）**：现在　S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）　一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
-  - 第一问（只问一个）：Greg — is the stackable line still on your 2027 roadmap, and if so, which is the first SKU you would need (24/48-port 1G access with 10G uplinks, or 10G access with 40/100G stacking)?
+  - 第一问（只问一个）：Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -258,25 +258,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Re: 48 port stacking switches — honest status + what we can brand
 
 ```text
-Hi Greg,
+Hi, Greg,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Greg, we don't do stacking — but for the Versitron media-converter and industrial PoE lines we build DIN gigabit MCs and 8-PoE + 2-SFP managed units under your label from small lots (FCC/CE); which SKU family is up for re-sourcing?
+Closing the loop on the stackable line you asked about since 2024.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Honest status: our Marvell AC5 access switches now have stacking in firmware, but they are not a Catalyst 9300-class platform (no dedicated 40/80/100G stack ports, no single-image chassis view across 8 units). I would not put the Versitron name on that claim.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+What we can put your name on today:
+- CENTEC-based L3 switches for the aggregation/core role — 48x25G + 8x100G (STH-8C48DX-HSI, $4,800 USD EXW) and 6x40G + 2x100G half-width (STH-2C6QX-HSI, $1,200 USD EXW), VXLAN/EVPN, MLAG, MPLS, hot-swap PSU, MA license included (2026 Q2 list, valid 15 days).
+- 24/48-port 1G access with 4x10G uplinks (L2+/L3) under your label.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: if the 2027 roadmap still has "stackable", is it the access tier (1G + 10G uplinks) or the aggregation tier where you need it first?
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

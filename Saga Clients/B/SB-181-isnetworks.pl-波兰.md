@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：波兰 IS Networks（计算机网络设计、组装与服务公司，兼售产品：工业以太网交换机、交换机、工业转换器、光纤、CCTV 43；表内「工业 FS / MC / SFP，用了 nnet 的」；KP Marek（marek@is-net.pl））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 用了nnet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-31 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C6QX-HSI / STH-2QX4XF48GP-HSI — CENTEC 对口 + 主动要价；按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含）
-- **第一问（只问一个）**：Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C6QX-HSI / STH-2QX4XF48GP-HSI — CENTEC 对口 + 主动要价；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」
+- **第一问（只问一个）**：Marek — three CENTEC SKUs are priced (32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW, 2026 Q2); which layer are you sizing, 10G/25G aggregation or 100G spine?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串） 补发价表
 
@@ -46,9 +46,10 @@ updated: 2026-10-24
 - **现状一句话**：客户主动要 CENTEC 价格，Saga 说在定价中，然后 Q2 价表出来后没有回头补发。
 - **对方真实需求（有据）**：CENTEC 核心/汇聚（Cisco/Huawei 替代）。
 - **断点 / 为什么停在这里**：Saga 自己的断点。
-- **Saga 现在该推什么**：P1 **STH-2C6QX-HSI / STH-2QX4XF48GP-HSI**（25% 档，按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含））——CENTEC 对口 + 主动要价
+- **Saga 现在该推什么**：P1 **STH-2C6QX-HSI / STH-2QX4XF48GP-HSI**（25% 档，2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」）——CENTEC 对口 + 主动要价
+  - 做不了 / 要先核的：1；0；G； ；系；列；（；S；T；H；-；2；C；2；4；X；F； ；等；）；价；格；仓；库；无； ；→； ；S；i；m；o；n； ；手；上；若；有； ；Q；2； ；完；整；表；则；补；；；信；中；不；写
 - **下一步（具体）**：现在　A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）　补发价表
-  - 第一问（只问一个）：Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?
+  - 第一问（只问一个）：Marek — three CENTEC SKUs are priced (32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW, 2026 Q2); which layer are you sizing, 10G/25G aggregation or 100G spine?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -269,21 +270,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: OEM Core Switch — CENTEC 2026 prices
 
 ```text
-Hi Marek,
+Hi, Marek,
 
-Picking up our earlier exchange about PoE / industrial switches. Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?
+Following your note in February about our CENTEC-based core/aggregation switches — here is what is fixed now, and what I would size for you.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+1. 100G spine: STH-32C-HSI, 32x100G QSFP28, L3 (VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6), 2x hot-swap PSU, MA license pre-installed — $6,000 USD EXW (2026 Q2 list, valid 15 days from this mail).
+2. Compact leaf/spine: STH-2C6QX-HSI, 6x40G + 2x100G, half-width, dual-node — $1,200 USD EXW (same list, same validity).
+3. 48x25G + 8x100G: STH-8C48DX-HSI — $4,800 USD EXW.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+The 10G aggregation models (24x10G SFP+ class) are priced per project; if that is the layer you are sizing, tell me port count and uplink speed and I will quote those directly.
+
+One question: which layer is the replacement for — 10G/25G aggregation or 100G spine?
+
+Thank you.
+Alan
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

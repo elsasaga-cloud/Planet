@@ -919,7 +919,10 @@
 "proof_gaps": [
 "2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "STI-140GE samples — tender result (for the record)",
+"body": "Hi, Sanjay,\n\nFor the record on email, following our WeChat chats: after the STI-110GE / STI-140GE samples with HDR-15-24 power supplies (paid Dec 2025), I would like to know how the tender went.\n\nIf the 1,000-pc supply is still on the table, we can hold price per batch (quotation valid 15 days from issue), ship in lots and keep the same test report for every batch.\n\nOne question: did the samples pass the tender's spec/sample approval, and what target unit price and delivery window are they asking for?\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 },
 "watch": {
@@ -72951,7 +72954,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: OEM prices — managed industrial PoE with IGMP",
+"body": "Hi, Stan,\n\nYou asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:\n\n- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)\n- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — list $137.5 USD, OEM tier on the sheet\n- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — list $423.5 / $517 USD, OEM tier on the sheet\n\nAll three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.\n\nOne question: which two SKUs do you want to brand first for the Thor catalog?\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -86285,9 +86291,7 @@
 "price": "按 CENTEC 底线",
 "why": "美国运营商 + 创始人直联 + 明确技术需求",
 "repeat": [],
-"gaps": [
-"Kyle 的网络规模/现用品牌"
-]
+"gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
 },
 "next_move": {
 "when": "现在",
@@ -86314,7 +86318,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: VXLAN / MPLS — CENTEC-based line",
+"body": "Hi, Kyle,\n\nIn April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.\n\nOur CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:\n- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW\n- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-32C-HSI — 32x100G — $6,000 USD EXW\n(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)\n\nOne question: which role would you test first — a 10G/25G aggregation box or a 100G spine?\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -102888,7 +102895,10 @@
 "报价单价（quotation PDF 未在附件索引中提取）",
 "MOH-TA 是哪国卫生部项目——仅由编号推断"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: MOH-TA-170325 — 24-port industrial PoE x400",
+"body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -115745,9 +115755,7 @@
 "price": "按主表 OEM 30% 档 + 百运网 DAP",
 "why": "法国品牌商 + 真询价",
 "repeat": [],
-"gaps": [
-"DAP 法国运费/关税估算"
-]
+"gaps": "DAP 运费按百运网当期报价 → 阶梯表由 Simon 填；仓库不编运费"
 },
 "next_move": {
 "when": "现在",
@@ -115774,7 +115782,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 24-port DIN L3 PoE — 10/50/100 pcs, DAP France",
+"body": "Hi, Charles,\n\nIn May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.\n\n- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +75 C — $517 USD/pc EXW list (2026-10 table, valid 15 days).\n- 10 / 50 / 100 pcs: tiered prices on the attached sheet.\n- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.\n\nOne question: is this still a live requirement for your router bundles, and which quantity should I firm up first?\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -201784,7 +201795,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: customization and API — straight answer",
+"body": "Hi, Christopher,\n\nThank you for your interest in customization and API access for controller integration.\n\nStraight answer: today the switches are managed by SNMP v2/v3 (standard MIBs + private OID), CLI (SSH, scriptable) and the web GUI; there is no REST API or cloud controller. OEM customization covers logo, model name, GUI, default config and packaging.\n\nThe 24-port GbE PoE 280W + 4x 10G SFP+ unit is $180 USD EXW (quoted Oct 2026, valid 15 days).\n\nOne question: which controller or NMS are you integrating with (e.g. LibreNMS/Zabbix, or a vendor controller)? Then I can confirm exactly what it can poll and set.\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -214254,7 +214268,7 @@
 "saga_now": {
 "p1": "STH 系列 + STC-424XGGPM",
 "tier": 30,
-"price": "按 2026Q2 CENTEC 价表",
+"price": "2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）",
 "why": "品牌商 + 主动要价",
 "repeat": [],
 "gaps": []
@@ -214263,7 +214277,7 @@
 "when": "现在",
 "channel": "A 邮箱 → jryoun74@hcin4.com",
 "action": "补价",
-"one_question": "Peter — the 2026 CENTEC list is final (attached); for the Volktek-class access range we can also quote the 24-port 10G-uplink L2+ under your label."
+"one_question": "Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 list; is the first project 10G/25G aggregation or 100G core?"
 },
 "facts": [
 {
@@ -214276,7 +214290,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: price for CENTEC core/aggregation + 24-port access",
+"body": "Hi, Peter,\n\nYou asked for prices in January and we did not come back properly — sorry for that.\n\nCENTEC core/aggregation (L3, VXLAN/EVPN, MPLS, MLAG; MA license pre-installed; hot-swap PSU):\n- STH-32C-HSI, 32x100G — $6,000 USD EXW\n- STH-2C6QX-HSI, 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-8C48DX-HSI, 48x25G + 8x100G — $4,800 USD EXW\n(2026 Q2 list; valid 15 days from this mail.)\n\nFor the Volktek-class access range you sell: 24x1G + 4x10G SFP+ L2+ managed, PoE 280W — $198 USD EXW list, OEM label/GUI possible from 50 pcs (price per 2026-10 table, valid 15 days).\n\nOne question: is the first project a 10G/25G aggregation box or a 100G core?\n\nThank you.\nAlan"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -221521,16 +221538,16 @@
 "saga_now": {
 "p1": "STH-2C6QX-HSI / STH-2QX4XF48GP-HSI",
 "tier": 25,
-"price": "按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含）",
+"price": "2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」",
 "why": "CENTEC 对口 + 主动要价",
 "repeat": [],
-"gaps": []
+"gaps": "10G 系列（STH-2C24XF 等）价格仓库无 → Simon 手上若有 Q2 完整表则补；信中不写"
 },
 "next_move": {
 "when": "现在",
 "channel": "A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）",
 "action": "补发价表",
-"one_question": "Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?"
+"one_question": "Marek — three CENTEC SKUs are priced (32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW, 2026 Q2); which layer are you sizing, 10G/25G aggregation or 100G spine?"
 },
 "facts": [
 {
@@ -221551,7 +221568,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: OEM Core Switch — CENTEC 2026 prices",
+"body": "Hi, Marek,\n\nFollowing your note in February about our CENTEC-based core/aggregation switches — here is what is fixed now, and what I would size for you.\n\n1. 100G spine: STH-32C-HSI, 32x100G QSFP28, L3 (VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6), 2x hot-swap PSU, MA license pre-installed — $6,000 USD EXW (2026 Q2 list, valid 15 days from this mail).\n2. Compact leaf/spine: STH-2C6QX-HSI, 6x40G + 2x100G, half-width, dual-node — $1,200 USD EXW (same list, same validity).\n3. 48x25G + 8x100G: STH-8C48DX-HSI — $4,800 USD EXW.\n\nThe 10G aggregation models (24x10G SFP+ class) are priced per project; if that is the layer you are sizing, tell me port count and uplink speed and I will quote those directly.\n\nOne question: which layer is the replacement for — 10G/25G aggregation or 100G spine?\n\nThank you.\nAlan"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -320316,9 +320336,7 @@
 "price": "按主表 OEM 30% 档",
 "why": "韩国 ISP 渠道 + Director",
 "repeat": [],
-"gaps": [
-"ISP 名单/年量"
-]
+"gaps": "8 口 PoE 商用 = STC-28DGGPM Saga 列表价 $99（主表；Saga 标 240W、SmartByte 标 120W 电源——报价前核对电源规格）"
 },
 "next_move": {
 "when": "现在",
@@ -320337,7 +320355,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: PoE / non-PoE price bands + ODM proposal",
+"body": "Hi, Peter,\n\nThank you for your note in November — price ranges for PoE / non-PoE access switches and an ODM proposal for the Korean ISP market. Attached: price bands and a one-page ODM scope.\n\n- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $99 USD list (2026-10 table)\n- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $198 USD list\n- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $110 USD list\n- ODM: your logo, model name, web GUI, packaging; MOQ 50 pcs per model; firmware OEM string changes included.\n(All EXW Shenzhen, valid 15 days from this mail.)\n\nOne question: which ISP account would be the first fit, and is it PoE (cameras/APs) or non-PoE (FTTx CPE side)?\n\nThank you.\nAlan"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -409184,7 +409205,7 @@
 "saga_now": {
 "p1": "STC-424… 24 口千兆（非 PoE）对位 GS910/24",
 "tier": 20,
-"price": "$60 EXW 已报；按 47/300 两档重报（主表 20%）",
+"price": "$60 USD EXW（Alan 2026-08-15 报，型号见当日附件，仓库无该附件型号名）；客户目标 $150 为其采购价 → 利润空间在对方；47/300 两档价仓库无依据，信里不另降价（此前 $58/$54 为臆造，已撤）",
 "why": "数量 + 目标价 + 距今 2 个月",
 "repeat": [],
 "gaps": [
@@ -409196,7 +409217,7 @@
 "when": "现在",
 "channel": "A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）",
 "action": "对表 + 样品 + 两档价一次给齐",
-"one_question": "Yair — line-by-line against AT-GS910/24 attached; 47 pcs at $58 and 300/yr at $54 EXW; shall I ship 2 units for your customer to test this month?"
+"one_question": "Yair — $60 USD EXW stands (quoted 2026-08-15); shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?"
 },
 "facts": [
 {
@@ -409225,7 +409246,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 24 Port PoE Managed Switch — AT-GS910/24 replacement, 47 pcs",
+"body": "Hi, Yair,\n\nComing back on the AT-GS910/24 replacement for your customer (47 pcs now, ~300 pcs/year).\n\n- Price stays $60 USD/pc EXW Shenzhen as quoted on 15 Aug 2026 (valid 15 days from this mail); with your customer's $150 target there is room for freight, duty and your margin.\n- The unit is a functional replacement, not a 1:1 clone — the differences are in the datasheet I sent; nothing that affects a 24-port GbE desktop/rack role.\n- We can ship 2 test units this month by DHL (paid samples, credited against the first 47).\n\nOne question: shall I prepare the sample invoice for 2 pcs, or do you want the 47-pc proforma directly?\n\nThank you.\nAlan"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -464308,16 +464332,13 @@
 "price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价",
 "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信",
 "repeat": [],
-"gaps": [
-"Greg 是否仍在职/是否已找到替代（2026-03 后无回）",
-"CENTEC 线堆叠的真实成熟度（固件 7.5 口径：PIM-SM CLI only——堆叠在哪个版本、几台、什么口，要查固件说明再写）"
-]
+"gaps": "CENTEC 堆叠能力仓库无证（Q2 表功能栏只列 VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPv6），信里不写 CENTEC stacking；MLAG 作为替代口径"
 },
 "next_move": {
 "when": "现在",
 "channel": "S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）",
 "action": "一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在",
-"one_question": "Greg — is the stackable line still on your 2027 roadmap, and if so, which is the first SKU you would need (24/48-port 1G access with 10G uplinks, or 10G access with 40/100G stacking)?"
+"one_question": "Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?"
 },
 "facts": [
 {
@@ -464381,7 +464402,10 @@
 "2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）",
 "Saga 当天附的「stacking」资料是 AC5 还是 CENTEC——附件名未见"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 48 port stacking switches — honest status + what we can brand",
+"body": "Hi, Greg,\n\nClosing the loop on the stackable line you asked about since 2024.\n\nHonest status: our Marvell AC5 access switches now have stacking in firmware, but they are not a Catalyst 9300-class platform (no dedicated 40/80/100G stack ports, no single-image chassis view across 8 units). I would not put the Versitron name on that claim.\n\nWhat we can put your name on today:\n- CENTEC-based L3 switches for the aggregation/core role — 48x25G + 8x100G (STH-8C48DX-HSI, $4,800 USD EXW) and 6x40G + 2x100G half-width (STH-2C6QX-HSI, $1,200 USD EXW), VXLAN/EVPN, MLAG, MPLS, hot-swap PSU, MA license included (2026 Q2 list, valid 15 days).\n- 24/48-port 1G access with 4x10G uplinks (L2+/L3) under your label.\n\nOne question: if the 2027 roadmap still has \"stackable\", is it the access tier (1G + 10G uplinks) or the aggregation tier where you need it first?\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -467255,10 +467279,7 @@
 "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档",
 "why": "上市品牌商 + VP 直联 + 七次回复",
 "repeat": [],
-"gaps": [
-"2025-10 规格书评审结果",
-"Actelis 真正的补线缺口（它在找什么）"
-]
+"gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"
 },
 "next_move": {
 "when": "现在",
@@ -467293,7 +467314,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 24-port SFP aggregation switch — one question",
+"body": "Hi, Casey,\n\nLast October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.\n\nIf it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) we priced at $500 USD in April 2025 still stands within 15 days of this mail; the aggregation SFP box is priced on request for OEM quantities.\n\nOne question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.\n\nThank you.\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }

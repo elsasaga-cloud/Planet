@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。
 - **断点 / 为什么停在这里**：贸易条款与阶梯价。
 - **Saga 现在该推什么**：P1 **STI-42424XGGPM 三档 DAP 价**（30% 档，按主表 OEM 30% 档 + 百运网 DAP）——法国品牌商 + 真询价
-  - 做不了 / 要先核的：DAP 法国运费/关税估算
+  - 做不了 / 要先核的：D；A；P； ；运；费；按；百；运；网；当；期；报；价； ；→； ；阶；梯；表；由； ；S；i；m；o；n； ；填；；；仓；库；不；编；运；费
 - **下一步（具体）**：现在　S 邮箱 → charles.chaussonnier@etictelecom.com　重报三档 DAP
   - 第一问（只问一个）：Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?
 
@@ -280,25 +280,24 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Re: 24-port DIN L3 PoE — 10/50/100 pcs, DAP France
 
 ```text
-Hi Charles,
+Hi, Charles,
 
-Picking up our earlier exchange about PoE / industrial switches. （用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?
+In May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Etic Telecom IPL-E-100 / IPL-E-400 / IPL-E-220 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +75 C — $517 USD/pc EXW list (2026-10 table, valid 15 days).
+- 10 / 50 / 100 pcs: tiered prices on the attached sheet.
+- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: is this still a live requirement for your router bundles, and which quantity should I firm up first?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

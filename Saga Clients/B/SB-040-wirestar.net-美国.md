@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：运营商汇聚：VXLAN/MPLS + 控制器。
 - **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
 - **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线）——美国运营商 + 创始人直联 + 明确技术需求
-  - 做不了 / 要先核的：Kyle 的网络规模/现用品牌
+  - 做不了 / 要先核的：N；E；T；C；O；N；F；/；控；制；器； ；A；P；I； ；仓；库；无；证； ；→； ；信；里；只；写； ；C；L；I；/；S；N；M；P；；；1；0；G； ；汇；聚；型；号；无；价； ；→； ；不；写
 - **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵
   - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
 
@@ -237,25 +237,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Re: VXLAN / MPLS — CENTEC-based line
 
 ```text
-Hi Kyle,
+Hi, Kyle,
 
-Picking up our earlier exchange about PoE / industrial switches. For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?
+In April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $188.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Our CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:
+- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW
+- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW
+- STH-32C-HSI — 32x100G — $6,000 USD EXW
+(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: which role would you test first — a 10G/25G aggregation box or a 100G spine?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
