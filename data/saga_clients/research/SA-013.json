@@ -304,7 +304,9 @@
       "gaps": [
         "媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
         "交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
-        "PEN/OID 维持 SmartByte（Q-45 默认不动）"
+        "PEN/OID 维持 SmartByte（Q-45 默认不动）",
+        "FTTH 10G 用户侧 ONT/MC（2×10G + 4×2.5G 低成本）——NYNEX 2025-10 明确要，Saga 还没给出对位型号与价",
+        "PI 默认附 EUR 收款账户（2026-10-06 又问了一次）"
       ]
     },
     "next_move": {
@@ -411,6 +413,14 @@
         "k": "gmail_s 2024-12-12 RE: 48 Port PoE Managed Switch"
       },
       {
+        "date": "2025-02-11",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "we're using the BDCOM models S2900-24T4X-2AC and S2900-24S8C4X-2AC… we did some basic testing and found several issues: No way of monitoring the power supplies (we want to know if one has failed so we can schedule a replacement before the second one fails). No monitoring of the fan speed. No temperature monitoring…",
+        "why": "NYNEX 的现役机是 BDCOM 双电源 24 口 10G 上联；对 Saga 首批样机的核心不满 = 电源/风扇/温度三项可观测性——这直接决定了第二单要双电源 + 风扇监控，也是 Saga 后来《双电源风扇监控》卖点稿的来源",
+        "k": "gmail_s 2025-02-11 RE: Testing Feedback"
+      },
+      {
         "date": "2025-03-07",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -419,12 +429,28 @@
         "k": "27536178aa9a5ed0"
       },
       {
+        "date": "2025-03-18",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "looking forward to your alleycat5 based models, please consider adding standard tachometer/PWM fan monitoring/control + temperature monitoring too. The most important missing SNMP MIBs are LLDP neighbors via the LLDP-V2-MIB… and transceiver DDM monitoring data… Regarding the media converter: 10G fiber only with 10/100/1000/2.5G/5G/10G base-t is exactly what we're looking for, but the marvel based media converter we have was not able to handle e.g. 1G base-T with 10G BASE-X",
+        "why": "AC5 需求清单（风扇转速/PWM/温度 + LLDP-V2-MIB + DDM）；10G 光电 MC 必须支持「光口固定 10G、电口 1G/2.5G/5G/10G 自适应」——03-19/21/22 连续三封教 Simon 怎么测（一台 MC + 一台 10G 交换机、光口固定 10G）",
+        "k": "gmail_s 2025-03-18 RE: Testing Feedback"
+      },
+      {
         "date": "2025-03-25",
         "dir": "去",
         "who": "Saga（Simon）",
         "quote": "Hi, Frederik, Peter has explained the situation in a separate email. I will take over. 1, Please see attached SNMP file and let us know if upgrading is necessary. 2, Temperature monitoring code SWITCH#enterdebug SWITCH(debug)#show diagnostic temperature Dev 0 Temperature 80. This is for our internal…",
         "why": "Saga 实质答复原文（主题「Re: Testing Feedback」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
         "k": "1f56b62cdf57550a"
+      },
+      {
+        "date": "2025-03-25",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "can you please explain how Saga Telecom/Smart bytes are related exactly (I've to inform our compliance department)? Ok, the switch returns a few extra SNMP values which do not resolve with the provided MIB files: enterprises.56813… enterprises.171…",
+        "why": "合规部门要 Saga 与 SmartByte 的关系说明（T29-U15 的 NYNEX 安排由此而来）；残留 OID 问题 Saga 于 04-01 以「mib问题处理」回复（56813/171 已移除）",
+        "k": "gmail_s 2025-03-25 RE: Testing Feedback"
       },
       {
         "date": "2025-03-26",
@@ -467,6 +493,14 @@
         "k": "6683b4837e2e4d62"
       },
       {
+        "date": "2025-09-15",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "can you provide pricing details and a datasheet/manual…? sounds good, can you arrange a sample order for 1 unit (including shipping) with dual AC power supplies? What's the lead time?… forwarded it to accounting for payment. It would be great if you could arrange production of the enclosure before payment arrives.",
+        "why": "AC5 样机当天三封：要价→要 1 台双 AC 样机→已交财务付款并请先开工做外壳（09-30 付款）——决策链短、信任度高，是「较深」的行为证据",
+        "k": "gmail_s 2025-09-15 RE: Marvell Alleycat5 Solution"
+      },
+      {
         "date": "2025-09-23",
         "dir": "去",
         "who": "Saga 内部（双电源风扇监控.docx，2nd order）",
@@ -481,6 +515,14 @@
         "quote": "Money has been sent. Attached you find the bank note (Money-transfer[102833].pdf)… Can you clarify if this model is just an updated PCB with added fan and PSU monitoring or is it using a complete new marvel chip? Which chip is used?",
         "why": "AC5 方案订单付款凭证；客户在付款当天追问是「换板加风扇/电源监控」还是「全新 Marvell 芯片」——NYNEX 对芯片代际敏感（后来 LibreNMS 以 sysObjectID 识别 SmartByte OS）",
         "k": "gmail_s 2025-09-30 Re: Marvell Alleycat5 Solution"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "Are you aware of any marvel alternative to the Realtek RTL8373 (2 x 10G, 4 x 2.5G) chip? We're looking for a low cost switch solution with 2x 10G ports and up to 4 x 2.5G ports… (10-23) we intend to use them as Media Converter/ONT for our FTTH deployment. We want to upgrade from 1G to 10G active ethernet but many customers are using older routers supporting only 1G… only aware of the Realtek RTL8372/RTL8373 and MaxLinear MxL86252S/MxL86282S based solutions",
+        "why": "新品类需求：FTTH 10G 有源以太网的用户侧 ONT/MC（2×10G + 4×2.5G 低成本）——数量级是「每个用户一台」。Saga 的 STC-15XGDGE/2+4 2.5G web 管理机（Simon 2024-10 推过 Teltronix）是最接近的现货；Realtek 线 STC-2xx 2.5G 可对位",
+        "k": "gmail_s 2025-10-15 RE: Marvell Alleycat5 Solution"
       },
       {
         "date": "2025-10-21",
@@ -499,12 +541,28 @@
         "k": "e59436a1a5d05de6"
       },
       {
+        "date": "2025-11-11",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "they did some basic testing and will install the unit in a production environment soon. They asked for the latest SNMP MIB version. Two trees do not resolve: .1.3.6.1.4.1.57430.1.2.4.* (temperature?) .1.3.6.1.4.1.57430.1.10.*… SNMP sysObjectID is not used correctly… (11-13) how did you implement the fan monitoring… sense pin RPM or current measurement? (11-18) if it's based on RPM you could use the ENTITY-SENSOR-MIB standard… any network monitoring system would be able to pick up these sensors",
+        "why": "第二单样机进生产环境；NYNEX 工程师逐项审 MIB（PEN 57430 = Saga/SmartByte 私有树、sysObjectID、风扇 RPM 用标准 ENTITY-SENSOR-MIB）——这些建议后来体现在 7.4.7 OID 修正与 LibreNMS 的 SmartByte 识别（Q-45）",
+        "k": "gmail_s 2025-11-11 RE: Marvell Alleycat5 Solution"
+      },
+      {
         "date": "2025-11-15",
         "dir": "去",
         "who": "Saga（Simon）",
         "quote": "Hi, Frederik, Thanks for your feedback. 1, Currently, there is no such feature as counting the fan speed, of any kind!! 2, For fan status, it is only about \"normal\" and “failure” When it works normally, there is \"high\" and \"low\" status for fan speed. When it f",
         "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：",
         "k": "eb14772778a52488"
+      },
+      {
+        "date": "2025-12-10",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/temperature)… (12-17) can you double check the firmware file you sent, while it has another checksum… it shows the same version/build date: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… Vendor OID is still 0",
+        "why": "固件迭代中的回归（风扇出来了、CPU/内存/电源/温度没了；Vendor OID 仍为 0）——NYNEX 替 Saga 做了 QA；这种客户最忌「发错文件」，每次 BIN 要附 checksum + 变更说明",
+        "k": "gmail_s 2025-12-10 RE: Marvell Alleycat5 Solution"
       },
       {
         "date": "2025-12-18",
@@ -553,6 +611,14 @@
         "quote": "Hi, Frederik, After confirmation, conclusions are as below 1. Best offer is 2015RMB/PC USD offer: 300USD/PC, this is from the exchange rate: 1:6.71 EUR offer: 265.2EUR/PC, this is from the exchange rate: 1:7.6 2. Please see attached quotation in EUR. 3. Produc",
         "why": "历史报价点（主题「Re: Saga Marvell AC5 Series Fully Ready」；第 20 批从 gmail_s 回补）：300USD",
         "k": "074a700ad4b10bf7"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "can you share your euro bank account please?",
+        "why": "20 台订单付款前要欧元账户（10-15 已付）——给德国客户的 PI 默认带 EUR 收款信息，省一个来回",
+        "k": "gmail_s 2026-10-06 Re: Saga Marvell AC5 Series Fully Ready"
       },
       {
         "date": "2026-10-15",

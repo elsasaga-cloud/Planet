@@ -278,6 +278,14 @@
         "k": "gmail_a att Quotation_2025.12.09.pdf"
       },
       {
+        "date": "2025-12-09",
+        "dir": "来",
+        "who": "Ender Bulut（Netaş，技术）",
+        "quote": "We would like to request three sample units. Ideally, two of them can be the industrial version and one can be the rugged version… We plan to use these units for our laboratory tests and subsequently for POC activities with our clients… Please disregard my previous note about the rugged version — I mixed up the related solutions. The industrial-grade model is fine for us… Yes, I mean quotation, including product and shipping cost etc.",
+        "why": "3 台样机的用途是「实验室测试 → 客户 POC」，不是自用；Ender 把 rugged（加固）和 industrial 搞混后自行更正——说明 Netaş 内部同时在看别家加固方案；Burak 12-24「The PI is approved… We don't require any logo or anything else at the outset」= 首单中性机",
+        "k": "gmail_a 2025-12-09 / 12-24 RE: Industrial L2/L3 Managed Switch"
+      },
+      {
         "date": "2025-12-23",
         "dir": "来",
         "who": "Burak Özdemir（采购）",
@@ -342,6 +350,14 @@
         "k": "gmail_a att Dekont-2026-01-13"
       },
       {
+        "date": "2026-01-15",
+        "dir": "来",
+        "who": "Ender Bulut（Netaş）",
+        "quote": "Once we receive the switches, we will carry out our laboratory tests and then schedule a demo with our customers. If they confirm that the products meet their requirements, we plan to proceed with th[e project]… (2026-02-25) Tomorrow, we will have a meeting with our customer, during which we expect to collect any new requirements and address their questions. We will also provide a short demonstration of your product. At this stage, we do not yet have a defined plan or sol[ution]",
+        "why": "成单后的真实状态：样机在 Netaş 实验室过了，2026-02-26 给其客户做演示，「还没有确定的方案/计划」——此后到 2026-10 没有项目消息（只有季度合规信）。下一步问的就是这次客户演示的后续，不是推新品",
+        "k": "gmail_a 2026-01-15 / 2026-02-25"
+      },
+      {
         "date": "2026-01-21",
         "dir": "来",
         "who": "Ender Bulut",
@@ -356,6 +372,14 @@
         "quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
         "why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
         "k": "gmail_a att ordino ekinde çıkan ft.pdf"
+      },
+      {
+        "date": "2026-01-27",
+        "dir": "来",
+        "who": "Özlem Şahin（Netaş 物流/清关）",
+        "quote": "We kindly ask you to provide the following information required for customs clearance; Brand: Manufacturer:",
+        "why": "清关要「品牌 + 制造商」两栏——中性机报什么品牌/制造商是每个土耳其订单都会遇到的问题，应在 PI 阶段预先写好（与 Angora TronX 单「buyer's model for customs」同一类）",
+        "k": "gmail_a 2026-01-27 YNT: Industrial L2/L3 Managed Switch"
       },
       {
         "date": "2026-01-29",

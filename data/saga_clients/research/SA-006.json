@@ -192,11 +192,12 @@
     "saga_now": {
       "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
       "tier": 25,
-      "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd",
+      "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）",
       "why": "C3：ISP 千台级是「拼命单」且价格主导",
       "repeat": [],
       "gaps": [
-        "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定"
+        "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定",
+        "无风扇版 5/8 口 10G 多千兆（2024-09-04 问过，Saga 未答）"
       ]
     },
     "next_move": {
@@ -295,12 +296,28 @@
         "k": "fa2d4aedda431ffa"
       },
       {
+        "date": "2024-07-22",
+        "dir": "来",
+        "who": "Au Wai Choon（Resonant Networks，新加坡）",
+        "quote": "Wow, it looks like Cisco SMB Switch GUI interface. Let me get back to you on this.",
+        "why": "第一反应是 Web GUI 像 Cisco SMB——对东南亚集成商，「界面像大牌」本身就是卖点；可直接用在给 ISP/集成商的首封里",
+        "k": "gmail_s 2024-07-22 Re: 10G MultiGig switch"
+      },
+      {
         "date": "2024-07-23",
         "dir": "去",
         "who": "Saga（Simon）",
         "quote": "Hi, Au, Yes, most suppliers are approaching some famous brands from the GUI interface and product outlook. This is trendy, its about replacement(similar features, similar outlook, but much lower prices). Please let me know if there is news from your side.…",
         "why": "Saga 实质答复原文（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
         "k": "7dd13e7c8f2a221e"
+      },
+      {
+        "date": "2024-08-20",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "We spoke to an ISP in SG. They are selling very well XGPON services using 10G TP-Link routers (about 50 per day). I would like to show them a demo unit of 8*10G RJ45, downward compatible (100M/1G/2.5G/5G), Non-PoE, Web managed…",
+        "why": "演示机的目标客户 = 新加坡 XGPON ISP（每天卖 50 台 10G 路由器）；8×10G 多千兆交换机是给 ISP 用户侧/机房的配套——这条线后来输给 TP-Link（2025-11-11「lost to TP-Link… about half the price」）",
+        "k": "gmail_s 2024-08-20 Re: 10G MultiGig switch"
       },
       {
         "date": "2024-08-21",
@@ -335,6 +352,22 @@
         "k": "c7034f814c362836"
       },
       {
+        "date": "2024-09-04",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "The 8-port switch is with fan too? If yes, do you have a model without fan for either 5 and 8 port switch?… (09-05) Manufacturer: Resonant Networks (R ~Nets)… (08-22) Model Name: R ~Nets 10U-MG, There is a space between R and ~",
+        "why": "贴牌细节：R ~Nets 品牌（空格位置都要对）、型号 10U-MG、Manufacturer 写 Resonant；对风扇噪音敏感（后来 09-09「The fan is quiet」）——无风扇版 5/8 口 10G 是一个明确的产品缺口",
+        "k": "gmail_s 2024-09-04 Re: PO | SGP250051"
+      },
+      {
+        "date": "2024-09-09",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "Received. The switch is good, it can support ERPS and Loopback! The fan is quiet. BTW regarding the loopback feature, is it Layer 2 (Ethernet Loopback), meaning it automatically swap the source and destination MAC address?",
+        "why": "演示机验收通过（ERPS/环回/风扇静音），追问环回是否 L2 MAC 交换——ISP 侧做链路测试的习惯问法",
+        "k": "gmail_s 2024-09-09 Re: PO | SGP250051"
+      },
+      {
         "date": "2024-09-10",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -349,6 +382,30 @@
         "quote": "Hi, Au, Thanks for your information. Below is the unit price we can do for you. USD$140: 5-port managed USD$195: 8-port managed USD$170: 8-port unmanaged For a bulk order, lets discuss. Example: its 185usd for the sample unit(8-port managed), as I explained be",
         "why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：$140 / $195 / $170",
         "k": "ee373c9b9e537f8e"
+      },
+      {
+        "date": "2024-09-11",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "Kindly confirm your price to us for 10G MultiGig switch: 1. USD$145: 5-port managed 2. USD$200: 8-port managed 3. USD$170: 8-port unmanaged. Separately TP-Link equivalent switch has arrived in Singapore. The prices in Singapore Dollar (dealer price from Singapore distributor) are as follows…（09-12）We've sent the demo switch for customer testing. Hope to secure the volume before TP Link flood the market with even lower price.",
+        "why": "2024-09 价格锚：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（客户复述 Saga 报价）；同一天给出 TP-Link 新加坡经销价作对照——价格战从一开始就明牌",
+        "k": "gmail_s 2024-09-11 10G MultiGig Price"
+      },
+      {
+        "date": "2024-10-28",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "Yes we do (industrial PoE) but not at the moment. BTW, do you have a factory manufacture the switches or you are a reseller?",
+        "why": "「你是工厂还是转售」被直接问——按 Saga.md 口径答「Engineering-led trade & customization」而不是回避；此户已知道答案，后续不必再包装",
+        "k": "gmail_s 2024-10-28 Re: Industrial PoE Switch"
+      },
+      {
+        "date": "2024-12-11",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "We are still working on the opportunity of the 10/100/1000/2500/5000/10000 Mbps switch. The ISP is still testing it.… (2025-04-08) We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first.… (2025-07-08 Hairomee) the customer's evaluation took longer than anticipated. Hopefully, the requirement will be expected this month.",
+        "why": "ISP 评估从 2024-09 拖到 2025-07（中间还要配 IP 摄像头一起测）→ 2025-11 输给 TP-Link。周期 14 个月、结果为负——给「ISP 年度预算」类客户的节奏参考",
+        "k": "gmail_s 2024-12-11 Re: 48 Port PoE Managed Switch / 10G MultiGig Price"
       },
       {
         "date": "2025-03-14",
