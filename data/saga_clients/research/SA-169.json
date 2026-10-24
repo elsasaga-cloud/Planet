@@ -164,9 +164,9 @@
       ],
       "gaps": [
         "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
-        "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核",
+        "MQTT：7.5 L2+ 功能表 ☑（Message Queuing Telemetry Transport）——已核，不用再问 Simon；要问 James 的是 SCOUT 侧要什么 Topic/字段",
         "电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James",
-        "2.5G/mGig PoE+ 双电源机架型号：AC5 线有无对应（STC-2xx 2.5G 系列 + 双电源需核）"
+        "2.5G/mGig PoE+ 双电源机架：AC5 无；CENTEC STH-8DX24VP-HSI / STH-2C24XP-HSI（双 CRPS，无价，Q-56）；单电源便宜路径 Realtek STC-624XGDGPM $396——已核"
       ]
     },
     "next_move": {
