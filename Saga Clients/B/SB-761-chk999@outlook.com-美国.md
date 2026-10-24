@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：美国亚特兰大（+1 678）个人/小型买家（Outlook 邮箱，2022 年注册 Alibaba）：需求「1 光 8 口工业 PoE 傻瓜式（非管理）」；WhatsApp 加不上；1 次回复后 14 次跟进无果。（调研 2026-10-21；表内兴趣：1光8工业PoE傻瓜式 2022年注册Alibaba）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 14 次（2025-02-08 → 2025-10-31）；最近一次客户回复：1030：支持https吗
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺；—
+- **第一问（只问一个）**：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：视固件 S 邮箱 查后再答
+- **下一步**：2026-11 S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」） 两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,9 +48,10 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：HTTPS 管理 + 第三方证书。
 - **断点 / 为什么停在这里**：功能缺口。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺
   - 做不了 / 要先核的：固件 7.5 HTTPS 状态
-- **下一步（具体）**：视固件　S 邮箱　查后再答
+- **下一步（具体）**：2026-11　S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）　两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
+  - 第一问（只问一个）：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -220,21 +221,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: 10G Ethernet Web Managed Switch — HTTPS now supported
 
 ```text
-Hi Cha,
+Hi, Chavan,
 
-Picking up our earlier exchange about PoE / industrial switches. For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?
+In October 2024 you asked whether the 10G web-managed switch supports HTTPS and third-party certificates, and at that time the answer was no.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+Closing the loop: HTTPS web management (IPv4/IPv6) is now standard on our Marvell AC5 units with firmware 7.5, together with SSH2, SNMP v3 and SFTP. Third-party certificate upload I will confirm on the exact model before you order, so you are not surprised.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: is the 10G web-managed switch still on your list? If yes, tell me the port mix and I will send the current datasheet and price.
+
+Thank you.
+Simon
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
