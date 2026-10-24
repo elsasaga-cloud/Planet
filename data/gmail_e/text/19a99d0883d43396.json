@@ -1,0 +1,18 @@
+{
+ "id": "19a99d0883d43396",
+ "thread_id": "19727cfcb1e984cb",
+ "message_id_header": "<CAOQGph9Ev7eBpyfLujmBCb3Yr9EhmRN8WGHNp+on5XGvzhPpYg@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "\"dep. compras\" <depcomprascronte@gmail.com>",
+ "cc": "None",
+ "subject": "Re: NEW SUPPLYER",
+ "date": "Wed, 19 Nov 2025 09:52:52 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Edgar,\nYes, let's talk here.\n1, I shared some links before, including full info.\n2, Any interested models or any project available?\nThank you.",
+ "char_count": "235",
+ "attachments": "[]",
+ "note": "SB-971：Edgar 11-19 换 gmail 再来（原文未入库），Elsa 答「就在邮件谈」+ 反问型号/项目 → 无下文",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:22Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

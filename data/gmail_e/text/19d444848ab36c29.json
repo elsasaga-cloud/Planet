@@ -1,0 +1,18 @@
+{
+ "id": "19d444848ab36c29",
+ "thread_id": "19d2e8790a06ebf5",
+ "message_id_header": "<CAOQGph9E1hZNZrt8CN1M65990CiweqXqumZL+QQKk9+PLnUgHQ@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Yogendra Rajput <yogendra.rajput@maplecloudtechnologies.com>",
+ "cc": "DevRay Sales <sales@devray.in>",
+ "subject": "Re: Marvell Managed Commercial Switches",
+ "date": "Tue, 31 Mar 2026 22:24:40 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Yogendra,\nPlease check attached links for more information,\nIt includes almost everything.\nSKD is fine with us.\nLet's talk after your review.\nThank you.",
+ "char_count": "267",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 57792}, {'filename': 'Product Link_2026Q2.pdf', 'mime_type': 'application/pdf', 'size': 241754}]",
+ "note": "SC-1835 Devray（C）：Elsa 书面答「SKD is fine with us」——对印度客户的 SKD 承诺口径之一（与 HFCL SB-178 的 SKD→CKD 口径一致）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:22Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

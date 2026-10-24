@@ -201155,7 +201155,7 @@
 "revive": "不动",
 "lane": "PK",
 "cadence": "不动",
-"evidence": "k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回"
+"evidence": "k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回（正文已入库，第 73 批：只给下载链接）"
 },
 "situation": "—",
 "need": "—",
@@ -201198,6 +201198,14 @@
 "quote": "Right now no need sample. We requested to you if you want we promote your product in Pakistan it's owned for us. First of all please guide us your product function and how to used it. Then we introduced your product to our clients",
 "why": "Elsa 邮箱 2025-02-28「Mini Industrial PoE Switch」群发的回信：不是买家，是想做巴基斯坦推广/代理、要先学产品；Elsa 04-08 再回（正文未入库）。与 2024-05「send me your website」一致 = 两次都停在「给我资料」。用户表「有回复·跟进中」的来源就是这两封；没有任何询价/数量 → 维持不动，除非他报出一个具体项目",
 "k": "gmail_e index_replied 2025-02-28 / 2025-04-08"
+},
+{
+"date": "2025-04-08",
+"dir": "去",
+"who": "Elsa",
+"quote": "Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png）",
+"why": "对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变",
+"k": "gmail_e 19614d7a8d5db131"
 }
 ],
 "proof_gaps": [],

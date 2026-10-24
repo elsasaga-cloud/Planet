@@ -1,0 +1,18 @@
+{
+ "id": "1972f0c800bf06e4",
+ "thread_id": "19727cfcb1e984cb",
+ "message_id_header": "<CAOQGph9O5Lh1ovwmQxrzbSDPH65b2GHzXdVgvZJCLs9vxvM9YQ@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "\"Dep. compras\" <depcompras@cronte.net>",
+ "cc": "None",
+ "subject": "Re: NEW SUPPLYER",
+ "date": "Mon, 2 Jun 2025 13:10:39 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Edgar,\nThanks for your information.\nWe do switches, please see attached links and check the information.\nThank you.",
+ "char_count": "122",
+ "attachments": "[{'filename': 'Download Link_Alan.pdf', 'mime_type': 'application/pdf', 'size': 108874}]",
+ "note": "SB-971 Cronte（Edgar，采购部）「NEW SUPPLYER」→ Elsa 只给链接",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:22Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

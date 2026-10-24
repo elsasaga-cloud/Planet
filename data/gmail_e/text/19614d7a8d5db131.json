@@ -1,0 +1,18 @@
+{
+ "id": "19614d7a8d5db131",
+ "thread_id": "1952b705a4729d39",
+ "message_id_header": "<CAOQGph_LxVCjiQ24fvqrvKMWQhTxbUog9Go-6OiLB2LcVkvE+Q@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "waseem shah <powerlogic1965@gmail.com>",
+ "cc": "None",
+ "subject": "Re: Mini Industrial PoE Switch",
+ "date": "Tue, 8 Apr 2025 18:00:00 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Waseem,\nPlease see attached download link file.\nEach link contains full information about our products.\nPlease check and let me know the interested models.\nThank you.",
+ "char_count": "256",
+ "attachments": "[{'filename': 'MINI.png', 'mime_type': 'image/png', 'size': 713505}, {'filename': 'Download Link.pdf', 'mime_type': 'application/pdf', 'size': 108856}]",
+ "note": "SB-1275：Waseem 02-28 来信 → Elsa 04-08 才回（隔 39 天），只给下载链接 → 无下文",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:22Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}
