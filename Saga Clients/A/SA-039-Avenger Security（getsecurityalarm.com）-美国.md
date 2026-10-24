@@ -1,4 +1,4 @@
-# Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）
+# Avenger Security（getsecurityalarm.com）
 **官方名称（调研核实）**：Avenger Security / Security Tekton（Austin & Hutto, Texas）
 
 > **评级 A**　|　美国　|　档案编号 `SA-039`　|　优先级 ★★★　|　状态：有回复·跟进中
@@ -69,7 +69,7 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Avenger Security / getsecurityalarm.com（Brandon 私人邮箱） | 事实（用户表） |
+| 名称 | Avenger Security（getsecurityalarm.com） | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | getsecurityalarm.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/安装商（小型，自装自用采购） | 推断（据兴趣/备注关键词） |
@@ -224,7 +224,7 @@ updated: 2026-10-24
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | A Replied 09.04.xlsx#总表:6 | 5 | https://getsecurityalarm.com/products/8-PoE-port-switch-with-2-port-uplink?variant=42832283500721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZe3XZl0SDYPw5y_7Z7_SClJ6xLf5U2GwEua_nCeEPWR5x4JC_jLU | 美国 | Brandon Walter Adams<br>Owner | 谷歌 | 商业PoE | info@getsecurityalarm.com<br>brandon@getsecurityalarm.com | C: (512) 563-5361 | 2 条 |
-| 补录客户.jsonl#(补录):17 | AS-补录-2026-10-24-03 | Avenger Security / getsecurityalarm.com（Brandon 私人邮箱） | 美国 | Brandon Walter Adams | 补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞） | 2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」） | brandonwadams@gmail.com; brandon@getsecurityalarm.com https://getsecurityalarm.com | 同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属 Owner | — |
+| 补录客户.jsonl#(补录):17 | AS-补录-2026-10-24-03 | Avenger Security（getsecurityalarm.com） | 美国 | Brandon Walter Adams | 补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞） | 2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」） | brandonwadams@gmail.com; brandon@getsecurityalarm.com https://getsecurityalarm.com | 同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属 Owner | — |
 
 ## 产品决策（Saga · 单一决策口径）
 

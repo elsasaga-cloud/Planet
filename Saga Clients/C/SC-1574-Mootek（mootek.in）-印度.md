@@ -1,4 +1,4 @@
-# Mootek（印度，销售 gmail）
+# Mootek（mootek.in）
 
 > **评级 C**　|　印度　|　档案编号 `SC-1574`　|　优先级 —　|　状态：名单内·未触达
 >
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | Mootek（印度，销售 gmail） | 事实（用户表） |
+| 名称 | Mootek（mootek.in） | 事实（用户表） |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | mootek.in | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
@@ -88,7 +88,7 @@ updated: 2026-10-24
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | E/群发/筛选后质量一般的_群发.xlsx#India:14 | 13 | https://www.mootek.in/category/industrial-ethernet-switches/industrial-unmanaged-switches | 印度 | Raj | 海关数据 | 三旺 长飞 | raj@mootek.in |  | — |
-| 补录客户.jsonl#(补录):20 | AS-补录-2026-10-24-06 | Mootek（印度，销售 gmail） | 印度 | Raj | 补录：S 邮箱 2024-07-19 mooteksales@gmail.com 回「Our official email has changed to raj@mootek.in」（第 70 批(i)） | 无实质需求，只是改邮箱通知 | mooteksales@gmail.com; raj@mootek.in https://mootek.in | 同一实体 SC-1574；本行只为把 mooteksales@gmail.com 并入该实体邮箱 | — |
+| 补录客户.jsonl#(补录):20 | AS-补录-2026-10-24-06 | Mootek（mootek.in） | 印度 | Raj | 补录：S 邮箱 2024-07-19 mooteksales@gmail.com 回「Our official email has changed to raj@mootek.in」（第 70 批(i)） | 无实质需求，只是改邮箱通知 | mooteksales@gmail.com; raj@mootek.in https://mootek.in | 同一实体 SC-1574；本行只为把 mooteksales@gmail.com 并入该实体邮箱 | — |
 
 ## 跟进建议
 

@@ -1,4 +1,4 @@
-# DIGIDIS（Abdellah，gmail）
+# DIGIDIS（Abdellah）
 
 > **评级 C**　|　未填　|　档案编号 `SC-5320`　|　优先级 —　|　状态：名单内·未触达
 >
@@ -40,7 +40,7 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | DIGIDIS（Abdellah，gmail） | 事实（用户表） |
+| 名称 | DIGIDIS（Abdellah） | 事实（用户表） |
 | 国家 | 未填 | 事实（用户表）|
 | 网站/域名 | — | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
@@ -84,7 +84,7 @@ updated: 2026-10-24
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
-| 补录客户.jsonl#(补录):19 | AS-补录-2026-10-24-05 | DIGIDIS（Abdellah，gmail） | 法语区（国别未证实，邮件法文时间戳） | Abdellah | 补录：S 邮箱有真人回复但不在客户表（第 70 批(i) 免费邮箱回复扫描） | 2024-03-15 回 Simon「Commercial poe switch」（8 口千兆 PoE 管理型）：「could you please send me your catalogue product」；Simon 当天发目录（第 18 页 Drive 链接 + 价表）；2024-06-22 Simon 再跟一封无回 | a.digidis@gmail.com | 全程 3 封（2 去 1 来，2024-03-15 / 06-22）；非重点区域、无公司域名、单次问目录——只入库记录，不跟 | — |
+| 补录客户.jsonl#(补录):19 | AS-补录-2026-10-24-05 | DIGIDIS（Abdellah） | 未知（法语区） | Abdellah | 补录：S 邮箱有真人回复但不在客户表（第 70 批(i) 免费邮箱回复扫描） | 2024-03-15 回 Simon「Commercial poe switch」（8 口千兆 PoE 管理型）：「could you please send me your catalogue product」；Simon 当天发目录（第 18 页 Drive 链接 + 价表）；2024-06-22 Simon 再跟一封无回 | a.digidis@gmail.com | 全程 3 封（2 去 1 来，2024-03-15 / 06-22）；非重点区域、无公司域名、单次问目录——只入库记录，不跟 | — |
 
 ## 跟进建议
 

@@ -9687,10 +9687,10 @@
 }
 },
 {
-"name": "LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）",
+"name": "LLC DEUTSCHE IMPORT",
 "name_src": "company",
 "names": [
-"LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）"
+"LLC DEUTSCHE IMPORT"
 ],
 "country": "乌克兰",
 "iso": "UA",
@@ -9703,7 +9703,6 @@
 "urls": [
 "www.germany24.com.ua",
 "www.planet.kiev.ua",
-"germany24.com.ua",
 "https://germany24.com.ua"
 ],
 "platform_links": [],
@@ -9789,7 +9788,7 @@
 "补录",
 "归属补洞"
 ],
-"company": "LLC DEUTSCHE IMPORT / germany24.com.ua（Sergiy 私人邮箱）",
+"company": "LLC DEUTSCHE IMPORT",
 "country": "乌克兰",
 "person": "Sergiy Khodun",
 "from": "补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现）",
@@ -19374,10 +19373,10 @@
 }
 },
 {
-"name": "Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）",
+"name": "Avenger Security（getsecurityalarm.com）",
 "name_src": "company",
 "names": [
-"Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）"
+"Avenger Security（getsecurityalarm.com）"
 ],
 "country": "美国",
 "iso": "US",
@@ -19473,7 +19472,7 @@
 "补录",
 "归属补洞"
 ],
-"company": "Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）",
+"company": "Avenger Security（getsecurityalarm.com）",
 "country": "美国",
 "person": "Brandon Walter Adams",
 "from": "补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞）",
@@ -599864,10 +599863,10 @@
 "grade": "C"
 },
 {
-"name": "Mootek（印度，销售 gmail）",
+"name": "Mootek（mootek.in）",
 "name_src": "company",
 "names": [
-"Mootek（印度，销售 gmail）"
+"Mootek（mootek.in）"
 ],
 "country": "印度",
 "iso": "IN",
@@ -599954,7 +599953,7 @@
 "补录",
 "归属补洞"
 ],
-"company": "Mootek（印度，销售 gmail）",
+"company": "Mootek（mootek.in）",
 "country": "印度",
 "person": "Raj",
 "from": "补录：S 邮箱 2024-07-19 mooteksales@gmail.com 回「Our official email has changed to raj@mootek.in」（第 70 批(i)）",
@@ -866720,10 +866719,10 @@
 "grade": "C"
 },
 {
-"name": "DIGIDIS（Abdellah，gmail）",
+"name": "DIGIDIS（Abdellah）",
 "name_src": "company",
 "names": [
-"DIGIDIS（Abdellah，gmail）"
+"DIGIDIS（Abdellah）"
 ],
 "country": "未填",
 "iso": "??",
@@ -866779,8 +866778,8 @@
 "免费邮箱",
 "仅问目录"
 ],
-"company": "DIGIDIS（Abdellah，gmail）",
-"country": "法语区（国别未证实，邮件法文时间戳）",
+"company": "DIGIDIS（Abdellah）",
+"country": "未知（法语区）",
 "person": "Abdellah",
 "from": "补录：S 邮箱有真人回复但不在客户表（第 70 批(i) 免费邮箱回复扫描）",
 "interest": "2024-03-15 回 Simon「Commercial poe switch」（8 口千兆 PoE 管理型）：「could you please send me your catalogue product」；Simon 当天发目录（第 18 页 Drive 链接 + 价表）；2024-06-22 Simon 再跟一封无回",

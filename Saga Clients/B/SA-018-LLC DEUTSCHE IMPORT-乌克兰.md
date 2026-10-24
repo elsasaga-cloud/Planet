@@ -1,4 +1,4 @@
-# LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）
+# LLC DEUTSCHE IMPORT
 
 > **评级 B**　|　乌克兰　|　档案编号 `SA-018`　|　优先级 ★★　|　状态：有回复·跟进中
 >
@@ -69,7 +69,7 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱） | 事实（用户表） |
+| 名称 | LLC DEUTSCHE IMPORT | 事实（用户表） |
 | 国家 | 乌克兰 | 事实（用户表）|
 | 网站/域名 | germany24.com.ua / planet.kiev.ua | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
@@ -218,7 +218,7 @@ updated: 2026-10-24
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | S 09.08.xlsx#总表:17 | 16 | www.germany24.com.ua<br>www.planet.kiev.ua | 乌克兰 | Sergey Khodun<br>CEO | 谷歌 | 之前谈了工业FS | info@germany24.com.ua | tel: 38(044)59 37976<br>加不上 | 22 条 |
-| 补录客户.jsonl#(补录):18 | AS-补录-2026-10-24-04 | LLC DEUTSCHE IMPORT / germany24.com.ua（Sergiy 私人邮箱） | 乌克兰 | Sergiy Khodun | 补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现） | OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20） | sergiy.khodun@gmail.com; info@germany24.com.ua https://germany24.com.ua | 同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱 CEO | — |
+| 补录客户.jsonl#(补录):18 | AS-补录-2026-10-24-04 | LLC DEUTSCHE IMPORT | 乌克兰 | Sergiy Khodun | 补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现） | OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20） | sergiy.khodun@gmail.com; info@germany24.com.ua https://germany24.com.ua | 同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱 CEO | — |
 
 ## 产品决策（Saga · 单一决策口径）
 

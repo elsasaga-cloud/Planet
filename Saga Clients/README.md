@@ -85,7 +85,7 @@ C 级细分：群发冷名单无回应 1128；用户判定不行/不相关 548�
 | SA-036 | Addon Computer Products | 美国 | 品牌商/制造商（兼容光模块；MC 等外采贴牌） | 成交过·维护 | 86 | 已 | [SA-036-Addon Computer Products-美国.md](A/SA-036-Addon%20Computer%20Products-美国.md) |
 | SA-037 | fcnet.pl | 波兰 | 分销商/进口商（自有 logo 采购） | 有回复·跟进中 | 85 | 已 | [SA-037-fcnet.pl-波兰.md](A/SA-037-fcnet.pl-波兰.md) |
 | SA-038 | Cable Distribution Services | 澳大利亚 | 分销商（工业线缆；拓展工业交换机） | 有回复·跟进中 | 84 | 已 | [SA-038-Cable Distribution Services-澳大利亚.md](A/SA-038-Cable%20Distribution%20Services-澳大利亚.md) |
-| SA-039 | Avenger Security / getsecurityalarm.com（Brandon 私人邮箱） | 美国 | 安防集成/安装商（小型，自装自用采购） | 有回复·跟进中 | 84 | 已 | [SA-039-Avenger Security getsecurityalarm.com（Br-美国.md](A/SA-039-Avenger%20Security%20getsecurityalarm.com（Br-美国.md) |
+| SA-039 | Avenger Security（getsecurityalarm.com） | 美国 | 安防集成/安装商（小型，自装自用采购） | 有回复·跟进中 | 84 | 已 | [SA-039-Avenger Security（getsecurityalarm.com）-美国.md](A/SA-039-Avenger%20Security（getsecurityalarm.com）-美国.md) |
 | SA-040 | hardenednetworks.com | 美国 | 品牌商/贴牌需求（OEM/ODM）——ITS 加固交换机自有品牌 | 有回复·跟进中 | 84 | 已 | [SA-040-hardenednetworks.com-美国.md](A/SA-040-hardenednetworks.com-美国.md) |
 | SA-041 | Al Salami Trading L.L.C | 阿联酋 | 安防集成商（项目型小批量） | 有回复·跟进中 | 83 | 已 | [SA-041-Al Salami Trading L.L.C-阿联酋.md](A/SA-041-Al%20Salami%20Trading%20L.L.C-阿联酋.md) |
 | SA-043 | entasource.co.th | 泰国 | 进口分销商（自有 logo） | 有回复·跟进中 | 83 | 已 | [SA-043-entasource.co.th-泰国.md](A/SA-043-entasource.co.th-泰国.md) |
