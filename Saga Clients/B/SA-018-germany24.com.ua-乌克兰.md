@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：（加厚挖掘建档，摘要见下文加厚块）（调研 2026-10-21；表内兴趣：之前谈了工业FS）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-20 区域 乌克兰/乌克兰；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：乌克兰（守界：不主动投入，仅被动响应）
 - **历史互动**：实质回复 3 次；推送 22 次（2024-03-21 → 2025-12-29）；最近一次客户回复：2024-11-20：想下单 后续over
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档
 - **第一问（只问一个）**：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（一次） S 邮箱 → sergiy.khodun@gmail.com 两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
@@ -46,16 +46,19 @@ updated: 2026-10-24
 - **现状一句话**：Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。
 - **对方真实需求（有据）**：小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。
 - **断点 / 为什么停在这里**：身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。
-- **Saga 现在该推什么**：P1 **BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线**（30% 档，按 30% 自有标档）——J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线**（30% 档，他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档）——J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：DI order #1.xls 内容未入库；UA 物流（百运网能否到基辅）与付款（T/T 可否）
 - **下一步（具体）**：2026-11（一次）　S 邮箱 → sergiy.khodun@gmail.com　两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
   - 第一问（只问一个）：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-05-27 | 去 | Simon → Sergiy（Re: L3 managed switch） | STI-050FE-M（M = mini）：STI-050FE 的无 DIP 变体，DC12~36V，85×85×30 mm 0.4 kg，**$20/pc**（STI-050FE 本体 $25、STI-080FE $40——Sergiy 5-29 嫌 5 口→8 口差价太大「PLANET 只差 10%」）。 | Sergiy 一直拿 PLANET 当基准（他同时经营 planet.kiev.ua）——对他报价要按「PLANET 同档 −x%」而不是按我们自己的阶梯 | `S 邮箱 2024-05-27（在 05-29 来信引用中）` |
 | 2024-05-29 | 来 | Sergiy Khodun | Do you print labels with our BRAND name, model's name and serial number if we'll be do order regularly about 20-30pcs per models? | 自有标 + 常规量 | `ce8e1aaaf377b7e8` |
+| 2024-05-29 | 去 | Simon → Sergiy（附 Miscellaneous Fee_Saga Telecom.pdf + Label_Saga Telecom.pdf，05-30 补发） | ① STI-080FE 只有 DIP 版（不用可忽略）；② 「that price is just for reference only… For the unit price, we could discuss」；③ 自有 logo 印 PVC 面膜：**$150 / 300 片（MoQ）**（随附《Miscellaneous Fee》写的是 PVC mask MoQ 300 pcs @ $1/pc；COO 产地证 $15/份、发货前 ≥2 个工作日）；型号名 + 序列号印标签**免费**；「we are doing a simple, standard business… serious discussions before finalizing, then things are very easy」。 | OEM 小费用口径的出处之一（`Saga商务条款速查.md` 同源）；注意邮件 $150/300 与 PDF $1/pc×300 = $300 不一致——再报时统一按 PDF | `S 邮箱 2024-05-29 14:22Z / 05-30 05:29Z；附件 sha=6c630744e13c20e8 / 5acc4883e9071d46` |
 | 2024-11-20 | 来 | Sergiy | We are going to do our first order for testing your products. Pls refer to our current BO attached. | BO 递交 | `510ef3ba6b343873` |
 | 2024-11-20 | 去 | Simon | For the listed quantity and models, 7~10 working days… logo… free of cost | 交期与贴牌答复 | `fbd001897a47c982` |
+| 2024-11-20 | 来 | Sergiy（DI order #1.xls，「Samples order form DI」） | 首张测试订单 BO 全文（Saga 型号 → **他的品牌型号 NSI-/NSIM-**，数量 × 他填的目标价）：Realtek 线 STI-050FE→NSI-500F ×20 @$19；STI-054GP-BT→NSI-500GP ×2 @$25；STI-080FE→NSI-800F ×10 @$24；STI-088GP-BT→NSI-800GP ×2 @$41；STI-240GE→NSI-420G ×5 @$31；STI-280GE→NSI-820G ×3 @$46；STI-288GP-BT→NSI-820GP ×2 @$53；Marvell 管理线 STI-240GM→NSIM-420G ×5 @$60；STI-280GM→NSIM-820G ×3 @$70；STI-288GP-BT(管理)→NSIM-820GP ×2 @$80。合计 54 台 ≈ **$1,821**；另附 7 份已改成 NSI 型号名的 datasheet。 | 这是一张**客户自己填价的 OEM 样单**：他给的 050FE $19 / 080FE $24 比 Simon 5 月的 $25 / $40 低 24%~40%——Simon 11-20 回了交期/标签/GUI 但**没有对价格表态**，11-22 他转问「你们是不是工厂」后断了。重启时的两件事：按 BO 逐行回价（可接受/不可接受），并回答工厂问题（口径：Marvell 自研 + 深圳/惠州合作产线，不说贸易商） | `S 邮箱 2024-11-20 13:34Z / 13:52Z；附件 sha=4ad29aabfbcdad16（DI order #1.xls）+ 35edfc3e529f14ca 等 7 份` |
 | 2024-11-22 | 来 | Sergiy | As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right? | 身份追问 = 停点 | `eaa8056ace798022` |
 | 2024-11-22 | 去 | Simon | We are a manufacturer, at the same time, we trade. Marvell solution is what we do/manufacture, while Realtek is from other suppliers(trading). | 当时口径 | `d6c3e30a8869b4c6` |
 
