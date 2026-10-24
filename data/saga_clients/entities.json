@@ -232424,7 +232424,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
+"one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not sell optics on their own (modules only ship together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
 },
 "facts": [
 {
@@ -444676,6 +444676,14 @@
 "quote": "Hi Alan, See the answer to your question Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
 "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "f05ed71fa67e24bc"
+},
+{
+"date": "2026-03-23",
+"dir": "去",
+"who": "Alan（Quotation_2026.03.23.pdf）",
+"quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
+"why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
+"k": "quote"
 },
 {
 "date": "2026-04-23",

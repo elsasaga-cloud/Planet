@@ -266,6 +266,14 @@
         "k": "f05ed71fa67e24bc"
       },
       {
+        "date": "2026-03-23",
+        "dir": "去",
+        "who": "Alan（Quotation_2026.03.23.pdf）",
+        "quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
+        "why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
+        "k": "quote"
+      },
+      {
         "date": "2026-04-23",
         "dir": "来",
         "who": "info@itmsystems.net",
