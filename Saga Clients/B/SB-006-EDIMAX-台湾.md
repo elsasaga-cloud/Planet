@@ -44,8 +44,8 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-006` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续）** ｜ 类型：台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：年度一次 ｜ 通路：TW ｜ 节奏：年度 ｜ 证据：k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
-- **现状一句话**：—
+- **绑定等级：轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续）** ｜ 类型：台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：年度一次 ｜ 通路：TW ｜ 节奏：年度 ｜ 证据：k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）；Jesse 的首封是回 Alan 发给 contact@acelink.com.tw（SB-889 Acelink，讯舟关联公司）的信——两户一条线
+- **现状一句话**：台湾网络品牌商 EDIMAX（讯舟）。2025-07-09 Alan 发给关联公司 Acelink（contact@acelink.com.tw，SB-889）的 16 口 DIN 群发被讯舟业务 Jesse Chen 接住：要目录与价表 → Alan 给链接 → 「We will study your list and feedback to you soon」；之后 Alan 08-22 / 10-20 两次同线程催、2026 年 4 封群发，无回。台湾厂商口径 = OEM/ODM 二供，年度一次即可；Acelink 与 EDIMAX 别分开发。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch））——已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）
@@ -55,6 +55,9 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-07-09 | 来 | jessechen@edimax.com.tw | Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen | 来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `07bd3a88e1d5f61c` |
 | 2025-07-09 | 来 | jessechen@edimax.com.tw | Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen | 来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `b21df8d3abb40eb6` |
+| 2025-07-09 | 去 | Saga（Alan，群发 → contact@acelink.com.tw） | There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. | 引出 Jesse 回复的那封，收件人是 Acelink 不是 EDIMAX | `gmail_a（thr 1836987067716081325）` |
+| 2025-08-22 | 去 | Saga（Alan） | Re: 16 Port Ethernet Switch（同线程催问） | 资料后第一次催，无回 | `gmail_a bdfe1e2f97b68dcb` |
+| 2025-10-20 | 去 | Saga（Alan） | Re: 16 Port Ethernet Switch（同线程第二次催） | 无回；之后转为群发 | `gmail_a 98f870e641fc26ff` |
 
 ## 基本事实（事实/推断/假设分层）
 

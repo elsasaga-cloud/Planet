@@ -84,9 +84,9 @@
       "revive": "年度一次",
       "lane": "TW",
       "cadence": "年度",
-      "evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+      "evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）；Jesse 的首封是回 Alan 发给 contact@acelink.com.tw（SB-889 Acelink，讯舟关联公司）的信——两户一条线"
     },
-    "situation": "—",
+    "situation": "台湾网络品牌商 EDIMAX（讯舟）。2025-07-09 Alan 发给关联公司 Acelink（contact@acelink.com.tw，SB-889）的 16 口 DIN 群发被讯舟业务 Jesse Chen 接住：要目录与价表 → Alan 给链接 → 「We will study your list and feedback to you soon」；之后 Alan 08-22 / 10-20 两次同线程催、2026 年 4 封群发，无回。台湾厂商口径 = OEM/ODM 二供，年度一次即可；Acelink 与 EDIMAX 别分开发。",
     "need": "—",
     "breakpoint": "—",
     "saga_now": {
@@ -119,6 +119,30 @@
         "quote": "Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen",
         "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "b21df8d3abb40eb6"
+      },
+      {
+        "date": "2025-07-09",
+        "dir": "去",
+        "who": "Saga（Alan，群发 → contact@acelink.com.tw）",
+        "quote": "There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation.",
+        "why": "引出 Jesse 回复的那封，收件人是 Acelink 不是 EDIMAX",
+        "k": "gmail_a（thr 1836987067716081325）"
+      },
+      {
+        "date": "2025-08-22",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Re: 16 Port Ethernet Switch（同线程催问）",
+        "why": "资料后第一次催，无回",
+        "k": "gmail_a bdfe1e2f97b68dcb"
+      },
+      {
+        "date": "2025-10-20",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Re: 16 Port Ethernet Switch（同线程第二次催）",
+        "why": "无回；之后转为群发",
+        "k": "gmail_a 98f870e641fc26ff"
       }
     ],
     "proof_gaps": [],

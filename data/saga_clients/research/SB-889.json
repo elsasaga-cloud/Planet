@@ -73,11 +73,11 @@
   "email_hook": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 14 封 2024→2026，其中 3 封被打开，0 回；收件 contact@acelink.com.tw；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "level": "已由 EDIMAX 代答（2025-07-09 Alan 发 contact@acelink.com.tw 的「16 Port Ethernet Switch」，回信来自 EDIMAX 讯舟 Jesse Chen（SB-006）「Can you send product catalogue and price list」→ 链接 → 「We will study your list」；Acelink 是讯舟的关联公司，contact@ 由讯舟业务接——本户与 SB-006 只算一条线；此外 A/S 箱 14 封群发无人回）",
       "type": "台湾网络 ODM/品牌商（台湾厂商口径二供）",
       "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "stop": "资料给出后无回（见 SB-006）；两户同时群发等于一封信发两遍",
+      "revive": "只走 SB-006 Jesse Chen 一条线；本户不再单独发",
       "lane": "台湾 非主攻",
       "cadence": "一封；回了再说",
       "evidence": "gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）"
@@ -94,12 +94,20 @@
       "gaps": []
     },
     "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → contact@acelink.com.tw",
-      "action": "短信一问（email_hook）",
-      "one_question": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?"
+      "when": "不单独发（并入 SB-006）",
+      "channel": "—",
+      "action": "后续只对 SB-006 Jesse Chen；本户从群发名单去重",
+      "one_question": ""
     },
     "facts": [
+      {
+        "date": "2025-07-09",
+        "dir": "来",
+        "who": "EDIMAX Jesse Chen（jessechen@edimax.com.tw，回 Acelink contact@ 收到的信）",
+        "quote": "Hi Alan, Can you send product catalogue and price list for my reference?（引文：To: contact@acelink.com.tw Subject: 16 Port Ethernet Switch）",
+        "why": "证明 Acelink 的 contact@ 由讯舟业务接管——两户是同一集团",
+        "k": "gmail_a b21df8d3abb40eb6"
+      },
       {
         "date": "2026-09-04",
         "dir": "去",

@@ -34,24 +34,24 @@ updated: 2026-10-24
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-18 → 2025-10-20）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-06)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $65（10g fiber media converter）、2025-04-18 $300（48 Port PoE Managed Switch）
-- **第一问（只问一个）**：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11 A 邮箱 → contact@acelink.com.tw 短信一问（email_hook）
+- **下一步**：不单独发（并入 SB-006） — 后续只对 SB-006 Jesse Chen；本户从群发名单去重
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-889` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 14 封 2024→2026，其中 3 封被打开，0 回；收件 contact@acelink.com.tw；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：台湾网络 ODM/品牌商（台湾厂商口径二供） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：台湾 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
+- **绑定等级：已由 EDIMAX 代答（2025-07-09 Alan 发 contact@acelink.com.tw 的「16 Port Ethernet Switch」，回信来自 EDIMAX 讯舟 Jesse Chen（SB-006）「Can you send product catalogue and price list」→ 链接 → 「We will study your list」；Acelink 是讯舟的关联公司，contact@ 由讯舟业务接——本户与 SB-006 只算一条线；此外 A/S 箱 14 封群发无人回）** ｜ 类型：台湾网络 ODM/品牌商（台湾厂商口径二供） ｜ 筛子：2（有人在读，无人回） ｜ 停点：资料给出后无回（见 SB-006）；两户同时群发等于一封信发两遍 ｜ 复活：只走 SB-006 Jesse Chen 一条线；本户不再单独发 ｜ 通路：台湾 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
 - **现状一句话**：台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。
 - **对方真实需求（有据）**：台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）
 - **断点 / 为什么停在这里**：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $65（10g fiber media converter）、2025-04-18 $300（48 Port PoE Managed Switch））——台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-06)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → contact@acelink.com.tw　短信一问（email_hook）
-  - 第一问（只问一个）：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
+- **下一步（具体）**：不单独发（并入 SB-006）　—　后续只对 SB-006 Jesse Chen；本户从群发名单去重
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-07-09 | 来 | EDIMAX Jesse Chen（jessechen@edimax.com.tw，回 Acelink contact@ 收到的信） | Hi Alan, Can you send product catalogue and price list for my reference?（引文：To: contact@acelink.com.tw Subject: 16 Port Ethernet Switch） | 证明 Acelink 的 contact@ 由讯舟业务接管——两户是同一集团 | `gmail_a b21df8d3abb40eb6` |
 | 2026-09-04 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 14 封 / 3 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-04（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE POE配件较多 | 表内备注 | `用户表` |
 
