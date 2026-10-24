@@ -21,13 +21,13 @@ replies: 0
 followups: 7
 first_contact: 2025-02-22
 last_contact: 2025-09-17
-s_mail: 1 msgs (out 1 / in 0), 2025-01-17 -> 2025-01-17
+s_mail: 35 msgs (out 21 / in 14), 2025-01-17 -> 2026-08-14
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,33 @@ updated: 2026-10-23
 - **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-22；表内兴趣：MC SFP 无源产品）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：已成单 + 网店有 27 款 MC 类目 → 千兆 MC（STI-110GE）作为网店 SKU 补位；8 口 PoE（STC-28DGGPM）进 Network Hardware 类目；电商 20% 档；TAA 需求一律不报；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：他 2025-07 买的 8 口工业 PoE 同款（型号以 PI 为准） — 转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）；样机 2 台已成交（A 总览 §3）；批量报价按 CNY ×1.2 ÷ 6.69 快照另写
+- **第一问（只问一个）**：Did the two 8-port industrial PoE samples end up in a project or in your GSA catalog, and what was missing if not?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 中旬 A 邮箱 只问样机去向（进目录了吗、哪个项目），不发新品
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-064` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（2 台样机已付已收）** ｜ 类型：美国政府/企业 IT 转售商（GSA MAS 至 2027-07-25）（混合：先问价再要样） ｜ 筛子：3（PayPal 付样、收货） ｜ 停点：对方不需要 / 无回音——2025-07 样机到手后未再来信；Alan 2026-05/07/08 三次单向推送（10G L3、Q3 链接、24 口 PoE $170）无回 ｜ 复活：52 Networks 拿到联邦/州项目（GSA 渠道）；或对方对 24 口 PoE $170 报价有反应 ｜ 通路：US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge） ｜ 节奏：最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成 ｜ 证据：A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档
+- **现状一句话**：美国 52 Networks（John Davis，Director Sales，VA）2025-07-11 回群发问「anything similar to」他附的 1U 非管理机 → 两天内问价、问含电源价 → 7-17 要 2 台样机 + PayPal 链接 → 7-18 付款 → 7-22/23 催货 → 7-24「Thanks」后沉默。**典型美国转售商试样：两周内付钱，之后没有项目就没有声音。**
+- **对方真实需求（有据）**：① 8 口工业 PoE（附 1U 非管理机图样，可能是替代某现有 SKU）；② 含电源整套报价；③ 快（反复问 how soon）。
+- **断点 / 为什么停在这里**：样机之后没有项目触发；Saga 三次推送都是通用新品（10G L3 / Q3 链接 / 24 口 PoE），没有针对他 7 月那款 8 口工业 PoE 的回访（样机用得怎样、是否进了目录）。
+- **Saga 现在该推什么**：P1 **他 2025-07 买的 8 口工业 PoE 同款（型号以 PI 为准）**（20% 档，样机 2 台已成交（A 总览 §3）；批量报价按 CNY ×1.2 ÷ 6.69 快照另写）——转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）
+  - 复购/在买项：8 口工业 PoE 样机 ×2（2025-07）
+  - 做不了 / 要先核的：美国项目若要 TAA/UL：Saga 不做 UL（INH 规则），TAA 产地问题要先问清——不主动承诺
+- **下一步（具体）**：2026-11 中旬　A 邮箱　只问样机去向（进目录了吗、哪个项目），不发新品
+  - 第一问（只问一个）：Did the two 8-port industrial PoE samples end up in a project or in your GSA catalog, and what was missing if not?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-07-11 | 来 | John Davis（52 Networks） | Do you have anything similar to that?（附 1U Unmanaged 图） | 需求来源 = 替代某现有 SKU | `3cce90c065ca8ce5` |
+| 2025-07-17 | 来 | John Davis | Can you send me a sample for 2? Shipping Address: 5142 Meeting pl woodbridge VA 22193 And let me know how to pay? | 样机决策快 | `34e665593ab1c50f` |
+| 2025-07-18 | 来 | John Davis | I just made the payment | PayPal 成交 | `41a1bbbe8f213553` |
+| 2026-08-14 | 去 | Alan | Marvell AC5 based L2+ switch… 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC | 最近一次报价点（群发式） | `9fc5dd871aabe856` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-07 分片在重跑范围内：Alan 7-12/7-18 的报价原文待补（当前分片 2025-07 只有 154 KB）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -164,13 +187,20 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-17 → 2025-01-17　|　**最后去信**：2025-01-17
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 21 / 来 14）　|　**期间**：2025-01-17 → 2026-08-14　|　**最后去信**：2026-08-14
 - **对方邮箱**：sales@52networks.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-07-24 sales@52networks.com「Re: 8 Port Industrial PoE Switch」：Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:
 - **邮件里报过的价**：2025-01-17 $240
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-22 | 2026-05-22 | 0 | 1 | 1 |
+| New Product Links | 2026-02-04 | 2026-02-04 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-14 | 2026-01-14 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-07-11 | 2025-09-17 | 14 | 14 | 31 |
 | 24 Port Fiber Switch | 2025-01-17 | 2025-01-17 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
@@ -298,12 +328,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

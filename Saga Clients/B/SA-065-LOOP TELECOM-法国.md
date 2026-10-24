@@ -22,13 +22,13 @@ replies: 1
 followups: 20
 first_contact: 2024-05-03
 last_contact: 2025-12-01
-s_mail: 8 msgs (out 8 / in 0), 2024-06-25 -> 2025-01-09
+s_mail: 22 msgs (out 20 / in 2), 2024-06-25 -> 2026-09-07
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -138,21 +138,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-25 → 2025-01-09　|　**最后去信**：2025-01-09
-- **对方邮箱**：henri@looptelecom.com、innotrans@looptelecom.com、sandy_tsaih@looptelecom.com
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2024-06-25 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：eric-piaget@looptelecom.com、henri@looptelecom.com、innotrans@looptelecom.com、sandy_tsaih@looptelecom.com
+- **最后一封来信**：2025-12-04 eric-piaget@looptelecom.com「RE: Booster PoE Switch」：Hi Alan, No need now, just for information . Thanks Best regards/Cordialement Eric PIAGET V.P. Marketing Sales EMEA & India LOOP TELECOM Mobile +33(0)6 67 67 10 45 <mailto:eric-piaget@looptelecom.com> eric-piaget@looptelecom.com - FRANCE – UTC+2 <http://www.lo
 - **邮件里报过的价**：2024-12-18 $240；2024-11-25 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-10 | 2026-03-10 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-28 | 2026-02-05 | 2 | 5 | 11 |
+| 10G Enterprise SFP Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-02-20 | 2025-02-20 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-09 | 2025-01-09 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2024-12-18 | 2024-12-18 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-10-30 | 2024-10-30 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-09-12 | 2024-09-12 | 0 | 1 | 1 |
-| 10G unmanaged switch | 2024-08-18 | 2024-08-18 | 0 | 1 | 1 |
-| Industrial network switch | 2024-07-23 | 2024-07-23 | 0 | 1 | 1 |
-| 8 port Ethernet switch | 2024-06-25 | 2024-06-25 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -280,12 +285,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 76）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 76）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

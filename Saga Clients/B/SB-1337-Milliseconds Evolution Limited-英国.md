@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1337` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1337` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：伦敦 Milliseconds Evolution（Iyiola Folayan，MikroTik 顾问 20 年、公司新成立）。2026-09-29 回群发问目录与「Can we work as your distributor in the UK?」；Simon 09-30 回「先合作再谈分销」+ 资料包；10-03 给样机政策；10-17 对方给地址，Simon 开 **2 台 STC-424XGGPM-280W 样品 PI STSC-20261017-001（$180/台）**；同日对方回「unable to make the payment now… only proceed when I have a project」；Simon 10-19「Let's wait then」。
 - **对方真实需求（有据）**：想做 Saga 英国转售伙伴，但没有现金/项目；真正需要的是**一个能用 Saga 机型投标的项目**和 MikroTik 用户听得懂的对比资料（CLI/功能/价格 vs CRS3xx）。
@@ -240,12 +240,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,13 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-07-07
 last_contact: 2025-07-07
-s_mail: 13 msgs (out 10 / in 3), 2024-07-08 -> 2024-12-11
+s_mail: 24 msgs (out 20 / in 4), 2024-07-08 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -128,18 +128,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：13 封（去 10 / 来 3）　|　**期间**：2024-07-08 → 2024-12-11　|　**最后去信**：2024-12-11
-- **对方邮箱**：briticom@briticom.net、wadii@teltronix.net
-- **最后一封来信**：2024-10-02 wadii@teltronix.net「RE: Power Converter」：Can you show us a drawing of a network where this product will fit/install?? Thanks Best Regards Wadii TELTRONIX \| BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DB14FE.8DF39080]<briticom.net> Please click here<https://www.linkedin.com/company/teltronix> to
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 20 / 来 4）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：briticom@briticom.net、justin@teltronix.net、wadii@teltronix.net
+- **最后一封来信**：2025-10-31 wadii@teltronix.net「RE: Booster PoE Switch」：It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX \| BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C.DDEAD2E0]<briticom.net> Please click here<https://www.linkedin.com/company/teltronix> to follow us on LinkedI
 - **邮件里报过的价**：2024-07-08 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-11-19 | 2025-11-19 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-10-30 | 2025-10-31 | 1 | 1 | 3 |
+| 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
 | Power Converter | 2024-10-02 | 2024-12-11 | 1 | 5 | 18 |
 | 8 port poe switch | 2024-09-02 | 2024-09-03 | 1 | 2 | 6 |
-| 48 port switch | 2024-09-02 | 2024-09-03 | 1 | 2 | 5 |
-| 5 port Ethernet Switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-07-08 | 2024-07-08 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -265,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

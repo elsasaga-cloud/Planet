@@ -19,13 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2024-05-13
 last_contact: 2025-10-15
-s_mail: 9 msgs (out 9 / in 0), 2024-06-28 -> 2025-01-31
+s_mail: 21 msgs (out 21 / in 0), 2024-06-28 -> 2026-09-17
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,22 +153,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-28 → 2025-01-31　|　**最后去信**：2025-01-31
-- **对方邮箱**：sales@3tel.com.sg
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-28 → 2026-09-17　|　**最后去信**：2026-09-17
+- **对方邮箱**：elvin.tan@3tel.com.sg、sales@3tel.com.sg
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-08-08 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Mini Industrial PoE Switch | 2025-01-31 | 2025-01-31 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
-| Passive poe switch | 2024-09-04 | 2024-09-04 | 0 | 1 | 1 |
-| Web managed switch | 2024-08-20 | 2024-08-20 | 0 | 1 | 1 |
-| 10G managed switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-07-24 | 2024-07-24 | 0 | 1 | 1 |
-| 8 port 2.5g switch | 2024-07-03 | 2024-07-03 | 0 | 1 | 1 |
-| industrial poe switch | 2024-06-28 | 2024-06-28 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-17 | 2026-09-17 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-19 | 2026-08-19 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-13 | 2026-07-13 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-08 | 2026-06-08 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-08 | 2026-04-08 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-16 | 2026-03-16 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-27 | 2026-02-27 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-22 | 2026-01-22 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-19 | 2025-11-19 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-15 | 2025-10-15 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-09-10 | 2025-09-10 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -288,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

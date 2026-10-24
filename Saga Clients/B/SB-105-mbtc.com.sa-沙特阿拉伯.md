@@ -21,13 +21,13 @@ replies: 0
 followups: 24
 first_contact: 2023-11-04
 last_contact: 2025-10-27
-s_mail: 3 msgs (out 0 / in 3), 2023-06-19 -> 2023-06-19
+s_mail: 8 msgs (out 5 / in 3), 2023-06-19 -> 2026-09-22
 p1: STI-244GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,12 +140,17 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：3 封（去 0 / 来 3）　|　**期间**：2023-06-19 → 2023-06-19　|　**最后去信**：—
-- **对方邮箱**：abdulaziz.almohsin@aamindustrial.com、ei-telcomlead@aamindustrial.com、integrationlead@aamindustrial.com、telecom@aamindustrial.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：8 封（去 5 / 来 3）　|　**期间**：2023-06-19 → 2026-09-22　|　**最后去信**：2026-09-22
+- **对方邮箱**：abdulaziz.almohsin@aamindustrial.com、ei-telcomlead@aamindustrial.com、integrationlead@aamindustrial.com、prabhu@mbtc.com.sa、telecom@aamindustrial.com
 - **最后一封来信**：2023-06-19 ei-telcomlead@aamindustrial.com「RFQ for telecom items」：Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industrial EST Mobile : 0572012594 Email : mailto:ei-telcomlea
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-22 | 2026-09-22 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-02 | 2026-07-02 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-09 | 2026-06-09 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-12 | 2026-05-12 | 0 | 1 | 1 |
 | RFQ FOR ELECTRICAL ITEMS MCB | 2023-06-19 | 2023-06-19 | 1 | 0 | 1 |
 | RFQ for telecom items | 2023-06-19 | 2023-06-19 | 2 | 0 | 2 |
 
@@ -267,12 +272,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

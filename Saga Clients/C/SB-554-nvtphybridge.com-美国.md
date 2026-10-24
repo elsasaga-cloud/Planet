@@ -20,13 +20,13 @@ replies: 0
 followups: 11
 first_contact: 2025-02-20
 last_contact: 2025-11-06
-s_mail: 2 msgs (out 1 / in 1), 2024-04-16 -> 2025-01-16
+s_mail: 18 msgs (out 17 / in 1), 2024-04-16 -> 2026-09-08
 p1: none
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -196,8 +196,8 @@ updated: 2026-10-23
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -148,5 +148,102 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-012",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度偏中（1 台在生产环境运行 + 固件 bug 反馈 + 博客/配置经验回传）",
+   "type": "英国小型 IT 服务商 / 自用 + 技术博客（技术流）",
+   "sieve": "3（付样 $500、PI、标签确认、收货验收、固件 bug 报告）",
+   "stop": "对方不需要更多（单站点温室项目 1 台够用）+ PoE 异常未闭环（2026-03-19 电池供电场景 PoE 不出电，4-27 发截图后 Alan 5-20 追问无回）",
+   "revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
+   "lane": "UK 已通（T/T $500 2025-08，DHL）",
+   "cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
+   "evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0"
+  },
+  "situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
+  "need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
+  "breakpoint": "技术支持没闭环：3-13 的 SSH 终端类型问题 Alan 答复后 Chris 回「Ah, that's a shame」（= 不能改），紧接着 3-19 报 PoE 不出电并附诊断包，A 邮箱里没有看到 Saga 给出结论；4-27 截图后沉默，Alan 5-20「Any update?」无回。对一个会写 bug 报告、会回传诊断包的客户，这是最便宜的绑定机会被放掉。",
+  "saga_now": {
+   "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
+   "tier": 25,
+   "price": "首单 $500（2025-08）；复购同款按 CNY ×1.25 ÷ 6.69 快照另写",
+   "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
+   "repeat": [
+    "STI-41616XGGPM-4BT ×1（2025-08）"
+   ],
+   "gaps": [
+    "PoE 在 DC 低压/欠压恢复后的行为：需 SmartByte 给结论（Simon 问 Peter，代理不问）",
+    "SSH 终端类型 xterm-256color 未识别：固件侧问题，是否在 7.5 修复未知"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11 上旬",
+   "channel": "A 邮箱",
+   "action": "先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷",
+   "one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
+  },
+  "facts": [
+   {
+    "date": "2025-06-11",
+    "dir": "来",
+    "who": "Chris（Go Green IT）",
+    "quote": "I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V",
+    "why": "技术流 + 读过 Drive 规格（筛子第 2 道）",
+    "k": "7aa281fa9f0de7b7"
+   },
+   {
+    "date": "2025-08-22",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "If it's only $20 difference, then yes, I might as well go for the 24port version. You mentioned the \"DI/DO/RS485\" function",
+    "why": "价格不敏感，功能导向",
+    "k": "06796ffea23adddd"
+   },
+   {
+    "date": "2025-09-08",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "We have received the switch today, and it looks in good order. I have started configuring it",
+    "why": "成交闭环（$500，A 总览 §3）",
+    "k": "960340fdd0ad3d96"
+   },
+   {
+    "date": "2025-11-23",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "it supports 10mbps properly - which my Linovision switch said it also supported, but it didn't work… I didn't realise that the SFP didn't autodetect 1 or 10gbps",
+    "why": "替换竞品 + 生产环境运行",
+    "k": "9ac926d31f10e0be"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "I have a bug/feature request for the switch. When I ssh in from a modern Linux OS, the terminal is being detected as \"xterm-256color\"… your switch… defaults to \"dumb terminal\"",
+    "why": "主动做 QA = 中度绑定前兆",
+    "k": "20cf814dcb5e8197"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "来",
+    "who": "Chris",
+    "quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
+    "why": "未闭环的技术问题（附诊断包）",
+    "k": "81bc7f06346f18b0"
+   },
+   {
+    "date": "2026-07-10",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM)",
+    "why": "7.5 = PIM-SM 可用的书面证据（对 Netaş 有用）",
+    "k": "74f5b9590b098b4c"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

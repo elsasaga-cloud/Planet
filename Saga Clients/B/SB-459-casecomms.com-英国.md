@@ -21,13 +21,13 @@ replies: 1
 followups: 20
 first_contact: 2024-04-01
 last_contact: 2025-10-27
-s_mail: 18 msgs (out 16 / in 2), 2024-05-09 -> 2025-02-06
+s_mail: 47 msgs (out 42 / in 5), 2024-05-09 -> 2026-09-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -165,25 +165,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：18 封（去 16 / 来 2）　|　**期间**：2024-05-09 → 2025-02-06　|　**最后去信**：2025-02-06
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 42 / 来 5）　|　**期间**：2024-05-09 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：admin@case.uk.com、andys@case.uk.com、sales@foscam.uk.com
-- **最后一封来信**：2024-05-09 andys@case.uk.com「RE: 24 port switch」：Hi Simon Thank you for your mail but we already have such a switch Best regards Andy
+- **最后一封来信**：2025-02-08 andys@case.uk.com「RE: L3 Managed Switch」：Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 switches for a lot less. Best regards Andy
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Mini Industrial PoE Switch | 2025-02-06 | 2025-02-06 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-20 | 2024-12-20 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-12-03 | 2024-12-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-07 | 2024-11-07 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-10-10 | 2024-10-10 | 0 | 1 | 1 |
-| 8 port network switch | 2024-08-30 | 2024-08-30 | 0 | 1 | 1 |
-| Passive PoE Switch | 2024-08-22 | 2024-08-22 | 0 | 1 | 2 |
-| 10G media converter | 2024-08-02 | 2024-08-02 | 0 | 1 | 1 |
-| PoE Switch | 2024-08-01 | 2024-08-01 | 0 | 1 | 1 |
-| 24 port switch | 2024-05-09 | 2024-07-05 | 2 | 4 | 14 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-27 | 2026-08-27 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| 32 Port 400GB DC Switch | 2026-06-11 | 2026-06-11 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-05-18 | 2026-05-18 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-03 | 2026-04-03 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-10 | 2026-03-10 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-03 | 2026-02-03 | 0 | 1 | 1 |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -311,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

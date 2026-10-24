@@ -19,13 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2025-02-26
 last_contact: 2025-11-06
-s_mail: 1 msgs (out 1 / in 0), 2025-01-21 -> 2025-01-21
+s_mail: 27 msgs (out 26 / in 1), 2025-01-21 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -131,13 +131,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-21 → 2025-01-21　|　**最后去信**：2025-01-21
-- **对方邮箱**：marcela.g@enssecurity.com、shawn.s@enssecurity.com
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 26 / 来 1）　|　**期间**：2025-01-21 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：john.g@enssecurity.com、marcela.g@enssecurity.com、robert.sh@enssecurity.com、sales@enssecurity.com、shawn.s@enssecurity.com
+- **最后一封来信**：2025-02-25 shawn.s@enssecurity.com「Out of the Office until Thursday, Feb 27th. Re: 90W PoE Managed Switch」：Good morning / afternoon, I will be out of the office Tuesday Feb 25th and Wednesday Feb 26th, returning Thursday Feb 27th. If you need immediate assistance, please contact George Ge at george.g@enssecurity.com or Kenneth at kenneth.m@enssecurity.com. Please c
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Industrial PoE Switch | 2025-01-21 | 2025-01-21 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-12 | 2026-08-12 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-13 | 2026-07-13 | 0 | 1 | 2 |
+| 32 Port 400GB DC Switch | 2026-06-22 | 2026-06-22 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-05-19 | 2026-05-19 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-24 | 2026-04-24 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-31 | 2026-03-31 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-12 | 2026-03-12 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-11 | 2026-02-11 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-06 | 2026-02-06 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-15 | 2026-01-15 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-12 | 2026-01-12 | 0 | 1 | 1 |
+| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -263,12 +275,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

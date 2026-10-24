@@ -21,13 +21,13 @@ replies: 0
 followups: 9
 first_contact: 2025-04-04
 last_contact: 2025-11-04
-s_mail: 3 msgs (out 0 / in 3), 2024-11-08 -> 2025-01-04
+s_mail: 9 msgs (out 6 / in 3), 2024-11-08 -> 2026-03-10
 p1: STI-288GP
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -126,12 +126,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：3 封（去 0 / 来 3）　|　**期间**：2024-11-08 → 2025-01-04　|　**最后去信**：—
-- **对方邮箱**：noreply@l-com.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 6 / 来 3）　|　**期间**：2024-11-08 → 2026-03-10　|　**最后去信**：2026-03-10
+- **对方邮箱**：mkleinfelter@l-com.com、noreply@l-com.com、sales@l-com.com、ssmith@l-com.com
 - **最后一封来信**：2025-01-04 noreply@l-com.com「Auto Reply - Thank you for your email - " Industrial PoE Switch ": CASE # 593307」：Thank you for choosing L-Com. You have reached us outside of normal business hours. Our representatives are available Monday - Friday 8am-7:30pm ET and our team will make it a priority to provide an update within the next business day. You can also find produc
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-03-10 | 2026-03-10 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-02 | 2025-12-02 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-04 | 2025-11-04 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
 | Auto Reply - Thank you for your email - " Industrial PoE Switch ": CASE # 593307 | 2025-01-04 | 2025-01-04 | 1 | 0 | 0 |
 | Auto Reply - Thank you for your email - " 10G Media Converter ": CASE # 59151985 | 2024-12-04 | 2024-12-04 | 1 | 0 | 0 |
 | Auto Reply - Thank you for your email - " 8 Port Industrial PoE Switch ": CASE # | 2024-11-08 | 2024-11-08 | 1 | 0 | 0 |
@@ -256,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

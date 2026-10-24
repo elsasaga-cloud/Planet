@@ -21,13 +21,13 @@ replies: 0
 followups: 8
 first_contact: 2025-02-07
 last_contact: 2025-10-20
-s_mail: 10 msgs (out 6 / in 4), 2024-02-01 -> 2025-01-24
+s_mail: 33 msgs (out 29 / in 4), 2024-02-01 -> 2026-09-28
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 6
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -143,23 +143,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：10 封（去 6 / 来 4）　|　**期间**：2024-02-01 → 2025-01-24　|　**最后去信**：2025-01-24
-- **对方邮箱**：info@bcscctv.pl、j.zaczek@mbs-systems.pl
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 29 / 来 4）　|　**期间**：2024-02-01 → 2026-09-28　|　**最后去信**：2026-09-28
+- **对方邮箱**：biuro@sklep-bcs.pl、info@bcs.pl、info@bcscctv.pl、j.zaczek@mbs-systems.pl、m.skalecki@bcs.pl、m.sobecki@bcs.pl
 - **最后一封来信**：2024-08-30 j.zaczek@mbs-systems.pl「Autoreply to 2.5G network switch」：Witam serdecznie, W dniach 26-30.08.2024 przebywam na urlopie z ograniczonym dostępem do maila i telefonu. W przypadku pilnych spraw proszę o kontakt z działem handlowym: handel@mbs-systems.pl Poczta została przekierowana. Pozdrawiam Jakub Zaczek
 - **邮件里报过的价**：2024-11-29 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-24 | 2025-01-24 | 2 | 1 | 5 |
-| 48 Port PoE Managed Switch | 2024-11-29 | 2024-11-29 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
-| Mini Industrial Switch | 2024-09-04 | 2024-09-04 | 0 | 1 | 1 |
-| Autoreply to 2.5G network switch | 2024-08-30 | 2024-08-30 | 1 | 0 | 0 |
-| Passive PoE Switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| Autoreply to Passive PoE Switch | 2024-07-28 | 2024-07-28 | 1 | 0 | 0 |
-| Industrial power supply | 2024-07-09 | 2024-07-09 | 0 | 1 | 1 |
-| Autoreply to 10G fiber media converter | 2024-06-28 | 2024-06-28 | 1 | 0 | 0 |
-| Autoreply to Industrial power supply | 2024-02-01 | 2024-02-01 | 1 | 0 | 0 |
+| Managed PoE Switches | 2026-09-28 | 2026-09-28 | 0 | 1 | 1 |
+| Managed PoE Switches | 2026-09-25 | 2026-09-25 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-26 | 2026-08-26 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-20 | 2026-08-20 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-16 | 2026-07-16 | 0 | 1 | 2 |
+| Saga Q3 Product Links | 2026-07-16 | 2026-07-16 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-09 | 2026-06-09 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-06-05 | 2026-06-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-07 | 2026-05-07 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-06 | 2026-05-06 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-01 | 2026-04-01 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-01 | 2026-04-01 | 0 | 1 | 1 |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -298,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

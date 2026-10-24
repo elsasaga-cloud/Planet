@@ -21,13 +21,13 @@ replies: 1
 followups: 20
 first_contact: 2024-05-02
 last_contact: 2025-10-23
-s_mail: 8 msgs (out 8 / in 0), 2024-06-26 -> 2025-01-09
+s_mail: 22 msgs (out 21 / in 1), 2024-06-26 -> 2026-09-09
 p1: STI-21616GP
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -136,21 +136,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-26 → 2025-01-09　|　**最后去信**：2025-01-09
-- **对方邮箱**：info@ad-net.com.tw
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 21 / 来 1）　|　**期间**：2024-06-26 → 2026-09-09　|　**最后去信**：2026-09-09
+- **对方邮箱**：info@ad-net.com.tw、robin@ad-net.com.tw
+- **最后一封来信**：2025-09-17 robin@ad-net.com.tw「RE: 16 Port PoE Managed Switch」：Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 Connectors X-Coded) Managed Ethernet Switch, what would be the price ? Robin @ AD-NET TECHNOLOGY CO., LTD. No.
 - **邮件里报过的价**：2024-12-17 $300；2024-10-29 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 8 Port Industrial PoE Switch | 2025-01-09 | 2025-01-09 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-11-21 | 2024-11-21 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-10-29 | 2024-10-29 | 0 | 1 | 1 |
-| Power Converter | 2024-09-12 | 2024-09-12 | 0 | 1 | 1 |
-| Industrial managed switch | 2024-08-17 | 2024-08-17 | 0 | 1 | 1 |
-| 8 port poe switch | 2024-07-22 | 2024-07-22 | 0 | 1 | 1 |
-| 5 port industrial switch | 2024-06-26 | 2024-06-26 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-09 | 2026-09-09 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-11 | 2026-03-11 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-12 | 2026-01-12 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-09-17 | 2025-09-17 | 1 | 2 | 3 |
+| 24 Port Fiber Switch | 2025-02-20 | 2025-02-20 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -275,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 83）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 83）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

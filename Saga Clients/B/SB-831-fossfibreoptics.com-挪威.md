@@ -19,12 +19,13 @@ replies: 0
 followups: 4
 first_contact: 2025-06-20
 last_contact: 2025-09-19
+s_mail: 10 msgs (out 10 / in 0), 2025-09-19 -> 2026-09-14
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -127,6 +128,25 @@ updated: 2026-10-23
 | 2025-07-16 | 716 | 48口 |  | A |  | 其他优质欧洲客户 2.26.xlsx#135 |
 | 2025-08-21 | 821 | 16电 |  | A |  | 其他优质欧洲客户 2.26.xlsx#135 |
 | 2025-09-19 | 919 | 24fiber |  | A |  | 其他优质欧洲客户 2.26.xlsx#135 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：10 封（去 10 / 来 0）　|　**期间**：2025-09-19 → 2026-09-14　|　**最后去信**：2026-09-14
+- **对方邮箱**：info@foss-as.no、office.sk@fossfibreoptics.com、peter.fric@fossfibreoptics.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-14 | 2026-09-14 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-29 | 2026-07-29 | 0 | 1 | 1 |
+| 32 Port 400GB DC Switch | 2026-06-18 | 2026-06-18 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-14 | 2026-04-14 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-19 | 2026-03-19 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-26 | 2026-02-26 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-10 | 2025-12-10 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-12 | 2025-11-12 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -252,12 +272,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

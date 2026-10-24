@@ -19,13 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 17 msgs (out 12 / in 5), 2024-06-29 -> 2025-01-06
+s_mail: 22 msgs (out 17 / in 5), 2024-06-29 -> 2026-09-18
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,13 +129,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：17 封（去 12 / 来 5）　|　**期间**：2024-06-29 → 2025-01-06　|　**最后去信**：2025-01-06
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 17 / 来 5）　|　**期间**：2024-06-29 → 2026-09-18　|　**最后去信**：2026-09-18
 - **对方邮箱**：info@apolloinfoways.in、ravi@apolloinfoways.in
 - **最后一封来信**：2025-01-06 ravi@apolloinfoways.in「Re: 24 Port Fiber Switch」：Pls share the Datasheet for this. Ravi
 - **邮件里报过的价**：2025-01-06 $240；2024-11-15 $300；2024-09-18 $110；2024-08-22 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-18 | 2026-09-18 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-09-01 | 2026-09-01 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-23 | 2026-07-23 | 0 | 1 | 1 |
+| 32 Port 400GB DC Switch | 2026-06-15 | 2026-06-15 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-01 | 2026-05-01 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 1 | 2 | 6 |
 | Mini Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-03 | 2024-11-15 | 4 | 3 | 10 |
@@ -143,7 +148,7 @@ updated: 2026-10-23
 | 24V/48V PoE Switch | 2024-09-16 | 2024-09-19 | 3 | 4 | 6 |
 | 10G media converter | 2024-08-22 | 2024-08-22 | 0 | 1 | 1 |
 | 8 port poe switch | 2024-07-26 | 2024-07-26 | 0 | 1 | 1 |
-| 24 port passive poe switch | 2024-06-29 | 2024-06-29 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -261,12 +266,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

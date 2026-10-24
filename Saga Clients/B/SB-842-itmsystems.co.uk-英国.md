@@ -19,13 +19,13 @@ replies: 0
 followups: 16
 first_contact: 2024-05-15
 last_contact: 2025-10-16
-s_mail: 9 msgs (out 9 / in 0), 2024-06-13 -> 2024-11-14
+s_mail: 61 msgs (out 38 / in 23), 2024-06-13 -> 2026-09-07
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,10 +33,36 @@ updated: 2026-10-23
 - **是谁**：英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。（调研 2026-10-21；表内兴趣：Utepo的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-15 → 2025-10-16）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变） — 集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤；已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用
+- **第一问（只问一个）**：Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 上旬（9-07 追问满 2 个月） A 邮箱 一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-842` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（已报价、对方高层批准、未付款）** ｜ 类型：英国 MSP/网络安全集成商（技术流 + 要 OEM 协议） ｜ 筛子：2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款） ｜ 停点：对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」 ｜ 复活：ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过） ｜ 通路：UK 已通（Go Green IT 已成交；DHL/UPS DAP） ｜ 节奏：最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮 ｜ 证据：A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de
+- **现状一句话**：英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**
+- **对方真实需求（有据）**：① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。
+- **断点 / 为什么停在这里**：双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。
+- **Saga 现在该推什么**：P1 **CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）**（25% 档，已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用）——集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤
+  - 做不了 / 要先核的：SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清；800G：无，不许诺；400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问
+- **下一步（具体）**：2026-11 上旬（9-07 追问满 2 个月）　A 邮箱　一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界
+  - 第一问（只问一个）：Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-11-11 | 来 | Steve（ITM） | You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom | OEM 意向开端 | `8a0346334ec9c3de` |
+| 2025-11-25 | 来 | Steve | Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API… | SDK/API 需求 = 边界信号 | `68cb354a84c7aa86` |
+| 2026-02-05 | 来 | Steve | I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol? | 内部审批阶段 | `d4ad954f1fff2bea` |
+| 2026-03-20 | 来 | Steve | Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK? | 正式 RFQ（$107,675） | `4093fbb543ef9f90` |
+| 2026-05-11 | 来 | Steve | We will delay the customer from paying us as they will expect the products within 30 days of payment | 对方当时的紧迫度 vs Saga 7 月才有货 | `66dba977aaf68e50` |
+| 2026-05-19 | 来 | Steve | In the 50 switches is there a plan for 800GB or just the one you quoted us? | 50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做 | `77fc79297576e203` |
+| 2026-08-03 | 去 | Alan | the 400G switches are ready to ship now | Saga 侧就绪时间 | `140d7d5efe818d7e` |
+| 2026-08-15 | 来 | Steve | I have update the Senior Manager about the availability of goods and will get back to you | 最后一封来信 | `87738057b3f134de` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-03~08 重跑后看 ITM 是否更早回过群发；ITM 终端客户是谁（邮件未提）——不去搜，等对方说
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -145,22 +171,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-13 → 2024-11-14　|　**最后去信**：2024-11-14
-- **对方邮箱**：info@itmsystems.co.uk
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：61 封（去 38 / 来 23）　|　**期间**：2024-06-13 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：info@itmsystems.co.uk、info@itmsystems.net
+- **最后一封来信**：2026-08-15 info@itmsystems.net「RE: 400GB Switches」：Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you. Kind regards Steve
 - **邮件里报过的价**：2024-09-05 $65；2024-07-10 $220；2024-06-13 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 400GB Switches | 2026-03-20 | 2026-09-07 | 13 | 14 | 2 |
+| Booster PoE Switch | 2025-11-10 | 2026-02-28 | 10 | 10 | 34 |
+| Mini Industrial PoE Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-09-26 | 2025-09-26 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-02-28 | 2025-02-28 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-01-29 | 2025-01-29 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-10-17 | 2024-10-17 | 0 | 1 | 1 |
 | 10G media converter | 2024-09-05 | 2024-09-05 | 0 | 1 | 1 |
 | Industrial fiber switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
 | Industrial fiber switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-07-11 | 2024-07-11 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-07-10 | 2024-07-10 | 0 | 1 | 1 |
-| 5 port industrial network switch | 2024-06-13 | 2024-06-13 | 0 | 1 | 1 |
-| 10G media converter | 2024-06-13 | 2024-06-13 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -281,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

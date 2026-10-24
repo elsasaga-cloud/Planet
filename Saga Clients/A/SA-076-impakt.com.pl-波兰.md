@@ -21,13 +21,13 @@ replies: 1
 followups: 8
 first_contact: 2025-04-04
 last_contact: 2025-10-21
-s_mail: 7 msgs (out 7 / in 0), 2024-06-15 -> 2024-11-25
+s_mail: 27 msgs (out 25 / in 2), 2024-06-15 -> 2026-09-28
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,20 +153,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2024-06-15 → 2024-11-25　|　**最后去信**：2024-11-25
-- **对方邮箱**：bartosz.krawczyk@impakt.com.pl
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 25 / 来 2）　|　**期间**：2024-06-15 → 2026-09-28　|　**最后去信**：2026-09-28
+- **对方邮箱**：bartosz.krawczyk@impakt.com.pl、lukasz.gasiewicz@impakt.com.pl、marcin.chojnacki@impakt.com.pl、michal.jastrzebski@impakt.com.pl
+- **最后一封来信**：2025-10-03 lukasz.gasiewicz@impakt.com.pl「RE: FW: [EXTERNAL] Industrial PoE Switch」：[cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ? MOQ ? Best regards, Łukasz Gąsiewicz PRODUCT DEVELOPMENT MANAGER e-mail: lukasz.gasiewicz@impakt.com.pl
 - **邮件里报过的价**：2024-08-05 $65；2024-06-15 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 8 Port Ethernet Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-09-25 | 2024-09-25 | 0 | 1 | 1 |
-| Web managed switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| 10G media converter | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| Industrial fiber switch | 2024-07-04 | 2024-07-04 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-06-15 | 2024-06-15 | 0 | 1 | 1 |
+| Managed PoE Switches | 2026-09-28 | 2026-09-28 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-21 | 2026-08-21 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Saga Q3 Product Links | 2026-07-16 | 2026-07-16 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-09 | 2026-06-09 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-07 | 2026-05-07 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-01 | 2026-04-01 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-02-06 | 2026-02-06 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-24 | 2025-12-24 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -297,12 +303,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

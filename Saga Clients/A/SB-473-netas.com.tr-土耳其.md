@@ -22,12 +22,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 67 msgs (out 32 / in 35), 2025-10-13 -> 2026-08-12
 p1: none
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +36,39 @@ updated: 2026-10-23
 - **是谁**：土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。（调研 2026-10-22；表内兴趣：—）
 - **为什么是 A 级**：**调研后定级 A**（规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：— — 深挖对位：不推进；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5 — 集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）；样机单 3 台 $545 已成交（PI 2025-12）；重开报价按 CNY ×1.25 ÷ 6.69，快照日期另写
+- **第一问（只问一个）**：Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 第一周（距 7-17 单向更新满 3 个月） A 邮箱（Alan 主线，抄 Ender 的 gmail endearbulut@gmail.com——他 2026-01-23 主动给的） 一封三行：7.5 固件 PIM-SM 已可用（CLI）、PIM-DM 仍无、问客户的 L3 组播是否 PIM-SM 即可；顺带问留在客户处那台样机的测试结论
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-473` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（1 台样机留在终端客户处）** ｜ 类型：系统集成商 / 国防通信项目承包（技术流） ｜ 筛子：3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机） ｜ 停点：功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C） ｜ 复活：固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机 ｜ 通路：TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程） ｜ 节奏：最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga ｜ 证据：A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5
+- **现状一句话**：土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。
+- **对方真实需求（有据）**：① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。
+- **断点 / 为什么停在这里**：不是价格、不是信任（PO/付款/报关都走完了），是**芯片方案的功能上限 + 温度**。Alan 2026-02-27 原话「PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.」——属于 C10 边界，不设计绕路。但 7.5 固件已补 PIM-SM（仅 CLI、无 PIM-DM、无 IP SLA，见微信 Peter 2026 原话），边界比 2 月时小了一格。
+- **Saga 现在该推什么**：P1 **STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5**（25% 档，样机单 3 台 $545 已成交（PI 2025-12）；重开报价按 CNY ×1.25 ÷ 6.69，快照日期另写）——集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）
+  - 复购/在买项：STI-488DGGPM-2BT 样机 3 台（2026-01 付款）
+  - 做不了 / 要先核的：PIM-DM、IP SLA、RIPng/PBR：7.5 仍不支持（Peter 微信明确）——只能老实说；-40~+71 °C L3 机型：Marvell 工业线温度范围需查规格书后再承诺，不猜；不替 Simon 向 SmartByte 问 PCBA 阶梯价（U29）；若 Netaş 再提 PCBA，由 Simon 决定是否开这条线
+- **下一步（具体）**：2026-11 第一周（距 7-17 单向更新满 3 个月）　A 邮箱（Alan 主线，抄 Ender 的 gmail endearbulut@gmail.com——他 2026-01-23 主动给的）　一封三行：7.5 固件 PIM-SM 已可用（CLI）、PIM-DM 仍无、问客户的 L3 组播是否 PIM-SM 即可；顺带问留在客户处那台样机的测试结论
+  - 第一问（只问一个）：Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-12-01 | 来 | Ender Bulut（Netaş） | We have decided to move forward with your STI-488DGGPM-2BT as our L2 switch solution… colleagues… will assist with the NDA and compliance process | 正式选型 + 进入供应商开户流程（筛子第 3 道） | `221f4293f7917453` |
+| 2025-12-23 | 来 | Burak Özdemir（采购） | Please find in the attachment the PO | PO 落地；12-24「The PI is approved… We don't require any logo」 | `575f6cc1f5d1c75d` |
+| 2026-01-13 | 来 | Burak Özdemir | The payment has been made. Could you help me with the delivery of the products? | 3 台样机 $545 付清（A 总览 §3） | `c1778580f27190ae` |
+| 2026-01-21 | 来 | Ender Bulut | IGMPv2, IGMPv3, and IPv4 Multicast (PIM-SM, PIM-DM) specifications are necessary for a Layer-3 switch | 第一次提出组播硬需求 | `bbbaee1e4e6d88df` |
+| 2026-01-29 | 来 | Burak Özdemir | The invoice you sent us is from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices sent? | 报关单据暴露了货代/出口主体与 Saga 不一致——下次出口前统一单据口径（物流两条线，U28） | `2a8ead0c64c4f045` |
+| 2026-02-26 | 来 | Ender Bulut | Do you have any idea when L3 Multicast PIM-SM and PIM-DM will be ready? Our costumer wants to go with layer-3 solution and must be include PIM-SM and PIM DM | 停点原话 | `10e6fdf62c477b46` |
+| 2026-02-27 | 来 | Ender Bulut | For the CENTEC-based solutions, the operating temperature range (0°C to 40°C) does not seem enough… Our requirement is -40°C to +71°C | CENTEC 替代路线被温度否决 | `bbdc059bf34b2fbc` |
+| 2026-02-27 | 去 | Alan | PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc. | Saga 明确划边界（C10） | `7adbcd07a050e85a` |
+| 2026-03-02 | 来 | Ender Bulut | We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… If we receive new requests for Layer-2 switches… we will contact you | 轻度绑定证据 + 复活条件由对方说出 | `2b615482de0608a5` |
+| 2026-07-17 | 去 | Alan | We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features | 最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了） | `a323d408b374a3d1` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-03~08 分片重跑后核对 Simon 最初转介 Netaş 的 S 侧邮件是否有更早接触；留在客户处那台样机的测试结论（对方未反馈）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -125,6 +155,22 @@ updated: 2026-10-23
 | STAG20251224020 | 2025-12-24 | PI | STI-488DGGPM-2BT | 3 | USD 545.0 | SmartByte / 2616.0 | 2885.8 / 3789.33 / 903.53 |
 
 > 口径：同一单号多份文件取 CI > PI（最新修订）> Quotation；Quotation 行不计入销售合计；明细见 `data/pi_orders/销售单据明细.csv`、采购价见 `采购合同明细.csv`；原件在 Release `files-pi_2026-10`。
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：67 封（去 32 / 来 35）　|　**期间**：2025-10-13 → 2026-08-12　|　**最后去信**：2026-07-17
+- **对方邮箱**：buozdemir@netas.com.tr、cbilik@netas.com.tr、compliance@netas.com.tr、ebaskurt@netas.com.tr、ebulut@netas.com.tr、maltinoz@netas.com.tr
+- **最后一封来信**：2026-08-12 compliance@netas.com.tr「Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let」：[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının ikinci çeyreğinde ihracat uyum adına gerçekleştirdiğimiz önemli çalışmaları paylaşmaktan memnuniyet
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Q2/2026 Baş İhracat Uyum Yöneticisinden Tüm İş Ortaklarına Mektup - Q2/2026 Lett | 2026-08-12 | 2026-08-12 | 1 | 0 | 4 |
+| Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let | 2026-08-12 | 2026-08-12 | 1 | 0 | 4 |
+| Industrial L2/L3 Managed Switches | 2025-10-13 | 2026-07-17 | 25 | 27 | 285 |
+| Q1/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q1/2026 Let | 2026-05-05 | 2026-05-05 | 2 | 0 | 8 |
+| Netaş İhracat Uyum Politikası ve Yönetim Taahhüdü / Netaş Export Compliance Poli | 2026-03-02 | 2026-03-02 | 1 | 0 | 4 |
+| Q4/2025 Baş İhracat Uyum Yöneticisi’nden İş Ortaklarına Mektup  - Q4/2025 Letter | 2026-02-09 | 2026-02-09 | 1 | 0 | 4 |
+| Request for NDA and ECCN form Completion_Saga | 2025-12-02 | 2025-12-04 | 4 | 5 | 67 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -246,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

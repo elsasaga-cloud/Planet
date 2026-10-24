@@ -21,13 +21,13 @@ replies: 1
 followups: 17
 first_contact: 2024-06-05
 last_contact: 2025-10-23
-s_mail: 14 msgs (out 8 / in 6), 2024-06-05 -> 2025-01-03
+s_mail: 31 msgs (out 23 / in 8), 2024-06-05 -> 2026-09-22
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-073` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-073` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：利雅得 Al Rajhi Telecom（数据中心部经理 Inam Ahmed）。ekhalas.com 地址全是自动回复；真人回复只有一封：2024-10-22 对 STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，看门狗）说「**Please send me a sample to test**」。Simon 当天回「NOT free samples, 36usd/pc … let me know if you are ready to order」，之后对方没再回；Simon 11-15、12-12、2025-01-03 又推了三款，无回应。
 - **对方真实需求（有据）**：户外/园区 IP 摄像机供电用的小型工业 PoE（4 口 + 光纤上联、看门狗、250 m PoE），先要一台测试。
@@ -193,24 +193,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：14 封（去 8 / 来 6）　|　**期间**：2024-06-05 → 2025-01-03　|　**最后去信**：2025-01-03
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：31 封（去 23 / 来 8）　|　**期间**：2024-06-05 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：inam@alrajhitel.com、info@ekhalas.com
-- **最后一封来信**：2024-10-22 info@ekhalas.com「Thank you for contacting us!Dear」：Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are working on finding the best solution for your needs. Our dedicated team members are currently reviewing your que
+- **最后一封来信**：2026-09-22 info@ekhalas.com「Thank you for contacting us!Dear」：Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are working on finding the best solution for your needs. Our dedicated team members are currently reviewing your que
 - **邮件里报过的价**：2024-12-12 $300；2024-07-24 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-10-22 | 2024-11-15 | 1 | 3 | 36 |
-| Thank you for contacting us!Dear | 2024-10-22 | 2024-10-22 | 1 | 0 | 0 |
-| 90W poe switch | 2024-08-19 | 2024-08-19 | 0 | 1 | 1 |
-| Thank you for contacting us!Dear | 2024-08-19 | 2024-08-19 | 1 | 0 | 0 |
-| 10G media converter | 2024-07-24 | 2024-07-24 | 0 | 1 | 1 |
-| Thank you for contacting us!Dear | 2024-07-24 | 2024-07-24 | 1 | 0 | 0 |
-| Industrial PoE managed switch | 2024-06-27 | 2024-06-27 | 0 | 1 | 1 |
-| Thank you for contacting us!Dear | 2024-06-27 | 2024-06-27 | 1 | 0 | 0 |
-| Thank you for contacting us!Dear | 2024-06-05 | 2024-06-05 | 1 | 0 | 0 |
+| 16 Port Industrial PoE Switch | 2026-09-22 | 2026-09-22 | 0 | 1 | 1 |
+| Thank you for contacting us!Dear | 2026-09-22 | 2026-09-22 | 1 | 0 | 0 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-02 | 2026-07-02 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-10 | 2026-06-10 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-12 | 2026-05-12 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-24 | 2026-04-24 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-08 | 2026-04-08 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-23 | 2026-03-23 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-19 | 2025-12-19 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-18 | 2025-11-18 | 0 | 1 | 1 |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -331,12 +333,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

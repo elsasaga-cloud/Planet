@@ -19,13 +19,13 @@ replies: 0
 followups: 7
 first_contact: 2025-02-28
 last_contact: 2025-10-23
-s_mail: 4 msgs (out 4 / in 0), 2024-07-03 -> 2024-10-10
+s_mail: 14 msgs (out 14 / in 0), 2024-07-03 -> 2026-08-19
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 4
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -157,8 +157,8 @@ updated: 2026-10-23
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 -34）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 -34）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

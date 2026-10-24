@@ -21,13 +21,13 @@ replies: 0
 followups: 15
 first_contact: 2024-06-27
 last_contact: 2025-10-17
-s_mail: 11 msgs (out 9 / in 2), 2024-06-17 -> 2025-01-03
+s_mail: 18 msgs (out 16 / in 2), 2024-06-17 -> 2026-03-05
 p1: none
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -107,18 +107,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：11 封（去 9 / 来 2）　|　**期间**：2024-06-17 → 2025-01-03　|　**最后去信**：2025-01-03
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 16 / 来 2）　|　**期间**：2024-06-17 → 2026-03-05　|　**最后去信**：2026-03-05
 - **对方邮箱**：francois.burton0@gmail.com
 - **最后一封来信**：2024-06-24 francois.burton0@gmail.com「Re: 48 port managed switch」：Not really, looking for SFP+ ports with ventilation front to back.
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-03-05 | 2026-03-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2026-01-02 | 2026-01-02 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-21 | 2025-11-21 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-09-24 | 2025-09-24 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
 | 10G Media Converter | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
 | Power Converter | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
 | 24 port managed switch | 2024-08-14 | 2024-09-09 | 0 | 2 | 3 |
-| 48 port managed switch | 2024-06-17 | 2024-07-16 | 2 | 4 | 10 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -223,12 +230,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

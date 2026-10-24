@@ -21,13 +21,13 @@ replies: 3
 followups: 10
 first_contact: 2024-05-07
 last_contact: 2025-03-03
-s_mail: 22 msgs (out 16 / in 6), 2024-05-07 -> 2025-02-10
+s_mail: 29 msgs (out 21 / in 8), 2024-05-07 -> 2026-02-12
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：佛罗里达 Express Supply / Hardened Networks（Mark Schulting，ITS/交通与 Juniper 渠道）。2024-05 → 2025-02 六次来信都是**明确规格 + 批量意向**：「32 port full layer 3 1U, 8 fiber 24 copper with a QSFP+ uplink」「all 10 gig fiber 1g/2.5g/10g, interested in buying in bulk」——但最后卡在芯片：2025-02-05「I need a broadcom chipset」。Simon 02-10 转报了两款博通整机（$1,000 / $4,000）后再无回音。
 - **对方真实需求（有据）**：全三层、1U、全 10G 光口（或 8 光 24 电 + QSFP+ 上联）、**Broadcom 芯片为硬条件**（其终端是 DOT/ITS 项目，规格写死芯片平台）。
@@ -161,13 +161,16 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：22 封（去 16 / 来 6）　|　**期间**：2024-05-07 → 2025-02-10　|　**最后去信**：2025-02-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 21 / 来 8）　|　**期间**：2024-05-07 → 2026-02-12　|　**最后去信**：2026-02-12
 - **对方邮箱**：mark@expresssupply.net、mschulting@expresssupply.net、sales@expresssupply.net
-- **最后一封来信**：2025-02-05 mschulting@expresssupply.net「Re: 48 Port SFP Switch」：Do you have any Broadcom based layer 3 switches ?
+- **最后一封来信**：2025-04-28 mark@expresssupply.net「Re: Marvell Alleycat5 Solution」：Do you have broadcom based solution?
 - **邮件里报过的价**：2025-02-10 $1000；2025-02-10 $4000
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-02-12 | 2026-02-12 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-03 | 2026-01-16 | 2 | 3 | 6 |
+| Marvell Industrial Alert System | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
 | 48 Port SFP Switch | 2025-01-23 | 2025-02-10 | 5 | 6 | 14 |
 | 48 Port 10G Core Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
@@ -292,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

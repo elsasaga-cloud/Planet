@@ -21,13 +21,13 @@ replies: 5
 followups: 12
 first_contact: 2023-12-15
 last_contact: 2025-12-07
-s_mail: 43 msgs (out 27 / in 16), 2023-12-15 -> 2026-02-03
+s_mail: 45 msgs (out 29 / in 16), 2023-12-15 -> 2026-07-02
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：圣彼得堡 TH Faraday Electronics（自有 FARADAY 牌 DIN 电源 + 工业交换机，走俄罗斯安防/自动化分销）。执行董事 Alexander Rudnev 2023-12 → 2025-01 共 16 封实质来信，需求从头到尾只有一条：**DIN 导轨 8 口千兆 PoE（30W+/口）L3 管理 + PoE 看门狗 + SFP/RJ45 上联，1G 够用**；两次被价格顶回（L2 管理 $135「price is really high. We have a supplier with much better prices」；Marvell L3 $350「350USD?」），现供应商用 Realtek。2025-01-03 最后一句「your prices are too high」，此后 Simon 只有群发，无回应。
 - **对方真实需求（有据）**：8×GE PoE（≥30W/口）+ 上联 SFP/RJ45、DIN 导轨、管理型（他说 L3，实际用途 CCTV/自动化，L2+ 静态路由大概率够）、PoE 看门狗；价格要贴近 Realtek 方案；要 EXW 人民币价（2024-12-12「Send full datasheet, pls. And EXW price in RMB」）→ 走货代人民币结算。
@@ -180,13 +180,15 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：43 封（去 27 / 来 16）　|　**期间**：2023-12-15 → 2026-02-03　|　**最后去信**：2026-02-03
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：45 封（去 29 / 来 16）　|　**期间**：2023-12-15 → 2026-07-02　|　**最后去信**：2026-07-02
 - **对方邮箱**：air@td-fe.ru、avn@td-fe.ru、ttv@td-fe.ru
 - **最后一封来信**：2025-01-03 air@td-fe.ru「RE: Din power supply」：Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com <http://www.td-fe.com/> Mob. +7 911 217-63-17 (Russia) Tel. +7 812 953-1-359 (Russia) Mob. +86 147 4350
 - **邮件里报过的价**：2024-05-21 $350；2024-05-21 $23；2024-05-20 $360；2024-05-20 $130；2024-04-18 $135；2024-02-27 $40（STI-244GP STI-488XGGPM）；2024-02-27 $310（STI-244GP STI-488XGGPM）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Firmware 7.5 L2+ Feature Update | 2026-07-02 | 2026-07-02 | 0 | 1 | 2 |
+| 10G Enterprise SFP Switch | 2026-05-11 | 2026-05-11 | 0 | 1 | 1 |
 | Updated Ethernet Switches Links | 2026-02-03 | 2026-02-03 | 0 | 1 | 1 |
 | Din power supply | 2023-12-15 | 2025-12-07 | 16 | 27 | 345 |
 
@@ -308,12 +310,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

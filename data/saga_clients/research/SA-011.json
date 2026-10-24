@@ -301,6 +301,16 @@
   "draft_en": {
    "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
    "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+  },
+  "binding": {
+   "level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货）",
+   "type": "美国 OEM 品牌商 / 转售（技术 + 价格混合）",
+   "sieve": "3（多次 PI、品牌定制）",
+   "stop": "2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘）",
+   "revive": "补 USD 报价 + 样机（草稿已备）",
+   "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
+   "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
+   "evidence": "S 邮箱往来 + PI 包（见下表 facts）"
   }
  },
  "watch": {

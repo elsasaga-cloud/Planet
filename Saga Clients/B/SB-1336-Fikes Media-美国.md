@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1336` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1336` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：德州 Fikes Media（业主 Christopher Fikes）2026-10-03 回群发：「This actually does have my interest. What levels of customization are offered? I would be interested if there was **api availability for controller integration**」；Simon 10-04 发完整 OEM 菜单 + 规格书 + MIB + CLI/Web 手册并反问 API 类型；10-19 追「arrange 2 samples?」无回应。
 - **对方真实需求（有据）**：可贴牌的 24 口 PoE 交换机 + **能被自家控制器集成的 API**（他是小型媒体/IT 服务商，想做自有品牌的可控网络）。
@@ -230,12 +230,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

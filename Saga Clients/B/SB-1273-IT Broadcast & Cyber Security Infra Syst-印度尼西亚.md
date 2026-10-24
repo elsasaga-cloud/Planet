@@ -21,13 +21,13 @@ replies: 2
 followups: 8
 first_contact: 2023-03-02
 last_contact: 2023-09-11
-s_mail: 4 msgs (out 3 / in 1), 2024-11-08 -> 2025-01-04
+s_mail: 5 msgs (out 4 / in 1), 2024-11-08 -> 2025-02-03
 p1: LT-IS6312GP-4GX8GT-FBP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -103,12 +103,13 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2024-11-08 → 2025-01-04　|　**最后去信**：2025-01-04
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：5 封（去 4 / 来 1）　|　**期间**：2024-11-08 → 2025-02-03　|　**最后去信**：2025-02-03
 - **对方邮箱**：kosovaku@gmail.com
 - **最后一封来信**：2024-11-08 cs@firesecurityproducts.zendesk.com「Request received: 8 Port Ethernet Switch」：##- Please type your reply above this line -## Dear Simon, This email is confirmation that we have received your request (Ticket #107061) and a customer service representative will action this shortly. While we endeavor to answer all queries within 24 hours, w
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-02-03 | 2025-02-03 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-01-04 | 2025-01-04 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-05 | 2024-12-05 | 1 | 1 | 3 |
 | 8 Port Ethernet Switch | 2024-11-08 | 2024-11-08 | 2 | 1 | 5 |
@@ -218,12 +219,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 24）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 24）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

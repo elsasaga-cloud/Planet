@@ -22,13 +22,13 @@ replies: 1
 followups: 19
 first_contact: 2024-02-12
 last_contact: 2025-11-05
-s_mail: 22 msgs (out 7 / in 15), 2023-11-21 -> 2024-12-11
+s_mail: 34 msgs (out 19 / in 15), 2023-11-21 -> 2026-10-06
 p1: STC-228GP
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,26 +173,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：22 封（去 7 / 来 15）　|　**期间**：2023-11-21 → 2024-12-11　|　**最后去信**：2024-12-11
-- **对方邮箱**：enquiries@regalsecurity.co.za、nsc.support@regalsecurity.co.za、sales@regalsecurity.co.za
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：34 封（去 19 / 来 15）　|　**期间**：2023-11-21 → 2026-10-06　|　**最后去信**：2026-10-06
+- **对方邮箱**：enquiries@regalsecurity.co.za、jacques.duplessis@regalsecurity.co.za、nsc.support@regalsecurity.co.za、sales@regalsecurity.co.za
 - **最后一封来信**：2024-10-17 nsc.support@regalsecurity.co.za「RE: 8 Port Industrial PoE Switch [#RS95768]」：Morning Simon Please find the Attached Quote kind regards Josephine Davis Sales Support Consultant Regal Distributors SA (Pty) Ltd T 087-802-3920 O Greenstone Head Office E nsc.support@regalsecurity.co.za W www.regalsecurity.co.za
 - **邮件里报过的价**：2024-12-11 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| RE: 8 Port Industrial PoE Switch [#RS95768] | 2024-10-17 | 2024-11-15 | 1 | 2 | 5 |
-| 8 Port Industrial PoE Switch | 2024-10-16 | 2024-10-16 | 0 | 1 | 1 |
-| 24V poe switch | 2024-08-12 | 2024-08-12 | 0 | 1 | 1 |
-| Industrial poe switch | 2024-07-15 | 2024-07-15 | 0 | 1 | 1 |
-| Support Ticket Reference [#RS74699] [4486KNP] | 2024-07-15 | 2024-07-15 | 1 | 0 | 0 |
-| Support Ticket Reference [#RS73167] [42T5E0R] | 2024-07-07 | 2024-07-07 | 1 | 0 | 0 |
-| CCTV poe switch | 2024-06-19 | 2024-06-19 | 0 | 1 | 1 |
-| Support Ticket Reference [#RS69908] [402R768] | 2024-06-19 | 2024-06-19 | 1 | 0 | 0 |
-| Support Ticket Reference [#RS64694] [3RRVJVA] | 2024-05-20 | 2024-05-20 | 1 | 0 | 0 |
-| Support Ticket Reference [#RS64502] [3RLS6AT] | 2024-05-18 | 2024-05-18 | 1 | 0 | 0 |
-| Support Ticket Reference [#RS59654] [3MR3D99] | 2024-04-23 | 2024-04-23 | 1 | 0 | 0 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Managed PoE Switches | 2026-10-06 | 2026-10-06 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-11 | 2026-09-11 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-07 | 2026-08-07 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-01 | 2026-07-01 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-28 | 2026-05-28 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-23 | 2026-03-23 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-09-01 | 2025-09-01 | 0 | 1 | 1 |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -312,12 +312,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -837,7 +837,17 @@
 "proof_gaps": [
 "A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购"
 ],
-"draft_en": null
+"draft_en": null,
+"binding": {
+"level": "轻度（2025-11 首单 $166 入门件，已付已发）",
+"type": "阿联酋 ELV/安防分销商（混合：问价为主、要环网/管理口）",
+"sieve": "3（PI STAG20251127018、付款、微信发货标记）",
+"stop": "对方未再提项目；2025-04 三档 PoE 询价未见逐项回答",
+"revive": "其项目需要 6 系列管理型 PoE（ERPS 环网）时；或 Saga 一页纸补齐 2025-04 的三档报价",
+"lane": "UAE 已通（PayPal/T/T、DHL）",
+"cadence": "最后实质来信 2025-12-01（付款）；S 邮箱 2025-11-27 后只有群发",
+"evidence": "S 邮箱 k=4911955d4797da97 + A 邮箱 PI STAG20251127018（A 总览 §3）"
+}
 },
 "watch": {
 "as_of": "2026-10-23",
@@ -4795,6 +4805,16 @@
 "draft_en": {
 "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
 "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+},
+"binding": {
+"level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货）",
+"type": "美国 OEM 品牌商 / 转售（技术 + 价格混合）",
+"sieve": "3（多次 PI、品牌定制）",
+"stop": "2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘）",
+"revive": "补 USD 报价 + 样机（草稿已备）",
+"lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
+"cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
+"evidence": "S 邮箱往来 + PI 包（见下表 facts）"
 }
 },
 "watch": {
@@ -5153,6 +5173,103 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-012",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度偏中（1 台在生产环境运行 + 固件 bug 反馈 + 博客/配置经验回传）",
+"type": "英国小型 IT 服务商 / 自用 + 技术博客（技术流）",
+"sieve": "3（付样 $500、PI、标签确认、收货验收、固件 bug 报告）",
+"stop": "对方不需要更多（单站点温室项目 1 台够用）+ PoE 异常未闭环（2026-03-19 电池供电场景 PoE 不出电，4-27 发截图后 Alan 5-20 追问无回）",
+"revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
+"lane": "UK 已通（T/T $500 2025-08，DHL）",
+"cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
+"evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0"
+},
+"situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
+"need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
+"breakpoint": "技术支持没闭环：3-13 的 SSH 终端类型问题 Alan 答复后 Chris 回「Ah, that's a shame」（= 不能改），紧接着 3-19 报 PoE 不出电并附诊断包，A 邮箱里没有看到 Saga 给出结论；4-27 截图后沉默，Alan 5-20「Any update?」无回。对一个会写 bug 报告、会回传诊断包的客户，这是最便宜的绑定机会被放掉。",
+"saga_now": {
+"p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
+"tier": 25,
+"price": "首单 $500（2025-08）；复购同款按 CNY ×1.25 ÷ 6.69 快照另写",
+"why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
+"repeat": [
+"STI-41616XGGPM-4BT ×1（2025-08）"
+],
+"gaps": [
+"PoE 在 DC 低压/欠压恢复后的行为：需 SmartByte 给结论（Simon 问 Peter，代理不问）",
+"SSH 终端类型 xterm-256color 未识别：固件侧问题，是否在 7.5 修复未知"
+]
+},
+"next_move": {
+"when": "2026-11 上旬",
+"channel": "A 邮箱",
+"action": "先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷",
+"one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
+},
+"facts": [
+{
+"date": "2025-06-11",
+"dir": "来",
+"who": "Chris（Go Green IT）",
+"quote": "I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V",
+"why": "技术流 + 读过 Drive 规格（筛子第 2 道）",
+"k": "7aa281fa9f0de7b7"
+},
+{
+"date": "2025-08-22",
+"dir": "来",
+"who": "Chris",
+"quote": "If it's only $20 difference, then yes, I might as well go for the 24port version. You mentioned the \"DI/DO/RS485\" function",
+"why": "价格不敏感，功能导向",
+"k": "06796ffea23adddd"
+},
+{
+"date": "2025-09-08",
+"dir": "来",
+"who": "Chris",
+"quote": "We have received the switch today, and it looks in good order. I have started configuring it",
+"why": "成交闭环（$500，A 总览 §3）",
+"k": "960340fdd0ad3d96"
+},
+{
+"date": "2025-11-23",
+"dir": "来",
+"who": "Chris",
+"quote": "it supports 10mbps properly - which my Linovision switch said it also supported, but it didn't work… I didn't realise that the SFP didn't autodetect 1 or 10gbps",
+"why": "替换竞品 + 生产环境运行",
+"k": "9ac926d31f10e0be"
+},
+{
+"date": "2026-03-13",
+"dir": "来",
+"who": "Chris",
+"quote": "I have a bug/feature request for the switch. When I ssh in from a modern Linux OS, the terminal is being detected as \"xterm-256color\"… your switch… defaults to \"dumb terminal\"",
+"why": "主动做 QA = 中度绑定前兆",
+"k": "20cf814dcb5e8197"
+},
+{
+"date": "2026-03-19",
+"dir": "来",
+"who": "Chris",
+"quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
+"why": "未闭环的技术问题（附诊断包）",
+"k": "81bc7f06346f18b0"
+},
+{
+"date": "2026-07-10",
+"dir": "去",
+"who": "Alan",
+"quote": "We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM)",
+"why": "7.5 = PIM-SM 可用的书面证据（对 Netaş 有用）",
+"k": "74f5b9590b098b4c"
+}
+],
+"proof_gaps": [
+"A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -5642,7 +5759,114 @@
 "让 Peter 出盖章授权函（compliance）"
 ],
 "binding_level": "较深",
-"binding_src": "Simon 口述 2026-10-23（T29-U28）"
+"binding_src": "Simon 口述 2026-10-23（T29-U28）",
+"mail_review": {
+"binding": {
+"level": "较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名）",
+"type": "德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接）",
+"sieve": "3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈）",
+"stop": "无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373）",
+"revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
+"lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
+"cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
+"evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
+},
+"situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
+"need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
+"breakpoint": "无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。",
+"saga_now": {
+"p1": "STC-4168XGGCM（在产第 6 单）",
+"tier": 30,
+"price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）",
+"why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
+"repeat": [
+"STC-4168XGGCM 双 AC（第 5、6 单）",
+"2025-09 AC5 样机 1 台"
+],
+"gaps": [
+"媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
+"交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
+"PEN/OID 维持 SmartByte（Q-45 默认不动）"
+]
+},
+"next_move": {
+"when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
+"channel": "S 邮箱（Simon 主线）",
+"action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
+"one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
+},
+"facts": [
+{
+"date": "2025-03-26",
+"dir": "来",
+"who": "Frederik Kriewitz（NYNEX）",
+"quote": "Can you please request your own SmartByte SNMP enterprise OID at iana.org… and move the various custom enterprise OIDs to this OID tree",
+"why": "客户推动 OID 规范化 = 把 Saga/SmartByte 写进自己运维体系",
+"k": "c921dc47fd9370bb"
+},
+{
+"date": "2025-03-27",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "we've PEN no. 44770 registered with IANA but for now we would prefer that you use your SmartByte PEN… Please use your standard Model Numbers",
+"why": "坚持 SmartByte 原名/OID 的起点（Q-45）",
+"k": "8f79a607c3cc831e"
+},
+{
+"date": "2025-09-10",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
+"why": "大项目需求 + 硬件监控要求",
+"k": "3c32c9ad46e6235d"
+},
+{
+"date": "2025-10-21",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
+"why": "未接住的年量需求（媒体转换器）",
+"k": "61065505a331e5fd"
+},
+{
+"date": "2025-12-18",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "with this data update the OID was updated, working as expected now",
+"why": "固件/MIB 迭代闭环",
+"k": "e2c8e6b4f49f56e3"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "For the 230pcs project we used our existing supply because you initially quoted a long lead time",
+"why": "交期丢单的原话",
+"k": "c24584352bd15931"
+},
+{
+"date": "2026-09-29",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
+"why": "第 6 单 + 价格敏感度上升",
+"k": "afced0c9af361141"
+},
+{
+"date": "2026-10-15",
+"dir": "来",
+"who": "Frederik Kriewitz",
+"quote": "payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used",
+"why": "较深绑定的最新证据",
+"k": "60ac95de9259a792"
+}
+],
+"proof_gaps": [
+"A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -25972,6 +26196,78 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-064",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度（2 台样机已付已收）",
+"type": "美国政府/企业 IT 转售商（GSA MAS 至 2027-07-25）（混合：先问价再要样）",
+"sieve": "3（PayPal 付样、收货）",
+"stop": "对方不需要 / 无回音——2025-07 样机到手后未再来信；Alan 2026-05/07/08 三次单向推送（10G L3、Q3 链接、24 口 PoE $170）无回",
+"revive": "52 Networks 拿到联邦/州项目（GSA 渠道）；或对方对 24 口 PoE $170 报价有反应",
+"lane": "US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge）",
+"cadence": "最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成",
+"evidence": "A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档"
+},
+"situation": "美国 52 Networks（John Davis，Director Sales，VA）2025-07-11 回群发问「anything similar to」他附的 1U 非管理机 → 两天内问价、问含电源价 → 7-17 要 2 台样机 + PayPal 链接 → 7-18 付款 → 7-22/23 催货 → 7-24「Thanks」后沉默。**典型美国转售商试样：两周内付钱，之后没有项目就没有声音。**",
+"need": "① 8 口工业 PoE（附 1U 非管理机图样，可能是替代某现有 SKU）；② 含电源整套报价；③ 快（反复问 how soon）。",
+"breakpoint": "样机之后没有项目触发；Saga 三次推送都是通用新品（10G L3 / Q3 链接 / 24 口 PoE），没有针对他 7 月那款 8 口工业 PoE 的回访（样机用得怎样、是否进了目录）。",
+"saga_now": {
+"p1": "他 2025-07 买的 8 口工业 PoE 同款（型号以 PI 为准）",
+"tier": 20,
+"price": "样机 2 台已成交（A 总览 §3）；批量报价按 CNY ×1.2 ÷ 6.69 快照另写",
+"why": "转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）",
+"repeat": [
+"8 口工业 PoE 样机 ×2（2025-07）"
+],
+"gaps": [
+"美国项目若要 TAA/UL：Saga 不做 UL（INH 规则），TAA 产地问题要先问清——不主动承诺"
+]
+},
+"next_move": {
+"when": "2026-11 中旬",
+"channel": "A 邮箱",
+"action": "只问样机去向（进目录了吗、哪个项目），不发新品",
+"one_question": "Did the two 8-port industrial PoE samples end up in a project or in your GSA catalog, and what was missing if not?"
+},
+"facts": [
+{
+"date": "2025-07-11",
+"dir": "来",
+"who": "John Davis（52 Networks）",
+"quote": "Do you have anything similar to that?（附 1U Unmanaged 图）",
+"why": "需求来源 = 替代某现有 SKU",
+"k": "3cce90c065ca8ce5"
+},
+{
+"date": "2025-07-17",
+"dir": "来",
+"who": "John Davis",
+"quote": "Can you send me a sample for 2? Shipping Address: 5142 Meeting pl woodbridge VA 22193 And let me know how to pay?",
+"why": "样机决策快",
+"k": "34e665593ab1c50f"
+},
+{
+"date": "2025-07-18",
+"dir": "来",
+"who": "John Davis",
+"quote": "I just made the payment",
+"why": "PayPal 成交",
+"k": "41a1bbbe8f213553"
+},
+{
+"date": "2026-08-14",
+"dir": "去",
+"who": "Alan",
+"quote": "Marvell AC5 based L2+ switch… 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC",
+"why": "最近一次报价点（群发式）",
+"k": "9fc5dd871aabe856"
+}
+],
+"proof_gaps": [
+"A 邮箱 2025-07 分片在重跑范围内：Alan 7-12/7-18 的报价原文待补（当前分片 2025-07 只有 154 KB）"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -237458,7 +237754,93 @@
 "url": "https://larch-networks.com/",
 "date": "2026-10-21"
 }
+],
+"mail_review": {
+"binding": {
+"level": "未绑定（无成交；对方是 NOS/软件服务商兼渠道）",
+"type": "以色列/国际 SONiC 软件与网络服务商（技术流，但角色更像合作方/竞品而非买家）",
+"sieve": "2（读过全部 Drive 链接、能点名 AC3→AC5、DX1518/1548）",
+"stop": "Saga 边界 + 国内冲突——8,000 台 Campus L2（24×1G+4×10G，目标 $250）2026-03-31 Alan「conflict with one of our clients… a domestic client… internal decision」停；SONiC 合作被 Alan 以「高速线用 CENTEC、Marvell 高速不做激进研发」婉拒；2026-07 要 10 颗 DX1518/1548 芯片被拒",
+"revive": "仅当 Simon 改判国内冲突规则（Q-49）或 Larch 以**买家**身份提出 AC5 L2+/L3 的具体订单；SONiC 合作按边界不做",
+"lane": "IL 部分（收款/物流无先例）",
+"cadence": "最后 2026-07-02 Alan 拒芯片请求；实质往来 2025-05-22 → 2026-07-02 约 14 轮",
+"evidence": "A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5"
+},
+"situation": "Larch Networks（Alexander / Andrey / Oksana）2025-05 起对光旁路机、Booster PoE 都问芯片/内存细节；2026-03-30 提 **8,000 台校园 L2 交换机**（24×1G + 4×10G SFP+、可换 PSU、冗余风扇、USB + Console 管理），Alan 次日先问细节、再以「与一个国内客户冲突，内部决定」+「$250 目标价难」停止；5 月 Larch 反过来推销「商业支持的 SONiC」并约 COMPUTEX 后会议，Alan 以 CENTEC 高速路线婉拒；7 月 Larch 急要 10 颗 DX1518/DX1548 芯片，Alan 以 Marvell 采购审查严拒绝。**A 邮箱里最大的量，也是 C11「供应商关系 > 客户机会」的教科书案例。**",
+"need": "① 8,000 台校园 L2（规格见上，目标 $250/台）；② SONiC NOS 合作（他们卖服务）；③ Marvell AC5 现货型号/价格/交期清单（5-26 列了 8/24/48 口、1G/SFP+/SFP28 组合）；④ 零星芯片采购。",
+"breakpoint": "不是对方停，是 Saga 主动停：国内客户冲突（E23/Q-49）+ 不做高速 Marvell 研发 + 不卖芯片。三条都是边界，不是谈判空间。",
+"saga_now": {
+"p1": "不推；若对方以买家身份回来，只给 AC5 商业 L2+/L3 现货清单（8/24/48 口）",
+"tier": 25,
+"price": "不报价（边界户）",
+"why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
+"repeat": [],
+"gaps": [
+"不卖芯片、不做 SONiC 移植、不碰国内冲突项目——三条都已书面说过，别再开口"
 ]
+},
+"next_move": {
+"when": "不主动触达；只在 Larch 来信时回",
+"channel": "A 邮箱",
+"action": "被动；若 Q-49 改判，再由 Simon 决定是否回到 8,000 台项目",
+"one_question": "（无——边界户不设问）"
+},
+"facts": [
+{
+"date": "2026-03-30",
+"dir": "来",
+"who": "Alexander（Larch）",
+"quote": "a customer of ours needs 8,000 units of a Campus L2 switch… 24× 1G ETH + 4× 10G SFP+ • PSU: Field-replaceable, 1× AC 100–240V • Fans: Internal redundant",
+"why": "A 邮箱最大数量需求",
+"k": "c3ec0dc5b8622bbb"
+},
+{
+"date": "2026-03-31",
+"dir": "去",
+"who": "Alan",
+"quote": "it seems to be in conflict with one of our clients. They are also following up with this project. so we have to stop here!!",
+"why": "C11 让路",
+"k": "827e3f81f687bb3b"
+},
+{
+"date": "2026-03-31",
+"dir": "去",
+"who": "Alan",
+"quote": "target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision",
+"why": "国内冲突 + 价格两重原因（E23）",
+"k": "f0fca5051f786b75"
+},
+{
+"date": "2026-05-22",
+"dir": "来",
+"who": "Alexander",
+"quote": "Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house NOS team",
+"why": "角色翻转：对方成了供应商",
+"k": "48f6b22ac0e2c199"
+},
+{
+"date": "2026-05-27",
+"dir": "去",
+"who": "Alan",
+"quote": "AC3 to AC5 transition is almost done for ALL models… commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production… industrial models, ALL models got AC5-ready samples",
+"why": "Saga 产品线状态的权威书面版本（2026-05）",
+"k": "ddbe426f9e94bdd4"
+},
+{
+"date": "2026-07-02",
+"dir": "来",
+"who": "Oksana（Larch）",
+"quote": "We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock?",
+"why": "芯片请求被拒（Marvell 采购审查）",
+"k": "f77f97cdc39f10a5"
+}
+],
+"proof_gaps": [
+"A 邮箱 2025-05 分片在重跑范围：5-22 之前的光旁路机往来待补"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -283131,7 +283513,130 @@
 "log": "data/customer_watch/变化日志.md"
 },
 "binding_level": "轻度",
-"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
+"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
+"mail_review": {
+"binding": {
+"level": "轻度（1 台样机留在终端客户处）",
+"type": "系统集成商 / 国防通信项目承包（技术流）",
+"sieve": "3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机）",
+"stop": "功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C）",
+"revive": "固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机",
+"lane": "TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程）",
+"cadence": "最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga",
+"evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5"
+},
+"situation": "土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。",
+"need": "① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。",
+"breakpoint": "不是价格、不是信任（PO/付款/报关都走完了），是**芯片方案的功能上限 + 温度**。Alan 2026-02-27 原话「PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.」——属于 C10 边界，不设计绕路。但 7.5 固件已补 PIM-SM（仅 CLI、无 PIM-DM、无 IP SLA，见微信 Peter 2026 原话），边界比 2 月时小了一格。",
+"saga_now": {
+"p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
+"tier": 25,
+"price": "样机单 3 台 $545 已成交（PI 2025-12）；重开报价按 CNY ×1.25 ÷ 6.69，快照日期另写",
+"why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）",
+"repeat": [
+"STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
+],
+"gaps": [
+"PIM-DM、IP SLA、RIPng/PBR：7.5 仍不支持（Peter 微信明确）——只能老实说",
+"-40~+71 °C L3 机型：Marvell 工业线温度范围需查规格书后再承诺，不猜",
+"不替 Simon 向 SmartByte 问 PCBA 阶梯价（U29）；若 Netaş 再提 PCBA，由 Simon 决定是否开这条线"
+]
+},
+"next_move": {
+"when": "2026-11 第一周（距 7-17 单向更新满 3 个月）",
+"channel": "A 邮箱（Alan 主线，抄 Ender 的 gmail endearbulut@gmail.com——他 2026-01-23 主动给的）",
+"action": "一封三行：7.5 固件 PIM-SM 已可用（CLI）、PIM-DM 仍无、问客户的 L3 组播是否 PIM-SM 即可；顺带问留在客户处那台样机的测试结论",
+"one_question": "Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?"
+},
+"facts": [
+{
+"date": "2025-12-01",
+"dir": "来",
+"who": "Ender Bulut（Netaş）",
+"quote": "We have decided to move forward with your STI-488DGGPM-2BT as our L2 switch solution… colleagues… will assist with the NDA and compliance process",
+"why": "正式选型 + 进入供应商开户流程（筛子第 3 道）",
+"k": "221f4293f7917453"
+},
+{
+"date": "2025-12-23",
+"dir": "来",
+"who": "Burak Özdemir（采购）",
+"quote": "Please find in the attachment the PO",
+"why": "PO 落地；12-24「The PI is approved… We don't require any logo」",
+"k": "575f6cc1f5d1c75d"
+},
+{
+"date": "2026-01-13",
+"dir": "来",
+"who": "Burak Özdemir",
+"quote": "The payment has been made. Could you help me with the delivery of the products?",
+"why": "3 台样机 $545 付清（A 总览 §3）",
+"k": "c1778580f27190ae"
+},
+{
+"date": "2026-01-21",
+"dir": "来",
+"who": "Ender Bulut",
+"quote": "IGMPv2, IGMPv3, and IPv4 Multicast (PIM-SM, PIM-DM) specifications are necessary for a Layer-3 switch",
+"why": "第一次提出组播硬需求",
+"k": "bbbaee1e4e6d88df"
+},
+{
+"date": "2026-01-29",
+"dir": "来",
+"who": "Burak Özdemir",
+"quote": "The invoice you sent us is from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices sent?",
+"why": "报关单据暴露了货代/出口主体与 Saga 不一致——下次出口前统一单据口径（物流两条线，U28）",
+"k": "2a8ead0c64c4f045"
+},
+{
+"date": "2026-02-26",
+"dir": "来",
+"who": "Ender Bulut",
+"quote": "Do you have any idea when L3 Multicast PIM-SM and PIM-DM will be ready? Our costumer wants to go with layer-3 solution and must be include PIM-SM and PIM DM",
+"why": "停点原话",
+"k": "10e6fdf62c477b46"
+},
+{
+"date": "2026-02-27",
+"dir": "来",
+"who": "Ender Bulut",
+"quote": "For the CENTEC-based solutions, the operating temperature range (0°C to 40°C) does not seem enough… Our requirement is -40°C to +71°C",
+"why": "CENTEC 替代路线被温度否决",
+"k": "bbdc059bf34b2fbc"
+},
+{
+"date": "2026-02-27",
+"dir": "去",
+"who": "Alan",
+"quote": "PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.",
+"why": "Saga 明确划边界（C10）",
+"k": "7adbcd07a050e85a"
+},
+{
+"date": "2026-03-02",
+"dir": "来",
+"who": "Ender Bulut",
+"quote": "We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… If we receive new requests for Layer-2 switches… we will contact you",
+"why": "轻度绑定证据 + 复活条件由对方说出",
+"k": "2b615482de0608a5"
+},
+{
+"date": "2026-07-17",
+"dir": "去",
+"who": "Alan",
+"quote": "We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features",
+"why": "最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了）",
+"k": "a323d408b374a3d1"
+}
+],
+"proof_gaps": [
+"A 邮箱 2025-03~08 分片重跑后核对 Simon 最初转介 Netaş 的 S 侧邮件是否有更早接触",
+"留在客户处那台样机的测试结论（对方未反馈）"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -388481,7 +388986,112 @@
 "tier": 25,
 "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）"
 },
-"email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?"
+"email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
+"mail_review": {
+"binding": {
+"level": "轻度（已报价、对方高层批准、未付款）",
+"type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
+"sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
+"stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
+"revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
+"lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
+"cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
+"evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de"
+},
+"situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
+"need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
+"breakpoint": "双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。",
+"saga_now": {
+"p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
+"tier": 25,
+"price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用",
+"why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
+"repeat": [],
+"gaps": [
+"SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
+"800G：无，不许诺",
+"400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问"
+]
+},
+"next_move": {
+"when": "2026-11 上旬（9-07 追问满 2 个月）",
+"channel": "A 邮箱",
+"action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界",
+"one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
+},
+"facts": [
+{
+"date": "2025-11-11",
+"dir": "来",
+"who": "Steve（ITM）",
+"quote": "You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom",
+"why": "OEM 意向开端",
+"k": "8a0346334ec9c3de"
+},
+{
+"date": "2025-11-25",
+"dir": "来",
+"who": "Steve",
+"quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
+"why": "SDK/API 需求 = 边界信号",
+"k": "68cb354a84c7aa86"
+},
+{
+"date": "2026-02-05",
+"dir": "来",
+"who": "Steve",
+"quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
+"why": "内部审批阶段",
+"k": "d4ad954f1fff2bea"
+},
+{
+"date": "2026-03-20",
+"dir": "来",
+"who": "Steve",
+"quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
+"why": "正式 RFQ（$107,675）",
+"k": "4093fbb543ef9f90"
+},
+{
+"date": "2026-05-11",
+"dir": "来",
+"who": "Steve",
+"quote": "We will delay the customer from paying us as they will expect the products within 30 days of payment",
+"why": "对方当时的紧迫度 vs Saga 7 月才有货",
+"k": "66dba977aaf68e50"
+},
+{
+"date": "2026-05-19",
+"dir": "来",
+"who": "Steve",
+"quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
+"why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
+"k": "77fc79297576e203"
+},
+{
+"date": "2026-08-03",
+"dir": "去",
+"who": "Alan",
+"quote": "the 400G switches are ready to ship now",
+"why": "Saga 侧就绪时间",
+"k": "140d7d5efe818d7e"
+},
+{
+"date": "2026-08-15",
+"dir": "来",
+"who": "Steve",
+"quote": "I have update the Senior Manager about the availability of goods and will get back to you",
+"why": "最后一封来信",
+"k": "87738057b3f134de"
+}
+],
+"proof_gaps": [
+"A 邮箱 2025-03~08 重跑后看 ITM 是否更早回过群发",
+"ITM 终端客户是谁（邮件未提）——不去搜，等对方说"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {

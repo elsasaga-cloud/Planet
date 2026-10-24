@@ -19,13 +19,13 @@ replies: 0
 followups: 4
 first_contact: 2025-06-19
 last_contact: 2025-09-19
-s_mail: 9 msgs (out 0 / in 9), 2024-05-22 -> 2025-01-20
+s_mail: 10 msgs (out 1 / in 9), 2024-05-22 -> 2025-09-19
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -121,11 +121,13 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：9 封（去 0 / 来 9）　|　**期间**：2024-05-22 → 2025-01-20　|　**最后去信**：—
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 1 / 来 9）　|　**期间**：2024-05-22 → 2025-09-19　|　**最后去信**：2025-09-19
+- **对方邮箱**：info@tamyeezsecurity.com
 - **最后一封来信**：2025-01-20 notifications@poewit-technologies-inc.odoo.com「16 Port PoE Managed Switch (#8756)」：Dear Simon, Your request 16 Port PoE Managed Switch has been received and is being reviewed by our Sales team. The reference of your ticket is 8756. View the ticket To add additional [...] ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch (#8756) | 2025-01-20 | 2025-01-20 | 1 | 0 | 0 |
 | Mini Industrial PoE Switch (#8583) | 2024-12-25 | 2024-12-25 | 1 | 0 | 0 |
 | 90W PoE Managed Switch (#8327) | 2024-11-27 | 2024-11-27 | 1 | 0 | 0 |
@@ -255,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

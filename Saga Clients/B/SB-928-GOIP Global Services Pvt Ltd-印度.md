@@ -21,13 +21,13 @@ replies: 0
 followups: 9
 first_contact: 2024-05-08
 last_contact: 2025-06-17
-s_mail: 20 msgs (out 13 / in 7), 2024-04-24 -> 2024-11-25
+s_mail: 25 msgs (out 18 / in 7), 2024-04-24 -> 2026-09-21
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -154,13 +154,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：20 封（去 13 / 来 7）　|　**期间**：2024-04-24 → 2024-11-25　|　**最后去信**：2024-11-25
-- **对方邮箱**：info@goip.in、info@syrotech.com、pankaj.sodhi@goip.in、pankaj@syrotech.com、support@syrotech.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 18 / 来 7）　|　**期间**：2024-04-24 → 2026-09-21　|　**最后去信**：2026-09-21
+- **对方邮箱**：akshat.pandey@goip.in、info@goip.in、info@syrotech.com、pankaj.sodhi@goip.in、pankaj@syrotech.com、sachin.verma@goip.in
 - **最后一封来信**：2024-10-24 pankaj.sodhi@goip.in「Re: 8 Port 2.5G Switch」：Hi Simon, It is Semi manage or manage Switch, Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. I am on WhatsApp at +91-9818989801 and on Skype at pankaj.sodhi Regards, Pankaj Sodhi +91-9818989801
 - **邮件里报过的价**：2024-08-13 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-21 | 2026-09-21 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-09-01 | 2026-09-01 | 1 | 1 | 3 |
+| 24 Port PoE Managed Switch | 2026-07-24 | 2026-07-24 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-06-16 | 2026-06-16 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-01 | 2026-05-01 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
 | 8 Port 2.5G Switch | 2024-10-22 | 2024-10-24 | 1 | 1 | 1 |
 | Your request has been logged with request id ##157861## | 2024-10-22 | 2024-10-22 | 1 | 0 | 0 |
@@ -168,12 +173,7 @@ updated: 2026-10-23
 | Mini Industrial PoE Switch | 2024-09-26 | 2024-09-26 | 0 | 1 | 1 |
 | unmanaged switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
 | 24 port poe switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
-| 10G managed switch | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
-| Your request has been logged with request id ##143428## | 2024-08-13 | 2024-08-13 | 1 | 0 | 0 |
-| Industrial poe switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| 24V poe switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| 8 port poe switch | 2024-07-16 | 2024-07-16 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -300,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

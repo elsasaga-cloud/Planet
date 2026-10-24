@@ -21,13 +21,13 @@ replies: 0
 followups: 14
 first_contact: 2024-05-09
 last_contact: 2025-10-02
-s_mail: 8 msgs (out 6 / in 2), 2024-07-05 -> 2025-02-05
+s_mail: 21 msgs (out 19 / in 2), 2024-07-05 -> 2026-09-30
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,20 +133,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 6 / 来 2）　|　**期间**：2024-07-05 → 2025-02-05　|　**最后去信**：2025-02-05
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 19 / 来 2）　|　**期间**：2024-07-05 → 2026-09-30　|　**最后去信**：2026-09-30
 - **对方邮箱**：derechos@davantel.com、info@davantel.com、jrsalvador@davantel.com
 - **最后一封来信**：2024-08-05 jrsalvador@davantel.com「Ausente - Out of office」：Estaré fuera de la oficina con acceso limitado al email hasta el 19 de Agosto. En caso de urgencia llamar al 933408712. Nuestro almacén permanecerá cerrado del 12 al 18 de Agosto. I'll be out of the office with limited access to my email untill August 19th. In
 - **邮件里报过的价**：2024-10-18 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 8 Port Industrial PoE Switch | 2025-02-05 | 2025-02-05 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
-| Unmanaged switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| Unmanaged switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| Ausente - Out of office | 2024-08-05 | 2024-08-05 | 2 | 0 | 0 |
-| 8 port 2.5G switch | 2024-07-05 | 2024-07-05 | 0 | 1 | 1 |
+| Managed PoE Switches | 2026-09-30 | 2026-09-30 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-27 | 2026-08-27 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-22 | 2026-07-22 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-24 | 2026-06-24 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-22 | 2026-05-22 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-16 | 2026-04-16 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-24 | 2026-03-24 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-11 | 2026-02-11 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-08 | 2026-01-08 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-16 | 2025-12-16 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -265,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

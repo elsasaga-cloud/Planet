@@ -21,13 +21,13 @@ replies: 1
 followups: 14
 first_contact: 2025-02-08
 last_contact: 2025-10-31
-s_mail: 6 msgs (out 5 / in 1), 2024-10-30 -> 2025-02-07
+s_mail: 21 msgs (out 20 / in 1), 2024-10-30 -> 2026-08-31
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -106,16 +106,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：6 封（去 5 / 来 1）　|　**期间**：2024-10-30 → 2025-02-07　|　**最后去信**：2025-02-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2024-10-30 → 2026-08-31　|　**最后去信**：2026-08-31
 - **对方邮箱**：chk999@outlook.com
 - **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Industrial PoE Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-30 | 2024-11-15 | 1 | 3 | 5 |
+| 24 Port PoE Managed Switch | 2026-08-31 | 2026-08-31 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-07-31 | 2026-07-31 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-09 | 2026-07-09 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-17 | 2026-06-17 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-08 | 2026-05-08 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-14 | 2026-04-14 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-20 | 2026-03-20 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-06 | 2026-03-06 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-03 | 2026-02-03 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-12-17 | 2025-12-17 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-01 | 2025-12-01 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-10-31 | 2025-10-31 | 0 | 1 | 1 |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,12 +230,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

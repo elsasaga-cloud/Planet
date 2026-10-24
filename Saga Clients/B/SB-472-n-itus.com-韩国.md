@@ -21,13 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-11-13
 last_contact: 2025-11-13
-s_mail: 5 msgs (out 5 / in 0), 2024-06-28 -> 2024-12-04
+s_mail: 14 msgs (out 13 / in 1), 2024-06-28 -> 2026-03-30
 p1: none
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -108,13 +108,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2024-06-28 → 2024-12-04　|　**最后去信**：2024-12-04
-- **对方邮箱**：yhahn@n-itus.com
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 13 / 来 1）　|　**期间**：2024-06-28 → 2026-03-30　|　**最后去信**：2026-03-30
+- **对方邮箱**：peter01@n-itus.com、yhahn@n-itus.com
+- **最后一封来信**：2025-11-13 peter01@n-itus.com「RE: Booster PoE Switch」：Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. Director / overseas biz. Peter
 - **邮件里报过的价**：2024-11-06 $300；2024-08-29 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-13 | 2025-12-11 | 1 | 4 | 7 |
+| Booster PoE Switch | 2025-10-30 | 2025-10-30 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-13 | 2025-10-13 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | 8 Port Ethernet Switch | 2024-12-04 | 2024-12-04 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-06 | 2024-11-06 | 0 | 1 | 1 |
 | 24V/48V PoE Switch | 2024-10-10 | 2024-10-10 | 0 | 1 | 1 |
@@ -238,12 +243,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

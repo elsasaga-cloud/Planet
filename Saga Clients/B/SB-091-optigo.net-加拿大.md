@@ -19,12 +19,13 @@ replies: 0
 followups: 3
 first_contact: 2025-08-26
 last_contact: 2025-10-18
+s_mail: 7 msgs (out 7 / in 0), 2025-08-26 -> 2026-03-06
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -116,6 +117,22 @@ updated: 2026-10-23
 | 2025-08-26 | 2025.8.26 | 22mini |  | A |  | Canada 3.5.xlsx#40 |
 | 2025-09-19 | 919 | 24fiber |  | A |  | Canada 3.5.xlsx#40 |
 | 2025-10-18 | 1018 | 28bt |  | A |  | Canada 3.5.xlsx#40 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2025-08-26 → 2026-03-06　|　**最后去信**：2026-03-06
+- **对方邮箱**：info@optigo.net
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-03-06 | 2026-03-06 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-30 | 2026-01-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2026-01-05 | 2026-01-05 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-26 | 2025-08-26 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -234,12 +251,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

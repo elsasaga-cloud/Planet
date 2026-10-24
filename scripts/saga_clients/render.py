@@ -439,7 +439,11 @@ def fmt_mail_review(ent):
     mr = (ent.get('research') or {}).get('mail_review')
     if not mr:
         return ''
-    L = [f"> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py {ent['code']}` 可复现）+ PI 包 + Drive 资料；复盘日期 {mr.get('as_of', '')}。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**", '']
+    L = [f"> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py {ent['code']}` 可复现）+ PI 包 + Drive 资料；复盘日期 {mr.get('as_of', '')}。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**", '']
+    bd = mr.get('binding') or {}
+    if bd:
+        # T29-U40 判读框架 J1–J7（docs/Saga内在逻辑与概念_2026-10-24.md §4）：一行固定格式，脚本可读
+        L.append(f"- **绑定等级：{bd.get('level', '未绑定')}** ｜ 类型：{bd.get('type', '—')} ｜ 筛子：{bd.get('sieve', '—')} ｜ 停点：{bd.get('stop', '—')} ｜ 复活：{bd.get('revive', '—')} ｜ 通路：{bd.get('lane', '—')} ｜ 节奏：{bd.get('cadence', '—')} ｜ 证据：{bd.get('evidence', '—')}")
     if mr.get('situation'):
         L.append(f"- **现状一句话**：{mr['situation']}")
     if mr.get('need'):

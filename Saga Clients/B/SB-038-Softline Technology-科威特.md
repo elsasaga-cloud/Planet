@@ -21,12 +21,13 @@ replies: 2
 followups: 14
 first_contact: 2024-04-28
 last_contact: 2025-07-24
+s_mail: 5 msgs (out 5 / in 0), 2026-04-15 -> 2026-09-15
 p1: STI-21616GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -115,6 +116,20 @@ updated: 2026-10-23
 | 2025-05-13 | 513 | 4 8 16口工业FS |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#72 |
 | 2025-07-24 | 724 | 24 48口商业图 | useful | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#72 |
 | ? | 93 | bypass |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#72 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2026-04-15 → 2026-09-15　|　**最后去信**：2026-09-15
+- **对方邮箱**：rajaanand42@gmail.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-15 | 2026-09-15 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-07-31 | 2026-07-31 | 0 | 1 | 1 |
+| 32 Port 400GB DC Switch | 2026-06-18 | 2026-06-18 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-05-27 | 2026-05-27 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-15 | 2026-04-15 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -224,12 +239,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

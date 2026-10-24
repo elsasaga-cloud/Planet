@@ -21,12 +21,13 @@ replies: 1
 followups: 17
 first_contact: 2024-04-28
 last_contact: 2025-11-05
+s_mail: 4 msgs (out 4 / in 0), 2025-10-01 -> 2026-02-05
 p1: STI-488GP
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -107,6 +108,19 @@ updated: 2026-10-23
 | 2025-08-28 | 828 | 电口 |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
 | 2025-10-01 | 101 | dac | email也发了 | Whatsapp |  | South Africa 2.5.xlsx#38 |
 | 2025-11-05 | 115 | solar |  | Whatsapp |  | South Africa 2.5.xlsx#38 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2025-10-01 → 2026-02-05　|　**最后去信**：2026-02-05
+- **对方邮箱**：adejumokojo@gmail.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -212,12 +226,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 17 msgs (out 10 / in 7), 2025-07-21 -> 2026-10-07
 p1: STC-448XGGM(L3)
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -131,6 +132,20 @@ updated: 2026-10-23
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：17 封（去 10 / 来 7）　|　**期间**：2025-07-21 → 2026-10-07　|　**最后去信**：2026-10-07
+- **对方邮箱**：dmitrii.kim@latmedia.uz、vladimir.xe@latmedia.uz
+- **最后一封来信**：2025-11-24 vladimir.xe@latmedia.uz「Re: Booster PoE Switch」：Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC Mobile Phone : +998 90 9767748 E-mail:vladimir.xe@latmedia.uz 21.11.2025 1
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed PoE Switches | 2026-10-07 | 2026-10-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-06 | 2026-08-06 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-09 | 2026-07-09 | 0 | 1 | 2 |
+| Booster PoE Switch | 2025-11-21 | 2025-11-24 | 1 | 1 | 2 |
+| OEM and SDK for National product | 2025-07-21 | 2025-10-11 | 6 | 6 | 0 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -259,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 63）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 63）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

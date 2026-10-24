@@ -21,12 +21,13 @@ replies: 1
 followups: 8
 first_contact: 2025-07-09
 last_contact: 2025-07-09
+s_mail: 10 msgs (out 8 / in 2), 2025-07-09 -> 2026-09-08
 p1: STI-21616GP
 price_tier: 30%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -114,6 +115,21 @@ updated: 2026-10-23
 | ? | 717 | 28bt |  | A |  | Taiwan.xlsx#93 |
 | ? | 822 | 4 24 |  |  |  | Taiwan.xlsx#93 |
 | ? | 917 | 4 24 |  | A |  | Taiwan.xlsx#93 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：10 封（去 8 / 来 2）　|　**期间**：2025-07-09 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：bruceyang@edimax.com.tw、jessechen@edimax.com.tw、marketing@edimax.com.tw、sales@edimax.com
+- **最后一封来信**：2025-07-09 jessechen@edimax.com.tw「RE: 16 Port Ethernet Switch」：Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-10 | 2026-08-10 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-15 | 2026-07-15 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-09 | 2025-10-20 | 2 | 4 | 8 |
+| L3 Managed Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -238,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 71）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 71）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

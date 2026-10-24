@@ -19,12 +19,13 @@ replies: 0
 followups: 9
 first_contact: 2025-10-23
 last_contact: 2025-10-23
+s_mail: 9 msgs (out 7 / in 2), 2025-08-22 -> 2026-08-11
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -125,6 +126,21 @@ updated: 2026-10-23
 | ? | 822 | 4 24 |  | A |  | Taiwan.xlsx#92 |
 | ? | 917 | 22mini |  | A |  | Taiwan.xlsx#92 |
 | ? | 1023 | dac |  | A |  | Taiwan.xlsx#92 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：9 封（去 7 / 来 2）　|　**期间**：2025-08-22 → 2026-08-11　|　**最后去信**：2026-08-11
+- **对方邮箱**：ctc_pm_group@ctcu.com.tw、ctcgmgroup@ctcu.com.tw、derek-tsai@ctcu.com.tw、eddy-kao@ctcu.com.tw、marketing@ctcu.com、micro-chang@ctcu.com.tw
+- **最后一封来信**：2026-01-13 micro-chang@ctcu.com.tw「RE: OEM Core Switching Solution」：Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* marketing@ctcu.com; sales2@ctcu.com.tw *Subject:* OEM Core Switching Solution Hi, Gary, How are you? I am introducin
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-13 | 2026-07-20 | 1 | 2 | 5 |
+| Booster PoE Switch | 2025-12-01 | 2025-12-01 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 1 | 1 | 2 |
+| Mini Industrial PoE Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
+| L3 Managed Switch | 2025-08-22 | 2025-08-22 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -249,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

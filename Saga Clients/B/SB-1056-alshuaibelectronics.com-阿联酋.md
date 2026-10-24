@@ -21,12 +21,13 @@ replies: 0
 followups: 22
 first_contact: 2023-12-15
 last_contact: 2025-10-27
+s_mail: 6 msgs (out 6 / in 0), 2026-04-27 -> 2026-09-28
 p1: STI-288GP
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,6 +141,21 @@ updated: 2026-10-23
 | 2025-09-24 | 924 | dac |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#20 |
 | 2025-10-27 | 1027 | solar |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#20 |
 | ? | 52 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#20 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2026-04-27 → 2026-09-28　|　**最后去信**：2026-09-28
+- **对方邮箱**：vijith@alshuaib.ae
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed PoE Switches | 2026-09-28 | 2026-09-28 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-17 | 2026-08-17 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-23 | 2026-07-23 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-06-18 | 2026-06-18 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-13 | 2026-05-13 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -261,12 +277,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

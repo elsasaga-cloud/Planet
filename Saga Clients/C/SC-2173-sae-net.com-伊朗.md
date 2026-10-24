@@ -19,13 +19,13 @@ replies: 1
 followups: 19
 first_contact: 2024-03-31
 last_contact: 2025-09-30
-s_mail: 18 msgs (out 16 / in 2), 2024-07-02 -> 2025-10-01
+s_mail: 19 msgs (out 17 / in 2), 2024-07-02 -> 2025-10-01
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -164,8 +164,8 @@ updated: 2026-10-23
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -17）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -17）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

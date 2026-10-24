@@ -21,12 +21,13 @@ replies: 0
 followups: 7
 first_contact: 2025-03-26
 last_contact: 2025-11-05
+s_mail: 13 msgs (out 13 / in 0), 2025-09-01 -> 2026-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -113,6 +114,28 @@ updated: 2026-10-23
 | 2025-11-05 | 115 | solar |  | A |  | South Africa 2.5.xlsx#44 |
 | ? | 71 | 48口 |  | A |  | South Africa 2.5.xlsx#44 |
 | ? | 91 | 16电 |  | A |  | South Africa 2.5.xlsx#44 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2025-09-01 → 2026-10-06　|　**最后去信**：2026-10-06
+- **对方邮箱**：deon@brigit.co.za、lyle@brigit.co.za
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed PoE Switches | 2026-10-06 | 2026-10-06 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-11 | 2026-09-11 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-07 | 2026-08-07 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-01 | 2026-07-01 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-28 | 2026-05-28 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-20 | 2026-04-20 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-23 | 2026-03-23 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -234,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

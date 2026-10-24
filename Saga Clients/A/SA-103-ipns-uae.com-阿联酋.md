@@ -21,12 +21,13 @@ replies: 0
 followups: 11
 first_contact: 2024-11-12
 last_contact: 2025-10-22
+s_mail: 16 msgs (out 15 / in 1), 2025-08-26 -> 2026-09-22
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -148,6 +149,28 @@ updated: 2026-10-23
 | 2025-09-22 | 922 | 10gmc |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#7 |
 | 2025-10-22 | 1022 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#7 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2025-08-26 → 2026-09-22　|　**最后去信**：2026-09-22
+- **对方邮箱**：gk@ipns-uae.com、sales1@ipns-uae.com、sales@ipns-uae.com
+- **最后一封来信**：2026-08-12 sales@ipns-uae.com「Confirmation: BORN 24-Port Managed Switch Requirement」：Dear Sir, Greetings Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch? Thanks & Regards Jomini Midhun Sales Coordinator \| PH: 0523374803 Intelligent Professional Network Solutions LLC Email: <mailto:nr@ipns-uae.com> 
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-22 | 2026-09-22 | 0 | 1 | 1 |
+| Confirmation: BORN 24-Port Managed Switch Requirement | 2026-08-12 | 2026-08-15 | 1 | 1 | 2 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-02 | 2026-07-02 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-09 | 2026-06-09 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-11 | 2026-05-11 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-23 | 2026-04-23 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-07 | 2026-04-07 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-06 | 2026-03-06 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-19 | 2025-12-19 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
@@ -267,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 68）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 68）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

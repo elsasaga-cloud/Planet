@@ -21,13 +21,13 @@ replies: 1
 followups: 18
 first_contact: 2024-04-26
 last_contact: 2025-10-23
-s_mail: 4 msgs (out 4 / in 0), 2024-06-18 -> 2025-01-02
+s_mail: 9 msgs (out 9 / in 0), 2024-06-18 -> 2026-01-09
 p1: STI-050GE
 price_tier: 30%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -138,13 +138,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2024-06-18 → 2025-01-02　|　**最后去信**：2025-01-02
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-18 → 2026-01-09　|　**最后去信**：2026-01-09
 - **对方邮箱**：info@fti-optronic.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-13 $300；2024-09-09 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| OEM Core Switching Solution | 2026-01-09 | 2026-01-09 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-12-03 | 2025-12-03 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-01-02 | 2025-01-02 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
 | 10G media converter | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
@@ -262,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

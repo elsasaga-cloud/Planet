@@ -22,12 +22,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 8 msgs (out 8 / in 0), 2026-03-03 -> 2026-09-09
 p1: STC-08GE
 price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -122,6 +123,23 @@ updated: 2026-10-23
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2026-03-03 → 2026-09-09　|　**最后去信**：2026-09-09
+- **对方邮箱**：zohaib@dabos.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-09 | 2026-09-09 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-12 | 2026-08-12 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-15 | 2026-07-15 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-23 | 2026-06-23 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-19 | 2026-05-19 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-31 | 2026-03-31 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-03 | 2026-03-03 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -239,12 +257,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

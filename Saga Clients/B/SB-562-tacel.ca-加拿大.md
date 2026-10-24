@@ -19,13 +19,13 @@ replies: 0
 followups: 8
 first_contact: 2025-03-01
 last_contact: 2025-10-17
-s_mail: 2 msgs (out 1 / in 1), 2025-01-16 -> 2025-01-16
+s_mail: 17 msgs (out 16 / in 1), 2025-01-16 -> 2026-09-07
 p1: STI-288GPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,14 +137,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2025-01-16 → 2025-01-16　|　**最后去信**：2025-01-16
-- **对方邮箱**：gabor.szabo@tacel.ca、gil.marques@tacel.ca、info@tacel.ca
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 16 / 来 1）　|　**期间**：2025-01-16 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：gabor.szabo@tacel.ca、george.soares@tacel.ca、gil.marques@tacel.ca、info@tacel.ca
 - **最后一封来信**：2025-01-16 gil.marques@tacel.ca「Automatic reply: L3 Managed Switch」：﻿ Thank you for your email. I am currently out of the office and will not be available from January 13 through January 20, 2025. I will respond to your message as soon as possible upon my return on January 20, 2025. If your matter is urgent, please contact Yas
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-16 | 2025-01-16 | 0 | 1 | 1 |
-| Automatic reply: L3 Managed Switch | 2025-01-16 | 2025-01-16 | 1 | 0 | 0 |
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-18 | 2026-08-18 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-08-04 | 2026-08-04 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-03 | 2026-07-03 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-09 | 2026-06-09 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-12 | 2026-05-12 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-17 | 2026-04-17 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-04 | 2026-03-04 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2026-01-02 | 2026-01-02 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -270,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

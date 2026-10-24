@@ -21,13 +21,13 @@ replies: 0
 followups: 1
 first_contact: 2025-09-27
 last_contact: 2025-09-27
-s_mail: 4 msgs (out 4 / in 0), 2024-10-30 -> 2025-01-08
+s_mail: 13 msgs (out 12 / in 1), 2024-10-30 -> 2026-09-07
 p1: none
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -115,13 +115,21 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2024-10-30 → 2025-01-08　|　**最后去信**：2025-01-08
-- **对方邮箱**：sales@nag.ru
-- 对方从未回信（全部为我方去信）
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2024-10-30 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：a.ryazanov@nag.ru、l.abrarova@nag.ru、sales@nag.ru
+- **最后一封来信**：2025-10-01 sales@nag.ru「Re: 10G Enterprise SFP Switch」：? ?
 - **邮件里报过的价**：2025-01-08 $240
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-08 | 2025-12-08 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-10-31 | 2025-10-31 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
+| Re: 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 1 | 1 | 5 |
+| 48 Port PoE Managed Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-01-08 | 2025-01-08 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
@@ -251,12 +259,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

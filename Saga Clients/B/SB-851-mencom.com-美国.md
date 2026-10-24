@@ -19,13 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2024-05-08
 last_contact: 2025-10-24
-s_mail: 11 msgs (out 8 / in 3), 2023-12-28 -> 2025-01-23
+s_mail: 28 msgs (out 25 / in 3), 2023-12-28 -> 2026-09-16
 p1: STI-280GE
 price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,24 +137,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：11 封（去 8 / 来 3）　|　**期间**：2023-12-28 → 2025-01-23　|　**最后去信**：2025-01-23
-- **对方邮箱**：john@mencom.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 25 / 来 3）　|　**期间**：2023-12-28 → 2026-09-16　|　**最后去信**：2026-09-16
+- **对方邮箱**：jason.moore@mencom.com、john.heath@mencom.com、john@mencom.com
 - **最后一封来信**：2024-08-23 john@mencom.com「Automatic reply: 8 port ethernet switch」：I will be out of the office starting August 16th, returning on Monday August 26th. Please email your alternate contact here at Mencom, or you can send a request directly to mark.dixon@mencom.com and Mark will assist. Please contact the factory directly for imm
 - **邮件里报过的价**：2024-11-25 $300；2024-09-23 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-23 | 2025-01-23 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 2 |
-| 90W PoE Managed Switch | 2024-10-31 | 2024-10-31 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-09-23 | 2024-09-23 | 0 | 1 | 1 |
-| 8 port ethernet switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| Automatic reply: 8 port ethernet switch | 2024-08-23 | 2024-08-23 | 1 | 0 | 0 |
-| Industrial poe switch | 2024-07-29 | 2024-07-29 | 0 | 1 | 1 |
-| Din power adapter | 2024-07-01 | 2024-07-01 | 0 | 1 | 1 |
-| Automatic reply: Din power adapter | 2024-07-01 | 2024-07-01 | 1 | 0 | 0 |
-| Automatic reply: UL certified din power adpter | 2023-12-28 | 2023-12-28 | 1 | 0 | 0 |
+| 16 Port Industrial PoE Switch | 2026-09-16 | 2026-09-16 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-19 | 2026-08-19 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-25 | 2026-06-25 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-28 | 2026-05-28 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-29 | 2026-04-29 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-03 | 2026-04-03 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-13 | 2026-03-13 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-12 | 2026-02-12 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-16 | 2026-01-16 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-09 | 2025-12-09 | 0 | 1 | 1 |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -274,12 +276,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

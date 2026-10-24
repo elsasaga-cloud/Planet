@@ -19,13 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2024-05-02
 last_contact: 2025-10-28
-s_mail: 11 msgs (out 8 / in 3), 2024-05-02 -> 2025-01-31
+s_mail: 28 msgs (out 25 / in 3), 2024-05-02 -> 2026-09-28
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -134,24 +134,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：11 封（去 8 / 来 3）　|　**期间**：2024-05-02 → 2025-01-31　|　**最后去信**：2025-01-31
-- **对方邮箱**：brandon@dmsimfg.com、dustin@dmsimfg.com、evan@dmsimfg.com、info@dmsimfg.com、kelly@dmsimfg.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 25 / 来 3）　|　**期间**：2024-05-02 → 2026-09-28　|　**最后去信**：2026-09-28
+- **对方邮箱**：brandon@dmsimfg.com、dustin@dmsimfg.com、evan@dmsimfg.com、info@dmsimfg.com、iylin@dmsimfg.com、kelly@dmsimfg.com
 - **最后一封来信**：2025-01-02 brandon@dmsimfg.com「Automatic reply: 48 Port 10G Core Switch」：December 25th through January 5th DMSI facilities are closed. We will re-open on Monday January 6th. The sales team is monitoring emails, responses will be delayed.
 - **邮件里报过的价**：2024-11-21 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-31 | 2025-01-31 | 0 | 1 | 1 |
-| 48 Port 10G Core Switch | 2025-01-02 | 2025-01-02 | 0 | 1 | 1 |
-| Automatic reply: 48 Port 10G Core Switch | 2025-01-02 | 2025-01-02 | 1 | 0 | 0 |
-| Industrial PoE Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-21 | 2024-11-21 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-21 | 2024-10-21 | 0 | 1 | 1 |
-| Passive poe switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
-| 2.5G network switch | 2024-07-18 | 2024-07-18 | 0 | 1 | 1 |
-| Industrial PoE Managed Switch | 2024-06-24 | 2024-06-24 | 0 | 1 | 1 |
-| Vacation | 2024-05-23 | 2024-05-23 | 1 | 0 | 0 |
-| Vacation | 2024-05-02 | 2024-05-02 | 1 | 0 | 0 |
+| Managed PoE Switches | 2026-09-28 | 2026-09-28 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-25 | 2026-08-25 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-27 | 2026-07-27 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-27 | 2026-06-27 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-05 | 2026-06-05 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-04 | 2026-05-04 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-08 | 2026-04-08 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-17 | 2026-03-17 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-26 | 2026-02-26 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-12 | 2025-12-12 | 0 | 1 | 1 |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -278,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

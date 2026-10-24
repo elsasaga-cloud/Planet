@@ -19,13 +19,13 @@ replies: 0
 followups: 21
 first_contact: 2023-12-09
 last_contact: 2025-10-06
-s_mail: 12 msgs (out 12 / in 0), 2024-06-15 -> 2025-01-01
+s_mail: 17 msgs (out 17 / in 0), 2024-06-15 -> 2026-02-16
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -126,13 +126,18 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2024-06-15 → 2025-01-01　|　**最后去信**：2025-01-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-15 → 2026-02-16　|　**最后去信**：2026-02-16
 - **对方邮箱**：info@electrologicservices.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-11 $240；2024-11-13 $300；2024-07-17 $65；2024-06-15 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-02-16 | 2026-02-16 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-05 | 2025-12-05 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-01 | 2025-01-01 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
@@ -140,11 +145,7 @@ updated: 2026-10-23
 | Power Converter | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
 | Industrial poe switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
 | Web managed switch | 2024-09-08 | 2024-09-08 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
-| 10G media converter | 2024-07-17 | 2024-07-17 | 0 | 1 | 1 |
-| POE Managed Switch | 2024-07-07 | 2024-07-07 | 0 | 1 | 1 |
-| 90W poe managed switch | 2024-06-19 | 2024-06-19 | 0 | 1 | 1 |
-| 10G media converter | 2024-06-15 | 2024-06-15 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -261,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

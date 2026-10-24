@@ -19,13 +19,13 @@ replies: 0
 followups: 10
 first_contact: 2025-02-27
 last_contact: 2025-10-24
-s_mail: 2 msgs (out 1 / in 1), 2024-11-29 -> 2025-01-22
+s_mail: 19 msgs (out 18 / in 1), 2024-11-29 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -125,14 +125,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2024-11-29 → 2025-01-22　|　**最后去信**：2025-01-22
-- **对方邮箱**：michael@platinumcctv.com、sales@platinumcctv.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2024-11-29 → 2026-09-16　|　**最后去信**：2026-09-16
+- **对方邮箱**：michael@platinumcctv.com、paul@platinumcctv.com、sales@platinumcctv.com、sebastian@platinumcctv.com
 - **最后一封来信**：2024-11-29 michael@platinumcctv.com「Automatic reply: 8 Port Ethernet Switch」：I will be out of the office from Nov 21, 2024 to Dec 02, 2024 with very limited access to emails. I will respond to your message when I return. If you need more immediate response, please reach out to: Sales or Quote Related issues: Scott@PlatinumCCTV.com Supp
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-22 | 2025-01-22 | 0 | 1 | 1 |
-| Automatic reply: 8 Port Ethernet Switch | 2024-11-29 | 2024-11-29 | 1 | 0 | 0 |
+| 16 Port Industrial PoE Switch | 2026-09-16 | 2026-09-16 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-24 | 2026-06-24 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-27 | 2026-05-27 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-29 | 2026-04-29 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-03 | 2026-04-03 | 0 | 1 | 2 |
+| Marvell Managed Commercial Switches | 2026-03-13 | 2026-03-13 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-12 | 2026-02-12 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-16 | 2026-01-16 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-07 | 2025-12-07 | 0 | 1 | 1 |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -254,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

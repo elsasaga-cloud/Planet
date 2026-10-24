@@ -21,13 +21,13 @@ replies: 1
 followups: 6
 first_contact: 2025-02-26
 last_contact: 2025-08-29
-s_mail: 2 msgs (out 1 / in 1), 2025-01-15 -> 2025-01-16
+s_mail: 9 msgs (out 8 / in 1), 2025-01-15 -> 2026-02-13
 p1: STI-220GE
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -100,12 +100,19 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2025-01-15 → 2025-01-16　|　**最后去信**：2025-01-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 8 / 来 1）　|　**期间**：2025-01-15 → 2026-02-13　|　**最后去信**：2026-02-13
 - **对方邮箱**：joemar.baquiran@gmail.com
 - **最后一封来信**：2025-01-15 joemar.baquiran@gmail.com「Re: Mini Industrial PoE Switch」：sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-02-13 | 2026-02-13 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-09 | 2026-01-09 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-07 | 2025-11-07 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-03 | 2025-10-03 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-02-26 | 2025-02-26 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-01-05 | 2025-01-16 | 1 | 2 | 4 |
 
 ## 联系方式（已有 · 原值照录）
@@ -214,12 +221,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

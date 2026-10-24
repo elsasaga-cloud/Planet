@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 6 msgs (out 6 / in 0), 2025-12-15 -> 2026-09-04
 p1: STC-424XGGM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -122,6 +123,21 @@ updated: 2026-10-23
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-12-15 → 2026-09-04　|　**最后去信**：2026-09-04
+- **对方邮箱**：mail@cleverkey.ru
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-09-04 | 2026-09-04 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-29 | 2026-04-29 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-26 | 2026-03-26 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-10 | 2026-02-10 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-14 | 2026-01-14 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -237,12 +253,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

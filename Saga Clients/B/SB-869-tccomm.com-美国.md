@@ -19,13 +19,13 @@ replies: 0
 followups: 19
 first_contact: 2025-02-20
 last_contact: 2025-11-04
-s_mail: 9 msgs (out 8 / in 1), 2024-06-19 -> 2025-01-16
+s_mail: 34 msgs (out 33 / in 1), 2024-06-19 -> 2026-09-09
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -152,21 +152,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：9 封（去 8 / 来 1）　|　**期间**：2024-06-19 → 2025-01-16　|　**最后去信**：2025-01-16
-- **对方邮箱**：larry@novaca.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：34 封（去 33 / 来 1）　|　**期间**：2024-06-19 → 2026-09-09　|　**最后去信**：2026-09-09
+- **对方邮箱**：fredrickc@tccomm.com、larry@novaca.com、stevec@tccomm.com
 - **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
 - **邮件里报过的价**：2024-11-26 $65；2024-06-19 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Industrial PoE Switch | 2025-01-16 | 2025-01-16 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-11-26 | 2024-11-26 | 1 | 2 | 4 |
-| 10G Ethernet Web Managed Switch | 2024-10-30 | 2024-11-15 | 1 | 3 | 5 |
-| Power Converter | 2024-09-27 | 2024-09-27 | 0 | 1 | 1 |
-| Mini industrial switch | 2024-08-24 | 2024-08-24 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-07-21 | 2024-07-21 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-06-19 | 2024-06-19 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-09 | 2026-09-09 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-13 | 2026-08-13 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-16 | 2026-07-16 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-23 | 2026-06-23 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-22 | 2026-05-22 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-01 | 2026-04-01 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-12 | 2026-03-12 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-10 | 2026-03-10 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-09 | 2026-02-09 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-02-04 | 2026-02-04 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-13 | 2026-01-13 | 0 | 1 | 1 |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -295,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

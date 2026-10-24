@@ -19,13 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2024-05-13
 last_contact: 2025-11-05
-s_mail: 6 msgs (out 6 / in 0), 2024-06-15 -> 2024-11-15
+s_mail: 20 msgs (out 20 / in 0), 2024-06-15 -> 2026-10-02
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -169,8 +169,8 @@ updated: 2026-10-23
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 18）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 18）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

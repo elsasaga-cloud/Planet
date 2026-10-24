@@ -19,13 +19,13 @@ replies: 0
 followups: 22
 first_contact: 2024-04-30
 last_contact: 2025-10-20
-s_mail: 18 msgs (out 8 / in 10), 2024-04-29 -> 2025-01-09
+s_mail: 35 msgs (out 24 / in 11), 2024-04-29 -> 2026-09-04
 p1: STI-280GE
 price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -142,26 +142,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：18 封（去 8 / 来 10）　|　**期间**：2024-04-29 → 2025-01-09　|　**最后去信**：2025-01-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 24 / 来 11）　|　**期间**：2024-04-29 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：kevin@ksm.com.au、sales@ksm.com.au
-- **最后一封来信**：2025-01-09 sales@ksm.com.au「Thank you for your email, please select from one of the options below?」：In order to best service your inquiry, please make a selection: For immediate attention please call reception: 02 8003 3372 to speak to someone. Alternatively we will respond as follows: Email Replies: By close of business day. Order Placement: Please place or
+- **最后一封来信**：2025-01-28 sales@ksm.com.au「Thank you for your email, please select from one of the options below?」：In order to best service your inquiry, please make a selection: For immediate attention please call reception: 02 8003 3372 to speak to someone. Alternatively we will respond as follows: Email Replies: By close of business day. Order Placement: Please place or
 - **邮件里报过的价**：2024-12-23 $240；2024-11-22 $300；2024-06-25 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 16 Port Ethernet Switch | 2025-01-09 | 2025-01-09 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2025-01-09 | 2025-01-09 | 1 | 0 | 0 |
-| 24 Port Fiber Switch | 2024-12-23 | 2024-12-23 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2024-12-23 | 2024-12-23 | 1 | 0 | 0 |
-| 48 Port PoE Managed Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2024-11-22 | 2024-11-22 | 1 | 0 | 0 |
-| Industrial PoE Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2024-10-23 | 2024-10-23 | 1 | 0 | 0 |
-| 90W poe managed switch | 2024-09-10 | 2024-09-10 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2024-09-10 | 2024-09-10 | 1 | 0 | 0 |
-| 24 port poe switch | 2024-08-16 | 2024-08-16 | 0 | 1 | 1 |
-| Thank you for your email, please select from one of the options below? | 2024-08-16 | 2024-08-16 | 1 | 0 | 0 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 24 Port PoE Managed Switch | 2026-09-04 | 2026-09-04 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-24 | 2026-06-24 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-29 | 2026-05-29 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-04 | 2026-05-04 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-04-08 | 2026-04-08 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-16 | 2026-03-16 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-08 | 2026-01-08 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-18 | 2025-12-18 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -278,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

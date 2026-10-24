@@ -19,13 +19,13 @@ replies: 0
 followups: 1
 first_contact: 2025-10-20
 last_contact: 2025-10-20
-s_mail: 12 msgs (out 5 / in 7), 2024-07-09 -> 2026-10-21
+s_mail: 29 msgs (out 16 / in 13), 2024-07-09 -> 2026-10-21
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,25 +129,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：12 封（去 5 / 来 7）　|　**期间**：2024-07-09 → 2026-10-21　|　**最后去信**：2024-11-18
-- **对方邮箱**：marketing@consteel-electronics.com、sklep@consteel-electronics.com、t.horak@consteel-electronics.com
-- **最后一封来信**：2026-10-21 sklep@consteel-electronics.com「Industrial IP68 Keyboard for Just PLN 299 Net? In Stock Now!」：Witam! Otrzymałeś newsletter od CONSTEEL Electronics sp. z o.o. sp. k.. Niestety Twoja przeglądarka nie wyświetla formatu HTML. Kliknij poniżej, żeby go odczytać: https://click.mlsend2.com/link/c/YT0zMTI0NzE4NjIwNDg0MDQ4Njk2JmM9bzJpOCZlPTE5MjgmYj0xNTc1NzY5Nzgw
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 16 / 来 13）　|　**期间**：2024-07-09 → 2026-10-21　|　**最后去信**：2026-09-25
+- **对方邮箱**：b.marciszewski@consteel-electronics.com、marketing@consteel-electronics.com、sklep@consteel-electronics.com、t.horak@consteel-electronics.com
+- **最后一封来信**：2026-10-21 sklep@consteel-electronics.com「Klawiatura przemysłowa IP68 za 299 zł netto? Mamy na magazynie!」：Witam! Otrzymałeś newsletter od CONSTEEL Electronics sp. z o.o. sp. k.. Niestety Twoja przeglądarka nie wyświetla formatu HTML. Kliknij poniżej, żeby go odczytać: https://click.mlsend2.com/link/c/YT0zMTI0NzIxNzA4NzY2ODYwMzY0JmM9cDhnMSZlPTE5MjgmYj0xNTc1NzcxNDQ0
 - **邮件里报过的价**：2024-11-18 $300；2024-10-21 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | Industrial IP68 Keyboard for Just PLN 299 Net? In Stock Now! | 2026-10-21 | 2026-10-21 | 1 | 0 | 0 |
 | Klawiatura przemysłowa IP68 za 299 zł netto? Mamy na magazynie! | 2026-10-21 | 2026-10-21 | 1 | 0 | 0 |
+| Industrial IP68 Keyboard for Just PLN 299 Net? In Stock Now! | 2026-10-21 | 2026-10-21 | 1 | 0 | 0 |
+| Klawiatura przemysłowa IP68 za 299 zł netto? Mamy na magazynie! | 2026-10-21 | 2026-10-21 | 1 | 0 | 0 |
 | Potrzebujesz RS-232 ➡ Ethernet na już? Mamy na magazynie | 2026-10-07 | 2026-10-07 | 1 | 0 | 0 |
 | Need RS-232 to Ethernet now? We have it in stock. | 2026-10-07 | 2026-10-07 | 1 | 0 | 0 |
+| Potrzebujesz RS-232 ➡ Ethernet na już? Mamy na magazynie | 2026-10-07 | 2026-10-07 | 1 | 0 | 0 |
+| Need RS-232 to Ethernet now? We have it in stock. | 2026-10-07 | 2026-10-07 | 1 | 0 | 0 |
+| Managed PoE Switches | 2026-09-25 | 2026-09-25 | 0 | 1 | 1 |
 | M-Bus in BMS/SCADA? This gateway is available from stock | 2026-09-23 | 2026-09-23 | 1 | 0 | 0 |
 | M-Bus w BMS/SCADA? Ten konwerter mamy od ręki | 2026-09-23 | 2026-09-23 | 1 | 0 | 0 |
-| 48 Port PoE Managed Switch | 2024-11-18 | 2024-11-18 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-10-21 | 2024-10-21 | 0 | 1 | 1 |
-| 8 Port Network Switch | 2024-09-04 | 2024-09-04 | 0 | 1 | 1 |
-| PoE Managed Switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| Automatyczna odpowiedź | 2024-08-08 | 2024-08-08 | 1 | 0 | 0 |
-| 2.5G Ethernet Switch | 2024-07-09 | 2024-07-09 | 0 | 1 | 1 |
+| M-Bus in BMS/SCADA? This gateway is available from stock | 2026-09-23 | 2026-09-23 | 1 | 0 | 0 |
+| …共 29 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -267,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

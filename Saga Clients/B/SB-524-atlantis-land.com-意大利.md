@@ -19,13 +19,13 @@ replies: 0
 followups: 13
 first_contact: 2024-05-01
 last_contact: 2025-10-16
-s_mail: 6 msgs (out 6 / in 0), 2024-06-15 -> 2024-11-18
+s_mail: 18 msgs (out 18 / in 0), 2024-06-15 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -132,19 +132,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-06-15 → 2024-11-18　|　**最后去信**：2024-11-18
-- **对方邮箱**：info@atlantis-land.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-15 → 2026-09-16　|　**最后去信**：2026-09-16
+- **对方邮箱**：d.sdanga@atlantis-land.com、info@atlantis-land.com、mdl@atlantis-land.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-18 $300；2024-09-06 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 48 Port PoE Managed Switch | 2024-11-18 | 2024-11-18 | 0 | 1 | 1 |
-| 2.5G Web Managed Switch | 2024-10-21 | 2024-10-21 | 0 | 1 | 1 |
-| 10G media converter | 2024-09-06 | 2024-09-06 | 0 | 1 | 1 |
-| PoE Switch | 2024-08-09 | 2024-08-09 | 0 | 1 | 1 |
-| 24V poe switch | 2024-07-12 | 2024-07-12 | 0 | 1 | 1 |
-| Industrial media converter | 2024-06-15 | 2024-06-15 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-16 | 2026-09-16 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-08-04 | 2026-08-04 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-29 | 2026-06-29 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-03 | 2026-06-03 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-26 | 2026-03-26 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-03 | 2026-03-03 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-28 | 2026-01-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-09-12 | 2025-09-12 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -266,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

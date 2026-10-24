@@ -21,13 +21,13 @@ replies: 0
 followups: 9
 first_contact: 2025-04-02
 last_contact: 2025-11-04
-s_mail: 12 msgs (out 7 / in 5), 2024-05-10 -> 2024-12-19
+s_mail: 27 msgs (out 22 / in 5), 2024-05-10 -> 2026-08-31
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -136,23 +136,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：12 封（去 7 / 来 5）　|　**期间**：2024-05-10 → 2024-12-19　|　**最后去信**：2024-12-19
-- **对方邮箱**：customerservice@nellyssecurity.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 22 / 来 5）　|　**期间**：2024-05-10 → 2026-08-31　|　**最后去信**：2026-08-31
+- **对方邮箱**：cole@nellyssecurity.com、customerservice@nellyssecurity.com、rodaniel@nellyssecurity.com
 - **最后一封来信**：2024-08-06 customerservice@nellyssecurity.com「[Request received] PoE switch」：##- Please type your reply above this line -## Your request (253755) has been received and is being reviewed by our support staff. To add additional comments, reply to this email. <br> -------------------------------- This email is a service from Nelly's Secur
 - **邮件里报过的价**：2024-11-06 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| Mini Industrial PoE Switch | 2024-12-19 | 2024-12-19 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-12-02 | 2024-12-02 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-06 | 2024-11-06 | 0 | 1 | 1 |
-| 24V/48V PoE Switch | 2024-10-09 | 2024-10-09 | 0 | 1 | 1 |
-| Industrial network switch | 2024-08-27 | 2024-08-27 | 0 | 1 | 1 |
-| PoE switch | 2024-08-06 | 2024-08-06 | 1 | 1 | 1 |
-| How would you rate the support you received here at Nelly's? | 2024-07-08 | 2024-07-08 | 1 | 0 | 0 |
-| 24 port poe switch | 2024-07-04 | 2024-07-04 | 1 | 1 | 1 |
-| How would you rate the support you received here at Nelly's? | 2024-06-04 | 2024-06-04 | 1 | 0 | 0 |
-| How would you rate the support you received here at Nelly's? | 2024-05-10 | 2024-05-10 | 1 | 0 | 0 |
+| 24 Port PoE Managed Switch | 2026-08-31 | 2026-08-31 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-07-30 | 2026-07-30 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-08 | 2026-07-08 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-16 | 2026-06-16 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-07 | 2026-05-07 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-13 | 2026-04-13 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-19 | 2026-03-19 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-09 | 2026-03-09 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-02-04 | 2026-02-04 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-12-17 | 2025-12-17 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-01 | 2025-12-01 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -278,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

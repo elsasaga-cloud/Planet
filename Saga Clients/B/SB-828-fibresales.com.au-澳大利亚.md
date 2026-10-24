@@ -19,13 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 8 msgs (out 8 / in 0), 2024-06-24 -> 2025-01-02
+s_mail: 9 msgs (out 9 / in 0), 2024-06-24 -> 2025-02-26
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -103,13 +103,14 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-24 → 2025-01-02　|　**最后去信**：2025-01-02
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-24 → 2025-02-26　|　**最后去信**：2025-02-26
 - **对方邮箱**：sales@fibresales.com.au
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-02 $300；2024-12-20 $240；2024-11-27 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-02-26 | 2025-02-26 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2025-01-02 | 2025-01-02 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2024-12-20 | 2024-12-20 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-27 | 2024-11-27 | 0 | 1 | 1 |
@@ -235,12 +236,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

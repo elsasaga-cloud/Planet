@@ -9,7 +9,7 @@ import csv, glob, json, os, re
 from collections import defaultdict
 from common import DATA, ROOT
 
-ACCOUNTS = ['s']
+ACCOUNTS = ['s', 'a']   # 2026-10-24 T29-U40：A 邮箱入库后并入（2025-03~08 分片待 Release 重跑补齐）
 AUTO = re.compile(r'(out of (the )?office|automatic reply|auto-?reply|autoreply|delivery status|undeliver|mailer-daemon|postmaster|unsubscribe|no-?reply|noreply|newsletter|zendesk|ticket|thank you for contacting|we have received your (message|email|inquiry)|vacation|abwesen|poza biurem|отпуск|автоответ|réponse automatique|ferie|on leave|promo|%|sale!)', re.I)
 OUT = os.path.join(DATA, 'gmail_digest.json')
 
@@ -113,9 +113,31 @@ def main():
             if li and not li.get('auto') and li['date'] > (last_out.get(code, '') or ''):
                 t = threads.get(li.get('thr') or '')
                 pending = bool(t and t.get('out', 0) > 0)
-            digest[code] = {'pending_reply': pending, 'account': f'{acct}.sagatelecom', 'messages': v['messages'], 'out': v['out'], 'in': v['in'], 'first': v['first'][:10], 'last': v['last'][:10],
-                            'emails': v.get('emails', []), 'threads': th[:30], 'last_in': last_in.get(code), 'last_out': last_out.get(code, ''),
-                            'quotes': qq[:12], 'attachments': sorted(atts.get(code, []))[:12]}
+            for x in th:
+                x['acct'] = acct
+            rec = {'pending_reply': pending, 'account': f'{acct}.sagatelecom', 'messages': v['messages'], 'out': v['out'], 'in': v['in'], 'first': v['first'][:10], 'last': v['last'][:10],
+                   'emails': v.get('emails', []), 'threads': th[:30], 'last_in': last_in.get(code), 'last_out': last_out.get(code, ''),
+                   'quotes': qq[:12], 'attachments': sorted(atts.get(code, []))[:12]}
+            old = digest.get(code)
+            if not old:
+                digest[code] = rec
+                continue
+            # 多账号合并（2026-10-24）：计数相加、线程并集按最后日期排序、最后来/去信取最新、报价/附件并集；pending 以最新一封来信为准
+            li_old, li_new = old.get('last_in'), rec.get('last_in')
+            li = li_new if (li_new and (not li_old or li_new['date'] >= li_old['date'])) else li_old
+            lo = max(old.get('last_out') or '', rec.get('last_out') or '')
+            pend = bool(li and not li.get('auto') and li['date'] > lo and (old['pending_reply'] if li is li_old else rec['pending_reply']))
+            thr = {x['id']: x for x in old['threads'] + rec['threads']}
+            seen_q, qm = set(), []
+            for x in sorted(old['quotes'] + rec['quotes'], key=lambda x: x['date'], reverse=True):
+                if (x['date'], x['usd']) in seen_q:
+                    continue
+                seen_q.add((x['date'], x['usd']))
+                qm.append(x)
+            digest[code] = {'pending_reply': pend, 'account': old['account'] + '+' + f'{acct}.sagatelecom', 'messages': old['messages'] + rec['messages'],
+                            'out': old['out'] + rec['out'], 'in': old['in'] + rec['in'], 'first': min(old['first'], rec['first']), 'last': max(old['last'], rec['last']),
+                            'emails': sorted(set(old['emails']) | set(rec['emails'])), 'threads': sorted(thr.values(), key=lambda x: x['last'], reverse=True)[:30],
+                            'last_in': li, 'last_out': lo, 'quotes': qm[:12], 'attachments': sorted(set(old['attachments']) | set(rec['attachments']))[:12]}
     json.dump(digest, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
     print('clients', len(digest), '→', os.path.relpath(OUT, ROOT))
 

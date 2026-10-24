@@ -22,13 +22,13 @@ replies: 1
 followups: 11
 first_contact: 2024-02-04
 last_contact: 2024-10-17
-s_mail: 6 msgs (out 4 / in 2), 2024-11-06 -> 2024-12-12
+s_mail: 20 msgs (out 18 / in 2), 2024-11-06 -> 2026-09-21
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -146,14 +146,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：6 封（去 4 / 来 2）　|　**期间**：2024-11-06 → 2024-12-12　|　**最后去信**：2024-12-12
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 18 / 来 2）　|　**期间**：2024-11-06 → 2026-09-21　|　**最后去信**：2026-09-21
 - **对方邮箱**：sales@avanca.com.sg、steven@avanca.com.sg
 - **最后一封来信**：2024-11-06 steven@avanca.com.sg「Re: 10G Media Converter」：Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Tel: +65 62425108 Mobile/Whatsapp: +65 96878577 Email: steven@avanca.com.sg<mailto:steven@avanca.com.s
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 8 Port Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-11-06 | 2024-11-15 | 3 | 4 | 15 |
+| 16 Port Industrial PoE Switch | 2026-09-21 | 2026-09-21 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-21 | 2026-08-21 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-11 | 2026-06-11 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-05-14 | 2026-05-14 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-10 | 2026-04-10 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-19 | 2026-03-19 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-23 | 2026-01-23 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-23 | 2025-12-23 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -271,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,13 +21,13 @@ replies: 1
 followups: 20
 first_contact: 2024-04-03
 last_contact: 2025-10-28
-s_mail: 15 msgs (out 12 / in 3), 2024-06-17 -> 2025-01-03
+s_mail: 35 msgs (out 30 / in 5), 2024-06-17 -> 2026-09-25
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：FiberX（Ivan Rivera）2025-01-03 一天内 3 封来信，问题非常具体：**小机身、≥8×SFP+ + 8×GE、DC 48V、机架式（不是 DIN）、什么操作系统**。Simon 给了 4×SFP+ 机型和 1U「4 SFP+ + 16 SFP + 8 combo（DC36–75V）」+ Marvell 手册，对方要了规格书后再无回音；Simon 之后 6 封推送无回应。
 - **对方真实需求（有据）**：8+ 个 10G SFP+ 与 8 个 GE 的紧凑机架机、DC 48V 供电（运营商/机房场景）、要知道 OS/CLI 风格。
@@ -186,21 +186,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：15 封（去 12 / 来 3）　|　**期间**：2024-06-17 → 2025-01-03　|　**最后去信**：2025-01-03
-- **对方邮箱**：info@fiberx.net、irivera@fiberx.net
-- **最后一封来信**：2025-01-03 irivera@fiberx.net「RE: 24 Port Fiber Switch」：Hi, Couple of questions to you. Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? [cid:image001.png@01DB5D75.8D4BE640]
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 30 / 来 5）　|　**期间**：2024-06-17 → 2026-09-25　|　**最后去信**：2026-09-25
+- **对方邮箱**：emorillo@fiberx.net、info@fiberx.net、irivera@fiberx.net
+- **最后一封来信**：2026-06-08 irivera@fiberx.net「RE: 10G L3 Managed Switch」：Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F50]
 - **邮件里报过的价**：2025-01-01 $240；2024-11-20 $300；2024-07-22 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 24 Port Fiber Switch | 2025-01-01 | 2025-01-03 | 3 | 5 | 22 |
-| 8 Port Industrial PoE Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
-| 2.5G switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
-| 10G fiber media converter | 2024-07-22 | 2024-07-22 | 0 | 1 | 1 |
-| 90W poe switch | 2024-06-17 | 2024-06-17 | 0 | 1 | 1 |
+| Managed PoE Switches | 2026-09-25 | 2026-09-25 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-25 | 2026-08-25 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-23 | 2026-07-23 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-29 | 2026-06-29 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-05 | 2026-06-08 | 2 | 3 | 13 |
+| 10G Enterprise SFP Switch | 2026-05-01 | 2026-05-01 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-08 | 2026-04-08 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-17 | 2026-03-17 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-26 | 2026-02-26 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-01-23 | 2026-01-23 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-12 | 2025-12-12 | 0 | 1 | 1 |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -323,12 +328,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

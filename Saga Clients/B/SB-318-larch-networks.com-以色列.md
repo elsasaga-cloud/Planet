@@ -19,12 +19,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 38 msgs (out 24 / in 14), 2025-05-21 -> 2026-07-02
 p1: STI-488XGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,10 +33,34 @@ updated: 2026-10-23
 - **是谁**：以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。（调研 2026-10-21；表内兴趣：dcn 工业FS 中科德能的）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-488XGGPM — 深挖对位：自有 LN-1508GP-4XGF-I-M（工业 8 PoE + 4×10G SFP+ 管理）→ Saga STI-488XGGPM（工业 8 PoE + 4×10G L2+，$178.7 @30%）；8 PoE + 2 GE 位 STI-288DGGPM；现供应商 DCN/中科德能 = 已接受中国 ODM，可谈二供；$178.8 USD EXW（30% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若对方以买家身份回来，只给 AC5 商业 L2+/L3 现货清单（8/24/48 口） — C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单；不报价（边界户）
+- **第一问（只问一个）**：（无——边界户不设问）
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不主动触达；只在 Larch 来信时回 A 邮箱 被动；若 Q-49 改判，再由 Simon 决定是否回到 8,000 台项目
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-318` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（无成交；对方是 NOS/软件服务商兼渠道）** ｜ 类型：以色列/国际 SONiC 软件与网络服务商（技术流，但角色更像合作方/竞品而非买家） ｜ 筛子：2（读过全部 Drive 链接、能点名 AC3→AC5、DX1518/1548） ｜ 停点：Saga 边界 + 国内冲突——8,000 台 Campus L2（24×1G+4×10G，目标 $250）2026-03-31 Alan「conflict with one of our clients… a domestic client… internal decision」停；SONiC 合作被 Alan 以「高速线用 CENTEC、Marvell 高速不做激进研发」婉拒；2026-07 要 10 颗 DX1518/1548 芯片被拒 ｜ 复活：仅当 Simon 改判国内冲突规则（Q-49）或 Larch 以**买家**身份提出 AC5 L2+/L3 的具体订单；SONiC 合作按边界不做 ｜ 通路：IL 部分（收款/物流无先例） ｜ 节奏：最后 2026-07-02 Alan 拒芯片请求；实质往来 2025-05-22 → 2026-07-02 约 14 轮 ｜ 证据：A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5
+- **现状一句话**：Larch Networks（Alexander / Andrey / Oksana）2025-05 起对光旁路机、Booster PoE 都问芯片/内存细节；2026-03-30 提 **8,000 台校园 L2 交换机**（24×1G + 4×10G SFP+、可换 PSU、冗余风扇、USB + Console 管理），Alan 次日先问细节、再以「与一个国内客户冲突，内部决定」+「$250 目标价难」停止；5 月 Larch 反过来推销「商业支持的 SONiC」并约 COMPUTEX 后会议，Alan 以 CENTEC 高速路线婉拒；7 月 Larch 急要 10 颗 DX1518/DX1548 芯片，Alan 以 Marvell 采购审查严拒绝。**A 邮箱里最大的量，也是 C11「供应商关系 > 客户机会」的教科书案例。**
+- **对方真实需求（有据）**：① 8,000 台校园 L2（规格见上，目标 $250/台）；② SONiC NOS 合作（他们卖服务）；③ Marvell AC5 现货型号/价格/交期清单（5-26 列了 8/24/48 口、1G/SFP+/SFP28 组合）；④ 零星芯片采购。
+- **断点 / 为什么停在这里**：不是对方停，是 Saga 主动停：国内客户冲突（E23/Q-49）+ 不做高速 Marvell 研发 + 不卖芯片。三条都是边界，不是谈判空间。
+- **Saga 现在该推什么**：P1 **不推；若对方以买家身份回来，只给 AC5 商业 L2+/L3 现货清单（8/24/48 口）**（25% 档，不报价（边界户））——C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单
+  - 做不了 / 要先核的：不卖芯片、不做 SONiC 移植、不碰国内冲突项目——三条都已书面说过，别再开口
+- **下一步（具体）**：不主动触达；只在 Larch 来信时回　A 邮箱　被动；若 Q-49 改判，再由 Simon 决定是否回到 8,000 台项目
+  - 第一问（只问一个）：（无——边界户不设问）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-03-30 | 来 | Alexander（Larch） | a customer of ours needs 8,000 units of a Campus L2 switch… 24× 1G ETH + 4× 10G SFP+ • PSU: Field-replaceable, 1× AC 100–240V • Fans: Internal redundant | A 邮箱最大数量需求 | `c3ec0dc5b8622bbb` |
+| 2026-03-31 | 去 | Alan | it seems to be in conflict with one of our clients. They are also following up with this project. so we have to stop here!! | C11 让路 | `827e3f81f687bb3b` |
+| 2026-03-31 | 去 | Alan | target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision | 国内冲突 + 价格两重原因（E23） | `f0fca5051f786b75` |
+| 2026-05-22 | 来 | Alexander | Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house NOS team | 角色翻转：对方成了供应商 | `48f6b22ac0e2c199` |
+| 2026-05-27 | 去 | Alan | AC3 to AC5 transition is almost done for ALL models… commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production… industrial models, ALL models got AC5-ready samples | Saga 产品线状态的权威书面版本（2026-05） | `ddbe426f9e94bdd4` |
+| 2026-07-02 | 来 | Oksana（Larch） | We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock? | 芯片请求被拒（Marvell 采购审查） | `f77f97cdc39f10a5` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-05 分片在重跑范围：5-22 之前的光旁路机往来待补
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -125,6 +150,20 @@ updated: 2026-10-23
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：38 封（去 24 / 来 14）　|　**期间**：2025-05-21 → 2026-07-02　|　**最后去信**：2026-07-02
+- **对方邮箱**：a.gribenko@larch-networks.com、alexander@larch-networks.com、azarudniy@larch-networks.com、imurzina@larch-networks.com、info@larch-networks.com、oksana@larch-networks.com
+- **最后一封来信**：2026-07-02 oksana@larch-networks.com「Request for DX1518/DX1548 Chips」：Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX1518/DX1548 chips (any variant is acceptable) for our customer. Could you please let us know if you have any of these chips in stock? If so, woul
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Request for DX1518/DX1548 Chips | 2026-07-02 | 2026-07-02 | 1 | 1 | 2 |
+| Supported SONiC for Saga Ethernet Switches \| COMPUTEX | 2026-05-22 | 2026-06-05 | 5 | 5 | 4 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-31 | 3 | 4 | 7 |
+| Booster PoE Switch | 2025-11-27 | 2026-02-02 | 4 | 7 | 14 |
+| Managed Optical Bypass Switch | 2025-05-21 | 2025-10-27 | 1 | 7 | 25 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -246,12 +285,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

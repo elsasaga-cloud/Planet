@@ -21,13 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-07-09
 last_contact: 2025-07-09
-s_mail: 8 msgs (out 6 / in 2), 2024-06-04 -> 2026-10-08
+s_mail: 17 msgs (out 15 / in 2), 2024-06-04 -> 2026-10-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -142,7 +142,7 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 6 / 来 2）　|　**期间**：2024-06-04 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 15 / 来 2）　|　**期间**：2024-06-04 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：sales@allnet.de、zerwes@allnet.de
 - **最后一封来信**：2024-08-05 zerwes@allnet.de「Automatische Antwort: 48 port managed switch」：Sehr geehrte Partner, vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub. Ihre Email wird in der zwischenzeit nicht beantwortet. In dringenden F?llen k?nnen sie unseren Vertrieb unter Tel: 089/894222-22 erreichen. E-Mail: sales@
 - **邮件里报过的价**：2026-10-08 $180；2024-08-05 $220
@@ -150,13 +150,18 @@ updated: 2026-10-23
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | 24 Port PoE Managed Switch | 2026-10-08 | 2026-10-08 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-18 | 2025-12-18 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-02-04 | 2025-02-04 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-11-28 | 2024-11-28 | 0 | 1 | 1 |
 | 10G Ethernet Web Managed Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
-| Mini industrial switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| Automatische Antwort: 48 port managed switch | 2024-08-05 | 2024-08-05 | 1 | 0 | 0 |
-| 24 port managed switch | 2024-07-03 | 2024-07-03 | 0 | 1 | 1 |
-| Automatische Antwort: 10G media converter | 2024-06-04 | 2024-06-04 | 1 | 0 | 0 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -274,12 +279,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

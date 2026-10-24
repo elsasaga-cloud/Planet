@@ -277,5 +277,112 @@
   "让 Peter 出盖章授权函（compliance）"
  ],
  "binding_level": "较深",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）"
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+ "mail_review": {
+  "binding": {
+   "level": "较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名）",
+   "type": "德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接）",
+   "sieve": "3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈）",
+   "stop": "无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373）",
+   "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
+   "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
+   "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
+   "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
+  },
+  "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
+  "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
+  "breakpoint": "无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。",
+  "saga_now": {
+   "p1": "STC-4168XGGCM（在产第 6 单）",
+   "tier": 30,
+   "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）",
+   "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
+   "repeat": [
+    "STC-4168XGGCM 双 AC（第 5、6 单）",
+    "2025-09 AC5 样机 1 台"
+   ],
+   "gaps": [
+    "媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
+    "交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
+    "PEN/OID 维持 SmartByte（Q-45 默认不动）"
+   ]
+  },
+  "next_move": {
+   "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
+   "channel": "S 邮箱（Simon 主线）",
+   "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
+   "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-26",
+    "dir": "来",
+    "who": "Frederik Kriewitz（NYNEX）",
+    "quote": "Can you please request your own SmartByte SNMP enterprise OID at iana.org… and move the various custom enterprise OIDs to this OID tree",
+    "why": "客户推动 OID 规范化 = 把 Saga/SmartByte 写进自己运维体系",
+    "k": "c921dc47fd9370bb"
+   },
+   {
+    "date": "2025-03-27",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "we've PEN no. 44770 registered with IANA but for now we would prefer that you use your SmartByte PEN… Please use your standard Model Numbers",
+    "why": "坚持 SmartByte 原名/OID 的起点（Q-45）",
+    "k": "8f79a607c3cc831e"
+   },
+   {
+    "date": "2025-09-10",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
+    "why": "大项目需求 + 硬件监控要求",
+    "k": "3c32c9ad46e6235d"
+   },
+   {
+    "date": "2025-10-21",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
+    "why": "未接住的年量需求（媒体转换器）",
+    "k": "61065505a331e5fd"
+   },
+   {
+    "date": "2025-12-18",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "with this data update the OID was updated, working as expected now",
+    "why": "固件/MIB 迭代闭环",
+    "k": "e2c8e6b4f49f56e3"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "For the 230pcs project we used our existing supply because you initially quoted a long lead time",
+    "why": "交期丢单的原话",
+    "k": "c24584352bd15931"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
+    "why": "第 6 单 + 价格敏感度上升",
+    "k": "afced0c9af361141"
+   },
+   {
+    "date": "2026-10-15",
+    "dir": "来",
+    "who": "Frederik Kriewitz",
+    "quote": "payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used",
+    "why": "较深绑定的最新证据",
+    "k": "60ac95de9259a792"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

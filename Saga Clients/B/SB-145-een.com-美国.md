@@ -19,13 +19,13 @@ replies: 0
 followups: 10
 first_contact: 2025-02-21
 last_contact: 2025-10-22
-s_mail: 1 msgs (out 1 / in 0), 2025-01-17 -> 2025-01-17
+s_mail: 17 msgs (out 17 / in 0), 2025-01-17 -> 2026-09-10
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,13 +149,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-17 → 2025-01-17　|　**最后去信**：2025-01-17
-- **对方邮箱**：sales@een.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2025-01-17 → 2026-09-10　|　**最后去信**：2026-09-10
+- **对方邮箱**：gfloros@een.com、jaime@alludolearning.com、pcooke@een.com、pwhiteside@een.com、rosko@eagleeyenetworks.com、sales@een.com
 - 对方从未回信（全部为我方去信）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| L3 Managed Switch | 2025-01-17 | 2025-01-17 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-10 | 2026-09-10 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-17 | 2026-07-17 | 0 | 1 | 2 |
+| Firmware 7.5 L2+ Feature Update | 2026-06-23 | 2026-06-23 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-05-22 | 2026-05-22 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-28 | 2026-04-28 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-12 | 2026-03-12 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-10 | 2026-02-10 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-14 | 2026-01-14 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-24 | 2025-12-24 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-05 | 2025-12-05 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -284,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

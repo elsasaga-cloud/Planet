@@ -22,12 +22,13 @@ replies: 1
 followups: 1
 first_contact: 2025-04-25
 last_contact: 2025-04-25
+s_mail: 6 msgs (out 4 / in 2), 2026-03-30 -> 2026-09-08
 p1: STI-288DGGPM-2BT
 price_tier: 30%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -126,6 +127,19 @@ updated: 2026-10-23
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-04-25 | 2025.4.25 | Bypass | 用常见的几个型号 | A |  | A Replied 09.04.xlsx#44 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：6 封（去 4 / 来 2）　|　**期间**：2026-03-30 → 2026-09-08　|　**最后去信**：2026-09-08
+- **对方邮箱**：saurabh@onnettechnologies.com
+- **最后一封来信**：2026-08-10 saurabh@onnettechnologies.com「RE: 24 Port PoE Managed Switch」：Hi Alan, We only use below configurations 1. 4 POE +2 Uplink with Booster ( 10-30 V DC In PoE Out ) 2. 4G PoE + 2 /1 Gig Uplink + 1/2 SFP Uplink with watch dog ( PoE ) and option up to 250 meter with dip switch – Unmanaged 3. 8G PoE + 2 /1 Gig Uplink + 1/2 SFP
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-08 | 2026-09-08 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-10 | 2026-08-10 | 1 | 1 | 2 |
+| Saga Q3 Product Links | 2026-07-15 | 2026-07-15 | 1 | 1 | 3 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -242,12 +256,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

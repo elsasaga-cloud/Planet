@@ -22,13 +22,13 @@ replies: 0
 followups: 8
 first_contact: 2025-02-28
 last_contact: 2025-10-17
-s_mail: 1 msgs (out 1 / in 0), 2025-01-16 -> 2025-01-16
+s_mail: 8 msgs (out 8 / in 0), 2025-01-16 -> 2026-03-04
 p1: STC-424XGGM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -127,12 +127,19 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-16 → 2025-01-16　|　**最后去信**：2025-01-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-01-16 → 2026-03-04　|　**最后去信**：2026-03-04
 - **对方邮箱**：info@infinicoreinc.com
 - 对方从未回信（全部为我方去信）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Updated Ethernet Switches Links | 2026-03-04 | 2026-03-04 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-28 | 2026-01-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2026-01-02 | 2026-01-02 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
 | 48 Port SFP Switch | 2025-01-16 | 2025-01-16 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
@@ -251,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

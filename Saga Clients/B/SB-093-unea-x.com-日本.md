@@ -19,12 +19,13 @@ replies: 0
 followups: 2
 first_contact: 2025-10-08
 last_contact: 2025-11-06
+s_mail: 27 msgs (out 17 / in 10), 2025-10-08 -> 2026-09-14
 p1: STI-280GE
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -124,6 +125,22 @@ updated: 2026-10-23
 |---|---|---|---|---|---|---|
 | 2025-10-08 | 2025.10.8 | dac |  | A |  | Japan 2.6.xlsx#7 |
 | 2025-11-06 | 116 | solar |  | A |  | Japan 2.6.xlsx#7 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：27 封（去 17 / 来 10）　|　**期间**：2025-10-08 → 2026-09-14　|　**最后去信**：2026-09-14
+- **对方邮箱**：info@unea-x.com、inoue.mari@unea-x.com、ryosuke.osako@unea-x.com
+- **最后一封来信**：2026-05-08 inoue.mari@unea-x.com「Re: Marvell Managed Commercial Switches」：Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Please confirm this. Best regards. UNEAX Inoue 2026年5月06日(水) 12:43 Alan from Saga Telecom &lt;a.sagatelecom@gmail.com&gt;: Hi, Inoue, 1. About Power Sup
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Marvell Managed Commercial Switches | 2026-04-02 | 2026-09-14 | 10 | 11 | 25 |
+| Updated Ethernet Switches Links | 2026-03-13 | 2026-03-13 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2026-02-06 | 2026-02-06 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-09 | 2026-01-09 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -239,12 +256,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

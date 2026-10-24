@@ -21,13 +21,13 @@ replies: 0
 followups: 15
 first_contact: 2024-05-09
 last_contact: 2025-10-08
-s_mail: 8 msgs (out 8 / in 0), 2024-07-05 -> 2026-10-10
+s_mail: 20 msgs (out 20 / in 0), 2024-07-05 -> 2026-10-10
 p1: STI-288GPM
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -159,21 +159,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-07-05 → 2026-10-10　|　**最后去信**：2026-10-10
-- **对方邮箱**：jonkjetilgrimsrud@gmail.com、salg@fiberworks.no
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2024-07-05 → 2026-10-10　|　**最后去信**：2026-10-10
+- **对方邮箱**：jonkjetilgrimsrud@gmail.com、roger@fiberworks.no、salg@fiberworks.no、trond@fiberworks.no
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2026-10-10 $180；2024-12-27 $240；2024-08-23 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | 24 Port PoE Managed Switch | 2026-10-10 | 2026-10-10 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-27 | 2025-01-27 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-27 | 2024-12-27 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-10-16 | 2024-10-16 | 0 | 1 | 1 |
-| 10G media converter | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| 8 port poe switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| Passive PoE Switch | 2024-07-05 | 2024-07-05 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-14 | 2026-09-14 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-07-27 | 2026-07-27 | 0 | 1 | 1 |
+| 32 Port 400GB DC Switch | 2026-06-17 | 2026-06-17 | 0 | 1 | 1 |
+| 10G L3 Managed Switch | 2026-05-20 | 2026-05-20 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-13 | 2026-04-13 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-19 | 2026-03-19 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-02-17 | 2026-02-17 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-19 | 2026-01-19 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-09 | 2025-12-09 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-11 | 2025-11-11 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -300,12 +305,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

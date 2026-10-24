@@ -110,5 +110,91 @@
    "url": "https://larch-networks.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（无成交；对方是 NOS/软件服务商兼渠道）",
+   "type": "以色列/国际 SONiC 软件与网络服务商（技术流，但角色更像合作方/竞品而非买家）",
+   "sieve": "2（读过全部 Drive 链接、能点名 AC3→AC5、DX1518/1548）",
+   "stop": "Saga 边界 + 国内冲突——8,000 台 Campus L2（24×1G+4×10G，目标 $250）2026-03-31 Alan「conflict with one of our clients… a domestic client… internal decision」停；SONiC 合作被 Alan 以「高速线用 CENTEC、Marvell 高速不做激进研发」婉拒；2026-07 要 10 颗 DX1518/1548 芯片被拒",
+   "revive": "仅当 Simon 改判国内冲突规则（Q-49）或 Larch 以**买家**身份提出 AC5 L2+/L3 的具体订单；SONiC 合作按边界不做",
+   "lane": "IL 部分（收款/物流无先例）",
+   "cadence": "最后 2026-07-02 Alan 拒芯片请求；实质往来 2025-05-22 → 2026-07-02 约 14 轮",
+   "evidence": "A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5"
+  },
+  "situation": "Larch Networks（Alexander / Andrey / Oksana）2025-05 起对光旁路机、Booster PoE 都问芯片/内存细节；2026-03-30 提 **8,000 台校园 L2 交换机**（24×1G + 4×10G SFP+、可换 PSU、冗余风扇、USB + Console 管理），Alan 次日先问细节、再以「与一个国内客户冲突，内部决定」+「$250 目标价难」停止；5 月 Larch 反过来推销「商业支持的 SONiC」并约 COMPUTEX 后会议，Alan 以 CENTEC 高速路线婉拒；7 月 Larch 急要 10 颗 DX1518/DX1548 芯片，Alan 以 Marvell 采购审查严拒绝。**A 邮箱里最大的量，也是 C11「供应商关系 > 客户机会」的教科书案例。**",
+  "need": "① 8,000 台校园 L2（规格见上，目标 $250/台）；② SONiC NOS 合作（他们卖服务）；③ Marvell AC5 现货型号/价格/交期清单（5-26 列了 8/24/48 口、1G/SFP+/SFP28 组合）；④ 零星芯片采购。",
+  "breakpoint": "不是对方停，是 Saga 主动停：国内客户冲突（E23/Q-49）+ 不做高速 Marvell 研发 + 不卖芯片。三条都是边界，不是谈判空间。",
+  "saga_now": {
+   "p1": "不推；若对方以买家身份回来，只给 AC5 商业 L2+/L3 现货清单（8/24/48 口）",
+   "tier": 25,
+   "price": "不报价（边界户）",
+   "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
+   "repeat": [],
+   "gaps": [
+    "不卖芯片、不做 SONiC 移植、不碰国内冲突项目——三条都已书面说过，别再开口"
+   ]
+  },
+  "next_move": {
+   "when": "不主动触达；只在 Larch 来信时回",
+   "channel": "A 邮箱",
+   "action": "被动；若 Q-49 改判，再由 Simon 决定是否回到 8,000 台项目",
+   "one_question": "（无——边界户不设问）"
+  },
+  "facts": [
+   {
+    "date": "2026-03-30",
+    "dir": "来",
+    "who": "Alexander（Larch）",
+    "quote": "a customer of ours needs 8,000 units of a Campus L2 switch… 24× 1G ETH + 4× 10G SFP+ • PSU: Field-replaceable, 1× AC 100–240V • Fans: Internal redundant",
+    "why": "A 邮箱最大数量需求",
+    "k": "c3ec0dc5b8622bbb"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "it seems to be in conflict with one of our clients. They are also following up with this project. so we have to stop here!!",
+    "why": "C11 让路",
+    "k": "827e3f81f687bb3b"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision",
+    "why": "国内冲突 + 价格两重原因（E23）",
+    "k": "f0fca5051f786b75"
+   },
+   {
+    "date": "2026-05-22",
+    "dir": "来",
+    "who": "Alexander",
+    "quote": "Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house NOS team",
+    "why": "角色翻转：对方成了供应商",
+    "k": "48f6b22ac0e2c199"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "AC3 to AC5 transition is almost done for ALL models… commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production… industrial models, ALL models got AC5-ready samples",
+    "why": "Saga 产品线状态的权威书面版本（2026-05）",
+    "k": "ddbe426f9e94bdd4"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "来",
+    "who": "Oksana（Larch）",
+    "quote": "We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock?",
+    "why": "芯片请求被拒（Marvell 采购审查）",
+    "k": "f77f97cdc39f10a5"
+   }
+  ],
+  "proof_gaps": [
+   "A 邮箱 2025-05 分片在重跑范围：5-22 之前的光旁路机往来待补"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

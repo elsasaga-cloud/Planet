@@ -19,13 +19,13 @@ replies: 0
 followups: 14
 first_contact: 2024-05-31
 last_contact: 2025-10-17
-s_mail: 6 msgs (out 6 / in 0), 2024-06-28 -> 2025-02-06
+s_mail: 18 msgs (out 18 / in 0), 2024-06-28 -> 2026-09-22
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -143,19 +143,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2024-06-28 → 2025-02-06　|　**最后去信**：2025-02-06
-- **对方邮箱**：info@aixontec.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-28 → 2026-09-22　|　**最后去信**：2026-09-22
+- **对方邮箱**：ashkan.ghaznavi@aixontec.com、info@aixontec.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-02-06 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
-| 48 Port PoE Managed Switch | 2025-02-06 | 2025-02-06 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-11-12 | 2024-11-12 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-10-22 | 2024-10-22 | 0 | 1 | 1 |
-| 2.5G poe switch | 2024-08-19 | 2024-08-19 | 0 | 1 | 1 |
-| Industrial fiber switch | 2024-07-23 | 2024-07-23 | 0 | 1 | 1 |
-| 5 port industrial switch | 2024-06-28 | 2024-06-28 | 0 | 1 | 1 |
+| 16 Port Industrial PoE Switch | 2026-09-22 | 2026-09-22 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-14 | 2026-08-14 | 0 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-06 | 2026-07-06 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-02 | 2026-06-02 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2026-04-30 | 2026-04-30 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-27 | 2026-03-27 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-06 | 2026-03-06 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-16 | 2026-01-16 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-18 | 2025-12-18 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -277,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,8 +43,9 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-011` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-011` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
+- **绑定等级：中度（三单 OEM 复购、以 Vi-Link 品牌出货）** ｜ 类型：美国 OEM 品牌商 / 转售（技术 + 价格混合） ｜ 筛子：3（多次 PI、品牌定制） ｜ 停点：2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘） ｜ 复活：补 USD 报价 + 样机（草稿已备） ｜ 通路：US 已通（PayPal/T/T、DHL/UPS DAP） ｜ 节奏：最后 2025-09-25 来信；复盘 2026-10-22 ｜ 证据：S 邮箱往来 + PI 包（见下表 facts）
 - **现状一句话**：Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。
 - **对方真实需求（有据）**：① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。
 - **断点 / 为什么停在这里**：09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。
@@ -354,12 +355,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

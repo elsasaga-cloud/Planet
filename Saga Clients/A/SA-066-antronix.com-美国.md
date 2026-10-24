@@ -21,13 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-08-09
 last_contact: 2025-08-09
-s_mail: 26 msgs (out 23 / in 3), 2024-01-20 -> 2025-08-27
+s_mail: 30 msgs (out 27 / in 3), 2024-01-20 -> 2026-09-07
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-066` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-066` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：新泽西 CATV/宽带设备制造商 Antronix（Peter Tarquinio）。2024-01 要「交换机/路由器，>2 个 SFP 或 >2 个 SFP+，1G / 2.5G / 10G SFP」目录；2024-04-19 对 STC-4168XGGCM 问「Do you have any of the 4168 in USA? Can I get a sample」；Simon 04-24 追问时对方回了一句不相干的「Is that Jim Luciano?」——线程就此断掉；此后 Simon 发了 16 封推送，无回应（最后 2025-08-27）。
 - **对方真实需求（有据）**：24×SFP + 8 combo + 4×10G 的 L3 汇聚机（STC-4168XGGCM），**希望美国本地有样机可先看**。
@@ -153,13 +153,17 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：26 封（去 23 / 来 3）　|　**期间**：2024-01-20 → 2025-08-27　|　**最后去信**：2025-08-27
-- **对方邮箱**：petertarquinio@antronix.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 27 / 来 3）　|　**期间**：2024-01-20 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：jimtaxdahl@antronix.com、petertarquinio@antronix.com
 - **最后一封来信**：2024-04-24 petertarquinio@antronix.com「Re: 2.5G PoE switch」：Is that Jim Luciano?
 - **邮件里报过的价**：2025-06-25 $300；2025-01-06 $240；2024-06-18 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-10 | 2026-08-10 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 | L3 Managed Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
@@ -168,11 +172,7 @@ updated: 2026-10-23
 | Marvell Alleycat5 Solution | 2025-03-28 | 2025-03-28 | 0 | 1 | 2 |
 | L3 Managed Switch | 2025-02-06 | 2025-02-06 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
-| 24V PoE Switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -293,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

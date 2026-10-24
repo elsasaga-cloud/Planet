@@ -22,13 +22,13 @@ replies: 1
 followups: 24
 first_contact: 2024-05-01
 last_contact: 2025-10-29
-s_mail: 5 msgs (out 5 / in 0), 2024-07-08 -> 2024-11-08
+s_mail: 18 msgs (out 17 / in 1), 2024-07-08 -> 2026-09-07
 p1: STC-424XGGM(L3)
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -147,18 +147,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2024-07-08 → 2024-11-08　|　**最后去信**：2024-11-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：cdma092@piolink.com、gooleebiz@gmail.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-02-18 gooleebiz@gmail.com「Re: 24 Port Fiber Switch」：Hi Alan, Thank you for your email. Could we talk via WeChat? My WeChat account is "jayden092" Best Regards, Jayden 2025년 2월 18일 (화) 오전 10:01, Alan from Saga Telecom <a.sagatelecom@gmail.com>님이 작성:
 - **邮件里报过的价**：2024-10-11 $65；2024-07-08 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 0 |
+| Marvell Industrial Alert System | 2025-12-24 | 2025-12-24 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-04 | 2025-11-04 | 0 | 1 | 1 |
+| 10G Media Converter | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-09-02 | 2025-09-02 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-02-18 | 2025-02-18 | 1 | 2 | 4 |
+| 90W PoE Managed Switch | 2025-01-29 | 2025-01-29 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2024-11-08 | 2024-11-08 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-10-11 | 2024-10-11 | 0 | 1 | 1 |
-| 8 port poe switch | 2024-09-02 | 2024-09-02 | 0 | 1 | 1 |
-| 5 port network switch | 2024-08-06 | 2024-08-06 | 0 | 1 | 1 |
-| 48 port managed switch | 2024-07-08 | 2024-07-08 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -286,12 +294,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

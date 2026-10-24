@@ -21,12 +21,13 @@ replies: 5
 followups: 22
 first_contact: 2023-12-09
 last_contact: 2025-10-31
+s_mail: 9 msgs (out 9 / in 0), 2025-08-28 -> 2026-08-24
 p1: STI-110GE
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -155,6 +156,24 @@ updated: 2026-10-23
 | 2025-10-02 | 102 | dac |  | A |  | 优质俄罗斯客户 2.9.xlsx#48 |
 | 2025-10-31 | 1031 | solar |  | A |  | 优质俄罗斯客户 2.9.xlsx#48 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2025-08-28 → 2026-08-24　|　**最后去信**：2026-08-24
+- **对方邮箱**：info@bptehno.ru
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port PoE Managed Switch | 2026-08-24 | 2026-08-24 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-08 | 2026-07-08 | 0 | 1 | 2 |
+| 10G Enterprise SFP Switch | 2026-05-12 | 2026-05-12 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-22 | 2026-04-22 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-24 | 2026-03-24 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-12 | 2026-01-12 | 0 | 1 | 1 |
+| Optional Marvell Chipset Solutions | 2025-12-09 | 2025-12-09 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-10-31 | 2025-10-31 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
@@ -274,12 +293,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

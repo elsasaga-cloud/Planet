@@ -19,12 +19,13 @@ replies: 0
 followups: 5
 first_contact: 2025-05-29
 last_contact: 2025-10-16
+s_mail: 12 msgs (out 10 / in 2), 2025-10-16 -> 2026-09-17
 p1: STI-288GPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -129,6 +130,25 @@ updated: 2026-10-23
 | 2025-09-12 | 912 | 22迷你 |  | A |  | Italy 3.2.xlsx#75 |
 | 2025-10-16 | 1016 | dac |  | A |  | Italy 3.2.xlsx#75 |
 | ? | 78 | 48口 |  | A |  | Italy 3.2.xlsx#75 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：12 封（去 10 / 来 2）　|　**期间**：2025-10-16 → 2026-09-17　|　**最后去信**：2026-09-17
+- **对方邮箱**：a.giacobazzi@eter.it、info@eter.it
+- **最后一封来信**：2026-08-05 info@eter.it「Re: WiFi 7 Ready Access Switch」：Grazie per averci contattato! Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: commerciale@eter.it Per ordini: ordini@eter.it Per giacenze e spedizioni: magazzino@eter.it Per assistenza tecnica: ufficiotecnico@eter.it Per a
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-17 | 2026-09-17 | 0 | 1 | 1 |
+| WiFi 7 Ready Access Switch | 2026-08-05 | 2026-08-05 | 2 | 1 | 1 |
+| Firmware 7.5 L2+ Feature Update | 2026-07-01 | 2026-07-01 | 0 | 1 | 2 |
+| 10G L3 Managed Switch | 2026-06-04 | 2026-06-04 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2026-04-27 | 2026-04-27 | 0 | 1 | 1 |
+| Marvell Managed Commercial Switches | 2026-03-26 | 2026-03-26 | 0 | 1 | 1 |
+| Updated Ethernet Switches Links | 2026-03-04 | 2026-03-04 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-30 | 2026-01-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-30 | 2025-12-30 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -253,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

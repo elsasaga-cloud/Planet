@@ -22,13 +22,13 @@ replies: 2
 followups: 36
 first_contact: 2024-05-07
 last_contact: 2025-11-27
-s_mail: 28 msgs (out 22 / in 6), 2024-06-29 -> 2025-12-01
+s_mail: 47 msgs (out 33 / in 14), 2024-06-29 -> 2025-12-01
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,8 +43,9 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
+- **绑定等级：轻度（2025-11 首单 $166 入门件，已付已发）** ｜ 类型：阿联酋 ELV/安防分销商（混合：问价为主、要环网/管理口） ｜ 筛子：3（PI STAG20251127018、付款、微信发货标记） ｜ 停点：对方未再提项目；2025-04 三档 PoE 询价未见逐项回答 ｜ 复活：其项目需要 6 系列管理型 PoE（ERPS 环网）时；或 Saga 一页纸补齐 2025-04 的三档报价 ｜ 通路：UAE 已通（PayPal/T/T、DHL） ｜ 节奏：最后实质来信 2025-12-01（付款）；S 邮箱 2025-11-27 后只有群发 ｜ 证据：S 邮箱 k=4911955d4797da97 + A 邮箱 PI STAG20251127018（A 总览 §3）
 - **现状一句话**：迪拜 ELV/安防分销商 ASTEL DIGICOM（总经理 Sanjay Singla）。S 邮箱 2024-06 → 2025-04 四次实质来信都在**问价、问 2 个 SFP 环网、问质保和测试证书**；2025-11-27 由 Alan 开 PI **STAG20251127018**（8 件：HDR-15-24 电源 + STI-110GE + STI-140GE，$166），12-01 Sanjay 付款并抄送 Simon「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。**已成交、小额、由 A 邮箱 + 微信主导**。
 - **对方真实需求（有据）**：① 2024-06：工业 PoE 4 口 + **2×2.5G SFP 可环网**（「Need minimum 2 SFP so that we can loop the fiber connectivity」）+ 120W 电源，非管理；② 2025-04-28：要 4/8/12+ 口千兆 PoE + 2（或 4）SFP + **1 个独立 NMS 管理口 RJ45** 的最优价、质保年限、测试证书；③ 2025-11 实际买的是最便宜的入门件（MC + 4 口非 PoE + 电源）→ 先试水。
 - **断点 / 为什么停在这里**：S 邮箱侧 2025-04-28 那封三档 PoE 询价没有在 S 邮箱里看到 Simon 的逐项报价（可能在 A 邮箱/微信回了）；12-01 付款后的发货、到货反馈都在 Alan 那边。S 邮箱 2025-11-27 之后只有群发。
@@ -228,25 +229,25 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：28 封（去 22 / 来 6）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-11-27
-- **对方邮箱**：asteldigicom@eim.ae、navsim@eim.ae
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 33 / 来 14）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-12-01
+- **对方邮箱**：asteldig@asteldigicom.ae、asteldigicom@eim.ae、navsim@eim.ae
 - **最后一封来信**：2025-12-01 navsim@eim.ae「FW: 10G Enterprise SFP Switch」：Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have been advised on WeChat. Thanks and best regards Sanjay Singla General Manager ASTEL DIGICOM Electronics
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | FW: 10G Enterprise SFP Switch | 2025-12-01 | 2025-12-01 | 2 | 0 | 4 |
+| 10G Enterprise SFP Switch | 2025-10-22 | 2025-12-01 | 8 | 8 | 23 |
 | Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-08-26 | 2025-08-26 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2025-05-28 | 2025-05-28 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-04-28 | 2025-04-28 | 1 | 2 | 4 |
-| Marvell Software Function List | 2025-03-26 | 2025-03-26 | 0 | 1 | 2 |
-| 16 Port Ethernet Switch | 2025-02-14 | 2025-02-14 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-01-06 | 2025-01-06 | 1 | 2 | 4 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -376,12 +377,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

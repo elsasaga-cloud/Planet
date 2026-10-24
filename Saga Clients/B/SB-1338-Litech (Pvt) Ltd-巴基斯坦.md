@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-23
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
 
-> 依据：S 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1338` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1338` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **现状一句话**：伊斯兰堡 Litech（华为渠道集成商，BD 经理 Hassan Ijaz Cheema）2024-03-09 主动发 RFQ：《Access and aggregation switches specs.docx》+ 路由器规格，要求技术符合性声明，并写明「number of projects in pipeline, want long business partnership」。**S 邮箱内无任何回复**（T29-U11 Simon 裁定：重开）。
 - **对方真实需求（有据）**：规格以华为为参照：① 24 口 GE PoE+ + SFP 接入机（S5735-L24P4S 级）；② 48 口 GE PoE+ 370W + 4 SFP（S5735-L48P4S 级）；③ 汇聚 48×1G SFP + 4×10G SFP+、支持 OSPF/RIP（S5736-S48S4X 级）；④ 1000Base-LX SFP；⑤ AR6300 路由器。功能要求：802.1X / RADIUS CoA、Port Security、DAI、IP Source Guard、DHCP snooping、SSHv2/HTTPS/SNMPv3。
@@ -232,12 +232,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,12 +21,13 @@ replies: 1
 followups: 1
 first_contact: 2025-06-02
 last_contact: 2025-06-02
+s_mail: 8 msgs (out 8 / in 0), 2025-09-09 -> 2026-09-07
 p1: STI-144GP
 price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -123,6 +124,23 @@ updated: 2026-10-23
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-06-02 | 2025.6.2 | 22mini | DS | A |  | A Replied 09.04.xlsx#7 |
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-09-09 → 2026-09-07　|　**最后去信**：2026-09-07
+- **对方邮箱**：reyann@alsalami.com
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 16 Port Industrial PoE Switch | 2026-09-07 | 2026-09-07 | 0 | 1 | 1 |
+| 24 Port PoE Managed Switch | 2026-08-11 | 2026-08-11 | 0 | 1 | 1 |
+| Saga Q3 Product Links | 2026-07-15 | 2026-07-15 | 0 | 1 | 2 |
+| Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-27 | 2025-10-27 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -247,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 83）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

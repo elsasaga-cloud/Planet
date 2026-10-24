@@ -19,13 +19,13 @@ replies: 0
 followups: 15
 first_contact: 2024-05-08
 last_contact: 2025-10-02
-s_mail: 7 msgs (out 6 / in 1), 2024-07-03 -> 2024-11-25
+s_mail: 13 msgs (out 12 / in 1), 2024-07-03 -> 2026-02-11
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -122,20 +122,26 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：7 封（去 6 / 来 1）　|　**期间**：2024-07-03 → 2024-11-25　|　**最后去信**：2024-11-25
-- **对方邮箱**：compras@guilera.com、guilera@guilera.com、sales@guilera.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2024-07-03 → 2026-02-11　|　**最后去信**：2026-02-11
+- **对方邮箱**：compras@guilera.com、guilera@guilera.com、info@adilec.com、sales@guilera.com
 - **最后一封来信**：2024-08-05 sales@guilera.com「Resposta automàtica: 8 port Ethernet switch」：﻿ ﻿ Seré fora del 29 de juliol al 25 d'agost. Per qualsevol urgència a partir del 22/07, si us plau, contactin amb Eva Enríquez (customer_service@guilera.com) Estaré fuera del 29 de julio al 25 de agosto, Para cualquier urgencia a partir del 22/07, por favor c
 - **邮件里报过的价**：2024-11-25 $300；2024-07-03 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Managed Optical Bypass Switch | 2026-02-11 | 2026-02-11 | 0 | 1 | 1 |
+| OEM Core Switching Solution | 2026-01-08 | 2026-01-08 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-12-16 | 2025-12-16 | 0 | 1 | 1 |
+| Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
+| 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-09-05 | 2025-09-05 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
 | 10G Ethernet Web Managed Switch | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2024-09-25 | 2024-09-25 | 0 | 1 | 1 |
 | 2.5G Switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
 | 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
 | Resposta automàtica: 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 1 | 0 | 0 |
-| 10G media converter | 2024-07-03 | 2024-07-03 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -258,12 +264,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
