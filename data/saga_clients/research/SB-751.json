@@ -70,7 +70,7 @@
     "tier": 20,
     "why": "ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。"
   },
-  "email_hook": "Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?",
+  "email_hook": "Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?",
   "mail_review": {
     "binding": {
       "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」）",

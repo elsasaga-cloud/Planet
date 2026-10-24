@@ -98,7 +98,9 @@
       "price": "按主表（研究档 saga_fit）",
       "why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：Marvell 主表无 2.5G 铜口（DG = 2.5G 光口），2.5G 铜口在 Realtek 线（STC-18XGDGPW $66 等）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说｜第 55 批：Realtek 线有 2.5G 铜口 PoE（SA-006 2024-08 已卖过 STC-08XGWE $185），他的 8×2.5G 需求在 Realtek 线上有近似机，三层答法（Marvell/Realtek/CENTEC）",
       "repeat": [],
-      "gaps": []
+      "gaps": [
+        "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+      ]
     },
     "next_move": {
       "when": "待 Simon 排期（首封）",

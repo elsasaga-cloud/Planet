@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。 新增：电源板四项改版是 PCB 级 ODM——HRUI/SmartByte 侧是否愿为 12 台/单的量开板（Angora 的 PC0012 代工询问也停在同一处），要先问 Peter 的 MOQ 而不是先答应 James。
 - **Saga 现在该推什么**：P1 **STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）｜他 8/26 问的 mGig PoE：CENTEC STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G，双 CRPS）/ STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G），见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`；价/现货 → Simon（Q-56）｜便宜路径：Realtek STC-624XGDGPM（6×10G SFP + 24×2.5G PoE bt 400W，L3 网管，$396 EXW，单电源，`data/hrui_STC对照表.csv`）——双电源 + PWM 风扇只有 CENTEC**（30% 档，第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用）——OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新
   - 复购/在买项：STI-488XGGPM 12 台（2026-08-30）；STI-21616DGGPM/XGGPM（2024 两单）
-  - 做不了 / 要先核的：UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论；MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核；电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James；2.5G/mGig PoE+ 双电源机架型号：AC5 线有无对应（STC-2xx 2.5G 系列 + 双电源需核）
+  - 做不了 / 要先核的：UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论；MQTT：7.5 L2+ 功能表 ☑（Message Queuing Telemetry Transport）——已核，不用再问 Simon；要问 James 的是 SCOUT 侧要什么 Topic/字段；电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James；2.5G/mGig PoE+ 双电源机架：AC5 无；CENTEC STH-8DX24VP-HSI / STH-2C24XP-HSI（双 CRPS，无价，Q-56）；单电源便宜路径 Realtek STC-624XGDGPM $396——已核；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request
 - **下一步（具体）**：2026-11 上旬（12 台到货后）　LinkedIn/WeChat（Simon U28：James 只走这两个）　到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT；**同一条私信顺手把 8/26 的 mGig PoE 问题正面答了：有（CENTEC 24 口 mGig PoE++，双电源 + 热插拔风扇 + 机架），要不要规格书**
   - 第一问（只问一个）：For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)
 
@@ -267,7 +267,7 @@ updated: 2026-10-24
 ```text
 For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)
 
-(第二条，可同日发) James — on your August question about a 2.5G/mGig PoE switch: yes. On our CENTEC line there is a 24 x 2.5/5G multi-gig PoE++ unit with 8 x 25G/10G SFP28 uplinks, dual hot-swap power modules and hot-swap fan modules, 1U rack (and a 24 x 10G multi-gig PoE++ version with 2 x 100G). Commercial temperature, L3 software. There is also a cheaper single-PSU path: 24 x 2.5G PoE++ (400 W) + 6 x 10G SFP+, L3, on our commercial Realtek line at $396 USD EXW. Want the datasheets, or is this a 2027 topic for SCOUT?
+(第二条，可同日发) James — on your August question about a 2.5G/mGig PoE switch: yes. It is not on our published list (we publish the 10G/25G/100G CENTEC models), but on request we can supply a CENTEC 24 x 2.5/5G multi-gig PoE++ unit with 8 x 25G/10G SFP28 uplinks, dual hot-swap power modules and hot-swap fan modules, 1U rack (and a 24 x 10G multi-gig PoE++ version with 2 x 100G). Commercial temperature, L3 software. There is also a cheaper single-PSU path: 24 x 2.5G PoE++ (400 W) + 6 x 10G SFP+, L3, on our commercial Realtek line at $396 USD EXW. Want the datasheets, or is this a 2027 topic for SCOUT?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

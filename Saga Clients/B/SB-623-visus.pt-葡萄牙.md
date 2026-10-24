@@ -47,6 +47,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 只在 SFP 笼子（DG）；多千兆铜口 PoE 只有 CENTEC 24 口机架机（无价），对安防安装商不推；非管理 8 PoE 位 HRUI STC-028GP
+  - 做不了 / 要先核的：Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models (2.5G/10G fiber uplinks; copper access is 1G PoE) from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
 

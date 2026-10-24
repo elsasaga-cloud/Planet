@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-07-03 → 2025-10-20）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
+- **第一问（只问一个）**：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：4 次群发无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
+  - 第一问（只问一个）：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@ updated: 2026-10-24
   - 已售 Hasivo → 同类替换（Marvell 管理型差异）
 - **风险/边界**：4 次群发无回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
-- **邮件切入句（英文）**：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
+- **邮件切入句（英文）**：Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -259,7 +259,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

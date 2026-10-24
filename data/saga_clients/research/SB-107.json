@@ -68,7 +68,7 @@
     "tier": 20,
     "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
   },
-  "email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?",
+  "email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 esklep@ecsystem.pl；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
@@ -95,7 +95,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 2-year warranty, EU files; 2 trial units for the B2B shop?"
+      "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?"
     },
     "facts": [
       {

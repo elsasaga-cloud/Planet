@@ -101,7 +101,7 @@ updated: 2026-10-24
   - 库存型分销 → 批量采购
 - **风险/边界**：巴西 ANATEL（交换机一般豁免，需核）、进口税高；ORing（台系）价位与 Saga 差距大 → 以 Marvell / 价格切入
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——ORing 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非管理 STI-288GP；10G 工业 STI-480XGGM。
-- **邮件切入句（英文）**：Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?
+- **邮件切入句（英文）**：Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -223,7 +223,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 2-year warranty; would a 10-pc stock trial with your NF-e flow make sense?
+Picking up our earlier exchange about PoE / industrial switches. Leandro, below the ORing price points — Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW and unmanaged at $57, CE/FCC/RoHS, 3-year warranty (industrial line); would a 10-pc stock trial with your NF-e flow make sense?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

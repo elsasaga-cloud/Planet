@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（? → ?）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?
+- **第一问（只问一个）**：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：澳洲 RCM；无具名联系人
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?
+  - 第一问（只问一个）：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@ updated: 2026-10-24
   - 有兴趣（表内）
 - **风险/边界**：澳洲 RCM；无具名联系人
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。
-- **邮件切入句（英文）**：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?
+- **邮件切入句（英文）**：Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -275,7 +275,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?
+Picking up our earlier exchange about PoE / industrial switches. Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

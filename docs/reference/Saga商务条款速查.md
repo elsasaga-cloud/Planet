@@ -59,7 +59,7 @@
 ## 7. 常见问答模板（英文一句话，可直接贴）
 - Lead time: "Standard models ship in 4–7 working days after payment, plus 4–7 days by express."
 - Samples: "Samples are charged at unit price and fully deductible from your first bulk order."
-- Warranty（Q-22 裁决前的保守写法）: "3-year warranty on commercial models and 3-year (up to 5-year on the 6-series) on industrial models, from the shipping date."
+- Warranty（2026-10-24 第 59 批按 Drive《Warranty Policy》+ 75 份实发 PI 普查改正，见口径表 #6）: "1-year warranty on commercial models (STC) and 3-year on industrial models (STI) and DIN power supplies, from the delivery date, with lifetime technical support." CENTEC STH 同商用 1 年。官网 5 年不引用。
 - Payment: "T/T 50% deposit, balance before shipment; PayPal accepted with 5% fee."
 - Spares: "2 free spare units per 100 pcs of the same model instead of RMA returns."
 - OEM: "Logo, label, carton and Web-UI logo customization are free of charge; neutral packing available."

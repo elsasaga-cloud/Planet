@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
       "tier": 25,
-      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 \"3200USD/PC\"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-10 $220（48 port managed switch）",
+      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 \"3200USD/PC\"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**",
       "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界",
       "repeat": [],
       "gaps": [

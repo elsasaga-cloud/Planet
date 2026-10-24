@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/蒙古国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-06 → 2025-11-06）；最近一次客户回复：2025-11-06：需要16 port的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Bayar — list prices attached (MOQ 1 pc, 1-year warranty, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
+- **第一问（只问一个）**：Bayar — list prices attached (MOQ 1 pc, warranty 1 yr commercial / 3 yrs industrial, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 Elsa 或 A 邮箱 → info@topica.mn 补答 + 一问
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：蒙古物流（经二连浩特陆运）与小量
 - **Saga 现在该推什么**：P1 **STC-2216GPM**（20% 档，按主表（研究档 saga_fit））——16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
 - **下一步（具体）**：2026-11　Elsa 或 A 邮箱 → info@topica.mn　补答 + 一问
-  - 第一问（只问一个）：Bayar — list prices attached (MOQ 1 pc, 1-year warranty, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
+  - 第一问（只问一个）：Bayar — list prices attached (MOQ 1 pc, warranty 1 yr commercial / 3 yrs industrial, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@ updated: 2026-10-24
 ```text
 Hi Bayar,
 
-You asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc, 3-year warranty with lifetime technical support, list prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.
+You asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, list prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.
 
 One question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.
 

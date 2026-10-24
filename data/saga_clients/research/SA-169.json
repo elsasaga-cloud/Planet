@@ -166,7 +166,8 @@
         "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
         "MQTT：7.5 L2+ 功能表 ☑（Message Queuing Telemetry Transport）——已核，不用再问 Simon；要问 James 的是 SCOUT 侧要什么 Topic/字段",
         "电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James",
-        "2.5G/mGig PoE+ 双电源机架：AC5 无；CENTEC STH-8DX24VP-HSI / STH-2C24XP-HSI（双 CRPS，无价，Q-56）；单电源便宜路径 Realtek STC-624XGDGPM $396——已核"
+        "2.5G/mGig PoE+ 双电源机架：AC5 无；CENTEC STH-8DX24VP-HSI / STH-2C24XP-HSI（双 CRPS，无价，Q-56）；单电源便宜路径 Realtek STC-624XGDGPM $396——已核",
+        "Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
       ]
     },
     "next_move": {
@@ -279,7 +280,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)\n\n(第二条，可同日发) James — on your August question about a 2.5G/mGig PoE switch: yes. On our CENTEC line there is a 24 x 2.5/5G multi-gig PoE++ unit with 8 x 25G/10G SFP28 uplinks, dual hot-swap power modules and hot-swap fan modules, 1U rack (and a 24 x 10G multi-gig PoE++ version with 2 x 100G). Commercial temperature, L3 software. There is also a cheaper single-PSU path: 24 x 2.5G PoE++ (400 W) + 6 x 10G SFP+, L3, on our commercial Realtek line at $396 USD EXW. Want the datasheets, or is this a 2027 topic for SCOUT?"
+      "body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)\n\n(第二条，可同日发) James — on your August question about a 2.5G/mGig PoE switch: yes. It is not on our published list (we publish the 10G/25G/100G CENTEC models), but on request we can supply a CENTEC 24 x 2.5/5G multi-gig PoE++ unit with 8 x 25G/10G SFP28 uplinks, dual hot-swap power modules and hot-swap fan modules, 1U rack (and a 24 x 10G multi-gig PoE++ version with 2 x 100G). Commercial temperature, L3 software. There is also a cheaper single-PSU path: 24 x 2.5G PoE++ (400 W) + 6 x 10G SFP+, L3, on our commercial Realtek line at $396 USD EXW. Want the datasheets, or is this a 2027 topic for SCOUT?"
     },
     "as_of": "2026-10-24"
   }

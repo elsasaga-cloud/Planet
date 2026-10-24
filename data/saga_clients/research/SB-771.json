@@ -103,7 +103,9 @@
       "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）",
       "why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）",
       "repeat": [],
-      "gaps": []
+      "gaps": [
+        "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+      ]
     },
     "next_move": {
       "when": "2027-Q1（换人后）",

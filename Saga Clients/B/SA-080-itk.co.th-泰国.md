@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 16 次（2024-05-13 → 2025-10-13）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-03 $65（10G media converter）
-- **第一问（只问一个）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+- **第一问（只问一个）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-03 $65（10G media converter））——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+  - 第一问（只问一个）：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@ updated: 2026-10-24
   - 已成交 1 次 → 账户已开
 - **风险/边界**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
 - **Saga 对位结论**：P1 STI-288GP（20% 档）——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
-- **邮件切入句（英文）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+- **邮件切入句（英文）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -286,7 +286,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+Picking up our earlier exchange about PoE / industrial switches. Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

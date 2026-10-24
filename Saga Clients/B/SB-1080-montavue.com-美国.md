@@ -76,13 +76,13 @@ updated: 2026-10-24
 - **是谁**：美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。
 - **类型**：美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）
 - **【官网快照】官网标题：Montavue - 4K & 2K Security Systems for Home and Business - No Fees；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE**
-  > A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 2-year warranty. Free Shipping on orders over $150.
+  > A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 1-year warranty (commercial line). Free Shipping on orders over $150.
   > 来源：https://montavue.com/（抓取 2026-10-21）
 - **【用户表】表内兴趣/备注**
   > POE switch 自己的logo 就这一款工业级的 摄像头，安防
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **【官网快照】Montavue 4K/2K 安防系统**
-  > A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 2-year warranty.
+  > A leader in security camera systems for your home or business with unmatched U.S. sales and tech support, No Monthly Fees. 1-year warranty (commercial line).
   > 来源：https://montavue.com/（抓取 2026-10-21）
 - **【用户表】PoE switch 自己的 logo，一款工业级**
   > POE switch 自己的logo 就这一款工业级的 摄像头，安防

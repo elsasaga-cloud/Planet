@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。
 - **断点 / 为什么停在这里**：群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。
 - **Saga 现在该推什么**：P1 **STC-84XGWE（4×10G SFP + 8×10G mGig 铜，网管，$204 EXW，`data/hrui_STC对照表.csv`）= 他 2025-04 原话的规格；备选 STC-08XGE 8×10G 铜非管理 $181.5；Realtek 线对美国客户开 → Simon 定（Q-52；SA-006 2024-08 已卖过同系列）**（25% 档，$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效））——U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-  - 做不了 / 要先核的：Nate 要不要「管理」——一句话问；Realtek 线对美国小集成商是否开
+  - 做不了 / 要先核的：Nate 要不要「管理」——一句话问；Realtek 线对美国小集成商是否开；Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
 - **下一步（具体）**：2026-11　A 邮箱 → nate.cline@　一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口
   - 第一问（只问一个）：For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?
 
@@ -277,7 +277,7 @@ In April 2025 you asked for a small switch with about 8 x 10G copper ports plus 
 Two units now match, both on our commercial (Realtek) line, neutral brand, AC input, 1U:
 - 8 x 10G multi-gig copper (100M/1G/2.5G/5G/10G) + 4 x 10G SFP+, web-managed (VLAN, IGMP snooping, port stats): $204 USD EXW
 - 8 x 10G multi-gig copper, unmanaged: $181.5 USD EXW
-(2026-10 price table, valid 15 days from this mail; 3-year warranty.)
+(2026-10 price table, valid 15 days from this mail; 1-year warranty on the commercial line (3 years on industrial models).)
 
 If it must be full L2+/L3 managed, the smallest managed 10GBASE-T unit is 24 x 10G copper + 2 x 100G on the CENTEC line (quoted ex-stock at $1,700 USD in July 2026 to another customer).
 

@@ -103,7 +103,9 @@
       "price": "按主表（研究档 saga_fit）",
       "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 只在 SFP 笼子（DG）；多千兆铜口 PoE 只有 CENTEC 24 口机架机（无价），对安防安装商不推；非管理 8 PoE 位 HRUI STC-028GP",
       "repeat": [],
-      "gaps": []
+      "gaps": [
+        "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+      ]
     },
     "next_move": {
       "when": "群发节奏",

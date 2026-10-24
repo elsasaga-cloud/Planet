@@ -82,7 +82,7 @@
     "tier": 20,
     "why": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。"
   },
-  "email_hook": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?",
+  "email_hook": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@austec.net；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」）",
@@ -109,7 +109,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?"
+      "one_question": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 3-year warranty (industrial line); shall I send a sample to Toorbul for comparison?"
     },
     "facts": [
       {
