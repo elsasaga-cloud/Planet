@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：莫斯科的电子招投标供货公司（通过电子交易平台参与投标，向俄企业集中供应非食品类商品，ОКВЭД 51.53 批发），执行总裁为用户标注'比较重要'的 KP；长期互动极强：20 次跟进中 18 次回复。（调研 2026-10-21；表内兴趣：比较重要！；招投标公司执行总裁）
 - **为什么是 A 级**：+30 实质回复 18 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 18 次；WhatsApp 已加；推送 20 次（2023-12-09 → 2025-08-12）；最近一次客户回复：2025-07-18：Whatsapp
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：按标书 — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：按标书 — —；—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 - **最大未知**：年走量与现供应商
 - **下一步**：标书触发 WhatsApp 标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：邮件层只有 3 封 2026 群发；18 次回复全在邮件之外。
 - **对方真实需求（有据）**：随标书变化。
 - **断点 / 为什么停在这里**：收款路径（RU）。
-- **Saga 现在该推什么**：P1 **按标书**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **按标书**（20% 档，—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）———
 - **下一步（具体）**：标书触发　WhatsApp　标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 

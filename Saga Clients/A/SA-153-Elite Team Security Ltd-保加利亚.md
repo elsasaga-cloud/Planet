@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。（调研 2026-10-21；表内兴趣：4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目）
 - **为什么是 A 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）；最近一次客户回复：2025-12-04：Interested 但 嫌价格贵
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位 — 一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1；按 25% 集成档
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位 — 一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → ets@ 问现供价位段
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Lachezar 2025-12-04 的回信很认真：「definitely interested… competitive pricing, flexible OEM terms… appreciate an approximate price range」；看完链接后 12-17 的结论是「prices are rather high」。Alan 请他点名型号再给最优价，没有下文。
 - **对方真实需求（有据）**：4/8 口 PoE（CCTV 项目），价格敏感。
 - **断点 / 为什么停在这里**：价格筛子生效；C6 不设计让价，但「点名型号」这一步对方没走——说明差距不是 10%。
-- **Saga 现在该推什么**：P1 **STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位**（25% 档，按 25% 集成档）——一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1
+- **Saga 现在该推什么**：P1 **STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位**（25% 档，按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1
   - 做不了 / 要先核的：其现用 PoE 交换机品牌/价位（用户表无）
 - **下一步（具体）**：2027-Q1　A 邮箱 → ets@　问现供价位段
   - 第一问（只问一个）：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits?

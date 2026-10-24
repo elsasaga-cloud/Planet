@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。（调研 2026-10-21；表内兴趣：switch 展示页很多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。
 - **对方真实需求（有据）**：CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。
 - **断点 / 为什么停在这里**：采购权在波兰总部；8 次群发无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?
 

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：日内瓦的小型 IT/电信/安防服务公司 SITIS Sàrl（2012-01 登记；资本 CHF 20,000；合伙经理 Arno Freudenreich；Rue Rousseau 15；+41 22 510 21 51；业务：IT 支持、布线与 VoIP/云 PBX、混合视频监控服务器、防盗/火灾探测；1–10 人）。展会（埃森 2024）记录：只看了 M12 交换机、拿彩页、未沟通；联系人 afcn@sitis.ch；6 次推送 0 回复。低优先 B。（调研 2026-10-21；表内兴趣：看了M12交换机，没做其他沟通，拿了彩页）
 - **为什么是 B 级**：**调研后定级 B**（兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞士；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Arno, we do not make the M12 switch you looked at in Essen, but for your Geneva CCTV and IP-phone installs the 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW — is there a current site where a sample would be tested?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：日内瓦的小型 IT/电信/安防服务公司 SITIS Sàrl（2012-01 登记；资本 CHF 20,000；合伙经理 Arno Freudenreich；Rue Rousseau 15；+41 22 510 21 51；业务：IT 支持、布线与 VoIP/云 PBX、混合视频监控服务器、防盗/火灾探测；1–10 人）。展会（埃森 2024）记录：只看了 M12 交换机、拿彩页、未沟通；联系人 afcn@sitis.ch；6 次推送 0 回复。低优先 B。
 - **对方真实需求（有据）**：项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供
 - **断点 / 为什么停在这里**：规模极小、瑞士非欧盟（需 CE 即可，关税另计）；6 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——项目 25% 档（低优先）：STC-28DGGPM（$84.1）用于 CCTV/VoIP 小项目；DIN STI-144GP（$35.5）；M12 不供
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Arno, we do not make the M12 switch you looked at in Essen, but for your Geneva CCTV and IP-phone installs the 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW — is there a current site where a sample would be tested?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子 有人卖他们的）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-17 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 KTI Networks（1983 年成立；自有品牌工业交换机 / MC：KGS-2461-HP、KGS-1064-HP、KGC-310M、KGC-460；表内「工业 FS / MC / SFP，自己的牌子，有人卖他们的」）；群发 9 次无回复。
 - **对方真实需求（有据）**：自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP
 - **断点 / 为什么停在这里**：台湾自有品牌厂商：外采意愿低
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有工业 PoE 管理线（KGS-2461-HP）→ 二供位 STI-288GPM（$85.5 @30%）；MC 位（KGC 系列）STI-110GE / STI-111GP。已打开的主题（1/14 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：南非 Eurobyte（安防/网络/IT/电源方案分销：CCTV、光纤与网络布线、网络设备、机柜；PLANET 工业 4/5 口交换机与 MC 产品页（在用 PLANET）、Ruijie / Huawei / Uniview；KP Jacqueline Irshwadhar（Network Product Manager，jacqueline@）、Tiffany Hope（Sales Executive））；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：在用Planet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-21 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：南非 Eurobyte（安防/网络/IT/电源方案分销：CCTV、光纤与网络布线、网络设备、机柜；PLANET 工业 4/5 口交换机与 MC 产品页（在用 PLANET）、Ruijie / Huawei / Uniview；KP Jacqueline Irshwadhar（Network Product Manager，jacqueline@）、Tiffany Hope（Sales Executive））；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：非主攻区（T5，南非）；PLANET 既定线
-- **Saga 现在该推什么**：P1 **STI-154GP**（20% 档，按主表（研究档 saga_fit））——在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）
+- **Saga 现在该推什么**：P1 **STI-154GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

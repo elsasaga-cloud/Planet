@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：以色列 Ethical Ltd（采购服务与通信产品供应商：电子元件、电光设备、连接器、终端服务器、MC、网络延长器、工业交换机；表内「Switch 主要用的 Perle 的」「可以尝试多跟进一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：Switch 主要用的perle的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-27 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the Perle industrial switches and media converters you supply, we offer neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit/PoE MCs from single units, CE/RoHS, EXW USD — is there a budget position your procurement customers ask for below Perle?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：以色列 Ethical Ltd（采购服务与通信产品供应商：电子元件、电光设备、连接器、终端服务器、MC、网络延长器、工业交换机；表内「Switch 主要用的 Perle 的」「可以尝试多跟进一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）
 - **断点 / 为什么停在这里**：非主攻区（T5，以色列）；Perle 品牌粘性；8 次无回复，仅 ethical@
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Perle 工业交换机/MC 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、PoE MC STI-111GP（$27.8）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Perle industrial switches and media converters you supply, we offer neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit/PoE MCs from single units, CE/RoHS, EXW USD — is there a budget position your procurement customers ask for below Perle?
 

@@ -1,126 +1,126 @@
 {
- "code": "SB-103",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（inaxsys.com，快照 2026-10-21）",
- "summary": "加拿大 Inaxsys Security Systems（安防系统品牌/分销：Inaxsys 摄像机、Arkiv VMS、录像机、服务器工作站、电源，Ajax；表内「有一部分是自己的；HRUI（洪瑞）的，贴了自己的牌子」；KP Mark McRae（President）、Alain Boisvert（VP International Sales & Product Development））；群发 8 次无回复。",
- "type": "加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "Ajax",
-  "HRUI"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Best Security Systems Solution | Inaxsys Security Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Inaxsys is your best solution for security systems.；Our Products；Inaxsys Cameras；Arkiv Video Management Software；Inaxsys Video Recorders；Inaxsys Servers & Workstations",
-   "url": "https://inaxsys.com/en/",
-   "date": "2026-10-21"
+  "code": "SB-103",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（inaxsys.com，快照 2026-10-21）",
+  "summary": "加拿大 Inaxsys Security Systems（安防系统品牌/分销：Inaxsys 摄像机、Arkiv VMS、录像机、服务器工作站、电源，Ajax；表内「有一部分是自己的；HRUI（洪瑞）的，贴了自己的牌子」；KP Mark McRae（President）、Alain Boisvert（VP International Sales & Product Development））；群发 8 次无回复。",
+  "type": "加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "Ajax",
+    "HRUI"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Best Security Systems Solution | Inaxsys Security Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Inaxsys is your best solution for security systems.；Our Products；Inaxsys Cameras；Arkiv Video Management Software；Inaxsys Video Recorders；Inaxsys Servers & Workstations",
+      "url": "https://inaxsys.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有一部分是自己的；洪瑞的 贴了自己的牌子",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Inaxsys 安防系统产品线",
+      "quote": "Inaxsys is your best solution for security systems. ; Inaxsys Cameras ; Arkiv Video Management Software ; Inaxsys Video Recorders ; Inaxsys Servers & Workstations",
+      "url": "https://inaxsys.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "一部分自有；HRUI 代工贴自己牌子",
+      "quote": "有一部分是自己的 / 洪瑞的 贴了自己的牌子",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Alain Boisvert",
+      "title": "VP International Sales & Product Development",
+      "email": "sales@inaxsys.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Mark McRae",
+      "title": "President",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有一部分是自己的；洪瑞的 贴了自己的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "加拿大",
+    "other": "官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Inaxsys 安防系统产品线",
-   "quote": "Inaxsys is your best solution for security systems. ; Inaxsys Cameras ; Arkiv Video Management Software ; Inaxsys Video Recorders ; Inaxsys Servers & Workstations",
-   "url": "https://inaxsys.com/en/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "安防系统（自有品牌摄像机 / VMS / 录像机 / 电源）",
+    "PoE 交换机（HRUI 代工贴标）"
+  ],
+  "channels": {
+    "role": "加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购）",
+    "region": "加拿大",
+    "contact": "sales@inaxsys.com、support@inaxsys.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "一部分自有；HRUI 代工贴自己牌子",
-   "quote": "有一部分是自己的 / 洪瑞的 贴了自己的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "首页：Inaxsys Cameras / Arkiv Video Management Software / Inaxsys Video Recorders / Inaxsys Servers & Workstations / Inaxsys Power Supplies",
+    "表内：有一部分是自己的 / 洪瑞的 贴了自己的牌子；KP Mark McRae / President；Alain Boisvert / VP International Sales & Product Development"
+  ],
+  "risks": [
+    "现 ODM 为 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+    "8 次无回复 → 改向 VP Product Development 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "现由 HRUI 代工贴 Inaxsys 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 PoE + 4×10G STC-424XGGPM-280W（$196.3）；不以 HRUI 同型号竞价"
+  },
+  "email_hook": "Alain, for the Inaxsys-branded PoE switches, we can add a Marvell-based tier (8-PoE + 2 SFP L2+ and 24-PoE + 4×10G L2+) as a second source from small lots in your housing, with FCC/CE/RoHS reports — which size would you consider dual-sourcing first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（6 封来信全部是 support@inaxsys.com 工单自动回复；无人工回复）",
+      "type": "加拿大安防品牌商（Inaxsys；交换机由 HRUI 贴标 → Q-33 口径）",
+      "sieve": "0",
+      "stop": "工单系统 + Q-33",
+      "revive": "不动（Q-33）",
+      "lane": "CA 主攻",
+      "cadence": "不动",
+      "evidence": "k=4254f07f7989d16f 等"
+    },
+    "situation": "HRUI 现有客户，按 Q-33 标记不碰。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Alain Boisvert",
-   "title": "VP International Sales & Product Development",
-   "email": "sales@inaxsys.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Mark McRae",
-   "title": "President",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防系统（自有品牌摄像机 / VMS / 录像机 / 电源）",
-  "PoE 交换机（HRUI 代工贴标）"
- ],
- "channels": {
-  "role": "加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购）",
-  "region": "加拿大",
-  "contact": "sales@inaxsys.com、support@inaxsys.com"
- },
- "signals": [
-  "首页：Inaxsys Cameras / Arkiv Video Management Software / Inaxsys Video Recorders / Inaxsys Servers & Workstations / Inaxsys Power Supplies",
-  "表内：有一部分是自己的 / 洪瑞的 贴了自己的牌子；KP Mark McRae / President；Alain Boisvert / VP International Sales & Product Development"
- ],
- "risks": [
-  "现 ODM 为 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
-  "8 次无回复 → 改向 VP Product Development 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "现由 HRUI 代工贴 Inaxsys 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 PoE + 4×10G STC-424XGGPM-280W（$196.3）；不以 HRUI 同型号竞价"
- },
- "email_hook": "Alain, for the Inaxsys-branded PoE switches, we can add a Marvell-based tier (8-PoE + 2 SFP L2+ and 24-PoE + 4×10G L2+) as a second source from small lots in your housing, with FCC/CE/RoHS reports — which size would you consider dual-sourcing first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（6 封来信全部是 support@inaxsys.com 工单自动回复；无人工回复）",
-   "type": "加拿大安防品牌商（Inaxsys；交换机由 HRUI 贴标 → Q-33 口径）",
-   "sieve": "0",
-   "stop": "工单系统 + Q-33",
-   "revive": "不动（Q-33）",
-   "lane": "CA 主攻",
-   "cadence": "不动",
-   "evidence": "k=4254f07f7989d16f 等"
-  },
-  "situation": "HRUI 现有客户，按 Q-33 标记不碰。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

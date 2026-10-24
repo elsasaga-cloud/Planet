@@ -135,7 +135,7 @@
     "saga_now": {
       "p1": "STC-84XGWE（4×10G SFP + 8×10G mGig 铜，网管，$204 EXW，`data/hrui_STC对照表.csv`）= 他 2025-04 原话的规格；备选 STC-08XGE 8×10G 铜非管理 $181.5；Realtek 线对美国客户开 → Simon 定（Q-52；SA-006 2024-08 已卖过同系列）",
       "tier": 25,
-      "price": "$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）",
+      "price": "$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [

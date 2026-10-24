@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。（调研 2026-10-21；表内兴趣：Simon之前联系了很久了 价格敏感  让发工业MC的价格 报了25说贵  说是在和另外一个来展会的公司合作，应该是BTON（百通））
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。
 - **对方真实需求（有据）**：工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
 - **断点 / 为什么停在这里**：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
 

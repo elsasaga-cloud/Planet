@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业POE 外壳普遍一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。
 - **对方真实需求（有据）**：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
 - **断点 / 为什么停在这里**：自有品牌电商：已有深圳货源（表内「外壳普遍一般」= 低价白牌），需以外壳/品质差异切入
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，按主表（研究档 saga_fit））——自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 

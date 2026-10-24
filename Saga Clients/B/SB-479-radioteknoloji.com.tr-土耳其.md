@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Radio Technology（2015 年起通信、国防、能源、智慧城市领域的无线电系统与数据传输基础设施：站内 Quanta Q5/Q6、WB-3P PTP 无线网桥、E6-ST 系列；KP Salih Yildirim（Project Manager，salih.yildirim@）、Abdurrahman Pehlivanoglu（General Manager））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）
 - **断点 / 为什么停在这里**：守界备注：业务含国防领域——只供民用能源/智慧城市站点通用交换机，不涉国防项目
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——无线回传站点配套工业 PoE（给网桥/AP 供电）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2 @25%）/ 4 PoE STI-154GP（$39.2）；国防项目不涉（守界）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Salih, for the PoE switches at your PTP/PTMP radio sites and smart-city poles, we supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your energy and smart-city sites use most?
 

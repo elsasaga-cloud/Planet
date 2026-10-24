@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1 A 邮箱 一句话
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：十封回信没有一封是决定。
 - **对方真实需求（有据）**：不明确（CCTV PoE / 工业路由替代）。
 - **断点 / 为什么停在这里**：付费样品。
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）——已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　A 邮箱　一句话
   - 第一问（只问一个）：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
 

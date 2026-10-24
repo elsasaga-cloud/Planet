@@ -106,7 +106,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM",
       "repeat": [],
       "gaps": []

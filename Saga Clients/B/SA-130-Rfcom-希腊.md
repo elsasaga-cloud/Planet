@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。（调研 2026-10-21；表内兴趣：take catalog general reply）
 - **为什么是 B 级**：**调研后定级 B**（2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 19 次（2024-01-25 → 2025-10-03）；最近一次客户回复：93：22mini/email
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。
 - **对方真实需求（有据）**：网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?
 

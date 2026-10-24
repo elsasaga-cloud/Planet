@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国华盛顿州 Maple Systems（HMI / PLC / 工业面板 PC / 盒式 PC / SCADA 软件的制造与分销商；官网设「Industrial Network Switches」品类与选型文章；表内「电口 工业 FS」；KP Alex M（President）、Diane C（Director of Sales & GTM Operations））；表内无跟进记录。（调研 2026-10-21；表内兴趣：电口 工业FS）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国华盛顿州 Maple Systems（HMI / PLC / 工业面板 PC / 盒式 PC / SCADA 软件的制造与分销商；官网设「Industrial Network Switches」品类与选型文章；表内「电口 工业 FS」；KP Alex M（President）、Diane C（Director of Sales & GTM Operations））；表内无跟进记录。
 - **对方真实需求（有据）**：自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM
 - **断点 / 为什么停在这里**：自有品牌配套件：现有代工来源稳定，需以小批量/宽压/价格切入
-- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit））——自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。（调研 2026-10-21；表内兴趣：大口FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-13 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。
 - **对方真实需求（有据）**：表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）
 - **断点 / 为什么停在这里**：泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进
-- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，按主表（研究档 saga_fit））——表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Portdepo（portdepo.ru：「几个牌子的交换机」多品牌经销；官网 unreachable）；表内未跟进。（调研 2026-10-21；表内兴趣：几个牌子的交换机）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 多品牌交换机位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 多品牌交换机位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the switch brands you carry, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 Portdepo（portdepo.ru：「几个牌子的交换机」多品牌经销；官网 unreachable）；表内未跟进。
 - **对方真实需求（有据）**：多品牌交换机位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；官网 unreachable（经营状态待核）；未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——多品牌交换机位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——多品牌交换机位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the switch brands you carry, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
 

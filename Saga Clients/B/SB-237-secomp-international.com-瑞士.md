@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞士；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-31 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）。已打开的主题（1/16 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）。已打开的主题（1/16 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）。已打开的主题（1/16 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）。已打开的主题（1/16 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

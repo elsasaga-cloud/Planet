@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：加拿大 Fatwire Distributors（埃德蒙顿低压与信号分配元件分销：卫星安装产品、布线（LMR/RG 同轴）、集成商首选；表内「商业 FS / PoE / 周边产品，Wi-Tek 的比较多」；KP Ray（ray.h@）、Michael Pothier（Inside Sales Specialist，mike.p@））；群发 15 次无回复。（调研 2026-10-21；表内兴趣：商业FS POE 周边产品；商业FS POE 周边产品 Wi-tek的比较多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-04-30 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（1/24 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-24) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（1/24 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-24) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Ray, alongside the Wi-Tek PoE switches you stock for your integrator customers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, FCC/CE — which Wi-Tek model turns fastest for you, so we quote its equivalent first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 Fatwire Distributors（埃德蒙顿低压与信号分配元件分销：卫星安装产品、布线（LMR/RG 同轴）、集成商首选；表内「商业 FS / PoE / 周边产品，Wi-Tek 的比较多」；KP Ray（ray.h@）、Michael Pothier（Inside Sales Specialist，mike.p@））；群发 15 次无回复。
 - **对方真实需求（有据）**：在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：现卖 Wi-Tek（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（48 port managed switch））——在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（1/24 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-24) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（1/24 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-24) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Ray, alongside the Wi-Tek PoE switches you stock for your integrator customers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, FCC/CE — which Wi-Tek model turns fastest for you, so we quote its equivalent first?
 

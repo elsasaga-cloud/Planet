@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 SensoGuard（地下地震波周界安防系统：边境、关键基础设施、住宅、光伏电站、远程站点；MIL-STD-810G；KP Tomer Levy（CEO & CTO）、Ido Oriane（Product Manager））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 SensoGuard（地下地震波周界安防系统：边境、关键基础设施、住宅、光伏电站、远程站点；MIL-STD-810G；KP Tomer Levy（CEO & CTO）、Ido Oriane（Product Manager））；表内未跟进。
 - **对方真实需求（有据）**：周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）
 - **断点 / 为什么停在这里**：守界备注：边境/关键基础设施为其市场之一——只供民用/商用项目通用工业交换机；MIL-STD 需求 Saga 无
-- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，按主表（研究档 saga_fit））——周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）
+- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?
 

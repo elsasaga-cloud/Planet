@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：捷克 Eltrox.cz（安防系统与智能家居网店：摄像机、报警、自动化；PoE 交换机栏目、Netgear GS108GE、Ubiquiti ES-12F；Hikvision / Dahua / Ajax；表内「Hasivo 的」「质量高」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：hasivo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-30 → 2025-10-09）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：捷克 Eltrox.cz（安防系统与智能家居网店：摄像机、报警、自动化；PoE 交换机栏目、Netgear GS108GE、Ubiquiti ES-12F；Hikvision / Dahua / Ajax；表内「Hasivo 的」「质量高」）；群发 8 次无回复。
 - **对方真实需求（有据）**：在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：现卖 Hasivo（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?
 

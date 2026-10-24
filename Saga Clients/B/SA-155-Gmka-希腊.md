@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。（调研 2026-10-21；表内兴趣：有时候会用到switch 让发catalog）
 - **为什么是 B 级**：**调研后定级 B**（需求偶发、无回复 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次。已打开的主题（1/16 封有打开记录）：「16 Port PoE Managed Switch」(2025-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次。已打开的主题（1/16 封有打开记录）：「16 Port PoE Managed Switch」(2025-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。
 - **对方真实需求（有据）**：批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次
 - **断点 / 为什么停在这里**：主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次。已打开的主题（1/16 封有打开记录）：「16 Port PoE Managed Switch」(2025-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次。已打开的主题（1/16 封有打开记录）：「16 Port PoE Managed Switch」(2025-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?
 

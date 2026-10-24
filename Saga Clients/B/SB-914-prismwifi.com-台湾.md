@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 Prism Wi-Fi（企业 Wi-Fi 品牌：Wi-Fi 7/6 AP、PrismX 控制器与云平台；自有 PoE 交换机 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48；表内「WiFi、商业 PoE」）；群发 2 次无回复。（调研 2026-10-21；表内兴趣：WIFI 商业PoE）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-19 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 MS12P8（8 PoE + 4 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）二供；MS28P24 → STC-424DGGPM-280W（$145.7）；MS52P48 → STC-448XGGPM。已打开的主题（1/8 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 MS12P8（8 PoE + 4 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）二供；MS28P24 → STC-424DGGPM-280W（$145.7）；MS52P48 → STC-448XGGPM。已打开的主题（1/8 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the MS-series PoE switches that pair with your Wi-Fi 7 APs (MS12P8 / MS28P24), we can be a second source on a Marvell L2+ platform from small lots in your housing — which model would you consider dual-sourcing first?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 Prism Wi-Fi（企业 Wi-Fi 品牌：Wi-Fi 7/6 AP、PrismX 控制器与云平台；自有 PoE 交换机 MS8P8 / MS12P8 / MS18P16 / MS28P24 / MS52P48；表内「WiFi、商业 PoE」）；群发 2 次无回复。
 - **对方真实需求（有据）**：自有 MS12P8（8 PoE + 4 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）二供；MS28P24 → STC-424DGGPM-280W（$145.7）；MS52P48 → STC-448XGGPM
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供；云平台管理需其自行适配
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 MS12P8（8 PoE + 4 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）二供；MS28P24 → STC-424DGGPM-280W（$145.7）；MS52P48 → STC-448XGGPM。已打开的主题（1/8 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 MS12P8（8 PoE + 4 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）二供；MS28P24 → STC-424DGGPM-280W（$145.7）；MS52P48 → STC-448XGGPM。已打开的主题（1/8 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the MS-series PoE switches that pair with your Wi-Fi 7 APs (MS12P8 / MS28P24), we can be a second source on a Marvell L2+ platform from small lots in your housing — which model would you consider dual-sourcing first?
 

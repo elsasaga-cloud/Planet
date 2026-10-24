@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。（调研 2026-10-21；表内兴趣：安防为主；安防为主 有中科的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-07-17 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-07 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Juan, for the videovigilancia channel — a Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, neutral packing, CE/RoHS; would you test 2 units against the TP-Link units you stock?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。
 - **对方真实需求（有据）**：安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
 - **断点 / 为什么停在这里**：多品牌批发比价；群发无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-07 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——安防批发走量 8 PoE + 2 SFP 管理机 → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Juan, for the videovigilancia channel — a Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, neutral packing, CE/RoHS; would you test 2 units against the TP-Link units you stock?
 

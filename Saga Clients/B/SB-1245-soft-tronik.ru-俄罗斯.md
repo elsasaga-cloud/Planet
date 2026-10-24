@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Софт-Троник Soft-Tronik（网络设备、IP 视频监控与存储系统分销商：Dahua（48）/ Axis（26）/ TP-Link / Ruijie / Zyxel / D-Link / Vivotek，合作伙伴专区、认证、网络研讨会；表内「几个牌子的交换机」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：几个牌子的交换机）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the TP-Link, Zyxel and Ruijie switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PoE size do your Dahua partners order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 Софт-Троник Soft-Tronik（网络设备、IP 视频监控与存储系统分销商：Dahua（48）/ Axis（26）/ TP-Link / Ruijie / Zyxel / D-Link / Vivotek，合作伙伴专区、认证、网络研讨会；表内「几个牌子的交换机」）；表内无跟进记录。
 - **对方真实需求（有据）**：多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）；多品牌授权分销，白牌需靠价差
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——多品牌货架 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424DGGPM-280W；预期低
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the TP-Link, Zyxel and Ruijie switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PoE size do your Dahua partners order most?
 

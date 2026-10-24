@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：佛州西棕榈滩的社区型「bulk」光纤 ISP/电视/VoIP 运营商（1994 年成立，51–200 人，营收 $18.9M 口径）：为 HOA、公寓、公寓楼协会、养老社区、酒店提供 FTTH，**采用 AON（有源光网络）——每户一对专属光纤到中心机房**，最高 5 Gig（2 Gig 为最常见 bulk 档，52 个社区中 24 个）；持续改造社区（2024 Tuscany of Palm Beach、2025 Jupiter Lakes Villas）。AON 架构 = 每个社区机房需要大量 SFP 端口 L3 汇聚交换机——与 Saga 全光 L3 机型强相关。用户表：WhatsApp 已加，23 次跟进 0 回复。（调研 2026-10-21；表内兴趣：对2.5G/10G有兴趣 工业级）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 23 次（2023-08-16 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGMO — 运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGMO — 运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：佛州西棕榈滩的社区型「bulk」光纤 ISP/电视/VoIP 运营商（1994 年成立，51–200 人，营收 $18.9M 口径）：为 HOA、公寓、公寓楼协会、养老社区、酒店提供 FTTH，**采用 AON（有源光网络）——每户一对专属光纤到中心机房**，最高 5 Gig（2 Gig 为最常见 bulk 档，52 个社区中 24 个）；持续改造社区（2024 Tuscany of Palm Beach、2025 Jupiter Lakes Villas）。AON 架构 = 每个社区机房需要大量 SFP 端口 L3 汇聚交换机——与 Saga 全光 L3 机型强相关。用户表：WhatsApp 已加，23 次跟进 0 回复。
 - **对方真实需求（有据）**：运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM
 - **断点 / 为什么停在这里**：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活
-- **Saga 现在该推什么**：P1 **STC-448XGGMO**（25% 档，按主表（研究档 saga_fit））——运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM
+- **Saga 现在该推什么**：P1 **STC-448XGGMO**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?
 

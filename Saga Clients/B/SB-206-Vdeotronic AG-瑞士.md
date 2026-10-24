@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：瑞士 Videotronic AG（视频安防、门禁、门口通信与智能安防系统方案商（分销/集成）；表内「找 switch」；KP Christos Sgouros）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：找switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞士；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Christos, for the PoE switches in your video-security and access-control projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your Swiss installations use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：瑞士 Videotronic AG（视频安防、门禁、门口通信与智能安防系统方案商（分销/集成）；表内「找 switch」；KP Christos Sgouros）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：瑞士市场品牌导向（价格敏感度低）；6 次无回复 → 改向 Christos 具名首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——安防项目 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Christos, for the PoE switches in your video-security and access-control projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your Swiss installations use most?
 

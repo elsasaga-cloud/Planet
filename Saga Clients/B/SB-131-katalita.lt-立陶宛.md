@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。（调研 2026-10-21；表内兴趣：extralink是他们的品牌；extralink是他们的品牌 有点像洪瑞的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/立陶宛；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。
 - **对方真实需求（有据）**：自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。
 - **断点 / 为什么停在这里**：小国；4 次群发无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

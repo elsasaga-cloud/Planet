@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业PoE CCTV 宝安有办公室）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-20 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。
 - **对方真实需求（有据）**：Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?
 

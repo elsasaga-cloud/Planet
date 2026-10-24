@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：常规Switch较多）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Data General（datageneral.co / general-data.com；企业级无线与网络基础设施自有品牌：DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）、DG-S1930K-24GP4S-370W、DG-S5360-48GP4X L3、DG-S6120 10G/25G、AP DG-WS7005，云管理，英/西双语；表内「常规 switch 较多」；KP Paul S（Vice President, Operations，psanborn@））；表内无跟进记录。
 - **对方真实需求（有据）**：自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：现代工疑为锐捷/深圳体系（型号命名近 Ruijie S1930）：价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 DG-S1930K-8GP2S-120W（8 PoE + 2 SFP 120W）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 DG 标；DG-S1930K-24GP4S-370W → STC-424DGGPM-280W（功率 280W，需注明）/ STC-424XGGPM-280W
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Paul, for the DG-S1930K-8GP2S-120W and 24GP4S models, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, with FCC/CE/RoHS reports — which of the two would you dual-source first?
 

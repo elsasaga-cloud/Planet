@@ -93,7 +93,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供",
       "repeat": [],
       "gaps": []

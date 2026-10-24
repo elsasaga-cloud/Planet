@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：韩国无线通信设备 / CCTV / 公共 Wi-Fi 方案商 JMP System（SECON 2023 接触；Hong Soon Jin，Soo Yeon Choi），**52 次跟进**：要 HRUI 全百兆 6 口（4 PoE）×10 台，包装盒印其 logo、换标签，想要比工业级 Realtek 款更便宜（线上商用款太便宜不信任），要简单网管可监控端口；= 小批量贴牌 OEM（30%），但 FE 低价段 Saga 价目仅 HRUI 列表价。（调研 2026-10-21；表内兴趣：洪瑞全百兆6口 4个POE 10个；包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的，说是在线上卖的商业级的都太便宜了。提到了想要简单的网管，可以监控到设备是否有掉线）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-22 推送 52 次无任何回复（聋名单）
 - **历史互动**：推送 52 次（2024-05-01 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-024FP — 全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。已打开的主题（2/57 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-024FP — 全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。已打开的主题（2/57 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：韩国无线通信设备 / CCTV / 公共 Wi-Fi 方案商 JMP System（SECON 2023 接触；Hong Soon Jin，Soo Yeon Choi），**52 次跟进**：要 HRUI 全百兆 6 口（4 PoE）×10 台，包装盒印其 logo、换标签，想要比工业级 Realtek 款更便宜（线上商用款太便宜不信任），要简单网管可监控端口；= 小批量贴牌 OEM（30%），但 FE 低价段 Saga 价目仅 HRUI 列表价。
 - **对方真实需求（有据）**：全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。
 - **断点 / 为什么停在这里**：FE 低价段无 SmartByte 价目（HRUI 列表价 STC-024FP $9.9 级），10 台印 logo 的包装起订量需与 HRUI 核
-- **Saga 现在该推什么**：P1 **STC-024FP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch））——全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。已打开的主题（2/57 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-024FP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——全百兆 4 PoE + 2 上联 = HRUI 列表 STC-024FP（$9.9，非管理）；要简单网管则 Saga STC-28DGGPM（千兆 L2+，$87.4 @30%）；10 台印 logo 按 OEM 口径。已打开的主题（2/57 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

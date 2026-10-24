@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。（调研 2026-10-21；表内兴趣：没交流太多 说了做video system）
 - **为什么是 B 级**：**调研后定级 B**（微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。）；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-05-13 → 2025-05-13）；最近一次客户回复：2025-05-13：想测样
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按规则
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不主动 A 邮箱 来信时一次报 8 口 PoE 管理型付样价
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。
 - **对方真实需求（有据）**：替换一批（数量不明）安防用 PoE 交换机，要管理型。
 - **断点 / 为什么停在这里**：付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。
-- **Saga 现在该推什么**：P1 **STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）**（25% 档，按规则）——来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）**（25% 档，按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不主动　A 邮箱　来信时一次报 8 口 PoE 管理型付样价
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国亚特兰大（+1 678）个人/小型买家（Outlook 邮箱，2022 年注册 Alibaba）：需求「1 光 8 口工业 PoE 傻瓜式（非管理）」；WhatsApp 加不上；1 次回复后 14 次跟进无果。（调研 2026-10-21；表内兴趣：1光8工业PoE傻瓜式 2022年注册Alibaba）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 14 次（2025-02-08 → 2025-10-31）；最近一次客户回复：1030：支持https吗
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11 S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」） 两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：HTTPS 管理 + 第三方证书。
 - **断点 / 为什么停在这里**：功能缺口。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺
+- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #7：他 2024-10 问的 HTTPS 现在有了（7.5 表）——两年后回原线程一句「现在有了」是零成本的信用动作；第三方证书上传仓内无证，不承诺
   - 做不了 / 要先核的：固件 7.5 HTTPS 状态
 - **下一步（具体）**：2026-11　S 邮箱 → chk999@outlook.com（回 2024-10-30 原线程「10G Ethernet Web Managed Switch」）　两年前答他「HTTPS 不在功能表」；7.5 L2+ 功能表已有 HTTPS（v4/v6）——回原线程一句话补上，并直接回答第三方证书问题（仓内无证 → 只说「HTTPS yes；third-party certificate upload: to be confirmed on your unit」），不带新品。
   - 第一问（只问一个）：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?

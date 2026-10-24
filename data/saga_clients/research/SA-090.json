@@ -1,91 +1,91 @@
 {
- "code": "SA-090",
- "name_official": "ACT Connectivity（Intronics B.V. 品牌，Barneveld，荷兰；TKH Group 成员）",
- "website_status": "在线",
- "summary": "荷兰连接线缆品牌 ACT（Intronics B.V. 为品牌所有者与增值分销商，51–200 人），隶属上市公司 TKH Group（2023 年营收 18 亿欧元）；产品以铜/光布线、无源配件为主；用户记录 1 次回复，需求'主要无源、少量 switch/MC'。",
- "type": "品牌商+分销商（集团子公司）",
- "size": "中型子公司（51–200 人），母公司 TKH Group 18 亿欧元",
- "brands_seen": [
-  "ACT",
-  "Eminent",
-  "Ewent"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "ACT 隶属上市公司 TKH Group（2023 年营收 18 亿），40+ 年历史，ISO 9001",
-   "quote": "We are part of the publicly listed TKH Group in the Netherlands, which reported a revenue of 1.8 billion in 2023. ACT is ISO 9001 certified",
-   "url": "https://www.act-connectivity.com/en-us/about-act",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Intronics 为 ACT 品牌所有者与增值分销商，遍布欧洲（比利时/西班牙办公室）",
-   "quote": "As value added distributor and brand owner of ACT connectivity solutions, Intronics is specialised in advising, developing and supplying connectivity solutions… sales offices in Belgium and Spain",
-   "url": "https://www.intronics.nl/en-us/about-intronics",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "Intronics 51–200 人",
-   "quote": "Intronics… Barneveld, Netherlands… 51-200",
-   "url": "https://revenuebase.ai/companies/enterprise-cabling-solutions-providers/netherlands",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+31 342 407040（Intronics 总机）",
-   "source": "用户 Clients 表 + 官网"
-  }
- ],
- "grade_override": "C",
- "override_reason": "体量过大/集团子公司：TKH Group 旗下品牌，采购走集团供应链与合规审核，Saga 贸易商无法满足其品牌级 QA/合规流程；且其需求以无源布线为主，交换机仅'少量'。曾 1 次回复，故在 C 中标注'可一次性报价无 logo 小批量'。",
- "notes": "若对方主动提出 MC/小交换机 OEM 需求再评估；不主动投入。c_sub=体量过大。",
- "researched_at": "2026-10-21",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（0 人工回复；3 封机器人要求改发 purchase@intronics.nl）",
-   "type": "荷兰 TKH 集团线缆品牌 / 增值分销（51–200 人）——Simon 口径「不主动投入，体量过大」",
-   "sieve": "0",
-   "stop": "渠道墙：「We do not give any personal mail addresses and we will not respond on chat requests… send to purchase@intronics.nl」",
-   "revive": "对方主动",
-   "lane": "NL/EU",
-   "cadence": "2024-07 → 2026-09 去信 34 封（2026 起加发 s.parrilla@）；建议降为每半年 1 封到 purchase@intronics.nl",
-   "evidence": "k=ebeaec229356a6b6 / 7c60325f260e19b9 / f9743de7207b8d51 / 33f56a27fffb417a"
-  },
-  "situation": "ACT/Intronics 三次用同一段模板回：请发 purchase@intronics.nl，不给个人邮箱。之后 Saga 继续向 info@/sales@/个人（s.parrilla@）发了 30 多封群发，无任何人工回复。",
-  "need": "以无源为主，少量 switch/MC（用户记录）。",
-  "breakpoint": "对方流程明确，Saga 没有按流程走（purchase@）。按 Simon 口径不投入。",
-  "saga_now": {
-   "p1": "无",
-   "tier": 20,
-   "price": "—",
-   "why": "Simon 口径",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动；最多每半年 1 封到 purchase@intronics.nl",
-   "channel": "A 邮箱",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-07-01",
-    "dir": "来",
-    "who": "ACT Connectivity Team（模板）",
-    "quote": "send the information to purchase@intronics.nl… We do not give any personal mail addresses and we will not respond on chat requests.",
-    "why": "渠道墙原话",
-    "k": "ebeaec229356a6b6"
-   }
+  "code": "SA-090",
+  "name_official": "ACT Connectivity（Intronics B.V. 品牌，Barneveld，荷兰；TKH Group 成员）",
+  "website_status": "在线",
+  "summary": "荷兰连接线缆品牌 ACT（Intronics B.V. 为品牌所有者与增值分销商，51–200 人），隶属上市公司 TKH Group（2023 年营收 18 亿欧元）；产品以铜/光布线、无源配件为主；用户记录 1 次回复，需求'主要无源、少量 switch/MC'。",
+  "type": "品牌商+分销商（集团子公司）",
+  "size": "中型子公司（51–200 人），母公司 TKH Group 18 亿欧元",
+  "brands_seen": [
+    "ACT",
+    "Eminent",
+    "Ewent"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "ACT 隶属上市公司 TKH Group（2023 年营收 18 亿），40+ 年历史，ISO 9001",
+      "quote": "We are part of the publicly listed TKH Group in the Netherlands, which reported a revenue of 1.8 billion in 2023. ACT is ISO 9001 certified",
+      "url": "https://www.act-connectivity.com/en-us/about-act",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Intronics 为 ACT 品牌所有者与增值分销商，遍布欧洲（比利时/西班牙办公室）",
+      "quote": "As value added distributor and brand owner of ACT connectivity solutions, Intronics is specialised in advising, developing and supplying connectivity solutions… sales offices in Belgium and Spain",
+      "url": "https://www.intronics.nl/en-us/about-intronics",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "Intronics 51–200 人",
+      "quote": "Intronics… Barneveld, Netherlands… 51-200",
+      "url": "https://revenuebase.ai/companies/enterprise-cabling-solutions-providers/netherlands",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+31 342 407040（Intronics 总机）",
+      "source": "用户 Clients 表 + 官网"
+    }
+  ],
+  "grade_override": "C",
+  "override_reason": "体量过大/集团子公司：TKH Group 旗下品牌，采购走集团供应链与合规审核，Saga 贸易商无法满足其品牌级 QA/合规流程；且其需求以无源布线为主，交换机仅'少量'。曾 1 次回复，故在 C 中标注'可一次性报价无 logo 小批量'。",
+  "notes": "若对方主动提出 MC/小交换机 OEM 需求再评估；不主动投入。c_sub=体量过大。",
+  "researched_at": "2026-10-21",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（0 人工回复；3 封机器人要求改发 purchase@intronics.nl）",
+      "type": "荷兰 TKH 集团线缆品牌 / 增值分销（51–200 人）——Simon 口径「不主动投入，体量过大」",
+      "sieve": "0",
+      "stop": "渠道墙：「We do not give any personal mail addresses and we will not respond on chat requests… send to purchase@intronics.nl」",
+      "revive": "对方主动",
+      "lane": "NL/EU",
+      "cadence": "2024-07 → 2026-09 去信 34 封（2026 起加发 s.parrilla@）；建议降为每半年 1 封到 purchase@intronics.nl",
+      "evidence": "k=ebeaec229356a6b6 / 7c60325f260e19b9 / f9743de7207b8d51 / 33f56a27fffb417a"
+    },
+    "situation": "ACT/Intronics 三次用同一段模板回：请发 purchase@intronics.nl，不给个人邮箱。之后 Saga 继续向 info@/sales@/个人（s.parrilla@）发了 30 多封群发，无任何人工回复。",
+    "need": "以无源为主，少量 switch/MC（用户记录）。",
+    "breakpoint": "对方流程明确，Saga 没有按流程走（purchase@）。按 Simon 口径不投入。",
+    "saga_now": {
+      "p1": "无",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "Simon 口径",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动；最多每半年 1 封到 purchase@intronics.nl",
+      "channel": "A 邮箱",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-01",
+        "dir": "来",
+        "who": "ACT Connectivity Team（模板）",
+        "quote": "send the information to purchase@intronics.nl… We do not give any personal mail addresses and we will not respond on chat requests.",
+        "why": "渠道墙原话",
+        "k": "ebeaec229356a6b6"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

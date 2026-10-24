@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS 用的hasivo的）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。
 - **对方真实需求（有据）**：自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM
 - **断点 / 为什么停在这里**：印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈
-- **Saga 现在该推什么**：P1 **STI-488DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-488DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 

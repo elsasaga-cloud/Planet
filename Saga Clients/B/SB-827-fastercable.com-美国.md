@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。（调研 2026-10-21；表内兴趣：5/8/16电口工业FS 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-05-01 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 FasterCable（线缆供应商；自有 EISW8-100T / EISW16-100T 工业以太网交换机（百兆电口）；表内「5/8/16 电口工业 FS 周边产品」；KP Richard Ozols（Sales Manager）、Juliette O（V. President））；群发 20 次无回复。
 - **对方真实需求（有据）**：自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）
 - **断点 / 为什么停在这里**：主业线缆（Saga 不做），交换机为周边；现款为百兆（价格基准低）
-- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch））——自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 EISW 系列 5/8/16 电口工业 FS → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 5 GE STI-050GE（$18.5）升级千兆；16 电口工业位 SmartByte 对应型号（注明）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Richard, for the EISW-series industrial switches you sell alongside your cable lines, we can supply gigabit DIN-rail 5/8/16-port unmanaged units (−40~75 °C, 12–57 V dual input, FCC/CE/RoHS) under your label from small lots — would a gigabit upgrade of the 8/16-port models fit your range?
 

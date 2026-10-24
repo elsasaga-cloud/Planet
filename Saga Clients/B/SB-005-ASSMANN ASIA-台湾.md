@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德国 ASSMANN（DIGITUS 品牌）台湾分公司 / 亚洲采购办，PM Kent Wang；展会接触：串口与 HDMI-to-RJ45，兴趣 MC / HDMI / SFP / PoE / 串口系列，2025-12 对 Alarm 回复「I/O modules」。DIGITUS 产品均为亚洲贴牌采购 → OEM 30%；HDMI / 串口 / I/O 模块 Saga 无。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-12-15）；最近一次客户回复：2025-12-15：I/O modules
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

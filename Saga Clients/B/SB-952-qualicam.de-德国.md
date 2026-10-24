@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：主要是安防）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-21 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Qualicam / ueberwachung.tv（Braunsbedra 视频监控网店：Hikvision（121）NVR 含 PoE 交换机套装、Ubiquiti 被动 PoE、PoE 注入器、刺激气体防盗装置、报警；表内「主要是安防」）；群发 8 次无回复。
 - **对方真实需求（有据）**：Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做
 - **断点 / 为什么停在这里**：Hikvision 套装自带 PoE NVR：外置 PoE 量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Hikvision 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；注入器 Saga 不做。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-25) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE switches you sell and install with Hikvision NVR kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your projects use most?
 

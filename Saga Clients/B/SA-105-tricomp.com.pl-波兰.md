@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。（调研 2026-10-21；表内兴趣：电信 安装布线）
 - **为什么是 B 级**：**调研后定级 B**（小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。）；自动分级 A：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 7 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 7 次；WhatsApp 已加；推送 15 次（2023-12-09 → 2025-05-23）；最近一次客户回复：2025-04-18：info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。
 - **对方真实需求（有据）**：集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：规模口径不一（可能仅数人）；14 次推送无回复
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
 

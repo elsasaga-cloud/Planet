@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。（调研 2026-10-21；表内兴趣：有很多知名小品牌的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。
 - **对方真实需求（有据）**：品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?
 

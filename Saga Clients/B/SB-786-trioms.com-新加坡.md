@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：AOA的工业MC 就这一款）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-03 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。
 - **对方真实需求（有据）**：站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@
-- **Saga 现在该推什么**：P1 **STI-110FE**（20% 档，按主表（研究档 saga_fit））——站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-110FE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?
 

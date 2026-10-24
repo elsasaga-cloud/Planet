@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。（调研 2026-10-21；表内兴趣：5电口 需要具体的产品信息）
 - **为什么是 B 级**：**调研后定级 B**（微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-03-18 → 2025-03-18）；最近一次客户回复：2025-03-18：Interested
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / 5 口非管理（一次给齐） — 不主动。已打开的主题（7/18 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-14)、「Re: Managed Optical Bypass Switch」(2025-05-15)、「Commercial PoE Switch」(2025-06-20)、「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / 5 口非管理（一次给齐） — 不主动。已打开的主题（7/18 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-14)、「Re: Managed Optical Bypass Switch」(2025-05-15)、「Commercial PoE Switch」(2025-06-20)、「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 A 邮箱 来信时一次给 STI-244GP 资料
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。
 - **对方真实需求（有据）**：8 口工业 PoE；bypass。
 - **断点 / 为什么停在这里**：泰国小经销的价格段与 Marvell 不匹配。
-- **Saga 现在该推什么**：P1 **STI-244GP / 5 口非管理（一次给齐）**（25% 档，—）——不主动。已打开的主题（7/18 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-14)、「Re: Managed Optical Bypass Switch」(2025-05-15)、「Commercial PoE Switch」(2025-06-20)、「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-244GP / 5 口非管理（一次给齐）**（25% 档，—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——不主动。已打开的主题（7/18 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-14)、「Re: Managed Optical Bypass Switch」(2025-05-15)、「Commercial PoE Switch」(2025-06-20)、「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　A 邮箱　来信时一次给 STI-244GP 资料
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

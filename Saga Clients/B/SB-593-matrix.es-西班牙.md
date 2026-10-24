@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。（调研 2026-10-21；表内兴趣：几个小有名气的牌子）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。
 - **对方真实需求（有据）**：面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低
 - **断点 / 为什么停在这里**：站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-22 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?
 

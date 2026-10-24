@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/27 封有打开记录）：「2.5G web managed switch」(2024-09-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

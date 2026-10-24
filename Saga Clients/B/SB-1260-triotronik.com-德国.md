@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1260，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：POE 工业FS MC SFP VC 销售平台 很多牌子的产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-01 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1
 - **对方真实需求（有据）**：网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：
 - **断点 / 为什么停在这里**：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-01 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180）——网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

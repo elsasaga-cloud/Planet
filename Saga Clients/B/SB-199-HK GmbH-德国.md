@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：有时候需要POE，需要用到带光口的交换机）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-15 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。
 - **对方真实需求（有据）**：PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **断点 / 为什么停在这里**：需求为间歇性（量小）；官网 http_error；7 次无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?
 

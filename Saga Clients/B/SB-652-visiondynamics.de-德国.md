@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Vision Dynamics ElectronX（业务待核；表内「之前谈过」；KP Joseph（joseph.nb@）；官网快照仅标题）；表内未跟进（群发前有接触）。（调研 2026-10-21；表内兴趣：之前谈过）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Joseph, picking up our earlier conversation: we now supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial switches from single units, CE/RoHS, EXW USD — is the requirement we discussed still open, and which configuration should I quote?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Vision Dynamics ElectronX（业务待核；表内「之前谈过」；KP Joseph（joseph.nb@）；官网快照仅标题）；表内未跟进（群发前有接触）。
 - **对方真实需求（有据）**：前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈
 - **断点 / 为什么停在这里**：「之前谈过」——洽谈内容待核（Gmail s./a. 邮箱）；官网仅标题（业务范围待核）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——前期洽谈内容待核（Gmail）→ 先以 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 GE + 2 SFP STI-280GE（$48.6）续谈
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Joseph, picking up our earlier conversation: we now supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial switches from single units, CE/RoHS, EXW USD — is the requirement we discussed still open, and which configuration should I quote?
 

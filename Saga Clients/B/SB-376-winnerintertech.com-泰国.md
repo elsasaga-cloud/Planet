@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：主要是巨联的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-05-27 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the industrial PoE positions where Moxa pricing is too high for the project, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。
 - **对方真实需求（有据）**：Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP
 - **断点 / 为什么停在这里**：Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial PoE positions where Moxa pricing is too high for the project, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?
 

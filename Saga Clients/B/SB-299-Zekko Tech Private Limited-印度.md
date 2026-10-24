@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。（调研 2026-10-21；表内兴趣：工业级/SFP）
 - **为什么是 B 级**：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。
 - **对方真实需求（有据）**：工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。
 - **断点 / 为什么停在这里**：SFP 需求 Saga 无；印度 BIS
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.
 

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。（调研 2026-10-21；表内兴趣：Trendnet 8电口）
 - **为什么是 B 级**：**调研后定级 B**（综合品类采购平台的一次性询盘（指定 Trendnet 型号），非网络渠道、无复购逻辑；美国主攻区故保留 B。）；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。
 - **对方真实需求（有据）**：TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。
 - **断点 / 为什么停在这里**：需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）
-- **Saga 现在该推什么**：P1 **STC-08GE**（20% 档，按主表（研究档 saga_fit））——TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。
+- **Saga 现在该推什么**：P1 **STC-08GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?
 

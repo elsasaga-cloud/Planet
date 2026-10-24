@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS  新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。
 - **对方真实需求（有据）**：工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价
 - **断点 / 为什么停在这里**：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter））——工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

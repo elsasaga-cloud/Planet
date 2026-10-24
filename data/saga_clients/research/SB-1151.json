@@ -92,7 +92,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM",
       "repeat": [],
       "gaps": []

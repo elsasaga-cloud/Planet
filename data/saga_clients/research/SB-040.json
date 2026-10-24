@@ -106,7 +106,7 @@
     "saga_now": {
       "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
       "tier": 25,
-      "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）",
+      "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字",
       "repeat": [],
       "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"

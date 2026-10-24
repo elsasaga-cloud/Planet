@@ -1,66 +1,66 @@
 {
- "code": "SA-042",
- "name_official": "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）",
- "website_status": "在线",
- "summary": "香港注册（2013）的中资 IT 配件制造+分销商，自称在中国/台湾/印度有工厂生产 PoE 交换机、CCTV、光纤设备、4G 路由器，办公室遍布香港、中国、迪拜、孟加拉、新加坡，覆盖 SAARC/APAC/MEA。用户表登记为沙特，电话是 +86 大陆手机号。",
- "type": "中资同行（制造+分销）",
- "size": "未披露",
- "brands_seen": [
-  "Intelligent"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有工厂生产 PoE 交换机等——属同行而非客户",
-   "quote": "We are proud manufacturers of global brands and have a state-of-the-art, technology-driven manufacturing units in China, Taiwan & India where we manufacture various types of hi-tech devices such as POE Switches, CCTV Cameras & DVR/NVR, Fiber Optical devices, 4G Routers. … Headquartered in Hong Kong, Intelligent Technologies Traders Ltd. was established in 2013.",
-   "url": "https://www.intelligent.hk/",
-   "date": "2026-10-21"
-  }
- ],
- "grade_override": "C",
- "override_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
- "notes": "c_sub=同行/中资贸易商。",
- "researched_at": "2026-10-21",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（同行：一次「share your price list」→ 给链接 → 无）",
-   "type": "中资同行（制造 + 分销，HK/深圳/迪拜）——c_sub 同行",
-   "sieve": "1",
-   "stop": "价表给后无回；同行比价",
-   "revive": "不投入",
-   "lane": "—",
-   "cadence": "2024-07 → 2026-09 去信 32 封；最后来信 2025-07-22",
-   "evidence": "k=586559b1a8001973 / 0c4f75da78fd280b"
-  },
-  "situation": "Ank 2025-07-22 要价表，Alan 给下载链接。同行索价表 = 比价，不是采购。",
-  "need": "—",
-  "breakpoint": "同行；按 Simon 规则不投入且应从群发名单剔除（32 封去信是浪费）。",
-  "saga_now": {
-   "p1": "无",
-   "tier": 20,
-   "price": "—",
-   "why": "剔除群发",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动；建议移出群发",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-07-22",
-    "dir": "来",
-    "who": "Ank（intelligent.hk）",
-    "quote": "Kindly share your price list",
-    "why": "同行索价",
-    "k": "586559b1a8001973"
-   }
+  "code": "SA-042",
+  "name_official": "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）",
+  "website_status": "在线",
+  "summary": "香港注册（2013）的中资 IT 配件制造+分销商，自称在中国/台湾/印度有工厂生产 PoE 交换机、CCTV、光纤设备、4G 路由器，办公室遍布香港、中国、迪拜、孟加拉、新加坡，覆盖 SAARC/APAC/MEA。用户表登记为沙特，电话是 +86 大陆手机号。",
+  "type": "中资同行（制造+分销）",
+  "size": "未披露",
+  "brands_seen": [
+    "Intelligent"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有工厂生产 PoE 交换机等——属同行而非客户",
+      "quote": "We are proud manufacturers of global brands and have a state-of-the-art, technology-driven manufacturing units in China, Taiwan & India where we manufacture various types of hi-tech devices such as POE Switches, CCTV Cameras & DVR/NVR, Fiber Optical devices, 4G Routers. … Headquartered in Hong Kong, Intelligent Technologies Traders Ltd. was established in 2013.",
+      "url": "https://www.intelligent.hk/",
+      "date": "2026-10-21"
+    }
+  ],
+  "grade_override": "C",
+  "override_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
+  "notes": "c_sub=同行/中资贸易商。",
+  "researched_at": "2026-10-21",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（同行：一次「share your price list」→ 给链接 → 无）",
+      "type": "中资同行（制造 + 分销，HK/深圳/迪拜）——c_sub 同行",
+      "sieve": "1",
+      "stop": "价表给后无回；同行比价",
+      "revive": "不投入",
+      "lane": "—",
+      "cadence": "2024-07 → 2026-09 去信 32 封；最后来信 2025-07-22",
+      "evidence": "k=586559b1a8001973 / 0c4f75da78fd280b"
+    },
+    "situation": "Ank 2025-07-22 要价表，Alan 给下载链接。同行索价表 = 比价，不是采购。",
+    "need": "—",
+    "breakpoint": "同行；按 Simon 规则不投入且应从群发名单剔除（32 封去信是浪费）。",
+    "saga_now": {
+      "p1": "无",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "剔除群发",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动；建议移出群发",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-07-22",
+        "dir": "来",
+        "who": "Ank（intelligent.hk）",
+        "quote": "Kindly share your price list",
+        "why": "同行索价",
+        "k": "586559b1a8001973"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

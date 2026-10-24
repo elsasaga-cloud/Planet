@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。（调研 2026-10-21；表内兴趣：只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：安卡拉 Sincan Başkent OSB 的车辆出入口安防设备制造商 Optima Engineering（路障/升降柱/滑动门/道闸/破胎器/闸机/车牌识别/停车道闸；总部与工厂 Başkent OSB 19. Cadde No:62 Malıköy；伊斯坦布尔 Perpa 销售办；沙特 KSA 工厂；+90 312 815 15 00；optima@optima.tc；Optima Soft = 其软件/IP 视频团队）。ISAF 记录：技术经理 Furkan Kalkan——只处理 IP 摄像、基本不处理模拟，对 PoE 交换机有兴趣，会来深圳买产品（非参展），已邀其参观公司；2 次跟进 0 回复。设备制造商在柜内配套 PoE 交换机 → OEM/配套 30%。
 - **对方真实需求（有据）**：OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标
 - **断点 / 为什么停在这里**：公共/军事设施出入口项目按个案守界（设备商本身为民用制造）；2 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit））——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标
+- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$36.9）/ STI-154GP（4 PoE + 1 GE，$40.8）放 LPR 道闸控制柜；8 口 STI-288GP（$62.2）；可贴 Optima 标
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Furkan Bey, plaka tanıma ve bariyer panolarınız için DIN ray 4 port gigabit PoE + 1 SFP endüstriyel switch (−40/+75 °C) Optima etiketiyle EXW 36,9 USD; Shenzhen ziyaretinizde numuneyi elden teslim edebiliriz — tarih belli mi?
 

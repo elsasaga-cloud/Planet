@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：伦敦 Highbury 的微型监控服务公司（2018-02-27 注册；SIC 82990 其他商业支持服务；注册地 Office 408, Screenworks, 22 Highbury Grove, London N5 2ER）；官网未被搜索引擎索引，规模与产品线不可核。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：做项目比较多。对VC有兴趣 PoE switch也懂 对2光10电有兴趣 让发所有资料）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定。已打开的主题（1/27 封有打开记录）：「8 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定。已打开的主题（1/27 封有打开记录）：「8 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：If your monitoring installs still use 8-camera PoE cabinets, the gigabit 8-port PoE+ managed switch with 2 SFP is $84.1 EXW; which recorder brand do you pair it with?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：伦敦 Highbury 的微型监控服务公司（2018-02-27 注册；SIC 82990 其他商业支持服务；注册地 Office 408, Screenworks, 22 Highbury Grove, London N5 2ER）；官网未被搜索引擎索引，规模与产品线不可核。用户表：17 次跟进 0 回复。
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定
 - **断点 / 为什么停在这里**：规模与业务不可核；17 次推送 0 回复 → 低优先
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch））——默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定。已打开的主题（1/27 封有打开记录）：「8 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-07 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——默认 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；待对方说明用途后再定。已打开的主题（1/27 封有打开记录）：「8 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：If your monitoring installs still use 8-camera PoE cabinets, the gigabit 8-port PoE+ managed switch with 2 SFP is $84.1 EXW; which recorder brand do you pair it with?
 

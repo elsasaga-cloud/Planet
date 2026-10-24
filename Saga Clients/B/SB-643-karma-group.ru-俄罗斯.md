@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。（调研 2026-10-21；表内兴趣：有DCN的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。
 - **对方真实需求（有据）**：DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?
 

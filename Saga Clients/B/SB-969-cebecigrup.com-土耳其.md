@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Cebeci Grup（Cebeci Teleteks San. ve Tic. Ltd. Şti.：光纤/电信测试与接入设备分销——Kingfisher/Tempo、Transition Networks/Lantronix、Micos Telcom/PLP、Argus 260；站内自有 CFC 系列 PoE 交换机页（CFC-8T2S 非管理 PoE、CFC-2F1S 工业 FE PoE）；表内「ONV；工业 FS 工业串口 有国内的」；KP Mustafa Engin（Satış ve Proje Direktörü））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：ONV  工业FS 工业串口 有国内的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Cebeci Grup（Cebeci Teleteks San. ve Tic. Ltd. Şti.：光纤/电信测试与接入设备分销——Kingfisher/Tempo、Transition Networks/Lantronix、Micos Telcom/PLP、Argus 260；站内自有 CFC 系列 PoE 交换机页（CFC-8T2S 非管理 PoE、CFC-2F1S 工业 FE PoE）；表内「ONV；工业 FS 工业串口 有国内的」；KP Mustafa Engin（Satış ve Proje Direktörü））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
 - **断点 / 为什么停在这里**：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
-- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter））——CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?
 

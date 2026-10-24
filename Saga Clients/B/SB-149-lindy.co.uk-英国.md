@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：MC,似乎是比较有名 SFP 工业FS  自己的牌子 价格很高）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。
 - **对方真实需求（有据）**：Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：成熟品牌（英/德双总部）：供应商导入流程长、文档要求高
-- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit））——Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
 

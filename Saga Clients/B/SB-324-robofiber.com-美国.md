@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。（调研 2026-10-21；表内兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → sales@robofiber.com 短信一问（email_hook）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：美国光模块制造商 / 品牌（400G–FE 全速率收发器、MC、交换机；sfp 511 / switch 268 / poe 156 / industrial 140），表内「MC SFP（主要）FS 自己的牌子，别人在卖他们的产品，优质公司」；群发 18 次无回复。自有品牌 → OEM 30%（MC / 工业 FS 贴牌）。
 - **对方真实需求（有据）**：ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。
 - **断点 / 为什么停在这里**：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
-- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——ROBOfiber 工业 FS 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。已打开的主题（4/29 封有打开记录）：「24V poe switch」(2024-07-29)、「24 Port Fiber Switch」(2025-01-29)、「48 Port PoE Managed Switch」(2025-04-21)、「Optional Marvell Chipset Solutions」(2025-11-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → sales@robofiber.com　短信一问（email_hook）
   - 第一问（只问一个）：For the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?
 

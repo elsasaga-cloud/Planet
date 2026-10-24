@@ -1,149 +1,149 @@
 {
- "code": "SA-154",
- "name_official": "Falke Security（杜伊斯堡，德国；falke-security.de）",
- "website_status": "在线",
- "summary": "德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。",
- "type": "安防经销/项目商",
- "size": "微型/小型（待补证）",
- "brands_seen": [
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "HDCVI/IP 摄像系统专业经销商，项目 1–256 路，含网络环境搭建；联系方式",
-   "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler… Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen… Duisburg… Mobil: + 49 172 / 90 54 200… info@falke-security.de",
-   "url": "https://falke-security.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "产品覆盖报警、智能家居、视频监控，面向住宅/商铺/办公/物流与工业企业",
-   "quote": "hochwertige Alarm-, Smarthome- und Videoüberwachungslösungen… eignet sich für den Einbau in Wohnungen… Ladengeschäften, Bürogebäuden, Logistik- und Industriebetrieben",
-   "url": "https://falke-security.de/uber-uns/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "注册",
-   "claim": "登记主体为个体经营 Nuri Sahin Sicherheitsdienste",
-   "quote": "Nuri Sahin Sicherheitsdienste \"Falke Security\" www.falke-security.de … Krefelder Str. 282 47229 Duisburg Deutschland",
-   "url": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler … Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen … Mobil: + 49 172 / 90 54 200 - E-mail: info@falke-security.de",
-   "url": "https://falke-security.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "在售 Dahua 摄像机（PoE+）",
-   "quote": "DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)",
-   "url": "https://falke-security.de/produkt/dahua-sd29204t-gn-w/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "info@falke-security.de（公开）",
-   "phone": "+49 172 90 54 200",
-   "source": "用户 Clients 表 + 官网"
-  },
-  {
-   "name": "Nuri Sahin",
-   "role": "Inhaber（业主，Creditreform 登记名）",
-   "email": "info@falke-security.de（公开）",
-   "phone": "+49 172 90 54 200（官网）",
-   "source": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 注册信息核对）"
- },
- "company_facts": {
-  "legal_name": "Nuri Sahin Sicherheitsdienste „Falke Security“（Creditreform）",
-  "hq": "Krefelder Str. 282, 47229 Duisburg（Creditreform）；官网联系页 Friedrich-Alfred-Straße 98, 47226 Duisburg",
-  "other": "个体经营安防企业（Nuri Sahin）：HDCVI/IP 摄像系统（在售 Dahua，如 SD29204T-GN-W €339.78）、报警、Smarthome；1–256 路项目 + 网络搭建；营业 Mo–Sa 09–18"
- },
- "business_lines": [
-  "HDCVI / IP 摄像系统与配件",
-  "1–256 路摄像项目实施与网络环境搭建",
-  "Dahua HDCVI/IP 摄像系统零售 + 项目",
-  "报警/Smarthome",
-  "网络环境搭建（交换机为配套）"
- ],
- "products_seen": [
-  {
-   "brand": "（展会兴趣）",
-   "model": "4 光 8 电 10G；2.5G 1 光 8 电",
-   "spec": "索价",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-424XGGPM-280W（10G 上联位）/ STC-28DGGPM"
-  }
- ],
- "channels": {
-  "网站": "https://falke-security.de/（WooCommerce 网店）",
-  "直邮": "info@falke-security.de（用户表）",
-  "手机": "+49 172 90 54 200（官网公开）",
-  "邮箱（公开）": "info@falke-security.de"
- },
- "signals": [
-  "用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复",
-  "网店卖 Dahua（PoE+ 摄像机）——配套 PoE 交换机需求真实但体量小（个体经营）"
- ],
- "risks": [
-  "0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小",
-  "个体经营、7 次跟进 0 回复——改用 WhatsApp/电话（+49 172 90 54 200）一次性触达，不再邮件轰炸"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档"
- },
- "email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G）",
-   "type": "杜伊斯堡安防经销/项目（Falke Security）——德国主攻",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "info@ 0 打开",
-   "revive": "换联系人 + 对位两款",
-   "lane": "DE",
-   "cadence": "一次",
-   "evidence": "邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de"
-  },
-  "situation": "info@ 两年 0 打开；机型兴趣在邮件无痕。",
-  "need": "STC-424XGGPM-280W / 2.5G 1 光 8 电。",
-  "breakpoint": "触达层。",
-  "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "—",
-   "channel": "—",
-   "action": "找具名 KP",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [
-   "机型兴趣出处未见"
+  "code": "SA-154",
+  "name_official": "Falke Security（杜伊斯堡，德国；falke-security.de）",
+  "website_status": "在线",
+  "summary": "德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。",
+  "type": "安防经销/项目商",
+  "size": "微型/小型（待补证）",
+  "brands_seen": [
+    "Dahua"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "HDCVI/IP 摄像系统专业经销商，项目 1–256 路，含网络环境搭建；联系方式",
+      "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler… Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen… Duisburg… Mobil: + 49 172 / 90 54 200… info@falke-security.de",
+      "url": "https://falke-security.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "产品覆盖报警、智能家居、视频监控，面向住宅/商铺/办公/物流与工业企业",
+      "quote": "hochwertige Alarm-, Smarthome- und Videoüberwachungslösungen… eignet sich für den Einbau in Wohnungen… Ladengeschäften, Bürogebäuden, Logistik- und Industriebetrieben",
+      "url": "https://falke-security.de/uber-uns/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "注册",
+      "claim": "登记主体为个体经营 Nuri Sahin Sicherheitsdienste",
+      "quote": "Nuri Sahin Sicherheitsdienste \"Falke Security\" www.falke-security.de … Krefelder Str. 282 47229 Duisburg Deutschland",
+      "url": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务与联系方式",
+      "quote": "HDCVI, IP Kamerasysteme inklusive Zubehör vom Fachhändler … Projektierung von Kamerasystemen von 1 – 256 Stück – Integrierung in bestehende Netzwerke – Aufbau von Netzwerkumgebungen … Mobil: + 49 172 / 90 54 200 - E-mail: info@falke-security.de",
+      "url": "https://falke-security.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "在售 Dahua 摄像机（PoE+）",
+      "quote": "DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)",
+      "url": "https://falke-security.de/produkt/dahua-sd29204t-gn-w/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "info@falke-security.de（公开）",
+      "phone": "+49 172 90 54 200",
+      "source": "用户 Clients 表 + 官网"
+    },
+    {
+      "name": "Nuri Sahin",
+      "role": "Inhaber（业主，Creditreform 登记名）",
+      "email": "info@falke-security.de（公开）",
+      "phone": "+49 172 90 54 200（官网）",
+      "source": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + 注册信息核对）"
+  },
+  "company_facts": {
+    "legal_name": "Nuri Sahin Sicherheitsdienste „Falke Security“（Creditreform）",
+    "hq": "Krefelder Str. 282, 47229 Duisburg（Creditreform）；官网联系页 Friedrich-Alfred-Straße 98, 47226 Duisburg",
+    "other": "个体经营安防企业（Nuri Sahin）：HDCVI/IP 摄像系统（在售 Dahua，如 SD29204T-GN-W €339.78）、报警、Smarthome；1–256 路项目 + 网络搭建；营业 Mo–Sa 09–18"
+  },
+  "business_lines": [
+    "HDCVI / IP 摄像系统与配件",
+    "1–256 路摄像项目实施与网络环境搭建",
+    "Dahua HDCVI/IP 摄像系统零售 + 项目",
+    "报警/Smarthome",
+    "网络环境搭建（交换机为配套）"
+  ],
+  "products_seen": [
+    {
+      "brand": "（展会兴趣）",
+      "model": "4 光 8 电 10G；2.5G 1 光 8 电",
+      "spec": "索价",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STC-424XGGPM-280W（10G 上联位）/ STC-28DGGPM"
+    }
+  ],
+  "channels": {
+    "网站": "https://falke-security.de/（WooCommerce 网店）",
+    "直邮": "info@falke-security.de（用户表）",
+    "手机": "+49 172 90 54 200（官网公开）",
+    "邮箱（公开）": "info@falke-security.de"
+  },
+  "signals": [
+    "用户表：展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价；7 次跟进 0 回复",
+    "网店卖 Dahua（PoE+ 摄像机）——配套 PoE 交换机需求真实但体量小（个体经营）"
+  ],
+  "risks": [
+    "0 回复 ×7：需换触达（电话/WhatsApp）；德国安装商量小",
+    "个体经营、7 次跟进 0 回复——改用 WhatsApp/电话（+49 172 90 54 200）一次性触达，不再邮件轰炸"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档"
+  },
+  "email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G）",
+      "type": "杜伊斯堡安防经销/项目（Falke Security）——德国主攻",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "info@ 0 打开",
+      "revive": "换联系人 + 对位两款",
+      "lane": "DE",
+      "cadence": "一次",
+      "evidence": "邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de"
+    },
+    "situation": "info@ 两年 0 打开；机型兴趣在邮件无痕。",
+    "need": "STC-424XGGPM-280W / 2.5G 1 光 8 电。",
+    "breakpoint": "触达层。",
+    "saga_now": {
+      "p1": "STC-424XGGPM-280W",
+      "tier": 25,
+      "price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "—",
+      "channel": "—",
+      "action": "找具名 KP",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [
+      "机型兴趣出处未见"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

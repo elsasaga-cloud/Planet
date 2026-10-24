@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：分销商 3旺等；分销很多牌子（3旺、Nsgate））
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。
 - **对方真实需求（有据）**：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
 

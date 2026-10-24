@@ -90,7 +90,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属",
       "repeat": [],
       "gaps": []

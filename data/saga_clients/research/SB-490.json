@@ -74,7 +74,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对应「工业 FS」；SFP 待 Q-32",
       "repeat": [],
       "gaps": []

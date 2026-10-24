@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。（调研 2026-10-21；表内兴趣：工业交换机）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2024-04-28 → 2025-10-03）；最近一次客户回复：2025-10-03：email
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。
 - **对方真实需求（有据）**：其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。
 - **断点 / 为什么停在这里**：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
 

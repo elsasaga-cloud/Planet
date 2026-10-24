@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-27 $220（Commercial managed switch）、2024-09-24 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-27 $220（Commercial managed switch）、2024-09-24 $65（10G Media Converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE。已打开的主题（2/35 封有打开记录）：「Updated Ethernet Switches Links」(2026-02-27)、「24 Port PoE Managed Switch」(2026-08-25) → 读者兴趣偏「固件/功能」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-27)、Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

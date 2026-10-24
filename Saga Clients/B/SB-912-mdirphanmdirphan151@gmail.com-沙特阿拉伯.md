@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。（调研 2026-10-21；表内兴趣：2光16管理 4pcs）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 23 次（2023-12-15 → 2025-10-27）；最近一次客户回复：2024-12-11：1212：email发了22mini
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核。已打开的主题（1/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-04-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核。已打开的主题（1/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-04-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。
 - **对方真实需求（有据）**：表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核
 - **断点 / 为什么停在这里**：无公司实体信息，可能是一次性项目
-- **Saga 现在该推什么**：P1 **STC-2216GPM**（25% 档，按主表（研究档 saga_fit））——表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核。已打开的主题（1/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-04-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-2216GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核。已打开的主题（1/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-04-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.
 

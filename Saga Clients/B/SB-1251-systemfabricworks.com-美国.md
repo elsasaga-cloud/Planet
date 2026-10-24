@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 System Fabric Works（高性能分布式计算平台集成商：服务器、存储与网络方案；表内「Marvell 方案」）；表内未跟进。（调研 2026-10-21；表内兴趣：Marvell方案）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 System Fabric Works（高性能分布式计算平台集成商：服务器、存储与网络方案；表内「Marvell 方案」）；表内未跟进。
 - **对方真实需求（有据）**：HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）
 - **断点 / 为什么停在这里**：品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?
 

@@ -1,106 +1,106 @@
 {
- "code": "SB-544",
- "name_official": "Lanopia GmbH（德国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（lanopia.de，快照 2026-10-21，德语）",
- "summary": "德国光纤 / 铜缆网络技术增值分销商（poe 247 / switch 233 / industrial 126 / media converter 45），仅 info@；表内「MC 工业 FS；卖 Omnitron 这个牌子？可以着重跟一下」；群发 8 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Omnitron"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "专业光纤与铜缆网络技术增值分销商",
-   "quote": "Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie.",
-   "url": "https://lanopia.de/",
-   "date": "2026-10-21"
+  "code": "SB-544",
+  "name_official": "Lanopia GmbH（德国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lanopia.de，快照 2026-10-21，德语）",
+  "summary": "德国光纤 / 铜缆网络技术增值分销商（poe 247 / switch 233 / industrial 126 / media converter 45），仅 info@；表内「MC 工业 FS；卖 Omnitron 这个牌子？可以着重跟一下」；群发 8 次无回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Omnitron"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "专业光纤与铜缆网络技术增值分销商",
+      "quote": "Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie.",
+      "url": "https://lanopia.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 工业 FS；卖 Omnitron 这个牌子？；可以着重跟一下",
+      "quote": "兴趣：MC 工业FS 卖Omnitron这个牌子？？",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@lanopia.de",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
-  {
-   "kind": "用户表",
-   "claim": "MC 工业 FS；卖 Omnitron 这个牌子？；可以着重跟一下",
-   "quote": "兴趣：MC 工业FS 卖Omnitron这个牌子？？",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "Lanopia GmbH（待核）",
+    "founded": "",
+    "hq": "Germany",
+    "size": "中小型 VAD",
+    "other": "Omnitron（美）MC 在售"
+  },
+  "business_lines": [
+    "光纤 / 铜缆网络产品增值分销"
+  ],
+  "channels": {
+    "role": "增值分销商",
+    "region": "德国"
+  },
+  "signals": [
+    "MC / 工业 FS 为核心品类",
+    "表内建议着重跟"
+  ],
+  "risks": [
+    "仅 info@；8 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE 对位 Omnitron。"
+  },
+  "email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（15 封来信全部是 info@lanopia.de 的德语自动回复「Ihr email an Lanopia GmbH」，2023-11 → 2026-09；无人工回复）",
+      "type": "德国网络设备分销/品牌（Lanopia GmbH）——只打过 info@",
+      "sieve": "0",
+      "stop": "info@ 自动回复黑洞",
+      "revive": "找具名采购邮箱",
+      "lane": "DE 主攻",
+      "cadence": "不动",
+      "evidence": "k=8624aa9d96551841 … 13ba27424bd3e77f（15 封同文）"
+    },
+    "situation": "三年 18 封群发换来 15 封一模一样的自动回复。",
+    "need": "—",
+    "breakpoint": "无人读信。",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "why": "—",
+      "repeat": [],
+      "gaps": [
+        "具名联系人"
+      ]
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@lanopia.de",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Lanopia GmbH（待核）",
-  "founded": "",
-  "hq": "Germany",
-  "size": "中小型 VAD",
-  "other": "Omnitron（美）MC 在售"
- },
- "business_lines": [
-  "光纤 / 铜缆网络产品增值分销"
- ],
- "channels": {
-  "role": "增值分销商",
-  "region": "德国"
- },
- "signals": [
-  "MC / 工业 FS 为核心品类",
-  "表内建议着重跟"
- ],
- "risks": [
-  "仅 info@；8 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE 对位 Omnitron。"
- },
- "email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（15 封来信全部是 info@lanopia.de 的德语自动回复「Ihr email an Lanopia GmbH」，2023-11 → 2026-09；无人工回复）",
-   "type": "德国网络设备分销/品牌（Lanopia GmbH）——只打过 info@",
-   "sieve": "0",
-   "stop": "info@ 自动回复黑洞",
-   "revive": "找具名采购邮箱",
-   "lane": "DE 主攻",
-   "cadence": "不动",
-   "evidence": "k=8624aa9d96551841 … 13ba27424bd3e77f（15 封同文）"
-  },
-  "situation": "三年 18 封群发换来 15 封一模一样的自动回复。",
-  "need": "—",
-  "breakpoint": "无人读信。",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": [
-    "具名联系人"
-   ]
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

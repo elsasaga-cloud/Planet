@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Eurocam Güvenlik（安防摄像机、CCTV 与 IP 摄像机进口商；栏目 CCTV IP、广播音响、车牌识别、人员考勤、消防、报警；Hikvision / Dahua / Ruijie；KP Gökhan Demir（CEO））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Gökhan, alongside the Hikvision and Dahua systems you import, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Eurocam Güvenlik（安防摄像机、CCTV 与 IP 摄像机进口商；栏目 CCTV IP、广播音响、车牌识别、人员考勤、消防、报警；Hikvision / Dahua / Ruijie；KP Gökhan Demir（CEO））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
 - **断点 / 为什么停在这里**：土耳其：汇率敏感；多品牌进口商（Hikvision/Dahua 自带 PoE）；1 次跟进无回复 → 改向 CEO 具名首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——CCTV 进口配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Gökhan, alongside the Hikvision and Dahua systems you import, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?
 

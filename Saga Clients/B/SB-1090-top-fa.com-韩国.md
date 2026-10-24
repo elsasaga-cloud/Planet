@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。（调研 2026-10-21；表内兴趣：工业自动化 serial 比较专业 在用台湾的IPDAS牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-05-01 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。
 - **对方真实需求（有据）**：在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter））——在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?
 

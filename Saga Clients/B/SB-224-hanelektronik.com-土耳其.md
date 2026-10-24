@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Han Elektronik（「Türkiye’nin Güvenlik Çözümü」安防方案商，ISAF 参展商；自有「AI」系列 PoE 交换机商品页：AI806M 4 PoE + 2 上联 65W、AI8082M 8×100M PoE + 2 GE 96W、AI8024 24×100M PoE + 2 GE + 1 SFP 250W、VP-16PG-2SFP 16 口千兆 PoE 300W；站内 Milesight；表内「商业 PoE 看着有 HiSource 的，MC / 工业 FS / VC / 无源，很多种外壳」）；群发 2 次无回复。（调研 2026-10-21；表内兴趣：商业POE 看着有hisource的 MC 工业FS VC 无源产品；商业POE 看着有hisource的 MC 工业FS VC 无源产品  很多种外壳）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the AI-series PoE switches under your label (AI8082M / AI8024 / VP-16PG), we can supply the same layouts — 8 FE PoE + 2 GE, 24 FE PoE + 2 GE + SFP, 16 GE PoE + 2 SFP — plus a Marvell-based gigabit L2+ step-up model from small lots, neutral housing of your choice; which SKU do you reorder most often?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Han Elektronik（「Türkiye’nin Güvenlik Çözümü」安防方案商，ISAF 参展商；自有「AI」系列 PoE 交换机商品页：AI806M 4 PoE + 2 上联 65W、AI8082M 8×100M PoE + 2 GE 96W、AI8024 24×100M PoE + 2 GE + 1 SFP 250W、VP-16PG-2SFP 16 口千兆 PoE 300W；站内 Milesight；表内「商业 PoE 看着有 HiSource 的，MC / 工业 FS / VC / 无源，很多种外壳」）；群发 2 次无回复。
 - **对方真实需求（有据）**：自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）
 - **断点 / 为什么停在这里**：现代工 HiSource（深圳）：价格基准低，需以外壳选择/交期/Marvell 千兆升级切入
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 AI 系列以百兆 PoE 为主（HiSource 外壳）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；百兆位对价 HRUI STC-028GFP（8 FE PoE + 2 GE，列表价 $17.6）；16 口千兆 PoE 位 HRUI STC-2016GP（$88.0）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the AI-series PoE switches under your label (AI8082M / AI8024 / VP-16PG), we can supply the same layouts — 8 FE PoE + 2 GE, 24 FE PoE + 2 GE + SFP, 16 GE PoE + 2 SFP — plus a Marvell-based gigabit L2+ step-up model from small lots, neutral housing of your choice; which SKU do you reorder most often?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。（调研 2026-10-21；表内兴趣：也有光路的工业FS）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Rasel, alongside the brands in your industrial networking category, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and 24-GE + 4×10G L2+ from single units, FCC/CE/RoHS, EXW USD — which industrial switch SKU do your customers order most?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。
 - **对方真实需求（有据）**：工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）
 - **断点 / 为什么停在这里**：快照 parked_or_empty（经营状态待核）；CEO 邮箱未显示（仅 info@）；现供光路价格基准低
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Rasel, alongside the brands in your industrial networking category, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and 24-GE + 4×10G L2+ from single units, FCC/CE/RoHS, EXW USD — which industrial switch SKU do your customers order most?
 

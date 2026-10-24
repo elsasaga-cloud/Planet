@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：ONV的工业FS；有ONV的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 3 次（2025-08-14 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/13 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-22) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/13 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-22) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Zain, for the ONV-type industrial PoE positions in your installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **断点 / 为什么停在这里**：官网 http_error（业务范围与经营状态待核）；现供 ONV 价格基准低；3 次无回复
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/13 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-22) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/13 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-22) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Zain, for the ONV-type industrial PoE positions in your installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?
 

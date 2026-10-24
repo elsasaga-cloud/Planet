@@ -107,7 +107,7 @@
     "saga_now": {
       "p1": "STI-144GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
       "why": "配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）",
       "repeat": [],
       "gaps": []
