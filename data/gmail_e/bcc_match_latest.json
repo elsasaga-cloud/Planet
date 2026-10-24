@@ -6729,6 +6729,18 @@
      "fibersystem.com",
      "info@fibersystem.com"
     ]
+   },
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "fibersystem.com",
+     "info@fibersystem.com"
+    ]
    }
   ]
  },
@@ -8397,6 +8409,416 @@
     "matched": [
      "emporium.ro",
      "magda@emporium.ro"
+    ]
+   }
+  ]
+ },
+ "SB-080": {
+  "grade": "B",
+  "name": "JguyTech",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "jyguibreteau@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SB-1169": {
+  "grade": "B",
+  "name": "cae-groupe.com",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "cae-groupe.fr",
+     "contact@cae-groupe.fr"
+    ]
+   }
+  ]
+ },
+ "SB-1196": {
+  "grade": "B",
+  "name": "hightrade-international.com",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "hightrade-international.com",
+     "info@hightrade-international.com",
+     "thomas.lemaire@hightrade-international.com"
+    ]
+   }
+  ]
+ },
+ "SC-1658": {
+  "grade": "C",
+  "name": "etim.benin@gmail.com",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "etim.benin@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-1738": {
+  "grade": "C",
+  "name": "kairos musique",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "kairosmusique@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2297": {
+  "grade": "C",
+  "name": "CNM International",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "contact-cnmi@wanadoo.fr"
+    ]
+   }
+  ]
+ },
+ "SC-2961": {
+  "grade": "C",
+  "name": "Conectis",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "conectis.fr",
+     "contact@conectis.fr"
+    ]
+   }
+  ]
+ },
+ "SC-924": {
+  "grade": "C",
+  "name": "techtel.fr",
+  "hits": [
+   {
+    "msg_id": "1a0673806b7c310d",
+    "date": "2026-09-03",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "FR",
+    "to": "kairosmusique@gmail.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "ljunca@techtel.fr",
+     "techtel.fr"
+    ]
+   }
+  ]
+ },
+ "SB-1204": {
+  "grade": "B",
+  "name": "ipcamerawebwinkel.nl",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@zeevalk.nl",
+     "zeevalk.nl"
+    ]
+   }
+  ]
+ },
+ "SB-1219": {
+  "grade": "B",
+  "name": "mikrodev.com",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@mikrodev.com",
+     "mikrodev.com"
+    ]
+   }
+  ]
+ },
+ "SB-1220": {
+  "grade": "B",
+  "name": "mondoplast.ro",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "mondoplast.net",
+     "timisoara@mondoplast.net"
+    ]
+   }
+  ]
+ },
+ "SB-1250": {
+  "grade": "B",
+  "name": "standardaudio.se",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@standardaudio.se",
+     "standardaudio.se"
+    ]
+   }
+  ]
+ },
+ "SB-1264": {
+  "grade": "B",
+  "name": "vercoma.nl",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@vercoma.nl",
+     "vercoma.nl"
+    ]
+   }
+  ]
+ },
+ "SC-1134": {
+  "grade": "C",
+  "name": "netstore.su",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@netstore.su",
+     "netstore.su",
+     "sales@netstore.su"
+    ]
+   }
+  ]
+ },
+ "SC-1151": {
+  "grade": "C",
+  "name": "secuway.co.ke",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "sales@secuway.co.ke",
+     "secuway.co.ke"
+    ]
+   }
+  ]
+ },
+ "SC-1268": {
+  "grade": "C",
+  "name": "interlogic.top",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@interlogic.top",
+     "interlogic.top"
+    ]
+   }
+  ]
+ },
+ "SC-1278": {
+  "grade": "C",
+  "name": "morion.ru",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@morion.ru",
+     "morion.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1346": {
+  "grade": "C",
+  "name": "bp-kuban.ru",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "bp.kuban@gmail.com",
+     "bp.kuban@yandex.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1393": {
+  "grade": "C",
+  "name": "smr-egs.by",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "smr-egs@mail.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1401": {
+  "grade": "C",
+  "name": "tdunic.ru",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "tdunic@mail.ru"
+    ]
+   }
+  ]
+ },
+ "SC-1457": {
+  "grade": "C",
+  "name": "bellcomt.com",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "bellcomt.com",
+     "sales@bellcomt.com"
+    ]
+   }
+  ]
+ },
+ "SC-1884": {
+  "grade": "C",
+  "name": "astra-group.kz",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "astra-group.kz",
+     "info@astra-group.kz"
+    ]
+   }
+  ]
+ },
+ "SC-620": {
+  "grade": "C",
+  "name": "msv77.ru",
+  "hits": [
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "date": "2026-08-18",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "RU/NL/SE/RO/TR/KZ",
+    "to": "info@morion.ru",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@msv77.ru",
+     "msv77.ru"
     ]
    }
   ]

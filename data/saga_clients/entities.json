@@ -105315,14 +105315,14 @@
 "email_hook": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.",
 "mail_review": {
 "binding": {
-"level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「OM4301网络延长器 1对 成样品单」；S/A 邮箱 0 封",
+"level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「OM4301网络延长器 1对 成样品单」；S/A 邮箱 0 封；Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）",
 "type": "—",
 "sieve": "5（表内成单/样品单）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
 "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
 "lane": "法国 非主攻",
 "cadence": "一封",
-"evidence": "gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）"
+"evidence": "gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。",
 "need": "终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件",
@@ -105338,10 +105338,18 @@
 "next_move": {
 "when": "现在（Simon）",
 "channel": "WhatsApp（Simon）",
-"action": "一句话",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话",
 "one_question": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
 },
 "facts": [
+{
+"date": "2026-09-03",
+"dir": "去",
+"who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 jyguibreteau@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -173147,14 +173155,14 @@
 "email_hook": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「cable switch 周边产品」）",
+"level": "Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）；S/A 箱：S/A 邮箱均无往来；来源：用户表「cable switch 周边产品」）",
 "type": "线缆与连接方案分销商（法国，数据网络线含交换机）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-09-03）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "法国（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「cable switch 周边产品」；研究档 risks：主业线缆（EN50575）：交换机为配套品类"
+"evidence": "gmail_digest：out 0；用户表：「cable switch 周边产品」；研究档 risks：主业线缆（EN50575）：交换机为配套品类；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "法国 Adaltra（原 CAE Groupe：线缆与连接方案设计分销，14 个市场，数据网络产品线（switch 35 / ethernet 43 / fibre 36）；表内「cable / switch 周边产品」）；表内无跟进记录。",
 "need": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
@@ -173170,10 +173178,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → contact@cae-groupe.fr（无具名 KP；公用地址）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-09-03",
+"dir": "去",
+"who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 cae-groupe.fr, contact@cae-groupe.fr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -178022,6 +178038,14 @@
 },
 "facts": [
 {
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 fibersystem.com, info@fibersystem.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
+{
 "date": "2026-09-08",
 "dir": "去",
 "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
@@ -180635,14 +180659,14 @@
 "email_hook": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「40个 24口POE交换机 distributor」）",
+"level": "Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）；S/A 箱：S/A 邮箱均无往来；来源：用户表「40个 24口POE交换机 distributor」）",
 "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-09-03）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "法国（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）"
+"evidence": "gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
 "need": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
@@ -180658,10 +180682,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-09-03",
+"dir": "去",
+"who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -182780,14 +182812,14 @@
 "email_hook": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「线缆 POE相关的 产品较少」）",
+"level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「线缆 POE相关的 产品较少」）",
 "type": "IP 摄像机网店（荷兰，IT 服务公司兼营）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "荷兰（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「线缆 POE相关的 产品较少」；研究档 risks：网店为 IT 服务公司兼营（量小）；PoE 相关产品少；仅 info@，未跟进过"
+"evidence": "gmail_digest：out 0；用户表：「线缆 POE相关的 产品较少」；研究档 risks：网店为 IT 服务公司兼营（量小）；PoE 相关产品少；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "荷兰 ipcamerawebwinkel.nl / Zeevalk（鹿特丹网页设计与 IT 服务公司经营的 IP 摄像机网店；Hikvision；表内「线缆 PoE 相关 产品较少」）；表内未跟进。",
 "need": "摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
@@ -182803,10 +182835,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@zeevalk.nl（无具名 KP；公用地址）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 info@zeevalk.nl, zeevalk.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -186823,14 +186863,14 @@
 "email_hook": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「工业以太网 串口」）",
+"level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业以太网 串口」）",
 "type": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "TR 主攻（四主）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目"
+"evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
 "need": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
@@ -186846,10 +186886,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@mikrodev.com（无具名 KP；公用地址）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mikrodev.com, mikrodev.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -187510,14 +187558,14 @@
 "email_hook": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「比较多的外壳 有国内的 switch MC WDM等」）",
+"level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「比较多的外壳 有国内的 switch MC WDM等」）",
 "type": "电信设备进口分销商（罗马尼亚）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "罗马尼亚（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「比较多的外壳 有国内的 switch MC WDM等」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小"
+"evidence": "gmail_digest：out 0；用户表：「比较多的外壳 有国内的 switch MC WDM等」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
 "need": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
@@ -187533,10 +187581,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → timisoara@mondoplast.net",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -195536,14 +195592,14 @@
 "email_hook": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「VC switch」）",
+"level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「VC switch」）",
 "type": "AV/专业音频系统分销商（瑞典）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "瑞典（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「VC switch」；研究档 risks：守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机"
+"evidence": "gmail_digest：out 0；用户表：「VC switch」；研究档 risks：守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
 "need": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
@@ -195559,10 +195615,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@standardaudio.se（无具名 KP；公用地址）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 info@standardaudio.se, standardaudio.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -199010,14 +199074,14 @@
 "email_hook": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
+"level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
 "type": "对讲/门禁/CCTV 方案分销商（荷兰）",
 "sieve": "—（未入筛）",
-"stop": "从未触达",
+"stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
 "revive": "首封（具名 KP 优先，用研究档 email_hook）",
 "lane": "荷兰（欧洲全域主攻）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为对讲/CCTV 配套（量小）；仅 info@，未跟进过"
+"evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为对讲/CCTV 配套（量小）；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json"
 },
 "situation": "荷兰 Vercoma（1978 年起的对讲与门禁专家：IP 对讲 PoE 监视器（iPlus）、门禁、CCTV 套件（KIT-2BHVR1 等）；项目如 500 套学生公寓；表内「主要是 CCTV 少量商业 PoE」）；表内未跟进。",
 "need": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；公寓项目 24 口 STC-424DGGPM-280W（$140.1）",
@@ -199033,10 +199097,18 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@vercoma.nl（无具名 KP；公用地址）",
-"action": "首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
 "one_question": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
+{
+"date": "2026-08-18",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+"quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+"why": "Elsa 箱群发 BCC 触达证据（命中地址 info@vercoma.nl, vercoma.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+"k": "elsa_bcc"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
