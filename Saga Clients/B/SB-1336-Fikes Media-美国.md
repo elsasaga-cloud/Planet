@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）
 - **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发） S 邮箱 → cfikes@fikesmedia.com（同一线程） 一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
+- **下一步**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发） S 邮箱 → cfikes@fikesmedia.com（同一线程） 一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：API 期望。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$180（2026-10 对同类客户报价））——美国 + 主动
   - 做不了 / 要先核的：他的控制器是什么
-- **下一步（具体）**：2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发）　S 邮箱 → cfikes@fikesmedia.com（同一线程）　一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
+- **下一步（具体）**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）　S 邮箱 → cfikes@fikesmedia.com（同一线程）　一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
   - 第一问（只问一个）：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -204641,7 +204641,7 @@
 ]
 },
 "next_move": {
-"when": "2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发）",
+"when": "2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）",
 "channel": "S 邮箱 → cfikes@fikesmedia.com（同一线程）",
 "action": "一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样",
 "one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
