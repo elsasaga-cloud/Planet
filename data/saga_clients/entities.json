@@ -6452,6 +6452,22 @@
 "k": "gmail_a att 2025-06-11"
 },
 {
+"date": "2025-06-11",
+"dir": "去",
+"who": "Saga（Alan，11:23）",
+"quote": "1, Yes, DC57V (DC56.6V) is good to do stable operation and PoE output (double confirmed with our engineer) 2, About the DC75V drawing, it is a common description… We simply use the same side panel, so there is DC75V. But the power input for PoE models should be DC44V~DC57V. 3, About SNMP function, please see attached file… 4, About this model, is it L2+ or L3? Then I will quote.",
+"why": "Chris 的两个硬问题（48V LiFePO4 峰值 56.6V 会不会像 LinoVision 那样重启；SNMP 数值可不可靠）Alan 都正面答了：PoE 款输入 44–57V、图纸 75V 是侧板通用标注——这句以后对太阳能/电池供电客户可以直接复用",
+"k": "gmail_a f5b7dffc467807bb"
+},
+{
+"date": "2025-06-11",
+"dir": "去",
+"who": "Saga（Alan，14:12，附报价单）",
+"quote": "1, for 16 port model, we are upgrading DI/DO/RS485 function now. It is expected to be ready on August. 2, I quoted another model with ready DI/DO/RS485 function. Please decide which model you need and let me know the full contact information. I will make an invoice for you.",
+"why": "16 口 DI/DO/RS485「8 月就绪」的承诺出处（后来 08-22 仍说没有，Chris 改买 24 口 L3 版）——以后别再给具体月份",
+"k": "gmail_a b21772e37d499cf0"
+},
+{
 "date": "2025-08-22",
 "dir": "来",
 "who": "Chris",
@@ -6637,7 +6653,6 @@
 }
 ],
 "proof_gaps": [
-"A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补",
 "2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无"
 ],
 "draft_en": {
