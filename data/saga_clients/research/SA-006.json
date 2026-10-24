@@ -193,7 +193,7 @@
       "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
       "tier": 25,
       "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）",
-      "why": "C3：ISP 千台级是「拼命单」且价格主导",
+      "why": "C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常",
       "repeat": [],
       "gaps": [
         "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定",
@@ -342,6 +342,14 @@
         "quote": "Purchase Order SGP250051, Date 21-Aug-24, Attn: Simon Cheng；Quote Ref: Demo Unit；1 × STC-08XGWE（8×10G RJ45 downward compatible, Web managed, Non-PoE, 1U, internal AC-DC）USD 185.00 + Freight UPS air door-to-door USD 25.00 = Grand Total USD 210.00；Payment Terms: 30 Days upon invoice；Bill to finops@resonantnetworks.com；Warranty: 1 year, lifetime technical support",
         "why": "客户出具的正式 PO 原文（S 邮箱附件 + PI 文件夹）：客户单上写「30 天账期」，Saga PI STSC20240821011 写「T/T in advance」——成交按 PI 预付执行；PO 把保修写成 1 年（Saga 标准 3 年），下次报价把 3 年保修写进去",
         "k": "gmail_s 2024-08-21 att SGP250051-Zhengzhou Saga Telecom.pdf"
+      },
+      {
+        "date": "2024-08-21",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STSC20240821011：成本 1,151 / 收款 1,487 / 利润 337（22.6%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2024-08-22",

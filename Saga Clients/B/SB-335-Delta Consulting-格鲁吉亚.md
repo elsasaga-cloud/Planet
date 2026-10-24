@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-22；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次；按 CENTEC ≥35% 底线
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常；按 CENTEC ≥35% 底线
 - **第一问（只问一个）**：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → george@dc.ge 一封只讲 CENTEC 汇聚替代 Cisco 的信
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。
 - **对方真实需求（有据）**：2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。
 - **断点 / 为什么停在这里**：价格（新桥）。
-- **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线）——J5：换赛道一次
+- **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线）——J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常
 - **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信
   - 第一问（只问一个）：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 
@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2023-07-24 | PI | Simon → George Jaliashvili | STC-028GFP 2×20；STC-128GFP 2×25；Freight 5；TOTAL 4 / 100 USD | 样机单 | `PI STSC20230724001` |
 | 2023-07-24 | 来 | George（需求.docx / requirement_solution.docx） | 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、后面板大改 | $100 样机单背后是一个 2,500 台的定制项目（PoE 看门狗 + 24→48V 升压 + DIN + 后面板重做）；样品 4 台 = 2 带看门狗 + 2 不带 × （标准 AC-DC / 升压器）各一台让客户对比。项目没有下文——「PoE 来源是新桥、价格一半」是结果，不是原因：原因是要改后面板/电源的 2,500 台 ODM 在 HRUI 百兆线上成本和风险都不划算 | `Drive PI 文件夹（data/pi_2026-10/text） 1_George` |
+| 2023-07-24 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20230724001：成本 490 / 收款 667 / 利润 177（26.5%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2023-07-25 | 去 | Saga（销售订单 7.25 已签章 + 货代信息.docx） | 货代：GT32937 DELTA CONSULTING LLC，广州市荔湾区站前路34号711库房，MARK GT32937 | 客户自己的广州货代（客户集货线，非 Saga 百运网线）——符合 U28 的两条物流线判断；下次若复活，先问他的广州仓还在不在 | `Drive PI 文件夹（data/pi_2026-10/text） 1_George` |
 | 2026-09-01 | 去 | Alan（群发） | 24 Port PoE Managed Switch… | 0 回 | `c3cd22fd6af847aa` |
 

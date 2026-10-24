@@ -802,7 +802,7 @@
 "p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
 "tier": 20,
 "price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）",
-"why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转",
+"why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计",
 "repeat": [
 "2025-11-27 样品单（唯一）"
 ],
@@ -938,6 +938,14 @@
 "quote": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990",
 "why": "最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7",
 "k": "gmail_a att STAG20251127018.pdf"
+},
+{
+"date": "2025-11-27",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STAG20251127018：成本 934 / 收款 1,202 / 利润 268（22.3%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-12-01",
@@ -2998,7 +3006,7 @@
 "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
 "tier": 25,
 "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）",
-"why": "C3：ISP 千台级是「拼命单」且价格主导",
+"why": "C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常",
 "repeat": [],
 "gaps": [
 "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定",
@@ -3147,6 +3155,14 @@
 "quote": "Purchase Order SGP250051, Date 21-Aug-24, Attn: Simon Cheng；Quote Ref: Demo Unit；1 × STC-08XGWE（8×10G RJ45 downward compatible, Web managed, Non-PoE, 1U, internal AC-DC）USD 185.00 + Freight UPS air door-to-door USD 25.00 = Grand Total USD 210.00；Payment Terms: 30 Days upon invoice；Bill to finops@resonantnetworks.com；Warranty: 1 year, lifetime technical support",
 "why": "客户出具的正式 PO 原文（S 邮箱附件 + PI 文件夹）：客户单上写「30 天账期」，Saga PI STSC20240821011 写「T/T in advance」——成交按 PI 预付执行；PO 把保修写成 1 年（Saga 标准 3 年），下次报价把 3 年保修写进去",
 "k": "gmail_s 2024-08-21 att SGP250051-Zhengzhou Saga Telecom.pdf"
+},
+{
+"date": "2024-08-21",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240821011：成本 1,151 / 收款 1,487 / 利润 337（22.6%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2024-08-22",
@@ -3646,7 +3662,7 @@
 "p1": "无主动动作",
 "tier": 25,
 "price": "历史报价（邮件原话，老汇率）：2024-06-17 90usd",
-"why": "B 慢跟",
+"why": "B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常",
 "repeat": [],
 "gaps": []
 },
@@ -3728,6 +3744,14 @@
 "quote": "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary",
 "why": "XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+},
+{
+"date": "2024-07-11",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 }
 ],
 "proof_gaps": [],
@@ -4070,7 +4094,7 @@
 "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
 "tier": 20,
 "price": "按现价表",
-"why": "样品在其手上",
+"why": "样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价",
 "repeat": [],
 "gaps": [
 "样品测试反馈从未记录"
@@ -4090,6 +4114,14 @@
 "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
 "why": "样品单",
 "k": "PI STSC20240523008"
+},
+{
+"date": "2024-05-23",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 }
 ],
 "proof_gaps": [
@@ -5614,7 +5646,7 @@
 "p1": "STC-424XGGPM-280W",
 "tier": 20,
 "price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-07-20 $1500（24 Port 10G SFP+ Switch）",
-"why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏",
+"why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追",
 "repeat": [
 "STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购",
 "STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台",
@@ -5760,6 +5792,14 @@
 "quote": "Here is the T/T payment. Can you send me the user manual?",
 "why": "PI STSC20260903006 当天付款，信用极好",
 "k": "32504609055f4294"
+},
+{
+"date": "2026-09-03",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240418006：成本 3,044 / 收款 3,164 / 利润 120（3.8%） · STSC20241119006：成本 3,383 / 收款 3,820 / 利润 437（11.4%） · STSC20260903006：成本 2,087 / 收款 2,280 / 利润 193（8.4%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2026-09-08",
@@ -6196,7 +6236,7 @@
 "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
 "tier": 25,
 "price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd",
-"why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+"why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 26.3%（STI-42424XGGPM-4BT 成本 2,912）——正常",
 "repeat": [
 "STI-41616XGGPM-4BT ×1（2025-08）"
 ],
@@ -6259,6 +6299,14 @@
 "quote": "Buyer: GOGREENIT（Chris Clemson, info@gogreenit.net）Payment Term: T/T in advance, DAP but without customs clearance；Shipping: The Poplars, Burleigh Drive, Derby DE22 1AL, UK；STI-42424XGGPM-4BT（4×10G SFP + 24×GE PoE，20 af/at + 4 bt，240W/370W，L3）1 pc $500.0；Freight FedEx door-to-door $60；PayPal 5% $28；TOTAL $588.00",
 "why": "GOGREENIT 第二张 PI 原文：L3 24 口 PoE 机 $500（主表 L3 -4BT 列表 $528）+ FedEx $60 + PayPal 5%；=「PayPal 付款、DAP 英国、4~6 天」的成交模板",
 "k": "gmail_a att STAG20250823017_R1.pdf"
+},
+{
+"date": "2025-08-23",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STAG20250823017：成本 3,152 / 收款 4,278 / 利润 1,126（26.3%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-09-01",
@@ -6881,7 +6929,7 @@
 "p1": "STC-4168XGGCM（在产第 6 单）",
 "tier": 30,
 "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd",
-"why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」",
+"why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报",
 "repeat": [
 "STC-4168XGGCM 双 AC（第 5、6 单）",
 "2025-09 AC5 样机 1 台"
@@ -7276,6 +7324,14 @@
 "quote": "can you share your euro bank account please?",
 "why": "20 台订单付款前要欧元账户（10-15 已付）——给德国客户的 PI 默认带 EUR 收款信息，省一个来回",
 "k": "gmail_s 2026-10-06 Re: Saga Marvell AC5 Series Fully Ready"
+},
+{
+"date": "2026-10-06",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20241121015：成本 3,051 / 收款 4,335 / 利润 1,284（29.6%） · STSC20250915015：成本 2,172 / 收款 2,970 / 利润 798（26.9%） · STSC20261006015：成本 39,000 / 收款 44,000 / 利润 5,000（11.4%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2026-10-15",
@@ -8544,7 +8600,7 @@
 "p1": "STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯",
 "tier": 20,
 "price": "按主表 20% 分销档",
-"why": "样机在手",
+"why": "样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客",
 "repeat": [],
 "gaps": [
 "样机测试反馈"
@@ -8572,6 +8628,14 @@
 "quote": "使用发的说明书并作相应折叠；放置挂耳；产品标签请使用下述样式；箱标…需要贴2张，另外一张是STI-080FE，相当于是一个小箱子混装了2个型号4个设备",
 "why": "$178.5 样机单也走了完整的贴标/箱标/说明书流程（2 型号 4 台混装一箱）——Saga 对印度小样机的交付细节不打折；客户进口资料（GST RC、IEC 证书、AWB）齐全 = 有进口资质的买家（U28 目标画像第二档）",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 5_Rajesh"
+},
+{
+"date": "2024-04-16",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240416005：成本 734 / 收款 1,216 / 利润 482（39.6%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 }
 ],
 "proof_gaps": [
@@ -13606,6 +13670,14 @@
 "k": "data/pi_2026-10/text/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__STSC20250731004.xls + 标签内容_STSC20250731004.docx"
 },
 {
+"date": "2025-07-31",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20231122004：成本 680 / 收款 898 / 利润 218（24.3%） · STSC20250731004：成本 31,829 / 收款 37,085 / 利润 5,256（14.2%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
+},
+{
 "date": "2025-08-05",
 "dir": "去",
 "who": "Saga 内部备注（1309 挂耳费用 后续慢慢拿回来.docx）",
@@ -13625,6 +13697,9 @@
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
 "body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
+},
+"saga_now": {
+"why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项"
 }
 }
 }
@@ -23267,7 +23342,7 @@
 "p1": "STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句",
 "tier": 30,
 "price": "STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）",
-"why": "已成交三次",
+"why": "已成交三次｜毛利复盘：STI-0160GE 四单成本 512 不变，每台收款 665 → 642 → 613 → 587，毛利 23% → 12.7%——是汇率（7.2→6.7）吃掉的，不是让利；下次询价按 6.69 重报（约 +7%），说「PCB/RAM + 汇率」",
 "repeat": [
 "2024-11",
 "2025-01",
@@ -23323,6 +23398,14 @@
 "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
 "why": "复购 2",
 "k": "PI STSC20251009014"
+},
+{
+"date": "2026-02-12",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 }
 ],
 "proof_gaps": [
@@ -30282,7 +30365,7 @@
 "p1": "STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表",
 "tier": 20,
 "price": "STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变",
-"why": "转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+"why": "转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 47.9%（STI-288GP 成本 322 + 2 × NDR-240-48，收 1,910）——高毛利一单客，不主动降价",
 "repeat": [
 "8 口工业 PoE 样机 ×2（2025-07）"
 ],
@@ -30352,6 +30435,14 @@
 "quote": "Hi, John, Please see attaced invoice. 1, payment account: s.sagatelecom@gmail.com a payment request is sent, please check. 2, as stated in the invoice: production time: 2~4 days, shipment time: 4~6 days it takes about 7~10 days for you to get it.…",
 "why": "Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
 "k": "cc2d0a9b668bf0f8"
+},
+{
+"date": "2025-07-18",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STAG20250718016：成本 996 / 收款 1,910 / 利润 914（47.9%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-07-22",
@@ -72132,7 +72223,7 @@
 "p1": "STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项",
 "tier": 20,
 "price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37",
-"why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价",
+"why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价｜毛利复盘：小批 23.6% / 34.4% / 18.7% / 34.5% / 29.8%，176 台大单 15.9%（运费 22,426）；88 台新单 875 RMB 属绑定价",
 "repeat": "10 单（2024-05 → 2025-07），复购间隔 1–3 个月，2025-07 后 15 个月无新 PI（排障/RfP/路线图讨论持续）",
 "gaps": [
 "2026-08-17 回复之后 Angora 的回应（微信）",
@@ -72443,6 +72534,14 @@
 "quote": "Proforma Invoice… Tax ID 069 052 0220, Office Yenimahalle VD… Seller STI-288DGGPM / Buyer TT-2208-PG… Unit Price (TRY)… Payment Term: T/T in advance, DAP",
 "why": "Saga 为 Angora 本地报关/付款准备过里拉计价 PI 模板——「接受土耳其客户里拉付款」有实物",
 "k": "pi_doc"
+},
+{
+"date": "2025-06-19",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240508007：成本 6,991 / 收款 9,150 / 利润 2,159（23.6%） · 第二单：成本 10,968 / 收款 16,722 / 利润 5,754（34.4%） · STSC20250117007：成本 288,124 / 收款 342,420 / 利润 54,296（15.9%） · STSC20250507007：成本 9,706 / 收款 11,933 / 利润 2,227（18.7%） · STSC20250526007：成本 17,577 / 收款 26,828 / 利润 9,251（34.5%） · STSC20250619007：成本 4,948 / 收款 7,051 / 利润 2,102（29.8%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-06-25",
@@ -72891,7 +72990,7 @@
 "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
 "tier": 30,
 "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
-"why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
+"why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新",
 "repeat": [
 "STI-488XGGPM 12 台（2026-08-30）",
 "STI-21616DGGPM/XGGPM（2024 两单）"
@@ -72941,6 +73040,14 @@
 "quote": "please check attached a copy of 4+8 model PCB layout. Mounting holes&positioning will be EXACTLY the same for old and new versions… you can think of this as a c[ompatible replacement]",
 "why": "James 12-18「Working with my mech eng to confirm placement is still identical to what we have designed for」→ 客户机械结构围绕 Saga 4+8 板设计 = 换供应商要重开模；12-19 PI STSC20241219010",
 "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-12-19",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240627010：成本 6,238 / 收款 7,968 / 利润 1,729（21.7%） · STSC20241219010：成本 8,368 / 收款 11,840 / 利润 3,472（29.3%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-08-28",
@@ -204449,7 +204556,7 @@
 "p1": "无",
 "tier": 20,
 "price": "—",
-"why": "—",
+"why": "—｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常",
 "repeat": [],
 "gaps": []
 },
@@ -204491,6 +204598,14 @@
 "quote": "Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power meters / FTTH tool kit / Fiber cleaning cassettes and pens / PoE extenders / injectors / adapters / Joint enclosures",
 "why": "Rishi 的主业是 FTTH 无源件（清洁笔那单就是这个清单的一项）；交换机只是顺带。Fastball FBC-204GP = STC-204GP 只是其网站列品。复活只能从「光纤清洁/FTTH 配件 + 一款 PoE」切入，不是管理型交换机",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi FTTH需求.docx"
+},
+{
+"date": "2023-10-09",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20231009002：成本 1,811 / 收款 2,364 / 利润 553（23.4%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2023-12-13",
@@ -279716,7 +279831,7 @@
 "p1": "STH 系列 CENTEC 汇聚（10G/25G）",
 "tier": 25,
 "price": "按 CENTEC ≥35% 底线",
-"why": "J5：换赛道一次",
+"why": "J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常",
 "repeat": [],
 "gaps": []
 },
@@ -279742,6 +279857,14 @@
 "quote": "8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、后面板大改",
 "why": "$100 样机单背后是一个 2,500 台的定制项目（PoE 看门狗 + 24→48V 升压 + DIN + 后面板重做）；样品 4 台 = 2 带看门狗 + 2 不带 × （标准 AC-DC / 升压器）各一台让客户对比。项目没有下文——「PoE 来源是新桥、价格一半」是结果，不是原因：原因是要改后面板/电源的 2,500 台 ODM 在 HRUI 百兆线上成本和风险都不划算",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+},
+{
+"date": "2023-07-24",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20230724001：成本 490 / 收款 667 / 利润 177（26.5%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2023-07-25",
@@ -324839,7 +324962,7 @@
 "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
 "tier": 25,
 "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
-"why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）",
+"why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常",
 "repeat": [
 "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
 ],
@@ -325023,6 +325146,14 @@
 "quote": "1 Krontech 主推 Centec 高速；2 Karel 商业 PoE，用的丰润达的，老牌通信/军工电子厂，国防/政府项目的国产化替代；3 Netaş Ender BULUT 在谈了 L2/L3 Switches 系统集成商，对 CENTEC 接受度也 OK；4 Turkcell 和 Netas 关系紧密 不主动推；5 Vodafone TR 可多介绍与 Netas 的关系，认可 Marvell CENTEC 也能推；6 KocSistem IT 服务商 分销不错；7 Aselsan 军工，Netas 和 Karel 都是它的供应商；8 Havelsan 推数据中心交换机",
 "why": "Simon 自己的土耳其 8 家重点名单（表内 19 个跟进 sheet 全空 = 还没开始跟）。与客户库冲突：Karel = SC-2557「用户判定不行」，这里却是重点；Turkcell/Aselsan 等未建档。土耳其线开工前先把这 8 家与客户库对齐",
 "k": "data/pi_2026-10/text/PI__PI__TR重点公司.xlsx"
+},
+{
+"date": "2025-12-24",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STAG20251224020：成本 2,886 / 收款 3,789 / 利润 904（23.8%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2026-01-13",
@@ -825595,7 +825726,7 @@
 "p1": "不推；若其 ICT 项目再来，按 2024 清单复购",
 "tier": 25,
 "price": "按主表",
-"why": "已成交一单大单",
+"why": "已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购",
 "repeat": [],
 "gaps": [
 "2024 设备运行反馈（从未问）"
@@ -825615,6 +825746,14 @@
 "quote": "STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance",
 "why": "成交",
 "k": "PI STSC20240117003"
+},
+{
+"date": "2024-01-17",
+"dir": "内",
+"who": "Simon 成本表（PI 包）",
+"quote": "内部《成本统计.xlsx》：STSC20240117003：成本 43,870 / 收款 66,988 / 利润 23,118（34.5%）",
+"why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+"k": "cost_sheet"
 },
 {
 "date": "2025-10-10",

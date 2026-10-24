@@ -110,7 +110,7 @@
       "p1": "无",
       "tier": 20,
       "price": "—",
-      "why": "—",
+      "why": "—｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常",
       "repeat": [],
       "gaps": []
     },
@@ -152,6 +152,14 @@
         "quote": "Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power meters / FTTH tool kit / Fiber cleaning cassettes and pens / PoE extenders / injectors / adapters / Joint enclosures",
         "why": "Rishi 的主业是 FTTH 无源件（清洁笔那单就是这个清单的一项）；交换机只是顺带。Fastball FBC-204GP = STC-204GP 只是其网站列品。复活只能从「光纤清洁/FTTH 配件 + 一款 PoE」切入，不是管理型交换机",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi FTTH需求.docx"
+      },
+      {
+        "date": "2023-10-09",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STSC20231009002：成本 1,811 / 收款 2,364 / 利润 553（23.4%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2023-12-13",

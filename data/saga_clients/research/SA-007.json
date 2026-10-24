@@ -160,7 +160,7 @@
       "p1": "无主动动作",
       "tier": 25,
       "price": "历史报价（邮件原话，老汇率）：2024-06-17 90usd",
-      "why": "B 慢跟",
+      "why": "B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常",
       "repeat": [],
       "gaps": []
     },
@@ -242,6 +242,14 @@
         "quote": "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary",
         "why": "XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+      },
+      {
+        "date": "2024-07-11",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       }
     ],
     "proof_gaps": [],

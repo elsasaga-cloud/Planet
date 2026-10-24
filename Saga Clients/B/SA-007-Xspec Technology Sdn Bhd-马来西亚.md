@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。（调研 2026-10-22；表内兴趣：对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selango）
 - **为什么是 B 级**：**调研后定级 B**（成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）；最近一次客户回复：2024-11-18：passive poe only
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟；历史报价（邮件原话，老汇率）：2024-06-17 90usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常；历史报价（邮件原话，老汇率）：2024-06-17 90usd
 - **第一问（只问一个）**：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
 - **最大未知**：年走量与现供应商
 - **下一步**：跟 PI 节奏；不主动 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Sugito（CEO）2024-06-14 回群发要 24 口被动 PoE（24V，24×100M + 2 GE + 2 SFP，15.4W/口），4 天内要发票、要 T/T、成单 1 台样机。之后没有第二单（邮件），Simon 定 gg。
 - **对方真实需求（有据）**：24 口被动 PoE 24V（项目配套）。
 - **断点 / 为什么停在这里**：一次性项目配套；不是 Saga 的复利客户。
-- **Saga 现在该推什么**：P1 **无主动动作**（25% 档，历史报价（邮件原话，老汇率）：2024-06-17 90usd）——B 慢跟
+- **Saga 现在该推什么**：P1 **无主动动作**（25% 档，历史报价（邮件原话，老汇率）：2024-06-17 90usd）——B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常
 - **下一步（具体）**：跟 PI 节奏；不主动　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
 
@@ -64,6 +64,7 @@ updated: 2026-10-24
 | 2024-06-18 | 去 | Saga（Simon） | Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c… | Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `3c88bfd8760e162d` |
 | 2024-06-18 | 去 | Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文件夹） | 马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（Lantech）、soulcomm（在用北京 HCSTCOM）… | Saga 的马来西亚线索表放在 XSPec 文件夹 = 曾设想让 XSPec（医疗科技集成商）当马来西亚落地伙伴，「待决定」至今未决；与 Angora/Fastball 同一套「成单客户 → 区域分销」的构想，三次都没落地（Q-51 的根） | `Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito` |
 | 2024-07-05 | 来 | XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf） | LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary | XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用 | `Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito` |
+| 2024-07-11 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 
 ## 基本事实（事实/推断/假设分层）
 

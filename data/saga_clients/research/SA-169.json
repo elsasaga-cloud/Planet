@@ -157,7 +157,7 @@
       "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
       "tier": 30,
       "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
-      "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
+      "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新",
       "repeat": [
         "STI-488XGGPM 12 台（2026-08-30）",
         "STI-21616DGGPM/XGGPM（2024 两单）"
@@ -207,6 +207,14 @@
         "quote": "please check attached a copy of 4+8 model PCB layout. Mounting holes&positioning will be EXACTLY the same for old and new versions… you can think of this as a c[ompatible replacement]",
         "why": "James 12-18「Working with my mech eng to confirm placement is still identical to what we have designed for」→ 客户机械结构围绕 Saga 4+8 板设计 = 换供应商要重开模；12-19 PI STSC20241219010",
         "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2024-12-19",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STSC20240627010：成本 6,238 / 收款 7,968 / 利润 1,729（21.7%） · STSC20241219010：成本 8,368 / 收款 11,840 / 利润 3,472（29.3%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2025-08-28",

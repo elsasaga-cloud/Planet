@@ -180,7 +180,7 @@
       "p1": "STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表",
       "tier": 20,
       "price": "STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变",
-      "why": "转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+      "why": "转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 47.9%（STI-288GP 成本 322 + 2 × NDR-240-48，收 1,910）——高毛利一单客，不主动降价",
       "repeat": [
         "8 口工业 PoE 样机 ×2（2025-07）"
       ],
@@ -250,6 +250,14 @@
         "quote": "Hi, John, Please see attaced invoice. 1, payment account: s.sagatelecom@gmail.com a payment request is sent, please check. 2, as stated in the invoice: production time: 2~4 days, shipment time: 4~6 days it takes about 7~10 days for you to get it.…",
         "why": "Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
         "k": "cc2d0a9b668bf0f8"
+      },
+      {
+        "date": "2025-07-18",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STAG20250718016：成本 996 / 收款 1,910 / 利润 914（47.9%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2025-07-22",

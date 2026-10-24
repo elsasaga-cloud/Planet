@@ -167,7 +167,7 @@
       "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
       "tier": 25,
       "price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd",
-      "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 26.3%（STI-42424XGGPM-4BT 成本 2,912）——正常",
       "repeat": [
         "STI-41616XGGPM-4BT ×1（2025-08）"
       ],
@@ -230,6 +230,14 @@
         "quote": "Buyer: GOGREENIT（Chris Clemson, info@gogreenit.net）Payment Term: T/T in advance, DAP but without customs clearance；Shipping: The Poplars, Burleigh Drive, Derby DE22 1AL, UK；STI-42424XGGPM-4BT（4×10G SFP + 24×GE PoE，20 af/at + 4 bt，240W/370W，L3）1 pc $500.0；Freight FedEx door-to-door $60；PayPal 5% $28；TOTAL $588.00",
         "why": "GOGREENIT 第二张 PI 原文：L3 24 口 PoE 机 $500（主表 L3 -4BT 列表 $528）+ FedEx $60 + PayPal 5%；=「PayPal 付款、DAP 英国、4~6 天」的成交模板",
         "k": "gmail_a att STAG20250823017_R1.pdf"
+      },
+      {
+        "date": "2025-08-23",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STAG20250823017：成本 3,152 / 收款 4,278 / 利润 1,126（26.3%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2025-09-01",

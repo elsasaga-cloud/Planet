@@ -164,7 +164,7 @@
       "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
       "tier": 25,
       "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
-      "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）",
+      "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常",
       "repeat": [
         "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
       ],
@@ -348,6 +348,14 @@
         "quote": "1 Krontech 主推 Centec 高速；2 Karel 商业 PoE，用的丰润达的，老牌通信/军工电子厂，国防/政府项目的国产化替代；3 Netaş Ender BULUT 在谈了 L2/L3 Switches 系统集成商，对 CENTEC 接受度也 OK；4 Turkcell 和 Netas 关系紧密 不主动推；5 Vodafone TR 可多介绍与 Netas 的关系，认可 Marvell CENTEC 也能推；6 KocSistem IT 服务商 分销不错；7 Aselsan 军工，Netas 和 Karel 都是它的供应商；8 Havelsan 推数据中心交换机",
         "why": "Simon 自己的土耳其 8 家重点名单（表内 19 个跟进 sheet 全空 = 还没开始跟）。与客户库冲突：Karel = SC-2557「用户判定不行」，这里却是重点；Turkcell/Aselsan 等未建档。土耳其线开工前先把这 8 家与客户库对齐",
         "k": "data/pi_2026-10/text/PI__PI__TR重点公司.xlsx"
+      },
+      {
+        "date": "2025-12-24",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STAG20251224020：成本 2,886 / 收款 3,789 / 利润 904（23.8%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2026-01-13",

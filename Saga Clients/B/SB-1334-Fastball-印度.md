@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json（调研 2026-10-22；表内兴趣：商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级））
 - **为什么是 B 级**：**调研后定级 B**（PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。
 - **对方真实需求（有据）**：授权分销身份（而非产品）。
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
-- **Saga 现在该推什么**：P1 **无**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **无**（20% 档，—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -57,6 +57,7 @@ updated: 2026-10-24
 | 2023-09-20 | 去 | Saga → Fastball（Fastball_Price.xls，Saga 抬头价目表） | STC-05GE $6 / STC-08GE $10 / STC-016GE $33 / STC-024GE-U $50 / STC-15XGDGE $38 / STC-028GFP $20 / STC-1216GFP $40 / STC-1224GFP $55 / STC-024GP $18 / STC-228GP $78 / STC-2024GP $84 / STC-28GM $45 / STC-424XGGM $111 / STC-448XGGM $223 / STC-28GPM $55 / STC-4424GCPM $140 / STC-448XGGPM $350 / STI-014FE $12 / STI-114GE $21 / STI-118GFP $24 / STI-208GP $54 | Saga 为 Fastball 专门做过一份全线价目表（2023 老汇率、未加三档），说明当时是认真考虑过印度分销的；Rishi 要的「authorised distributorship certificate」没签，但价表给了。2023 价 vs 价格主表 2026（STC-424XGGM $143、STC-28DGGPM $99）可见涨幅 | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi Fastball_Price.xls` |
 | 2023-10-09 | PI | Simon → Fastball | Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD | 唯一成交（耗材） | `PI STSC20231009002` |
 | 2023-10-09 | 来 | Rishi（FTTH需求.docx） | Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power meters / FTTH tool kit / Fiber cleaning cassettes and pens / PoE extenders / injectors / adapters / Joint enclosures | Rishi 的主业是 FTTH 无源件（清洁笔那单就是这个清单的一项）；交换机只是顺带。Fastball FBC-204GP = STC-204GP 只是其网站列品。复活只能从「光纤清洁/FTTH 配件 + 一款 PoE」切入，不是管理型交换机 | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi FTTH需求.docx` |
+| 2023-10-09 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20231009002：成本 1,811 / 收款 2,364 / 利润 553（23.4%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2023-12-13 | 去 | Saga 内部（List_2023.12.13.xlsx / New_List.xlsx / Bypass_client_list.xlsx，存于 Rishi 文件夹） | 印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar… | Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi` |
 
 ## 基本事实（事实/推断/假设分层）

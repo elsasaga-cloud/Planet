@@ -296,7 +296,7 @@
       "p1": "STC-4168XGGCM（在产第 6 单）",
       "tier": 30,
       "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd",
-      "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」",
+      "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报",
       "repeat": [
         "STC-4168XGGCM 双 AC（第 5、6 单）",
         "2025-09 AC5 样机 1 台"
@@ -691,6 +691,14 @@
         "quote": "can you share your euro bank account please?",
         "why": "20 台订单付款前要欧元账户（10-15 已付）——给德国客户的 PI 默认带 EUR 收款信息，省一个来回",
         "k": "gmail_s 2026-10-06 Re: Saga Marvell AC5 Series Fully Ready"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "内",
+        "who": "Simon 成本表（PI 包）",
+        "quote": "内部《成本统计.xlsx》：STSC20241121015：成本 3,051 / 收款 4,335 / 利润 1,284（29.6%） · STSC20250915015：成本 2,172 / 收款 2,970 / 利润 798（26.9%） · STSC20261006015：成本 39,000 / 收款 44,000 / 利润 5,000（11.4%）",
+        "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
+        "k": "cost_sheet"
       },
       {
         "date": "2026-10-15",

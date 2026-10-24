@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json（调研 2026-10-22；表内兴趣：工业 PoE 管理交换机（STI-21616DGGPM 裸板贴牌 SW-3200-16GP-2SM/2SX）、商用 10G 管理（STC-424XGGM）、STI-488XGGPM）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2026
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM / STI-21616XGGPM（在购系列，AC5） — OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）；第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM / STI-21616XGGPM（在购系列，AC5） — OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新；第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用
 - **第一问（只问一个）**：For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 上旬（12 台到货后） LinkedIn/WeChat（Simon U28：James 只走这两个） 到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**
 - **对方真实需求（有据）**：① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。 ⑤（2026-08-26《JCSL-Custom power pcb》）电源板改版：电源/告警接点改出板背（Molex MiniFit-JR / JST）、加 i2c 温度传感器、2 个 PWM/TAC 风扇头（Noctua 4-pin 5V）、板上再出 75W 12V DC 给其 PC 模块，高度不超现有板距，FCC Part 15 B / CE / RoHS；⑥（《长期需求》）2.5G/mGig PoE+ 管理型、双电源、机架、PWM 风扇控制。
 - **断点 / 为什么停在这里**：没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。 新增：电源板四项改版是 PCB 级 ODM——HRUI/SmartByte 侧是否愿为 12 台/单的量开板（Angora 的 PC0012 代工询问也停在同一处），要先问 Peter 的 MOQ 而不是先答应 James。
-- **Saga 现在该推什么**：P1 **STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）**（30% 档，第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用）——OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）
+- **Saga 现在该推什么**：P1 **STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）**（30% 档，第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用）——OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新
   - 复购/在买项：STI-488XGGPM 12 台（2026-08-30）；STI-21616DGGPM/XGGPM（2024 两单）
   - 做不了 / 要先核的：UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论；MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核；电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James；2.5G/mGig PoE+ 双电源机架型号：AC5 线有无对应（STC-2xx 2.5G 系列 + 双电源需核）
 - **下一步（具体）**：2026-11 上旬（12 台到货后）　LinkedIn/WeChat（Simon U28：James 只走这两个）　到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT
@@ -60,6 +60,7 @@ updated: 2026-10-24
 | 2024-06-28 | 来 | James Clendenan | Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware | 首单即技术绑定意图 | `e248bc0c33c534e6` |
 | 2024-12-18 | 来 | James Clendenan | Working with my mech eng to confirm placement is still identical to what we have designed for | 客户机械设计围绕 Saga PCB（替换成本） | `51d9acb9ee095737` |
 | 2024-12-18 | 去 | Simon → James（4+8 PCB layout.dxf） | please check attached a copy of 4+8 model PCB layout. Mounting holes&positioning will be EXACTLY the same for old and new versions… you can think of this as a c[ompatible replacement] | James 12-18「Working with my mech eng to confirm placement is still identical to what we have designed for」→ 客户机械结构围绕 Saga 4+8 板设计 = 换供应商要重开模；12-19 PI STSC20241219010 | `gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）` |
+| 2024-12-19 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240627010：成本 6,238 / 收款 7,968 / 利润 1,729（21.7%） · STSC20241219010：成本 8,368 / 收款 11,840 / 利润 3,472（29.3%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2025-08-28 | 去 | Simon → James | Please download the newest firmware from below WeTransfer link… It is ONLY for SW-3200-8GP-4S+(AC5 chip). For AC3 mo[dels…] | 客户自有型号名 SW-3200-8GP-4S+（= Saga 4+8 PoE 工业机 AC5 版）；固件按客户型号单独打包——软件层绑定 | `gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）` |
 | 2025-11-19 | 去 | Simon → James（NMS-MIB.rar + SWITCH-MIBS-release-7.3.0.docx） | Based on our conversation on LinkedIn, please see attached MIBs information. Let's talk again after your review. | James 要把设备接进自己的 NMS（后来 2026-07 要做 MQTT）——与 Angora 一样走「OID/管理系统接入」这条绑定路径 | `gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）` |
 | 2026-07-21 | 来 | James Clendenan | Will test the ac5 update tomorrow and then we can work on the mqtt setup | AC5 迁移 + MQTT 对接在推进 | `aa61c45fc8e5eb33` |
