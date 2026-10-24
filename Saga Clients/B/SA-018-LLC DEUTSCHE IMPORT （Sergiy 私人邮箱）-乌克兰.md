@@ -1,19 +1,19 @@
-# germany24.com.ua
+# LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）
 
 > **评级 B**　|　乌克兰　|　档案编号 `SA-018`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 3 次；推送 22 次（2024-03-21 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 3 次；推送 22 次（2024-03-21 → 2025-12-29）　|　**所在清单**：S重点、补录、归属补洞　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-018
 rating: B
 rating_auto: B
-score: 65
+score: 77
 country: 乌克兰
 region: 乌克兰
 website: germany24.com.ua
-type: 经销/集成（类型待核）
-tier_tags: ["S重点"]
+type: 品牌商/贴牌需求（OEM/ODM）
+tier_tags: ["S重点", "补录", "归属补洞"]
 deal: no
 replies: 3
 followups: 22
@@ -24,14 +24,14 @@ p1: STI-288GP
 price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
-sources: 1
+sources: 2
 updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：（加厚挖掘建档，摘要见下文加厚块）（调研 2026-10-21；表内兴趣：之前谈了工业FS）
-- **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-20 区域 乌克兰/乌克兰；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：乌克兰（守界：不主动投入，仅被动响应）
+- **是谁**：（加厚挖掘建档，摘要见下文加厚块）（调研 2026-10-21；表内兴趣：之前谈了工业FS；OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20））
+- **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；-3 WhatsApp 加不上；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-20 区域 乌克兰/乌克兰；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：乌克兰（守界：不主动投入，仅被动响应）
 - **历史互动**：实质回复 3 次；推送 22 次（2024-03-21 → 2025-12-29）；最近一次客户回复：2024-11-20：想下单 后续over
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；他见过/自填的价：Simon 2024-05 STI-050FE $25 / 050FE-M $20 / 080FE $40；他 BO 自填 NSI-500F $19 / 800F $24 / 820GP $53 / NSIM-420G $60 / 820G $70 / 820GP $80（2024-11-20）；按 30% 自有标档
 - **第一问（只问一个）**：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
@@ -69,15 +69,16 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | germany24.com.ua（取自域名，公司全名待核） | 推断 |
+| 名称 | LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱） | 事实（用户表） |
 | 国家 | 乌克兰 | 事实（用户表）|
 | 网站/域名 | germany24.com.ua / planet.kiev.ua | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
-| 联系人 | Sergey Khodun / CEO | 事实（用户表） |
-| 来源（From） | 谷歌 | 事实（用户表） |
-| 兴趣（Interested in） | 之前谈了工业FS | 事实（用户表） |
-| 用户备注（Remark） | tel: 38(044)59 37976<br>加不上 | 事实（用户表） |
-| 所在清单 | S重点 | 事实（文件路径） |
+| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 联系人 | Sergey Khodun / CEO / Sergiy Khodun | 事实（用户表） |
+| 来源（From） | 谷歌 / 补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现） | 事实（用户表） |
+| 兴趣（Interested in） | 之前谈了工业FS / OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20） | 事实（用户表） |
+| 用户备注（Remark） | tel: 38(044)59 37976<br>加不上 / 同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱 | 事实（用户表） |
+| 用户分档（Category） | 进口分销商（基辅） | 事实（用户表） |
+| 所在清单 | S重点、补录、归属补洞 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -192,8 +193,11 @@ updated: 2026-10-24
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@germany24.com.ua`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`sergiy.khodun@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 电话：`+380445937976`〔WhatsApp 加不上；原值见来源表〕
 - 联系人（原值）：Sergey Khodun / CEO
+- 联系人（原值）：Sergiy Khodun
+- 职位（原值）：CEO
 - 网站/域名：germany24.com.ua
 - 网站/域名：planet.kiev.ua
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
@@ -202,23 +206,25 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sergey Khodun | — | info@germany24.com.ua / +380445937976 | 用户表原值 | Clients/ 表 |
+| Sergey Khodun | CEO | info@germany24.com.ua / sergiy.khodun@gmail.com / +380445937976 | 用户表原值 | Clients/ 表 |
+| Sergiy Khodun | CEO | info@germany24.com.ua / sergiy.khodun@gmail.com / +380445937976 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`d:germany24.com.ua`, `e:info@germany24.com.ua`。
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | S 09.08.xlsx#总表:17 | 16 | www.germany24.com.ua<br>www.planet.kiev.ua | 乌克兰 | Sergey Khodun<br>CEO | 谷歌 | 之前谈了工业FS | info@germany24.com.ua | tel: 38(044)59 37976<br>加不上 | 22 条 |
+| 补录客户.jsonl#(补录):18 | AS-补录-2026-10-24-04 | LLC DEUTSCHE IMPORT / germany24.com.ua（Sergiy 私人邮箱） | 乌克兰 | Sergiy Khodun | 补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现） | OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20） | sergiy.khodun@gmail.com; info@germany24.com.ua https://germany24.com.ua | 同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱 CEO | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| **P1** | STI-288GP | 深挖对位：分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -237,9 +243,9 @@ updated: 2026-10-24
 
 ## SWOT
 
-- **S**：有 3 次实质回复（对方认识我们）
+- **S**：有 3 次实质回复（对方认识我们）；自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -297,7 +303,7 @@ Saga Telecom · sagatele.com
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 65）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 77）
 
 ---
 

@@ -120,31 +120,36 @@
   "email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（邮件 15 封 0 来信，但 2 封 Saga 去信带 Replied 标签（2025-09-08 Opened）→ 回复发生在别的地址/渠道）",
-      "type": "奥斯汀安防安装商（Avenger Security）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "WhatsApp/电话（用户表）",
-      "lane": "US",
-      "cadence": "季度",
-      "evidence": "邮件：去信 15 封（2025-01-23 → 2026-09-08），来信 0；Opened 标签 2 次（2025-06-11、2025-09-08）；收件人 brandon@getsecurityalarm.com, info@getsecurityalarm.com"
+      "level": "轻度触达（A 邮箱 2 次真人回复，都从私人 gmail brandonwadams@gmail.com「Avenger Security」发来：2025-06-12 要 16 口 DIN 千兆价、2025-09-09 要 STI-244GP 价与发货地并说「used this PoE in solar configurations」；Alan 09-09 报 $35 后沉默；此后 9 封群发无回）",
+      "type": "奥斯汀安防安装商（Avenger Security / getsecurityalarm.com），太阳能供电站点用工业 PoE",
+      "sieve": "2（两次问价）",
+      "stop": "第一次问价（06-12）Alan 只回了下载链接 PDF、没在正文给价；第二次（09-09）给了 $35 与「从中国发」后他没再回——小安装商、单次需求量小，$35 + 国际运费对 4 口机不划算是最可能的原因",
+      "revive": "直接写到他的 gmail（公司邮箱 brandon@/info@ 从没回过）：把 4 口与 16 口两款价和运费档位写在正文里，问他这一季有几个太阳能站点，建议 2 台样机 DHL",
+      "lane": "US 主攻",
+      "cadence": "一次针对性信 → 再无回则回到季度群发",
+      "evidence": "gmail_a a3355bc71b5e758d / 1ac6cb596346a3a9 / 88fd4f417fdf19ba / 2c55cbead61c8075；私人邮箱 2026-10-24 第 70 批并入实体（补录行 AS-补录-2026-10-24-03）"
     },
-    "situation": "Replied 标签说明 Saga 回过对方——对方来信可能从未关联到本户（私人邮箱）。",
-    "need": "8/16 口 PoE 自装。",
-    "breakpoint": "单量小。",
+    "situation": "德州奥斯汀的安防安装商 Avenger Security（getsecurityalarm.com；Brandon Walter Adams，Owner，2004 年创立；报警/门禁/视频监控，服务奥斯汀/休斯敦/达拉斯/圣安东尼奥）。他用的是私人 gmail 回信，所以之前被记成「0 来信」——实际两次开口都是问价：2025-06 问 16 口 DIN 千兆（Alan 只给了链接），2025-09 问 2 光 4 PoE 工业机 STI-244GP，并说自己在太阳能配置里用过这类 PoE、喜欢过流保护；Alan 答 $35/pc、从中国 DHL/UPS/FedEx 发、输入 3A max、DC44–57V、带 DIP。之后他没下文，Saga 又群发了 9 封（2025-10 → 2026-09）。",
+    "need": "太阳能/离网安防站点用的小口数 DIN PoE 交换机（2 SFP + 4 GE PoE，DC 44–57V，过流保护，-40~75℃）；偶尔 16 口 DIN 千兆（车载/工业自动化那封引出的）。单量小（安装商按项目买）。",
+    "breakpoint": "两次问价都没形成「价 + 运费 + 交期」一封信：06-12 没给价，09-09 给了价没给运费档位——对美国小安装商，4 口机 $35 之外的 DHL 运费才是决定项。",
     "saga_now": {
-      "p1": "STC-28DGGPM",
+      "p1": "STI-244GP",
       "tier": 25,
-      "price": "—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（2/15 封有打开记录）：「16 Port Ethernet Switch」(2025-06-11)、「Industrial PoE Switch」(2025-09-08) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
+      "price": "STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $95.3 @25%；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "why": "他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP",
+      "repeat": [
+        "06-12 问 16 口 DIN GE 价",
+        "09-09 问 STI-244GP 价与发货地"
+      ],
+      "gaps": [
+        "运费档位（2 台 / 10 台 DHL 到 Austin）要先查，不然这封信又只剩价"
+      ]
     },
     "next_move": {
-      "when": "2027-Q1",
-      "channel": "S 邮箱 → brandon@",
-      "action": "一句话",
-      "one_question": "Any install this quarter where an 8-port PoE at the 60-USD class fits?"
+      "when": "现在（一封针对性信）",
+      "channel": "A 邮箱 → brandonwadams@gmail.com（抄 brandon@getsecurityalarm.com）",
+      "action": "把 09-09 那封补完整：价 + 2 台/10 台 DHL 运费 + 3–5 工作日交期，问太阳能站点数量",
+      "one_question": "Brandon — picking up your September note on the solar sites: STI-244GP (2 SFP + 4 GbE PoE, 44–57 V DC, DIP, −40 to +75 °C) is $35 EXW; 2 pcs by DHL to Austin lands in about a week — how many solar/off-grid sites are you fitting this season, and shall I send two for the next one?"
     },
     "facts": [
       {
@@ -156,18 +161,54 @@
         "k": "ea72575dc36805b9"
       },
       {
+        "date": "2025-06-12",
+        "dir": "来",
+        "who": "Brandon（Avenger Security，brandonwadams@gmail.com）",
+        "quote": "Alan, Hope all is well, Can you send me the pricing, Let me know（答「16 Port Ethernet Switch」DIN 千兆群发）",
+        "why": "第一次开口就是问价——来自私人 gmail，之前未归属本户",
+        "k": "gmail_a a3355bc71b5e758d"
+      },
+      {
+        "date": "2025-06-12",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Please see attached downlink links which contain full information. Photos, datasheets, user manuals, prices etc.（附 Download Link_Alan.pdf）",
+        "why": "问价只回了链接包、正文没有价——第一次断点",
+        "k": "gmail_a 1ac6cb596346a3a9"
+      },
+      {
         "date": "2025-09-08",
         "dir": "去",
         "who": "Saga（群发）",
         "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "a993a01057d0d553"
+      },
+      {
+        "date": "2025-09-09",
+        "dir": "来",
+        "who": "Brandon（brandonwadams@gmail.com）",
+        "quote": "I have used this POE in solar configurations, I like the overcurrent protection. Can you send pricing, Where is the product located, shipped from?（答「Industrial PoE Switch」STI-244GP 群发）",
+        "why": "点明用途（太阳能配置）与在意点（过流保护）+ 两个采购问题（价、发货地）——这是本户最实的一句话",
+        "k": "gmail_a 88fd4f417fdf19ba"
+      },
+      {
+        "date": "2025-09-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China via DHL/UPS/FedEx. 3, price is 35usd/pc. STI-244GP: 2*Gigabit SFP+4*10/100/1000M RJ45, PoE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V (Removable 4 PIN Terminal Block), -40℃ to 75℃, Din mounted, Without optical module, without power adapter",
+        "why": "给了价没给运费档位；此后 Brandon 沉默，Saga 再群发 9 封无回",
+        "k": "gmail_a 2c55cbead61c8075"
       }
     ],
     "proof_gaps": [
-      "Replied 标签对应的来信未关联本户"
+      "DHL 2 台/10 台到 Austin 的运费档位（发信前查）",
+      "他 2025-09 说「used this PoE in solar configurations」——用的是谁家的（没问）"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: Industrial PoE Switch — the solar-site switch, with price and shipping this time",
+      "body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $95.3 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan"
+    },
     "as_of": "2026-10-24"
   }
 }

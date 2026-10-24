@@ -1,7 +1,7 @@
 {
  "rows_xlsx": 6246,
  "rows_docx_extra": 2,
- "rows_manual_extra": 15,
+ "rows_manual_extra": 17,
  "docx_emails_total": 384,
  "followups": 20819,
  "followups_attached": 18100,
@@ -16,7 +16,7 @@
   "C": 3189,
   "B": 1290
  },
- "multi_source": 1281,
+ "multi_source": 1283,
  "c_sub": {
   "调研后定级 C": 45,
   "明确退订": 1,

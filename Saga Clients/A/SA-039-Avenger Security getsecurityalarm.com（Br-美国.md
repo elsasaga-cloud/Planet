@@ -1,9 +1,9 @@
-# getsecurityalarm.com
+# Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）
 **官方名称（调研核实）**：Avenger Security / Security Tekton（Austin & Hutto, Texas）
 
 > **评级 A**　|　美国　|　档案编号 `SA-039`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：安防集成/安装商（小型，自装自用采购）（推断）　|　**历史关系**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防集成/安装商（小型，自装自用采购）（推断）　|　**历史关系**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）　|　**所在清单**：A已回复、补录、归属补洞　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-039
@@ -15,7 +15,7 @@ country: 美国
 region: 北美
 website: getsecurityalarm.com
 type: 安防集成/安装商（小型，自装自用采购）
-tier_tags: ["A已回复"]
+tier_tags: ["A已回复", "补录", "归属补洞"]
 deal: no
 replies: 2
 followups: 2
@@ -26,13 +26,13 @@ p1: STC-28DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
-sources: 1
+sources: 2
 updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE）
+- **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE；2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcur）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）；最近一次客户回复：2025-09-08：Price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 已打开的主题（2/15 封有打开记录）：「16 Port Ethernet Switch」(2025-06-11)、「Industrial PoE Switch」(2025-09-08) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）
@@ -63,15 +63,16 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | getsecurityalarm.com（取自域名，公司全名待核） | 推断 |
+| 名称 | Avenger Security / getsecurityalarm.com（Brandon 私人邮箱） | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | getsecurityalarm.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/安装商（小型，自装自用采购） | 推断（据兴趣/备注关键词） |
-| 联系人 | Brandon Walter Adams / Owner | 事实（用户表） |
-| 来源（From） | 谷歌 | 事实（用户表） |
-| 兴趣（Interested in） | 商业PoE | 事实（用户表） |
-| 用户备注（Remark） | C: (512) 563-5361 | 事实（用户表） |
-| 所在清单 | A已回复 | 事实（文件路径） |
+| 联系人 | Brandon Walter Adams / Owner / Brandon Walter Adams | 事实（用户表） |
+| 来源（From） | 谷歌 / 补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞） | 事实（用户表） |
+| 兴趣（Interested in） | 商业PoE / 2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」） | 事实（用户表） |
+| 用户备注（Remark） | C: (512) 563-5361 / 同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属 | 事实（用户表） |
+| 用户分档（Category） | 安防安装商（奥斯汀） | 事实（用户表） |
+| 所在清单 | A已回复、补录、归属补洞 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -193,8 +194,11 @@ updated: 2026-10-24
 
 - 邮箱：`info@getsecurityalarm.com`〔企业邮箱；来源：用户表原值〕
 - 邮箱：`brandon@getsecurityalarm.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`brandonwadams@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 电话：`+5125635361`〔电话/WhatsApp 状态未记；原值见来源表〕
 - 联系人（原值）：Brandon Walter Adams / Owner
+- 联系人（原值）：Brandon Walter Adams
+- 职位（原值）：Owner
 - 网站/域名：getsecurityalarm.com
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
@@ -209,11 +213,12 @@ updated: 2026-10-24
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`d:getsecurityalarm.com`, `e:brandon@getsecurityalarm.com`。
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | A Replied 09.04.xlsx#总表:6 | 5 | https://getsecurityalarm.com/products/8-PoE-port-switch-with-2-port-uplink?variant=42832283500721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZe3XZl0SDYPw5y_7Z7_SClJ6xLf5U2GwEua_nCeEPWR5x4JC_jLU | 美国 | Brandon Walter Adams<br>Owner | 谷歌 | 商业PoE | info@getsecurityalarm.com<br>brandon@getsecurityalarm.com | C: (512) 563-5361 | 2 条 |
+| 补录客户.jsonl#(补录):17 | AS-补录-2026-10-24-03 | Avenger Security / getsecurityalarm.com（Brandon 私人邮箱） | 美国 | Brandon Walter Adams | 补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞） | 2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」） | brandonwadams@gmail.com; brandon@getsecurityalarm.com https://getsecurityalarm.com | 同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属 Owner | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -301,7 +306,7 @@ https://sagatele.com/
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 84）
 
 ---
 

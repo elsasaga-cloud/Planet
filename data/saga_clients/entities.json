@@ -9687,9 +9687,11 @@
 }
 },
 {
-"name": "germany24.com.ua",
-"name_src": "domain",
-"names": [],
+"name": "LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）",
+"name_src": "company",
+"names": [
+"LLC DEUTSCHE IMPORT / （Sergiy 私人邮箱）"
+],
 "country": "乌克兰",
 "iso": "UA",
 "region": "乌克兰",
@@ -9700,11 +9702,14 @@
 ],
 "urls": [
 "www.germany24.com.ua",
-"www.planet.kiev.ua"
+"www.planet.kiev.ua",
+"germany24.com.ua",
+"https://germany24.com.ua"
 ],
 "platform_links": [],
 "emails": [
-"info@germany24.com.ua"
+"info@germany24.com.ua",
+"sergiy.khodun@gmail.com"
 ],
 "corp_emails": [
 "info@germany24.com.ua"
@@ -9713,30 +9718,43 @@
 "380445937976"
 ],
 "persons": [
-"Sergey Khodun / CEO"
+"Sergey Khodun / CEO",
+"Sergiy Khodun"
 ],
-"positions": [],
+"positions": [
+"CEO"
+],
 "froms": [
-"谷歌"
+"谷歌",
+"补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现）"
 ],
 "interests": [
-"之前谈了工业FS"
+"之前谈了工业FS",
+"OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20）"
 ],
 "remarks": [
-"tel: 38(044)59 37976\n加不上"
+"tel: 38(044)59 37976\n加不上",
+"同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱"
 ],
-"categories": [],
+"categories": [
+"进口分销商（基辅）"
+],
 "tags": [
-"S重点"
+"S重点",
+"补录",
+"归属补洞"
 ],
 "flags": {
-"wa_failed": 1
+"wa_failed": 1,
+"own_brand": 1
 },
 "fit": {
-"switch": 1
+"switch": 2
 },
 "ai_evals": [],
-"years": [],
+"years": [
+2024
+],
 "sources": [
 {
 "file": "Clients/S 09.08.xlsx",
@@ -9761,6 +9779,31 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 22
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 18,
+"no": "AS-补录-2026-10-24-04",
+"tags": [
+"补录",
+"归属补洞"
+],
+"company": "LLC DEUTSCHE IMPORT / germany24.com.ua（Sergiy 私人邮箱）",
+"country": "乌克兰",
+"person": "Sergiy Khodun",
+"from": "补录：S 邮箱 2024-05→11 往来全部来自私人 gmail（第 69 批(c) 发现）",
+"interest": "OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20）",
+"contact": "sergiy.khodun@gmail.com; info@germany24.com.ua",
+"mobile": "",
+"website": "https://germany24.com.ua",
+"remark": "同一实体 SA-018；本行只为把 sergiy.khodun@gmail.com 并入该实体邮箱",
+"extra": "",
+"category": "进口分销商（基辅）",
+"position": "CEO",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
 }
 ],
 "followups": [
@@ -10027,13 +10070,17 @@
 "deal_in_fu": false,
 "fu_sample": false,
 "last_year": 2025,
-"merge_keys": [],
+"merge_keys": [
+"d:germany24.com.ua",
+"e:info@germany24.com.ua"
+],
 "grade_auto": "B",
-"score": 65,
+"score": 77,
 "reasons": [
 "+30 实质回复 3 次（问价/要资料/问型号等）",
 "+25 在 Simon 的 S 重点名单",
 "-3 WhatsApp 加不上",
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
 "+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
 "+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
@@ -19327,9 +19374,11 @@
 }
 },
 {
-"name": "getsecurityalarm.com",
-"name_src": "domain",
-"names": [],
+"name": "Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）",
+"name_src": "company",
+"names": [
+"Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）"
+],
 "country": "美国",
 "iso": "US",
 "region": "北美",
@@ -19338,12 +19387,14 @@
 "getsecurityalarm.com"
 ],
 "urls": [
-"https://getsecurityalarm.com/products/8-PoE-port-switch-with-2-port-uplink?variant=42832283500721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZe3XZl0SDYPw5y_7Z7_SClJ6xLf5U2GwEua_nCeEPWR5x4JC_jLU"
+"https://getsecurityalarm.com/products/8-PoE-port-switch-with-2-port-uplink?variant=42832283500721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqZe3XZl0SDYPw5y_7Z7_SClJ6xLf5U2GwEua_nCeEPWR5x4JC_jLU",
+"https://getsecurityalarm.com"
 ],
 "platform_links": [],
 "emails": [
 "info@getsecurityalarm.com",
-"brandon@getsecurityalarm.com"
+"brandon@getsecurityalarm.com",
+"brandonwadams@gmail.com"
 ],
 "corp_emails": [
 "info@getsecurityalarm.com",
@@ -19353,28 +19404,41 @@
 "5125635361"
 ],
 "persons": [
-"Brandon Walter Adams / Owner"
+"Brandon Walter Adams / Owner",
+"Brandon Walter Adams"
 ],
-"positions": [],
+"positions": [
+"Owner"
+],
 "froms": [
-"谷歌"
+"谷歌",
+"补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞）"
 ],
 "interests": [
-"商业PoE"
+"商业PoE",
+"2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」）"
 ],
 "remarks": [
-"C: (512) 563-5361"
+"C: (512) 563-5361",
+"同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属"
 ],
-"categories": [],
+"categories": [
+"安防安装商（奥斯汀）"
+],
 "tags": [
-"A已回复"
+"A已回复",
+"补录",
+"归属补洞"
 ],
 "flags": {},
 "fit": {
-"switch": 1
+"switch": 2,
+"off": 1
 },
 "ai_evals": [],
-"years": [],
+"years": [
+2025
+],
 "sources": [
 {
 "file": "Clients/A Replied 09.04.xlsx",
@@ -19399,6 +19463,31 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 2
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 17,
+"no": "AS-补录-2026-10-24-03",
+"tags": [
+"补录",
+"归属补洞"
+],
+"company": "Avenger Security / getsecurityalarm.com（Brandon 私人邮箱）",
+"country": "美国",
+"person": "Brandon Walter Adams",
+"from": "补录：A 邮箱真人回复来自私人 gmail，原实体只有公司邮箱（第 70 批归属补洞）",
+"interest": "2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcurrent protection」）",
+"contact": "brandonwadams@gmail.com; brandon@getsecurityalarm.com",
+"mobile": "",
+"website": "https://getsecurityalarm.com",
+"remark": "同一实体 SA-039；本行只为把 brandonwadams@gmail.com 并入该实体邮箱，便于往来归属",
+"extra": "",
+"category": "安防安装商（奥斯汀）",
+"position": "Owner",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
 }
 ],
 "followups": [
@@ -19443,7 +19532,10 @@
 "deal_in_fu": false,
 "fu_sample": false,
 "last_year": 2025,
-"merge_keys": [],
+"merge_keys": [
+"d:getsecurityalarm.com",
+"e:brandon@getsecurityalarm.com"
+],
 "grade_auto": "A",
 "score": 84,
 "reasons": [
