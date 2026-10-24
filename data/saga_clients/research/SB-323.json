@@ -1,114 +1,131 @@
 {
- "code": "SB-323",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nitrotelmanufacturing.com，快照 2026-10-21）",
- "summary": "美国 Nitrotel Manufacturing（迈阿密网络方案与产品：企业网络、数据中心、基础设施，Cat5e/6/6A 线缆、光纤、MC（NTFFSM 系列）；表内「工业 FS MC SFP 自己的 logo，周边产品」；KP Daniel（RCDD，Senior Technical Director，dmorera@））；群发 20 次无回复。",
- "type": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl；品类词 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "| Network Solutions | Networking Products | Miami,fl",
-   "url": "https://www.nitrotelmanufacturing.com/",
-   "date": "2026-10-21"
+  "code": "SB-323",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nitrotelmanufacturing.com，快照 2026-10-21）",
+  "summary": "美国 Nitrotel Manufacturing（迈阿密网络方案与产品：企业网络、数据中心、基础设施，Cat5e/6/6A 线缆、光纤、MC（NTFFSM 系列）；表内「工业 FS MC SFP 自己的 logo，周边产品」；KP Daniel（RCDD，Senior Technical Director，dmorera@））；群发 20 次无回复。",
+  "type": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl；品类词 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "| Network Solutions | Networking Products | Miami,fl",
+      "url": "https://www.nitrotelmanufacturing.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC SFP 自己的logo 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Nitrotel 站点",
+      "quote": "Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl ; NTFFSM840 ; /product/category-6a-utp-cable/",
+      "url": "https://www.nitrotelmanufacturing.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS MC SFP 自己的 logo",
+      "quote": "工业FS MC SFP 自己的logo 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Daniel Morera（RCDD）",
+      "title": "Senior Technical Director",
+      "email": "dmorera@nitrotelmanufacturing.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC SFP 自己的logo 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Nitrotel 站点",
-   "quote": "Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl ; NTFFSM840 ; /product/category-6a-utp-cable/",
-   "url": "https://www.nitrotelmanufacturing.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "网络布线 / 光纤 / MC（自有品牌 Nitrotel）"
+  ],
+  "channels": {
+    "role": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
+    "region": "美国",
+    "contact": "sales@nitrotelmanufacturing.com、dmorera@nitrotelmanufacturing.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC SFP 自己的 logo",
-   "quote": "工业FS MC SFP 自己的logo 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl；首页 Enterprise Networks ; Data Center Solutions ; Infrastructure Solutions；站内 NTFFSM820 / NTFFSM840；kw media converter 14 / cable 80 / data center 29",
+    "表内：工业 FS MC SFP 自己的 logo 周边产品；KP Daniel Rcdd / Senior Technical Director"
+  ],
+  "risks": [
+    "主业布线/数据中心基础设施（Saga 不做），有源为周边；20 次无回复 → 改向 Senior Technical Director 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 logo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；MC 位 STI-110GE（$24.3）对位 NTFFSM 系列；SFP Saga 不供"
+  },
+  "email_hook": "Daniel, for the industrial switches and media converters carried under the Nitrotel label alongside your cabling lines, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs in your packaging from small lots, FCC/CE/RoHS — which model do your Latin-American integrators order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（3 封来信全部自动回复）",
+      "type": "迈阿密布线/网络品牌商（Nitrotel）",
+      "sieve": "0",
+      "stop": "自动回复",
+      "revive": "不动；备用具名邮箱：jquesada@nitrotelmanufacturing.com（自动回复指定代理人 Joel Quesada，2024-07-18，k=67f92dddb4329ead；从未发过）；ssardina@nitrotelmanufacturing.com（自动回复中出现的同司具名邮箱，2024-05-27，k=dcbdd79165251136；从未发过）",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=dcbdd79165251136 等"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—；备用具名邮箱 → jquesada@nitrotelmanufacturing.com, ssardina@nitrotelmanufacturing.com",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-05-27",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 ssardina@nitrotelmanufacturing.com",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "dcbdd79165251136"
+      },
+      {
+        "date": "2024-07-18",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 jquesada@nitrotelmanufacturing.com（Joel Quesada）",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "67f92dddb4329ead"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Daniel Morera（RCDD）",
-   "title": "Senior Technical Director",
-   "email": "dmorera@nitrotelmanufacturing.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 nitrotelmanufacturing.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络布线 / 光纤 / MC（自有品牌 Nitrotel）"
- ],
- "channels": {
-  "role": "布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）",
-  "region": "美国",
-  "contact": "sales@nitrotelmanufacturing.com、dmorera@nitrotelmanufacturing.com"
- },
- "signals": [
-  "官网：Nitrotel Manufactoring – | Network Solutions | Networking Products | Miami,fl；首页 Enterprise Networks ; Data Center Solutions ; Infrastructure Solutions；站内 NTFFSM820 / NTFFSM840；kw media converter 14 / cable 80 / data center 29",
-  "表内：工业 FS MC SFP 自己的 logo 周边产品；KP Daniel Rcdd / Senior Technical Director"
- ],
- "risks": [
-  "主业布线/数据中心基础设施（Saga 不做），有源为周边；20 次无回复 → 改向 Senior Technical Director 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 logo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；MC 位 STI-110GE（$24.3）对位 NTFFSM 系列；SFP Saga 不供"
- },
- "email_hook": "Daniel, for the industrial switches and media converters carried under the Nitrotel label alongside your cabling lines, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs in your packaging from small lots, FCC/CE/RoHS — which model do your Latin-American integrators order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（3 封来信全部自动回复）",
-   "type": "迈阿密布线/网络品牌商（Nitrotel）",
-   "sieve": "0",
-   "stop": "自动回复",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=dcbdd79165251136 等"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

@@ -1,106 +1,131 @@
 {
- "code": "SB-938",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（fiberopticsupply.com，快照 2026-10-21）",
- "summary": "美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。",
- "type": "光纤材料网店（美国，MC 为有源副线）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：FiberOptic Supply；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables.",
-   "url": "https://fiberopticsupply.com/",
-   "date": "2026-10-21"
+  "code": "SB-938",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（fiberopticsupply.com，快照 2026-10-21）",
+  "summary": "美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。",
+  "type": "光纤材料网店（美国，MC 为有源副线）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：FiberOptic Supply；品类词 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换",
+      "quote": "We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables.",
+      "url": "https://fiberopticsupply.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "SFP MC 周边产品；卖别人的MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "FiberOptic Supply 定位",
+      "quote": "FiberOptic Supply ; We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components",
+      "url": "https://fiberopticsupply.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "卖别人的 MC",
+      "quote": "SFP MC 周边产品 / 卖别人的MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "SFP MC 周边产品；卖别人的MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "FiberOptic Supply 定位",
-   "quote": "FiberOptic Supply ; We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components",
-   "url": "https://fiberopticsupply.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "光纤材料 / 工具 / 有源组件网店（美国）"
+  ],
+  "channels": {
+    "role": "光纤材料网店（美国，MC 为有源副线）",
+    "region": "美国",
+    "contact": "sales@fiberopticsupply.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "卖别人的 MC",
-   "quote": "SFP MC 周边产品 / 卖别人的MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components；kw media converter 29 / sfp 29 / fiber 739",
+    "表内：SFP MC 周边产品 / 卖别人的 MC"
+  ],
+  "risks": [
+    "主业光纤无源材料（Saga 不做）；SFP 需求 Saga 不供；2 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "有源组件分类 MC → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；商用桌面 MC 以 HRUI 列表价（注明）；SFP Saga 不供"
+  },
+  "email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（2 封自动回复）",
+      "type": "美国光纤材料网店（Fiber Optic Supply）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=5fe850467aa7251b / f88a1716b68677f2"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2023-12-20",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 bhogan@fiberopticsupply.com",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "5fe850467aa7251b"
+      },
+      {
+        "date": "2023-12-20",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "5fe850467aa7251b"
+      },
+      {
+        "date": "2024-09-27",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "f88a1716b68677f2"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "光纤材料 / 工具 / 有源组件网店（美国）"
- ],
- "channels": {
-  "role": "光纤材料网店（美国，MC 为有源副线）",
-  "region": "美国",
-  "contact": "sales@fiberopticsupply.com"
- },
- "signals": [
-  "官网：We offer fiber optic materials from Test Equipment, Bulk Cable and Fusion Splicers to Tools, Patch Cables and Consumables ; Active Components；kw media converter 29 / sfp 29 / fiber 739",
-  "表内：SFP MC 周边产品 / 卖别人的 MC"
- ],
- "risks": [
-  "主业光纤无源材料（Saga 不做）；SFP 需求 Saga 不供；2 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "有源组件分类 MC → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；商用桌面 MC 以 HRUI 列表价（注明）；SFP Saga 不供"
- },
- "email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（2 封自动回复）",
-   "type": "美国光纤材料网店（Fiber Optic Supply）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=5fe850467aa7251b / f88a1716b68677f2"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

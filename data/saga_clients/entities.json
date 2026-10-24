@@ -99007,7 +99007,7 @@
 "type": "波兰电源/PoE 交换机制造商（Pulsar）——竞品制造商",
 "sieve": "0",
 "stop": "自产 PoE 交换机，无动机",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：lenaw@pulsar.pl（自动回复中出现的同司具名邮箱，2024-08-26，k=7d303c2991a9b78c；从未发过）",
 "lane": "PL 次级",
 "cadence": "不动",
 "evidence": "k=061d3f430c1dc282 等"
@@ -99025,11 +99025,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → lenaw@pulsar.pl",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-08-26",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 lenaw@pulsar.pl",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "7d303c2991a9b78c"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -178086,7 +178095,7 @@
 "type": "波兰安防网店",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：piotr@kamsys.pl（自动回复中出现的同司具名邮箱，2025-10-05，k=7d516fc6a1f3e02f；从未发过）",
 "lane": "PL",
 "cadence": "不动",
 "evidence": "k=7d516fc6a1f3e02f"
@@ -178104,11 +178113,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → piotr@kamsys.pl",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-10-05",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 piotr@kamsys.pl",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "7d516fc6a1f3e02f"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -224682,7 +224700,7 @@
 "type": "美国 CCTV 网店/安装商（Platinum CCTV）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：scott@platinumcctv.com（自动回复中出现的同司具名邮箱，2024-11-29，k=d15c53f56333d9f6；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=d15c53f56333d9f6"
@@ -224700,11 +224718,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → scott@platinumcctv.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-11-29",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出同事邮箱 scott@platinumcctv.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "d15c53f56333d9f6"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -270282,7 +270309,7 @@
 "type": "新加坡电信工程商（Lucky Joint）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：hxng@luckyjoint.com.sg（自动回复指定代理人 Hui Xian，2023-11-06，k=8132922529f0518a；从未发过）",
 "lane": "SG",
 "cadence": "不动",
 "evidence": "k=8132922529f0518a"
@@ -270300,11 +270327,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → hxng@luckyjoint.com.sg",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-11-06",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 hxng@luckyjoint.com.sg（Hui Xian）",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "8132922529f0518a"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -271839,7 +271875,7 @@
 "type": "迈阿密布线/网络品牌商（Nitrotel）",
 "sieve": "0",
 "stop": "自动回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：jquesada@nitrotelmanufacturing.com（自动回复指定代理人 Joel Quesada，2024-07-18，k=67f92dddb4329ead；从未发过）；ssardina@nitrotelmanufacturing.com（自动回复中出现的同司具名邮箱，2024-05-27，k=dcbdd79165251136；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=dcbdd79165251136 等"
@@ -271857,11 +271893,28 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → jquesada@nitrotelmanufacturing.com, ssardina@nitrotelmanufacturing.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-05-27",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 ssardina@nitrotelmanufacturing.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "dcbdd79165251136"
+},
+{
+"date": "2024-07-18",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 jquesada@nitrotelmanufacturing.com（Joel Quesada）",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "67f92dddb4329ead"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -355447,7 +355500,7 @@
 "type": "加拿大 ITS/交通集成（Tacel；EtherWAN 在用）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：yassine.benamghar@tacel.ca（自动回复指定代理人 Yassine Benamghar，2025-01-16，k=3f49bc512bb93c92；从未发过）",
 "lane": "CA",
 "cadence": "不动",
 "evidence": "k=3f49bc512bb93c92"
@@ -355465,11 +355518,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → yassine.benamghar@tacel.ca",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-01-16",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 yassine.benamghar@tacel.ca（Yassine Benamghar）",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "3f49bc512bb93c92"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -436459,7 +436521,7 @@
 "type": "美国/加拿大安防网店（Galaxy Security）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：andrew@galaxysecurity.com（自动回复指定代理人 Andrew，2024-08-15，k=a75806671f769c62；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=a75806671f769c62 / e36165de77f85381"
@@ -436477,11 +436539,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → andrew@galaxysecurity.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-08-15",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 andrew@galaxysecurity.com（Andrew）",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "a75806671f769c62"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -438405,7 +438476,7 @@
 "type": "法国光纤传输制造商（自有 INET 系列）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：lleitao@ifotec.com（自动回复中出现的同司具名邮箱，2024-09-01，k=59bd3ff71678dfd8；从未发过）",
 "lane": "FR",
 "cadence": "不动",
 "evidence": "k=59bd3ff71678dfd8"
@@ -438423,11 +438494,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → lleitao@ifotec.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-09-01",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 lleitao@ifotec.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "59bd3ff71678dfd8"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -443204,7 +443284,7 @@
 "type": "美国工业连接器制造商（Mencom）",
 "sieve": "0",
 "stop": "自动回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：mark.dixon@mencom.com（自动回复中出现的同司具名邮箱，2023-12-28，k=2281cb9524be76f4；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=2281cb9524be76f4 等"
@@ -443222,11 +443302,20 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → mark.dixon@mencom.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-12-28",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "2281cb9524be76f4"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -452879,7 +452968,7 @@
 "type": "美国网络基础设施自有品牌商（Weltron）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：gelliott@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；jkhicks@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）；sj@winstonele.com（自动回复中出现的同司具名邮箱，2024-07-19，k=9270e602f2e97c34；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=9270e602f2e97c34"
@@ -452897,11 +452986,36 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-07-19",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 gelliott@winstonele.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "9270e602f2e97c34"
+},
+{
+"date": "2024-07-19",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 jkhicks@winstonele.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "9270e602f2e97c34"
+},
+{
+"date": "2024-07-19",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 sj@winstonele.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "9270e602f2e97c34"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -465078,7 +465192,7 @@
 "type": "美国老牌光传输/工业以太网品牌商（第一档 OEM 品牌商；Greg = 采购/产品经理级，Simon 前东家时代就认识，Olycom HDMI）",
 "sieve": "3→4 之间：要过数据表、报价、芯片追问，但从未要样品；原因是它要的是「能和 Cisco 比的堆叠整线」，不是单品",
 "stop": "两个断点：① 2024-11 Simon 承诺堆叠「2~3 个月」，拖到 2025-10-31 坦白「1st release 出了严重问题」，期间 Greg 追了 6 次——信用被消耗；② 2026-03-11 Simon 说「Finally, stacking available on all models」，Greg 只回了 OOO 自动回复——要么没看到，要么已另寻来源",
-"revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300",
+"revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过）",
 "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
 "cadence": "一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品",
 "evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）"
@@ -465096,7 +465210,7 @@
 },
 "next_move": {
 "when": "现在",
-"channel": "S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）",
+"channel": "S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）；备用具名邮箱 → rwtull@versitron.com",
 "action": "一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在",
 "one_question": "Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?"
 },
@@ -465156,6 +465270,14 @@
 "quote": "Finally, our \"stacking\" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine.",
 "why": "宣布可用；只收到 OOO",
 "k": "3cab7e50e48fea36"
+},
+{
+"date": "2026-03-11",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」",
+"why": "Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址",
+"k": "4ac602505b7d8db3"
 }
 ],
 "proof_gaps": [
@@ -469773,7 +469895,7 @@
 "type": "美国光纤材料网店（Fiber Optic Supply）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "不动",
+"revive": "不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）",
 "lane": "US",
 "cadence": "不动",
 "evidence": "k=5fe850467aa7251b / f88a1716b68677f2"
@@ -469791,11 +469913,36 @@
 },
 "next_move": {
 "when": "不动",
-"channel": "—",
+"channel": "—；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com",
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-12-20",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 bhogan@fiberopticsupply.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "5fe850467aa7251b"
+},
+{
+"date": "2023-12-20",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "5fe850467aa7251b"
+},
+{
+"date": "2024-09-27",
+"dir": "来",
+"who": "自动回复",
+"quote": "自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com",
+"why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+"k": "f88a1716b68677f2"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"

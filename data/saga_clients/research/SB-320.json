@@ -1,121 +1,130 @@
 {
- "code": "SB-320",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（luckyjoint.com.sg，快照 2026-10-21）",
- "summary": "新加坡 Lucky Joint Construction Pte Ltd（独立电信网络设计、建设与维护公司；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Kee Ching Hai、Jackson Ho（Senior Manager (Network Engineering)））；群发 8 次无回复。",
- "type": "电信网络工程商（新加坡，PoE 长距需求）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Lucky Joint Construction Pte Ltd；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "Connectivity Simplified Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore. Yearsof business intelecommunication industry 0 ful",
-   "url": "https://www.luckyjoint.com.sg/",
-   "date": "2026-10-21"
+  "code": "SB-320",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（luckyjoint.com.sg，快照 2026-10-21）",
+  "summary": "新加坡 Lucky Joint Construction Pte Ltd（独立电信网络设计、建设与维护公司；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Kee Ching Hai、Jackson Ho（Senior Manager (Network Engineering)））；群发 8 次无回复。",
+  "type": "电信网络工程商（新加坡，PoE 长距需求）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Lucky Joint Construction Pte Ltd；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换",
+      "quote": "Connectivity Simplified Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore. Yearsof business intelecommunication industry 0 ful",
+      "url": "https://www.luckyjoint.com.sg/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "POE switch POE网口能传250m吗",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "LJC 定位",
+      "quote": "Home - Lucky Joint Construction Pte Ltd ; leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore",
+      "url": "https://www.luckyjoint.com.sg/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 网口能传 250m 吗",
+      "quote": "POE switch POE网口能传250m吗；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jackson Ho",
+      "title": "Senior Manager (Network Engineering)",
+      "email": "robin@luckyjoint.com.sg",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Kee Ching Hai",
+      "title": "（职务待核）",
+      "email": "sales@luckyjoint.com.sg",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE switch POE网口能传250m吗",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "新加坡",
+    "other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "LJC 定位",
-   "quote": "Home - Lucky Joint Construction Pte Ltd ; leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore",
-   "url": "https://www.luckyjoint.com.sg/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "电信网络设计 / 建设 / 维护（新加坡）"
+  ],
+  "channels": {
+    "role": "电信网络工程商（新加坡，PoE 长距需求）",
+    "region": "新加坡",
+    "contact": "sales@luckyjoint.com.sg、robin@luckyjoint.com.sg"
   },
-  {
-   "kind": "用户表",
-   "claim": "PoE 网口能传 250m 吗",
-   "quote": "POE switch POE网口能传250m吗；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore ; Connectivity Simplified",
+    "表内：POE switch POE 网口能传 250m 吗；KP Kee Ching Hai 可以多跟进一下；Jackson Ho / Senior Manager (Network Engineering)"
+  ],
+  "risks": [
+    "250 m 长距模式参数待核（SmartByte 规格）；非主攻区（T5，新加坡）；工程商（量随项目）；8 次无回复 → 改向 Senior Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "PoE 长距（250 m）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%，长距模式 250 m@10 Mbps 待核）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）"
+  },
+  "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封 2023-11 自动回复）",
+      "type": "新加坡电信工程商（Lucky Joint）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动；备用具名邮箱：hxng@luckyjoint.com.sg（自动回复指定代理人 Hui Xian，2023-11-06，k=8132922529f0518a；从未发过）",
+      "lane": "SG",
+      "cadence": "不动",
+      "evidence": "k=8132922529f0518a"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—；备用具名邮箱 → hxng@luckyjoint.com.sg",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2023-11-06",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 hxng@luckyjoint.com.sg（Hui Xian）",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "8132922529f0518a"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Jackson Ho",
-   "title": "Senior Manager (Network Engineering)",
-   "email": "robin@luckyjoint.com.sg",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Kee Ching Hai",
-   "title": "（职务待核）",
-   "email": "sales@luckyjoint.com.sg",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 luckyjoint.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电信网络设计 / 建设 / 维护（新加坡）"
- ],
- "channels": {
-  "role": "电信网络工程商（新加坡，PoE 长距需求）",
-  "region": "新加坡",
-  "contact": "sales@luckyjoint.com.sg、robin@luckyjoint.com.sg"
- },
- "signals": [
-  "官网：Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore ; Connectivity Simplified",
-  "表内：POE switch POE 网口能传 250m 吗；KP Kee Ching Hai 可以多跟进一下；Jackson Ho / Senior Manager (Network Engineering)"
- ],
- "risks": [
-  "250 m 长距模式参数待核（SmartByte 规格）；非主攻区（T5，新加坡）；工程商（量随项目）；8 次无回复 → 改向 Senior Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "PoE 长距（250 m）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%，长距模式 250 m@10 Mbps 待核）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）"
- },
- "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封 2023-11 自动回复）",
-   "type": "新加坡电信工程商（Lucky Joint）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "SG",
-   "cadence": "不动",
-   "evidence": "k=8132922529f0518a"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

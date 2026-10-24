@@ -36,18 +36,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 —；备用具名邮箱 → jquesada@nitrotelmanufacturing.com, ssardina@nitrotelmanufacturing.com —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-323` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（3 封来信全部自动回复）** ｜ 类型：迈阿密布线/网络品牌商（Nitrotel） ｜ 筛子：0 ｜ 停点：自动回复 ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=dcbdd79165251136 等
+- **绑定等级：未触达（3 封来信全部自动回复）** ｜ 类型：迈阿密布线/网络品牌商（Nitrotel） ｜ 筛子：0 ｜ 停点：自动回复 ｜ 复活：不动；备用具名邮箱：jquesada@nitrotelmanufacturing.com（自动回复指定代理人 Joel Quesada，2024-07-18，k=67f92dddb4329ead；从未发过）；ssardina@nitrotelmanufacturing.com（自动回复中出现的同司具名邮箱，2024-05-27，k=dcbdd79165251136；从未发过） ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=dcbdd79165251136 等
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—；备用具名邮箱 → jquesada@nitrotelmanufacturing.com, ssardina@nitrotelmanufacturing.com　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-27 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 ssardina@nitrotelmanufacturing.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `dcbdd79165251136` |
+| 2024-07-18 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 jquesada@nitrotelmanufacturing.com（Joel Quesada） | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `67f92dddb4329ead` |
 
 ## 基本事实（事实/推断/假设分层）
 
