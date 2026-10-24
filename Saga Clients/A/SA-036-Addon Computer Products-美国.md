@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。（调研 2026-10-21；表内兴趣：MC 很多家的/有光路的；买了6台样品MC 嫌交期长）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 18 次（2025-04-03 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 自有品牌线补源、交期敏感 → 先拿最常用的千兆 SFP 转换器压交期；锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → matt@addoncomputer.com 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：两年 33 封零打开——企业邮箱可能拦截 Gmail 群发。
 - **对方真实需求（有据）**：MC 自有品牌线补源，交期敏感。
 - **断点 / 为什么停在这里**：触达无效。
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））———
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——MC 自有品牌线补源、交期敏感 → 先拿最常用的千兆 SFP 转换器压交期
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → matt@addoncomputer.com　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 

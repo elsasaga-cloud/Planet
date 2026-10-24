@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。（调研 2026-10-21；表内兴趣：5电口带POE  实际需求2光4带ERPS）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了10gmc
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP 管理版 — —；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP 管理版 — 2 光 4 电 ERPS 环 → 带环保护的管理型 8 PoE + 2 SFP DIN（STI-244GP 非管理无 ERPS，管理版才有）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 - **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：需求具体（ERPS 环网）但邮件无痕。
 - **对方真实需求（有据）**：STI 2 光 4 电管理 + ERPS。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-244GP 管理版**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch））———
+- **Saga 现在该推什么**：P1 **STI-244GP 管理版**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）、2025-02-04 $240（24 Port Fiber Switch））——2 光 4 电 ERPS 环 → 带环保护的管理型 8 PoE + 2 SFP DIN（STI-244GP 非管理无 ERPS，管理版才有）
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 

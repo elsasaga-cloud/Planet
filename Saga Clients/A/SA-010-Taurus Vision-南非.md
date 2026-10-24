@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。（调研 2026-10-21；表内兴趣：2015年使用国际站 27 - 123292951 没尝试加）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — —；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
 - **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：邮件只在 2026-08/10 发过两封；关系在 WhatsApp。
 - **对方真实需求（有据）**：8/16 口 PoE 小批量。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）———
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
 

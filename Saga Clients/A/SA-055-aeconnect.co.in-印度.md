@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：印度艾哈迈达巴德的网络产品品牌商（2005 年起，公司 2022 注册 CIN U31200GJ2022PTC132573，11–50 人，营收约 $8.1M），自有品牌 PoE 注入器/交换机、光纤产品、Cat6/6A 布线、机柜、工具，200+ 经销商；自述过去 5 年进口部分产品，现开始在印度自产 PoE 交换机（Make in India）。用户表：WhatsApp 跟进，3 次实质回复，18 次跟进；兴趣 PoE FS / MC / SFP，用自己的 logo。（调研 2026-10-21；表内兴趣：POE FS MC SFP   自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2025-02-26：主要用RTL 有较为成熟的产品了 国内的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — —；锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源；锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：仓库无任何邮件。
 - **对方真实需求（有据）**：贴牌 8/24 口 PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—）———
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—）——贴牌 8/24 口 PoE → 8 口 L2+ 先做第二货源
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 

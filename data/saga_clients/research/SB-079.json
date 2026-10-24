@@ -111,13 +111,13 @@
       "evidence": "邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de"
     },
     "situation": "11 封 0 打开。",
-    "need": "—",
+    "need": "12 × 光 + 12 × 电 工业汇聚（研究档询价）",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "—",
+      "p1": "STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo）",
       "tier": 25,
       "price": "锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
-      "why": "—",
+      "why": "总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价",
       "repeat": [],
       "gaps": []
     },

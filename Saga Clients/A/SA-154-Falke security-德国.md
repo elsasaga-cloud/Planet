@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德国杜伊斯堡摄像系统专业经销/项目商：HDCVI 与 IP 摄像系统及配件，承接 1–256 路摄像项目、接入既有网络与搭建网络环境；手机 +49 172 90 54 200 与用户记录一致；展会看了 4 光 8 电 10G、2.5G 1 光 8 电并索价，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：看了4光8电 10G，2.5G 1光8电的，让发价格）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-15 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — —；锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 他要的就是 STC-424XGGPM-280W + 2.5G 1 光 8 电 → 两款先定哪个先报；锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@falke-security.de（Nuri Sahin） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：info@ 两年 0 打开；机型兴趣在邮件无痕。
 - **对方真实需求（有据）**：STC-424XGGPM-280W / 2.5G 1 光 8 电。
 - **断点 / 为什么停在这里**：触达层。
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch））———
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，锚价：STC-28DGGPM $84.1（25% 档）；STC-424XGGPM-280W $180（群发价）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch））——他要的就是 STC-424XGGPM-280W + 2.5G 1 光 8 电 → 两款先定哪个先报
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@falke-security.de（Nuri Sahin）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 

@@ -111,13 +111,13 @@
       "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
     },
     "situation": "仓库无邮件。",
-    "need": "—",
+    "need": "24 口 PoE+ L2+ / 24 口 + 4×10G L3 商用机（HCS 标）",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "—",
+      "p1": "STC-424DGGPM-280W（HCS 贴牌）/ STC-424XGGM(L3)",
       "tier": 25,
       "price": "锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ STC-424XGGM(L3) 291,5（25% 档，≤ PDF 295）（第 72 批 2026-10-24）；—",
-      "why": "—",
+      "why": "布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3",
       "repeat": [],
       "gaps": []
     },

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：雷焦艾米利亚的三人家族进口商，30 年卖 PLANET、近年加卖中国 3onedata，业主自己回邮件。类型：分销商/进口商（PLANET + 3onedata 工业网络，家族企业 3 人）。信号：官网自述 1994 年起进口分销 PLANET；同时代理中国品牌 3onedata（已直接从中国进口工业交换机）。Planet 渠道档案 PA-006 评级 A（需求面：PLANET 进口分销 30 年 + 已进口中国品牌；触达：info@kyma.it 直达业主（3 人公司，业主具名）；体量 €3.52M 营收（2024）可赢；区域意大利（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-183，意大利，Saga 群发已推送 12 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS 三旺的 产品线相关度比较高）
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 12 次无任何回复（聋名单）
 - **历史互动**：推送 12 次（2024-05-31 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM（8 PoE+ + 2 SFP） — 自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS；锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → info@kyma.it（Davide Zisios） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
@@ -47,9 +47,9 @@ updated: 2026-10-24
 
 - **绑定等级：未绑定（邮件 20 封 0 回、Opened 0）** ｜ 类型：意大利 Kyma Srl ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：— ｜ 通路：IT/EU ｜ 节奏：不主动 ｜ 证据：邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it
 - **现状一句话**：20 封 0 打开。
-- **对方真实需求（有据）**：—
+- **对方真实需求（有据）**：8 PoE+ + 2 SFP 或 4 SFP 版工业 PoE（二选一先问）
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））———
+- **Saga 现在该推什么**：P1 **STI-288GPM（8 PoE+ + 2 SFP）**（20% 档，锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——自 1994 进口 PLANET、现兼营 3onedata → 直采流程已熟；与 3onedata 同价位带但 Marvell + ERPS
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@kyma.it（Davide Zisios）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 

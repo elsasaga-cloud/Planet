@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：用户联系人邮箱域 tbi.com.tr 对应 TBI Telemobil Bilgi İletişim Hizmetleri A.Ş.（2005-01-14 注册，Üsküdar/İstanbul，LinkedIn 51–200 人）：电气承包、弱电与自动化、数据中心（自称建成土耳其最大数据中心、Uptime 认证）、环境安防、X 光、港口方案、工业/楼宇自动化、网络方案、Mobese 城市监控、OTVT/OSOS/SCADA。与同名的 telemobil.com.tr（Ltd Şti，2004，中小企业 IT 服务）为不同主体，首轮调研误用后者。ISAF 2025 现场有具体项目：2 光 2 电带 PoE，索价并问交期；用户标注「可重点跟进」。（调研 2026-10-21；表内兴趣：可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期；网站打不开 可重点跟进，有具体项目， 2光2电带PoE, 要求发价格， 现场给客户展示了2光4电带P）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — ISAF 现场看的 2 光 2 电 PoE → STI-222GP 对位；10–15 天能发的替代是 4 PoE + 1 SFP DIN 与 8+2 管理款；—
 - **第一问（只问一个）**：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：按 WA 节奏 WhatsApp WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：仓库无邮件；若「问交期」属实，渠道在 WA。
 - **对方真实需求（有据）**：2 光 2 电工业 PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，—）———
+- **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，—）——ISAF 现场看的 2 光 2 电 PoE → STI-222GP 对位；10–15 天能发的替代是 4 PoE + 1 SFP DIN 与 8+2 管理款
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 

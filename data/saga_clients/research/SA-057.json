@@ -136,13 +136,13 @@
       "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
     },
     "situation": "2 封无互动；南亚价格极敏感。",
-    "need": "—",
+    "need": "千兆 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 贴 MT- 型号",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "—",
+      "p1": "STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM",
       "tier": 30,
       "price": "锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "—",
+      "why": "其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo",
       "repeat": [],
       "gaps": []
     },

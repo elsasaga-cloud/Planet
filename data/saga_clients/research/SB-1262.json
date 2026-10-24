@@ -174,13 +174,13 @@
       "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
     },
     "situation": "仓库无邮件。",
-    "need": "—",
+    "need": "PLANET ISW-504PS 槽位的 4 口 PoE DIN 第二来源",
     "breakpoint": "—",
     "saga_now": {
-      "p1": "—",
+      "p1": "STI-054GP（4 × GE PoE + 1 × GE DIN）",
       "tier": 25,
       "price": "锚价：STI-054GP $32.5（最近实报）（第 72 批 2026-10-24）；—",
-      "why": "—",
+      "why": "其工业以太类目靠 PLANET ISW-504PS（€178.50 净价，4×FE PoE）→ 同槽位千兆第二来源，中性包装 EXW",
       "repeat": [],
       "gaps": []
     },

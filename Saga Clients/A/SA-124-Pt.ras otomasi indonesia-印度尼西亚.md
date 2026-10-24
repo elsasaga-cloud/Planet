@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。（调研 2026-10-21；表内兴趣：工业品  din POE比较多 主要是做项目）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）；最近一次客户回复：2024-10-22：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 自动化/CCTV 盘柜里的 DIN PoE 位 → 8 PoE + 2 SFP 管理 + 4+1 紧凑款，双 DC 输入；—
 - **第一问（只问一个）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
 - **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：仓库无邮件。
 - **对方真实需求（有据）**：STI-288DGGPM 类 DIN PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—）———
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—）——自动化/CCTV 盘柜里的 DIN PoE 位 → 8 PoE + 2 SFP 管理 + 4+1 紧凑款，双 DC 输入
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
 
