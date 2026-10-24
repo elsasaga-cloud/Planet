@@ -35,10 +35,32 @@ updated: 2026-10-24
 - **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。（调研 2026-10-21；表内兴趣：自己的品牌 有人卖他们的 MC SFP AOC等较多）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）；最近一次客户回复：1.16：5个商业24 48口
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：Chimera 已有百兆 PoE MC 与 10G MC，千兆 RJ45→SFP MC（STI-110GE）与 8 口千兆 PoE+2 SFP（STC-28DGGPM）是其「switches」专长下的补位 SKU；贴 Chimera 标 30% 档，批量可降；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0） — J2：功能缺口已闭合是最硬的复活理由；一句话即可；按 20% 分销档（若贴 Chimera 标 → 30%）
+- **第一问（只问一个）**：Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 S 邮箱 → jitendra@（招标）+ nasim@（注入器） 给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-024` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（两次具体询价都止于 Saga 答复之后）** ｜ 类型：英国光模块/配件分销 + 自有品牌 Chimera——第三档分销 + 贴牌；Jitendra（产品）/ Nasim（运营经理） ｜ 筛子：2（2025-01-16 招标规格 24/48 口 PoE+ L2；2025-12-01 60W 注入器测试单） ｜ 停点：① 2025-01 规格缺 Voice VLAN（Simon：3 月才有）→ 无下文；② 2025-12-02 注入器 15 USD/pc 报价后无回音 ｜ 复活：Voice VLAN 已随固件 7.4.0 上线（AC5；7.5 再加 IPv6/PIM-SM）→ 招标项可重答；注入器一句话问测试单 ｜ 通路：UK（UKCA 有） ｜ 节奏：2024-12 → 2026-09 去信 22 封；最后来信 2025-12-01 ｜ 证据：k=188c2faf926a981d / d0cedc0a81dda002 / d825f54e656a802d / 9e11d7829cad23f3 / c006113d9ba7a08c
+- **现状一句话**：Megnet 两次来的都是真需求：2025-01 Jitendra 发来 5 项招标规格（24/48 口 PoE+、2×10G SFP+、802.1q/LACP/IPv6/Voice VLAN/SNMPv3/SSHv2），Simon 答「item 3 没有可开发，其余 4 项缺 Voice VLAN，3 月就绪」，对方没再回；2025-12 Nasim 要 HT2500-PSE-BT60 60W 注入器测试单价，Simon 次日报 15 USD/pc（3–5 天交期），对方没再回。Voice VLAN 现已在 7.4.0 固件里。
+- **对方真实需求（有据）**：招标型 L2 接入 PoE+ 交换机（24/48 口 + 10G 上联，Voice VLAN/SNMPv3/SSHv2/IPv6）；60W PoE++ 单口注入器。
+- **断点 / 为什么停在这里**：第一次是功能缺口（现已补齐，但没人告诉他）；第二次是测试单无下文（15 USD 的东西不值得追，但一句话值）。
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）**（20% 档，按 20% 分销档（若贴 Chimera 标 → 30%））——J2：功能缺口已闭合是最硬的复活理由；一句话即可
+  - 做不了 / 要先核的：7.4/7.5 是否同时满足 SNMPv3 + SSHv2 + IPv6 全项——按 7.5 特性表核一遍再说
+- **下一步（具体）**：2026-11　S 邮箱 → jitendra@（招标）+ nasim@（注入器）　给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单
+  - 第一问（只问一个）：Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-16 | 来 | Jitendra | Item 1 - Level 2 access switch 24 ports Gigabit PoE+… minimum 2 ports UpLink 10Gbps SFP+… 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP | 招标规格 | `188c2faf926a981d` |
+| 2025-01-18 | 去 | Simon | item 3 is not available, but we can develop it. For the other 4 items, Voice Vlan is not available, but its being developed and will be ready on March. | 功能缺口 | `d0cedc0a81dda002` |
+| 2025-12-01 | 来 | Nasim Chaudhari（Operations Manager） | HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer's end, we will proceed with a bulk order. | 第二次需求 | `d825f54e656a802d` |
+| 2025-12-02 | 去 | Simon | 15Usd/pc Metal shell, 1G/2.5G speed, AC100-240V in; POWER+PSE；802.3af/at/BT MAX65W… Production time: 3~5 working days | 报价 | `c006113d9ba7a08c` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Voice VLAN 在 7.4.0 的证据来自 SmartByte 固件说明（`docs/smartbyte/新闻与固件说明_2026-10-20.md`）——是否覆盖 Megnet 要的 24/48 口具体型号，报前核
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -122,26 +122,35 @@
  },
  "email_hook": "On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately.",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "FiberX（Ivan Rivera）2025-01-03 一天内 3 封来信，问题非常具体：**小机身、≥8×SFP+ + 8×GE、DC 48V、机架式（不是 DIN）、什么操作系统**。Simon 给了 4×SFP+ 机型和 1U「4 SFP+ + 16 SFP + 8 combo（DC36–75V）」+ Marvell 手册，对方要了规格书后再无回音；Simon 之后 6 封推送无回应。",
-  "need": "8+ 个 10G SFP+ 与 8 个 GE 的紧凑机架机、DC 48V 供电（运营商/机房场景）、要知道 OS/CLI 风格。",
-  "breakpoint": "Marvell 线最多 4×SFP+，没有满足「≥8 SFP+」的机型；当时没有推 CENTEC 线（Hohunet STH-2C12XF12XE：12×10G SFP+ + 12×10GE，另有 2×100G）——现在供应商资料已完整入库，可以针对性再答一次。",
+  "binding": {
+   "level": "未绑定（询问阶段，但 2026-06 有一次带型号的真实询价）",
+   "type": "波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价",
+   "sieve": "2（指定 STH-2C24XFSFI + DC + MA license）",
+   "stop": "2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书",
+   "revive": "其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给",
+   "lane": "US 属地（PR），关税同美国",
+   "cadence": "2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08",
+   "evidence": "k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2"
+  },
+  "situation": "Ivan 两次都问到点上：2025-01 要 8 SFP+ + 8 GE 的小尺寸 48V 机架机并问 OS；2026-06-05 对 CENTEC 10G 群发回「Support MPLS with H3C?」，Alan 答 MA 许可可做，他 06-08 直接要 STH-2C24XFSFI 的 DC 版 + MA 许可价，Alan 答 SFI 无 DC、HSI 1,250 USD 含 MA。此后 4 封群发无回。",
+  "need": "24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。",
+  "breakpoint": "ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。",
   "saga_now": {
-   "p1": "STH-2C12XF12XE-SFI（CENTEC / Hohunet，标注平台）",
+   "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
    "tier": 25,
-   "price": "价待向 Hohunet 询（价格主表无 CENTEC 条目）；Marvell 备选 STC-4816XGCGM $299.0 @25%（仅 4×SFP+）",
-   "why": "他的硬需求是 ≥8 个 10G 口，只有 CENTEC 线满足；DC 48V 需确认 Hohunet 是否有 DC 电源模块",
+   "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）",
+   "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）",
    "repeat": [],
    "gaps": [
-    "Hohunet 该机型 USD 价与 DC48V 电源选项——发前先问 Hohunet",
-    "OS：CENTEC 机为类 Cisco CLI（Hohunet CLI Manual 已入库 `docs/suppliers/Hohunet/05-Drive资料_2026-10.md`），可直接回答他「What's the OS」"
+    "MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核",
+    "H3C MPLS 互通无实测"
    ]
   },
   "next_move": {
-   "when": "先向 Hohunet 要价（1–2 天），然后发",
-   "channel": "S 邮箱回 2025-01 原线程",
-   "action": "只答他当年的三问：机型（12 SFP+ + 12 GE 1U）、DC48V 可选与否、CLI 风格；附 Hohunet 规格书",
-   "one_question": "Is the 8 x SFP+ + 8 x GE unit still on your roadmap, and is DC 48 V a must or is AC acceptable?"
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → irivera@ + emorillo@",
+   "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
+   "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
   },
   "facts": [
    {
@@ -149,29 +158,44 @@
     "dir": "来",
     "who": "Ivan Rivera",
     "quote": "Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v?",
-    "why": "核心需求",
+    "why": "第一轮需求",
     "k": "55521ad734b4480a"
    },
    {
     "date": "2025-01-03",
     "dir": "来",
-    "who": "Ivan Rivera",
+    "who": "Ivan",
     "quote": "You don't have that one rackmount? Not din rail? What it's the OS?",
-    "why": "形态 + OS 两个附加条件",
+    "why": "形态 + OS",
     "k": "aa33fba00ea6c8ff"
    },
    {
-    "date": "2025-01-03",
+    "date": "2026-06-05",
     "dir": "来",
-    "who": "Ivan Rivera",
-    "quote": "Do you have the datasheet of that last one?",
-    "why": "对 1U 16 SFP 机有兴趣，收到手册后沉默",
-    "k": "313823286f9fae7f"
+    "who": "Ivan",
+    "quote": "Support MPLS with H3C?",
+    "why": "互通问题",
+    "k": "553ba9ad1fef0430"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "来",
+    "who": "Ivan",
+    "quote": "Price for this one STH-2C24XFSFI Needs to be DC And with the MA License.",
+    "why": "指定型号询价",
+    "k": "894de4474cf06741"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules.",
+    "why": "报价",
+    "k": "5d26574728e757e2"
    }
   ],
-  "proof_gaps": [
-   "A 邮箱是否跟过 FiberX"
-  ],
-  "draft_en": null
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

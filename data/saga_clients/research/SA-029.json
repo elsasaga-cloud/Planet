@@ -148,5 +148,55 @@
   "tier": 30,
   "why": "ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈"
  },
- "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful."
+ "email_hook": "Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」）",
+   "type": "德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等）",
+   "sieve": "1",
+   "stop": "2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足",
+   "revive": "其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6）",
+   "lane": "DE（主攻区）",
+   "cadence": "2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北）",
+   "evidence": "k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348"
+  },
+  "situation": "ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。",
+  "need": "自有品牌 ALLNET 工业/商用交换机货源——目前已满足。",
+  "breakpoint": "对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。",
+  "saga_now": {
+   "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
+   "tier": 30,
+   "price": "按 30% 自有标档",
+   "why": "保活不推销",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
+   "channel": "S 邮箱 → zerwes@allnet.de",
+   "action": "一句话问其工业线最难采购的 SKU",
+   "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-04",
+    "dir": "来",
+    "who": "Gerhard Zerwes（自动回复）",
+    "quote": "business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan \"Computex\"",
+    "why": "每年亚洲行",
+    "k": "3bed67df76fec9ba"
+   },
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "Gerhard Zerwes",
+    "quote": "sorry we have our solution with SFP Slots and Managed Versions.",
+    "why": "停点原话",
+    "k": "27176790332e9c58"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

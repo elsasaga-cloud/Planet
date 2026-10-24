@@ -117,5 +117,82 @@
   "tier": 25,
   "why": "布线承包商摄像/门禁/AP 项目：STC-424DGGPM-280W 主推；Wi-Fi 6E/7 与 multi-gig 布线对应 STC-424XGGPM-280W（2.5G 下行需核）；8 口位 STC-28DGGPM；集成商 25% 档"
  },
- "email_hook": "For the camera, access-control and Wi-Fi 6E/7 drops you cable in San Antonio and Austin, the Marvell-based 24-port PoE+ managed switch at EXW cost is the one I am quoting, with the 10G-uplink version for the multi-gig jobs."
+ "email_hook": "For the camera, access-control and Wi-Fi 6E/7 drops you cable in San Antonio and Austin, the Marvell-based 24-port PoE+ managed switch at EXW cost is the one I am quoting, with the 10G-uplink version for the multi-gig jobs.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（询问阶段 3 轮：10G MC 价表、8 口 10G 管理型、24 口 SFP 价格）",
+   "type": "美国得州布线承包商/小集成商（1–10 人）；Nate Cline——第四档小项目集成商",
+   "sieve": "2",
+   "stop": "产品缺口：2025-04 要「8 口 10G 电 + 2/4×10G SFP 管理型」，Alan 答需量产开发；2025-09-27 STC-4168XGGCM 280 USD 报价后无回音",
+   "revive": "仓库里有 8×10G 电口非管理款 STC-08XGE（HRUI/Realtek 线，Saga 对外价 $181.5 USD EXW）；SmartByte 白牌 LT-S8532XS-8XS24GT（24GE + 8×10G SFP+）——若他的项目只要 10G 接入，可一次报清",
+   "lane": "US",
+   "cadence": "2024-08 → 2026-09 去信 21 封；最后来信 2025-09-26",
+   "evidence": "k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11"
+  },
+  "situation": "Nate 三次主动：2024-08 要 10G MC 价表并问大单折扣；2025-04「I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP」（Alan：现无，可开发但要量）；2025-09「How much do they cost?」→ 280 USD STC-4168XGGCM → 无回。他要的 8×10GBASE-T 其实在 HRUI 线有非管理款。",
+  "need": "8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。",
+  "breakpoint": "群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。",
+  "saga_now": {
+   "p1": "STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）",
+   "tier": 25,
+   "price": "$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）",
+   "why": "U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有",
+   "repeat": [],
+   "gaps": [
+    "Nate 要不要「管理」——一句话问",
+    "Realtek 线对美国小集成商是否开"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → nate.cline@",
+   "action": "一句话：8×10GBASE-T 非管理 $181.5 EXW 是否解决；要管理则 24GE+8×10G SFP+ 白牌",
+   "one_question": "For your San Antonio projects, would an unmanaged 8×10GBASE-T unit (US$181.5 EXW) solve the 10G need, or must it be managed with SFP+ uplinks?"
+  },
+  "facts": [
+   {
+    "date": "2024-08-24",
+    "dir": "来",
+    "who": "Nate Cline",
+    "quote": "Can you send me a price list and I want to ask if I can buy from you in Large Order and would you provide a discount on Large Orders?",
+    "why": "第一轮",
+    "k": "6350a98e7dcd08eb"
+   },
+   {
+    "date": "2025-04-04",
+    "dir": "来",
+    "who": "Nate",
+    "quote": "I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP.",
+    "why": "精确需求",
+    "k": "380c4a1eabea9946"
+   },
+   {
+    "date": "2025-04-08",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "it is not available on our list now… OK to do 4*10G+8*10G Ethernet But this requires a decent quantity to develop",
+    "why": "缺口答复",
+    "k": "765a46afe5b24ace"
+   },
+   {
+    "date": "2025-09-26",
+    "dir": "来",
+    "who": "Nate",
+    "quote": "How much do they cost?",
+    "why": "第三轮",
+    "k": "1a6a105db1142c5f"
+   },
+   {
+    "date": "2025-09-27",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "280usd/pc. STC-4168XGGCM 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo",
+    "why": "报价后无回",
+    "k": "75205f906d867c11"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,29 +35,31 @@ updated: 2026-10-24
 - **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。（调研 2026-10-21；表内兴趣：工业FS 用的OTS的）
 - **为什么是 A 级**：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-10-22：想测样
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STI-154GP — 他点名要测的就是这款；系统集成商 → 25% 档；用一台样机换项目信息；$39.2 USD EXW（CNY 210 ×1.25 ÷6.69；Saga 列表 $51.7）；可直接按 2024 年报的 $36 做样机价并声明抵首单
-- **第一问（只问一个）**：Is the test unit for a specific camera project (how many PoE ports in total), or for your standard product list?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报 — 一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加；按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`
+- **第一问（只问一个）**：Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?
 - **最大未知**：年走量与现供应商
-- **下一步**：本周 S 邮箱回 inam@alrajhitel.com（不要发 info@ekhalas.com） 重发样机方案：1 台 STI-154GP 样机 $36 + DHL，样机款抵首单；附 2026 规格书
+- **下一步**：2026-11（一次） A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com） 一句话问 2024 的样品需求是否仍在、口数是否变了
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-073` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-073` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **现状一句话**：利雅得 Al Rajhi Telecom（数据中心部经理 Inam Ahmed）。ekhalas.com 地址全是自动回复；真人回复只有一封：2024-10-22 对 STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，看门狗）说「**Please send me a sample to test**」。Simon 当天回「NOT free samples, 36usd/pc … let me know if you are ready to order」，之后对方没再回；Simon 11-15、12-12、2025-01-03 又推了三款，无回应。
-- **对方真实需求（有据）**：户外/园区 IP 摄像机供电用的小型工业 PoE（4 口 + 光纤上联、看门狗、250 m PoE），先要一台测试。
-- **断点 / 为什么停在这里**：样机政策说得太硬（「NOT free samples… ready to order」），没有给「样机款抵首单」的台阶，也没问项目规模；沙特大型集成商测一台 $36 的机器本来是最低门槛的机会。
-- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，$39.2 USD EXW（CNY 210 ×1.25 ÷6.69；Saga 列表 $51.7）；可直接按 2024 年报的 $36 做样机价并声明抵首单）——他点名要测的就是这款；系统集成商 → 25% 档；用一台样机换项目信息
-  - 做不了 / 要先核的：沙特 SASO/认证要求：先不提，等他问；收款：样机可 PayPal（+5%）
-- **下一步（具体）**：本周　S 邮箱回 inam@alrajhitel.com（不要发 info@ekhalas.com）　重发样机方案：1 台 STI-154GP 样机 $36 + DHL，样机款抵首单；附 2026 规格书
-  - 第一问（只问一个）：Is the test unit for a specific camera project (how many PoE ports in total), or for your standard product list?
+- **绑定等级：未绑定（唯一一次人工来信 = 要样品，止于付样规则）** ｜ 类型：沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager） ｜ 筛子：2（主动要样）→ 付样门槛停 ｜ 停点：2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@ ｜ 复活：中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品 ｜ 通路：SA：PayPal/T/T 可 ｜ 节奏：2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22） ｜ 证据：k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7
+- **现状一句话**：利雅得 Al Rajhi Telecom 的数据中心部经理 Inam 在 2024-10-22 回「送个样品测试」，Simon 按规则答「不免费，36 USD/台 STI-154GP」，对方静默。之后两年 Saga 的 21 封群发全部寄到 ekhalas 电商平台的 info@，收回 10 封「Thank you for contacting us」机器人信，研究档里的「1 次实质回复」就是那次要样。
+- **对方真实需求（有据）**：4 口工业 PoE（当时）；其平台在售 Vivotek PoE / TP-Link Omada / 华为 eKit / Dahua。
+- **断点 / 为什么停在这里**：付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。
+- **Saga 现在该推什么**：P1 **STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报**（25% 档，按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`）——一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加
+  - 做不了 / 要先核的：36 USD 的 STI-154GP 当年属于哪条线（Marvell 非管理？）——核 `价格主表` 后再报；用户表「工业 FS 在用 OTS」出处（邮件无）
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）　一句话问 2024 的样品需求是否仍在、口数是否变了
+  - 第一问（只问一个）：Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024-10-22 | 来 | Inam Ahmed, Data Center Division Manager | Please send me a sample to test | 唯一真人回复，明确样机请求 | `2291cc97643c8854` |
-| 2024-10-22 | 去 | Simon → Inam | It is NOT free samples. 36usd/pc STI-154GP … let me know if you are ready to order. | 断点：台阶给得太硬 | `775f9ed585dd20d5` |
+| 2024-10-22 | 来 | Inam Ahmed（Data Center Division Manager） | Please send me a sample to test | 唯一人工来信 | `2291cc97643c8854` |
+| 2024-10-22 | 去 | Simon | It is NOT free samples. 36usd/pc STI-154GP… Please let me know if you are ready to order. | 付样规则生效 | `775f9ed585dd20d5` |
+| 2026-09-22 | 来 | info@ekhalas.com（机器人） | Thank you for reaching out to us regarding your query… | 第 10 封机器人回复——两年群发都寄错了收件人 | `3b9a30d69e46d2e7` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 / 微信是否另有联系
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -303,25 +305,25 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-154GP test unit - sample cost credited to your first order
+**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Inam,
 
-You asked for a test unit of the STI-154GP (1 x SFP + 1 x Gigabit uplink, 4 x Gigabit PoE+, 120 W, PoE watchdog, 250 m PoE mode) and I answered too briefly at the time. To put it properly:
+Picking up our earlier exchange about PoE / industrial switches. With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.
 
-- One sample unit at USD 36 EXW plus DHL (about 5 days to Riyadh); the sample cost is credited to your first order.
-- Updated datasheet attached; CE / RoHS / FCC / REACH available on request.
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your Vivotek / TP-Link Omada / Huawei eKit（在售） 商用 PoE 交换机 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: is the test unit for a specific camera project (roughly how many PoE ports in total), or for your standard product list?
+One question: Which switch model are you buying most often right now, and roughly how many units a month?
+
+If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
-Simon
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
 
-> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 
 ## 新跟进记录（仓库外发出后补）
 

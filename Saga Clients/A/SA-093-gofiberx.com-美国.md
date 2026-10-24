@@ -35,30 +35,31 @@ updated: 2026-10-24
 - **是谁**：波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。（调研 2026-10-21；表内兴趣：bypass 2光10电的帖子下问价格）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-03 → 2025-10-28）；最近一次客户回复：2025-01-02：price info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STH-2C12XF12XE-SFI（CENTEC / Hohunet，标注平台） — 他的硬需求是 ≥8 个 10G 口，只有 CENTEC 线满足；DC 48V 需确认 Hohunet 是否有 DC 电源模块；价待向 Hohunet 询（价格主表无 CENTEC 条目）；Marvell 备选 STC-4816XGCGM $299.0 @25%（仅 4×SFP+）
-- **第一问（只问一个）**：Is the 8 x SFP+ + 8 x GE unit still on your roadmap, and is DC 48 V a must or is AC acceptable?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价） — J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）；1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）
+- **第一问（只问一个）**：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
 - **最大未知**：年走量与现供应商
-- **下一步**：先向 Hohunet 要价（1–2 天），然后发 S 邮箱回 2025-01 原线程 只答他当年的三问：机型（12 SFP+ + 12 GE 1U）、DC48V 可选与否、CLI 风格；附 Hohunet 规格书
+- **下一步**：2026-11（一次） A 邮箱 → irivera@ + emorillo@ 一句话问 6 月报价是否进了项目、测试窗口是否还在
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **现状一句话**：FiberX（Ivan Rivera）2025-01-03 一天内 3 封来信，问题非常具体：**小机身、≥8×SFP+ + 8×GE、DC 48V、机架式（不是 DIN）、什么操作系统**。Simon 给了 4×SFP+ 机型和 1U「4 SFP+ + 16 SFP + 8 combo（DC36–75V）」+ Marvell 手册，对方要了规格书后再无回音；Simon 之后 6 封推送无回应。
-- **对方真实需求（有据）**：8+ 个 10G SFP+ 与 8 个 GE 的紧凑机架机、DC 48V 供电（运营商/机房场景）、要知道 OS/CLI 风格。
-- **断点 / 为什么停在这里**：Marvell 线最多 4×SFP+，没有满足「≥8 SFP+」的机型；当时没有推 CENTEC 线（Hohunet STH-2C12XF12XE：12×10G SFP+ + 12×10GE，另有 2×100G）——现在供应商资料已完整入库，可以针对性再答一次。
-- **Saga 现在该推什么**：P1 **STH-2C12XF12XE-SFI（CENTEC / Hohunet，标注平台）**（25% 档，价待向 Hohunet 询（价格主表无 CENTEC 条目）；Marvell 备选 STC-4816XGCGM $299.0 @25%（仅 4×SFP+））——他的硬需求是 ≥8 个 10G 口，只有 CENTEC 线满足；DC 48V 需确认 Hohunet 是否有 DC 电源模块
-  - 做不了 / 要先核的：Hohunet 该机型 USD 价与 DC48V 电源选项——发前先问 Hohunet；OS：CENTEC 机为类 Cisco CLI（Hohunet CLI Manual 已入库 `docs/suppliers/Hohunet/05-Drive资料_2026-10.md`），可直接回答他「What's the OS」
-- **下一步（具体）**：先向 Hohunet 要价（1–2 天），然后发　S 邮箱回 2025-01 原线程　只答他当年的三问：机型（12 SFP+ + 12 GE 1U）、DC48V 可选与否、CLI 风格；附 Hohunet 规格书
-  - 第一问（只问一个）：Is the 8 x SFP+ + 8 x GE unit still on your roadmap, and is DC 48 V a must or is AC acceptable?
+- **绑定等级：未绑定（询问阶段，但 2026-06 有一次带型号的真实询价）** ｜ 类型：波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价 ｜ 筛子：2（指定 STH-2C24XFSFI + DC + MA license） ｜ 停点：2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书 ｜ 复活：其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给 ｜ 通路：US 属地（PR），关税同美国 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08 ｜ 证据：k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2
+- **现状一句话**：Ivan 两次都问到点上：2025-01 要 8 SFP+ + 8 GE 的小尺寸 48V 机架机并问 OS；2026-06-05 对 CENTEC 10G 群发回「Support MPLS with H3C?」，Alan 答 MA 许可可做，他 06-08 直接要 STH-2C24XFSFI 的 DC 版 + MA 许可价，Alan 答 SFI 无 DC、HSI 1,250 USD 含 MA。此后 4 封群发无回。
+- **对方真实需求（有据）**：24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。
+- **断点 / 为什么停在这里**：ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。
+- **Saga 现在该推什么**：P1 **STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）**（25% 档，1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线））——J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）
+  - 做不了 / 要先核的：MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核；H3C MPLS 互通无实测
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → irivera@ + emorillo@　一句话问 6 月报价是否进了项目、测试窗口是否还在
+  - 第一问（只问一个）：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-01-03 | 来 | Ivan Rivera | Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? | 核心需求 | `55521ad734b4480a` |
-| 2025-01-03 | 来 | Ivan Rivera | You don't have that one rackmount? Not din rail? What it's the OS? | 形态 + OS 两个附加条件 | `aa33fba00ea6c8ff` |
-| 2025-01-03 | 来 | Ivan Rivera | Do you have the datasheet of that last one? | 对 1U 16 SFP 机有兴趣，收到手册后沉默 | `313823286f9fae7f` |
-
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱是否跟过 FiberX
+| 2025-01-03 | 来 | Ivan Rivera | Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? | 第一轮需求 | `55521ad734b4480a` |
+| 2025-01-03 | 来 | Ivan | You don't have that one rackmount? Not din rail? What it's the OS? | 形态 + OS | `aa33fba00ea6c8ff` |
+| 2026-06-05 | 来 | Ivan | Support MPLS with H3C? | 互通问题 | `553ba9ad1fef0430` |
+| 2026-06-08 | 来 | Ivan | Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. | 指定型号询价 | `894de4474cf06741` |
+| 2026-06-08 | 去 | Alan | SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules. | 报价 | `5d26574728e757e2` |
 
 ## 基本事实（事实/推断/假设分层）
 

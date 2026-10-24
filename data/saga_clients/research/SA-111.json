@@ -159,5 +159,67 @@
   "tier": 30,
   "why": "已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。"
  },
- "email_hook": "Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?"
+ "email_hook": "Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（0 次人工回复；15 封来信 = 14 封工单机器人 + 1 封 Regal 给 Saga 的报价单）",
+   "type": "南非大型多品牌安防分销（201–500 人，29 分支）——体量 ≫ Saga；目标序列第三档",
+   "sieve": "0",
+   "stop": "触达层错位：群发进了 nsc.support 工单队列（每封生成一个 RS 工单号），2024-10 对方甚至把 Saga 当买家发来报价单；IT 总监 Jacques du Plessis 2025-10 起 A 邮箱 10+ 封零回复",
+   "revive": "只有其自有标 Securi-Prod 的产品经理主动找 OEM 货源；否则不投入（ZA 非主攻）",
+   "lane": "ZA（非主攻区）",
+   "cadence": "2023-11 → 2026-10 共 23 封去信；建议停发 nsc.support，Jacques 每季 1 封",
+   "evidence": "k=de1495c39c4e07ba / f41d4564c84c5f93 / 54e2f9d2852f5f15 / c343cd55d5c20ee8"
+  },
+  "situation": "Regal 是南非最大的安防分销商之一，但 Saga 两年多的 23 封去信没有触达任何决策人：S 邮箱时期全部进入 nsc.support 的工单系统（14 个自动工单），2024-10-17 销售支持甚至回了一份 Regal 自己的报价单（K8 Quotation-25992001.pdf）——把 Saga 的「8 Port Industrial PoE Switch」当成了采购询价；A 邮箱 2025-10 起直发 IT 总监 Jacques du Plessis（170 USD 24 口 PoE 等）零回复。研究档「2025-10 已给报价」= Saga 单向报价，不是互动。",
+  "need": "无可证需求；在售 PLANET GS-4210-8P2S / Genata / TP-Link / UTEPO，自有标 Securi-Prod / Sola-Prod。",
+  "breakpoint": "错把「有回信」当「有互动」——回信全是机器人。大型分销商的 OEM 决策在产品经理，不在 IT 总监或工单台。",
+  "saga_now": {
+   "p1": "暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位",
+   "tier": 20,
+   "price": "按 20% 分销档",
+   "why": "ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活",
+   "repeat": [],
+   "gaps": [
+    "Securi-Prod 产品经理是谁（LinkedIn 可查，未做）"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1（之前不发）",
+   "channel": "A 邮箱 → Jacques",
+   "action": "一句话问自有标部门归口；停止向 nsc.support 发任何群发",
+   "one_question": "Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?"
+  },
+  "facts": [
+   {
+    "date": "2023-11-21",
+    "dir": "来",
+    "who": "nsc.support（机器人）",
+    "quote": "We have received your request… Support Ticket Reference [#RS26837]",
+    "why": "第 1 个工单（共 14 个）",
+    "k": "de1495c39c4e07ba"
+   },
+   {
+    "date": "2024-10-17",
+    "dir": "来",
+    "who": "Josephine Davis（Sales Support）",
+    "quote": "Morning Simon Please find the Attached Quote（K8 document Quotation-25992001.pdf）",
+    "why": "Regal 反向给 Saga 报价——证明 Saga 邮件被当成采购",
+    "k": "f41d4564c84c5f93"
+   },
+   {
+    "date": "2026-08-07",
+    "dir": "去",
+    "who": "Alan → Jacques du Plessis",
+    "quote": "24 Port PoE Managed Switch… Price: 170USD/PC",
+    "why": "A 邮箱直发 IT 总监，无回",
+    "k": "54e2f9d2852f5f15"
+   }
+  ],
+  "proof_gaps": [
+   "Regal 报价单 PDF 未入库（附件未存），不知其报的产品与价格——若能找回，是 ZA 市场 8 口工业 PoE 的竞品价格情报"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

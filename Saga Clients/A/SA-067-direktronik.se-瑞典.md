@@ -35,10 +35,31 @@ updated: 2026-10-24
 - **是谁**：斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。（调研 2026-10-21；表内兴趣：MC 工业FS VC SDI SFP  周边产品 和E-link深度合作）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-11 → 2025-11-11）；最近一次客户回复：2025-11-11：认证INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件 — J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着；按 20% 分销档
+- **第一问（只问一个）**：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单） 附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-067` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（合规台账层接触，无销售对话）** ｜ 类型：瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作 ｜ 筛子：1（info@ 合规函） ｜ 停点：2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信 ｜ 复活：给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发） ｜ 通路：SE/EU（CE/UKCA/RoHS/REACH 有） ｜ 节奏：2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11 ｜ 证据：k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10
+- **现状一句话**：Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。
+- **对方真实需求（有据）**：合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。
+- **断点 / 为什么停在这里**：合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件**（20% 档，按 20% 分销档）——J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着
+  - 做不了 / 要先核的：CE DoC（EMC/LVD）文件是否在仓库可外发——Alan 2025-11-12「see attached info」附件未入库；EU CRA（2027-12 起）对交换机的要求——SmartByte 侧有无计划
+- **下一步（具体）**：2026-11　A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）　附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
+  - 第一问（只问一个）：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-19 | 来 | info@direktronik.se（客服） | The responsible salesperson, Mats, will be back to you shortly. | 指定负责人 Mats（从未回） | `195f51b6b5903da9` |
+| 2025-11-11 | 来 | info@direktronik.se（合规） | we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable) | 合规清单 = 停点 | `cda0898220404dd0` |
+| 2025-11-12 | 去 | Alan | We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know. | Saga 答复 | `a72460754524b4c8` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句
 
 ## 基本事实（事实/推断/假设分层）
 

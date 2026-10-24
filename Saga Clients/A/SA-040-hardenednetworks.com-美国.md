@@ -35,31 +35,32 @@ updated: 2026-10-24
 - **是谁**：美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。（调研 2026-10-21；表内兴趣：工业FS 工业MC Bypass  自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；推送 10 次（2024-05-07 → 2025-03-03）；最近一次客户回复：2025-03-03：只用博通方案
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STC-4816XGCGM — 他最接近的可做需求是 2025-01-27 看中的「12 光 24 电」= STC-4816XGCGM（4×10G SFP+ + 16 电 + 8 combo，L3，可工业级/双电源）；若博通是硬条件则无解，不投入；$299.0 USD EXW（CNY 1600 ×1.25 ÷6.69）——仅作「非博通但全三层」备选
-- **第一问（只问一个）**：Is Broadcom written into your end-customers' specs, or would a Marvell Prestera based full-L3 switch (same silicon class as Moxa/Siemens industrial lines) be acceptable for evaluation?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报 — C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」；CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者
+- **第一问（只问一个）**：Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?
 - **最大未知**：年走量与现供应商
-- **下一步**：低优先：季度一次 S 邮箱 不再发产品图；只问一句芯片是否硬性要求，若是则归档为「博通专属需求」
+- **下一步**：2026-11（一次） A 邮箱 → mark@expresssupply.net 一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **现状一句话**：佛罗里达 Express Supply / Hardened Networks（Mark Schulting，ITS/交通与 Juniper 渠道）。2024-05 → 2025-02 六次来信都是**明确规格 + 批量意向**：「32 port full layer 3 1U, 8 fiber 24 copper with a QSFP+ uplink」「all 10 gig fiber 1g/2.5g/10g, interested in buying in bulk」——但最后卡在芯片：2025-02-05「I need a broadcom chipset」。Simon 02-10 转报了两款博通整机（$1,000 / $4,000）后再无回音。
-- **对方真实需求（有据）**：全三层、1U、全 10G 光口（或 8 光 24 电 + QSFP+ 上联）、**Broadcom 芯片为硬条件**（其终端是 DOT/ITS 项目，规格写死芯片平台）。
-- **断点 / 为什么停在这里**：Saga 三条线（Marvell / CENTEC / Realtek）都不是 Broadcom；Simon 临时找的博通整机没有后续（无规格书、无样机）。这是**产品线不匹配**而不是跟进不力。
-- **Saga 现在该推什么**：P1 **STC-4816XGCGM**（25% 档，$299.0 USD EXW（CNY 1600 ×1.25 ÷6.69）——仅作「非博通但全三层」备选）——他最接近的可做需求是 2025-01-27 看中的「12 光 24 电」= STC-4816XGCGM（4×10G SFP+ + 16 电 + 8 combo，L3，可工业级/双电源）；若博通是硬条件则无解，不投入
-  - 做不了 / 要先核的：Broadcom 平台 Saga 不做（已明说）；只有在他接受 Marvell Prestera（同为 Moxa/Siemens 级）时才有戏；全 10G 24/48 口光口：Saga 只有 CENTEC（Hohunet STH-2C24XF / STH-2C12XF12XE），Simon 2025-01-28 已推过并说明国产芯片
-- **下一步（具体）**：低优先：季度一次　S 邮箱　不再发产品图；只问一句芯片是否硬性要求，若是则归档为「博通专属需求」
-  - 第一问（只问一个）：Is Broadcom written into your end-customers' specs, or would a Marvell Prestera based full-L3 switch (same silicon class as Moxa/Siemens industrial lines) be acceptable for evaluation?
+- **绑定等级：未绑定（边界户：芯片线）** ｜ 类型：美国 ITS 自有品牌加固交换机（HN 系列）+ Juniper/Fortinet 代理；Mark Schulting——第一档 OEM 类型 ｜ 筛子：2（给过精确规格：32 口全 L3 1U 8 光 24 电 + QSFP+；「all 10 gig fiber… buying in bulk」） ｜ 停点：Broadcom 芯片硬要求（2025-02-05 / 03-03 / 04-28 三次「I need a broadcom chipset」）；Saga 线 = Marvell / CENTEC / Realtek；Simon 2025-02-10 转报两款 Broadcom 全光（1,000 / 4,000 USD）无回音；Alan 2025-04-28「we focus on Marvell… Broadcom is for high-end market only」 ｜ 复活：只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源 ｜ 通路：US ｜ 节奏：2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28 ｜ 证据：k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3
+- **现状一句话**：Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。
+- **对方真实需求（有据）**：全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。
+- **断点 / 为什么停在这里**：芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。
+- **Saga 现在该推什么**：P1 **CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报**（30% 档，CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者）——C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」
+  - 做不了 / 要先核的：2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → mark@expresssupply.net　一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC
+  - 第一问（只问一个）：Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024-05-09 | 来 | Mark Schulting | I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink | 首个具体规格 | `d0066f467b2afcd7` |
-| 2025-01-26 | 来 | Mark Schulting | we are looking for another vendor to supply us some full layer 3 switches | 在换供应商窗口期 | `e17a1b0f28d7f22f` |
-| 2025-01-28 | 来 | Mark Schulting | Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk | 批量意向 | `185a3765640a0e3f` |
-| 2025-02-05 | 来 | Mark Schulting | I need a broadcom chipset | 硬门槛 → Saga 无对应 | `5f00be3e081f8769` |
-
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱是否接触过 Express Supply
+| 2024-05-09 | 来 | Mark Schulting | I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink | 首个精确需求 | `d0066f467b2afcd7` |
+| 2025-01-28 | 来 | Mark | Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk | 批量意向 | `185a3765640a0e3f` |
+| 2025-02-05 | 来 | Mark | I need a broadcom chipset | 边界出现 | `5f00be3e081f8769` |
+| 2025-02-10 | 去 | Simon | I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G | 破例找货（来源未入库） | `eb80eea25e1a3bb5` |
+| 2025-04-28 | 来 | Mark | Do you have broadcom based solution? | 第三次 | `898769c94b9fc197` |
+| 2025-04-28 | 去 | Alan | Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small... | 口径收回 | `e8d9d485eebf828f` |
 
 ## 基本事实（事实/推断/假设分层）
 

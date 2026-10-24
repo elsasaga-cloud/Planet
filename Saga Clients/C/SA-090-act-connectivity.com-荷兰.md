@@ -38,7 +38,22 @@ updated: 2026-10-24
 - **历史互动**：实质回复 1 次；推送 21 次（2024-06-03 → 2025-10-07）；最近一次客户回复：2024-09-24：右边2个邮箱不会有回复的
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动；最多每半年 1 封到 purchase@intronics.nl A 邮箱 —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-090` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（0 人工回复；3 封机器人要求改发 purchase@intronics.nl）** ｜ 类型：荷兰 TKH 集团线缆品牌 / 增值分销（51–200 人）——Simon 口径「不主动投入，体量过大」 ｜ 筛子：0 ｜ 停点：渠道墙：「We do not give any personal mail addresses and we will not respond on chat requests… send to purchase@intronics.nl」 ｜ 复活：对方主动 ｜ 通路：NL/EU ｜ 节奏：2024-07 → 2026-09 去信 34 封（2026 起加发 s.parrilla@）；建议降为每半年 1 封到 purchase@intronics.nl ｜ 证据：k=ebeaec229356a6b6 / 7c60325f260e19b9 / f9743de7207b8d51 / 33f56a27fffb417a
+- **现状一句话**：ACT/Intronics 三次用同一段模板回：请发 purchase@intronics.nl，不给个人邮箱。之后 Saga 继续向 info@/sales@/个人（s.parrilla@）发了 30 多封群发，无任何人工回复。
+- **对方真实需求（有据）**：以无源为主，少量 switch/MC（用户记录）。
+- **断点 / 为什么停在这里**：对方流程明确，Saga 没有按流程走（purchase@）。按 Simon 口径不投入。
+- **Saga 现在该推什么**：P1 **无**（20% 档，—）——Simon 口径
+- **下一步（具体）**：不动；最多每半年 1 封到 purchase@intronics.nl　A 邮箱　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-01 | 来 | ACT Connectivity Team（模板） | send the information to purchase@intronics.nl… We do not give any personal mail addresses and we will not respond on chat requests. | 渠道墙原话 | `ebeaec229356a6b6` |
 
 ## 基本事实（事实/推断/假设分层）
 

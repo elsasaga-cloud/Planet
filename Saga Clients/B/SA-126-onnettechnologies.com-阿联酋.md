@@ -36,10 +36,33 @@ updated: 2026-10-24
 - **是谁**：阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。（调研 2026-10-21；表内兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作）
 - **为什么是 B 级**：**调研后定级 B**（纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-04-25 → 2025-04-25）；最近一次客户回复：2025-04-25：用常见的几个型号
-- **P1（下一步唯一主推）**：STI-288DGGPM-2BT — 深挖对位：OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$157.8/164.4/171.0）贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。；$171.0 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议；按 30% OEM 档；预期被砍价
+- **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：按 Simon 口径不动 A 邮箱 若动：只答 08-10 六个配置中的 2–3 个有现货对位的
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-126` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（Simon 口径「只在有尾货/促销时触达，不做长期投入」）——但对方两次给出完整配置清单并索要规格价，均未获针对性答复** ｜ 类型：阿联酋无线/PoE 设备制造商（自称对华采购 18 年、交换机只 OEM 买、用 Qualcomm/Vitesse/Marvell）——第一档类型，用户表「老说价格高」 ｜ 筛子：2（2025-04-25 与 2026-07-15 / 08-10 两轮详细需求） ｜ 停点：Saga 侧未答：2025-04-25 Alan 回「Thanks for your information.」→ 对方动怒「stop judging others… We are not kids nor fools」；2026-07-15 要 4/8/16 口工业机（L2/L3、30W、BT、Booster）规格价、08-10 列 6 个配置「If u have options let me know」→ 只收到群发 ｜ 复活：Simon 改口径；若改，一张 STI 系列表（4/8/16 口 + Booster）一次答清 ｜ 通路：AE 非主攻 ｜ 节奏：2025-03 → 2026-09 去信 7 封；来信 5 封（全部实质） ｜ 证据：k=0d67c0a9ab801250 / 6168ab4df565d1b8 / b1ea294adc9a9165 / 769e74a29e076ac4 / 56266bb7e86273fa
+- **现状一句话**：Saurabh 是 A 邮箱里少见的「来信比去信实在」的客户：2025-04 列出在用 4 款（4G BT+2SFP 管理、8G AT+2SFP 管理、8G+4SFP 管理、4G+1GE+2SFP 非管理，带 PoE 自动重启、250 m），2026-07/08 又列 6 个配置要规格价。Saga 两次都没有对位答复。Simon 对其定性「老说价格高、了解中国市场价」，决定不投入——与证据一致的是他确实只买 OEM、比价成熟；不一致的是他要的恰好是 Saga 工业线的标准品。
+- **对方真实需求（有据）**：4/8/16 口工业 PoE（30W / BT），2×SFP 上联，管理 + 非管理，PoE watchdog + 250 m DIP，Booster（10–30V 入 PoE 出）。
+- **断点 / 为什么停在这里**：不是对方没需求，是 Saga 选择不投入（战略取舍）。记录在案，不改 Simon 口径。
+- **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价）——Simon 口径优先；证据只用于将来复议
+  - 做不了 / 要先核的：Simon 是否维持「不投入」——不问，按现口径
+- **下一步（具体）**：按 Simon 口径不动　A 邮箱　若动：只答 08-10 六个配置中的 2–3 个有现货对位的
+  - 第一问（只问一个）：Which of your six configurations is this year's volume SKU, so we quote that one first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-25 | 来 | Saurabh | Currently we use 4 Models… 4G PoE Ethernet (BT-60W)+2 SFP managed… With AI (auto restart POE), 10 mbps @ 250 m… Let me know your options / cost / website | 第一轮配置清单 | `0d67c0a9ab801250` |
+| 2025-04-25 | 去 | Alan | Thanks for your information. | 未对位答复 | `6168ab4df565d1b8` |
+| 2025-04-25 | 来 | Saurabh | Lets not jump on assumptions… We only work with QUALCOMM / Vitesse / Marvel… Only switch we buy OEM… stop judging others and share your honest Details / specs and prices | 对方反应 | `b1ea294adc9a9165` |
+| 2026-07-15 | 来 | Saurabh | Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and l3 2. 30W PoE 3. BT PoE 4. With booster PoE (10-48 V in and POE 30 W out) | 第二轮需求 | `769e74a29e076ac4` |
+| 2026-08-10 | 来 | Saurabh | We only use below configurations 1. 4 POE +2 Uplink with Booster… 6. Web Managed 16 G POE+ (30 W) + 2 SFP uplink Industrial grade and normal If u have options let me know | 六个配置 | `56266bb7e86273fa` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：2025-04-25 Alan 第一封回复的完整内容（dump 只见「Thanks for your information.」），对方为何动怒不能确认
 
 ## 基本事实（事实/推断/假设分层）
 

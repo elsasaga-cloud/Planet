@@ -120,92 +120,108 @@
  },
  "email_hook": "Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready.",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "圣彼得堡 TH Faraday Electronics（自有 FARADAY 牌 DIN 电源 + 工业交换机，走俄罗斯安防/自动化分销）。执行董事 Alexander Rudnev 2023-12 → 2025-01 共 16 封实质来信，需求从头到尾只有一条：**DIN 导轨 8 口千兆 PoE（30W+/口）L3 管理 + PoE 看门狗 + SFP/RJ45 上联，1G 够用**；两次被价格顶回（L2 管理 $135「price is really high. We have a supplier with much better prices」；Marvell L3 $350「350USD?」），现供应商用 Realtek。2025-01-03 最后一句「your prices are too high」，此后 Simon 只有群发，无回应。",
-  "need": "8×GE PoE（≥30W/口）+ 上联 SFP/RJ45、DIN 导轨、管理型（他说 L3，实际用途 CCTV/自动化，L2+ 静态路由大概率够）、PoE 看门狗；价格要贴近 Realtek 方案；要 EXW 人民币价（2024-12-12「Send full datasheet, pls. And EXW price in RMB」）→ 走货代人民币结算。",
-  "breakpoint": "Simon 2024 年只报了 6 系列（Marvell）：STI-288DGGPM 级 $135 和 L3 $350，对方要的是「可靠、够用、价格合理」而不是高端；**Saga 价格主表里其实有 3 系列 STI-288GPM（8 PoE + 2 SFP，管理型，CNY 440）**，当时没推。另：他 2024-05-21 说 10 月想来看厂（「visit your factory in the October」），没有后续安排。",
+  "binding": {
+   "level": "未绑定（两轮询价全部止于价格；2025-01-03 后 21 个月无来信）",
+   "type": "俄罗斯 DIN 电源品牌商（FARADAY）顺带采购工业交换机——**价格流 + Realtek 用户**；执行董事 Alexander Rudnev 直联（有中国手机、每年 4 月香港展 / 10 月来华）",
+   "sieve": "1–2（回信 16 封、给了精确规格；未付样、未走样品）",
+   "stop": "价格 + 芯片线错位：要「8 口 L3 管理 PoE 工业 DIN、watchdog、30W+/口、SFP+RJ45 上联、1G 够」；Simon 报 STI-488XGGPM 350 USD →「price is really high… We have a supplier with much better prices」「We use Realtek」；2024-12 要 RMB EXW 全价表 → 2025-01-03「your prices are too high」",
+   "revive": "只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价",
+   "lane": "RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道",
+   "cadence": "最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发）",
+   "evidence": "k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75"
+  },
+  "situation": "圣彼得堡 FARADAY 电源厂执行董事 Alexander 2023-12 起主动来信 16 封（A 级来信第 7 多），需求极其明确：DIN 导轨 8 口 L3 管理 PoE 工业机带 watchdog。Simon 先后推 24 口 L3、10G L3（360 USD）、L2 130 USD、STI-488XGGPM 350 USD；对方三句话定性——「350USD?」「We use Realtek」「we don't looking for hi-end solutions, but for reliable, functional solution with reasonable price」。2024-12 Simon 给全价表（USD×7.2 折 RMB），2025-01-03 回「prices too high」后再无来信。用户表称「已卖 ONV 工业 FS」，邮件里无成交证据。",
+  "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
+  "breakpoint": "C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。",
   "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "$85.5 USD EXW（CNY 440 ×1.30 ÷6.69，2026-10-17 快照；Saga 列表价 $88）；按他要求同时给 RMB EXW ≈ ¥572（含 30%）",
-   "why": "他要 FARADAY 贴牌（OEM 30% 档）且卡价格：3 系列比 6 系列便宜 40%（$85 vs $140），终于落在「reasonable price」区间；L3 需求先用 L2+ 静态路由 + 看门狗回答，真要动态路由再升 STI-488XGGPM $178.8",
+   "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
+   "tier": 20,
+   "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价",
+   "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
    "repeat": [],
    "gaps": [
-    "STI-288GPM 是否带 PoE 看门狗、每口 30W、L2+ 静态路由——发报价前向 SmartByte 核 LT-IS3210GP-2GX8T 规格书（Drive 已入库，`data/smartbyte_drive/`）",
-    "俄罗斯收款：PI 包里 RU 客户走货代 RMB 转账，邮件里只写 EXW RMB/USD，不提银行电汇"
+    "是否对俄罗斯客户开 Realtek 线——Simon 定",
+    "HRUI 线有无「8 口 PoE 管理 + watchdog」DIN 款——查规格书再说",
+    "用户表「已卖 ONV 工业 FS」出处（邮件无）"
    ]
   },
   "next_move": {
-   "when": "本周（距最后实质往来 21 个月，但需求未变、联系人未变）",
-   "channel": "S 邮箱同一线程「Re: Din power supply」+ 微信 AlexRudnev（他主动加过）",
-   "action": "只发一款 STI-288GPM：RMB/USD EXW 双价、DIN、8×PoE 30W、2 SFP、管理型、看门狗（核实后写）、FARADAY 贴牌免费；不再附 10G/L3 高端机",
-   "one_question": "If an 8-port managed DIN-rail PoE switch lands at about RMB 570 / USD 85 EXW with FARADAY branding, is that within the range your current Realtek supplier gives you?"
+   "when": "不主动；他 10 月来华季或下次来信时一句话",
+   "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
+   "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给一行 HRUI 对位款",
+   "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
   },
   "facts": [
    {
     "date": "2024-02-27",
     "dir": "来",
-    "who": "Alexander Rudnev",
+    "who": "Alexander Rudnev（执行董事）",
     "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
-    "why": "需求第一次出现，之后两年没变",
+    "why": "需求首次出现",
     "k": "cc4b73b466fbfdcc"
-   },
-   {
-    "date": "2024-03-19",
-    "dir": "来",
-    "who": "Alexander Rudnev",
-    "quote": "we are not interesting commercial switches. Only industrial.",
-    "why": "只做工业/DIN，商用机一律别推",
-    "k": "56443955cea0b28d"
    },
    {
     "date": "2024-05-21",
     "dir": "来",
-    "who": "Alexander Rudnev",
-    "quote": "Thank you for your offer, but price is really high. We have a supplier with much better prices. … We use Realtek.",
-    "why": "价格锚点 = Realtek 方案；$135 的 L2 管理 6 系列已超预算",
+    "who": "Alexander",
+    "quote": "One more time. We need 8-port L3 managed PoE industrial switch with Watchdog function. 30W+ per port. SFP+RG45 up-links. 1G speed is enough.",
+    "why": "规格定稿",
+    "k": "f09852fb2618788f"
+   },
+   {
+    "date": "2024-05-21",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Best unit price STI-488XGGPM 350usd/pc… Please do not JUST compare the price with Realtek solution, it is not the same thing.",
+    "why": "Saga 报价与定位",
+    "k": "80bdb8e0e1b5a1a5"
+   },
+   {
+    "date": "2024-05-21",
+    "dir": "来",
+    "who": "Alexander",
+    "quote": "350USD?",
+    "why": "价格震惊",
+    "k": "e0da925d78532ec9"
+   },
+   {
+    "date": "2024-05-21",
+    "dir": "来",
+    "who": "Alexander",
+    "quote": "We use Realtek.",
+    "why": "芯片线=真正边界",
     "k": "011f348307d57fc2"
    },
    {
     "date": "2024-05-21",
     "dir": "来",
-    "who": "Alexander Rudnev",
-    "quote": "We need 8-port L3 managed PoE industrial switch with Watchdog function. 30W+ per port. SFP+RG45 up-links. 1G speed is enough.",
-    "why": "最完整的一句需求定义",
-    "k": "f09852fb2618788f"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "来",
-    "who": "Alexander Rudnev",
-    "quote": "we don't looking for hi-end solutions, but for reliable, functioanal solution with reasonable price … it will be interesting for me to visit your factory in the October",
-    "why": "定位分歧 + 看厂意愿（未跟）",
+    "who": "Alexander",
+    "quote": "we don't looking for hi-end solutions, but for reliable, functioanal solution with reasonable price… it will be interesting for me to visit your factory in the October",
+    "why": "定位差 + 来华习惯",
     "k": "fa125622a89afa47"
    },
    {
     "date": "2024-12-12",
     "dir": "来",
-    "who": "Alexander Rudnev",
+    "who": "Alexander",
     "quote": "Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB.",
-    "why": "对 8 口 L2 管理 PoE（2 BT）机型表态有用；要 RMB EXW",
+    "why": "要 RMB 价表",
     "k": "c4b08a47d73f023f"
    },
    {
     "date": "2025-01-03",
     "dir": "来",
-    "who": "Alexander Rudnev",
+    "who": "Alexander",
     "quote": "Thank you, but your prices are too high.",
-    "why": "最后一封实质来信；此后 13 个月只有 Simon 群发",
+    "why": "最后一封来信",
     "k": "7cb3dfcf81666a75"
    }
   ],
   "proof_gaps": [
-   "A 邮箱 / 微信是否另有报价（他在微信上）",
-   "2024-10 看厂是否成行"
+   "用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹",
+   "Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致"
   ],
-  "draft_en": {
-   "subject": "8-port DIN-rail managed PoE switch at a Realtek-level price - FARADAY branding",
-   "body": "Hi Alexander,\n\nLast time we spoke you were clear: 8 x Gigabit PoE (30 W+ per port), SFP/RJ45 uplinks, managed, PoE watchdog, DIN-rail - and a price that makes sense next to your Realtek supplier. What I quoted then was our high-end 6-series; this is the 3-series that fits your brief:\n\nSTI-288GPM - 8 x 10/100/1000 PoE+ (30 W/port) + 2 x 1G SFP, L2+ managed (Web/CLI/SNMP, VLAN, ERPS ring, static routes), PoE watchdog, DC 44-57 V, -40~75 C, DIN-rail. EXW price about RMB 570 / USD 85 per unit with FARADAY front-panel branding included (snapshot 2026-10-22, valid 15 days).\n\nOne question: is this price within the range your current Realtek supplier gives you?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
-  }
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

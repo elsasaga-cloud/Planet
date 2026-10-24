@@ -35,10 +35,34 @@ updated: 2026-10-24
 - **是谁**：美国自有品牌工业以太网供应商：KY- 系列 DIN/机架 L2/L3 工业交换机（含 10G、PoE、bt）、「Economy」线（KY-3120DM $590、KY-2189RG $299、Vitesse 芯片）、部分型号标 TAA 合规与 NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、工业、铁路。用户表：A 已回复 1 次，联系人 Thom Sherer；兴趣工业 FS / SFP，「有统一的型号」。（调研 2026-10-21；表内兴趣：工业FS SFP 有统一的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-23 → 2025-09-23）；最近一次客户回复：2025-09-23：Not out market
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%） — J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话；$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）
+- **第一问（只问一个）**：For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 中（一次） A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior） 三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-068` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（4 次人工回复全部是否定或追问，没有一次走到规格书之后）** ｜ 类型：美国 ITS/工业自有品牌（KY 系列；Economy 线 Vitesse）——目标序列第一档 OEM 品牌商；**与 BlueWarrior（SA-050）同一组织**（sales@bluewarrior.com 自动回复 = Tom West / Thom Sherer / DYMEC 电话） ｜ 筛子：1 ｜ 停点：发错产品三次：2024-07 24 口被动 PoE「Very low poe budget. Nothing of interest」；2025-09 企业 SFP 交换机「not our market」；2026-06 10G L3（商用 0–40℃）「for our market your operating temp does not go high enough」——DYMEC 市场只认 -40~+75℃ ｜ 复活：只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL ｜ 通路：US（关税自理；无 UL） ｜ 节奏：2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01 ｜ 证据：k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791
+- **现状一句话**：DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。
+- **对方真实需求（有据）**：ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。
+- **断点 / 为什么停在这里**：群发用同一封信打所有人——对 DYMEC 这种只看温度行的买家，商用款等于自我淘汰。对位比频率重要。
+- **Saga 现在该推什么**：P1 **STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%）**（30% 档，$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效））——J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话
+  - 做不了 / 要先核的：TAA 是否硬性（其官网部分型号标 TAA）——一句话问；Economy 线 KY-2189RG $299 对应规格——对位时核
+- **下一步（具体）**：2026-11 中（一次）　A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior）　三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA
+  - 第一问（只问一个）：For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-30 | 来 | sales@dymec.com | Very low poe budget. Nothing of interest | 第 1 次否定（24 口被动 PoE 300W） | `9963340096ada5bb` |
+| 2025-05-28 | 来 | Thom Sherer | need a better description please... | 对 Alert System 群发的追问 | `444cc4b308af1ab6` |
+| 2025-09-22 | 来 | Thom Sherer | not our market...sorry | 企业 SFP 交换机 → 否定 | `1568af8ab7b7c8ba` |
+| 2026-05-29 | 来 | sales.support@dymec.com | What is the operating temp please? | 唯一主动技术问题 | `cf8437996c751467` |
+| 2026-06-01 | 去 | Alan | Operating temperature: 0ºC to 40ºC | 答的是商用款——致命 | `2454f781f4a01510` |
+| 2026-06-01 | 来 | sales.support@dymec.com | Alan, for our market your operating temp does not go high enough.... | 停点原话 | `372ede3d101a3791` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证
 
 ## 基本事实（事实/推断/假设分层）
 

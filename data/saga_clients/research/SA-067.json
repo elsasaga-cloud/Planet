@@ -134,5 +134,68 @@
   "tier": 20,
   "why": "Direktronik Pro 8 PoE + 2 SFP 管理 DIN 与 STI-288DGGPM 同位；Connect 4 PoE + 1 SFP 对位 STI-144GP；分销 20% 档（自有品牌贴标可 25%）"
  },
- "email_hook": "Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line."
+ "email_hook": "Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（合规台账层接触，无销售对话）",
+   "type": "瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作",
+   "sieve": "1（info@ 合规函）",
+   "stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信",
+   "revive": "给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发）",
+   "lane": "SE/EU（CE/UKCA/RoHS/REACH 有）",
+   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11",
+   "evidence": "k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10"
+  },
+  "situation": "Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。",
+  "need": "合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。",
+  "breakpoint": "合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。",
+  "saga_now": {
+   "p1": "STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件",
+   "tier": 20,
+   "price": "按 20% 分销档",
+   "why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着",
+   "repeat": [],
+   "gaps": [
+    "CE DoC（EMC/LVD）文件是否在仓库可外发——Alan 2025-11-12「see attached info」附件未入库",
+    "EU CRA（2027-12 起）对交换机的要求——SmartByte 侧有无计划"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）",
+   "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品",
+   "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-19",
+    "dir": "来",
+    "who": "info@direktronik.se（客服）",
+    "quote": "The responsible salesperson, Mats, will be back to you shortly.",
+    "why": "指定负责人 Mats（从未回）",
+    "k": "195f51b6b5903da9"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "来",
+    "who": "info@direktronik.se（合规）",
+    "quote": "we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable)",
+    "why": "合规清单 = 停点",
+    "k": "cda0898220404dd0"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know.",
+    "why": "Saga 答复",
+    "k": "a72460754524b4c8"
+   }
+  ],
+  "proof_gaps": [
+   "EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -111,5 +111,84 @@
   "tier": 30,
   "why": "MSG-8E4S（8 GE PoE + SFP 加固管理）对位 STI-288DGGPM，MS-5GS 对位 STI-144GP；DataMover 贴牌 30% 档；要求与 CRMS NMS 兼容的 SNMP 口径"
  },
- "email_hook": "For the MSG-8E4S slot in your DataMover line, the Marvell-based 8-port gigabit PoE managed DIN switch with SNMP for CRMS polling is the unit I can supply in DataMover packing, so that is what I am quoting first."
+ "email_hook": "For the MSG-8E4S slot in your DataMover line, the Marvell-based 8-port gigabit PoE managed DIN switch with SNMP for CRMS polling is the unit I can supply in DataMover packing, so that is what I am quoting first.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（用户表「已成单 switch」；邮件无 PI——2024-12-05 起转 WhatsApp，成交细节不在邮箱）",
+   "type": "美国工业无线品牌商（DataMover），自有品牌加固交换机 = 目前贴 Mikrotik（6/12 口，成本 $90–120 含加固外壳，自建云 NMS 调 Mikrotik API）",
+   "sieve": "2–3",
+   "stop": "Mikrotik 锁定：2026-07-20 Frank「We have built a cloud NMS using the API… custom scripting and product validity certificate… Is there something that your switch does that MT does not do?」；Saga 1,500 USD CENTEC 10G 被拿去比 CRS326 $209/$289",
+   "revive": "Saga 交换机能被其 NMS 发现/诊断（SNMP/CLI/OID）——固件侧问题；Simon 2026-07-21 已给 130 USD 的 Marvell 对位款（同 CRS326 档），等 Frank 测",
+   "lane": "US；WhatsApp 为主（2024-12-05 起）",
+   "cadence": "2024-12 → 2026-09 去信 25 封；最后实质来信 2026-07-20",
+   "evidence": "k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3"
+  },
+  "situation": "Frank Neuperger 2024-12 一周内连问 5 封（管理？OS？每口功率？250 m 怎么跑以太网？56V 行不行？「Do you work for Saga Telecom?」），Simon 答「Saga Telecom is my sister's… 56V OK」后转 WhatsApp；用户表记成单。2026-07-20 Frank 的长信是 A 级里最有信息量的一封：他们私标 Mikrotik、靠 API 做云 NMS 和脚本增值、成本 90–120 美元，问 Saga 交换机能做什么 MT 做不到的。Simon 次日给了 130 USD 的 Marvell 24 口（与 CRS326 同级）。",
+  "need": "6/12/24 口加固管理交换机，能进其 NMS（API/SNMP 发现 + 吞吐测试），56V PoE，成本 ≤$120 级。",
+  "breakpoint": "客户系统依赖的是 Mikrotik 固件（J 系列「客户系统依赖固件」反向案例）；Saga 想替代就得在固件侧给出等价接口，不是价格。",
+  "saga_now": {
+   "p1": "Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）",
+   "tier": 30,
+   "price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）",
+   "why": "J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价",
+   "repeat": [],
+   "gaps": [
+    "2026-07-21 报价型号（附件名 STC-4…）",
+    "WhatsApp 成交内容未入库——成单型号/数量不明"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "WhatsApp（Simon）",
+   "action": "问 130 USD 款是否排进实验室；主动给 SNMP OID/MIB 文件",
+   "one_question": "Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first."
+  },
+  "facts": [
+   {
+    "date": "2024-12-04",
+    "dir": "来",
+    "who": "Frank Neuperger",
+    "quote": "Is this a managed switch? If so, what operating system? What is max power per port?… With the specified 250 m POE distance, how do you get ETH connectivity?",
+    "why": "工程师式追问",
+    "k": "95d30a86d792cc0d"
+   },
+   {
+    "date": "2024-12-06",
+    "dir": "来",
+    "who": "Frank",
+    "quote": "Do you work for Saga Telecom? Can we use 56V with any of the products… Most of our POE is 56V.",
+    "why": "身份 + 56V",
+    "k": "d83e2c902092c388"
+   },
+   {
+    "date": "2024-12-07",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Saga Telecom is my sister's. I deal with foreign trade only… 56V is OK. For PoE models, the max input is 57V",
+    "why": "身份口径（历史）",
+    "k": "a5829330c3f7b38f"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "来",
+    "who": "Frank",
+    "quote": "we currently use Mikrotik… We have built a cloud NMS using the API… Our cost $90 to $120 including hardened metal packaging… your $1500 pricing is at least 5x… Is there something that your switch does that MT does not do?",
+    "why": "锁定与成本基准",
+    "k": "5ad38241fd821cfe"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.",
+    "why": "Saga 对位",
+    "k": "06610cfbde4173c3"
+   }
+  ],
+  "proof_gaps": [
+   "成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

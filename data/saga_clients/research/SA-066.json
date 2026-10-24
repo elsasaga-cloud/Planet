@@ -117,25 +117,32 @@
  },
  "email_hook": "On the 2.5G and 10G question from earlier, the 24-port PoE+ unit with four 10G SFP+ uplinks and the 48-port L3 version are the two Marvell-based platforms we can supply under the Antronix label, so I am sending both with EXW pricing.",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "新泽西 CATV/宽带设备制造商 Antronix（Peter Tarquinio）。2024-01 要「交换机/路由器，>2 个 SFP 或 >2 个 SFP+，1G / 2.5G / 10G SFP」目录；2024-04-19 对 STC-4168XGGCM 问「Do you have any of the 4168 in USA? Can I get a sample」；Simon 04-24 追问时对方回了一句不相干的「Is that Jim Luciano?」——线程就此断掉；此后 Simon 发了 16 封推送，无回应（最后 2025-08-27）。",
-  "need": "24×SFP + 8 combo + 4×10G 的 L3 汇聚机（STC-4168XGGCM），**希望美国本地有样机可先看**。",
-  "breakpoint": "2024-04-19 的「美国有货吗/能给样机吗」没有得到直接回答（Simon 回的是 findlight 链接 + 「do we proceed」）；对方最后一封显然是误发。18 个月没有新的来信，热度已失。",
+  "binding": {
+   "level": "未绑定（询问阶段：要过价、要过手册，没有付样）",
+   "type": "美国有线宽带 RF 设备品牌商（≈33 人）扩以太网线；Peter Tarquinio 直联——第一档类型但以太网非主业",
+   "sieve": "2",
+   "stop": "2025-08-11 收到 24 口光交换机手册 + 价格（L2+ 225 / L3 310 USD）后「No worries. Thank you」→ 静默 14 个月；2024-04 要「美国现货样机」，Saga 无美国库存（Simon 转介 Vi-Link 的样机）",
+   "revive": "其 MDU/光节点以太网项目落地；或有人在美国持货（Saga 无）",
+   "lane": "US",
+   "cadence": "2024-01 → 2026-09 去信 30 封；最后实质来信 2025-08-09",
+   "evidence": "k=113bf0edbaff9900 / 320a0015fdc91397 / ca03d94ea39777b8 / 42afe1e39f3c25e0 / 7533abba594ebc6d / dfc4ee1cd58c07be"
+  },
+  "situation": "Peter 2024-01 开口就是「more than 2 SFP ports… 1G SFP and 2.5 SFP+ and 10G SFP+」，2024-04 想在美国先摸一台 4168（Simon 回「另一个美国客户买了样机，也许你们可以从他那拿」，并点名 vilinknet.com）。2025-08 他再问 24 口光交换机价格，Alan 报 225/310 USD 并给了 Web/CLI 手册和软件清单，他回「No worries. Thank you」后再无动静。",
+  "need": "多 SFP 口（1G/2.5G/10G）聚合交换机，美国可先看样；L2+/L3 皆可。",
+  "breakpoint": "两次都停在「拿到资料之后」——不是价格也不是规格，是对方项目没落地。无需推。",
   "saga_now": {
-   "p1": "STC-4168XGGCM",
-   "tier": 25,
-   "price": "$392.4 USD EXW（CNY 2100 ×1.25 ÷6.69；Saga 列表 $413）",
-   "why": "设备制造商做方案配套 → 25% 档；他只对这一款表过态；美国无库存只能 DHL 样机 5 天到",
+   "p1": "STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD",
+   "tier": 30,
+   "price": "按 30% OEM 档复核 2025 报价",
+   "why": "一句话确认停点即可；不重复发规格",
    "repeat": [],
-   "gaps": [
-    "美国本地样机：没有；只能样机价 + 抵首单"
-   ]
+   "gaps": []
   },
   "next_move": {
-   "when": "低优先（一次性）",
-   "channel": "S 邮箱回 2024-04 原线程",
-   "action": "三行邮件：直接回答当年问题——US 无库存、样机 DHL 5 天、样机款抵首单；不附新产品",
-   "one_question": "Is the 24-SFP aggregation requirement from 2024 still open on your side?"
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → Peter（抄 Jim Taxdahl）",
+   "action": "一句话问去年 8 月之后卡在哪",
+   "one_question": "After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?"
   },
   "facts": [
    {
@@ -143,29 +150,52 @@
     "dir": "来",
     "who": "Peter Tarquinio",
     "quote": "switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+",
-    "why": "需求定义：多光口",
+    "why": "需求",
     "k": "113bf0edbaff9900"
    },
    {
     "date": "2024-04-19",
     "dir": "来",
-    "who": "Peter Tarquinio",
-    "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online for me to initially investigate?",
-    "why": "唯一的样机请求，未被直接回答",
+    "who": "Peter",
+    "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online",
+    "why": "要美国现货样",
     "k": "320a0015fdc91397"
    },
    {
     "date": "2024-04-24",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me.",
+    "why": "向一客户透露另一客户名（做法记录，不评判）",
+    "k": "ca03d94ea39777b8"
+   },
+   {
+    "date": "2025-08-08",
     "dir": "来",
-    "who": "Peter Tarquinio",
-    "quote": "Is that Jim Luciano?",
-    "why": "误发/混淆，线程终止",
-    "k": "b8c0250afe43a2f7"
+    "who": "Peter",
+    "quote": "Thanks.. I'd be interested in the pricing…",
+    "why": "第二轮",
+    "k": "42afe1e39f3c25e0"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "225usd/pc, L2+ managed 310usd/pc, L3 managed",
+    "why": "报价",
+    "k": "7533abba594ebc6d"
+   },
+   {
+    "date": "2025-08-11",
+    "dir": "来",
+    "who": "Peter",
+    "quote": "No worries. Thank you",
+    "why": "停点",
+    "k": "dfc4ee1cd58c07be"
    }
   ],
-  "proof_gaps": [
-   "A 邮箱是否有后续"
-  ],
-  "draft_en": null
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

@@ -35,10 +35,31 @@ updated: 2026-10-24
 - **是谁**：美国得州圣安东尼奥的结构化布线承包商/小型集成商（1986 年起，1–10 人），服务 1–500 人规模的组织，提供布线、光纤安装、电话系统、无线、摄像、门禁；在售 HPE/Extreme 交换机、Panduit/Hubbell/ICC 布线；A 已回复 1 次（群发 US 表）。（调研 2026-10-21；表内兴趣：工业switch 分销商；有比较多的供应商 产品面广 Networking      switch）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-27 → 2025-09-27）；最近一次客户回复：2025-09-27：Price
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：布线承包商摄像/门禁/AP 项目：STC-424DGGPM-280W 主推；Wi-Fi 6E/7 与 multi-gig 布线对应 STC-424XGGPM-280W（2.5G 下行需核）；8 口位 STC-28DGGPM；集成商 25% 档；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定） — U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有；$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）
+- **第一问（只问一个）**：For your San Antonio projects, would an unmanaged 8×10GBASE-T unit (US$181.5 EXW) solve the 10G need, or must it be managed with SFP+ uplinks?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → nate.cline@ 一句话：8×10GBASE-T 非管理 $181.5 EXW 是否解决；要管理则 24GE+8×10G SFP+ 白牌
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-091` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（询问阶段 3 轮：10G MC 价表、8 口 10G 管理型、24 口 SFP 价格）** ｜ 类型：美国得州布线承包商/小集成商（1–10 人）；Nate Cline——第四档小项目集成商 ｜ 筛子：2 ｜ 停点：产品缺口：2025-04 要「8 口 10G 电 + 2/4×10G SFP 管理型」，Alan 答需量产开发；2025-09-27 STC-4168XGGCM 280 USD 报价后无回音 ｜ 复活：仓库里有 8×10G 电口非管理款 STC-08XGE（HRUI/Realtek 线，Saga 对外价 $181.5 USD EXW）；SmartByte 白牌 LT-S8532XS-8XS24GT（24GE + 8×10G SFP+）——若他的项目只要 10G 接入，可一次报清 ｜ 通路：US ｜ 节奏：2024-08 → 2026-09 去信 21 封；最后来信 2025-09-26 ｜ 证据：k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11
+- **现状一句话**：Nate 三次主动：2024-08 要 10G MC 价表并问大单折扣；2025-04「I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP」（Alan：现无，可开发但要量）；2025-09「How much do they cost?」→ 280 USD STC-4168XGGCM → 无回。他要的 8×10GBASE-T 其实在 HRUI 线有非管理款。
+- **对方真实需求（有据）**：8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。
+- **断点 / 为什么停在这里**：群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。
+- **Saga 现在该推什么**：P1 **STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）**（25% 档，$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效））——U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有
+  - 做不了 / 要先核的：Nate 要不要「管理」——一句话问；Realtek 线对美国小集成商是否开
+- **下一步（具体）**：2026-11　A 邮箱 → nate.cline@　一句话：8×10GBASE-T 非管理 $181.5 EXW 是否解决；要管理则 24GE+8×10G SFP+ 白牌
+  - 第一问（只问一个）：For your San Antonio projects, would an unmanaged 8×10GBASE-T unit (US$181.5 EXW) solve the 10G need, or must it be managed with SFP+ uplinks?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-08-24 | 来 | Nate Cline | Can you send me a price list and I want to ask if I can buy from you in Large Order and would you provide a discount on Large Orders? | 第一轮 | `6350a98e7dcd08eb` |
+| 2025-04-04 | 来 | Nate | I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP. | 精确需求 | `380c4a1eabea9946` |
+| 2025-04-08 | 去 | Alan | it is not available on our list now… OK to do 4*10G+8*10G Ethernet But this requires a decent quantity to develop | 缺口答复 | `765a46afe5b24ace` |
+| 2025-09-26 | 来 | Nate | How much do they cost? | 第三轮 | `1a6a105db1142c5f` |
+| 2025-09-27 | 去 | Alan | 280usd/pc. STC-4168XGGCM 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo | 报价后无回 | `75205f906d867c11` |
 
 ## 基本事实（事实/推断/假设分层）
 

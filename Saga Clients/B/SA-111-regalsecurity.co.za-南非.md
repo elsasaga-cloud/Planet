@@ -36,10 +36,31 @@ updated: 2026-10-24
 - **是谁**：南非最大多品牌电子安防分销商之一（1981 年，201–500 人，29–30 家分支，覆盖非洲 29 国），网络类在售 **PLANET（GS-4210-8P2S）、Genata、TP-Link/Omada、Hikvision 交换机、UTEPO/ITooner**，并有自有标 Securi-Prod / Sola-Prod / Powa-Prod；表内 IT 总监 Jacques Plessis，2025-10 已给 2+2+8 PoE 报价。规模偏大但有互动 + 自有标 → 保留 B，OEM 切口。（调研 2026-10-21；表内兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的）
 - **为什么是 B 级**：**调研后定级 B**（体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 19 次（2024-02-12 → 2025-11-05）；最近一次客户回复：2024-10-16：发了一个报价2+2+8的
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位 — ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活；按 20% 分销档
+- **第一问（只问一个）**：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 一句话问自有标部门归口；停止向 nsc.support 发任何群发
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-111` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（0 次人工回复；15 封来信 = 14 封工单机器人 + 1 封 Regal 给 Saga 的报价单）** ｜ 类型：南非大型多品牌安防分销（201–500 人，29 分支）——体量 ≫ Saga；目标序列第三档 ｜ 筛子：0 ｜ 停点：触达层错位：群发进了 nsc.support 工单队列（每封生成一个 RS 工单号），2024-10 对方甚至把 Saga 当买家发来报价单；IT 总监 Jacques du Plessis 2025-10 起 A 邮箱 10+ 封零回复 ｜ 复活：只有其自有标 Securi-Prod 的产品经理主动找 OEM 货源；否则不投入（ZA 非主攻） ｜ 通路：ZA（非主攻区） ｜ 节奏：2023-11 → 2026-10 共 23 封去信；建议停发 nsc.support，Jacques 每季 1 封 ｜ 证据：k=de1495c39c4e07ba / f41d4564c84c5f93 / 54e2f9d2852f5f15 / c343cd55d5c20ee8
+- **现状一句话**：Regal 是南非最大的安防分销商之一，但 Saga 两年多的 23 封去信没有触达任何决策人：S 邮箱时期全部进入 nsc.support 的工单系统（14 个自动工单），2024-10-17 销售支持甚至回了一份 Regal 自己的报价单（K8 Quotation-25992001.pdf）——把 Saga 的「8 Port Industrial PoE Switch」当成了采购询价；A 邮箱 2025-10 起直发 IT 总监 Jacques du Plessis（170 USD 24 口 PoE 等）零回复。研究档「2025-10 已给报价」= Saga 单向报价，不是互动。
+- **对方真实需求（有据）**：无可证需求；在售 PLANET GS-4210-8P2S / Genata / TP-Link / UTEPO，自有标 Securi-Prod / Sola-Prod。
+- **断点 / 为什么停在这里**：错把「有回信」当「有互动」——回信全是机器人。大型分销商的 OEM 决策在产品经理，不在 IT 总监或工单台。
+- **Saga 现在该推什么**：P1 **暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位**（20% 档，按 20% 分销档）——ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活
+  - 做不了 / 要先核的：Securi-Prod 产品经理是谁（LinkedIn 可查，未做）
+- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　一句话问自有标部门归口；停止向 nsc.support 发任何群发
+  - 第一问（只问一个）：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2023-11-21 | 来 | nsc.support（机器人） | We have received your request… Support Ticket Reference [#RS26837] | 第 1 个工单（共 14 个） | `de1495c39c4e07ba` |
+| 2024-10-17 | 来 | Josephine Davis（Sales Support） | Morning Simon Please find the Attached Quote（K8 document Quotation-25992001.pdf） | Regal 反向给 Saga 报价——证明 Saga 邮件被当成采购 | `f41d4564c84c5f93` |
+| 2026-08-07 | 去 | Alan → Jacques du Plessis | 24 Port PoE Managed Switch… Price: 170USD/PC | A 邮箱直发 IT 总监，无回 | `54e2f9d2852f5f15` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Regal 报价单 PDF 未入库（附件未存），不知其报的产品与价格——若能找回，是 ZA 市场 8 口工业 PoE 的竞品价格情报
 
 ## 基本事实（事实/推断/假设分层）
 

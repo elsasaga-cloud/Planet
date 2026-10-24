@@ -130,5 +130,92 @@
   "tier": 30,
   "why": "Economy 线 DIN 8 口位（KY-3120DM 级）→ STI-288DGGPM；5 口位→STI-144GP；贴 KY- 型号 30% 档"
  },
- "email_hook": "For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first."
+ "email_hook": "For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（4 次人工回复全部是否定或追问，没有一次走到规格书之后）",
+   "type": "美国 ITS/工业自有品牌（KY 系列；Economy 线 Vitesse）——目标序列第一档 OEM 品牌商；**与 BlueWarrior（SA-050）同一组织**（sales@bluewarrior.com 自动回复 = Tom West / Thom Sherer / DYMEC 电话）",
+   "sieve": "1",
+   "stop": "发错产品三次：2024-07 24 口被动 PoE「Very low poe budget. Nothing of interest」；2025-09 企业 SFP 交换机「not our market」；2026-06 10G L3（商用 0–40℃）「for our market your operating temp does not go high enough」——DYMEC 市场只认 -40~+75℃",
+   "revive": "只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL",
+   "lane": "US（关税自理；无 UL）",
+   "cadence": "2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01",
+   "evidence": "k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791"
+  },
+  "situation": "DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。",
+  "need": "ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。",
+  "breakpoint": "群发用同一封信打所有人——对 DYMEC 这种只看温度行的买家，商用款等于自我淘汰。对位比频率重要。",
+  "saga_now": {
+   "p1": "STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%）",
+   "tier": 30,
+   "price": "$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）",
+   "why": "J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话",
+   "repeat": [],
+   "gaps": [
+    "TAA 是否硬性（其官网部分型号标 TAA）——一句话问",
+    "Economy 线 KY-2189RG $299 对应规格——对位时核"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11 中（一次）",
+   "channel": "A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior）",
+   "action": "三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA",
+   "one_question": "For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?"
+  },
+  "facts": [
+   {
+    "date": "2024-07-30",
+    "dir": "来",
+    "who": "sales@dymec.com",
+    "quote": "Very low poe budget. Nothing of interest",
+    "why": "第 1 次否定（24 口被动 PoE 300W）",
+    "k": "9963340096ada5bb"
+   },
+   {
+    "date": "2025-05-28",
+    "dir": "来",
+    "who": "Thom Sherer",
+    "quote": "need a better description please...",
+    "why": "对 Alert System 群发的追问",
+    "k": "444cc4b308af1ab6"
+   },
+   {
+    "date": "2025-09-22",
+    "dir": "来",
+    "who": "Thom Sherer",
+    "quote": "not our market...sorry",
+    "why": "企业 SFP 交换机 → 否定",
+    "k": "1568af8ab7b7c8ba"
+   },
+   {
+    "date": "2026-05-29",
+    "dir": "来",
+    "who": "sales.support@dymec.com",
+    "quote": "What is the operating temp please?",
+    "why": "唯一主动技术问题",
+    "k": "cf8437996c751467"
+   },
+   {
+    "date": "2026-06-01",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Operating temperature: 0ºC to 40ºC",
+    "why": "答的是商用款——致命",
+    "k": "2454f781f4a01510"
+   },
+   {
+    "date": "2026-06-01",
+    "dir": "来",
+    "who": "sales.support@dymec.com",
+    "quote": "Alan, for our market your operating temp does not go high enough....",
+    "why": "停点原话",
+    "k": "372ede3d101a3791"
+   }
+  ],
+  "proof_gaps": [
+   "BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

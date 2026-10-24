@@ -35,30 +35,31 @@ updated: 2026-10-24
 - **是谁**：新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。（调研 2026-10-21；表内兴趣：商业switch L2 L3 10G 问了2.5G 10G类产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-09 → 2025-08-09）；最近一次客户回复：2025-08-09：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STC-4168XGGCM — 设备制造商做方案配套 → 25% 档；他只对这一款表过态；美国无库存只能 DHL 样机 5 天到；$392.4 USD EXW（CNY 2100 ×1.25 ÷6.69；Saga 列表 $413）
-- **第一问（只问一个）**：Is the 24-SFP aggregation requirement from 2024 still open on your side?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD — 一句话确认停点即可；不重复发规格；按 30% OEM 档复核 2025 报价
+- **第一问（只问一个）**：After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?
 - **最大未知**：年走量与现供应商
-- **下一步**：低优先（一次性） S 邮箱回 2024-04 原线程 三行邮件：直接回答当年问题——US 无库存、样机 DHL 5 天、样机款抵首单；不附新产品
+- **下一步**：2026-11（一次） A 邮箱 → Peter（抄 Jim Taxdahl） 一句话问去年 8 月之后卡在哪
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-066` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-066` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **现状一句话**：新泽西 CATV/宽带设备制造商 Antronix（Peter Tarquinio）。2024-01 要「交换机/路由器，>2 个 SFP 或 >2 个 SFP+，1G / 2.5G / 10G SFP」目录；2024-04-19 对 STC-4168XGGCM 问「Do you have any of the 4168 in USA? Can I get a sample」；Simon 04-24 追问时对方回了一句不相干的「Is that Jim Luciano?」——线程就此断掉；此后 Simon 发了 16 封推送，无回应（最后 2025-08-27）。
-- **对方真实需求（有据）**：24×SFP + 8 combo + 4×10G 的 L3 汇聚机（STC-4168XGGCM），**希望美国本地有样机可先看**。
-- **断点 / 为什么停在这里**：2024-04-19 的「美国有货吗/能给样机吗」没有得到直接回答（Simon 回的是 findlight 链接 + 「do we proceed」）；对方最后一封显然是误发。18 个月没有新的来信，热度已失。
-- **Saga 现在该推什么**：P1 **STC-4168XGGCM**（25% 档，$392.4 USD EXW（CNY 2100 ×1.25 ÷6.69；Saga 列表 $413））——设备制造商做方案配套 → 25% 档；他只对这一款表过态；美国无库存只能 DHL 样机 5 天到
-  - 做不了 / 要先核的：美国本地样机：没有；只能样机价 + 抵首单
-- **下一步（具体）**：低优先（一次性）　S 邮箱回 2024-04 原线程　三行邮件：直接回答当年问题——US 无库存、样机 DHL 5 天、样机款抵首单；不附新产品
-  - 第一问（只问一个）：Is the 24-SFP aggregation requirement from 2024 still open on your side?
+- **绑定等级：未绑定（询问阶段：要过价、要过手册，没有付样）** ｜ 类型：美国有线宽带 RF 设备品牌商（≈33 人）扩以太网线；Peter Tarquinio 直联——第一档类型但以太网非主业 ｜ 筛子：2 ｜ 停点：2025-08-11 收到 24 口光交换机手册 + 价格（L2+ 225 / L3 310 USD）后「No worries. Thank you」→ 静默 14 个月；2024-04 要「美国现货样机」，Saga 无美国库存（Simon 转介 Vi-Link 的样机） ｜ 复活：其 MDU/光节点以太网项目落地；或有人在美国持货（Saga 无） ｜ 通路：US ｜ 节奏：2024-01 → 2026-09 去信 30 封；最后实质来信 2025-08-09 ｜ 证据：k=113bf0edbaff9900 / 320a0015fdc91397 / ca03d94ea39777b8 / 42afe1e39f3c25e0 / 7533abba594ebc6d / dfc4ee1cd58c07be
+- **现状一句话**：Peter 2024-01 开口就是「more than 2 SFP ports… 1G SFP and 2.5 SFP+ and 10G SFP+」，2024-04 想在美国先摸一台 4168（Simon 回「另一个美国客户买了样机，也许你们可以从他那拿」，并点名 vilinknet.com）。2025-08 他再问 24 口光交换机价格，Alan 报 225/310 USD 并给了 Web/CLI 手册和软件清单，他回「No worries. Thank you」后再无动静。
+- **对方真实需求（有据）**：多 SFP 口（1G/2.5G/10G）聚合交换机，美国可先看样；L2+/L3 皆可。
+- **断点 / 为什么停在这里**：两次都停在「拿到资料之后」——不是价格也不是规格，是对方项目没落地。无需推。
+- **Saga 现在该推什么**：P1 **STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD**（30% 档，按 30% OEM 档复核 2025 报价）——一句话确认停点即可；不重复发规格
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → Peter（抄 Jim Taxdahl）　一句话问去年 8 月之后卡在哪
+  - 第一问（只问一个）：After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024-01-20 | 来 | Peter Tarquinio | switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+ | 需求定义：多光口 | `113bf0edbaff9900` |
-| 2024-04-19 | 来 | Peter Tarquinio | Do you have any of the 4168 in USA? Can I get a sample or do you have one online for me to initially investigate? | 唯一的样机请求，未被直接回答 | `320a0015fdc91397` |
-| 2024-04-24 | 来 | Peter Tarquinio | Is that Jim Luciano? | 误发/混淆，线程终止 | `b8c0250afe43a2f7` |
-
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱是否有后续
+| 2024-01-20 | 来 | Peter Tarquinio | switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+ | 需求 | `113bf0edbaff9900` |
+| 2024-04-19 | 来 | Peter | Do you have any of the 4168 in USA? Can I get a sample or do you have one online | 要美国现货样 | `320a0015fdc91397` |
+| 2024-04-24 | 去 | Simon | http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me. | 向一客户透露另一客户名（做法记录，不评判） | `ca03d94ea39777b8` |
+| 2025-08-08 | 来 | Peter | Thanks.. I'd be interested in the pricing… | 第二轮 | `42afe1e39f3c25e0` |
+| 2025-08-09 | 去 | Alan | 225usd/pc, L2+ managed 310usd/pc, L3 managed | 报价 | `7533abba594ebc6d` |
+| 2025-08-11 | 来 | Peter | No worries. Thank you | 停点 | `dfc4ee1cd58c07be` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -141,5 +141,71 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-007",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度（成单：2024-06-18 样品单 1 台 24 口被动 PoE 24V，PI STSC20240618009，T/T；此后 WhatsApp）",
+   "type": "马来西亚制造商代表（NDT/国防/医疗设备），交换机为项目配套——Simon 定 B 慢跟，gg 难复购",
+   "sieve": "3（付样成单）",
+   "stop": "复购逻辑弱（主业不是网络）；邮件 2024-06-21 后无往来",
+   "revive": "其 MY/SG/ID 项目再要 PoE；WhatsApp +60 12 988 8086",
+   "lane": "MY，T/T（对方明说不用 PayPal）",
+   "cadence": "邮件 10 封（2024-06-14~21）；之后 WhatsApp",
+   "evidence": "k=c4b545e745cfee3e / d4fd9769046a10ec / 10fca04e1dcc0437 / ca8ed8495f53d8b5 / c242e05df6431bc0；PI 包 `PI__PI__9_马来西亚_Sugito_gg__1st_order_Sample__STSC20240618009`"
+  },
+  "situation": "Sugito（CEO）2024-06-14 回群发要 24 口被动 PoE（24V，24×100M + 2 GE + 2 SFP，15.4W/口），4 天内要发票、要 T/T、成单 1 台样机。之后没有第二单（邮件），Simon 定 gg。",
+  "need": "24 口被动 PoE 24V（项目配套）。",
+  "breakpoint": "一次性项目配套；不是 Saga 的复利客户。",
+  "saga_now": {
+   "p1": "无主动动作",
+   "tier": 25,
+   "price": "—",
+   "why": "B 慢跟",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "跟 PI 节奏；不主动",
+   "channel": "WhatsApp",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-06-14",
+    "dir": "来",
+    "who": "Sugito Wibawa（CEO）",
+    "quote": "I am looking for PASSIVE POE 24 port Switch. Do you have ?",
+    "why": "需求",
+    "k": "c4b545e745cfee3e"
+   },
+   {
+    "date": "2024-06-14",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "MUST BE PASSIVE POE… 24 x 10-100Mbps downlink PoE… PoE switch output 24V… Maximum power of single PoE port: 15,4W",
+    "why": "规格",
+    "k": "d4fd9769046a10ec"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd",
+    "why": "样品单",
+    "k": "10fca04e1dcc0437"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "Sugito",
+    "quote": "Can we pay via Bank TT, as we dont do paypal payment here.",
+    "why": "T/T",
+    "k": "ca8ed8495f53d8b5"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

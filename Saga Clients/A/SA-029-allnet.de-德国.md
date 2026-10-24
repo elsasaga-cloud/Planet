@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。（调研 2026-10-21；表内兴趣：自己的logo 工业FS MC SFP  周边产品 有E-link的产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-09 → 2025-07-09）；最近一次客户回复：2025-07-09：自己有型号了
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：ALLNET ALL-SGI 系列从 4 口到 16 口与 Saga STI 工业线一一对应（SGI8004P/8206v2P→STI-144GP；SGI8108v2/8112PM→STI-288DGGPM；SGI8016PM→STI-21616GP）；贴 ALLNET 标 30% 档，但分销体量按 25% 谈；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（若其 E-link 线出现缺口） — 保活不推销；按 30% 自有标档
+- **第一问（只问一个）**：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-029` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（产品经理 Gerhard Zerwes 明确「we have our solution」）** ｜ 类型：德国分销 + 自有品牌 ALLNET（€58M）——既有白牌来源（E-link 等） ｜ 筛子：1 ｜ 停点：2025-07-10「sorry we have our solution with SFP Slots and Managed Versions」——供给已满足 ｜ 复活：其现供应商断供/涨价；或要 Marvell L2+ 特定功能（ERPS/PIM-SM/IPv6） ｜ 通路：DE（主攻区） ｜ 节奏：2024-06 → 2026-10 去信 21 封；最后来信 2025-07-10；Gerhard 每年 5–6 月在亚洲（Computex 台北） ｜ 证据：k=3bed67df76fec9ba / 27176790332e9c58 / 15f87700ebc70348
+- **现状一句话**：ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。
+- **对方真实需求（有据）**：自有品牌 ALLNET 工业/商用交换机货源——目前已满足。
+- **断点 / 为什么停在这里**：对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM（若其 E-link 线出现缺口）**（30% 档，按 30% 自有标档）——保活不推销
+- **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU
+  - 第一问（只问一个）：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-04 | 来 | Gerhard Zerwes（自动回复） | business trip in Asia from 24.05.2024 to 23.06.24 inclusive with a trade fair in Taiwan "Computex" | 每年亚洲行 | `3bed67df76fec9ba` |
+| 2025-07-10 | 来 | Gerhard Zerwes | sorry we have our solution with SFP Slots and Managed Versions. | 停点原话 | `27176790332e9c58` |
 
 ## 基本事实（事实/推断/假设分层）
 

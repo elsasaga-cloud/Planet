@@ -45,5 +45,47 @@
  "grade_override": "C",
  "override_reason": "体量过大/集团子公司：TKH Group 旗下品牌，采购走集团供应链与合规审核，Saga 贸易商无法满足其品牌级 QA/合规流程；且其需求以无源布线为主，交换机仅'少量'。曾 1 次回复，故在 C 中标注'可一次性报价无 logo 小批量'。",
  "notes": "若对方主动提出 MC/小交换机 OEM 需求再评估；不主动投入。c_sub=体量过大。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（0 人工回复；3 封机器人要求改发 purchase@intronics.nl）",
+   "type": "荷兰 TKH 集团线缆品牌 / 增值分销（51–200 人）——Simon 口径「不主动投入，体量过大」",
+   "sieve": "0",
+   "stop": "渠道墙：「We do not give any personal mail addresses and we will not respond on chat requests… send to purchase@intronics.nl」",
+   "revive": "对方主动",
+   "lane": "NL/EU",
+   "cadence": "2024-07 → 2026-09 去信 34 封（2026 起加发 s.parrilla@）；建议降为每半年 1 封到 purchase@intronics.nl",
+   "evidence": "k=ebeaec229356a6b6 / 7c60325f260e19b9 / f9743de7207b8d51 / 33f56a27fffb417a"
+  },
+  "situation": "ACT/Intronics 三次用同一段模板回：请发 purchase@intronics.nl，不给个人邮箱。之后 Saga 继续向 info@/sales@/个人（s.parrilla@）发了 30 多封群发，无任何人工回复。",
+  "need": "以无源为主，少量 switch/MC（用户记录）。",
+  "breakpoint": "对方流程明确，Saga 没有按流程走（purchase@）。按 Simon 口径不投入。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—",
+   "why": "Simon 口径",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；最多每半年 1 封到 purchase@intronics.nl",
+   "channel": "A 邮箱",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-07-01",
+    "dir": "来",
+    "who": "ACT Connectivity Team（模板）",
+    "quote": "send the information to purchase@intronics.nl… We do not give any personal mail addresses and we will not respond on chat requests.",
+    "why": "渠道墙原话",
+    "k": "ebeaec229356a6b6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

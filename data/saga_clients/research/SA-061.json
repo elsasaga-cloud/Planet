@@ -68,5 +68,63 @@
   "tier": 25,
   "why": "安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP"
  },
- "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?"
+ "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（要免费样机被付样规则筛掉）",
+   "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
+   "sieve": "2（「we need to replace a lot of switches」）",
+   "stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回",
+   "revive": "付样 1 台 8 口 PoE 管理型；微型客户复利低，不追",
+   "lane": "DE",
+   "cadence": "2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10",
+   "evidence": "k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c"
+  },
+  "situation": "Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。",
+  "need": "替换一批（数量不明）安防用 PoE 交换机，要管理型。",
+  "breakpoint": "付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。",
+  "saga_now": {
+   "p1": "STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）",
+   "tier": 25,
+   "price": "按规则",
+   "why": "来信再答，不主动",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不主动",
+   "channel": "A 邮箱",
+   "action": "来信时一次报 8 口 PoE 管理型付样价",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-05-13",
+    "dir": "来",
+    "who": "Andrew Walker（CEO）",
+    "quote": "We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem.",
+    "why": "免费样请求",
+    "k": "7136278ff3be94f4"
+   },
+   {
+    "date": "2025-05-13",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We do not do FREE samples.",
+    "why": "付样规则",
+    "k": "444284f57e12d0d2"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "来",
+    "who": "Andrew",
+    "quote": "Are the switches manageable ?",
+    "why": "最后一问",
+    "k": "f66547fc66c47b76"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

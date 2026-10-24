@@ -100,26 +100,34 @@
  },
  "email_hook": "Below the HN-8012-24 class core units, the 8-port gigabit PoE DIN switch and the gigabit media converter are the two edge pieces we can build in Hardened Networks packing, so I am quoting those rather than the 10G L3 platform for now.",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "佛罗里达 Express Supply / Hardened Networks（Mark Schulting，ITS/交通与 Juniper 渠道）。2024-05 → 2025-02 六次来信都是**明确规格 + 批量意向**：「32 port full layer 3 1U, 8 fiber 24 copper with a QSFP+ uplink」「all 10 gig fiber 1g/2.5g/10g, interested in buying in bulk」——但最后卡在芯片：2025-02-05「I need a broadcom chipset」。Simon 02-10 转报了两款博通整机（$1,000 / $4,000）后再无回音。",
-  "need": "全三层、1U、全 10G 光口（或 8 光 24 电 + QSFP+ 上联）、**Broadcom 芯片为硬条件**（其终端是 DOT/ITS 项目，规格写死芯片平台）。",
-  "breakpoint": "Saga 三条线（Marvell / CENTEC / Realtek）都不是 Broadcom；Simon 临时找的博通整机没有后续（无规格书、无样机）。这是**产品线不匹配**而不是跟进不力。",
+  "binding": {
+   "level": "未绑定（边界户：芯片线）",
+   "type": "美国 ITS 自有品牌加固交换机（HN 系列）+ Juniper/Fortinet 代理；Mark Schulting——第一档 OEM 类型",
+   "sieve": "2（给过精确规格：32 口全 L3 1U 8 光 24 电 + QSFP+；「all 10 gig fiber… buying in bulk」）",
+   "stop": "Broadcom 芯片硬要求（2025-02-05 / 03-03 / 04-28 三次「I need a broadcom chipset」）；Saga 线 = Marvell / CENTEC / Realtek；Simon 2025-02-10 转报两款 Broadcom 全光（1,000 / 4,000 USD）无回音；Alan 2025-04-28「we focus on Marvell… Broadcom is for high-end market only」",
+   "revive": "只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源",
+   "lane": "US",
+   "cadence": "2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28",
+   "evidence": "k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3"
+  },
+  "situation": "Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。",
+  "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
+  "breakpoint": "芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。",
   "saga_now": {
-   "p1": "STC-4816XGCGM",
-   "tier": 25,
-   "price": "$299.0 USD EXW（CNY 1600 ×1.25 ÷6.69）——仅作「非博通但全三层」备选",
-   "why": "他最接近的可做需求是 2025-01-27 看中的「12 光 24 电」= STC-4816XGCGM（4×10G SFP+ + 16 电 + 8 combo，L3，可工业级/双电源）；若博通是硬条件则无解，不投入",
+   "p1": "CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报",
+   "tier": 30,
+   "price": "CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者",
+   "why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」",
    "repeat": [],
    "gaps": [
-    "Broadcom 平台 Saga 不做（已明说）；只有在他接受 Marvell Prestera（同为 Moxa/Siemens 级）时才有戏",
-    "全 10G 24/48 口光口：Saga 只有 CENTEC（Hohunet STH-2C24XF / STH-2C12XF12XE），Simon 2025-01-28 已推过并说明国产芯片"
+    "2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺"
    ]
   },
   "next_move": {
-   "when": "低优先：季度一次",
-   "channel": "S 邮箱",
-   "action": "不再发产品图；只问一句芯片是否硬性要求，若是则归档为「博通专属需求」",
-   "one_question": "Is Broadcom written into your end-customers' specs, or would a Marvell Prestera based full-L3 switch (same silicon class as Moxa/Siemens industrial lines) be acceptable for evaluation?"
+   "when": "2026-11（一次）",
+   "channel": "A 邮箱 → mark@expresssupply.net",
+   "action": "一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC",
+   "one_question": "Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?"
   },
   "facts": [
    {
@@ -127,21 +135,13 @@
     "dir": "来",
     "who": "Mark Schulting",
     "quote": "I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink",
-    "why": "首个具体规格",
+    "why": "首个精确需求",
     "k": "d0066f467b2afcd7"
-   },
-   {
-    "date": "2025-01-26",
-    "dir": "来",
-    "who": "Mark Schulting",
-    "quote": "we are looking for another vendor to supply us some full layer 3 switches",
-    "why": "在换供应商窗口期",
-    "k": "e17a1b0f28d7f22f"
    },
    {
     "date": "2025-01-28",
     "dir": "来",
-    "who": "Mark Schulting",
+    "who": "Mark",
     "quote": "Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk",
     "why": "批量意向",
     "k": "185a3765640a0e3f"
@@ -149,15 +149,38 @@
    {
     "date": "2025-02-05",
     "dir": "来",
-    "who": "Mark Schulting",
+    "who": "Mark",
     "quote": "I need a broadcom chipset",
-    "why": "硬门槛 → Saga 无对应",
+    "why": "边界出现",
     "k": "5f00be3e081f8769"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G",
+    "why": "破例找货（来源未入库）",
+    "k": "eb80eea25e1a3bb5"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Mark",
+    "quote": "Do you have broadcom based solution?",
+    "why": "第三次",
+    "k": "898769c94b9fc197"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small...",
+    "why": "口径收回",
+    "k": "e8d9d485eebf828f"
    }
   ],
-  "proof_gaps": [
-   "A 邮箱是否接触过 Express Supply"
-  ],
-  "draft_en": null
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。（调研 2026-10-21；表内兴趣：没交流太多 说了做video system）
 - **为什么是 B 级**：**调研后定级 B**（微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。）；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-05-13 → 2025-05-13）；最近一次客户回复：2025-05-13：想测样
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动；按规则
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不主动 A 邮箱 来信时一次报 8 口 PoE 管理型付样价
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-061` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（要免费样机被付样规则筛掉）** ｜ 类型：德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档 ｜ 筛子：2（「we need to replace a lot of switches」） ｜ 停点：2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回 ｜ 复活：付样 1 台 8 口 PoE 管理型；微型客户复利低，不追 ｜ 通路：DE ｜ 节奏：2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10 ｜ 证据：k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c
+- **现状一句话**：Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。
+- **对方真实需求（有据）**：替换一批（数量不明）安防用 PoE 交换机，要管理型。
+- **断点 / 为什么停在这里**：付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）**（25% 档，按规则）——来信再答，不主动
+- **下一步（具体）**：不主动　A 邮箱　来信时一次报 8 口 PoE 管理型付样价
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-13 | 来 | Andrew Walker（CEO） | We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem. | 免费样请求 | `7136278ff3be94f4` |
+| 2025-05-13 | 去 | Alan | We do not do FREE samples. | 付样规则 | `444284f57e12d0d2` |
+| 2025-06-10 | 来 | Andrew | Are the switches manageable ? | 最后一问 | `f66547fc66c47b76` |
 
 ## 基本事实（事实/推断/假设分层）
 

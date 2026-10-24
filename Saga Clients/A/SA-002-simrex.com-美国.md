@@ -35,10 +35,33 @@ updated: 2026-10-24
 - **是谁**：美国纽约州 Buffalo 的工业无线数据通信设备制造商（1996 年成立，11–50 人，收入 $1–4.9M），品牌 ARIA Wireless / GLB Electronics / SIMREX；产品线含 DataMover 无线电台与 **DataMover 加固型管理交换机 MS-5 / MS-5GS / MSG-8E4S**（贴自有品牌的工业交换机）；行业：航空、轨道、能源、水务、交通 ITS。已成单。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 11 次（2025-02-08 → 2025-11-28）；最近一次客户回复：1.3：L3管理 后续未下单
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：MSG-8E4S（8 GE PoE + SFP 加固管理）对位 STI-288DGGPM，MS-5GS 对位 STI-144GP；DataMover 贴牌 30% 档；要求与 CRMS NMS 兼容的 SNMP 口径；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过） — J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价；130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）
+- **第一问（只问一个）**：Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first.
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 WhatsApp（Simon） 问 130 USD 款是否排进实验室；主动给 SNMP OID/MIB 文件
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-002` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（用户表「已成单 switch」；邮件无 PI——2024-12-05 起转 WhatsApp，成交细节不在邮箱）** ｜ 类型：美国工业无线品牌商（DataMover），自有品牌加固交换机 = 目前贴 Mikrotik（6/12 口，成本 $90–120 含加固外壳，自建云 NMS 调 Mikrotik API） ｜ 筛子：2–3 ｜ 停点：Mikrotik 锁定：2026-07-20 Frank「We have built a cloud NMS using the API… custom scripting and product validity certificate… Is there something that your switch does that MT does not do?」；Saga 1,500 USD CENTEC 10G 被拿去比 CRS326 $209/$289 ｜ 复活：Saga 交换机能被其 NMS 发现/诊断（SNMP/CLI/OID）——固件侧问题；Simon 2026-07-21 已给 130 USD 的 Marvell 对位款（同 CRS326 档），等 Frank 测 ｜ 通路：US；WhatsApp 为主（2024-12-05 起） ｜ 节奏：2024-12 → 2026-09 去信 25 封；最后实质来信 2026-07-20 ｜ 证据：k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3
+- **现状一句话**：Frank Neuperger 2024-12 一周内连问 5 封（管理？OS？每口功率？250 m 怎么跑以太网？56V 行不行？「Do you work for Saga Telecom?」），Simon 答「Saga Telecom is my sister's… 56V OK」后转 WhatsApp；用户表记成单。2026-07-20 Frank 的长信是 A 级里最有信息量的一封：他们私标 Mikrotik、靠 API 做云 NMS 和脚本增值、成本 90–120 美元，问 Saga 交换机能做什么 MT 做不到的。Simon 次日给了 130 USD 的 Marvell 24 口（与 CRS326 同级）。
+- **对方真实需求（有据）**：6/12/24 口加固管理交换机，能进其 NMS（API/SNMP 发现 + 吞吐测试），56V PoE，成本 ≤$120 级。
+- **断点 / 为什么停在这里**：客户系统依赖的是 Mikrotik 固件（J 系列「客户系统依赖固件」反向案例）；Saga 想替代就得在固件侧给出等价接口，不是价格。
+- **Saga 现在该推什么**：P1 **Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）**（30% 档，130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档））——J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价
+  - 做不了 / 要先核的：2026-07-21 报价型号（附件名 STC-4…）；WhatsApp 成交内容未入库——成单型号/数量不明
+- **下一步（具体）**：2026-11　WhatsApp（Simon）　问 130 USD 款是否排进实验室；主动给 SNMP OID/MIB 文件
+  - 第一问（只问一个）：Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-12-04 | 来 | Frank Neuperger | Is this a managed switch? If so, what operating system? What is max power per port?… With the specified 250 m POE distance, how do you get ETH connectivity? | 工程师式追问 | `95d30a86d792cc0d` |
+| 2024-12-06 | 来 | Frank | Do you work for Saga Telecom? Can we use 56V with any of the products… Most of our POE is 56V. | 身份 + 56V | `d83e2c902092c388` |
+| 2024-12-07 | 去 | Simon | Saga Telecom is my sister's. I deal with foreign trade only… 56V is OK. For PoE models, the max input is 57V | 身份口径（历史） | `a5829330c3f7b38f` |
+| 2026-07-20 | 来 | Frank | we currently use Mikrotik… We have built a cloud NMS using the API… Our cost $90 to $120 including hardened metal packaging… your $1500 pricing is at least 5x… Is there something that your switch does that MT does not do? | 锁定与成本基准 | `5ad38241fd821cfe` |
+| 2026-07-21 | 去 | Simon | We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input. | Saga 对位 | `06610cfbde4173c3` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变
 
 ## 基本事实（事实/推断/假设分层）
 

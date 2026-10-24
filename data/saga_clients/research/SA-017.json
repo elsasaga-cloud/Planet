@@ -155,5 +155,76 @@
   "tier": 30,
   "why": "NEXT-POE8022GDT / POE9628GDT（8 PoE + 2 SFP 工业）与 STI-288DGGPM 同位；16 口位 STI-21616GP；OEM 30% 档；bypass 另核"
  },
- "email_hook": "Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU."
+ "email_hook": "Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表）",
+   "type": "韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型",
+   "sieve": "2",
+   "stop": "价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音",
+   "revive": "370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面",
+   "lane": "KR（Simon 2026-08-02：韩国客户「一些」）",
+   "cadence": "2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26",
+   "evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef"
+  },
+  "situation": "Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。",
+  "need": "16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。",
+  "breakpoint": "价格筛子生效（对方要 Realtek 价位的 Marvell 机）；但 bypass 是 Saga 少有人问的差异品，停在 280 USD 后没人再问一句。",
+  "saga_now": {
+   "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
+   "tier": 30,
+   "price": "$225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
+   "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追",
+   "repeat": [],
+   "gaps": [
+    "370W 外壳款的 SmartByte 型号与价格未在 `价格主表` 标出",
+    "Kim 三次到访的内容（用户表）无邮件痕迹"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → eznet66@naver.com（Kim 本人，不发 sales@）",
+   "action": "一句话问 bypass 2×2 项目；附 FBP 规格书",
+   "one_question": "Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-04",
+    "dir": "来",
+    "who": "Roadman Kim",
+    "quote": "yr price is higher but yr spec is lower. 1. we think 16 port industrial poe switch is better to support over 300~380w… based on this spec, a price should be much cheaper.",
+    "why": "价格 vs 规格",
+    "k": "a073d6411a2a52db"
+   },
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go… 16-port copper, non-PoE: 95usd/pc 16-port PoE+2*1G SFP: 170usd/pc",
+    "why": "C2 筛子的书面原话 + 报价",
+    "k": "7a23a71b55abbff5"
+   },
+   {
+    "date": "2025-05-26",
+    "dir": "来",
+    "who": "Kim",
+    "quote": "pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub?",
+    "why": "bypass 需求",
+    "k": "b5cbfcb83f46328a"
+   },
+   {
+    "date": "2025-05-26",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "both 4*4 and 2*2 are available… Its price is 280usd/pc… standalone bypass unit… unavailable for now",
+    "why": "bypass 报价",
+    "k": "6b7ea5b03a91b1ef"
+   }
+  ],
+  "proof_gaps": [
+   "用户表「三次到访 / Secon 参展」无邮件印证"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

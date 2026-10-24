@@ -35,10 +35,31 @@ updated: 2026-10-24
 - **是谁**：美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。（调研 2026-10-21；表内兴趣：工业FS 机架式 bypass MC 几乎全线武汉迈威）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-08 → 2025-10-28）；最近一次客户回复：2024-05-28：price
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：并入 SA-068 的那一封（STI-480XGGM $163.2 @30%） — 去重；同 SA-068
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：不单独发；随 SA-068 — 群发名单里 bluewarrior 与 dymec 合并为一户
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-050` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音）** ｜ 类型：美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-068 DYMEC 同一组织** ｜ 筛子：2 ｜ 停点：2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出 ｜ 复活：与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致 ｜ 通路：US ｜ 节奏：2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28 ｜ 证据：k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7
+- **现状一句话**：BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。
+- **对方真实需求（有据）**：同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。
+- **断点 / 为什么停在这里**：重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。
+- **Saga 现在该推什么**：P1 **并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）**（30% 档，同 SA-068）——去重
+  - 做不了 / 要先核的：BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）
+- **下一步（具体）**：不单独发；随 SA-068　—　群发名单里 bluewarrior 与 dymec 合并为一户
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-28 | 来 | sales@bluewarrior.com | Picture and description do not match | 资料问题 | `b9f498bd4277c351` |
+| 2024-05-28 | 来 | sales@bluewarrior.com | What is the price? | 询价 | `9a4567efd0384ac8` |
+| 2024-05-28 | 去 | Simon | 140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V | 报价 | `9a5fb90a606c4680` |
+| 2025-03-19 | 来 | sales@bluewarrior.com（自动回复） | Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com | 与 DYMEC 同组织的证据 | `84ff2d24a5322ed7` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：两家的法律关系未在官网交叉印证
 
 ## 基本事实（事实/推断/假设分层）
 

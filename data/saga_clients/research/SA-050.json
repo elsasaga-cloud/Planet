@@ -155,5 +155,75 @@
   "tier": 30,
   "why": "DIN 8 PoE + 2 SFP 管理型是迈威线中最走量位，Saga STI-288DGGPM 可做 BW 贴牌二供；机架位 STC-424DGGPM-280W；30% 档"
  },
- "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic."
+ "email_hook": "For the DIN-rail 8-port PoE managed slot in the BW range, a Marvell-based second source in BlueWARRIOR packing with CE/FCC files is the unit I can quote today, and the 24-port rack PoE version follows the same logic.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（一次询价：2024-05-28 要价 → Simon 140 USD STI-288DGGPM-2BT → 无回音）",
+   "type": "美国自有品牌工业以太网（BW 系列，官网明码标价；用户表判「几乎全线武汉迈威贴牌」）——第一档类型；**sales@bluewarrior.com 的自动回复 = Tom West / Thom Sherer / DYMEC 电话 → 与 SA-068 DYMEC 同一组织**",
+   "sieve": "2",
+   "stop": "2024-05-28 两句「Picture and description do not match」「What is the price?」→ Simon 140 USD → 无下文；白牌来源已固定（迈威），资料不严谨被一眼看出",
+   "revive": "与 DYMEC 合并处理：只发工业温度款 + 规格书图文一致",
+   "lane": "US",
+   "cadence": "2024-05 → 2026-09 去信 29 封；最后人工来信 2024-05-28",
+   "evidence": "k=b9f498bd4277c351 / 9a4567efd0384ac8 / 9a5fb90a606c4680 / 84ff2d24a5322ed7"
+  },
+  "situation": "BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。",
+  "need": "同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。",
+  "breakpoint": "重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。",
+  "saga_now": {
+   "p1": "并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）",
+   "tier": 30,
+   "price": "同 SA-068",
+   "why": "去重",
+   "repeat": [],
+   "gaps": [
+    "BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）"
+   ]
+  },
+  "next_move": {
+   "when": "不单独发；随 SA-068",
+   "channel": "—",
+   "action": "群发名单里 bluewarrior 与 dymec 合并为一户",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-05-28",
+    "dir": "来",
+    "who": "sales@bluewarrior.com",
+    "quote": "Picture and description do not match",
+    "why": "资料问题",
+    "k": "b9f498bd4277c351"
+   },
+   {
+    "date": "2024-05-28",
+    "dir": "来",
+    "who": "sales@bluewarrior.com",
+    "quote": "What is the price?",
+    "why": "询价",
+    "k": "9a4567efd0384ac8"
+   },
+   {
+    "date": "2024-05-28",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V",
+    "why": "报价",
+    "k": "9a5fb90a606c4680"
+   },
+   {
+    "date": "2025-03-19",
+    "dir": "来",
+    "who": "sales@bluewarrior.com（自动回复）",
+    "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
+    "why": "与 DYMEC 同组织的证据",
+    "k": "84ff2d24a5322ed7"
+   }
+  ],
+  "proof_gaps": [
+   "两家的法律关系未在官网交叉印证"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
