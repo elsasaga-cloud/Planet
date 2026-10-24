@@ -277,7 +277,7 @@ Hi, Hussain,
 Last year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.
 
 Two things from our side:
-1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.
+1. Volume: at 400 + 100 pcs we quote a volume tier, not the per-unit price you saw in March 2025.
 2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.
 
 One question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.

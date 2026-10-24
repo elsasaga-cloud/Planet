@@ -14082,7 +14082,7 @@
 "tier": 25,
 "why": "集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档"
 },
-"email_hook": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.",
+"email_hook": "For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins.",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@sicurmax.com, massimo@sicurmax.com；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
@@ -63440,7 +63440,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈"
 },
-"email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?",
+"email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
@@ -63904,7 +63904,7 @@
 "tier": 30,
 "why": "OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」"
 },
-"email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?",
+"email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?",
 "mail_review": {
 "binding": {
 "level": "未绑定（邮件 23 封 0 回，Opened 2 次（最近 2025-08-13））",
@@ -63920,9 +63920,9 @@
 "need": "12 光 12 电（ONV 对位）。",
 "breakpoint": "—",
 "saga_now": {
-"p1": "SmartByte 12 光 12 电",
+"p1": "STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo）",
 "tier": 25,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
+"price": "首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -63931,7 +63931,7 @@
 "when": "2027-Q1",
 "channel": "A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）",
 "action": "一封对位表",
-"one_question": ""
+"one_question": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?"
 },
 "facts": [
 {
@@ -90323,7 +90323,7 @@
 "tier": 25,
 "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
 },
-"email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?",
+"email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
@@ -107809,7 +107809,7 @@
 ],
 "draft_en": {
 "subject": "MOH-TA-170325 — 24-port industrial PoE x400",
-"body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the per-unit price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }

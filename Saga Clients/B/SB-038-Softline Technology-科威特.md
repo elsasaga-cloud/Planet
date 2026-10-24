@@ -109,7 +109,7 @@ updated: 2026-10-24
   - 2025-11 主动要公司信息 + 价格
 - **风险/边界**：gmail 联系、主体不可核；海湾项目付款：T/T 预付
 - **Saga 对位结论**：P1 STI-21616GP（25% 档）——2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。
-- **邮件切入句（英文）**：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
+- **邮件切入句（英文）**：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -233,7 +233,7 @@ updated: 2026-10-24
 ```text
 Hi Anand,
 
-Picking up our earlier exchange about PoE / industrial switches. Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
+Picking up our earlier exchange about PoE / industrial switches. Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?
 
 We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

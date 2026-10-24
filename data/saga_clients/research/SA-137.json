@@ -117,7 +117,7 @@
     "tier": 20,
     "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈"
   },
-  "email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?",
+  "email_hook": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",

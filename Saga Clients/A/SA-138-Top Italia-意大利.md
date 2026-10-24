@@ -36,8 +36,8 @@ updated: 2026-10-24
 - **是谁**：意大利西西里 Misterbianco（CT）的安防进口分销商 Top Italia S.r.l.（2004-06 成立；P.IVA 04592850871；进口视频监控/防盗/消防产品并以自有品牌 Videostar 分销；Secolink 意大利独家代理，Texecom/Teletek 防盗分销，Teletek/Kentec/Apollo/Argus 消防分销；总机 +39 095 471449）。展会（IFSEC UK 2023）记录：从 ONV 买、质量满意但价格有时觉得高；问多光口 12 光 12 电、WiFi（Saga 不供）、芯片与电源，比较专业；之后 14 次推送 0 回复（发往 info@）。加厚发现：官网公开商务总监 Alfredo Timpanaro 直邮与手机、进口负责人 Tommaso Daniele——改向具名 KP 发 ONV 对位报价。（调研 2026-10-21；表内兴趣：从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业）
 - **为什么是 A 级**：**调研后定级 A**（A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo） — 已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro） 一封对位表
 
@@ -49,8 +49,9 @@ updated: 2026-10-24
 - **现状一句话**：23 封被打开 2 次。
 - **对方真实需求（有据）**：12 光 12 电（ONV 对位）。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **SmartByte 12 光 12 电**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM（ONV 对位主力）+ STC-4168XGGCM（他问过的 12 光 12 电 → 16 SFP + 8 Combo）**（25% 档，首触锚价 STC-28DGGPM $87.4 + STC-4168XGGCM $408.1 EXW（30% 贴牌档——Videostar 自有品牌；PDF 上限 $99 / $413；第 73 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　A 邮箱 → alfredo.timpanaro@topsicurezza.com（Alfredo Timpanaro）　一封对位表
+  - 第一问（只问一个）：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -125,7 +126,7 @@ updated: 2026-10-24
   - 问 12 光 12 电 → 机架式 STC-4168XGGCM（16 SFP + 8 Combo）
 - **风险/边界**：14 次推送 0 回复——全部发往 info@，未触达 KP；消防线守界
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」
-- **邮件切入句（英文）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?
+- **邮件切入句（英文）**：Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -281,7 +282,7 @@ updated: 2026-10-24
 ```text
 Hi Alfredo,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP (Marvell, STC-28DGGPM) is $87.4 USD EXW with your logo in the web UI (printed carton from 200 sets), and the 16-SFP + 8-combo aggregation unit you asked us about at IFSEC 2023 (STC-4168XGGCM) is $408.1 USD EXW, MOQ 1, 15-day validity — shall I send the model-by-model comparison against your current ONV codes?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

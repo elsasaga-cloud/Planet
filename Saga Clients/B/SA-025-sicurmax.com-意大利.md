@@ -116,7 +116,7 @@ updated: 2026-10-24
   - 已成交 + WA（用户表）；公共机构/工地项目持续——PoE 交换机复购型；军方/NATO 资质只作背景，不供军用项目
 - **风险/边界**：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档
-- **邮件切入句（英文）**：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
+- **邮件切入句（英文）**：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -279,7 +279,7 @@ updated: 2026-10-24
 ```text
 Hi Massimo,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
+Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches ship within 3–5 working days EXW, and the DIN-rail 8-port version covers the site cabins.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

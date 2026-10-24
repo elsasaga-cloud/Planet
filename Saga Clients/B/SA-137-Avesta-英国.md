@@ -129,7 +129,7 @@ updated: 2026-10-24
   - 已在卖自有编码白牌 PoE（HA-POES806）→ 具备 OEM 采购习惯；明确问 2 光 24 电非管理 → Saga Realtek 线 STC-2024GP（2 SFP + 24 GE PoE 300W，列表 $93.5）正对
 - **风险/边界**：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供
 - **Saga 对位结论**：P1 STC-2024GP（20% 档）——分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈
-- **邮件切入句（英文）**：For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?
+- **邮件切入句（英文）**：For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -286,7 +286,7 @@ updated: 2026-10-24
 ```text
 Hi Hamid,
 
-Picking up our earlier exchange about PoE / industrial switches. For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our list price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?
+Picking up our earlier exchange about PoE / industrial switches. For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 
