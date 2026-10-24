@@ -1,76 +1,93 @@
 {
- "code": "SB-1339",
- "name_official": "Switchcom Distribution (Pty) Ltd",
- "website_status": "未核（本轮只用 S 邮箱证据）",
- "summary": "南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。",
- "type": "网络设备分销商",
- "size": "中（有销售台 + 多客户经理）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "email",
-   "claim": "销售台把 Simon 当询价客户",
-   "quote": "Kevin received your request and is currently working diligently to provide you with pricing. Please be assured that your request is a top priority for us",
-   "url": "data/gmail_s/messages/2024/2024-07.jsonl（from sales@switchcom.co.za）",
-   "date": "2024-07-08"
+  "code": "SB-1339",
+  "name_official": "Switchcom Distribution (Pty) Ltd",
+  "website_status": "未核（本轮只用 S 邮箱证据）",
+  "summary": "南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。",
+  "type": "网络设备分销商",
+  "size": "中（有销售台 + 多客户经理）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "email",
+      "claim": "销售台把 Simon 当询价客户",
+      "quote": "Kevin received your request and is currently working diligently to provide you with pricing. Please be assured that your request is a top priority for us",
+      "url": "data/gmail_s/messages/2024/2024-07.jsonl（from sales@switchcom.co.za）",
+      "date": "2024-07-08"
+    },
+    {
+      "kind": "email",
+      "claim": "客户经理发来自家报价单（方向反了）",
+      "quote": "Please see the attached sales quote above on what we can offer and stock is available.（附 Quotation QU509692.PDF）Kevin Maphanga, Account Manager, Office: +27(0)10 007 2555",
+      "url": "data/gmail_s/messages/2024/2024-12.jsonl",
+      "date": "2024-12-12"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Kevin Maphanga",
+      "role": "Account Manager（销售侧，非采购）",
+      "email": "kevin@switchcom.co.za",
+      "phone": "+27 (0)10 007 2555",
+      "source": "S 邮箱签名"
+    }
+  ],
+  "notes": "分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。",
+  "researched_at": "2026-10-22",
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "分销商 → 20% 档；走量口型 24 口 PoE"
   },
-  {
-   "kind": "email",
-   "claim": "客户经理发来自家报价单（方向反了）",
-   "quote": "Please see the attached sales quote above on what we can offer and stock is available.（附 Quotation QU509692.PDF）Kevin Maphanga, Account Manager, Office: +27(0)10 007 2555",
-   "url": "data/gmail_s/messages/2024/2024-12.jsonl",
-   "date": "2024-12-12"
+  "grade_override": "B",
+  "override_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（4 封：2 封 Switchcom 工单 + Kevin 2024-12 反向发来 Switchcom 报价单（把 Saga 当买家）+ elberts@firsttech 2024-08「cannot receive samples」）",
+      "type": "南非网络分销（Switchcom）",
+      "sieve": "1",
+      "stop": "角色错位：对方在卖",
+      "revive": "不动",
+      "lane": "ZA",
+      "cadence": "不动",
+      "evidence": "k=a7d9a3952458bd64 / 40e70b0706c53fbb"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动（同行分销商；把 Saga 当买家）",
+      "channel": "—",
+      "action": "若 Simon 想做南非分销：找 Switchcom 采购/产品经理谈白牌供货，不再用群发",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-08",
+        "dir": "来",
+        "who": "Switchcom Distribution 工单机器人",
+        "quote": "Kevin received your request and is currently working diligently to provide you with pricing… your request is a top priority for us",
+        "why": "Saga 的推销信被当成「客户询价」进了对方的销售工单——Switchcom 是南非分销商（Ubiquiti/MikroTik 类），其系统把一切来信视为买家",
+        "k": "gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2024-12-12",
+        "dir": "来",
+        "who": "Kevin Maphanga（Account Manager, Switchcom）",
+        "quote": "Please see the attached sales quote above on what we can offer and stock is available.（回 Simon「48 Port PoE Managed Switch, 300usd/pc」）",
+        "why": "对方反向给 Saga 报价 + 有现货 = 同行分销商，不是买家；Saga 的 300 USD 52 口 L2+ 价对它没有意义，除非谈 OEM/白牌供货。维持不动；若要动，只能以「supplier onboarding」口径找其采购而不是 Account Manager",
+        "k": "gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Kevin Maphanga",
-   "role": "Account Manager（销售侧，非采购）",
-   "email": "kevin@switchcom.co.za",
-   "phone": "+27 (0)10 007 2555",
-   "source": "S 邮箱签名"
-  }
- ],
- "notes": "分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。",
- "researched_at": "2026-10-22",
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "分销商 → 20% 档；走量口型 24 口 PoE"
- },
- "grade_override": "B",
- "override_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（4 封：2 封 Switchcom 工单 + Kevin 2024-12 反向发来 Switchcom 报价单（把 Saga 当买家）+ elberts@firsttech 2024-08「cannot receive samples」）",
-   "type": "南非网络分销（Switchcom）",
-   "sieve": "1",
-   "stop": "角色错位：对方在卖",
-   "revive": "不动",
-   "lane": "ZA",
-   "cadence": "不动",
-   "evidence": "k=a7d9a3952458bd64 / 40e70b0706c53fbb"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

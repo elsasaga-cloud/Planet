@@ -1,125 +1,144 @@
 {
- "code": "SB-1337",
- "name_official": "Milliseconds Evolution Limited",
- "website_status": "未核（本轮只用 S 邮箱证据）",
- "summary": "英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。",
- "type": "网络集成/MikroTik 顾问（拟经销）",
- "size": "新公司（自述 My company is new here）",
- "brands_seen": [
-  "MikroTik"
- ],
- "evidence": [
-  {
-   "kind": "email",
-   "claim": "主动提出做英国经销",
-   "quote": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?",
-   "url": "data/gmail_s/messages/2026/2026-09.jsonl（from ifolayan@millievolution.com，主题 Re: 24 Port PoE Managed Switch）",
-   "date": "2026-09-29"
-  },
-  {
-   "kind": "email",
-   "claim": "背景：MikroTik 20 年、按项目做、愿意订样品",
-   "quote": "For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years… I will be opened to ordering some samples.",
-   "url": "data/gmail_s/messages/2026/2026-09.jsonl",
-   "date": "2026-09-30"
-  },
-  {
-   "kind": "email",
-   "claim": "Simon 的样品口径（伙伴价、样品款抵首单）与 P1 推荐",
-   "quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… the STC-424XGGPM-280W(180USD/PC) would be a good starting point",
-   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
-   "date": "2026-10-03"
-  },
-  {
-   "kind": "email",
-   "claim": "样品形式发票已开（2 台）",
-   "quote": "please see attached information. Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders.（附 STSC-20261017-001.pdf + PL_STSC-20261017-001.pdf）",
-   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
-   "date": "2026-10-17"
-  },
-  {
-   "kind": "email",
-   "claim": "客户暂缓付款，等项目",
-   "quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. Hopefully, I will make the order and payment soon.",
-   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
-   "date": "2026-10-17"
-  },
-  {
-   "kind": "email",
-   "claim": "收货地址（公司注册地）",
-   "quote": "Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX",
-   "url": "data/gmail_s/messages/2026/2026-10.jsonl",
-   "date": "2026-10-17"
-  }
- ],
- "kp": [
-  {
-   "name": "Iyiola Folayan",
-   "role": "负责人 / MikroTik 认证顾问",
-   "email": "ifolayan@millievolution.com",
-   "phone": "",
-   "source": "S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list"
-  }
- ],
- "notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
- "researched_at": "2026-10-22",
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 20,
-  "why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
- },
- "grade_override": "B",
- "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
- "mail_review": {
-  "binding": {
-   "level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」）",
-   "type": "伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法",
-   "sieve": "4（走到样品 PI，未付）",
-   "stop": "现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确",
-   "revive": "等他的项目；不催。若他来，样品款抵首单（已承诺）",
-   "lane": "UK 主攻",
-   "cadence": "不动；他来再动",
-   "evidence": "k=9dced38d1d03963a（目录 + 分销问）；3bc111136e01bedb（Simon：暂无 UK 分销，先合作再谈）；29898c900941a648（project by project）；5a52d22fbd2a46da（STC-424XGGPM-280W $180 起步）；5ca2dee1999bade7（2 台样品 PI）；d90558425d8bf645（付不起）；0590f6770f0e3414（Let's wait）"
-  },
-  "situation": "三周内从群发命中走到样品发票，再停在付款——节奏对、对象弱。Simon 的处理（不给免费样、样品款抵首单、暂不谈分销、不催）符合规则。MikroTik 顾问对 L2+ Web UI 的技术反馈会有价值，但要等他有项目。",
-  "need": "24 口 PoE + 10G 上联（STC-424XGGPM-280W）起步样机。",
-  "breakpoint": "客户现金流。",
-  "saga_now": {
-   "p1": "STC-424XGGPM-280W $180",
-   "tier": 25,
-   "price": "$180（2026-10 报价，样品款抵首单）",
-   "why": "英国 + 愿意测试 + 技术背景",
-   "repeat": [],
-   "gaps": [
-    "首个项目时间"
-   ]
-  },
-  "next_move": {
-   "when": "客户触发",
-   "channel": "S 邮箱",
-   "action": "等",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-17",
-    "dir": "来",
-    "who": "Iyiola Folayan",
-    "quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
-    "why": "样品 PI 搁置",
-    "k": "d90558425d8bf645"
-   },
-   {
-    "date": "2026-10-03",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point",
-    "why": "付样规则",
-    "k": "5a52d22fbd2a46da"
-   }
+  "code": "SB-1337",
+  "name_official": "Milliseconds Evolution Limited",
+  "website_status": "未核（本轮只用 S 邮箱证据）",
+  "summary": "英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。",
+  "type": "网络集成/MikroTik 顾问（拟经销）",
+  "size": "新公司（自述 My company is new here）",
+  "brands_seen": [
+    "MikroTik"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "email",
+      "claim": "主动提出做英国经销",
+      "quote": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?",
+      "url": "data/gmail_s/messages/2026/2026-09.jsonl（from ifolayan@millievolution.com，主题 Re: 24 Port PoE Managed Switch）",
+      "date": "2026-09-29"
+    },
+    {
+      "kind": "email",
+      "claim": "背景：MikroTik 20 年、按项目做、愿意订样品",
+      "quote": "For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years… I will be opened to ordering some samples.",
+      "url": "data/gmail_s/messages/2026/2026-09.jsonl",
+      "date": "2026-09-30"
+    },
+    {
+      "kind": "email",
+      "claim": "Simon 的样品口径（伙伴价、样品款抵首单）与 P1 推荐",
+      "quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… the STC-424XGGPM-280W(180USD/PC) would be a good starting point",
+      "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+      "date": "2026-10-03"
+    },
+    {
+      "kind": "email",
+      "claim": "样品形式发票已开（2 台）",
+      "quote": "please see attached information. Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders.（附 STSC-20261017-001.pdf + PL_STSC-20261017-001.pdf）",
+      "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+      "date": "2026-10-17"
+    },
+    {
+      "kind": "email",
+      "claim": "客户暂缓付款，等项目",
+      "quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. Hopefully, I will make the order and payment soon.",
+      "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+      "date": "2026-10-17"
+    },
+    {
+      "kind": "email",
+      "claim": "收货地址（公司注册地）",
+      "quote": "Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX",
+      "url": "data/gmail_s/messages/2026/2026-10.jsonl",
+      "date": "2026-10-17"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Iyiola Folayan",
+      "role": "负责人 / MikroTik 认证顾问",
+      "email": "ifolayan@millievolution.com",
+      "phone": "",
+      "source": "S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list"
+    }
+  ],
+  "notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
+  "researched_at": "2026-10-22",
+  "saga_fit": {
+    "p1": "STC-424XGGPM-280W",
+    "tier": 20,
+    "why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
+  },
+  "grade_override": "B",
+  "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」）",
+      "type": "伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法",
+      "sieve": "4（走到样品 PI，未付）",
+      "stop": "现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确",
+      "revive": "等他的项目；不催。若他来，样品款抵首单（已承诺）",
+      "lane": "UK 主攻",
+      "cadence": "不动；他来再动",
+      "evidence": "k=9dced38d1d03963a（目录 + 分销问）；3bc111136e01bedb（Simon：暂无 UK 分销，先合作再谈）；29898c900941a648（project by project）；5a52d22fbd2a46da（STC-424XGGPM-280W $180 起步）；5ca2dee1999bade7（2 台样品 PI）；d90558425d8bf645（付不起）；0590f6770f0e3414（Let's wait）"
+    },
+    "situation": "三周内从群发命中走到样品发票，再停在付款——节奏对、对象弱。Simon 的处理（不给免费样、样品款抵首单、暂不谈分销、不催）符合规则。MikroTik 顾问对 L2+ Web UI 的技术反馈会有价值，但要等他有项目。",
+    "need": "24 口 PoE + 10G 上联（STC-424XGGPM-280W）起步样机。",
+    "breakpoint": "客户现金流。",
+    "saga_now": {
+      "p1": "STC-424XGGPM-280W $180",
+      "tier": 25,
+      "price": "$180（2026-10 报价，样品款抵首单）",
+      "why": "英国 + 愿意测试 + 技术背景",
+      "repeat": [],
+      "gaps": [
+        "首个项目时间"
+      ]
+    },
+    "next_move": {
+      "when": "2026-12 上旬（10-19「Let's wait」后 6–7 周）",
+      "channel": "S 邮箱同一线程",
+      "action": "只问一句项目是否落地；不降样机价、不给账期",
+      "one_question": "Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready."
+    },
+    "facts": [
+      {
+        "date": "2026-09-29",
+        "dir": "来",
+        "who": "Iyiola Folayan（Milliseconds Evolution Ltd，伦敦）",
+        "quote": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years",
+        "why": "新注册的一人公司（128 City Road 是虚拟办公地址）、MikroTik 顾问背景、想当英国分销——Simon 09-30 答「no distributor in the UK… open to discussing after we get to know each other」= 正确的距离",
+        "k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2026-10-03",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point",
+        "why": "付样规则",
+        "k": "5a52d22fbd2a46da"
+      },
+      {
+        "date": "2026-10-17",
+        "dir": "来",
+        "who": "Iyiola Folayan",
+        "quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
+        "why": "样品 PI 搁置",
+        "k": "d90558425d8bf645"
+      },
+      {
+        "date": "2026-10-17",
+        "dir": "去",
+        "who": "Simon → Iyiola",
+        "quote": "Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」",
+        "why": "付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来",
+        "k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: 24 Port PoE Managed Switch — whenever a project lands",
+      "body": "Hi Iyiola,\n\nJust checking in as promised — did a project come through on your side? The 2-pc evaluation PI still stands and is credited against your first commercial order whenever you are ready.\n\nBest regards,\nSimon"
+    },
+    "as_of": "2026-10-24"
+  }
 }

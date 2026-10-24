@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W $180 — 英国 + 愿意测试 + 技术背景；$180（2026-10 报价，样品款抵首单）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
 - **最大未知**：年走量与现供应商
-- **下一步**：客户触发 S 邮箱 等
+- **下一步**：2026-12 上旬（10-19「Let's wait」后 6–7 周） S 邮箱同一线程 只问一句项目是否落地；不降样机价、不给账期
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,12 +50,15 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：客户现金流。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W $180**（25% 档，$180（2026-10 报价，样品款抵首单））——英国 + 愿意测试 + 技术背景
   - 做不了 / 要先核的：首个项目时间
-- **下一步（具体）**：客户触发　S 邮箱　等
+- **下一步（具体）**：2026-12 上旬（10-19「Let's wait」后 6–7 周）　S 邮箱同一线程　只问一句项目是否落地；不降样机价、不给账期
+  - 第一问（只问一个）：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-17 | 来 | Iyiola Folayan | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. | 样品 PI 搁置 | `d90558425d8bf645` |
+| 2026-09-29 | 来 | Iyiola Folayan（Milliseconds Evolution Ltd，伦敦） | Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years | 新注册的一人公司（128 City Road 是虚拟办公地址）、MikroTik 顾问背景、想当英国分销——Simon 09-30 答「no distributor in the UK… open to discussing after we get to know each other」= 正确的距离 | `gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）` |
 | 2026-10-03 | 去 | Simon | evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point | 付样规则 | `5a52d22fbd2a46da` |
+| 2026-10-17 | 来 | Iyiola Folayan | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. | 样品 PI 搁置 | `d90558425d8bf645` |
+| 2026-10-17 | 去 | Simon → Iyiola | Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」 | 付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来 | `gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -208,25 +211,18 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Re: 24 Port PoE Managed Switch — whenever a project lands
 
 ```text
 Hi Iyiola,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+Just checking in as promised — did a project come through on your side? The 2-pc evaluation PI still stands and is credited against your first commercial order whenever you are ready.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动（同行分销商；把 Saga 当买家） — 若 Simon 想做南非分销：找 Switchcom 采购/产品经理谈白牌供货，不再用群发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,12 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动（同行分销商；把 Saga 当买家）　—　若 Simon 想做南非分销：找 Switchcom 采购/产品经理谈白牌供货，不再用群发
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-08 | 来 | Switchcom Distribution 工单机器人 | Kevin received your request and is currently working diligently to provide you with pricing… your request is a top priority for us | Saga 的推销信被当成「客户询价」进了对方的销售工单——Switchcom 是南非分销商（Ubiquiti/MikroTik 类），其系统把一切来信视为买家 | `gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）` |
+| 2024-12-12 | 来 | Kevin Maphanga（Account Manager, Switchcom） | Please see the attached sales quote above on what we can offer and stock is available.（回 Simon「48 Port PoE Managed Switch, 300usd/pc」） | 对方反向给 Saga 报价 + 有现货 = 同行分销商，不是买家；Saga 的 300 USD 52 口 L2+ 价对它没有意义，除非谈 OEM/白牌供货。维持不动；若要动，只能以「supplier onboarding」口径找其采购而不是 Account Manager | `gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）` |
 
 ## 基本事实（事实/推断/假设分层）
 

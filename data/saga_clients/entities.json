@@ -204897,12 +204897,28 @@
 ]
 },
 "next_move": {
-"when": "客户触发",
-"channel": "S 邮箱",
-"action": "等",
-"one_question": ""
+"when": "2026-12 上旬（10-19「Let's wait」后 6–7 周）",
+"channel": "S 邮箱同一线程",
+"action": "只问一句项目是否落地；不降样机价、不给账期",
+"one_question": "Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready."
 },
 "facts": [
+{
+"date": "2026-09-29",
+"dir": "来",
+"who": "Iyiola Folayan（Milliseconds Evolution Ltd，伦敦）",
+"quote": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) For now, I just work project by project. My plan is to start a reseller partner agreement. My company is new here… I have been working with mikrotik for over 20 years",
+"why": "新注册的一人公司（128 City Road 是虚拟办公地址）、MikroTik 顾问背景、想当英国分销——Simon 09-30 答「no distributor in the UK… open to discussing after we get to know each other」= 正确的距离",
+"k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2026-10-03",
+"dir": "去",
+"who": "Simon",
+"quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point",
+"why": "付样规则",
+"k": "5a52d22fbd2a46da"
+},
 {
 "date": "2026-10-17",
 "dir": "来",
@@ -204912,16 +204928,19 @@
 "k": "d90558425d8bf645"
 },
 {
-"date": "2026-10-03",
+"date": "2026-10-17",
 "dir": "去",
-"who": "Simon",
-"quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point",
-"why": "付样规则",
-"k": "5a52d22fbd2a46da"
+"who": "Simon → Iyiola",
+"quote": "Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」",
+"why": "付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来",
+"k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 24 Port PoE Managed Switch — whenever a project lands",
+"body": "Hi Iyiola,\n\nJust checking in as promised — did a project come through on your side? The 2-pc evaluation PI still stands and is credited against your first commercial order whenever you are ready.\n\nBest regards,\nSimon"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -205317,12 +205336,29 @@
 "gaps": []
 },
 "next_move": {
-"when": "不动",
+"when": "不动（同行分销商；把 Saga 当买家）",
 "channel": "—",
-"action": "—",
+"action": "若 Simon 想做南非分销：找 Switchcom 采购/产品经理谈白牌供货，不再用群发",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-07-08",
+"dir": "来",
+"who": "Switchcom Distribution 工单机器人",
+"quote": "Kevin received your request and is currently working diligently to provide you with pricing… your request is a top priority for us",
+"why": "Saga 的推销信被当成「客户询价」进了对方的销售工单——Switchcom 是南非分销商（Ubiquiti/MikroTik 类），其系统把一切来信视为买家",
+"k": "gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-12-12",
+"dir": "来",
+"who": "Kevin Maphanga（Account Manager, Switchcom）",
+"quote": "Please see the attached sales quote above on what we can offer and stock is available.（回 Simon「48 Port PoE Managed Switch, 300usd/pc」）",
+"why": "对方反向给 Saga 报价 + 有现货 = 同行分销商，不是买家；Saga 的 300 USD 52 口 L2+ 价对它没有意义，除非谈 OEM/白牌供货。维持不动；若要动，只能以「supplier onboarding」口径找其采购而不是 Account Manager",
+"k": "gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
