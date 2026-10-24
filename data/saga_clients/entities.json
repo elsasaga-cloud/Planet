@@ -558132,10 +558132,144 @@
 "+5 最近活动 2025",
 "-10 推送 14 次无任何回复（聋名单）"
 ],
-"c_sub": "综合分低",
+"c_sub": "",
 "status": "已推送 14 次·未回复",
 "code": "SC-1324",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-1324",
+"name_official": "Aleksandar Nedić（塞尔维亚；gmail；「expand our business in networking」）",
+"researched_at": "2026-10-24",
+"website_status": "（gmail；无域名）",
+"summary": "S 邮箱 2024-05-16 两封来信：要产品目录、想订几台测试；再问价表与 MOQ。Simon 两次都让他自己去 Profile 第 13 页的 Google Drive 链接看（「We do not have a standard catalog」「MoQ is 2 pieces」）→ 无回；2026-09-15 推 16 口 DIN PoE 无回。",
+"type": "塞尔维亚小型集成/经销（拓展网络业务）",
+"size": "（未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "想订测试样机",
+"quote": "We would be interested i ordering somw products for testing. Can you provide a catalog of your products?",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-05-16"
+},
+{
+"kind": "邮件",
+"claim": "问价表与 MOQ",
+"quote": "Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business in networking.",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-05-16"
+}
+],
+"kp": [
+{
+"name": "Aleksandar Nedić",
+"title": "",
+"email": "nedic.aleksandar@gmail.com",
+"phone": "",
+"source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": "B",
+"override_reason": "欧洲（塞尔维亚）、两封主动来信、明确想买测试样机；断点在我们（让客户自己去 Drive 翻）；B 慢慢跟进。",
+"notes": "典型「自助式回复」断点（Simon 2024 的做法）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据"
+},
+"company_facts": {
+"legal_name": "（未知）",
+"founded": "",
+"hq": "塞尔维亚",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "经销/集成",
+"region": "塞尔维亚"
+},
+"risks": [
+"小体量",
+"gmail 身份"
+],
+"saga_fit": {
+"p1": "先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM",
+"tier": 25,
+"why": "一句话把 2024 年没给的「目录 + 价」补上"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（S 邮箱 2024-05-16 ×2 来信：要目录 + 想订测试样机；我们两次让他自己去 Drive 看 → 无回）",
+"type": "小型经销",
+"sieve": "2~3",
+"stop": "我们的「自助式」回复——客户要目录和价，我们给了链接和「MOQ 2」",
+"revive": "一封直接给 3 款工业 PoE 的价 + 问他要测哪一款",
+"lane": "欧洲 其他（塞尔维亚）",
+"cadence": "一封后季度",
+"evidence": "gmail_s 2024-05-16 ×4；gmail_a 2026-09-15；digest in 2"
+},
+"situation": "塞尔维亚的 Aleksandar 2024-05 想要目录和测试样机，Simon 让他去 Profile 第 13 页的 Drive 链接自取，再无音讯。",
+"need": "拓展网络业务的起步采购：目录、价表、MOQ、测试样机。",
+"breakpoint": "没有人把价直接写在信里。",
+"saga_now": {
+"p1": "工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99）",
+"tier": "经销 25%",
+"price": "STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）",
+"why": "已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)",
+"repeat": "小量起步",
+"gaps": "他要的「some pieces of equipment」是什么"
+},
+"next_move": {
+"when": "2026-12",
+"channel": "S 邮箱 → nedic.aleksandar@gmail.com（回 2024-05-16 原线程「Industrial PoE Switch」）",
+"action": "一封把价写在信里的信：3 款工业/商用 PoE 的 EXW 价 + MOQ 1 + 样机可单台；问他要测哪一款",
+"one_question": "Aleksandar — in 2024 you asked for a catalog and test units and I sent you links instead of prices; here they are: 8-PoE + 2 SFP industrial $137.5, 8-PoE + 4 SFP desktop $99, 4-PoE + 1 GE industrial $42.9 USD EXW, single units OK. Which one would you test first?"
+},
+"facts": [
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "Aleksandar Nedić",
+"quote": "We would be interested i ordering somw products for testing. Can you provide a catalog of your products?",
+"why": "测试意向",
+"k": "interest"
+},
+{
+"date": "2024-05-16",
+"dir": "去",
+"who": "Simon",
+"quote": "We do not have a standard catalog of our models… 3, get to the download link in page 13 of the Profile. 4, get access to the google drive link",
+"why": "自助式回复——断点",
+"k": "reply"
+},
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "Aleksandar Nedić",
+"quote": "Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business in networking.",
+"why": "要价表/MOQ",
+"k": "rfq"
+},
+{
+"date": "2024-05-16",
+"dir": "去",
+"who": "Simon",
+"quote": "There is a price list in EACH product category(see attached photo) MoQ is 2 pieces for each model",
+"why": "仍未给具体价",
+"k": "reply"
+}
+],
+"proof_gaps": [
+"他的公司/业务（gmail）"
+],
+"draft_en": {
+"subject": "Re: Industrial PoE Switch — prices in the mail this time",
+"body": "Hi, Aleksandar,\n\nIn May 2024 you asked for a catalog, prices and MOQ, and I sent you links instead. Here are the numbers:\n\n- 8 x GbE PoE + 2 x 1G/2.5G SFP, industrial DIN, -40 to +75 C, L2+ managed — $137.5 USD EXW\n- 8 x GbE PoE + 4 x 1G/2.5G SFP, desktop, L2+ managed, 120 W — $99 USD EXW\n- 4 x GbE PoE + 1 x GE uplink, industrial DIN, unmanaged — $42.9 USD EXW\n(2026-10 list, valid 15 days; single units are fine for testing; CE/RoHS.)\n\nOne question: which one would you test first, and for what kind of site?\n\nThank you.\nSimon"
+}
+}
+}
 },
 {
 "name": "netram.de",
@@ -582856,10 +582990,168 @@
 "+5 有可核实的公司网站/域名",
 "+0 区域 俄语区/俄罗斯"
 ],
-"c_sub": "综合分低",
+"c_sub": "",
 "status": "成交过·维护",
 "code": "SC-1483",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-1483",
+"name_official": "DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）",
+"researched_at": "2026-10-24",
+"website_status": "未爬（raisecom.su）",
+"summary": "S 邮箱 2024-05/06 两轮项目询价：05-07 Kovzur 要 CLI 手册（给了，候选 STI-480XGGM，18W）；06-20 Dmitry：「lost several projects」后给新小项目——L3 机架工业机 24×SFP + 8 Combo + 4×10G 双 AC（1 台）+ L2 DIN 2×SFP+8×PoE 240W；Simon 报 STI-4168XGGCM-U $550 / STI-288DGGPM $120；Dmitry 又问 L3 商用 8–12 SFP+ + 12–24 GE → Simon「没有正好的，近似 Realtek 6×10G+24×2.5G L2+」→ 无回。",
+"type": "俄罗斯经销/项目商（Raisecom 代理）",
+"size": "（未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "项目规格 ①L3 工业机架 ②L2 DIN PoE",
+"quote": "L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-06-20"
+},
+{
+"kind": "邮件",
+"claim": "第三个需求：L3 商用 8–12 SFP+ + 12–24 GE",
+"quote": "Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-06-20"
+},
+{
+"kind": "邮件（去）",
+"claim": "Simon 报价",
+"quote": "Item 1: STI-4168XGGCM-U 550usd/pc… Item 2: STI-288DGGPM 120usd/pc",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-06-20"
+}
+],
+"kp": [
+{
+"name": "Dmitry Deikun",
+"title": "（采购/项目）",
+"email": "ddmitry@raisecom.su",
+"phone": "",
+"source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+},
+{
+"name": "Kovzur Max",
+"title": "Technical manager, DEALER Co Ltd",
+"email": "mk@raisecom.su",
+"phone": "+7 812 764 28 85（信尾）",
+"source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": "B",
+"override_reason": "两位具名 KP、三个带规格的项目询价、我们已报价两款；俄罗斯次要市场 → B 慢慢跟进（自动 C 系无后续回复评分）。",
+"notes": "最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据"
+},
+"company_facts": {
+"legal_name": "DEALER Co Ltd（信尾）",
+"founded": "",
+"hq": "St. Petersburg",
+"size": "",
+"other": "raisecom.su"
+},
+"channels": {
+"role": "经销/项目",
+"region": "俄罗斯（圣彼得堡）"
+},
+"risks": [
+"对俄付款/物流",
+"2024 项目早已过去；需新项目",
+"Raisecom 代理身份——可能只在 Raisecom 没有的缝隙里找货"
+],
+"saga_fit": {
+"p1": "STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605",
+"tier": 25,
+"why": "当年说没有的东西现在有——一句话重开"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（S 邮箱 2024-05/06 两轮 5 封来信、两位具名 KP、三个带规格项目；Simon 报价两款后对方无回；2024-06 后无再互动）",
+"type": "经销/项目",
+"sieve": "4（规格 + 报价层面）",
+"stop": "最后一问我们答「没有正好的」+ Realtek 近似——对方没回；之后只有群发",
+"revive": "一句话：当年没有的 L3 商用款现在有（STC-4168XGGCM $413）；问有没有新项目",
+"lane": "俄罗斯（次要）",
+"cadence": "季度",
+"evidence": "gmail_s 2024-05-07 ×5、2024-06-20 ×6；digest in 5"
+},
+"situation": "Raisecom 俄罗斯经销 DEALER Co 的 Dmitry/Kovzur 在 2024-05/06 拿三个项目规格来问，Simon 报了 STI-4168XGGCM-U $550 和 STI-288DGGPM $120，最后一个 L3 商用需求答「没有」。此后两年只群发。",
+"need": "项目制：L3 工业机架（24×SFP+8 Combo+4×10G 双 AC）、L2 DIN PoE（2×SFP+8×PoE 240W）、L3 商用（8–12 SFP+ + 12–24 GE）。",
+"breakpoint": "2024-06-20「没有正好的」之后没人再问他有没有新项目。",
+"saga_now": {
+"p1": "STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5",
+"tier": "经销 25%",
+"price": "2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5",
+"why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈",
+"repeat": "项目制",
+"gaps": "是否还在做项目；付款路径"
+},
+"next_move": {
+"when": "2026-12",
+"channel": "S 邮箱 → ddmitry@raisecom.su（回 2024-06-20 原线程「L2 managed switch」）",
+"action": "一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目",
+"one_question": "Dmitry — in June 2024 I had nothing for your \"L3 commercial, 8-12 SFP+ and 12-24 GE\" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?"
+},
+"facts": [
+{
+"date": "2024-05-07",
+"dir": "来",
+"who": "Kovzur Max（Technical manager）",
+"quote": "Can you send us command line guide for this switch?",
+"why": "技术经理看 CLI——真评估",
+"k": "q"
+},
+{
+"date": "2024-06-20",
+"dir": "来",
+"who": "Dmitry Deikun",
+"quote": "Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-TX RJ45 (COMBO) 4*100M/1000M/10000M SFP+ AC/D: dual AC inputs 1unit; L2 manageable industrial switch: 2*Gigabit SFP+8*10/100/1000M RJ45 POE af/at, 240W, Din mounting",
+"why": "带规格项目",
+"k": "rfq"
+},
+{
+"date": "2024-06-20",
+"dir": "去",
+"who": "Simon",
+"quote": "Item 1: STI-4168XGGCM-U 550usd/pc… L3 Managed, Non-PoE, 1U Rack, AC100V~240V DUAL input, Marvell Chip; Item 2: STI-288DGGPM 120usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE L2+ 240W Din Rail",
+"why": "已报价（老汇率）",
+"k": "quote"
+},
+{
+"date": "2024-06-20",
+"dir": "来",
+"who": "Dmitry Deikun",
+"quote": "We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
+"why": "第三需求——当年答没有",
+"k": "rfq"
+},
+{
+"date": "2024-06-20",
+"dir": "去",
+"who": "Simon",
+"quote": "Sorry, we do not have a model that is exactly good for it. A close model is Realtek chip, 6*10G SFP+24*2.5G Ethernet, L2+",
+"why": "断点",
+"k": "reply"
+}
+],
+"proof_gaps": [
+"公司规模/是否仍活跃（raisecom.su 未爬）",
+"2024 两款报价是否曾成单（仓内无 PI → 未成）"
+],
+"draft_en": {
+"subject": "Re: L2 managed switch — the L3 commercial model you asked for in 2024 exists now",
+"body": "Hi, Dmitry,\n\nIn June 2024 you asked for an L3 commercial switch with 8-12 SFP+ and 12-24 GE, and I had nothing exact. Today we do:\n\n- 4 x 10G SFP+ + 16 x 1G SFP + 8 x GE combo, L3 (OSPF/RIP, static), 1U, Marvell — $413 USD EXW\n- Industrial version with dual AC input (the one I quoted at $550 then): now $511.5 L2+ / $605 L3 on the 2026-10 list\n(valid 15 days from this mail.)\n\nOne question: do you have a project this winter where one of these fits? If payment to Russia is the obstacle, tell me and I will explain the route we use.\n\nThank you.\nSimon"
+}
+}
+}
 },
 {
 "name": "redstarafrica.com",
@@ -625483,10 +625775,145 @@
 "+0 仅免费邮箱",
 "-4 区域 拉美/巴西"
 ],
-"c_sub": "群发冷名单无回应",
+"c_sub": "",
 "status": "名单内·未触达",
 "code": "SC-1760",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-1760",
+"name_official": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）",
+"researched_at": "2026-10-24",
+"website_status": "（gmail 联系人；公司域未知）",
+"summary": "S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19\" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。",
+"type": "巴西安防设备经销（CCTV）",
+"size": "（未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "巴西最常用规格 8+2/16+2/24+2 PoE",
+"quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-06-25"
+},
+{
+"kind": "邮件",
+"claim": "二次要价表",
+"quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-11-19"
+}
+],
+"kp": [
+{
+"name": "Fabian Alonzo",
+"title": "（安防经销）",
+"email": "transivideo@gmail.com",
+"phone": "51 98144-0559（信尾）",
+"source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": "B",
+"override_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
+"notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据"
+},
+"company_facts": {
+"legal_name": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.",
+"founded": "",
+"hq": "巴西",
+"size": "",
+"other": ""
+},
+"channels": {
+"role": "经销",
+"region": "巴西"
+},
+"risks": [
+"巴西进口税/清关——小量不划算",
+"价格导向经销"
+],
+"saga_fit": {
+"p1": "STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）",
+"tier": 20,
+"why": "典型 CCTV 经销；两次要价后沉默 = 价格；只做季度问候"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（S 邮箱 2024-06-25 ×3 + 2024-11-19：两轮要价，Simon 都当日给了；无后续）",
+"type": "CCTV 经销",
+"sieve": "3（要价层面）",
+"stop": "两次拿到价表后沉默——价格/进口成本",
+"revive": "一句话问 8+2/16+2/24+2 的年量与目标价；不发群发",
+"lane": "巴西 非主攻",
+"cadence": "半年",
+"evidence": "gmail_s 2024-06-25、2024-11-19/20；digest in 4"
+},
+"situation": "巴西安防经销 Fabian 两次要价（CCTV 常用 8+2/16+2/24+2 PoE；工业非管理 4–24 口），都给了，没有下文。",
+"need": "CCTV 用 PoE 交换机价表（8+2/16+2/24+2）；工业非管理小机。",
+"breakpoint": "拿到价表后沉默；我们没问他的目标价和年量。",
+"saga_now": {
+"p1": "STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级",
+"tier": "经销 20%",
+"price": "2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表",
+"why": "已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)",
+"repeat": "经销：若价格进得去是持续量",
+"gaps": "目标价；年量；进口方式"
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "S 邮箱 → transivideo@gmail.com",
+"action": "一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）",
+"one_question": "Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it."
+},
+"facts": [
+{
+"date": "2024-06-25",
+"dir": "来",
+"who": "Fabian Alonzo",
+"quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
+"why": "市场常用规格",
+"k": "rfq"
+},
+{
+"date": "2024-06-25",
+"dir": "来",
+"who": "Fabian Alonzo",
+"quote": "Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tienes algun equipamiento de switch con posibilidad de hacer VPN?",
+"why": "机架 + VPN（无）",
+"k": "q"
+},
+{
+"date": "2024-06-26",
+"dir": "去",
+"who": "Simon",
+"quote": "Yes, all the 3 models support 19\" Rack mount… Sorry, we do not have any devices that could support/make a VPN.",
+"why": "口径正确",
+"k": "reply"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "Fabian Alonzo",
+"quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
+"why": "二次要价",
+"k": "rfq"
+}
+],
+"proof_gaps": [
+"2024-06-25 报价单逐项价格（附件未解析）",
+"公司规模"
+],
+"draft_en": {
+"subject": "8+2 / 16+2 / 24+2 PoE — volume and target price?",
+"body": "Hi, Fabian,\n\nYou priced our 8+2 / 16+2 / 24+2 PoE switches twice in 2024 and we never heard what happened — usually that means the landed price did not work.\n\nOne question: what yearly volume and landed target price per unit would make it work in Brazil? With that I can tell you honestly whether we can meet it, instead of sending another price list.\n\nThank you.\nSimon"
+}
+}
+}
 },
 {
 "name": "Jaber Al Mas",
@@ -848358,10 +848785,162 @@
 "+5 有可核实的公司网站/域名",
 "+0 区域 俄语区/俄罗斯"
 ],
-"c_sub": "综合分低",
+"c_sub": "",
 "status": "名单内·未触达",
 "code": "SC-491",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-491",
+"name_official": "Comtinu（俄罗斯；KP Yaroslav, yb@comtinu.ru）",
+"researched_at": "2026-10-24",
+"website_status": "未爬（comtinu.ru）",
+"summary": "S/A 邮箱 2024-05 起 20 余封；两次真互动都指向高速/数据中心：2024-05-17「Do you have 48x25G + 8x100G and 32x40/100G switches?」（Simon 答「not available… coming soon… can help design」）；2025-12-03 先说没有相关项目，Alan 追问「do you sometimes use data center switches? 100G/10G」后答「Yes, we have 100-25G projects. What is your company website?」——Alan 回「still focusing on access switches… It will be CENTEC based」，没给网站、没给 CENTEC 型号与价（而 2025-01-06 已群发过 8C48XF）。此后只有 2026-03 Product Link 与 2026-08 $170 推送。",
+"type": "俄罗斯网络项目商（25G/100G 项目）",
+"size": "（未核）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "2024 即问 48×25G+8×100G / 32×100G",
+"quote": "Do you have 48x25G + 8x100G and 32x40/100G switches?",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2024-05-17"
+},
+{
+"kind": "邮件",
+"claim": "2025-12 有 100-25G 项目，问公司网站",
+"quote": "Yes, we have 100-25G projects What is your company website?",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2025-12-03"
+},
+{
+"kind": "邮件（去）",
+"claim": "Alan 的回答没接住",
+"quote": "For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.",
+"url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+"date": "2025-12-03"
+}
+],
+"kp": [
+{
+"name": "Yaroslav",
+"title": "（未署职务）",
+"email": "yb@comtinu.ru",
+"phone": "",
+"source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+}
+],
+"grade_override": "B",
+"override_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
+"notes": "俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "邮件证据"
+},
+"company_facts": {
+"legal_name": "Comtinu（待核）",
+"founded": "",
+"hq": "俄罗斯",
+"size": "",
+"other": "comtinu.ru"
+},
+"channels": {
+"role": "项目/采购",
+"region": "俄罗斯"
+},
+"risks": [
+"对俄付款/物流（制裁）",
+"他问「公司网站」我们没答——sagatele.com 要给",
+"项目时间不明"
+],
+"saga_fit": {
+"p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）",
+"tier": 25,
+"why": "他要的型号 Saga 现在真有价；一封信把 2024 的问题和 2025 的项目接回来"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（S/A 邮箱 20+ 去 3 来：2024-05-17 问 48×25G+8×100G / 32×100G；2025-12-03「we have 100-25G projects」+ 问网站——两次都没被接住）",
+"type": "DC 项目商",
+"sieve": "3（型号层面，无数量）",
+"stop": "2025-12-03 Alan 答「still focusing on access switches」——把一个主动说有 25G/100G 项目的人放掉了；网站也没答",
+"revive": "一封对表信：网站 + 他 2024 问的两款的现价；问项目时间与台数",
+"lane": "俄罗斯（次要市场）；DC 客户优先",
+"cadence": "先一封，看回信",
+"evidence": "gmail_s 2024-05-17 ×3；gmail_a 2025-12-03 ×5、2026-03-12、2026-08-10；digest in 3"
+},
+"situation": "Yaroslav 2024-05 直接问 48×25G+8×100G 和 32×100G，当时没有；2025-12 说手上有 100/25G 项目并问公司网站，Alan 回「还在专注接入交换机、将来 CENTEC」——既没给网站也没给已有的 CENTEC 型号。至今 10 个月只收到群发。",
+"need": "25G/100G 数据中心/核心交换（48×25G+8×100G；32×100G）。",
+"breakpoint": "2025-12-03 我们的回答自己把门关了；他要的东西其实 2025-01 就已在群发里（8C48XF）。",
+"saga_now": {
+"p1": "STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G）",
+"tier": "集成商/项目 25%；CENTEC 底线 ≥35% 并行",
+"price": "2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW",
+"why": "需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)",
+"repeat": "项目制；DC 客户单价高",
+"gaps": "项目时间/台数；付款路径；公司规模"
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → yb@comtinu.ru（回 2025-12-03 原线程「Booster PoE Switch」或新主题「48x25G + 8x100G — the two models you asked for in 2024」）",
+"action": "一封对表信：①网站 sagatele.com（他问过没答）；②他 2024-05-17 问的两款现在的型号与 EXW 价；③只问一个问题：100/25G 项目的时间与台数",
+"one_question": "Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?"
+},
+"facts": [
+{
+"date": "2024-05-17",
+"dir": "来",
+"who": "Yaroslav",
+"quote": "Do you have 48x25G + 8x100G and 32x40/100G switches?",
+"why": "精确到端口的 DC 需求",
+"k": "rfq"
+},
+{
+"date": "2024-05-17",
+"dir": "去",
+"who": "Simon",
+"quote": "Sorry, it is not available at the moment. We have below ones coming soon. We can help design it for you if it is OK for you.",
+"why": "当时无货",
+"k": "reply"
+},
+{
+"date": "2025-12-03",
+"dir": "来",
+"who": "Yaroslav",
+"quote": "We are not having appropriate projects so far that will include such switches.（对 Booster PoE 推送）",
+"why": "接入产品不对他",
+"k": "neg"
+},
+{
+"date": "2025-12-03",
+"dir": "来",
+"who": "Yaroslav",
+"quote": "Yes, we have 100-25G projects What is your company website?",
+"why": "DC 项目在手 + 要网站",
+"k": "need"
+},
+{
+"date": "2025-12-03",
+"dir": "去",
+"who": "Alan",
+"quote": "For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.",
+"why": "断点：没给网站、没给型号价",
+"k": "reply"
+}
+],
+"proof_gaps": [
+"公司实体/规模（comtinu.ru 未爬）",
+"项目时间与台数",
+"付款路径"
+],
+"draft_en": {
+"subject": "48x25G + 8x100G and 32x100G — the two models you asked for in 2024",
+"body": "Hi, Yaroslav,\n\nTwo things I owe you from our December exchange.\n\nOur website: https://sagatele.com/\n\nAnd the two switches you asked about in May 2024 both exist now on our CENTEC-based line:\n- STH-8C48DX-HSI: 48 x 25G SFP28 + 8 x 100G QSFP28, L3 with VXLAN-EVPN, MPLS, MLAG, hot-swap PSUs — $4,800 USD EXW\n- STH-32C-HSI: 32 x 100G QSFP28 — $6,000 USD EXW\n(2026 Q2 list, valid 15 days from this mail; your logo and model name possible.)\n\nOne question: when is the 100/25G project you mentioned in December due, and roughly how many units? With that I can confirm lead time and the payment route that works for you.\n\nThank you.\nAlan"
+}
+}
+}
 },
 {
 "name": "comtrol.com",
