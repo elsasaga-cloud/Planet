@@ -1,0 +1,121 @@
+{
+  "code": "SC-5319",
+  "name_official": "ZhenHui Optical（发件名；huili0126@163.com，Tina，+86 15989404908）",
+  "website_status": "无网站线索（163 邮箱）",
+  "summary": "国内光通信贸易商。Alan 2026-01-20 群发 CENTEC 核心/汇聚（OEM Core Switching Solution），Tina 回问公司在哪、有没有带冗余配置的核心交换机（10G 以上上联，含 SFP/光模块/管理模块），随后两次要电话，Alan 答只走邮件，她回「那就到此为止」。",
+  "type": "国内贸易商（替其客户采购）",
+  "size": "未知",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "mail",
+      "claim": "有具体需求（冗余核心、10G+ 上联、含配件）",
+      "quote": "Do you have Core Switches, Must be configured for redundancy. Uplinks of 10GB or higher (Include all accessories, SFPs, Transceivers, and management modules required)",
+      "url": "gmail_a k=2fbf61891a3405e7",
+      "date": "2026-01-20"
+    },
+    {
+      "kind": "mail",
+      "claim": "因不给电话而断",
+      "quote": "If you think you just can do the biz via email. then let's end our conversation here.",
+      "url": "gmail_a k=9934d8c01aedb256",
+      "date": "2026-01-20"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Tina",
+      "role": "业务",
+      "email": "huili0126@163.com",
+      "phone": "+86 15989404908",
+      "source": "gmail_a 2026-01-20 签名"
+    }
+  ],
+  "notes": "Q-44 A+S 复跑补录（第 64 批）。国内、非重点区域，留 C 作记录。值得 Simon 知道的一点：这条线索是被「只走邮件、不留电话」的规矩断掉的——对国内买家，要么私账接电话，要么就别发。",
+  "researched_at": "2026-10-24",
+  "saga_fit": {
+    "p1": "STH-2C24XF-HSI（CENTEC 24×10G + 2×100G，$1,350 起；冗余按双机 + 堆叠/MLAG 方案）",
+    "tier": 30,
+    "why": "国内贸易商转卖，按 OEM 30% 档；但国内单按《计划》走私账"
+  },
+  "grade_override": null,
+  "override_reason": "",
+  "mail_review": {
+    "binding": {
+      "level": "J1 无绑定（已断）",
+      "type": "一次群发引出的询问，当天断",
+      "sieve": "国内贸易商，不在重点区域",
+      "stop": "对方已结束对话",
+      "revive": "不主动；若 Simon 愿意私账接国内线索，可用 +86 15989404908 微信/电话一次",
+      "lane": "国内：私账电话/微信",
+      "cadence": "不排",
+      "evidence": "2026-01-20 三封往来"
+    },
+    "situation": "2026-01-20 一天内 3 来 3 去，Tina 两次要电话，Alan 拒，对话结束。无后续。",
+    "need": "冗余核心交换机、10G 以上上联、含 SFP/光模块/管理模块（替其客户采购）。",
+    "breakpoint": "Alan 不给电话（Saga 对外不留电话的规矩）→ 对方终止。",
+    "saga_now": {
+      "p1": "STH-2C24XF-HSI 双机 + 堆叠（CENTEC），或 STH-8C48DX-HSI（48×25G + 8×100G）",
+      "tier": 30,
+      "price": "CENTEC 锚价：2C24XF $1,350 / 8C48DX $4,800（见 CENTEC 锚表）；国内报价应报 RMB 且走私账",
+      "why": "她的客户要「冗余核心」——CENTEC 线才对得上；AC5 不堆叠",
+      "repeat": [],
+      "gaps": [
+        "她客户是谁、规模多大一概不知"
+      ]
+    },
+    "next_move": {
+      "when": "不排（国内、已断）",
+      "channel": "若做：Simon 私账电话 / 微信",
+      "action": "仅当 Simon 决定接国内线索时打一次电话；邮件不再发",
+      "one_question": "（国内）你们客户的核心是几台、要不要堆叠，预算区间多少？"
+    },
+    "facts": [
+      {
+        "date": "2026-01-20",
+        "dir": "去",
+        "who": "Alan → Tina",
+        "quote": "I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.)",
+        "why": "群发「OEM Core Switching Solution」",
+        "k": "gmail_a（引用于 2fbf61891a3405e7）"
+      },
+      {
+        "date": "2026-01-20",
+        "dir": "来",
+        "who": "Tina",
+        "quote": "Do you have Core Switches, Must be configured for redundancy. Uplinks of 10GB or higher (Include all accessories, SFPs, Transceivers, and management modules required)",
+        "why": "具体需求 + 手机号",
+        "k": "gmail_a 2fbf61891a3405e7"
+      },
+      {
+        "date": "2026-01-20",
+        "dir": "来",
+        "who": "Tina",
+        "quote": "Pls share me your phone number don't just send email.",
+        "why": "要电话",
+        "k": "gmail_a 5d594ad7fc42e728"
+      },
+      {
+        "date": "2026-01-20",
+        "dir": "去",
+        "who": "Alan → Tina",
+        "quote": "Generally, we just talk on emails and do not do personal contact. What is the point anyway?",
+        "why": "拒给电话，口气偏硬",
+        "k": "gmail_a 21ea204c3742ba0e"
+      },
+      {
+        "date": "2026-01-20",
+        "dir": "来",
+        "who": "Tina",
+        "quote": "If you think you just can do the biz via email. then let's end our conversation here.",
+        "why": "对话终止",
+        "k": "gmail_a 9934d8c01aedb256"
+      }
+    ],
+    "proof_gaps": [
+      "公司全称/所在地（163 邮箱，无签名档）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
+}

@@ -206552,6 +206552,212 @@
 }
 },
 {
+"name": "Education HMO / CSPE（educationhmo.com）",
+"name_src": "company",
+"names": [
+"Education HMO / CSPE（educationhmo.com）"
+],
+"country": "加拿大",
+"iso": "CA",
+"region": "北美",
+"other_countries": [],
+"domains": [
+"educationhmo.com"
+],
+"urls": [
+"https://www.educationhmo.com"
+],
+"platform_links": [],
+"emails": [
+"casault.alain@educationhmo.com"
+],
+"corp_emails": [
+"casault.alain@educationhmo.com"
+],
+"phones": [],
+"persons": [
+"Alain Casault"
+],
+"positions": [
+"IT（职务未署）"
+],
+"froms": [
+"补录：A 邮箱有人工回信但不在客户表（Q-44 A+S 复跑，T29-U45 第 64 批）"
+],
+"interests": [
+"Alan 2026-09-29 群发「Managed PoE Switches」（Marvell AC5 管理型 PoE，DI/DO/RS485、af/at/bt、1G/2.5G/10G 上联）"
+],
+"remarks": [
+"2026-09-30 本人回信：「Not for the moment, but I'll keep your Email for futur reference.」——礼貌的以后再说；加拿大（重点区域），B 慢慢跟进，2027 上半年再碰一次即可"
+],
+"categories": [
+"教育机构 IT（魁北克，法语；邮件系统标「Message du CSPE」）"
+],
+"tags": [
+"补录",
+"Q-44复跑",
+"加拿大"
+],
+"flags": {},
+"fit": {
+"switch": 1
+},
+"ai_evals": [],
+"years": [
+2026,
+2027
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 15,
+"no": "AS-补录-2026-10-24-01",
+"tags": [
+"补录",
+"Q-44复跑",
+"加拿大"
+],
+"company": "Education HMO / CSPE（educationhmo.com）",
+"country": "加拿大",
+"person": "Alain Casault",
+"from": "补录：A 邮箱有人工回信但不在客户表（Q-44 A+S 复跑，T29-U45 第 64 批）",
+"interest": "Alan 2026-09-29 群发「Managed PoE Switches」（Marvell AC5 管理型 PoE，DI/DO/RS485、af/at/bt、1G/2.5G/10G 上联）",
+"contact": "casault.alain@educationhmo.com",
+"mobile": "",
+"website": "https://www.educationhmo.com",
+"remark": "2026-09-30 本人回信：「Not for the moment, but I'll keep your Email for futur reference.」——礼貌的以后再说；加拿大（重点区域），B 慢慢跟进，2027 上半年再碰一次即可",
+"extra": "",
+"category": "教育机构 IT（魁北克，法语；邮件系统标「Message du CSPE」）",
+"position": "IT（职务未署）",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"grade_auto": "B",
+"score": 36,
+"reasons": [
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+10 有企业邮箱",
+"+5 有可核实的公司网站/域名",
+"+8 区域 北美/加拿大",
+"+5 最近活动 2026"
+],
+"c_sub": "",
+"status": "名单内·未触达",
+"code": "SB-1342",
+"grade": "B",
+"research": {
+"code": "SB-1342",
+"name_official": "Education HMO（educationhmo.com；邮件系统横幅「Message du CSPE」，魁北克法语环境）",
+"website_status": "未爬（沙箱无外网）；域名见于 Alan 2026-09-29 群发收件地址",
+"summary": "加拿大魁北克的教育机构 IT 联系人 Alain Casault；Alan 2026-09-29 单发「Managed PoE Switches」（Marvell AC5 管理型 PoE 介绍 + L3 Managed.jpg），次日本人回「现在不要，留着你的邮箱以后参考」。",
+"type": "教育机构 / 终端用户（非渠道）",
+"size": "未知",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "mail",
+"claim": "本人回信，礼貌拒绝但留门",
+"quote": "Not for the moment, but I'll keep your Email for futur reference.",
+"url": "gmail_a k=cae10af242e8d3f8",
+"date": "2026-09-30"
+}
+],
+"kp": [
+{
+"name": "Alain Casault",
+"role": "IT（职务未署）",
+"email": "casault.alain@educationhmo.com",
+"phone": "",
+"source": "gmail_a 2026-09-30 回信签名「AC」"
+}
+],
+"notes": "Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。",
+"researched_at": "2026-10-24",
+"saga_fit": {
+"p1": "STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）",
+"tier": 25,
+"why": "教育终端用户，项目制，按集成商档 25%"
+},
+"grade_override": null,
+"override_reason": "",
+"mail_review": {
+"binding": {
+"level": "J1 无绑定",
+"type": "单次群发 + 一次礼貌回绝",
+"sieve": "教育终端用户，采购走招标/本地集成商，Saga 直接成单概率低",
+"stop": "对方说「以后再说」，不追",
+"revive": "2027 上半年（新学年预算前）一封：只问「校园楼层 PoE 换新有没有排期」",
+"lane": "邮件",
+"cadence": "半年一次，最多两次",
+"evidence": "2026-09-30 回信原文"
+},
+"situation": "2026-09-29 Alan 单发介绍，2026-09-30 Alain 本人回「Not for the moment」。无其他往来。",
+"need": "未表达；教育机构常见需求是楼层 PoE 管理型（24/48 口）与 10G 上联。",
+"breakpoint": "对方明确「现在不要」。",
+"saga_now": {
+"p1": "STC-424XGGPM-280W（24×PoE+ 280W + 4×10G SFP+，L2+）",
+"tier": 25,
+"price": "群发现价 $180（2026-09-21 起每天在发的那轮；他收到的是 Alan 09-29 的单发，无价）；规则 ㉕",
+"why": "教育楼层 PoE 的标准款；真要走也多半经本地集成商",
+"repeat": [],
+"gaps": [
+"不知道 CSPE 全称与采购方式（招标/本地集成商）",
+"不知道他是否负责采购"
+]
+},
+"next_move": {
+"when": "2027-03（新学年预算前）",
+"channel": "邮件（Alan）",
+"action": "一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录",
+"one_question": "Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?"
+},
+"facts": [
+{
+"date": "2026-09-29",
+"dir": "去",
+"who": "Alan → Alain Casault",
+"quote": "This is a Marvell AC5 Managed PoE Switch featuring 1, DI/DO/RS485 for smart monitoring 2, PoE af/at/bt compliant 3, 1G/2.5G/10G fiber speed, customizable Web UI. Do you need some samples for testing?",
+"why": "单发介绍（附 L3 Managed.jpg），无价",
+"k": "gmail_a 4a6e6a456e4bae81"
+},
+{
+"date": "2026-09-30",
+"dir": "来",
+"who": "Alain Casault",
+"quote": "Not for the moment, but I'll keep your Email for futur reference.",
+"why": "真人回信，礼貌留门；邮件系统横幅为法语外部邮件警示（CSPE）",
+"k": "gmail_a cae10af242e8d3f8"
+}
+],
+"proof_gaps": [
+"机构全称与规模（educationhmo.com 未爬）",
+"Alain 的职务"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
+}
+},
+{
 "name": "Elsi",
 "name_src": "company",
 "names": [
@@ -864398,6 +864604,240 @@
 "status": "用户判定不行",
 "code": "SC-5318",
 "grade": "C"
+},
+{
+"name": "ZhenHui Optical（Tina，163 邮箱）",
+"name_src": "company",
+"names": [
+"ZhenHui Optical（Tina，163 邮箱）"
+],
+"country": "中国大陆",
+"iso": "CN",
+"region": "中国大陆",
+"other_countries": [],
+"domains": [],
+"urls": [],
+"platform_links": [],
+"emails": [
+"huili0126@163.com"
+],
+"corp_emails": [],
+"phones": [
+"8615989404908"
+],
+"persons": [
+"Tina"
+],
+"positions": [
+"业务"
+],
+"froms": [
+"补录：A 邮箱有人工往来但不在客户表（Q-44 A+S 复跑，T29-U45 第 64 批）"
+],
+"interests": [
+"2026-01-20 问核心交换机：「Must be configured for redundancy. Uplinks of 10GB or higher (include all accessories, SFPs, transceivers, management modules)」——Alan 当天群发 CENTEC 核心/汇聚（OEM Core Switching Solution）引来的"
+],
+"remarks": [
+"Tina 连要两次电话号（「don't just send email」），Alan 答「we just talk on emails and do not do personal contact」，她回「then let's end our conversation here」——线索当场断。国内客户按《计划》走私账、不在重点区域；留 C 只做记录：Saga 对外不留电话是规矩，但国内买家要电话是常态，这类要么私账跟、要么放"
+],
+"categories": [
+"国内光通信贸易商（为其客户找核心交换机）"
+],
+"tags": [
+"补录",
+"Q-44复跑",
+"国内"
+],
+"flags": {
+"own_brand": 1
+},
+"fit": {
+"switch": 1,
+"mc_sfp": 1,
+"off": 1
+},
+"ai_evals": [],
+"years": [
+2026
+],
+"sources": [
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 16,
+"no": "AS-补录-2026-10-24-02",
+"tags": [
+"补录",
+"Q-44复跑",
+"国内"
+],
+"company": "ZhenHui Optical（Tina，163 邮箱）",
+"country": "中国",
+"person": "Tina",
+"from": "补录：A 邮箱有人工往来但不在客户表（Q-44 A+S 复跑，T29-U45 第 64 批）",
+"interest": "2026-01-20 问核心交换机：「Must be configured for redundancy. Uplinks of 10GB or higher (include all accessories, SFPs, transceivers, management modules)」——Alan 当天群发 CENTEC 核心/汇聚（OEM Core Switching Solution）引来的",
+"contact": "huili0126@163.com",
+"mobile": "+86 15989404908",
+"website": "",
+"remark": "Tina 连要两次电话号（「don't just send email」），Alan 答「we just talk on emails and do not do personal contact」，她回「then let's end our conversation here」——线索当场断。国内客户按《计划》走私账、不在重点区域；留 C 只做记录：Saga 对外不留电话是规矩，但国内买家要电话是常态，这类要么私账跟、要么放",
+"extra": "",
+"category": "国内光通信贸易商（为其客户找核心交换机）",
+"position": "业务",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
+}
+],
+"followups": [],
+"fu_count": 0,
+"fu_first": "",
+"fu_last": "",
+"fu_years": [],
+"reply_sub": 0,
+"reply_neg": 0,
+"reply_read": 0,
+"reply_other": 0,
+"platforms": [],
+"last_tier_letter": "",
+"wa_in_fu": false,
+"deal_in_fu": false,
+"fu_sample": false,
+"last_year": 2026,
+"merge_keys": [],
+"grade_auto": "C",
+"score": -15,
+"reasons": [
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
+"+0 仅免费邮箱",
+"-40 区域 中国大陆/中国大陆",
+"+5 最近活动 2026"
+],
+"c_sub": "中国大陆（非出口客户）",
+"status": "名单内·未触达",
+"code": "SC-5319",
+"grade": "C",
+"research": {
+"code": "SC-5319",
+"name_official": "ZhenHui Optical（发件名；huili0126@163.com，Tina，+86 15989404908）",
+"website_status": "无网站线索（163 邮箱）",
+"summary": "国内光通信贸易商。Alan 2026-01-20 群发 CENTEC 核心/汇聚（OEM Core Switching Solution），Tina 回问公司在哪、有没有带冗余配置的核心交换机（10G 以上上联，含 SFP/光模块/管理模块），随后两次要电话，Alan 答只走邮件，她回「那就到此为止」。",
+"type": "国内贸易商（替其客户采购）",
+"size": "未知",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "mail",
+"claim": "有具体需求（冗余核心、10G+ 上联、含配件）",
+"quote": "Do you have Core Switches, Must be configured for redundancy. Uplinks of 10GB or higher (Include all accessories, SFPs, Transceivers, and management modules required)",
+"url": "gmail_a k=2fbf61891a3405e7",
+"date": "2026-01-20"
+},
+{
+"kind": "mail",
+"claim": "因不给电话而断",
+"quote": "If you think you just can do the biz via email. then let's end our conversation here.",
+"url": "gmail_a k=9934d8c01aedb256",
+"date": "2026-01-20"
+}
+],
+"kp": [
+{
+"name": "Tina",
+"role": "业务",
+"email": "huili0126@163.com",
+"phone": "+86 15989404908",
+"source": "gmail_a 2026-01-20 签名"
+}
+],
+"notes": "Q-44 A+S 复跑补录（第 64 批）。国内、非重点区域，留 C 作记录。值得 Simon 知道的一点：这条线索是被「只走邮件、不留电话」的规矩断掉的——对国内买家，要么私账接电话，要么就别发。",
+"researched_at": "2026-10-24",
+"saga_fit": {
+"p1": "STH-2C24XF-HSI（CENTEC 24×10G + 2×100G，$1,350 起；冗余按双机 + 堆叠/MLAG 方案）",
+"tier": 30,
+"why": "国内贸易商转卖，按 OEM 30% 档；但国内单按《计划》走私账"
+},
+"grade_override": null,
+"override_reason": "",
+"mail_review": {
+"binding": {
+"level": "J1 无绑定（已断）",
+"type": "一次群发引出的询问，当天断",
+"sieve": "国内贸易商，不在重点区域",
+"stop": "对方已结束对话",
+"revive": "不主动；若 Simon 愿意私账接国内线索，可用 +86 15989404908 微信/电话一次",
+"lane": "国内：私账电话/微信",
+"cadence": "不排",
+"evidence": "2026-01-20 三封往来"
+},
+"situation": "2026-01-20 一天内 3 来 3 去，Tina 两次要电话，Alan 拒，对话结束。无后续。",
+"need": "冗余核心交换机、10G 以上上联、含 SFP/光模块/管理模块（替其客户采购）。",
+"breakpoint": "Alan 不给电话（Saga 对外不留电话的规矩）→ 对方终止。",
+"saga_now": {
+"p1": "STH-2C24XF-HSI 双机 + 堆叠（CENTEC），或 STH-8C48DX-HSI（48×25G + 8×100G）",
+"tier": 30,
+"price": "CENTEC 锚价：2C24XF $1,350 / 8C48DX $4,800（见 CENTEC 锚表）；国内报价应报 RMB 且走私账",
+"why": "她的客户要「冗余核心」——CENTEC 线才对得上；AC5 不堆叠",
+"repeat": [],
+"gaps": [
+"她客户是谁、规模多大一概不知"
+]
+},
+"next_move": {
+"when": "不排（国内、已断）",
+"channel": "若做：Simon 私账电话 / 微信",
+"action": "仅当 Simon 决定接国内线索时打一次电话；邮件不再发",
+"one_question": "（国内）你们客户的核心是几台、要不要堆叠，预算区间多少？"
+},
+"facts": [
+{
+"date": "2026-01-20",
+"dir": "去",
+"who": "Alan → Tina",
+"quote": "I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.)",
+"why": "群发「OEM Core Switching Solution」",
+"k": "gmail_a（引用于 2fbf61891a3405e7）"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Tina",
+"quote": "Do you have Core Switches, Must be configured for redundancy. Uplinks of 10GB or higher (Include all accessories, SFPs, Transceivers, and management modules required)",
+"why": "具体需求 + 手机号",
+"k": "gmail_a 2fbf61891a3405e7"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Tina",
+"quote": "Pls share me your phone number don't just send email.",
+"why": "要电话",
+"k": "gmail_a 5d594ad7fc42e728"
+},
+{
+"date": "2026-01-20",
+"dir": "去",
+"who": "Alan → Tina",
+"quote": "Generally, we just talk on emails and do not do personal contact. What is the point anyway?",
+"why": "拒给电话，口气偏硬",
+"k": "gmail_a 21ea204c3742ba0e"
+},
+{
+"date": "2026-01-20",
+"dir": "来",
+"who": "Tina",
+"quote": "If you think you just can do the biz via email. then let's end our conversation here.",
+"why": "对话终止",
+"k": "gmail_a 9934d8c01aedb256"
+}
+],
+"proof_gaps": [
+"公司全称/所在地（163 邮箱，无签名档）"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
+}
 },
 {
 "name": "expressalarm.cz",

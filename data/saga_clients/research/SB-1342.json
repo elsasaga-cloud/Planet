@@ -1,0 +1,92 @@
+{
+  "code": "SB-1342",
+  "name_official": "Education HMO（educationhmo.com；邮件系统横幅「Message du CSPE」，魁北克法语环境）",
+  "website_status": "未爬（沙箱无外网）；域名见于 Alan 2026-09-29 群发收件地址",
+  "summary": "加拿大魁北克的教育机构 IT 联系人 Alain Casault；Alan 2026-09-29 单发「Managed PoE Switches」（Marvell AC5 管理型 PoE 介绍 + L3 Managed.jpg），次日本人回「现在不要，留着你的邮箱以后参考」。",
+  "type": "教育机构 / 终端用户（非渠道）",
+  "size": "未知",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "mail",
+      "claim": "本人回信，礼貌拒绝但留门",
+      "quote": "Not for the moment, but I'll keep your Email for futur reference.",
+      "url": "gmail_a k=cae10af242e8d3f8",
+      "date": "2026-09-30"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Alain Casault",
+      "role": "IT（职务未署）",
+      "email": "casault.alain@educationhmo.com",
+      "phone": "",
+      "source": "gmail_a 2026-09-30 回信签名「AC」"
+    }
+  ],
+  "notes": "Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。",
+  "researched_at": "2026-10-24",
+  "saga_fit": {
+    "p1": "STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）",
+    "tier": 25,
+    "why": "教育终端用户，项目制，按集成商档 25%"
+  },
+  "grade_override": null,
+  "override_reason": "",
+  "mail_review": {
+    "binding": {
+      "level": "J1 无绑定",
+      "type": "单次群发 + 一次礼貌回绝",
+      "sieve": "教育终端用户，采购走招标/本地集成商，Saga 直接成单概率低",
+      "stop": "对方说「以后再说」，不追",
+      "revive": "2027 上半年（新学年预算前）一封：只问「校园楼层 PoE 换新有没有排期」",
+      "lane": "邮件",
+      "cadence": "半年一次，最多两次",
+      "evidence": "2026-09-30 回信原文"
+    },
+    "situation": "2026-09-29 Alan 单发介绍，2026-09-30 Alain 本人回「Not for the moment」。无其他往来。",
+    "need": "未表达；教育机构常见需求是楼层 PoE 管理型（24/48 口）与 10G 上联。",
+    "breakpoint": "对方明确「现在不要」。",
+    "saga_now": {
+      "p1": "STC-424XGGPM-280W（24×PoE+ 280W + 4×10G SFP+，L2+）",
+      "tier": 25,
+      "price": "群发现价 $180（2026-09-21 起每天在发的那轮；他收到的是 Alan 09-29 的单发，无价）；规则 ㉕",
+      "why": "教育楼层 PoE 的标准款；真要走也多半经本地集成商",
+      "repeat": [],
+      "gaps": [
+        "不知道 CSPE 全称与采购方式（招标/本地集成商）",
+        "不知道他是否负责采购"
+      ]
+    },
+    "next_move": {
+      "when": "2027-03（新学年预算前）",
+      "channel": "邮件（Alan）",
+      "action": "一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录",
+      "one_question": "Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-29",
+        "dir": "去",
+        "who": "Alan → Alain Casault",
+        "quote": "This is a Marvell AC5 Managed PoE Switch featuring 1, DI/DO/RS485 for smart monitoring 2, PoE af/at/bt compliant 3, 1G/2.5G/10G fiber speed, customizable Web UI. Do you need some samples for testing?",
+        "why": "单发介绍（附 L3 Managed.jpg），无价",
+        "k": "gmail_a 4a6e6a456e4bae81"
+      },
+      {
+        "date": "2026-09-30",
+        "dir": "来",
+        "who": "Alain Casault",
+        "quote": "Not for the moment, but I'll keep your Email for futur reference.",
+        "why": "真人回信，礼貌留门；邮件系统横幅为法语外部邮件警示（CSPE）",
+        "k": "gmail_a cae10af242e8d3f8"
+      }
+    ],
+    "proof_gaps": [
+      "机构全称与规模（educationhmo.com 未爬）",
+      "Alain 的职务"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
+}
