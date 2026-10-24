@@ -2,7 +2,7 @@
   "code": "SA-168",
   "name_official": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（安卡拉）",
   "website_status": "在线（angoranetworks.com；未抓取，本档案全部来自 S 邮箱一手往来）",
-  "summary": "土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（2×STC-424XGGPM + 2×STC-28DGGPM 贴 ANW 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。",
+  "summary": "土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（Levent 询 2×STC-424XGGPM + 2×STC-28DGGPM；实发 2×STC-28DGGPM + 1×STC-424XGGPM + 1×STC-448XGGPM = $1,265，贴 ANW-3108-PG / 3124-PX / 3148-PX 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。",
   "type": "系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型",
   "size": "未核（本档案不含网页调研）；按订单规模与项目体量判断为中型集成商",
   "brands_seen": [
@@ -481,6 +481,14 @@
         "quote": "TT 追问 12 项：Dual power / Hot swappable / PIM / VRF Lite / 4096 VLAN / -40~+70 on non-industrial / BFD / NAT / Netflow / Y.1731 / TWAMP / Route Tracking → 答复：双电源、热插拔、4096 VLAN、Route Tracking 支持；sFlow 管理型支持；PIM、VRF、BFD、NAT、Y.1731、TWAMP 不支持；商用壳装工业板不做",
         "why": "TT 项目最早的功能边界清单——后来对 Netaş、Angora 的「不做」口径都从这里来",
         "k": "pi_doc"
+      },
+      {
+        "date": "2024-05-10",
+        "dir": "内",
+        "who": "SmartByte 装箱单 P-24051001（PI 包 1st order）",
+        "quote": "Consigner Shenzhen SmartByte Technology（Attn: peter）→ Consignee Zhengzhou Saga Telecom：#1 ANW-3108-PG（8×GE PoE + 2×1G/2.5G SFP）× 2，2.5/3 kg，31×23.5×18.5 cm；#2 ANW-3124-PX（24×GE PoE + 4×10G SFP+）× 1 + ANW-3148-PX（48×GE PoE + 4×10G SFP+）× 1，9.6/10.6 kg，53.5×20.5×40.8 cm；TOTAL 2 Cartons 4 pcs 12.1/13.6 kg 0.05 CBM",
+        "why": "首单样品的实发构成（与 Levent 原询「2×424 + 2×28」不同：多了一台 48 口）——工厂出货时就已经印 Angora 的 ANW-31xx 型号名，贴牌从第一单开始；也给出三款的单箱毛重，报 DAP 可直接用",
+        "k": "data/pi_2026-10/text/…7_土耳其_Levent…1st_order_sample…PL_for_Zhengzhou_Saga_Telecom_P-24051001.xls"
       },
       {
         "date": "2024-05-27",

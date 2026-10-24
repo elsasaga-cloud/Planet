@@ -150,6 +150,14 @@
     "as_of": "2026-10-24",
     "facts": [
       {
+        "date": "2024-10-12",
+        "dir": "去",
+        "who": "Simon → PBA（整线报价表《2.5g 10g network switch 121024》，PBA 回填数量）",
+        "quote": "23 款 Realtek 2.5G/10G 商用机两列价：列表 USD/RMB 与 BEST OFFER USD/RMB——STC-15XGDGE $36→$34（¥252→¥238）、18XGDGE $48→$46、216XGDGE $175→$168、224XGDGE $196→$190、80XGO $80→$77、114XGDGP $43→$41、108XGDGP $62→$59、05XGWE $135→$130、08XGWE $186→$180、216XGDGWE $180→$175、224XGDGWE $200→$195、18XGDGPW $70→$66…；条款 15 天 / EXW / 1 年保 / <50 台 5~7 工作日 / 可定制；PBA 在表上填数量 → 合计 ¥13,083 = 第 1 单",
+        "why": "PBA 的成交价 = 列表价 −4%～−7%，这就是对「整线试样单」的折让尺度；全表与 2026 Q3 列表价对比见 docs/reference/价格表_Realtek_2.5G-10G线_2024-10对PBA报价_USD.md",
+        "k": "data/pi_2026-10/text/…13_泰国_Peeranun…Copy_of_Reply_on_Copy_of_2.5g_10g_network_switch_121024_new.xls"
+      },
+      {
         "date": "2024-10-14",
         "dir": "去",
         "who": "HRUI → Saga（交期价格确认_2024.10.14.xlsx，1st order 成本表）",
