@@ -1,121 +1,121 @@
 {
-  "code": "SB-110",
-  "name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（yahoo；仅表内信息）",
-  "summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
-      "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ade Tj",
-      "title": "（表内联系人，已加微信）",
-      "email": "adren_tj@yahoo.com",
-      "phone": "+62 812 2212 3997",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（待核；表内名疑误录）",
-    "founded": "",
-    "hq": "印度尼西亚（表内）",
-    "size": "",
-    "other": "现用品牌 Ruijie（锐捷）"
-  },
-  "channels": {
-    "role": "（未知，疑工程商）",
-    "region": "印度尼西亚"
-  },
-  "signals": [
-    "要过工业 16/24 口机 datasheet",
-    "问 SFP 兼容（配件需求）"
-  ],
-  "risks": [
-    "主体不明（公司名疑误录）",
-    "商用层已用 Ruijie"
-  ],
-  "saga_fit": {
-    "p1": "STI-21616GP",
-    "tier": 25,
-    "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
-  },
-  "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc.",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "印度尼西亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；研究档 risks：主体不明（公司名疑误录）"
-    },
-    "situation": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
-    "need": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
-    "breakpoint": "主体不明（公司名疑误录）",
-    "saga_now": {
-      "p1": "STI-21616GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-04-18",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「—」→ 对方「让加微信」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.18"
-      },
-      {
-        "date": "2024-04-22",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 微信）",
-        "quote": "用户表跟进：推「问工业MC的feedback」→ 对方「问了一个周边产品」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.22"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-110",
+ "name_official": "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（yahoo；仅表内信息）",
+ "summary": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 SFP 收发器兼容性；2025-03 工业 16/24 口出货图→要 datasheet；2025-04 Marvell 商用组合→「用锐捷」",
+   "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ade Tj",
+   "title": "（表内联系人，已加微信）",
+   "email": "adren_tj@yahoo.com",
+   "phone": "+62 812 2212 3997",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核；表内名疑误录）",
+  "founded": "",
+  "hq": "印度尼西亚（表内）",
+  "size": "",
+  "other": "现用品牌 Ruijie（锐捷）"
+ },
+ "channels": {
+  "role": "（未知，疑工程商）",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "要过工业 16/24 口机 datasheet",
+  "问 SFP 兼容（配件需求）"
+ ],
+ "risks": [
+  "主体不明（公司名疑误录）",
+  "商用层已用 Ruijie"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 25,
+  "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
+ },
+ "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；研究档 risks：主体不明（公司名疑误录）"
+  },
+  "situation": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+  "need": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+  "breakpoint": "主体不明（公司名疑误录）",
+  "saga_now": {
+   "p1": "STI-21616GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-04-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「—」→ 对方「让加微信」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.18"
+   },
+   {
+    "date": "2024-04-22",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 微信）",
+    "quote": "用户表跟进：推「问工业MC的feedback」→ 对方「问了一个周边产品」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.22"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

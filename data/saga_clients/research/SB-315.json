@@ -1,129 +1,129 @@
 {
-  "code": "SB-315",
-  "name_official": "Infinicore Incorporated（infinicoreinc.com，San Jose, CA, USA）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司定位与产品",
-      "quote": "Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments … Founded in 2010 in Silicon Valley … FlowDirector, FlowMagic, and 01Layer … Infinicore Inc. 1754 Technology Dr STE 210 San Jose, CA 95110",
-      "url": "https://www.infinicoreinc.com/company.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Infinicore Incorporated 1754 Technology Dr STE 210 San Jose, CA 95110 Phone: +1 (408) 320-2427 Email: info@infinicoreinc.com",
-      "url": "https://www.infinicoreinc.com/support.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "规模口径",
-      "quote": "Infinicore Incorporated 96 N 3RD ST STE 150 SAN JOSE, CA 95112 … Founded 2010 … Employee Count 3",
-      "url": "https://www.dandb.com/businessdirectory/infinicoreincorporated-sanjose-ca-518632.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "登记国别「加拿大」（有误，实为美国）；WhatsApp 已加；8 次跟进 0 回复",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对 · 国别更正）"
+ "code": "SB-315",
+ "name_official": "Infinicore Incorporated（infinicoreinc.com，San Jose, CA, USA）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与产品",
+   "quote": "Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments … Founded in 2010 in Silicon Valley … FlowDirector, FlowMagic, and 01Layer … Infinicore Inc. 1754 Technology Dr STE 210 San Jose, CA 95110",
+   "url": "https://www.infinicoreinc.com/company.html",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Infinicore Incorporated（InfiniCORE, Inc.）",
-    "founded": "2010",
-    "hq": "1754 Technology Dr, STE 210, San Jose, CA 95110, USA（+1 408-320-2427；info@infinicoreinc.com）",
-    "size": "3 人（D&B）～小团队；$6M（RocketReach 口径，不一致）",
-    "other": "产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Infinicore Incorporated 1754 Technology Dr STE 210 San Jose, CA 95110 Phone: +1 (408) 320-2427 Email: info@infinicoreinc.com",
+   "url": "https://www.infinicoreinc.com/support.html",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络可视化 / 分流器（NPB）",
-    "流量捕获、回放、分析与测试系统"
-  ],
-  "channels": {
-    "网站": "https://infinicoreinc.com/",
-    "电话": "+1 408-320-2427（官网公开）",
-    "邮箱（公开）": "info@infinicoreinc.com"
+  {
+   "kind": "名录",
+   "claim": "规模口径",
+   "quote": "Infinicore Incorporated 96 N 3RD ST STE 150 SAN JOSE, CA 95112 … Founded 2010 … Employee Count 3",
+   "url": "https://www.dandb.com/businessdirectory/infinicoreincorporated-sanjose-ca-518632.html",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "仅实验室/演示机柜需要 1G/10G 管理交换机做设备互联——STC-424XGGM 一次性 1–2 台"
-  ],
-  "risks": [
-    "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低"
-  },
-  "email_hook": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.",
-  "country_fix": "美国",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "US 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 11；用户表：「（用户表字段）」；研究档 risks：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
-    },
-    "situation": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
-    "need": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
-    "breakpoint": "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
-      "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation."
-    },
-    "facts": [
-      {
-        "date": "2026-03-04",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "90W PoE Managed Switch、Marvell Alleycat5 Solution",
-        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-03-04（11 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "（用户表字段）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "登记国别「加拿大」（有误，实为美国）；WhatsApp 已加；8 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对 · 国别更正）"
+ },
+ "company_facts": {
+  "legal_name": "Infinicore Incorporated（InfiniCORE, Inc.）",
+  "founded": "2010",
+  "hq": "1754 Technology Dr, STE 210, San Jose, CA 95110, USA（+1 408-320-2427；info@infinicoreinc.com）",
+  "size": "3 人（D&B）～小团队；$6M（RocketReach 口径，不一致）",
+  "other": "产品：FlowDirector（1G/10G/25G/40G/100G/200G/400G 分流/聚合）、FlowMagic、FSN、InfiniLOAD；客户：企业与政府级关键基础设施"
+ },
+ "business_lines": [
+  "网络可视化 / 分流器（NPB）",
+  "流量捕获、回放、分析与测试系统"
+ ],
+ "channels": {
+  "网站": "https://infinicoreinc.com/",
+  "电话": "+1 408-320-2427（官网公开）",
+  "邮箱（公开）": "info@infinicoreinc.com"
+ },
+ "signals": [
+  "仅实验室/演示机柜需要 1G/10G 管理交换机做设备互联——STC-424XGGM 一次性 1–2 台"
+ ],
+ "risks": [
+  "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低"
+ },
+ "email_hook": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.",
+ "country_fix": "美国",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「（用户表字段）」；研究档 risks：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先"
+  },
+  "situation": "美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。",
+  "need": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
+  "breakpoint": "产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation."
+  },
+  "facts": [
+   {
+    "date": "2026-03-04",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "90W PoE Managed Switch、Marvell Alleycat5 Solution",
+    "why": "11 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-03-04（11 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

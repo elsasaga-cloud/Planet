@@ -1,121 +1,121 @@
 {
-  "code": "SB-1046",
-  "name_official": "Osool Communications & Technical Systems（Ras Al Khaimah）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（osoolct.com，快照 2026-10-21）",
-  "summary": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "服务：监控系统、结构化布线、TV / 电话系统；+971 50 686 8944 / +971 7 244 4355；项目页",
-      "quote": "Trusted Source in IT Services And Support… Surveillance Systems… Structured Cabling… Tv System… Telephone System… Executed Projects Ongoing Projects",
-      "url": "https://osoolct.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "需求 2 光 8 电工业级网管千兆 POE FS",
-      "quote": "兴趣：2光8电工业级网管千兆POE FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Hossam Ayyad",
-      "title": "（负责人 / 项目）",
-      "email": "info@osoolct.com",
-      "phone": "+971 50 686 8944",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-1046",
+ "name_official": "Osool Communications & Technical Systems（Ras Al Khaimah）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（osoolct.com，快照 2026-10-21）",
+ "summary": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务：监控系统、结构化布线、TV / 电话系统；+971 50 686 8944 / +971 7 244 4355；项目页",
+   "quote": "Trusted Source in IT Services And Support… Surveillance Systems… Structured Cabling… Tv System… Telephone System… Executed Projects Ongoing Projects",
+   "url": "https://osoolct.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Osool Communications & Technical Systems",
-    "founded": "（待核）",
-    "hq": "Ras Al Khaimah, UAE",
-    "size": "小型集成商",
-    "other": ""
-  },
-  "business_lines": [
-    "监控 / 弱电集成",
-    "结构化布线 / 电话 / TV 系统"
-  ],
-  "channels": {
-    "role": "弱电集成商",
-    "region": "阿联酋北部酋长国"
-  },
-  "signals": [
-    "明确口型：2 光 8 电工业管理 PoE"
-  ],
-  "risks": [
-    "WA 无回复；小型项目量"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。"
-  },
-  "email_hook": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 info@osoolct.com；主题多为「24 Port PoE Managed Switch、Marvell Managed Commercial Switches」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "阿联酋 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 8；用户表：「兴趣：2光8电工业级网管千兆POE FS」；研究档 risks：WA 无回复；小型项目量"
-    },
-    "situation": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
-    "need": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
-    "breakpoint": "WA 无回复；小型项目量",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）",
-      "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "24 Port PoE Managed Switch、Marvell Managed Commercial Switches",
-        "why": "8 封 / 0 次打开 / 0 回｜首封 2026-03-23 → 末封 2026-10-01（8 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：2光8电工业级网管千兆POE FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "需求 2 光 8 电工业级网管千兆 POE FS",
+   "quote": "兴趣：2光8电工业级网管千兆POE FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Hossam Ayyad",
+   "title": "（负责人 / 项目）",
+   "email": "info@osoolct.com",
+   "phone": "+971 50 686 8944",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Osool Communications & Technical Systems",
+  "founded": "（待核）",
+  "hq": "Ras Al Khaimah, UAE",
+  "size": "小型集成商",
+  "other": ""
+ },
+ "business_lines": [
+  "监控 / 弱电集成",
+  "结构化布线 / 电话 / TV 系统"
+ ],
+ "channels": {
+  "role": "弱电集成商",
+  "region": "阿联酋北部酋长国"
+ },
+ "signals": [
+  "明确口型：2 光 8 电工业管理 PoE"
+ ],
+ "risks": [
+  "WA 无回复；小型项目量"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。"
+ },
+ "email_hook": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 info@osoolct.com；主题多为「24 Port PoE Managed Switch、Marvell Managed Commercial Switches」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "阿联酋 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：2光8电工业级网管千兆POE FS」；研究档 risks：WA 无回复；小型项目量"
+  },
+  "situation": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
+  "need": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
+  "breakpoint": "WA 无回复；小型项目量",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）",
+   "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、Marvell Managed Commercial Switches",
+    "why": "8 封 / 0 次打开 / 0 回｜首封 2026-03-23 → 末封 2026-10-01（8 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：2光8电工业级网管千兆POE FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

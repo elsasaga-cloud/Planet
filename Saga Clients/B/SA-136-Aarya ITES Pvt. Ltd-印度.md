@@ -59,7 +59,7 @@ updated: 2026-10-24
 | 2025-04-21 | 来 | postmaster@a-ites.com | Your message to manish.m@a-ites.com couldn't be delivered. manish.m wasn't found at a-ites.com（chirag.s@ 同样；2025-03-12 与 2025-04-21 两次） | Elsa 邮箱退信（第 21 批连接器抽查）：两个具名邮箱已失效 → 该户目前没有可用邮箱 | `gmail_e:19657787c93c8d51` |
 | 2026-10-21 | 用户表 | Simon | Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

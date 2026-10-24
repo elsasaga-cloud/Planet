@@ -1,121 +1,121 @@
 {
-  "code": "SB-514",
-  "name_official": "Brigit Group（南非）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（brigit.co.za，快照 2026-10-21，内容空）",
-  "summary": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "brigit.co.za 首页无内容",
-      "quote": "status ok, empty",
-      "url": "https://brigit.co.za/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "没说啥具体内容，来自南非会联系，拿走了 2 本 catalog",
-      "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Deon van Zyl",
-      "title": "Managing Director",
-      "email": "deon@brigit.co.za",
-      "phone": "+27 83 459 1432",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Lyle Olivier",
-      "title": "Project Manager",
-      "email": "lyle@brigit.co.za",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照空页 + 表内）"
+ "code": "SB-514",
+ "name_official": "Brigit Group（南非）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（brigit.co.za，快照 2026-10-21，内容空）",
+ "summary": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "brigit.co.za 首页无内容",
+   "quote": "status ok, empty",
+   "url": "https://brigit.co.za/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Brigit Group（待核）",
-    "founded": "",
-    "hq": "South Africa",
-    "size": "小型",
-    "other": "展会接触"
-  },
-  "channels": {
-    "role": "工程 / 项目（推断）",
-    "region": "南非"
-  },
-  "risks": [
-    "无具体需求；WA 无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "无口型；通用 8 PoE 管理机入口。"
-  },
-  "email_hook": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 deon@brigit.co.za, lyle@brigit.co.za；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "南非 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17；用户表：「兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog」；研究档 risks：无具体需求；WA 无回复"
-    },
-    "situation": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
-    "need": "无口型；通用 8 PoE 管理机入口。",
-    "breakpoint": "无具体需求；WA 无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）",
-      "why": "无口型；通用 8 PoE 管理机入口。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only."
-    },
-    "facts": [
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "没说啥具体内容，来自南非会联系，拿走了 2 本 catalog",
+   "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Deon van Zyl",
+   "title": "Managing Director",
+   "email": "deon@brigit.co.za",
+   "phone": "+27 83 459 1432",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Lyle Olivier",
+   "title": "Project Manager",
+   "email": "lyle@brigit.co.za",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照空页 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Brigit Group（待核）",
+  "founded": "",
+  "hq": "South Africa",
+  "size": "小型",
+  "other": "展会接触"
+ },
+ "channels": {
+  "role": "工程 / 项目（推断）",
+  "region": "南非"
+ },
+ "risks": [
+  "无具体需求；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型；通用 8 PoE 管理机入口。"
+ },
+ "email_hook": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 deon@brigit.co.za, lyle@brigit.co.za；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "南非 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog」；研究档 risks：无具体需求；WA 无回复"
+  },
+  "situation": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
+  "need": "无口型；通用 8 PoE 管理机入口。",
+  "breakpoint": "无具体需求；WA 无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "无口型；通用 8 PoE 管理机入口。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only."
+  },
+  "facts": [
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

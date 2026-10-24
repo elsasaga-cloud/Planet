@@ -1,101 +1,101 @@
 {
-  "code": "SB-887",
-  "name_official": "ТОО «VERTEX INVADER»（哈萨克斯坦；表内误归俄罗斯）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（mail.ru）",
-  "summary": "ТОО（哈萨克斯坦有限责任公司法律形式）VERTEX INVADER，电话 +7 778（哈萨克斯坦移动号），邮箱 invest_01otp@mail.ru；询盘表来源，无兴趣描述；WA 无实质回复。表内国家俄罗斯 → 更正哈萨克斯坦；身份不明。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "ТОО 法律形式 + 电话 77784080220（哈萨克斯坦）；询盘统计表来源，无兴趣描述",
-      "quote": "VERTEX INVADER, ТОО；77784080220",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "invest_01otp@mail.ru",
-      "phone": "+7 778 408 0220",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息（country_fix 哈萨克斯坦）"
-  },
-  "company_facts": {
-    "legal_name": "ТОО «VERTEX INVADER»",
-    "founded": "",
-    "hq": "Kazakhstan",
-    "size": "",
-    "other": "mail.ru；身份不明"
-  },
-  "channels": {
-    "role": "（未知）",
-    "region": "哈萨克斯坦"
-  },
-  "risks": [
-    "身份不明、邮箱似投资类；无需求"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "无口型。"
-  },
-  "email_hook": "（低优先）",
-  "country_fix": "哈萨克斯坦",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「VERTEX INVADER, ТОО；77784080220」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "哈萨克斯坦 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「VERTEX INVADER, ТОО；77784080220」；研究档 risks：身份不明、邮箱似投资类；无需求"
-    },
-    "situation": "ТОО（哈萨克斯坦有限责任公司法律形式）VERTEX INVADER，电话 +7 778（哈萨克斯坦移动号），邮箱 invest_01otp@mail.ru；询盘表来源，无兴趣描述；WA 无实质回复。表内国家俄罗斯 → 更正哈萨克斯坦；身份不明。",
-    "need": "无口型。",
-    "breakpoint": "身份不明、邮箱似投资类；无需求",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "无口型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "VERTEX INVADER, ТОО；77784080220",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-887",
+ "name_official": "ТОО «VERTEX INVADER»（哈萨克斯坦；表内误归俄罗斯）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（mail.ru）",
+ "summary": "ТОО（哈萨克斯坦有限责任公司法律形式）VERTEX INVADER，电话 +7 778（哈萨克斯坦移动号），邮箱 invest_01otp@mail.ru；询盘表来源，无兴趣描述；WA 无实质回复。表内国家俄罗斯 → 更正哈萨克斯坦；身份不明。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "ТОО 法律形式 + 电话 77784080220（哈萨克斯坦）；询盘统计表来源，无兴趣描述",
+   "quote": "VERTEX INVADER, ТОО；77784080220",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "invest_01otp@mail.ru",
+   "phone": "+7 778 408 0220",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息（country_fix 哈萨克斯坦）"
+ },
+ "company_facts": {
+  "legal_name": "ТОО «VERTEX INVADER»",
+  "founded": "",
+  "hq": "Kazakhstan",
+  "size": "",
+  "other": "mail.ru；身份不明"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "哈萨克斯坦"
+ },
+ "risks": [
+  "身份不明、邮箱似投资类；无需求"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "无口型。"
+ },
+ "email_hook": "（低优先）",
+ "country_fix": "哈萨克斯坦",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「VERTEX INVADER, ТОО；77784080220」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "哈萨克斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「VERTEX INVADER, ТОО；77784080220」；研究档 risks：身份不明、邮箱似投资类；无需求"
+  },
+  "situation": "ТОО（哈萨克斯坦有限责任公司法律形式）VERTEX INVADER，电话 +7 778（哈萨克斯坦移动号），邮箱 invest_01otp@mail.ru；询盘表来源，无兴趣描述；WA 无实质回复。表内国家俄罗斯 → 更正哈萨克斯坦；身份不明。",
+  "need": "无口型。",
+  "breakpoint": "身份不明、邮箱似投资类；无需求",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "无口型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "VERTEX INVADER, ТОО；77784080220",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

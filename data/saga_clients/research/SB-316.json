@@ -1,116 +1,116 @@
 {
-  "code": "SB-316",
-  "name_official": "Infonet（印度联系人 Sudesh Verma；域名 infonet-tech.com 为北美加油站 POS 公司）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线，但站点与表内客户不符（site_mismatch）",
-  "summary": "表内域名 infonet-tech.com 的网站是北美加油站 / 便利店 POS 与燃油管理软件公司（Infonet Technology），与印度联系人 Sudesh Verma（+91 740）及「光猫」需求不符；sales@infonet-tech.com 曾用于发送资料，是否同一主体待核。需求 ONU（Saga 无）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "站点为北美加油站 POS 软件公司",
-      "quote": "Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America",
-      "url": "https://infonet-tech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 光猫；2024-06 邮件发了 2 光 2 小壳；2025-01 邮件 48 口",
-      "quote": "兴趣：光猫；回复：Email发了2光2小壳信息；125 email 48口",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Sudesh Verma",
-      "title": "（表内联系人）",
-      "email": "sales@infonet-tech.com",
-      "phone": "+91 74083 98524",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+ "code": "SB-316",
+ "name_official": "Infonet（印度联系人 Sudesh Verma；域名 infonet-tech.com 为北美加油站 POS 公司）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线，但站点与表内客户不符（site_mismatch）",
+ "summary": "表内域名 infonet-tech.com 的网站是北美加油站 / 便利店 POS 与燃油管理软件公司（Infonet Technology），与印度联系人 Sudesh Verma（+91 740）及「光猫」需求不符；sales@infonet-tech.com 曾用于发送资料，是否同一主体待核。需求 ONU（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "站点为北美加油站 POS 软件公司",
+   "quote": "Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America",
+   "url": "https://infonet-tech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "（待核：印度 Infonet 主体不明）",
-    "founded": "",
-    "hq": "印度（手机号段）",
-    "size": "",
-    "other": "域名误配，快照作废"
-  },
-  "channels": {
-    "role": "（未知）",
-    "region": "印度"
-  },
-  "risks": [
-    "主体不明 + 需求 ONU（Saga 不做 PON）",
-    "邮箱是否属该联系人待核（可能误投北美公司）"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "需求光猫不在 Saga 范围；主体待核，无主推型。"
-  },
-  "email_hook": "（待核主体；不主动发送）",
-  "site_mismatch": true,
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封休假自动回复；域名为北美 POS 公司，印度联系人待核）",
-      "type": "Infonet（身份待核）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "IN",
-      "cadence": "不动",
-      "evidence": "k=99e379fd60d7c1aa"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）",
-      "why": "已打开的主题（1/2 封有打开记录）：「industrial fiber switch」(2024-06-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-06-21",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 2024.6.21"
-      },
-      {
-        "date": "2024-12-04",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「引流机型」→ 对方「125 email 48口」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 124"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 光猫；2024-06 邮件发了 2 光 2 小壳；2025-01 邮件 48 口",
+   "quote": "兴趣：光猫；回复：Email发了2光2小壳信息；125 email 48口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Sudesh Verma",
+   "title": "（表内联系人）",
+   "email": "sales@infonet-tech.com",
+   "phone": "+91 74083 98524",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "（待核：印度 Infonet 主体不明）",
+  "founded": "",
+  "hq": "印度（手机号段）",
+  "size": "",
+  "other": "域名误配，快照作废"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "印度"
+ },
+ "risks": [
+  "主体不明 + 需求 ONU（Saga 不做 PON）",
+  "邮箱是否属该联系人待核（可能误投北美公司）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "需求光猫不在 Saga 范围；主体待核，无主推型。"
+ },
+ "email_hook": "（待核主体；不主动发送）",
+ "site_mismatch": true,
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封休假自动回复；域名为北美 POS 公司，印度联系人待核）",
+   "type": "Infonet（身份待核）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "IN",
+   "cadence": "不动",
+   "evidence": "k=99e379fd60d7c1aa"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）",
+   "why": "已打开的主题（1/2 封有打开记录）：「industrial fiber switch」(2024-06-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-06-21",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 2024.6.21"
+   },
+   {
+    "date": "2024-12-04",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「引流机型」→ 对方「125 email 48口」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 124"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

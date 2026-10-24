@@ -1,92 +1,92 @@
 {
-  "code": "SB-1283",
-  "name_official": "（个人 gmail，埃塞俄比亚 +251 955）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣千兆双纤 20KM 工业模块；2022-12 一直是一个对勾没看信息",
-      "quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（未知）",
-    "founded": "",
-    "hq": "埃塞俄比亚",
-    "size": "",
-    "other": "gmail mulugetawendosen@"
-  },
-  "channels": {
-    "role": "（未知）",
-    "region": "埃塞俄比亚"
-  },
-  "risks": [
-    "需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "SFP 模块不在价目；无主推型。"
-  },
-  "email_hook": "（不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "埃塞俄比亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」；研究档 risks：需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
-    },
-    "situation": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
-    "need": "SFP 模块不在价目；无主推型。",
-    "breakpoint": "需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "SFP 模块不在价目；无主推型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-1283",
+ "name_official": "（个人 gmail，埃塞俄比亚 +251 955）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣千兆双纤 20KM 工业模块；2022-12 一直是一个对勾没看信息",
+   "quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "埃塞俄比亚",
+  "size": "",
+  "other": "gmail mulugetawendosen@"
+ },
+ "channels": {
+  "role": "（未知）",
+  "region": "埃塞俄比亚"
+ },
+ "risks": [
+  "需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "SFP 模块不在价目；无主推型。"
+ },
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "埃塞俄比亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息」；研究档 risks：需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制"
+  },
+  "situation": "埃塞俄比亚自建站最早询盘（2022-11），需求千兆双纤 20 km 工业光模块（SFP，Saga 价目无，Q-32）；消息未读，无后续。",
+  "need": "SFP 模块不在价目；无主推型。",
+  "breakpoint": "需求为 SFP 模块（缺口 Q-32）；消息未读；埃塞外汇管制",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "SFP 模块不在价目；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：千兆双纤20KM工业模块；回复：12.13: 一直是一个对勾 没看信息",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

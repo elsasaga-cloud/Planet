@@ -1,113 +1,113 @@
 {
-  "code": "SA-053",
-  "name_official": "Suministros Industriales MP4, S.L.（Sabadell, Spain）",
-  "website_status": "在线",
-  "summary": "巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。",
-  "type": "工业 MRO 供应商（非网络渠道）",
-  "size": "未见人数（小型）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "经营范围为自动化与 condúctica，无网络设备线",
-      "quote": "Suministros industriales MP4 es una empresa situada en Sabadell. Somos especialistas en todo tipo de soluciones industriales integrales. Disponemos de productos y servicios de las siguientes divisiones: automatización, y condúctica. - info@suministros-industriales.es - +34 93 590 94 12",
-      "url": "https://suministros-industriales.es/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Hugo Hernàndez",
-      "role": "联系人（用户表）",
-      "email": "info@suministros-industriales.es",
-      "phone": "+34 93 590 94 12",
-      "source": "Clients/S 09.08.xlsx"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
-  "notes": "",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
-  },
-  "company_facts": {
-    "legal_name": "Suministros Industriales MP4, S.L.",
-    "hq": "Sabadell (Barcelona), España",
-    "size": "小型（未见人数）",
-    "other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」"
-  },
-  "business_lines": [
-    "工业自动化元器件与机柜供应（MRO）",
-    "Condúctica（拖链、滑触线）"
-  ],
-  "channels": {
-    "网站": "https://suministros-industriales.es/",
-    "联系人": "Hugo Hernàndez（用户表）"
-  },
-  "signals": [
-    "卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格"
-  ],
-  "risks": [
-    "无网络品类经验；1 次回复后 18 次无果"
-  ],
-  "saga_fit": {
-    "p1": "STI-050GE",
-    "tier": 20,
-    "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）"
-  },
-  "email_hook": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 info@suministros-industriales.es；主题多为「Industrial Network Switch、Power Converter」）",
-      "type": "工业 MRO 供应商（非网络渠道）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "西班牙（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；研究档 risks：无网络品类经验；1 次回复后 18 次无果"
-    },
-    "situation": "巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。",
-    "need": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）",
-    "breakpoint": "无网络品类经验；1 次回复后 18 次无果",
-    "saga_now": {
-      "p1": "STI-050GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
-      "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?"
-    },
-    "facts": [
-      {
-        "date": "2023-12-15",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Email）",
-        "quote": "用户表跟进：推「群发工业电源价格册」→ 对方「问问价近期会不会变化」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/S 09.08.xlsx no.15 2023.12.15"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial Network Switch、Power Converter",
-        "why": "17 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-09-08（17 去 / 0 来）",
-        "k": "gmail_digest"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SA-053",
+ "name_official": "Suministros Industriales MP4, S.L.（Sabadell, Spain）",
+ "website_status": "在线",
+ "summary": "巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。",
+ "type": "工业 MRO 供应商（非网络渠道）",
+ "size": "未见人数（小型）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "经营范围为自动化与 condúctica，无网络设备线",
+   "quote": "Suministros industriales MP4 es una empresa situada en Sabadell. Somos especialistas en todo tipo de soluciones industriales integrales. Disponemos de productos y servicios de las siguientes divisiones: automatización, y condúctica. - info@suministros-industriales.es - +34 93 590 94 12",
+   "url": "https://suministros-industriales.es/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Hugo Hernàndez",
+   "role": "联系人（用户表）",
+   "email": "info@suministros-industriales.es",
+   "phone": "+34 93 590 94 12",
+   "source": "Clients/S 09.08.xlsx"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
+ "notes": "",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "Suministros Industriales MP4, S.L.",
+  "hq": "Sabadell (Barcelona), España",
+  "size": "小型（未见人数）",
+  "other": "产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络类目；联系人 Hugo Hernàndez；S 重点名单，1 次回复，兴趣「价格」"
+ },
+ "business_lines": [
+  "工业自动化元器件与机柜供应（MRO）",
+  "Condúctica（拖链、滑触线）"
+ ],
+ "channels": {
+  "网站": "https://suministros-industriales.es/",
+  "联系人": "Hugo Hernàndez（用户表）"
+ },
+ "signals": [
+  "卖机柜与电柜配件 → 可补 DIN 导轨工业交换机作柜内配套 SKU；对方关注价格"
+ ],
+ "risks": [
+  "无网络品类经验；1 次回复后 18 次无果"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）"
+ },
+ "email_hook": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 info@suministros-industriales.es；主题多为「Industrial Network Switch、Power Converter」）",
+   "type": "工业 MRO 供应商（非网络渠道）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；研究档 risks：无网络品类经验；1 次回复后 18 次无果"
+  },
+  "situation": "巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。",
+  "need": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）",
+  "breakpoint": "无网络品类经验；1 次回复后 18 次无果",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-08-27 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
+   "why": "工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?"
+  },
+  "facts": [
+   {
+    "date": "2023-12-15",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Email）",
+    "quote": "用户表跟进：推「群发工业电源价格册」→ 对方「问问价近期会不会变化」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/S 09.08.xlsx no.15 2023.12.15"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Industrial Network Switch、Power Converter",
+    "why": "17 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-09-08（17 去 / 0 来）",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

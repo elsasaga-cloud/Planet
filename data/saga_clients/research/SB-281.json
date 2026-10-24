@@ -1,140 +1,140 @@
 {
-  "code": "SB-281",
-  "name_official": "Techno Tower Sarl（Jdeideh/Bauchrieh, Metn，黎巴嫩；technotower-lb.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线但为 2011 年老站（用户备注「打不开」；Kompass/FB 仍在）",
-  "summary": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位与历史",
-      "quote": "Techno Tower is a Lebanese company founded in Beirut in 1989… active in different types of Automation and Security Systems… Sliding & Swinging gates… Barriers - access control. - Videophone & Interphone systems",
-      "url": "http://www.technotower-lb.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Gf., Abou Karam 1 ctr., Near Mar Youhana church, Jdeideh Phone : +961 1 875725 Mobile : +961 3 870252 +961 3 839839 … Email : info@technotower-lb.com",
-      "url": "http://www.technotower-lb.com/contact_us.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方",
-      "claim": "业主与业务分类",
-      "quote": "Main owners: Mr. Amine J Abou-Jaoudeh (Owner) · Mr. Fadi J Abou-Jaoudeh (Owner) · Ms. Grace Y Abou-Jaoudeh (Owner)… Television systems, closed circuit (CCTV)… Automatic fire alarm and extinguisher system installation contractors",
-      "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方",
-      "claim": "海关进口记录",
-      "quote": "Importer: Techno Tower Sarl; Product description: Telecommunication equipment (wholesale); City: Bauchrieh (Metn); Contact: Amine Abou-Jaoudeh",
-      "url": "https://www.tradesns.com/en/data/buyer/Lebanon/4448673/Techno%20Tower%20Sarl",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "需求与回复",
-      "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Amine Abou Jaoude (Abou-Jaoudeh)",
-      "role": "GM / 业主",
-      "email": "amine@technotower-lb.com",
-      "phone": "+961 3 839 839（WA 已加）",
-      "source": "用户 Clients 表 + Kompass"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + Kompass/海关记录核对）"
+ "code": "SB-281",
+ "name_official": "Techno Tower Sarl（Jdeideh/Bauchrieh, Metn，黎巴嫩；technotower-lb.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线但为 2011 年老站（用户备注「打不开」；Kompass/FB 仍在）",
+ "summary": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位与历史",
+   "quote": "Techno Tower is a Lebanese company founded in Beirut in 1989… active in different types of Automation and Security Systems… Sliding & Swinging gates… Barriers - access control. - Videophone & Interphone systems",
+   "url": "http://www.technotower-lb.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Techno Tower Sarl",
-    "founded": "1989",
-    "hq": "Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com",
-    "size": "待核（家族企业，小型）",
-    "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Gf., Abou Karam 1 ctr., Near Mar Youhana church, Jdeideh Phone : +961 1 875725 Mobile : +961 3 870252 +961 3 839839 … Email : info@technotower-lb.com",
+   "url": "http://www.technotower-lb.com/contact_us.html",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "自动门、道闸、门禁与停车系统",
-    "可视对讲、CCTV 视频监控",
-    "火警与自动灭火系统、防雷",
-    "电信/安防设备批发进口"
-  ],
-  "products_seen": [],
-  "channels": {
-    "official": "info@technotower-lb.com / +961 1 875725",
-    "contact": "Amine Abou Jaoude（GM/业主）amine@technotower-lb.com，+961 3 839 839（WA 已加）",
-    "facebook": "facebook.com/Techbotower（+961 76 898 916）"
+  {
+   "kind": "第三方",
+   "claim": "业主与业务分类",
+   "quote": "Main owners: Mr. Amine J Abou-Jaoudeh (Owner) · Mr. Fadi J Abou-Jaoudeh (Owner) · Ms. Grace Y Abou-Jaoudeh (Owner)… Television systems, closed circuit (CCTV)… Automatic fire alarm and extinguisher system installation contractors",
+   "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2024-04-17 明确索要 8/16/24 口 PoE 价格"
-  ],
-  "risks": [
-    "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
-    "官网为 2011 年老站，公司活跃度以 FB/WA 为准"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）"
+  {
+   "kind": "第三方",
+   "claim": "海关进口记录",
+   "quote": "Importer: Techno Tower Sarl; Product description: Telecommunication equipment (wholesale); City: Bauchrieh (Metn); Contact: Amine Abou-Jaoudeh",
+   "url": "https://www.tradesns.com/en/data/buyer/Lebanon/4448673/Techno%20Tower%20Sarl",
+   "date": "2026-10-21"
   },
-  "email_hook": "You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price fo」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "黎巴嫩 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24」；研究档 risks：黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）"
-    },
-    "situation": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
-    "need": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
-    "breakpoint": "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Amine Abou Jaoude (Abou-Jaoudeh)",
+   "role": "GM / 业主",
+   "email": "amine@technotower-lb.com",
+   "phone": "+961 3 839 839（WA 已加）",
+   "source": "用户 Clients 表 + Kompass"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + Kompass/海关记录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Techno Tower Sarl",
+  "founded": "1989",
+  "hq": "Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com",
+  "size": "待核（家族企业，小型）",
+  "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh"
+ },
+ "business_lines": [
+  "自动门、道闸、门禁与停车系统",
+  "可视对讲、CCTV 视频监控",
+  "火警与自动灭火系统、防雷",
+  "电信/安防设备批发进口"
+ ],
+ "products_seen": [],
+ "channels": {
+  "official": "info@technotower-lb.com / +961 1 875725",
+  "contact": "Amine Abou Jaoude（GM/业主）amine@technotower-lb.com，+961 3 839 839（WA 已加）",
+  "facebook": "facebook.com/Techbotower（+961 76 898 916）"
+ },
+ "signals": [
+  "2024-04-17 明确索要 8/16/24 口 PoE 价格"
+ ],
+ "risks": [
+  "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
+  "官网为 2011 年老站，公司活跃度以 FB/WA 为准"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）"
+ },
+ "email_hook": "You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price fo」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "黎巴嫩 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24」；研究档 risks：黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）"
+  },
+  "situation": "黎巴嫩自动化与安防承包商 Techno Tower Sarl（1989 年贝鲁特创立；自动门/道闸/门禁、可视对讲、CCTV、火警与灭火系统、防雷；海关记录为电信设备批发进口商）。业主 Amine / Fadi / Grace Abou-Jaoudeh；表内联系人 Amine Abou Jaoude / GM（amine@technotower-lb.com，+961 3 839 839，WA 已加）2024-04 回「pls me the price for 8 16 & 24」= 要 8/16/24 口 PoE 报价；19 次推送 1 次实质回复。安防安装商、需求明确 → B 25%（黎巴嫩局势与付款风险注明）。",
+  "need": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
+  "breakpoint": "黎巴嫩经济/局势与外汇付款风险（建议 100% 前 T/T）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

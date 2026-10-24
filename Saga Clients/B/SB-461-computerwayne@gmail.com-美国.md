@@ -58,7 +58,7 @@ updated: 2026-10-24
 | 2026-09-28 | 去 | A/S 群发 | Commercial PoE Switch、Managed Optical Bypass Switch | 30 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-28（30 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po… | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

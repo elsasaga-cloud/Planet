@@ -1,129 +1,129 @@
 {
-  "code": "SB-197",
-  "name_official": "Dourte SRL（Dourte Elektriciteit；Ruisbroek/Sint-Pieters-Leeuw, BE；dourte.be；BE 0684.917.295）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "业务与地址",
-      "quote": "Dourte is a company authorized by the FPS Interior for alarm systems and cameras. Security integrator Operating headquarters: Buitenplas 1 unit 15 1601 Ruisbroek … Our Services - Video Security - Access control - Fire detection - Intrusion detection - Renewable energy - Parking management - Parlo / Videophone",
-      "url": "https://dourte.be/en/",
-      "date": "2025-01-13"
-    },
-    {
-      "kind": "登记",
-      "claim": "法人、规模",
-      "quote": "Dourte (SRL) … BE0684917295 … Established 22-11-2017 … Company size Small 10,2 FTE … Commercial name Dourte Elektriciteit … Principal activity Electrical installation … gross margin of €598,413.56",
-      "url": "https://www.companyweb.be/en/0684917295/dourte",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模与专长",
-      "quote": "Dourte … Industry: Security Systems Services Company size: 11-50 employees … Founded: 2010 Specialties: Eletricité, Sécurité, CCTV, ACCES CONTROL, and FIRE DETECTION",
-      "url": "https://be.linkedin.com/company/dourte-sebastien",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "展会互动；WhatsApp 已加；6 次跟进 0 回复",
-      "quote": "看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对）"
+ "code": "SB-197",
+ "name_official": "Dourte SRL（Dourte Elektriciteit；Ruisbroek/Sint-Pieters-Leeuw, BE；dourte.be；BE 0684.917.295）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "业务与地址",
+   "quote": "Dourte is a company authorized by the FPS Interior for alarm systems and cameras. Security integrator Operating headquarters: Buitenplas 1 unit 15 1601 Ruisbroek … Our Services - Video Security - Access control - Fire detection - Intrusion detection - Renewable energy - Parking management - Parlo / Videophone",
+   "url": "https://dourte.be/en/",
+   "date": "2025-01-13"
   },
-  "company_facts": {
-    "legal_name": "Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit）",
-    "founded": "2017-11-22（LinkedIn 称 2010 起业）",
-    "hq": "Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be）",
-    "size": "10.2 FTE（2025 年报）；LinkedIn 11–50",
-    "other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单"
+  {
+   "kind": "登记",
+   "claim": "法人、规模",
+   "quote": "Dourte (SRL) … BE0684917295 … Established 22-11-2017 … Company size Small 10,2 FTE … Commercial name Dourte Elektriciteit … Principal activity Electrical installation … gross margin of €598,413.56",
+   "url": "https://www.companyweb.be/en/0684917295/dourte",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "视频安防 / 门禁 / 入侵探测集成",
-    "火灾探测（守界：主系统不供）",
-    "停车管理、对讲、可再生能源"
-  ],
-  "channels": {
-    "网站": "https://dourte.be/en/",
-    "邮箱（公开）": "info@dourte.be",
-    "LinkedIn": "https://be.linkedin.com/company/dourte-sebastien"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与专长",
+   "quote": "Dourte … Industry: Security Systems Services Company size: 11-50 employees … Founded: 2010 Specialties: Eletricité, Sécurité, CCTV, ACCES CONTROL, and FIRE DETECTION",
+   "url": "https://be.linkedin.com/company/dourte-sebastien",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "关注工业级 + bypass → 停车场/户外门禁柜场景；10 人集成商可成常备小客户"
-  ],
-  "risks": [
-    "规模小；6 次跟进 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM"
-  },
-  "email_hook": "For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 gli@dourte.be, info@dourte.be；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "比利时（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 16；用户表：「看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂」；研究档 risks：规模小；6 次跟进 0 回复"
-    },
-    "situation": "比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。",
-    "need": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM",
-    "breakpoint": "规模小；6 次跟进 0 回复",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-      "why": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-14",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-        "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-14（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "展会互动；WhatsApp 已加；6 次跟进 0 回复",
+   "quote": "看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "Dourte SRL（BE 0684.917.295；商号 Dourte Elektriciteit）",
+  "founded": "2017-11-22（LinkedIn 称 2010 起业）",
+  "hq": "Buitenplas 1 unit 15, 1601 Ruisbroek, Belgium（info@dourte.be）",
+  "size": "10.2 FTE（2025 年报）；LinkedIn 11–50",
+  "other": "FPS Interior 认可（报警/摄像）；Nacebel 43211 电气安装；2024 年入 Anderlecht 市政采购名单"
+ },
+ "business_lines": [
+  "视频安防 / 门禁 / 入侵探测集成",
+  "火灾探测（守界：主系统不供）",
+  "停车管理、对讲、可再生能源"
+ ],
+ "channels": {
+  "网站": "https://dourte.be/en/",
+  "邮箱（公开）": "info@dourte.be",
+  "LinkedIn": "https://be.linkedin.com/company/dourte-sebastien"
+ },
+ "signals": [
+  "关注工业级 + bypass → 停车场/户外门禁柜场景；10 人集成商可成常备小客户"
+ ],
+ "risks": [
+  "规模小；6 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM"
+ },
+ "email_hook": "For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 gli@dourte.be, info@dourte.be；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "比利时（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂」；研究档 risks：规模小；6 次跟进 0 回复"
+  },
+  "situation": "比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。",
+  "need": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM",
+  "breakpoint": "规模小；6 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-31 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+   "why": "集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "16 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-14（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

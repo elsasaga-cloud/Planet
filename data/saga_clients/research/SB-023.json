@@ -1,162 +1,162 @@
 {
-  "code": "SB-023",
-  "name_official": "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "GRUNDIG Security（许可品牌）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "品牌许可与定位",
-      "quote": "As a licensee of the well-known GRUNDIG Security brand, Abetechs GmbH distributes state-of-the-art products and solutions for professional video security worldwide.",
-      "url": "https://grundig-security.com/company/career/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "Imprint：法人、总经理、登记",
-      "quote": "Abetechs GmbH (Grundig Security) Steinhof 39 40699 Erkrath Germany Managing Director: Ludwig Bergschneider Entry in the trade register of Wuppertal HRB 35197 VAT No.: DE 315 133 441 Phone: +49 211 5380 680",
-      "url": "https://grundig-security.com/contacts/imprint/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网新闻",
-      "claim": "已有 OEM PoE 交换机线",
-      "quote": "NDAA compliant switches from Grundig Security! … we have added have expanded our SMART product line with three NDAA-compliant PoE switches (4-, 8- and 16-port models). The smart managed switches … enable PoE transmission up to 250 metres, and offer 4 KV surge protection.",
-      "url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记名录",
-      "claim": "登记与管理层、资本",
-      "quote": "Abetechs GmbH (Grundig Security) wird im Handelsregister beim Amtsgericht Düsseldorf unter der Nummer HRB 82264 geführt … 40699 ERKRATH, Steinhof 39 … Bergschneider Ludwig und Demirak Yalcin … Kapital … 800.000 EUR",
-      "url": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模",
-      "quote": "Grundig Security … Größe: 11–50 Beschäftigte Hauptsitz: Erkrath, Nordrhein-Westfalen … Gegründet: 2010",
-      "url": "https://de.linkedin.com/company/grundig-security",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "WhatsApp 已加；7 次跟进 0 回复",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ludwig Bergschneider",
-      "role": "Managing Director（Imprint 公开）",
-      "email": "—（未公开）",
-      "phone": "+49 211 5380 680",
-      "source": "https://grundig-security.com/contacts/imprint/"
-    },
-    {
-      "name": "Yalcin Demirak",
-      "role": "Geschäftsführer（登记名录公开）",
-      "email": "—（未公开）",
-      "phone": "+49 211 5380 680",
-      "source": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对）"
+ "code": "SB-023",
+ "name_official": "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "GRUNDIG Security（许可品牌）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "品牌许可与定位",
+   "quote": "As a licensee of the well-known GRUNDIG Security brand, Abetechs GmbH distributes state-of-the-art products and solutions for professional video security worldwide.",
+   "url": "https://grundig-security.com/company/career/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Abetechs GmbH（GRUNDIG Security）",
-    "registry": "HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000",
-    "hq": "Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680）",
-    "size": "11–50（LinkedIn）",
-    "other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销"
+  {
+   "kind": "官网",
+   "claim": "Imprint：法人、总经理、登记",
+   "quote": "Abetechs GmbH (Grundig Security) Steinhof 39 40699 Erkrath Germany Managing Director: Ludwig Bergschneider Entry in the trade register of Wuppertal HRB 35197 VAT No.: DE 315 133 441 Phone: +49 211 5380 680",
+   "url": "https://grundig-security.com/contacts/imprint/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销",
-    "C-WERK VMS 与项目设计支持",
-    "SMART 线 PoE 交换机（4/8/16 口，NDAA 合规，OEM 采购）"
-  ],
-  "products_seen": [
-    {
-      "brand": "GRUNDIG Security",
-      "model": "SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA）",
-      "spec": "智能管理、PoE 250 m、4 kV 浪涌",
-      "url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4 @30）/ STI-21616GP（16 口）"
-    },
-    {
-      "brand": "GRUNDIG Security",
-      "model": "SMART NVR（内置 4/8/16 口 PoE）",
-      "spec": "NDAA 合规 NVR",
-      "url": "https://download.grundig-security.com/gr%20brochure%20smart%20EN_v3_web.pdf",
-      "date": "2022",
-      "saga": "—"
-    }
-  ],
-  "channels": {
-    "网站": "https://grundig-security.com/",
-    "电话": "+49 211 5380 680（Imprint 公开）",
-    "LinkedIn": "https://de.linkedin.com/company/grundig-security"
+  {
+   "kind": "官网新闻",
+   "claim": "已有 OEM PoE 交换机线",
+   "quote": "NDAA compliant switches from Grundig Security! … we have added have expanded our SMART product line with three NDAA-compliant PoE switches (4-, 8- and 16-port models). The smart managed switches … enable PoE transmission up to 250 metres, and offer 4 KV surge protection.",
+   "url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "已有 OEM PoE 交换机线（4/8/16 口 NDAA）→ 缺 24/48 口与 10G 上联管理机、工业 DIN 系列：Saga 可补 STC-424DGGPM-280W / STC-424XGGPM-280W / STI-288DGGPM 并贴 GRUNDIG 标",
-    "NDAA 口径：Saga 整机/芯片不属 889 条所列厂商，可出具 NDAA 合规声明（需 SmartByte 确认元器件清单）"
-  ],
-  "risks": [
-    "品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 30,
-    "why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源"
+  {
+   "kind": "登记名录",
+   "claim": "登记与管理层、资本",
+   "quote": "Abetechs GmbH (Grundig Security) wird im Handelsregister beim Amtsgericht Düsseldorf unter der Nummer HRB 82264 geführt … 40699 ERKRATH, Steinhof 39 … Bergschneider Ludwig und Demirak Yalcin … Kapital … 800.000 EUR",
+   "url": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html",
+   "date": "2026-10-21"
   },
-  "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封自动回复）",
-      "type": "德国 GRUNDIG Security 被许可人（Abetechs）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "DE",
-      "cadence": "不动",
-      "evidence": "k=244ba9abd5d05d58"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模",
+   "quote": "Grundig Security … Größe: 11–50 Beschäftigte Hauptsitz: Erkrath, Nordrhein-Westfalen … Gegründet: 2010",
+   "url": "https://de.linkedin.com/company/grundig-security",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "WhatsApp 已加；7 次跟进 0 回复",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ludwig Bergschneider",
+   "role": "Managing Director（Imprint 公开）",
+   "email": "—（未公开）",
+   "phone": "+49 211 5380 680",
+   "source": "https://grundig-security.com/contacts/imprint/"
+  },
+  {
+   "name": "Yalcin Demirak",
+   "role": "Geschäftsführer（登记名录公开）",
+   "email": "—（未公开）",
+   "phone": "+49 211 5380 680",
+   "source": "https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "Abetechs GmbH（GRUNDIG Security）",
+  "registry": "HRB 82264 Amtsgericht Düsseldorf（名录）/ HRB 35197 Wuppertal（官网 Imprint）· USt-ID DE 315 133 441 · 注册资本 €800,000",
+  "hq": "Steinhof 39, 40699 Erkrath, Germany（+49 211 5380 680）",
+  "size": "11–50（LinkedIn）",
+  "other": "GRUNDIG Security 独家许可；SMART 线 NDAA 合规；VMS C-WERK；全球分销"
+ },
+ "business_lines": [
+  "GRUNDIG 品牌 IP 视频安防（摄像机、热成像、NVR、监视器）全球分销",
+  "C-WERK VMS 与项目设计支持",
+  "SMART 线 PoE 交换机（4/8/16 口，NDAA 合规，OEM 采购）"
+ ],
+ "products_seen": [
+  {
+   "brand": "GRUNDIG Security",
+   "model": "SMART PoE Switch 4/8/16 口（如 VGR-GU-HW-ACSW08D：9 口，8 PoE，250 m，NDAA）",
+   "spec": "智能管理、PoE 250 m、4 kV 浪涌",
+   "url": "https://grundig-security.com/news/ndaa-compliant-switches-from-grundig-security/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM（8 GE PoE+ 2 SFP 管理，$87.4 @30）/ STI-21616GP（16 口）"
+  },
+  {
+   "brand": "GRUNDIG Security",
+   "model": "SMART NVR（内置 4/8/16 口 PoE）",
+   "spec": "NDAA 合规 NVR",
+   "url": "https://download.grundig-security.com/gr%20brochure%20smart%20EN_v3_web.pdf",
+   "date": "2022",
+   "saga": "—"
+  }
+ ],
+ "channels": {
+  "网站": "https://grundig-security.com/",
+  "电话": "+49 211 5380 680（Imprint 公开）",
+  "LinkedIn": "https://de.linkedin.com/company/grundig-security"
+ },
+ "signals": [
+  "已有 OEM PoE 交换机线（4/8/16 口 NDAA）→ 缺 24/48 口与 10G 上联管理机、工业 DIN 系列：Saga 可补 STC-424DGGPM-280W / STC-424XGGPM-280W / STI-288DGGPM 并贴 GRUNDIG 标",
+  "NDAA 口径：Saga 整机/芯片不属 889 条所列厂商，可出具 NDAA 合规声明（需 SmartByte 确认元器件清单）"
+ ],
+ "risks": [
+  "品牌方对 OEM 质量/固件定制（Web UI 品牌化、NDAA 声明、EN 55032）要求高；7 次跟进 0 回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 30,
+  "why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源"
+ },
+ "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "德国 GRUNDIG Security 被许可人（Abetechs）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "DE",
+   "cadence": "不动",
+   "evidence": "k=244ba9abd5d05d58"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

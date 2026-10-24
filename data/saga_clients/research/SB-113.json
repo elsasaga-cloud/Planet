@@ -1,103 +1,103 @@
 {
-  "code": "SB-113",
-  "name_official": "Netbowl (Pty) Ltd（博茨瓦纳）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（gmail；仅表内信息）",
-  "summary": "博茨瓦纳网络公司 Netbowl（Lenamile Catlass Pogiso），需求工业小壳 1 光 4；2024-05 谈过一个项目未成，2025-06「slow business」。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣工业小壳 1 光 4；回复谈了一个项目没成；slow business",
-      "quote": "兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Lenamile Catlass Pogiso",
-      "title": "（表内联系人）",
-      "email": "lpogiso@gmail.com",
-      "phone": "+267 71 704 050",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Netbowl (Pty) Ltd",
-    "founded": "",
-    "hq": "博茨瓦纳",
-    "size": "小型",
-    "other": "gmail"
-  },
-  "channels": {
-    "role": "网络工程 / 经销（推断）",
-    "region": "博茨瓦纳"
-  },
-  "signals": [
-    "明确口型：工业 1 光 4 小壳"
-  ],
-  "risks": [
-    "业务清淡；小国小量"
-  ],
-  "saga_fit": {
-    "p1": "STI-144GP",
-    "tier": 25,
-    "why": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。"
-  },
-  "email_hook": "Lenamile, when business picks up — the 1-SFP + 4-port compact industrial unit you asked about ships from 1 pc; do you need PoE on the 4 ports or plain gigabit?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "博茨瓦纳 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business」；研究档 risks：业务清淡；小国小量"
-    },
-    "situation": "博茨瓦纳网络公司 Netbowl（Lenamile Catlass Pogiso），需求工业小壳 1 光 4；2024-05 谈过一个项目未成，2025-06「slow business」。",
-    "need": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。",
-    "breakpoint": "业务清淡；小国小量",
-    "saga_now": {
-      "p1": "STI-144GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-113",
+ "name_official": "Netbowl (Pty) Ltd（博茨瓦纳）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "博茨瓦纳网络公司 Netbowl（Lenamile Catlass Pogiso），需求工业小壳 1 光 4；2024-05 谈过一个项目未成，2025-06「slow business」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣工业小壳 1 光 4；回复谈了一个项目没成；slow business",
+   "quote": "兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Lenamile Catlass Pogiso",
+   "title": "（表内联系人）",
+   "email": "lpogiso@gmail.com",
+   "phone": "+267 71 704 050",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Netbowl (Pty) Ltd",
+  "founded": "",
+  "hq": "博茨瓦纳",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "网络工程 / 经销（推断）",
+  "region": "博茨瓦纳"
+ },
+ "signals": [
+  "明确口型：工业 1 光 4 小壳"
+ ],
+ "risks": [
+  "业务清淡；小国小量"
+ ],
+ "saga_fit": {
+  "p1": "STI-144GP",
+  "tier": 25,
+  "why": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。"
+ },
+ "email_hook": "Lenamile, when business picks up — the 1-SFP + 4-port compact industrial unit you asked about ships from 1 pc; do you need PoE on the 4 ports or plain gigabit?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "博茨瓦纳 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business」；研究档 risks：业务清淡；小国小量"
+  },
+  "situation": "博茨瓦纳网络公司 Netbowl（Lenamile Catlass Pogiso），需求工业小壳 1 光 4；2024-05 谈过一个项目未成，2025-06「slow business」。",
+  "need": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。",
+  "breakpoint": "业务清淡；小国小量",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业小壳 1 光 4 = Saga STI-144GP（1 SFP + 4 PoE，$34.1/35.5/36.9）；非 PoE 版按 SmartByte LT-IS3005G 报并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业小壳1光4；回复：谈了一个项目 没成；slow business",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

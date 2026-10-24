@@ -1,110 +1,110 @@
 {
-  "code": "SB-395",
-  "name_official": "Distributed Business Solutions（迪拜）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（distribolutions.com，快照 2026-10-21）",
-  "summary": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "业务：路由交换 / 网络安全 / 网管 / 分析；+971 4 3886508",
-      "quote": "ROUTING & SWITCHING… NETWORK SECURITY… NETWORK MANAGEMENT… Analytics On Big Fast Data",
-      "url": "https://distribolutions.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 10G 双纤 LC 10 公里模块；2021-10 发了价格问要多少个→要 100G 的",
-      "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ajith Rajan",
-      "title": "（表内联系人）",
-      "email": "ajithpr@distribolutions.com",
-      "phone": "+971 4 388 6508",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-395",
+ "name_official": "Distributed Business Solutions（迪拜）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（distribolutions.com，快照 2026-10-21）",
+ "summary": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "业务：路由交换 / 网络安全 / 网管 / 分析；+971 4 3886508",
+   "quote": "ROUTING & SWITCHING… NETWORK SECURITY… NETWORK MANAGEMENT… Analytics On Big Fast Data",
+   "url": "https://distribolutions.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Distributed Business Solutions（待核）",
-    "founded": "",
-    "hq": "Dubai, UAE",
-    "size": "小型方案商",
-    "other": ""
-  },
-  "business_lines": [
-    "企业网络 / 安全 / 网管方案"
-  ],
-  "channels": {
-    "role": "IT 方案商",
-    "region": "阿联酋"
-  },
-  "risks": [
-    "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "光模块需求不在价目（Q-32）；无主推型。"
-  },
-  "email_hook": "（待 Q-32；不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "阿联酋 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」；研究档 risks：需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
-    },
-    "situation": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
-    "need": "光模块需求不在价目（Q-32）；无主推型。",
-    "breakpoint": "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "光模块需求不在价目（Q-32）；无主推型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 10G 双纤 LC 10 公里模块；2021-10 发了价格问要多少个→要 100G 的",
+   "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ajith Rajan",
+   "title": "（表内联系人）",
+   "email": "ajithpr@distribolutions.com",
+   "phone": "+971 4 388 6508",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Distributed Business Solutions（待核）",
+  "founded": "",
+  "hq": "Dubai, UAE",
+  "size": "小型方案商",
+  "other": ""
+ },
+ "business_lines": [
+  "企业网络 / 安全 / 网管方案"
+ ],
+ "channels": {
+  "role": "IT 方案商",
+  "region": "阿联酋"
+ },
+ "risks": [
+  "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "光模块需求不在价目（Q-32）；无主推型。"
+ },
+ "email_hook": "（待 Q-32；不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」；研究档 risks：需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
+  },
+  "situation": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
+  "need": "光模块需求不在价目（Q-32）；无主推型。",
+  "breakpoint": "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "光模块需求不在价目（Q-32）；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

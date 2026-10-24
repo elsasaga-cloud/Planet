@@ -1,107 +1,107 @@
 {
-  "code": "SB-921",
-  "name_official": "SYNCHCOM (Pvt) Ltd（synchsoft.com.pk，巴基斯坦）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（快照 2026-10-21）",
-  "summary": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "SYNCHCOM PVT LTD；关键词 poe 19",
-      "quote": "Home - SYNCHCOM PVT LTD",
-      "url": "https://synchsoft.com.pk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "USB to 1000M media converter；对价格比较敏感",
-      "quote": "兴趣：USB to 1000M media converter",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Muhammad Babar",
-      "title": "（表内联系人）",
-      "email": "bob@synchsoft.com.pk",
-      "phone": "+92 321 528 0052",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-921",
+ "name_official": "SYNCHCOM (Pvt) Ltd（synchsoft.com.pk，巴基斯坦）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 2026-10-21）",
+ "summary": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "SYNCHCOM PVT LTD；关键词 poe 19",
+   "quote": "Home - SYNCHCOM PVT LTD",
+   "url": "https://synchsoft.com.pk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "SYNCHCOM (Pvt) Ltd",
-    "founded": "",
-    "hq": "巴基斯坦",
-    "size": "小型",
-    "other": ""
-  },
-  "channels": {
-    "role": "IT 经销（推断）",
-    "region": "巴基斯坦"
-  },
-  "risks": [
-    "需求 USB MC 不在 Saga 线；价格敏感"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 20,
-    "why": "USB 转千兆 MC 不供；无主推型。"
-  },
-  "email_hook": "（不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：USB to 1000M media converter」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "巴基斯坦 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：USB to 1000M media converter」；研究档 risks：需求 USB MC 不在 Saga 线；价格敏感"
-    },
-    "situation": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
-    "need": "USB 转千兆 MC 不供；无主推型。",
-    "breakpoint": "需求 USB MC 不在 Saga 线；价格敏感",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "USB 转千兆 MC 不供；无主推型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：USB to 1000M media converter",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "USB to 1000M media converter；对价格比较敏感",
+   "quote": "兴趣：USB to 1000M media converter",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Muhammad Babar",
+   "title": "（表内联系人）",
+   "email": "bob@synchsoft.com.pk",
+   "phone": "+92 321 528 0052",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "SYNCHCOM (Pvt) Ltd",
+  "founded": "",
+  "hq": "巴基斯坦",
+  "size": "小型",
+  "other": ""
+ },
+ "channels": {
+  "role": "IT 经销（推断）",
+  "region": "巴基斯坦"
+ },
+ "risks": [
+  "需求 USB MC 不在 Saga 线；价格敏感"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "USB 转千兆 MC 不供；无主推型。"
+ },
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：USB to 1000M media converter」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：USB to 1000M media converter」；研究档 risks：需求 USB MC 不在 Saga 线；价格敏感"
+  },
+  "situation": "巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。",
+  "need": "USB 转千兆 MC 不供；无主推型。",
+  "breakpoint": "需求 USB MC 不在 Saga 线；价格敏感",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "USB 转千兆 MC 不供；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：USB to 1000M media converter",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,110 +1,110 @@
 {
-  "code": "SB-581",
-  "name_official": "Tiên Phong CP（越南；Trung）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（gmail；仅表内信息）",
-  "summary": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣 16 24 32 port POE Switch；1120 email 48 口；1216 email 22mini",
-      "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Trung",
-      "title": "（表内联系人）",
-      "email": "semtec2017@gmail.com",
-      "phone": "+84 966 246 152",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Tiên Phong CP（待核）",
-    "founded": "",
-    "hq": "越南",
-    "size": "小型",
-    "other": "gmail"
-  },
-  "channels": {
-    "role": "安防 / 网络经销（推断）",
-    "region": "越南"
-  },
-  "signals": [
-    "明确口型：16/24/32 口 PoE"
-  ],
-  "risks": [
-    "越南低价市场；gmail"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。"
-  },
-  "email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "越南 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail"
-    },
-    "situation": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
-    "need": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。",
-    "breakpoint": "越南低价市场；gmail",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）",
-      "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。已打开的主题（1/3 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?"
-    },
-    "facts": [
-      {
-        "date": "2025-01-10",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
-        "why": "3 封 / 1 次打开 / 0 回｜首封 2024-11-20 → 末封 2025-01-10（3 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-581",
+ "name_official": "Tiên Phong CP（越南；Trung）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（gmail；仅表内信息）",
+ "summary": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 16 24 32 port POE Switch；1120 email 48 口；1216 email 22mini",
+   "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Trung",
+   "title": "（表内联系人）",
+   "email": "semtec2017@gmail.com",
+   "phone": "+84 966 246 152",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Tiên Phong CP（待核）",
+  "founded": "",
+  "hq": "越南",
+  "size": "小型",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "安防 / 网络经销（推断）",
+  "region": "越南"
+ },
+ "signals": [
+  "明确口型：16/24/32 口 PoE"
+ ],
+ "risks": [
+  "越南低价市场；gmail"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。"
+ },
+ "email_hook": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "越南 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail"
+  },
+  "situation": "越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。",
+  "need": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。",
+  "breakpoint": "越南低价市场；gmail",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）",
+   "why": "16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。已打开的主题（1/3 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?"
+  },
+  "facts": [
+   {
+    "date": "2025-01-10",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
+    "why": "3 封 / 1 次打开 / 0 回｜首封 2024-11-20 → 末封 2025-01-10（3 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,106 +1,106 @@
 {
-  "code": "SB-384",
-  "name_official": "InterConnectivity Computer Solutions（菲律宾；表内名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣：百兆小外电单纤 20 公里（2020-11）；2024-02 问 PoE 距离；谈工业 MC DIP 拨码",
-      "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ronald Dumaguing",
-      "title": "（表内联系人）",
-      "email": "",
-      "phone": "+63 998 593 5820",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（待核）",
-    "founded": "",
-    "hq": "菲律宾（表内）",
-    "size": "小型（推断）",
-    "other": "仅 WhatsApp"
-  },
-  "business_lines": [
-    "网络 / 光纤接入工程（推断）"
-  ],
-  "channels": {
-    "role": "工程商 / 安装商",
-    "region": "菲律宾"
-  },
-  "signals": [
-    "明确型号级需求：100M 单纤 20 km MC + PoE 距离（长距 PoE）"
-  ],
-  "risks": [
-    "无邮箱；需求偏低价 MC"
-  ],
-  "saga_fit": {
-    "p1": "STI-110FE",
-    "tier": 25,
-    "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。"
-  },
-  "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "菲律宾 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」；研究档 risks：无邮箱；需求偏低价 MC"
-    },
-    "situation": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
-    "need": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
-    "breakpoint": "无邮箱；需求偏低价 MC",
-    "saga_now": {
-      "p1": "STI-110FE",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-384",
+ "name_official": "InterConnectivity Computer Solutions（菲律宾；表内名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：百兆小外电单纤 20 公里（2020-11）；2024-02 问 PoE 距离；谈工业 MC DIP 拨码",
+   "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ronald Dumaguing",
+   "title": "（表内联系人）",
+   "email": "",
+   "phone": "+63 998 593 5820",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核）",
+  "founded": "",
+  "hq": "菲律宾（表内）",
+  "size": "小型（推断）",
+  "other": "仅 WhatsApp"
+ },
+ "business_lines": [
+  "网络 / 光纤接入工程（推断）"
+ ],
+ "channels": {
+  "role": "工程商 / 安装商",
+  "region": "菲律宾"
+ },
+ "signals": [
+  "明确型号级需求：100M 单纤 20 km MC + PoE 距离（长距 PoE）"
+ ],
+ "risks": [
+  "无邮箱；需求偏低价 MC"
+ ],
+ "saga_fit": {
+  "p1": "STI-110FE",
+  "tier": 25,
+  "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。"
+ },
+ "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」；研究档 risks：无邮箱；需求偏低价 MC"
+  },
+  "situation": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+  "need": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+  "breakpoint": "无邮箱；需求偏低价 MC",
+  "saga_now": {
+   "p1": "STI-110FE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

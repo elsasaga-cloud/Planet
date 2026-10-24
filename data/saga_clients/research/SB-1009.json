@@ -1,111 +1,126 @@
 {
-  "code": "SB-1009",
-  "name_official": "Musine（肯尼亚；个人 gmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣千兆 PoE MC；回复 interested",
-      "quote": "兴趣：千兆PoE MC；回复：interested",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Musine",
-      "title": "（表内联系人）",
-      "email": "wafulamusine@gmail.com",
-      "phone": "+254 758 361 672",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（未知）",
-    "founded": "",
-    "hq": "肯尼亚",
-    "size": "",
-    "other": "gmail"
-  },
-  "channels": {
-    "role": "（未知，疑安装商）",
-    "region": "肯尼亚"
-  },
-  "signals": [
-    "明确口型：千兆 PoE MC"
-  ],
-  "risks": [
-    "身份不明；东非付款 T/T 预付"
-  ],
-  "saga_fit": {
-    "p1": "STI-111GP",
-    "tier": 25,
-    "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
-  },
-  "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；一句兴趣无需求）",
-      "lane": "肯尼亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
-    "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
-    "breakpoint": "身份不明；东非付款 T/T 预付",
-    "saga_now": {
-      "p1": "STI-111GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：千兆PoE MC；回复：interested",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2025-04-16",
-        "dir": "来",
-        "who": "Musine（肯尼亚，个人 gmail）",
-        "quote": "Am good .... Am interested",
-        "why": "一句兴趣，无需求细节；非主攻区",
-        "k": "gmail_e"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信→一句「interested」」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-1009",
+ "name_official": "Musine（肯尼亚；个人 gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣千兆 PoE MC；回复 interested",
+   "quote": "兴趣：千兆PoE MC；回复：interested",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Musine",
+   "title": "（表内联系人）",
+   "email": "wafulamusine@gmail.com",
+   "phone": "+254 758 361 672",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（未知）",
+  "founded": "",
+  "hq": "肯尼亚",
+  "size": "",
+  "other": "gmail"
+ },
+ "channels": {
+  "role": "（未知，疑安装商）",
+  "region": "肯尼亚"
+ },
+ "signals": [
+  "明确口型：千兆 PoE MC"
+ ],
+ "risks": [
+  "身份不明；东非付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-111GP",
+  "tier": 25,
+  "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
+ },
+ "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；一句兴趣无需求）",
+   "lane": "肯尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））"
+  },
+  "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+  "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+  "breakpoint": "身份不明；东非付款 T/T 预付",
+  "saga_now": {
+   "p1": "STI-111GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-16",
+    "dir": "来",
+    "who": "Musine（肯尼亚，个人 gmail）",
+    "quote": "Am good .... Am interested",
+    "why": "一句兴趣，无需求细节；非主攻区",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-17",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf）",
+    "why": "对「Am interested」只给链接",
+    "k": "gmail_e 19642de7fdf8791b"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Did you check the product information? Any interested models?",
+    "why": "追问一次，之后无回 → 一句兴趣到此为止",
+    "k": "gmail_e 1965c9c762c8b5a9"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：千兆PoE MC；回复：interested",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

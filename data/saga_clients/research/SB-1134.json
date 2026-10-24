@@ -1,139 +1,139 @@
 {
-  "code": "SB-1134",
-  "name_official": "Infinity Hardware（Go Get International LLC dba，High Point NC, US；infinityhardware.us / .com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Cisco（转售）"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "法人与地址",
-      "quote": "Supplier: Go Get International LLC (dba Infinity Hardware) registered in the USA, with EIN 85-3229984, Reseller ID 601316851 and registered office at 3975 Netherstone Ln, High Point, NC 27265",
-      "url": "https://infinityhardware.com/terms-and-conditions/",
-      "date": "2025-06-24"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模与定位",
-      "quote": "We are reselling company based in High Point, North Carolina. Serving local and international customers. … Company size: 2-10 employees … Founded: 2020",
-      "url": "https://www.linkedin.com/company/infinity-hardware-us",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "品类",
-      "quote": "Discover new and refurbished servers, storage, and network hardware … Networking Hardware Server and PC Parts Memory and Storage Wireless Power Supplies Ip Telephony … +13369446904 … Sales Queries: sales@infinityhardware.us",
-      "url": "https://infinityhardware.com/",
-      "date": "2025-06-28"
-    },
-    {
-      "kind": "用户表",
-      "claim": "贸易公司/Cisco 工业交换机；WhatsApp 已加",
-      "quote": "贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Purchase Manager（姓名待核）",
-      "role": "采购（用户表）",
-      "email": "sales@infinityhardware.us（公开）",
-      "phone": "+1 336 944 6904（用户表，WhatsApp 已加）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网核对）"
+ "code": "SB-1134",
+ "name_official": "Infinity Hardware（Go Get International LLC dba，High Point NC, US；infinityhardware.us / .com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cisco（转售）"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "法人与地址",
+   "quote": "Supplier: Go Get International LLC (dba Infinity Hardware) registered in the USA, with EIN 85-3229984, Reseller ID 601316851 and registered office at 3975 Netherstone Ln, High Point, NC 27265",
+   "url": "https://infinityhardware.com/terms-and-conditions/",
+   "date": "2025-06-24"
   },
-  "company_facts": {
-    "legal_name": "Go Get International LLC（dba Infinity Hardware）",
-    "founded": "2020",
-    "hq": "3975 Netherstone Ln, High Point, NC 27265, USA（+1 336 944 6904；sales@infinityhardware.us）",
-    "size": "2–10（LinkedIn）",
-    "other": "新品/翻新 IT 硬件转售；Cisco 等品牌；国际客户"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与定位",
+   "quote": "We are reselling company based in High Point, North Carolina. Serving local and international customers. … Company size: 2-10 employees … Founded: 2020",
+   "url": "https://www.linkedin.com/company/infinity-hardware-us",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "新品与翻新服务器/存储/网络硬件转售",
-    "IP 电话、监控摄像、配件"
-  ],
-  "channels": {
-    "网站": "https://infinityhardware.com/",
-    "电话": "+1 336 944 6904（公开）",
-    "邮箱（公开）": "sales@infinityhardware.us / info@infinityhardware.us",
-    "LinkedIn": "https://www.linkedin.com/company/infinity-hardware-us"
+  {
+   "kind": "官网",
+   "claim": "品类",
+   "quote": "Discover new and refurbished servers, storage, and network hardware … Networking Hardware Server and PC Parts Memory and Storage Wireless Power Supplies Ip Telephony … +13369446904 … Sales Queries: sales@infinityhardware.us",
+   "url": "https://infinityhardware.com/",
+   "date": "2025-06-28"
   },
-  "signals": [
-    "转售 Cisco 工业交换机 → 可用无品牌/中性包装 DIN 工业机作低价替代 SKU 上架；美国客户关注 FCC、关税（301 加征）与无 UL（Saga 仅 CE/FCC/RoHS）"
-  ],
-  "risks": [
-    "美国关税成本；小型转售商；无 UL；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明"
-  },
-  "email_hook": "For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "US 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进"
-    },
-    "situation": "美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。",
-    "need": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明",
-    "breakpoint": "美国关税成本；小型转售商；无 UL；无后续跟进",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）",
-      "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?"
-    },
-    "facts": [
-      {
-        "date": "2024-11-20",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "48 port managed switch、2.5G Ethernet Switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-11-20（6 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "贸易公司/Cisco 工业交换机；WhatsApp 已加",
+   "quote": "贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Purchase Manager（姓名待核）",
+   "role": "采购（用户表）",
+   "email": "sales@infinityhardware.us（公开）",
+   "phone": "+1 336 944 6904（用户表，WhatsApp 已加）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网核对）"
+ },
+ "company_facts": {
+  "legal_name": "Go Get International LLC（dba Infinity Hardware）",
+  "founded": "2020",
+  "hq": "3975 Netherstone Ln, High Point, NC 27265, USA（+1 336 944 6904；sales@infinityhardware.us）",
+  "size": "2–10（LinkedIn）",
+  "other": "新品/翻新 IT 硬件转售；Cisco 等品牌；国际客户"
+ },
+ "business_lines": [
+  "新品与翻新服务器/存储/网络硬件转售",
+  "IP 电话、监控摄像、配件"
+ ],
+ "channels": {
+  "网站": "https://infinityhardware.com/",
+  "电话": "+1 336 944 6904（公开）",
+  "邮箱（公开）": "sales@infinityhardware.us / info@infinityhardware.us",
+  "LinkedIn": "https://www.linkedin.com/company/infinity-hardware-us"
+ },
+ "signals": [
+  "转售 Cisco 工业交换机 → 可用无品牌/中性包装 DIN 工业机作低价替代 SKU 上架；美国客户关注 FCC、关税（301 加征）与无 UL（Saga 仅 CE/FCC/RoHS）"
+ ],
+ "risks": [
+  "美国关税成本；小型转售商；无 UL；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明"
+ },
+ "email_hook": "For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进"
+  },
+  "situation": "美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。",
+  "need": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明",
+  "breakpoint": "美国关税成本；小型转售商；无 UL；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）",
+   "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $139.9 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-20",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 port managed switch、2.5G Ethernet Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-11-20（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

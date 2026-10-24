@@ -1,0 +1,18 @@
+{
+ "id": "19642de7fdf8791b",
+ "thread_id": "19574339b3e540df",
+ "message_id_header": "<CAOQGph-w-quRADvGQk0MfsmVDDrY=GkbexVuVNNq44VhkgpxyA@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Musine Wafula <wafulamusine@gmail.com>",
+ "cc": "sibandaprofp@gmail.com",
+ "subject": "Re: Marvell Alleycat5 Solution",
+ "date": "Thu, 17 Apr 2025 16:30:00 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Musine,\nThanks for your interest.\nPlease see attached links for all information.\nThank you.",
+ "char_count": "180",
+ "attachments": "[{'filename': 'Customization after log-in.jpg', 'mime_type': 'image/jpeg', 'size': 138179}, {'filename': 'Download Link.pdf', 'mime_type': 'application/pdf', 'size': 108874}]",
+ "note": "SB-1009：Elsa 对「Am interested」只回下载链接",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:21Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

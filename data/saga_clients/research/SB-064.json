@@ -1,115 +1,115 @@
 {
-  "code": "SB-064",
-  "name_official": "Agile Network（菲律宾宿务；表内域名 agilenetworks.com 误配）",
-  "researched_at": "2026-10-21",
-  "website_status": "表内域名误配：agilenetworks.com = Agile Network Builders LLC（美国俄亥俄 ISP），非本客户；本客户无已知官网",
-  "summary": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "第三方",
-      "claim": "agilenetworks.com 归属（排除）",
-      "quote": "Agile Network Builders LLC, founded in 2010, is a leading provider of telecommunications solutions… hybrid fiber wireless broadband data networks（Ohio, USA）",
-      "url": "https://agilenetworks.com/company/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内地址与联系人",
-      "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Neil Rule",
-      "role": "CEO（表内）",
-      "email": "ph.agilenetwork@gmail.com",
-      "phone": "+63 917 322 5477（WA 已加）",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+ "code": "SB-064",
+ "name_official": "Agile Network（菲律宾宿务；表内域名 agilenetworks.com 误配）",
+ "researched_at": "2026-10-21",
+ "website_status": "表内域名误配：agilenetworks.com = Agile Network Builders LLC（美国俄亥俄 ISP），非本客户；本客户无已知官网",
+ "summary": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方",
+   "claim": "agilenetworks.com 归属（排除）",
+   "quote": "Agile Network Builders LLC, founded in 2010, is a leading provider of telecommunications solutions… hybrid fiber wireless broadband data networks（Ohio, USA）",
+   "url": "https://agilenetworks.com/company/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "待核（表内 Agile Network / Agile Networks）",
-    "founded": "待核",
-    "hq": "Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu City 6000, Philippines（表内地址）",
-    "size": "待核（小型）",
-    "other": "联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com"
-  },
-  "business_lines": [
-    "待核（表内：工业网络产品采购 / 10G 光纤收发器询价）"
-  ],
-  "products_seen": [],
-  "channels": {
-    "contact": "Neil Rule（CEO）ph.agilenetwork@gmail.com，+63 917 322 5477（WA 已加）"
-  },
-  "signals": [
-    "2024-08-14 问 10G MC 单模/多模是否同价（有具体项目在算料）"
-  ],
-  "risks": [
-    "无企业域名/官网，公司实体规模不明",
-    "10G MC 不在 Saga 价目（需向 SmartByte 索价）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 25,
-    "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）"
-  },
-  "email_hook": "You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?",
-  "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "菲律宾 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-」；研究档 risks：无企业域名/官网，公司实体规模不明"
-    },
-    "situation": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
-    "need": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
-    "breakpoint": "无企业域名/官网，公司实体规模不明",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "表内地址与联系人",
+   "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Neil Rule",
+   "role": "CEO（表内）",
+   "email": "ph.agilenetwork@gmail.com",
+   "phone": "+63 917 322 5477（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+ },
+ "company_facts": {
+  "legal_name": "待核（表内 Agile Network / Agile Networks）",
+  "founded": "待核",
+  "hq": "Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu City 6000, Philippines（表内地址）",
+  "size": "待核（小型）",
+  "other": "联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com"
+ },
+ "business_lines": [
+  "待核（表内：工业网络产品采购 / 10G 光纤收发器询价）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Neil Rule（CEO）ph.agilenetwork@gmail.com，+63 917 322 5477（WA 已加）"
+ },
+ "signals": [
+  "2024-08-14 问 10G MC 单模/多模是否同价（有具体项目在算料）"
+ ],
+ "risks": [
+  "无企业域名/官网，公司实体规模不明",
+  "10G MC 不在 Saga 价目（需向 SmartByte 索价）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 25,
+  "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）"
+ },
+ "email_hook": "You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?",
+ "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-」；研究档 risks：无企业域名/官网，公司实体规模不明"
+  },
+  "situation": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
+  "need": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
+  "breakpoint": "无企业域名/官网，公司实体规模不明",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

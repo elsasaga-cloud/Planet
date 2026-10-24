@@ -1,137 +1,137 @@
 {
-  "code": "SB-1127",
-  "name_official": "Throughput Technologies (Pty) Ltd（约翰内斯堡）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（throughput.co.za，快照 2026-10-21）",
-  "summary": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Westermo",
-    "Atop"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "定位：帮助集成商与工业组织构建韧性工业网络；行业铁路轨旁、公用事业（含核电）、矿业、制造、智慧城市、消防安防、ITS；Westermo；+27 11 705 2497",
-      "quote": "Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure… Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities… Fire & Security Road Transportation & ITS",
-      "url": "https://throughput.co.za/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS；这个公司处理很多其他找的公司；Atop Westermo；Bob Petrie 发不过去",
-      "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Anton van der Westhuizen",
-      "title": "Sales Manager",
-      "email": "anton@throughput.co.za",
-      "phone": "+27 83 659 3290",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 守界）"
+ "code": "SB-1127",
+ "name_official": "Throughput Technologies (Pty) Ltd（约翰内斯堡）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（throughput.co.za，快照 2026-10-21）",
+ "summary": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Westermo",
+  "Atop"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "定位：帮助集成商与工业组织构建韧性工业网络；行业铁路轨旁、公用事业（含核电）、矿业、制造、智慧城市、消防安防、ITS；Westermo；+27 11 705 2497",
+   "quote": "Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure… Rail & Trackside Utilities [incl. Nuclear] Mining Manufacturing Smart Cities… Fire & Security Road Transportation & ITS",
+   "url": "https://throughput.co.za/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Throughput Technologies (Pty) Ltd",
-    "founded": "（待核）",
-    "hq": "Johannesburg, South Africa",
-    "size": "中小型工业网络分销 / 方案",
-    "other": "Westermo 南非伙伴"
-  },
-  "business_lines": [
-    "工业以太网 / 光纤网络方案（Westermo、Atop）",
-    "网络冗余、诊断与监控"
-  ],
-  "channels": {
-    "role": "工业网络分销 + 方案（服务集成商）",
-    "region": "南非 + 周边"
-  },
-  "signals": [
-    "Westermo 高价位 → 需要低价工业线做矿业 / 制造的非关键节点",
-    "代表多家品牌（「处理很多其他找的公司」）→ 新品牌接纳度高"
-  ],
-  "risks": [
-    "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
-    "联系人退信；WA 无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。"
-  },
-  "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-      "lane": "南非 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）"
-    },
-    "situation": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
-    "need": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。",
-    "breakpoint": "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-14 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-      "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → anton@throughput.co.za",
-      "action": "短信一问（email_hook）",
-      "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
-    },
-    "facts": [
-      {
-        "date": "2025-05-28",
-        "dir": "内",
-        "who": "Gmail 退信（A 邮箱）",
-        "quote": "bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com",
-        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
-        "k": "gmail_a b815d5ee13668ada"
-      },
-      {
-        "date": "2026-10-02",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、Mini Industrial PoE Switch",
-        "why": "16 封 / 2 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-10-02（16 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": {
-      "subject": "One question — Marvell Alleycat5 Solution",
-      "body": "Hi Anton,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS；这个公司处理很多其他找的公司；Atop Westermo；Bob Petrie 发不过去",
+   "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Anton van der Westhuizen",
+   "title": "Sales Manager",
+   "email": "anton@throughput.co.za",
+   "phone": "+27 83 659 3290",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 守界）"
+ },
+ "company_facts": {
+  "legal_name": "Throughput Technologies (Pty) Ltd",
+  "founded": "（待核）",
+  "hq": "Johannesburg, South Africa",
+  "size": "中小型工业网络分销 / 方案",
+  "other": "Westermo 南非伙伴"
+ },
+ "business_lines": [
+  "工业以太网 / 光纤网络方案（Westermo、Atop）",
+  "网络冗余、诊断与监控"
+ ],
+ "channels": {
+  "role": "工业网络分销 + 方案（服务集成商）",
+  "region": "南非 + 周边"
+ },
+ "signals": [
+  "Westermo 高价位 → 需要低价工业线做矿业 / 制造的非关键节点",
+  "代表多家品牌（「处理很多其他找的公司」）→ 新品牌接纳度高"
+ ],
+ "risks": [
+  "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
+  "联系人退信；WA 无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。"
+ },
+ "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+   "lane": "南非 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）"
+  },
+  "situation": "南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。",
+  "need": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。",
+  "breakpoint": "守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-14 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → anton@throughput.co.za",
+   "action": "短信一问（email_hook）",
+   "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-28",
+    "dir": "内",
+    "who": "Gmail 退信（A 邮箱）",
+    "quote": "bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com",
+    "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+    "k": "gmail_a b815d5ee13668ada"
+   },
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Alleycat5 Solution、Mini Industrial PoE Switch",
+    "why": "16 封 / 2 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-10-02（16 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": {
+   "subject": "One question — Marvell Alleycat5 Solution",
+   "body": "Hi Anton,\n\nWe have sent you a few mails on \"Marvell Alleycat5 Solution\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

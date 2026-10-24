@@ -1,152 +1,152 @@
 {
-  "code": "SB-249",
-  "name_official": "AyeZee Group（Rawalpindi/Islamabad，巴基斯坦；ayezeegroup.com）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "第三方",
-      "claim": "公司简介",
-      "quote": "AyeZee Group was established in 1999 and was registered as Association of Persons… registered with Islamabad Chamber of Commerce and Industry and with Pakistan Engineering Council… Company size: 51-200 employees; Headquarters: Rawalpindi",
-      "url": "https://pk.linkedin.com/company/ayezee-group",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "业务线",
-      "quote": "Our offerings include PCM Multiplexers, PDH solutions, media converters… Managed and Unmanaged Switches - Cisco and Huawei Routers - Firewalls (Juniper, Fortinet, etc.)",
-      "url": "https://ayezeegroup.com/our-work/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方",
-      "claim": "地址与规模口径",
-      "quote": "Revenue · $20.2 million; Employees · 10 (6 on RocketReach); Founded · 1999; Address · 363 Rehman Abad Stop Main Muree Rawalpindi Rd, Islamabad",
-      "url": "https://rocketreach.co/ayezee-group-profile_b5eaf3d4f42e7b6c",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "需求与回复",
-      "quote": "网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let me check；2025.4.3 → 暂时没需求",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Syed",
-      "role": "（表内联系人）",
-      "email": "",
-      "phone": "+92 300 850 5900（WA 已加）",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+ "code": "SB-249",
+ "name_official": "AyeZee Group（Rawalpindi/Islamabad，巴基斯坦；ayezeegroup.com）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "第三方",
+   "claim": "公司简介",
+   "quote": "AyeZee Group was established in 1999 and was registered as Association of Persons… registered with Islamabad Chamber of Commerce and Industry and with Pakistan Engineering Council… Company size: 51-200 employees; Headquarters: Rawalpindi",
+   "url": "https://pk.linkedin.com/company/ayezee-group",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "AyeZee Group（Association of Persons，Partnership Act 1932）",
-    "founded": "1999（2009 登记）",
-    "hq": "363 Rehman Abad Stop, Main Murree Road, Rawalpindi/Islamabad 44000；+92 51 232 6001；info@ayezeegroup.com / sales.dubai@ayezeegroup.com",
-    "size": "LinkedIn 51–200；RocketReach 10 人 / 营收 $20.2M（口径不一）",
-    "other": "注册于伊斯兰堡工商会与巴基斯坦工程委员会；域名 ayezeegroup.com 2012 注册，另有 ayezeegroupae.com（阿联酋）"
+  {
+   "kind": "官网",
+   "claim": "业务线",
+   "quote": "Our offerings include PCM Multiplexers, PDH solutions, media converters… Managed and Unmanaged Switches - Cisco and Huawei Routers - Firewalls (Juniper, Fortinet, etc.)",
+   "url": "https://ayezeegroup.com/our-work/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电信有源/无源设备供应（PCM 复用、PDH、媒体转换器、光缆终端）",
-    "电源系统（DC 电源、整流器、AVR、UPS、电池）",
-    "IT 与网络（管理/非管理交换机、路由、防火墙、Wi-Fi、VoIP）",
-    "太阳能、安防监控、软件/培训"
-  ],
-  "products_seen": [
-    {
-      "brand": "Cisco / Huawei / Juniper / Fortinet（官网列）",
-      "model": "（路由/防火墙）",
-      "spec": "IT & Network Solutions 页",
-      "saga": "交换机品类可用 STC-28DGGPM / STI-288GP 补位",
-      "url": "https://ayezeegroup.com/our-work/",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "official": "info@ayezeegroup.com；+92 51 232 6001",
-    "contact": "Syed，+92 300 850 5900（WA 已加，无邮箱）",
-    "linkedin": "pk.linkedin.com/company/ayezee-group"
+  {
+   "kind": "第三方",
+   "claim": "地址与规模口径",
+   "quote": "Revenue · $20.2 million; Employees · 10 (6 on RocketReach); Founded · 1999; Address · 363 Rehman Abad Stop Main Muree Rawalpindi Rd, Islamabad",
+   "url": "https://rocketreach.co/ayezee-group-profile_b5eaf3d4f42e7b6c",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2024-05 对 mini 工业交换机图回 let me check（其余均暂无需求）",
-    "官网列明供应管理/非管理交换机与媒体转换器（品类对口）"
-  ],
-  "risks": [
-    "多次「暂时没需求」，项目驱动",
-    "巴基斯坦进口/外汇限制",
-    "规模口径不一"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档"
-  },
-  "email_hook": "Your product page lists managed/unmanaged switches and media converters for telecom and power projects — when a tender calls for DIN-rail PoE switches, our 8-port + 2 SFP industrial model is $57–62 EXW; shall I send the spec so it is on file?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；202」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "巴基斯坦 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.」；研究档 risks：多次「暂时没需求」，项目驱动"
-    },
-    "situation": "巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。",
-    "need": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档",
-    "breakpoint": "多次「暂时没需求」，项目驱动",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-05-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了几个mini工业交换机图」→ 对方「let me check」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.86 2024.5.16"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let ",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "需求与回复",
+   "quote": "网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let me check；2025.4.3 → 暂时没需求",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Syed",
+   "role": "（表内联系人）",
+   "email": "",
+   "phone": "+92 300 850 5900（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+ },
+ "company_facts": {
+  "legal_name": "AyeZee Group（Association of Persons，Partnership Act 1932）",
+  "founded": "1999（2009 登记）",
+  "hq": "363 Rehman Abad Stop, Main Murree Road, Rawalpindi/Islamabad 44000；+92 51 232 6001；info@ayezeegroup.com / sales.dubai@ayezeegroup.com",
+  "size": "LinkedIn 51–200；RocketReach 10 人 / 营收 $20.2M（口径不一）",
+  "other": "注册于伊斯兰堡工商会与巴基斯坦工程委员会；域名 ayezeegroup.com 2012 注册，另有 ayezeegroupae.com（阿联酋）"
+ },
+ "business_lines": [
+  "电信有源/无源设备供应（PCM 复用、PDH、媒体转换器、光缆终端）",
+  "电源系统（DC 电源、整流器、AVR、UPS、电池）",
+  "IT 与网络（管理/非管理交换机、路由、防火墙、Wi-Fi、VoIP）",
+  "太阳能、安防监控、软件/培训"
+ ],
+ "products_seen": [
+  {
+   "brand": "Cisco / Huawei / Juniper / Fortinet（官网列）",
+   "model": "（路由/防火墙）",
+   "spec": "IT & Network Solutions 页",
+   "saga": "交换机品类可用 STC-28DGGPM / STI-288GP 补位",
+   "url": "https://ayezeegroup.com/our-work/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "official": "info@ayezeegroup.com；+92 51 232 6001",
+  "contact": "Syed，+92 300 850 5900（WA 已加，无邮箱）",
+  "linkedin": "pk.linkedin.com/company/ayezee-group"
+ },
+ "signals": [
+  "2024-05 对 mini 工业交换机图回 let me check（其余均暂无需求）",
+  "官网列明供应管理/非管理交换机与媒体转换器（品类对口）"
+ ],
+ "risks": [
+  "多次「暂时没需求」，项目驱动",
+  "巴基斯坦进口/外汇限制",
+  "规模口径不一"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档"
+ },
+ "email_hook": "Your product page lists managed/unmanaged switches and media converters for telecom and power projects — when a tender calls for DIN-rail PoE switches, our 8-port + 2 SFP industrial model is $57–62 EXW; shall I send the spec so it is on file?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；202」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.」；研究档 risks：多次「暂时没需求」，项目驱动"
+  },
+  "situation": "巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。",
+  "need": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档",
+  "breakpoint": "多次「暂时没需求」，项目驱动",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "电信/电力项目供应商 → 工业 8 PoE + 2 SFP 起手（其唯一 let me check 为 mini 工业款）；设备供应商 20% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-05-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个mini工业交换机图」→ 对方「let me check」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.86 2024.5.16"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
