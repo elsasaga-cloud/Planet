@@ -32,10 +32,27 @@ updated: 2026-10-24
 - **是谁**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。（调研 2026-10-21；表内兴趣：antaria planet的 工业FS MC SFP）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1163` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）** ｜ 类型：工业电子与自动化分销商（瑞典，Antaira/Planet 工业线） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入
+- **现状一句话**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。
+- **对方真实需求（有据）**：在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
+- **断点 / 为什么停在这里**：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | antaria planet的 工业FS MC SFP | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

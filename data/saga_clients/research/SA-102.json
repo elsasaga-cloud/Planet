@@ -89,5 +89,55 @@
   "tier": 25,
   "why": "配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）"
  },
- "email_hook": "Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?"
+ "email_hook": "Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 andrej.hrasko@inthouse.eu；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+   "type": "小型贸易/项目商",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「升压5电口 / from: 阿里巴巴RFQ」；研究档 risks：规模极小（4 人）、单量小；6 次跟进 0 回复"
+  },
+  "situation": "布拉格的楼宇自动化软件/网关小公司 Inthouse Systems s.r.o.（IČO 05405947；Grafická 769/9 Praha 5；2013 年起、创始人 Matej Snoha；约 4 人；产品：Inthouse App/Studio/Cloud + Inthouse Hub 云网关，用于 Siemens Climatix PLC（暖通/热泵设备）远程控制，面向 64 家设备制造商伙伴、14 国、1 万台连接设备）。阿里 RFQ：升压 5 口 PoE；联系人 Andrej Hraško；6 次跟进 0 回复。用户 AI 评估曾判 C（核心业务未确认）——核实为 OEM 伙伴型 IoT 方案商，PoE 小交换机属其配套件，保留 B。",
+  "need": "配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）",
+  "breakpoint": "规模极小（4 人）、单量小；6 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "升压5电口 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。（调研 2026-10-21；表内兴趣：要工业级交换机报价单）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-340` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；研究档 risks：市政项目公共部门（按个案守界）；无后续跟进
+- **现状一句话**：伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。
+- **对方真实需求（有据）**：集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
+- **断点 / 为什么停在这里**：市政项目公共部门（按个案守界）；无后续跟进
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

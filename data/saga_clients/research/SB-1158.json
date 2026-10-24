@@ -71,5 +71,49 @@
   "tier": 30,
   "why": "IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?"
+ "email_hook": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「买的hisource的POE」）",
+   "type": "楼宇对讲/智能家居制造商（土耳其，PoE 现 Hisource）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「买的hisource的POE」；研究档 risks：现供 Hisource（价格基准低）；土耳其汇率敏感；仅 info@，未跟进过"
+  },
+  "situation": "土耳其 Audio Elektronik A.Ş.（40 年楼宇可视对讲与智能家居制造商，「yüzde yüz yerli üretim」100% 本土生产；IP 系统产品线、别墅/小区方案；表内「买的 Hisource 的 PoE」）；表内未跟进。",
+  "need": "IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "现供 Hisource（价格基准低）；土耳其汇率敏感；仅 info@，未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买的hisource的POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：Utepo 有Amazon店铺）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-04-23 → 2025-10-14）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-429` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」）** ｜ 类型：安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo 有Amazon店铺」；研究档 risks：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
+- **现状一句话**：BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。
+- **对方真实需求（有据）**：自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）
+- **断点 / 为什么停在这里**：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Utepo 有Amazon店铺 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、24 Port Passive PoE Switch | 26 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

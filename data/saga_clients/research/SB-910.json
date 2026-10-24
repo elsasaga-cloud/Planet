@@ -90,5 +90,49 @@
    "url": "https://lorwen.it/prodotto/switch-poe-5-porte-10-100-1000-plug-n-play/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 看着像是丰润达的」）",
+   "type": "CCTV 自有品牌网店（意大利，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「switch 看着像是丰润达的」；研究档 risks：现供疑为丰润达（深圳）价格基准低；网店量小"
+  },
+  "situation": "意大利 Lorwen（视频监控网店：自有 LW- 系列 NVR（4K、PoE 口）、IP/AHD 摄像机、5 口千兆 PoE 即插即用交换机、54V 电源、PoE 分离器；表内「switch 看着像是丰润达的」；表内无邮箱，官网快照 info@lorwen.it）；表内无跟进记录。",
+  "need": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
+  "breakpoint": "现供疑为丰润达（深圳）价格基准低；网店量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 LW 标 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；5 口 PoE 即插即用位 HRUI STC-114GP（$16.5 列表价）；电源/分离器 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch 看着像是丰润达的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

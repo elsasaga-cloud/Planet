@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：波兰 Cellco（「jeden z największych dostawców technologii światłowodowej」光纤技术主要供应商之一：光缆、CWDM、GPON、跳线、光纤配线架、10G/FTTH；表内「MC 较多 没咋看到 switch」「质量一般」；KP Tomasz Wieczorek）；表内未跟进。（调研 2026-10-21；表内兴趣：MC较多 没咋看到switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1172` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC较多 没咋看到switch」）** ｜ 类型：光纤技术分销商（波兰，MC 为有源副线） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC较多 没咋看到switch」；研究档 risks：主业无源光纤（Saga 不供 SFP/跳线），MC 为副线；表内「质量一般」；未跟进过
+- **现状一句话**：波兰 Cellco（「jeden z największych dostawców technologii światłowodowej」光纤技术主要供应商之一：光缆、CWDM、GPON、跳线、光纤配线架、10G/FTTH；表内「MC 较多 没咋看到 switch」「质量一般」；KP Tomasz Wieczorek）；表内未跟进。
+- **对方真实需求（有据）**：MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供
+- **断点 / 为什么停在这里**：主业无源光纤（Saga 不供 SFP/跳线），MC 为副线；表内「质量一般」；未跟进过
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC较多 没咋看到switch | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

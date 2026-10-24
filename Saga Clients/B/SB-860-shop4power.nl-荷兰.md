@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」。Planet 渠道档案 PB-045 评级 B（需求：PLANET 专营自述 + 工业/商用 PLANET 多款现货 + E-Link 第二线；触达：info@shop4power.nl 官网多页公开，无具名；体量微型网店（Wijhe），可赢；区域荷兰（一线）；Mikrotik C-259（太难·自有品牌）→ 本仓按 OEM 机会重评 B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-860，荷兰，Saga 群发已推送 15 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：中科德能的工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-13 → 2025-10-07）
-- **P1（下一步唯一主推）**：STI-488XGGPM — 深挖对位：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：；$165.0 USD EXW（20% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM — 对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-860` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@shop4power.nl；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 23；研究档 risks：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货
+- **现状一句话**：上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓
+- **对方真实需求（有据）**：对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：
+- **断点 / 为什么停在这里**：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货
+- **Saga 现在该推什么**：P1 **STI-488XGGPM**（20% 档，按主表（研究档 saga_fit））——对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

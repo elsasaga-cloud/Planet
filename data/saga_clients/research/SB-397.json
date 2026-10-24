@@ -82,5 +82,55 @@
    "url": "https://www.es-france.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，1 次记录打开，0 回；收件 contact@es-france.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "增值技术分销商（法国，ORing 工业 FS）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「Oring的工业FS」；研究档 risks：ORing（台湾）既定代理线：白牌为补充预算线"
+  },
+  "situation": "法国 ES France（1963 年起增值分销：元器件、仪器、IT 与网络四大部门，样品/借测/演示；站内 ORing 工业交换机与电源 IGPS-1080-24V-I；表内「ORing 的工业 FS」）；表内 2 次跟进无回复。",
+  "need": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线",
+  "breakpoint": "ORing（台湾）既定代理线：白牌为补充预算线",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the ORing industrial switches in your Réseaux department, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Oring的工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "5 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

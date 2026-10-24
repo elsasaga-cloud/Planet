@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 ProPlex / TMB（AV 与娱乐行业数据分发品牌：GBS 网络交换机（5 口 PoE 导轨、Mini PoE 6 口便携、5 口千兆 PoE）、IP 级便携数据分发、Ethernet-DMX；表内「switch 外壳有一些特别，周边产品较多，北京有办事处」「细分特种行业公司」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：switch 外壳有一些特别 周边产品较多 北京有办事处）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-22 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-857` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@tmb.com；主题多为「Managed Optical Bypass Switch、48 Port PoE Managed Switch」）** ｜ 类型：AV/娱乐数据分发品牌商（美国，GBS 交换机线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「switch 外壳有一些特别 周边产品较多 北京有办事处」；研究档 risks：北京有办事处（可直接在国内采购，比价激烈）；IP 级/便携特殊外壳 Saga 不做；10 次无回复
+- **现状一句话**：美国 ProPlex / TMB（AV 与娱乐行业数据分发品牌：GBS 网络交换机（5 口 PoE 导轨、Mini PoE 6 口便携、5 口千兆 PoE）、IP 级便携数据分发、Ethernet-DMX；表内「switch 外壳有一些特别，周边产品较多，北京有办事处」「细分特种行业公司」）；群发 10 次无回复。
+- **对方真实需求（有据）**：GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
+- **断点 / 为什么停在这里**：北京有办事处（可直接在国内采购，比价激烈）；IP 级/便携特殊外壳 Saga 不做；10 次无回复
+- **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit））——GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | switch 外壳有一些特别 周边产品较多 北京有办事处 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、48 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

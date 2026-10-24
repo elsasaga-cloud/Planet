@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp， 拿了彩页）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1000` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：塞尔维亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs」；研究档 risks：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
+- **现状一句话**：贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。
+- **对方真实需求（有据）**：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）
+- **断点 / 为什么停在这里**：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

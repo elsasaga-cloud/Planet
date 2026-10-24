@@ -92,5 +92,55 @@
   "tier": 20,
   "why": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP"
  },
- "email_hook": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?"
+ "email_hook": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@iotech-italia.net；主题多为「Marvell Industrial Alert System、48 Port 10G Core Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「（用户表字段）」；研究档 risks：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入"
+  },
+  "situation": "米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。",
+  "need": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP",
+  "breakpoint": "一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、48 Port 10G Core Switch",
+    "why": "21 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

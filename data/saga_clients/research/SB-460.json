@@ -74,5 +74,47 @@
   "tier": 20,
   "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）"
  },
- "email_hook": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?"
+ "email_hook": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 can@cctvdepo.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；研究档 risks：现卖 SZNT（深圳）价格基准低"
+  },
+  "situation": "土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。",
+  "need": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
+  "breakpoint": "现卖 SZNT（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "11 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

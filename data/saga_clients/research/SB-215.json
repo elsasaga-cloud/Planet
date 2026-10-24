@@ -77,5 +77,55 @@
   "tier": 20,
   "why": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）"
  },
- "email_hook": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?"
+ "email_hook": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 adamian@contradata.it, info@contradata.it；主题多为「Mini Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "工业网络/嵌入式分销商（意大利，台湾品牌为主）",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「工业FS 几个台湾牌子的」；研究档 risks：品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空"
+  },
+  "situation": "意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。",
+  "need": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）",
+  "breakpoint": "品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 几个台湾牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：看了工业级交换机，管理和非管理 bypass,，没做过多的管理，但是感觉比较懂，可以调查一下网站）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-197` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 gli@dourte.be, info@dourte.be；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16；用户表：「看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂」；研究档 risks：规模小；6 次跟进 0 回复
+- **现状一句话**：比利时布鲁塞尔南郊的电子安防集成商（SRL，2017-11 注册；10.2 FTE；毛利 €598k（最新年报）；内政部（FPS Interior）认可的报警与摄像安装商；负责人 Sébastien Dourte）：视频安防、门禁、火灾探测、入侵探测、停车管理、对讲、可再生能源，覆盖全比利时。展会记录：看了工业级管理/非管理与 bypass 交换机，「感觉比较懂」；联系人 gli@dourte.be；WhatsApp 已加；6 次跟进 0 回复。
+- **对方真实需求（有据）**：集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **断点 / 为什么停在这里**：规模小；6 次跟进 0 回复
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$145.7）用于停车/户外柜；非管理 STI-288GP（$59.8）；室内 STC-28DGGPM
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the outdoor access-control and parking cabinets you install around Brussels, the DIN-rail 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C) is $145.7 EXW and the unmanaged version $59.8; which do you fit more often — managed or plug-and-play?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 看了工业级交换机，管理和非管理 bypass，没做过多的管理，但是感觉比较懂 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 16 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

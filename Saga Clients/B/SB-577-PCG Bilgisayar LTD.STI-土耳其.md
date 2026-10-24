@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Kartal 的企业 IT 分销商/集成商 PCG Bilgisayar（1998 年起，法人 2004-06-04；11–50 人（ZoomInfo 17）；Gigabyte Enterprise（服务器/工作站）土耳其独家分销商（2016 起）、NVIDIA Compute Partner、Rejitek 工业电脑/显示器土耳其独家分销（2026）、E-View、Terramaster、Thecus；HPC/AI/数据中心方案；Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77 Soğanlık Kartal；+90 216 441 07 24；info@pcgbilgisayar.com）。用户表：珊姐转来，询 network appliance；联系人 Nalan；WhatsApp 已加；无跟进。分销商 → 20%，工业交换机可与 Rejitek 工业 PC 捆绑。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-577` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 nalan@pcgbilgisayar.com；主题多为「16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com」；研究档 risks：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
+- **现状一句话**：伊斯坦布尔 Kartal 的企业 IT 分销商/集成商 PCG Bilgisayar（1998 年起，法人 2004-06-04；11–50 人（ZoomInfo 17）；Gigabyte Enterprise（服务器/工作站）土耳其独家分销商（2016 起）、NVIDIA Compute Partner、Rejitek 工业电脑/显示器土耳其独家分销（2026）、E-View、Terramaster、Thecus；HPC/AI/数据中心方案；Baltacı Mehmet Paşa Sok. No:4 Moment İstanbul B Blok D:77 Soğanlık Kartal；+90 216 441 07 24；info@pcgbilgisayar.com）。用户表：珊姐转来，询 network appliance；联系人 Nalan；WhatsApp 已加；无跟进。分销商 →
+- **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）
+- **断点 / 为什么停在这里**：主业服务器，交换机为新品类；「network appliance」需求待澄清；无后续跟进
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$139.9）与 Rejitek 工业 PC 捆绑；机柜 ToR STC-424XGGM(L3)（24 GE + 4×10G，$269.1）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Nalan Hanım, Rejitek endüstriyel PC hattınızın yanına DIN ray 8 port PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C) distribütör fiyatı EXW 139,9 USD, sunucu kabinleri için 24 port + 4×10G L3 switch 269,1 USD — 'network appliance' talebiniz bu iki gruptan hangisine yakın?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | network appliance / from: 珊姐转 / nalan@pcgbilgisayar.com | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 16 Port Ethernet Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

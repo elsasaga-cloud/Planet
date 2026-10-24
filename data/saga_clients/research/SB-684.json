@@ -69,5 +69,55 @@
   "tier": 20,
   "why": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。"
  },
- "email_hook": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?"
+ "email_hook": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 serkank@artsistem.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「（空）」；研究档 risks：大分销决策链长、压价强（接近巨头边界）"
+  },
+  "situation": "土耳其大型 IT 分销商（22 年，135 个全球品牌，5,000+ 经销商；电脑、安防、网络、打印；Hikvision、Ruijie、TP-Link、Dahua；switch 52 / poe 58 / oem 9），Serkan K.；无兴趣描述；群发 1 次。规模大（接近巨头边界）→ 仅在其自有标 / 白牌需求下可谈。",
+  "need": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。",
+  "breakpoint": "大分销决策链长、压价强（接近巨头边界）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安防渠道走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；自有标则 30%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Serkan Bey — for Art Sistem's 5,000 dealers, a private-label Marvell L2+ 24-PoE at $135 EXW (8-PoE $81) could sit under your Hikvision/Dahua kits; who owns private-label sourcing on your side?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（空）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

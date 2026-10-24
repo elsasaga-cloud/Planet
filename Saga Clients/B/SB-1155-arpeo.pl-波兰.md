@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：波兰 Arpeo（电缆穿墙密封、线缆导向系统、金属软管、接地夹、工业信号灯等电工产品商；站内有「switch-ethernet-przemyslowy-esn」工业以太网交换机产品页；表内「工业电源 5 8 16 电口」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业电源 5 8 16电口）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供；$31.4 USD EXW（20% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1155` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 arpeo@arpeo.pl；主题多为「Industrial fiber switch、10G media converter」）** ｜ 类型：电工/线缆附件分销商（波兰，工业交换机为副线） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「工业电源 5 8 16电口」；研究档 risks：主业电工附件（Saga 不做），交换机为副线；16 口非 PoE 工业型号与工业电源 Saga 不供；表内「质量一般」；仅通用邮箱
+- **现状一句话**：波兰 Arpeo（电缆穿墙密封、线缆导向系统、金属软管、接地夹、工业信号灯等电工产品商；站内有「switch-ethernet-przemyslowy-esn」工业以太网交换机产品页；表内「工业电源 5 8 16 电口」「质量一般」）；表内未跟进。
+- **对方真实需求（有据）**：工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供
+- **断点 / 为什么停在这里**：主业电工附件（Saga 不做），交换机为副线；16 口非 PoE 工业型号与工业电源 Saga 不供；表内「质量一般」；仅通用邮箱
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业电源 5 8 16电口 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | Industrial fiber switch、10G media converter | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

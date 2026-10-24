@@ -71,5 +71,47 @@
   "tier": 25,
   "why": "周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）"
  },
- "email_hook": "Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?"
+ "email_hook": "Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 ido@sensoguard.com, tomer@sensoguard.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "周界安防系统商（美国，民用项目口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；研究档 risks：守界备注：边境/关键基础设施为其市场之一——只供民用/商用项目通用工业交换机；MIL-STD 需求 Saga 无"
+  },
+  "situation": "美国 SensoGuard（地下地震波周界安防系统：边境、关键基础设施、住宅、光伏电站、远程站点；MIL-STD-810G；KP Tomer Levy（CEO & CTO）、Ido Oriane（Product Manager））；表内未跟进。",
+  "need": "周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）",
+  "breakpoint": "守界备注：边境/关键基础设施为其市场之一——只供民用/商用项目通用工业交换机；MIL-STD 需求 Saga 无",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "周界探测节点配套 PoE → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；仅民用/商用项目（守界）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ido, for the PoE switches that aggregate your seismic sensor units and cameras at solar farms and industrial sites, we supply compact DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP industrial units (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port count do your remote-site kits typically need?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

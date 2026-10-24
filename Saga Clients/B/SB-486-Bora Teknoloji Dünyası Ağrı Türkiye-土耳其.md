@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。（调研 2026-10-21；表内兴趣：商业级2光8PoE 10pcs）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-486` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 boraerim@gmail.com；主题多为「Updated Ethernet Switches Links」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加」；研究档 risks：微型、无域名；运费占比高；无后续跟进
+- **现状一句话**：自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。
+- **对方真实需求（有据）**：小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）
+- **断点 / 为什么停在这里**：微型、无域名；运费占比高；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Updated Ethernet Switches Links | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

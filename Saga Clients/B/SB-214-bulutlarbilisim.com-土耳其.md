@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：土耳其 Bulutlar Bilişim（阿里巴巴询盘「核心交换机 100G/25G」；KP Ammar Alsawadi（CEO）；表内「质量可能一般」；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：核心交换机 100G/25G）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ammar, following your enquiry for 100G/25G core switches: we focus on the access layer — Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — would the access side of the same project be worth a quote?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-214` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 2 封 2026，无记录打开，0 回；收件 info@bulutlarbilisim.com；主题多为「OEM Core Switching Solution、24 Port PoE Managed Switch」）** ｜ 类型：IT 方案商（土耳其，核心交换机询盘超范围） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴」；研究档 risks：询盘品类（100G/25G 核心）Saga 不供；官网 http_error；表内「质量可能一般」；未跟进过
+- **现状一句话**：土耳其 Bulutlar Bilişim（阿里巴巴询盘「核心交换机 100G/25G」；KP Ammar Alsawadi（CEO）；表内「质量可能一般」；官网 http_error）；表内未跟进。
+- **对方真实需求（有据）**：100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套
+- **断点 / 为什么停在这里**：询盘品类（100G/25G 核心）Saga 不供；官网 http_error；表内「质量可能一般」；未跟进过
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ammar, following your enquiry for 100G/25G core switches: we focus on the access layer — Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — would the access side of the same project be worth a quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | OEM Core Switching Solution、24 Port PoE Managed Switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

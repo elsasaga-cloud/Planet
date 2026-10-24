@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。（调研 2026-10-21；表内兴趣：对video over fiber感兴趣 看到买了ip camera样品）
 - **为什么是 B 级**：**调研后定级 B**（3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-3 WhatsApp 加不上；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 17 次（2024-05-07 → 2025-10-13）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-060` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 graham@securitytec.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）** ｜ 类型：安防批发商（小型） ｜ 筛子：1~2（1 次打开） ｜ 停点：26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）
+- **现状一句话**：伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。
+- **对方真实需求（有据）**：批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档
+- **断点 / 为什么停在这里**：无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 26 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

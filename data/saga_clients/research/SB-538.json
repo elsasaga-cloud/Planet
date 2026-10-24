@@ -86,5 +86,55 @@
   "tier": 20,
   "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）"
  },
- "email_hook": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?"
+ "email_hook": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 32 封 2025→2026，其中 3 封被打开，0 回；收件 augustin@infinitecables.com, info@infinitecables.com；被打开主题「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+   "type": "北美连接产品网店（含 OEM 定制）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 32，Opened 标签 3（Simon 群发追踪）；用户表：「MC DVI FS PoE SFP 串口 销售平台」；研究档 risks：网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）"
+  },
+  "situation": "Infinite Cables（北美连接产品网店：AV/网络/光纤线缆、UPS 电池、安防摄像机；服务分销商/经销商/安装商与政府/学校采购单，大批量折扣、Custom Orders and OEM；表内「MC / DVI / FS / PoE / SFP / 串口，销售平台」；KP Augustin Liu（Supervisor）、Richard Bonsol（Sales））；群发 10 次无回复。",
+  "need": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）",
+  "breakpoint": "网店多品类：交换机为配套；MC/SFP/串口无 Saga SKU（Q-32）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网店 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC/SFP/串口 Saga 价目无（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → augustin@infinitecables.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Augustin, for the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC DVI FS PoE SFP 串口 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "32 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

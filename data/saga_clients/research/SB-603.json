@@ -70,5 +70,49 @@
   "tier": 30,
   "why": "IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）"
  },
- "email_hook": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?"
+ "email_hook": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「PoE switch 自己的logo」）",
+   "type": "对讲/门禁品牌商（波兰，自有标 PoE）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "PL 次级重点",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「PoE switch 自己的logo」；研究档 risks：PoE 为对讲配套（量取决于 IP 系列占比）；表内「质量一般」；仅 biuro@，未跟进过"
+  },
+  "situation": "波兰 VIDOS（可视对讲、密码锁、门禁自动化与 CCTV 生产商/品牌：VIDOS DUO 两线制、VIDOS ONE、IP 可视对讲、M13-XT 监视器；表内「PoE switch 自己的 logo」「质量一般」）；表内未跟进。",
+  "need": "IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）",
+  "breakpoint": "PoE 为对讲配套（量取决于 IP 系列占比）；表内「质量一般」；仅 biuro@，未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE switch 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

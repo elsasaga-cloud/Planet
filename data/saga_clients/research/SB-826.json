@@ -65,5 +65,55 @@
   "why": "三旺工业 FS 经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）"
  },
  "email_hook": "Alongside the 3onedata industrial switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which industrial SKU do your customers reorder most?",
- "site_mismatch": true
+ "site_mismatch": true,
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 info@profichipusa.com；主题多为「Marvell Alleycat5 Solution、48 Port PoE Managed Switch」）",
+   "type": "工业网络分销商（美国/德国待核，现三旺）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「3旺的工业FS」；研究档 risks：快照域名误判（eu.com 域名销售页）——实际 profichipusa.com 待重抓；国别待核（表内德国，站点为美国）；现供三旺价格基准低；10 次无回复"
+  },
+  "situation": "Profichip USA（profichipusa.com；表内域名 eu.com 为误记，快照抓到的是 EU.COM 域名销售页（site_mismatch，待重抓）；表内「3 旺（三旺）的工业 FS」「可以着重跟一下」；表内国别德国待核（profichipusa 为美国站））；群发 10 次无回复。",
+  "need": "三旺工业 FS 经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）",
+  "breakpoint": "快照域名误判（eu.com 域名销售页）——实际 profichipusa.com 待重抓；国别待核（表内德国，站点为美国）；现供三旺价格基准低；10 次无回复——用户标「可以着重跟一下」保留 B",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "三旺工业 FS 经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the 3onedata industrial switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which industrial SKU do your customers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "3旺的工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Alleycat5 Solution、48 Port PoE Managed Switch",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -67,5 +67,47 @@
   "tier": 30,
   "why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
+ "email_hook": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 erdal.goksen@biges.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "安防分销商（土耳其，自有品牌 VGuard/Bullwark）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复"
+  },
+  "situation": "土耳其 Biges（家庭与商用摄像安防/报警系统、报警监控服务；自有品牌 VGuard、Bullwark；DVR/IP 摄像机、无线与光纤方案；Bosch；KP Erdal Gökşen）；表内 1 次跟进无回复。",
+  "need": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "体量：Biges 为土耳其大型安防分销商（既有 ODM 供应链、采购流程长）；土耳其汇率敏感；1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 VGuard/Bullwark 标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Erdal, for the PoE switches sold under the VGuard and Bullwark labels, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most with camera kits?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

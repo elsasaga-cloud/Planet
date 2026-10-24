@@ -74,5 +74,49 @@
   "tier": 25,
   "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP"
  },
- "email_hook": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+ "email_hook": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「没说什么，要catalog / 90 53013 69407 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进"
+  },
+  "situation": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
+  "need": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
+  "breakpoint": "ISAF 只要了目录；无后续跟进",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没说什么，要catalog / 90 53013 69407 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

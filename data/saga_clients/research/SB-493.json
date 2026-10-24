@@ -91,5 +91,49 @@
    "url": "https://www.diteksurgeprotection.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「PoE及配件 工业FS 自己的logo」）",
+   "type": "电涌保护制造商（自有 logo PoE 交换机线，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「PoE及配件 工业FS 自己的logo」；研究档 risks：表内无邮箱：首触前需核实官网联系邮箱（不猜测）"
+  },
+  "situation": "美国 DITEK Surge Protection（商业/工业/住宅电涌保护制造商；自有 logo PoE 交换机 DTK-SW24PL / DTK-SW16PL（带浪涌保护的 PoE 交换机）、PoE 保护器 DTK-MRJ45 系列；经分销商/集成商/安装商销售；表内「PoE 及配件、工业 FS，自己的 logo」；表内无邮箱）；表内无跟进记录。",
+  "need": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）",
+  "breakpoint": "表内无邮箱：首触前需核实官网联系邮箱（不猜测）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE及配件 工业FS 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

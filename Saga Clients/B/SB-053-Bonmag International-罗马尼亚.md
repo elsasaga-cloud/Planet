@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。（调研 2026-10-21；表内兴趣：TA310-GE/850nm 视频监控 DVR NVR 无线报警等）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 21 次（2023-02-07 → 2025-10-06）；最近一次客户回复：92：可能有用 price
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-053` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 bogdan@omnisecurity.ro；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「（用户表字段）」；研究档 risks：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟
+- **现状一句话**：罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。
+- **对方真实需求（有据）**：安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
+- **断点 / 为什么停在这里**：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

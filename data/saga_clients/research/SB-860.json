@@ -110,5 +110,47 @@
   "tier": 20,
   "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求："
  },
- "email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?"
+ "email_hook": "You stock PLANET's IGS-5225 line and sell E-Link switches beside it; an industrial 8-port PoE+ with 10G uplinks sourced direct gives you a third price point — or an own-label option. Is E-Link your own label or a brand you resell, and which PoE switch size do your NL/BE customers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@shop4power.nl；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "荷兰（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 23；研究档 risks：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+  },
+  "situation": "上艾瑟尔省 Wijhe 的 UPS/电源与 PLANET 交换机专营网店，服务荷兰与比利时，PLANET 工业/商用交换机多款现货，另有 E-Link 交换机线。类型：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）。信号：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓",
+  "need": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
+  "breakpoint": "E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货",
+  "saga_now": {
+   "p1": "STI-488XGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位其现货主推 IGS-5225-8P2S2X（工业 8 PoE + 2×1G/2.5G SFP + 2×10G SFP+）——Saga 为工业 8 PoE + 4×10G SFP+ L2+（上联形态不同，注明）；专业网店走量 → 20%（E-Link 若为其白牌则转 30% 贴牌档）（沿用 Planet 档案 PB-045）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "23 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

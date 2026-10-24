@@ -75,5 +75,49 @@
   "tier": 20,
   "why": "Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做"
  },
- "email_hook": "For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?"
+ "email_hook": "For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「串口 工业FS」）",
+   "type": "工业网络与边缘计算分销商（Moxa 渠道）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「串口 工业FS」；研究档 risks：Moxa 正规渠道：引入白牌意愿低"
+  },
+  "situation": "美国 Neteon Technologies（工业数字化方案分销 20+ 年：Moxa（词频 31，BXP-A101 边缘 AI）、Cincoze 面板 PC、ASUS IoT；方案页 OT 工业网络 / 边缘 AI / 无风扇 PC；表内「串口、工业 FS，在用很多有名的牌子」）；表内无跟进记录。",
+  "need": "Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做",
+  "breakpoint": "Moxa 正规渠道：引入白牌意愿低",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "串口 工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -69,5 +69,49 @@
   "tier": 20,
   "why": "CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。"
  },
- "email_hook": "Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?"
+ "email_hook": "Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳」；研究档 risks：国别待核；无具名"
+  },
+  "situation": "安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。",
+  "need": "CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+  "breakpoint": "国别待核；无具名",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $24 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

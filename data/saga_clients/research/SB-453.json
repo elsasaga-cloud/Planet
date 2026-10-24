@@ -77,5 +77,49 @@
   "tier": 20,
   "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?"
+ "email_hook": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「VC类产品 / from: 阿里巴巴RFQ」）",
+   "type": "进出口贸易中介（捷克，VC RFQ）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「VC类产品 / from: 阿里巴巴RFQ」；研究档 risks：采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道"
+  },
+  "situation": "捷克 Novy Telecom s.r.o.（「Supply of machinery from Asia and China」进出口贸易服务：工业机械、汽车配件、消费品、电子等；阿里巴巴 RFQ「VC 类产品」；KP Miloš Holec（procurement@））；表内未跟进。",
+  "need": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）",
+  "breakpoint": "采购中介（为终端客户比价，忠诚度低；需求有效性待核）；非专业网络渠道",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "VC类产品 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

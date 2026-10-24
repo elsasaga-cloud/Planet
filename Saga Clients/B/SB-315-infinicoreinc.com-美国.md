@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：高速交换机）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-28 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-315` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「（用户表字段）」；研究档 risks：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先
+- **现状一句话**：美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。
+- **对方真实需求（有据）**：终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
+- **断点 / 为什么停在这里**：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 90W PoE Managed Switch、Marvell Alleycat5 Solution | 11 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 AVCOMM Technologies（工业以太网交换机 / IIoT / 边缘计算，自有 AP200/AP300/AP400 PoE 系列与 4000/6000 PoE 系列商城分类；表内「工业 FS / SFP，自己的 logo」；KP Kang Yu（Chief Operating Officer，kang.yu@））；群发 20 次无回复。（调研 2026-10-21；表内兴趣：工业FS SFP 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-04-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-304` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 31 封 2024→2026，无记录打开，0 回；收件 info@avcomm.us, kang.yu@avcomm.us；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：工业网络品牌商（自有 AP 系列，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 31；用户表：「工业FS SFP 自己的logo」；研究档 risks：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
+- **现状一句话**：美国 AVCOMM Technologies（工业以太网交换机 / IIoT / 边缘计算，自有 AP200/AP300/AP400 PoE 系列与 4000/6000 PoE 系列商城分类；表内「工业 FS / SFP，自己的 logo」；KP Kang Yu（Chief Operating Officer，kang.yu@））；群发 20 次无回复。
+- **对方真实需求（有据）**：自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
+- **断点 / 为什么停在这里**：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS SFP 自己的logo | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 31 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

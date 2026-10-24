@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。（调研 2026-10-21；表内兴趣：IP67网口 小体积 PoE为主 拿了很多同行的彩页）
 - **为什么是 B 级**：**调研后定级 B**（核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-151` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 it@anb-rimex.be；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）** ｜ 类型：集成/经销商 ｜ 筛子：1~2（1 次打开） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「IP67网口 小体积 PoE为主 拿了很多同行的彩页」；研究档 risks：IP67 需求 Saga 不满足；6 次推送 0 回复
+- **现状一句话**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。
+- **对方真实需求（有据）**：分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
+- **断点 / 为什么停在这里**：IP67 需求 Saga 不满足；6 次推送 0 回复
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | IP67网口 小体积 PoE为主 拿了很多同行的彩页 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、Mini Industrial PoE Switch | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

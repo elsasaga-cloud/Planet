@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：赫特福德郡的小型进口代理商，代理 PLANET / Patton / LAVA 等六家厂商，向经销商与燃气/石油/公用事业/政府客户供工业 PoE 与电信接入产品。类型：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）。信号：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 IPOE-175 / IGS-624HPT / IPOE-173S / BSP-360；Mikrotik 仓库 C-116 标「分销（PLANET 授权）」。Planet 渠道档案 PB-043 评级 B（需求：PLANET 专页 + 工业 PoE 20 款 + 进口代理定位；触达：sales@saratota.com（官方 Facebook 主页 + Patton/FiberPlex 官方资料「Distributed in the UK by SARATOTA … Email: sales@saratota.com」），admin@saratota.com（官网隐私页）；无具名（Companies House 4 名董事未取名）；体量 2–10 人，可赢；区域英国（一线）；Mikrotik C-116「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-731，英国，Saga 群发已推送 5 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：主要是planet的；主要是几个台湾的供应商 主要是planet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-06-11 → 2025-10-15）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-731` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A 邮箱 18 封 2025→2026，其中 2 封被打开，0 回；收件 mike.white@saratota.com, sales@saratota.com；被打开主题「10G Enterprise SFP Switch、48 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 18，Opened 标签 2（Simon 群发追踪）；研究档 risks：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）
+- **现状一句话**：赫特福德郡的小型进口代理商，代理 PLANET / Patton / LAVA 等六家厂商，向经销商与燃气/石油/公用事业/政府客户供工业 PoE 与电信接入产品。类型：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）。信号：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 I
+- **对方真实需求（有据）**：对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：
+- **断点 / 为什么停在这里**：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、48 Port PoE Managed Switch | 18 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

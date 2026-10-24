@@ -70,5 +70,47 @@
   "tier": 20,
   "why": "网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求："
  },
- "email_hook": "PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?"
+ "email_hook": "PLANET sits in your catalogue next to MikroTik; a PoE+ second source at a lower tier gives your Austrian resellers a price point between the two. Between MikroTik and PLANET, which brand do your resellers pick for 24-port PoE+ today, and on what grounds?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 2 封 2026，无记录打开，0 回；收件 m.polainer@triotronik.com, mikrotik@triotronik.com；主题多为「24 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 2；研究档 risks：Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）"
+  },
+  "situation": "施蒂利亚州 Weiz 的网络分销商，MikroTik Master 分销，官网设 PLANET 在线销售专页。类型：分销商（奥地利网络分销「der Netzwerkdistributor」；MikroTik Master 分销；PLANET 在线销售专页）。信号：官网「PLANET online kaufen」专页（Über uns › Planet）介绍 PLANET 10 大产品类目。Planet 渠道档案 PB-038 评级 B（需求：PLANET 专页 + 网络专营分销；触达：mikrotik@triotronik.com（Mikrotik 侧）/ 官网总机 +43 3172 42299 0，无具名；体量中小（Weiz），可赢；Mikrotik A-469 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1",
+  "need": "网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：",
+  "breakpoint": "Mikrotik 侧首触状态；PLANET 占比；官网是否有 PLANET 线专属邮箱（待 fetch）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网络分销走量 24 口 PoE；分销走量 → 20%（沿用 Planet 档案 PB-038）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "2 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -88,5 +88,55 @@
   "tier": 20,
   "why": "安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?"
+ "email_hook": "Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@dodicelettronica.it, ivan.d@dodic.it；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "安防分销商（意大利，面向安装商）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「Mauro邮件中带的；商业PoE」；研究档 risks：多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触"
+  },
+  "situation": "意大利 Dodic（1975 年起面向安装商的安防/防盗/视频监控/家居自动化官方分销商；培训课程 Hikvision、Risco、Micromac、UNV；表内「Mauro 邮件中带的 / 商业 PoE」「可以尝试多跟进一下」；KP Simone D’Andrea（General Manager e A.D.）、Ivan Stazio（CFO））；表内 7 次跟进无回复。",
+  "need": "安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "多品牌分销（Hikvision/UNV 自带 PoE 交换机，价格基准低）；7 次无回复 → 改向 GM 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安装商配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@dodicelettronica.it",
+   "action": "短信一问（email_hook）",
+   "one_question": "Simone, for the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Mauro邮件中带的；商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "30 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

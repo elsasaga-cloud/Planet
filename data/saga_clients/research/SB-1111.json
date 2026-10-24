@@ -77,5 +77,55 @@
   "tier": 20,
   "why": "在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?"
+ "email_hook": "Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@eltrox.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "安防/智能家居网店（捷克，Hasivo PoE 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19；用户表：「hasivo的」；研究档 risks：现卖 Hasivo（深圳）价格基准低"
+  },
+  "situation": "捷克 Eltrox.cz（安防系统与智能家居网店：摄像机、报警、自动化；PoE 交换机栏目、Netgear GS108GE、Ubiquiti ES-12F；Hikvision / Dahua / Ajax；表内「Hasivo 的」「质量高」）；群发 8 次无回复。",
+  "need": "在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "现卖 Hasivo（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Hasivo and Netgear PoE switches in your e-shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your camera-kit customers buy most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "hasivo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "19 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

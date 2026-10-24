@@ -146,5 +146,47 @@
   "tier": 20,
   "why": "其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（自称 distributor，走量 + 自定毛利）→ 20%；项目定制需求出现时再谈 25% / 30%（沿用 Planet 档案 PB-098）；需求："
  },
- "email_hook": "Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?"
+ "email_hook": "Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 5 封 2026，其中 2 封被打开，0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁"
+  },
+  "situation": "杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acc",
+  "need": "其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（",
+  "breakpoint": "PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Managed Commercial Switches、10G L3 Managed Switch",
+    "why": "5 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

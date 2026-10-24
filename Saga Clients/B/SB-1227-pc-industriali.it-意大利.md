@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Hardware Solutions（pc-industriali.it：工业 PC 设计、生产与分销——Box PC、机架、工业平板、HMI、Panel PC；站内 Advantech UTC-300/500、TEC-2410、EN50155；表内「工业 FS 研华的」「质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS 研华的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the Advantech industrial switches you supply with your Box PCs and Panel PCs, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IPC customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1227` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 3 封 2024，无记录打开，0 回；收件 info@hardwaresolutions.it；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：工业 PC 制造/分销商（意大利，Advantech 工业 FS） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「工业FS 研华的」；研究档 risks：Advantech 既定线；交换机为 IPC 配套品类；表内「质量一般」
+- **现状一句话**：意大利 Hardware Solutions（pc-industriali.it：工业 PC 设计、生产与分销——Box PC、机架、工业平板、HMI、Panel PC；站内 Advantech UTC-300/500、TEC-2410、EN50155；表内「工业 FS 研华的」「质量一般」）；表内无跟进记录。
+- **对方真实需求（有据）**：在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线
+- **断点 / 为什么停在这里**：Advantech 既定线；交换机为 IPC 配套品类；表内「质量一般」
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）作 IPC 配套预算线
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alongside the Advantech industrial switches you supply with your Box PCs and Panel PCs, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IPC customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 研华的 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 3 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

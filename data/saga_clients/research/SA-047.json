@@ -60,5 +60,47 @@
   "tier": 25,
   "why": "安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档"
  },
- "email_hook": "Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days."
+ "email_hook": "Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 vicente.jimenez@intecseg.com；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）",
+   "type": "待核实（疑似安防/电信安装商）",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4"
+  },
+  "situation": "用户表：西班牙「ITS, S.L.-S.B.T.」联系人 Vicente Jimenez（vicente.jimenez@intecseg.com，+34 616 913 800，WhatsApp 已加），兴趣工业交换机；20 次推送 0 回复。公开检索无法确认该域名对应公司，疑似已停用域名或小型安防/电信安装商。",
+  "need": "安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档",
+  "breakpoint": "无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days."
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、10G L3 Managed Switch",
+    "why": "4 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

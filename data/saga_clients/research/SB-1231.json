@@ -74,5 +74,55 @@
   "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）"
  },
  "email_hook": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?",
- "country_fix": "立陶宛"
+ "country_fix": "立陶宛",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 2 封 2024，1 次记录打开，0 回；收件 info@pramoninisrysys.lt；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 2，Opened 标签 1（Simon 群发追踪）；用户表：「Beijer sbjlink的工业FS」；研究档 risks：守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无"
+  },
+  "situation": "立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。",
+  "need": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）",
+  "breakpoint": "守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Beijer sbjlink的工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "2 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

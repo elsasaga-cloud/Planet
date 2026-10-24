@@ -91,5 +91,49 @@
    "url": "https://www.bayiden.com.tr/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业POE」）",
+   "type": "电子综合网店（土耳其，在售 PowerMaster PoE）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：综合网店：交换机为配套品类，量小"
+  },
+  "situation": "土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。",
+  "need": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
+  "breakpoint": "综合网店：交换机为配套品类，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -74,5 +74,49 @@
   "tier": 20,
   "why": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first?"
+ "email_hook": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 主要是witek的」）",
+   "type": "安防/网络/音响 B2B 批发商（瑞典，Wi-Tek 交换机）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "瑞典（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「switch 主要是witek的」；研究档 risks：现卖 Wi-Tek（深圳）价格基准低"
+  },
+  "situation": "瑞典 AV Nordic（面向企业/安装商/经销商的安防、网络与音响 B2B 批发：Uniview 17 / Milesight、Cvedia 分析、Global Caché；表内「switch 主要是 Wi-Tek 的」）；表内无跟进记录。",
+  "need": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "现卖 Wi-Tek（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch 主要是witek的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

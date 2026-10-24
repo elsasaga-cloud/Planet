@@ -100,5 +100,47 @@
   "tier": 20,
   "why": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求："
  },
- "email_hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line. Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?"
+ "email_hook": "Your PLANET industrial 8-port units already carry Coel part numbers, so a DIN-rail PoE+ second source can slot into the same catalogue line. Do your installers take the PLANET industrial 8-port units mainly unmanaged (IGS-801T) or managed (WGS-5225)?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 a.fallerini@coeldistribution.it, info@coeldistribution.it；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 16；研究档 risks：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比"
+  },
+  "situation": "米兰北郊的布线+网络分销商，给安装商/集成商供货，PLANET 工业小交换机在其目录中有自有货号。类型：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）。信号：官网品牌页「Planet Networking」+ 产品页 IGS-801T（COD. COEL PLT0086）、WGS-803、WGS-5225-8T2SV 在售；首页品牌墙列 Planet Networking。Planet 渠道档案 PB-024 评级 B（需求：PLANET 工业线在售 + 布线/网络分销渠道；触达：info@coeldistribution.it（官网 contattaci）；体量 11–50 人、€9.4M，可赢；Mikrotik 仓库 A-191 已建档 → 本仓 B 并档，首触以 Mikrotik 仓库为准）。并档说明",
+  "need": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：",
+  "breakpoint": "Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其在售 WGS-5225-8T2SV / IGS-801T 属 8 口工业档；Saga 工业 8 口 PoE L2+ 为同价位带的上位替代；分销走量 → 20%（沿用 Planet 档案 PB-024）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "16 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

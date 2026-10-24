@@ -74,5 +74,49 @@
   "tier": 20,
   "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）"
  },
- "email_hook": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?"
+ "email_hook": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 商业POE及周边产品」）",
+   "type": "安防设备跨境网店（多语言，多供应商）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「MC 商业POE及周边产品」；研究档 risks：多供应商平台型网店：白牌同质化竞争，毛利薄"
+  },
+  "situation": "立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。",
+  "need": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
+  "breakpoint": "多供应商平台型网店：白牌同质化竞争，毛利薄",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 商业POE及周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

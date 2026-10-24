@@ -84,5 +84,55 @@
   "tier": 30,
   "why": "加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM"
  },
- "email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most?"
+ "email_hook": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 cindy.powers@avalan.com, nigel.widner@avalan.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "加油站/工业无线方案商（美国，自有标工业 PoE）",
+   "sieve": "1（只收到群发）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「工业switch」；研究档 risks：加油站 EMV 场景（UL/防爆要求待核，Saga 无 UL）；9 次无回复 → 改向 Product Manager 具名首触"
+  },
+  "situation": "美国 AvaLAN Networks（Volume Inc.；加油站/EMV 安全工业无线与以太网方案「No Digging, No Wires」；自有 AW24PTPOE 等；博客「为什么加油机里需要以太网交换机」；表内「工业 switch」；KP Cindy Powers（Director）、John W（Product Manager））；群发 9 次无回复。",
+  "need": "加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM",
+  "breakpoint": "加油站 EMV 场景（UL/防爆要求待核，Saga 无 UL）；9 次无回复 → 改向 Product Manager 具名首触",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "加油机/站点机柜小口数工业 PoE → 工业 4 PoE + 1 GE 非管理 STI-154GP（$40.8 @30%）/ 8 PoE + 2 SFP STI-288GP（$62.2）贴 AvaLAN 标；管理版 STI-288GPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "John, for the small industrial PoE switches you bundle with your fuel-center wireless kits, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V input, FCC/CE/RoHS) under your label from small lots — which port count do your dispenser and canopy installs use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业switch",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

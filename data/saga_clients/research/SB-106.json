@@ -178,5 +178,47 @@
   "tier": 20,
   "why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Planet 档案 PB-081）；需求："
  },
- "email_hook": "Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?"
+ "email_hook": "Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 james@oksa.co.uk, sales@oksa.co.uk；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；研究档 risks：James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / "
+  },
+  "situation": "伦敦温布利一家工业自动化分销商，把 PLANET 工业交换机当主推线（PROFINET / 环网 / PoE 壁挂款），面向 SI 与 OEM。类型：工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）。信号：oksa.co.uk：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」；商品页 IGS-801M（8×GE 工业管理）、ISW-514PTF £160.89、WGS-",
+  "need": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Pla",
+  "breakpoint": "James 的姓氏 / 职务（是否采购决策人）；PLANET 进货渠道（PLANET UK 直供 or 分销）；工业交换机年量；是否要求 PROFINET / UKCA 文件",
+  "saga_now": {
+   "p1": "STI-280GM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Pla",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

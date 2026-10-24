@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 eks Engel（「Das Leben sicherer machen」光纤系统与组件制造商：自有 EL-1000-XSG-SFP / EL-1000-XSGP-SFP 工业交换机、bypass、MC、多功能 VC、数据流软件；表内「bypass 工业 FS MC 多功能 VC」「有人在卖他们的产品」；KP Ralph Engel（Managing Director，re@））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：bypass 工业FS MC 多功能VC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-25 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ralph, for the EL-1000 industrial switch and media-converter range, we can serve as a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 4-SFP + 8-GE with optical bypass, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-532` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@eks-engel.de, re@eks-engel.de；主题多为「10G Enterprise SFP Switch、24 Port Fiber Switch」）** ｜ 类型：德国光纤系统制造商（自有 EL 系列，二供口径） ｜ 筛子：1~2（1 次打开） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「bypass 工业FS MC 多功能VC」；研究档 risks：自研能力强（德国制造商，安全应用）：仅二供口径，准入要求高
+- **现状一句话**：德国 eks Engel（「Das Leben sicherer machen」光纤系统与组件制造商：自有 EL-1000-XSG-SFP / EL-1000-XSGP-SFP 工业交换机、bypass、MC、多功能 VC、数据流软件；表内「bypass 工业 FS MC 多功能 VC」「有人在卖他们的产品」；KP Ralph Engel（Managing Director，re@））；群发 8 次无回复。
+- **对方真实需求（有据）**：自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE
+- **断点 / 为什么停在这里**：自研能力强（德国制造商，安全应用）：仅二供口径，准入要求高
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ralph, for the EL-1000 industrial switch and media-converter range, we can serve as a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 4-SFP + 8-GE with optical bypass, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you currently source from a single supplier?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | bypass 工业FS MC 多功能VC | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port Fiber Switch | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

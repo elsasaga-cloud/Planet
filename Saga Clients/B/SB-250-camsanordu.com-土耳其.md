@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。（调研 2026-10-21；表内兴趣：拿了彩页，没做交谈(邮箱可和客户再确认一遍））
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-250` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com」；研究档 risks：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
+- **现状一句话**：土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。
+- **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
+- **断点 / 为什么停在这里**：终端用户非渠道、采购流程长；邮箱待核；ISAF 未交谈
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$145.7）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 145,7 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

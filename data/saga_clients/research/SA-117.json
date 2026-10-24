@@ -126,5 +126,47 @@
   "tier": 20,
   "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W"
  },
- "email_hook": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?"
+ "email_hook": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 atencioncliente@domoticalia.es；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "电商零售（智能家居为主）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；研究档 risks：网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU"
+  },
+  "situation": "西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。",
+  "need": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W",
+  "breakpoint": "网店客户对云管理（EnGenius Cloud）有需求——Saga 不做云管理，只切工业 DIN 与本地管理 SKU",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "电商/零售 20% 档：STI-288DGGPM（8 PoE+ 2 SFP 管理 DIN）对位 Stonet NIS3010GP-WMC €188.76；4 口位 STI-144GP；24 口位 STC-424XGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Next to the Stonet NIS3010GP-WMC in your industrial category, the Marvell-based 8-port PoE+ 2-SFP DIN managed switch lands at $139.9 EXW, leaving room for a second-brand listing; would a single unit for your test bench help?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

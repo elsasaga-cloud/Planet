@@ -101,5 +101,47 @@
   "tier": 20,
   "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求："
  },
- "email_hook": "PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites. For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?"
+ "email_hook": "PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites. For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2024→2026，无记录打开，0 回；收件 nokta@noktaelektronik.net；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 14；研究档 risks：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
+  },
+  "situation": "伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.n",
+  "need": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
+  "breakpoint": "Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

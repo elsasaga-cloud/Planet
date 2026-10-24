@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：用户表：西班牙「ITS, S.L.-S.B.T.」联系人 Vicente Jimenez（vicente.jimenez@intecseg.com，+34 616 913 800，WhatsApp 已加），兴趣工业交换机；20 次推送 0 回复。公开检索无法确认该域名对应公司，疑似已停用域名或小型安防/电信安装商。（调研 2026-10-21；表内兴趣：工业交换机）
 - **为什么是 B 级**：**调研后定级 B**（实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-047` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 vicente.jimenez@intecseg.com；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）** ｜ 类型：待核实（疑似安防/电信安装商） ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4
+- **现状一句话**：用户表：西班牙「ITS, S.L.-S.B.T.」联系人 Vicente Jimenez（vicente.jimenez@intecseg.com，+34 616 913 800，WhatsApp 已加），兴趣工业交换机；20 次推送 0 回复。公开检索无法确认该域名对应公司，疑似已停用域名或小型安防/电信安装商。
+- **对方真实需求（有据）**：安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档
+- **断点 / 为什么停在这里**：无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

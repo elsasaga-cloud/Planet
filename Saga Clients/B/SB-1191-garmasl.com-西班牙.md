@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。（调研 2026-10-21；表内兴趣：redlion Switch I/O module）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1191` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名
+- **现状一句话**：西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。
+- **对方真实需求（有据）**：Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。
+- **断点 / 为什么停在这里**：I/O 模块不供；无具名
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：redlion Switch I/O module | 表内备注 | `用户表` |
+| 2025 | 去 | S 群发 | Passive PoE Switch、Mini Industrial Switch | 7 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

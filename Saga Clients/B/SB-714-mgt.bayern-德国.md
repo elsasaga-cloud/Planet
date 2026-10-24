@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Münchner Glasfaser-Technik GmbH（慕尼黑：信息技术、电信与电气技术专业公司；表内「Networking」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Networking）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-17 → 2025-10-14）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-714` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@mgt.bayern；主题多为「8 Port Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：IT/电信/电气安装商（德国） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「Networking」；研究档 risks：安装商（单项目量小）；2 次无回复，仅 info@
+- **现状一句话**：德国 Münchner Glasfaser-Technik GmbH（慕尼黑：信息技术、电信与电气技术专业公司；表内「Networking」）；表内 2 次跟进无回复。
+- **对方真实需求（有据）**：楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）
+- **断点 / 为什么停在这里**：安装商（单项目量小）；2 次无回复，仅 info@
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Networking | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 8 Port Industrial PoE Switch、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

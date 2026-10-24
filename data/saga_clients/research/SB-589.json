@@ -101,5 +101,55 @@
    "url": "https://integranetwork.es/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@integra-nes.es, lola.lucena@integra-nes.es；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
+   "type": "工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和E」；研究档 risks：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做"
+  },
+  "situation": "西班牙 Integra Network / Integra-NES（工业计算设备完整方案：分销、设计与制造；行业铁路、道路交通、海事；工业交换机选型页、EN 50155 交换机、面板 PC；在用 Lantech（GS-R6616XFT / GS-L5416MGFT / GS-R6804XT）；表内 AI「40% A：工业网络方案商/专业渠道，偏项目与技术实施」；KP Lola Lucena（lola.lucena@；表内写 Lola Medina，以邮箱为准待核））；表内无跟进记录。",
+  "need": "在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报",
+  "breakpoint": "守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Lola, alongside the Lantech industrial switches you specify, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 4×10G units (−40~75 °C, ERPS, CE/RoHS) for road-traffic and factory projects from small lots — which Lantech model do you use most outside the EN 50155 scope, so we quote its equivalent?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和ERPS/PoE++/宽温资料，强调可做功能/UI定制与持续供货；优先切入需要特殊",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

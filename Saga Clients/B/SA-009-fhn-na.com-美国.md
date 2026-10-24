@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。（调研 2026-10-21；表内兴趣：收发器/差点成样品单）
 - **为什么是 B 级**：**调研后定级 B**（母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。）；自动分级 C：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-45 巨头/品牌厂商/运营商/军工（INH 规则：体量不匹配或非客户）
 - **历史互动**：实质回复 1 次；推送 19 次（2023-08-29 → 2025-11-04）；最近一次客户回复：2023-08-29：Full FE 2+4
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-009` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：中资大厂海外分公司（终端/项目采购） ｜ 筛子：1（只收到群发） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20；用户表：「烽火美国分公司 · 收发器/差点成样品单」；研究档 risks：中资大厂分公司，采购走集团渠道；机会型而非渠道型
+- **现状一句话**：用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。
+- **对方真实需求（有据）**：机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
+- **断点 / 为什么停在这里**：中资大厂分公司，采购走集团渠道；机会型而非渠道型
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 烽火美国分公司 · 收发器/差点成样品单 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 20 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

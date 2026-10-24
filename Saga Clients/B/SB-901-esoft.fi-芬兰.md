@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：芬兰网络设备网店（Verkkokauppa），PoE 品类极深：PoE 交换机 / 工业 PoE（104 个 SKU）/ PoE 集线器 / PoE over COAX / PoE 注入器与分离器；在售 **HRUI 8×FE PoE+ +2GE+1SFP 95W（HR901-AF-821GNS）**、PLANET、24×GE+4×10G L3 管理、16×PoE+ +4 SFP 220W 管理、MC 机框、SFP BiDi 模块；表内注「AOA 的」（在用同行产品名单），无互动。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/芬兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-901` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「AOA的；工业FS」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：芬兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「AOA的；工业FS」；研究档 risks：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入
+- **现状一句话**：芬兰网络设备网店（Verkkokauppa），PoE 品类极深：PoE 交换机 / 工业 PoE（104 个 SKU）/ PoE 集线器 / PoE over COAX / PoE 注入器与分离器；在售 **HRUI 8×FE PoE+ +2GE+1SFP 95W（HR901-AF-821GNS）**、PLANET、24×GE+4×10G L3 管理、16×PoE+ +4 SFP 220W 管理、MC 机框、SFP BiDi 模块；表内注「AOA 的」（在用同行产品名单），无互动。
+- **对方真实需求（有据）**：其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。
+- **断点 / 为什么停在这里**：HRUI 线同源无价差；要以 SmartByte（Marvell）工业管理线切入
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——其「Industrial PoE」品类 104 件 = 核心货架；Saga 工业 8 PoE + 2 SFP STI-288GP（$57.4/59.8/62.2）与管理版 STI-288GPM 可直接上架；L3 24+4×10G 对位 STC-424XGGM(L3)。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | AOA的；工业FS | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。（调研 2026-10-21；表内兴趣：5/8电口工业FS 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-18 → 2025-10-31）
-- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。；$34.0 USD EXW（30% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-140` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 luke.walsh@brainboxes.com, sales@brainboxes.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「兴趣：5/8电口工业FS 自己的logo」；研究档 risks：终身保修要求 → 品质 / 保修条款需谈
+- **现状一句话**：英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。
+- **对方真实需求（有据）**：5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。
+- **断点 / 为什么停在这里**：终身保修要求 → 品质 / 保修条款需谈
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit））——5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：5/8电口工业FS 自己的logo | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 21 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

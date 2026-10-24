@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。（调研 2026-10-21；表内兴趣：工业级交换机）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-355` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com」；研究档 risks：新设公司规模小；火灾报警业务守界；无后续跟进
+- **现状一句话**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。
+- **对方真实需求（有据）**：工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）
+- **断点 / 为什么停在这里**：新设公司规模小；火灾报警业务守界；无后续跟进
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

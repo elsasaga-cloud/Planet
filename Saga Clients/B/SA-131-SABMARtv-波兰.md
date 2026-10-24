@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,28 @@ updated: 2026-10-23
 - **是谁**：波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。（调研 2026-10-21；表内兴趣：压缩HDMI光端机   成样品单）
 - **为什么是 B 级**：**调研后定级 B**（成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。）；自动分级 B：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+8 区域 欧洲/波兰
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-131` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「（用户表字段）」）** ｜ 类型：视频/广电技术经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机
+- **现状一句话**：波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。
+- **对方真实需求（有据）**：终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购
+- **断点 / 为什么停在这里**：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -209,12 +227,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

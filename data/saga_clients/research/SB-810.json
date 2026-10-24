@@ -55,5 +55,55 @@
   "tier": 20,
   "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
  },
- "email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?"
+ "email_hook": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 sales@bcp-uk.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "布线/网络产品经销商（英国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 也有其他的牌子 有点杂」；研究档 risks：多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@"
+  },
+  "situation": "英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。",
+  "need": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+  "breakpoint": "多品牌、品类杂（白牌契合度待核）；官网 http_error；18 次无回复，仅 sales@",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — is there a budget industrial position your customers ask for?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 也有其他的牌子 有点杂",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "27 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

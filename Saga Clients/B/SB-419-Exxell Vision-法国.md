@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：主要是安防方面的 加乐福，欧尚，Integrator need price list   distributor prices）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-11 → 2025-10-22）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-419` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 jean-edmond@exxell.fr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「（用户表字段）」；研究档 risks：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti
+- **现状一句话**：巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。
+- **对方真实需求（有据）**：集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%
+- **断点 / 为什么停在这里**：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 18 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

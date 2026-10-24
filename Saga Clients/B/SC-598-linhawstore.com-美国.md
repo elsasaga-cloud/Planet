@@ -35,10 +35,23 @@ updated: 2026-10-24
 - **是谁**：温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 PC Cable World 549 件，Netgear / TP-Link / Ubiquiti 交换机在售）；旧 PoE 类目页（2015）已 404。Planet 渠道档案 PB-053 评级 B（【W10 再更正】B 维持但 PLANET 关联为历史（最近一票 2017-04-04）：公开 sales@linhaw.com + 进口商 + 自有品牌 + 小公司（17 人）+ 加拿大在区域内；是否留在「PLANET 渠道池」交 Q-15 裁定（默认留，标注『历史 PLANET 进口商』）；Rob Baerg 仅第三方名录 → 待核不猜）。并档说明：Saga 表内本条 SC-598（美国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：很多牌子的）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-053 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-598` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：US 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg
+- **现状一句话**：温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 
+- **对方真实需求（有据）**：其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：
+- **断点 / 为什么停在这里**：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：
+- **下一步（具体）**：不动　—　—
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

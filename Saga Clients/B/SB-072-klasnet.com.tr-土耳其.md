@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。（调研 2026-10-21；表内兴趣：Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28GPM — 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附；$62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-072` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣」；研究档 risks：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
+- **现状一句话**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。
+- **对方真实需求（有据）**：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
+- **断点 / 为什么停在这里**：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -101,5 +101,55 @@
    "url": "https://www.simpleuk.com/t-optics-8-port-101001000m-ethernet-switch",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 nigilm@simpleuk.com, sales@simpleuk.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+   "type": "英国兼容光模块品牌商（T Optics；交换机为配套，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 25；用户表：「SFP DAC 很多无源产品 光路的10G MC」；研究档 risks：主业兼容光模块/DAC（Saga 不供，Q-32）：交换机为配套，量小"
+  },
+  "situation": "英国 Simple Technology（simpleuk.com；自有 T Optics 品牌：Cisco/Extreme/Moxa 等兼容 SFP/SFP+/QSFP28、DAC/AOC、MC、5/8 口千兆桌面交换机；表内「SFP / DAC 很多无源产品，光路 10G MC」；KP Nigil Manning（Purchase，nigilm@））；群发 16 次无回复。",
+  "need": "T Optics 自有标 5/8 口桌面交换机 → 升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 8 GE 位 HRUI STC-08GE（$10.5）；SFP/DAC/10G MC Saga 价目无（Q-32）",
+  "breakpoint": "主业兼容光模块/DAC（Saga 不供，Q-32）：交换机为配套，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "T Optics 自有标 5/8 口桌面交换机 → 升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 8 GE 位 HRUI STC-08GE（$10.5）；SFP/DAC/10G MC Saga 价目无（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Nigil, for the T Optics 5/8-port desktop switches, we can supply the same units plus a Marvell-based 8-PoE + 2 SFP L2+ model under your label from small lots, CE/RoHS/UKCA — which switch SKU do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "SFP DAC 很多无源产品 光路的10G MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "25 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

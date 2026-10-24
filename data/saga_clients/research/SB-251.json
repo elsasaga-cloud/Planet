@@ -73,5 +73,49 @@
   "tier": 25,
   "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+ "email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；研究档 risks：需求未表达；公共项目守界按个案；无后续跟进"
+  },
+  "situation": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+  "need": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "需求未表达；公共项目守界按个案；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

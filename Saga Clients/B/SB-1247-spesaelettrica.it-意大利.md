@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1247` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「switch」）** ｜ 类型：电气材料分销商（意大利，多仓） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核
+- **现状一句话**：意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。
+- **对方真实需求（有据）**：电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP
+- **断点 / 为什么停在这里**：表内「switch」在电气分销语境可能是开关/断路器，需求待核
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | switch | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

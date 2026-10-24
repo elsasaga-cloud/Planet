@@ -86,5 +86,55 @@
   "tier": 20,
   "why": "兼售 Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Ayse, for the PoE switches you sell alongside Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band sells more for you?"
+ "email_hook": "Ayse, for the PoE switches you sell alongside Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band sells more for you?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 ayse@baburtech.com, destek@baburtech.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "电脑配件电商兼安防网络（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 19；用户表：「switch；switch 有海思的」；研究档 risks：主业笔记本配件：网络安防为兼营，量小"
+  },
+  "situation": "土耳其 Baburtech Bilişim A.Ş.（安卡拉笔记本配件/维修电商，兼售 Hikvision 77 / Dahua 74 / TP-Link 30 / Ubiquiti 19 / Planet 18 网络安防产品；表内「switch，有海思的」；KP Ayse Narinsoez（Project Manager，ayse@））；群发 2 次无回复。",
+  "need": "兼售 Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "主业笔记本配件：网络安防为兼营，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "兼售 Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch；switch 有海思的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "19 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -70,5 +70,55 @@
   "tier": 30,
   "why": "主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明"
  },
- "email_hook": "For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?"
+ "email_hook": "For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 31 封 2024→2026，无记录打开，0 回；收件 info@dualcomm.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "网络 TAP/EoC 自有品牌商（美国，MC 为副线）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 31；用户表：「MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子」；研究档 risks：主品类 TAP / EoC：Saga 不做（Q-32），仅 MC 可对位，契合度低"
+  },
+  "situation": "美国 Dualcomm（网络分流器 TAP 自有品牌：ETAP 系列（10G–25G TAP 低于 $1000）、以太网同轴 EoC 套件 DECA-100/200；表内「MC / FS / 工业 MC / EoC，标价很高，最近在上新品，自己的牌子」）；群发 20 次无回复。",
+  "need": "主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明",
+  "breakpoint": "主品类 TAP / EoC：Saga 不做（Q-32），仅 MC 可对位，契合度低",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "主品类 TAP/EoC Saga 不做；可对位 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 Dualcomm 标；桌面 MC 注明",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the media converters in your catalogue next to the ETAP and DECA lines, we can supply industrial gigabit and PoE MCs under the Dualcomm label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC or small PoE switch SKU you plan to add to the range?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "31 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

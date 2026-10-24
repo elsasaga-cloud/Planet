@@ -90,5 +90,55 @@
   "tier": 25,
   "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）"
  },
- "email_hook": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more?"
+ "email_hook": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 jjallow@2mtechnology.net, mohamed@2mtechnology.net；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "高风险环境安防方案商/品牌（美国，UniFi 集成）",
+   "sieve": "1（只收到群发）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「主要是CCTV 商业PoE」；研究档 risks：守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目"
+  },
+  "situation": "美国 2M Technology（高风险环境安防：防爆摄像机、X 光机、集装箱安检通道、无人机探测拖车、UniFi 系统集成安装；表内「主要是 CCTV，商业 PoE」「可以尝试多跟进一下」；KP Mohamed Malek（General Manager，mohamed@）、Jarga Jallow（IT Manager））；群发 10 次无回复。",
+  "need": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
+  "breakpoint": "守界备注：关键基础设施/政府场景——只供通用交换机，不涉项目",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "周界/工业场景 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；室内 CCTV 位 STC-28DGGPM（$84.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Mohamed, for the PoE switches behind your explosion-proof cameras and perimeter deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option) and commercial 8/24-PoE L2+ models from small lots, FCC/CE/RoHS — which do your industrial sites use more?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "24 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

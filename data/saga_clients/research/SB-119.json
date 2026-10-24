@@ -75,5 +75,49 @@
   "tier": 20,
   "why": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）"
  },
- "email_hook": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+ "email_hook": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「没做交谈，给了名片 / 054176 47863 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「没做交谈，给了名片 / 054176 47863 已加」；研究档 risks：档口电商、比价为主；ISAF 未交谈；无后续跟进"
+  },
+  "situation": "伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。",
+  "need": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）",
+  "breakpoint": "档口电商、比价为主；ISAF 未交谈；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没做交谈，给了名片 / 054176 47863 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

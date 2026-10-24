@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。（调研 2026-10-21；表内兴趣：商业POE CCTV为主 很多配件；商业POE CCTV为主 很多配件  有ONV的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-04-04 → 2025-10-02）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-050` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复
+- **现状一句话**：西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。
+- **对方真实需求（有据）**：对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
+- **断点 / 为什么停在这里**：6 次群发无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：商业POE CCTV为主 很多配件 有ONV的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Managed Optical Bypass Switch、24 Port PoE Managed Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

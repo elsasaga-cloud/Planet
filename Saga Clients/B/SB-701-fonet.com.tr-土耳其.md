@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-701` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 akgun@fonet.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：IT/电信基础设施集成商（土耳其，项目型） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；研究档 risks：项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复
+- **现状一句话**：土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）
+- **断点 / 为什么停在这里**：项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

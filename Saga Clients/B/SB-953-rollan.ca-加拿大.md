@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：networking 方案商）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → sales@rollan.ca 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-953` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 sales@rollan.ca；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：IT/电信/工业方案商（加拿大） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：CA 主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「networking 方案商」；研究档 risks：业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@
+- **现状一句话**：加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。
+- **对方真实需求（有据）**：方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）
+- **断点 / 为什么停在这里**：业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）
+- **下一步（具体）**：2026-11　A 邮箱 → sales@rollan.ca　短信一问（email_hook）
+  - 第一问（只问一个）：For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | networking 方案商 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 22 封 / 3 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

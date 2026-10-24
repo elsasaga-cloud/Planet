@@ -74,5 +74,55 @@
   "tier": 25,
   "why": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档"
  },
- "email_hook": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity."
+ "email_hook": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 bogdan@omnisecurity.ro；主题多为「24 Port PoE Managed Switch、10G L3 Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "罗马尼亚（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「（用户表字段）」；研究档 risks：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟"
+  },
+  "situation": "罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。",
+  "need": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档",
+  "breakpoint": "规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、10G L3 Managed Switch",
+    "why": "4 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

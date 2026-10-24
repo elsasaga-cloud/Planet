@@ -111,5 +111,55 @@
    "url": "https://www.xlrsecurity.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 info@xlrsecurity.com, jaeden@xlrsecurity.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "安防分销 + 自有交换机品牌 Lysora（OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE」；研究档 risks：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU"
+  },
+  "situation": "加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。",
+  "need": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
+  "breakpoint": "Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "26 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

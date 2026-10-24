@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。（调研 2026-10-21；表内兴趣：用的ONV的 直接带标卖的 还有Comnet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-05-10 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-428` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 costantini@bettinivideo.com, info@bettinivideo.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet） ｜ 筛子：1~2（1 次打开） ｜ 停点：21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「用的ONV的 直接带标卖的 还有Comnet的」；研究档 risks：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌
+- **现状一句话**：意大利 Bettini（360° 视频监控方案；意大利设计制造的 GAMS 品牌录像系统；每年 1000+ 小时培训；在售 ComNet 交换机/MC 与 Milesight；表内「用的 ONV 的，直接带标卖的；还有 ComNet 的」「可以尝试多跟进一下」；KP Walter Bettini（CEO）、Marco Contu（Product Manager）、Giuseppe Costantini（Purchasing Manager））；群发 13 次无回复。
+- **对方真实需求（有据）**：NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet
+- **断点 / 为什么停在这里**：现供 ONV（深圳）贴标，价格基准低；ComNet 为工业线既定品牌
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Marco, for the PoE switches you bundle under the Bettini label with GAMS recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP; DIN-rail industrial option) in your packaging from small lots, CE/RoHS — which port count do your installers order most with GAMS systems?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 用的ONV的 直接带标卖的 还有Comnet的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 21 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

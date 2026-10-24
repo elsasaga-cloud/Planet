@@ -56,5 +56,47 @@
   "tier": 20,
   "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑"
  },
- "email_hook": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?"
+ "email_hook": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 satis@serrackkabin.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "机柜制造商兼网络产品经销（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@"
+  },
+  "situation": "土耳其 Ser Rack Kabinet（19\" 机柜、服务器/数据中心机柜、电信户外柜制造商；站内「Aktif Cihazlar / Switchler」有源设备分类与铜缆/光纤网络产品）；表内 1 次跟进无回复。",
+  "need": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
+  "breakpoint": "主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

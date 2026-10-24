@@ -82,5 +82,55 @@
    "url": "https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@delock.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
+   "type": "德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin」；研究档 risks：快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）"
+  },
+  "situation": "德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。",
+  "need": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE",
+  "breakpoint": "快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的logo MC FS SFP 工业品少 很多是周边产品；https://www.triosoft.fi/p7504-delock-kuitumuunnin-100base-fx-sc-mm-1310-nm-2-km-fi.html",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "16 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

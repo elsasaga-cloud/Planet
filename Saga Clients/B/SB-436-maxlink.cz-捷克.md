@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：捷克 MaxLink（网络元件与配件制造商品牌：WiFi 天线、尾纤、PoE 注入器、PoE 面板、SFP/SFP+ 模块（含 H3C/Cisco 兼容）、PoE 交换机品类；where-to-buy 分销网络；表内「商业 PoE、PoE 配件、自己的 logo、SFP/DAC」「质量高；后边分销商都可以单独跟」；表内无邮箱）；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业POE POE配件 自己的logo SFP DAC等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-436` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「商业POE POE配件 自己的logo SFP DAC等；https://www.maxlink.eu/en/where」）** ｜ 类型：捷克网络配件品牌商（自有 logo，PoE/SFP，OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「商业POE POE配件 自己的logo SFP DAC等；https://www.maxlink.eu/en/where-to-buy；https://www.」；研究档 risks：表内无邮箱：首触前需核实官网联系邮箱（不猜测）
+- **现状一句话**：捷克 MaxLink（网络元件与配件制造商品牌：WiFi 天线、尾纤、PoE 注入器、PoE 面板、SFP/SFP+ 模块（含 H3C/Cisco 兼容）、PoE 交换机品类；where-to-buy 分销网络；表内「商业 PoE、PoE 配件、自己的 logo、SFP/DAC」「质量高；后边分销商都可以单独跟」；表内无邮箱）；表内无跟进记录。
+- **对方真实需求（有据）**：自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）
+- **断点 / 为什么停在这里**：表内无邮箱：首触前需核实官网联系邮箱（不猜测）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业POE POE配件 自己的logo SFP DAC等；https://www.maxlink.eu/en/where-to-buy；https://www.maxlink.eu/en/where-to-buy / 早期ai: 35% B | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

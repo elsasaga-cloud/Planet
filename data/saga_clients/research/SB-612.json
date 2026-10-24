@@ -83,5 +83,55 @@
   "tier": 20,
   "why": "在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线"
  },
- "email_hook": "Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?"
+ "email_hook": "Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ssahin@fotech.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「台湾CTS的工业品 黑盒的MC」；研究档 risks：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充"
+  },
+  "situation": "土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。",
+  "need": "在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线",
+  "breakpoint": "既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "台湾CTS的工业品 黑盒的MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

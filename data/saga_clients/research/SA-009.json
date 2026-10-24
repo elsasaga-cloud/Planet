@@ -49,5 +49,55 @@
   "tier": 25,
   "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示"
  },
- "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
+ "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "中资大厂海外分公司（终端/项目采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20；用户表：「烽火美国分公司 · 收发器/差点成样品单」；研究档 risks：中资大厂分公司，采购走集团渠道；机会型而非渠道型"
+  },
+  "situation": "用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。",
+  "need": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
+  "breakpoint": "中资大厂分公司，采购走集团渠道；机会型而非渠道型",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "烽火美国分公司 · 收发器/差点成样品单",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "20 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

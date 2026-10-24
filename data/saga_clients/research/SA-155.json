@@ -98,5 +98,55 @@
   "tier": 20,
   "why": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次"
  },
- "email_hook": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?"
+ "email_hook": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@gmka.gr；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+   "type": "集成/经销商",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "希腊（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「有时候会用到switch 让发catalog」；研究档 risks：主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复"
+  },
+  "situation": "雅典 Egaleo 的钥匙/锁具/门禁批发进口商 GEMKA – Karydis（1928 年创立的家族企业；2–10 人；Ag. Panteleimonos 8；客户为锁匠、门厂、建筑师事务所与公共建筑；合作品牌 Salto、Silca、Cisa、Eff-Eff、Winkhaus、Keyline、CDVI、Mul-T-Lock 等；设展厅与培训室）。展会（埃森 2024）记录：GM Christos Karydis——「有时候会用到 switch，让发 catalog」；6 次推送 0 回复。行业为机械/电子锁具，网络交换机仅偶发（门禁联网）→ B 低优先。",
+  "need": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次",
+  "breakpoint": "主业锁具，交换机偶发；希腊非主动开拓；6 次推送 0 回复",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "批发 20% 档（低优先）：STI-144GP（DIN 4 PoE + 1 SFP，$34.1）/ STC-28DGGPM（$80.7）用于门禁控制器联网；季度触达一次",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Christos, for the networked Salto/CDVI door controllers your locksmith customers install: a DIN-rail 4-port PoE switch is $34.1 EXW and an 8-port PoE+ managed $80.7 — would a one-page PoE catalogue in English for your showroom be useful?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有时候会用到switch 让发catalog",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
+    "why": "16 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

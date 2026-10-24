@@ -69,5 +69,55 @@
   "tier": 25,
   "why": "HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）"
  },
- "email_hook": "For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?"
+ "email_hook": "For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 sales@systemfabricworks.com；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」）",
+   "type": "HPC 系统集成商（美国，品类边缘）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3；用户表：「Marvell方案」；研究档 risks：品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过"
+  },
+  "situation": "美国 System Fabric Works（高性能分布式计算平台集成商：服务器、存储与网络方案；表内「Marvell 方案」）；表内未跟进。",
+  "need": "HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）",
+  "breakpoint": "品类边缘：HPC 互连（InfiniBand/100G+）非 Saga 品类，仅管理网可对位，契合度低；仅 sales@，未跟进过",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "HPC 主网络（IB/100G）非 Saga 品类 → 管理网/带外网接入位 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）；CENTEC 聚合位 STH 系列（价格待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the management and out-of-band networks in the HPC clusters you integrate, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and CENTEC-based 10G/25G aggregation models from single units, FCC/CE/RoHS, EXW USD — is there a 1G management-switch position you currently fill with a branded product?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Marvell方案",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch",
+    "why": "3 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -80,5 +80,49 @@
   "tier": 25,
   "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）"
  },
- "email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+ "email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；研究档 risks：微型、单量小；需求未表达；无后续跟进"
+  },
+  "situation": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
+  "need": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
+  "breakpoint": "微型、单量小；需求未表达；无后续跟进",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "拿了彩页， 没说要什么产品 / 0542 744 9695 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

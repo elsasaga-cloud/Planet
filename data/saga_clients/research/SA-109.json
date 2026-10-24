@@ -97,5 +97,47 @@
   "tier": 30,
   "why": "OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册"
  },
- "email_hook": "You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?"
+ "email_hook": "You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 carlos@telcam.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "安防/消防分销商",
+   "sieve": "1~2（1 次打开）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；研究档 risks：安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）"
+  },
+  "situation": "伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。",
+  "need": "OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册",
+  "breakpoint": "安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "27 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

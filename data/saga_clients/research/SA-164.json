@@ -89,5 +89,55 @@
   "tier": 20,
   "why": "TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。"
  },
- "email_hook": "Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?"
+ "email_hook": "Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 zohaib@dabos.com；主题多为「Marvell Managed Commercial Switches、Updated Ethernet Switches Links」）",
+   "type": "综合采购/分销平台（非网络专业渠道）",
+   "sieve": "1（只收到群发）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：Trendnet 8电口」；研究档 risks：需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）"
+  },
+  "situation": "美国 Dabos（M. Zohaib Razzaq），需求 Trendnet 8 电口（非管理 8 GE 级）；无跟进。美国主攻区，但需求为低价非管理机。",
+  "need": "TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。",
+  "breakpoint": "需求为 TRENDnet 级非管理 8 口（低价、无 UL 则美国零售受限）",
+  "saga_now": {
+   "p1": "STC-08GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Zohaib, for the TRENDnet-class 8-port gigabit — our unmanaged 8-GE is $10.5 EXW (FCC/CE, no UL) and the 8-PoE + 2-SFP managed $81; is this for resale online or for installs?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：Trendnet 8电口",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Managed Commercial Switches、Updated Ethernet Switches Links",
+    "why": "8 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

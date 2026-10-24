@@ -96,5 +96,55 @@
   "tier": 25,
   "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%"
  },
- "email_hook": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?"
+ "email_hook": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 jean-edmond@exxell.fr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「（用户表字段）」；研究档 risks：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
+  },
+  "situation": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+  "need": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
+  "breakpoint": "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

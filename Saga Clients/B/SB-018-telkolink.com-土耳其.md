@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-018` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@telkolink.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台」；研究档 risks：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
+- **现状一句话**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。
+- **对方真实需求（有据）**：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
+- **断点 / 为什么停在这里**：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www. | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

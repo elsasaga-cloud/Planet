@@ -72,5 +72,55 @@
   "tier": 30,
   "why": "PoEWit 标 PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；注入器/SFP/DAC Saga 不供（Q-32）"
  },
- "email_hook": "Dusan, for the PoE switches in the PoEWit range, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE switch SKU would you want quoted first?"
+ "email_hook": "Dusan, for the PoE switches in the PoEWit range, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE switch SKU would you want quoted first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2025→2026，1 次记录打开，0 回；收件 dusan@poewit.com, sales@poewit.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "PoE 产品品牌商（美国，自有品牌）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「PoE实际应用 injector SFP DAC hi-net的PoE配件等」；研究档 risks：配件类需求（注入器/SFP/DAC）Saga 不供（Q-32）；11 次无回复 → 改向 CEO 具名首触；官网快照空"
+  },
+  "situation": "美国 PoEWit（PoE 产品品牌：PoE 实际应用、注入器、SFP、DAC、Hi-Net PoE 配件；表内「可以尝试多跟进一下」；KP Dusan Jankov（CEO））；群发 11 次无回复。",
+  "need": "PoEWit 标 PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；注入器/SFP/DAC Saga 不供（Q-32）",
+  "breakpoint": "配件类需求（注入器/SFP/DAC）Saga 不供（Q-32）；11 次无回复 → 改向 CEO 具名首触；官网快照空",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoEWit 标 PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；注入器/SFP/DAC Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Dusan, for the PoE switches in the PoEWit range, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE switch SKU would you want quoted first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE实际应用 injector SFP DAC hi-net的PoE配件等",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "21 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

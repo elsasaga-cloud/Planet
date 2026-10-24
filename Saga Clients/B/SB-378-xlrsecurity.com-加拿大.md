@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。（调研 2026-10-21；表内兴趣：FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-01 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-378` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 info@xlrsecurity.com, jaeden@xlrsecurity.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：安防分销 + 自有交换机品牌 Lysora（OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：CA 主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26；用户表：「FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE」；研究档 risks：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU
+- **现状一句话**：加拿大多伦多 XLR Security（面向全加拿大安装商/经销商的安防设备供应商；Uniview 为主（词频 86）、Ruijie；自有云管理交换机品牌 Lysora（站内教程「Lysora Cloud」，型号 PN-D7012-8P-120 / PN-D7020-16P-250 / PN-D7028-24P-360）；表内「FS 主要是 CCTV，在用 Itoonertech 商业 PoE」；KP Jaeden Wiens（Founder，jaeden@）、June Wang（Project Coordinator））；群发 16 次无回复。
+- **对方真实需求（有据）**：自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版
+- **断点 / 为什么停在这里**：Lysora 为云管理交换机：Saga 不做云管理，只能覆盖本地管理 SKU
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，按主表（研究档 saga_fit））——自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Jaeden, for the Lysora PoE range (8/16/24-port), we build Marvell-based L2+ PoE+ switches under your label from small lots — local web/CLI managed rather than cloud — with a PoE watchdog for camera sites; would a non-cloud managed version fit a tier of your range, and which port count first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | FS 主要是CCTV；FS 主要是CCTV 在用Itoonertech商业POE | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 26 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

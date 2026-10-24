@@ -72,5 +72,49 @@
   "tier": 30,
   "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）"
  },
- "email_hook": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?"
+ "email_hook": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「POE switch 自己的logo 就这一款工业级的 摄像头，安防」）",
+   "type": "美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「POE switch 自己的logo 就这一款工业级的 摄像头，安防」；研究档 risks：DTC 品牌：现有深圳代工价格基准低"
+  },
+  "situation": "美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。",
+  "need": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
+  "breakpoint": "DTC 品牌：现有深圳代工价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE switch 自己的logo 就这一款工业级的 摄像头，安防",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

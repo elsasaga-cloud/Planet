@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。（调研 2026-10-21；表内兴趣：40个 24口POE交换机 distributor）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1196` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「40个 24口POE交换机 distributor」）** ｜ 类型：采购中介/分销商（法国，24 口 PoE ×40 询盘） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）
+- **现状一句话**：法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。
+- **对方真实需求（有据）**：询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）
+- **断点 / 为什么停在这里**：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 40个 24口POE交换机 distributor | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

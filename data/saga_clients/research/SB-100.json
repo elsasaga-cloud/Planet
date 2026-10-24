@@ -74,5 +74,55 @@
   "tier": 30,
   "why": "PoE 现由 Utepo/HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Balter 标作管理型上位"
  },
- "email_hook": "For the Balter-branded PoE switches that ship with your camera and door-intercom kits, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS — would a managed step-up suit your larger installations?"
+ "email_hook": "For the Balter-branded PoE switches that ship with your camera and door-intercom kits, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, CE/RoHS — would a managed step-up suit your larger installations?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 support@balter.de；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
+   "type": "德国安防自有品牌商（PoE 部分由 HRUI 供货 → Q-33 口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 21；用户表：「UTEPO的 也有洪瑞的poE 自己的logo」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+  },
+  "situation": "德国 Balter（自有品牌专业视频监控、可视门禁与报警产品；表内「Utepo 的，也有洪瑞（HRUI）的 PoE；自己的 logo」；邮箱 support@）；群发 8 次无回复。",
+  "need": "PoE 现由 Utepo/HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Balter 标作管理型上位",
+  "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 现由 Utepo/HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Balter 标作管理型上位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "UTEPO的 也有洪瑞的poE 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
+    "why": "21 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

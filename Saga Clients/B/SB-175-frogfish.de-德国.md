@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 洪瑞的商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-30 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-175` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 23 封 2024→2026，其中 4 封被打开，0 回；收件 info@frogfish.de；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：DE 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 23，Opened 标签 4（Simon 群发追踪）；用户表：「主要是CCTV 洪瑞的商业PoE」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供
+- **现状一句话**：德国 frogfish surveillance GmbH（「personalize your security」CCTV 品牌：Bullet/Fisheye/PTZ Premium 摄像机、安防机器人；自有标 8 口 PoE + 2 SFP / 16 口 PoE + 1 SFP / 24 口 PoE + 2 SFP、PoE 注入器；表内「主要是 CCTV 洪瑞（HRUI）的商业 PoE」「可以着重跟一下」）；群发 14 次无回复。
+- **对方真实需求（有据）**：现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）
+- **断点 / 为什么停在这里**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；PoE 注入器 Saga 不供
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 主要是CCTV 洪瑞的商业PoE | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 23 封 / 4 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

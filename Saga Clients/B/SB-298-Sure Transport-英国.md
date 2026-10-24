@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。（调研 2026-10-21；表内兴趣：需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公司信息）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书；$18.5 USD EXW（30% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-298` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 callum@sure24.co.uk, sales@sure24.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书」；研究档 risks：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
+- **现状一句话**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。
+- **对方真实需求（有据）**：OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书
+- **断点 / 为什么停在这里**：车载需 E-mark（E/e 标）与振动（ISO 16750）证明——需 SmartByte 提供；公共交通（巴士）非轨道，不在守界；18 次跟进 0 回复
+- **Saga 现在该推什么**：P1 **STI-050GE**（30% 档，按主表（研究档 saga_fit））——OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

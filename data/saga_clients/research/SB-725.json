@@ -81,5 +81,55 @@
   "tier": 25,
   "why": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）"
  },
- "email_hook": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?"
+ "email_hook": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 foerster@pandacom.de, klein@pandacom.de；主题多为「Updated Ethernet Switches Links、Industrial PoE Switch」）",
+   "type": "传输网络系统商（德国，WDM 自研；交换机为配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 7；用户表：「Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153」；研究档 risks：主业 WDM/传输（自研）：交换机仅配套，契合度低"
+  },
+  "situation": "德国 Pan Dacom Direkt GmbH（法兰克福附近复杂传输网络专家：WDM 方案（SPEED-OTS-5000）、微波、收发器、加密，「Made in Germany」；表内「Networking / WDM 讲解比较专业 / WDM SFP Switch 等」；KP Markus Förster（VP Productmanagement，foerster@））；表内 2 次跟进无回复。",
+  "need": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）",
+  "breakpoint": "主业 WDM/传输（自研）：交换机仅配套，契合度低",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "WDM/传输主业，交换机为配套 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）作接入配套；SFP/DAC Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Markus, for the access-layer switches that accompany your WDM and transmission projects, we supply Marvell-based 24-GE + 4×10G L2+ units (PoE+ option) from small lots, CE/RoHS, neutral packing — is there a port configuration your project teams keep sourcing separately?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Networking；WDM 讲解比较专业；WDM SFP Switch等；M 49 151 58023 153",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Updated Ethernet Switches Links、Industrial PoE Switch",
+    "why": "7 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

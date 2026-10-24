@@ -99,5 +99,55 @@
    "url": "https://solpakutec.com/en/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 d.prieth@solpakutec.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+   "type": "工业定制方案小商（意大利，ICP DAS 工业 FS）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「工业FS（ISPDAS这个牌子的）」；研究档 risks：小型定制商：量小"
+  },
+  "situation": "意大利 Solpakutec（「Smart products for smart industry」：定制软硬件开发、工业产品测试交付；站内 ICP DAS NS-205G / NSM-205GP；表内「工业 FS（ICP DAS 这个牌子的）」；KP Dominik Prieth（Founder，d.prieth@））；群发 6 次无回复。",
+  "need": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
+  "breakpoint": "小型定制商：量小",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Dominik, next to the ICP DAS NS-205 / NSM-205GP switches you build into your systems, we supply Marvell-based DIN-rail 5-port gigabit and 4-PoE + 1 industrial units (−40~75 °C, CE/RoHS, neutral packing) from single units — which of the two do you use more often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS（ISPDAS这个牌子的）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

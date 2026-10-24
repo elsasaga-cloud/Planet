@@ -39,5 +39,40 @@
   "why": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类"
  },
  "grade_override": null,
- "override_reason": ""
+ "override_reason": "",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "电信设备制造商 / 品牌商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0"
+  },
+  "situation": "法国电信设备制造商 / 品牌商。2024-05-30 COO Marco Di Valerio 回群发索要 10G 媒体转换器规格书，Simon 报 $65/pc；之后 4 次群发无回。S 邮箱 1 进 5 出。",
+  "need": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类",
+  "breakpoint": "未触达",
+  "saga_now": {
+   "p1": "STC-110XGE（10G MC，价格主表无 → 按最近报价 $65 口径，待厂确认）",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

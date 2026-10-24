@@ -103,5 +103,55 @@
    "url": "https://www.ibdglobal.com/en",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@ibdglobal.com, jbalaguer@iptecno.com；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」）",
+   "type": "专业安防分销商（西班牙，Utepo / TP-Link PoE）",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「有Utepo的」；研究档 risks：Dahua/TP-Link 既定货源：白牌需靠价差与贴标"
+  },
+  "situation": "西班牙 IBD Global / IPtecno（面向安装商与集成商的专业安防分销：视频监控、入侵、门禁、消防、工程与技术支持；Dahua / TP-Link（SG3452XMPP、EAP660）/ Teltonika / Bosch / Ajax；表内「有 Utepo 的」；KP Jordi Bassa（Owner，jordi@iptecno.com）、Joan Balaguer（Projects & Solutions Director））；表内 2 次跟进无回复。",
+  "need": "在售 Utepo / TP-Link PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；48 口位（对位 SG3452XMPP）STC-448XGGPM（$335.4）",
+  "breakpoint": "Dahua/TP-Link 既定货源：白牌需靠价差与贴标",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Utepo / TP-Link PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；48 口位（对位 SG3452XMPP）STC-448XGGPM（$335.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Jordi, alongside the Utepo and TP-Link PoE switches you distribute to installers, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24/48-PoE + 4×10G units from small lots, CE/RoHS, EXW USD — which band do your Dahua projects use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -102,5 +102,49 @@
    "url": "https://www.dowtechnologies.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
+   "type": "分销商（AV / 安防 / 网络，面向集成商）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：区域性分销商（有培训/营销体系）：引入新白牌需走品类评审"
+  },
+  "situation": "美国坦帕分销商 DOW Technologies（Technology Distribution & Logistics：AV / 车载 / 安防 / 网络分销，面向集成商，提供培训与营销支持；站内 Ubiquiti USW-Pro-Max-48、Luxul 8 口 PoE 管理、Intellinet 8 口 PoE、AVPro MXNet 10G 交换机；表内「主要是 CCTV，少量商业 PoE」）；表内无跟进记录。",
+  "need": "在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM",
+  "breakpoint": "区域性分销商（有培训/营销体系）：引入新白牌需走品类评审",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 少量商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

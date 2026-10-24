@@ -55,5 +55,47 @@
   "tier": 25,
   "why": "企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）"
  },
- "email_hook": "For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?"
+ "email_hook": "For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 bilgi@arbybilgisayar.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "企业 IT 服务商（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：IT 服务商（硬件为附带采购，量小）；土耳其汇率敏感；仅 bilgi@，1 次无回复"
+  },
+  "situation": "土耳其 Arby Bilgisayar（伊斯坦布尔企业 IT 维护合约与 IT 支持公司，22 年经验，端到端企业方案与系统管理）；表内 1 次跟进无回复。",
+  "need": "企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）",
+  "breakpoint": "IT 服务商（硬件为附带采购，量小）；土耳其汇率敏感；仅 bilgi@，1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the access switches you deploy under corporate IT maintenance contracts, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which switch position comes up most in your Istanbul client sites?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

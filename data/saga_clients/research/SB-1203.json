@@ -72,5 +72,49 @@
   "tier": 20,
   "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做"
  },
- "email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?"
+ "email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业FS 光猫 一小部分 多数还是其他的」）",
+   "type": "小型 IoT 组件网店（USR 为主）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "斯洛伐克（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「工业FS 光猫 一小部分 多数还是其他的」；研究档 risks：小网店，产品少，量小"
+  },
+  "situation": "斯洛伐克 IOT Components（iotkomponenty.sk；USR IoT（PUSR）蜂窝路由/串口服务器网店 USR-G781 / G806 / SDR 系列；表内「工业 FS、光猫一小部分，多数还是其他的」「产品不是很多」）；表内无跟进记录。",
+  "need": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做",
+  "breakpoint": "小网店，产品少，量小",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 光猫 一小部分 多数还是其他的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

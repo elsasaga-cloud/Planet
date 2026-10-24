@@ -81,5 +81,49 @@
    "url": "https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtec」）",
+   "type": "英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-swi」；研究档 risks：消费级家用套装：价格基准极低，PoE 交换机为赠品级配件"
+  },
+  "situation": "英国 Zxtech（家用安防摄像系统品牌：5MP/4K/12MP IP 与模拟套装、PoE 摄像机；经 domar.com 销售「Zxtech 6-Port 10/100M Switch with 4-Port PoE」；表内「CCTV 为主，有 PoE switch 但网站上没找到」「质量一般」）；表内无跟进记录。",
+  "need": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）",
+  "breakpoint": "消费级家用套装：价格基准极低，PoE 交换机为赠品级配件",
+  "saga_now": {
+   "p1": "STC-204GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

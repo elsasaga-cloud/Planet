@@ -35,10 +35,24 @@ updated: 2026-10-24
 - **是谁**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。（调研 2026-10-21；表内兴趣：general information network business solutions）
 - **为什么是 B 级**：**调研后定级 B**（爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 19 次（2024-01-23 → 2025-10-02）；最近一次客户回复：2025-02-27：有工业mini pc？
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-129` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：IT/网络服务商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：爱沙尼亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索
+- **现状一句话**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。
+- **对方真实需求（有据）**：ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档
+- **断点 / 为什么停在这里**：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

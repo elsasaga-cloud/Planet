@@ -68,5 +68,55 @@
   "tier": 20,
   "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
  },
- "email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
+ "email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 21 封 2024→2026，其中 3 封被打开，0 回；收件 jbowman@arcdyn.com, support@arcdyn.com；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 21，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 商业PoE PoE extender」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
+  "need": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → jbowman@arcdyn.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "21 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

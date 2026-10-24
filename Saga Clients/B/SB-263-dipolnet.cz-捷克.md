@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。（调研 2026-10-21；表内兴趣：switch 展示页很多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-263` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 dipolnet@t-cz.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19；用户表：「兴趣：switch 展示页很多」；研究档 risks：采购权在波兰总部；8 次群发无回复
+- **现状一句话**：DIPOL 集团捷克站（IP CCTV、WLAN、SAT TV、TP-Link、线缆；Hikvision、Dahua；switch 136 / poe 114 / cctv 108；+420 734 310 460）；表内「switch 展示页很多；可多跟进」；群发 8 次无回复。与 SB-1178 DIPOL 葡萄牙同集团（波兰总部采购）。
+- **对方真实需求（有据）**：CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。
+- **断点 / 为什么停在这里**：采购权在波兰总部；8 次群发无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Dobrý den — for the switch pages on dipolnet.cz: Marvell L2+ 8-PoE + 2-SFP at $81 EXW with CZ/EU files; is switch sourcing decided locally or at DIPOL headquarters in Poland?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：switch 展示页很多 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 19 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

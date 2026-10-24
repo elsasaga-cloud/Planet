@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：MC 工业MC 很多牌子的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1143` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 工业MC 很多牌子的」）** ｜ 类型：MC 多品牌经销商（荷兰） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业MC 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过
+- **现状一句话**：荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。
+- **对方真实需求（有据）**：MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位
+- **断点 / 为什么停在这里**：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；未跟进过
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC 工业MC 很多牌子的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

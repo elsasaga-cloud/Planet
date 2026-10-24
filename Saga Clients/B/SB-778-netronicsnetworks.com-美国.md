@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 Netronics Networks（无线宽带/点对点微波与监控传输方案品牌，10G 无线、FIPS-197；表内「推 PoE」）；表内未跟进。（调研 2026-10-21；表内兴趣：推PoE）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-778` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@netronicsnetworks.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：无线传输设备品牌商（美国，PoE 为配套） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「推PoE」；研究档 risks：PoE 为无线方案配套（量随项目）；未跟进过，仅 info@
+- **现状一句话**：美国 Netronics Networks（无线宽带/点对点微波与监控传输方案品牌，10G 无线、FIPS-197；表内「推 PoE」）；表内未跟进。
+- **对方真实需求（有据）**：无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）
+- **断点 / 为什么停在这里**：PoE 为无线方案配套（量随项目）；未跟进过，仅 info@
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 推PoE | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

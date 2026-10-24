@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。（调研 2026-10-21；表内兴趣：拿了彩页，没说什么）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-740` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「拿了彩页，没说什么 / 90 53231 57258 已加」；研究档 risks：小型；ISAF 未表达需求；无后续跟进
+- **现状一句话**：布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。
+- **对方真实需求（有据）**：安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
+- **断点 / 为什么停在这里**：小型；ISAF 未表达需求；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 拿了彩页，没说什么 / 90 53231 57258 已加 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

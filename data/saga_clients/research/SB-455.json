@@ -87,5 +87,55 @@
   "tier": 20,
   "why": "PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS"
  },
- "email_hook": "Richard, next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?"
+ "email_hook": "Richard, next to the PLANET PoE range you distribute, we supply Marvell-based 24-PoE L2+ (4 SFP) and 8-PoE + 2 SFP switches in neutral packing from small lots, CE/RoHS — which PLANET port count do your installers pull most, so we quote the matching model first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hemzal@asm.cz；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "ICT 分销商（PLANET 捷克渠道，面向安装商/SI）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；研究档 risks：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入"
+  },
+  "situation": "捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。",
+  "need": "PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS",
+  "breakpoint": "PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "25 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

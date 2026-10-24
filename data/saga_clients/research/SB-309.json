@@ -92,5 +92,55 @@
   "tier": 30,
   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）"
  },
- "email_hook": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?"
+ "email_hook": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 aaron@enetusa.com, gordon@enetusa.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "光模块/线缆品牌商（美国，MC 为副线）",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「MC cabling 自己的logo」；研究档 risks：主业光模块/线缆（Saga 不供）：MC 为副线，契合度低"
+  },
+  "situation": "美国 ENETUSA（OEM 兼容光模块、DAC、AOC（至 1.6T OSFP）、光纤线缆组件，面向 AI/HPC 与超大规模；表内「MC cabling 自己的 logo」「可以尝试多跟进一下」；KP Jason Barrette（CEO）、Gordon Judson（Product Manager）、Aaron S（Purchasing Manager））；群发 10 次无回复。",
+  "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）",
+  "breakpoint": "主业光模块/线缆（Saga 不供）：MC 为副线，契合度低",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 贴 ENET 标；桌面 MC 用 HRUI（列表价，注明）；光模块/DAC Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Gordon, for the media converters carried under the ENET label alongside your transceivers and cable assemblies, we can supply industrial gigabit and PoE MCs (and 8-GE + 2 SFP switches) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most with fibre links?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC cabling 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "22 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

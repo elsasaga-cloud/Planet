@@ -76,5 +76,55 @@
   "tier": 20,
   "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）"
  },
- "email_hook": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?"
+ "email_hook": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 ctservicemolise@gmail.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+   "type": "个体安防安装商兼网店（意大利南部）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE ONV的」；研究档 risks：个体商户（gmail 联系），采购量小"
+  },
+  "situation": "意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。",
+  "need": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）",
+  "breakpoint": "个体商户（gmail 联系），采购量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业PoE ONV的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "21 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

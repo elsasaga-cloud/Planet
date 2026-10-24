@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,27 @@ updated: 2026-10-23
 - **是谁**：波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。（调研 2026-10-21；表内兴趣：买了2个模块+1个MC 50Euros）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+8 区域 欧洲/波兰；-10 来源为 2010–2015 年展会且无后续记录
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-280DGGM — 深挖对位：工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）；$130.8 USD EXW（25% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-421` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 42810730@pro.onet.pl；主题多为「5 port industrial switch、24 port poe switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「买了2个模块+1个MC 50Euros … 4834/3661300 加不上」；研究档 risks：单量小；WhatsApp 加不上；0 次跟进记录
+- **现状一句话**：波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。
+- **对方真实需求（有据）**：工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）
+- **断点 / 为什么停在这里**：单量小；WhatsApp 加不上；0 次跟进记录
+- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit））——工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 买了2个模块+1个MC 50Euros … 4834/3661300 加不上 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 5 port industrial switch、24 port poe switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -204,12 +221,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：BIDI千兆光模块）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-25 → 2025-09-15）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-201` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 fojt@rectec.cz；主题多为「Booster PoE Switch、OEM Core Switching Solution」）** ｜ 类型：工业自动化/回收线集成商（捷克，光模块 RFQ） ｜ 筛子：1（只收到群发） ｜ 停点：14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴」；研究档 risks：RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复
+- **现状一句话**：捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。
+- **对方真实需求（有据）**：RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）
+- **断点 / 为什么停在这里**：RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | BIDI千兆光模块；420 - 608 - 767676；420 - 608 - 767676 2023年使用国际站；BIDI千兆光模块 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Booster PoE Switch、OEM Core Switching Solution | 14 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

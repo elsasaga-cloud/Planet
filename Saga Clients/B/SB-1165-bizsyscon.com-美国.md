@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：圣路易斯郊区的微型 WISP 分销商，自有品牌 Lysora，PLANET 是其工业 PoE 货源之一。类型：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora。信号：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家。Planet 渠道档案 PB-022 评级 B（需求：PLANET + 自有品牌；触达 sales@ 通用（具名 Joseph Barros / James Shaw / Nijaz Mustedanagic 邮箱被遮蔽）；体量微型；Mikrotik A-532 同户——本仓不重复首触，B 并档）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1165，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：planet  POE延长器）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-488DGGPM — 深挖对位：同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：；$147.1 USD EXW（20% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1165` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@bizsyscon.com；主题多为「24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：US 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1；研究档 risks：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM
+- **现状一句话**：圣路易斯郊区的微型 WISP 分销商，自有品牌 Lysora，PLANET 是其工业 PoE 货源之一。类型：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora。信号：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家。Planet 渠道档案 PB-022 评级 B（需求：PLANET + 自有品牌；触达 sales@ 通用（具名 Joseph Barros / James Shaw / Nijaz Mustedanagic 邮箱被遮蔽）；体量微型；Mikrotik A-532 同户——本仓不重复首触，B 并档）。并档说明：该公司同时出现在 Saga 既有客户表
+- **对方真实需求（有据）**：同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：
+- **断点 / 为什么停在这里**：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM
+- **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，按主表（研究档 saga_fit））——同位其在售 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销 20%；Lysora 贴牌另按 30%（沿用 Planet 档案 PB-022）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

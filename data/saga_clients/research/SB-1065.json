@@ -74,5 +74,55 @@
   "tier": 20,
   "why": "网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE"
  },
- "email_hook": "Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?"
+ "email_hook": "Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 5 封 2024，无记录打开，0 回；收件 sklep@dmtrade.pl；主题多为「10G managed switch、industrial fiber switch」）",
+   "type": "电子产品电商（波兰，多品类）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,1826」；研究档 risks：多品类电商（电动桌/翻译机等）：网络设备非主业，量小"
+  },
+  "situation": "波兰 DMTrade.pl（电子产品网店：TV-SAT / CCTV 监控 / 智能家居 / Spacetronik 电动桌 / 办公设备；表内「宇航的工业 FS，买的 Cudy 的牌子」= 现卖 Cudy 与深圳白牌）；表内无跟进记录。",
+  "need": "网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE",
+  "breakpoint": "多品类电商（电动桌/翻译机等）：网络设备非主业，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,182629,182960,182961,393686,700325,702859,18",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "10G managed switch、industrial fiber switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

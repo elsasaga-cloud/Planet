@@ -90,5 +90,55 @@
   "tier": 20,
   "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）"
  },
- "email_hook": "Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?"
+ "email_hook": "Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 eric@futurereadysolutions.com, info@futurereadysolutions.com；被打开主题「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+   "type": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "US 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户」；研究档 risks：PLANET / ROBOfiber 既定货源：白牌需靠价差"
+  },
+  "situation": "美国 Future Ready Solutions（面向住宅/商用集成商的连接产品分销，「TRUSTED BY MORE THAN 3,000 INTEGRATION PROS」：Cleerline 光纤、ROBOfiber、PLANET（23）、AVPro、工业硬化交换机栏目、10G/2.5G、PoE 注入器；表内「MC / SFP / 工业 FS；光路客户」；KP Eric Bodley（CEO，eric@）、Lawrence Davis（VP Business Development））；群发 18 次无回复。",
+  "need": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）",
+  "breakpoint": "PLANET / ROBOfiber 既定货源：白牌需靠价差",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "29 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

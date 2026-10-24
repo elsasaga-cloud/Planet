@@ -55,5 +55,49 @@
   "tier": 30,
   "why": "自有 Lanberg 标 PoE/商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8/16 口位 HRUI（列表价，注明）"
  },
- "email_hook": "For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?"
+ "email_hook": "For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?",
+ "mail_review": {
+  "binding": {
+   "level": "同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt",
+   "type": "波兰 IT 配件品牌（Lanberg；Impakt S.A. 旗下，OEM 采购，体量大）",
+   "sieve": "2（support@ 读信并内部转交）",
+   "stop": "support@ 不是采购；真正的对口在 Impakt（SA-076 已有绑定线）",
+   "revive": "并入 SA-076 跟进，不单独群发",
+   "lane": "PL 次级（但 OEM 品牌商 = 目标第一档）",
+   "cadence": "随 SA-076",
+   "evidence": "E 邮箱 index_replied 2025-08-25 support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl；A 邮箱 out 19 / 0 回"
+  },
+  "situation": "Lanberg 是 Impakt 的自有品牌；A 邮箱对 lanberg.pl 群发 19 封无回，E 邮箱在 2025-08-25 收到 support@lanberg.pl 的回复，内容是把 Saga 的 90W PoE 信转给 Impakt 的 Łukasz Gąsiewicz。这说明两户是同一个采购体系。",
+  "need": "见 SA-076。",
+  "breakpoint": "双档并行。",
+  "saga_now": {
+   "p1": "STC-28DGGPM（研究档）",
+   "tier": 30,
+   "price": "按主表 OEM 30% 档",
+   "why": "自有品牌 + 体量",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "随 SA-076",
+   "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl",
+   "action": "并档；不再对 support@lanberg.pl 群发",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-08-25",
+    "dir": "来（E 邮箱）",
+    "who": "Support Lanberg",
+    "quote": "RE: [EXTERNAL] 90W PoE Managed Switch（转 lukasz.gasiewicz@impakt.com.pl）",
+    "why": "Lanberg 采购在 Impakt",
+    "k": "gmail_e/index_replied"
+   }
+  ],
+  "proof_gaps": [
+   "E 邮箱该信正文未入库（仅索引）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

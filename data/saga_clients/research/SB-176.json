@@ -47,5 +47,49 @@
   "tier": 25,
   "why": "终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）"
  },
- "email_hook": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?"
+ "email_hook": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2个工业90W PoE injector样品 2010年使用国际站」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "爱尔兰（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「2个工业90W PoE injector样品 2010年使用国际站」；研究档 risks：个体、单量小"
+  },
+  "situation": "爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。",
+  "need": "终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）",
+  "breakpoint": "个体、单量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2个工业90W PoE injector样品 2010年使用国际站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

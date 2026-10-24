@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：销售平台 工商业 台湾厂商的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → j.drbohlav@schrack.cz 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-732` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 j.drbohlav@schrack.cz, j.mynar@schrack.cz；被打开主题「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）** ｜ 类型：电气材料集团分销商（捷克，自有标网络线来自台湾 ODM） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「销售平台 工商业 台湾厂商的」；研究档 risks：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复
+- **现状一句话**：捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。
+- **对方真实需求（有据）**：Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）
+- **断点 / 为什么停在这里**：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）
+- **下一步（具体）**：2026-11　A 邮箱 → j.drbohlav@schrack.cz　短信一问（email_hook）
+  - 第一问（只问一个）：Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 销售平台 工商业 台湾厂商的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Managed Optical Bypass Switch、8 Port Industrial PoE Switch | 12 封 / 3 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -72,5 +72,49 @@
   "tier": 25,
   "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）"
  },
- "email_hook": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
+ "email_hook": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进"
+  },
+  "situation": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
+  "need": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
+  "breakpoint": "ISAF 仅交换名片、需求未表达；无后续跟进",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

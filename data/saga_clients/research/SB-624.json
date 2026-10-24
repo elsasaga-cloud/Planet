@@ -97,5 +97,49 @@
   "tier": 20,
   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）"
  },
- "email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
+ "email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；研究档 risks：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
+  },
+  "situation": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
+  "breakpoint": "已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

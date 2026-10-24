@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。（调研 2026-10-21；表内兴趣：想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-054` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；研究档 risks：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
+- **现状一句话**：土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。
+- **对方真实需求（有据）**：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
+- **断点 / 为什么停在这里**：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -66,5 +66,49 @@
   "tier": 20,
   "why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
  },
- "email_hook": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
+ "email_hook": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业FS antaria的 很多牌子的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业FS antaria的 很多牌子的」；研究档 risks：无具名；无跟进"
+  },
+  "situation": "德国服务器 / 工控机 / 面板 PC / 条码 / POS 系统商（switch 220 / industrial 163 / poe 154 / sfp 62），vertrieb@；表内「工业 FS Antaira 的，很多牌子的；质量一般」；无跟进。",
+  "need": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+  "breakpoint": "无具名；无跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Antaira 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Guten Tag — for the Industrial-Ethernet category beside Antaira: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; who is the product manager for networking at ICO?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业FS antaria的 很多牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

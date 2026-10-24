@@ -77,5 +77,55 @@
   "tier": 25,
   "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）"
  },
- "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?"
+ "email_hook": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 justin@kyber-e.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+   "type": "工程套件小厂（美国，5 口交换机配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「5电口」；研究档 risks：小厂配套（量小）；8 次无回复"
+  },
+  "situation": "美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。",
+  "need": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
+  "breakpoint": "小厂配套（量小）；8 次无回复",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "5电口",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

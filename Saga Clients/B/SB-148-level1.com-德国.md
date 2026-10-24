@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：MC 工业FS FS 自己的标 Peter产品已经做进去了）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2024-05-09 → 2025-03-14）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-148` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 saeid.habibi@ddc-group.com；主题多为「16 Port PoE Managed Switch、Managed Optical Bypass Switch」）** ｜ 类型：网络品牌商（LevelOne，OEM 采购；已有在供厂商） ｜ 筛子：1（只收到群发） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处」；研究档 risks：已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径
+- **现状一句话**：德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。
+- **对方真实需求（有据）**：LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE
+- **断点 / 为什么停在这里**：已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 16 Port PoE Managed Switch、Managed Optical Bypass Switch | 8 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

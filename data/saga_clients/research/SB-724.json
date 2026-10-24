@@ -73,5 +73,55 @@
   "tier": 20,
   "why": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?"
+ "email_hook": "For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 kontakt@noxel.pl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "安防网店（波兰，Dahua 为主）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10；用户表：「Cudy的；销售平台」；研究档 risks：Dahua 为主的网店：PoE 多随 Dahua 套装走"
+  },
+  "situation": "波兰 Noxel.pl（IP 监控网店：IP 摄像机 / 录像机 / 机柜 / UPS / 热成像 / 可视对讲；Dahua 词频 356（Dahua 为主）；表内「Cudy 的，销售平台，质量一般」）；表内 1 次跟进无回复。",
+  "need": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "Dahua 为主的网店：PoE 多随 Dahua 套装走",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Dahua 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE switches behind your Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS — which band do your installer customers buy most, unmanaged or managed PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Cudy的；销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "10 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

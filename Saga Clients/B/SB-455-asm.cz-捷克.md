@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。（调研 2026-10-21；表内兴趣：POE　FS　光模块　CVI　SDI　同轴  工业FS等；POE　FS　光模块　CVI　SDI　同轴  工业FS等 很多都是Planet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-455` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hemzal@asm.cz；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：ICT 分销商（PLANET 捷克渠道，面向安装商/SI） ｜ 筛子：1~2（1 次打开） ｜ 停点：25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的」；研究档 risks：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入
+- **现状一句话**：捷克布尔诺 ASM 100MEGA Distribution spol. s r.o.（「数据与电信网络供应商」：面向安装公司与系统集成商的 ICT 分销，提供专业培训；站内 PLANET 词频 61（表内「很多都是 Planet 的」）、Dahua 105、Hikvision 60、TP-Link；表内兴趣 PoE FS / 光模块 / CVI / SDI / 同轴 / 工业 FS；KP Richard Hemzal（Purchasing，hemzal@））；群发 16 次无回复。
+- **对方真实需求（有据）**：PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS
+- **断点 / 为什么停在这里**：PLANET 正规分销：白牌只能作第二价格线，需以交期/价格切入
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——PLANET 分销商 → Saga 作「PLANET 同口型的价格线」：24 口 PoE L2+ STC-424DGGPM-280W（$134.5 @20%）对位 PLANET GS-4210-24P4C；8 口位 STC-28DGGPM；工业位 STI-288GP 对位 PLANET IGS
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 25 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

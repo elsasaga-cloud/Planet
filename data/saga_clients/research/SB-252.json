@@ -73,5 +73,49 @@
   "tier": 25,
   "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）"
  },
- "email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
+ "email_hook": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会说英语， 拿了彩页 / Gokhan naktar」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「不会说英语， 拿了彩页 / Gokhan naktar」；研究档 risks：语言（土耳其语）；需求未表达；无后续跟进"
+  },
+  "situation": "安塔利亚的安防/网络技术公司 Antalya Turkuaz Bilişim（25+ 年行业经验；11–50 人（ZoomInfo）；业务：AI 分析/人脸/车牌/热成像安防工程、企业网络基础设施（光纤熔接、结构化布线、机柜、Wi-Fi Mesh）、火灾报警、网络安全；B2B 订货门户 b2b.antalyaturkuaz.com；自述「全球品牌产品分销」；Altındağ Mah. 166. Sok. Doğan Apt. No:24/C Muratpaşa；+90 242 345 36 91；turkuaz@antalyaturkuaz.com）。ISAF 记录：Gökhan Naktar——不会说英语，拿了彩页；无后续跟进。",
+  "need": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+  "breakpoint": "语言（土耳其语）；需求未表达；无后续跟进",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作 AI 摄像接入；24 口 STC-424DGGPM-280W（$140.1）；工业现场 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Gökhan Bey, ISAF'ta aldığınız broşürdeki 2 SFP + 8 port PoE+ L2+ switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD; B2B portalınızda listelemek için nötr kutulu 10 adetlik deneme partisi hazırlayayım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "不会说英语， 拿了彩页 / Gokhan naktar",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

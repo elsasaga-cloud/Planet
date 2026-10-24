@@ -66,5 +66,55 @@
   "tier": 20,
   "why": "同 SB-391：STI-288GPM（$78.9 @20%）。"
  },
- "email_hook": "（与 SB-391 合并跟进，勿重复发送）"
+ "email_hook": "（与 SB-391 合并跟进，勿重复发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@alidex.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「兴趣：很多Oring的;很多牌子的 分销商」；研究档 risks：仅 info@"
+  },
+  "situation": "ALIDEX 西班牙站（与 SB-391 alidex.it 同一公司），工业网络 / IoT / OT 安全分销（ORing 为主）；表内「很多 ORing 的，很多牌子的分销商」；群发 1 次。联系与报价统一在 SB-391 处理。",
+  "need": "同 SB-391：STI-288GPM（$78.9 @20%）。",
+  "breakpoint": "仅 info@",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "同 SB-391：STI-288GPM（$78.9 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：很多Oring的;很多牌子的 分销商",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Booster PoE Switch、Optional Marvell Chipset Solutions",
+    "why": "11 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

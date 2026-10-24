@@ -70,5 +70,55 @@
   "tier": 20,
   "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。"
  },
- "email_hook": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?"
+ "email_hook": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2025→2026，1 次记录打开，0 回；收件 sales@aceonline.co.uk, shaun@oxfordaerials.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：商业PoE 也有tplink的」；研究档 risks：10 次群发无回复；UKCA"
+  },
+  "situation": "英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。",
+  "need": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。",
+  "breakpoint": "10 次群发无回复；UKCA",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：商业PoE 也有tplink的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

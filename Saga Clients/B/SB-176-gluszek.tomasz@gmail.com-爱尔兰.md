@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,10 +34,28 @@ updated: 2026-10-23
 - **是谁**：爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。（调研 2026-10-21；表内兴趣：2个工业90W PoE injector样品 2010年使用国际站）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/爱尔兰；+2 最近活动 2024
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 5 次（2024-04-28 → 2024-12-13）；最近一次客户回复：2024-12-13：just need : outdoor 48v poe switch or DC POE injectors. Nothing else
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-176` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「2个工业90W PoE injector样品 2010年使用国际站」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「2个工业90W PoE injector样品 2010年使用国际站」；研究档 risks：个体、单量小
+- **现状一句话**：爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。
+- **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
+- **断点 / 为什么停在这里**：个体、单量小
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 2个工业90W PoE injector样品 2010年使用国际站 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -200,12 +218,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

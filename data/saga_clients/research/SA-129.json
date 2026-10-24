@@ -78,5 +78,40 @@
   "tier": 25,
   "why": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档"
  },
- "email_hook": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
+ "email_hook": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "IT/网络服务商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "爱沙尼亚（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索"
+  },
+  "situation": "爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。",
+  "need": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档",
+  "breakpoint": "小型 ISP、单次 1–5 台；爱沙尼亚为非主动挖掘国家（INH），仅跟现有线索",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

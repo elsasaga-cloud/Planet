@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：美国加州 GW Security（自有品牌安防摄像机系统：4/8/16/32 通道套装、GW42-4264NV8-2 等 NVR、GWCAT 线缆；表内「用的洪瑞的（HRUI）商业 PoE，CCTV 产品为主」，备注「像是国内平台」；群发 38 次、有回复记录）。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE CCTV产品为主；其他）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 38 次（2024-02-14 → 2025-11-03）；最近一次客户回复：2025-02-06：·
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-028` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 49 封 2024→2026，1 次记录打开，0 回；收件 info@gwsecurityusa.com, sales@gwsecurityusa.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：US 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 49，Opened 标签 1（Simon 群发追踪）；用户表：「用的洪瑞的 商业PoE CCTV产品为主；其他」；研究档 risks：Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型
+- **现状一句话**：美国加州 GW Security（自有品牌安防摄像机系统：4/8/16/32 通道套装、GW42-4264NV8-2 等 NVR、GWCAT 线缆；表内「用的洪瑞的（HRUI）商业 PoE，CCTV 产品为主」，备注「像是国内平台」；群发 38 次、有回复记录）。
+- **对方真实需求（有据）**：现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款
+- **断点 / 为什么停在这里**：Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 用的洪瑞的 商业PoE CCTV产品为主；其他 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 49 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

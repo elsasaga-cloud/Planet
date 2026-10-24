@@ -93,5 +93,55 @@
   "tier": 30,
   "why": "自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）"
  },
- "email_hook": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?"
+ "email_hook": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 ckennedy@kbcnetworks.com, dschulman@kbcnetworks.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "工业传输方案品牌商（自有标加固交换机线，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22；用户表：「工业FS MC 机架 SFP VC」；研究档 risks：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界"
+  },
+  "situation": "美国/英国 KBC Networks（工业加固电源与传输方案制造商：无线以太网系统、移动监控、ThruLink 硬件 VPN、加固工业网络交换机、eCopper 同轴/UTP IP 传输、电源；表内「工业 FS / MC / 机架 / SFP / VC」「优质公司」；KP Steve Kuntz（President，skuntz@）、Craig Kennedy（Technical Solutions Architect）、David Schulman（VP, BD））；群发 10 次无回复。",
+  "need": "自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）",
+  "breakpoint": "成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC 机架 SFP VC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "22 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

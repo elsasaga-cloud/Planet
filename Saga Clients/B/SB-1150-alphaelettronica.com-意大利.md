@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业POE为主）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 info@alphaelettronica.com；主题多为「10G Media Converter」）** ｜ 类型：电子产品与配件分销商（意大利） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小
+- **现状一句话**：意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。
+- **对方真实需求（有据）**：分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）
+- **断点 / 为什么停在这里**：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业POE为主 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 10G Media Converter | 1 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

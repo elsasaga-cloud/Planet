@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：瑞典小型 CCTV/安防批发商，2007 年注册，3 名员工，2024 年营收 463 万 SEK（同比 −24%，经营亏损 −48 万 SEK）；ISAF 2025 到访，Jimmy Johansson（CEO/Owner）取目录并加 WA，之后 6 次推送 0 回复。（调研 2026-10-21；表内兴趣：参展商，对switch有兴趣，主动过来交谈随后拿走catalog，想寻求合作机会）
 - **为什么是 B 级**：**调研后定级 B**（3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-086` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jimmy@safe-tech.se；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）** ｜ 类型：CCTV 批发/安装商 ｜ 筛子：1~2（1 次打开） ｜ 停点：16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；研究档 risks：3 人、亏损；6 次推送 0 回复
+- **现状一句话**：瑞典小型 CCTV/安防批发商，2007 年注册，3 名员工，2024 年营收 463 万 SEK（同比 −24%，经营亏损 −48 万 SEK）；ISAF 2025 到访，Jimmy Johansson（CEO/Owner）取目录并加 WA，之后 6 次推送 0 回复。
+- **对方真实需求（有据）**：批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP
+- **断点 / 为什么停在这里**：3 人、亏损；6 次推送 0 回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

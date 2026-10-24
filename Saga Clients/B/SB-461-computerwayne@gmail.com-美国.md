@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：美国路易斯安那（+1 318）个人/小型 IT 服务商 Wayne（Gmail）：需求工业 PoE 注入器（引用 Red Lion 100-PoE 产品页作参照）；WhatsApp 已加（两次）、邮件跟进，1 次回复后 20 次跟进无果。Saga 价目无独立 PoE 注入器——以工业 PoE 交换机替代。（调研 2026-10-21；表内兴趣：工业PoE injector 符合他的要求 https://www.redlion.net/product/100-PoE-spl-24-PoE-splitter 2011年使用国际站）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 20 次（2024-04-29 → 2025-10-30）；最近一次客户回复：2024-06-20：Email发了商业PoE 228信息
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）；$32.5 USD EXW（25% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-461` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 30 封 2024→2026，1 次记录打开，0 回；收件 computerwayne@gmail.com；主题多为「Commercial PoE Switch、Managed Optical Bypass Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 30，Opened 标签 1（Simon 群发追踪）；用户表：「工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…」；研究档 risks：Saga 无独立注入器 SKU；20 次跟进无果
+- **现状一句话**：美国路易斯安那（+1 318）个人/小型 IT 服务商 Wayne（Gmail）：需求工业 PoE 注入器（引用 Red Lion 100-PoE 产品页作参照）；WhatsApp 已加（两次）、邮件跟进，1 次回复后 20 次跟进无果。Saga 价目无独立 PoE 注入器——以工业 PoE 交换机替代。
+- **对方真实需求（有据）**：工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）
+- **断点 / 为什么停在这里**：Saga 无独立注入器 SKU；20 次跟进无果
+- **Saga 现在该推什么**：P1 **STI-054GP**（25% 档，按主表（研究档 saga_fit））——工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po… | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Commercial PoE Switch、Managed Optical Bypass Switch | 30 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

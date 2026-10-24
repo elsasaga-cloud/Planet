@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。（调研 2026-10-21；表内兴趣：Elink的）
 - **为什么是 B 级**：**调研后定级 B**（小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-03-12 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-034` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：安防集成/安装商（小型） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19
+- **现状一句话**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。
+- **对方真实需求（有据）**：X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
+- **断点 / 为什么停在这里**：无回复
+- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit））——X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 19 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

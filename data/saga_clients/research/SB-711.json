@@ -69,5 +69,47 @@
   "tier": 20,
   "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
  },
- "email_hook": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
+ "email_hook": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ali.yildiz@marsateknoloji.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "安防/对讲分销商（土耳其）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：土耳其：汇率敏感；品牌授权分销模式，PoE 为配套"
+  },
+  "situation": "土耳其 Marsa Teknoloji（U-Prox、Urfog、BasIP、Fanvil 土耳其授权分销商；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；经销商计划；KP Ali Yıldız）；表内 1 次跟进无回复。",
+  "need": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+  "breakpoint": "土耳其：汇率敏感；品牌授权分销模式，PoE 为配套",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

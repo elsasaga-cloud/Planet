@@ -71,5 +71,55 @@
   "tier": 20,
   "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）"
  },
- "email_hook": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?"
+ "email_hook": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@yachtgurus.us；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）",
+   "type": "船艇用品网店（美国，工业 FS 为边缘品类）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「工业FS」；研究档 risks：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复"
+  },
+  "situation": "美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。",
+  "need": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
+  "breakpoint": "品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
+    "why": "15 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

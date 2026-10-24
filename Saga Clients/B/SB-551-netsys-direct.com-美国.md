@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-03-12 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做；$34.0 USD EXW（30% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-551` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 21 封 2025→2026，无记录打开，0 回；收件 sales@netsys-america.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：以太网延长设备品牌（美国销售公司，台系 NetSys 线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「工业FS」；研究档 risks：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报
+- **现状一句话**：美国 Netsys（netsys-direct.com / netsys-america.com；以太网延长方案：VDSL2 工业级网桥 NV-520G、G.hn 同轴 MDU、PoE 延长器，自有 NV 系列；表内「工业 FS」）；群发 9 次无回复。
+- **对方真实需求（有据）**：自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做
+- **断点 / 为什么停在这里**：主业延长器（VDSL2 / G.hn）：Saga 无对应，仅工业交换机可报
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit））——自有 NV 系列以延长器为主，工业 FS 为补充线 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、PoE STI-288GP 贴 Netsys 标；延长器 Saga 不做
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the industrial-grade switches that complement your NV-series Ethernet extenders, we can supply Marvell-based DIN-rail 8-GE and 8-PoE + 2 SFP units under your label from small lots (−40~75 °C, FCC/CE/RoHS) — which port count do your extender customers ask for most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 21 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

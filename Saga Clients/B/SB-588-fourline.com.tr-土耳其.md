@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。（调研 2026-10-21；表内兴趣：不会英文， 要catalog）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-028GP — 深挖对位：OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）；$24.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-588` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 要catalog / 0(224) 364 1888 加不上」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「不会英文， 要catalog / 0(224) 364 1888 加不上」；研究档 risks：低价卫星/CCTV 市场极度比价；语言；无后续跟进
+- **现状一句话**：布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。
+- **对方真实需求（有据）**：OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
+- **断点 / 为什么停在这里**：低价卫星/CCTV 市场极度比价；语言；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，按主表（研究档 saga_fit））——OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 不会英文， 要catalog / 0(224) 364 1888 加不上 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

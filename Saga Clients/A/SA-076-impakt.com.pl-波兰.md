@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2025-10-03 | 来 | Łukasz | We looking for devices like this 😉 with CE power supply Prices ? MOQ ? | 需求（1G SFP MC） | `897f6d9873002938` |
 | 2025-10-03 | 去 | Alan | MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input | 报价 | `c220bcc3035956bf` |
 | 2025-10-15 | 去 | Alan | Any news about the 1G media converter? Need to order or something? | 追问无回 | `43168b7db932dd31` |
+| 2025-08-25 | 来（E 邮箱） | support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl | RE: [EXTERNAL] 90W PoE Managed Switch | Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系 | `gmail_e/index_replied` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 与 Łukasz 的早先往来在 E 邮箱（189 封）中未单独核对
 

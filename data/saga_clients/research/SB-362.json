@@ -82,5 +82,55 @@
   "tier": 20,
   "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
+ "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 e.slavev@maxtel.bg, info@maxtel.bg；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
+   "type": "安防/通信分销商（保加利亚，工业 PoE 现 ONV）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "保加利亚（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的工业FS PoEswitch；e.slavev@maxtel.bg」；研究档 risks：小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触"
+  },
+  "situation": "保加利亚 Maxtel（МАКСТЕЛ：安防、视频监控、门禁、通信与工业 LED 照明产品分销商；Vivotek/Bosch/Milesight；表内「ONV 的工业 FS PoE switch」；KP Evelin Slavev（e.slavev@））；群发 15 次无回复。",
+  "need": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+  "breakpoint": "小国（保加利亚，非主动开拓区）；现供 ONV 价格基准低；15 次无回复 → 改向 Evelin 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "ONV的工业FS PoEswitch；e.slavev@maxtel.bg",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+    "why": "23 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

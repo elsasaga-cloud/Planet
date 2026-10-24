@@ -91,5 +91,55 @@
    "url": "https://www.mtechnology.it/switch-switch-industriale-managed-20-porte-gigabit-con-16-poe-hi-poe-90w-240w.1.83.gp.uw",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 21 封 2024→2026，其中 2 封被打开，0 回；收件 info@mtechnology.it；被打开主题「Industrial PoE Switch、Industrial poe switch」）",
+   "type": "工业视频监控方案商（自有型号工业 PoE，Utepo 代工迹象，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主」；研究档 risks：现代工 Utepo 式（深圳）价格基准低"
+  },
+  "situation": "意大利 Mtechnology（面向工业与极端环境的智能视频监控系统；自有型号工业 PoE 交换机 MT-TP7-16GT240BT（20 口管理，16 Hi-PoE 90W/240W）、MT-TP7308POE、MT-TP7324GE-POE、MT-TP7224E-POE，PoE 电源配件；表内「工业 FS（Utepo 式外壳）是他们自己的型号，PoE 配件，CCTV 为主」）；群发 13 次无回复。",
+  "need": "自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）",
+  "breakpoint": "现代工 Utepo 式（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@mtechnology.it",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Industrial poe switch",
+    "why": "21 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

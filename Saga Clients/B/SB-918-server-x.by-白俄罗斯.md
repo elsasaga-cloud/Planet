@@ -33,10 +33,24 @@ updated: 2026-10-24
 - **是谁**：白俄罗斯 Server-X（server-x.by：IT/服务器经销（待核）；表内国别误记保加利亚；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-918` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：IT 经销商（白俄罗斯，待核） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：白俄罗斯（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：业务范围待核（官网 http_error、表内无兴趣备注）；白俄罗斯结算/合规风险；国别已改白俄罗斯（表内保加利亚为误记）
+- **现状一句话**：白俄罗斯 Server-X（server-x.by：IT/服务器经销（待核）；表内国别误记保加利亚；官网 http_error）；表内未跟进。
+- **对方真实需求（有据）**：服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
+- **断点 / 为什么停在这里**：业务范围待核（官网 http_error、表内无兴趣备注）；白俄罗斯结算/合规风险；国别已改白俄罗斯（表内保加利亚为误记）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

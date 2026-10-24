@@ -80,5 +80,55 @@
   "tier": 30,
   "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）"
  },
- "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?"
+ "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 carsten.bokholt@helmholz.de, info@helmholz.de；被打开主题「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
+   "type": "德国工业网络品牌商（PROFINET，自有品牌）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「自己的牌子」；研究档 risks：德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位"
+  },
+  "situation": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
+  "need": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
+  "breakpoint": "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → carsten.bokholt@helmholz.de",
+   "action": "短信一问（email_hook）",
+   "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+    "why": "22 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -102,5 +102,55 @@
   "tier": 20,
   "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表"
  },
- "email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
+ "email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@egemenelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加」；研究档 risks：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复"
+  },
+  "situation": "伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。",
+  "need": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表",
+  "breakpoint": "已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

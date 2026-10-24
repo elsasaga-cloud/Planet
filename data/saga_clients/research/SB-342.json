@@ -80,5 +80,55 @@
   "tier": 25,
   "why": "工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
  },
- "email_hook": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?"
+ "email_hook": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 info@trksolutions.co.uk；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+   "type": "安防安装商（英国，工业 PoE 用户）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；用户表：「主要用工业PoE 比较懂」；研究档 risks：安装商（单项目量小）；Hikvision/Dahua 自带 PoE 价格基准低；17 次无回复 → 改向 Director 具名首触"
+  },
+  "situation": "英国 TRK Solutions Ltd（CCTV、门禁、火灾报警、ANPR 安装商；Hikvision/Dahua；表内「主要用工业 PoE 比较懂」；KP Sahil Karwat（Director））；群发 17 次无回复。",
+  "need": "工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
+  "breakpoint": "安装商（单项目量小）；Hikvision/Dahua 自带 PoE 价格基准低；17 次无回复 → 改向 Director 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要用工业PoE 比较懂",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "27 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

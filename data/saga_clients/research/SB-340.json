@@ -82,5 +82,49 @@
   "tier": 25,
   "why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
+ "email_hook": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr」；研究档 risks：市政项目公共部门（按个案守界）；无后续跟进"
+  },
+  "situation": "伊兹密尔 Bayraklı 的 IT/安防系统集成商 Proves Bilgi Teknolojileri（2020-02 由 Serdar Karasu 创立；IT 安全、基础设施、网络安全、服务器/备份、系统集成；Hanwha Vision 案例：为代尼兹利 Pamukkale 市政部署 150 台 Q 系列摄像机 + 3 台 NVR）。ISAF 记录：Serdar Karasu（bilgi@proves.com.tr）——要工业级交换机报价单；无后续跟进。创始人直接要报价 → 发工业机价目。市政项目为公共部门 → 按个案守界（民用 CCTV 可做）。",
+  "need": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "市政项目公共部门（按个案守界）；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）为价目首项；L2 管理 STI-288GPM（$82.2）；L2+ STI-288DGGPM（$145.7）；24 口 PoE 汇聚 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Serdar Bey, ISAF'ta istediğiniz endüstriyel switch fiyat listesi: DIN ray 8 PoE + 2 SFP yönetilemez 59,8 USD, L2 yönetilebilir 82,2 USD, L2+ 145,7 USD (EXW, 15 gün geçerli) — Hanwha kamera projelerinizde halka (ring) topolojisi kullanıyor musunuz, ERPS'li modeli mi önereyim?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

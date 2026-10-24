@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：安卡拉的电子元器件/IoT 模块分销商 LTE Elektronik（Long Term Evolution Electronic；团队 15 年市场经验；面向土耳其与中东的电子制造商和设计中心；专长蜂窝 2G–5G/NB-IoT、LoRa、GNSS、Wi-Fi/BT 模块、网关、天线、连接器、线束；代理/合作 Telit、Locosys、Tibbo-Xmodus、RAKwireless；香港公司 EBCO Electronics (HK)（尖沙咀）+ 深圳办事处（Marjome Lin）做 PCB 供应与采购；Mustafa Kemal Mah. 2131. Sk. No:32/2 Çankaya；+90 312 443 03 04；info@lte.com.tr）。自建站询盘：Enes（enes@ebcoelectronic.com）询 I/O 模块，已转 Ady 跟进；WhatsApp 已加。I/O 模块非 Saga 产品；可作 IoT 网关客户的工业交换机配套 → 分销 20%。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-385` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「I/O模块 / from: 自建站 已转给Ady跟进」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「I/O模块 / from: 自建站 已转给Ady跟进」；研究档 risks：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）
+- **现状一句话**：安卡拉的电子元器件/IoT 模块分销商 LTE Elektronik（Long Term Evolution Electronic；团队 15 年市场经验；面向土耳其与中东的电子制造商和设计中心；专长蜂窝 2G–5G/NB-IoT、LoRa、GNSS、Wi-Fi/BT 模块、网关、天线、连接器、线束；代理/合作 Telit、Locosys、Tibbo-Xmodus、RAKwireless；香港公司 EBCO Electronics (HK)（尖沙咀）+ 深圳办事处（Marjome Lin）做 PCB 供应与采购；Mustafa Kemal Mah. 2131. Sk. No:32/2 Çankaya；+90 312 443 03 04；info@lte.com.tr）。自建站询盘：Enes（enes@ebcoelectronic.com）询 I/O 模块，已转 Ady 跟进；WhatsAp
+- **对方真实需求（有据）**：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
+- **断点 / 为什么停在这里**：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | I/O模块 / from: 自建站 已转给Ady跟进 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

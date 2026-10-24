@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS 几个台湾牌子的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-215` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 adamian@contradata.it, info@contradata.it；主题多为「Mini Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：工业网络/嵌入式分销商（意大利，台湾品牌为主） ｜ 筛子：1（只收到群发） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15；用户表：「工业FS 几个台湾牌子的」；研究档 risks：品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空
+- **现状一句话**：意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。
+- **对方真实需求（有据）**：台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）
+- **断点 / 为什么停在这里**：品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 几个台湾牌子的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Mini Industrial PoE Switch、48 Port PoE Managed Switch | 15 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

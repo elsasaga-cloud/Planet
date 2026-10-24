@@ -62,5 +62,40 @@
   "tier": 25,
   "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜"
  },
- "email_hook": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?"
+ "email_hook": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "小型经销商/集成商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "瑞士（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装"
+  },
+  "situation": "瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。",
+  "need": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
+  "breakpoint": "终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?"
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

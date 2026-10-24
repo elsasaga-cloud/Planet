@@ -58,5 +58,55 @@
   "tier": 20,
   "why": "三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
  },
- "email_hook": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?"
+ "email_hook": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ventes@gmidatabox.fr；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
+   "type": "工业网络分销商（法国，3onedata/Moxa）",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「3旺 moxa等比较有名的牌子」；研究档 risks：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@"
+  },
+  "situation": "法国 GMI Databox（工业网络分销商：三旺、Moxa 等知名品牌；官网 timeout）；群发 8 次无回复。",
+  "need": "三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）",
+  "breakpoint": "品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "3旺 moxa等比较有名的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

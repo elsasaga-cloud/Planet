@@ -71,5 +71,55 @@
   "tier": 20,
   "why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）"
  },
- "email_hook": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?"
+ "email_hook": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开，0 回；收件 firma@techfors.cz；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "安防分销商（捷克，IFS 工业 FS 在售）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 19，Opened 标签 2（Simon 群发追踪）；用户表：「IFS这个牌子 工业FS MC CCTV」；研究档 risks：IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@"
+  },
+  "situation": "捷克 Techfors CZ s.r.o.（CCTV/安防分销：IFS（Interlogix）品牌、PoE、NVR、门禁 ATS8600；表内「IFS 这个牌子，工业 FS MC CCTV」「可以尝试多跟进一下」）；群发 8 次无回复。",
+  "need": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）",
+  "breakpoint": "IFS（Carrier 旗下）为既定品牌线，白牌为预算补位；8 次无回复，仅 firma@",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → firma@techfors.cz",
+   "action": "短信一问（email_hook）",
+   "one_question": "Alongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "IFS这个牌子 工业FS MC CCTV",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "19 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：MC 商业POE及周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/立陶宛
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1223` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 商业POE及周边产品」）** ｜ 类型：安防设备跨境网店（多语言，多供应商） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 商业POE及周边产品」；研究档 risks：多供应商平台型网店：白牌同质化竞争，毛利薄
+- **现状一句话**：立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。
+- **对方真实需求（有据）**：网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）
+- **断点 / 为什么停在这里**：多供应商平台型网店：白牌同质化竞争，毛利薄
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC 商业POE及周边产品 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

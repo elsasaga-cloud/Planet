@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS 自己的品牌）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-18）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-091` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@optigo.net；主题多为「Mini Industrial PoE Switch、24 Port Fiber Switch」）** ｜ 类型：楼宇 OT 网络软件商（加拿大，硬件线存疑） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「工业FS 自己的品牌」；研究档 risks：官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@
+- **现状一句话**：加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。
+- **对方真实需求（有据）**：若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核
+- **断点 / 为什么停在这里**：官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 自己的品牌 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Mini Industrial PoE Switch、24 Port Fiber Switch | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

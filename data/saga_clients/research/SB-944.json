@@ -72,5 +72,55 @@
   "tier": 20,
   "why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）"
  },
- "email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?"
+ "email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@kohen.ca；被打开主题「Industrial PoE Switch、16 Port Ethernet Switch」）",
+   "type": "电子元件分销商（加拿大，Wago 工业线）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "CA 主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「主要是Wago的」；研究档 risks：Wago（德国）为主的元件分销：白牌仅价格补充"
+  },
+  "situation": "加拿大 Ko-Hen Electronics Supply（独立电子元件供应商 40 年以上：油气、自动化控制、计算机网络；表内「主要是 Wago 的」「可以多跟进一下」）；群发 8 次无回复。",
+  "need": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）",
+  "breakpoint": "Wago（德国）为主的元件分销：白牌仅价格补充",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → sales@kohen.ca",
+   "action": "短信一问（email_hook）",
+   "one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是Wago的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "26 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

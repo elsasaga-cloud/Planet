@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」。Planet 渠道档案 PB-069 评级 B（需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1176，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：销售平台 比较多的外壳 CCTV为主）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1176` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 d.jonik@cyberbajt.pl；主题多为「24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：PL 次级重点 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1；研究档 risks：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz 
+- **现状一句话**：Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、F
+- **对方真实需求（有据）**：其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：
+- **断点 / 为什么停在这里**：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

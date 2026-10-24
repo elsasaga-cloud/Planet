@@ -96,5 +96,55 @@
    "url": "https://edge-networks.us/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，无记录打开，0 回；收件 ccosta@edge-networks.us, sales@edge-networks.us；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+   "type": "美国工业网络自有品牌商（OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30；用户表：「MC Switch 自己的牌子」；研究档 risks：守界备注：市场含政府/交通——只供通用工业交换机，不涉项目"
+  },
+  "situation": "美国 Edge Networks（工业网络方案：安防、交通、自动化、政府市场；自有 GEMS2-8T/16T/24T 管理、GEUS-5T/GEMUS-2T 非管理交换机与 MC；表内「MC / Switch 自己的牌子」；KP Christopher Costa（President，ccosta@））；群发 19 次无回复。",
+  "need": "自有 GEMS2 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ GEUS-5T 位 STI-050GE（$18.5）贴 Edge 标；MC 位 STI-110GE（$24.3）",
+  "breakpoint": "守界备注：市场含政府/交通——只供通用工业交换机，不涉项目",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 GEMS2 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ GEUS-5T 位 STI-050GE（$18.5）贴 Edge 标；MC 位 STI-110GE（$24.3）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Christopher, for the GEMS2 / GEUS switch and media-converter range, we can be a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC Switch 自己的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "30 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

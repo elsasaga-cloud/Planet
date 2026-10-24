@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。（调研 2026-10-21；表内兴趣：工业FS 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-04-30 → 2025-10-16）
-- **P1（下一步唯一主推）**：STI-488XGGPM — 深挖对位：主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低；$171.9 USD EXW（25% 档，SmartByte LT-IS6312XGP-4XS8GT 920 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM — 主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1106` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）** ｜ 类型：汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈） ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「工业FS 周边产品」；研究档 risks：车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈
+- **现状一句话**：德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。
+- **对方真实需求（有据）**：主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低
+- **断点 / 为什么停在这里**：车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈
+- **Saga 现在该推什么**：P1 **STI-488XGGPM**（25% 档，按主表（研究档 saga_fit））——主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 周边产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

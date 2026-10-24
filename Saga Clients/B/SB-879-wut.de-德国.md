@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Wiesemann & Theis GmbH（W&T；TCP/IP、以太网、RS-232/485、USB、20mA 与光纤接口产品，Web-IO 数字/模拟 I/O，「Service – made in Wuppertal」自产；站内 Networking 栏目含交换机；表内「switch 主要是工业通讯」「可以着重跟一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：Switch 主要是工业通讯）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-21 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-879` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@wut.de；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）** ｜ 类型：德国工业接口制造商（配套工业交换机线，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「Switch 主要是工业通讯」；研究档 risks：德国工程型制造商：对品质/文档要求高，验证周期长
+- **现状一句话**：德国 Wiesemann & Theis GmbH（W&T；TCP/IP、以太网、RS-232/485、USB、20mA 与光纤接口产品，Web-IO 数字/模拟 I/O，「Service – made in Wuppertal」自产；站内 Networking 栏目含交换机；表内「switch 主要是工业通讯」「可以着重跟一下」）；群发 8 次无回复。
+- **对方真实需求（有据）**：W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP
+- **断点 / 为什么停在这里**：德国工程型制造商：对品质/文档要求高，验证周期长
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——W&T 自产接口产品，交换机为补充线（贴标外采）→ 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）、5 口 STI-050GE（$18.5）、PoE STI-288GP
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the industrial switches in your Networking range next to the Web-IO and serial-to-Ethernet lines, we can supply Marvell-based DIN-rail 5/8-port gigabit (and PoE) units under the W&T label from small lots, −40~75 °C, CE/RoHS — which port count do your customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Switch 主要是工业通讯 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Marvell Alleycat5 Solution、Managed Optical Bypass Switch | 11 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

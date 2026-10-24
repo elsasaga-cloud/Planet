@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：葡萄牙 Optivisus / Visus（语音、数据与图像方案：visus telecom / visus video；Vivotek / Uniview / Ubiquiti；表内「CCTV 为主 有 Utepo 的」；KP Rui Jorge（Product & Technical Manager））；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：CCTV为主 有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/葡萄牙；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-623` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 encomendas@visus.pt, rjorge@visus.pt；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：电信/CCTV 分销商（葡萄牙，Utepo 在售） ｜ 筛子：1（只收到群发） ｜ 停点：14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：葡萄牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「CCTV为主 有Utepo的」；研究档 risks：现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触
+- **现状一句话**：葡萄牙 Optivisus / Visus（语音、数据与图像方案：visus telecom / visus video；Vivotek / Uniview / Ubiquiti；表内「CCTV 为主 有 Utepo 的」；KP Rui Jorge（Product & Technical Manager））；表内 4 次跟进无回复。
+- **对方真实需求（有据）**：现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP
+- **断点 / 为什么停在这里**：现供 Utepo（深圳）价格基准低；4 次跟进无回复 → 改向 Product & Technical Manager 具名首触
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Rui, alongside the Utepo PoE switches you supply with Vivotek and Uniview cameras, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ models and 2.5G PoE options from small lots, CE/RoHS, EXW USD — which port count do your installers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | CCTV为主 有Utepo的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

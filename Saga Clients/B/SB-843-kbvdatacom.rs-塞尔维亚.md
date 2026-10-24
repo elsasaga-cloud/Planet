@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-843` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Bypass模块 / from: 阿里巴巴RTS订单」）** ｜ 类型：电信工程/集成商（塞尔维亚，bypass 模块订单） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：塞尔维亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Bypass模块 / from: 阿里巴巴RTS订单」；研究档 risks：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
+- **现状一句话**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。
+- **对方真实需求（有据）**：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
+- **断点 / 为什么停在这里**：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Bypass模块 / from: 阿里巴巴RTS订单 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

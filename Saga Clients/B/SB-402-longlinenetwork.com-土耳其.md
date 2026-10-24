@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。（调研 2026-10-21；表内兴趣：SFP MC（主要）  10GMC 是E-link的 看后边链接）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-402` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 11 封 2024→2026，1 次记录打开，0 回；收件 info@longlinenetwork.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：SFP MC（主要） 10GMC 是E-link的」；研究档 risks：SFP 主业不供；仅 info@
+- **现状一句话**：土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。
+- **对方真实需求（有据）**：MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。
+- **断点 / 为什么停在这里**：SFP 主业不供；仅 info@
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：SFP MC（主要） 10GMC 是E-link的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 11 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

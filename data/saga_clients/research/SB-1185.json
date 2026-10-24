@@ -69,5 +69,49 @@
   "tier": 20,
   "why": "网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）"
  },
- "email_hook": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?"
+ "email_hook": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC FS 非常多的周边产品」）",
+   "type": "光纤配件网店（美国）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「MC FS 非常多的周边产品」；研究档 risks：网店/比价型；主业光缆配件；仅 sales@，未跟进过"
+  },
+  "situation": "美国 Fiber Savvy（光纤分销网店：光缆按长度裁切、配件、MC/交换机周边；表内「MC FS 非常多的周边产品；销售平台」）；表内未跟进。",
+  "need": "网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）",
+  "breakpoint": "网店/比价型；主业光缆配件；仅 sales@，未跟进过",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC FS 非常多的周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

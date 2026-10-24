@@ -124,5 +124,47 @@
   "tier": 20,
   "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档"
  },
- "email_hook": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier."
+ "email_hook": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 graham@securitytec.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
+   "type": "安防批发商（小型）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）"
+  },
+  "situation": "伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。",
+  "need": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档",
+  "breakpoint": "无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "批发商自有标 NTP3-GSW0802S 同口型 = STC-28DGGPM（8 GE PoE + 2 SFP 管理）；16/24 口位 STI-21616GP / STC-424DGGPM-280W；分销 20% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Your NTP3-GSW0802S-MTP150 and the Marvell-based 8-port PoE+ 2-SFP managed switch are the same port layout; as a second source in Securitytec packing at EXW cost it protects your trade price against the HiLook £44 tier."
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "26 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

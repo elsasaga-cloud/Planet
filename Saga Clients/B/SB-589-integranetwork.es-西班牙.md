@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：西班牙 Integra Network / Integra-NES（工业计算设备完整方案：分销、设计与制造；行业铁路、道路交通、海事；工业交换机选型页、EN 50155 交换机、面板 PC；在用 Lantech（GS-R6616XFT / GS-L5416MGFT / GS-R6804XT）；表内 AI「40% A：工业网络方案商/专业渠道，偏项目与技术实施」；KP Lola Lucena（lola.lucena@；表内写 Lola Medina，以邮箱为准待核））；表内无跟进记录。（调研 2026-10-21；表内兴趣：在用LANTECH的）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Lola, alongside the Lantech industrial switches you specify, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 4×10G units (−40~75 °C, ERPS, CE/RoHS) for road-traffic and factory projects from small lots — which Lantech model do you use most outside the EN 50155 scope, so we quote its equivalent?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-589` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 info@integra-nes.es, lola.lucena@integra-nes.es；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和E」；研究档 risks：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做
+- **现状一句话**：西班牙 Integra Network / Integra-NES（工业计算设备完整方案：分销、设计与制造；行业铁路、道路交通、海事；工业交换机选型页、EN 50155 交换机、面板 PC；在用 Lantech（GS-R6616XFT / GS-L5416MGFT / GS-R6804XT）；表内 AI「40% A：工业网络方案商/专业渠道，偏项目与技术实施」；KP Lola Lucena（lola.lucena@；表内写 Lola Medina，以邮箱为准待核））；表内无跟进记录。
+- **对方真实需求（有据）**：在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报
+- **断点 / 为什么停在这里**：守界：铁路（EN 50155）与海事（DNV）为其重点行业，Saga 无认证不报；仅道路交通/工业项目可做
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——在用 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、8 PoE + 4×10G STI-488XGGPM 用于道路交通/工厂项目；EN50155 铁路与 DNV 海事不报
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Lola, alongside the Lantech industrial switches you specify, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 4×10G units (−40~75 °C, ERPS, CE/RoHS) for road-traffic and factory projects from small lots — which Lantech model do you use most outside the EN 50155 scope, so we quote its equivalent?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和ERPS/PoE++/宽温资料，强调可做功能/UI定制与持续供货；优先切入需要特殊 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

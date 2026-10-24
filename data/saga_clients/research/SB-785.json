@@ -56,5 +56,49 @@
   "tier": 20,
   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
  },
- "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+ "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / tek」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；研究档 risks：无公开资料；语言；无后续跟进"
+  },
+  "situation": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
+  "breakpoint": "无公开资料；语言；无后续跟进",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

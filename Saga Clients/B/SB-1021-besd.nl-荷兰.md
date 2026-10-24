@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：荷兰 BESD（工业自动化用嵌入式系统与数据通信产品分销，「Ons merkenportfolio」品牌组合；表内「几个有名牌子的工业 FS；bypass 工业 FS 基本是研华的；很多产品」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-24 → 2025-09-24）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a Marvell-based neutral-brand DIN-rail 8-GE + 2 SFP line (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1021` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@besd.nl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：工业自动化数据通信分销商（名牌组合，含研华） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品」；研究档 risks：名牌组合分销商（研华等）：白牌契合度低，预期低
+- **现状一句话**：荷兰 BESD（工业自动化用嵌入式系统与数据通信产品分销，「Ons merkenportfolio」品牌组合；表内「几个有名牌子的工业 FS；bypass 工业 FS 基本是研华的；很多产品」）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）
+- **断点 / 为什么停在这里**：名牌组合分销商（研华等）：白牌契合度低，预期低
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a Marvell-based neutral-brand DIN-rail 8-GE + 2 SFP line (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

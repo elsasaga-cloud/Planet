@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：西班牙 By Demes Group（安防技术头部分销商/批发：视频监控、CCTV、报警、入侵、门禁、消防；Dahua / Hikvision / Paradox / TP-Link，在售 Wi-Tek 工商业交换机与 Cudy；表内「Wi-tek 的工商业 switch，也有大华的 / Cudy 的」「可以尝试多跟进一下」；KP Ricardo Rubi、Liana Barragan）；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：Wi-tek的工商业swith  也有大华 的；Cudy的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-01-30 → 2025-10-02）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ricardo, alongside the Wi-Tek and Cudy switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial PoE models from small lots, CE/RoHS, EXW USD — is there a port count or price band your installers ask for between Wi-Tek and the Dahua/Hikvision lines?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-609` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 almacenbcn@bydemes.com, bydemes@bydemes.com；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」）** ｜ 类型：安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大） ｜ 筛子：1~2（1 次打开） ｜ 停点：15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「Wi-tek的工商业swith 也有大华 的；Cudy的」；研究档 risks：体量大（西班牙头部安防分销，多国仓库）：供应商准入流程长；Wi-Tek/Cudy 价格基准低
+- **现状一句话**：西班牙 By Demes Group（安防技术头部分销商/批发：视频监控、CCTV、报警、入侵、门禁、消防；Dahua / Hikvision / Paradox / TP-Link，在售 Wi-Tek 工商业交换机与 Cudy；表内「Wi-tek 的工商业 switch，也有大华的 / Cudy 的」「可以尝试多跟进一下」；KP Ricardo Rubi、Liana Barragan）；表内 7 次跟进无回复。
+- **对方真实需求（有据）**：在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）
+- **断点 / 为什么停在这里**：体量大（西班牙头部安防分销，多国仓库）：供应商准入流程长；Wi-Tek/Cudy 价格基准低
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ricardo, alongside the Wi-Tek and Cudy switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial PoE models from small lots, CE/RoHS, EXW USD — is there a port count or price band your installers ask for between Wi-Tek and the Dahua/Hikvision lines?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Wi-tek的工商业swith 也有大华 的；Cudy的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、24 Port PoE Managed Switch | 15 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

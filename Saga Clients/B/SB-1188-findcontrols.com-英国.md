@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。（调研 2026-10-21；表内兴趣：处理各种工业产品 trading 2014年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1188` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 deepakg158@gmail.com, dgupta@ralakde.co.uk；主题多为「CCTV poe switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：UK 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加」；研究档 risks：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进
+- **现状一句话**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。
+- **对方真实需求（有据）**：分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供
+- **断点 / 为什么停在这里**：贸易商比价为主、「质量一般」评注；UKCA 需说明；无后续跟进
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | CCTV poe switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

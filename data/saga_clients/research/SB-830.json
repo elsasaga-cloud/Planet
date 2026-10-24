@@ -77,5 +77,55 @@
   "tier": 20,
   "why": "对位 Hisource 商用 8 PoE → STC-28DGGPM（$80.7 @20%，Marvell）；24 PoE STC-424DGGPM-280W。"
  },
- "email_hook": "Freddy, beside the Hisource PoE units — Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW (FCC/CE); for the LatAm re-export business, would neutral cartons with Spanish quick guides help?"
+ "email_hook": "Freddy, beside the Hisource PoE units — Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW (FCC/CE); for the LatAm re-export business, would neutral cartons with Spanish quick guides help?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 bruno@flyteccomputers.com, fsigal@flyteccomputers.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29；用户表：「兴趣：PoE switch hisource的」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明（拉美转口可放宽）"
+  },
+  "situation": "美国迈阿密无线 / 有线 / 光纤设备分销商（Ubiquiti、MikroTik、Fanvil；面向拉美出口；switch 104 / poe 78 / camera 84），CEO Bruno Rocha、产品管理总监 Freddy Sigal；表内「PoE switch，Hisource 的」；群发 18 次无回复。",
+  "need": "对位 Hisource 商用 8 PoE → STC-28DGGPM（$80.7 @20%，Marvell）；24 PoE STC-424DGGPM-280W。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明（拉美转口可放宽）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位 Hisource 商用 8 PoE → STC-28DGGPM（$80.7 @20%，Marvell）；24 PoE STC-424DGGPM-280W。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Freddy, beside the Hisource PoE units — Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW (FCC/CE); for the LatAm re-export business, would neutral cartons with Spanish quick guides help?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：PoE switch hisource的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "29 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

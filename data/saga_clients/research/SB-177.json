@@ -78,5 +78,55 @@
   "tier": 30,
   "why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做"
  },
- "email_hook": "Andreas, for the PoE switches sold under the Grothe / Urmet label with your NVR and door-communication lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size moves most with your NVR kits?"
+ "email_hook": "Andreas, for the PoE switches sold under the Grothe / Urmet label with your NVR and door-communication lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size moves most with your NVR kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 arosen@grothe.de, info@grothe.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
+   "type": "楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「主要是CCTV类产品 有商业POE EOC」；研究档 risks：集团采购可能集中在 Urmet 意大利总部（德国公司仅销售）"
+  },
+  "situation": "德国 Grothe GmbH（Urmet 集团德国公司：门铃/楼宇对讲、智能家居、CCTV（NVR 词频 75、PoE 42）；表内「主要是 CCTV 类产品，有商业 PoE / EoC」「可以着重跟一下」；KP Andreas Rosen（Managing Director，arosen@））；群发 8 次无回复。",
+  "need": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做",
+  "breakpoint": "集团采购可能集中在 Urmet 意大利总部（德国公司仅销售）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Andreas, for the PoE switches sold under the Grothe / Urmet label with your NVR and door-communication lines, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size moves most with your NVR kits?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV类产品 有商业POE EOC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "16 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

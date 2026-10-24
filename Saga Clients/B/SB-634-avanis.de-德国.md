@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Edgecore等牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-448XGGPM — 深挖对位：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线；$349.4 USD EXW（25% 档，SmartByte LT-S8352XGP-4XS48GT 1870 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-634` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 info@avanis.de, tpasslack@avanis.de；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：网络/WLAN 系统集成商（德国，Edgecore 在用） ｜ 筛子：1（只收到群发） ｜ 停点：10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Edgecore等牌子」；研究档 risks：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线
+- **现状一句话**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。
+- **对方真实需求（有据）**：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **断点 / 为什么停在这里**：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（25% 档，按主表（研究档 saga_fit））——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Edgecore等牌子 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Booster PoE Switch、Marvell Industrial Alert System | 10 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

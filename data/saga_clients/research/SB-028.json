@@ -81,5 +81,55 @@
   "tier": 30,
   "why": "现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款"
  },
- "email_hook": "For the GW-branded NVR kits, we can add a Marvell-based managed 8-PoE + 2 SFP switch (PoE watchdog, extend mode for long camera runs) under your label from small lots — would a managed PoE option make sense for your 8- and 16-channel kits?"
+ "email_hook": "For the GW-branded NVR kits, we can add a Marvell-based managed 8-PoE + 2 SFP switch (PoE watchdog, extend mode for long camera runs) under your label from small lots — would a managed PoE option make sense for your 8- and 16-channel kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 49 封 2024→2026，1 次记录打开，0 回；收件 info@gwsecurityusa.com, sales@gwsecurityusa.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "US 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 49，Opened 标签 1（Simon 群发追踪）；用户表：「用的洪瑞的 商业PoE CCTV产品为主；其他」；研究档 risks：Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型"
+  },
+  "situation": "美国加州 GW Security（自有品牌安防摄像机系统：4/8/16/32 通道套装、GW42-4264NV8-2 等 NVR、GWCAT 线缆；表内「用的洪瑞的（HRUI）商业 PoE，CCTV 产品为主」，备注「像是国内平台」；群发 38 次、有回复记录）。",
+  "need": "现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款",
+  "breakpoint": "Q-33 口径：客户在用 HRUI（Saga 供应商）→ 不报 HRUI 同款，只推 SmartByte/Marvell 管理型",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现用 HRUI 商业 PoE → Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 GW 标作「管理型套装」升级位；不报 HRUI 同款",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "用的洪瑞的 商业PoE CCTV产品为主；其他",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "49 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

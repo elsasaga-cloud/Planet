@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。（调研 2026-10-21；表内兴趣：销售平台 工业FS 周边产品 像是国内的工商业switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-04-30 → 2025-10-15）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-819` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digitclik.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：网络产品网店（意大利，站点待核） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「销售平台 工业FS 周边产品 像是国内的工商业switch」；研究档 risks：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@
+- **现状一句话**：意大利 Digitclik（digitclik.it / digitclik.com：销售平台型网店，工业 FS 与周边产品，「像是国内的工商业 switch」；表内「可以尝试多跟进一下」；快照为斯洛文尼亚语「Stran v izdelavi」建设中页（域名/站点待核））；群发 15 次无回复。
+- **对方真实需求（有据）**：工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）
+- **断点 / 为什么停在这里**：快照为建设中页（斯洛文尼亚语，与意大利实体不符——站点待核）；平台型卖家（低粘性）；15 次无回复，仅 info@
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 销售平台 工业FS 周边产品 像是国内的工商业switch | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

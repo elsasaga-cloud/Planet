@@ -35,10 +35,23 @@ updated: 2026-10-24
 - **是谁**：琴斯托霍瓦的安防系统分销商（SATEL 授权），网店 + B2B 批发计划，PLANET 为 CCTV 网络配套。类型：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）。信号：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE。Planet 渠道档案 PB-057 评级 B（需求：PLANET PoE 商用 + 工业两档在售、面向安装商的安防分销；触达：sklep@fonex.pl（销售/订单）、info@fonex.pl（技术）、wspolpraca@fonex.pl（B2B 批发合作）均官网公开；体量：Sp. j.（家族合伙），人数待补证；无具名 → B）。并档说明：Saga 表内本条 SC-539（波兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：不同品牌的产品）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-539` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：PL 次级重点 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人
+- **现状一句话**：琴斯托霍瓦的安防系统分销商（SATEL 授权），网店 + B2B 批发计划，PLANET 为 CCTV 网络配套。类型：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）。信号：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE。Planet 渠
+- **对方真实需求（有据）**：其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：
+- **断点 / 为什么停在这里**：人数/营收；PLANET 货源（Action/AB/Eltrox 等波兰分销？）；采购决策人
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：
+- **下一步（具体）**：不动　—　—
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

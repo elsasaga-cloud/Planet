@@ -71,5 +71,49 @@
   "tier": 30,
   "why": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核"
  },
- "email_hook": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?"
+ "email_hook": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「IP-based产品 也牵涉到了POE」）",
+   "type": "IP 寻呼终端厂商（加拿大，交换机非其品类）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "CA 主攻",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「IP-based产品 也牵涉到了POE」；研究档 risks：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过"
+  },
+  "situation": "加拿大 Algo Communication Products（IP 寻呼与应急通知平台：SIP 扬声器、适配器、频闪灯、门口对讲；PoE 供电终端；表内「IP-based 产品 也牵涉到了 PoE」「质量一般」）；表内未跟进。",
+  "need": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核",
+  "breakpoint": "交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "IP-based产品 也牵涉到了POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

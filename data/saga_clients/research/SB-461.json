@@ -47,5 +47,55 @@
   "tier": 25,
   "why": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）"
  },
- "email_hook": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?"
+ "email_hook": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，1 次记录打开，0 回；收件 computerwayne@gmail.com；主题多为「Commercial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30，Opened 标签 1（Simon 群发追踪）；用户表：「工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…」；研究档 risks：Saga 无独立注入器 SKU；20 次跟进无果"
+  },
+  "situation": "美国路易斯安那（+1 318）个人/小型 IT 服务商 Wayne（Gmail）：需求工业 PoE 注入器（引用 Red Lion 100-PoE 产品页作参照）；WhatsApp 已加（两次）、邮件跟进，1 次回复后 20 次跟进无果。Saga 价目无独立 PoE 注入器——以工业 PoE 交换机替代。",
+  "need": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）",
+  "breakpoint": "Saga 无独立注入器 SKU；20 次跟进无果",
+  "saga_now": {
+   "p1": "STI-054GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Instead of a single industrial PoE injector, a DIN-rail 4-port gigabit PoE switch (−40 to +75 °C, 44–57 V DC) is $32.5 EXW and powers up to four devices; is the field device 802.3af or at?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po…",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Commercial PoE Switch、Managed Optical Bypass Switch",
+    "why": "30 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

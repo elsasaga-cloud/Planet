@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的logo 有ONV的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-02 → 2025-10-17）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-068` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：DE 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统
+- **现状一句话**：德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。
+- **对方真实需求（有据）**：自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）
+- **断点 / 为什么停在这里**：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS MC SFP 自己的logo 有ONV的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

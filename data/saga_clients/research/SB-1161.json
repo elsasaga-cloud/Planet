@@ -76,5 +76,49 @@
   "why": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。"
  },
  "email_hook": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk?",
- "country_fix": "波兰"
+ "country_fix": "波兰",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "PL 次级重点",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）」；研究档 risks：规模大、直接对接中国原厂的可能性高"
+  },
+  "situation": "波兰 Batna24（+48 34 361 04 48；意大利语站点被归入意大利名单）—— 欧洲 Ubiquiti / MikroTik / Extralink / LigoWave / TP-Link / RF elements / Totolink 主要分销商之一（switch 301 / camera 231 / poe 92 / media converter 17）；表内 SFP 周边、PoE 电源、MC（多 TP-Link）；无跟进。实际公司在波兰（表内国家意大利 → country_fix 波兰）。",
+  "need": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。",
+  "breakpoint": "规模大、直接对接中国原厂的可能性高",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：SFP 周边产品 POE电源 MC（多是tp-link的）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

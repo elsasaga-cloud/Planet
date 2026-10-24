@@ -74,5 +74,49 @@
   "tier": 20,
   "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
  },
- "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?"
+ "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch」）",
+   "type": "电气材料分销商（意大利，多仓）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核"
+  },
+  "situation": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
+  "need": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+  "breakpoint": "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

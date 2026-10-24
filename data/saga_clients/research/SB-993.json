@@ -71,5 +71,49 @@
   "tier": 25,
   "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）"
  },
- "email_hook": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?"
+ "email_hook": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「很多牌子的 有自己的logo」）",
+   "type": "商用安防集成商（美国休斯顿）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「很多牌子的 有自己的logo」；研究档 risks：仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
+  },
+  "situation": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
+  "need": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
+  "breakpoint": "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "很多牌子的 有自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

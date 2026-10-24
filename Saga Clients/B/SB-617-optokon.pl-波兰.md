@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。（调研 2026-10-21；表内兴趣：SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品  CTCU的；CWDM Fiber optics）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-03 → 2025-10-21）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → abuy@optokon.com 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-617` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 40 封 2024→2026，其中 7 封被打开，0 回；收件 abuy@optokon.com, info@optokon.ua；被打开主题「24 Port Fiber Switch、Industrial PoE Switch」）** ｜ 类型：光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 40，Opened 标签 7（Simon 群发追踪）；用户表：「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；研究档 risks：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固
+- **现状一句话**：波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。
+- **对方真实需求（有据）**：仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉
+- **断点 / 为什么停在这里**：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉
+- **下一步（具体）**：2026-11　A 邮箱 → abuy@optokon.com　短信一问（email_hook）
+  - 第一问（只问一个）：Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 24 Port Fiber Switch、Industrial PoE Switch | 40 封 / 7 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

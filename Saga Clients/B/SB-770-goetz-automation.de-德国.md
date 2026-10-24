@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：10台升压5口）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-12 → 2025-10-28）
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）；$17.8 USD EXW（25% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-770` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 peter@goetz-automation.de；主题多为「16 Port Ethernet Switch、Mini Industrial PoE Switch」）** ｜ 类型：自动化工程事务所（德国，机器网络配套） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B
+- **现状一句话**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。
+- **对方真实需求（有据）**：5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
+- **断点 / 为什么停在这里**：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit））——5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 10台升压5口；49 - 6220 - 922222 加不上 2008年使用国际站；10台升压5口 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 16 Port Ethernet Switch、Mini Industrial PoE Switch | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

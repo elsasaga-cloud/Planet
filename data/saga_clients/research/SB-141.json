@@ -89,5 +89,55 @@
    "url": "https://ccontrols.de/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@ccontrols.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
+   "type": "楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC POE 周边产品 自己的logo」；研究档 risks：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格"
+  },
+  "situation": "德国 Contemporary Controls（美国 Contemporary Controls 德国公司；楼宇自动化方案（BACnet）与定制设计制造，1975 年起；自有 CTRLink 系列交换机 EISK5-GT / EISK8P-GT（PoE）、EIPE PoE 注入；表内「工业 FS / MC / PoE / 周边，自己的 logo」「可以着重跟一下」）；群发 8 次无回复。",
+  "need": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无",
+  "breakpoint": "楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC POE 周边产品 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+    "why": "16 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

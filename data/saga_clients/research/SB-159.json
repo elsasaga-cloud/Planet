@@ -47,5 +47,49 @@
   "tier": 25,
   "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机"
  },
- "email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+ "email_hook": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「40 7664 78524 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "罗马尼亚（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「40 7664 78524 已加」；研究档 risks：身份不可核；罗马尼亚非主动开拓市场"
+  },
+  "situation": "罗马尼亚 Arsenal TV（Gmail 邮箱，+40 7664 移动号；电视/视频类小型机构）：WhatsApp 已加，2 次实质回复后 14 次跟进无果；无公开网站可核。",
+  "need": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
+  "breakpoint": "身份不可核；罗马尼亚非主动开拓市场",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端 25% 档：STC-28DGGPM（$84.1）用于演播/机房；视频传输配 HDMI 光端机",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "40 7664 78524 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -72,5 +72,55 @@
   "tier": 30,
   "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
  },
- "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
+ "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@engeniustech.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "台湾网络品牌美国公司（台湾厂商口径二供）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「商业FS 大口 SFP PoE配件」；研究档 risks：台湾品牌（自有 ODM）：白牌切入点弱，仅二供"
+  },
+  "situation": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
+  "need": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+  "breakpoint": "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业FS 大口 SFP PoE配件",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

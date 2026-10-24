@@ -74,5 +74,49 @@
   "tier": 20,
   "why": "在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE"
  },
- "email_hook": "Alongside the Antaira and Planet industrial switches you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?"
+ "email_hook": "Alongside the Antaira and Planet industrial switches you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）",
+   "type": "工业电子与自动化分销商（瑞典，Antaira/Planet 工业线）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "瑞典（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入"
+  },
+  "situation": "瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27\" 工业触摸屏）；表内无跟进记录。",
+  "need": "在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE",
+  "breakpoint": "现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "antaria planet的 工业FS MC SFP",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

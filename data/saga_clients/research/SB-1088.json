@@ -76,5 +76,49 @@
   "tier": 30,
   "why": "自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）"
  },
- "email_hook": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?"
+ "email_hook": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业FS 自己的logo 摄像头 其他一些周边产品」）",
+   "type": "电商超市 + 自有品牌（OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「工业FS 自己的logo 摄像头 其他一些周边产品」；研究档 risks：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）"
+  },
+  "situation": "美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。",
+  "need": "自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）",
+  "breakpoint": "NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 自己的logo 摄像头 其他一些周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -69,5 +69,55 @@
   "tier": 30,
   "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。"
  },
- "email_hook": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly."
+ "email_hook": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@nexxus.cc；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：ONV的工业FS 带了自己的标」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+  },
+  "situation": "美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。",
+  "need": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。",
+  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：ONV的工业FS 带了自己的标",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

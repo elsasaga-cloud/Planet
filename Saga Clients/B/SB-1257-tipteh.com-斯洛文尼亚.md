@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS 好几个牌子的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1257` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@tipteh.com；主题多为「24 port poe switch」）** ｜ 类型：工业自动化分销集团（Hirschmann 等） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：斯洛文尼亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「工业FS 好几个牌子的」；研究档 risks：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低
+- **现状一句话**：斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。
+- **对方真实需求（有据）**：代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」
+- **断点 / 为什么停在这里**：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 好几个牌子的 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 24 port poe switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

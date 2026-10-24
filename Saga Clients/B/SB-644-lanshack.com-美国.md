@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：Ewind产品较多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-04-26 → 2025-10-25）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-644` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 andrea@lanshack.com, sales@lanshack.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 29；用户表：「兴趣：Ewind产品较多」；研究档 risks：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
+- **现状一句话**：美国光纤 / 铜缆组件制造与网店（ISO 9001；sfp 1028 / poe 239 / industrial 180 / media converter 99），President Andrea Damiano；表内「E-wind 产品较多」（在售中国同行 E-wind 的 MC / 交换机）；群发 19 次无回复。
+- **对方真实需求（有据）**：对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。
+- **断点 / 为什么停在这里**：美国：零售 / 项目常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Andrea, beside the E-wind converters on lanshack.com — our DIN gigabit MC is $22.4 and the 2-SFP + 8-PoE industrial $57 EXW (FCC/CE, no UL listing); would a 2-piece sample help you compare build quality?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：Ewind产品较多 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 29 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

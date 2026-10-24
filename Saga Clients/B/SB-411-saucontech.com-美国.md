@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：美国宾州 Bethlehem 的客运巴士车载远程信息处理方案商（1997 年成立；11–50 / 42 人；营收 $15.4M 口径；GPS 车队追踪、车载视频监控、电子驾驶日志、乘客 WiFi、Cummins 远程诊断；北美与英国 500+ 客户、10,000+ 辆巴士）。展会记录：联系人 Bill French（bfrench@saucontech.com）问了技术问题；9 次跟进 0 回复。车载（巴士）IP 摄像/WiFi 需 DC 宽压小交换机 → STI 系列配套/OEM。（调研 2026-10-21；表内兴趣：问了一些技术问题）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-25 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-411` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 22 封 2025→2026，无记录打开，0 回；收件 bfrench@saucontech.com, billf1@saucontech.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 22；用户表：「问了一些技术问题」；研究档 risks：公共交通客户（巴士运营/市政）→ 按个案守界；美国车载需 FCC + 振动证明；9 次跟进 0 回复
+- **现状一句话**：美国宾州 Bethlehem 的客运巴士车载远程信息处理方案商（1997 年成立；11–50 / 42 人；营收 $15.4M 口径；GPS 车队追踪、车载视频监控、电子驾驶日志、乘客 WiFi、Cummins 远程诊断；北美与英国 500+ 客户、10,000+ 辆巴士）。展会记录：联系人 Bill French（bfrench@saucontech.com）问了技术问题；9 次跟进 0 回复。车载（巴士）IP 摄像/WiFi 需 DC 宽压小交换机 → STI 系列配套/OEM。
+- **对方真实需求（有据）**：OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
+- **断点 / 为什么停在这里**：公共交通客户（巴士运营/市政）→ 按个案守界；美国车载需 FCC + 振动证明；9 次跟进 0 回复
+- **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit））——OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 问了一些技术问题 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 22 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

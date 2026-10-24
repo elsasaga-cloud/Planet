@@ -60,5 +60,49 @@
   "tier": 20,
   "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
  },
- "email_hook": "（无邮箱；网站表单联系）"
+ "email_hook": "（无邮箱；网站表单联系）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要是CCTV 商业PoE Utepo的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：主要是CCTV 商业PoE Utepo的」；研究档 risks：无邮箱（需网站表单）"
+  },
+  "situation": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
+  "need": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+  "breakpoint": "无邮箱（需网站表单）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：主要是CCTV 商业PoE Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

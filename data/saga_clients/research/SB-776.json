@@ -88,5 +88,55 @@
   "tier": 30,
   "why": "自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM"
  },
- "email_hook": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?"
+ "email_hook": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 alexm@maplesystems.com, dianec@maplesystems.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "工业自动化品牌商（HMI/PLC 自有品牌，交换机为配套 OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「电口 工业FS」；研究档 risks：自有品牌配套件：现有代工来源稳定，需以小批量/宽压/价格切入"
+  },
+  "situation": "美国华盛顿州 Maple Systems（HMI / PLC / 工业面板 PC / 盒式 PC / SCADA 软件的制造与分销商；官网设「Industrial Network Switches」品类与选型文章；表内「电口 工业 FS」；KP Alex M（President）、Diane C（Director of Sales & GTM Operations））；表内无跟进记录。",
+  "need": "自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM",
+  "breakpoint": "自有品牌配套件：现有代工来源稳定，需以小批量/宽压/价格切入",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有品牌 HMI/PLC 配套工业交换机、表内需求「电口」→ 工业 8 口全电非管理 STI-080GE（$34.0 @30%）贴 Maple 标；带 SFP 位 STI-280GE；管理型 STI-288GPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alex, for the industrial network switches you offer alongside your HMIs and PLCs, we build Marvell-based DIN-rail 8-port copper gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS/FCC — is the all-copper 8-port your highest-volume SKU?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "电口 工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

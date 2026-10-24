@@ -102,5 +102,55 @@
    "url": "https://maintechconnect.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，无记录打开，0 回；收件 sales@maintechconnect.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+   "type": "网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29；用户表：「看着像是深圳公司的外壳 自己的logo/型号 产品较少」；研究档 risks：疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站"
+  },
+  "situation": "美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。",
+  "need": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM",
+  "breakpoint": "疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站",
+  "saga_now": {
+   "p1": "STI-21616GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "看着像是深圳公司的外壳 自己的logo/型号 产品较少",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "29 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

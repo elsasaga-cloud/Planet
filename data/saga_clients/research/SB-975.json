@@ -101,5 +101,55 @@
    "url": "https://www.erete.com.tr/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 erete@erete.com.tr, murat.soyak@erete.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr」；研究档 risks：EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入"
+  },
+  "situation": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
+  "need": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM",
+  "breakpoint": "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -57,5 +57,47 @@
   "tier": 30,
   "why": "自有设计/出口品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ENTPA 标；24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?"
+ "email_hook": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 etekyildiz@entpa.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "电子制造商兼安防分销（土耳其，自有设计）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；研究档 risks：自有设计厂商（可能有既定 ODM）；Hanwha 代理（品牌配套）；1 次无回复"
+  },
+  "situation": "土耳其 ENTPA Elektronik（1983 年起，土耳其工程与原创设计，产品出口 5 大洲近 50 国「Global Tedarikçi」；CCTV/NVR 产品（Hanwha 代理）；KP etekyildiz@）；表内 1 次跟进无回复。",
+  "need": "自有设计/出口品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ENTPA 标；24 口 STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "自有设计厂商（可能有既定 ODM）；Hanwha 代理（品牌配套）；1 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有设计/出口品牌配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ENTPA 标；24 口 STC-424DGGPM-280W（$145.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE switches sold with your CCTV and NVR range in export markets, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in ENTPA packaging from small lots, CE/RoHS — which PoE SKU do your export dealers request most?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

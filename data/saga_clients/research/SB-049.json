@@ -66,5 +66,55 @@
   "tier": 20,
   "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。"
  },
- "email_hook": "Hola — next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?"
+ "email_hook": "Hola — next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@cablewindow.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "西班牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「兴趣：有Utepo的交换机」；研究档 risks：仅 info@；5 次群发无回复"
+  },
+  "situation": "西班牙网络 / 安防线缆与设备网店（switch 150 / poe 142 / industrial 123 / cctv 43），仅 info@；表内「有 Utepo 的交换机，分销商」；群发 5 次无回复。",
+  "need": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。",
+  "breakpoint": "仅 info@；5 次群发无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hola — next to the UTEPO switches on cablewindow.com, a Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW, with photos and EU files for listing; interested in 2 trial units?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：有Utepo的交换机",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "15 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

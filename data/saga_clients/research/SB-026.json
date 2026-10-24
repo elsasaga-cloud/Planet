@@ -77,5 +77,55 @@
   "tier": 20,
   "why": "需求为大口数交换机（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W（$134.5）配 IP 话机供电"
  },
- "email_hook": "For the 24/48-port switches behind your Yealink and Grandstream phone deployments, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ model with or without PoE+ (budget 280 W) from small lots, FCC/CE — which do your VoIP customers need more, PoE or non-PoE?"
+ "email_hook": "For the 24/48-port switches behind your Yealink and Grandstream phone deployments, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ model with or without PoE+ (budget 280 W) from small lots, FCC/CE — which do your VoIP customers need more, PoE or non-PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 sales@citicalls.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
+   "type": "VoIP 网店（加拿大，兼营网络设备）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "CA 主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「大口FS；大口FS BDCOM」；研究档 risks：VoIP 网店兼营杂货：交换机为配套品类"
+  },
+  "situation": "加拿大 citiCalls（VoIP 专营网店：Yealink / Grandstream / Fanvil / Cisco / Avaya / Yeastar 等，兼营杂项；表内「大口 FS，BDCOM」）；表内 1 次跟进无回复。",
+  "need": "需求为大口数交换机（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W（$134.5）配 IP 话机供电",
+  "breakpoint": "VoIP 网店兼营杂货：交换机为配套品类",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "需求为大口数交换机（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W（$134.5）配 IP 话机供电",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the 24/48-port switches behind your Yealink and Grandstream phone deployments, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ model with or without PoE+ (budget 280 W) from small lots, FCC/CE — which do your VoIP customers need more, PoE or non-PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "大口FS；大口FS BDCOM",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+    "why": "13 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

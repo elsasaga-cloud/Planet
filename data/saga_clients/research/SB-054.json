@@ -81,5 +81,49 @@
   "tier": 25,
   "why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算"
  },
- "email_hook": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?"
+ "email_hook": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格」；研究档 risks：集团采购流程；英文沟通弱（用土耳其语）；无后续跟进"
+  },
+  "situation": "土耳其代尼兹利的大型保安集团 Desecure（2008 年起；私人保安服务 LinkedIn 规模 1,001–5,000 人；技术公司 Desecure Technology 约 60 名工程/软件人员，自研太阳能移动安防塔、远程监控中心（AİM），服务风电/光伏/储能、工业设施与港口；总部 Vadistanbul（İstanbul Sarıyer），运营与技术中心 Desecure Plaza Denizli；444 76 49；bilgi@desecuretechnology.com）。ISAF 记录：Serdar Türker——想要工业级 8 口 PoE 交换机（30 W），英文不太好，要含当地 20% 关税的报价；无后续跟进。保安集团体量大，但技术公司自产移动安防设备 = 真实硬件采购方 → 保留 B。",
+  "need": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算",
+  "breakpoint": "集团采购流程；英文沟通弱（用土耳其语）；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，每口 30 W，DC 44–57 V，−40~+75 ℃，$59.8）对应「工业 8 口 PoE 30 W」；需管理则 STI-288DGGPM（$145.7）；报价附土耳其关税/KDV 估算",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için 8 port PoE (port başı 30 W) + 2 SFP endüstriyel switch EXW 59,8 USD; gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da ekleyeyim — bir kulede kaç switch kullanıyorsunuz?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

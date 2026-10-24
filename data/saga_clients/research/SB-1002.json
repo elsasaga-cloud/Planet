@@ -72,5 +72,55 @@
   "tier": 20,
   "why": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。"
  },
- "email_hook": "Merhaba — next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?"
+ "email_hook": "Merhaba — next to the PLANET IGS/GS lines you sell, our 2-SFP + 8-PoE industrial is $57 EXW and the Marvell L2+ GS-4210-class is $81; would a 1+1 sample to Ankara help you compare?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@teamon.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 18；用户表：「兴趣：switch」；研究档 risks：仅 info@；品牌偏好"
+  },
+  "situation": "土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。",
+  "need": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。",
+  "breakpoint": "仅 info@；品牌偏好",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：switch",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

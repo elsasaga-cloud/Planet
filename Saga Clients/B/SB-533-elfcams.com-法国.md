@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业POE 外壳普遍一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；$138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-533` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 contact@elfcams.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：自有品牌网络配件电商（工厂直销定位，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 26；用户表：「商业POE 外壳普遍一般」；研究档 risks：自有品牌电商：已有深圳货源（表内「外壳普遍一般」= 低价白牌），需以外壳/品质差异切入
+- **现状一句话**：法国 Elfcam（光纤与网络设备专家：FTTx / 数据中心光缆、SFP、Cat6A–Cat8、Starlink 专业配件；「Prix vente directe usine」自有品牌直销；品类页 /poe-switch、/home-fiber/10g-switch、/home-fiber/qsfp28-switch；10G 词频 203、SFP 211；表内「商业 PoE，外壳普遍一般」；KP Franck Dupont（Partner））；群发 8 次无回复。
+- **对方真实需求（有据）**：自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
+- **断点 / 为什么停在这里**：自有品牌电商：已有深圳货源（表内「外壳普遍一般」= 低价白牌），需以外壳/品质差异切入
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，按主表（研究档 saga_fit））——自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业POE 外壳普遍一般 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 26 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,23 @@ updated: 2026-10-24
 - **是谁**：北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez DPH，K odeslání 1 ks）；首次探针快照另见 IGS-4215-4P4T 10 438 Kč、IGS-1020PTF 8 024 Kč、GSD-1022UP、IGTP-815AT 3 403 Kč、「Bude skladem za 2 týdny」。Planet 渠道档案 PB-096 评级 B（需求：e-shop PLANET 工业交换机 ≥ 7 款带 CZK 净价 / 含税价 + 发货库存（IGS-10020MT K odeslání 5 ks、IGS-4215-4T2S 1 ks）+ 60 个月保修口径 → 工业交换机在售真实、有常备量；触达：门店 / 电商信箱 tp@losan.cz + 电话 +420 732 203 848 公开（已被 Elsa 账号群发 10 封 0 回复）；Ústí 店长 Daniel Gujda 姓名公开但邮箱 JS 保护未抄录 → 无具名邮箱；体量：三店区域 IT 商（IČO 64053580）→ 可赢 → B ★★（无具名决策人邮箱，不升 A））。并档说明：Saga 表内本条 SC-602（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：主要是planet的）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-096 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GM — 深挖对位：其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：；$68.2 USD EXW（20% 档，SmartByte LT-IS3210G-2GX8GT 380 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GM — 其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-602` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口
+- **现状一句话**：北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez D
+- **对方真实需求（有据）**：其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：
+- **断点 / 为什么停在这里**：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径
+- **Saga 现在该推什么**：P1 **STI-280GM**（20% 档，按主表（研究档 saga_fit））——其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：
+- **下一步（具体）**：不动　—　—
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

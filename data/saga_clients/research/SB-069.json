@@ -58,5 +58,55 @@
   "tier": 30,
   "why": "自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）"
  },
- "email_hook": "For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?"
+ "email_hook": "For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 exsys@exsys.it；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
+   "type": "网络配件品牌商（EXSYS，现 E-link 供货）",
+   "sieve": "1（只收到群发）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「switch 自己的logo PoE Ethernet 用的E-link的设备」；研究档 risks：官网快照 HTTP 错误（意大利站状态待核；EXSYS 总部站另查）；现供 E-link（深圳）价格基准低"
+  },
+  "situation": "意大利 Exsys（exsys.it，快照 HTTP 错误；EXSYS 为接口/网络配件品牌（总部瑞士/德国），意大利站；表内「switch 自己的 logo PoE Ethernet；用的 E-link 的设备」「可以尝试多跟进一下」）；群发 15 次无回复。",
+  "need": "自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）",
+  "breakpoint": "官网快照 HTTP 错误（意大利站状态待核；EXSYS 总部站另查）；现供 E-link（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 EXSYS 标 PoE（现 E-link 深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作 Marvell 升级位；非管理 5/8 口位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the EXSYS-branded PoE and Ethernet switches, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) and budget unmanaged units in your packaging from small lots, CE/RoHS — which switch SKU sells most through your Italian dealers?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch 自己的logo PoE Ethernet 用的E-link的设备",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "24 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -88,5 +88,55 @@
   "tier": 20,
   "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）"
  },
- "email_hook": "Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?"
+ "email_hook": "Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 elliot@provowire.com, sales@provowire.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "线缆/安防分销商（加拿大，PLANET/BDCOM 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "CA 主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 13；用户表：「大口FS；大口FS BDCOM」；研究档 risks：PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低"
+  },
+  "situation": "加拿大 Provo Ltd.（1958 年起北美电子线缆、CCTV、音视频与配件供应商，服务安防/自动化/对讲/电信行业；合作品牌含 PLANET；表内「大口 FS；BDCOM」；KP Elliot Greenberg（VP of Operations）、Sy Greenberg（Procurement and Operations））；表内 1 次跟进无回复。",
+  "need": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+  "breakpoint": "PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "大口FS；大口FS BDCOM",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "13 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

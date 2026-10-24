@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：工业FS  自己的logo 摄像头 其他一些周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2022-09-14 → 2023-10-19）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1088` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业FS 自己的logo 摄像头 其他一些周边产品」）** ｜ 类型：电商超市 + 自有品牌（OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS 自己的logo 摄像头 其他一些周边产品」；研究档 risks：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）
+- **现状一句话**：美国安防 / IT / AV 超级商店 Silarius（官网：110,000+ 产品、500+ 品牌；「Our own NDAA-compliant cameras, NVRs and switches」= 自有品牌含交换机；表内「工业 FS 自己的 logo，摄像头及周边」）；群发 13 次无回复。
+- **对方真实需求（有据）**：自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）
+- **断点 / 为什么停在这里**：NDAA 合规要求：需提供非 Huawei/ZTE/Hikvision/Dahua 元器件声明（Marvell 方案可满足，但要书面）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，按主表（研究档 saga_fit））——自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo 摄像头 其他一些周边产品 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

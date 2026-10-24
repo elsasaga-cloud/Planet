@@ -56,5 +56,49 @@
   "tier": 25,
   "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）"
  },
- "email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+ "email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yangi」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yanginguvenliksistemleri@」；研究档 risks：无域名、无法核实规模；无后续跟进"
+  },
+  "situation": "ISAF 记录：Doğan Tanrıkulu（dn.elektrikmuhendislik@gmail.com / dn.yanginguvenliksistemleri@gmail.com，+90 541 549 04 37，WhatsApp 已加）——说了 Switch、交换了名片；无后续跟进。公司名表明为电气工程 + 消防安全系统承包商；无域名、无公开资料可核 → 仅表内信息。守界：消防报警主系统不供，仅配套 PoE 交换机。",
+  "need": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）",
+  "breakpoint": "无域名、无法核实规模；无后续跟进",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yanginguvenliksistemleri@gmail.com / 0541 549 0437 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

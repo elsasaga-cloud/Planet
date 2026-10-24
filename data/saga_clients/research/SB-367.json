@@ -99,5 +99,55 @@
   "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）"
  },
  "email_hook": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?",
- "country_fix": "加拿大"
+ "country_fix": "加拿大",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 dexter@petawise.com, ebin@petawise.com；被打开主题「Mini Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "Uniview 加拿大分销商（PoE 现 Itoonertech）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "CA 主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonert」；研究档 risks：Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低"
+  },
+  "situation": "加拿大 Petawise（「Canadian Arm of Uniview Technologies」安大略 IP 视频监控分销，Wanglu IPC 测试仪独家分销；PoE 交换机栏目全线用 Itoonertech（表内「全线用 itoonertech 的 FS，IPC 比较多，主要是 CCTV」）；KP Stephane Lavigueur（VP of Product and Engineering）、Ebin Nazar（Sales Engineer）、John K）；群发 18 次无回复。",
+  "need": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "Uniview 加拿大分支定位（品牌导向，Uniview 自带 PoE 线）；现供 Itoonertech（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → dexter@petawise.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "28 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

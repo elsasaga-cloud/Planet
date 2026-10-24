@@ -68,5 +68,55 @@
   "tier": 30,
   "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。"
  },
- "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?"
+ "email_hook": "Steve, for the AMG managed PoE and media-converter lines — Marvell-based DIN 8-PoE + 2-SFP managed under the AMG label from small lots (CE/UKCA/RoHS), plus 10G SFP+/RJ45 converters on request; which SKU is next for re-sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@amgsystems.com, steve.clarke@amgsystems.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 25；用户表：「兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-」；研究档 risks：10G MC 不在 Saga 价目（SmartByte 型号另询）"
+  },
+  "situation": "英国工业网络传输方案制造商（工业 IP/以太网、光纤、PoE、无线；MC、管理 / 非管理交换机、4G；+44 1767 600777；美国销售 usasales@），Steve Clarke；表内「MC SFP 工业 FS 自己的牌子；重要：光路 10G MC（AMG210M 系列）可多跟进」；群发 16 次无回复。英国品牌商 → OEM 30%。",
+  "need": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
+  "breakpoint": "10G MC 不在 Saga 价目（SmartByte 型号另询）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "AMG 工业管理 PoE 线补 SKU → STI-288GPM（$85.5 @30%）贴 AMG 标；10G MC 按 SmartByte 注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "25 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

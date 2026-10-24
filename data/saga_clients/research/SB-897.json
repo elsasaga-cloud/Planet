@@ -60,5 +60,40 @@
   "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
  "email_hook": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE?",
- "country_fix": "白俄罗斯"
+ "country_fix": "白俄罗斯",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "网络与电信设备分销商（白俄罗斯）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "白俄罗斯（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区"
+  },
+  "situation": "白俄罗斯 Датастрим ДЕП / datastream.by（明斯克网络与电信设备分销：零售与批发，站内 Zyxel / Vivotek、PoE 注入器 INJ-101GT、NS-EX-1GP 延长器；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「доставка по Минску и Беларуси」→ 更正为白俄罗斯）；表内无跟进记录。",
+  "need": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "白俄罗斯：结算/物流受限，非主攻区",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE?"
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：法国 GMI Databox（工业网络分销商：三旺、Moxa 等知名品牌；官网 timeout）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：3旺 moxa等比较有名的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-11 → 2025-10-22）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-941` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ventes@gmidatabox.fr；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）** ｜ 类型：工业网络分销商（法国，3onedata/Moxa） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「3旺 moxa等比较有名的牌子」；研究档 risks：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@
+- **现状一句话**：法国 GMI Databox（工业网络分销商：三旺、Moxa 等知名品牌；官网 timeout）；群发 8 次无回复。
+- **对方真实需求（有据）**：三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）
+- **断点 / 为什么停在这里**：品牌分销导向（Moxa 粘性、三旺价格基准低）；官网 timeout；8 次无回复，仅 ventes@
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 3旺 moxa等比较有名的牌子 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 18 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

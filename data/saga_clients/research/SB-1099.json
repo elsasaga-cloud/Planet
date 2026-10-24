@@ -90,5 +90,55 @@
   "tier": 30,
   "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线"
  },
- "email_hook": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?"
+ "email_hook": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 18 封 2024→2026，其中 6 封被打开，0 回；收件 harshul@eion.com；被打开主题「Mini Industrial PoE Switch、Commercial PoE Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "CA 主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
+  },
+  "situation": "加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+  "need": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线",
+  "breakpoint": "国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → harshul@eion.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Mini Industrial PoE Switch、Commercial PoE Switch",
+    "why": "18 封 / 6 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

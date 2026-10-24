@@ -100,5 +100,47 @@
   "tier": 20,
   "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求："
  },
- "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?"
+ "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
+  },
+  "situation": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-9",
+  "need": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：",
+  "breakpoint": "PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

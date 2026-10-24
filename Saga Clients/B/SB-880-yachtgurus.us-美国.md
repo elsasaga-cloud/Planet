@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-080GE — 深挖对位：船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）；$31.4 USD EXW（20% 档，SmartByte LT-IS3008G-8GT 175 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-880` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@yachtgurus.us；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）** ｜ 类型：船艇用品网店（美国，工业 FS 为边缘品类） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 15；用户表：「工业FS」；研究档 risks：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复
+- **现状一句话**：美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。
+- **对方真实需求（有据）**：船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）
+- **断点 / 为什么停在这里**：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、16 Port Ethernet Switch | 15 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

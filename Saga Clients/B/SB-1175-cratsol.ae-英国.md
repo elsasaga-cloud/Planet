@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。（调研 2026-10-21；表内兴趣：10G DAC 3米 300个单价）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1175` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「10G DAC 3米 300个单价」）** ｜ 类型：IT 贸易商（英国/阿联酋，DAC 询盘） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「10G DAC 3米 300个单价」；研究档 risks：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@
+- **现状一句话**：英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。
+- **对方真实需求（有据）**：询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
+- **断点 / 为什么停在这里**：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 10G DAC 3米 300个单价 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

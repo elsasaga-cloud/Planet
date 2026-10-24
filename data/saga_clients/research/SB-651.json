@@ -92,5 +92,55 @@
    "url": "http://virtware.pt/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 9 封 2025→2026，无记录打开，0 回；收件 augusto@virtware.pt, info@virtware.pt；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」）",
+   "type": "电信/布线产品分销商（葡萄牙，TP-Link 管理交换机在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "葡萄牙（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9；用户表：「很多知名小品牌的」；研究档 risks：TP-Link 品牌货为主：白牌需靠价差"
+  },
+  "situation": "葡萄牙 Virtware（电信集成方案分销：结构化布线系统、交换机、路由器及电信材料；站内 TP-Link TL-SG5428 / TL-SL5428E / TL-SL3452、ATEN CS74U；表内「很多知名小品牌的」；KP Augusto Oliveira（Owner，augusto@））；表内无跟进记录。",
+  "need": "在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM",
+  "breakpoint": "TP-Link 品牌货为主：白牌需靠价差",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Augusto, alongside the TP-Link TL-SG5428 / TL-SL5428E managed switches you distribute, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which managed model do your cabling installers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "很多知名小品牌的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Optional Marvell Chipset Solutions、OEM Core Switching Solution",
+    "why": "9 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

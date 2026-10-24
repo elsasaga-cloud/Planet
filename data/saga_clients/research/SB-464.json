@@ -81,5 +81,55 @@
   "tier": 20,
   "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "Petra, alongside the PLANET and MikroTik switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PLANET PoE model do your resellers order most, so we quote its equivalent first?"
+ "email_hook": "Petra, alongside the PLANET and MikroTik switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — which PLANET PoE model do your resellers order most, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 david@ezy.hr, petra@ezy.hr；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+   "type": "IT 设备分销商（克罗地亚，在售 PLANET）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "克罗地亚（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 17；用户表：「分销商」；研究档 risks：小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触"
+  },
+  "situation": "克罗地亚 EZY Infotech d.o.o.（IT 设备分销：网络（Planet 词频 12、MikroTik）、光纤、无线、PC 组件；表内「分销商」；KP Petra Novosel（Managing Director，petra@）、David Dolenec（Product Manager））；群发 6 次无回复。",
+  "need": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
+  "breakpoint": "小国（克罗地亚）：量有限；6 次无回复 → 改向 Managing Director 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 PLANET 商用交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 GS-4210-8P2S；24 口位 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "分销商",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

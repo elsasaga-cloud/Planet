@@ -131,5 +131,47 @@
   "tier": 20,
   "why": "对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求："
  },
- "email_hook": "You import PLANET industrial PoE for utility and reseller customers; a DIN-rail PoE+ L2+ switch sourced direct gives you a lower-cost line beside PLANET without changing the spec sheet. On your utility and reseller orders, is the 4/8-port industrial PoE+ class what ships most, or do PoE injectors and extenders lead?"
+ "email_hook": "You import PLANET industrial PoE for utility and reseller customers; a DIN-rail PoE+ L2+ switch sourced direct gives you a lower-cost line beside PLANET without changing the spec sheet. On your utility and reseller orders, is the 4/8-port industrial PoE+ class what ships most, or do PoE injectors and extenders lead?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 18 封 2025→2026，其中 2 封被打开，0 回；收件 mike.white@saratota.com, sales@saratota.com；被打开主题「10G Enterprise SFP Switch、48 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 18，Opened 标签 2（Simon 群发追踪）；研究档 risks：公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）"
+  },
+  "situation": "赫特福德郡的小型进口代理商，代理 PLANET / Patton / LAVA 等六家厂商，向经销商与燃气/石油/公用事业/政府客户供工业 PoE 与电信接入产品。类型：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）。信号：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 I",
+  "need": "对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：",
+  "breakpoint": "公用事业/政府客户的认证门槛（UKCA 可；UL 不涉及）；年台数；是否已直接进口（自述 import）",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位其首页主推 IGS-624HPT（工业 4 PoE + 2 SFP）与工业 PoE 20 款——工业 DIN 8 口 PoE L2+ 覆盖；进口分销 → 20%（沿用 Planet 档案 PB-043）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、48 Port PoE Managed Switch",
+    "why": "18 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

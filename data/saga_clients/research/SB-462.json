@@ -45,5 +45,49 @@
   "tier": 25,
   "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定"
  },
- "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?"
+ "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（用户表字段）」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业"
+  },
+  "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
+  "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
+  "breakpoint": "身份未核实；若为印度 IT 服务公司则不在目标区域/行业",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

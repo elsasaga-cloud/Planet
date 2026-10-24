@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：全线产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：推送 1 次（? → ?）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-984` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 marketing@istccorp.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：BDCOM 美洲分销商（美国/拉美） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「全线产品」；研究档 risks：BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@
+- **现状一句话**：美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供
+- **断点 / 为什么停在这里**：BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 全线产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

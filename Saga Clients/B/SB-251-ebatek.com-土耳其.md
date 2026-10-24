@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。（调研 2026-10-21；表内兴趣：没做过多交谈，拿了彩页 让用WhatsApp联系）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-251` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；研究档 risks：需求未表达；公共项目守界按个案；无后续跟进
+- **现状一句话**：加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。
+- **对方真实需求（有据）**：项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）
+- **断点 / 为什么停在这里**：需求未表达；公共项目守界按个案；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

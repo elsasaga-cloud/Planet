@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。（调研 2026-10-21；表内兴趣：工业PoE配件）
 - **为什么是 B 级**：**调研后定级 B**（17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 17 次（2024-01-20 → 2025-10-13）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-025` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 info@sicurmax.com, massimo@sicurmax.com；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）** ｜ 类型：安防集成商（含军方/NATO 场所资质） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；研究档 risks：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机
+- **现状一句话**：意大利维罗纳省的民用/工业安防集成商（1992 年起，ISO 9001、SOA OS5/OS19/OS30 资质，具备意大利军方与 NATO 场所施工资格），业务：防盗、视频监控（含城市/交通）、消防、门禁。用户表：WhatsApp 已加，兴趣工业 PoE 配件，17 次推送无回复。
+- **对方真实需求（有据）**：集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档
+- **断点 / 为什么停在这里**：守界：客户持军方/NATO 施工资质——仅供民用/工业项目用通用交换机
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——集成商项目自用：STC-28DGGPM / STC-424DGGPM-280W 商用管理 PoE；工地/户外机柜位 STI-288DGGPM；25% 档
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the school and municipal CCTV jobs you run around Verona, the Marvell-based 8- and 24-port PoE+ managed switches are in stock EXW, and the DIN-rail 8-port version covers the site cabins.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、16 Port PoE Managed Switch | 24 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

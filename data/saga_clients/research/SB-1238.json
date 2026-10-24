@@ -73,5 +73,49 @@
   "tier": 20,
   "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做"
  },
- "email_hook": "For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?"
+ "email_hook": "For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch 工业电源」）",
+   "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「switch 工业电源」；研究档 risks：交换机为商店配套品类：量小；表内「质量一般」"
+  },
+  "situation": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
+  "need": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
+  "breakpoint": "交换机为商店配套品类：量小；表内「质量一般」",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch 工业电源",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

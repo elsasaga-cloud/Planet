@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。（调研 2026-10-21；表内兴趣：工业PoE Extender）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代；$32.5 USD EXW（25% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-094` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 mario@yminc.ca；主题多为「Updated Ethernet Switches Links」）** ｜ 类型：网络/安防贸易商（加拿大，PoE 延长器 RFQ） ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：CA 主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ」；研究档 risks：PoE 延长器品类 Saga 不供（Q-32）；官网 timeout（业务范围待核）；RFQ 时效待核（2025）
+- **现状一句话**：加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。
+- **对方真实需求（有据）**：PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代
+- **断点 / 为什么停在这里**：PoE 延长器品类 Saga 不供（Q-32）；官网 timeout（业务范围待核）；RFQ 时效待核（2025）
+- **Saga 现在该推什么**：P1 **STI-054GP**（25% 档，按主表（研究档 saga_fit））——PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Updated Ethernet Switches Links | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

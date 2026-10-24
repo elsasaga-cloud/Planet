@@ -103,5 +103,49 @@
   "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
  },
  "email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?",
- "country_fix": "立陶宛"
+ "country_fix": "立陶宛",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」；研究档 risks：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进"
+  },
+  "situation": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 ",
+  "need": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

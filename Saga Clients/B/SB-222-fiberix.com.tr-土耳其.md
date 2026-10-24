@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。（调研 2026-10-21；表内兴趣：在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用；在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  PoE不常用）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-222` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用」；研究档 risks：已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进
+- **现状一句话**：土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。
+- **对方真实需求（有据）**：运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报
+- **断点 / 为什么停在这里**：已有中国采购渠道（广州）；小 ISP 预算有限；无后续跟进
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L3，$132.7）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L3 switch EXW 132,7 USD, yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

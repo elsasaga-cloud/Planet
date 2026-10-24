@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：波兰 Lanberg（IT 配件品牌（Impakt S.A. 旗下）：PoE 设备、商用 FS、周边，自有 logo；官网快照 HTTP 错误；表内「质量一般」；邮箱 export@）；表内未跟进。（调研 2026-10-21；表内兴趣：PoE设备 商业FS 周边产品 自己的logo）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 Lanberg 标 PoE/商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8/16 口位 HRUI（列表价，注明）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（研究档） — 自有品牌 + 体量；按主表 OEM 30% 档
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：随 SA-076 A 邮箱 → lukasz.gasiewicz@impakt.com.pl 并档；不再对 support@lanberg.pl 群发
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-590` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt** ｜ 类型：波兰 IT 配件品牌（Lanberg；Impakt S.A. 旗下，OEM 采购，体量大） ｜ 筛子：2（support@ 读信并内部转交） ｜ 停点：support@ 不是采购；真正的对口在 Impakt（SA-076 已有绑定线） ｜ 复活：并入 SA-076 跟进，不单独群发 ｜ 通路：PL 次级（但 OEM 品牌商 = 目标第一档） ｜ 节奏：随 SA-076 ｜ 证据：E 邮箱 index_replied 2025-08-25 support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl；A 邮箱 out 19 / 0 回
+- **现状一句话**：Lanberg 是 Impakt 的自有品牌；A 邮箱对 lanberg.pl 群发 19 封无回，E 邮箱在 2025-08-25 收到 support@lanberg.pl 的回复，内容是把 Saga 的 90W PoE 信转给 Impakt 的 Łukasz Gąsiewicz。这说明两户是同一个采购体系。
+- **对方真实需求（有据）**：见 SA-076。
+- **断点 / 为什么停在这里**：双档并行。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM（研究档）**（30% 档，按主表 OEM 30% 档）——自有品牌 + 体量
+- **下一步（具体）**：随 SA-076　A 邮箱 → lukasz.gasiewicz@impakt.com.pl　并档；不再对 support@lanberg.pl 群发
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-08-25 | 来（E 邮箱） | Support Lanberg | RE: [EXTERNAL] 90W PoE Managed Switch（转 lukasz.gasiewicz@impakt.com.pl） | Lanberg 采购在 Impakt | `gmail_e/index_replied` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：E 邮箱该信正文未入库（仅索引）
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：美国 Altelix（设计制造防水设备机箱与天线，面向应急通信、快速部署与无线通信；站内 PoE 关键词；KP Ryan Sheehan（Technical Sales Specialist）、Kenneth Burgner（Product Marketing Manager））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1151` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 ken.burgner@altelix.com, ryan.sheehan@altelix.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：户外机箱/天线制造商（美国，PoE 交换机为配套） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；研究档 risks：交换机为机箱配套（量取决于捆绑 SKU）；未跟进过 → 向 Product Marketing Manager 具名首触
+- **现状一句话**：美国 Altelix（设计制造防水设备机箱与天线，面向应急通信、快速部署与无线通信；站内 PoE 关键词；KP Ryan Sheehan（Technical Sales Specialist）、Kenneth Burgner（Product Marketing Manager））；表内未跟进。
+- **对方真实需求（有据）**：户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM
+- **断点 / 为什么停在这里**：交换机为机箱配套（量取决于捆绑 SKU）；未跟进过 → 向 Product Marketing Manager 具名首触
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

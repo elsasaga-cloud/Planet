@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Elettronica e Sicurezza（安防系统分销：PoE 延长器 BD_POE40（1 进 4 出 60W）、IP 可视对讲套件、NVR、Tenda；表内「找 extender / EoC，会说中文」；KP Fortunato Riccardo；电话 +39 0445 344591）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：找extender EOC 会说中文）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Riccardo, on the PoE extender you were looking for: we can quote a 1-in/4-out 60 W extender from our partner line, and alongside it a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — how many extenders does the project need?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-793` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@elettronicaesicurezza.it；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）** ｜ 类型：安防系统分销商（意大利，PoE 延长器/EoC 询盘） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「找extender EOC 会说中文；0039 0445 344591」；研究档 risks：询盘品类（PoE extender / EoC）Saga 列表无 → 代报需注明（Q-32）
+- **现状一句话**：意大利 Elettronica e Sicurezza（安防系统分销：PoE 延长器 BD_POE40（1 进 4 出 60W）、IP 可视对讲套件、NVR、Tenda；表内「找 extender / EoC，会说中文」；KP Fortunato Riccardo；电话 +39 0445 344591）；群发 14 次无回复。
+- **对方真实需求（有据）**：询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP
+- **断点 / 为什么停在这里**：询盘品类（PoE extender / EoC）Saga 列表无 → 代报需注明（Q-32）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Riccardo, on the PoE extender you were looking for: we can quote a 1-in/4-out 60 W extender from our partner line, and alongside it a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — how many extenders does the project need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 找extender EOC 会说中文；0039 0445 344591 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、90W PoE Managed Switch | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

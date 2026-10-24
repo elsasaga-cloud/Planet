@@ -73,5 +73,55 @@
   "tier": 20,
   "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套"
  },
- "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+ "email_hook": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 kontakt@segno.de；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」）",
+   "type": "工业自动化组件供应商（德国，自有+分销）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「电口」；研究档 risks：自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态"
+  },
+  "situation": "德国 Wachendorff Prozesstechnik GmbH & Co. KG（工业电子：面板 PC、远程维护、数据记录、协议转换等自动化组件，「Alles aus einer Hand」、原机测试；表内「电口」「可以着重跟一下」；邮箱 kontakt@segno.de（关联域））；群发 8 次无回复。",
+  "need": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套",
+  "breakpoint": "自动化组件商：交换机为配套品类，量小；Siemens/Schneider 生态",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内兴趣「电口」→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作面板 PC/远程维护配套",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the Ethernet switches you supply with panel PCs and remote-maintenance gateways, we offer Marvell-based DIN-rail 5/8-port gigabit copper units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots — which port count do your automation customers use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "电口",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
+    "why": "10 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

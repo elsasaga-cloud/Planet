@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：土耳其 Cebeci Grup（Cebeci Teleteks San. ve Tic. Ltd. Şti.：光纤/电信测试与接入设备分销——Kingfisher/Tempo、Transition Networks/Lantronix、Micos Telcom/PLP、Argus 260；站内自有 CFC 系列 PoE 交换机页（CFC-8T2S 非管理 PoE、CFC-2F1S 工业 FE PoE）；表内「ONV；工业 FS 工业串口 有国内的」；KP Mustafa Engin（Satış ve Proje Direktörü））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：ONV  工业FS 工业串口 有国内的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-969` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 iletisim@cebecigrup.com, mustafaengin@cebecigrup.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：光纤/电信设备分销商（土耳其，自有 CFC 标 PoE 线，现 ONV/国内） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「ONV 工业FS 工业串口 有国内的」；研究档 risks：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
+- **现状一句话**：土耳其 Cebeci Grup（Cebeci Teleteks San. ve Tic. Ltd. Şti.：光纤/电信测试与接入设备分销——Kingfisher/Tempo、Transition Networks/Lantronix、Micos Telcom/PLP、Argus 260；站内自有 CFC 系列 PoE 交换机页（CFC-8T2S 非管理 PoE、CFC-2F1S 工业 FE PoE）；表内「ONV；工业 FS 工业串口 有国内的」；KP Mustafa Engin（Satış ve Proje Direktörü））；表内 2 次跟进无回复。
+- **对方真实需求（有据）**：CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
+- **断点 / 为什么停在这里**：现供 ONV/国内厂（价格基准低）；工业串口产品 Saga 不供；土耳其汇率敏感
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——CFC 标 PoE 线（现 ONV/国内）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）、工业 FE PoE MC STI-111FP（$27.2）、商用 8 PoE + 2 SFP L2+ STC-28DGGPM（$87.4）贴 CFC 标；串口服务器 Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Mustafa, for the CFC-branded PoE switches in your range (8T2S / 2F1S class), we can be a second ODM source on a Marvell platform — industrial 8-PoE + 2 SFP, FE/gigabit PoE media converters, commercial 8-PoE + 2 SFP L2+ — in your packaging from small lots, CE/RoHS — which CFC SKU do you reorder most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | ONV 工业FS 工业串口 有国内的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

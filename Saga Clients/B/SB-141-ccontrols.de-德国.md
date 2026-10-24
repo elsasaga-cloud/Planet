@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Contemporary Controls（美国 Contemporary Controls 德国公司；楼宇自动化方案（BACnet）与定制设计制造，1975 年起；自有 CTRLink 系列交换机 EISK5-GT / EISK8P-GT（PoE）、EIPE PoE 注入；表内「工业 FS / MC / PoE / 周边，自己的 logo」「可以着重跟一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC POE 周边产品 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-25 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-141` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@ccontrols.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）** ｜ 类型：楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC POE 周边产品 自己的logo」；研究档 risks：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格
+- **现状一句话**：德国 Contemporary Controls（美国 Contemporary Controls 德国公司；楼宇自动化方案（BACnet）与定制设计制造，1975 年起；自有 CTRLink 系列交换机 EISK5-GT / EISK8P-GT（PoE）、EIPE PoE 注入；表内「工业 FS / MC / PoE / 周边，自己的 logo」「可以着重跟一下」）；群发 8 次无回复。
+- **对方真实需求（有据）**：自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无
+- **断点 / 为什么停在这里**：楼宇自动化（BACnet）生态：对 24 VAC 供电/认证细节有要求，需核规格
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——自有 EISK8P-GT（8 口千兆 PoE DIN 非管理）→ 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）贴 CTRLink 标；EISK5-GT → STI-050GE（$18.5）；PoE 注入 Saga 无
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the CTRLink EISK5-GT and EISK8P-GT DIN-rail switches, we can be a second ODM source on a Marvell platform (5-GE, 8-PoE + 2 SFP, −40~75 °C, 24 VAC/DC option on request) from small lots under your label, CE/RoHS — which model would you dual-source first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS MC POE 周边产品 自己的logo | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

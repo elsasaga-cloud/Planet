@@ -48,5 +48,49 @@
   "tier": 25,
   "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出"
  },
- "email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
+ "email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI KVM 延长器 … 36-20-94 66366 已加」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "匈牙利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「HDMI KVM 延长器 … 36-20-94 66366 已加」；研究档 risks：无法核实身份；20 次跟进无果 → 低优先"
+  },
+  "situation": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
+  "need": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
+  "breakpoint": "无法核实身份；20 次跟进无果 → 低优先",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端 25% 档：STI-110GE（$23.4）光电转换 + HDMI 光端机报价；交换机需求待对方提出",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "HDMI KVM 延长器 … 36-20-94 66366 已加",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

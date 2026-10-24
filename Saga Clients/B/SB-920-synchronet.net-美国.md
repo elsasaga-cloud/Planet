@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 SynchroNet（布法罗 IT 支持服务商/MSP：面向各规模企业的托管 IT；博客含 switchport / stack-switch；表内「Stacking」；KP Tanner Sanderson（BD）、Gordon Brandt（Engineer））；表内未跟进。（调研 2026-10-21；表内兴趣：Stacking）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-920` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 2 封 2026，无记录打开，0 回；收件 gbrandt@synchronet.net, tanner@synchronet.net；主题多为「OEM Core Switching Solution、24 Port PoE Managed Switch」）** ｜ 类型：MSP/IT 服务商（美国，堆叠需求） ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「Stacking」；研究档 risks：需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认
+- **现状一句话**：美国 SynchroNet（布法罗 IT 支持服务商/MSP：面向各规模企业的托管 IT；博客含 switchport / stack-switch；表内「Stacking」；KP Tanner Sanderson（BD）、Gordon Brandt（Engineer））；表内未跟进。
+- **对方真实需求（有据）**：堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）
+- **断点 / 为什么停在这里**：需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，按主表（研究档 saga_fit））——堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Stacking | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | OEM Core Switching Solution、24 Port PoE Managed Switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

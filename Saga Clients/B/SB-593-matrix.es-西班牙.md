@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。（调研 2026-10-21；表内兴趣：几个小有名气的牌子）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-593` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 info@matrix.es；主题多为「24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update」）** ｜ 类型：工业电子/IoT 组件供应商（西班牙，面向集成商） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；研究档 risks：站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低
+- **现状一句话**：西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。
+- **对方真实需求（有据）**：面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低
+- **断点 / 为什么停在这里**：站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

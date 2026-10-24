@@ -109,5 +109,55 @@
    "url": "https://www.optokon.pl/urzadzenia/40-switch-lmsw-83m.html",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 40 封 2024→2026，其中 7 封被打开，0 回；收件 abuy@optokon.com, info@optokon.ua；被打开主题「24 Port Fiber Switch、Industrial PoE Switch」）",
+   "type": "光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "PL 次级重点",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 40，Opened 标签 7（Simon 群发追踪）；用户表：「SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics」；研究档 risks：守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固"
+  },
+  "situation": "波兰 Optokon（捷克 Optokon 集团波兰公司，光纤制造与配件：光缆、连接器、跳线、测试仪；自有 LMSW 系列交换机（LMSW-E33 / LMSW-83M，加固交换机栏目）；首页栏目含「Urządzenia i sprzęt militarny（军用设备）」；表内「SFP switch 自己的牌子，大量周边产品 / 工业 FS SFP MC，CTC Union 的 / CWDM」；KP Pytlak（pytlak@optokon.com）、Erik Mikus（Director of Technical）、Abiel Abuy（Procurement & Logistics））；群发 16 次无回复。",
+  "need": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉",
+  "breakpoint": "守界：首页含军用设备栏目（Urządzenia i sprzęt militarny）、集团有 .ua 公司——只谈民用 LMSW 商用线，不涉军用/加固",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "仅民用 LMSW 线：自有标商用管理交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 GE + 4×10G STC-424XGGM 贴 LMSW 标；工业位 STI-288GPM；SFP/CWDM Saga 不供（Q-32）；军用加固线不涉",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → abuy@optokon.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Abiel, for the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port Fiber Switch、Industrial PoE Switch",
+    "why": "40 封 / 7 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

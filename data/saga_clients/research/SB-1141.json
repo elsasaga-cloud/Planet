@@ -87,5 +87,55 @@
   "tier": 25,
   "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM"
  },
- "email_hook": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?"
+ "email_hook": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 p.christos@wave-electronics.com.cy；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "塞浦路斯（欧洲全域主攻）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「对switch有兴趣」；研究档 risks：机场等公共关键设施守界按个案；16 次跟进 0 回复"
+  },
+  "situation": "塞浦路斯尼科西亚的老牌安防系统集成商（1983 年注册 HE 19231；1–24 人；1,100+ 项目：拉纳卡国际机场、利马索尔总医院、塞浦路斯银行与 COOP 银行网点等；业务：安防系统设计/销售/安装/维护、A 级电气安装与自动化、电子安防/监控/生命安全交钥匙项目；负责人 Charalampos Charalampous；2023 年增登记商号 Wave Electronics Fire & Security Systems）。展会记录：对交换机有兴趣；联系人 p.christos；16 次跟进 0 回复。",
+  "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM",
+  "breakpoint": "机场等公共关键设施守界按个案；16 次跟进 0 回复",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）用于银行网点/医院楼层；8 口 STC-28DGGPM；户外 STI-288DGGPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → p.christos@wave-electronics.com.cy",
+   "action": "短信一问（email_hook）",
+   "one_question": "For bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "对switch有兴趣",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+    "why": "24 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

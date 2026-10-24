@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：意大利 Wi-Com Solutions（电子元器件/通信部件分销：天线（DAS/Small Cell/专网/RBS）、电池、switch/media converter 栏目（EN50155/EN50121-4/IEC 60255 等规格）；市场为电信、汽车、工业电子与军工；KP Alessandro Padovani（General Manager）；表内「工业 FS MC switch 周边产品」「可以尝试多跟进一下」）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS MC switch 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-244` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 info@wicomsolutions.it；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：通信部件分销商（意大利，工业 FS/MC 栏目） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC switch 周边产品」；研究档 risks：守界备注：军工为其市场之一——只供民用通用工业交换机；EN50155/轨道规格 Saga 不做
+- **现状一句话**：意大利 Wi-Com Solutions（电子元器件/通信部件分销：天线（DAS/Small Cell/专网/RBS）、电池、switch/media converter 栏目（EN50155/EN50121-4/IEC 60255 等规格）；市场为电信、汽车、工业电子与军工；KP Alessandro Padovani（General Manager）；表内「工业 FS MC switch 周边产品」「可以尝试多跟进一下」）；表内 6 次跟进无回复。
+- **对方真实需求（有据）**：switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）
+- **断点 / 为什么停在这里**：守界备注：军工为其市场之一——只供民用通用工业交换机；EN50155/轨道规格 Saga 不做
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS MC switch 周边产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 17 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。（调研 2026-10-21；表内兴趣：主要是CCTV 商业PoE Utepo的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-894` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要是CCTV 商业PoE Utepo的」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：主要是CCTV 商业PoE Utepo的」；研究档 risks：无邮箱（需网站表单）
+- **现状一句话**：英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。
+- **对方真实需求（有据）**：对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
+- **断点 / 为什么停在这里**：无邮箱（需网站表单）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 商业PoE Utepo的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

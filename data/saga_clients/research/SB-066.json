@@ -81,5 +81,55 @@
   "tier": 25,
   "why": "运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM"
  },
- "email_hook": "For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?"
+ "email_hook": "For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 howardb@broadstar.com, hreid@broadstar.com；主题多为「Updated Ethernet Switches Links、Marvell Managed Commercial Switches」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 7；用户表：「（用户表字段）」；研究档 risks：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活"
+  },
+  "situation": "佛州西棕榈滩的社区型「bulk」光纤 ISP/电视/VoIP 运营商（1994 年成立，51–200 人，营收 $18.9M 口径）：为 HOA、公寓、公寓楼协会、养老社区、酒店提供 FTTH，**采用 AON（有源光网络）——每户一对专属光纤到中心机房**，最高 5 Gig（2 Gig 为最常见 bulk 档，52 个社区中 24 个）；持续改造社区（2024 Tuscany of Palm Beach、2025 Jupiter Lakes Villas）。AON 架构 = 每个社区机房需要大量 SFP 端口 L3 汇聚交换机——与 Saga 全光 L3 机型强相关。用户表：WhatsApp 已加，23 次跟进 0 回复。",
+  "need": "运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM",
+  "breakpoint": "US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活",
+  "saga_now": {
+   "p1": "STC-448XGGMO",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Updated Ethernet Switches Links、Marvell Managed Commercial Switches",
+    "why": "7 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

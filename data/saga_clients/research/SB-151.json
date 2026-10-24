@@ -73,5 +73,55 @@
   "tier": 30,
   "why": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。"
  },
- "email_hook": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory?"
+ "email_hook": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 adevries@microsens.de, nfaut@microsens.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "DE 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23；用户表：「兴趣：自己的logo 白色外壳 工业FS 10G MC」；研究档 risks：白色外壳定制 → 模具 / 起订量；10G MC 另询；14 次群发无回复"
+  },
+  "situation": "德国光纤网络 / 智能楼宇 / 工业交换机制造商 MICROSENS（switch 123 / industrial 55 / poe 37），Anke de Vries、Nailia Faut（表内「可着重跟」）；表内「自己的 logo 白色外壳；工业 FS 10G MC」；群发 14 次无回复。德国品牌商 → OEM 30%。",
+  "need": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。",
+  "breakpoint": "白色外壳定制 → 模具 / 起订量；10G MC 另询；14 次群发无回复",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 FS 贴 MICROSENS 标 → STI-288GPM（$85.5 @30%）；10G MC 按 SmartByte 另询。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Anke, for a MICROSENS-labelled industrial managed 8-PoE + 2-SFP (Marvell) and 10G media converters — white housing is possible above a minimum lot; what annual volume would the white-housing SKU run, so I check tooling with the factory?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：自己的logo 白色外壳 工业FS 10G MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "23 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

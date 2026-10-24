@@ -71,5 +71,55 @@
   "tier": 20,
   "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）"
  },
- "email_hook": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?"
+ "email_hook": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 biuro@leoptics.pl；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "光纤测试设备供应商（波兰，工业 FS 为副线）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「有几个工业FS；CWDM」；研究档 risks：主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供"
+  },
+  "situation": "波兰 Leoptics（光学/光纤测试设备供应商：PON 光功率计、光话机、可视故障定位仪，LEO- 自有型号；少量工业 FS（表内「有几个工业 FS / CWDM」「链接里是一个德国牌子」「可以着重跟一下」））；群发 8 次无回复。",
+  "need": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）",
+  "breakpoint": "主业光纤测试仪表（Saga 不做）：交换机为副线；CWDM 需求 Saga 不供",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the industrial switches you list next to your fibre test instruments, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your fibre-network customers ask for most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有几个工业FS；CWDM",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "17 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

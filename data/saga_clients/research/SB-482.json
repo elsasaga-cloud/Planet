@@ -81,5 +81,55 @@
   "tier": 25,
   "why": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号"
  },
- "email_hook": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?"
+ "email_hook": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 info@syserso.com, naif.kiy@syserso.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」）",
+   "type": "ICT 集成商（德国，KRITIS/运营商，民用口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "DE 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「Networking」；研究档 risks：守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom "
+  },
+  "situation": "德国 Syserso Networks（为关键基础设施运营商与网络运营商规划、实施与支持网络：Security、VoIP、Transport、Access；Access 栏目有 Edgecore 工业以太网、Raisecom Gazelle 工业以太网；KP Naif Kiy（Managing Director）；表内「Networking」）；表内 2 次跟进无回复。",
+  "need": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号",
+  "breakpoint": "守界备注：客户为关键基础设施运营商（KRITIS）——只供民用通用工业交换机，IEC 61850-3 等认证 Saga 无；Edgecore/Raisecom 价格基准已低",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Access 栏目工业以太网（现 Edgecore/Raisecom）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）；守界：仅民用通用型号",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Naif, alongside the Edgecore and Raisecom industrial Ethernet lines in your access portfolio, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a cost-sensitive access position in your utility or operator projects?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Networking",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、48 Port PoE Managed Switch",
+    "why": "13 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

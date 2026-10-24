@@ -83,5 +83,55 @@
   "tier": 20,
   "why": "PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Alongside the Milesight and PLANET PoE switches in your catalogue, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?"
+ "email_hook": "Alongside the Milesight and PLANET PoE switches in your catalogue, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 obchod@escadtrade.cz；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "CCTV 分销网店（捷克，多品牌）",
+   "sieve": "1（只收到群发）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 19；用户表：「卖几个有名牌子的 MILESIGHT」；研究档 risks：多品牌网店（白牌契合度待核）；8 次无回复，仅 obchod@"
+  },
+  "situation": "捷克 Escad Trade（安防摄像机/CCTV 网店与分销：Milesight、Hikvision、Dahua、Axis、Planet、TP-Link；站内 PoE 交换机与非 PoE 交换机分类（/poe-switche-c1073/、Milesight MS-S0204-EL 页）；表内「卖几个有名牌子的 MILESIGHT」「可以尝试多跟进一下」）；群发 8 次无回复。",
+  "need": "PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "多品牌网店（白牌契合度待核）；8 次无回复，仅 obchod@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "卖几个有名牌子的 MILESIGHT",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "19 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

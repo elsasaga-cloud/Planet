@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：MC 光路的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-09-16 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-622` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 info@t1nexus.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：兼容光模块/线缆品牌商（美国，MC/交换机副线） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「MC 光路的」；研究档 risks：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
+- **现状一句话**：美国 T1 Nexus（OEM 兼容光模块与线缆品牌（ISO/TL9000，终身保修），兼售 MC（18 处）与交换机（T1-DS2024G）；表内「MC 光路的」）；表内 3 次跟进无回复。
+- **对方真实需求（有据）**：T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供
+- **断点 / 为什么停在这里**：主业兼容光模块（Saga 不供），MC/交换机为副线；3 次无回复，仅 info@
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——T1 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）；T1 标接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/线缆 Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the media converters and access switches sold under the T1 label alongside your optics, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your data-center and telecom customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC 光路的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 8 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

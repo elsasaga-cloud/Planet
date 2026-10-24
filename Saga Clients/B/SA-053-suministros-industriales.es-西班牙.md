@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。（调研 2026-10-21；表内兴趣：价格 网站比较抽象）
 - **为什么是 B 级**：**调研后定级 B**（品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2023-12-15 → 2025-11-29）；最近一次客户回复：2023-12-15：问问价近期会不会变化
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）；$17.0 USD EXW（20% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-053` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 17 封 2024→2026，1 次记录打开，0 回；收件 info@suministros-industriales.es；主题多为「Industrial Network Switch、Power Converter」）** ｜ 类型：工业 MRO 供应商（非网络渠道） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；研究档 risks：无网络品类经验；1 次回复后 18 次无果
+- **现状一句话**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。
+- **对方真实需求（有据）**：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **断点 / 为什么停在这里**：无网络品类经验；1 次回复后 18 次无果
+- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit））——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | S 群发 | Industrial Network Switch、Power Converter | 17 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

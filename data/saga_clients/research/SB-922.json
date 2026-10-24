@@ -71,5 +71,40 @@
    "date": "2026-10-21"
   }
  ],
- "country_fix": "白俄罗斯"
+ "country_fix": "白俄罗斯",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "工业自动化分销商（白俄罗斯，Advantech 工业网络）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "白俄罗斯（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；研究档 risks：白俄罗斯：结算/物流受限，非主攻区"
+  },
+  "situation": "白俄罗斯 Территория Автоматизации / t-automation.by（明斯克工业自动化、IoT、测控与嵌入式系统设备与软件分销：IFM 传感器、Noya 面板 PC、Advantech UNO-2372G / EKI-9502G / EKI-7454G-6X；PoE 交换机目录（管理/非管理）；表内无兴趣记录；表内国别「保加利亚」有误——.by 域名 + 「Минск」→ 更正为白俄罗斯）；表内无跟进记录。",
+  "need": "在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
+  "breakpoint": "白俄罗斯：结算/物流受限，非主攻区",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?"
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -85,5 +85,49 @@
   "tier": 20,
   "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供"
  },
- "email_hook": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?"
+ "email_hook": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「I/O模块 / from: 自建站 已转给Ady跟进」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「I/O模块 / from: 自建站 已转给Ady跟进」；研究档 risks：主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）"
+  },
+  "situation": "安卡拉的电子元器件/IoT 模块分销商 LTE Elektronik（Long Term Evolution Electronic；团队 15 年市场经验；面向土耳其与中东的电子制造商和设计中心；专长蜂窝 2G–5G/NB-IoT、LoRa、GNSS、Wi-Fi/BT 模块、网关、天线、连接器、线束；代理/合作 Telit、Locosys、Tibbo-Xmodus、RAKwireless；香港公司 EBCO Electronics (HK)（尖沙咀）+ 深圳办事处（Marjome Lin）做 PCB 供应与采购；Mustafa Kemal Mah. 2131. Sk. No:32/2 Çankaya；+90 312 443 03 04；info@lte.com.tr）。自建站询盘：Enes（enes@ebcoelectronic.com）询 I/O 模块，已转 Ady 跟进；WhatsAp",
+  "need": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供",
+  "breakpoint": "主业元器件，交换机为边缘；询盘品类不匹配；已转 Ady（避免重复触达）",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，$34.1）/ STI-050GE（5 GE 非管理，$17.0）作 IoT 网关现场配套；I/O 模块不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "I/O模块 / from: 自建站 已转给Ady跟进",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

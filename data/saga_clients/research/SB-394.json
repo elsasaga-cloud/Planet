@@ -73,5 +73,55 @@
   "tier": 20,
   "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。"
  },
- "email_hook": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?"
+ "email_hook": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 magdalena@cdr.pl, sales@cdr.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「兴趣：有一些switch;销售平台」；研究档 risks：多品牌网店价格透明；群发无回复"
+  },
+  "situation": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
+  "need": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
+  "breakpoint": "多品牌网店价格透明；群发无回复",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：有一些switch;销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -74,5 +74,47 @@
   "tier": 30,
   "why": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM"
  },
- "email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
+ "email_hook": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 ken.burgner@altelix.com, ryan.sheehan@altelix.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "户外机箱/天线制造商（美国，PoE 交换机为配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；研究档 risks：交换机为机箱配套（量取决于捆绑 SKU）；未跟进过 → 向 Product Marketing Manager 具名首触"
+  },
+  "situation": "美国 Altelix（设计制造防水设备机箱与天线，面向应急通信、快速部署与无线通信；站内 PoE 关键词；KP Ryan Sheehan（Technical Sales Specialist）、Kenneth Burgner（Product Marketing Manager））；表内未跟进。",
+  "need": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM",
+  "breakpoint": "交换机为机箱配套（量取决于捆绑 SKU）；未跟进过 → 向 Product Marketing Manager 具名首触",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

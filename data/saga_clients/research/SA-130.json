@@ -89,5 +89,47 @@
   "tier": 20,
   "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
  },
- "email_hook": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?"
+ "email_hook": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 info@rfcom.gr；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "经销/集成商",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "希腊（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10"
+  },
+  "situation": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
+  "need": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
+  "breakpoint": "无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "10 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

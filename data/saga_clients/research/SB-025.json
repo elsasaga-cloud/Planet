@@ -65,5 +65,55 @@
   "tier": 20,
   "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）"
  },
- "email_hook": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?"
+ "email_hook": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@cenova.com.tr, rifat@cenova.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的」；研究档 risks：现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
+  },
+  "situation": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
+  "need": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
+  "breakpoint": "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

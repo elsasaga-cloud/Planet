@@ -72,5 +72,49 @@
   "tier": 20,
   "why": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE"
  },
- "email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply Marvell-based DIN-rail 8-GE + 2 SFP (and PoE) switches and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?"
+ "email_hook": "Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply Marvell-based DIN-rail 8-GE + 2 SFP (and PoE) switches and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业FS(planet) MC 周边产品 销售平台」）",
+   "type": "光纤线缆网店（德国，Planet 工业 FS）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "DE 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「工业FS(planet) MC 周边产品 销售平台」；研究档 risks：线缆网店：交换机为配套，量小"
+  },
+  "situation": "德国 Lichtleiterkabel.com（光纤线缆与预端接 LWL 线缆网店；表内「工业 FS（Planet）、MC、周边；销售平台」「质量一般」）；表内无跟进记录。",
+  "need": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE",
+  "breakpoint": "线缆网店：交换机为配套，量小",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS(planet) MC 周边产品 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

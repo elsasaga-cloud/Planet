@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。（调研 2026-10-21；表内兴趣：很多台湾品牌的；很多牌子的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-06 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-410` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 comercial@s-connect.es, nicolas@s-connect.es；主题多为「Booster PoE Switch、Optional Marvell Chipset Solutions」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「兴趣：很多台湾品牌的;很多牌子的」；研究档 risks：台系 / Moxa 品牌忠诚；群发无回复
+- **现状一句话**：西班牙工业 IoT 分销商（「Su socio para el IoT」；Moxa、Advantech、Milesight；switch 1232 / industrial 1160 / poe 588 / sfp 277 —— 工业网络目录极深；+34 910 421 886），工业 IoT 方案专家 Nicolas Calvez；表内「很多台湾品牌的」；群发 1 次。
+- **对方真实需求（有据）**：Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。
+- **断点 / 为什么停在这里**：台系 / Moxa 品牌忠诚；群发无回复
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Moxa EDS 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；10G 工业 STI-480XGGM。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Nicolas, for the projects where Moxa EDS is over budget — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS <20 ms, −40~75 ℃) at $79 EXW; shall I send one for your Madrid bench?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：很多台湾品牌的;很多牌子的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Booster PoE Switch、Optional Marvell Chipset Solutions | 11 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

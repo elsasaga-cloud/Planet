@@ -86,5 +86,55 @@
   "tier": 30,
   "why": "工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）"
  },
- "email_hook": "Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?"
+ "email_hook": "Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@technopc.com.tr, mithat.yucel@technopc.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "土耳其安防/网络品牌商（工业 PoE 现 Ewind）",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "TR 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「工业POE；工业POE 买的ewind的」；研究档 risks：现供 Ewind（深圳）价格基准低；土耳其汇率敏感；2 次跟进无回复 → 改向 GM 具名首触"
+  },
+  "situation": "土耳其 Technopc（本土安防/网络品牌：NVR（站内 83 处）、IPC、网络产品栏目 TPN14AW / TM-T10EA；表内「工业 PoE，买的 Ewind 的」；KP Mithat Yücel（General Manager）、Murat Yücel（Managing Partner））；表内 2 次跟进无回复。",
+  "need": "工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）",
+  "breakpoint": "现供 Ewind（深圳）价格基准低；土耳其汇率敏感；2 次跟进无回复 → 改向 GM 具名首触",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业POE；工业POE 买的ewind的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

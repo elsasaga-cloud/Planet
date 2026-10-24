@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：Ethernet Switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱尔兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-788` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人
+- **现状一句话**：都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
+- **对方真实需求（有据）**：对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：
+- **断点 / 为什么停在这里**：PLANET 在其交换机销量占比；采购决策人
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | A 群发 | 10G L3 Managed Switch、32 Port 400GB DC Switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

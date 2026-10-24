@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：IM-FP888GW）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-03-25 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-280DGGM — 深挖对位：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；$130.8 USD EXW（25% 档，SmartByte LT-IS6310G-2GX8GT 700 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-120` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 ratey@saf-slk.de；主题多为「90W PoE Managed Switch、Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「（用户表字段）」；研究档 risks：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
+- **现状一句话**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。
+- **对方真实需求（有据）**：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
+- **断点 / 为什么停在这里**：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
+- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit））——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 90W PoE Managed Switch、Industrial PoE Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

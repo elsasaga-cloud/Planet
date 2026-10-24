@@ -94,5 +94,47 @@
   "tier": 30,
   "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
  },
- "email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
+ "email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "安防集成/安装商（小型）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "捷克（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19"
+  },
+  "situation": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+  "need": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
+  "breakpoint": "无回复",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "19 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

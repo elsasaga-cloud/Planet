@@ -83,5 +83,49 @@
   "tier": 30,
   "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）"
  },
- "email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
+ "email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 要catalog / 0(224) 364 1888 加不上」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "TR 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「不会英文， 要catalog / 0(224) 364 1888 加不上」；研究档 risks：低价卫星/CCTV 市场极度比价；语言；无后续跟进"
+  },
+  "situation": "布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。",
+  "need": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）",
+  "breakpoint": "低价卫星/CCTV 市场极度比价；语言；无后续跟进",
+  "saga_now": {
+   "p1": "STC-028GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

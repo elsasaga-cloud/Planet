@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 LMP Lux Media Plan（广播/影视光纤传输盒与设备设计商：CERBERUS 4K、UHD 1204、HD1200；KP Friedel Lux；表内「多功能」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：多功能）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-14 → 2025-10-17）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Friedel, for the Ethernet switching and gigabit fibre links inside your broadcast transmission boxes and OB setups, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which link configuration do your boxes use most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-929` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 friedel@luxmediaplan.de；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：广播光传输设备设计商（德国，交换机为配套） ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「多功能」；研究档 risks：广播品类边缘（交换机为自制设备配套，量小）；8 次无回复
+- **现状一句话**：德国 LMP Lux Media Plan（广播/影视光纤传输盒与设备设计商：CERBERUS 4K、UHD 1204、HD1200；KP Friedel Lux；表内「多功能」）；群发 8 次无回复。
+- **对方真实需求（有据）**：广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标
+- **断点 / 为什么停在这里**：广播品类边缘（交换机为自制设备配套，量小）；8 次无回复
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Friedel, for the Ethernet switching and gigabit fibre links inside your broadcast transmission boxes and OB setups, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which link configuration do your boxes use most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 多功能 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

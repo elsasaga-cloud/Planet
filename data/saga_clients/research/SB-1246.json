@@ -158,5 +158,47 @@
   "tier": 20,
   "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需求："
  },
- "email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?"
+ "email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 3 封 2025→2026，1 次记录打开，0 回；收件 sales@solimedia.net；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "US 主攻（四主）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；研究档 risks：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Sa"
+  },
+  "situation": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204",
+  "need": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需",
+  "breakpoint": "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
+    "why": "3 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

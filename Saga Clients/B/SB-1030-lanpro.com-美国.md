@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：LanPro（「Connect-and-Forget」：面向网络/电信集成商的组件供应商——铜缆系统、光纤、金属组件、无线、有源设备，定制制造；表内「PoE 配件 switch MC SFP 等」「可以尝试多跟进一下」；KP Trinidad Ledezma（Analista en Marketing Online）；联系邮箱为 gmail）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：PoE配件 switch MC SFP等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → asktolanpro@gmail.com 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1030` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 23 封 2025→2026，其中 2 封被打开，0 回；收件 asktolanpro@gmail.com, sales@lanpro.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：网络组件品牌商（美国/拉美，自有品牌 LanPro） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：US 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 23，Opened 标签 2（Simon 群发追踪）；用户表：「PoE配件 switch MC SFP等」；研究档 risks：联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位
+- **现状一句话**：LanPro（「Connect-and-Forget」：面向网络/电信集成商的组件供应商——铜缆系统、光纤、金属组件、无线、有源设备，定制制造；表内「PoE 配件 switch MC SFP 等」「可以尝试多跟进一下」；KP Trinidad Ledezma（Analista en Marketing Online）；联系邮箱为 gmail）；群发 10 次无回复。
+- **对方真实需求（有据）**：LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）
+- **断点 / 为什么停在这里**：联系邮箱为 gmail（asktolanpro@gmail.com），非官方域名，真实性待核；KP 为市场分析岗位
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）
+- **下一步（具体）**：2026-11　A 邮箱 → asktolanpro@gmail.com　短信一问（email_hook）
+  - 第一问（只问一个）：For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | PoE配件 switch MC SFP等 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 23 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

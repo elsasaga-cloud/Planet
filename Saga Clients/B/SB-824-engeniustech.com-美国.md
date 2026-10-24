@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业FS 大口 SFP PoE配件）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-10-22）
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-824` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 sales@engeniustech.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：台湾网络品牌美国公司（台湾厂商口径二供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「商业FS 大口 SFP PoE配件」；研究档 risks：台湾品牌（自有 ODM）：白牌切入点弱，仅二供
+- **现状一句话**：美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。
+- **对方真实需求（有据）**：台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件
+- **断点 / 为什么停在这里**：台湾品牌（自有 ODM）：白牌切入点弱，仅二供
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，按主表（研究档 saga_fit））——台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业FS 大口 SFP PoE配件 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 14 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

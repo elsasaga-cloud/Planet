@@ -69,5 +69,49 @@
   "tier": 30,
   "why": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
  },
- "email_hook": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?"
+ "email_hook": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业POE」）",
+   "type": "意大利 IT 消费/办公品牌（自有标，PoE 为边缘品类）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过"
+  },
+  "situation": "意大利 ADJ（意大利 IT/电子品牌：PC、笔记本、耳机、UPS、外设、扩展坞，39 欧免运费零售；表内「商业 PoE」「质量一般」）；表内未跟进。",
+  "need": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）",
+  "breakpoint": "消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

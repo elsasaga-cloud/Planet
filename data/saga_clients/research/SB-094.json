@@ -63,5 +63,55 @@
   "tier": 25,
   "why": "PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代"
  },
- "email_hook": "Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?"
+ "email_hook": "Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 mario@yminc.ca；主题多为「Updated Ethernet Switches Links」）",
+   "type": "网络/安防贸易商（加拿大，PoE 延长器 RFQ）",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "CA 主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ」；研究档 risks：PoE 延长器品类 Saga 不供（Q-32）；官网 timeout（业务范围待核）；RFQ 时效待核（2025）"
+  },
+  "situation": "加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。",
+  "need": "PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代",
+  "breakpoint": "PoE 延长器品类 Saga 不供（Q-32）；官网 timeout（业务范围待核）；RFQ 时效待核（2025）",
+  "saga_now": {
+   "p1": "STI-054GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 延长器 Saga 不供（Q-32）→ 以工业 4 PoE + 1 GE STI-054GP（$32.5 @25%）/ 4 PoE + 1 SFP STI-154GP（$39.2）作中继替代",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mario, following your 2025 request for an industrial PoE extender: we do not carry extenders, but a compact DIN-rail 4-PoE + 1 uplink industrial switch (−40~75 °C, 12–57 V, 802.3at) can serve as a powered mid-span node from single units, EXW USD — how many drops and what distance does your site need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业PoE Extender；2025年使用国际站；工业PoE Extender / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "1 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

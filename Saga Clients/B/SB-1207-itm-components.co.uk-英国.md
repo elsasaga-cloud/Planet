@@ -34,10 +34,23 @@ updated: 2026-10-24
 - **是谁**：多塞特一家 Pro-AV / 连接件分销商，网络交换机货架基本是 PLANET（PoE 接入 + Long Reach PoE），服务 AV 集成商与机房项目。类型：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）。信号：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-2620HP、GSD-604HP；/collections/switches-matrix-switches 同列 PLANET 款；商品页 PT-LRP-101C-KIT / PT-LRP-822CS（SKU 前缀 PT- = Planet）。Planet 渠道档案 PB-087 评级 B（需求：Shopify 商城 switch 类目 9 款以上 PLANET 商品带英镑价（含 24 口 PoE 与 Long Reach PoE 系列）→ PLANET 为其网络类目主线；触达：sales@itm-components.co.uk + 电话 +44 1202 872771 公开，NTI 经销页给出具名 Neil Stratford / Philip Savill（无个人邮箱 → 不计具名 KP）；体量：Companies House 03129914，LinkedIn 11–50 人、营收约 £1–2M（Endole「Micro」）→ 可赢；Gmail：Elsa 账号 2025-03-30 → 2026-09-04 以 BCC 群发 11 封至 sales@itm-components.co.uk，0 回复 → 非首触、通用通道疲劳；Mikrotik 仓无此户 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1207，英国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS MC SDI POE等）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商 → 20%（沿用 Planet 档案 PB-087）；需求：；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1207` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）
+- **现状一句话**：多塞特一家 Pro-AV / 连接件分销商，网络交换机货架基本是 PLANET（PoE 接入 + Long Reach PoE），服务 AV 集成商与机房项目。类型：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）。信号：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-262
+- **对方真实需求（有据）**：其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商
+- **断点 / 为什么停在这里**：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商
+- **下一步（具体）**：不动　—　—
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 
