@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（19 去 / 0 来） | `gmail_digest` |
+| 2026-09-16 | 内 | Gmail 退信（A 邮箱） | joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a aa8cdc85cdbf0ebd` |
 | 2026-10-21 | 用户表 | Simon | 监控摄像 警报 光纤布线 网络 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

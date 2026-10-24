@@ -116,6 +116,14 @@
         "k": "gmail_digest"
       },
       {
+        "date": "2026-09-16",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a aa8cdc85cdbf0ebd"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",

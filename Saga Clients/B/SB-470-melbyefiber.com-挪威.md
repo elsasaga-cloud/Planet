@@ -49,6 +49,10 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $220（48 port managed switch）、2024-11-28 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-26 $240（24 Port Fiber Switch）、2025-06-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-27) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：不动　—　—
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-03-27 | 内 | Gmail 退信（A 邮箱） | te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a e2d153cd779efbe3` |
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

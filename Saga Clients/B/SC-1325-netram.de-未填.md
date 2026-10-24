@@ -51,6 +51,10 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：
 - **下一步（具体）**：不动　—　—
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-19 | 内 | Gmail 退信（S 邮箱） | sales@netram.de 永久退信：554 Sorry, no mailbox here by that name. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 0aada7d991e478c2` |
+
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）

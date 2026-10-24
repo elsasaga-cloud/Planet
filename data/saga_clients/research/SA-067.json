@@ -140,7 +140,7 @@
       "level": "未绑定（合规台账层接触，无销售对话）",
       "type": "瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作",
       "sieve": "1（info@ 合规函）",
-      "stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信",
+      "stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信；steffo@ 2026-09-28 永久退信（人已不在），后续只走 mats.backlund@ / anders.hedin@",
       "revive": "给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发）",
       "lane": "SE/EU（CE/UKCA/RoHS/REACH 有）",
       "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11",
@@ -198,6 +198,14 @@
         "quote": "Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por…",
         "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
         "k": "d69d71aab444aaa5"
+      },
+      {
+        "date": "2026-09-28",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 322dcd696af9687a"
       }
     ],
     "proof_gaps": [

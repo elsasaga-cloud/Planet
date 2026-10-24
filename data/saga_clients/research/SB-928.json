@@ -158,12 +158,28 @@
     },
     "facts": [
       {
+        "date": "2024-07-03",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+        "why": "该地址当时收不到信，之后若无再发成功记录就别再往这个地址发",
+        "k": "gmail_s a739df251b28f025"
+      },
+      {
         "date": "2024-10-24",
         "dir": "来",
         "who": "Pankaj Sodhi",
         "quote": "Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect.",
         "why": "要价 + 转 WA",
         "k": "dd23844381a28569"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 0de6557f58082926"
       }
     ],
     "proof_gaps": [],

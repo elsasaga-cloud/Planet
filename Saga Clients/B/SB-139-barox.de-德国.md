@@ -56,6 +56,8 @@ updated: 2026-10-24
 | 2024-05-02 | 来 | luis.coello@barox.de | Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ae372c96fe2917af` |
 | 2024-05-03 | 来 | Luis Coello | None whatsoever! | 拒样 | `c3a6ce39d1213582` |
 | 2024-05-03 | 去 | Saga（Simon） | Hi, Luis, 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without power supply How many piece | 历史报价点（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd | `f68b73f1522697d3` |
+| 2025-03-12 | 内 | Gmail 退信（A 邮箱） | luis.coello@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 2ee3f36bb56f07e7` |
+| 2025-03-12 | 内 | Gmail 退信（A 邮箱） | info@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 16002134955b5da9` |
 
 ## 基本事实（事实/推断/假设分层）
 

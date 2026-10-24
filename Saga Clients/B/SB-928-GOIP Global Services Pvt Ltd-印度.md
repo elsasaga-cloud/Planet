@@ -54,7 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-03 | 内 | Gmail 退信（S 邮箱） | pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded | 该地址当时收不到信，之后若无再发成功记录就别再往这个地址发 | `gmail_s a739df251b28f025` |
 | 2024-10-24 | 来 | Pankaj Sodhi | Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. | 要价 + 转 WA | `dd23844381a28569` |
+| 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 0de6557f58082926` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -163,7 +163,7 @@
       "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）",
       "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
       "sieve": "2",
-      "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回",
+      "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
       "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
       "lane": "US",
       "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
@@ -184,8 +184,8 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "S 邮箱 → silvia.flores@ + purchasing@",
-      "action": "三件套一页：4 口 / 8 口价格、交期、FCC",
+      "channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
+      "action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC",
       "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
     },
     "facts": [
@@ -212,6 +212,14 @@
         "quote": "Please see attached information and let me know.",
         "why": "回复后停",
         "k": "54932716b5166fad"
+      },
+      {
+        "date": "2026-07-20",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 2c8ed94835972a47"
       }
     ],
     "proof_gaps": [],

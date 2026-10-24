@@ -117,6 +117,14 @@
     },
     "facts": [
       {
+        "date": "2025-05-27",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "santosh@alston-systems.com 永久退信：550 Requested action not taken: mailbox unavailable",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 376dd6b9279987e3"
+      },
+      {
         "date": "2026-09-22",
         "dir": "去",
         "who": "A 群发",

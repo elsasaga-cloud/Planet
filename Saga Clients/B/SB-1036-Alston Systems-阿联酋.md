@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-27 | 内 | Gmail 退信（A 邮箱） | santosh@alston-systems.com 永久退信：550 Requested action not taken: mailbox unavailable | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 376dd6b9279987e3` |
 | 2026-09-22 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 3 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-09-22（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | FS SFP模块 MC | 表内备注 | `用户表` |
 

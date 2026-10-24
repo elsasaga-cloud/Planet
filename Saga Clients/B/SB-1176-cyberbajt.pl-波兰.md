@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-01-24 | 内 | Gmail 退信（S 邮箱） | t.kupiec@cyberbajt.pl 永久退信：550 5.1.1 <t.kupiec@cyberbajt.pl>: Recipient address rejected: User unknown | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s ec6cef7b7e599fe4` |
 | 2026-10-06 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来） | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）

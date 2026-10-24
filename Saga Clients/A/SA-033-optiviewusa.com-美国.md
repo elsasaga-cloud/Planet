@@ -38,19 +38,19 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）
 - **第一问（只问一个）**：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-11 S 邮箱 → silvia.flores@ + purchasing@ 三件套一页：4 口 / 8 口价格、交期、FCC
+- **下一步**：2026-11 S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁） 先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-033` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）** ｜ 类型：美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent） ｜ 筛子：2 ｜ 停点：2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回 ｜ 复活：其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29 ｜ 证据：k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad
+- **绑定等级：未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）** ｜ 类型：美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent） ｜ 筛子：2 ｜ 停点：2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@ ｜ 复活：其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29 ｜ 证据：k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad
 - **现状一句话**：Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。
 - **对方真实需求（有据）**：4/8 口工业 PoE（CCTV 批发 SKU）。
 - **断点 / 为什么停在这里**：采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。
 - **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch））——J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：2024-10-30 附件是否含价格
-- **下一步（具体）**：2026-11　S 邮箱 → silvia.flores@ + purchasing@　三件套一页：4 口 / 8 口价格、交期、FCC
+- **下一步（具体）**：2026-11　S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）　先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC
   - 第一问（只问一个）：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2024-10-29 | 来 | Silvia Flores（Purchasing Agent） | Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions? | 规格 | `3967a837c3bedff6` |
 | 2024-10-29 | 来 | Silvia | Also, provide us with the prices for both models | 价格 | `7f7e16f255ec5fae` |
 | 2024-10-30 | 去 | Simon | Please see attached information and let me know. | 回复后停 | `54932716b5166fad` |
+| 2026-07-20 | 内 | Gmail 退信（S 邮箱） | silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 2c8ed94835972a47` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -57,6 +57,9 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-01-16 | 来 | Jitendra | Item 1 - Level 2 access switch 24 ports Gigabit PoE+… minimum 2 ports UpLink 10Gbps SFP+… 802.1q, LACP, IPv6, Voice VLAN, SNMPv3 and SSHv2, spanning tree, DHCP | 招标规格 | `188c2faf926a981d` |
 | 2025-01-18 | 去 | Simon | item 3 is not available, but we can develop it. For the other 4 items, Voice Vlan is not available, but its being developed and will be ready on March. | 功能缺口 | `d0cedc0a81dda002` |
+| 2025-08-27 | 内 | Gmail 退信（S 邮箱） | rajiv@megnet.co.uk 永久退信：554 5.7.1 <rajiv@megnet.co.uk>: Relay access denied | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 96c81bffd7353dcd` |
+| 2025-08-27 | 内 | Gmail 退信（S 邮箱） | purchasing@megnet.co.uk 永久退信：554 5.7.1 <purchasing@megnet.co.uk>: Relay access denied | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 154c349e1af1c4db` |
+| 2025-08-27 | 内 | Gmail 退信（S 邮箱） | becca@megnet.co.uk 永久退信：554 5.7.1 <becca@megnet.co.uk>: Relay access denied | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s e58d6e9a2e344dc9` |
 | 2025-12-01 | 来 | Nasim Chaudhari（Operations Manager） | HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer's end, we will proceed with a bulk order. | 第二次需求 | `d825f54e656a802d` |
 | 2025-12-02 | 去 | Simon | 15Usd/pc Metal shell, 1G/2.5G speed, AC100-240V in; POWER+PSE；802.3af/at/BT MAX65W… Production time: 3~5 working days | 报价 | `c006113d9ba7a08c` |
 

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-028` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）** ｜ 类型：美国 AV 连接品牌/电商（Sewell Direct，4 个收件人） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：若成交属实应有 PI——先核 ｜ 通路：US ｜ 节奏：季度 ｜ 证据：邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect.
+- **绑定等级：未绑定（邮件 20 封 0 回；brent@ 2025-04-02、brett@ 2025-05-01 永久退信——与「Opened」记录同日，这两次「打开」其实是退信；真正可能打开的只有 2025-10-13 一次；用户表「成交 + 复购」在 PI 包无 Sewell）** ｜ 类型：美国 AV 连接品牌/电商（Sewell Direct，4 个收件人） ｜ 筛子：0（邮件层无人工回复；两个具名地址已失效） ｜ 停点：— ｜ 复活：若成交属实应有 PI——先核 ｜ 通路：US ｜ 节奏：季度 ｜ 证据：邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect.
 - **现状一句话**：4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。
 - **对方真实需求（有据）**：PoE 注入器/小 PoE 交换机（AV 配套）。
 - **断点 / 为什么停在这里**：证据冲突。
@@ -54,7 +54,9 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-02 | 去 | Saga（群发） | 「90W PoE Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `65f347c97b5b0d0b` |
+| 2025-04-02 | 内 | Gmail 退信（A 邮箱） | brent@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 25f8fdf0225fc9f9` |
 | 2025-05-01 | 去 | Saga（群发） | 「10G Media Converter」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `d759d1535e90b464` |
+| 2025-05-01 | 内 | Gmail 退信（A 邮箱） | brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 5e9316441dacaabf` |
 | 2025-10-13 | 去 | Saga（群发） | 「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `868baaf6e6acfd0a` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「成交 + 复购」无 PI：请 Simon 确认是哪条通道

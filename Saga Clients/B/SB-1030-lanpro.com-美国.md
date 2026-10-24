@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-01-22 | 内 | Gmail 退信（S 邮箱） | sales@lanpro.com 永久退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34 | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 530a633f5d282ffd` |
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 23 封 / 2 次打开 / 0 回｜首封 2025-01-22 → 末封 2026-09-16（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE配件 switch MC SFP等 | 表内备注 | `用户表` |
 

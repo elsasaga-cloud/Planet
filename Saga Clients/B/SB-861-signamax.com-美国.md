@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-18 | 内 | Gmail 退信（A 邮箱） | jhamilton@signamax.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 302a34fc59b01839` |
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 29 封 / 3 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | SFP MC FS 工业FS；SFP MC FS 工业FS 量非常大；量非常大 | 表内备注 | `用户表` |
 

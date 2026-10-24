@@ -53,6 +53,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-05 | 内 | Gmail 退信（S 邮箱） | info@bimel.com.tr 永久退信：550 Bu adreste böyle bir kimse yok. Final-Recipient: rfc822; info@bimel.com.tr Action: failed Status: 4.4.2 Remot | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 169cdf649c10160e` |
+| 2024-07-24 | 内 | Gmail 退信（S 邮箱） | mustafa@bimel.com.tr 永久退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 9aaa8feca1861ef5` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「industrial network eleman@bimel.com.tr https://www.bimel.com.tr/urun/bn-isw-3084px」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 17 封 / 2 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-10-06（17 去 / 0 来） | `gmail_digest` |
 

@@ -221,6 +221,14 @@
     },
     "facts": [
       {
+        "date": "2025-01-24",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "t.kupiec@cyberbajt.pl 永久退信：550 5.1.1 <t.kupiec@cyberbajt.pl>: Recipient address rejected: User unknown",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s ec6cef7b7e599fe4"
+      },
+      {
         "date": "2026-10-06",
         "dir": "去",
         "who": "S 群发",

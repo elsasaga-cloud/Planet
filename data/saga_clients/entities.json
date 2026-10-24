@@ -1377,6 +1377,14 @@
 "k": "b5564e71079c9744"
 },
 {
+"date": "2024-12-05",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "frank@simrex.com 邮箱满（暂时性）：552 5.2.2 User's mailbox is full",
+"why": "该地址当时收不到信，之后若无再发成功记录就别再往这个地址发",
+"k": "gmail_s a664a09affcd2944"
+},
+{
 "date": "2024-12-06",
 "dir": "来",
 "who": "Frank",
@@ -13277,6 +13285,30 @@
 "k": "d0cedc0a81dda002"
 },
 {
+"date": "2025-08-27",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "rajiv@megnet.co.uk 永久退信：554 5.7.1 <rajiv@megnet.co.uk>: Relay access denied",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 96c81bffd7353dcd"
+},
+{
+"date": "2025-08-27",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "purchasing@megnet.co.uk 永久退信：554 5.7.1 <purchasing@megnet.co.uk>: Relay access denied",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 154c349e1af1c4db"
+},
+{
+"date": "2025-08-27",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "becca@megnet.co.uk 永久退信：554 5.7.1 <becca@megnet.co.uk>: Relay access denied",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s e58d6e9a2e344dc9"
+},
+{
 "date": "2025-12-01",
 "dir": "来",
 "who": "Nasim Chaudhari（Operations Manager）",
@@ -15112,9 +15144,9 @@
 "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
 "mail_review": {
 "binding": {
-"level": "未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）",
+"level": "未绑定（邮件 20 封 0 回；brent@ 2025-04-02、brett@ 2025-05-01 永久退信——与「Opened」记录同日，这两次「打开」其实是退信；真正可能打开的只有 2025-10-13 一次；用户表「成交 + 复购」在 PI 包无 Sewell）",
 "type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
-"sieve": "0（邮件层无人工回复）",
+"sieve": "0（邮件层无人工回复；两个具名地址已失效）",
 "stop": "—",
 "revive": "若成交属实应有 PI——先核",
 "lane": "US",
@@ -15148,12 +15180,28 @@
 "k": "65f347c97b5b0d0b"
 },
 {
+"date": "2025-04-02",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "brent@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 25f8fdf0225fc9f9"
+},
+{
 "date": "2025-05-01",
 "dir": "去",
 "who": "Saga（群发）",
 "quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "d759d1535e90b464"
+},
+{
+"date": "2025-05-01",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 5e9316441dacaabf"
 },
 {
 "date": "2025-10-13",
@@ -17075,7 +17123,7 @@
 "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）",
 "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
 "sieve": "2",
-"stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回",
+"stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回；2026-07-20 起 silvia.flores@ 退信（人已不在），之后群发只到 purchasing@",
 "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
 "lane": "US",
 "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
@@ -17096,8 +17144,8 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "S 邮箱 → silvia.flores@ + purchasing@",
-"action": "三件套一页：4 口 / 8 口价格、交期、FCC",
+"channel": "S 邮箱 → purchasing@optiviewusa.com（silvia.flores@ 2026-07-20 已「Address not found」，先问接替的采购是谁）",
+"action": "先一句话问 purchasing@ 现在谁接 Silvia 的工作；再给三件套一页：4 口 / 8 口价格、交期、FCC",
 "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
 },
 "facts": [
@@ -17124,6 +17172,14 @@
 "quote": "Please see attached information and let me know.",
 "why": "回复后停",
 "k": "54932716b5166fad"
+},
+{
+"date": "2026-07-20",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "silvia.flores@optiviewusa.com 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to silvia.flores@optiviewusa.com because t",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 2c8ed94835972a47"
 }
 ],
 "proof_gaps": [],
@@ -28420,6 +28476,14 @@
 "quote": "Thanks for information",
 "why": "礼貌回复",
 "k": "e0f000957aae1a7a"
+},
+{
+"date": "2026-10-20",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "sawithree@success-network.co.th 永久退信：550 No such recipient here",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 098f53c592a27464"
 }
 ],
 "proof_gaps": [],
@@ -29575,7 +29639,7 @@
 "level": "未绑定（要免费样机被付样规则筛掉）",
 "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
 "sieve": "2（「we need to replace a lot of switches」）",
-"stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回",
+"stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名）",
 "revive": "付样 1 台 8 口 PoE 管理型；微型客户复利低，不追",
 "lane": "DE",
 "cadence": "2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10",
@@ -29595,7 +29659,7 @@
 "next_move": {
 "when": "不主动",
 "channel": "A 邮箱",
-"action": "来信时一次报 8 口 PoE 管理型付样价",
+"action": "先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价",
 "one_question": ""
 },
 "facts": [
@@ -29630,6 +29694,14 @@
 "quote": "「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。",
 "why": "Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款",
 "k": "k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）"
+},
+{
+"date": "2026-08-11",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 21cca18c5a54024d"
 }
 ],
 "proof_gaps": [],
@@ -32390,7 +32462,7 @@
 "level": "未绑定（合规台账层接触，无销售对话）",
 "type": "瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作",
 "sieve": "1（info@ 合规函）",
-"stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信",
+"stop": "2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信；steffo@ 2026-09-28 永久退信（人已不在），后续只走 mats.backlund@ / anders.hedin@",
 "revive": "给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发）",
 "lane": "SE/EU（CE/UKCA/RoHS/REACH 有）",
 "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11",
@@ -32448,6 +32520,14 @@
 "quote": "Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por…",
 "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
 "k": "d69d71aab444aaa5"
+},
+{
+"date": "2026-09-28",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 322dcd696af9687a"
 }
 ],
 "proof_gaps": [
@@ -103828,7 +103908,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-03-28",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "enquiries@wire.tech 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 54e501928ff8e36a"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -115328,6 +115417,14 @@
 },
 "facts": [
 {
+"date": "2024-08-18",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "info@dexi.ru 永久退信：550 spam message rejected. Please visit http://help.mail.ru/notspam-support/id?c=7BODUaWiTm77cN6t9-D6dGelY7eXXVPT",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 03217f8b4177c262"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -121962,6 +122059,14 @@
 },
 "facts": [
 {
+"date": "2025-01-22",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "sales@lanpro.com 永久退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 530a633f5d282ffd"
+},
+{
 "date": "2026-09-16",
 "dir": "去",
 "who": "A/S 群发",
@@ -123692,6 +123797,14 @@
 "one_question": "Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?"
 },
 "facts": [
+{
+"date": "2025-05-27",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "santosh@alston-systems.com 永久退信：550 Requested action not taken: mailbox unavailable",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 376dd6b9279987e3"
+},
 {
 "date": "2026-09-22",
 "dir": "去",
@@ -150386,6 +150499,14 @@
 },
 "facts": [
 {
+"date": "2024-12-02",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "chaesj@zenithtek.co.kr 永久退信：505 this account is unknown user (#5.5.1)",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 8e5ecbcce5f0622a"
+},
+{
 "date": "2026-09-25",
 "dir": "去",
 "who": "A/S 群发",
@@ -158338,6 +158459,14 @@
 },
 "facts": [
 {
+"date": "2025-08-11",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "svc@mcss.co.kr 永久退信：550 sorry, no mailbox (#5.1.1)",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a e1c1f2f36ab7e6a5"
+},
+{
 "date": "2026-02-05",
 "dir": "去",
 "who": "Saga（Alan）",
@@ -160428,6 +160557,14 @@
 "one_question": "Roberto, under the Korenix JetNet price points — Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW; one evaluation set for the QNV lab?"
 },
 "facts": [
+{
+"date": "2025-06-06",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "angelng@qnv.com 永久退信：550 5.1.1 <angelng@qnv.com>: Recipient address rejected: User unknown in virtual mailbox table",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a eb586e333a46833b"
+},
 {
 "date": "2026-02-11",
 "dir": "去",
@@ -174074,6 +174211,14 @@
 },
 "facts": [
 {
+"date": "2025-01-24",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "t.kupiec@cyberbajt.pl 永久退信：550 5.1.1 <t.kupiec@cyberbajt.pl>: Recipient address rejected: User unknown",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s ec6cef7b7e599fe4"
+},
+{
 "date": "2026-10-06",
 "dir": "去",
 "who": "S 群发",
@@ -183890,6 +184035,14 @@
 "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
 "why": "19 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（19 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-16",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a aa8cdc85cdbf0ebd"
 },
 {
 "date": "2026-10-21",
@@ -210343,6 +210496,22 @@
 "quote": "Hi, Luis, 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without power supply How many piece",
 "why": "历史报价点（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
 "k": "f68b73f1522697d3"
+},
+{
+"date": "2025-03-12",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "luis.coello@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 2ee3f36bb56f07e7"
+},
+{
+"date": "2025-03-12",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "info@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 16002134955b5da9"
 }
 ],
 "proof_gaps": [],
@@ -326009,7 +326178,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-03-27",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a e2d153cd779efbe3"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -363586,7 +363764,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2026-07-13",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "kalen.makela@uniformatic.fr 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 27accacfb0894d3e"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -427712,7 +427899,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-21",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "arunima@klasseducation.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 474ffd9ec30588c9"
+}
+],
 "proof_gaps": [
 "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
@@ -453647,6 +453843,14 @@
 },
 "facts": [
 {
+"date": "2025-03-18",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "jhamilton@signamax.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 302a34fc59b01839"
+},
+{
 "date": "2026-09-18",
 "dir": "去",
 "who": "A/S 群发",
@@ -472896,12 +473100,28 @@
 },
 "facts": [
 {
+"date": "2024-07-03",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+"why": "该地址当时收不到信，之后若无再发成功记录就别再往这个地址发",
+"k": "gmail_s a739df251b28f025"
+},
+{
 "date": "2024-10-24",
 "dir": "来",
 "who": "Pankaj Sodhi",
 "quote": "Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect.",
 "why": "要价 + 转 WA",
 "k": "dd23844381a28569"
+},
+{
+"date": "2026-09-01",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 0de6557f58082926"
 }
 ],
 "proof_gaps": [],
@@ -487651,6 +487871,22 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-06-05",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "info@bimel.com.tr 永久退信：550 Bu adreste böyle bir kimse yok. Final-Recipient: rfc822; info@bimel.com.tr Action: failed Status: 4.4.2 Remot",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 169cdf649c10160e"
+},
+{
+"date": "2024-07-24",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "mustafa@bimel.com.tr 永久退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 9aaa8feca1861ef5"
+},
 {
 "date": "2024-11-05",
 "dir": "去",
@@ -560567,7 +560803,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-01-19",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "sales@netram.de 永久退信：554 Sorry, no mailbox here by that name.",
+"why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 0aada7d991e478c2"
+}
+],
 "proof_gaps": [
 "无邮件往来"
 ],

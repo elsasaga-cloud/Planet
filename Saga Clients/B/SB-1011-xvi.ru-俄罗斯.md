@@ -51,6 +51,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-08-18 | 内 | Gmail 退信（S 邮箱） | info@dexi.ru 永久退信：550 spam message rejected. Please visit http://help.mail.ru/notspam-support/id?c=7BODUaWiTm77cN6t9-D6dGelY7eXXVPT | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 03217f8b4177c262` |
 | 2026-10-21 | 用户表 | Simon | 工商业FS 自己的型号 很多种外壳 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

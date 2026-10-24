@@ -186,6 +186,14 @@
         "quote": "Thanks for information",
         "why": "礼貌回复",
         "k": "e0f000957aae1a7a"
+      },
+      {
+        "date": "2026-10-20",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "sawithree@success-network.co.th 永久退信：550 No such recipient here",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 098f53c592a27464"
       }
     ],
     "proof_gaps": [],

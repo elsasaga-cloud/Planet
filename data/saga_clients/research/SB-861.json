@@ -115,6 +115,14 @@
     },
     "facts": [
       {
+        "date": "2025-03-18",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "jhamilton@signamax.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 302a34fc59b01839"
+      },
+      {
         "date": "2026-09-18",
         "dir": "去",
         "who": "A/S 群发",

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-067` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（合规台账层接触，无销售对话）** ｜ 类型：瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作 ｜ 筛子：1（info@ 合规函） ｜ 停点：2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信 ｜ 复活：给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发） ｜ 通路：SE/EU（CE/UKCA/RoHS/REACH 有） ｜ 节奏：2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11 ｜ 证据：k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10
+- **绑定等级：未绑定（合规台账层接触，无销售对话）** ｜ 类型：瑞典上市集团（Lagercrantz）分销商，自有品牌 + 多品牌，已与 E-link 深度合作 ｜ 筛子：1（info@ 合规函） ｜ 停点：2025-11-11 合规文件清单：EN 18031 声明、CE、RoHS、REACH、ISO → Alan「We only have CE/FCC/Reach/RoHS/UKCA」→ 无下文；Anders Hedin 只有自动回复；Mats Backlund 被指定为负责销售但从未回信；steffo@ 2026-09-28 永久退信（人已不在），后续只走 mats.backlund@ / anders.hedin@ ｜ 复活：给 Mats 一封：CE DoC 文件 + 一句「EN 18031 针对 RED 无线电设备，有线交换机不在范围」（需 Simon/SmartByte 确认 CE DoC 含 EMC/LVD 并可外发） ｜ 通路：SE/EU（CE/UKCA/RoHS/REACH 有） ｜ 节奏：2024-07 → 2026-09 去信 21 封；最后来信 2025-11-11 ｜ 证据：k=cda0898220404dd0 / a72460754524b4c8 / 195f51b6b5903da9 / 6a03768b154dbe10
 - **现状一句话**：Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。
 - **对方真实需求（有据）**：合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。
 - **断点 / 为什么停在这里**：合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。
@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2025-11-11 | 来 | info@direktronik.se（合规） | we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable) | 合规清单 = 停点 | `cda0898220404dd0` |
 | 2025-11-12 | 去 | Alan | We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know. | Saga 答复 | `a72460754524b4c8` |
 | 2025-12-08 | 去 | Saga（Alan） | Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d69d71aab444aaa5` |
+| 2026-09-28 | 内 | Gmail 退信（S 邮箱） | steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 322dcd696af9687a` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句
 

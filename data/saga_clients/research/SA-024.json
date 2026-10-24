@@ -175,6 +175,30 @@
         "k": "d0cedc0a81dda002"
       },
       {
+        "date": "2025-08-27",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "rajiv@megnet.co.uk 永久退信：554 5.7.1 <rajiv@megnet.co.uk>: Relay access denied",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 96c81bffd7353dcd"
+      },
+      {
+        "date": "2025-08-27",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "purchasing@megnet.co.uk 永久退信：554 5.7.1 <purchasing@megnet.co.uk>: Relay access denied",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 154c349e1af1c4db"
+      },
+      {
+        "date": "2025-08-27",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "becca@megnet.co.uk 永久退信：554 5.7.1 <becca@megnet.co.uk>: Relay access denied",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s e58d6e9a2e344dc9"
+      },
+      {
         "date": "2025-12-01",
         "dir": "来",
         "who": "Nasim Chaudhari（Operations Manager）",

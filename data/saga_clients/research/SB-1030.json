@@ -111,6 +111,14 @@
     },
     "facts": [
       {
+        "date": "2025-01-22",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "sales@lanpro.com 永久退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 530a633f5d282ffd"
+      },
+      {
         "date": "2026-09-16",
         "dir": "去",
         "who": "A/S 群发",

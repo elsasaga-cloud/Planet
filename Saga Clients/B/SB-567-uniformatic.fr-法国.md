@@ -49,6 +49,10 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-18 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——已打开的主题（1/18 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-13) → 读者兴趣偏「固件/功能」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-07-13 | 内 | Gmail 退信（A 邮箱） | kalen.makela@uniformatic.fr 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 27accacfb0894d3e` |
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

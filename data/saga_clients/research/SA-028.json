@@ -107,9 +107,9 @@
   "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
   "mail_review": {
     "binding": {
-      "level": "未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）",
+      "level": "未绑定（邮件 20 封 0 回；brent@ 2025-04-02、brett@ 2025-05-01 永久退信——与「Opened」记录同日，这两次「打开」其实是退信；真正可能打开的只有 2025-10-13 一次；用户表「成交 + 复购」在 PI 包无 Sewell）",
       "type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
-      "sieve": "0（邮件层无人工回复）",
+      "sieve": "0（邮件层无人工回复；两个具名地址已失效）",
       "stop": "—",
       "revive": "若成交属实应有 PI——先核",
       "lane": "US",
@@ -143,12 +143,28 @@
         "k": "65f347c97b5b0d0b"
       },
       {
+        "date": "2025-04-02",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "brent@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 25f8fdf0225fc9f9"
+      },
+      {
         "date": "2025-05-01",
         "dir": "去",
         "who": "Saga（群发）",
         "quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "d759d1535e90b464"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 5e9316441dacaabf"
       },
       {
         "date": "2025-10-13",

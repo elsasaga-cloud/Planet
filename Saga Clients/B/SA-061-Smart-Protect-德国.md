@@ -39,18 +39,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不主动 A 邮箱 来信时一次报 8 口 PoE 管理型付样价
+- **下一步**：不主动 A 邮箱 先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-061` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（要免费样机被付样规则筛掉）** ｜ 类型：德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档 ｜ 筛子：2（「we need to replace a lot of switches」） ｜ 停点：2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回 ｜ 复活：付样 1 台 8 口 PoE 管理型；微型客户复利低，不追 ｜ 通路：DE ｜ 节奏：2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10 ｜ 证据：k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c
+- **绑定等级：未绑定（要免费样机被付样规则筛掉）** ｜ 类型：德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档 ｜ 筛子：2（「we need to replace a lot of switches」） ｜ 停点：2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回；2026-08-11 起域名 smart-protect.nrw 解析不到（公司可能已停业/换域名） ｜ 复活：付样 1 台 8 口 PoE 管理型；微型客户复利低，不追 ｜ 通路：DE ｜ 节奏：2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10 ｜ 证据：k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c
 - **现状一句话**：Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。
 - **对方真实需求（有据）**：替换一批（数量不明）安防用 PoE 交换机，要管理型。
 - **断点 / 为什么停在这里**：付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）**（25% 档，按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：不主动　A 邮箱　来信时一次报 8 口 PoE 管理型付样价
+- **下一步（具体）**：不主动　A 邮箱　先核 smart-protect.nrw 是否还在（2026-08 域名失效）；在则来信时一次报 8 口 PoE 管理型付样价
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2025-05-13 | 去 | Alan | We do not do FREE samples. | 付样规则 | `444284f57e12d0d2` |
 | 2025-06-10 | 来 | Andrew | Are the switches manageable ? | 最后一问 | `f66547fc66c47b76` |
 | 2025-06-10 | 去 | Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg） | 「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。 | Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款 | `k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）` |
+| 2026-08-11 | 内 | Gmail 退信（A 邮箱） | info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 21cca18c5a54024d` |
 
 ## 基本事实（事实/推断/假设分层）
 

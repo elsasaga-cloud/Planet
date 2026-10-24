@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-09-12 | 来 | Success Network | Thanks for information | 礼貌回复 | `e0f000957aae1a7a` |
+| 2026-10-20 | 内 | Gmail 退信（S 邮箱） | sawithree@success-network.co.th 永久退信：550 No such recipient here | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 098f53c592a27464` |
 
 ## 基本事实（事实/推断/假设分层）
 
