@@ -345,7 +345,8 @@
       }
     ],
     "proof_gaps": [
-      "A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补"
+      "A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补",
+      "2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无"
     ],
     "draft_en": {
       "subject": "Re: PoE not powering on battery — did 7.5 change anything?",

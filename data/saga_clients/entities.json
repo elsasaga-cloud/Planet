@@ -6422,7 +6422,8 @@
 }
 ],
 "proof_gaps": [
-"A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补"
+"A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补",
+"2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无"
 ],
 "draft_en": {
 "subject": "Re: PoE not powering on battery — did 7.5 change anything?",
@@ -88860,7 +88861,7 @@
 "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
 "tier": 25,
 "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）",
-"why": "美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+"why": "美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字",
 "repeat": [],
 "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
 },
@@ -325010,7 +325011,7 @@
 "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
 "tier": 25,
 "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
-"why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常",
+"why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常｜CENTEC STOS V2.4 功能表（2026/Q2，sha b07db6026b63a527）：PIM-SM/DM、RIPng、PBR、IP SLA、BFD、VRRP 均 ◯（MS/MA 许可）——Ender 2026-02 要的四样在 CENTEC 线上全有，卡的只是 0~40℃（他 2026-02-27 已点名）；信里把这层说出来，让他自己判断机柜是否控温",
 "repeat": [
 "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
 ],
@@ -325363,7 +325364,7 @@
 ],
 "draft_en": {
 "subject": "Re: vehicle network L3 requirement — PIM-SM now in firmware 7.5",
-"body": "Hi, Ender,\n\nIn February we had to say \"problem\" to PIM-SM/DM, RIPng/PBR and IP SLA for the vehicle container network. One of those has moved: PIM-SM is now available in firmware 7.5 (CLI). PIM-DM, RIPng, PBR and IP SLA are still not there, and I will not pretend otherwise.\n\nTemperature: the industrial units are rated -40 to +75 C, so your -40 to +71 C spec is covered; the hardened enclosure stays on your side as discussed.\n\nOne question: does your end customer's multicast design actually require PIM-DM, or would PIM-SM be sufficient for the 2-4 switches per vehicle?\n\nThank you.\nAlan"
+"body": "Hi, Ender,\n\nIn February we had to say \"problem\" to PIM-SM/DM, RIPng/PBR and IP SLA for the vehicle container network. One of those has moved: PIM-SM is now available in firmware 7.5 (CLI). PIM-DM, RIPng, PBR and IP SLA are still not on the Marvell L3 units, and I will not pretend otherwise. They are all on our CENTEC STOS line (PIM-SM/DM, RIPng, PBR, IP SLA, BFD, VRRP — MS license), but that line is rated 0 to 40 C, so it only fits the container if the cabinet is climate-controlled.\n\nTemperature: the industrial units are rated -40 to +75 C, so your -40 to +71 C spec is covered; the hardened enclosure stays on your side as discussed.\n\nOne question: does your end customer's multicast design actually require PIM-DM, or would PIM-SM be sufficient for the 2-4 switches per vehicle?\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }

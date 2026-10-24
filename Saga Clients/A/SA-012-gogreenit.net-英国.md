@@ -78,7 +78,7 @@ updated: 2026-10-24
 | 2026-04-27 | 来 | Chris Clemson | No, the voltage is never lower than 53V recently (see attached output from Grafana for the last 48h). The last reboot of one of the attached devices (when the power was lost), was 2026-04-26 11:55:02. Before that date uptime was 3 days. | Alan 怀疑是 DC 输入欠压，Chris 用 Grafana 数据反证 53V 稳定 → 掉电重启来自电池侧而非交换机；这类有监控数据的用户是 AC5 固件的好测试员 | `gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）` |
 | 2026-07-10 | 去 | Alan | We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM) | 7.5 = PIM-SM 可用的书面证据（对 Netaş 有用） | `74f5b9590b098b4c` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补
+- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-06 分片属重跑范围：6-10/6-11 的 Alan 去信全文待补；2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无
 
 ## 基本事实（事实/推断/假设分层）
 
