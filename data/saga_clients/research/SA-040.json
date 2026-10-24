@@ -114,10 +114,10 @@
     "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
     "breakpoint": "芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。",
     "saga_now": {
-      "p1": "CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报",
+      "p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI——仅当 Mark 对 Broadcom 松口",
       "tier": 30,
       "price": "CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者",
-      "why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜需求台账 #13/#1：2024-05 的「不可用」现在可用（STH1G），一句话补上；价按 Q-54「按数量报」",
       "repeat": [],
       "gaps": [
         "2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺"
@@ -127,7 +127,7 @@
       "when": "2026-11（一次）",
       "channel": "A 邮箱 → mark@expresssupply.net",
       "action": "一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC",
-      "one_question": "Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?"
+      "one_question": "Mark — in May 2024 you asked for a 1U full-L3 unit with 24 copper + fiber + QSFP+ uplinks and I had nothing; today that is STH-2QX4DX24GE-HSI on our CENTEC line (24×1G + 4×25G SFP28 + 2×40G QSFP+, OSPF/BGP/MPLS). Is Broadcom written into your customers' ITS specs, or would it qualify if it clears your lab test?"
     },
     "facts": [
       {

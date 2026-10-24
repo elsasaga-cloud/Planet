@@ -19547,10 +19547,10 @@
 "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
 "breakpoint": "芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。",
 "saga_now": {
-"p1": "CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报",
+"p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI——仅当 Mark 对 Broadcom 松口",
 "tier": 30,
 "price": "CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者",
-"why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+"why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜需求台账 #13/#1：2024-05 的「不可用」现在可用（STH1G），一句话补上；价按 Q-54「按数量报」",
 "repeat": [],
 "gaps": [
 "2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺"
@@ -19560,7 +19560,7 @@
 "when": "2026-11（一次）",
 "channel": "A 邮箱 → mark@expresssupply.net",
 "action": "一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC",
-"one_question": "Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?"
+"one_question": "Mark — in May 2024 you asked for a 1U full-L3 unit with 24 copper + fiber + QSFP+ uplinks and I had nothing; today that is STH-2QX4DX24GE-HSI on our CENTEC line (24×1G + 4×25G SFP28 + 2×40G QSFP+, OSPF/BGP/MPLS). Is Broadcom written into your customers' ITS specs, or would it qualify if it clears your lab test?"
 },
 "facts": [
 {
@@ -72247,7 +72247,7 @@
 "saga_now": {
 "p1": "STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项",
 "tier": 20,
-"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37",
+"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800",
 "why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价｜毛利复盘：小批 23.6% / 34.4% / 18.7% / 34.5% / 29.8%，176 台大单 15.9%（运费 22,426）；88 台新单 875 RMB 属绑定价",
 "repeat": "10 单（2024-05 → 2025-07），复购间隔 1–3 个月，2025-07 后 15 个月无新 PI（排障/RfP/路线图讨论持续）",
 "gaps": [
@@ -72487,6 +72487,30 @@
 "quote": "very close for a frame agreement with a partner for an ODM opportunity… data center switch of 48*25G and 8*100G. They estimate 30 to 50 for year 1… This ODM deal already includes 24-port and 48-port edge switches from Saga",
 "why": "Simon 03-18 报 CENTEC 48×25G+8×100G（CTC8180，VXLAN/EVPN/BGP/OSPF/MPLS/MLAG）4,800 → 03-19 最低 4,600 USD/pc；Levent「customer is expecting less than $4,000」；第三次提醒「our WHOLE high-speed series is CENTEC chip-based」；Levent 关心「software maintained by Saga in-house?」",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2025-03-18",
+"dir": "去",
+"who": "Simon",
+"quote": "4800USD/pc 48*25G SFP28+8*100G QSFP28，L3 Managed, CTC8180 Chip AL license, VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPV6, 2*CRPS550W-AC, 5*Hot-swappable fan… A third time to remind you that, our WHOLE high-speed series is CENTEC chip-based.",
+"why": "DC 机型首次报价（= 2026 Q2 表 8C48DX $4,800，一年多没动）",
+"k": "quote"
+},
+{
+"date": "2025-03-18",
+"dir": "来",
+"who": "Levent Kılıç",
+"quote": "that's a above budget. The customer is expecting less than $4,000. Can you please check if you can do any improvements… The software on the Centec based Data Center switch is maintained by Saga, correct? It is important for us to get the software support.",
+"why": "ODM 伙伴年 30–50 台的目标价 < $4,000；软件维护归属是他的硬问题",
+"k": "price"
+},
+{
+"date": "2025-03-19",
+"dir": "去",
+"who": "Simon",
+"quote": "The best we can do is 4600USD/pc for now… Maybe we first focus on the functions? If your client tests and finds it acceptable, we can give a better price after our internal discussion.",
+"why": "$4,600 是对 Angora 的 DC 底价锚；03-21 Levent「well noted… keep you posted」后此线转入 2025-12 DC RFP",
+"k": "quote"
 },
 {
 "date": "2025-03-23",
