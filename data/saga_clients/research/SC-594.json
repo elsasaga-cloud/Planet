@@ -166,5 +166,38 @@
   "tier": 20,
   "why": "其在售 IGS-10020PT（工业 8×GE PoE+ + 2×SFP 管理，130 W）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240 W），20% 档 $78.9 USD EXW；IGS-624HPT / GSD-908HP 由 STI-244GP / STC-28DGGPM 第二封对位；布线分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PA-018）；需求："
  },
- "email_hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?"
+ "email_hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）",
+   "type": "布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开）",
+   "sieve": "—",
+   "stop": "Q-33：Planet 渠道客户不碰",
+   "revive": "Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表",
+   "lane": "CZ/EU",
+   "cadence": "不动",
+   "evidence": "无邮件；研究档官网证据 + Planet 渠道档案 PA-018"
+  },
+  "situation": "Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。",
+  "need": "PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "STI-288DGGPM 对位 PLANET IGS 系列（备用）",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

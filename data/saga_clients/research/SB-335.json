@@ -150,5 +150,57 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SB-335",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回）",
+   "type": "第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档）",
+   "sieve": "5（付样）",
+   "stop": "价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单",
+   "revive": "CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道",
+   "lane": "GE 非主攻",
+   "cadence": "一次",
+   "evidence": "PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回"
+  },
+  "situation": "2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。",
+  "need": "2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。",
+  "breakpoint": "价格（新桥）。",
+  "saga_now": {
+   "p1": "STH 系列 CENTEC 汇聚（10G/25G）",
+   "tier": 25,
+   "price": "按 CENTEC ≥35% 底线",
+   "why": "J5：换赛道一次",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → george@dc.ge",
+   "action": "一封只讲 CENTEC 汇聚替代 Cisco 的信",
+   "one_question": "George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?"
+  },
+  "facts": [
+   {
+    "date": "2023-07-24",
+    "dir": "PI",
+    "who": "Simon → George Jaliashvili",
+    "quote": "STC-028GFP 2×20；STC-128GFP 2×25；Freight 5；TOTAL 4 / 100 USD",
+    "why": "样机单",
+    "k": "PI STSC20230724001"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Alan（群发）",
+    "quote": "24 Port PoE Managed Switch…",
+    "why": "0 回",
+    "k": "c3cd22fd6af847aa"
+   }
+  ],
+  "proof_gaps": [
+   "2023 年沟通不在 A/S 邮箱"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

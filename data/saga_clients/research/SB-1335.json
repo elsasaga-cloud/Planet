@@ -84,5 +84,40 @@
  "deep": {
   "done_at": "2026-10-23",
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "重复档案——同一实体见 SA-008（ООО «РИО-ИМПОРТ»，PI 包 #8 Igor；2024-05 样品单 $110）；本档不再单独跟进",
+   "type": "与 SA-008 同一公司（B 级重复建档）",
+   "sieve": "—",
+   "stop": "—",
+   "revive": "—",
+   "lane": "RU",
+   "cadence": "—",
+   "evidence": "见 SA-008；建议并入（疑似重复待确认.md）"
+  },
+  "situation": "同 SA-008。",
+  "need": "同 SA-008。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "见 SA-008",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "并档",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "重复档案待人工归并"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

@@ -35,10 +35,29 @@ updated: 2026-10-24
 - **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-22；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
-- **P1（下一步唯一主推）**：STI-288DGGPM-2BT — 深挖对位：其最新需求「small 8 port high PoE」→ Saga 工业 8 PoE（含 2×BT 90W）+ 2 SFP 管理 STI-288DGGPM-2BT（$157.8/164.4/171.0）；低价备选 STI-288GP；1 光 4 / 2 光 4 小壳 = STI-144GP / STI-244GP。；$164.4 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次；按 CENTEC ≥35% 底线
+- **第一问（只问一个）**：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1 A 邮箱 → george@dc.ge 一封只讲 CENTEC 汇聚替代 Cisco 的信
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-335` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回）** ｜ 类型：第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档） ｜ 筛子：5（付样） ｜ 停点：价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单 ｜ 复活：CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道 ｜ 通路：GE 非主攻 ｜ 节奏：一次 ｜ 证据：PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回
+- **现状一句话**：2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。
+- **对方真实需求（有据）**：2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。
+- **断点 / 为什么停在这里**：价格（新桥）。
+- **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线）——J5：换赛道一次
+- **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信
+  - 第一问（只问一个）：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2023-07-24 | PI | Simon → George Jaliashvili | STC-028GFP 2×20；STC-128GFP 2×25；Freight 5；TOTAL 4 / 100 USD | 样机单 | `PI STSC20230724001` |
+| 2026-09-01 | 去 | Alan（群发） | 24 Port PoE Managed Switch… | 0 回 | `c3cd22fd6af847aa` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：2023 年沟通不在 A/S 邮箱
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -34,10 +34,29 @@ updated: 2026-10-24
 - **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。（调研 2026-10-22；表内兴趣：5/8非管理工业FS）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）；最近一次客户回复：2024-08-13：基本只需要电口 不要光
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：其交换机页主推 5 口（SFNB 5TX / TSW100）与 8–16 口非管理工业机 → STI-144GP（4+1 PoE）/ STI-288DGGPM（8+2 管理）/ STI-21616GP（16 PoE）；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯 — 样机在手；按主表 20% 分销档
+- **第一问（只问一个）**：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1 WhatsApp（Simon） 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-016` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp）** ｜ 类型：大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感 ｜ 筛子：5（付样） ｜ 停点：样机后 18 个月无单；百兆款（FE）说明其项目价格段极低 ｜ 复活：WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档） ｜ 通路：IN 非主攻 ｜ 节奏：WhatsApp 半年 ｜ 证据：PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件
+- **现状一句话**：2024-04 买了 5 口/8 口百兆工业非管理样机各 2 台，之后无下文。Phoenix Contact/ABB 渠道商拿中国工业交换机做低价补充线是合理的，但百兆样机 = 预算极低的项目。
+- **对方真实需求（有据）**：5/8 口非管理工业 FS（百兆/千兆）。
+- **断点 / 为什么停在这里**：价格段 + 无跟进。
+- **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯**（20% 档，按主表 20% 分销档）——样机在手
+  - 做不了 / 要先核的：样机测试反馈
+- **下一步（具体）**：2027-Q1　WhatsApp（Simon）　一句话
+  - 第一问（只问一个）：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-04-16 | PI | Simon → Rajesh | STI-050FE 2×23 = 46；STI-080FE 2×37 = 74；… TOTAL 4 / 178.5 USD；Sample Units | 样机单 | `PI STSC20240416005` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；A/S 邮箱 0 封
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -167,5 +167,51 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-016",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp）",
+   "type": "大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感",
+   "sieve": "5（付样）",
+   "stop": "样机后 18 个月无单；百兆款（FE）说明其项目价格段极低",
+   "revive": "WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档）",
+   "lane": "IN 非主攻",
+   "cadence": "WhatsApp 半年",
+   "evidence": "PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件"
+  },
+  "situation": "2024-04 买了 5 口/8 口百兆工业非管理样机各 2 台，之后无下文。Phoenix Contact/ABB 渠道商拿中国工业交换机做低价补充线是合理的，但百兆样机 = 预算极低的项目。",
+  "need": "5/8 口非管理工业 FS（百兆/千兆）。",
+  "breakpoint": "价格段 + 无跟进。",
+  "saga_now": {
+   "p1": "STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯",
+   "tier": 20,
+   "price": "按主表 20% 分销档",
+   "why": "样机在手",
+   "repeat": [],
+   "gaps": [
+    "样机测试反馈"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?"
+  },
+  "facts": [
+   {
+    "date": "2024-04-16",
+    "dir": "PI",
+    "who": "Simon → Rajesh",
+    "quote": "STI-050FE 2×23 = 46；STI-080FE 2×37 = 74；… TOTAL 4 / 178.5 USD；Sample Units",
+    "why": "样机单",
+    "k": "PI STSC20240416005"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库；A/S 邮箱 0 封"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

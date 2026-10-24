@@ -36,10 +36,30 @@ updated: 2026-10-24
 - **是谁**：赞比亚的系统集成/工程商；兴趣/在卖：主做项目的   VC VoIP optical networks
 - **为什么是 B 级**：**调研后定级 B**（PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；-6 区域 非洲/赞比亚；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-13 → 2025-10-10）
-- **P1（下一步唯一主推）**：— — VC/光端机：Saga 不做（可只推交换机）；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若其 ICT 项目再来，按 2024 清单复购 — 已成交一单大单；按主表
+- **第一问（只问一个）**：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-349` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）** ｜ 类型：卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套 ｜ 筛子：5（T/T 全款，FedEx 空运 120kg 到赞比亚） ｜ 停点：项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回 ｜ 复活：其下一个 ICT 项目；只跟 LinkedIn（研究档） ｜ 通路：ZM 非主攻 ｜ 节奏：半年一句话；不群发 ｜ 证据：PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回
+- **现状一句话**：2024-01 一张 265 件的项目单——15 台 L3 24 光口汇聚（HRUI 线 STC-4248XGGCM）+ 50 台 4 口工业 PoE + 200 只工业 SFP——是 PI 包里件数最多、利润额最高的一单（利润 RMB 23,118）。之后两年没有第二单，Simon 标「gg」。2025 年 Alan 对其私人 Gmail 发了 9 封群发，零互动。研究档查到公司重心转向光伏 EPC。
+- **对方真实需求（有据）**：项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。
+- **断点 / 为什么停在这里**：项目型客户没有项目；群发对私人 Gmail 无效。
+- **Saga 现在该推什么**：P1 **不推；若其 ICT 项目再来，按 2024 清单复购**（25% 档，按主表）——已成交一单大单
+  - 做不了 / 要先核的：2024 设备运行反馈（从未问）
+- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+  - 第一问（只问一个）：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-01-17 | PI | Simon → Pythias Kachepa | STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance | 成交 | `PI STSC20240117003` |
+| 2025-10-10 | 去 | Alan（群发） | 10G Enterprise SFP Switch… | 9 封群发的最后一封，0 回 | `ec7dd11fac1e257c` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp
 
 ## 基本事实（事实/推断/假设分层）
 

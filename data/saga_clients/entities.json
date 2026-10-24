@@ -785,69 +785,142 @@
 "grade_override": "A",
 "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
 "mail_review": {
-"as_of": "2026-10-22",
-"situation": "迪拜 ELV/安防分销商 ASTEL DIGICOM（总经理 Sanjay Singla）。S 邮箱 2024-06 → 2025-04 四次实质来信都在**问价、问 2 个 SFP 环网、问质保和测试证书**；2025-11-27 由 Alan 开 PI **STAG20251127018**（8 件：HDR-15-24 电源 + STI-110GE + STI-140GE，$166），12-01 Sanjay 付款并抄送 Simon「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。**已成交、小额、由 A 邮箱 + 微信主导**。",
-"need": "① 2024-06：工业 PoE 4 口 + **2×2.5G SFP 可环网**（「Need minimum 2 SFP so that we can loop the fiber connectivity」）+ 120W 电源，非管理；② 2025-04-28：要 4/8/12+ 口千兆 PoE + 2（或 4）SFP + **1 个独立 NMS 管理口 RJ45** 的最优价、质保年限、测试证书；③ 2025-11 实际买的是最便宜的入门件（MC + 4 口非 PoE + 电源）→ 先试水。",
-"breakpoint": "S 邮箱侧 2025-04-28 那封三档 PoE 询价没有在 S 邮箱里看到 Simon 的逐项报价（可能在 A 邮箱/微信回了）；12-01 付款后的发货、到货反馈都在 Alan 那边。S 邮箱 2025-11-27 之后只有群发。",
+"binding": {
+"level": "轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon）",
+"type": "迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书",
+"sieve": "5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答",
+"stop": "邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数",
+"revive": "不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell）",
+"lane": "AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据",
+"cadence": "现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购",
+"evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）"
+},
+"situation": "Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。",
+"need": "标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。",
+"breakpoint": "没有断点，是「断档」：从邮件转到 WeChat 后仓库失明 11 个月。按 C9「邮件是档案、WhatsApp/WeChat 是现场」，这里需要 Simon 把标书结果补一句进来。",
 "saga_now": {
-"p1": "STI-244DGGPM",
+"p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
 "tier": 20,
-"price": "$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐",
-"why": "分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型",
+"price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）",
+"why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一",
 "repeat": [
-"HDR-15-24 DIN 电源 + STI-110GE + STI-140GE（2025-11 首单件）"
+"2025-11-27 样品单（唯一）"
 ],
 "gaps": [
-"「1 NMS Port RJ45」= 独立带外管理口：6 系列是 Console + 带内管理，发报价时写清 out-of-band 仅 Console",
-"测试证书：只给 CE/RoHS/FCC/REACH（不提 UL）；质保 6 系列 5 年口径按 Q-22"
+"标书结果未知（WeChat）",
+"1,000 台价格未重算（样品价毛利 ≈8%）",
+"Sanjay 2025-10 要的「QC/测试实验室照片」——Saga 无实验室，当时只回了下载链接；若标书推进会再被问到"
 ]
 },
 "next_move": {
-"when": "等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发",
-"channel": "A 邮箱（Alan 主线）或 S 邮箱抄 Alan",
-"action": "回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸",
-"one_question": "Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?"
+"when": "现在（Simon WeChat 一句话）；邮件层 2026-11 一封",
+"channel": "WeChat（Simon）→ 邮件 navsim@eim.ae 存档",
+"action": "问标书三件事：样品过没过、对方要的供货窗口、1,000 台的目标单价；同时把价格按主表重算后再报",
+"one_question": "Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?"
 },
 "facts": [
 {
 "date": "2024-06-29",
 "dir": "来",
-"who": "Sanjay Singla, GM",
-"quote": "Need minimum 2 SFP So that we can loop the fiber connectivity. sFP should be compatible with sFP 2.5G",
-"why": "环网 + 2.5G SFP 是硬需求",
+"who": "Sanjay Singla（GM）",
+"quote": "Need minimum 2 SFP So that we can loop the fiber connectivity… 2.5G… Also suggest good power supply 120W.",
+"why": "首个真实需求（环网）",
 "k": "4911955d4797da97"
+},
+{
+"date": "2024-06-29",
+"dir": "去",
+"who": "Simon",
+"quote": "For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip",
+"why": "身份与芯片实话——对方没走",
+"k": "f7eeb34e0ebf238b"
 },
 {
 "date": "2025-04-28",
 "dir": "来",
-"who": "Sanjay Singla",
-"quote": "Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45: 8 Port POE … 12 or higher port POE … How many years warranty … Do you have any testing certificate",
-"why": "真正的询价单（三档 + 质保 + 证书）",
+"who": "Sanjay",
+"quote": "Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45; 8 Port…; 12 or higher… How many years warranty… any testing certificate",
+"why": "三款询价 + 质保 + 证书",
 "k": "ca2fc1d1b52d5bb7"
+},
+{
+"date": "2025-04-28",
+"dir": "去",
+"who": "Simon",
+"quote": "STI-244DGGPM, 110usd/pc… STI-288DGGPM, 125usd/pc…",
+"why": "报价",
+"k": "13c00bbc4cc5b9d8"
+},
+{
+"date": "2025-10-22",
+"dir": "来",
+"who": "Sanjay",
+"quote": "Please send pictures of your QC/Testing lab as well. May we have your PDF catalogue",
+"why": "尽调（实验室）",
+"k": "3ef374eddbbcccae"
+},
+{
+"date": "2025-11-24",
+"dir": "来",
+"who": "Sanjay",
+"quote": "Media Converter with 4 Port Switch… 1x Fiber Out- Duplex SC/PC… -20degC to+65 degC… This is for a tender… IF accepted- they may take 1000 pcs. Steps: 1. Specs approval 2. Sample approval 3. Supply of goods",
+"why": "标书 1,000 台",
+"k": "4aabcfb3fec906ec"
+},
+{
+"date": "2025-11-25",
+"dir": "去",
+"who": "Alan",
+"quote": "Sorry to tell you that, we do not have a proper model for this tender. Just something close.",
+"why": "先说没有",
+"k": "ccb8973fe01fa794"
+},
+{
+"date": "2025-11-25",
+"dir": "去",
+"who": "Alan",
+"quote": "Price is 30usd/pc STI-140GE… the price 30usd is actually including duplex fiber module… power adapter, it is din rail mounted… hdr-15-24 meanwell… Price is 10usd/pc",
+"why": "报价修正 + 电源",
+"k": "602605b78b95b93c"
+},
+{
+"date": "2025-11-27",
+"dir": "来",
+"who": "Sanjay",
+"quote": "I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication",
+"why": "付样 + 广州货代 + 要 WeChat",
+"k": "05f51c687ba38b88"
+},
+{
+"date": "2025-11-27",
+"dir": "去",
+"who": "Alan",
+"quote": "Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683",
+"why": "发票 + 交接给 Simon",
+"k": "5ec435ffe9b9305e"
 },
 {
 "date": "2025-12-01",
 "dir": "来",
-"who": "Sanjay Singla → Alan, cc Simon",
-"quote": "We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods.（附 STAG20251127018.pdf）",
-"why": "成交证据；主线在 Alan + 微信",
+"who": "Sanjay",
+"quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
+"why": "付款；邮件到此为止",
 "k": "0cc642cb3b5505fb"
+},
+{
+"date": "2025-11-27",
+"dir": "PI",
+"who": "Simon → Astel",
+"quote": "STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75",
+"why": "样品单经济账",
+"k": "PI STAG20251127018"
 }
 ],
 "proof_gaps": [
-"A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购"
+"2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无"
 ],
 "draft_en": null,
-"binding": {
-"level": "轻度（2025-11 首单 $166 入门件，已付已发）",
-"type": "阿联酋 ELV/安防分销商（混合：问价为主、要环网/管理口）",
-"sieve": "3（PI STAG20251127018、付款、微信发货标记）",
-"stop": "对方未再提项目；2025-04 三档 PoE 询价未见逐项回答",
-"revive": "其项目需要 6 系列管理型 PoE（ERPS 环网）时；或 Saga 一页纸补齐 2025-04 的三档报价",
-"lane": "UAE 已通（PayPal/T/T、DHL）",
-"cadence": "最后实质来信 2025-12-01（付款）；S 邮箱 2025-11-27 后只有群发",
-"evidence": "S 邮箱 k=4911955d4797da97 + A 邮箱 PI STAG20251127018（A 总览 §3）"
-}
+"as_of": "2026-10-24"
 },
 "watch": {
 "as_of": "2026-10-23",
@@ -7466,6 +7539,52 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-016",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp）",
+"type": "大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感",
+"sieve": "5（付样）",
+"stop": "样机后 18 个月无单；百兆款（FE）说明其项目价格段极低",
+"revive": "WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档）",
+"lane": "IN 非主攻",
+"cadence": "WhatsApp 半年",
+"evidence": "PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件"
+},
+"situation": "2024-04 买了 5 口/8 口百兆工业非管理样机各 2 台，之后无下文。Phoenix Contact/ABB 渠道商拿中国工业交换机做低价补充线是合理的，但百兆样机 = 预算极低的项目。",
+"need": "5/8 口非管理工业 FS（百兆/千兆）。",
+"breakpoint": "价格段 + 无跟进。",
+"saga_now": {
+"p1": "STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯",
+"tier": 20,
+"price": "按主表 20% 分销档",
+"why": "样机在手",
+"repeat": [],
+"gaps": [
+"样机测试反馈"
+]
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "WhatsApp（Simon）",
+"action": "一句话",
+"one_question": "Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?"
+},
+"facts": [
+{
+"date": "2024-04-16",
+"dir": "PI",
+"who": "Simon → Rajesh",
+"quote": "STI-050FE 2×23 = 46；STI-080FE 2×37 = 74；… TOTAL 4 / 178.5 USD；Sample Units",
+"why": "样机单",
+"k": "PI STSC20240416005"
+}
+],
+"proof_gaps": [
+"WhatsApp 往来未入库；A/S 邮箱 0 封"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -182807,6 +182926,56 @@
 "deep": {
 "done_at": "2026-10-23",
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定→已冷（一单 $260 清洁笔 2023-10-09；2023-09-20 Rishi 来信要「authorised distributorship certificate」；PI 包「gg」；之后无往来）",
+"type": "德里经销/贸易（Fastball，Rishi Kumar Bansal）——想做「印度授权分销」的贸易商",
+"sieve": "5（一次 $260 付款）但品类是光纤清洁笔，不是交换机",
+"stop": "2023-09 要授权分销证书（Saga 不签区域授权——INH 规则：不做总代/授权）；之后只成交了一单耗材",
+"revive": "不投入",
+"lane": "IN",
+"cadence": "不动",
+"evidence": "k=edee4186a39f51b9（2023-09-20 来信）；PI STSC20231009002（Cleaner Pen 1.25mm ×40 + 2.5mm ×40 @2.6 + 运费 52 = $260）"
+},
+"situation": "Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。",
+"need": "授权分销身份（而非产品）。",
+"breakpoint": "授权诉求 vs Saga 不做区域授权。",
+"saga_now": {
+"p1": "无",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2023-09-20",
+"dir": "来",
+"who": "Rishi Bansal",
+"quote": "Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range… Please share the authorised distributorship certificate on saga telecom letterhead",
+"why": "授权诉求",
+"k": "edee4186a39f51b9"
+},
+{
+"date": "2023-10-09",
+"dir": "PI",
+"who": "Simon → Fastball",
+"quote": "Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD",
+"why": "唯一成交（耗材）",
+"k": "PI STSC20231009002"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -183025,6 +183194,41 @@
 "deep": {
 "done_at": "2026-10-23",
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+},
+"mail_review": {
+"binding": {
+"level": "重复档案——同一实体见 SA-008（ООО «РИО-ИМПОРТ»，PI 包 #8 Igor；2024-05 样品单 $110）；本档不再单独跟进",
+"type": "与 SA-008 同一公司（B 级重复建档）",
+"sieve": "—",
+"stop": "—",
+"revive": "—",
+"lane": "RU",
+"cadence": "—",
+"evidence": "见 SA-008；建议并入（疑似重复待确认.md）"
+},
+"situation": "同 SA-008。",
+"need": "同 SA-008。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "见 SA-008",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "并档",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"重复档案待人工归并"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -249124,6 +249328,58 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SB-335",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定→已冷（一单 $100 样机 2023-07-24：STC-028GFP ×2 @20 + STC-128GFP ×2 @25；PI 包「gg」；2026 年 2 封群发 0 回）",
+"type": "第比利斯 IT 集成商（Delta Consulting，30 人，$2M；CEO George Jaliashvili）——从新桥拿货、价格约为 Saga 一半（研究档）",
+"sieve": "5（付样）",
+"stop": "价格：其现供新桥约为 Saga 一半（研究档引用 CI）；样机后 3 年无单",
+"revive": "CENTEC 汇聚/核心（Cisco/Juniper 伙伴 = 懂 L3）——与低价 PoE 不同赛道",
+"lane": "GE 非主攻",
+"cadence": "一次",
+"evidence": "PI STSC20230724001（$100）；A 邮箱 2026-05-15 / 2026-09-01 两封群发（george@dc.ge）0 回"
+},
+"situation": "2023-07 买了 4 台百兆 PoE 样机（$100），之后没有下文——它的 PoE 来源是新桥，价格一半。公司本身是 Cisco/Juniper/F5 级别的集成商，PoE 低价赛道不是 Saga 能赢的；CENTEC 汇聚/核心才对得上它的客户（企业 + 政府）。",
+"need": "2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。",
+"breakpoint": "价格（新桥）。",
+"saga_now": {
+"p1": "STH 系列 CENTEC 汇聚（10G/25G）",
+"tier": 25,
+"price": "按 CENTEC ≥35% 底线",
+"why": "J5：换赛道一次",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "A 邮箱 → george@dc.ge",
+"action": "一封只讲 CENTEC 汇聚替代 Cisco 的信",
+"one_question": "George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?"
+},
+"facts": [
+{
+"date": "2023-07-24",
+"dir": "PI",
+"who": "Simon → George Jaliashvili",
+"quote": "STC-028GFP 2×20；STC-128GFP 2×25；Freight 5；TOTAL 4 / 100 USD",
+"why": "样机单",
+"k": "PI STSC20230724001"
+},
+{
+"date": "2026-09-01",
+"dir": "去",
+"who": "Alan（群发）",
+"quote": "24 Port PoE Managed Switch…",
+"why": "0 回",
+"k": "c3cd22fd6af847aa"
+}
+],
+"proof_gaps": [
+"2023 年沟通不在 A/S 邮箱"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -456603,6 +456859,72 @@
 "deep": {
 "done_at": "2026-10-23",
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）",
+"type": "吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试",
+"sieve": "5（T/T 全款，RMB 结算，EXW 发到客户在华货代）",
+"stop": "无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目",
+"revive": "—（活跃）",
+"lane": "MY 非主攻；按 J5 看证据：2026 年最大一张单之一",
+"cadence": "WhatsApp；项目节奏（问 7 台测试结论）",
+"evidence": "PI STSC20260819019（RMB 9,090，08-19）→ 改版 STSC20260821019（RMB 10,500，08-21）；报价单 STS-20260818-001（RMB 7,580，36 件）；采购合同 STSC20260819019 向 SmartByte 成本 RMB 5,348（中性设备、PVC 膜、不放保修卡、管理线放、序列号 202608210001~）；PL + 发货图片 STI-21616GP/GPM 多张"
+},
+"situation": "8 月 18–21 日三天内报价 → PI → 改版 PI（加了 2 台 STI-288GPM 和 1 台 STI-21616GPM 管理型），42 件，RMB 10,500，成本 5,348——毛利约 49%，是 PI 包里利润率最好的一单。全程 RMB 结算、发到客户在华货代，邮件零往来：这是 WhatsApp 成交的典型。「Sample Testing」+ 7 台交换机 + 28 只工业光模块 = 在搭一个门禁/CCTV 项目的测试环。",
+"need": "工业 PoE（8/16 口，管理 + 非管理）+ 工业光模块（20KM 单模 / 2KM 多模）+ DIN 电源 NDR-240-48。",
+"breakpoint": "无。风险只有一个：测试结论没人问——按 C10「每单之后一句话」。",
+"saga_now": {
+"p1": "STI-21616GP / STI-21616GPM（已测）→ 项目批量",
+"tier": 25,
+"price": "按 2026-08 成交价（RMB）；项目批量时复核",
+"why": "刚成交、毛利好、项目型",
+"repeat": [
+"2026-08-21（唯一）"
+],
+"gaps": [
+"测试结论",
+"项目规模与时间表",
+"为何 RMB 结算（马来西亚客户在华有货代/公司？）"
+]
+},
+"next_move": {
+"when": "现在（距发货 ≈2 个月）",
+"channel": "WhatsApp（Simon）",
+"action": "一句话问测试结论与项目批量",
+"one_question": "Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?"
+},
+"facts": [
+{
+"date": "2026-08-18",
+"dir": "报价",
+"who": "Simon → Raja King",
+"quote": "STS-20260818-001：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 件 RMB 7,580",
+"why": "报价",
+"k": "PI STS-20260818-001"
+},
+{
+"date": "2026-08-21",
+"dir": "PI",
+"who": "Simon → WizardsInc",
+"quote": "STI-288GPM ×2 @550、STI-21616GP ×4 @1,140、STI-21616GPM ×1 @1,550、光模块 … TOTAL 42 / RMB 10,500；T/T in advance, EXW；Sample Testing",
+"why": "成交",
+"k": "PI STSC20260821019"
+},
+{
+"date": "2026-08-21",
+"dir": "采购合同",
+"who": "Saga → SmartByte",
+"quote": "TOTAL 42 / 5,348 RMB；中性设备，常规 PVC 膜，不放保修卡…管理线放…序列号 202608210001~",
+"why": "成本与贴牌要求",
+"k": "采购合同_STSC20260819019"
+}
+],
+"proof_gaps": [
+"WhatsApp 往来未入库；无邮件"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -769059,6 +769381,60 @@
 "deep": {
 "done_at": "2026-10-23",
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）",
+"type": "卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套",
+"sieve": "5（T/T 全款，FedEx 空运 120kg 到赞比亚）",
+"stop": "项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回",
+"revive": "其下一个 ICT 项目；只跟 LinkedIn（研究档）",
+"lane": "ZM 非主攻",
+"cadence": "半年一句话；不群发",
+"evidence": "PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回"
+},
+"situation": "2024-01 一张 265 件的项目单——15 台 L3 24 光口汇聚（HRUI 线 STC-4248XGGCM）+ 50 台 4 口工业 PoE + 200 只工业 SFP——是 PI 包里件数最多、利润额最高的一单（利润 RMB 23,118）。之后两年没有第二单，Simon 标「gg」。2025 年 Alan 对其私人 Gmail 发了 9 封群发，零互动。研究档查到公司重心转向光伏 EPC。",
+"need": "项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。",
+"breakpoint": "项目型客户没有项目；群发对私人 Gmail 无效。",
+"saga_now": {
+"p1": "不推；若其 ICT 项目再来，按 2024 清单复购",
+"tier": 25,
+"price": "按主表",
+"why": "已成交一单大单",
+"repeat": [],
+"gaps": [
+"2024 设备运行反馈（从未问）"
+]
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "LinkedIn / WhatsApp（若有）",
+"action": "一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机",
+"one_question": "Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?"
+},
+"facts": [
+{
+"date": "2024-01-17",
+"dir": "PI",
+"who": "Simon → Pythias Kachepa",
+"quote": "STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance",
+"why": "成交",
+"k": "PI STSC20240117003"
+},
+{
+"date": "2025-10-10",
+"dir": "去",
+"who": "Alan（群发）",
+"quote": "10G Enterprise SFP Switch…",
+"why": "9 封群发的最后一封，0 回",
+"k": "ec7dd11fac1e257c"
+}
+],
+"proof_gaps": [
+"成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -813962,7 +814338,40 @@
 "tier": 20,
 "why": "其在售 IGS-10020PT（工业 8×GE PoE+ + 2×SFP 管理，130 W）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240 W），20% 档 $78.9 USD EXW；IGS-624HPT / GSD-908HP 由 STI-244GP / STC-28DGGPM 第二封对位；布线分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PA-018）；需求："
 },
-"email_hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?"
+"email_hook": "Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?",
+"mail_review": {
+"binding": {
+"level": "未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）",
+"type": "布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开）",
+"sieve": "—",
+"stop": "Q-33：Planet 渠道客户不碰",
+"revive": "Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表",
+"lane": "CZ/EU",
+"cadence": "不动",
+"evidence": "无邮件；研究档官网证据 + Planet 渠道档案 PA-018"
+},
+"situation": "Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。",
+"need": "PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。",
+"breakpoint": "Q-33。",
+"saga_now": {
+"p1": "STI-288DGGPM 对位 PLANET IGS 系列（备用）",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {

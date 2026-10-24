@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json（调研 2026-10-22；表内兴趣：商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级））
 - **为什么是 B 级**：**调研后定级 B**（PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 24 口 PoE L2+ 走量款；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1334` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→已冷（一单 $260 清洁笔 2023-10-09；2023-09-20 Rishi 来信要「authorised distributorship certificate」；PI 包「gg」；之后无往来）** ｜ 类型：德里经销/贸易（Fastball，Rishi Kumar Bansal）——想做「印度授权分销」的贸易商 ｜ 筛子：5（一次 $260 付款）但品类是光纤清洁笔，不是交换机 ｜ 停点：2023-09 要授权分销证书（Saga 不签区域授权——INH 规则：不做总代/授权）；之后只成交了一单耗材 ｜ 复活：不投入 ｜ 通路：IN ｜ 节奏：不动 ｜ 证据：k=edee4186a39f51b9（2023-09-20 来信）；PI STSC20231009002（Cleaner Pen 1.25mm ×40 + 2.5mm ×40 @2.6 + 运费 52 = $260）
+- **现状一句话**：Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。
+- **对方真实需求（有据）**：授权分销身份（而非产品）。
+- **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
+- **Saga 现在该推什么**：P1 **无**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2023-09-20 | 来 | Rishi Bansal | Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range… Please share the authorised distributorship certificate on saga telecom letterhead | 授权诉求 | `edee4186a39f51b9` |
+| 2023-10-09 | PI | Simon → Fastball | Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD | 唯一成交（耗材） | `PI STSC20231009002` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -91,5 +91,55 @@
  "deep": {
   "done_at": "2026-10-23",
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→已冷（一单 $260 清洁笔 2023-10-09；2023-09-20 Rishi 来信要「authorised distributorship certificate」；PI 包「gg」；之后无往来）",
+   "type": "德里经销/贸易（Fastball，Rishi Kumar Bansal）——想做「印度授权分销」的贸易商",
+   "sieve": "5（一次 $260 付款）但品类是光纤清洁笔，不是交换机",
+   "stop": "2023-09 要授权分销证书（Saga 不签区域授权——INH 规则：不做总代/授权）；之后只成交了一单耗材",
+   "revive": "不投入",
+   "lane": "IN",
+   "cadence": "不动",
+   "evidence": "k=edee4186a39f51b9（2023-09-20 来信）；PI STSC20231009002（Cleaner Pen 1.25mm ×40 + 2.5mm ×40 @2.6 + 运费 52 = $260）"
+  },
+  "situation": "Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。",
+  "need": "授权分销身份（而非产品）。",
+  "breakpoint": "授权诉求 vs Saga 不做区域授权。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2023-09-20",
+    "dir": "来",
+    "who": "Rishi Bansal",
+    "quote": "Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range… Please share the authorised distributorship certificate on saga telecom letterhead",
+    "why": "授权诉求",
+    "k": "edee4186a39f51b9"
+   },
+   {
+    "date": "2023-10-09",
+    "dir": "PI",
+    "who": "Simon → Fastball",
+    "quote": "Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD",
+    "why": "唯一成交（耗材）",
+    "k": "PI STSC20231009002"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

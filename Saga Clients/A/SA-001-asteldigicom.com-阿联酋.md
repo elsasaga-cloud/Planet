@@ -36,32 +36,41 @@ updated: 2026-10-24
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-22；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STI-244DGGPM — 分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型；$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐
-- **第一问（只问一个）**：Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付 — 成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一；STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）
+- **第一问（只问一个）**：Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?
 - **最大未知**：年走量与现供应商
-- **下一步**：等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发 A 邮箱（Alan 主线）或 S 邮箱抄 Alan 回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸
+- **下一步**：现在（Simon WeChat 一句话）；邮件层 2026-11 一封 WeChat（Simon）→ 邮件 navsim@eim.ae 存档 问标书三件事：样品过没过、对方要的供货窗口、1,000 台的目标单价；同时把价格按主表重算后再报
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-001` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（2025-11 首单 $166 入门件，已付已发）** ｜ 类型：阿联酋 ELV/安防分销商（混合：问价为主、要环网/管理口） ｜ 筛子：3（PI STAG20251127018、付款、微信发货标记） ｜ 停点：对方未再提项目；2025-04 三档 PoE 询价未见逐项回答 ｜ 复活：其项目需要 6 系列管理型 PoE（ERPS 环网）时；或 Saga 一页纸补齐 2025-04 的三档报价 ｜ 通路：UAE 已通（PayPal/T/T、DHL） ｜ 节奏：最后实质来信 2025-12-01（付款）；S 邮箱 2025-11-27 后只有群发 ｜ 证据：S 邮箱 k=4911955d4797da97 + A 邮箱 PI STAG20251127018（A 总览 §3）
-- **现状一句话**：迪拜 ELV/安防分销商 ASTEL DIGICOM（总经理 Sanjay Singla）。S 邮箱 2024-06 → 2025-04 四次实质来信都在**问价、问 2 个 SFP 环网、问质保和测试证书**；2025-11-27 由 Alan 开 PI **STAG20251127018**（8 件：HDR-15-24 电源 + STI-110GE + STI-140GE，$166），12-01 Sanjay 付款并抄送 Simon「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。**已成交、小额、由 A 邮箱 + 微信主导**。
-- **对方真实需求（有据）**：① 2024-06：工业 PoE 4 口 + **2×2.5G SFP 可环网**（「Need minimum 2 SFP so that we can loop the fiber connectivity」）+ 120W 电源，非管理；② 2025-04-28：要 4/8/12+ 口千兆 PoE + 2（或 4）SFP + **1 个独立 NMS 管理口 RJ45** 的最优价、质保年限、测试证书；③ 2025-11 实际买的是最便宜的入门件（MC + 4 口非 PoE + 电源）→ 先试水。
-- **断点 / 为什么停在这里**：S 邮箱侧 2025-04-28 那封三档 PoE 询价没有在 S 邮箱里看到 Simon 的逐项报价（可能在 A 邮箱/微信回了）；12-01 付款后的发货、到货反馈都在 Alan 那边。S 邮箱 2025-11-27 之后只有群发。
-- **Saga 现在该推什么**：P1 **STI-244DGGPM**（20% 档，$129.1 USD EXW（CNY 720 ×1.2 ÷6.69）；同档 STI-288DGGPM $139.9、STI-21616DGGPM $240.4——按他 2025-04 的 4/8/12+ 三档一次报齐）——分销商 → 20% 档；他明确要 2 SFP 环网 + 管理口，6 系列管理型正好（ERPS 环网、独立 Console/管理）；首单已付说明信用 OK，第二单该上管理型
-  - 复购/在买项：HDR-15-24 DIN 电源 + STI-110GE + STI-140GE（2025-11 首单件）
-  - 做不了 / 要先核的：「1 NMS Port RJ45」= 独立带外管理口：6 系列是 Console + 带内管理，发报价时写清 out-of-band 仅 Console；测试证书：只给 CE/RoHS/FCC/REACH（不提 UL）；质保 6 系列 5 年口径按 Q-22
-- **下一步（具体）**：等 A 邮箱入库核对 2025-12 之后进展后再发；若 A 侧无动静，11 月第一周发　A 邮箱（Alan 主线）或 S 邮箱抄 Alan　回答他 2025-04-28 的原问题：三档管理型 PoE 价 + 质保 + 证书清单，一页纸
-  - 第一问（只问一个）：Which of the three sizes (4 / 8 / 16 PoE ports) is the one your current project needs first?
+- **绑定等级：轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon）** ｜ 类型：迪拜线缆/网络/太阳能分销 + 网店（ASTEL Digicom，AVSS 集团；GM Sanjay Singla 直联，navsim@eim.ae）——第三档分销，但手里有一张 1,000 台的标书 ｜ 筛子：5（付样 + 付款 + 走广州货代）；在 2024-06 已明确接受「we are a trading company / Realtek chip」的回答 ｜ 停点：邮件最后一封 2025-12-01「We have processed your payment… Shipping address and Shipping marks have been advised on WeChat」。标书结果（Specs approval → Sample approval → Supply 1,000 pcs）在仓库里没有后续——是全库最值钱的一个未知数 ｜ 复活：不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell） ｜ 通路：AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据 ｜ 节奏：现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购 ｜ 证据：k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）
+- **现状一句话**：Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。
+- **对方真实需求（有据）**：标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。
+- **断点 / 为什么停在这里**：没有断点，是「断档」：从邮件转到 WeChat 后仓库失明 11 个月。按 C9「邮件是档案、WhatsApp/WeChat 是现场」，这里需要 Simon 把标书结果补一句进来。
+- **Saga 现在该推什么**：P1 **STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付**（20% 档，STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%））——成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一
+  - 复购/在买项：2025-11-27 样品单（唯一）
+  - 做不了 / 要先核的：标书结果未知（WeChat）；1,000 台价格未重算（样品价毛利 ≈8%）；Sanjay 2025-10 要的「QC/测试实验室照片」——Saga 无实验室，当时只回了下载链接；若标书推进会再被问到
+- **下一步（具体）**：现在（Simon WeChat 一句话）；邮件层 2026-11 一封　WeChat（Simon）→ 邮件 navsim@eim.ae 存档　问标书三件事：样品过没过、对方要的供货窗口、1,000 台的目标单价；同时把价格按主表重算后再报
+  - 第一问（只问一个）：Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024-06-29 | 来 | Sanjay Singla, GM | Need minimum 2 SFP So that we can loop the fiber connectivity. sFP should be compatible with sFP 2.5G | 环网 + 2.5G SFP 是硬需求 | `4911955d4797da97` |
-| 2025-04-28 | 来 | Sanjay Singla | Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45: 8 Port POE … 12 or higher port POE … How many years warranty … Do you have any testing certificate | 真正的询价单（三档 + 质保 + 证书） | `ca2fc1d1b52d5bb7` |
-| 2025-12-01 | 来 | Sanjay Singla → Alan, cc Simon | We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods.（附 STAG20251127018.pdf） | 成交证据；主线在 Alan + 微信 | `0cc642cb3b5505fb` |
+| 2024-06-29 | 来 | Sanjay Singla（GM） | Need minimum 2 SFP So that we can loop the fiber connectivity… 2.5G… Also suggest good power supply 120W. | 首个真实需求（环网） | `4911955d4797da97` |
+| 2024-06-29 | 去 | Simon | For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip | 身份与芯片实话——对方没走 | `f7eeb34e0ebf238b` |
+| 2025-04-28 | 来 | Sanjay | Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45; 8 Port…; 12 or higher… How many years warranty… any testing certificate | 三款询价 + 质保 + 证书 | `ca2fc1d1b52d5bb7` |
+| 2025-04-28 | 去 | Simon | STI-244DGGPM, 110usd/pc… STI-288DGGPM, 125usd/pc… | 报价 | `13c00bbc4cc5b9d8` |
+| 2025-10-22 | 来 | Sanjay | Please send pictures of your QC/Testing lab as well. May we have your PDF catalogue | 尽调（实验室） | `3ef374eddbbcccae` |
+| 2025-11-24 | 来 | Sanjay | Media Converter with 4 Port Switch… 1x Fiber Out- Duplex SC/PC… -20degC to+65 degC… This is for a tender… IF accepted- they may take 1000 pcs. Steps: 1. Specs approval 2. Sample approval 3. Supply of goods | 标书 1,000 台 | `4aabcfb3fec906ec` |
+| 2025-11-25 | 去 | Alan | Sorry to tell you that, we do not have a proper model for this tender. Just something close. | 先说没有 | `ccb8973fe01fa794` |
+| 2025-11-25 | 去 | Alan | Price is 30usd/pc STI-140GE… the price 30usd is actually including duplex fiber module… power adapter, it is din rail mounted… hdr-15-24 meanwell… Price is 10usd/pc | 报价修正 + 电源 | `602605b78b95b93c` |
+| 2025-11-27 | 来 | Sanjay | I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication | 付样 + 广州货代 + 要 WeChat | `05f51c687ba38b88` |
+| 2025-11-27 | 去 | Alan | Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683 | 发票 + 交接给 Simon | `5ec435ffe9b9305e` |
+| 2025-12-01 | 来 | Sanjay | We have processed your payment… Shipping address and Shipping marks have been advised on WeChat. | 付款；邮件到此为止 | `0cc642cb3b5505fb` |
+| 2025-11-27 | PI | Simon → Astel | STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75 | 样品单经济账 | `PI STAG20251127018` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱：2025-04 询价的回复、2025-12 发货与到货反馈、2026 年是否复购
+- **还缺的证据（等 A 邮箱 / Extra Info）**：2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无
 
 ## 基本事实（事实/推断/假设分层）
 

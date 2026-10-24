@@ -35,10 +35,32 @@ updated: 2026-10-24
 - **是谁**：马来西亚的经销/集成（类型待核）；兴趣/在卖：产品线比较像
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 无明确兴趣记录：按 Saga 走量款起手；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核
+- **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 一句话问测试结论与项目批量
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1006` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）** ｜ 类型：吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试 ｜ 筛子：5（T/T 全款，RMB 结算，EXW 发到客户在华货代） ｜ 停点：无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目 ｜ 复活：—（活跃） ｜ 通路：MY 非主攻；按 J5 看证据：2026 年最大一张单之一 ｜ 节奏：WhatsApp；项目节奏（问 7 台测试结论） ｜ 证据：PI STSC20260819019（RMB 9,090，08-19）→ 改版 STSC20260821019（RMB 10,500，08-21）；报价单 STS-20260818-001（RMB 7,580，36 件）；采购合同 STSC20260819019 向 SmartByte 成本 RMB 5,348（中性设备、PVC 膜、不放保修卡、管理线放、序列号 202608210001~）；PL + 发货图片 STI-21616GP/GPM 多张
+- **现状一句话**：8 月 18–21 日三天内报价 → PI → 改版 PI（加了 2 台 STI-288GPM 和 1 台 STI-21616GPM 管理型），42 件，RMB 10,500，成本 5,348——毛利约 49%，是 PI 包里利润率最好的一单。全程 RMB 结算、发到客户在华货代，邮件零往来：这是 WhatsApp 成交的典型。「Sample Testing」+ 7 台交换机 + 28 只工业光模块 = 在搭一个门禁/CCTV 项目的测试环。
+- **对方真实需求（有据）**：工业 PoE（8/16 口，管理 + 非管理）+ 工业光模块（20KM 单模 / 2KM 多模）+ DIN 电源 NDR-240-48。
+- **断点 / 为什么停在这里**：无。风险只有一个：测试结论没人问——按 C10「每单之后一句话」。
+- **Saga 现在该推什么**：P1 **STI-21616GP / STI-21616GPM（已测）→ 项目批量**（25% 档，按 2026-08 成交价（RMB）；项目批量时复核）——刚成交、毛利好、项目型
+  - 复购/在买项：2026-08-21（唯一）
+  - 做不了 / 要先核的：测试结论；项目规模与时间表；为何 RMB 结算（马来西亚客户在华有货代/公司？）
+- **下一步（具体）**：现在（距发货 ≈2 个月）　WhatsApp（Simon）　一句话问测试结论与项目批量
+  - 第一问（只问一个）：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-18 | 报价 | Simon → Raja King | STS-20260818-001：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 件 RMB 7,580 | 报价 | `PI STS-20260818-001` |
+| 2026-08-21 | PI | Simon → WizardsInc | STI-288GPM ×2 @550、STI-21616GP ×4 @1,140、STI-21616GPM ×1 @1,550、光模块 … TOTAL 42 / RMB 10,500；T/T in advance, EXW；Sample Testing | 成交 | `PI STSC20260821019` |
+| 2026-08-21 | 采购合同 | Saga → SmartByte | TOTAL 42 / 5,348 RMB；中性设备，常规 PVC 膜，不放保修卡…管理线放…序列号 202608210001~ | 成本与贴牌要求 | `采购合同_STSC20260819019` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；无邮件
 
 ## 基本事实（事实/推断/假设分层）
 
