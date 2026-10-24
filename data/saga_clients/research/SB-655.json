@@ -77,5 +77,49 @@
   "tier": 25,
   "why": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）"
  },
- "email_hook": "Ahmed, following your enquiry for an industrial 1-fibre + 1-PoE unit: we supply the DIN-rail PoE media converter (1 SFP + 1 GE PoE+, −40~75 °C, CE/RoHS) and 4-PoE + 1 SFP models from single units, EXW USD — how many points does the project need and what fibre type (single-mode/distance)?"
+ "email_hook": "Ahmed, following your enquiry for an industrial 1-fibre + 1-PoE unit: we supply the DIN-rail PoE media converter (1 SFP + 1 GE PoE+, −40~75 °C, CE/RoHS) and 4-PoE + 1 SFP models from single units, EXW USD — how many points does the project need and what fibre type (single-mode/distance)?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业1光1电PoE / from: 自建站」）",
+   "type": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "埃及 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「工业1光1电PoE / from: 自建站」；研究档 risks：非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核"
+  },
+  "situation": "埃及 C-TECH（2017 年成立的系统集成商：数据中心、自动化、CCTV、门禁、7×24 支持；表内「工业 1 光 1 电 PoE / from: 自建站」；KP Ahmed Sonbol）；表内未跟进。",
+  "need": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
+  "breakpoint": "非主攻区（T5，埃及）：外汇/进口手续风险；自建站询盘有效性待核",
+  "saga_now": {
+   "p1": "STI-111GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询盘工业 1 光 1 电 PoE → 工业 PoE MC STI-111GP（$29.0 @25%）；配套 4 PoE + 1 SFP STI-154GP（$39.2）；8 口 PoE+ 2 SFP STC-28DGGPM（$84.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业1光1电PoE / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

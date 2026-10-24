@@ -126,5 +126,55 @@
   "tier": 30,
   "why": "OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）"
  },
- "email_hook": "Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?"
+ "email_hook": "Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 sales@zelax.ru；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）",
+   "type": "设备厂商/分销",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「买了迈威的 Switch / 富通天下」；研究档 risks：客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程"
+  },
+  "situation": "俄罗斯电信设备研发制造商 Zelax（1988 年创于泽列诺格勒；自有生产与研发中心；产品：光复用系统、路由器、交换机（含 ZES-22xx 工业交换机、ZES-20xx/30xx 接入交换机）、复用器、调制解调器、TDMoIP 网关、转换器、SFP 模块；51–200 人；客户为「俄罗斯经济战略性行业的大型企业与政府机构」）。用户表：买了迈威（Maiwe）交换机；17 次跟进 0 回复。制造商自有品牌 + 已从中国厂（Maiwe）采购交换机 → OEM 30% 入口（ZES 工业系列贴牌）；守界：其客户含政府/战略行业，按个案；俄罗斯结算另议。",
+  "need": "OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）",
+  "breakpoint": "客户含政府/战略行业（守界按个案）；俄罗斯制裁与结算路径；17 次推送 0 回复；大厂采购流程",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$151.6）/ 非 PoE STI-280GM（$73.8）贴 ZES 牌；L2 版 STI-288GPM（$85.5）；接入 STC-424XGGM（$138.0）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Здравствуйте, для линейки ZES: промышленный DIN-rail коммутатор 2 SFP + 8 GbE (L2+ с ERPS) под вашей маркой — 151,6 USD EXW с PoE+, 73,8 USD без PoE; прошивка и веб-интерфейс могут быть русифицированы. Какой из ваших ZES-22xx вы сейчас закупаете у Maiwe, чтобы я подобрал полный аналог?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买了迈威的 Switch / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

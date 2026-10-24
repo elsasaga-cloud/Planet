@@ -57,5 +57,49 @@
   "tier": 25,
   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）"
  },
- "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+ "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封",
+   "type": "未知（疑为个体贸易/集成）",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；研究档 risks：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）"
+  },
+  "situation": "用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。",
+  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）",
+  "breakpoint": "无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -55,5 +55,47 @@
   "tier": 25,
   "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32"
  },
- "email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
+ "email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）",
+   "type": "经销/集成商",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；研究档 risks：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复"
+  },
+  "situation": "印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。",
+  "need": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32",
+  "breakpoint": "延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
+  },
+  "facts": [
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 port managed switch、Industrial poe switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

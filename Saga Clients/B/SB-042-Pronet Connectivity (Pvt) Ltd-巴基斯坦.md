@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。（调研 2026-10-21；表内兴趣：protocol converter 需求产品较为低端）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 3 次；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 3 次；WhatsApp 已加；推送 10 次（2024-01-27 → 2025-01-03）；最近一次客户回复：2025-01-03：有需求会说
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-042` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；研究档 risks：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明
+- **现状一句话**：卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。
+- **对方真实需求（有据）**：收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。
+- **断点 / 为什么停在这里**：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明
+- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS 用的hasivo的）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-488DGGPM — 深挖对位：自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM；$159.3 USD EXW（30% 档，SmartByte LT-IS6312GP-4GX8GT 820 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-690` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 8 封 2025→2026，1 次记录打开，0 回；收件 info@comxus.com, umesh.palanpuri@comxus.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）** ｜ 类型：印度工业网络品牌商（现由 Hasivo 代工，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 用的hasivo的」；研究档 risks：印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈
+- **现状一句话**：印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。
+- **对方真实需求（有据）**：自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM
+- **断点 / 为什么停在这里**：印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈
+- **Saga 现在该推什么**：P1 **STI-488DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 用的hasivo的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 16 Port Ethernet Switch、Industrial PoE Switch | 8 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

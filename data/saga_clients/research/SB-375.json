@@ -73,5 +73,55 @@
   "tier": 20,
   "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换"
  },
- "email_hook": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply Marvell-based DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?"
+ "email_hook": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply Marvell-based DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 manager@volokno.kz；被打开主题「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
+   "type": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "哈萨克斯坦 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：非主攻区（T5）；中亚结算/物流按单核"
+  },
+  "situation": "哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。",
+  "need": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换",
+  "breakpoint": "非主攻区（T5）；中亚结算/物流按单核",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → manager@volokno.kz",
+   "action": "短信一问（email_hook）",
+   "one_question": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply Marvell-based DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 中科德能的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "26 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

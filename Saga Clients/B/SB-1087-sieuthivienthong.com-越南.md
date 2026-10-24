@@ -32,10 +32,27 @@ updated: 2026-10-24
 - **是谁**：越南电商 Siêu Thị Viễn Thông（官网越南语：正品电信 / 安防 / 网络 / 办公设备，全国发货；首页 Hikvision / Dahua / ZKTeco 为主，站内 TP-Link、Ubiquiti、Ruijie、Grandstream；表内「商业 PoE 主要是 Hasivo 的」= 在卖深圳白牌 PoE）；表内无跟进记录。（调研 2026-10-21；表内兴趣：Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1087` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」）** ｜ 类型：电商/网店（安防 + 网络） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」；研究档 risks：越南电商、Hasivo 价格带（极低）：毛利空间小；非主攻区（T5）
+- **现状一句话**：越南电商 Siêu Thị Viễn Thông（官网越南语：正品电信 / 安防 / 网络 / 办公设备，全国发货；首页 Hikvision / Dahua / ZKTeco 为主，站内 TP-Link、Ubiquiti、Ruijie、Grandstream；表内「商业 PoE 主要是 Hasivo 的」= 在卖深圳白牌 PoE）；表内无跟进记录。
+- **对方真实需求（有据）**：在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo
+- **断点 / 为什么停在这里**：越南电商、Hasivo 价格带（极低）：毛利空间小；非主攻区（T5）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

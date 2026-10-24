@@ -113,5 +113,49 @@
   "tier": 25,
   "why": "表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询"
  },
- "email_hook": "Vous aviez demandé le prix du petit switch 2 SFP + 4 ports PoE — je peux vous envoyer la grille en USD EXW (et, séparément, un devis pour les SFP 80 km). Préférez-vous un échange en français ?"
+ "email_hook": "Vous aviez demandé le prix du petit switch 2 SFP + 4 ports PoE — je peux vous envoyer la grille en USD EXW (et, séparément, un devis pour les SFP 80 km). Préférez-vous un échange en français ?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「80KM光模块；2024.1.13 发了2光4产品信息 → price」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "毛里塔尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「80KM光模块；2024.1.13 发了2光4产品信息 → price」；研究档 risks：首问 80 km 光模块（Saga 价目无光模块，Q-32）"
+  },
+  "situation": "毛里塔尼亚最大的电信工程/集成集团之一（1993/1995 年创立，51–200 人；微波传输 FH 市场 70%+、GSM 站点交钥匙、光/有线网络、企业网、能源与广播；客户为运营商、油气与中小企业；PDG Mohamed Waled 任毛里塔尼亚工商会副主席）。表内联系人 Moustapha Elemine（moustapha@wimex.mr，官网合作页同邮箱，WA 已加，自填 Distributor/Wholesaler）要 80 km 光模块，2024-01 对 2 光 4 产品回「price」；19 次推送 1 次实质回复。非主攻区但为当地头部集成商 → B 25%。",
+  "need": "表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询",
+  "breakpoint": "首问 80 km 光模块（Saga 价目无光模块，Q-32）",
+  "saga_now": {
+   "p1": "STC-204GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内回价的「2 光 4」= 2 SFP + 4 PoE 小机 → STC-204GP（HRUI 列表价）；站点/企业网另备 STC-28DGGPM；80 km SFP 需另询",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "80KM光模块；2024.1.13 发了2光4产品信息 → price",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

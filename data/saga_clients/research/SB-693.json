@@ -109,5 +109,55 @@
    "url": "https://www.digisol.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "IN 次级（点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线"
+  },
+  "situation": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
+  "need": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+  "breakpoint": "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "12 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

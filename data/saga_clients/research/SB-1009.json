@@ -54,5 +54,49 @@
   "tier": 25,
   "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
  },
- "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?"
+ "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：千兆PoE MC；回复：interested」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "肯尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付"
+  },
+  "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+  "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+  "breakpoint": "身份不明；东非付款 T/T 预付",
+  "saga_now": {
+   "p1": "STI-111GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：千兆PoE MC；回复：interested",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

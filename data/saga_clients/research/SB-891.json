@@ -65,5 +65,55 @@
   "tier": 25,
   "why": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。"
  },
- "email_hook": "（低优先；若其集成商来询再报）"
+ "email_hook": "（低优先；若其集成商来询再报）",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 ps.vijay@mspllimited.com；主题多为「48 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「（空）」；研究档 risks：大集团采购流程长、倾向品牌；无需求描述"
+  },
+  "situation": "印度 1961 年成立的大型铁矿开采集团（MSPL Limited，兼营风电、气体、海运），P.S. Vijaykumar（mspllimited.com）询盘；终端用户（矿业）项目型需求；WA 无实质回复。规模大但为终端用户，保留 B 低优先。",
+  "need": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。",
+  "breakpoint": "大集团采购流程长、倾向品牌；无需求描述",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "矿区工业管理 PoE → STI-288GPM（$82.2 @25%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（空）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 Port PoE Managed Switch",
+    "why": "1 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -83,5 +83,55 @@
   "tier": 20,
   "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）"
  },
- "email_hook": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?"
+ "email_hook": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 admin@kzn-gps.ru；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "网络设备电商（喀山）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 21；用户表：「Switch等啥都卖；7-9173910585 WA」；研究档 risks：俄罗斯：结算/物流经第三国，非主攻区（T5）"
+  },
+  "situation": "俄罗斯喀山网络设备网店 kzn-gps.ru（品类：PoE 交换机、交换模块、PoE 电源、FTTH、路由；站内 MikroTik / Ubiquiti / TP-Link；表内「Switch 等啥都卖」，KP Alexander（Senior Manager），WhatsApp +7 917 391 0585）；群发 14 次无回复。",
+  "need": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
+  "breakpoint": "俄罗斯：结算/物流经第三国，非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "网店 PoE 交换机品类（MikroTik/Ubiquiti 价带）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；SFP 模块位 Saga 无价目（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alexander, for the PoE switch category next to MikroTik and Ubiquiti, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models in neutral packing from small lots — which port count sells more in Kazan, 8 or 24?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switch等啥都卖；7-9173910585 WA",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "21 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

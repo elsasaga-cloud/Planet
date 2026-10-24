@@ -97,5 +97,55 @@
    "url": "https://osd.com.au/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 12 封 2025→2026，其中 2 封被打开，0 回；收件 nickf@osd.com.au, sales@osd.com.au；被打开主题「Optional Marvell Chipset Solutions、10G Enterprise SFP Switch」）",
+   "type": "澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 12，Opened 标签 2（Simon 群发追踪）；用户表：「POE 工业FS VC」；研究档 risks：「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证"
+  },
+  "situation": "澳大利亚 Optical Systems Design（OSD；「Industrial Networking. Engineered in Australia」光纤通信系统方案：自有品牌 OSD2524P 24 口 PoE、OSD2184P、OSD2153P、MC/SFP；表内「PoE / 工业 FS / VC」；KP Nick Fitzsimmons（General Manager，nickf@））；群发 2 次无回复。",
+  "need": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做",
+  "breakpoint": "「Engineered in Australia」品牌：自有设计/ODM 体系，导入需工程验证",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 OSD 工业 PoE 系列靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；24 口 PoE（OSD2524P）位 STC-424DGGPM-280W（商用，注明）；VC 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → nickf@osd.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Nick, for the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE 工业FS VC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Optional Marvell Chipset Solutions、10G Enterprise SFP Switch",
+    "why": "12 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -70,5 +70,55 @@
   "tier": 30,
   "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。"
  },
- "email_hook": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details."
+ "email_hook": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 jone.chen@aetektec.com；主题多为「Marvell Industrial Alert System、Marvell Software Function List」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件」；研究档 risks：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合"
+  },
+  "situation": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+  "need": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
+  "breakpoint": "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
+  "saga_now": {
+   "p1": "STI-288DGGPM-2BT",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、Marvell Software Function List",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

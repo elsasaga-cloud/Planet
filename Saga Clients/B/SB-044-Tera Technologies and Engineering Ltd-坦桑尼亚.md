@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。（调研 2026-10-21；表内兴趣：5电口 price list company profile）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）；最近一次客户回复：2025-02-20：可能会用到
-- **P1（下一步唯一主推）**：STI-21616GP — 深挖对位：其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。；$177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-044` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 2 封 2024，无记录打开，0 回；收件 rndijuye@gmail.com；主题多为「Industrial Fiber Switch、8 Port 2.5G Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：坦桑尼亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到」；研究档 risks：东非项目付款周期长；T/T 预付
+- **现状一句话**：坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。
+- **对方真实需求（有据）**：其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。
+- **断点 / 为什么停在这里**：东非项目付款周期长；T/T 预付
+- **Saga 现在该推什么**：P1 **STI-21616GP**（25% 档，按主表（研究档 saga_fit））——其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | Industrial Fiber Switch、8 Port 2.5G Switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

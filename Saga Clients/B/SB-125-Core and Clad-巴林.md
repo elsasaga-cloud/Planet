@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。（调研 2026-10-21；表内兴趣：2011年买过2次收发器）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+3 区域 中东/巴林；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）；$23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-125` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：巴林 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动
+- **现状一句话**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。
+- **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）
+- **断点 / 为什么停在这里**：中东非主攻区；Gmail；2011 后无互动
+- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011 | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | industrial poe switch、16 Port Ethernet Switch | 12 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

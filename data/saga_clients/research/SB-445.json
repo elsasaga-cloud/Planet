@@ -55,5 +55,49 @@
   "tier": 25,
   "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
  },
- "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+ "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封",
+   "type": "—",
+   "sieve": "5（表内成单/样品单）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
+   "lane": "塞内加尔 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；研究档 risks：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动"
+  },
+  "situation": "用户表：Groupe Penda Telecoms（塞内加尔；Seydou Jah；bigbocar@hotmail.com）——2019-03 询盘，千兆 SFP 收发器成样品单，有自己的货代；无后续跟进。无公开资料 → 仅表内信息；SFP 模块不在价格表（Q-32）→ 待核型；可搭 MC/2 光口交换机。",
+  "need": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
+  "breakpoint": "SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在（Simon）",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

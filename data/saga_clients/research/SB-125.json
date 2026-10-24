@@ -55,5 +55,55 @@
   "tier": 25,
   "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）"
  },
- "email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
+ "email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "巴林 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动"
+  },
+  "situation": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
+  "need": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）",
+  "breakpoint": "中东非主攻区；Gmail；2011 后无互动",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "industrial poe switch、16 Port Ethernet Switch",
+    "why": "12 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

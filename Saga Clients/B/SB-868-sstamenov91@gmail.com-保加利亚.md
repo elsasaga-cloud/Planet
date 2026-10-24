@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-868` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「说最近没啥需要 … 359-089910 5551 已加」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：保加利亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「说最近没啥需要 … 359-089910 5551 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：保加利亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「说最近没啥需要 … 359-089910 5551 已加」；研究档 risks：保加利亚非主动开拓市场；明确表示暂无需求
 - **现状一句话**：保加利亚个人/小型安装商 S. Stamenov（Gmail）：WhatsApp 已加，回复「最近没啥需要」，之后 19 次跟进无果。
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可
 - **断点 / 为什么停在这里**：保加利亚非主动开拓市场；明确表示暂无需求
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-28DGGPM（$84.1）；每季度一次价目更新即可
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 说最近没啥需要 … 359-089910 5551 已加 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

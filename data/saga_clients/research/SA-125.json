@@ -71,5 +71,49 @@
   "tier": 25,
   "why": "其问样品的「2 光 4 小壳」= Saga STI-244GP（2 SFP + 4 PoE 工业，$35.2/36.6/38.1）；管理版 STI-244GPM $64.6/67.3/70.0。"
  },
- "email_hook": "Wan, you asked about a sample of the 2-SFP + 4-PoE compact unit last year — it ships from 1 pc; do you want the unmanaged or the managed (VLAN/ring) version for the test?"
+ "email_hook": "Wan, you asked about a sample of the 2-SFP + 4-PoE compact unit last year — it ships from 1 pc; do you want the unmanaged or the managed (VLAN/ring) version for the test?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：8电口 4光6电管理；回复：问了样品」）",
+   "type": "经销/集成商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "马来西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：8电口 4光6电管理；回复：问了样品」；研究档 risks：4 光 6 电管理型 Saga 价目无完全同口型（最近 STI-244GPM / STI-488GP）"
+  },
+  "situation": "马来西亚小型网络工程商 Wan Rohizal，需求 8 电口与 4 光 6 电管理型，2024-04 对 2 光 4 小壳问样品；无域名。",
+  "need": "其问样品的「2 光 4 小壳」= Saga STI-244GP（2 SFP + 4 PoE 工业，$35.2/36.6/38.1）；管理版 STI-244GPM $64.6/67.3/70.0。",
+  "breakpoint": "4 光 6 电管理型 Saga 价目无完全同口型（最近 STI-244GPM / STI-488GP）",
+  "saga_now": {
+   "p1": "STI-244GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其问样品的「2 光 4 小壳」= Saga STI-244GP（2 SFP + 4 PoE 工业，$35.2/36.6/38.1）；管理版 STI-244GPM $64.6/67.3/70.0。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：8电口 4光6电管理；回复：问了样品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

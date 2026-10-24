@@ -79,5 +79,49 @@
   "tier": 25,
   "why": "询盘 7 台 Moxa 8 电口轻管理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 8 GE 非管理 STI-080GE（$32.7）；PoE 版 STI-288GPM（$82.2）"
  },
- "email_hook": "Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?"
+ "email_hook": "Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「7台Moxa工业8电口轻管理 / from: 自建站」）",
+   "type": "矿业/工业自动化服务商（南非，Moxa 8 口替代询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "南非 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「7台Moxa工业8电口轻管理 / from: 自建站」；研究档 risks：非主攻区（T5，南非）；询盘联系人为 accounts@（需找技术/采购）；Moxa 替代需现场认可；矿山环境（IP67 Saga 不做）"
+  },
+  "situation": "南非 Nuthill（矿业/工业现场服务与自动化：客户 Glencore Coal South Africa、Columbus Stainless Steel、Ulula Ash Plant (PPC Cement)；自建站询盘「7 台 Moxa 工业 8 电口轻管理」；KP Ivanka（accounts@））；表内未跟进。",
+  "need": "询盘 7 台 Moxa 8 电口轻管理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 8 GE 非管理 STI-080GE（$32.7）；PoE 版 STI-288GPM（$82.2）",
+  "breakpoint": "非主攻区（T5，南非）；询盘联系人为 accounts@（需找技术/采购）；Moxa 替代需现场认可；矿山环境（IP67 Saga 不做）",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询盘 7 台 Moxa 8 电口轻管理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 8 GE 非管理 STI-080GE（$32.7）；PoE 版 STI-288GPM（$82.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "7台Moxa工业8电口轻管理 / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

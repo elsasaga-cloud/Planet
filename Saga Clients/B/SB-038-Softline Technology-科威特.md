@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。（调研 2026-10-21；表内兴趣：2光16电工业PoE 2014年使用国际站）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 中东/科威特；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-07-24）；最近一次客户回复：2025-07-24：useful
-- **P1（下一步唯一主推）**：STI-21616GP — 深挖对位：2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。；$177.5 USD EXW（25% 档，SmartByte LT-IS6018GP-2GX16GT 950 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-038` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：科威特 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核
+- **现状一句话**：科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。
+- **对方真实需求（有据）**：2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。
+- **断点 / 为什么停在这里**：gmail 联系、主体不可核
+- **Saga 现在该推什么**：P1 **STI-21616GP**（25% 档，按主表（研究档 saga_fit））——2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

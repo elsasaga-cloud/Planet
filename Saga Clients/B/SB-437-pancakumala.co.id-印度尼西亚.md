@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。（调研 2026-10-21；表内兴趣：基本都是DCN的）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-08 → 2025-10-08）；最近一次客户回复：2025-10-08：回复没啥内容 但是有联系方式
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-437` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 customerservice.pkj@gmail.com, info@pancakumala.co.id；主题多为「Industrial PoE Switch、24 Port Fiber Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
+- **现状一句话**：雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。
+- **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
+- **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | Industrial PoE Switch、24 Port Fiber Switch | 3 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

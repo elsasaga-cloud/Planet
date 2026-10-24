@@ -32,10 +32,27 @@ updated: 2026-10-24
 - **是谁**：巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM-2BT — 深挖对位：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）；$164.4 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT-2BT 880 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT — 90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-611` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: 阿里巴巴RFQ」）** ｜ 类型：道路 ITS 集成商（巴西，守界备注：民用道路设施） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；研究档 risks：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过
+- **现状一句话**：巴西 Elementu Engenharia e Integração（道路基础设施技术集成：高速动态称重 HS-WIM、龙门架与可变情报板（Ecovias do Araguaia 项目）、工业安装；阿里巴巴 RFQ「90W PoE Injector 外购品」；KP Carlos Gabriel Alonso）；表内未跟进。
+- **对方真实需求（有据）**：90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）
+- **断点 / 为什么停在这里**：PoE 注入器品类 Saga 不供（Q-32）；守界备注：道路 ITS（民用收费道路运营商项目，非执法/军事）；非主攻区（T5，巴西；进口税高）；未跟进过
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT**（25% 档，按主表（研究档 saga_fit））——90W PoE 注入器 Saga 不供（Q-32）→ 以 bt 口工业交换机替代：8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$164.4 @25%）、常规 STI-288GPM（$82.2）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 90W PoE Injector外购品 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

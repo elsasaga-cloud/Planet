@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。（调研 2026-10-21；表内兴趣：MC switch 其他的是周边产品 自己的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-05-02 → 2025-10-20）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → info@fibreoptic.com.au 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-499` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 32 封 2024→2026，其中 2 封被打开，0 回；收件 info@fibreoptic.com.au, parneja@fibreoptic.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：光纤方案制造商（澳大利亚，自有标 MC/交换机为配套） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 32，Opened 标签 2（Simon 群发追踪）；用户表：「MC switch 其他的是周边产品 自己的牌子」；研究档 risks：非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套
+- **现状一句话**：澳大利亚 Fibre Optic Systems（FOS：澳大利亚光纤与铜缆方案制造商，Kingfisher 测试仪、Sticklers 清洁、CoreLink 机箱；表内「MC switch 其他的是周边产品，自己的牌子」「可以多跟进一下」；KP Pav Arneja（General Manager））；群发 22 次无回复。
+- **对方真实需求（有据）**：自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）
+- **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚）；主业光纤/铜缆（Saga 不做），有源为配套
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——自有 FOS 标 MC/交换机 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STI-280GE（$50.5）
+- **下一步（具体）**：2026-11　A 邮箱 → info@fibreoptic.com.au　短信一问（email_hook）
+  - 第一问（只问一个）：Pav, for the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC switch 其他的是周边产品 自己的牌子 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 32 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

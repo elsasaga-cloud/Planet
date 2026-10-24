@@ -59,5 +59,47 @@
   "tier": 20,
   "why": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）"
  },
- "email_hook": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?"
+ "email_hook": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 info@testsol.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」）",
+   "type": "工业网络产品经销（俄罗斯，Maiwe/EtherWAN/Advantech）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）"
+  },
+  "situation": "俄罗斯 ООО «ТЕСТ СОЛЮШН» Test Solution（品牌页 EtherWAN / Advantech / Maiwe；表内 KP「MaiWe」为品牌备注）；表内 1 次跟进无回复。",
+  "need": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）",
+  "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Industrial Alert System",
+    "why": "4 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -77,5 +77,49 @@
   "tier": 25,
   "why": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）"
  },
- "email_hook": "Preston, following your enquiry for a 5-port boost PoE switch: our compact DIN-rail 4-PoE + 1 GE industrial switch accepts 12–57 V DC input (for 12/24 V machinery) and delivers 802.3at on four ports, CE/RoHS, from single units, EXW USD — how many units, and what is the supply voltage on the machines?"
+ "email_hook": "Preston, following your enquiry for a 5-port boost PoE switch: our compact DIN-rail 4-PoE + 1 GE industrial switch accepts 12–57 V DC input (for 12/24 V machinery) and delivers 802.3at on four ports, CE/RoHS, from single units, EXW USD — how many units, and what is the supply voltage on the machines?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「升压5口 / from: 阿里巴巴询盘」）",
+   "type": "精准农业设备商（澳大利亚，车载低压 PoE 需求）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「升压5口 / from: 阿里巴巴询盘」；研究档 risks：升压（低压输入升 48 V PoE）能力在 Saga 列表中待核；非主攻区（T5，澳大利亚；RCM 由客户侧）；农机车载环境（振动/温度）认证 Saga 无"
+  },
+  "situation": "澳大利亚 Burns Precision Ag（精准农业设备网店：ISOBUS 终端、导航、液体控制 SAGRO 10、农机摄像头；阿里巴巴询盘「升压 5 口」；KP Preston Burns）；表内未跟进。",
+  "need": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）",
+  "breakpoint": "升压（低压输入升 48 V PoE）能力在 Saga 列表中待核；非主攻区（T5，澳大利亚；RCM 由客户侧）；农机车载环境（振动/温度）认证 Saga 无",
+  "saga_now": {
+   "p1": "STI-054GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "升压 5 口（农机 12/24 V 供电）→ 工业 4 PoE + 1 GE STI-054GP（$32.5 @25%，12–57 V 输入，升压能力待核）/ 5 GE 非 PoE STI-050GE（$17.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "升压5口 / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

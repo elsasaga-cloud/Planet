@@ -91,5 +91,49 @@
   "tier": 20,
   "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
  },
- "email_hook": "Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?"
+ "email_hook": "Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」）",
+   "type": "贸易商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "蒙古国 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量"
+  },
+  "situation": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
+  "need": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
+  "breakpoint": "蒙古物流（经二连浩特陆运）与小量",
+  "saga_now": {
+   "p1": "STC-2216GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

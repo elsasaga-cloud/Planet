@@ -70,5 +70,49 @@
   "tier": 25,
   "why": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。"
  },
- "email_hook": "Azhar, your $5–7 target was for commercial media converters — we can do a desktop gigabit MC near that level at 100-pc quantity; is that the volume you'd place, or is it project-by-project?"
+ "email_hook": "Azhar, your $5–7 target was for commercial media converters — we can do a desktop gigabit MC near that level at 100-pc quantity; is that the volume you'd place, or is it project-by-project?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；研究档 risks：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明"
+  },
+  "situation": "卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。",
+  "need": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。",
+  "breakpoint": "目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

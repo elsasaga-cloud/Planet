@@ -51,13 +51,13 @@
  "email_hook": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre.",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI KVM 延长器 … 36-20-94 66366 已加」）",
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「HDMI KVM 延长器 … 36-20-94 66366 已加」；S/A 邮箱 0 封",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "匈牙利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "匈牙利 非主攻",
+   "cadence": "一封",
    "evidence": "gmail_digest：out 0；用户表：「HDMI KVM 延长器 … 36-20-94 66366 已加」；研究档 risks：无法核实身份；20 次跟进无果 → 低优先"
   },
   "situation": "匈牙利天线/弱电技术个体（邮箱 antennatechnika = 「天线技术」；电话 +36 20），表内名称 Hersnet Ltd 未检索到任何公开登记或网站；需求 HDMI KVM 延长器；WhatsApp 已加，1 次回复后 20 次跟进无果。",
@@ -72,9 +72,9 @@
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
    "one_question": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
   },
   "facts": [
@@ -88,7 +88,7 @@
    }
   ],
   "proof_gaps": [
-   "无邮件往来"
+   "WhatsApp 往来未入库"
   ],
   "draft_en": null,
   "as_of": "2026-10-24"

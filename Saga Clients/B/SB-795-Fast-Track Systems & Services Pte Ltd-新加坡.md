@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,10 +34,28 @@ updated: 2026-10-23
 - **是谁**：新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。（调研 2026-10-21；表内兴趣：光猫 8个  成样品单）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+3 区域 亚太/新加坡；-10 最近活动 2020（陈旧）
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在（Simon） WhatsApp（Simon） 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-795` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：新加坡 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5」；研究档 risks：ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动
+- **现状一句话**：新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。
+- **对方真实需求（有据）**：项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）
+- **断点 / 为什么停在这里**：ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）
+- **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
+  - 第一问（只问一个）：Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -199,12 +217,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：日本 マハネット Mahanet（山形/东北业务用防犯摄像机销售与安装、综合安防系统；自有 MH- 系列 IP 摄像机、NVR、PoE 交换 HUB MH-7204E/7208E/7216E-L2/7224E-L2；表内「安防为主 有 Utepo 的交换机」）；表内 7 次跟进无回复。（调研 2026-10-21；表内兴趣：安防为主 有Utepo的交换机）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/日本；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-05-27 → 2025-11-06）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the MH-series PoE switching hubs you bundle with your camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; PSE/VCCI by your side — which model do your installations use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-090` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@mahanet-jp.com；主题多为「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）** ｜ 类型：日本安防安装商/自有标（Utepo PoE 在售） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：日本 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「安防为主 有Utepo的交换机」；研究档 risks：非主攻区（T5，日本）；现供 Utepo（深圳）价格基准低；PSE/VCCI 由客户申报
+- **现状一句话**：日本 マハネット Mahanet（山形/东北业务用防犯摄像机销售与安装、综合安防系统；自有 MH- 系列 IP 摄像机、NVR、PoE 交换 HUB MH-7204E/7208E/7216E-L2/7224E-L2；表内「安防为主 有 Utepo 的交换机」）；表内 7 次跟进无回复。
+- **对方真实需求（有据）**：自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）
+- **断点 / 为什么停在这里**：非主攻区（T5，日本）；现供 Utepo（深圳）价格基准低；PSE/VCCI 由客户申报
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the MH-series PoE switching hubs you bundle with your camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; PSE/VCCI by your side — which model do your installations use most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 安防为主 有Utepo的交换机 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Managed Optical Bypass Switch、8 Port Industrial PoE Switch | 18 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

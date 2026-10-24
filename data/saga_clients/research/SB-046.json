@@ -48,5 +48,49 @@
   "tier": 20,
   "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
  },
- "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?"
+ "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「从国内买了很多SFP / 富通天下」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "厄瓜多尔 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「从国内买了很多SFP / 富通天下」；研究档 risks：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
+  },
+  "situation": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+  "need": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+  "breakpoint": "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "从国内买了很多SFP / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

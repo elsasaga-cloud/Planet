@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。（调研 2026-10-21；表内兴趣：有很多知名小品牌的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1060` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 mail@cleverkey.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）** ｜ 类型：IT 设备经销商（俄罗斯，品牌导向） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「有很多知名小品牌的」；研究档 risks：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@
+- **现状一句话**：俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。
+- **对方真实需求（有据）**：品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位
+- **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 有很多知名小品牌的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Marvell Industrial Alert System、OEM Core Switching Solution | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

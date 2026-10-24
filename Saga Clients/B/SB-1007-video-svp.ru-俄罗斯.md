@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 机架 VC；工业FS MC EOC等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-10 → 2025-11-03）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1007` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 vadim@sbvs.ru, video@svp.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：告警系统/交换机制造商（俄罗斯，用户标重要） ｜ 筛子：1~2（1 次打开） ｜ 停点：20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS」；研究档 risks：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为
+- **现状一句话**：俄罗斯 РУССБЫТ / SVP（svp.ru / video-svp.ru / fibersys.ru：俄罗斯疏散广播与告警系统及交换机制造商，SVP-V4xx 系列；表内「比较重要」、「有 E-link 的工业 FS」、工业 FS/MC/SFP/机架/VC/EoC）；群发 17 次无回复。
+- **对方真实需求（有据）**：自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧
+- **断点 / 为什么停在这里**：用户标「比较重要」；俄罗斯：结算/物流/合规风险；守界备注：疏散广播/告警为生命安全系统，仅供网络侧；现供 E-link 价格基准低；17 次无回复；备用邮箱为 inbox.ru 免费邮箱
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——自有品牌工业 FS（现 E-link）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴 SVP 标；MC 机架/SFP/EoC Saga 不供（Q-32）；守界：疏散告警系统本体不碰，仅供网络侧
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS MC SFP 机架 VC；工业FS MC EOC等；有E-link的工业FS | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 20 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

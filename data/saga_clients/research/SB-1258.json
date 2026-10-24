@@ -63,5 +63,49 @@
   "tier": 20,
   "why": "ISP 渠道 8 PoE + 2 SFP 管理机（Marvell，对位 TP-Link TL-SG3210XHP-M2 以下价位）。"
  },
- "email_hook": "Sanche, for your ISP customers — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW and 24-PoE + 4 uplinks at $135; do you import direct or via a Manaus/Santos agent? I'll send the sheet accordingly."
+ "email_hook": "Sanche, for your ISP customers — a Marvell L2+ 8-PoE + 2-SFP at $81 EXW and 24-PoE + 4 uplinks at $135; do you import direct or via a Manaus/Santos agent? I'll send the sheet accordingly.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴西 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：巴西 ANATEL / 进口税；TP-Link 价位竞争"
+  },
+  "situation": "巴西里约（+55 21）面向 ISP（provedor）的网络设备分销 / 电商（TP-Link；PoE 词频 40、交换机 28），Sanche；询盘表来源，无兴趣描述；WA 无实质回复。",
+  "need": "ISP 渠道 8 PoE + 2 SFP 管理机（Marvell，对位 TP-Link TL-SG3210XHP-M2 以下价位）。",
+  "breakpoint": "巴西 ANATEL / 进口税；TP-Link 价位竞争",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "ISP 渠道 8 PoE + 2 SFP 管理机（Marvell，对位 TP-Link TL-SG3210XHP-M2 以下价位）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（空）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

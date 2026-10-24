@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：以色列 RADWIN（运营商级固定无线接入与回传厂商：RADWIN 2000 PtP、TerraNet 60 GHz、QORA、托管服务；网店 IDU-S / IDU-SI 室内单元；表内「Ethernet Switch」；KP Dave Azria（Director of Product Management）、Sharon Sher（CEO））；表内未跟进。（调研 2026-10-21；表内兴趣：Ethernet Switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1032` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 dave_a@radwin.com, sharon_sher@radwin.com；主题多为「10G Enterprise SFP Switch、10G L3 Managed Switch」）** ｜ 类型：固定无线设备厂商（以色列，体量大；配套交换机 OEM） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：以色列 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「Ethernet Switch」；研究档 risks：体量大（全球无线厂商）：配件供应链既定，准入长；非主攻区（T5，以色列）
+- **现状一句话**：以色列 RADWIN（运营商级固定无线接入与回传厂商：RADWIN 2000 PtP、TerraNet 60 GHz、QORA、托管服务；网店 IDU-S / IDU-SI 室内单元；表内「Ethernet Switch」；KP Dave Azria（Director of Product Management）、Sharon Sher（CEO））；表内未跟进。
+- **对方真实需求（有据）**：无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做
+- **断点 / 为什么停在这里**：体量大（全球无线厂商）：配件供应链既定，准入长；非主攻区（T5，以色列）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——无线站点配套 PoE 交换机（RADWIN 标）→ 工业 8 PoE + 2 SFP 管理 STI-288GPM（$85.5 @30%）/ 4 PoE STI-154GP（$40.8）；室外 IP67 Saga 不做
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Dave, for the PoE switches and indoor units bundled with RADWIN PtP/PtMP deployments at smart-city and industrial sites, we can supply Marvell-based DIN-rail 4-PoE + 1 GE and 8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, 90 W PoE++ option, CE/RoHS) — is there an accessory SKU your partners ask for alongside the radios?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Ethernet Switch | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、10G L3 Managed Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

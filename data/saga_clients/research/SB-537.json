@@ -59,5 +59,55 @@
   "tier": 30,
   "why": "自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供"
  },
- "email_hook": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?"
+ "email_hook": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 14 封 2024→2025，其中 3 封被打开，0 回；收件 info@htvision.ru；被打开主题「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
+   "type": "CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000」；研究档 risks：邮箱发不过去（info@ 退信）——邮箱待补；俄罗斯：结算/物流/合规风险；现供 ONV/Utepo/Ewind 价格基准低；官网 http_error"
+  },
+  "situation": "俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。",
+  "need": "自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供",
+  "breakpoint": "邮箱发不过去（info@ 退信）——邮箱待补；俄罗斯：结算/物流/合规风险；现供 ONV/Utepo/Ewind 价格基准低；官网 http_error",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@htvision.ru",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
+    "why": "14 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

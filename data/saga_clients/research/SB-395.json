@@ -61,5 +61,49 @@
   "tier": 25,
   "why": "光模块需求不在价目（Q-32）；无主推型。"
  },
- "email_hook": "（待 Q-32；不主动发送）"
+ "email_hook": "（待 Q-32；不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 双纤 LC 10公里模块；回复：要100G的」；研究档 risks：需求为 10G/100G 光模块（Saga 无）；2021 年后无互动"
+  },
+  "situation": "迪拜 IT 方案商（路由交换、网络安全、网管、大数据分析；Ubiquiti），2021 年自建站询盘 10G 双纤 LC 10 km 模块，报价后称要 100G；需求 = 光模块（Q-32 缺口）。",
+  "need": "光模块需求不在价目（Q-32）；无主推型。",
+  "breakpoint": "需求为 10G/100G 光模块（Saga 无）；2021 年后无互动",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "光模块需求不在价目（Q-32）；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：10G 双纤 LC 10公里模块；回复：要100G的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

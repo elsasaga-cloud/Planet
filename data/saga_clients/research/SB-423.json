@@ -59,5 +59,55 @@
   "tier": 25,
   "why": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。"
  },
- "email_hook": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?"
+ "email_hook": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 adejumokojo@gmail.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "南非 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了」；研究档 risks：gmail 联系、公司信息不可核"
+  },
+  "situation": "南非网络承包商 Sylvanus Adejumo（表内注「可以多跟进一下」），需求 4 光 8 电工业大壳 PoE；2024 年回复「2 光 4 已经有了」「有 154 了」（手上已有同口型机），2025-10 发了 DAC 资料并邮件跟进。",
+  "need": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。",
+  "breakpoint": "gmail 联系、公司信息不可核",
+  "saga_now": {
+   "p1": "STI-488GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "4 光 8 电工业 PoE 大壳 = Saga STI-488GP（$107.6/112.1/116.6）；DAC 线缆 Saga 价目无（Q-32 配件缺口）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Sylvanus, you were after a 4-SFP + 8-PoE industrial unit in the larger housing — ours is DIN/wall-mount with 240W budget; shall I send the spec sheet and a 1-pc sample price?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "4 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

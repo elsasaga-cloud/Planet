@@ -82,5 +82,55 @@
    "url": "https://mir-sb.com/poe-kommutator-svn-poe812",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 mail@mir-sb.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-33 口径）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE 洪瑞的」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+  },
+  "situation": "俄罗斯 MIR-SB.com（IP 视频监控网店：IP 摄像机、NVR、电源、PoE 交换机（SVN-POE812 自有标 SVN 系列）、PoE 注入器/分离器/延长器；表内「商业 PoE，洪瑞（HRUI）的」）；群发 14 次无回复。",
+  "need": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位",
+  "breakpoint": "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 SVN 标作管理型上位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE 洪瑞的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "20 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

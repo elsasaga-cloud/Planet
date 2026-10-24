@@ -65,5 +65,55 @@
   "tier": 25,
   "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。"
  },
- "email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？"
+ "email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "马来西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
+  },
+  "situation": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
+  "need": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
+  "breakpoint": "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "8 port 2.5 Switch、48 port switch",
+    "why": "8 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

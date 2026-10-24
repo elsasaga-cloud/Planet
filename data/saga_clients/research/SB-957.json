@@ -88,5 +88,55 @@
   "tier": 30,
   "why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标"
  },
- "email_hook": "For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?"
+ "email_hook": "For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 6 封 2025→2026，无记录打开，0 回；收件 akuznetsova@tayle.ru, arubeko@tayle.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」）",
+   "type": "网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 6；用户表：「实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复"
+  },
+  "situation": "俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。",
+  "need": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+  "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Industrial Alert System",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -80,5 +80,49 @@
   "tier": 30,
   "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。"
  },
- "email_hook": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
+ "email_hook": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」）",
+   "type": "设备组装/贸易商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "IN 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」；研究档 risks：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高"
+  },
+  "situation": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
+  "need": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
+  "breakpoint": "CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
+  "saga_now": {
+   "p1": "STC-114XGDGP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

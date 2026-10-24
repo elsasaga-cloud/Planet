@@ -99,5 +99,55 @@
    "url": "https://www.intrising.com.tw/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 kenlee@intrising.com.tw；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）",
+   "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "台湾 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业控制 工业FS 自己的logo 功能比较复杂一些 接口多」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复"
+  },
+  "situation": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
+  "need": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
+  "breakpoint": "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
+    "why": "22 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

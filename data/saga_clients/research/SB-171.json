@@ -48,5 +48,49 @@
   "tier": 20,
   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32"
  },
- "email_hook": "Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?"
+ "email_hook": "Chào anh/chị Minh Phước, next to the optical products you import: 2× SFP + 8× PoE switches at $30.8 EXW and gigabit media converters at $22.4, neutral packing, MOQ 1 — which items move fastest for you, so I can quote a first lot?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；Gmail；无互动"
+  },
+  "situation": "越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32",
+  "breakpoint": "亚太非主攻区；Gmail；无互动",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；MC STI-110GE（$22.4）；SFP 待 Q-32",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

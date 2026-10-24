@@ -70,5 +70,49 @@
   "tier": 20,
   "why": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。"
  },
- "email_hook": "Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in."
+ "email_hook": "Pouriya, for transceiver / media-converter RFQs — we quote industrial gigabit MC and DIN switches EXW within a day, with end-user and destination stated on each quote; send the next spec sheet when it comes in.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：收发器；回复：暂时没需求」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：收发器；回复：暂时没需求」；研究档 risks：守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户"
+  },
+  "situation": "迪拜工业采购与供应平台（能源、制造、基建、海事、技术；品牌页 ABB、Advantech、Schneider、Moxa、Hikvision、Dahua；ISO 9001），Pouriya Najafabadi（伊朗裔，+971 50 858 0255）；需求收发器，2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复。采购平台 = 项目驱动、比价。",
+  "need": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。",
+  "breakpoint": "守界：迪拜伊朗裔贸易商，货物可能再出口伊朗 → 每单核最终用户",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "收发器需求 → STI-110GE（工业 MC $22.4 @20%）；贸易商 20%；报价前核最终用户。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：收发器；回复：暂时没需求",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

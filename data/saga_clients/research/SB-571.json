@@ -98,5 +98,55 @@
   "tier": 20,
   "why": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W"
  },
- "email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?"
+ "email_hook": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 30 封 2024→2026，1 次记录打开，0 回；收件 faisal@zoomlinenetwork.com, sales@zoomlinenetwork.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "分销商（IT 网络 + 安防 + 光纤，KSA/UAE）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "30 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 30，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS」；研究档 risks：自述「中东最大分销商之一」：以大牌代理为主，Saga 白牌只作价格补充线"
+  },
+  "situation": "沙特/阿联酋 IT 网络与安防分销商 Zoom Line Networks Technology（官网自述「中东与非洲最大的 IT / 网络 / 安防方案分销商之一」；品牌页 TP-Link / Ubiquiti / MikroTik / Cisco / D-Link / Aruba / Fortinet / Schneider；专页「Industrial Switches Distributor KSA」；表内：工业 FS / 商业 FS / 无源产品多，有 N-net 的工业 FS；KP Mohammad Faisal（Business Development Manager，faisal@）；群发 8 次无回复。",
+  "need": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W",
+  "breakpoint": "自述「中东最大分销商之一」：以大牌代理为主，Saga 白牌只作价格补充线",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "专页在推「工业交换机分销 KSA」且表内在卖 N-net 工业 FS → 非管理工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）对位 N-net；商用位 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Mohammad, for the industrial-switch line you promote in KSA alongside N-net, we supply Marvell-based DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version, neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "30 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

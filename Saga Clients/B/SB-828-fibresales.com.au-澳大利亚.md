@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-828` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：光纤配件品牌商（澳大利亚，自有标 MC） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
+- **现状一句话**：澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。
+- **对方真实需求（有据）**：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供
+- **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 9 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

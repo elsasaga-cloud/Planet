@@ -66,5 +66,49 @@
   "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）"
  },
  "email_hook": "You asked last year whether our 10G media converter is priced the same for single-mode and multimode — for the industrial DIN-rail switches you were also looking at, the 8-port PoE + 2 SFP model is our most common starter; want the current price sheet?",
- "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用"
+ "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-」；研究档 risks：无企业域名/官网，公司实体规模不明"
+  },
+  "situation": "菲律宾宿务的小型网络公司 Agile Network（CEO Neil Rule，gmail + WA，地址 Pari-an, Cebu）。表内兴趣「工业品」，2024-08 对 10G MC 回「单多模价格一样吗？」；20 次推送 1 次实质回复。表内域名 agilenetworks.com 实为美国俄亥俄 ISP（已标记误配）。B 慢跟 25%。",
+  "need": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
+  "breakpoint": "无企业域名/官网，公司实体规模不明",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内兴趣「工业品」→ 工业 8 PoE+ 2 SFP 起手；其 10G MC 询价需另向 SmartByte 索价（Saga 价目无 10G MC）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -70,5 +70,55 @@
   "tier": 30,
   "why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）"
  },
- "email_hook": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?"
+ "email_hook": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 14 封 2024→2026，其中 3 封被打开，0 回；收件 contact@acelink.com.tw；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
+   "type": "台湾网络 ODM/品牌商（台湾厂商口径二供）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "台湾 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）"
+  },
+  "situation": "台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。",
+  "need": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）",
+  "breakpoint": "台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → contact@acelink.com.tw",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE POE配件较多",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "14 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

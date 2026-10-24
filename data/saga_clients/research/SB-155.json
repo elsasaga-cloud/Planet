@@ -62,5 +62,55 @@
   "tier": 30,
   "why": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "For the PoE switches you bundle under your own label with CCTV systems, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which port count do your installers order most?"
+ "email_hook": "For the PoE switches you bundle under your own label with CCTV systems, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which port count do your installers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 sun@sun-flowers.co.kr；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "CCTV 品牌商（韩国，自有标 PoE；官网待核）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「CCTV 商业POE 自己的logo」；研究档 risks：官网快照为验证页（内容未抓到，站点待核）；非主攻区（T5，韩国）；23 次无回复，仅 sun@"
+  },
+  "situation": "韩国 Sun-flowers（官网快照为防机器人验证页；表内「CCTV 商业 PoE 自己的 logo」「质量高」）；群发 23 次无回复。",
+  "need": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "官网快照为验证页（内容未抓到，站点待核）；非主攻区（T5，韩国）；23 次无回复，仅 sun@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 logo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the PoE switches you bundle under your own label with CCTV systems, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which port count do your installers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "CCTV 商业POE 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "35 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

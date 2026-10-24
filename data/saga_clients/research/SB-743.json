@@ -78,5 +78,55 @@
   "tier": 25,
   "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板"
  },
- "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
+ "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 7 封 2025，无记录打开，0 回；收件 mamun@mkseoman.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+   "type": "智能家居/酒店自动化品牌（阿曼，PoE 配套外采）",
+   "sieve": "1（只收到群发）",
+   "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "阿曼 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 7；用户表：「导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核"
+  },
+  "situation": "阿曼 TIS Control（智能家居/酒店自动化品牌，有线 + 无线全屋自动化产品，经销商登录/培训体系；阿里巴巴询盘「导轨式 PoE 管理/非管理」；KP Mr. Mamunur Rashid（mkseoman.com，+968 942 57595））；表内 1 次跟进无回复。",
+  "need": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板",
+  "breakpoint": "非主攻区（T5，阿曼）；KP 邮箱域为 mkseoman.com（经销/关联公司），身份待核",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Mini Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "7 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

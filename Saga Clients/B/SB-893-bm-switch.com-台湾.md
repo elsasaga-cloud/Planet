@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：台湾 bm-switch.com（「All about bare metal switches」：裸金属交换机 1G/100G/400G、网络软件、光模块、电源配件网店，PayPal/电汇；表内「高速交换机 Marvell 的」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：高速交换机 marvell的）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-05-26 → 2025-10-16）
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属；$127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-893` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 sales@bm-switch.com；主题多为「8 Port Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：裸金属交换机网店（台湾，数据中心向） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「高速交换机 marvell的」；研究档 risks：品类错位：客户群要 ONIE/SONiC 裸金属，Saga 为专有固件 L2+ 接入；非主攻区（T5，台湾）
+- **现状一句话**：台湾 bm-switch.com（「All about bare metal switches」：裸金属交换机 1G/100G/400G、网络软件、光模块、电源配件网店，PayPal/电汇；表内「高速交换机 Marvell 的」）；群发 6 次无回复。
+- **对方真实需求（有据）**：1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属
+- **断点 / 为什么停在这里**：品类错位：客户群要 ONIE/SONiC 裸金属，Saga 为专有固件 L2+ 接入；非主攻区（T5，台湾）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 高速交换机 marvell的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 8 Port Industrial PoE Switch、Marvell Alleycat5 Solution | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

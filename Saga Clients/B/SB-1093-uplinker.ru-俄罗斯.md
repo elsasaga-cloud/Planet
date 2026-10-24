@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。（调研 2026-10-21；表内兴趣：有很多DCN的；WDM  SFP）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 sales@uplink.ru；主题多为「Optional Marvell Chipset Solutions、OEM Core Switching Solution」）** ｜ 类型：电信设备经销商（俄罗斯，自有品牌 UPLINK） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「有很多DCN的；WDM SFP」；研究档 risks：俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@
+- **现状一句话**：俄罗斯 ООО «ЛИНКЕР» / UPLINK（电信设备销售与技术方案：自有品牌 UPLINK 光模块（SFP 95 处、10G 24 处）、WDM MC（MC-WDM1000A/B、MC-1000-SFP-MINI）、PDH 复用器；表内「有很多 DCN 的 / WDM SFP」）；表内未跟进。
+- **对方真实需求（有据）**：UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供
+- **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险；主业光模块/WDM（Saga 不供）；DCN 在供价格基准低；未跟进过，仅 sales@
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——UPLINK 标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）；接入交换机 24 GE + 4×10G STC-424XGGM（$138.0）；光模块/WDM/PDH Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the media converters and access switches sold under the UPLINK label, we can supply gigabit/PoE MCs and Marvell-based 24-GE + 4×10G L2+ switches in your packaging from small lots, CE/RoHS; EAC by your side — which MC configuration runs the highest volume for you?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 有很多DCN的；WDM SFP | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Optional Marvell Chipset Solutions、OEM Core Switching Solution | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

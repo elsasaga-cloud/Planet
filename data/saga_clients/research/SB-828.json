@@ -62,5 +62,55 @@
   "tier": 30,
   "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供"
  },
- "email_hook": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?"
+ "email_hook": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "光纤配件品牌商（澳大利亚，自有标 MC）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过"
+  },
+  "situation": "澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。",
+  "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供",
+  "breakpoint": "非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "9 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

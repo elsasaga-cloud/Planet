@@ -52,5 +52,49 @@
   "tier": 25,
   "why": "唯一需求 10G SFP+ 850nm 模块不在 Saga 价目（Q-32 待定）；暂无主推型。"
  },
- "email_hook": "（待 Q-32：若补 SFP 价目再触达；否则不主动发送）"
+ "email_hook": "（待 Q-32：若补 SFP 价目再触达；否则不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：10G 850模块；回复：暂时没需求；thanks」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "津巴布韦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：10G 850模块；回复：暂时没需求；thanks」；研究档 risks：需求为 SFP+ 模块（Saga 价目缺口 Q-32）"
+  },
+  "situation": "津巴布韦小型 IT 商 Cuthbert Mukumbi，需求 10G 850nm 光模块（Saga 价目无，Q-32），2024–2025 对 MC / 工业 PoE / 2.5G / 工业 16-24 口一律「暂时没需求」。",
+  "need": "唯一需求 10G SFP+ 850nm 模块不在 Saga 价目（Q-32 待定）；暂无主推型。",
+  "breakpoint": "需求为 SFP+ 模块（Saga 价目缺口 Q-32）",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "唯一需求 10G SFP+ 850nm 模块不在 Saga 价目（Q-32 待定）；暂无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：10G 850模块；回复：暂时没需求；thanks",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

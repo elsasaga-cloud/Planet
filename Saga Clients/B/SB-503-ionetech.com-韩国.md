@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：在找工业管理）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-30 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-448DGGGM — 深挖对位：询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）；$205.5 USD EXW（25% 档，SmartByte LT-IS6316G-8GX8GT 1100 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-448DGGGM — 询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-503` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 32 封 2024→2026，无记录打开，0 回；收件 cjkim@ione.kr；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：工业网络公司（韩国，8 光 8 管理询盘） ｜ 筛子：1（只收到群发） ｜ 停点：32 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 32；用户表：「在找工业管理；8光8管理 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈
+- **现状一句话**：韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。
+- **对方真实需求（有据）**：询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）
+- **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈
+- **Saga 现在该推什么**：P1 **STI-448DGGGM**（25% 档，按主表（研究档 saga_fit））——询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 在找工业管理；8光8管理 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 32 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

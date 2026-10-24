@@ -103,5 +103,55 @@
    "url": "https://www.alibisecurity.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 billy.grumbles@alibisecurity.com；主题多为「16 Port Ethernet Switch、Managed Optical Bypass Switch」）",
+   "type": "安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）",
+   "sieve": "1（只收到群发）",
+   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "以色列 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 11；用户表：「主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的」；研究档 risks：国别待核：表内「以色列」，站点为英文美国品牌生态（待证）"
+  },
+  "situation": "Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。",
+  "need": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE",
+  "breakpoint": "国别待核：表内「以色列」，站点为英文美国品牌生态（待证）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
+    "why": "11 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

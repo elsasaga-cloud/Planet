@@ -81,5 +81,49 @@
   "tier": 30,
   "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。"
  },
- "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?"
+ "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低"
+  },
+  "situation": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
+  "need": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
+  "breakpoint": "越南低价市场、AOA 价格基准低",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

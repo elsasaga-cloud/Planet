@@ -109,5 +109,55 @@
    "url": "https://www.mro-tek.com/products/industrial/switches/lavender-84x-l3-i",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2024→2026，1 次记录打开，0 回；收件 arun.raj@mro-tek.com, satish@mro-tek.com；主题多为「24 Port PoE Managed Switch、Mini Industrial PoE Switch」）",
+   "type": "印度 OEM 品牌商（Make in India，外采 ODM 整机/SKD）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「MC 工业FS 普通FS 周边产品；switch」；研究档 risks：印度 BIS 强制认证（交换机类）：Saga 无 BIS，需由 MRO-TEK 以其名义取证"
+  },
+  "situation": "印度班加罗尔 MRO-TEK Realty Ltd（1984 年起的印度网络/电信/安防 OEM：「designed, manufactured and certified in India」；工业交换机 CORNUS-82P/84P、L3 LAVENDER-84X；表内「MC / 工业 FS / 普通 FS / 周边，从 Raisecom 买一些产品」；KP Arun Raj（AVP-Solution Sales）、Satish）；表内无跟进记录。",
+  "need": "CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」",
+  "breakpoint": "印度 BIS 强制认证（交换机类）：Saga 无 BIS，需由 MRO-TEK 以其名义取证",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Arun, for the CORNUS industrial PoE family, we can be a second ODM source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches — full units or SKD kits for local assembly — from small lots with CE/RoHS/FCC test reports; would an SKD option for your Make-in-India line be of interest?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 工业FS 普通FS 周边产品；switch",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、Mini Industrial PoE Switch",
+    "why": "14 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

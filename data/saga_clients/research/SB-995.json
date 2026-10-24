@@ -84,5 +84,55 @@
    "url": "https://www.pctelecom.co.th/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 43 封 2024→2026，1 次记录打开，0 回；收件 service@pctelecom.co.th；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
+   "type": "CCTV 销售安装商（泰国，Utepo 交换机）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 43，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的；主要是CCTV 有Utepo的」；研究档 risks：非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟"
+  },
+  "situation": "泰国 PC Telecom（CCTV 销售与安装，LG 摄像机直销；在售 Utepo UTP7202GE-POE / UTP7204E-POE-A1 / UTP7204GE / UTP7624GS-L3；Axis 45；表内「主要是 CCTV，有 Utepo 的工业 FS」）；群发 31 次无回复。",
+  "need": "在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做",
+  "breakpoint": "非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alongside the Utepo UTP7204 PoE switches you install with LG and Axis cameras, we supply Marvell-based 4-PoE + 1 industrial and 8-PoE + 2 SFP commercial units in neutral packing from small lots, EXW — which Utepo model do you use most, so we quote its equivalent?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS Utepo的；主要是CCTV 有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
+    "why": "43 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

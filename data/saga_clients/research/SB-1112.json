@@ -108,5 +108,55 @@
    "url": "https://www.eurobyte.co.za/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 jacqueline@eurobyte.co.za, sales@eurobyte.co.za；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "IT/安防分销商（南非，PLANET 工业线在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "南非 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 13；用户表：「在用Planet的」；研究档 risks：非主攻区（T5，南非）；PLANET 既定线"
+  },
+  "situation": "南非 Eurobyte（安防/网络/IT/电源方案分销：CCTV、光纤与网络布线、网络设备、机柜；PLANET 工业 4/5 口交换机与 MC 产品页（在用 PLANET）、Ruijie / Huawei / Uniview；KP Jacqueline Irshwadhar（Network Product Manager，jacqueline@）、Tiffany Hope（Sales Executive））；表内 3 次跟进无回复。",
+  "need": "在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）",
+  "breakpoint": "非主攻区（T5，南非）；PLANET 既定线",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "在用Planet的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "13 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

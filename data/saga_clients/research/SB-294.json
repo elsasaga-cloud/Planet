@@ -72,5 +72,55 @@
   "tier": 20,
   "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。"
  },
- "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?"
+ "email_hook": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 16 封 2025→2026，无记录打开，0 回；收件 direction@max-protect.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "突尼斯 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 16；用户表：「兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金」；研究档 risks：极度价格敏感（$40 样品价不可持续）"
+  },
+  "situation": "突尼斯视频监控 / 报警 / 消防探测分销与安装商（Dahua、Uniview、Imou、Ajax、Elkron；两家门店；surveillance 162、poe 38），Manager Aymen Gabsi：很在意价格，曾以 $40 卖给他一台 VSC 2 光 8 电管理 PoE 样品；6 次跟进无实质回复。",
+  "need": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
+  "breakpoint": "极度价格敏感（$40 样品价不可持续）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "已测样品同口型 → STC-28DGGPM（$80.7 @20%）；低价非管理 HRUI STC-028GP（$24.2）作走量。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Aymen, comment s'est passé le test du switch 2 SFP + 8 PoE managé que vous avez reçu ? Pour un premier carton (10 pcs) je peux faire un prix de lancement — version managée ou non managée ($24) pour vos chantiers Dahua ?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+    "why": "16 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -62,5 +62,55 @@
   "tier": 20,
   "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）"
  },
- "email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?"
+ "email_hook": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 unitel@unitelco.co.kr；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "光缆系统/网络产品商（韩国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「看着很专业 像是光缆系统产品 也有switch 右图」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@"
+  },
+  "situation": "韩国 Unitelco（유니텔코；表内「看着很专业 像是光缆系统产品，也有 switch」「可以尝试多跟进一下」；官网快照乱码）；群发 23 次无回复。",
+  "need": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；官网快照乱码（业务待核）；23 次无回复，仅 unitel@",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "光缆系统配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）、商用 24 GE + 4×10G STC-424XGGM（$127.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and Marvell-based DIN-rail 8-GE + 2 SFP and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "看着很专业 像是光缆系统产品 也有switch 右图",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

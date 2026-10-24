@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：马来西亚安防产品分销商 Saxco Marketing（采购 Heng Lee Sun，purchaser5/6@），主动联系问网络交换机；无跟进记录。（调研 2026-10-21；表内兴趣：主动联系 问了network switch security products distributor）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 主动询盘（阿里巴巴/自建站/转介）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安防分销配套 8 PoE 管理机（$80.7 @20%）。；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安防分销配套 8 PoE 管理机（$80.7 @20%）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-257` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 7 封 2024，1 次记录打开，0 回；收件 purchaser5@saxco.com.my；主题多为「Industrial fiber switch、Industrial poe switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：主动联系 问了network switch security products distributor」；研究档 risks：无跟进记录
+- **现状一句话**：马来西亚安防产品分销商 Saxco Marketing（采购 Heng Lee Sun，purchaser5/6@），主动联系问网络交换机；无跟进记录。
+- **对方真实需求（有据）**：安防分销配套 8 PoE 管理机（$80.7 @20%）。
+- **断点 / 为什么停在这里**：无跟进记录
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——安防分销配套 8 PoE 管理机（$80.7 @20%）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：主动联系 问了network switch security products distributor | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | Industrial fiber switch、Industrial poe switch | 7 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

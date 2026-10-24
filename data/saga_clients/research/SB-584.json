@@ -106,5 +106,55 @@
    "url": "https://www.certech.com.au/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@certech.com.au, sophiaw@certech.com.au；主题多为「Marvell Industrial Alert System、Optional Marvell Chipset Solutions」）",
+   "type": "布线与网络连接分销商（澳洲，Edimax 工业线）",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「Edimax的；工业FS 周边产品 在用edimax的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
+  },
+  "situation": "澳大利亚 CERTECH（结构化布线 / 服务器机柜 / 网络连接方案供应商，1300 免费电话 + 网店；在售 Edimax 工业交换机 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P；表内「Edimax 的，工业 FS 周边产品」；KP Thomas Boer（Senior Network Solutions Specialist，thomasb@）、Sophia Wong（Product & Brands Program Manager））；表内 1 次跟进无回复。",
+  "need": "在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核",
+  "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Sophia, alongside the Edimax industrial switches you carry, we can add a Marvell-based neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Edimax的；工业FS 周边产品 在用edimax的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、Optional Marvell Chipset Solutions",
+    "why": "12 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

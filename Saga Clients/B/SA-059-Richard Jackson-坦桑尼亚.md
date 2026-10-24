@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,10 +34,28 @@ updated: 2026-10-23
 - **是谁**：坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。（调研 2026-10-21；表内兴趣：主动联系问资料 说要下单）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；-8 无邮箱，仅电话/WhatsApp；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2024-02-28：问了catalog/2023.3.20
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-059` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：坦桑尼亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；研究档 risks：无邮箱与公司信息
+- **现状一句话**：坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。
+- **对方真实需求（有据）**：其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手
+- **断点 / 为什么停在这里**：无邮箱与公司信息
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
+  - 第一问（只问一个）：You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -216,12 +234,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

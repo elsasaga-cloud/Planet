@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-114GP — 默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-592` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；研究档 risks：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；研究档 risks：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进
 - **现状一句话**：ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。
 - **对方真实需求（有据）**：默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-114GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

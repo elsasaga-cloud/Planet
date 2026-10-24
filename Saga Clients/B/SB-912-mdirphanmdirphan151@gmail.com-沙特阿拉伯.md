@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。（调研 2026-10-21；表内兴趣：2光16管理 4pcs）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 23 次（2023-12-15 → 2025-10-27）；最近一次客户回复：2024-12-11：1212：email发了22mini
-- **P1（下一步唯一主推）**：STC-2216GPM — 深挖对位：表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核；$137.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-912` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 19 封 2024→2026，1 次记录打开，0 回；收件 mdirphanmdirphan151@gmail.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：沙特阿拉伯 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「2光16管理 4pcs；1211 mini → 1212：email发了22mini」；研究档 risks：无公司实体信息，可能是一次性项目
+- **现状一句话**：沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。
+- **对方真实需求（有据）**：表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核
+- **断点 / 为什么停在这里**：无公司实体信息，可能是一次性项目
+- **Saga 现在该推什么**：P1 **STC-2216GPM**（25% 档，按主表（研究档 saga_fit））——表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 2光16管理 4pcs；1211 mini → 1212：email发了22mini | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 19 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

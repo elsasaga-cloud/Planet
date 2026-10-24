@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：曼谷 IT 产品电商/安装商 ITK Connecting（itk.co.th；「จำหน่ายสินค้า IT และงานติดตั้ง」；02-460-9200；曼谷 4–9 小时速递、外府 1 天；5 年保修）。网店在售 ONV 工业交换机全线：ONV-IPS33108PF（8 GE PoE + 2 SFP 非管理工业）฿8,330 未税、ONV-IPS33148PFM（L2+ 10 GE/8 PoE + 4 SFP）฿14,960、ONV-IPS38036PFM（L3 24 PoE + 8 SFP + 4 SFP+）฿47,990。用户表：成交 1 次；16 次跟进无回复；「工业 FS 也有一些有名的牌子，有 ONV 的」。多品牌经销商 → 分销 20%，以 ONV 同口型对价切入。（调研 2026-10-21；表内兴趣：工业FS 也有一些有名的牌子 有ONV的）
 - **为什么是 B 级**：**调研后定级 B**（16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 16 次（2024-05-13 → 2025-10-13）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）；$57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-080` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 sales@itk.co.th；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：泰国 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 25；用户表：「工业FS 也有一些有名的牌子 有ONV的」；研究档 risks：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
+- **现状一句话**：曼谷 IT 产品电商/安装商 ITK Connecting（itk.co.th；「จำหน่ายสินค้า IT และงานติดตั้ง」；02-460-9200；曼谷 4–9 小时速递、外府 1 天；5 年保修）。网店在售 ONV 工业交换机全线：ONV-IPS33108PF（8 GE PoE + 2 SFP 非管理工业）฿8,330 未税、ONV-IPS33148PFM（L2+ 10 GE/8 PoE + 4 SFP）฿14,960、ONV-IPS38036PFM（L3 24 PoE + 8 SFP + 4 SFP+）฿47,990。用户表：成交 1 次；16 次跟进无回复；「工业 FS 也有一些有名的牌子，有 ONV 的」。多品牌经销商 → 分销 20%，以 ONV 同口型对价切入。
+- **对方真实需求（有据）**：分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
+- **断点 / 为什么停在这里**：亚太非主攻区；16 次推送无回复（改用泰国同口型对价 + 项目询价通道）；多品牌比价
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$139.9）；商用 24 口 STC-424DGGPM-280W（$134.5）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $139.9), 5-year-warranty-grade components, neutral or ITK-branded — shall I send a sample unit for your project inquiries?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 也有一些有名的牌子 有ONV的 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 25 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

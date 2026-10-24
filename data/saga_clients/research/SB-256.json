@@ -58,5 +58,49 @@
   "tier": 20,
   "why": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。"
  },
- "email_hook": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
+ "email_hook": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "IN 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片」；研究档 risks：印度进口小批量成本高（BIS 认证风险）"
+  },
+  "situation": "印度古吉拉特（+91 98251）经销商 Jayesh Patel，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回复 Yes 并发名片，此后仅「Hi」。",
+  "need": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。",
+  "breakpoint": "印度进口小批量成本高（BIS 认证风险）",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -74,5 +74,55 @@
   "tier": 30,
   "why": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。"
  },
- "email_hook": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break."
+ "email_hook": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 joseph.pi@volktek.com, karen.hua@volktek.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解」；研究档 risks：台系厂商口径；同行竞争敏感"
+  },
+  "situation": "台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+  "need": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。",
+  "breakpoint": "台系厂商口径；同行竞争敏感",
+  "saga_now": {
+   "p1": "LT-IS6312GP-4GX8GT-FBP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "14 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

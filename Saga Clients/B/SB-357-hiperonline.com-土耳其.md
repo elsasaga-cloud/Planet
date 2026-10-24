@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-357` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；研究档 risks：运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com」；研究档 risks：运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进
 - **现状一句话**：埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。
 - **对方真实需求（有据）**：运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：运营商采购偏品牌（MikroTik/华为等）；语言；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -63,5 +63,55 @@
   "tier": 30,
   "why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供"
  },
- "email_hook": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?"
+ "email_hook": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 anek@bismon.com, info@bismon.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+   "type": "网络产品品牌商（泰国，产品线相似）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「产品线很相似」；研究档 risks：非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触"
+  },
+  "situation": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
+  "need": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供",
+  "breakpoint": "非主攻区（T5，泰国）；既有 ODM 供应链（产品线相似，国内货源）；官网 http_error；16 次无回复 → 改向 CEO 具名首触",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "产品线很相似",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "24 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

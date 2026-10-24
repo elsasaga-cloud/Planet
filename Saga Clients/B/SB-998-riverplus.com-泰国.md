@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：泰国 Riverplus（2005 年起数字化与工业 4.0 方案进口分销：IoT、工业 5G/4G 路由网关（Teltonika RUT/TSW100/TSW114）、Milesight；博客 TSW010 工业 LAN 交换机、CCTV PoE 方案；表内「工业 FS、串口等」；KP Prapapim Phetnoi（System Engineer，prapapim@）、Jiraporn Teeramasvanich（Purchasing Manager））；群发 9 次无回复。（调研 2026-10-21；表内兴趣：工业FS 串口等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-01-28 → 2025-10-09）
-- **P1（下一步唯一主推）**：STI-154GP — 深挖对位：在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP；$37.7 USD EXW（20% 档，SmartByte LT-IS3006GP-1GT1GX4GT 210 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-998` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 jiraporn@riverplus.com, prapapim@riverplus.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：工业 IoT 分销商（泰国，Teltonika 交换机线） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：泰国 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 串口等」；研究档 risks：非主攻区（T5）
+- **现状一句话**：泰国 Riverplus（2005 年起数字化与工业 4.0 方案进口分销：IoT、工业 5G/4G 路由网关（Teltonika RUT/TSW100/TSW114）、Milesight；博客 TSW010 工业 LAN 交换机、CCTV PoE 方案；表内「工业 FS、串口等」；KP Prapapim Phetnoi（System Engineer，prapapim@）、Jiraporn Teeramasvanich（Purchasing Manager））；群发 9 次无回复。
+- **对方真实需求（有据）**：在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP
+- **断点 / 为什么停在这里**：非主攻区（T5）
+- **Saga 现在该推什么**：P1 **STI-154GP**（20% 档，按主表（研究档 saga_fit））——在售 Teltonika TSW100（4 PoE + 1）/ TSW114（5 GE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）同口型替换；8 口位 STI-288GP
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Jiraporn, alongside the Teltonika TSW100/TSW114 switches you distribute with RUT routers, we supply Marvell-based DIN-rail 4-PoE + 1 and 5-port gigabit industrial units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW — which Teltonika switch moves most, so we quote its equivalent?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 串口等 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 24 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -88,5 +88,49 @@
   "tier": 20,
   "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
  },
- "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?"
+ "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」；研究档 risks：Moxa 分销身份 → 只会拿低价线做补充"
+  },
+  "situation": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+  "need": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
+  "breakpoint": "Moxa 分销身份 → 只会拿低价线做补充",
+  "saga_now": {
+   "p1": "STI-244GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -65,5 +65,49 @@
   "tier": 25,
   "why": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。"
  },
- "email_hook": "Eduardo, for the 2-fibre + 6-PoE rack unit — our closest is 2 SFP + 8 PoE L2+ managed (Marvell) at $84 EXW; is it for a government CFTV site (then I'll confirm what ANATEL paperwork you need)?"
+ "email_hook": "Eduardo, for the 2-fibre + 6-PoE rack unit — our closest is 2 SFP + 8 PoE L2+ managed (Marvell) at $84 EXW; is it for a government CFTV site (then I'll confirm what ANATEL paperwork you need)?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：2光6POE大壳」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴西 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：2光6POE大壳」；研究档 risks：巴西 ANATEL 认证与进口税"
+  },
+  "situation": "巴西 ES 州 20+ 年电子安防集成商（CFTV、报警、门禁、自动化；住宅 / 企业 / 政府项目），Eduardo；需求 2 光 6 PoE 大壳；WA 6 次无实质回复。",
+  "need": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。",
+  "breakpoint": "巴西 ANATEL 认证与进口税",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 6 PoE 大壳 ≈ 2 SFP + 8 PoE 机架 STC-28DGGPM（$84.1 @25%）；工业大壳版 STI-288GPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：2光6POE大壳",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

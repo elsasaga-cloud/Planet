@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,26 @@ updated: 2026-10-23
 - **是谁**：肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。（调研 2026-10-21；表内兴趣：2光16管理 非标POE 目前在用Planet的设备）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/肯尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 14 次（2024-05-18 → 2025-10-06）；最近一次客户回复：2024-07-17：price
-- **P1（下一步唯一主推）**：STC-2216GPM — 深挖对位：2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。；$137.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-293` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款
+- **现状一句话**：肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。
+- **对方真实需求（有据）**：2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。
+- **断点 / 为什么停在这里**：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款
+- **Saga 现在该推什么**：P1 **STC-2216GPM**（25% 档，按主表（研究档 saga_fit））——2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 8 port poe switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -223,12 +239,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

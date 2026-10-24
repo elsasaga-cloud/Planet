@@ -79,5 +79,55 @@
   "tier": 20,
   "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
  },
- "email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?"
+ "email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+   "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "以色列 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 有迈威的」；研究档 risks：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
+  },
+  "situation": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
+  "need": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）",
+  "breakpoint": "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → daniel@madalix.co.il",
+   "action": "短信一问（email_hook）",
+   "one_question": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 有迈威的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "24 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

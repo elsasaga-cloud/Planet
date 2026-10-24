@@ -57,5 +57,49 @@
   "tier": 25,
   "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。"
  },
- "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）"
+ "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "菲律宾 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」；研究档 risks：无邮箱；需求偏低价 MC"
+  },
+  "situation": "菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。",
+  "need": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+  "breakpoint": "无邮箱；需求偏低价 MC",
+  "saga_now": {
+   "p1": "STI-110FE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -58,5 +58,49 @@
   "tier": 20,
   "why": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）"
  },
- "email_hook": "You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?"
+ "email_hook": "You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "加纳 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光co」；研究档 risks：无邮箱与公司资料"
+  },
+  "situation": "加纳转售商 ROCKBIOS Limited（Abraham Sam，仅 WA 电话）。此前想要光端机（视频光端机，Saga 不做），转问 PoE 交换机；2023-12 要产品清单（已发商业与电源价格册），2024-02 对 24 光 combo 出货信息回「price」；19 次推送 1 次实质回复。→ B 20%（转售）。",
+  "need": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）",
+  "breakpoint": "无邮箱与公司资料",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "PoE 交换机泛需求 → 8 PoE + 2 SFP L2+ 起手；24 光 combo 可报 STC-424XGGM 类（光口版待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格册)；2024.2.27 发了24光combo出货信息 → price",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

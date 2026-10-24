@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,27 @@ updated: 2026-10-23
 - **是谁**：肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。（调研 2026-10-21；表内兴趣：百兆单纤小外电 50对 16年使用国际站）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/肯尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 19 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2025-04-07：price list
-- **P1（下一步唯一主推）**：STI-110FE — 深挖对位：百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注；$20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1010` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 pweruh@gmail.com, wellspeter8@gmail.com；主题多为「8 port fiber switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：肯尼亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → pric」；研究档 risks：商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）
+- **现状一句话**：肯尼亚小型安装/转售商 Peter Weru（gmail，WA 已加，2016 年起用国际站）。需求「百兆单纤小外电 50 对」（100M 单纤迷你收发器、外置电源，50 对）；2024-06 发商业交换机图后要「price list」；19 次推送 2 次实质回复。→ B 25%。
+- **对方真实需求（有据）**：百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注
+- **断点 / 为什么停在这里**：商用迷你外电 MC 不在 Saga 价目（只有工业 DIN 款）
+- **Saga 现在该推什么**：P1 **STI-110FE**（25% 档，按主表（研究档 saga_fit））——百兆单纤 MC → Saga 仅有工业款 STI-110FE（$19.7–21.4）；若坚持商用迷你外电款需向 SmartByte/HRUI 另索价并标注
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the 50 pairs of 100M single-fiber converters you mentioned: our DIN-rail 100M model is $20–21 EXW; if you need the low-cost desktop type with external adapter I can quote that separately — which do you prefer?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 百兆单纤小外电 50对 16年使用国际站；2024.6.21 发了几个商业交换机图 → Email发了2光6小壳信息；4.7 发了洪瑞商业交换机图 → price list | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 8 port fiber switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -227,12 +244,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：印尼联系人 Yusuf，兴趣工业光纤交换机，2024-06 收 HRUI 商用 2 光 8 PoE 管理邮件，2025-11 收 10G MC 邮件；无公司名。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了10gmc
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：工业光纤交换机 → STI-288GP（2 SFP + 8 PoE）起手。；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业光纤交换机 → STI-288GP（2 SFP + 8 PoE）起手。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Yusuf, you asked about industrial fibre switches — 2 SFP + 8 ports, PoE or non-PoE, DIN-rail; which one should I price for you?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-346` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 2 封 2024→2025，无记录打开，0 回；收件 akoe.yusuf@gmail.com；主题多为「8 Port Industrial PoE Switch、8 port poe managed switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「兴趣：工业FS；回复：Email发了洪瑞商业2光8PoE管理信息；1120email发了10gmc」；研究档 risks：身份不明；低优先
+- **现状一句话**：印尼联系人 Yusuf，兴趣工业光纤交换机，2024-06 收 HRUI 商用 2 光 8 PoE 管理邮件，2025-11 收 10G MC 邮件；无公司名。
+- **对方真实需求（有据）**：工业光纤交换机 → STI-288GP（2 SFP + 8 PoE）起手。
+- **断点 / 为什么停在这里**：身份不明；低优先
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工业光纤交换机 → STI-288GP（2 SFP + 8 PoE）起手。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Yusuf, you asked about industrial fibre switches — 2 SFP + 8 ports, PoE or non-PoE, DIN-rail; which one should I price for you?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：工业FS；回复：Email发了洪瑞商业2光8PoE管理信息；1120email发了10gmc | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、8 port poe managed switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

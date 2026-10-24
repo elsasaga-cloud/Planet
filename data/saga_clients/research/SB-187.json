@@ -92,5 +92,49 @@
   "tier": 25,
   "why": "表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档"
  },
- "email_hook": "You asked earlier about a small managed switch with multicast support for signage networks — our 8-port PoE+ L2+ model (2 SFP uplinks) does IGMP snooping/VLAN; would a one-unit sample for your next video-wall project be useful?"
+ "email_hook": "You asked earlier about a small managed switch with multicast support for signage networks — our 8-port PoE+ L2+ model (2 SFP uplinks) does IGMP snooping/VLAN; would a one-unit sample for your next video-wall project be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了2光8商业POE管理信息 → multicast support switch」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿联酋 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「发了2光8商业POE管理信息 → multicast support switch」；研究档 risks：主业数字标牌，网络交换机只是项目配套，量小且不定期"
+  },
+  "situation": "迪拜数字标牌/LED 显示/互动一体机集团（2003/2004 年创立，Pixcom Technologies + Pixcom Industries + Prosign Systems 等子公司，员工 100–200+ 级，自称中东数字标牌 70% 份额）。表内联系人 Khaleel Aboobacker（gmail，WA 已加）2024-03 回复「multicast support switch」= 要支持组播的管理型小交换机（标牌/视频墙组播分发场景）；22 次推送 1 次实质回复。用户备注「网站不是很相关」属实（主业非网络设备），但标牌项目确有管理型 PoE/组播小交换机的配套需求 → B 慢跟 25%。",
+  "need": "表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档",
+  "breakpoint": "主业数字标牌，网络交换机只是项目配套，量小且不定期",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "发了2光8商业POE管理信息 → multicast support switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

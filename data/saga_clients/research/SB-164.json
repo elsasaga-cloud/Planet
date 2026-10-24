@@ -64,5 +64,49 @@
   "tier": 25,
   "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。"
  },
- "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc."
+ "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MC1光2电千兆」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "坦桑尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量"
+  },
+  "situation": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
+  "need": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
+  "breakpoint": "东非付款 T/T 预付；小量",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC1光2电千兆",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

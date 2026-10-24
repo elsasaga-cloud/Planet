@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。（调研 2026-10-21；表内兴趣：工业FS 自己的品牌 NEXi）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-05-30 → 2025-10-24）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → scale@goriver.co.kr 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-507` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：韩国配件品牌商（NEXI，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
+- **现状一句话**：韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。
+- **对方真实需求（有据）**：NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）
+- **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）
+- **下一步（具体）**：2026-11　A 邮箱 → scale@goriver.co.kr　短信一问（email_hook）
+  - 第一问（只问一个）：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS 自己的品牌 NEXi | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 34 封 / 3 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

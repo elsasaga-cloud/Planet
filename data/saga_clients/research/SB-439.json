@@ -78,5 +78,55 @@
   "tier": 20,
   "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?"
+ "email_hook": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 info@satsdigital.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+   "type": "网络/安防产品网店（泰国，低价导向）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC FS 工业FS SFP VC 价格便宜 销售平台」；研究档 risks：低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
+  },
+  "situation": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
+  "need": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "20 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

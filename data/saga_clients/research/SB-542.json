@@ -82,5 +82,55 @@
    "url": "https://jdktech.com.au/products/jdk-poe-4p12/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@jdktech.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 很多种外壳 有ONV的」；研究档 risks：现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
+  },
+  "situation": "澳大利亚 JDK Technologies（澳洲工业网络与 IoT 方案：工业网关、路由器、PoE 交换机、IoT 传感器；自有 JDK-POE-4P12 PoE 交换机、JIG02 网关、LG43；案例医院无线呼叫、Ventia 环境监测；表内「工业 FS，很多种外壳，有 ONV 的」「可以多跟进一下」）；群发 21 次无回复。",
+  "need": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
+  "breakpoint": "现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@jdktech.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 很多种外壳 有ONV的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "30 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

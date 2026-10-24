@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。（调研 2026-10-21；表内兴趣：客户找光猫+工业MC）
 - **为什么是 B 级**：**调研后定级 B**（南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-03-15：price and model list
-- **P1（下一步唯一主推）**：STI-448XGGGPM(L3) — 深挖对位：其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC；$370.0 USD EXW（25% 档，SmartByte LT-IS6516XGP-4XS4GX8GT 1980 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-448XGGGPM(L3) — 其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-096` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed swi」）** ｜ 类型：电信设备经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：秘鲁 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3」；研究档 risks：小团队、项目驱动，单量不定
+- **现状一句话**：秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。
+- **对方真实需求（有据）**：其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC
+- **断点 / 为什么停在这里**：小团队、项目驱动，单量不定
+- **Saga 现在该推什么**：P1 **STI-448XGGGPM(L3)**（25% 档，按主表（研究档 saga_fit））——其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

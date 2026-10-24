@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。（调研 2026-10-21；表内兴趣：SFP模块）
 - **为什么是 B 级**：**调研后定级 B**（品类为光模块（非主线）、无互动、越南非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-141` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@comtec.com.vn；主题多为「10G Media Converter」）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「SFP模块 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
+- **现状一句话**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。
+- **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
+- **断点 / 为什么停在这里**：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | SFP模块 / 从BTON买了很多 / 富通天下 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 10G Media Converter | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

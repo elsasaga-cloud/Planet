@@ -67,5 +67,55 @@
   "tier": 20,
   "why": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。"
  },
- "email_hook": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?"
+ "email_hook": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，无记录打开，0 回；收件 enquiry@gigalight.com.sg, jw@gigalight.com.sg；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新加坡 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「兴趣：做布线 PoE 让发海报上的产品信息」；研究档 risks：布线商硬件量小；无回复"
+  },
+  "situation": "新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）",
+  "need": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。",
+  "breakpoint": "布线商硬件量小；无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：做布线 PoE 让发海报上的产品信息",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

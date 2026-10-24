@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：AOA的工业MC 就这一款）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-03 → 2025-10-15）
-- **P1（下一步唯一主推）**：STI-110FE — 深挖对位：站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）；$19.7 USD EXW（20% 档，SmartByte LT-IMC30F-E 110 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-786` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 sales@trioms.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：仪器/技术产品分销商（新加坡，工业 MC 单品） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：新加坡 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「AOA的工业MC 就这一款」；研究档 risks：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@
+- **现状一句话**：新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。
+- **对方真实需求（有据）**：站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）
+- **断点 / 为什么停在这里**：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@
+- **Saga 现在该推什么**：P1 **STI-110FE**（20% 档，按主表（研究档 saga_fit））——站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | AOA的工业MC 就这一款 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 24 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

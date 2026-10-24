@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：韩国网络设备公司 Deonet（PON 系统、CPE、复用器、交换机 SM2824M / SM5124 / GNT245 等；switch 21、poe 18、sfp 9、10G 5），Chris（Kim Yeong Man，可多跟进）：工商业交换机都有，PoE 问芯片，另问 GPON/EPON；23 次跟进无实质回复。（调研 2026-10-21；表内兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-05-07 → 2025-11-03）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → chris@deonet.co.kr 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-144` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 chris@deonet.co.kr, info@deonet.co.kr；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon」；研究档 risks：GPON/EPON 不供；韩国 KC；无回复
+- **现状一句话**：韩国网络设备公司 Deonet（PON 系统、CPE、复用器、交换机 SM2824M / SM5124 / GNT245 等；switch 21、poe 18、sfp 9、10G 5），Chris（Kim Yeong Man，可多跟进）：工商业交换机都有，PoE 问芯片，另问 GPON/EPON；23 次跟进无实质回复。
+- **对方真实需求（有据）**：商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。
+- **断点 / 为什么停在这里**：GPON/EPON 不供；韩国 KC；无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——商用 PoE（Marvell 芯片卖点）→ STC-28DGGPM（$87.4 @30%）贴 Deonet 标；工业 STI-288GPM。
+- **下一步（具体）**：2026-11　A 邮箱 → chris@deonet.co.kr　短信一问（email_hook）
+  - 第一问（只问一个）：Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Managed Optical Bypass Switch | 34 封 / 5 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

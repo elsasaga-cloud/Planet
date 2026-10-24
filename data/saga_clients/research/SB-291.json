@@ -73,5 +73,55 @@
   "tier": 30,
   "why": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。"
  },
- "email_hook": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?"
+ "email_hook": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 byron@intercoax.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号」；研究档 risks：韩国 KC 认证；44 次跟进无回复"
+  },
+  "situation": "韩国同轴 / 以太网延长（EoC）设备厂商 INTERCOAX（SECON 2023；此前买过样品的韩国客户），Byron / Jongmin 多次交谈并拿目录，问 2+2+8（2 SFP + 2 GE 上联 + 8 PoE）型号；44 次跟进无实质回复。自有品牌厂商 → OEM 30%。",
+  "need": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。",
+  "breakpoint": "韩国 KC 认证；44 次跟进无回复",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($31) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：之前联系的那个韩国买样客户… 问了2+2+8，上联2个光2个网的型号",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "35 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

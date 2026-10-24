@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。（调研 2026-10-21；表内兴趣：2011年买过12台延长器）
 - **为什么是 B 级**：**调研后定级 B**（2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-122` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；研究档 risks：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
+- **现状一句话**：印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。
+- **对方真实需求（有据）**：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
+- **断点 / 为什么停在这里**：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
+- **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

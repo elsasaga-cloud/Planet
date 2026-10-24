@@ -56,5 +56,49 @@
   "tier": 25,
   "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。"
  },
- "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc."
+ "email_hook": "Ade, you asked for the datasheet of our 16-port industrial PoE unit (2 SFP uplinks) — since Ruijie covers your office layer, is the industrial/outdoor cabinet side where you'd test ours? One sample ships from 1 pc.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷」；研究档 risks：主体不明（公司名疑误录）"
+  },
+  "situation": "印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。",
+  "need": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+  "breakpoint": "主体不明（公司名疑误录）",
+  "saga_now": {
+   "p1": "STI-21616GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

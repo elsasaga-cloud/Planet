@@ -101,5 +101,55 @@
   "tier": 25,
   "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）"
  },
- "email_hook": "Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?"
+ "email_hook": "Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 9 封 2024→2025，无记录打开，0 回；收件 info@securico.co.zw；主题多为「Mini Industrial PoE Switch、Passive PoE Switch」）",
+   "type": "经销/集成商",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "津巴布韦 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9；用户表：「8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的」；研究档 risks：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动"
+  },
+  "situation": "津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。",
+  "need": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Mini Industrial PoE Switch、Passive PoE Switch",
+    "why": "9 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

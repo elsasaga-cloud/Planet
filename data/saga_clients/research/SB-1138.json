@@ -58,5 +58,49 @@
   "tier": 20,
   "why": "DCI / 1.6T 规格外；无主推型。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对1.6T很感兴趣，DCI box，拍了照」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴西 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：对1.6T很感兴趣，DCI box，拍了照」；研究档 risks：需求 1.6T / DCI 规格外"
+  },
+  "situation": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
+  "need": "DCI / 1.6T 规格外；无主推型。",
+  "breakpoint": "需求 1.6T / DCI 规格外",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "DCI / 1.6T 规格外；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

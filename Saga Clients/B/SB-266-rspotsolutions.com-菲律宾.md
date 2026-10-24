@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。（调研 2026-10-21；表内兴趣：从holink买了HDMI类产品）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-266` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多」；研究档 risks：亚太非主攻区；1 次跟进无回复；低价竞争
+- **现状一句话**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。
+- **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
+- **断点 / 为什么停在这里**：亚太非主攻区；1 次跟进无回复；低价竞争
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

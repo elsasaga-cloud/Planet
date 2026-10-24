@@ -101,5 +101,55 @@
    "url": "https://dorani.com.au/product/16-port-poe-switch/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 2 封被打开，0 回；收件 reception@dorani.com.au, support@dorani.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "安防安装 + 批发 + 自有品牌（OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 31，Opened 标签 2（Simon 群发追踪）；用户表：「CCTV相关的都卖 自己的logo」；研究档 risks：澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）"
+  },
+  "situation": "澳大利亚 Dorani（Australian Security Systems Installer, Wholesaler & Supplier；自有 DORIP 系列摄像机与自有标 8/16 口 PoE 交换机商品页；站内 Bosch；表内「CCTV 相关的都卖，自己的 logo」；KP Pete Monaghan（Founder））；群发 21 次无回复。",
+  "need": "自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W",
+  "breakpoint": "澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → reception@dorani.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Pete, for the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "CCTV相关的都卖 自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

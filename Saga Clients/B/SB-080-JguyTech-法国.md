@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：现在（Simon） WhatsApp（Simon） 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-080` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「OM4301网络延长器 1对 成样品单」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：法国（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「OM4301网络延长器 1对 成样品单」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：法国 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「OM4301网络延长器 1对 成样品单」；研究档 risks：个体、单量小；0 次跟进记录（需补跟进）
 - **现状一句话**：法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。
 - **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件
 - **断点 / 为什么停在这里**：个体、单量小；0 次跟进记录（需补跟进）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
   - 第一问（只问一个）：How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | OM4301网络延长器 1对 成样品单 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

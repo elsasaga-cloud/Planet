@@ -79,5 +79,55 @@
   "tier": 20,
   "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
  },
- "email_hook": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?"
+ "email_hook": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 roh@smartintercom.eu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "对讲/门禁分销商（欧洲，4 口工业 PoE 报价）",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "未填 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「4口工业级PoE交换机报价」；研究档 risks：国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复"
+  },
+  "situation": "SmartIntercom（smartintercom.eu：与 Akuvox 合作的室内外门禁对讲高端分销商；表内国别未填（.eu，联系人 Ronald；国别待核）；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@））；表内 6 次跟进无回复。",
+  "need": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+  "breakpoint": "国别待核（表内未填，.eu 域名）；分销商（Akuvox 自带 PoE 配件）；6 次无回复",
+  "saga_now": {
+   "p1": "STI-154GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询价 4 口工业 PoE → 工业 4 PoE + 1 SFP STI-154GP（$37.7 @20%）/ 4 PoE + 1 GE STI-054GP（$31.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ronald, following your request for a 4-port industrial PoE switch: we supply DIN-rail 4-PoE + 1 SFP and 4-PoE + 1 GE units (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD — how many units, and do your Akuvox door stations need 802.3bt power?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4口工业级PoE交换机报价",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

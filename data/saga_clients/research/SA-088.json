@@ -127,5 +127,55 @@
   "tier": 30,
   "why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X"
  },
- "email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?"
+ "email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 6 封 2024→2025，无记录打开，0 回；收件 info@fibotelecom.ru；主题多为「PoE Switch、48 port managed switch」）",
+   "type": "运营商/光传输采购（待补证）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / http」；研究档 risks：俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录"
+  },
+  "situation": "俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过",
+  "need": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X",
+  "breakpoint": "俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/k",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "PoE Switch、48 port managed switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

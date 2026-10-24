@@ -107,5 +107,49 @@
   "tier": 20,
   "why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。"
  },
- "email_hook": "Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day."
+ "email_hook": "Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day.",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→pric」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是」；研究档 risks：比价型客户，目标价偏低概率高"
+  },
+  "situation": "伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。",
+  "need": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。",
+  "breakpoint": "比价型客户，目标价偏低概率高",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

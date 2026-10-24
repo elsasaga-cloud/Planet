@@ -145,5 +145,40 @@
   "tier": 20,
   "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求："
  },
- "email_hook": "Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?"
+ "email_hook": "Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "未填 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存"
+  },
+  "situation": "Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求",
+  "need": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
+  "breakpoint": "PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

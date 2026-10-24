@@ -77,5 +77,49 @@
   "tier": 25,
   "why": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）"
  },
- "email_hook": "Enrique, following your enquiry for a 2-fibre + 10-copper switch: we can offer 8-GE (PoE) + 2 SFP L2+ or 16-GE + 2 SFP configurations from single units, CE/RoHS, EXW USD, 10–15 days — are the 10 copper ports needed with PoE, and how many units?"
+ "email_hook": "Enrique, following your enquiry for a 2-fibre + 10-copper switch: we can offer 8-GE (PoE) + 2 SFP L2+ or 16-GE + 2 SFP configurations from single units, CE/RoHS, EXW USD, 10–15 days — are the 10 copper ports needed with PoE, and how many units?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2光10电 / from: 自建站」）",
+   "type": "IT 方案商（墨西哥，2 光 10 电询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "墨西哥 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「2光10电 / from: 自建站」；研究档 risks：非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核"
+  },
+  "situation": "墨西哥 Engitel S.A. de C.V.（面向中小企业的 IT 咨询与方案实施，15 年以上；自建站询盘「2 光 10 电」；KP Enrique Camberos）；表内未跟进。",
+  "need": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）",
+  "breakpoint": "非主攻区（T5，墨西哥）；2 光 10 电非标准口数（以 8+2 或 16+2 替代，待确认）；询盘时效待核",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 10 电 → 最近配置 8 GE PoE + 2 SFP L2+ STC-28DGGPM（$84.1 @25%）或 16 口 PoE（待核型号）；工业 8 GE + 2 SFP STI-280GE（$48.6）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2光10电 / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

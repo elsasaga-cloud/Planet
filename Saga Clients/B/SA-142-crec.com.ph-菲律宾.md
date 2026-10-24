@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：**调研后定级 B**（在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-142` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）** ｜ 类型：经销/集成商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复
+- **现状一句话**：菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。
+- **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
+- **断点 / 为什么停在这里**：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 买了迈威的 / 做项目的 / 富通天下 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | 10G Media Converter | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

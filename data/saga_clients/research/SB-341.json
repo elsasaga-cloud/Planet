@@ -77,5 +77,55 @@
   "tier": 25,
   "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）"
  },
- "email_hook": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?"
+ "email_hook": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 efi@palwintec.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
+   "type": "门禁/对讲安装商（以色列，云管理需求）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "以色列 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704」；研究档 risks：云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复"
+  },
+  "situation": "以色列 Pal Wintec Systems（门禁、对讲（含无线对讲）与 IP 监视器安装商/网店；表内「1 需要云管理 2 基本不用 90W PoE，常规 af/at 用的多；2 个人，目的比较明确」；KP Efi Yosefian（VP），电话 972 52 6440704）；表内 6 次跟进无回复。",
+  "need": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
+  "breakpoint": "云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,26 +35,27 @@ updated: 2026-10-24
 - **为什么是 B 级**：+10 谈到样品/测样；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+ 管理，$145.7；现场锚点 $105 为样品特价）；带 bypass 需用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP + 1 路光 bypass，$194.3，Saga 暂无对应型号）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir endüstriyel switch'i 1 adet numune olarak 105 USD'ye (fuar fiyatı) gönderebilirim, bypass'lı sürüm ayrı fiyatlandırılır; numune için Ankara adresi ve PayPal/havale tercihinizi yazar mısınız?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：不动 — —
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-096` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金」；研究档 risks：政府招标业务占比高（守界按个案）；无后续跟进；bypass 需求对应 SmartByte 型号价差大
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金」；研究档 risks：政府招标业务占比高（守界按个案）；无后续跟进；bypass 需求对应 SmartByte 型号价差大
 - **现状一句话**：安卡拉的电气/电子安防承包商 Onsis（1992 年起业、2015-03 现法人；Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28 Çankaya；+90 312 435 67 53；总经理 Esef Taşkıran；1–24 人；业务：CCTV、火灾探测、考勤、防盗报警、卫星/对讲；自述大部分业务为政府招标与私人住宅项目）。ISAF 记录：Ady 加了 WhatsApp，问 2 光 8 带 PoE 带网管带 bypass 价格，报了 $105，要 L2；最后一天来要样品但身上没现金；邮箱 esef@onsis.com.tr（= 总经理）。
 - **对方真实需求（有据）**：项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+ 管理，$145.7；现场锚点 $105 为样品特价）；带 bypass 需用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP + 1 路光 bypass，$194.3，Saga 暂无对应型号）
 - **断点 / 为什么停在这里**：政府招标业务占比高（守界按个案）；无后续跟进；bypass 需求对应 SmartByte 型号价差大
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+ 管理，$145.7；现场锚点 $105 为样品特价）；带 bypass 需用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP + 1 路光 bypass，$194.3，Saga 暂无对应型号）
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
+  - 第一问（只问一个）：Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir endüstriyel switch'i 1 adet numune olarak 105 USD'ye (fuar fiyatı) gönderebilirim, bypass'lı sürüm ayrı fiyatlandırılır; numune için Ankara adresi ve PayPal/havale tercihinizi yazar mısınız?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

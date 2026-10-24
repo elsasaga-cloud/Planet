@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。（调研 2026-10-21；表内兴趣：PoE相关）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-05-06 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1059` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 34 封 2024→2026，无记录打开，0 回；收件 gunkim@c4line.com, info@c4line.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：IP 延长器制造商（韩国，PoE 交换机为配套） ｜ 筛子：1（只收到群发） ｜ 停点：34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 34；用户表：「PoE相关」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触
+- **现状一句话**：韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。
+- **对方真实需求（有据）**：延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）
+- **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | PoE相关 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

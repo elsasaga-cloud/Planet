@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。（调研 2026-10-21；表内兴趣：买了很多跳线）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STC-228GP — 深挖对位：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）；$30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-264` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 2 封 2025，无记录打开，0 回；收件 inquiry@fibercomtelecoms.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「买了很多跳线 / 网站：SFP networking / 富通天下」；研究档 risks：亚太非主攻区；1 次跟进无回复；配件商利润薄
+- **现状一句话**：菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。
+- **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
+- **断点 / 为什么停在这里**：亚太非主攻区；1 次跟进无回复；配件商利润薄
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 买了很多跳线 / 网站：SFP networking / 富通天下 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | Mini Industrial PoE Switch、8 Port Industrial PoE Switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

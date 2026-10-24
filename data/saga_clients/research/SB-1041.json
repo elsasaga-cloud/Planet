@@ -79,5 +79,55 @@
   "tier": 20,
   "why": "MC（现 Diva）→ 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；PoE 交换机 8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；机架/光猫 Saga 不供"
  },
- "email_hook": "Michael, alongside the Diva media converters you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based 8-PoE + 2 SFP L2+ switches from single units, CE/RoHS, EXW USD; KC by your side — which MC configuration do your customers order most?"
+ "email_hook": "Michael, alongside the Diva media converters you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based 8-PoE + 2 SFP L2+ switches from single units, CE/RoHS, EXW USD; KC by your side — which MC configuration do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 michael_kang@fiberbase.co.kr；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）",
+   "type": "光通信产品分销商（韩国，MC 现 Diva）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「买的MC 全都是Diva这个牌子 公司：MC POE switch 机架 光猫；https://fiberbase-net.com/default/produc」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；现供 Diva 价格基准低；MC 机架/光猫 Saga 不供"
+  },
+  "situation": "韩国 Fiberbase（fiberbase.co.kr / fiberbase-net.com：MC、PoE 交换机、机架、光猫；表内「买的 MC 全都是 Diva 这个牌子」「质量高」；KP Michael Kang）；表内跟进无回复。",
+  "need": "MC（现 Diva）→ 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；PoE 交换机 8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；机架/光猫 Saga 不供",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；现供 Diva 价格基准低；MC 机架/光猫 Saga 不供",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "MC（现 Diva）→ 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；PoE 交换机 8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；机架/光猫 Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Michael, alongside the Diva media converters you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based 8-PoE + 2 SFP L2+ switches from single units, CE/RoHS, EXW USD; KC by your side — which MC configuration do your customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买的MC 全都是Diva这个牌子 公司：MC POE switch 机架 光猫；https://fiberbase-net.com/default/product/sub2.php https://www.fiberbase-net.com",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、90W PoE Managed Switch",
+    "why": "35 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

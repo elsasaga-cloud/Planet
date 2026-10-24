@@ -72,5 +72,55 @@
   "tier": 20,
   "why": "1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属"
  },
- "email_hook": "For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?"
+ "email_hook": "For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 sales@bm-switch.com；主题多为「8 Port Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+   "type": "裸金属交换机网店（台湾，数据中心向）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「高速交换机 marvell的」；研究档 risks：品类错位：客户群要 ONIE/SONiC 裸金属，Saga 为专有固件 L2+ 接入；非主攻区（T5，台湾）"
+  },
+  "situation": "台湾 bm-switch.com（「All about bare metal switches」：裸金属交换机 1G/100G/400G、网络软件、光模块、电源配件网店，PayPal/电汇；表内「高速交换机 Marvell 的」）；群发 6 次无回复。",
+  "need": "1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属",
+  "breakpoint": "品类错位：客户群要 ONIE/SONiC 裸金属，Saga 为专有固件 L2+ 接入；非主攻区（T5，台湾）",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "高速交换机 marvell的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "8 Port Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "12 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

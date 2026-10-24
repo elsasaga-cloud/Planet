@@ -65,5 +65,55 @@
   "tier": 30,
   "why": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）"
  },
- "email_hook": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?"
+ "email_hook": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 gotsales@gotinc.co.kr；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "韩国网络品牌商（自有标，现 G-net 海思方案）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 2（Simon 群发追踪）；用户表：「自己的logo 拿的G-net的 工业FS POE 海思的」；研究档 risks：现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）"
+  },
+  "situation": "韩国 GOT Inc.（官网快照为防机器人验证页；表内「自己的 logo，拿的 G-net 的；工业 FS PoE 海思的」「可以尝试多跟进一下」）；群发 22 次无回复。",
+  "need": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）",
+  "breakpoint": "现供 G-net（深圳）价格基准低；官网快照为验证页（待核）；非主攻区（T5，韩国）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "现 G-net（深圳）海思方案工业 PoE 贴标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%，Marvell 平台差异化）；商用 STC-28DGGPM（$87.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → gotsales@gotinc.co.kr",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的logo 拿的G-net的 工业FS POE 海思的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

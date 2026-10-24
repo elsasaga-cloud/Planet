@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 LTV / ЛУИС+（LTV 为大型安防分销商 ЛУИС+ 的自有视频监控设备品牌：「цена/качество」全线产品，含 PoE 护罩、防爆 PoE 摄像机；表内「自己的 logo 工业 FS SFP 等，外壳看着像国内的，基本都是用 Hasvio 的」「比较重要」；表内无邮箱）；表内未跟进。（调研 2026-10-21；表内兴趣：自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial PoE switches in the LTV range, we can be a second ODM source on a Marvell platform (DIN-rail 4/8-PoE + SFP, managed and unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-988` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的」）** ｜ 类型：俄罗斯安防分销商自有品牌（LTV，工业 FS 现 Hasvio） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的」；研究档 risks：邮箱待补（表内无邮箱；需找 ЛУИС+ 采购/产品经理）；俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 Hasvio（深圳）价格基准低
+- **现状一句话**：俄罗斯 LTV / ЛУИС+（LTV 为大型安防分销商 ЛУИС+ 的自有视频监控设备品牌：「цена/качество」全线产品，含 PoE 护罩、防爆 PoE 摄像机；表内「自己的 logo 工业 FS SFP 等，外壳看着像国内的，基本都是用 Hasvio 的」「比较重要」；表内无邮箱）；表内未跟进。
+- **对方真实需求（有据）**：LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供
+- **断点 / 为什么停在这里**：邮箱待补（表内无邮箱；需找 ЛУИС+ 采购/产品经理）；俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 Hasvio（深圳）价格基准低
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the industrial PoE switches in the LTV range, we can be a second ODM source on a Marvell platform (DIN-rail 4/8-PoE + SFP, managed and unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

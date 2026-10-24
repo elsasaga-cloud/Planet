@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-576` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；研究档 risks：需求不在 Saga 主线；语言；无后续跟进
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；研究档 risks：需求不在 Saga 主线；语言；无后续跟进
 - **现状一句话**：ISAF 记录：Marmaris Bilişim（+90 533 358 54 80，WhatsApp 已加）——不会英文，说 fiber out，拿别的公司的产品册问了 PoE splitter、PON；无邮箱/域名；无跟进。马尔马里斯本地 IT 店；所询 PoE 分离器与 PON 非 Saga 主线（价格表无 splitter/PON）→ 仅表内信息，B 托底。
 - **对方真实需求（有据）**：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供
 - **断点 / 为什么停在这里**：需求不在 Saga 主线；语言；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

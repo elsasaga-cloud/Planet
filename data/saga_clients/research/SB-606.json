@@ -50,5 +50,49 @@
   "tier": 25,
   "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。"
  },
- "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）"
+ "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "加纳 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：对POE switch感兴趣；回复：在和dja合作」；研究档 risks：无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）"
+  },
+  "situation": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+  "need": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+  "breakpoint": "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

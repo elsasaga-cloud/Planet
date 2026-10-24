@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：新加坡 Omnicomm（omnicomm.com.sg；omninet.com.vn 为服务器默认页；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）、Chuong）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：从国内买模块  Switch 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-05 → 2025-10-20）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Victor, for the switches you sell under your own label alongside the optical modules you source from China, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS — which configuration do your Singapore and Vietnam customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-284` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 chuong@omnicomm.com.sg, victor@omnicomm.com.sg；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）** ｜ 类型：网络品牌商（新加坡/越南，自有标 Switch；官网待核） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：新加坡 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「从国内买模块 Switch 自己的logo」；研究档 risks：官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触
+- **现状一句话**：新加坡 Omnicomm（omnicomm.com.sg；omninet.com.vn 为服务器默认页；表内「从国内买模块；Switch 自己的 logo」；KP Victor Tan（Operations Manager）、Chuong）；群发 8 次无回复。
+- **对方真实需求（有据）**：自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）
+- **断点 / 为什么停在这里**：官网快照为服务器默认页（站点待核）；非主攻区（T5）；8 次无回复 → 改向 Operations Manager 具名首触
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 logo 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；光模块 Saga 不供（Q-32）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Victor, for the switches you sell under your own label alongside the optical modules you source from China, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS — which configuration do your Singapore and Vietnam customers order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 从国内买模块 Switch 自己的logo | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 18 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。（调研 2026-10-21；表内兴趣：Cameras, access control；2光4电百兆MC外壳(外购那款)）
 - **为什么是 B 级**：**调研后定级 B**（需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-04 → 2025-06-21）；最近一次客户回复：2025-02-26：L2 Managed & Web Managed
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-136` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 」）** ｜ 类型：安防集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26」；研究档 risks：印度政府/国道局招标多有本地化与认证要求（按单评估）
+- **现状一句话**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复
+- **对方真实需求（有据）**：「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核
+- **断点 / 为什么停在这里**：印度政府/国道局招标多有本地化与认证要求（按单评估）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

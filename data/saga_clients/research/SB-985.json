@@ -72,5 +72,49 @@
   "tier": 30,
   "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
  },
- "email_hook": "For the Keno-branded PoE switches bundled with your NVRs and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?"
+ "email_hook": "For the Keno-branded PoE switches bundled with your NVRs and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」）",
+   "type": "俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（Q-33 供应商渠道客户）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低"
+  },
+  "situation": "俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。",
+  "need": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+  "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

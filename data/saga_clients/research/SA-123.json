@@ -94,5 +94,49 @@
   "tier": 25,
   "why": "项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）"
  },
- "email_hook": "Rob, following the PoE media converters you bought: for yacht networks we now have a compact DIN-rail 4× GbE PoE + SFP industrial switch at $35.5 EXW (−40/+75 °C, 12–48 V DC input) — are your installs still converter-based, or would a fanless PoE switch per deck fit better?"
+ "email_hook": "Rob, following the PoE media converters you bought: for yacht networks we now have a compact DIN-rail 4× GbE PoE + SFP industrial switch at $35.5 EXW (−40/+75 °C, 12–48 V DC input) — are your installs still converter-based, or would a fanless PoE switch per deck fit better?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「买了MC POE / Prestige Satellites Communications S.A.C. / rob@p」）",
+   "type": "通信集成/经销商",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "秘鲁 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸」；研究档 risks：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证"
+  },
+  "situation": "域名 prestigevsat.com 对应 Prestige Satellite Communications Inc.（佛罗里达州公司，2016-01-26 注册；Fort Lauderdale；为豪华游艇提供 VSAT / TVRO / IT 网络服务与安装维修；团队 30+ 年经验；1–10 人）。用户表（外贸邦群发名单）记为「Prestige Satellites Communications S.A.C.（秘鲁）」，rob@prestigevsat.com，买了 MC PoE——公司后缀 S.A.C. 与域名所指美国公司不一致，国家待核（美国则属主攻区）。游艇 IT 网络 → 小型 PoE/工业机（振动/盐雾环境需注意）。",
+  "need": "项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）",
+  "breakpoint": "国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

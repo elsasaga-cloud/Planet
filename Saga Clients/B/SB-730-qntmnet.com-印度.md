@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：国内的工业switch）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-730` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 abhijit@qntmnet.com, sales@qntmnet.com；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）** ｜ 类型：印度云管理网络品牌商（工业线外采中国 ODM） ｜ 筛子：1（只收到群发） ｜ 停点：11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 11；用户表：「国内的工业switch」；研究档 risks：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
+- **现状一句话**：印度 Quantum Networks（云管理全栈网络品牌：QN-S 系列交换机、工业 PoE 4/8 口 QN-IS-225-8；站内 Ubiquiti / Cisco / Aruba 对比；表内「国内的工业 switch」（现用中国产工业交换机）；KP Vidur Batra（VP – System Engineering，vidur.batra@）、Abhijit Potdar（Corporate VP，abhijit@））；表内无跟进记录。
+- **对方真实需求（有据）**：自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
+- **断点 / 为什么停在这里**：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 国内的工业switch | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 11 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

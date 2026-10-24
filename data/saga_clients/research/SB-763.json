@@ -80,5 +80,55 @@
   "tier": 30,
   "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息"
  },
- "email_hook": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?"
+ "email_hook": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 koichi_ito@ctsystem.com；主题多为「90W PoE Managed Switch、Marvell Software Function List」）",
+   "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「MC SFP FS POE 自己的牌子」；研究档 risks：台湾自研自产厂商：外采意愿低，仅二供/补缺"
+  },
+  "situation": "台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。",
+  "need": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
+  "breakpoint": "台湾自研自产厂商：外采意愿低，仅二供/补缺",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP FS POE 自己的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "90W PoE Managed Switch、Marvell Software Function List",
+    "why": "12 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

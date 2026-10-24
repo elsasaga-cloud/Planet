@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：阿联酋 ACIX ME（迪拜门禁与安防方案商：门禁 109 处、LPR、停车道闸、行人闸、自动化；表内国别误记沙特；「有 Utepo 的 / 主要是 CCTV」；KP Dipesh Patel（Sales Director）、Akkeef P（Operations Executive））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的；主要是CCTV）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-23 → 2025-10-27）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1145` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 akkeef@acixme.com, dipesh.p@acixme.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：门禁/安防集成商（阿联酋，Utepo 在用） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「有Utepo的；主要是CCTV」；研究档 risks：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
+- **现状一句话**：阿联酋 ACIX ME（迪拜门禁与安防方案商：门禁 109 处、LPR、停车道闸、行人闸、自动化；表内国别误记沙特；「有 Utepo 的 / 主要是 CCTV」；KP Dipesh Patel（Sales Director）、Akkeef P（Operations Executive））；表内 2 次跟进无回复。
+- **对方真实需求（有据）**：门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供
+- **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 有Utepo的；主要是CCTV | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 24 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

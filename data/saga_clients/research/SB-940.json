@@ -71,5 +71,55 @@
   "tier": 30,
   "why": "HRUI 在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 GIGALINK 标；MC/SFP 不重复报"
  },
- "email_hook": "For the managed PoE and industrial switch positions in the GIGALINK range, we can offer a Marvell L2+ platform (8-PoE + 2 SFP, DIN-rail 8-GE + 2 SFP managed) in your packaging from small lots, CE/RoHS; EAC by your side — which managed SKU would you want sampled first?"
+ "email_hook": "For the managed PoE and industrial switch positions in the GIGALINK range, we can offer a Marvell L2+ platform (8-PoE + 2 SFP, DIN-rail 8-GE + 2 SFP managed) in your packaging from small lots, CE/RoHS; EAC by your side — which managed SKU would you want sampled first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@giga-link.ru；主题多为「Industrial PoE Switch、OEM Core Switching Solution」）",
+   "type": "网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 14；用户表：「MC SFP 工业FS POE 有洪瑞的商业FS」；研究档 risks：Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@"
+  },
+  "situation": "俄罗斯 GIGALINK（网络设备品牌：MC、SFP、工业 FS、PoE；表内「有洪瑞（HRUI）的商业 FS」→ Q-33 口径：仅推 SmartByte/Marvell 线）；群发 8 次无回复。",
+  "need": "HRUI 在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 GIGALINK 标；MC/SFP 不重复报",
+  "breakpoint": "Q-33 口径：HRUI 在供，仅推 SmartByte/Marvell 线，避免渠道冲突；俄罗斯：结算/物流/合规风险；8 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "HRUI 在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 GIGALINK 标；MC/SFP 不重复报",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 工业FS POE 有洪瑞的商业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、OEM Core Switching Solution",
+    "why": "14 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

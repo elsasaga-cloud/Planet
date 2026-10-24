@@ -71,5 +71,55 @@
   "tier": 25,
   "why": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）"
  },
- "email_hook": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?"
+ "email_hook": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@basithamitech.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+   "type": "安防/自动化安装商（南非，Utepo 在用）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "南非 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 23；用户表：「工商业FS 有Utepo的」；研究档 risks：非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@"
+  },
+  "situation": "南非 Basithami Technology（报警系统安装、家庭自动化、空调、安防摄像安装；表内「工商业 FS 有 Utepo 的」「可以多跟进一下」）；群发 15 次无回复。",
+  "need": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+  "breakpoint": "非主攻区（T5，南非）；安装商（量小）；现供 Utepo 价格基准低；15 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "摄像/自动化配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the PoE switches in your camera and home-automation installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installations use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工商业FS 有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "23 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

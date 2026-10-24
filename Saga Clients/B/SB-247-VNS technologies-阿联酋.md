@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。（调研 2026-10-21；表内兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-05-10 → 2025-11-28）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-247` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 gafoor@vnstech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：阿联酋 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 28；用户表：「兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳」；研究档 risks：阿布扎比政府 / 关键设施项目守界（按单核）
+- **现状一句话**：阿布扎比（+971 2 666 7757）安防 / 网络集成与分销商（组合品牌 H3C、Huawei、AETEK、Network Optix、Rasilient、Irisity、Securicorp；2019 年度创新安防产品奖），Executive Director Abdul Gafoor：**与 AETEK 合作 5 年**，看了工业 2 光 8 管理 PoE 与商用 2 光 24 电，问 L2 还是 L3，会来深圳；20 次跟进无实质回复。
+- **对方真实需求（有据）**：工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。
+- **断点 / 为什么停在这里**：阿布扎比政府 / 关键设施项目守界（按单核）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 28 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

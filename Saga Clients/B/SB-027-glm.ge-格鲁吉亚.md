@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：格鲁吉亚安防与电信系统方案商 / 电商（消防报警、CCTV/NVR、门禁、Wi-Fi、PoE 设备 —— PoE 词频 245），在售 **ONV** PoE 交换机（ONV-H1064PSD、H1108PSD、H3108PS）并有自编号 GLMH1064PL；表内：ONV 工业 FS、自己的 logo（但网站标明来自 ONV）；15 次跟进无实质回复。（调研 2026-10-21；表内兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-10 → 2025-10-07）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-027` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@glm.ge；主题多为「10G L3 Managed Switch、Marvell Alleycat5 Solution」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：格鲁吉亚 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23；用户表：「兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV」；研究档 risks：ONV 价格基准低；无具名联系人
+- **现状一句话**：格鲁吉亚安防与电信系统方案商 / 电商（消防报警、CCTV/NVR、门禁、Wi-Fi、PoE 设备 —— PoE 词频 245），在售 **ONV** PoE 交换机（ONV-H1064PSD、H1108PSD、H3108PS）并有自编号 GLMH1064PL；表内：ONV 工业 FS、自己的 logo（但网站标明来自 ONV）；15 次跟进无实质回复。
+- **对方真实需求（有据）**：自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。
+- **断点 / 为什么停在这里**：ONV 价格基准低；无具名联系人
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：ONV的工业FS 自己的logo 但网站上说了产品来自ONV | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G L3 Managed Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -67,5 +67,49 @@
   "tier": 20,
   "why": "经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。"
  },
- "email_hook": "Mr. Sarker, you've imported PoE switches and media converters before — for a first mixed carton from us (8-PoE managed + gigabit MC), what quantities would make the Chittagong freight sensible?"
+ "email_hook": "Mr. Sarker, you've imported PoE switches and media converters before — for a first mixed carton from us (8-PoE managed + gigabit MC), what quantities would make the Chittagong freight sensible?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "孟加拉国 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks」；研究档 risks：域名失效、官方邮箱退信，仅 gmail"
+  },
+  "situation": "孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。",
+  "need": "经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。",
+  "breakpoint": "域名失效、官方邮箱退信，仅 gmail",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

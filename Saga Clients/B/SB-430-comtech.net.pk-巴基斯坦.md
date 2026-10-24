@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。（调研 2026-10-21；表内兴趣：闭路电视 安全 网站：没啥特别相关的东西）
 - **为什么是 B 级**：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 40 次（2021-03-18 → 2025-10-06）；最近一次客户回复：2022-08-11：问了其他的产品 提供不了
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-430` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；研究档 risks：Cisco 文化（品牌偏好）；南亚非主攻区；无回复
+- **现状一句话**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。
+- **对方真实需求（有据）**：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）
+- **断点 / 为什么停在这里**：Cisco 文化（品牌偏好）；南亚非主攻区；无回复
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
+  - 第一问（只问一个）：Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

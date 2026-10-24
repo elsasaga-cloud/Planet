@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。（调研 2026-10-21；表内兴趣：5 8口2.5G交换机 CKD模式）
 - **为什么是 B 级**：**调研后定级 B**（CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 2 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）；最近一次客户回复：2024-07-16：发邮件给他 他发需求
-- **P1（下一步唯一主推）**：STC-114XGDGP — 深挖对位：5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。；$44.0 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-114XGDGP — 5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-114` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」）** ｜ 类型：设备组装/贸易商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」；研究档 risks：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高
+- **现状一句话**：印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。
+- **对方真实需求（有据）**：5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。
+- **断点 / 为什么停在这里**：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高
+- **Saga 现在该推什么**：P1 **STC-114XGDGP**（30% 档，按主表（研究档 saga_fit））——5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -83,13 +83,13 @@
  "email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」）",
+   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；S/A 邮箱 0 封",
    "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "土耳其 非主攻",
+   "cadence": "一封",
    "evidence": "gmail_digest：out 0；用户表：「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；研究档 risks：微型、单量小；需求未表达；无后续跟进"
   },
   "situation": "土耳其巴勒克埃西尔 Gömeç 的本地安防安装商 Başaran Elektronik（2001 年成立，电子维修起家；服务 Edremit 海湾地区；CCTV、火灾报警、防盗报警、可视对讲；业主 Emrah Başaran（25 年电子行业）；Mithatpaşa Mh. Hasan Şen Sk. 23/30 Gömeç；+90 542 744 96 95；info@basaranelektronik.net）。ISAF 记录：拿了彩页、没说要什么产品；WhatsApp 已加；无后续跟进。微型安装商 → B 25%，低价 PoE 入门。",
@@ -104,9 +104,9 @@
    "gaps": []
   },
   "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
    "one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
   },
   "facts": [
@@ -120,7 +120,7 @@
    }
   ],
   "proof_gaps": [
-   "无邮件往来"
+   "WhatsApp 往来未入库"
   ],
   "draft_en": null,
   "as_of": "2026-10-24"

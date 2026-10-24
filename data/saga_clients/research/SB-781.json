@@ -82,5 +82,55 @@
   "tier": 20,
   "why": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
  },
- "email_hook": "Daniel, for the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?"
+ "email_hook": "Daniel, for the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 4 封被打开，0 回；收件 bilgin@radioparts.com.au, danielh@radioparts.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "电子产品综合分销商（澳洲，含 CCTV 品类）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 28，Opened 标签 4（Simon 群发追踪）；用户表：「MC switch 销售平台」；研究档 risks：综合分销商：交换机为配套品类，量小"
+  },
+  "situation": "澳大利亚 Radio Parts（1935 年起的电子产品供应商：HiFi/TV、AV 分配、专业音响、天线卫星、CB 电台、CCTV/对讲/报警、家电照明；站内 Ubiquiti / TP-Link；表内「MC switch 销售平台」；KP Daniel H（Purchasing））；群发 14 次无回复。",
+  "need": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+  "breakpoint": "综合分销商：交换机为配套品类，量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV/对讲品类配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → bilgin@radioparts.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Daniel, for the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC switch 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "28 封 / 4 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：全线产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-845` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@konturm.ru；主题多为「OEM Core Switching Solution、10G Enterprise SFP Switch」）** ｜ 类型：数据/有线电视网络集成兼设备商（俄罗斯） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「全线产品」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@
+- **现状一句话**：俄罗斯 Контур-М Kontur-M（多业务数据与电视传输网络：设备、设计、安装；SFP/FTTH/有线电视头端（EQ8096、DTC-720）；品牌 D-Link、Cisco、Huawei、Dahua、BDCOM；表内「全线产品」）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供
+- **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；BDCOM/D-Link 价格基准低；仅 info@
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——运营商/楼宇接入配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；SFP/头端设备 Saga 不供
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the access switches in your multiservice data and CATV network projects, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; EAC by your side — which access SKU do your projects use most alongside BDCOM and D-Link?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 全线产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | OEM Core Switching Solution、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

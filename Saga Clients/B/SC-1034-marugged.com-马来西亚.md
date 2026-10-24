@@ -36,10 +36,25 @@ updated: 2026-10-24
 - **是谁**：马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：Moxa）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-005 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1034` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：马来西亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1
+- **现状一句话**：马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
+- **对方真实需求（有据）**：对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：
+- **断点 / 为什么停在这里**：无回复
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

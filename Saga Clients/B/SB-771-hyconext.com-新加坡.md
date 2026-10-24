@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：新加坡 Hyconext（自有品牌网络产品：PoE 交换机 / 以太网交换机 / 数据中心交换机 / 光模块，多千兆型号 HC8MT2XP-UP、HC16MT6XP-UP-PRO、HC16MT6XPAS-UP；表内「商业交换机」）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：商业交换机）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-29 → 2025-10-20）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform (8-PoE + 2×2.5G SFP L2+ now, 2.5G-port PoE on request) from small lots in your housing — which SKU would you consider dual-sourcing first?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-771` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 sales@hyconext.com, support@hyconext.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）** ｜ 类型：自有品牌网络产品商（新加坡，2.5G/10G 为主） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：新加坡 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「商业交换机」；研究档 risks：产品线以 2.5G/10G 多千兆为主：Saga 2.5G 电口 PoE 型号待核
+- **现状一句话**：新加坡 Hyconext（自有品牌网络产品：PoE 交换机 / 以太网交换机 / 数据中心交换机 / 光模块，多千兆型号 HC8MT2XP-UP、HC16MT6XP-UP-PRO、HC16MT6XPAS-UP；表内「商业交换机」）；群发 14 次无回复。
+- **对方真实需求（有据）**：自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）
+- **断点 / 为什么停在这里**：产品线以 2.5G/10G 多千兆为主：Saga 2.5G 电口 PoE 型号待核
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform (8-PoE + 2×2.5G SFP L2+ now, 2.5G-port PoE on request) from small lots in your housing — which SKU would you consider dual-sourcing first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业交换机 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 25 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

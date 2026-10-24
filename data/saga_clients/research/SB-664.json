@@ -63,5 +63,55 @@
   "tier": 25,
   "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）"
  },
- "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?"
+ "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 procurement@marzetek.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "南非 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「4+24, 4+48 10G光；27 61 836 5820 没尝试加」；研究档 risks：非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
+  },
+  "situation": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
+  "need": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）",
+  "breakpoint": "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4+24, 4+48 10G光；27 61 836 5820 没尝试加",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

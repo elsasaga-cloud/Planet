@@ -66,5 +66,55 @@
   "tier": 25,
   "why": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。"
  },
- "email_hook": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab."
+ "email_hook": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 rizaki@heitech.com.my；主题多为「Industrial PoE Switch、Passive PoE Switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "马来西亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的」；研究档 risks：大型上市公司采购流程长、倾向品牌；政府项目守界"
+  },
+  "situation": "马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。",
+  "need": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。",
+  "breakpoint": "大型上市公司采购流程长、倾向品牌；政府项目守界",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Industrial PoE Switch、Passive PoE Switch",
+    "why": "8 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

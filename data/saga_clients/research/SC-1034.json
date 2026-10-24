@@ -74,5 +74,47 @@
   "tier": 20,
   "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求："
  },
- "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?"
+ "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "马来西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 1"
+  },
+  "situation": "马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "need": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
+  "breakpoint": "无回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "1 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

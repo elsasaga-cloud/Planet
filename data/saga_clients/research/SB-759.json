@@ -96,5 +96,55 @@
    "url": "https://ccd.au/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 4 封被打开，0 回；收件 mk@ccdact.com, sales@ccdact.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+   "type": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 31，Opened 标签 4（Simon 群发追踪）；用户表：「MC SFP 自己的牌子 标价较高」；研究档 risks：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价"
+  },
+  "situation": "澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。",
+  "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）",
+  "breakpoint": "SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → mk@ccdact.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 自己的牌子 标价较高",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 4 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

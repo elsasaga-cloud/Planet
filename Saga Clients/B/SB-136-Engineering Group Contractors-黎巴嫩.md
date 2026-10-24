@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。（调研 2026-10-21；表内兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC，说之前用过，不过用的基本都是视频和数据，其他的功能用的少 3，问了2光10电，基本都懂，问了BNC转网 整体上比较专业）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 19 次（2024-05-10 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-136` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 egc@egc-lb.com；主题多为「10G L3 Managed Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：黎巴嫩 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 22；用户表：「兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网」；研究档 risks：黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款
+- **现状一句话**：黎巴嫩（+961 3）弱电 / 电气承包商：防雷接地、消防报警（EN54 网络卡）、监控安防、网络设计安装、PABX、智能家居 / BMS、自动门、应急照明；GM Mohammad Hammoud 谈过 30 台交换机环网、VC（视频 / 数据光端机）、2 光 10 电、BNC 转网，「基本都懂」；WA 19 次无实质回复。表内国家为阿联酋，域名 / 电话指向黎巴嫩（country_fix 黎巴嫩）。
+- **对方真实需求（有据）**：30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。
+- **断点 / 为什么停在这里**：黎巴嫩：外汇 / 银行危机 → 仅 T/T 预付或第三国付款
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——30 节点环网 → 工业管理 ERPS 机 STI-288GPM（$82.2 @25%）；2 光 10 电 ≈ STI-288GPM / 商用 STC-28DGGPM；BNC 转网不供。
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+  - 第一问（只问一个）：Mr. Hammoud, for the 30-switch ring you described — our managed industrial 8-PoE + 2-SFP runs ERPS (<50 ms) and is $82 EXW each at 1 pc; payment T/T in advance via any bank you can use. Is the ring for cameras or a mixed data site?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G L3 Managed Switch、24 Port PoE Managed Switch | 22 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

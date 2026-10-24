@@ -71,5 +71,49 @@
   "tier": 30,
   "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W"
  },
- "email_hook": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?"
+ "email_hook": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「自己的型号 商业POE」）",
+   "type": "俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「自己的型号 商业POE」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）"
+  },
+  "situation": "俄罗斯 TRASSIR（DSSL 旗下视频监控与智能视频分析平台品牌：面向企业/设计院/分销商，产品含网络与线缆设备、PoE 交换机（自有型号）；表内「自己的型号，商业 PoE」）；表内无跟进记录。",
+  "need": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
+  "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "自己的型号 商业POE",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

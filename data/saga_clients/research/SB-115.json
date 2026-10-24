@@ -87,5 +87,55 @@
   "tier": 25,
   "why": "「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。"
  },
- "email_hook": "Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?"
+ "email_hook": "Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 luke@vernetzen.com.au；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「兴趣：4光8电 4光16电 10G光带BT」；研究档 risks：澳洲 RCM 认证（CE 基础可申报，需客户自认证）"
+  },
+  "situation": "澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。",
+  "need": "「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。",
+  "breakpoint": "澳洲 RCM 认证（CE 基础可申报，需客户自认证）",
+  "saga_now": {
+   "p1": "STI-41616XGGPM-4BT",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：4光8电 4光16电 10G光带BT",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Booster PoE Switch、Marvell Industrial Alert System",
+    "why": "12 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。（调研 2026-10-21；表内兴趣：从uponcomm买了很多模块）
 - **为什么是 B 级**：**调研后定级 B**（品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：— — 深挖对位：待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-127` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下」；研究档 risks：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
+- **现状一句话**：菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。
+- **对方真实需求（有据）**：待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
+- **断点 / 为什么停在这里**：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
+- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit））——待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | 24 Port Fiber Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。（调研 2026-10-21；表内兴趣：网站上介绍比较具体）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 13 次（2024-04-22 → 2025-06-21）；最近一次客户回复：57：EN50155
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-031` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；研究档 risks：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
+- **现状一句话**：班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。
+- **对方真实需求（有据）**：其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。
+- **断点 / 为什么停在这里**：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

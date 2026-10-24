@@ -88,5 +88,55 @@
    "url": "https://tdtorus.ru/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 7 封 2025→2026，1 次记录打开，0 回；收件 sales@tdtorus.ru；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+   "type": "安防分销网店 + 自有型号商业 PoE（OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号」；研究档 risks：俄罗斯：结算/物流经第三国；非主攻区（T5）"
+  },
+  "situation": "俄罗斯 ТОРУС（Torus；视频监控与安防设备官方供应商网店：多品牌、11 个大区仓库、技术支持与服务中心；Dahua 词频 56；品类页 PoE 交换机 / PoE 分离器 / 延长器 / 注入器；表内「有 Utepo 的、丰润达的工业 FS，很多配件，商业 PoE 自己的型号」）；群发 2 次无回复。",
+  "need": "商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）",
+  "breakpoint": "俄罗斯：结算/物流经第三国；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有Utepo的；有丰润达的工业FS 很多配件 商业POE 自己的型号",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "7 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

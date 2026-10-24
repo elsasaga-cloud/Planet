@@ -67,5 +67,49 @@
   "tier": 30,
   "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。"
  },
- "email_hook": "Daniel, on your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?"
+ "email_hook": "Daniel, on your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "埃及 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证"
+  },
+  "situation": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
+  "need": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
+  "breakpoint": "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

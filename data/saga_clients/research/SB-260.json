@@ -65,5 +65,49 @@
   "tier": 25,
   "why": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。"
  },
- "email_hook": "Ahmed, from ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?"
+ "email_hook": "Ahmed, from ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "利比亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」；研究档 risks：利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他"
+  },
+  "situation": "利比亚的黎波里（+218 21）IT / 网络公司 Arcan，GM Ahmed Ezzarrough，2025 伊斯坦布尔 ISAF 展接触：问 8 光 8 电价格、要价格表、要工业级 PoE 管理交换机；WA 无实质回复。",
+  "need": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。",
+  "breakpoint": "利比亚：付款需 T/T 预付或迪拜中转；物流经土耳其 / 马耳他",
+  "saga_now": {
+   "p1": "STI-488DGGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "8 光 8 电 = Saga STI-488DGGGM（8 SFP + 8 GE + 4×10G SFP+ 工业 L2+，$332.6 @25%）；工业管理 PoE → STI-288GPM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

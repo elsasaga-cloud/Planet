@@ -35,26 +35,27 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：不动 — —
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-792` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshk」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：TR 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektron」；研究档 risks：国家与主体待核；无邮箱；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektron」；研究档 risks：国家与主体待核；无邮箱；无后续跟进
 - **现状一句话**：ISAF 记录：Toshko Todorov（「Elektronik LTD」，无邮箱/域名）——Ady 加了 WhatsApp，要商业级 PoE 交换机和 catalog，「不要推商业级的」（原文自相矛盾，按「只要商用级、不要工业级」理解待核），同事新桥拿了他们的彩页；无后续跟进。姓名为保加利亚式（Toshko Todorov）→ 国家待核（可能为保加利亚公司）；仅表内信息。
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：国家与主体待核；无邮箱；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
+  - 第一问（只问一个）：Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

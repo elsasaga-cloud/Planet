@@ -73,5 +73,55 @@
   "tier": 25,
   "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。"
  },
- "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
+ "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100」；研究档 risks：100G–400G 模块需求 Saga 无"
+  },
+  "situation": "班加罗尔工程型云 / 网络安全 / 网络与托管服务商（+91 95133 70890），Director Ramachandra R、Executive Director Ankit Arora（BTON 带来）：问环网收敛 <20 ms、2 光 10 电非 PoE 价格、4 光 10 电 10G、bypass 接线图、100G–400G 模块芯片方案、WDM；无跟进记录。技术型买家。",
+  "need": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
+  "breakpoint": "100G–400G 模块需求 Saga 无",
+  "saga_now": {
+   "p1": "STI-280GM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 10 电非 PoE 管理 ≈ STI-280GM（2 SFP + 8 GE 管理，$71.0 @25%，ERPS <20 ms 可测）；4 光 10 电 10G → STI-480XGGM；bypass → SmartByte FBP 系列（注明）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、90W PoE Managed Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

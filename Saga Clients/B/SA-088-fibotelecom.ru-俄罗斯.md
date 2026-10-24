@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。（调研 2026-10-21；表内兴趣：光模块 PON；SFP MC(光路的)  DPtek客户   后边链接）
 - **为什么是 B 级**：**调研后定级 B**（DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-088` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 6 封 2024→2025，无记录打开，0 回；收件 info@fibotelecom.ru；主题多为「PoE Switch、48 port managed switch」）** ｜ 类型：运营商/光传输采购（待补证） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / http」；研究档 risks：俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录
+- **现状一句话**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过
+- **对方真实需求（有据）**：OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X
+- **断点 / 为什么停在这里**：俄罗斯结算/物流；已有稳定中国供应商（飞宇等）；无互动记录
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/k | 表内备注 | `用户表` |
+| 2025 | 去 | S 群发 | PoE Switch、48 port managed switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

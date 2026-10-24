@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,10 +34,28 @@ updated: 2026-10-23
 - **是谁**：印度古吉拉特（+91 98251）经销商 Jayesh Patel，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回复 Yes 并发名片，此后仅「Hi」。（调研 2026-10-21；表内兴趣：buy mc from local market want to import MC）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2024-01-29 → 2025-06-21）；最近一次客户回复：2024-11-18：Hi
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-256` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片」；研究档 risks：印度进口小批量成本高（BIS 认证风险）
+- **现状一句话**：印度古吉拉特（+91 98251）经销商 Jayesh Patel，当前从本地市场买光纤收发器、想直接进口 MC；2024-04 对 10G MC 回复 Yes 并发名片，此后仅「Hi」。
+- **对方真实需求（有据）**：进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。
+- **断点 / 为什么停在这里**：印度进口小批量成本高（BIS 认证风险）
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：buy mc from local market want to import MC；回复：Yes, 发了右边的名片 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -213,12 +231,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

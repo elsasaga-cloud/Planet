@@ -65,5 +65,49 @@
   "tier": 25,
   "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）"
  },
- "email_hook": "Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?"
+ "email_hook": "Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5」；S/A 邮箱 0 封",
+   "type": "—",
+   "sieve": "5（表内成单/样品单）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5」；研究档 risks：ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动"
+  },
+  "situation": "新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。",
+  "need": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）",
+  "breakpoint": "ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在（Simon）",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

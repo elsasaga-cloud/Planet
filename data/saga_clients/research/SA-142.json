@@ -84,5 +84,55 @@
   "tier": 25,
   "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
  },
- "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
+ "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）",
+   "type": "经销/集成商",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "菲律宾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+  },
+  "situation": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
+  "need": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+  "breakpoint": "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买了迈威的 / 做项目的 / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Media Converter",
+    "why": "1 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

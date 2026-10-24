@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。（调研 2026-10-21；表内兴趣：卖Oring的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-07-03 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-641` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 craigk@jeatech.com.au, sales@jeatech.com.au；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」）** ｜ 类型：工业电子分销商（澳洲，ORing 工业线） ｜ 筛子：1~2（1 次打开） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「卖Oring的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报
+- **现状一句话**：澳大利亚 JEA Technologies（工业电子外设分销：4G/5G 工业蜂窝路由（Teltonika / Milesight）、工业面板 PC、电子纸、HMI；在售 ORing IDGPS-C1042GP（表内「卖 ORing 的」）；KP Craig Kinder（Manager，craigk@）、Tony Ioannidis（Operations Manager））；群发 7 次无回复。
+- **对方真实需求（有据）**：在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换
+- **断点 / 为什么停在这里**：非主攻区（T5）；RCM 合规由客户申报
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 卖Oring的 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 8 Port Industrial PoE Switch、Industrial PoE Switch | 19 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

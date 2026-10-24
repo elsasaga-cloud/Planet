@@ -101,5 +101,49 @@
   "tier": 25,
   "why": "IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。"
  },
- "email_hook": "Mogeni, back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?"
+ "email_hook": "Mogeni, back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：有用 需要和team沟通一下是否拿样」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "肯尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「回复：有用 需要和team沟通一下是否拿样」；研究档 risks：东非付款：建议 T/T 预付 / PayPal 小单"
+  },
+  "situation": "肯尼亚内罗毕电气工程 + 安防 + 软件集成商（11–50 人，10 年以上），Hikvision 战略伙伴，NCA/CA 认证 ICT 承包商；技术总监 Mogeni Enock 2024 年 3 月回复「有用，需与团队沟通是否拿样」，需求 = 光纤上行 IP 摄像机接入。",
+  "need": "IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。",
+  "breakpoint": "东非付款：建议 T/T 预付 / PayPal 小单",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "回复：有用 需要和team沟通一下是否拿样",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

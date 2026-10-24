@@ -46,5 +46,49 @@
   "tier": 25,
   "why": "其感兴趣的 24 光 combo / 2.5G-10G 汇聚 → Saga STC-424XGGM（24 GE + 4×10G SFP+）；mini 工业机备选 STI-050GE。"
  },
- "email_hook": "（无邮箱；WhatsApp 一句：You mentioned the 24-fibre combo unit — if that project is live, our 24-port + 4×10G SFP+ aggregation switch quotes from 1 pc EXW.）"
+ "email_hook": "（无邮箱；WhatsApp 一句：You mentioned the 24-fibre combo unit — if that project is live, our 24-port + 4×10G SFP+ aggregation switch quotes from 1 pc EXW.）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "赞比亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求」；研究档 risks：身份不明、无邮箱；只能 WhatsApp"
+  },
+  "situation": "赞比亚 WhatsApp 客户，17 次跟进 5 次实质回复：对 2.5G/10G 有兴趣但已有供应商；24 光 combo「有兴趣稍后谈」；mini 工业机「近期可能有需求」；无邮箱无公司名。",
+  "need": "其感兴趣的 24 光 combo / 2.5G-10G 汇聚 → Saga STC-424XGGM（24 GE + 4×10G SFP+）；mini 工业机备选 STI-050GE。",
+  "breakpoint": "身份不明、无邮箱；只能 WhatsApp",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其感兴趣的 24 光 combo / 2.5G-10G 汇聚 → Saga STC-424XGGM（24 GE + 4×10G SFP+）；mini 工业机备选 STI-050GE。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

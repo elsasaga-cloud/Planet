@@ -84,5 +84,49 @@
   "tier": 20,
   "why": "在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo"
  },
- "email_hook": "Next to the Hasivo PoE switches you sell, we can supply a Marvell-based 8-port PoE+ L2+ managed switch (2 SFP uplinks) and a budget unmanaged 8-port PoE line, both in neutral packing from small lots — which price band sells more for you, the unmanaged or the managed PoE?"
+ "email_hook": "Next to the Hasivo PoE switches you sell, we can supply a Marvell-based 8-port PoE+ L2+ managed switch (2 SFP uplinks) and a budget unmanaged 8-port PoE line, both in neutral packing from small lots — which price band sells more for you, the unmanaged or the managed PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」）",
+   "type": "电商/网店（安防 + 网络）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」；研究档 risks：越南电商、Hasivo 价格带（极低）：毛利空间小；非主攻区（T5）"
+  },
+  "situation": "越南电商 Siêu Thị Viễn Thông（官网越南语：正品电信 / 安防 / 网络 / 办公设备，全国发货；首页 Hikvision / Dahua / ZKTeco 为主，站内 TP-Link、Ubiquiti、Ruijie、Grandstream；表内「商业 PoE 主要是 Hasivo 的」= 在卖深圳白牌 PoE）；表内无跟进记录。",
+  "need": "在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo",
+  "breakpoint": "越南电商、Hasivo 价格带（极低）：毛利空间小；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在卖 Hasivo 商业 PoE（深圳白牌，价格极低）→ 以 Marvell 方案的 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）做「可管理升级位」，非管理位用 HRUI STC-028GP（$24.2）对价 Hasivo",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

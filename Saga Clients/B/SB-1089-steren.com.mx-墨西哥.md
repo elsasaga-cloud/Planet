@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业POE 自己的型号）
 - **为什么是 B 级**：-6 E 冷名单（按国家群发）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1089` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 12 封 2024→2025，无记录打开，0 回；收件 info@steren.com.mx；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）** ｜ 类型：墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：墨西哥 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12；用户表：「用的洪瑞的 商业POE 自己的型号」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
+- **现状一句话**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
+- **断点 / 为什么停在这里**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 用的洪瑞的 商业POE 自己的型号 | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | Industrial PoE Switch、90W PoE Managed Switch | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

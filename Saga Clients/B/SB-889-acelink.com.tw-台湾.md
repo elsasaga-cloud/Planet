@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：商业POE POE配件较多）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-18 → 2025-10-20）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → contact@acelink.com.tw 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-889` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A/S 邮箱 14 封 2024→2026，其中 3 封被打开，0 回；收件 contact@acelink.com.tw；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：台湾网络 ODM/品牌商（台湾厂商口径二供） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：台湾 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 14，Opened 标签 3（Simon 群发追踪）；用户表：「商业POE POE配件较多」；研究档 risks：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
+- **现状一句话**：台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。
+- **对方真实需求（有据）**：台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）
+- **断点 / 为什么停在这里**：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）
+- **下一步（具体）**：2026-11　A 邮箱 → contact@acelink.com.tw　短信一问（email_hook）
+  - 第一问（只问一个）：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业POE POE配件较多 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 14 封 / 3 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

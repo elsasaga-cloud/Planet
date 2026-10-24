@@ -32,10 +32,28 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 XVI（xvi.ru / dexi.ru；自有品牌视频监控：IP/AHD 摄像机、PoE 交换机 SWP1104 / SWP1508 / SWP1016 / SWP1016M / SWP1024、配件与软件，面向民用/商用/工业场所；表内「工商业 FS 自己的型号，很多种外壳，HiSource 的」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：工商业FS 自己的型号 很多种外壳）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1011` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工商业FS 自己的型号 很多种外壳」）** ｜ 类型：俄罗斯安防品牌商（自有 SWP 系列 PoE，HiSource 代工迹象，OEM 采购） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工商业FS 自己的型号 很多种外壳」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）
+- **现状一句话**：俄罗斯 XVI（xvi.ru / dexi.ru；自有品牌视频监控：IP/AHD 摄像机、PoE 交换机 SWP1104 / SWP1508 / SWP1016 / SWP1016M / SWP1024、配件与软件，面向民用/商用/工业场所；表内「工商业 FS 自己的型号，很多种外壳，HiSource 的」）；表内无跟进记录。
+- **对方真实需求（有据）**：自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择
+- **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工商业FS 自己的型号 很多种外壳 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

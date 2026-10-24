@@ -105,5 +105,55 @@
   "tier": 25,
   "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。"
  },
- "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
+ "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "阿尔及利亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email」；研究档 risks：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）"
+  },
+  "situation": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
+  "need": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
+  "breakpoint": "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

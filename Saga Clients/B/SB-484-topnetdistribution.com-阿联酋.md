@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：分销商 3旺等；分销很多牌子（3旺、Nsgate））
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；$78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-484` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 athira@topnet.ae, ganesan@topnet.ae；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「分销商 3旺等；分销很多牌子（3旺、Nsgate）」；研究档 risks：非主攻区（T5，阿联酋）
+- **现状一句话**：阿联酋 Topnet Distribution（ICT 分销：经 SI / 电信安装商 / VAR 落地项目；产品含工业光纤交换机（B+B）、MC、PoE、数据中心；表内「分销很多牌子（三旺、Nsgate）」；KP Kandasamy Ganesan（Managing Director，ganesan@）、Athira Babu（Sales Engineer））；群发 2 次无回复。
+- **对方真实需求（有据）**：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
+- **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Mr. Ganesan, alongside the 3onedata and Nsgate industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing) from small lots, EXW — which industrial model moves most through your SI partners?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 分销商 3旺等；分销很多牌子（3旺、Nsgate） | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

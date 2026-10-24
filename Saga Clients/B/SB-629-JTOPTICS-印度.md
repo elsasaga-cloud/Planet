@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。（调研 2026-10-21；表内兴趣：Simon之前联系了很久了 价格敏感  让发工业MC的价格 报了25说贵  说是在和另外一个来展会的公司合作，应该是BTON（百通））
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-629` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 vijay@jtoptics.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）」；研究档 risks：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
+- **现状一句话**：印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。
+- **对方真实需求（有据）**：工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
+- **断点 / 为什么停在这里**：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通） | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、16 Port Ethernet Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。（调研 2026-10-21；表内兴趣：FS SFP模块 MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-06-16 → 2025-10-22）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → kennedy@alston-systems.com 短信一问（email_hook）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1036` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：读而不回（A 邮箱 19 封 2025→2026，其中 3 封被打开，0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：布线系统品牌商（阿联酋，MC/FS 为配套） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 19，Opened 标签 3（Simon 群发追踪）；用户表：「FS SFP模块 MC」；研究档 risks：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套
+- **现状一句话**：阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。
+- **对方真实需求（有据）**：自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供
+- **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供
+- **下一步（具体）**：2026-11　A 邮箱 → kennedy@alston-systems.com　短信一问（email_hook）
+  - 第一问（只问一个）：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | FS SFP模块 MC | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 3 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

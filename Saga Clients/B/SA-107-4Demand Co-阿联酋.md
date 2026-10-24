@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。（调研 2026-10-21；表内兴趣：Cisco SFP-10G-LR 25个）
 - **为什么是 B 级**：**调研后定级 B**（需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-107` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 2 封 2024→2026，无记录打开，0 回；收件 procurement@4demand.co.uk；主题多为「Marvell Managed Commercial Switches、8 Port Industrial PoE Switch」）** ｜ 类型：IT 贸易商 ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe」；研究档 risks：微型贸易公司，付款能力与项目真实性待核
+- **现状一句话**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。
+- **对方真实需求（有据）**：其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询
+- **断点 / 为什么停在这里**：微型贸易公司，付款能力与项目真实性待核
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | Marvell Managed Commercial Switches、8 Port Industrial PoE Switch | 2 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

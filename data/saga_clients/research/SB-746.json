@@ -97,5 +97,55 @@
   "tier": 30,
   "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。"
  },
- "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?"
+ "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 info@andatelecom.com, info@andatelecomindia.com；主题多为「48 Port PoE Managed Switch、24V poe switch」）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）"
+  },
+  "situation": "印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。",
+  "need": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。",
+  "breakpoint": "EDFA 为其兴趣点（Saga 无）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "48 Port PoE Managed Switch、24V poe switch",
+    "why": "9 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

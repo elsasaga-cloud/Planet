@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。（调研 2026-10-21；表内兴趣：价格表等各种信息）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了48口
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：无明确口型；入门 8 PoE 管理型。；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确口型；入门 8 PoE 管理型。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-633` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 4 封 2024→2025，无记录打开，0 回；收件 ahmadariyanto105@gmail.com；主题多为「16 Port PoE Managed Switch、Industrial fiber switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口」；研究档 risks：身份不明；泛要价目
+- **现状一句话**：印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。
+- **对方真实需求（有据）**：无明确口型；入门 8 PoE 管理型。
+- **断点 / 为什么停在这里**：身份不明；泛要价目
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——无明确口型；入门 8 PoE 管理型。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口 | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | 16 Port PoE Managed Switch、Industrial fiber switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

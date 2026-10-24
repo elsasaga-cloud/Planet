@@ -86,5 +86,55 @@
   "tier": 20,
   "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做"
  },
- "email_hook": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?"
+ "email_hook": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 danny@alliedasia.com.sg, info@alliedasia.com.sg；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "连接产品网店/分销（新加坡，无工业级需求）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新加坡 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的」；研究档 risks：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做"
+  },
+  "situation": "新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。",
+  "need": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做",
+  "breakpoint": "需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

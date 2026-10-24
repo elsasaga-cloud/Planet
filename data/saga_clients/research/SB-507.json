@@ -69,5 +69,55 @@
   "tier": 30,
   "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）"
  },
- "email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?"
+ "email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "韩国配件品牌商（NEXI，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱"
+  },
+  "situation": "韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。",
+  "need": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）",
+  "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → scale@goriver.co.kr",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 自己的品牌 NEXi",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

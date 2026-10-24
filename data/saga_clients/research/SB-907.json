@@ -102,5 +102,55 @@
    "url": "https://ifocusshop.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 focus.sys@hotmail.com；主题多为「Industrial PoE Switch、10G Media Converter」）",
+   "type": "安防集成/经销（CCTV 安装为主）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「FS 在用Itoonertech商业POE 很多其他的牌子 产品」；研究档 risks：芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）"
+  },
+  "situation": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
+  "need": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）",
+  "breakpoint": "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Media Converter",
+    "why": "20 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

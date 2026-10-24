@@ -59,5 +59,55 @@
   "tier": 20,
   "why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM"
  },
- "email_hook": "You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?"
+ "email_hook": "You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（S 邮箱 2 封 2024，其中 2 封被打开，0 回；收件 usman2c@hotmail.com, usman65@gmail.com；被打开主题「Information」）",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price」；研究档 risks：只要 RMB 最低价，利润薄"
+  },
+  "situation": "巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。",
+  "need": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM",
+  "breakpoint": "只要 RMB 最低价，利润薄",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → usman2c@hotmail.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Information",
+    "why": "2 封 / 2 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

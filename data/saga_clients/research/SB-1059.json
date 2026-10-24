@@ -84,5 +84,55 @@
   "tier": 30,
   "why": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）"
  },
- "email_hook": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?"
+ "email_hook": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 34 封 2024→2026，无记录打开，0 回；收件 gunkim@c4line.com, info@c4line.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+   "type": "IP 延长器制造商（韩国，PoE 交换机为配套）",
+   "sieve": "1（只收到群发）",
+   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 34；用户表：「PoE相关」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触"
+  },
+  "situation": "韩国 C4Line（IP 延长器与通信设备先驱：自研自产 Ethernet over Coax/UTP/2-Wire 工业调制解调器，千兆/百兆/无线混合延长器；KP Sung Kim（President）、Gun Kim（OEM/ODM Product Manager）；表内「PoE 相关」「可以尝试多跟进一下」）；群发 23 次无回复。",
+  "need": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；自研厂商（PoE 交换机仅为配套）；23 次无回复 → 改向 OEM/ODM PM 具名首触",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "延长器配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 C4Line 标；延长器类 Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Gun, to complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE相关",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "why": "34 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

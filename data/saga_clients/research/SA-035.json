@@ -83,5 +83,49 @@
   "tier": 25,
   "why": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核"
  },
- "email_hook": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
+ "email_hook": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；S/A 邮箱 0 封",
+   "type": "系统集成 + 分销（电信/IT/国防）",
+   "sieve": "5（表内成单/样品单）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；研究档 risks：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期"
+  },
+  "situation": "巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。",
+  "need": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核",
+  "breakpoint": "南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期",
+  "saga_now": {
+   "p1": "STC-28GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在（Simon）",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

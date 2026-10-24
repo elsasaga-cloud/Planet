@@ -65,5 +65,55 @@
   "tier": 25,
   "why": "无口型；通用 8 PoE 管理机入口。"
  },
- "email_hook": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only."
+ "email_hook": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 deon@brigit.co.za, lyle@brigit.co.za；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "南非 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog」；研究档 risks：无具体需求；WA 无回复"
+  },
+  "situation": "南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。",
+  "need": "无口型；通用 8 PoE 管理机入口。",
+  "breakpoint": "无具体需求；WA 无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "无口型；通用 8 PoE 管理机入口。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+    "why": "17 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

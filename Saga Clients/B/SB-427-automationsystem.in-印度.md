@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。（调研 2026-10-21；表内兴趣：从ONV买 几个台湾品牌）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-10 → 2025-10-02）；最近一次客户回复：2025-04-10：ds
-- **P1（下一步唯一主推）**：STI-244GP — 深挖对位：其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；$35.2 USD EXW（20% 档，SmartByte LT-IS3006GP-2GX4GT 196 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-427` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 13 封 2024，无记录打开，0 回；收件 infoautomation18@gmail.com；主题多为「10G media converter、Web managed switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS
+- **现状一句话**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。
+- **对方真实需求（有据）**：其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
+- **断点 / 为什么停在这里**：ONV 价格基准低；印度 BIS
+- **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，按主表（研究档 saga_fit））——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：从ONV买 几个台湾品牌；回复：ds | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 10G media converter、Web managed switch | 13 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

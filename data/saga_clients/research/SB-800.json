@@ -69,5 +69,55 @@
   "tier": 25,
   "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
  },
- "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
+ "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 kumar@maxitulin.com；主题多为「L3 managed PoE Switch、24 port poe switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "马来西亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌」；研究档 risks：Cisco/Aruba 主导项目；无跟进"
+  },
+  "situation": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+  "need": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+  "breakpoint": "Cisco/Aruba 主导项目；无跟进",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "L3 managed PoE Switch、24 port poe switch",
+    "why": "8 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

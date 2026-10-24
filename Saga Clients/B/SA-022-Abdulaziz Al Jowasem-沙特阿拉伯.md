@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,28 @@ updated: 2026-10-23
 - **是谁**：用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。（调研 2026-10-21；表内兴趣：谈合作，看了中科德能的工业FS还有金升阳的工业电源）
 - **为什么是 B 级**：**调研后定级 B**（无公司实体可核实（无域名/邮箱），无法判断体量与渠道属性；WhatsApp 在手可慢跟，先问清公司名与网站再定级。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 20 次（2024-03-28 → 2025-10-27）；最近一次客户回复：2024-07-16：暂时没需求
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-022` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封** ｜ 类型：未知（疑为个体贸易/集成） ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：沙特阿拉伯 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；研究档 risks：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）
+- **现状一句话**：用户表：谈合作，看了中科德能的工业 FS 和金升阳的工业电源；WhatsApp 已加，1 次实质回复，20 次推送。无公司实体信息，网页调研无从下手。
+- **对方真实需求（有据）**：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）
+- **断点 / 为什么停在这里**：无公司主体与邮箱；中东非主攻区；沙特清关需 SABER/SASO（按个案）
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$59.8）对应其看过的工业 FS；配 48 V DIN 电源（SmartByte 配件另询）；管理型 STI-288DGGPM（$145.7）
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
+  - 第一问（只问一个）：Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -225,12 +243,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 94）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 94）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,27 @@ updated: 2026-10-23
 - **是谁**：越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。（调研 2026-10-21；表内兴趣：16 24 32 port POE Switch）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 10 次（2024-04-29 → 2025-01-01）；最近一次客户回复：2024-12-13：1216email发了22mini
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-581` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 semtec2017@gmail.com；主题多为「48 Port PoE Managed Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini」；研究档 risks：越南低价市场；gmail
+- **现状一句话**：越南公司 Tiên Phong CP（Trung，gmail semtec2017），需求 16/24/32 口 PoE 交换机；2025-11 收 48 口邮件、2025-12 收 2+2 mini 邮件；无域名。
+- **对方真实需求（有据）**：16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。
+- **断点 / 为什么停在这里**：越南低价市场；gmail
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——16/24 口 PoE → Saga STC-424DGGPM-280W（$134.5/140.1/145.7）；16 口 STC-2216GPM（HRUI 列表 $137.5）；32 口无（24/48 口替代）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Trung, for the 16/24/32-port PoE sizes — we have 16 and 24 (and 48) in Marvell L2+; which PoE budget do your camera projects need, 250 W or 400 W class?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：16 24 32 port POE Switch；回复：1120email发了48口；1216email发了22mini | 表内备注 | `用户表` |
+| 2025 | 去 | S 群发 | 48 Port PoE Managed Switch、Mini Industrial PoE Switch | 3 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -220,12 +237,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

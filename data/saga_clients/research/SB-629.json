@@ -66,5 +66,55 @@
   "tier": 20,
   "why": "工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。"
  },
- "email_hook": "Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it."
+ "email_hook": "Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 vijay@jtoptics.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）」；研究档 risks：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先"
+  },
+  "situation": "印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。",
+  "need": "工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。",
+  "breakpoint": "极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

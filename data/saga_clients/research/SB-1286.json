@@ -51,5 +51,49 @@
   "tier": 25,
   "why": "WDM 不在 Saga 线；无主推型。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "阿尔及利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明"
+  },
+  "situation": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+  "need": "WDM 不在 Saga 线；无主推型。",
+  "breakpoint": "需求 WDM（缺口）；身份不明",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "WDM 不在 Saga 线；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：WDM information",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -65,5 +65,49 @@
   "tier": 20,
   "why": "其商用 2 光 8 PoE 管理需求 → Saga STC-28DGGPM；4 光 24 电 → STC-424XGGM（4×10G SFP+）。"
  },
- "email_hook": "Janm, you were after rack-style 8-PoE + 2-SFP managed and 24+4 units (gigabit only, no industrial) — both are Marvell-based now; shall I send the two-line EXW quote?"
+ "email_hook": "Janm, you were after rack-style 8-PoE + 2-SFP managed and 24+4 units (gigabit only, no industrial) — both are Marvell-based now; shall I send the two-line EXW quote?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的」；研究档 risks：官网失效、活跃度存疑"
+  },
+  "situation": "印尼无线 / 网络商 Airpo（Janm），表内注「不咋喜欢工业品」，官网原介绍 MC / PoE / 光纤交换机，需求长壳 2 光 8 PoE、0 光 8 长壳 PoE 管理、4 光 24 电；2024-04 对 10G MC 回复「主要用千兆的」。域名现仅跳转页。",
+  "need": "其商用 2 光 8 PoE 管理需求 → Saga STC-28DGGPM；4 光 24 电 → STC-424XGGM（4×10G SFP+）。",
+  "breakpoint": "官网失效、活跃度存疑",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其商用 2 光 8 PoE 管理需求 → Saga STC-28DGGPM；4 光 24 电 → STC-424XGGM（4×10G SFP+）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

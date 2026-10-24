@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：MC SFP FS POE  自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-21 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-763` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 koichi_ito@ctsystem.com；主题多为「90W PoE Managed Switch、Marvell Software Function List」）** ｜ 类型：台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「MC SFP FS POE 自己的牌子」；研究档 risks：台湾自研自产厂商：外采意愿低，仅二供/补缺
+- **现状一句话**：台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。
+- **对方真实需求（有据）**：自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息
+- **断点 / 为什么停在这里**：台湾自研自产厂商：外采意愿低，仅二供/补缺
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | MC SFP FS POE 自己的牌子 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 90W PoE Managed Switch、Marvell Software Function List | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

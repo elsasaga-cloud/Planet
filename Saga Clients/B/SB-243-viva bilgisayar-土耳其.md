@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-243` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「要工业级交换机 / 90 54464 91142 已加」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「要工业级交换机 / 90 54464 91142 已加」；研究档 risks：微型团队、单量小；无后续跟进
+- **绑定等级：轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「要工业级交换机 / 90 54464 91142 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「要工业级交换机 / 90 54464 91142 已加」；研究档 risks：微型团队、单量小；无后续跟进
 - **现状一句话**：土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。
 - **对方真实需求（有据）**：集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
 - **断点 / 为什么停在这里**：微型团队、单量小；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$145.7）；4 口 STI-144GP（$35.5）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 要工业级交换机 / 90 54464 91142 已加 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

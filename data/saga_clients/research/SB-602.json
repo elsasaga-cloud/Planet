@@ -58,5 +58,49 @@
   "tier": 25,
   "why": "企业 IT 配套 8 PoE 管理机。"
  },
- "email_hook": "（低优先）"
+ "email_hook": "（低优先）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：IT 服务为主，硬件量小"
+  },
+  "situation": "胡志明市 IT 外包 / Helpdesk / IT Onsite 服务商（24/7），Hùng Trần；询盘表来源，无兴趣描述；WA 无实质回复。IT 服务商偶发采购。",
+  "need": "企业 IT 配套 8 PoE 管理机。",
+  "breakpoint": "IT 服务为主，硬件量小",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "企业 IT 配套 8 PoE 管理机。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（空）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

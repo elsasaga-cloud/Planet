@@ -70,5 +70,55 @@
   "tier": 30,
   "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望"
  },
- "email_hook": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?"
+ "email_hook": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 mail@ssd.ru；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）",
+   "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「MC 似乎是自己的牌子 switch 电源等」；研究档 risks：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险"
+  },
+  "situation": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
+  "need": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
+  "breakpoint": "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 似乎是自己的牌子 switch 电源等",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "16 Port Ethernet Switch、Marvell Alleycat5 Solution",
+    "why": "18 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

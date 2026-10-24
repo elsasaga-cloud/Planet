@@ -65,5 +65,55 @@
   "tier": 25,
   "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。"
  },
- "email_hook": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?"
+ "email_hook": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 info@osoolct.com；主题多为「24 Port PoE Managed Switch、Marvell Managed Commercial Switches」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "阿联酋 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：2光8电工业级网管千兆POE FS」；研究档 risks：WA 无回复；小型项目量"
+  },
+  "situation": "阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。",
+  "need": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
+  "breakpoint": "WA 无回复；小型项目量",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：2光8电工业级网管千兆POE FS",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、Marvell Managed Commercial Switches",
+    "why": "8 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

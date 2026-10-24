@@ -83,5 +83,49 @@
   "tier": 25,
   "why": "主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型"
  },
- "email_hook": "We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?"
+ "email_hook": "We do not make HDMI-over-IP extenders, but for the IP side of a playout room our 8-port L2+ switch with IGMP snooping and 2 SFP uplinks is a common pairing — is there a current project where that would help?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "黎巴嫩 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」；研究档 risks：需求 HDMI over IP/延长器不在 Saga 产品线"
+  },
+  "situation": "卫星/广播电信服务集团 BHS Media（Dubai Media City 401 室；DTH 分发、contribution 链路、teleport、OTT；FB/ZoomInfo 均列迪拜地址与 +971 号码）。表内联系人 Khalil Haidar / Director（k.haidar@bhs-media.com，黎巴嫩 +961 3 597 100，WA 已加）要 HDMI over IP / HDMI 网络延长器（Saga 不做），2024-05 对 mini 工业交换机图回「will check」；19 次推送 1 次实质回复。主业广播传输，交换机只是机房配套 → B 25%，P1 待核（p1 null）。",
+  "need": "主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型",
+  "breakpoint": "需求 HDMI over IP/延长器不在 Saga 产品线",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -109,5 +109,55 @@
    "url": "https://fibermart.co.kr/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 jasonk@soltech.co.kr, ksh@soltech.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）"
+  },
+  "situation": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
+  "need": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报",
+  "breakpoint": "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → jasonk@soltech.co.kr",
+   "action": "短信一问（email_hook）",
+   "one_question": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 5 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

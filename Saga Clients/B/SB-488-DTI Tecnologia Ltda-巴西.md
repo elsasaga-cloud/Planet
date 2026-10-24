@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。（调研 2026-10-21；表内兴趣：500个PoE 802.3af  injector 2004年加入国际站）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-01-06 → 2025-10-06）
-- **P1（下一步唯一主推）**：— — 深挖对位：需求 PoE injector（价目缺口 Q-32）；交换机无询。；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 需求 PoE injector（价目缺口 Q-32）；交换机无询。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-488` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：500个PoE 802.3af injector 2004年加入国际站」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：500个PoE 802.3af injector 2004年加入国际站」；研究档 risks：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）
+- **现状一句话**：巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。
+- **对方真实需求（有据）**：需求 PoE injector（价目缺口 Q-32）；交换机无询。
+- **断点 / 为什么停在这里**：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）
+- **Saga 现在该推什么**：P1 **—**（20% 档，按主表（研究档 saga_fit））——需求 PoE injector（价目缺口 Q-32）；交换机无询。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：500个PoE 802.3af injector 2004年加入国际站 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

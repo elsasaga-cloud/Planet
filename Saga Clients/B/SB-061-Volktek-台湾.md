@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。（调研 2026-10-21；表内兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 公司地址：23553 新北市中和区连城路192号4楼 4F, 192 Liancheng Rd. Zhonghe,New Taipei City 23）
 - **为什么是 B 级**：+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-20 → 2025-10-21）
-- **P1（下一步唯一主推）**：LT-IS6312GP-4GX8GT-FBP — 深挖对位：其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。；$202.1 USD EXW（30% 档，SmartByte LT-IS6312GP-4GX8GT-FBP 1040 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — 其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-061` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 joseph.pi@volktek.com, karen.hua@volktek.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解」；研究档 risks：台系厂商口径；同行竞争敏感
+- **现状一句话**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。
+- **对方真实需求（有据）**：其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。
+- **断点 / 为什么停在这里**：台系厂商口径；同行竞争敏感
+- **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（30% 档，按主表（研究档 saga_fit））——其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 14 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。（调研 2026-10-21；表内兴趣：工业级带光的交换机  SFP模块 前一阵子问了模块和PSU那个）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-872` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 murad@tss-e.com, sales@tss-e.com；主题多为「48 port managed switch、Industrial poe switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：沙特阿拉伯 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个」；研究档 risks：SFP / PSU 为配件需求（Q-32）；无跟进
+- **现状一句话**：沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。
+- **对方真实需求（有据）**：工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。
+- **断点 / 为什么停在这里**：SFP / PSU 为配件需求（Q-32）；无跟进
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

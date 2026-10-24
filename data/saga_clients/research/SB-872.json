@@ -64,5 +64,55 @@
   "tier": 25,
   "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。"
  },
- "email_hook": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?"
+ "email_hook": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 murad@tss-e.com, sales@tss-e.com；主题多为「48 port managed switch、Industrial poe switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 4；用户表：「兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个」；研究档 risks：SFP / PSU 为配件需求（Q-32）；无跟进"
+  },
+  "situation": "沙特东部省（+966 13 846 8882）电信 / 安防承包商 TSS（telecom 13），Eng. Murad：需求工业级带光口交换机、SFP 模块，此前问过模块与 PSU；无跟进。",
+  "need": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
+  "breakpoint": "SFP / PSU 为配件需求（Q-32）；无跟进",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工业带光口 PoE → STI-288GP（$59.8 @25%）；模块随机配（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Eng. Murad, the industrial fibre switch you asked about — 2 SFP + 8 PoE DIN, $60 EXW, and we can fit tested 20 km SFPs into the same order; do you also still need the 48 V PSU quoted?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 port managed switch、Industrial poe switch",
+    "why": "4 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

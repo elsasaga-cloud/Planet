@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,10 +35,27 @@ updated: 2026-10-23
 - **是谁**：尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。（调研 2026-10-21；表内兴趣：5电口 IM-FS280GE）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 南亚/尼泊尔；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-26）；最近一次客户回复：2024-06-20：Email发了商业PoE 228信息
-- **P1（下一步唯一主推）**：STI-050GE — 深挖对位：5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。；$17.8 USD EXW（25% 档，SmartByte LT-IS3005G-5GT-M 95 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-289` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 2 封 2024，1 次记录打开，0 回；收件 dtechnic02@gmail.com；主题多为「PoE switch、industrial poe switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：尼泊尔 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息」；研究档 risks：小国小量；低价需求
+- **现状一句话**：尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。
+- **对方真实需求（有据）**：5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。
+- **断点 / 为什么停在这里**：小国小量；低价需求
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit））——5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息 | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | PoE switch、industrial poe switch | 2 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -219,12 +236,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

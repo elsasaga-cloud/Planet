@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — 配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch liste fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-112` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「没做交谈，给了名片 / 90 53226 48990 已加」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「没做交谈，给了名片 / 90 53226 48990 已加」；研究档 risks：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 90 53226 48990 已加」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「没做交谈，给了名片 / 90 53226 48990 已加」；研究档 risks：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进
 - **现状一句话**：伊斯坦布尔 Ataşehir 的零售自动化/POS 设备公司 İnterpos（1995 年成立；POS 收银机、EFT-POS、电子秤、打印机、条码系统；11–50 人、营收 $1–10M；董事长/总裁 Hulusi Kültür（ex-Inter Mühendislik、Inter Hong Kong）；兼 Tadiran 电池土耳其代理；İçerenköy Mah. Prof. Dr. Necmettin Erbakan Cad. Kayışdağı İş Merkezi K:8 No:91；+90 216 469 64 00）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加（+90 532 264 89 90）；无后续跟进。零售终端网络需要小型 PoE/非 PoE 交换机 → 分销/配套 20%。
 - **对方真实需求（有据）**：配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-028GP**（20% 档，按主表（研究档 saga_fit））——配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch liste fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 没做交谈，给了名片 / 90 53226 48990 已加 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

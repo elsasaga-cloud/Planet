@@ -91,5 +91,55 @@
    "url": "https://www.mahanet-jp.com/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@mahanet-jp.com；主题多为「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）",
+   "type": "日本安防安装商/自有标（Utepo PoE 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "日本 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「安防为主 有Utepo的交换机」；研究档 risks：非主攻区（T5，日本）；现供 Utepo（深圳）价格基准低；PSE/VCCI 由客户申报"
+  },
+  "situation": "日本 マハネット Mahanet（山形/东北业务用防犯摄像机销售与安装、综合安防系统；自有 MH- 系列 IP 摄像机、NVR、PoE 交换 HUB MH-7204E/7208E/7216E-L2/7224E-L2；表内「安防为主 有 Utepo 的交换机」）；表内 7 次跟进无回复。",
+  "need": "自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "非主攻区（T5，日本）；现供 Utepo（深圳）价格基准低；PSE/VCCI 由客户申报",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 MH-72xxE PoE HUB（Utepo 代工）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MH 标；16/24 口 L2 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the MH-series PoE switching hubs you bundle with your camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; PSE/VCCI by your side — which model do your installations use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "安防为主 有Utepo的交换机",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

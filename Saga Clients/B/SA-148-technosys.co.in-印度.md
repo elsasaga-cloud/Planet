@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。（调研 2026-10-21；表内兴趣：工业FS MC（Etherwan的））
 - **为什么是 B 级**：**调研后定级 B**（无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-148` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」）** ｜ 类型：经销/集成商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」；研究档 risks：主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区
+- **现状一句话**：新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。
+- **对方真实需求（有据）**：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）
+- **断点 / 为什么停在这里**：主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

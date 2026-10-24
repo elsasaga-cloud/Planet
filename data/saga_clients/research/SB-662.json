@@ -84,5 +84,49 @@
   "tier": 20,
   "why": "询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）"
  },
- "email_hook": "Anh, on the 16-slot media-converter chassis you asked about: we can quote it from our partner line together with the slide-in gigabit MC cards, and alongside offer DIN-rail industrial MCs and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — how many chassis and card slots does the project need?"
+ "email_hook": "Anh, on the 16-slot media-converter chassis you asked about: we can quote it from our partner line together with the slide-in gigabit MC cards, and alongside offer DIN-rail industrial MCs and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — how many chassis and card slots does the project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「16槽收发器机架 / from: 自建站」）",
+   "type": "光通信产品贸易商（越南，MC 机架询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「16槽收发器机架 / from: 自建站」；研究档 risks：询盘品类（MC 机架）Saga 列表无 → 代报需注明（Q-32）；非主攻区（T5）"
+  },
+  "situation": "越南 Hoàng Thiên Ân Technology Trading Corp.（SFP 模块、GPON OLT SFP、Wintop WT-9110G MC、Cisco / EtherWAN / ORing / Huawei；自建站询盘「16 槽收发器机架」；KP Anh Phan（Project Director，anhpt@））；表内无跟进记录。",
+  "need": "询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）",
+  "breakpoint": "询盘品类（MC 机架）Saga 列表无 → 代报需注明（Q-32）；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "16槽收发器机架 / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -48,5 +48,55 @@
   "tier": 20,
   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）"
  },
- "email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
+ "email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 2 封 2025，无记录打开，0 回；收件 inquiry@fibercomtelecoms.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "菲律宾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 2；用户表：「买了很多跳线 / 网站：SFP networking / 富通天下」；研究档 risks：亚太非主攻区；1 次跟进无回复；配件商利润薄"
+  },
+  "situation": "菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）",
+  "breakpoint": "亚太非主攻区；1 次跟进无回复；配件商利润薄",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买了很多跳线 / 网站：SFP networking / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Mini Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "2 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

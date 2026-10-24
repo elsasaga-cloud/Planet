@@ -107,5 +107,55 @@
    "url": "https://amatek.su/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 46 封 2024→2026，1 次记录打开，0 回；收件 info@amatek.su, kovrigo@ksb.su；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+   "type": "安防品牌商（自有标 PoE 交换机，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "46 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 46，Opened 标签 1（Simon 群发追踪）；用户表：「工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo」；研究档 risks：俄罗斯：结算/物流通道受限（需经第三国），非主攻区（T5）"
+  },
+  "situation": "俄罗斯视频监控品牌 Amatek（官方站：Amatek 商标监控设备目录；自有标 PoE 交换机 AN-SXGM12P8S / AN-SXG10P8 / AN-SXGM6P4 / AN-SX8F，云管理 AN-SW10P8，Passive PoE / UltraPoE 页；表内「工商业 FS 自己的 logo，有人在卖他们的，AHD/IP 摄像机」，备注「产品上是自己的 logo」「重要」；KP Aleksandr Kovrigo（kovrigo@ksb.su，KSB 为运营公司））；群发 35 次无回复。",
+  "need": "自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云",
+  "breakpoint": "俄罗斯：结算/物流通道受限（需经第三国），非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Aleksandr, for the AN-SXGM series PoE switches under the Amatek label, we build Marvell-based 8-PoE + 2 SFP L2+ and 4-PoE compact models to your spec from small lots (neutral packing) — which model in the range is due for a second source, the 8-port managed or the 4-port?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+    "why": "46 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

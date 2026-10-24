@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-957` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 6 封 2025→2026，无记录打开，0 回；收件 akuznetsova@tayle.ru, arubeko@tayle.ru；主题多为「10G Enterprise SFP Switch、Marvell Industrial Alert System」）** ｜ 类型：网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 6；用户表：「实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复
+- **现状一句话**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **断点 / 为什么停在这里**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品 | 表内备注 | `用户表` |
+| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Industrial Alert System | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,10 +34,28 @@ updated: 2026-10-23
 - **是谁**：用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。（调研 2026-10-21；表内兴趣：8口network switch   成样品单）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/安哥拉
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-08GE — 深挖对位：默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）；$10.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在（Simon） WhatsApp（Simon） 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-047` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：安哥拉 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；研究档 risks：非洲非主攻区；无公司资料；葡语市场
+- **现状一句话**：用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。
+- **对方真实需求（有据）**：默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
+- **断点 / 为什么停在这里**：非洲非主攻区；无公司资料；葡语市场
+- **Saga 现在该推什么**：P1 **STC-08GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
+- **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
+  - 第一问（只问一个）：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -192,12 +210,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

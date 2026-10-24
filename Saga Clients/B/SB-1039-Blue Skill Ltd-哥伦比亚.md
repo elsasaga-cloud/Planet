@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/哥伦比亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-10 → 2025-10-10）
-- **P1（下一步唯一主推）**：STI-244GPM — 深挖对位：询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效；$67.3 USD EXW（25% 档，SmartByte LT-IS3206GP-2GX4GT 360 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GPM — 询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1039` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）** ｜ 类型：安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘） ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：哥伦比亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「工业FS；2光4PoE 5个 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复
+- **现状一句话**：哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。
+- **对方真实需求（有据）**：询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效
+- **断点 / 为什么停在这里**：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复
+- **Saga 现在该推什么**：P1 **STI-244GPM**（25% 档，按主表（研究档 saga_fit））——询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业FS；2光4PoE 5个 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | Industrial PoE Switch、16 Port PoE Managed Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

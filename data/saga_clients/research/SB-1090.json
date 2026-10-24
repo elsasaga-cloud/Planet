@@ -73,5 +73,55 @@
   "tier": 20,
   "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
  },
- "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?"
+ "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 36 封 2024→2026，1 次记录打开，0 回；收件 master@factos.co.kr；主题多为「Booster PoE Switch、Industrial PoE Switch」）",
+   "type": "工业自动化网店（韩国，ICP DAS 在售）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "36 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 36，Opened 标签 1（Simon 群发追踪）；用户表：「工业自动化 serial 比较专业 在用台湾的IPDAS牌子」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强"
+  },
+  "situation": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
+  "need": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）",
+  "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Booster PoE Switch、Industrial PoE Switch",
+    "why": "36 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

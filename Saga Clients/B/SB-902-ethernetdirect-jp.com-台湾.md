@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：Switch）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-04-29 → 2025-09-17）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-902` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sales@ethernetdirect-tw.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）** ｜ 类型：台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Switch」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺
+- **现状一句话**：台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。
+- **对方真实需求（有据）**：自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
+- **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供/补缺
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | Switch | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | 16 Port Ethernet Switch、Industrial PoE Switch | 10 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

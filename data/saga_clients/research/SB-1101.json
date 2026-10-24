@@ -77,5 +77,49 @@
   "tier": 25,
   "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供"
  },
- "email_hook": "Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?"
+ "email_hook": "Ahmed, following your enquiry on our site: for the PoE switches behind your camera and access-control installations we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD — which port count does your current project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「4V1D 1080P / from: 自建站」）",
+   "type": "安防/业务方案集成商（埃及）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "埃及 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「4V1D 1080P / from: 自建站」；研究档 risks：非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过"
+  },
+  "situation": "埃及 IPS – Integrated Premium Solutions（安防与业务方案集成：CCTV、门禁、自动化、证卡打印机（Edikio/Agilia）、BENTSAI 手持喷码；自建站询盘「4V1D 1080P」；KP Ahmed）；表内未跟进。",
+  "need": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
+  "breakpoint": "非主攻区（T5，埃及）；询盘品类（4V1D 1080P 视频光端机）Saga 不供；未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "4V1D 1080P / from: 自建站",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

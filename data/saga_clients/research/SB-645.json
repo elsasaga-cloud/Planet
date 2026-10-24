@@ -79,5 +79,55 @@
   "tier": 20,
   "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）"
  },
- "email_hook": "Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?"
+ "email_hook": "Alongside the ONV and Planet PoE switches you carry, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which band moves more for your projects, commercial or industrial PoE?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 28 封 2024→2026，1 次记录打开，0 回；收件 info@market-telecom.kz；主题多为「10G Enterprise SFP Switch、10G Media Converter」）",
+   "type": "多品牌 IT/安防设备供应商（哈萨克斯坦）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "哈萨克斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 28，Opened 标签 1（Simon 群发追踪）；用户表：「ONV Witech planet 以及其他牌子 工业FS SFP MC」；研究档 risks：非主攻区（T5）；中亚物流/结算需按单核"
+  },
+  "situation": "哈萨克斯坦 Авантаж Маркет / market-telecom.kz（多品牌 IT 基础设施与安防设备供应商：办公/企业/仓库/住宅项目；站内 TP-Link 38 / Dahua 42 / Hikvision 35 / Ubiquiti 18 / MikroTik 6，博客 PoE/ONV；表内「ONV、Witech、Planet 及其他牌子；工业 FS / SFP / MC」）；群发 18 次无回复。",
+  "need": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）",
+  "breakpoint": "非主攻区（T5）；中亚物流/结算需按单核",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 ONV / Witech / Planet → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）对位 ONV/Planet 8 口 PoE；工业位 STI-288GP（$57.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "ONV Witech planet 以及其他牌子 工业FS SFP MC",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、10G Media Converter",
+    "why": "28 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

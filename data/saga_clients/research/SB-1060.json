@@ -77,5 +77,55 @@
   "tier": 20,
   "why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位"
  },
- "email_hook": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?"
+ "email_hook": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 mail@cleverkey.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）",
+   "type": "IT 设备经销商（俄罗斯，品牌导向）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「有很多知名小品牌的」；研究档 risks：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@"
+  },
+  "situation": "俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。",
+  "need": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位",
+  "breakpoint": "俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "有很多知名小品牌的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
+    "why": "6 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

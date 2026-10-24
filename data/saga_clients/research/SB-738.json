@@ -89,5 +89,55 @@
   "tier": 20,
   "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**"
  },
- "email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
+ "email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 opsharma@technicsonline.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+   "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
+   "sieve": "1（只收到群发）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5；用户表：「IM-FS240GM 250pcs；91 98112 35060」；研究档 risks：询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格"
+  },
+  "situation": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
+  "need": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
+  "breakpoint": "询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "IM-FS240GM 250pcs；91 98112 35060",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "5 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

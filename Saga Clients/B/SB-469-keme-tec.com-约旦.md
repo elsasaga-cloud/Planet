@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/约旦；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效；$132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
 - **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-469` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 projects@keme-tec.com, rab444rab@yahoo.com；主题多为「24 Port Fiber Switch」）** ｜ 类型：项目集成商（约旦，24 口管理 RFQ） ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：约旦 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「商业24口管理 / from: 阿里巴巴RFQ」；研究档 risks：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过
+- **现状一句话**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。
+- **对方真实需求（有据）**：RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
+- **断点 / 为什么停在这里**：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业24口管理 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2024 | 去 | S 群发 | 24 Port Fiber Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

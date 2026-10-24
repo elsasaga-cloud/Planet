@@ -57,5 +57,55 @@
   "tier": 20,
   "why": "HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "For the managed PoE position in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count sells most?"
+ "email_hook": "For the managed PoE position in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count sells most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 4 封 2024，1 次记录打开，0 回；收件 info@unitech-shop.ru；主题多为「24 port PoE switch、10G media converter」）",
+   "type": "PoE 网店（俄罗斯，HRUI 在售，Q-33 口径）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+   "revive": "不动（Q-33）",
+   "lane": "RU 次级（Simon 2026-08 点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 4，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过"
+  },
+  "situation": "俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。",
+  "need": "HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业PoE",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2024",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 port PoE switch、10G media converter",
+    "why": "4 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

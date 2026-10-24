@@ -32,10 +32,27 @@ updated: 2026-10-24
 - **是谁**：越南 Hoàng Thiên Ân Technology Trading Corp.（SFP 模块、GPON OLT SFP、Wintop WT-9110G MC、Cisco / EtherWAN / ORing / Huawei；自建站询盘「16 槽收发器机架」；KP Anh Phan（Project Director，anhpt@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-662` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「16槽收发器机架 / from: 自建站」）** ｜ 类型：光通信产品贸易商（越南，MC 机架询盘） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「16槽收发器机架 / from: 自建站」；研究档 risks：询盘品类（MC 机架）Saga 列表无 → 代报需注明（Q-32）；非主攻区（T5）
+- **现状一句话**：越南 Hoàng Thiên Ân Technology Trading Corp.（SFP 模块、GPON OLT SFP、Wintop WT-9110G MC、Cisco / EtherWAN / ORing / Huawei；自建站询盘「16 槽收发器机架」；KP Anh Phan（Project Director，anhpt@））；表内无跟进记录。
+- **对方真实需求（有据）**：询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）
+- **断点 / 为什么停在这里**：询盘品类（MC 机架）Saga 列表无 → 代报需注明（Q-32）；非主攻区（T5）
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——询 16 槽 MC 机架——Saga 列表无（Q-32，SmartByte/HRUI 代报注明）；可供 MC 本体 STI-110GE（$22.4 @20%）；工业位 STI-288GPM（对位 ORing/EtherWAN）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 16槽收发器机架 / from: 自建站 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

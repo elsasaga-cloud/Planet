@@ -37,25 +37,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-790` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEK」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
+- **绑定等级：轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封** ｜ 类型：— ｜ 筛子：3（已加 WhatsApp，表内有往来） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话 ｜ 通路：土耳其 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；研究档 risks：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
 - **现状一句话**：ISAF 记录：İbrahim（Bilgen Elektronik，无邮箱/域名）——Ady 加了 WhatsApp；问了 2 光 8 电带 bypass，问了 PoE 功率；无后续跟进。仅表内信息。需求映射：2 光 8 电 bypass 工业机 Saga 无（bypass 仅 4 SFP 版 SmartByte LT-IS6312GP-4GX8GT-FBP）→ 主推非 bypass STI-288DGGPM，bypass 以 SmartByte 型号注明。
 - **对方真实需求（有据）**：工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
 - **断点 / 为什么停在这里**：无邮箱/公司资料；2 SFP bypass 缺口；无后续跟进
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit））——工程 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+，240 W 预算，$145.7）；bypass 需求用 SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 PoE，单纤 bypass，$194.3；Saga 暂无对应型号，沿用 SmartByte 型号）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
   - 第一问（只问一个）：İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

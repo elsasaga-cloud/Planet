@@ -50,5 +50,49 @@
   "tier": 20,
   "why": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档"
  },
- "email_hook": "You asked for the price of our commercial PoE switches last year — for a platform listing alongside TP-Link/ONV, the 8-port PoE+ L2+ model is $81–87 EXW in small lots; want the full sheet?"
+ "email_hook": "You asked for the price of our commercial PoE switches last year — for a platform listing alongside TP-Link/ONV, the 8-port PoE+ L2+ model is $81–87 EXW in small lots; want the full sheet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 →」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "尼日利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price」；研究档 risks：域名不可达，平台可能已停"
+  },
+  "situation": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
+  "need": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档",
+  "breakpoint": "域名不可达，平台可能已停",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "平台转售 TP-Link/ONV 同档 → 8 PoE + 2 SFP L2+ 起手，20% 档",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。（调研 2026-10-21；表内兴趣：4光8电 4光16电 10G光带BT）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-41616XGGPM-4BT — 深挖对位：「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。；$506.4 USD EXW（25% 档，SmartByte LT-IS6520XGP-4XS16GT-4BT 2710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-41616XGGPM-4BT — 「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-115` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 luke@vernetzen.com.au；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「兴趣：4光8电 4光16电 10G光带BT」；研究档 risks：澳洲 RCM 认证（CE 基础可申报，需客户自认证）
+- **现状一句话**：澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。
+- **对方真实需求（有据）**：「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。
+- **断点 / 为什么停在这里**：澳洲 RCM 认证（CE 基础可申报，需客户自认证）
+- **Saga 现在该推什么**：P1 **STI-41616XGGPM-4BT**（25% 档，按主表（研究档 saga_fit））——「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：4光8电 4光16电 10G光带BT | 表内备注 | `用户表` |
+| 2026 | 去 | A 群发 | Booster PoE Switch、Marvell Industrial Alert System | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

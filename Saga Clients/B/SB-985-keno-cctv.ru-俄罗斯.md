@@ -32,10 +32,27 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo  有人卖他们的 看着像新桥的）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-985` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」）** ｜ 类型：俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低
+- **现状一句话**：俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。
+- **对方真实需求（有据）**：自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo 有人卖他们的 看着像新桥的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

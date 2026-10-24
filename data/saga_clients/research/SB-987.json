@@ -64,5 +64,49 @@
   "tier": 30,
   "why": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标"
  },
- "email_hook": "For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?"
+ "email_hook": "For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业交换机」）",
+   "type": "CCTV 分销商（越南，自有 logo 工业交换机）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "越南 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「工业交换机」；研究档 risks：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空"
+  },
+  "situation": "越南 LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn：台湾 LILIN CCTV 品牌的越南分销商，表内「自己的 logo」「工业交换机」）；表内未跟进。",
+  "need": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标",
+  "breakpoint": "非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业交换机",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -55,5 +55,49 @@
   "tier": 20,
   "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）；SFP/光开关 Saga 不供"
  },
- "email_hook": "For the media converters you list, we supply neutral-brand gigabit and Fast Ethernet MCs (desktop and DIN-rail) from single units, CE/RoHS, EXW USD; RCM by your side — which MC configuration sells most in your shop?"
+ "email_hook": "For the media converters you list, we supply neutral-brand gigabit and Fast Ethernet MCs (desktop and DIN-rail) from single units, CE/RoHS, EXW USD; RCM by your side — which MC configuration sells most in your shop?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 像公司之前的灰色外壳 SFP optical switch」）",
+   "type": "网络配件网店（澳大利亚，MC）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「MC 像公司之前的灰色外壳 SFP optical switch」；研究档 risks：非主攻区（T5，澳大利亚；RCM 由客户侧）；SFP/光开关 Saga 不供；官网 http_error；未跟进过，仅 info@"
+  },
+  "situation": "澳大利亚 OEMarket（oemarket.com：MC「像公司之前的灰色外壳」、SFP、光开关；官网 http_error）；表内未跟进。",
+  "need": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）；SFP/光开关 Saga 不供",
+  "breakpoint": "非主攻区（T5，澳大利亚；RCM 由客户侧）；SFP/光开关 Saga 不供；官网 http_error；未跟进过，仅 info@",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）；SFP/光开关 Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 像公司之前的灰色外壳 SFP optical switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

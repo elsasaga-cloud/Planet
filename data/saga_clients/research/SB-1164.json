@@ -58,5 +58,55 @@
   "tier": 25,
   "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。"
  },
- "email_hook": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request."
+ "email_hook": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 ieviola@bitstreamcore.com；主题多为「48 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "菲律宾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3；用户表：「兴趣：两光两电。sfp 主要对SFP感兴趣」；研究档 risks：主需求 SFP 不供"
+  },
+  "situation": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
+  "need": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
+  "breakpoint": "主需求 SFP 不供",
+  "saga_now": {
+   "p1": "STI-220GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "48 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "3 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

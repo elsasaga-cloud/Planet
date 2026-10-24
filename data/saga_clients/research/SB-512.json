@@ -92,5 +92,55 @@
    "url": "https://www.3tel.com.sg/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 elvin.tan@3tel.com.sg, sales@3tel.com.sg；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+   "type": "安防/网络产品供应商（新加坡，Utepo 工商业 FS）",
+   "sieve": "1（只收到群发）",
+   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 26；用户表：「工商业FS 有Utepo的」；研究档 risks：现卖 Utepo（深圳）价格基准低；非主攻区（T5）"
+  },
+  "situation": "新加坡 3Tel International Pte Ltd（2013 年起：安防（Hikvision 型号 DS-K2600 / DS-7204HQHI）、电信、网络、线缆产品供应；站内 Utepo UTP3-SW04-TP60、工业 8 口 PoE、L3 管理 PoE、4/8 口 PoE + 2 上联页面；表内「工商业 FS，有 Utepo 的」；KP Elvin Tan（Co-founder & Director，elvin.tan@））；群发 15 次无回复。",
+  "need": "在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）",
+  "breakpoint": "现卖 Utepo（深圳）价格基准低；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "在售 Utepo 工业 8 口 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP；商用 4/8 口 PoE 位 STC-28DGGPM、HRUI STC-204GP（对位 UTP3-SW04-TP60，$20.4 列表价）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Elvin, alongside the Utepo industrial and 4/8-port PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS, neutral packing — which of the two bands do your Hikvision projects use more?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工商业FS 有Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+    "why": "26 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -34,10 +34,28 @@ updated: 2026-10-24
 - **是谁**：印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。（调研 2026-10-21；表内兴趣：Cam, access control）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 15 次（2024-01-29 → 2025-06-21）；最近一次客户回复：2024-04-24：price 报了75
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-127` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：price 报了75」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：price 报了75」；研究档 risks：域名失效，info@ 可能退信（备用 yahoo）
+- **现状一句话**：印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。
+- **对方真实需求（有据）**：历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。
+- **断点 / 为什么停在这里**：域名失效，info@ 可能退信（备用 yahoo）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+  - 第一问（只问一个）：Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 回复：price 报了75 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

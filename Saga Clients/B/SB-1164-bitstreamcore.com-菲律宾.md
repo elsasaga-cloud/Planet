@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。（调研 2026-10-21；表内兴趣：两光两电。sfp 主要对SFP感兴趣）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STI-220GE — 深挖对位：2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。；$29.0 USD EXW（25% 档，SmartByte LT-IMC30G-2GX2GT-E 155 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-220GE — 2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1164` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 ieviola@bitstreamcore.com；主题多为「48 Port PoE Managed Switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：两光两电。sfp 主要对SFP感兴趣」；研究档 risks：主需求 SFP 不供
+- **现状一句话**：菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。
+- **对方真实需求（有据）**：2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。
+- **断点 / 为什么停在这里**：主需求 SFP 不供
+- **Saga 现在该推什么**：P1 **STI-220GE**（25% 档，按主表（研究档 saga_fit））——2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：两光两电。sfp 主要对SFP感兴趣 | 表内备注 | `用户表` |
+| 2025 | 去 | A 群发 | 48 Port PoE Managed Switch、16 Port Ethernet Switch | 3 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

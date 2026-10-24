@@ -56,5 +56,49 @@
   "tier": 25,
   "why": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位"
  },
- "email_hook": "We do not carry GPON OLTs or routers, but if your deployments need PoE access switches or fiber media converters behind the ONT I can send prices — is that part of your projects?"
+ "email_hook": "We do not carry GPON OLTs or routers, but if your deployments need PoE access switches or fiber media converters behind the ONT I can send prices — is that part of your projects?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "厄瓜多尔 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」；研究档 risks：需求 GPON/路由器均不在 Saga 产品线"
+  },
+  "situation": "个人买家 Ernesto Guevara（仅 WA 电话 +505 7778 9314——+505 为尼加拉瓜区号，表内国别「厄瓜多尔」待核）。需求 GPON 交换机与路由器（Saga 均不做），2024-08 对 10G MC 问了不相关产品；18 次推送 1 次实质回复。→ B 低优先，P1 待核（p1 null）。",
+  "need": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位",
+  "breakpoint": "需求 GPON/路由器均不在 Saga 产品线",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

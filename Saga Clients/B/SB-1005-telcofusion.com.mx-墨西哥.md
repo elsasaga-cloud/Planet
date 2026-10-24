@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。（调研 2026-10-21；表内兴趣：reverse POE板子）
 - **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 15 次（2024-03-21 → 2025-10-06）；最近一次客户回复：2024-08-14：4个
-- **P1（下一步唯一主推）**：— — 深挖对位：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1005` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：reverse POE板子；回复：4个」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：墨西哥 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：reverse POE板子；回复：4个」；研究档 risks：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）
+- **现状一句话**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。
+- **对方真实需求（有据）**：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。
+- **断点 / 为什么停在这里**：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）
+- **Saga 现在该推什么**：P1 **—**（20% 档，按主表（研究档 saga_fit））——10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：reverse POE板子；回复：4个 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

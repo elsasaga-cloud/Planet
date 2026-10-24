@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：用户表：阿联酋，兴趣工业 PoE 配件，WhatsApp 已加，无跟进记录、无回复。若为 greentechme.com 同一公司，则主业是太阳能/热泵，网络产品仅为项目配套。（调研 2026-10-21；表内兴趣：工业POE配件）
 - **为什么是 B 级**：**调研后定级 B**（实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32；$59.8 USD EXW（25% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在（Simon） WhatsApp（Simon） 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-032` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；S/A 邮箱 0 封** ｜ 类型：未知（疑为太阳能/能源方案商） ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；研究档 risks：主体未核；配件 SKU 缺口；中东非主攻区
+- **现状一句话**：用户表：阿联酋，兴趣工业 PoE 配件，WhatsApp 已加，无跟进记录、无回复。若为 greentechme.com 同一公司，则主业是太阳能/热泵，网络产品仅为项目配套。
+- **对方真实需求（有据）**：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32
+- **断点 / 为什么停在这里**：主体未核；配件 SKU 缺口；中东非主攻区
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32
+- **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
+  - 第一问（只问一个）：Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 工业POE配件 / 971 55 572 1640 已加 / 成单客户 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
 ## 基本事实（事实/推断/假设分层）
 

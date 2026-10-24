@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：印尼公司 PT. Catur Citra Wisesa（Rizky Adi Prastanto），需求 5 电口带 PoE，2024-06 收 2 光 4 小壳邮件、2025-11 收 10G MC 邮件；无域名。（调研 2026-10-21；表内兴趣：5电口带POE）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了10gmc
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：5 电口带 PoE → Saga STI-054GP（4 PoE + 1 GE 上行工业，$31.2/32.5/33.8）；商用桌面 5 口 PoE 按 HRUI 报并注明。；$32.5 USD EXW（25% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — 5 电口带 PoE → Saga STI-054GP（4 PoE + 1 GE 上行工业，$31.2/32.5/33.8）；商用桌面 5 口 PoE 按 HRUI 报并注明。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Rizky, for the 5-port PoE requirement — do you need the DIN-rail industrial version (−40~75 ℃) or a desktop commercial one? Both ship from 1 pc; I'll quote the right one.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：群发节奏 A 邮箱 观察打开
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-036` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（A/S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 rizkyadips@yahoo.com；主题多为「16 Port PoE Managed Switch、Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc」；研究档 risks：无域名，主体可核性低
+- **现状一句话**：印尼公司 PT. Catur Citra Wisesa（Rizky Adi Prastanto），需求 5 电口带 PoE，2024-06 收 2 光 4 小壳邮件、2025-11 收 10G MC 邮件；无域名。
+- **对方真实需求（有据）**：5 电口带 PoE → Saga STI-054GP（4 PoE + 1 GE 上行工业，$31.2/32.5/33.8）；商用桌面 5 口 PoE 按 HRUI 报并注明。
+- **断点 / 为什么停在这里**：无域名，主体可核性低
+- **Saga 现在该推什么**：P1 **STI-054GP**（25% 档，按主表（研究档 saga_fit））——5 电口带 PoE → Saga STI-054GP（4 PoE + 1 GE 上行工业，$31.2/32.5/33.8）；商用桌面 5 口 PoE 按 HRUI 报并注明。
+- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+  - 第一问（只问一个）：Rizky, for the 5-port PoE requirement — do you need the DIN-rail industrial version (−40~75 ℃) or a desktop commercial one? Both ship from 1 pc; I'll quote the right one.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc | 表内备注 | `用户表` |
+| 2025 | 去 | A/S 群发 | 16 Port PoE Managed Switch、Industrial PoE Switch | 3 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

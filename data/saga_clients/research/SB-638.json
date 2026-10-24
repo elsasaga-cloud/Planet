@@ -71,5 +71,55 @@
   "tier": 20,
   "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?"
+ "email_hook": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@handsonsecurity.co.za；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "type": "CCTV 网店/安装商（南非，Utepo 在售）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "南非 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18；用户表：「比较多的外壳 有utepo的 switch 销售平台」；研究档 risks：非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
+  },
+  "situation": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
+  "need": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "比较多的外壳 有utepo的 switch 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "18 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -90,5 +90,55 @@
    "url": "https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-poe-switch/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 3 封被打开，0 回；收件 rnathan@cloudtronics.com.au, sales@cloudtronics.com.au；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）",
+   "type": "澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 38，Opened 标签 3（Simon 群发追踪）；用户表：「N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solution」；研究档 risks：现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
+  },
+  "situation": "澳大利亚 Cloudtronics®（澳洲自有公司：兼容光模块（100% 兼容保证）、6 周定制 IoT 电子、网络设备；自有标工业 PoE 交换机 CLD-8POE-2SFP-IND（N-net 代工，备注 URL 印尼站 cloudtronics.co.id）；表内「N-net 的工业 FS 带了自己的标，网页做的不错」「可以多跟进一下」；KP Robert Nathan（Director，rnathan@））；群发 22 次无回复。",
+  "need": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标",
+  "breakpoint": "现代工 N-net（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → rnathan@cloudtronics.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Robert, for the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "N-net的工业FS 带了自己的标；N-net的 网页做的不错；https://cloudtronics.co.id/products-and-solutions/network-device/industrial-unmanaged-po",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+    "why": "38 封 / 3 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -70,5 +70,55 @@
   "tier": 30,
   "why": "自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT"
  },
- "email_hook": "For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?"
+ "email_hook": "For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sales@ethernetdirect-tw.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）",
+   "type": "台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 10；用户表：「Switch」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺"
+  },
+  "situation": "台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。",
+  "need": "自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT",
+  "breakpoint": "台湾品牌商：自有 ODM 体系，仅二供/补缺",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "16 Port Ethernet Switch、Industrial PoE Switch",
+    "why": "10 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

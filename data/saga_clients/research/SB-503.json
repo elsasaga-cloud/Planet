@@ -63,5 +63,55 @@
   "tier": 25,
   "why": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）"
  },
- "email_hook": "Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?"
+ "email_hook": "Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 32 封 2024→2026，无记录打开，0 回；收件 cjkim@ione.kr；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+   "type": "工业网络公司（韩国，8 光 8 管理询盘）",
+   "sieve": "1（只收到群发）",
+   "stop": "32 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 32；用户表：「在找工业管理；8光8管理 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈"
+  },
+  "situation": "韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。",
+  "need": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈",
+  "saga_now": {
+   "p1": "STI-448DGGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "在找工业管理；8光8管理 / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "32 封 / 0 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,23 @@ updated: 2026-10-24
 - **是谁**：Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求：6 款 PLANET 交换机商品页 + 自编货号（NRM10918 / NRM10831）→ 在售但无价无库存、交换机为主业之外的补充线；触达：info@netram.de + 0202 / 75805-0 公开（Impressum），总经理 Jürgen Hübner 具名但无公开邮箱；体量：Wuppertal 业主经营分销（1997 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封至 info@netram.de，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★（无价无库存 + 非主业 + 疲劳））。并档说明：Saga 表内本条 SC-1325（未填）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：SFP  AOC等较多）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-3 区域 未知/未填
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1325` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：未填 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存
+- **现状一句话**：Wuppertal 的光模块 / 光纤 / 内存分销商，有源组件子类目列 PLANET 商用与工业交换机（无价无库存）。类型：IT 电子分销商（1997 年起，业主经营）：光模块 / DAC-AOC / 光纤跳线 / CWDM 为主业，另有服务器内存 / SSD 升级；「Aktive Komponenten」子类目列 PLANET 商用 / 工业交换机（自编货号 NRM）。信号：netram.de 商品页：SGSW-24040P4 / SGSW-24040HP（24×GE PoE + 4 SFP）、GS-4210-24P2S、IGS-20160HPT（SKU NRM10918）、GS-2240-48T4X（NRM10831）、页内关联 IGS-6330-24T4S / WGSW-28040；价格页面未显示（登录 / 询价口径），库存未知。Planet 渠道档案 PB-095 评级 B（需求
+- **对方真实需求（有据）**：其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：
+- **断点 / 为什么停在这里**：PLANET 交换机是否仍有实际出货（无价无库存）；采购具名人；是否只做光模块捆绑而不进交换机库存
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：
+- **下一步（具体）**：不动　—　—
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

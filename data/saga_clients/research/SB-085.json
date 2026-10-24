@@ -79,5 +79,55 @@
   "tier": 30,
   "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）"
  },
- "email_hook": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?"
+ "email_hook": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@diatrend.co.jp, info@diatrend.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+   "type": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "日本 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的label」；研究档 risks：非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高"
+  },
+  "situation": "日本 ダイヤトレンド Diatrend（diatrend.co.jp：现场需求导向的产品厂商：接口电缆、光缆、PoE 产品页（DEPX-G5BT / DEIJ-GBT1 / DEH-GTZ4R2 PoE 注入/延长）、网络方案；表内「工业 FS / MC / SFP 自己的 label」；KP Kiyomasa Miyashita（Managing Director））；表内 2 次跟进无回复。",
+  "need": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）",
+  "breakpoint": "非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC SFP 自己的label",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "why": "31 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：域名 prestigevsat.com 对应 Prestige Satellite Communications Inc.（佛罗里达州公司，2016-01-26 注册；Fort Lauderdale；为豪华游艇提供 VSAT / TVRO / IT 网络服务与安装维修；团队 30+ 年经验；1–10 人）。用户表（外贸邦群发名单）记为「Prestige Satellites Communications S.A.C.（秘鲁）」，rob@prestigevsat.com，买了 MC PoE——公司后缀 S.A.C. 与域名所指美国公司不一致，国家待核（美国则属主攻区）。游艇 IT 网络 → 小型 PoE/工业机（振动/盐雾环境需注意）。（调研 2026-10-21；表内兴趣：买了MC POE）
 - **为什么是 B 级**：**调研后定级 B**（有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）；$35.5 USD EXW（25% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-123` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「买了MC POE / Prestige Satellites Communications S.A.C. / rob@p」）** ｜ 类型：通信集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：秘鲁 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸」；研究档 risks：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
+- **现状一句话**：域名 prestigevsat.com 对应 Prestige Satellite Communications Inc.（佛罗里达州公司，2016-01-26 注册；Fort Lauderdale；为豪华游艇提供 VSAT / TVRO / IT 网络服务与安装维修；团队 30+ 年经验；1–10 人）。用户表（外贸邦群发名单）记为「Prestige Satellites Communications S.A.C.（秘鲁）」，rob@prestigevsat.com，买了 MC PoE——公司后缀 S.A.C. 与域名所指美国公司不一致，国家待核（美国则属主攻区）。游艇 IT 网络 → 小型 PoE/工业机（振动/盐雾环境需注意）。
+- **对方真实需求（有据）**：项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）
+- **断点 / 为什么停在这里**：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
+- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
 ## 基本事实（事实/推断/假设分层）
 

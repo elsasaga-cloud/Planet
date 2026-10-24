@@ -71,5 +71,55 @@
   "tier": 20,
   "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）"
  },
- "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?"
+ "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 sales@trioms.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+   "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「AOA的工业MC 就这一款」；研究档 risks：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
+  },
+  "situation": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+  "need": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）",
+  "breakpoint": "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@",
+  "saga_now": {
+   "p1": "STI-110FE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "AOA的工业MC 就这一款",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "24 封 / 1 次打开 / 0 回",
+    "k": "gmail_digest"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
