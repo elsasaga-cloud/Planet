@@ -53,8 +53,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 | 表内备注 | `用户表` |
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「20 Preciso Technology SDN BHD 张志祥 C.S.Chong Senior manager Mitec 2023 系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota Damansara47810 Petaling JayaSelangor D.E., MALAYSIA cschong@precisote」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2025 | 去 | S 群发 | 8 port 2.5 Switch、48 port switch | 8 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

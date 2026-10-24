@@ -44,11 +44,13 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-170` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档
+- **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料；WhatsApp 问 Netstream 线：100G 核心用得如何、25G/100G 扩容与 BNSC-28GPM 下一批一起走 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档；两个自有品牌 BNSC + Netstream（PI 原件），Netstream 线含 CENTEC STH-2C24XF-SFI ×2（2025-11）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-09-09 | 去 | Saga 内部（Design.docx，1st order 包装盒设计） | 一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认 | Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据 | `Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata` |
+| 2025-11-23 | 去 | Saga PI STEC20251123012（Elsa 开，Buyer: Biz-Ethics Ltd., Valentine Mbata） | STC-424XGGPM-280W → Netstream-42410G280W ×8 @¥1,100；STC-4168XGGCM → BNSC-4168XGGCM ×1 @¥2,250（L3 managed）；STH-2C24XF-SFI → Netstream-24X100G-SFI ×2 @¥7,500（2×100G QSFP28 + 24×10G SFP, 0.5U, VXLAN/EVPN/BGP/OSPF/MPLS/MLAG）；TOTAL 11 件 ¥26,050；T/T in advance, EXW；Warranty 1 year | Mbata 有两个品牌：BNSC（接入 PoE/L3 汇聚）和 **Netstream**（10G 上联 PoE + CENTEC 100G 核心）——第 9 单把 CENTEC STH-2C24XF-SFI 以 Netstream 牌卖进拉各斯 = 全库唯一一个「WhatsApp 小客户买 CENTEC 核心机」的成交；采购侧 Hohunet（CENTEC）+ SmartByte ¥17,770。下次复购问 Netstream 线的 100G/25G 扩容，而不只问 BNSC-28GPM | `Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls` |
+| 2026-08-30 | 去 | Saga PI STEC20260830012（第 12 单） | STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full | 2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问 | `Drive PI 文件夹 12_Mbata STEC20260830012.xls` |
 
 ## 基本事实（事实/推断/假设分层）
 

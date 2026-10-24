@@ -1,119 +1,127 @@
 {
- "code": "SB-801",
- "name_official": "Preciso Technology Sdn Bhd（马来西亚）",
- "researched_at": "2026-10-21",
- "website_status": "在线（precisotechnology.com.my，快照 2026-10-21，内容空）",
- "summary": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "precisotechnology.com.my 首页无内容",
-   "quote": "status ok, empty",
-   "url": "https://precisotechnology.com.my/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "系统集成商 IOT，会去深圳看展，拿了光路彩页，问工业级可以达到 85 度吗；地址 48-2, Jalan PJU 5/20D, The Strand Kota Damansara 47810",
-   "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "C.S. Chong（张志祥）",
-   "title": "Senior Manager",
-   "email": "cschong@precisotechnology.com.my",
-   "phone": "+60 16 222 1954",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Preciso Technology Sdn Bhd",
-  "founded": "（待核）",
-  "hq": "48-2, Jalan PJU 5/20D, The Strand, Kota Damansara 47810, Selangor, Malaysia",
-  "size": "小型 SI（IoT）",
-  "other": "中文沟通"
- },
- "business_lines": [
-  "IoT / 系统集成"
- ],
- "channels": {
-  "role": "系统集成商",
-  "region": "马来西亚"
- },
- "signals": [
-  "计划访深圳 → 可约 SmartByte 工厂",
-  "问 85 ℃ → 高温场景（需如实说明 75 ℃ 上限）"
- ],
- "risks": [
-  "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。"
- },
- "email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "马来西亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
-  },
-  "situation": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
-  "need": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
-  "breakpoint": "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "8 port 2.5 Switch、48 port switch",
-    "why": "8 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-801",
+  "name_official": "Preciso Technology Sdn Bhd（马来西亚）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（precisotechnology.com.my，快照 2026-10-21，内容空）",
+  "summary": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "precisotechnology.com.my 首页无内容",
+      "quote": "status ok, empty",
+      "url": "https://precisotechnology.com.my/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "系统集成商 IOT，会去深圳看展，拿了光路彩页，问工业级可以达到 85 度吗；地址 48-2, Jalan PJU 5/20D, The Strand Kota Damansara 47810",
+      "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "C.S. Chong（张志祥）",
+      "title": "Senior Manager",
+      "email": "cschong@precisotechnology.com.my",
+      "phone": "+60 16 222 1954",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照空页 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Preciso Technology Sdn Bhd",
+    "founded": "（待核）",
+    "hq": "48-2, Jalan PJU 5/20D, The Strand, Kota Damansara 47810, Selangor, Malaysia",
+    "size": "小型 SI（IoT）",
+    "other": "中文沟通"
+  },
+  "business_lines": [
+    "IoT / 系统集成"
+  ],
+  "channels": {
+    "role": "系统集成商",
+    "region": "马来西亚"
+  },
+  "signals": [
+    "计划访深圳 → 可约 SmartByte 工厂",
+    "问 85 ℃ → 高温场景（需如实说明 75 ℃ 上限）"
+  ],
+  "risks": [
+    "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。"
+  },
+  "email_hook": "张经理，上次您问工业机能否到 85 ℃：我们工业线标称 -40~75 ℃，85 ℃ 需原厂确认降额使用；您下次来深圳看展时，我可以安排到 SmartByte 工厂做一次高温箱实测。方便告诉我安装环境吗？",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "马来西亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）"
+    },
+    "situation": "马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。",
+    "need": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
+    "breakpoint": "85 ℃ 要求超出 Saga 工业线（-40~75 ℃）",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「20 Preciso Technology SDN BHD 张志祥 C.S.Chong Senior manager Mitec 2023 系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota Damansara47810 Petaling JayaSelangor D.E., MALAYSIA cschong@precisote」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "8 port 2.5 Switch、48 port switch",
+        "why": "8 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「152 https://apolloinfoways.in/ 印度 买了丰润达的 富通天下 switch info@apolloinfoways.in」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2024-09-16 | 来 | ravi@apolloinfoways.in | Is this managed or unmanaged. Regards Ravi ________________________________ | 来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `87e3b8ad670eab84` |
 | 2024-09-18 | 来 | Ravi | I need manage switch for 24V/48V POE. | 需求 | `e3fdaaebc77d14ee` |
 | 2024-09-18 | 去 | Saga（Simon） | Hi, Ravi, Please see attached information. It is 110usd/pc. Thank you. | 历史报价点（主题「Re: 24V/48V PoE Switch」；第 20 批从 gmail_s 回补）：110usd | `f38de7254a2ba19a` |
@@ -260,7 +261,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: our earlier exchange
+**主题**：Re: 24V/48V PoE Switch
 
 ```text
 Hi Ravi,

@@ -54,8 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 | 表内备注 | `用户表` |
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「37 Heitech Padu Berhad www.secure-x.my Ts. Rizaki Bin Napi Cybersecurity Consultant Mitec 2023 对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. 1, Jalan Astaka U8/81,Seksyen U8, 40150 Shah 」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024 | 去 | S 群发 | Industrial PoE Switch、Passive PoE Switch | 8 封 / 1 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

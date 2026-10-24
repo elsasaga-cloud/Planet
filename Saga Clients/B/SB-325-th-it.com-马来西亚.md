@@ -51,6 +51,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024-07-29 | 来 | inquiry@th-it.com | sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic | 来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `79b10682153051b0` |
 | 2024-09-09 | 来 | inquiry@th-it.com | Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268 | 来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `8ceb773d69d13c9f` |
 

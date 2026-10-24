@@ -54,6 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「132 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com 印度 Manan Bhavsar 之前的跟进 bypass 管理POE等 manan@a-ites.com 91 9825095206 已加 #209, Akshar Stadia, Opp. Symphony Ltd. Bodakdev, Ahmedabad-380054, India」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
+| 2023-12-13 | 备 | Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹） | 名单行：「8 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com India Manan Bhavsar bypass managed switch manan@a-ites.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2025-04-21 | 来 | postmaster@a-ites.com | Your message to manish.m@a-ites.com couldn't be delivered. manish.m wasn't found at a-ites.com（chirag.s@ 同样；2025-03-12 与 2025-04-21 两次） | Elsa 邮箱退信（第 21 批连接器抽查）：两个具名邮箱已失效 → 该户目前没有可用邮箱 | `gmail_e:19657787c93c8d51` |
 | 2026-10-21 | 用户表 | Simon | Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed | 表内备注 | `用户表` |
 

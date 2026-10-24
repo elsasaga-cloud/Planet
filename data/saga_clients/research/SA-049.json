@@ -263,12 +263,28 @@
     },
     "facts": [
       {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
+        "quote": "名单行：「7 http://www.sundartechno.com/ India Manoj Kumar N CEO 91-948208 1014 sales@sundartechno.com sales@embeddedaautomation.org asked bypass 100pcs」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
         "date": "2024-11-08",
         "dir": "PI",
         "who": "Simon → Manoj Kumar（CEO）",
         "quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
         "why": "首单",
         "k": "PI STSC20241108014"
+      },
+      {
+        "date": "2024-11-09",
+        "dir": "采购合同",
+        "who": "Saga → SmartByte",
+        "quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
+        "why": "成本/贴牌要求",
+        "k": "采购合同_STSC20241108014"
       },
       {
         "date": "2025-01-07",
@@ -285,14 +301,6 @@
         "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
         "why": "复购 2",
         "k": "PI STSC20251009014"
-      },
-      {
-        "date": "2024-11-09",
-        "dir": "采购合同",
-        "who": "Saga → SmartByte",
-        "quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
-        "why": "成本/贴牌要求",
-        "k": "采购合同_STSC20241108014"
       }
     ],
     "proof_gaps": [

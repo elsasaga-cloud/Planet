@@ -3561,6 +3561,14 @@
 },
 "facts": [
 {
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「39 Xspec Technology Sdn Bhd www.xspectechnology.com Sugito Wibawa Chief Executive Officer Mitec 2023 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selang」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
+{
 "date": "2024-06-14",
 "dir": "来",
 "who": "Sugito Wibawa（CEO）",
@@ -23006,12 +23014,28 @@
 },
 "facts": [
 {
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
+"quote": "名单行：「7 http://www.sundartechno.com/ India Manoj Kumar N CEO 91-948208 1014 sales@sundartechno.com sales@embeddedaautomation.org asked bypass 100pcs」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
+},
+{
 "date": "2024-11-08",
 "dir": "PI",
 "who": "Simon → Manoj Kumar（CEO）",
 "quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
 "why": "首单",
 "k": "PI STSC20241108014"
+},
+{
+"date": "2024-11-09",
+"dir": "采购合同",
+"who": "Saga → SmartByte",
+"quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
+"why": "成本/贴牌要求",
+"k": "采购合同_STSC20241108014"
 },
 {
 "date": "2025-01-07",
@@ -23028,14 +23052,6 @@
 "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
 "why": "复购 2",
 "k": "PI STSC20251009014"
-},
-{
-"date": "2024-11-09",
-"dir": "采购合同",
-"who": "Saga → SmartByte",
-"quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
-"why": "成本/贴牌要求",
-"k": "采购合同_STSC20241108014"
 }
 ],
 "proof_gaps": [
@@ -60828,6 +60844,22 @@
 },
 "facts": [
 {
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「132 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com 印度 Manan Bhavsar 之前的跟进 bypass 管理POE等 manan@a-ites.com 91 9825095206 已加 #209, Akshar Stadia, Opp. Symphony Ltd. Bodakdev, Ahmedabad-380054, India」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
+},
+{
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
+"quote": "名单行：「8 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com India Manan Bhavsar bypass managed switch manan@a-ites.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
+},
+{
 "date": "2025-04-21",
 "dir": "来",
 "who": "postmaster@a-ites.com",
@@ -72799,10 +72831,10 @@
 "type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
 "sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
 "stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
-"revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料",
+"revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料；WhatsApp 问 Netstream 线：100G 核心用得如何、25G/100G 扩容与 BNSC-28GPM 下一批一起走",
 "lane": "NG 已通（客户货代 + 货代走账）",
 "cadence": "最后 PI 2026-08-30；邮件 0 封",
-"evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
+"evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档；两个自有品牌 BNSC + Netstream（PI 原件），Netstream 线含 CENTEC STH-2C24XF-SFI ×2（2025-11）"
 },
 "as_of": "2026-10-24",
 "facts": [
@@ -72813,6 +72845,22 @@
 "quote": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
 "why": "Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
+},
+{
+"date": "2025-11-23",
+"dir": "去",
+"who": "Saga PI STEC20251123012（Elsa 开，Buyer: Biz-Ethics Ltd., Valentine Mbata）",
+"quote": "STC-424XGGPM-280W → Netstream-42410G280W ×8 @¥1,100；STC-4168XGGCM → BNSC-4168XGGCM ×1 @¥2,250（L3 managed）；STH-2C24XF-SFI → Netstream-24X100G-SFI ×2 @¥7,500（2×100G QSFP28 + 24×10G SFP, 0.5U, VXLAN/EVPN/BGP/OSPF/MPLS/MLAG）；TOTAL 11 件 ¥26,050；T/T in advance, EXW；Warranty 1 year",
+"why": "Mbata 有两个品牌：BNSC（接入 PoE/L3 汇聚）和 **Netstream**（10G 上联 PoE + CENTEC 100G 核心）——第 9 单把 CENTEC STH-2C24XF-SFI 以 Netstream 牌卖进拉各斯 = 全库唯一一个「WhatsApp 小客户买 CENTEC 核心机」的成交；采购侧 Hohunet（CENTEC）+ SmartByte ¥17,770。下次复购问 Netstream 线的 100G/25G 扩容，而不只问 BNSC-28GPM",
+"k": "Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls"
+},
+{
+"date": "2026-08-30",
+"dir": "去",
+"who": "Saga PI STEC20260830012（第 12 单）",
+"quote": "STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full",
+"why": "2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问",
+"k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
 }
 ]
 }
@@ -97348,7 +97396,7 @@
 ],
 "proof_gaps": [],
 "draft_en": {
-"subject": "Re: our earlier exchange",
+"subject": "Re: Marvell Managed Commercial Switches",
 "body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
@@ -124258,6 +124306,14 @@
 },
 "facts": [
 {
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「23 Intracom Middle East FZ-LLC Mohammad Yaacoub Projects Manager Mitec 2023 POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE mohammad.yaacoub@intracom-telecom.com 971 50 654 5766 手机」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
+{
 "date": "2024-08-07",
 "dir": "来",
 "who": "myaacoub@intracom-telecom.com",
@@ -124284,7 +124340,7 @@
 ],
 "proof_gaps": [],
 "draft_en": {
-"subject": "Re: our earlier exchange",
+"subject": "Re: Industrial poe switch",
 "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
@@ -141885,6 +141941,14 @@
 "one_question": "For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers?"
 },
 "facts": [
+{
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「111 https://www.netstar.in/product-category/reverse-poe-switches/ 印度 谷歌 商业POE 基本是非标和反向的 switch@netstar.in」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -222900,12 +222964,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "工业FS 自己的logo；回复里有详细联系方式",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「85 https://io.hfcl.com/products/industrial-access-switch 印度 谷歌 商业FS 工业FS iosales@hfcl.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
 },
 {
 "date": "2025",
@@ -222924,6 +222988,14 @@
 "k": "gmail_e"
 },
 {
+"date": "2026-01-08",
+"dir": "去",
+"who": "Elsa",
+"quote": "About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg）",
+"why": "Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD",
+"k": "gmail_e 19b9ce96044d34d2"
+},
+{
 "date": "2026-04-03",
 "dir": "来",
 "who": "Shantanu Rana",
@@ -222938,22 +223010,6 @@
 "quote": "if it is imported to India in latest, can we have the PO for reference and the proof of selling.",
 "why": "要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示）",
 "k": "gmail_e"
-},
-{
-"date": "2026-04-06",
-"dir": "来",
-"who": "Shantanu Rana",
-"quote": "Can you text me on wats app",
-"why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
-"k": "gmail_e"
-},
-{
-"date": "2026-01-08",
-"dir": "去",
-"who": "Elsa",
-"quote": "About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg）",
-"why": "Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD",
-"k": "gmail_e 19b9ce96044d34d2"
 },
 {
 "date": "2026-04-05",
@@ -222973,11 +223029,27 @@
 },
 {
 "date": "2026-04-06",
+"dir": "来",
+"who": "Shantanu Rana",
+"quote": "Can you text me on wats app",
+"why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
+"k": "gmail_e"
+},
+{
+"date": "2026-04-06",
 "dir": "去",
 "who": "Elsa",
 "quote": "My colleague Simon said hi on WhatsApp.",
 "why": "渠道交接点：此后进展只在 Simon 手机",
 "k": "gmail_e 19d61799606c69e0"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "工业FS 自己的logo；回复里有详细联系方式",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [
@@ -227303,12 +227375,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "商业PoE CCTV 宝安有办公室",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「116 atalog.weidmueller.com/catalog/Start.do?+localeId=hk&ObjectID=group323638918562 印度 谷歌 商业POE sales@provisionisr.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
 },
 {
 "date": "2026",
@@ -227317,6 +227389,14 @@
 "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
 "why": "23 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "商业PoE CCTV 宝安有办公室",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -234270,7 +234350,7 @@
 ],
 "proof_gaps": [],
 "draft_en": {
-"subject": "Re: our earlier exchange",
+"subject": "Re: Commercial PoE Switch",
 "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July fit the access-control job, or did the count change?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
@@ -248832,12 +248912,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：主动联系 问了network switch security products distributor",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「56 Saxco Marketing Sdn Bhd www.saxco.com.my 马来西亚 Heng Lee Sun Malaysia fair 主动联系 问了network switch security products distributor purchaser5@saxco.com.my Skype: saxco225 Add: No 8, Jalan SS4C/5 , Taman Rasa Sayang, 47301 P」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2024",
@@ -248846,6 +248926,14 @@
 "quote": "Industrial fiber switch、Industrial poe switch",
 "why": "7 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：主动联系 问了network switch security products distributor",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -275038,6 +275126,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
 {
 "date": "2024-07-29",
 "dir": "来",
@@ -324150,6 +324246,14 @@
 "quote": "第一梯队：Krontech（主攻 CENTEC 高速，「We can provide a testing sample of our 10G/40G switches, already evaluated by a Tier-1 Turkish integrator」）、Karel（老牌军工通信，PoE 大户，「你推了 3 轮，他们已经熟悉你」，低频强存在）；第二梯队：KocSistem、Teknoser、NGN、Tellcom、Berqnet、Probil、Biznet、Havelsan 下游",
 "why": "Netaş 成单的复利用法 = 土耳其同级集成商背书名单；计划里的 Krontech/Karel/KocSistem 等在客户库里要逐个核对是否建档（多数未建档或在 C）——这是 2027 土耳其线的现成清单，但「already evaluated by a Tier-1 Turkish integrator」不能点名 Netaş（NDA）",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
+},
+{
+"date": "2025-12-24",
+"dir": "去",
+"who": "Saga 内部（TR重点公司.xlsx，PI 根目录）",
+"quote": "1 Krontech 主推 Centec 高速；2 Karel 商业 PoE，用的丰润达的，老牌通信/军工电子厂，国防/政府项目的国产化替代；3 Netaş Ender BULUT 在谈了 L2/L3 Switches 系统集成商，对 CENTEC 接受度也 OK；4 Turkcell 和 Netas 关系紧密 不主动推；5 Vodafone TR 可多介绍与 Netas 的关系，认可 Marvell CENTEC 也能推；6 KocSistem IT 服务商 分销不错；7 Aselsan 军工，Netas 和 Karel 都是它的供应商；8 Havelsan 推数据中心交换机",
+"why": "Simon 自己的土耳其 8 家重点名单（表内 19 个跟进 sheet 全空 = 还没开始跟）。与客户库冲突：Karel = SC-2557「用户判定不行」，这里却是重点；Turkcell/Aselsan 等未建档。土耳其线开工前先把这 8 家与客户库对齐",
+"k": "data/pi_2026-10/text/PI__PI__TR重点公司.xlsx"
 },
 {
 "date": "2026-01-13",
@@ -394108,6 +394212,14 @@
 },
 "facts": [
 {
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「152 https://apolloinfoways.in/ 印度 买了丰润达的 富通天下 switch info@apolloinfoways.in」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
+},
+{
 "date": "2024-09-16",
 "dir": "来",
 "who": "ravi@apolloinfoways.in",
@@ -394168,7 +394280,7 @@
 "Elsa 回复未入库"
 ],
 "draft_en": {
-"subject": "Re: our earlier exchange",
+"subject": "Re: 24V/48V PoE Switch",
 "body": "Hi Ravi,\n\nPicking up your note of 2025-12-08 (\"How about Console port and management ports…\"). Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
@@ -408932,12 +409044,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "IM-FS240GM 250pcs；91 98112 35060",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「37 https://www.technics-india.com/wpccategories/industrial-ethernet-solutions/ 印度 Kyland这个牌子 谷歌 工业FS MC 串口 工业自动化 info@technicsonline.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
 },
 {
 "date": "2026",
@@ -408946,6 +409058,14 @@
 "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
 "why": "5 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "IM-FS240GM 250pcs；91 98112 35060",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -411211,12 +411331,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-12-13",
+"dir": "备",
+"who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+"quote": "名单行：「96 https://www.andatelecomindia.com/ 印度 外贸邦 MC Switch 周边产品 harish@andatelecom.com ‘91（0）935025 7173 已加」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 2_印度_Rishi"
 },
 {
 "date": "2025",
@@ -411249,6 +411369,14 @@
 "quote": "we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory)",
 "why": "卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需",
 "k": "gmail_e"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [
@@ -426704,12 +426832,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「37 Heitech Padu Berhad www.secure-x.my Ts. Rizaki Bin Napi Cybersecurity Consultant Mitec 2023 对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. 1, Jalan Astaka U8/81,Seksyen U8, 40150 Shah 」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2024",
@@ -426718,6 +426846,14 @@
 "quote": "Industrial PoE Switch、Passive PoE Switch",
 "why": "8 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -427969,12 +428105,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「42 Maxitulin P.Kumar Design Analyst Engineer Mitec 2023 用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, Malay」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2024",
@@ -427983,6 +428119,14 @@
 "quote": "L3 managed PoE Switch、24 port poe switch",
 "why": "8 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -428200,12 +428344,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「20 Preciso Technology SDN BHD 张志祥 C.S.Chong Senior manager Mitec 2023 系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota Damansara47810 Petaling JayaSelangor D.E., MALAYSIA cschong@precisote」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2025",
@@ -428214,6 +428358,14 @@
 "quote": "8 port 2.5 Switch、48 port switch",
 "why": "8 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -428429,12 +428581,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「35 SIGMA RECTRIX SYSTEMS (M) SDN BHD Mohamad Faiza Bin Ismail Pre-Sales Consultant Mitec 2023 方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多，好像见的比较少 公司地址：Suite 3-05 4805 CBD Perdana 2Jalan Perdana Cyber 12, 63000Cyberjaya, Selangor MA」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2024",
@@ -428443,6 +428595,14 @@
 "quote": "Industrial Fiber Switch、industrial poe managed switch",
 "why": "8 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -429365,12 +429525,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「26 Sun Energy Enterprise Sdn Bhd Tan Chan Sun Managing Director Mitec 2023 马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 公司地址：54-1, Jalan Metro Perdana Timur 9,Taman Usahawan Kepong,Kepong, 52100 Kuala Lumpur,Malaysia. cha」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2025",
@@ -429379,6 +429539,14 @@
 "quote": "8 Port Industrial PoE Switch、Industrial PoE media converter",
 "why": "9 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -433736,6 +433904,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「53 https://www.cybron.com.my/ 马来西亚 Hussen 2023.7.7 5电口 需要具体的产品信息 实际需要带光的工业POE hussen@cybron.com.my 601938 61632 已加」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -455441,12 +455617,12 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
-"why": "表内备注",
-"k": "用户表"
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「25 www.vulsanx.com Annamery Raja Osint Researcher Mitec 2023 问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少 公司地址：No 59-1 & 59-2 Jalan MPK了,Medan Perdagangan Kepayang,70200 Seremban, Negeri Sembilar mery@vulsanx.com 6011-5」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
 },
 {
 "date": "2025",
@@ -455455,6 +455631,14 @@
 "quote": "PoE switch、48 port managed switch",
 "why": "9 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [],
@@ -511741,6 +511925,14 @@
 },
 "facts": [
 {
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
+{
 "date": "2026-08-18",
 "dir": "报价",
 "who": "Simon → Raja King",
@@ -515789,6 +515981,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2023-07-01",
+"dir": "备",
+"who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+"quote": "名单行：「5 https://marugged.com/serial-converters/ 马来西亚 Moxa sales@marugged.com」",
+"why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+"k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
 {
 "date": "2026",
 "dir": "去",

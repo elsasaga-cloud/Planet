@@ -52,16 +52,17 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo；回复里有详细联系方式 | 表内备注 | `用户表` |
+| 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「85 https://io.hfcl.com/products/industrial-access-switch 印度 谷歌 商业FS 工业FS iosales@hfcl.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2025 | 去 | A/S 群发 | Marvell Alleycat5 Solution、poe managed switch | 9 封 / 0 次打开 / 0 回 | `gmail_digest` |
 | 2026-01-08 | 来 | Shantanu Rana（HFCL, DGM Key Strategic Accounts） | How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also. | Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂） | `gmail_e` |
+| 2026-01-08 | 去 | Elsa | About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg） | Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD | `gmail_e 19b9ce96044d34d2` |
 | 2026-04-03 | 来 | Shantanu Rana | Manufacturing country- Price- Model number IPR- Kindly share details | 四件套问法 = 真实采购评估清单 | `gmail_e` |
 | 2026-04-05 | 来 | Shantanu Rana | if it is imported to India in latest, can we have the PO for reference and the proof of selling. | 要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示） | `gmail_e` |
-| 2026-04-06 | 来 | Shantanu Rana | Can you text me on wats app | 对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库 | `gmail_e` |
-| 2026-01-08 | 去 | Elsa | About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg） | Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD | `gmail_e 19b9ce96044d34d2` |
 | 2026-04-05 | 去 | Elsa | Manufacturing country: China Price: 35USD/PC industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V | 对 HFCL 报的是 STI-244GP 级（列表价 $49.5）→ $35 低于列表价，属老汇率/低价口径 | `gmail_e 19d5dda75eb2844d` |
 | 2026-04-05 | 去 | Elsa | we have supplied this product to India recently … no formal PO … we can provide shipping document and proof of delivery（附 AWB.png / Whatsapp Talk.png） | 印度先例证明已给（AWB + 客户 WhatsApp 截图） | `gmail_e 19d5df7137413d07` |
+| 2026-04-06 | 来 | Shantanu Rana | Can you text me on wats app | 对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库 | `gmail_e` |
 | 2026-04-06 | 去 | Elsa | My colleague Simon said hi on WhatsApp. | 渠道交接点：此后进展只在 Simon 手机 | `gmail_e 19d61799606c69e0` |
+| 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo；回复里有详细联系方式 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机；SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核
 

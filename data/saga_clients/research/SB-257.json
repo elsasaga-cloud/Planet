@@ -95,12 +95,12 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：主动联系 问了network switch security products distributor",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「56 Saxco Marketing Sdn Bhd www.saxco.com.my 马来西亚 Heng Lee Sun Malaysia fair 主动联系 问了network switch security products distributor purchaser5@saxco.com.my Skype: saxco225 Add: No 8, Jalan SS4C/5 , Taman Rasa Sayang, 47301 P」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
       },
       {
         "date": "2024",
@@ -109,6 +109,14 @@
         "quote": "Industrial fiber switch、Industrial poe switch",
         "why": "7 封 / 1 次打开 / 0 回",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：主动联系 问了network switch security products distributor",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [],

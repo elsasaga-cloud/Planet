@@ -128,12 +128,12 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「96 https://www.andatelecomindia.com/ 印度 外贸邦 MC Switch 周边产品 harish@andatelecom.com ‘91（0）935025 7173 已加」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
       },
       {
         "date": "2025",
@@ -166,6 +166,14 @@
         "quote": "we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory)",
         "why": "卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需",
         "k": "gmail_e"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [

@@ -54,8 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 | 表内备注 | `用户表` |
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「42 Maxitulin P.Kumar Design Analyst Engineer Mitec 2023 用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, Malay」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024 | 去 | S 群发 | L3 managed PoE Switch、24 port poe switch | 8 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

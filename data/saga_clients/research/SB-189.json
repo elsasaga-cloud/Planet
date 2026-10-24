@@ -1,124 +1,132 @@
 {
- "code": "SB-189",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（provision-isr.com，快照 2026-10-21）",
- "summary": "美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。",
- "type": "CCTV 品牌商（PoE 配套，深圳有办事处）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：provision-isr.com",
-   "quote": "",
-   "url": "https://provision-isr.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE CCTV 宝安有办公室",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE CCTV 宝安有办公室",
-   "quote": "商业PoE CCTV 宝安有办公室；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Leonardo Severi",
-   "title": "Technical & Presale Manager",
-   "email": "sales@provisionisr.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV / PoE（自有品牌 Provision-ISR）"
- ],
- "channels": {
-  "role": "CCTV 品牌商（PoE 配套，深圳有办事处）",
-  "region": "美国",
-  "contact": "sales@provisionisr.com"
- },
- "signals": [
-  "表内：商业 PoE CCTV 宝安有办公室；KP Leonardo Severi / Technical & Presale Manager；可以尝试多跟进一下",
-  "快照：内容为空（provision-isr.com / provisionisr.com）"
- ],
- "risks": [
-  "宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 sales@provisionisr.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
-   "type": "CCTV 品牌商（PoE 配套，深圳有办事处）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23；用户表：「商业PoE CCTV 宝安有办公室」；研究档 risks：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manag"
-  },
-  "situation": "美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。",
-  "need": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE CCTV 宝安有办公室",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "23 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-189",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（provision-isr.com，快照 2026-10-21）",
+  "summary": "美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。",
+  "type": "CCTV 品牌商（PoE 配套，深圳有办事处）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：provision-isr.com",
+      "quote": "",
+      "url": "https://provision-isr.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE CCTV 宝安有办公室",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE CCTV 宝安有办公室",
+      "quote": "商业PoE CCTV 宝安有办公室；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Leonardo Severi",
+      "title": "Technical & Presale Manager",
+      "email": "sales@provisionisr.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "CCTV / PoE（自有品牌 Provision-ISR）"
+  ],
+  "channels": {
+    "role": "CCTV 品牌商（PoE 配套，深圳有办事处）",
+    "region": "美国",
+    "contact": "sales@provisionisr.com"
+  },
+  "signals": [
+    "表内：商业 PoE CCTV 宝安有办公室；KP Leonardo Severi / Technical & Presale Manager；可以尝试多跟进一下",
+    "快照：内容为空（provision-isr.com / provisionisr.com）"
+  ],
+  "risks": [
+    "宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 sales@provisionisr.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+      "type": "CCTV 品牌商（PoE 配套，深圳有办事处）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 23；用户表：「商业PoE CCTV 宝安有办公室」；研究档 risks：宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manag"
+    },
+    "situation": "美国/以色列 Provision-ISR（CCTV 品牌（以色列总部，北美站 provisionisr.com）；表内「商业 PoE CCTV，宝安有办公室」「可以尝试多跟进一下」；KP Leonardo Severi（Technical & Presale Manager））；群发 10 次无回复。",
+    "need": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "宝安有办公室（直接在深圳采购，价格比对激烈）；国别待核（表内美国，品牌总部以色列）；10 次无回复 → 改向 Technical & Presale Manager 具名首触",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Provision-ISR 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Leonardo, for the PoE switches in the Provision-ISR range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS/FCC — which PoE SKU do your distributors reorder most with camera kits?"
+    },
+    "facts": [
+      {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「116 atalog.weidmueller.com/catalog/Start.do?+localeId=hk&ObjectID=group323638918562 印度 谷歌 商业POE sales@provisionisr.com」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+        "why": "23 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE CCTV 宝安有办公室",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

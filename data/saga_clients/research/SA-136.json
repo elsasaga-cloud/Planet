@@ -162,6 +162,22 @@
     },
     "facts": [
       {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「132 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com 印度 Manan Bhavsar 之前的跟进 bypass 管理POE等 manan@a-ites.com 91 9825095206 已加 #209, Akshar Stadia, Opp. Symphony Ltd. Bodakdev, Ahmedabad-380054, India」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹）",
+        "quote": "名单行：「8 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com India Manan Bhavsar bypass managed switch manan@a-ites.com」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
         "date": "2025-04-21",
         "dir": "来",
         "who": "postmaster@a-ites.com",

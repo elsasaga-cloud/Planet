@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「39 Xspec Technology Sdn Bhd www.xspectechnology.com Sugito Wibawa Chief Executive Officer Mitec 2023 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selang」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024-06-14 | 来 | Sugito Wibawa（CEO） | I am looking for PASSIVE POE 24 port Switch. Do you have ? | 需求 | `c4b545e745cfee3e` |
 | 2024-06-14 | 来 | Sugito | MUST BE PASSIVE POE… 24 x 10-100Mbps downlink PoE… PoE switch output 24V… Maximum power of single PoE port: 15,4W | 规格 | `d4fd9769046a10ec` |
 | 2024-06-17 | 去 | Saga（Simon） | Hi, Sugito, Thanks for your information. After careful check, we can offer it, but we do not have a ready datasheet yet. Price: 90usd/pc Commercial PoE Switch 2*1G SFP uplink+2*1000M Copper uplink+24*10/100M PoE downlink, passive PoE, unmanaged AC 100~240V inp | 历史报价点（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）：90usd | `eb6c2057389fafbf` |

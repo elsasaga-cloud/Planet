@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「111 https://www.netstar.in/product-category/reverse-poe-switches/ 印度 谷歌 商业POE 基本是非标和反向的 switch@netstar.in」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业POE POE配件 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码

@@ -56,6 +56,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2026-08-18 | 报价 | Simon → Raja King | STS-20260818-001：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 件 RMB 7,580 | 报价 | `PI STS-20260818-001` |
 | 2026-08-21 | PI | Simon → WizardsInc | STI-288GPM ×2 @550、STI-21616GP ×4 @1,140、STI-21616GPM ×1 @1,550、光模块 … TOTAL 42 / RMB 10,500；T/T in advance, EXW；Sample Testing | 成交 | `PI STSC20260821019` |
 | 2026-08-21 | 采购合同 | Saga → SmartByte | TOTAL 42 / 5,348 RMB；中性设备，常规 PVC 膜，不放保修卡…管理线放…序列号 202608210001~ | 成本与贴牌要求 | `采购合同_STSC20260819019` |

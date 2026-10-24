@@ -115,6 +115,14 @@
     },
     "facts": [
       {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「152 https://apolloinfoways.in/ 印度 买了丰润达的 富通天下 switch info@apolloinfoways.in」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
         "date": "2024-09-16",
         "dir": "来",
         "who": "ravi@apolloinfoways.in",
@@ -175,7 +183,7 @@
       "Elsa 回复未入库"
     ],
     "draft_en": {
-      "subject": "Re: our earlier exchange",
+      "subject": "Re: 24V/48V PoE Switch",
       "body": "Hi Ravi,\n\nPicking up your note of 2025-12-08 (\"How about Console port and management ports…\"). Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

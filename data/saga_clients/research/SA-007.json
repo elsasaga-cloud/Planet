@@ -172,6 +172,14 @@
     },
     "facts": [
       {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「39 Xspec Technology Sdn Bhd www.xspectechnology.com Sugito Wibawa Chief Executive Officer Mitec 2023 对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selang」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
         "date": "2024-06-14",
         "dir": "来",
         "who": "Sugito Wibawa（CEO）",

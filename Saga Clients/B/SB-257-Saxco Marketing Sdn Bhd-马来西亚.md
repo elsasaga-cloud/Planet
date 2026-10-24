@@ -54,8 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：主动联系 问了network switch security products distributor | 表内备注 | `用户表` |
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「56 Saxco Marketing Sdn Bhd www.saxco.com.my 马来西亚 Heng Lee Sun Malaysia fair 主动联系 问了network switch security products distributor purchaser5@saxco.com.my Skype: saxco225 Add: No 8, Jalan SS4C/5 , Taman Rasa Sayang, 47301 P」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024 | 去 | S 群发 | Industrial fiber switch、Industrial poe switch | 7 封 / 1 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：主动联系 问了network switch security products distributor | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

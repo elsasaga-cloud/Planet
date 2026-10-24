@@ -1,120 +1,128 @@
 {
- "code": "SC-1034",
- "name_official": "Mid-Atlantic Rugged Systems (M/A Rugged)",
- "researched_at": "2026-10-21",
- "website_status": "在线（marugged.com；并档 Planet 渠道档案 PB-005）",
- "summary": "马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "Moxa"
- ],
- "evidence": [
-  {
-   "kind": "公司自述",
-   "claim": "M/A Rugged 是 PLANET 美国授权分销",
-   "quote": "M/A Rugged is an authorized PLANET Technology distributor in the U.S. Contact us for a quote on any of their innovative industrial networking products.",
-   "url": "https://marugged.com/planet-technology/?page=3",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述",
-   "claim": "加固计算与网络 VAD，Moxa 合作 10 年+，提供定制方案",
-   "quote": "Mid-Atlantic Rugged Systems is a value added distributor of rugged computer and networking technologies, and a trusted Moxa Partner for over 10 years.",
-   "url": "https://marugged.com/about-marugged/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "卖方目录",
-   "claim": "在售 PLANET WGS-4215-8P2S",
-   "quote": "PLANET Technology WGS-4215-8P2S Wall-mount Ethernet switch",
-   "url": "https://marugged.com/planet-technology-wgs-4215-8p2s/",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [],
- "grade_override": "B",
- "override_reason": "Planet 渠道档案 PB-005 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-005，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Mid-Atlantic Rugged Systems (M/A Rugged)",
-  "founded": "",
-  "hq": "Frederick, MD, 美国",
+  "code": "SC-1034",
+  "name_official": "Mid-Atlantic Rugged Systems (M/A Rugged)",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（marugged.com；并档 Planet 渠道档案 PB-005）",
+  "summary": "马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-005（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：否；最大未知："
- },
- "business_lines": [
-  "工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "WGS-4215-8P2S",
-   "spec": "8×GE PoE + 2 SFP 工业 L2+（PLANET 壁挂，Saga DIN）",
-   "saga": "STI-288DGGPM",
-   "url": "https://marugged.com",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）",
-  "region": "美国"
- },
- "signals": [
-  "小型 VAD，直接向最终客户做配置与定制（「custom solutions」）→ 工业壁挂/DIN PoE 第二货源，强调定制能力"
- ],
- "risks": [],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求："
- },
- "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "马来西亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 1"
-  },
-  "situation": "马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
-  "need": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
-  "breakpoint": "无回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET",
+    "Moxa"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "公司自述",
+      "claim": "M/A Rugged 是 PLANET 美国授权分销",
+      "quote": "M/A Rugged is an authorized PLANET Technology distributor in the U.S. Contact us for a quote on any of their innovative industrial networking products.",
+      "url": "https://marugged.com/planet-technology/?page=3",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "加固计算与网络 VAD，Moxa 合作 10 年+，提供定制方案",
+      "quote": "Mid-Atlantic Rugged Systems is a value added distributor of rugged computer and networking technologies, and a trusted Moxa Partner for over 10 years.",
+      "url": "https://marugged.com/about-marugged/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "卖方目录",
+      "claim": "在售 PLANET WGS-4215-8P2S",
+      "quote": "PLANET Technology WGS-4215-8P2S Wall-mount Ethernet switch",
+      "url": "https://marugged.com/planet-technology-wgs-4215-8p2s/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [],
+  "grade_override": "B",
+  "override_reason": "Planet 渠道档案 PB-005 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-005，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "Mid-Atlantic Rugged Systems (M/A Rugged)",
+    "founded": "",
+    "hq": "Frederick, MD, 美国",
+    "size": "",
+    "other": "Planet 渠道档案 PB-005（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：否；最大未知："
+  },
+  "business_lines": [
+    "工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "WGS-4215-8P2S",
+      "spec": "8×GE PoE + 2 SFP 工业 L2+（PLANET 壁挂，Saga DIN）",
+      "saga": "STI-288DGGPM",
+      "url": "https://marugged.com",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）",
+    "region": "美国"
+  },
+  "signals": [
+    "小型 VAD，直接向最终客户做配置与定制（「custom solutions」）→ 工业壁挂/DIN PoE 第二货源，强调定制能力"
+  ],
+  "risks": [],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求："
+  },
+  "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "马来西亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 1"
+    },
+    "situation": "马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。",
+    "need": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
+    "breakpoint": "无回复",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「5 https://marugged.com/serial-converters/ 马来西亚 Moxa sales@marugged.com」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "24 Port PoE Managed Switch",
+        "why": "1 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

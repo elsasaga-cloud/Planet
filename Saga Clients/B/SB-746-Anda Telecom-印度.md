@@ -54,11 +54,12 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
+| 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「96 https://www.andatelecomindia.com/ 印度 外贸邦 MC Switch 周边产品 harish@andatelecom.com ‘91（0）935025 7173 已加」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2025 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24V poe switch | 9 封 / 1 次打开 / 0 回 | `gmail_digest` |
 | 2025-06-17 | 来 | Harish Gupta（Director, ANDA Telecom） | Dear Nitin/Subhash Please reply. | 董事把 Elsa 的 16 口信转给采购两人 = 内部有兴趣 | `gmail_e` |
 | 2026-08-04 | 来 | Subhash（ANDA Telecom） | First share us data sheet for the same | 24 口 PoE（AC5）信当天要规格书 | `gmail_e` |
 | 2026-08-04 | 来 | Subhash | we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory) | 卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需 | `gmail_e` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 2026-08-04 发出的规格书型号未入库
 

@@ -1,143 +1,151 @@
 {
- "code": "SB-738",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（technics-india.com，快照 2026-10-21）",
- "summary": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
- "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
- "size": "",
- "brands_seen": [
-  "Advantech"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Technics Infosolutions Pvt. Ltd. – New Delhi；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆",
-   "quote": "",
-   "url": "https://www.technics-india.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "IM-FS240GM 250pcs；91 98112 35060",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Technics Infosolutions Pvt. Ltd. – New Delhi；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "",
-   "url": "https://www.technics-india.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Technics Infosolutions 新德里",
-   "quote": "Technics Infosolutions Pvt. Ltd. – New Delhi",
-   "url": "https://www.technics-india.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "IM-FS240GM 250pcs 询价",
-   "quote": "IM-FS240GM 250pcs；91 98112 35060",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Prakash",
-   "title": "（表内联系人）",
-   "email": "opsharma@technicsonline.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "印度",
-  "other": "官网 technics-india.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业自动化分销（Advantech 等）",
-  "工业以太网交换机品类"
- ],
- "channels": {
-  "role": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
-  "region": "印度",
-  "contact": "opsharma@technicsonline.com"
- },
- "signals": [
-  "表内：IM-FS240GM 250pcs；91 98112 35060；KP Prakash",
-  "栏目 /wpccategories/poe-ethernet-switches/、/ieee1588-industrial-ethernet-switch/、/intrinsic-safety-ethernet-switches-…；站内 UNO-4000 / ADAM-5000 / WISE-4000"
- ],
- "risks": [
-  "询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
-  "印度 BIS / 关税：250 台整机进口需其持证；非主攻区（T5）",
-  "本安型/IEEE1588 栏目：Saga 不做本安与 PTP"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**"
- },
- "email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 opsharma@technicsonline.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
-   "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
-   "sieve": "1（只收到群发）",
-   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "IN 次级（点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；用户表：「IM-FS240GM 250pcs；91 98112 35060」；研究档 risks：询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格"
-  },
-  "situation": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
-  "need": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
-  "breakpoint": "询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "IM-FS240GM 250pcs；91 98112 35060",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-738",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（technics-india.com，快照 2026-10-21）",
+  "summary": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
+  "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
+  "size": "",
+  "brands_seen": [
+    "Advantech"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Technics Infosolutions Pvt. Ltd. – New Delhi；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆",
+      "quote": "",
+      "url": "https://www.technics-india.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "IM-FS240GM 250pcs；91 98112 35060",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Technics Infosolutions Pvt. Ltd. – New Delhi；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "",
+      "url": "https://www.technics-india.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Technics Infosolutions 新德里",
+      "quote": "Technics Infosolutions Pvt. Ltd. – New Delhi",
+      "url": "https://www.technics-india.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "IM-FS240GM 250pcs 询价",
+      "quote": "IM-FS240GM 250pcs；91 98112 35060",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Prakash",
+      "title": "（表内联系人）",
+      "email": "opsharma@technicsonline.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 technics-india.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业自动化分销（Advantech 等）",
+    "工业以太网交换机品类"
+  ],
+  "channels": {
+    "role": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
+    "region": "印度",
+    "contact": "opsharma@technicsonline.com"
+  },
+  "signals": [
+    "表内：IM-FS240GM 250pcs；91 98112 35060；KP Prakash",
+    "栏目 /wpccategories/poe-ethernet-switches/、/ieee1588-industrial-ethernet-switch/、/intrinsic-safety-ethernet-switches-…；站内 UNO-4000 / ADAM-5000 / WISE-4000"
+  ],
+  "risks": [
+    "询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
+    "印度 BIS / 关税：250 台整机进口需其持证；非主攻区（T5）",
+    "本安型/IEEE1588 栏目：Saga 不做本安与 PTP"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**"
+  },
+  "email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 opsharma@technicsonline.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+      "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
+      "sieve": "1（只收到群发）",
+      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "IN 次级（点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；用户表：「IM-FS240GM 250pcs；91 98112 35060」；研究档 risks：询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格"
+    },
+    "situation": "印度 Technics Infosolutions Pvt. Ltd.（新德里工业自动化分销：Advantech UNO-4000 / ADAM-5000 / ADAM-6200 / WISE-4000，栏目 PoE 交换机、IEEE1588 工业交换机、本安型交换机；表内询价「**IM-FS240GM 250pcs**」；KP Prakash / opsharma@，+91 98112 35060）；表内无跟进记录。",
+    "need": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
+    "breakpoint": "询价型号 IM-FS240GM 口径不明（24 口千兆管理？工业？）：首触先确认规格",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "询价型号 IM-FS240GM（推断 24 口千兆管理）× 250 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）对位（型号口径待核）；工业版位 STI-21616GP；**250 台量级 → 回复优先**",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
+    },
+    "facts": [
+      {
+        "date": "2023-12-13",
+        "dir": "备",
+        "who": "Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹）",
+        "quote": "名单行：「37 https://www.technics-india.com/wpccategories/industrial-ethernet-solutions/ 印度 Kyland这个牌子 谷歌 工业FS MC 串口 工业自动化 info@technicsonline.com」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+        "why": "5 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "IM-FS240GM 250pcs；91 98112 35060",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

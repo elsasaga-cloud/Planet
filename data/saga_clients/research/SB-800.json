@@ -1,123 +1,131 @@
 {
- "code": "SB-800",
- "name_official": "Maxitulin Sdn Bhd（马来西亚）",
- "researched_at": "2026-10-21",
- "website_status": "在线（maxitulin.com，快照 2026-10-21）",
- "summary": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Aruba",
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255",
-   "quote": "Maxitulin – Providing First Line Of Security Defence",
-   "url": "https://maxitulin.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌",
-   "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "P. Kumar",
-   "title": "Design Analyst Engineer",
-   "email": "kumar@maxitulin.com",
-   "phone": "+60 17 409 2070",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Maxitulin Sdn Bhd",
-  "founded": "（待核）",
-  "hq": "Malaysia（Puchong，+60 3 8062）",
-  "size": "中小型安防集成",
-  "other": ""
- },
- "business_lines": [
-  "IPC 监控项目集成"
- ],
- "channels": {
-  "role": "安防集成商",
-  "region": "马来西亚"
- },
- "signals": [
-  "PoE 用量大 + 接受普通品牌 → 可切入非核心项目",
-  "bypass 有兴趣"
- ],
- "risks": [
-  "Cisco/Aruba 主导项目；无跟进"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
- },
- "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 kumar@maxitulin.com；主题多为「L3 managed PoE Switch、24 port poe switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "马来西亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 8；用户表：「兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌」；研究档 risks：Cisco/Aruba 主导项目；无跟进"
-  },
-  "situation": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
-  "need": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
-  "breakpoint": "Cisco/Aruba 主导项目；无跟进",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "L3 managed PoE Switch、24 port poe switch",
-    "why": "8 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-800",
+  "name_official": "Maxitulin Sdn Bhd（马来西亚）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（maxitulin.com，快照 2026-10-21）",
+  "summary": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "Aruba",
+    "Ubiquiti"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255",
+      "quote": "Maxitulin – Providing First Line Of Security Defence",
+      "url": "https://maxitulin.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌",
+      "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "P. Kumar",
+      "title": "Design Analyst Engineer",
+      "email": "kumar@maxitulin.com",
+      "phone": "+60 17 409 2070",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Maxitulin Sdn Bhd",
+    "founded": "（待核）",
+    "hq": "Malaysia（Puchong，+60 3 8062）",
+    "size": "中小型安防集成",
+    "other": ""
+  },
+  "business_lines": [
+    "IPC 监控项目集成"
+  ],
+  "channels": {
+    "role": "安防集成商",
+    "region": "马来西亚"
+  },
+  "signals": [
+    "PoE 用量大 + 接受普通品牌 → 可切入非核心项目",
+    "bypass 有兴趣"
+  ],
+  "risks": [
+    "Cisco/Aruba 主导项目；无跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
+  },
+  "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 kumar@maxitulin.com；主题多为「L3 managed PoE Switch、24 port poe switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 8；用户表：「兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌」；研究档 risks：Cisco/Aruba 主导项目；无跟进"
+    },
+    "situation": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+    "need": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+    "breakpoint": "Cisco/Aruba 主导项目；无跟进",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
+    },
+    "facts": [
+      {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「42 Maxitulin P.Kumar Design Analyst Engineer Mitec 2023 用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, Malay」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "L3 managed PoE Switch、24 port poe switch",
+        "why": "8 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

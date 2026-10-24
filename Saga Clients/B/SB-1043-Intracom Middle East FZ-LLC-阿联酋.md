@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「23 Intracom Middle East FZ-LLC Mohammad Yaacoub Projects Manager Mitec 2023 POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE mohammad.yaacoub@intracom-telecom.com 971 50 654 5766 手机」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024-08-07 | 来 | myaacoub@intracom-telecom.com | Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97 | 来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `7ae3b3c443b92c6f` |
 | 2024-10-09 | 来 | Mohammad Yaacoub | Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. | 价格先行 | `d05d6d8f07683799` |
 | 2024-10-09 | 去 | Saga（Simon） | Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T | 历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd | `815888411fd50a1b` |
@@ -262,7 +263,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: our earlier exchange
+**主题**：Re: Industrial poe switch
 
 ```text
 Hi Mohammad,

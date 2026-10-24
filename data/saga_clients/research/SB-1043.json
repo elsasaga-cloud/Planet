@@ -133,6 +133,14 @@
     },
     "facts": [
       {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「23 Intracom Middle East FZ-LLC Mohammad Yaacoub Projects Manager Mitec 2023 POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE mohammad.yaacoub@intracom-telecom.com 971 50 654 5766 手机」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
         "date": "2024-08-07",
         "dir": "来",
         "who": "myaacoub@intracom-telecom.com",
@@ -159,7 +167,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: our earlier exchange",
+      "subject": "Re: Industrial poe switch",
       "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

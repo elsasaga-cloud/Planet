@@ -144,6 +144,14 @@
     },
     "facts": [
       {
+        "date": "2023-07-01",
+        "dir": "备",
+        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+        "quote": "名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」",
+        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
         "date": "2026-08-18",
         "dir": "报价",
         "who": "Simon → Raja King",

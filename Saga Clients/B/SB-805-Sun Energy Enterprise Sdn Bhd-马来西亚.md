@@ -54,8 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 | 表内备注 | `用户表` |
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「26 Sun Energy Enterprise Sdn Bhd Tan Chan Sun Managing Director Mitec 2023 马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 公司地址：54-1, Jalan Metro Perdana Timur 9,Taman Usahawan Kepong,Kepong, 52100 Kuala Lumpur,Malaysia. cha」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2025 | 去 | S 群发 | 8 Port Industrial PoE Switch、Industrial PoE media converter | 9 封 / 1 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 
