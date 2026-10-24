@@ -79,7 +79,7 @@
     "tier": 25,
     "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）"
   },
-  "email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
+  "email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 martin@o-tc.co.uk；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
@@ -106,7 +106,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

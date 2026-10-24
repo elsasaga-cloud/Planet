@@ -72,7 +72,7 @@
     "tier": 20,
     "why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）"
   },
-  "email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
+  "email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
   "mail_review": {
     "binding": {
       "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@kohen.ca；被打开主题「Industrial PoE Switch、16 Port Ethernet Switch」）",
@@ -99,7 +99,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → sales@kohen.ca",
       "action": "短信一问（email_hook）",
-      "one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -122,7 +122,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

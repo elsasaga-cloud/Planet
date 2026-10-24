@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
+- **第一问（只问一个）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
+  - 第一问（只问一个）：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ updated: 2026-10-24
   - 表内：商业 PoE 自己的 logo 周边产品；很大的一个公司
 - **风险/边界**：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长；10 次无回复，仅 sales@，无具名 KP
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
-- **邮件切入句（英文）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
+- **邮件切入句（英文）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -256,7 +256,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

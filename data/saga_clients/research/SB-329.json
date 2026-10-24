@@ -73,7 +73,7 @@
     "tier": 30,
     "why": "话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标"
   },
-  "email_hook": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?",
+  "email_hook": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 sales@wildix.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
@@ -100,7 +100,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?"
+      "one_question": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?"
     },
     "facts": [
       {

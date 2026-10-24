@@ -62,7 +62,7 @@
     "tier": 20,
     "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位"
   },
-  "email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
+  "email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
   "mail_review": {
     "binding": {
       "level": "未发信（S/A 邮箱均无往来；来源：用户表「10G DAC 3米 300个单价」）",
@@ -91,7 +91,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
       "action": "首封：按 email_hook 一问",
-      "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
+      "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

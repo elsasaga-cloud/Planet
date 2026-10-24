@@ -160000,7 +160000,7 @@
 "tier": 30,
 "why": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）"
 },
-"email_hook": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?",
+"email_hook": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 mnoveloso@nltinc.com, spanton@nltinc.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
@@ -160027,7 +160027,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?"
+"one_question": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?"
 },
 "facts": [
 {
@@ -174437,7 +174437,7 @@
 "tier": 20,
 "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位"
 },
-"email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
+"email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「10G DAC 3米 300个单价」）",
@@ -174466,7 +174466,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
 "action": "首封：按 email_hook 一问",
-"one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -266490,7 +266490,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
+"one_question": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, UKCA/CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
 },
 "facts": [
 {
@@ -280279,7 +280279,7 @@
 "tier": 30,
 "why": "话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标"
 },
-"email_hook": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?",
+"email_hook": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 sales@wildix.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
@@ -280306,7 +280306,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?"
+"one_question": "For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?"
 },
 "facts": [
 {
@@ -479911,7 +479911,7 @@
 "tier": 20,
 "why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）"
 },
-"email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
+"email_hook": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@kohen.ca；被打开主题「Industrial PoE Switch、16 Port Ethernet Switch」）",
@@ -479938,7 +479938,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → sales@kohen.ca",
 "action": "短信一问（email_hook）",
-"one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -479961,7 +479961,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Industrial PoE Switch",
-"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, FCC/CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -487021,7 +487021,7 @@
 "tier": 25,
 "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）"
 },
-"email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
+"email_hook": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 martin@o-tc.co.uk；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
@@ -487048,7 +487048,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
+"one_question": "Martin, regarding the two 24 V industrial fast-Ethernet media converters: we supply DIN-rail FE and gigabit MCs (12–57 V input, −40~75 °C, SC/SFP fibre ports, UKCA/CE/RoHS) from single units, EXW USD — is an SC-connector unit acceptable, or must it be FC? Reference: STI-110FE at $20.6 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
