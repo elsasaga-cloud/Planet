@@ -168,8 +168,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-824/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -177,7 +177,7 @@ updated: 2026-10-24
 | [home](https://www.engeniustech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9518 字符；首行：EnGenius: AI Surveillance \| Wi-Fi \| Switches \| VPN Routers \| PDUs |
 | [news_1](https://www.engeniustech.com/blog.html/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 18694 字符；首行：EnGenius Blog \| EnGenius |
 | [news_2](https://www.engeniustech.com/in-the-news.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11742 字符；首行：EnGenius News \| EnGenius |
-| [youtube](https://www.youtube.com/user/EnGeniusTec) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/EnGeniusTec) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-30T19:09:27+00:00 Webinar: A Networking Professional’s Introduction to EnG |
 | [feed_auto](https://www.engeniustech.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 17 条；最新：Fri, 08 May 2026 16:13:57 A Better DECT Alternative for Hospitality: EnGenius Dura |
 
 ## 联系方式（已有 · 原值照录）

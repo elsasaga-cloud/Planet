@@ -154,15 +154,15 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 7 条： industries； bfsi； healthcare； manufacturing； retail； technology； government
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-255/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.bitsandbyte.net/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9081 字符；首行：bits&BYTE \| Infrastructure for what’s next |
 | [sitemap](https://www.bitsandbyte.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 57 个 URL；最新 lastmod 2026-10-18 |
-| [youtube](https://www.youtube.com/@bitsandbyteit) | youtube_handle | HTTP 500 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@bitsandbyteit) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 14 条；最新：2026-03-25T05:35:03+00:00 Your Network Shouldn’t Slow Down Your Strategy. It Shoul |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/919513370890?text=Hello%20bits%26BYTE%2C%20I%20found%20you%20on%20your%20website%20and%20would%20like%20to%20talk%20about；LinkedIn: https://www.linkedin.com/company/bitsandbyteitconsulting/；Instagram: https://www.instagram.com/bits_and_byte/；Facebook: https://www.facebook.com/profile.php?id=100064194990048
 

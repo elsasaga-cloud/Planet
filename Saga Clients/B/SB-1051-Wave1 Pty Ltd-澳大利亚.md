@@ -191,16 +191,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_2：内容变化：+2 −197 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+197 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1051/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://wave1.com.au/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
-| [sitemap](https://wave1.com.au/sitemap_index.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 42 条） |
-| [news_1](https://wave1.com.au/news-media/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
-| [news_2](https://wave1.com.au/case-studies/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
+| [home](https://wave1.com.au/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 19545 字符；首行：Wireless Microwave Communications Australia \| Wave1 |
+| [sitemap](https://wave1.com.au/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://wave1.com.au/news-media/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 4523 字符；首行：News & Media \| Wave1 \| Telecommunications Australia |
+| [news_2](https://wave1.com.au/case-studies/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 9092 字符；首行：Client Case Studies \| Wave1 \| Telecommunications Australia |
 
 ## 联系方式（已有 · 原值照录）
 

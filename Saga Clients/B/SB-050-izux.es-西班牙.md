@@ -164,17 +164,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 260 条：2026-03-29T11:03:33 2559-ipc-d121h-c-c%C3%A1mara-domo-ip-hilook-2mp-28mm.html；202
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-050/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://izux.es/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10316 字符；首行：Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX |
-| [sitemap](https://izux.es/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 340 个 URL；最新 lastmod 2026-03-29T11:03:33 |
+| [sitemap](https://izux.es/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 340 个 URL；最新 lastmod 2026-03-29T11:03:33 |
 | [news_1](https://izux.es/instaladoresdecamarasdeseguridad/zona-instaladores) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2455 字符；首行：Zona instaladores - Instaladores de cámaras de seguridad en Valencia y Castelló |
 | [news_2](https://izux.es/nuevos-productos) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8834 字符；首行：Nuevos productos de seguridad, videovigilancia, videoporteros, alarmas y contro |
-| [youtube](https://www.youtube.com/user/IZUXIngenieria) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/IZUXIngenieria) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-06-24T09:44:59+00:00 Cerradura electrónica para puerta de hotel. Explicación  |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/pages/IZUX-Videovigilancia-y-Seguridad/231797096906699?ref=ts&fref=ts；X/Twitter: https://twitter.com/IzuxSeguridad；LinkedIn: https://www.linkedin.com/company/izux-ingenieria-y-seguridad-s-l-?trk=prof-following-company-logo；WhatsApp: https://wa.me/34661241886?text=Hola%2C%20vi%20su%20web%20y%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sistemas%20de%20seguridad)
 

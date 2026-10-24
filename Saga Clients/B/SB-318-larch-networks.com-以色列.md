@@ -60,9 +60,11 @@ updated: 2026-10-24
 | 2025-12-08 | 来 | azarudniy@larch-networks.com | Hello Alan! Alex told me that you have some Baypass devices. Could you please share the deteils. Thanks Best regards, Andrey Sales manager. https://la | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `22c03a7535263d1a` |
 | 2025-12-09 | 来 | azarudniy@larch-networks.com | Alan, Greate! Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?) Best regards, Andrey S | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `fd4f4163ed089c3f` |
 | 2025-12-09 | 去 | Saga（Alan） | Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM2B-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial | 历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM2B-2BT 295usd | `2c412f7579125bdb` |
+| 2025-12-10 | 来 | Alexander Chesnokov（Larch Networks） | And can you send the info about bypass switch? | Booster PoE 群发之后主动要旁路（bypass）资料——Larch 的兴趣点有两个：8,000 台校园项目（后判国内冲突，Q-49）和旁路机；旁路是不冲突的那条 | `gmail_a 2025-12-10 Re: Booster PoE Switch` |
 | 2026-03-30 | 来 | Alexander（Larch） | a customer of ours needs 8,000 units of a Campus L2 switch… 24× 1G ETH + 4× 10G SFP+ • PSU: Field-replaceable, 1× AC 100–240V • Fans: Internal redundant | A 邮箱最大数量需求 | `c3ec0dc5b8622bbb` |
 | 2026-03-31 | 去 | Alan | it seems to be in conflict with one of our clients. They are also following up with this project. so we have to stop here!! | C11 让路 | `827e3f81f687bb3b` |
 | 2026-03-31 | 去 | Alan | target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision | 国内冲突 + 价格两重原因（E23） | `f0fca5051f786b75` |
+| 2026-03-31 | 来 | Andrey Zarudniy（Larch Networks，销售经理） | By the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your client? Maybe this is a different project. | Alan 说「与我们一个客户冲突」时，对方追问「你的客户是买家还是中国工厂」——Saga 的边界话术在客户眼里是含糊的；下次说「与现有渠道约定冲突」即可，不必解释是谁 | `gmail_a 2026-03-31 Re: Updated Ethernet Switches Links` |
 | 2026-05-22 | 来 | Alexander | Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house NOS team | 角色翻转：对方成了供应商 | `48f6b22ac0e2c199` |
 | 2026-05-25 | 来 | alexander@larch-networks.com | Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, we're activ | 来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `231732b0e66a97ce` |
 | 2026-05-25 | 去 | Saga（Alan） | Hi, Alex, Thanks for your info. 1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done. You are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance. And AC5 will be our long-term anchored solution. 2. As I explained in point… | Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `3c888655608fcc01` |
@@ -181,7 +183,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-318/`；本节随档案重渲染刷新，实时看日志。
 

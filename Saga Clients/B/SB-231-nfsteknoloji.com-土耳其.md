@@ -189,16 +189,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 news_2：内容变化：+46 −47 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-231/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](http://nfsteknoloji.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5590 字符；首行：NFS Teknoloji \| Güvenlik Kamerası \| Kamera Sistemleri |
-| [sitemap](http://nfsteknoloji.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 493 个 URL；最新 lastmod - |
-| [news_1](http://nfsteknoloji.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6938 字符；首行：Blog \| Güvenlik Kamerası \| Kamera Sistemleri |
-| [news_2](http://nfsteknoloji.com/duyurularimiz.html) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4548 字符；首行：Duyurularımız \|NFS Teknoloji \| Türkiye Distribütörü |
+| [home](http://nfsteknoloji.com/) | html | ReadTimeout: HTTPConnectionPool(host='nfsteknoloji.com', por | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](http://nfsteknoloji.com/sitemap.xml) | sitemap | ReadTimeout: HTTPConnectionPool(host='nfsteknoloji.com', por | 2026-10-24T04:35:40Z | 站点地图（2026-10-21 时 985 条） |
+| [news_1](http://nfsteknoloji.com/blog) | html | ReadTimeout: HTTPConnectionPool(host='nfsteknoloji.com', por | 2026-10-23T04:20:51Z | 导航「Blog」 |
+| [news_2](http://nfsteknoloji.com/duyurularimiz.html) | html | ReadTimeout: HTTPConnectionPool(host='nfsteknoloji.com', por | 2026-10-24T04:35:40Z | 导航「Duyurular」 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/nfsteknoloji/；X/Twitter: https://twitter.com/nfsteknoloji/；LinkedIn: https://www.linkedin.com/company/nfsteknoloji.com
 

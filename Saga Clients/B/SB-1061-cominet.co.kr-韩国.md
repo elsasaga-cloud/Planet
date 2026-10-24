@@ -191,14 +191,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+14 −14 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1061/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](http://cominet.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1301 字符；首行：Cominet |
-| [news_1](http://cominet.co.kr/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2199 字符；首行：News & Informations 1 페이지 \| Cominet |
+| [news_1](http://cominet.co.kr/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-24T07:26:33Z | 2199 字符；首行：News & Informations 1 페이지 \| Cominet |
 | [news_2](http://cominet.co.kr/page.php?Main=1&sub=3) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1021 字符；首行：Cominet |
 
 ## 联系方式（已有 · 原值照录）

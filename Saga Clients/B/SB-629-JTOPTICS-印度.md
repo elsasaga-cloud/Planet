@@ -155,16 +155,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 news_2：内容变化：+154 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-629/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://jtoptics.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8757 字符；首行：JAYANI TECHNOLOGIES LLP l WWW.JTOPTICS.COM |
-| [sitemap](https://jtoptics.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 740 个 URL；最新 lastmod 2026-08-03T12:19:00 |
-| [news_1](https://jtoptics.com/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9585 字符；首行：JTOptics® Blog \| Fiber Optic Solutions, Networking & Telecom ... |
-| [news_2](https://jtoptics.com/blog/Types-of-Optical-Lasers-and-Photo-diode) | html | HTTP 200 | 2026-10-24T04:35:40Z | 19942 字符；首行：Types of Optical Lasers and Photo diode |
+| [sitemap](https://jtoptics.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 740 个 URL；最新 lastmod 2026-08-03T12:19:00 |
+| [news_1](https://jtoptics.com/blog) | html | HTTP 200 | 2026-10-24T07:26:33Z | 9585 字符；首行：JTOptics® Blog \| Fiber Optic Solutions, Networking & Telecom ... |
+| [news_2](https://jtoptics.com/blog/Types-of-Optical-Lasers-and-Photo-diode) | html | HTTP 200 | 2026-10-24T07:26:33Z | 19942 字符；首行：Types of Optical Lasers and Photo diode |
 | [youtube](https://www.youtube.com/@ev_gyan_jtmobility) | youtube_handle | RuntimeError: channelId not found (HTTP 404)；YouTube 对运行器 IP | - | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/JTOPTICS/；X/Twitter: https://x.com/jt_optics；Instagram: https://www.instagram.com/jt_vijayji；LinkedIn: https://www.linkedin.com/company/jayani-technologies-llp

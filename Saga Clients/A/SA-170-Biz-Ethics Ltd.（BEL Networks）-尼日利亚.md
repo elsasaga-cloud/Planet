@@ -160,14 +160,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 domain_rdap：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-170/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [domain_home](https://belnetworks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 751 字符；首行：Your future website - 1st Domains |
-| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-24T04:35:40Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
+| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-24T07:26:33Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn 公司页未找到（搜索被美国 BEL Network Integration & Support / 比利时 Belnet 淹没）；ngcontacts.com 目录条目：BIZ-ETHICS LTD. 计算机网络/监控/门禁/电源设备；联系只剩 WhatsApp +234 702 918 6461（PI 单据）
 

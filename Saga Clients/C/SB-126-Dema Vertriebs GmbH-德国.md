@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-06-10 | 去 | Alan（Quotation_Copper Switch.pdf，Buyer Dema Vertriebs GmbH / Markus Geck，EXW Germany） | STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days） | 德国分销商拿到的整表价（2025-06，老汇率） | `gmail_a att 2025-06-10` |
+| 2025-06-10 | 来 | Markus Geck（Dema Vertriebs GmbH，德国） | Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches? | A 邮箱 2025-06 对 16 口机群发的真人回信：问 8 口与 24 口的起订量和价——Alan 当天回了全铜口工业系列报价单（见上一行）。C 级是人工定级（DEMA = 五金/园艺电商集团，行业外），不改；但这位 Markus 的询价是真的，留作「行业外个人兴趣」备注 | `gmail_a 2025-06-10 AW: 16 Port Ethernet Switch` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核
 

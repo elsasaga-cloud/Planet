@@ -157,17 +157,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 210 条：2026-07-04T06:31:52 253；2026-07-04T06:31:52 219；2026-07-04T06:31:52 95；2026-07-04
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-258/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.alconlink.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4700 字符；首行：AlconLink Network Camera and NVR for Security Surveillance System |
-| [sitemap](https://www.alconlink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 290 个 URL；最新 lastmod 2026-07-04T06:31:52 |
+| [sitemap](https://www.alconlink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 290 个 URL；最新 lastmod 2026-07-04T06:31:52 |
 | [news_1](https://www.alconlink.com/page/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1014 字符；首行：Video Surveillance Services for News \| Alcon India |
 | [news_2](https://www.alconlink.com/project-registration.php) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Project Registration」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCiY2Cne9NDjOhemZGZYTDEQ/featured?view_as=subsc |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-03-03T06:31:26+00:00 Alcon 5MP Starlight Outdoor Bullet Camera Low light perf |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/alconlink.ipsurveillance；X/Twitter: https://twitter.com/alconlink；Instagram: https://www.instagram.com/alconlink.ipsurvellance/?hl=en
 

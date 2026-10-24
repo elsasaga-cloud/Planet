@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-21 | 去 | Alan（Quotation.pdf，Buyer EZ-NET Ubiquitous / Roadman Kim，EXW，Destination Korea） | STI-0160GE 16×GE 非管理工业 $105 ×1；STI-21616GP 16×GE PoE + 2×SFP 240W 非管理 $185 ×1；TOTAL 2 pcs $290.00；Price validity 15 days；Warranty 3 years, lifetime technical support；Production time 4~7 working days | 正式报价单上的两个锚（2025-02，老汇率）；对方三次到访后仍未付样 | `gmail_a att 2025-02-21` |
+| 2025-02-21 | 来 | Kim Woo-kyung（roadman, 韩国） | there is no uplink port and unmanaged? pls let me know a quotation for this model.（回 Alan 推的 16 口 DIN 千兆非管理机） | 第四轮询价（档案记三轮）：16 口 DIN 非管理、无上联——Alan 后续报价见 2025-02 的 STI-0160GE $105；韩国客户四次问价没有一次下样 = 价格比价型 | `gmail_a 2025-02-21 RE: 16 Port Ethernet Switch` |
 | 2025-03-04 | 来 | Roadman Kim | yr price is higher but yr spec is lower. 1. we think 16 port industrial poe switch is better to support over 300~380w… based on this spec, a price should be much cheaper. | 价格 vs 规格 | `a073d6411a2a52db` |
 | 2025-03-05 | 去 | Alan | Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go… 16-port copper, non-PoE: 95usd/pc 16-port PoE+2*1G SFP: 170usd/pc | C2 筛子的书面原话 + 报价 | `7a23a71b55abbff5` |
 | 2025-05-26 | 来 | Kim | pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub? | bypass 需求 | `b5cbfcb83f46328a` |
@@ -219,14 +220,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-017/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://ez-net.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 370 字符；首行：(주)이지넷유비쿼터스ㅣNEXTU |
-| [youtube](https://www.youtube.com/@10techlife) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@10techlife) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-06T03:25:47+00:00 한 번 충전하면 언제 닳아? 캠핑용 대용량 배터리 |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/nextu_headoffice/
 

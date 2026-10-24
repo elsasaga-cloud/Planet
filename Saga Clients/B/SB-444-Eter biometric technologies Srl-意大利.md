@@ -166,8 +166,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 feed_auto：新增 1 条：Fri, 23 Oct 2026 06 Eter Biometric Technologies al Secsolutionforum 2026: innovazio
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-444/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -175,7 +175,7 @@ updated: 2026-10-24
 | [home](https://www.eter.it/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5654 字符；首行：Home - Eter Biometrics |
 | [sitemap](https://www.eter.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.eter.it/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3460 字符；首行：News - Eter Biometrics |
-| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-23T09:38:47+00:00 Hikvision Smart Banking Solution |
 | [feed_auto](https://www.eter.it/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 06:52:27 Eter Biometric Technologies al Secsolutionforum 2026: in |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/eterbiometric；Instagram: https://www.instagram.com/eterbiometric/；LinkedIn: https://www.linkedin.com/company/eter-biometric/

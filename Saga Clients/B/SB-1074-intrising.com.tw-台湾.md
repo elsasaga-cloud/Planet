@@ -185,14 +185,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 sitemap：新增 86 条：2023-06-15T21:34:42 location_existed_prp_topology；2023-06-17T18:10:02 odm_ftto_net
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1074/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.intrising.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2996 字符；首行：Home - Intrising Networks |
-| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
+| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
 | [news_1](https://www.intrising.com.tw/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7517 字符；首行：Intrising Networks |
 | [news_2](https://www.intrising.com.tw/news/case_study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1769 字符；首行：Intrising Networks |
 | [feed_auto](https://www.intrising.com.tw/feeds/rss/news.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 24 条；最新：Fri, 24 Jul 2026 00:00:00 ISO 9001:2015 Certification |

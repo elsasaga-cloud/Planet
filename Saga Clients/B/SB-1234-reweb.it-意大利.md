@@ -136,8 +136,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1234/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -145,7 +145,7 @@ updated: 2026-10-24
 | [home](https://www.reweb.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3411 字符；首行：Home \| REweb S.r.l. |
 | [sitemap](https://www.reweb.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.reweb.it/category/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2986 字符；首行：News \| REweb S.r.l. |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCHoG79A8vFkn5mk7K2pSWFQ) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCHoG79A8vFkn5mk7K2pSWFQ |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCHoG79A8vFkn5mk7K2pSWFQ) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-05-05T15:03:48+00:00 SIM IoT: la SIM multi-operatore con la migliore connessi |
 | [feed_auto](https://www.reweb.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 10 Jun 2026 06:56:27 Reweb e Opengear saranno sponsor dell’MSP Day 2026 |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/reweb-s.r.l./

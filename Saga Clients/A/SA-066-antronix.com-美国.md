@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2024-04-19 | 来 | Peter | Do you have any of the 4168 in USA? Can I get a sample or do you have one online | 要美国现货样 | `320a0015fdc91397` |
 | 2024-04-20 | 去 | Saga（Simon） | Hi, Peter, Now another USA client has bought this model for sample testing. Perhaps you can wait a while and purchase from him?? Not sure if this is an option. For an online store, I got findlight. *https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd <https://www.findlight.net/company/zh… | Saga 实质答复原文（主题「Re: 2.5G PoE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `37b8c7ebfde7af7d` |
 | 2024-04-24 | 去 | Simon | http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me. | 向一客户透露另一客户名（做法记录，不评判） | `ca03d94ea39777b8` |
+| 2024-04-24 | 来 | Peter Tarquini | Is that Jim Luciano? | 2024-04 S 邮箱首轮：对方以为 Saga 的推荐人/联系人是他认识的 Jim Luciano——说明 Simon 当时的开场提到了某个共同人名；此后 2025-08 A 邮箱再来要手册（08-09「Yes, please send manual as well」） | `gmail_s 2024-04-24 Re: 2.5G PoE switch` |
 | 2025-08-08 | 来 | Peter | Thanks.. I'd be interested in the pricing… | 第二轮 | `42afe1e39f3c25e0` |
 | 2025-08-09 | 去 | Alan | 225usd/pc, L2+ managed 310usd/pc, L3 managed | 报价 | `7533abba594ebc6d` |
 | 2025-08-11 | 来 | Peter | No worries. Thank you | 停点 | `dfc4ee1cd58c07be` |
@@ -178,7 +179,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-066/`；本节随档案重渲染刷新，实时看日志。
 

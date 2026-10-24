@@ -196,8 +196,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-157/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -206,7 +206,7 @@ updated: 2026-10-24
 | [sitemap](https://www.liveye.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.liveye.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8143 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
 | [news_2](https://www.liveye.com/blog/tag/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8078 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
-| [youtube](https://www.youtube.com/@LivEye-mobileVideosicherheit) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@LivEye-mobileVideosicherheit) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-01-28T11:00:12+00:00 JAHRESAUFTAKT LivEye 2026 |
 | [feed_auto](https://www.liveye.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 23 Jun 2026 06:37:09 Gemeinsam für eine sichere Energiewende: LivEye wird Mit |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/liveye_mobilevideosicherheit/；Facebook: https://www.facebook.com/LivEyeGmbH；LinkedIn: https://de.linkedin.com/company/liveye-gmbh

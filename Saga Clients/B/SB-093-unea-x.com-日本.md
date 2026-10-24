@@ -55,6 +55,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-04-22 | 来 | 大迫（UNEAX） | Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing? | 需求 + 借样习惯 | `01650dadfc0d13bc` |
 | 2026-04-23 | 去 | Alan | STI-054GP: 33USD/PC · STI-088GP: 50USD/PC · STI-01616GP: 128USD/PC；100 pcs: 31 / 45 / 120 USD；DAP 34.5 / 48.5 / 127 USD（邮件正文内混入中文「请注意…」三条备注） | 对 UNEAX 的价格锚；同一封客户信里带中文内部备注 = 外发纪律漏洞（Saga.md：对外英文） | `gmail_a 2026-04-23` |
+| 2026-04-23 | 来 | Ryosuke Osako（UNEAX，日本） | I am interested in WATCH DOG, and one of our partner companies has proposed a product that incorporates WATCH DOG. We are currently evaluating the balance between cost and performance, which is why we are reaching out to your company. | 日本客户的真实动机 = PoE 看门狗 + 性价比对比（已有合作方案）；Saga 的 PoE watchdog 是标配，应直接给对比表而不是全线目录 | `gmail_a 2026-04-23 Re: Marvell Managed Commercial Switches` |
 | 2026-04-24 | 来 | ryosuke.osako@unea-x.com | Hi. Alan I am Osako from UNEAX. Thank you for your email. If possible, could you please provide an overview of your company, describe your current mai | 来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `044e800de1232d47` |
 | 2026-04-24 | 去 | Saga（Alan） | Hi, Ryosuke, Thanks for your info. I talked with Simon, he thinks testing is important in this discussion. So, lending a piece is OK, please use it for your test or promotion. Question where do we ship it, maybe your shipping agent in China? And how will you send it back? Please let me know.… | Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `91a2b01ba897536b` |
 | 2026-04-28 | 去 | Saga（Alan） | Hi, Osako, Thanks for your information. 1. Please check attached file to know more about us. *Please read "must know“ info!!*2. Company history: we are a small company founded in 2023, though short, we have our own business rules and mature product portfolio. About sales performance, we only focus o… | Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `9016d7390bff035d` |
@@ -67,6 +68,7 @@ updated: 2026-10-24
 | 2026-05-06 | 来 | 井上 | MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen | 成本锚点 | `d591c419c309c81c` |
 | 2026-05-06 | 去 | Saga（Alan） | Hi, Inoue, 1. About Power Supply *From our perspective,* we ONLY recommend MEANWELL models. 1.1: MEANWELL is a reputable brand, we use it for quite a long time, it is good. *1.2: Actually we do not trust or want to use any other brands unless it is famous.*In industrial applications, most after-sale… | Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `5baf0e8e96978608` |
 | 2026-05-08 | 去 | Alan | GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type | 日本电源标准答案 | `3ee1098f834e6f04` |
+| 2026-05-08 | 来 | Inoue（UNEAX） | Has the power supply you suggested already obtained PSE certification? Please confirm this. | 日本市场硬门槛：电源要 PSE 认证——Meanwell 多数型号有 PSE，但 Saga 要给出具体型号的 PSE 证书，否则日本线走不通（与 INH 证书规则 CE/RoHS/FCC/REACH/UKCA 之外新增一项地区要求） | `gmail_a 2026-05-08 Re: Marvell Managed Commercial Switches` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -175,13 +177,13 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-093/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://unea-x.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1715 字符；首行：UNEAX株式会社 \| ビジネスを加速させるリーディングカンパニー |
+| [home](https://unea-x.com/) | html | ConnectionError: HTTPSConnectionPool(host='unea-x.com', port | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
 | [sitemap](https://unea-x.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 29 个 URL；最新 lastmod 2023-09-01T01:20:07 |
 
 ## 联系方式（已有 · 原值照录）

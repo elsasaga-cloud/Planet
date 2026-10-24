@@ -185,16 +185,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+2 −137 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 feed_auto：恢复可达（上轮 HTTP 403）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-430/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comtech.net.pk/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
-| [sitemap](https://comtech.net.pk/sitemap.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 101 条） |
-| [news_1](https://comtech.net.pk/events/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
-| [feed_auto](https://comtech.net.pk/feed/) | rss | HTTP 403 | 2026-10-23T04:20:51Z | 首页自动发现的 feed |
+| [home](https://comtech.net.pk/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 9596 字符；首行：Home - COMTECH ASSOCIATES |
+| [sitemap](https://comtech.net.pk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://comtech.net.pk/events/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 5186 字符；首行：Events - COMTECH ASSOCIATES |
+| [feed_auto](https://comtech.net.pk/feed/) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：Fri, 16 Oct 2026 20:55:18 testing |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Comtech.Associates；Instagram: https://www.instagram.com/comtech_associate/；LinkedIn: https://www.linkedin.com/company/comtechassociates/
 

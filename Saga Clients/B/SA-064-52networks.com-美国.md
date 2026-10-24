@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2025-07-11 | 来 | John Davis（52 Networks） | Do you have anything similar to that?（附 1U Unmanaged 图） | 需求来源 = 替代某现有 SKU | `3cce90c065ca8ce5` |
 | 2025-07-11 | 来 | John Davis（附件 Xerox Scan_07102025162250.pdf） | GSA Advantage 页：UNMANAGED HARDENED GIGABIT ETHERNET POE+ SWITCH · Transition Networks SISTP1040-382-LRT · Country of Origin: TAIWAN · $210.81 EA · Sold and shipped by 52 NETWORKS, INC. · Contract 47QTCA22D00B3 (ends Jul 25, 2027) | 「anything similar to that」= 他在 GSA 目录里卖的台湾产 Transition 8 PoE+ + 2 SFP 加固非管理机（$210.81）；他想找一个更便宜的替代 SKU 上同一目录 | `e38d26c7… / 附件 sha 5ab4b0d2600e1deb 同批` |
 | 2025-07-12 | 去 | Alan | 58usd/pc STI-288GP: 2*Gigabit SFP+8*10/100/1000M RJ45, PoE af/at, 240W, Unmanaged, DIP, DC44V~DC57V, -40℃ to 75℃, Din mounted … 40usd/pc for ORIGINAL Meanwell NDR-240-48 → 58+40=98usd; 1G-LX 6usd, single-fiber pair 12usd | Saga 对位 = STI-288GP $58（含 PSU $98）vs 他 GSA 售价 $210.81 —— 毛利空间巨大，所以他两天内付样 | `gmail_a 2025-07-12` |
+| 2025-07-12 | 来 | John（52 Networks） | What is the price?… Include power supply and then price? | 样机单前两问就是「价、含电源的价」——STI-288GP $40 + 电源；PI STAG20250718016 $285（2 台 + DAP）。美国小集成商的决策只看到手价 | `gmail_a 2025-07-12 Re: 8 Port Industrial PoE Switch` |
 | 2025-07-17 | 来 | John Davis | Can you send me a sample for 2? Shipping Address: 5142 Meeting pl woodbridge VA 22193 And let me know how to pay? | 样机决策快 | `34e665593ab1c50f` |
 | 2025-07-18 | 来 | John Davis | I just made the payment | PayPal 成交 | `41a1bbbe8f213553` |
 | 2025-07-18 | 去 | Saga（Alan） | Hi, John, Please see attaced invoice. 1, payment account: s.sagatelecom@gmail.com a payment request is sent, please check. 2, as stated in the invoice: production time: 2~4 days, shipment time: 4~6 days it takes about 7~10 days for you to get it.… | Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `cc2d0a9b668bf0f8` |
@@ -218,7 +219,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-064/`；本节随档案重渲染刷新，实时看日志。
 

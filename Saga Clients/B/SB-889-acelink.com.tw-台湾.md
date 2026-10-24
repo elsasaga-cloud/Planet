@@ -161,8 +161,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-889/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -170,7 +170,7 @@ updated: 2026-10-24
 | [home](https://www.acelink.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2831 字符；首行：Acelink Technology - Network Solutions |
 | [news_1](https://www.acelink.com.tw/list/en/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12987 字符；首行：ACELINK-Your Best Solution Provider - News |
 | [news_2](https://www.acelink.com.tw/list/en/event/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2344 字符；首行：ACELINK-Your Best Solution Provider - Event |
-| [youtube](https://www.youtube.com/@AcelinkHQ) | youtube_handle | HTTP 500 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@AcelinkHQ) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 7 条；最新：2024-02-01T02:27:05+00:00 Acelink Company Vision |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/acelink.hq；LinkedIn: https://www.linkedin.com/company/acelink-technology/
 

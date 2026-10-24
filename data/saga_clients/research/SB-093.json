@@ -126,6 +126,14 @@
         "k": "gmail_a 2026-04-23"
       },
       {
+        "date": "2026-04-23",
+        "dir": "来",
+        "who": "Ryosuke Osako（UNEAX，日本）",
+        "quote": "I am interested in WATCH DOG, and one of our partner companies has proposed a product that incorporates WATCH DOG. We are currently evaluating the balance between cost and performance, which is why we are reaching out to your company.",
+        "why": "日本客户的真实动机 = PoE 看门狗 + 性价比对比（已有合作方案）；Saga 的 PoE watchdog 是标配，应直接给对比表而不是全线目录",
+        "k": "gmail_a 2026-04-23 Re: Marvell Managed Commercial Switches"
+      },
+      {
         "date": "2026-04-24",
         "dir": "来",
         "who": "ryosuke.osako@unea-x.com",
@@ -220,6 +228,14 @@
         "quote": "GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type",
         "why": "日本电源标准答案",
         "k": "3ee1098f834e6f04"
+      },
+      {
+        "date": "2026-05-08",
+        "dir": "来",
+        "who": "Inoue（UNEAX）",
+        "quote": "Has the power supply you suggested already obtained PSE certification? Please confirm this.",
+        "why": "日本市场硬门槛：电源要 PSE 认证——Meanwell 多数型号有 PSE，但 Saga 要给出具体型号的 PSE 证书，否则日本线走不通（与 INH 证书规则 CE/RoHS/FCC/REACH/UKCA 之外新增一项地区要求）",
+        "k": "gmail_a 2026-05-08 Re: Marvell Managed Commercial Switches"
       }
     ],
     "proof_gaps": [],

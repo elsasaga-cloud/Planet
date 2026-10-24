@@ -143,13 +143,13 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 home：内容变化：+120 −76 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+113 −70 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-901/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.esoft.fi/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 14063 字符；首行：eSoft – Verkkokauppa – eSoft – Verkkokauppa |
+| [home](https://www.esoft.fi/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 14067 字符；首行：eSoft – Verkkokauppa – eSoft – Verkkokauppa |
 | [sitemap](https://www.esoft.fi/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [feed_auto](https://www.esoft.fi/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 6 条；最新：Mon, 13 Jul 2015 11:00:12 Tietoa evästeistä |
 

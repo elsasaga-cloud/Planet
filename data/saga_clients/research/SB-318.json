@@ -199,6 +199,14 @@
         "k": "2c412f7579125bdb"
       },
       {
+        "date": "2025-12-10",
+        "dir": "来",
+        "who": "Alexander Chesnokov（Larch Networks）",
+        "quote": "And can you send the info about bypass switch?",
+        "why": "Booster PoE 群发之后主动要旁路（bypass）资料——Larch 的兴趣点有两个：8,000 台校园项目（后判国内冲突，Q-49）和旁路机；旁路是不冲突的那条",
+        "k": "gmail_a 2025-12-10 Re: Booster PoE Switch"
+      },
+      {
         "date": "2026-03-30",
         "dir": "来",
         "who": "Alexander（Larch）",
@@ -221,6 +229,14 @@
         "quote": "target price 250usd/pc is a little difficult… Client means a domestic client who is working on this project I have to stop here, its an internal decision",
         "why": "国内冲突 + 价格两重原因（E23）",
         "k": "f0fca5051f786b75"
+      },
+      {
+        "date": "2026-03-31",
+        "dir": "来",
+        "who": "Andrey Zarudniy（Larch Networks，销售经理）",
+        "quote": "By the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your client? Maybe this is a different project.",
+        "why": "Alan 说「与我们一个客户冲突」时，对方追问「你的客户是买家还是中国工厂」——Saga 的边界话术在客户眼里是含糊的；下次说「与现有渠道约定冲突」即可，不必解释是谁",
+        "k": "gmail_a 2026-03-31 Re: Updated Ethernet Switches Links"
       },
       {
         "date": "2026-05-22",

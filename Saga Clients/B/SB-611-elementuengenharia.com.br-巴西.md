@@ -127,16 +127,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+1 −186 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-611/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.elementuengenharia.com.br/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4085 字符；首行：Elementu engenharia e integração \| integração \| Rua Pedro José Laroca, 1667 J |
 | [sitemap](https://www.elementuengenharia.com.br/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.elementuengenharia.com.br/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 0 字符；首行： |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCgWfFOxdFPunN47bix_F9sA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCgWfFOxdFPunN47bix_F9sA |
+| [news_1](https://www.elementuengenharia.com.br/blog) | html | HTTP 200 | 2026-10-24T07:26:33Z | 6092 字符；首行：Blog \| Araraquara \| Elementu engenharia e integração |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCgWfFOxdFPunN47bix_F9sA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-01T20:44:41+00:00 REVITALIZAÇÃO DE RESERVATÓRIOS NA NA SP-310 |
 | [feed_auto](https://www.elementuengenharia.com.br/blog-feed.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 20 条；最新：Thu, 18 Jan 2024 11:54:11 Sistema de Pesagem em Movimento de Alta Velocidade (HS-W |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/elementuengenharia/?hl=pt-br；Facebook: https://www.facebook.com/elementu.engenharia.integracao/；LinkedIn: https://www.linkedin.com/company/elementu-engenharia-e-integra%C3%A7%C3%A3o

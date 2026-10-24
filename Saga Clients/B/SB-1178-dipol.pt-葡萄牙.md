@@ -150,14 +150,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2024-05-15T13:04:57 antena_tv_dvb-t-t2_asp-8w_lux_br_com_amplificador_lna-177_A00
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1178/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.dipol.pt/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 19689 字符；首行：IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL |
-| [sitemap](https://www.dipol.pt/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-09-18T05:01:59 |
+| [home](https://www.dipol.pt/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 19689 字符；首行：IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL |
+| [sitemap](https://www.dipol.pt/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod 2026-09-18T05:01:59 |
 | [news_1](https://www.dipol.pt/novos_produtos,items-news.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 18857 字符；首行：Shopping, Novos produtos |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/dipolnet

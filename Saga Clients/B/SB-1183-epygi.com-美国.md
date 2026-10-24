@@ -143,8 +143,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1183/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -153,7 +153,7 @@ updated: 2026-10-24
 | [sitemap](https://www.epygi.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.epygi.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8797 字符；首行：Blog - Epygi |
 | [news_2](https://www.epygi.com/blog/press-releases/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6916 字符；首行：Press Releases - Epygi |
-| [youtube](https://www.youtube.com/c/EpygiTech) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/c/EpygiTech) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-12-18T12:56:33+00:00 Feature Highlight: AI-Powered Options - Tech Webinar, De |
 | [feed_auto](https://www.epygi.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 30 Sep 2026 12:43:36 September 2026 Newsletter |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/epygitech/；LinkedIn: https://www.linkedin.com/company/epygi-technologies；X/Twitter: https://twitter.com/Epygi_Tech

@@ -174,8 +174,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 telegram：内容变化：+2 −2 行
+- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-955/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -186,7 +186,7 @@ updated: 2026-10-24
 | [news_2](https://ssd.ru/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3666 字符；首行：Статьи \| Компания ССД |
 | [vk](https://vk.com/svyazstroidetal) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
 | [telegram](https://t.me/s/ssdtyt) | html | HTTP 200 | 2026-10-24T04:35:40Z | 11163 字符；首行：ССД тут – Telegram |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-09T13:05:15+00:00 Линейка байонетных оптических муфт ССД (МТОК-Н8, МТОК-ЛА |
 
 ## 联系方式（已有 · 原值照录）
 

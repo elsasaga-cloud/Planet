@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-18 | 去 | Alan（Quotation.pdf，Buyer TJ Computer / Peter Ponganan Ruenboon，EXW，Destination Thailand） | STI-288GP 2×SFP + 8×GE PoE af/at 240W 非管理 ×1 $60.00 | 泰国 1 台样机报价（未付）；与 52 Networks 同款 $58 同期 | `gmail_a att 2025-03-18` |
+| 2025-03-18 | 来 | พงษ์อนันต์（泰国） | interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」） | 一词回复「interested」——泰国小集成商的典型反应；A 邮箱之后有无跟进见 digest；可作 WhatsApp 线索 | `gmail_a 2025-03-18 Re: 8 Port Industrial PoE Switch` |
 | 2025-05-14 | 来 | Peter（TJ Computer） | ราคาเท่าไหร่?（多少钱？） | bypass 询价 | `02da3feea2aac332` |
 | 2025-05-15 | 去 | Alan | 300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip | 报价后停 | `60215e5a3bb8a816` |
 
@@ -155,7 +156,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T07:26:33Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-100/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

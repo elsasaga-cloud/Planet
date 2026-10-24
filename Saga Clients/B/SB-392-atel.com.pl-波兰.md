@@ -167,14 +167,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 sitemap：新增 820 条： www.atel.com.pl； ofirmie.php； partnerzy_handlowi.php； rekomendacje.php； wspolpra
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-392/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.atel.com.pl/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 7155 字符；首行：﻿ |
-| [sitemap](https://www.atel.com.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-21 |
+| [home](https://www.atel.com.pl/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 7093 字符；首行：﻿ |
+| [sitemap](https://www.atel.com.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod 2026-10-21 |
 | [feed_auto](https://www.atel.com.pl/rss/news.php) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 1 条；最新：Thu, 13 Feb 2020 14:51:40 WyprzedaĹź produktĂłw poserwisowych i poekspozycyjnych OU |
 
 ## 联系方式（已有 · 原值照录）

@@ -188,17 +188,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 sitemap：新增 228 条：2020-10-09T14:26:03 33-accessories；2020-10-09T14:26:03 34-access-control-kits；202
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-839/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
-| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
+| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
+| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
 | [news_1](https://inv-technology.com/en/blog/test-actu-dynavision-b1.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1370 字符；首行：INV-Technology |
 | [news_2](https://inv-technology.com/en/content/6-our-references) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2376 字符；首行：Our references |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCmR8v1WcK5Q0-KXFmQRbdUg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-15T14:36:50+00:00 Tutoriel Ruijie RG-EST330FP \| Appairage et configuratio |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/invtechnology20/
 

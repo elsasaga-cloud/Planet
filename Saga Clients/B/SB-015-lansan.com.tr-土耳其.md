@@ -184,8 +184,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-015/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -193,7 +193,7 @@ updated: 2026-10-24
 | [home](https://www.lansan.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4932 字符；首行：Network Bağlantı Ekipmanları - LANSAN |
 | [sitemap](https://www.lansan.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.lansan.com.tr/blog/tr) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2829 字符；首行：Blog - LANSAN |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCQUp25HVPDdV4PKbwQDxWFg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCQUp25HVPDdV4PKbwQDxWFg/featured |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCQUp25HVPDdV4PKbwQDxWFg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 11 条；最新：2025-02-23T12:30:28+00:00 UTP Keystone Tool \| LNS-1109 |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com；X/Twitter: https://www.twitter.com；Facebook: https://www.facebook.com
 

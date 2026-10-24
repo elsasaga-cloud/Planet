@@ -67,6 +67,7 @@ updated: 2026-10-24
 | 2025-11-24 | 来 | Sanjay | Media Converter with 4 Port Switch… 1x Fiber Out- Duplex SC/PC… -20degC to+65 degC… This is for a tender… IF accepted- they may take 1000 pcs. Steps: 1. Specs approval 2. Sample approval 3. Supply of goods | 标书 1,000 台 | `4aabcfb3fec906ec` |
 | 2025-11-25 | 去 | Alan | Sorry to tell you that, we do not have a proper model for this tender. Just something close. | 先说没有 | `ccb8973fe01fa794` |
 | 2025-11-25 | 去 | Alan | Price is 30usd/pc STI-140GE… the price 30usd is actually including duplex fiber module… power adapter, it is din rail mounted… hdr-15-24 meanwell… Price is 10usd/pc | 报价修正 + 电源 | `602605b78b95b93c` |
+| 2025-11-25 | 来 | ASTEL Digicom（Sanjay） | If you are providing us DIN Rail mounted switch, then PSU should also be DIN Rail mounted. Normal adapters may not be suitable and are not industrial quality. Please immediately send us the PSU picture specs… How about replacing the SFP port with SC PC dual fiber module. Is it possible or we must ask customer to accept SFP Port only. Please offer price 1. For the Industrial switch 2. For the PSU (220V Input and Output DC 12V/24V…) | 样品单（STAG20251127018，STI-110GE ×2 + STI-140GE ×4 $166）前两天的两个硬要求：DIN 导轨电源（Meanwell HDR 系列可对位）+ SC 双纤固定口替代 SFP——第二条 Saga 现货没有，只能 SFP + SC 模块；印度集成商的终端客户规格常写死 SC 口 | `gmail_a 2025-11-25 RE: 10G Enterprise SFP Switch` |
 | 2025-11-27 | 来 | Sanjay | I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication | 付样 + 广州货代 + 要 WeChat | `05f51c687ba38b88` |
 | 2025-11-27 | 去 | Alan | Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683 | 发票 + 交接给 Simon | `5ec435ffe9b9305e` |
 | 2025-11-27 | PI | Simon → Astel | STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75 | 样品单经济账 | `PI STAG20251127018` |
@@ -263,7 +264,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 auto_sitemap：新增 420 条： asteldigicom.com；2025-12-27T23:47:40 cable-tv.html；2025-12-27T23:33:33 cables.ht
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-001/`；本节随档案重渲染刷新，实时看日志。
 
@@ -271,7 +272,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | [home](https://asteldigicom.com/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors |
 | [contact](https://asteldigicom.com/contactu.html) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6213 字符；首行：JOIN OUR NETWORK OF SUBSCRIBERS |
-| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
+| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
 | [auto_news_1](https://asteldigicom.com/blog) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/astel-digicom-electronics-llc（112 followers；Sanjay Singla GM 332 followers；Yash Shahani / Rehman Rahim 销售）

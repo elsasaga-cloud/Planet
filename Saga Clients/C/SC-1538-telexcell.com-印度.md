@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-05-16 | 来 | Tarun Jain Lalwani（Telexcell，Director Sales） | Yesterday, I received your Mail. Could be of any help to you. | 220 台 RFP 无报价之后，2026-05 销售总监回了一句客套（把 Saga 当供应商候选）——没有新需求；维持 C/待机，等 RFP 季 | `gmail_a 2026-05-16 Re: 10G Enterprise SFP Switch` |
 | 2026-05-18 | 来 | Tarun Jain Lalwani（Director Sales） | List of Saga switches support (ERPS) Ethernet Ring Protection Switching (version ERPSv1 & ERPSv2) also called ITU-T G.8032/Y.1344. | 技术预审从 ERPS 开始 = 做运营商/园区环网项目 | `gmail_a 2026-05-18` |
 | 2026-07-29 | 来 | Tarun Jain Lalwani | we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP 1G/10G L2+ Managed POE Switch with DC & AC Power -100 2) 24 Port + 4 SFP 1G/10G L2+ Managed POE Switch with DC & AC Power - 20 3) 16 Port + 4 SFP 1G/10G L2+ Managed POE Switch with DC & AC Power (Industrial Grade) -100 Share the Compliant Product data sheets & Transfer Pricing. | 220 台、三型号、写明数量 = 真 RFP（不是问价） | `gmail_a 2026-07-29` |
 | 2026-07-29 | 来 | Tarun（附件 Switch 8 x Gig + 2x SFP RFP.xlsx / 24 Port + 4 SFP POE Switch.xlsx） | 8 口：Fixed ports 8*10/100/1000M + 2*1G/2.5G/10G SFP+ · 56Gbps · Fan less · Power Supply DC: -32V~-78V · PoE Budget ≤120W · 0~50℃ · 4K VLAN/QinQ/GVRP/LLDP/ERPS 合规表（Yes/No + Chipset Model & Part Code）；24 口：128Gbps · 220V AC / 48V DC · PoE ≤400W · ≤430W 满载 | 8 口要 -48V DC 电信电源（-32~-78V）= 电信机房/基站配套；24 口要 AC+DC 双输入；要填芯片型号 = 招标合规表 | `gmail_a att sha（见 attachments/text）` |

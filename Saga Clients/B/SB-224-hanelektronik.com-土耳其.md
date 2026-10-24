@@ -189,17 +189,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_2：内容变化：+40 −40 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-224/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://hanelektronik.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 12690 字符；首行：Han Elektronik - Türkiye'nin Güvenlik Çözümü |
-| [sitemap](https://hanelektronik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 578 个 URL；最新 lastmod 2026-10-24T02:00:17 |
-| [news_1](https://hanelektronik.com/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 10016 字符；首行：ANA SAYFA |
-| [news_2](https://hanelektronik.com/blog/duyurular) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9846 字符；首行：DUYURULAR |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCCp-lDqiHakEPjXUHc5Rapg |
+| [home](https://hanelektronik.com/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 12649 字符；首行：Han Elektronik - Türkiye'nin Güvenlik Çözümü |
+| [sitemap](https://hanelektronik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 578 个 URL；最新 lastmod 2026-10-24T02:00:17 |
+| [news_1](https://hanelektronik.com/blog) | html | HTTP 200 | 2026-10-24T07:26:33Z | 9942 字符；首行：ANA SAYFA |
+| [news_2](https://hanelektronik.com/blog/duyurular) | html | HTTP 200 | 2026-10-24T07:26:33Z | 10030 字符；首行：DUYURULAR |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-07-23T14:47:18+00:00 GRUNDIG GU-CI-AC4614T - 4MP AI H.265 Bullet Network Kame |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/hanelektronik；Instagram: https://www.instagram.com/han_elektronik/；X/Twitter: https://twitter.com/hanelektronik
 

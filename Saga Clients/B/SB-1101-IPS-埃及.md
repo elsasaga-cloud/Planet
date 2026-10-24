@@ -130,15 +130,15 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1101/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://integrated-ps.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3374 字符；首行：IPS – Integrated Premium Solutions |
 | [sitemap](https://integrated-ps.com/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxX4U4GbvH7NytCrCxbGkPg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxX4U4GbvH7NytCrCxbGkPg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxX4U4GbvH7NytCrCxbGkPg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 3 条；最新：2024-01-11T22:06:48+00:00 Our work in installing Automated Barriers |
 | [feed_auto](https://integrated-ps.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 4 条；最新：Wed, 25 Jun 2025 09:00:27 BENTSAI Handheld Printer: Revolutionizing On-the-Go Indus |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/IPS-Integrated-premium-solutions-110132940493420；LinkedIn: https://www.linkedin.com/company/ips-integrated-premium-solutions/?viewAsMember=true

@@ -139,16 +139,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 news_1：内容变化：+574 −1 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 HTTP 500）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1162/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.bayiden.com.tr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 53978 字符；首行：Bayiden - Teknolojinin Bayisi |
-| [sitemap](https://www.bayiden.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-24 |
+| [sitemap](https://www.bayiden.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T07:26:33Z | 900 个 URL；最新 lastmod 2026-10-24 |
 | [news_1](https://www.bayiden.com.tr/blog/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 24189 字符；首行：- Bayiden - Teknolojinin Bayisi |
-| [youtube](https://www.youtube.com/@12VoltElektronik) | youtube_handle | HTTP 500 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@12VoltElektronik) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-13T15:18:43+00:00 camii ses sistemi #kayseri #elektronik #tamir #telsiz #a |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/bayiden；Instagram: https://www.instagram.com/bayidencom.tr/；X/Twitter: https://x.com/bayidencomtr
 

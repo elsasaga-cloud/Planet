@@ -191,8 +191,8 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-933/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -201,7 +201,7 @@ updated: 2026-10-24
 | [sitemap](https://actelis.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://actelis.com/support/actelis-publications/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9944 字符；首行：Articles & Blog Posts Archives \| Actelis Networks |
 | [news_2](https://actelis.com/category/in-the-news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 14309 字符；首行：In The News \| Actelis Networks |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC1LgMhGApbpEhgylGLuOsRA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC1LgMhGApbpEhgylGLuOsRA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC1LgMhGApbpEhgylGLuOsRA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2024-09-17T16:50:28+00:00 GigaLine 800 Product Spotlight Actelis |
 | [feed_auto](https://actelis.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 19 Aug 2026 12:27:55 Actelis Networks Powers Broadband to Remote Alaska Schoo |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Actelis/；X/Twitter: https://twitter.com/actelis；LinkedIn: https://www.linkedin.com/company/actelis-networks/
