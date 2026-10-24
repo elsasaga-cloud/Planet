@@ -108,3 +108,5 @@
 | 大单运费的分量 | Angora 176 台 = 23 箱 471.9 kg，运费 22,426 RMB ≈ 127 RMB/台（≈$18），把毛利从 ~24% 压到 15.9%——同规模报价时运费单列、空运/海运分开报。 |
 | 印度清关 | FedEx 需要收货人先在 kyc.fedex.com 上传 **GSTIN + 身份/地址证明 + 清关授权书（POA）**，拿到运单号后才能办（SA-016 United Control Engineers 2024-04，GSTIN 09AACCU4195M1ZP）；没做 KYC 货会卡在海关。 |
 | 装箱单 | 工厂（SmartByte）出 PACKING LIST 给 Zhengzhou Saga Telecom（Consignee），再由 Saga 转出口——**工厂单据上出现的是 Saga 的郑州抬头，不是客户**；客户看到的只有 Saga 的 CI/PL。 |
+| 出口管制分类（客户合规表） | 对 Netaş 已填：**EAR99 · NLR (No License Required, EAR §734) · CCATS 不适用 · HTS 8517622990 · 原产国 China**（STI-488DGGPM-2BT，2025-12-03）；国防相关/大企业供应商入库问 ECCN 时照此答。⚠ 该表 certify 句残留模板公司名 JERA ELEKTRONİK，下次更新改为 Zhengzhou Saga Telecom。 |
+| 个人数据（KVKK/GDPR 类附件） | Netaş《Annex 1 个人数据附加协议》已签：客户方个人数据只用于履约、不转第三方/不出境——Netaş 联系人不进群发名单，不转给工厂。 |
