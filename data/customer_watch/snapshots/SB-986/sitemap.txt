@@ -1,4 +1,5 @@
-# SB-986 lemaxguvenlik.com · sitemap · https://www.lemaxguvenlik.com/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-986 lemaxguvenlik.com · sitemap · https://www.lemaxguvenlik.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+	https://www.lemaxguvenlik.com/urun/12-v-volt-4000-watt-modifiye-sinus-inverter-12-volt-220v-cevirici/340
 	https://www.lemaxguvenlik.com/urun/lg-maxcam-4-kanal-ahd-5mp-h-265-ultra-hd-dvr-kayit-cihazi/212
 	https://www.lemaxguvenlik.com/urun/lg-maxcam-16-kanal-ahd-5mp-h-265-ultra-hd-dvr-kayit-cihazi/214
 	https://www.lemaxguvenlik.com/urun/4-2-kw-tak-calistir-hazir-gunes-enerji-sistemi-paketi-buzdolabi-tv-aydinlatma-solar-paket/341
@@ -9,7 +10,6 @@
 	https://www.lemaxguvenlik.com/urun/western-digital-purple-wd60purx-3-5-6-tb-sata-3-hdd-guvenlik-kamerasi-diski/319
 	https://www.lemaxguvenlik.com/urun/wd-purple-4tb-3-5-sata-iii-6gbit-s-64mb-7-24-guvenlik-kamerasi-diski-wd40purz/320
 	https://www.lemaxguvenlik.com/urun/4-kamerali-sim-kartli-kamera-2-solar-panelli-ptz-aydinlatmali-2-yonlu-konusma-cakarli/338
-	https://www.lemaxguvenlik.com/urun/12-v-volt-4000-watt-modifiye-sinus-inverter-12-volt-220v-cevirici/340
 	https://www.lemaxguvenlik.com/urun/12-volt-3000-watt-modifiye-sinus-inverter-12-220-cevirici-a-plus-inverter/282
 	https://www.lemaxguvenlik.com/urun/4-kw-sebeke-destekli-tv-buzdolabi-tv-tak-calistir-gunes-enerji-sistemi-paketi/333
 	https://www.lemaxguvenlik.com/urun/5000-watt-tak-calistir-kuruluma-hazir-gunes-enerji-sistemi-paketi/339

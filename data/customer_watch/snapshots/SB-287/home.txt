@@ -1,4 +1,4 @@
-# SB-287 yli.ro · home · https://yli.ro/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-287 yli.ro · home · https://yli.ro/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-DT-700 - Senzor AI cu camera, de detectie a persoanelor, cu functie de deschidere si protectie anti-coliziune, pentru usi automate
-FLM19-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M19
-QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
-PB-19-NONC(LED)-RDGN - Buton de iesire, contacte NO/NC, LED rosu/verde, filet M19, actionare prin apasare
-INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
-YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
-CCA3-4-2PLUS - Centrala de control acces IP pentru 4 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
-TA-S922ZMM-O1-W - Terminal de pontaj, portabil, cu comunicatie Wi-Fi, senzor de amprente, cititor de carduri si tastatura
-BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
+S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
+S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
 YMP-300 - Electromagnet aplicat de 300 kgf, IP68, rezistent la medii saline
-FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
-CAB4-PS5-wh(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, alb, cu pini magnetici pentru fixare controler
-MBK-380MC - Suport pentru montarea aparenta a contraplacii electromagnetilor YMP-380M
-YMP-380M - Electromagnet incastrat de 380 kgf, IP68, rezistent la medii saline
+YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
+S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
+YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
+BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
 PB-16-NO(LED)-bl - Buton de iesire, contact NO, Led semnalizare, filet M16, actionare prin apasare
+FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
+INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+S532(BRAK.F) - Suport montare incastrata pentru videointerfoanele S532(IP)
+BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
+FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
+BSW-52 - Controler de acces cu buton iesire, pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

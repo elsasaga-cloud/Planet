@@ -1,4 +1,4 @@
-# SB-091 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-091 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Blog Archive | Optigo Networks
 Skip to content
 Products
@@ -55,6 +55,10 @@ Uncategorized
 Video
 Webinars
 Remove filters
+Why Optigo Didn’t Just Bolt a Chatbot Onto OptigoVN
+If you can paste a BACnet error into Claude or ChatGPT for free, why would you pay for help from...
+Read More >
+OptigoVN
 Semantic Tagging in 2026: Project Haystack 5, and What’s Next
 A BACnet point reporting 72.4 could be a zone temperature, a supply air setpoint, or a fan speed. Unless the...
 Read More >
@@ -87,10 +91,6 @@ THE BENEFITS OF COLLABORATIVE TRAINING
 Boost OT network efficiency with collaborative training between facility teams and integrators. Discover benefits and best practices here!...
 Read More >
 Business Best Practices , Network Management
-Collaborative OT Crisis Response: Getting the Right People the Right Data
-Collaborative crisis response: Build resilient OT networks with teamwork, real-time data, and streamlined communication....
-Read More >
-Business Best Practices , Network Management , Troubleshooting Tips
 Stay Updated with Our Latest Posts
 Subscribe our newsletter and get handpicked articles, exclusive insights, and bi-weekly roundups delivered straight to your inbox. No spam, ever.
 Free Forever
@@ -124,7 +124,7 @@ Network Management
 142 articles
 View Topic
 OptigoVN
-74 articles
+75 articles
 View Topic
 Podcast
 10 articles

@@ -1,5 +1,6 @@
-# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_sitemap · https://fiberone.de/sitemap.xml · fetched 2026-10-23T06:51:07Z · HTTP 200
+# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_sitemap · https://fiberone.de/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://fiberone.de/
+	https://fiberone.de/bundesweit/
 	https://fiberone.de/tarife/
 	https://fiberone.de/gigabit-internet/
 	https://fiberone.de/10-gbit-internet/
@@ -10,9 +11,6 @@
 	https://fiberone.de/glasfaser-offenbach/
 	https://fiberone.de/four-frankfurt-internet/
 	https://fiberone.de/omniturm-internet/
-	https://fiberone.de/gigabit-internet/
-	https://fiberone.de/10-gbit-internet/
-	https://fiberone.de/glasfaser-frankfurt/
 	https://fiberone.de/geschaeftskunden/
 	https://fiberone.de/geschaeftskunden/vertraege/
 	https://fiberone.de/geschaeftskunden/vertraege/agb-geschaeftskunden.html

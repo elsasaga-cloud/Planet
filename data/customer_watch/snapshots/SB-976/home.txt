@@ -1,4 +1,4 @@
-# SB-976 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-976 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Fiberden
 Whatsapp
 1
@@ -346,11 +346,10 @@ CORE TEMİZLEME MENDİLİ (100 AD)
 fiberden
 Fiber Adaptör SC/APC (Duplex)
 18,00 TL KDV
-Tükendi
+% 0
 fiberden
 CLOSURE 48 CORE 4 İN 4 OUT
 1.143,00 TL KDV
-Tükendi
 % 0
 fiberden
 CLOSURE 24 CORE 4 İN 4 OUT

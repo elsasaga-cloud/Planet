@@ -1,4 +1,4 @@
-# SB-695 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-695 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
 0 (252) 382 32 36
 0 542 182 32 36
@@ -147,6 +147,8 @@ Coremax
 Coremax 50500 500m 2+1 0.50mm Cctv Kablosu
 Hikvision
 Hikvision DS-7108NI-Q1 8 Kanal NVR Kayıt Cihazı
+Coremax
+Coremax CXS-4P2U 4PORT POE SWİTCH
 TÜKENDİ
 Coremax
 COREMAX CRS - 4000W - WHİTE 4 Lens 4G e-Sim AOV Solar Kamera
@@ -156,9 +158,6 @@ Hikvision DS-2CD1043G0-IUF 4MP 2.8mm Lens IP IR Bullet Kamera SESLİ
 TÜKENDİ
 Hikvision
 Hikvision DS-2CE16D0T-EXIPF 2MP Analog HD IR Bullet Kamera
-TÜKENDİ
-Coremax
-Coremax CXS-4P2U 4PORT POE SWİTCH
 Sizin İçin Seçtiklerimiz
 YENİ
 Ruijie Reyee

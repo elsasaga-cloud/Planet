@@ -1,4 +1,4 @@
-# SB-182 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-182 jpg.lt · home · https://jpg.lt/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
 Vaizdo stebėjimas
 Vaizdo stebėjimo sistemos
@@ -84,7 +84,17 @@ GNSS juosta: L1
 IP klasė: IP54
 Išmatavimai: 79 x 43 x 12 mm
 Maitinimas: Vidinis 170 mAh Back-up , Išorinis 10-30 VDC
-Paskirtis: Automobiliams , Motociklams
+Paskirtis: Motociklams , Automobiliams
+Tinklas: 4G
+Tipas: Profesionalus
+Į krepšelį
+Turime sandėlyje
+GPS seklys Teltonika ATC700-4G
+€ 59.29 € 70.18
+IP klasė: IP68
+Išmatavimai: 62 x 54 x 20 mm
+Maitinimas: Vidinis 1000 mAh , Išorinis USB-C
+Paskirtis: Nešiojamas , Universalus
 Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį
@@ -96,16 +106,6 @@ IP klasė: IP41
 Išmatavimai: 65 x 56.6 x 20.6 mm
 Maitinimas: Vidinis 170 mAh Back-up , Išorinis 10-30 VDC
 Paskirtis: Automobiliams
-Tinklas: 4G
-Tipas: Profesionalus
-Į krepšelį
-Turime sandėlyje
-GPS seklys Teltonika ATC700-4G
-€ 59.29 € 70.18
-IP klasė: IP68
-Išmatavimai: 62 x 54 x 20 mm
-Maitinimas: Vidinis 1000 mAh , Išorinis USB-C
-Paskirtis: Nešiojamas , Universalus
 Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį

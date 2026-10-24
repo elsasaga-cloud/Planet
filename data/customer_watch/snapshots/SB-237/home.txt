@@ -1,4 +1,4 @@
-# SB-237 secomp-international.com · home · https://www.secomp-international.com/en/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-237 secomp-international.com · home · https://www.secomp-international.com/en/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories - SECOMP International AG
 {
 document.getElementById('cmsmodal').checked = true;

@@ -1,4 +1,4 @@
-# SB-378 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-378 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Thoughts on the Eufy and Wyze Vulnerabilities
-In November 2022, security researcher Paul Moore discovered a security vulnerability with Eufy cameras. This is a relatively easy vulnerability…
-December 4, 2022
-Guide to Installing a Wireless Elevator Camera
-Before installing a camera inside of an elevator, you need to be aware of any legal requirements in your area.…
-October 27, 2022
-Uniview 180° Security Camera – Testing & Review
-Wide angle 180° security cameras cover an extremely wide field of view. They are great tools for monitoring parking lots,…
-February 22, 2023
+Uniview Releases Multi-Sensor Dome Camera (IPC8645EA-ADZKM-I1)
+Released in Q4 2024, the new Uniview multi-sensor camera contains four lenses in a single housing. The lenses can be…
+December 13, 2024
+Uniview’s OwlView Plus Delivers Incredible Image Quality (with image comparisons)
+Uniview's latest OwlView Plus series is a step above the standard OwlView cameras. It combines extreme low-light performance with a…
+May 7, 2025
+12 Places to Buy a Security Camera in Toronto
+In Toronto, there are many options for purchasing a security camera system. Whether you are looking to buy a single…
+January 11, 2023
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Information
 Blog Gallery FAQ Security Camera Installers My Account

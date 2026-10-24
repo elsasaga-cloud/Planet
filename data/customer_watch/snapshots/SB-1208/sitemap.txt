@@ -1,4 +1,4 @@
-# SB-1208 ivolta.pl · sitemap · https://ivolta.pl/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1208 ivolta.pl · sitemap · https://ivolta.pl/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://ivolta.pl/Elementy Instalacyjne/889/produkty/
 	https://ivolta.pl/KNX, Przewodowe/943/produkty/
 	https://ivolta.pl/Inne/644/produkty/

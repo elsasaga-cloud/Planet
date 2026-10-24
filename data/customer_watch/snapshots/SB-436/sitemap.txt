@@ -1,4 +1,4 @@
-# SB-436 maxlink.cz · sitemap · https://www.maxlink.cz/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-436 maxlink.cz · sitemap · https://www.maxlink.cz/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	http://www.maxlink.cz/en/
 	http://www.maxlink.cz/cs/
 	http://www.maxlink.cz/en/where-to-buy

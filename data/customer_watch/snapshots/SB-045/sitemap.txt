@@ -1,15 +1,15 @@
-# SB-045 tdtorus.ru · sitemap · https://tdtorus.ru/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
-2026-10-23	https://tdtorus.ru
-2026-10-23	https://tdtorus.ru/search
-2026-10-23	https://tdtorus.ru/about
-2026-10-23	https://tdtorus.ru/contacts
-2026-10-23	https://tdtorus.ru/feedback
-2026-10-23	https://tdtorus.ru/marketing
-2026-10-23	https://tdtorus.ru/service
-2026-10-23	https://tdtorus.ru/support
-2026-10-23	https://tdtorus.ru/faq
-2026-10-23	https://tdtorus.ru/naming
-2026-10-23	https://tdtorus.ru/events
+# SB-045 tdtorus.ru · sitemap · https://tdtorus.ru/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+2026-10-24	https://tdtorus.ru
+2026-10-24	https://tdtorus.ru/search
+2026-10-24	https://tdtorus.ru/about
+2026-10-24	https://tdtorus.ru/contacts
+2026-10-24	https://tdtorus.ru/feedback
+2026-10-24	https://tdtorus.ru/marketing
+2026-10-24	https://tdtorus.ru/service
+2026-10-24	https://tdtorus.ru/support
+2026-10-24	https://tdtorus.ru/faq
+2026-10-24	https://tdtorus.ru/naming
+2026-10-24	https://tdtorus.ru/events
 2026-05-07	https://tdtorus.ru/istochniki-pitaniya/oborudovanie-hiden/ibppoprimeneniu/ibpdlakotla
 2026-04-30	https://tdtorus.ru/oborudovanie-hiden/ibppoprimeneniu/ibpdlaofisa
 2026-04-30	https://tdtorus.ru/oborudovanie-hiden/ibppoprimeneniu/ibpdlazagorodnogodoma

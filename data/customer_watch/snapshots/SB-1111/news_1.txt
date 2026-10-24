@@ -1,4 +1,4 @@
-# SB-1111 eltrox.cz · news_1 · https://www.eltrox.cz/blog/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1111 eltrox.cz · news_1 · https://www.eltrox.cz/blog/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Blog - eltrox.cz
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
 Nastavení
@@ -303,6 +303,14 @@ Solární měniče ,
 Transformátory 230 V / 110 V
 Elektrocentrály
 Baterie
+AA baterie – tužkové ,
+AAA baterie – mikrotužkové ,
+Knoflíkové baterie ,
+Nabíjecí baterie ,
+Li-ion baterie 18650 a 21700 ,
+9 V, C a D ,
+Speciální a průmyslové baterie ,
+Baterie do naslouchadel
 Stabilizátory napětí
 Nabíjecí stanice
 Domácnosť a voľný čas Domácí spotřebiče
@@ -465,10 +473,4 @@ Externá koaxiálna kabeláž
 OSTATNÉ ELEKTRICKÉ PRÍSLUŠENSTVO
 Senzor automatizácie budovy Iné
 Sieťové zariadenia ADSL smerovače
-Elektrické príslušenstvo Zásuvky
-Automatizácia budov Dotknite sa a inteligentný panel
-Pozemné antény
-Senzory automatizácie budov Senzory teploty
-Pre vás Lesné kamery
-Ovládanie prístupu a kľučka dverí RCP
-Nástroje Kr
+Elektrické príslušenst

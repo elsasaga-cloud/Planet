@@ -1,4 +1,4 @@
-# SB-1176 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1176 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -61,21 +61,21 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5041)
-Wszystkie 5041
+Światłowody (5054)
+Wszystkie 5054
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1023
-Patchcordy światłowodowe 1322
-Pigtaile światłowodowe 117
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 352
+Patchcordy światłowodowe 1328
+Pigtaile światłowodowe 118
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 356
 Adaptery światłowodowe 126
 Budowa sieci optotelekomunikacyjnej 353
 Spawarki światłowodowe i akcesoria 50
-Urządzenia diagnostyczne 157
+Urządzenia diagnostyczne 158
 Mediakonwertery 90
 Mufy światłowodowe 215
 Multipatchcordy 50
-Narzędzia światłowodowe 127
+Narzędzia światłowodowe 128
 Osłonki spawów 18
 Przełącznice światłowodowe 321
 Splittery optyczne 58
@@ -87,9 +87,9 @@ GPON/GEPON 173
 CWDM Mux/Demux 9
 Szybkozłączki, spawy mechaniczne, złącza światłowodowe 62
 Stojaki kablowe 16
-Monitoring (2598)
-Wszystkie 2598
-Systemy IP 997
+Monitoring (2599)
+Wszystkie 2599
+Systemy IP 998
 Systemy HD-TVI 115
 Systemy hybrydowe 242
 Zestawy do monitoringu 11
@@ -106,10 +106,10 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4928)
-Wszystkie 4928
+LAN (4933)
+Wszystkie 4933
 Kable LAN 403
-Patchcordy RJ45 1863
+Patchcordy RJ45 1868
 Szafy RACK 880
 Akcesoria do szaf RACK 884
 Moduły keystone 232
@@ -121,16 +121,16 @@ System 45x45 39
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2229)
-Wszystkie 2229
+Zasilanie (2238)
+Wszystkie 2238
 Zasilacze UPS 371
 Zasilacze PoE 89
 Zasilacze buforowe 226
-Zasilacze impulsowe 499
+Zasilacze impulsowe 507
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
-Kable zasilające 78
+Kable zasilające 79
 Listwy zasilające i przedłużacze 393
 Battery packi do UPS 65
 Akcesoria do UPS 49
@@ -246,12 +246,13 @@ Narzędzia i akcesoria (66)
 Wszystkie 66
 Komputer i biuro (107)
 Wszystkie 107
-Serwery i storage (238)
-Wszystkie 238
+Serwery i storage (240)
+Wszystkie 240
+Karty pamięci 1
 Akcesoria 11
 Licencje 12
 Pamięci RAM 6
-Dyski twarde 62
+Dyski twarde 63
 Dyski sieciowe NAS 147
 Inteligentny dom (472)
 Wszystkie 472
@@ -277,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Kabel Patchcord CAT 7 S/FTP PiMF 30m purpurowy Cu
-118.4 zł netto
+MEAN WELL HLG-150H-12A zasilacz LED 12 V 150 W
+208.03 zł netto
 Do koszyka
-Kabel Patchcord CAT 7 S/FTP PiMF 30m pomarańczowy Cu
-118.4 zł netto
+Mean Well HLG-120H-24A zasilacz LED 24 V 120 W 5 A
+206.04 zł netto
 Do koszyka
-Kabel Patchcord CAT 7 S/FTP PiMF 30m żółty Cu
-118.4 zł netto
+Mean Well HLG-120H-12B zasilacz LED 12 V 120 W z ściemnianiem
+211 zł netto
 Do koszyka
-Kabel Patchcord CAT 7 S/FTP PiMF 30m zielony Cu
-118.4 zł netto
+Mean Well HLG-120H-12A zasilacz LED 12 V 120 W 10 A
+206.04 zł netto
 Do koszyka
-Hikvision DS-2CD2666G2H-IZS(2.8-12mm)(eF) – kamera IP bullet 6 MP
-1417.09 zł netto
+Polywater QuicKleen 60 ml spray – środek do czyszczenia włókien światłowodowych
+152.1 zł netto
 Do koszyka
-Hikvision DS-2CD2646G2H-IZS(2.8-12mm)eF/BLACK – kamera IP bullet 4 MP
-1445.34 zł netto
+Mean Well HLG-100H-24B zasilacz LED 24 V 96 W 4 A IP67
+204.06 zł netto
 Do koszyka
-Mean Well HLG-60H-24B zasilacz LED 24 V 60 W z ściemnianiem
-138.68 zł netto
+Mean Well HLG-100H-24A zasilacz LED 24 V 100 W 4 A IP65
+186.35 zł netto
 Do koszyka
-Hikvision DS-2CD2646G2H-IZS(2.8-12mm)(eF) – kamera IP bullet 4 MP
-1376.87 zł netto
+Hikvision DS-2CD2T166G3-IS2UY/SL(2.8mm)(eF) – kamera IP bullet 16 MP z aktywnym odstraszaniem
+1385.56 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

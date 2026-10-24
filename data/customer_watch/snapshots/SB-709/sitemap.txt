@@ -1,4 +1,4 @@
-# SB-709 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-709 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://jm.pl/pl/baza-wiedzy-7-wip/
 	https://jm.pl/pl/baza-wiedzy-1-wip/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-led-sektor-b2b/

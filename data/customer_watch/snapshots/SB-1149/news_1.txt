@@ -1,4 +1,4 @@
-# SB-1149 algosolutions.com · news_1 · https://www.algosolutions.com/resources/news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1149 algosolutions.com · news_1 · https://www.algosolutions.com/resources/news/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 News - Algo Communication Products Ltd.
 Products
 Categories
@@ -177,6 +177,9 @@ English
 Home > Resources > News
 News to keep you informed.
 Latest News
+Security Update – PHP Vulnerabilities
+View
+Algo IP endpoints & ADMP are not impacted by the recently disclosed PHP vulnerabilities.
 Action Required: Prepare Your Algo Devices for Canadian Time Zone Changes
 View
 Effective November 1, 2026, several Canadian regions will stop observing seasonal clock changes. Customers with Algo devices in affected regions should ensure their firmware and time-zone settings are updated to maintain accuracy.
@@ -228,9 +231,6 @@ February 2025 – Download Algo firmware v5.5 packed with updates to improve you
 Firmware Release: v5.4
 View
 December 2023 – Download Algo firmware v5.4 and gain access to advanced features and enhancements.
-New ADMP Features (Q4 2023)
-View
-December 2023 – Explore what’s new in the Algo Device Management Platform
 Next Page »
 Back to Resources
 Get in touch

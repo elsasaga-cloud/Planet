@@ -1,4 +1,4 @@
-# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_news_1 · https://fiberone.de/news/ · fetched 2026-10-23T06:51:07Z · HTTP 200
+# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_news_1 · https://fiberone.de/news/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 News — fiberONE | Aktuelles aus dem Glasfaser-Ausbau
 fiber ONE
 Tarife
@@ -42,5 +42,6 @@ Kontakt
 Support
 Impressum
 Datenschutz
+Glasfaser vor Ort Frankfurt · Darmstadt · Wiesbaden · Mainz · Offenbach · Stuttgart-Asemwald · FOUR Frankfurt · OMNITURM · Gigabit-Internet · 10 Gbit/s · Bundesweit
 © 2026 NYNEX satellite OHG · Darmstadt — fiberONE ist eine Marke der NYNEX satellite OHG
 AGB · Dokumente

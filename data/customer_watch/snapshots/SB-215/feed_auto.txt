@@ -1,4 +1,4 @@
-# SB-215 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-215 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Fri, 16 Oct 2026 10:34:20 +0000	Stabilità ed efficienza produttiva: la nuova soluzione EMC esterna di Cincoze	https://www.contradata.it/stabilita-ed-efficienza-produttiva-la-nuova-soluzione-emc-esterna-di-cincoze/
 Tue, 22 Sep 2026 08:52:32 +0000	Architettura di sistema scalabile per le applicazioni di domani	https://www.contradata.it/architettura-di-sistema-scalabile-per-le-applicazioni-di-domani/
 Wed, 16 Sep 2026 09:45:34 +0000	MIC-9000: computer industriali per l’automazione e l’edge AI computing	https://www.contradata.it/mic-9000-computer-industriali-per-lautomazione-e-ledge-ai-computing/

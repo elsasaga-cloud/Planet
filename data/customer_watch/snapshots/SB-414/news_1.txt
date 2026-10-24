@@ -1,4 +1,4 @@
-# SB-414 tpole.it · news_1 · https://www.tpole.it/news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-414 tpole.it · news_1 · https://www.tpole.it/news/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 News TPole | Soluzioni PC based per automazione industriale e applicazioni embedded
 Search
 it en
@@ -30,6 +30,9 @@ Sistemi operativi
 News
 Contatti
 News
+21 ottobre 2026
+Nuovo TPBox-BTL: la potenza di Intel® Bartlett Lake in formato industriale
+Il mercato dell’automazione e della visione artificiale richiede sistemi sempre più compatti ma allo stesso tempo più performanti. Il nuovo…
 25 settembre 2026
 La versatilità di Yocto valorizzata dall’esperienza TPole in soluzioni Embedded su misura
 Nel mondo embedded, il sistema operativo non può essere considerato un elemento standard e indipendente dall’hardware: deve essere costruito attorno…
@@ -173,7 +176,4 @@ Sostituzione di un sistema EOL con soluzione full custom, rack 6U e upgrade all�
 A noi di TPole piacciono le sfide; molti dei nostri clienti sono consapevoli e ci consentono di offrire loro la…
 2 maggio 2025
 Kit InfiniBand 200G: la soluzione TPole per collegamento ad alte prestazioni tra acquisizione ed elaborazione dati
-Nel mondo dell’elaborazione dati ad alte prestazioni (HPC) e delle applicazioni industriali avanzate, la velocità e l’efficienza del trasferimento dati…
-29 aprile 2025
-Affidabilità in condizioni estreme: test termici per sistemi mission-critical
-Introduzione Molti nostri clienti operano in settori dov
+Nel mondo dell’elaborazione dati ad alte prestazioni (HPC) e delle app

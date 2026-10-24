@@ -1,4 +1,4 @@
-# SB-235 rimaelektronik.com · home · https://www.rimaelektronik.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-235 rimaelektronik.com · home · https://www.rimaelektronik.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Rima | Kurumsal Güvenlik ve Bilişim Çözümleri
 Rima Kurumsal
 Referans
@@ -71,51 +71,51 @@ hikvision
 ajx
 western
 Müşterilerimizi her biri kendi alanında lider teknoloji markaları ile buluşturuyoruz.
-KİŞİ ÜRÜN NESNE SAYMA
+NETWORK ALTYAPI
 Çözümler
-IP Tabanlı güvenlik kameraları, kızılötesi sensör, termal kamera…
-KİŞİ ÜRÜN NESNE SAYMA
-IP Tabanlı güvenlik kameraları, kızılötesi sensör, termal kamera gibi analitik veri/görüntü çözümleme platformları üzerinden tanımlı obje-insan sayım ve takibi.
-MILESTONE
-Güvenlik Yönetim ve Gözetim Platformu
-Milestone Systems, video gözetim ve güvenlik yönetimi alanında…
-MILESTONE
-Milestone Systems, video gözetim ve güvenlik yönetimi alanında lider firmalardandır. Firmanın ürünü olan Milestone XProtect, kullanıcılara gelişmiş bir video yönetim deneyimi sunar. Sistem, bir dizi özellik…
-IP KAMERA YAZILIMI
-Çözümler
-Birçok markayı bir arada destekleyen uluslararası ip…
-IP KAMERA YAZILIMI
-Birçok markayı bir arada destekleyen uluslararası ip kamera yazılımları. Çok sayıda ve yüksek çözünürlüklü ip kamera projelerde işlevsellik ve stabil çalışma imkanı sunar. Server –…
-ENDÜSTRİYEL AYDINLATMA
-Çözümler
-Endüstriyel aydınlatma, üretim tesisleri, fabrikalar, depolar ve diğer…
-ENDÜSTRİYEL AYDINLATMA
-Endüstriyel aydınlatma, üretim tesisleri, fabrikalar, depolar ve diğer endüstriyel ortamlarda çalışanların güvenliğini ve verimliliğini sağlamak için kullanılan aydınlatma sistemleridir. Endüstriyel aydınlatma, farklı ihtiyaçlara ve uygulamalara…
+IP Kamera sisteminin sunacağı yüksek performans ve çözünürlük…
+NETWORK ALTYAPI
+IP Kamera sisteminin sunacağı yüksek performans ve çözünürlük alt yapı da kullanılan donanım ve kablo kalitesi ile doğrudan ilişkilidir.
 KABLOSUZ VİDEO AKTARIMI
 Çözümler
 KABLOSUZ / WIRELESS NETWORK ÇÖZÜMLERİ Profesyonel cihazlarla…
 KABLOSUZ VİDEO AKTARIMI
 KABLOSUZ / WIRELESS NETWORK ÇÖZÜMLERİ Profesyonel cihazlarla gerçek throughtputh değerlerinde aktarım Ip kameralar sayesinde megapiksel görüntü aktarımı 1-5-10 ve 50 km görüntü aktarım imkanı Wi-fi…
-IP SES SİSTEMLERİ
+FİBER OPTİK AKUSTİK ALGILAMA
 Çözümler
-IP Ses Sistemleri: Nedir, Çeşitleri Nelerdir, Nasıl Seçilir?…
-IP SES SİSTEMLERİ
-IP Ses Sistemleri: Nedir, Çeşitleri Nelerdir, Nasıl Seçilir? IP ses Sistemlerini canlı veya önceden kaydedilmiş kamu duyuruları, reklamlar veya acil durumlarda talimatlar vermek için kullanabilirsiniz. Ayrıca,…
-LUXRIOT
-Güvenlik Yönetim ve Gözetim Platformu
-Luxriot EVO IP Kamera Yazılımı Luxriot EVO, 90’dan…
-LUXRIOT
-Luxriot EVO IP Kamera Yazılımı Luxriot EVO, 90’dan fazla üreticinin 4.000’den fazla IP kamera modeliyle uyumludur. Bu üreticiler arasında Axis, Arecont Vision, Pixord, SONY, JVC, Panasonic,…
+Fiber optik akustik algılama, akustik dalgaları algılamak için…
+FİBER OPTİK AKUSTİK ALGILAMA
+Fiber optik akustik algılama, akustik dalgaları algılamak için fiber optik kabloları kullanan bir teknolojidir. Bu teknoloji, geleneksel akustik algılama yöntemlerine göre birçok avantaja sahiptir. Örneğin,…
 PLAKA TANIMA SİSTEMLERİ
 Çözümler
 Farklı boyutlardaki kare ve dikdörtgen plakalar rahatlıkla tanımlanıp…
 PLAKA TANIMA SİSTEMLERİ
 Farklı boyutlardaki kare ve dikdörtgen plakalar rahatlıkla tanımlanıp kayıt altına alınabilir. Gece; düşük ışıkta veya tamamen karanlıkta başarılı sonuçlar alınabilir. Zor koşullarda %90’nin üzerinde algılama…
+AVIGILON
+Güvenlik Yönetim ve Gözetim Platformu
+Avigilon, yüksek kaliteli video gözetim çözümleri sunan bir…
+AVIGILON
+Avigilon, yüksek kaliteli video gözetim çözümleri sunan bir endüstri lideridir. Şirket, video analitiği, yapay zeka ve büyük veri teknolojilerini kullanarak güvenlik ve operasyonel verimlilik alanlarında müşterilere…
+GÜNEŞ ENERJİSİ SİSTEMLERİNDE AI ANALİZLERİ VE DRONELAR: YENİLENEBİLİR ENERJİDE VERİMLİLİĞİ ARTIRIN
+Çözümler
+Güneş Enerjisi Sistemlerinde AI Analizleri ve Dronelar: Yenilenebilir…
+GÜNEŞ ENERJİSİ SİSTEMLERİNDE AI ANALİZLERİ VE DRONELAR: YENİLENEBİLİR ENERJİDE VERİMLİLİĞİ ARTIRIN
+Güneş Enerjisi Sistemlerinde AI Analizleri ve Dronelar: Yenilenebilir Enerjide Verimliliği Artırın GES AI analizleri Güneş enerjisi sistemlerinin performansını optimize etmek ve verimliliği artırmak için doğru…
 FLIR TERMAL DENİZCİLİK (MARINE) ÇÖZÜMLERİ
 Çözümler
 FLIR Deniz Kameraları Yazılım ve Hizmetleri FLIR deniz…
 FLIR TERMAL DENİZCİLİK (MARINE) ÇÖZÜMLERİ
 FLIR Deniz Kameraları Yazılım ve Hizmetleri FLIR deniz kameraları , denizcilere geceleri ve zorlu hava koşullarında bile güvenli ve etkili bir şekilde seyretmeleri için yardımcı olan…
+IP KAMERA YAZILIMI
+Çözümler
+Birçok markayı bir arada destekleyen uluslararası ip…
+IP KAMERA YAZILIMI
+Birçok markayı bir arada destekleyen uluslararası ip kamera yazılımları. Çok sayıda ve yüksek çözünürlüklü ip kamera projelerde işlevsellik ve stabil çalışma imkanı sunar. Server –…
+GÜNEŞ ENERJİSİ DESTEKLİ IP KAMERA
+Çözümler
+Rima, güneş enerjisindeki en yeni teknolojiyi kullanarak yerel…
+GÜNEŞ ENERJİSİ DESTEKLİ IP KAMERA
+Rima, güneş enerjisindeki en yeni teknolojiyi kullanarak yerel ve uzak ağınıza dahil edebileceğiniz ip kamera setini geliştirdi.IP video güvenliği ve gözetimi için uygun maliyetli çözümlere tercihiniz…
 Öğe bulunmadı.
 IOT, Nesnelerin İnterneti
 internet üzerinden diğer cihaz ve sistemlerle veri bağlantısı ve paylaşım Şehir Güvenlik Tarım Sağlık
@@ -178,7 +178,7 @@ AXIS TEMMUZ 2026 BÜLTEN
 AXIS MAYIS 2026 BÜLTEN
 AXIS NİSAN 2026 BÜLTEN
 İçerik Etiket
-axis akıllı şehir 1 plaka okuma sistemi ücretleri 1 fiber yangın algılama 1 AV1 3 ip kamera onvif 1 ip kamera analizi 4 ip kamera cms 1 ip kamera port yönlendirme 1 3840x2160 1 balıkgözü ip kamera 1
+UDP 1 kablosuz görüntü aktarma 1 fiber yangın algılama 1 ip kamera nvr 1 4K h264 1 hd ip güvenlik kamerası 1 wireless video aktarımı 1 kamera sistemi 2 covid 19 1 People Counter 1
 Menü
 PoE Switch Filtre
 Çözümler

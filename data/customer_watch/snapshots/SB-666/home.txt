@@ -1,4 +1,4 @@
-# SB-666 NaSys Inc · home · http://errdoc.gabia.io/403.html · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-666 NaSys Inc · home · http://errdoc.gabia.io/403.html · fetched 2026-10-24T04:35:40Z · HTTP 200
 403 Forbidden
 요청한 페이지에 접근 권한이 없습니다.
 사이트 관리자이신가요?

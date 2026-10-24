@@ -1,4 +1,4 @@
-# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,45 +41,41 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision AX PRO Kovový montážní box pro ústředny AX HYBRID PRO
-Triton 19" stojanový rack 15U/600x900 prosklené dveře, šedý
-8 858 Kč bez DPH
-10 718 Kč s DPH
-Triton plně výsuvná police 1U/450mm, 19", nosnost 30kg, černá
-1 266 Kč bez DPH
-1 532 Kč s DPH
-Triton 19" speciální GridBox 4U rack DGX do stropního podhledu
-1 947 Kč bez DPH
-2 356 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1047G3-LIU(2.8mm), 4Mpx, 2.8mm, ColorVu 3.0
-TP-Link Archer NB450, Bezdrátový Wi-Fi 7 Gigabitový router s 5G
-15 111 Kč bez DPH
-18 284 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 1m, 50 pack
-2 595 Kč bez DPH
-3 140 Kč s DPH
-Triton ventilační jednotka s termostatem RAC-CH-X24-X1, 230V/15W, 1x ventilátor, šedá
-2 906 Kč bez DPH
-3 516 Kč s DPH
-TP-Link Tapo C575D Bezpečnostní otočná kamera s naklápěním a dvěma objektivy, 8Mpx
-3 358 Kč bez DPH
-4 063 Kč s DPH
-MEAN WELL XDR-480E-24 Průmyslový zdroj na DIN lištu, 480W, 24V
-2 065 Kč bez DPH
-2 498 Kč s DPH
-TP-Link Tapo RVA310, Omyvatelný mopovací hadřík pro Tapo, 6 pack
-464 Kč bez DPH
-561 Kč s DPH
-Triton rozvodný panel RAB-PD-X04-A1, 19", 8x 230V (typ F), vypínač, 2m kabel
-815 Kč bez DPH
-987 Kč s DPH
-Triton RAC-PP-X03-C1, 10" neosazený patch panel, 10 portů, 1U, šedý
-222 Kč bez DPH
-269 Kč s DPH
-Teltonika Telematics ATC700, miniaturní tracker s 4G LTE Cat 1
-1 840 Kč bez DPH
-2 226 Kč s DPH
-Hikvision IP mini dome hybrid kamera DS-2CD2543G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
+Seagate HDD Exos 7E10, 3.5", 10TB, 512n, SATA
+10 401 Kč bez DPH
+12 585 Kč s DPH
+Triton 19" stojanový rack 37U/600x800 prosklené dveře, šedý
+12 010 Kč bez DPH
+14 532 Kč s DPH
+Teltonika RUTC54 Průmyslový 5G Wi-Fi 6 Router, GPS, eSIM
+17 361 Kč bez DPH
+21 007 Kč s DPH
+Ubiquiti USL-Smoke, UniFi Protect detektor kouře a CO
+1 908 Kč bez DPH
+2 309 Kč s DPH
+AXAGON BUCM2-CM25AB, USB-C napájecí kabel, 240W PD, 2.5m
+208 Kč bez DPH
+252 Kč s DPH
+Conexpro Gigabitový PoE konvertor, 802.3af/at na 24V, 24W
+260 Kč bez DPH
+314 Kč s DPH
+Hikvision AX PRO DS-PWA64-KIT-WE, Kit bezdrátové ústředny pro 64 zón, PIR, magnetu a klíčenky
+Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
+1 689 Kč bez DPH
+2 044 Kč s DPH
+Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
+TP-Link Tapo RVA420, Deodorizační modul pro robotický vysavač Tapo
+804 Kč bez DPH
+973 Kč s DPH
+Ubiquiti UX7, UniFi Express 7, 3 pack
+14 013 Kč bez DPH
+16 955 Kč s DPH
+Ubiquiti Venkovní singlemode simplex optický patch cord SC APC/SC APC, 1m
+219 Kč bez DPH
+265 Kč s DPH
+Teltonika Security CAS6, Plastový kryt s pojistkou transformátoru a tamperem
+1 123 Kč bez DPH
+1 359 Kč s DPH
 Aktuality
 MikroTik Queue Tree: když Simple QoS nestačí
 22.10.2026

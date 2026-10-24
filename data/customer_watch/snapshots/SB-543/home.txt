@@ -1,4 +1,4 @@
-# SB-543 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-543 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 KBC Networks - KBC Networks - Home
 PRODUCTS
 NETWORK SWITCHES
@@ -128,12 +128,12 @@ WAN or LAN use
 Find out more
 Case studies and applications
 Application examples and Case studies where KBC solutions have made transmisison and power simple and reliable
+Navigating the IP Migration Challenge at Sea
+KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
+Read more
 Real-Time Traffic Control and
 Smart City Objectives
 ThruLink™ provided a simple, secure, and cost-effective integrated solution for growth in Kuwait. Integration included traffic enforcement and ANPR camera systems, traffic control and traffic radar systems, and the replacement of Tetra with a Band 28 solution.
-Read more
-Navigating the IP Migration Challenge at Sea
-KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
 Read more
 Countrywide Rail Crossing
 Safety and Communication
@@ -222,7 +222,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Message
+Name
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -483,7 +483,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Website
+Phone
 ×
 Select Country
 Afghanistan
@@ -716,4 +716,4 @@ Turks and Caicos Islands
 Tuvalu
 Uganda
 Ukraine
-United Ar
+United Arab Em

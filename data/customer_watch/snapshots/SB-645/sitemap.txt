@@ -1,7 +1,7 @@
-# SB-645 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-645 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://market-telecom.kz/
-2026-10-22	https://market-telecom.kz/blog
-2026-09-23	https://market-telecom.kz/services
+2026-10-23	https://market-telecom.kz/blog
+2026-10-23	https://market-telecom.kz/services
 2026-06-06	https://market-telecom.kz/products
 2026-07-29	https://market-telecom.kz/about_shop
 2026-06-06	https://market-telecom.kz/dostavka
@@ -62,7 +62,7 @@
 2026-06-06	https://market-telecom.kz/trunk
 2026-06-06	https://market-telecom.kz/call-center-create
 2026-10-21	https://market-telecom.kz/wi-fi-network
-2026-06-06	https://market-telecom.kz/skud
+2026-10-23	https://market-telecom.kz/skud
 2026-07-03	https://market-telecom.kz/domophon
 2026-09-30	https://market-telecom.kz/turniket-install
 2026-06-06	https://market-telecom.kz/callfree-8800
@@ -76,6 +76,7 @@
 2026-10-01	https://market-telecom.kz/fire-alarm
 2026-10-23	https://market-telecom.kz/video-for-shop
 2026-10-22	https://market-telecom.kz/blog/adresnaya-ili-neadresnaya-pozharnaya-signalizatsiya
+2026-10-23	https://market-telecom.kz/blog/tsd-wifi-sklad
 2026-10-19	https://market-telecom.kz/blog/litsenzii-windows-11-pro-chem-otlichayutsya-oem-doem-box-i-legalization
 2026-10-01	https://market-telecom.kz/blog/trebovaniya-pozharnaya-signalizatsiya-kazakhstan
 2026-09-16	https://market-telecom.kz/news/trebovaniya-videonablyudenie-kazakhstan
@@ -215,5 +216,4 @@
 2025-09-04	https://market-telecom.kz/blog/data-storage-systems
 2025-09-09	https://market-telecom.kz/blog/video-dom
 2025-09-03	https://market-telecom.kz/blog/vybor-proektora
-2025-10-24	https://market-telecom.kz/news/wizcolor-dahua
-2024-10-18	https://mar
+2025-10-24	https://mar

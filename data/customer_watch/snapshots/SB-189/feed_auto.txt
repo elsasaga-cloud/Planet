@@ -1,4 +1,4 @@
-# SB-189 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-189 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Fri, 04 Sep 2026 07:51:32 +0000	YouTube	https://provision-isr.com/news/youtube/
 Fri, 16 Oct 2026 08:13:48 +0000	ISO 27001	https://provision-isr.com/news/iso-27001/
 Mon, 12 Oct 2026 06:28:53 +0000	8MP AD Cameras	https://provision-isr.com/news/8mp-ad-cameras/

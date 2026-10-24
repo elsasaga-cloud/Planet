@@ -1,4 +1,4 @@
-# SA-044 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-044 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 GTWAVE Co.,Ltd
 MENU
 ABOUT US
@@ -40,7 +40,6 @@ Auto-Recovery Principle
 INSTALLATION CASE
 Installation Case
 SUPPORT
-Inquiry
 Download
 FAQ
 Notice

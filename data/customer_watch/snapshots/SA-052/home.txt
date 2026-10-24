@@ -1,7 +1,119 @@
-# SA-052 td-fe.com · home · https://td-fe.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
-Fatal error: Uncaught Error: Call to undefined function mysql_connect() in /home/a/a343ma/td-fe.com/public_html/system/connect_cfg.php:10
-Stack trace:
-#0 /home/a/a343ma/td-fe.com/public_html/system/require/e404.php(35): DBConnect()
-#1 /home/a/a343ma/td-fe.com/public_html/index.php(3): require('/home/a/a343ma/...')
-#2 {main}
-thrown in /home/a/a343ma/td-fe.com/public_html/system/connect_cfg.php on line 10
+# SA-052 td-fe.com · home · https://td-fe.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE.
+TH Faraday Electronics Ltd. Power supplies - professional design, reliable solutions
+RU
+UK
++7 (812) 953 13 59
+sales@td-fe.com
+Profile
+Products
+Certificates
+Contacts
+More
+Power supplies
+Enclosed 18W/12-24V/78AL
+36W/12-24V/95AL
+50W/12-24V/120AL
+75W/12-24V/140AL
+120W/12V
+150W/24V
+240W/12V
+350W/48V
+DIN holder
+DIN rail 12W/12-24V/DIN
+24W/12-24V/DIN
+36W/12-24V/DIN
+36W/12-24V/DIN Slim
+50W/12-24V/DIN
+80W/12-24V/DIN
+75W/12-24V/DIN
+120W/24V/DIN
+120W/48V/DIN
+240W/24V/DIN
+240W/48V/DIN
+480W/48V/DIN
+Uninterruptible power supplies (UPS) Bracket. Battery holder
+UPS 600W/48V/DIN
+UPS 300W/48V/DIN
+UPS 300W/24V/DIN
+UPS 120W/24V/DIN
+UPS 75W/24V/DIN
+UPS 45W/DIN
+UPS 30W/DIN
+UPS 300W/48V Simple
+UPS 300W Simple
+UPS 160W/48V Simple
+UPS 155W/48V Simple
+UPS 120W Simple
+UPS 120W/24V Simple
+UPS 75W Simple
+UPS 30W Simple
+UPS 30W/24V Simple
+UPS 75W BOX
+UPS 45W BOX
+PoE injectors and extenders F-812, Switch PoE
+F-802. Switch PoE
+24W/POE. PoE injector
+30W/1Gb/POE+. PoE injector
+60W/1Gb/POE+. PoE injector
+Ext/POE. PoE extender (IP66)
+Desktop 24W/12V/WP
+18W/12V/WP
+18W/18V/WP
+18W/18V/1A
+12W/12V/1A
+24W/12V/2A
+36W/12V/3A
+60W/12V/5A
+24W/15V/WP
+18W/15V/WP
+Wall mount 12W/WM/PL
+18W/WM/PL
+3W/WM/PL
+5W/WM/PL
+30W/WM/PL
+Open frame 6W/OPF
+10W/OPF
+27W/OPF
+18W/OPF
+Download Brochure
+Profile
+Who we are
+Faraday Electronics Company was founded in 2011 by power supply specialists. The company was created to meet the specific needs of customers. For example, power supplies were developed with the ability to set any output voltage in the range from 12V to 24V using an adjustable resistor.
+Our products are manufactured under two brand names
+The trademark is protected on the territory of Russia.
+The trademark is protected by
+Madrid - The International Trademark System.
+Who our partners are
+Our Key Manufacturing Partners are Chinese factories with a high level of technological production of Power Supplies. We trust the production of our power supplies only to factories with which we have been cooperating for many years.
+What we can do for you
+We design and manufacture Power Supplies according to customer requests. Key Power Supplies also have the capability to modify or custom build products to suit your application.
+Faraday Power Supplies comply with international standards for reliability and consumer properties because we do not use simplified circuit solutions and cheap components in the design and manufacture of Switching Power Supplies.
+The warranty period for our products is at least two years.
+Contact us, and we will deal with your enquiry promptly whilst offering the lowest cost Power solution possible
+News
+September,22 2020
+Security-Essen 2020
+April,16 2020
+Securika. MIPS-2020. Moscow
+January,16 2020
+Intersec-2020. Dubai.
+All news
++7 (812) 953 13 59
+sales@td-fe.com
+www.td-fe.com
+Site map
+×
+Request a call
+Name * :
+Phone * :
+Time to call:
+Comment:
+Enter the code * :
+Consent to the processing of my personal data in accordance with the privacy policy *
+Fields marked with an asterisk ( * ) are required.
+Close
+Send
+×
+The site uses cookies and the technical data collection service of its visitors.
+By continuing to use this resource, you automatically agree to the use of these technologies. Read more...

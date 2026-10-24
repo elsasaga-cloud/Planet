@@ -1,4 +1,4 @@
-# SB-414 tpole.it · home · https://www.tpole.it/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-414 tpole.it · home · https://www.tpole.it/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 TPole s.r.l. | Soluzioni PC based per automazione industriale ed applicazioni embedded
 Search
 it en
@@ -31,6 +31,9 @@ News
 Contatti
 QUALITY IN DETAILS
 Solution provider for Embedded and Industrial PC
+21 ottobre 2026
+Nuovo TPBox-BTL: la potenza di Intel® Bartlett Lake in formato industriale
+Scopri di più
 25 settembre 2026
 La versatilità di Yocto valorizzata dall’esperienza TPole in soluzioni Embedded su misura
 Scopri di più
@@ -42,9 +45,6 @@ Strumenti di backup e ripristino dei sistemi operativi Microsoft: l’approccio 
 Scopri di più
 8 luglio 2026
 PTH171/PTH173: L’eccellenza di Intel Panther Lake H e dell’IA nativa per l’Edge Computing industriale
-Scopri di più
-17 giugno 2026
-TPole presenta mii670: evoluzione, potenza e continuità per le applicazioni industriali
 Scopri di più
 PC Industriali
 Scopri di più

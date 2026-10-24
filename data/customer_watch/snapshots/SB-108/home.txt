@@ -1,4 +1,4 @@
-# SB-108 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-108 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -24,9 +24,9 @@ Serwis
 Kontakt
 Kategorie
 Access Pointy (659)
-Akcesoria (434)
+Akcesoria (437)
 Akcesoria GSM/LTE (374)
-Anteny (374)
+Anteny (375)
 Automatyka i Przemysł (441)
 Części serwisowe (161)
 Elektryka (13)
@@ -41,12 +41,12 @@ Platformy WLAN (2)
 Radiolinie (85)
 Routery (181)
 Routery ADSL (5)
-Światłowody (1703)
-Switche (680)
-Szafy rack 10/19 cali (495)
+Światłowody (1706)
+Switche (681)
+Szafy rack 10/19 cali (498)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
-Zasilanie (828)
+Zasilanie (830)
 Zdrowie (10)
 Złącza (243)
 MikroTik (405)
@@ -54,7 +54,7 @@ Solarix (139)
 Teltonika (391)
 Tenda (176)
 TP-Link (478)
-Ubiquiti (789)
+Ubiquiti (790)
 ♻️ Towary refurbished (3)
 Wybierz producenta
 Wybierz
@@ -127,7 +127,7 @@ iNEtech (1)
 Infomir (1)
 INNO Instrument (2)
 Intenso (1)
-InterLine (48)
+InterLine (49)
 IP-COM (37)
 IPOX (15)
 Jirous (32)
@@ -135,12 +135,12 @@ Joinwit (2)
 Kemot (2)
 Kingston (12)
 Kruger&Matz (4)
-Lanberg (150)
+Lanberg (153)
 LeoLabs (8)
 LH (1)
 Logitech (2)
 LR-Link (14)
-Mantar (99)
+Mantar (102)
 Mastech (2)
 Master Connectors (5)
 Maxcable (22)
@@ -153,7 +153,7 @@ Mimosa (24)
 Modecom (2)
 MW Power (74)
 Natec (16)
-Netgear (78)
+Netgear (79)
 Netis (6)
 NetSet (4)
 NOYAFA (4)
@@ -164,7 +164,7 @@ Optix (25)
 Opto (668)
 Phicomm (1)
 Planet (15)
-PowerWalker (61)
+PowerWalker (63)
 Pulsar (28)
 Quectel (6)
 QuWireless (131)
@@ -204,7 +204,7 @@ TrendNet (3)
 TriBrer (5)
 Triset (4)
 TVIP (1)
-Ubiquiti (849)
+Ubiquiti (850)
 UltiPulse (4)
 UNI-T (4)
 UPLink (27)
@@ -291,44 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-WYPRZEDAŻ
-Pigtail MMCX - N/ż [short head] (20 cm)
-12,18 zł z VAT
-18,94 zł
-9,90 zł netto
+Wisnetworks WIS-ANS5820-90 MIMO Sector
+356,70 zł z VAT
+460,51 zł
+290,00 zł netto
 szt
-Najniższa cena z 30 dni: 18,94 zł
-Switch przemysłowy LNK-GY005G
-207,87 zł z VAT
-301,39 zł
-169,00 zł netto
+Najniższa cena z 30 dni: 460,51 zł
+Przetwornica 12V/24V 50W 2.1A, SD-50A-24
+118,08 zł z VAT
+146,37 zł
+96,00 zł netto
 szt
-Najniższa cena z 30 dni: 301,39 zł
-WYPRZEDAŻ
-MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
-72,57 zł z VAT
-196,80 zł
-59,00 zł netto
+Najniższa cena z 30 dni: 146,37 zł
+Szafka wewnętrzna PSN-15/20/5
+104,55 zł z VAT
+135,30 zł
+85,00 zł netto
 szt
-Najniższa cena z 30 dni: 196,80 zł
-Teltonika RUTX14 router LTE12 (RUTX14000000)
-1 599,00 zł z VAT
-1 855,50 zł
-1 300,00 zł netto
+Najniższa cena z 30 dni: 135,30 zł
+IP-COM Pro-S24-410W
+1 291,50 zł z VAT
+1 620,53 zł
+1 050,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 855,50 zł
-Tenda AC8 (po zwrocie)
-74,50 zł z VAT
-96,99 zł
-60,57 zł netto
+Najniższa cena z 30 dni: 1 620,53 zł
+Sektor Tornado Pro 18 SV
+129,15 zł z VAT
+221,40 zł
+105,00 zł netto
 szt
-Najniższa cena z 30 dni: 96,99 zł
-Tenda G103 Gigabit GPON Terminal SC/PC
-97,17 zł z VAT
-113,16 zł
-79,00 zł netto
+Najniższa cena z 30 dni: 221,40 zł
+Interline HORIZON maxi 6.1-6.5 GHz
+109,47 zł z VAT
+122,20 zł
+89,00 zł netto
 szt
-Najniższa cena z 30 dni: 113,16 zł
+Najniższa cena z 30 dni: 122,20 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -367,8 +365,8 @@ TP-Link Fusion 2.5G
 szt
 NOWOŚĆ
 Ubiquiti Access G3 Gate Starter Kit (UA-G3-SK-Gate)
-4 119,16 zł z VAT
-3 348,91 zł netto
+4 138,08 zł z VAT
+3 364,29 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Cloud Gateway Industrial (UCG-Industrial)
@@ -384,4 +382,6 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszt
+Koszty przesyłki:
+DHL: od 13 PLN (netto)
+FedEx: od 

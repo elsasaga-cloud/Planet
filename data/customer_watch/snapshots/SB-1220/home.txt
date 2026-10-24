@@ -1,4 +1,4 @@
-# SB-1220 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1220 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,86 +44,25 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-23-Oct-2026
-1 EURO = 5.3485 RON
-1 USD = 4.7640 RON
+24-Oct-2026
+1 EURO = 5.3495 RON
+1 USD = 4.7770 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Receptor Satelit DVB S2 + IPTV STALKER H.265 HEVC
-Medialink - ML7200
-314.74 LEI
-pret fara TVA
-cuTVA: 380.83 LEI
-LNC cu feed pentru antene offset
-Opticum - ALPS-Single
-33.06 LEI
-fara TVA
-20.07 LEI
-pret per bucata
-pret fara TVA
-cuTVA: 24.28 LEI
-Receptor HD satelit MIRA 3 WiFi Amiko
-Amiko - Mira 3 WiFi
-147.00 LEI
-pret fara TVA
-cuTVA: 177.87 LEI
-Receptor Amiko Mini 4K UHD cu Conax încorporat și tunere DVB-S2
-Amiko - Amiko Mini 4K UHD
-214.00 LEI
-pret fara TVA
-cuTVA: 258.94 LEI
-Receptor de cablu DVB-C AMIKO Impulse 4K UHD
-Amiko - Amiko Impulse 4K
-208.00 LEI
-pret fara TVA
-cuTVA: 251.68 LEI
-Receptor cablu si terestrial Amiko Impulse 3 T2/C H265
-Amiko - Amiko Impulse 3
-151.26 LEI
-pret fara TVA
-cuTVA: 183.02 LEI
-Antena mobila CB27MHz cu montura magnetica
-INTEK - MAG-1349
-132.60 LEI
-fara TVA
-113.66 LEI
-pret fara TVA
-cuTVA: 137.52 LEI
-Set 2 buc Statii portabile PMR 446MHz
-INTEK - i-Talk T40
-126.29 LEI
-fara TVA
-63.14 LEI
-pret fara TVA
-cuTVA: 76.40 LEI
-Set 2 buc Statii portabile PMR 446MHz
-INTEK - i-Talk T30
-164.17 LEI
-fara TVA
-63.14 LEI
-pret fara TVA
-cuTVA: 76.40 LEI
-Sursa laborator QJ-1922 cu borne, buton On/off, 13.8V/ 5 Amper (7A surcharge), comutatie EPS5/7
-Braun Group - QJ1922SW -12V5A
-160.46 LEI
-fara TVA
-50.81 LEI
-pret fara TVA
-cuTVA: 61.48 LEI
 HUB USB 3.0, carcasa Aluminiu, 4 porturi Type A fem ( 1 x USB 3.0 5Gbsp, 3 x USB 2.0), blister, USB4AHUB
 na - USB4A HUB A-809
 18.72 LEI
 pret fara TVA
-cuTVA: 22.65 LEI
+cuTVA: 22.66 LEI
 Type C to USB2.0 -cablu calitate, USB 3.1 high speed 10GBps certified, 5A fast charge, material DPE 10X stronger, 1.2m
 Stonet - C3-TypeC SuperSpeed+
 26.79 LEI
 fara TVA
 18.72 LEI
 pret fara TVA
-cuTVA: 22.65 LEI
+cuTVA: 22.66 LEI
 Cablu 3RCA (tata) la 3 RCA (tata) audio/video, 1.8m
 Braun Group - E04363
 4.96 LEI
@@ -133,9 +72,9 @@ pret fara TVA
 cuTVA: 2.63 LEI
 Mini PC Optiplex 3050 MICRO, Intel Core i5-7500T, 16GB RAM, 256GB SSD
 Dell - Optiplex 3050 I5-7500T
-1,176.67 LEI
+1,176.89 LEI
 pret fara TVA
-cuTVA: 1,423.77 LEI
+cuTVA: 1,424.04 LEI
 Cable USB 3.0 type c male to USB C,0.5m
 Braun Group - USB3-1A-05M
 0.80 LEI
@@ -155,32 +94,32 @@ pret fara TVA
 cuTVA: 3.00 LEI
 LED Flood Light
 Braun Group - GT-LED-FL-003-50W-WW
-143.97 LEI
+144.00 LEI
 fara TVA
-70.72 LEI
+70.73 LEI
 pret fara TVA
-cuTVA: 85.57 LEI
+cuTVA: 85.58 LEI
 LED Flood Light
 Braun Group - GT-LED-FL-003-30W-PW
-86.50 LEI
+86.52 LEI
 fara TVA
-46.73 LEI
+46.74 LEI
 pret fara TVA
-cuTVA: 56.54 LEI
+cuTVA: 56.55 LEI
 LED Flood Light
 Braun Group - GT-LED-FL-003-10W-PW
-39.15 LEI
+39.16 LEI
 fara TVA
-22.73 LEI
+22.74 LEI
 pret fara TVA
-cuTVA: 27.50 LEI
+cuTVA: 27.51 LEI
 LED Underground Light
 Braun Group - GT-LED-UGL-001-5W
-113.66 LEI
+113.68 LEI
 fara TVA
-86.50 LEI
+86.52 LEI
 pret fara TVA
-cuTVA: 104.67 LEI
+cuTVA: 104.69 LEI
 Bec led glob 5x1W- E14
 Braun Group - BZ5-QP539e14-5W
 24.67 LEI
@@ -200,8 +139,64 @@ Light Net - TD2501-lamp E27
 23.02 LEI
 pret fara TVA
 cuTVA: 27.86 LEI
+Display metalic rack cu 4 rafturi basculante, expozor prospecte show room, asamblat
+Mondo Plast - SE-MC1357
+1,497.86 LEI
+fara TVA
+1,176.89 LEI
+pret fara TVA
+cuTVA: 1,424.04 LEI
+Amplificator optic EDFA 16dB
+nextraCOM - EDFA 16DB
+3,634.99 LEI
+pret fara TVA
+cuTVA: 4,398.33 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200–ST46
+23,100.00 LEI
+pret fara TVA
+cuTVA: 27,951.00 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200–SD45
+19,700.00 LEI
+pret fara TVA
+cuTVA: 23,837.00 LEI
+Power Meter 8 lungimi de unda, Normal
+Braun Group - HS-FCPM
+85.59 LEI
+pret fara TVA
+cuTVA: 103.57 LEI
+Electronic Fiber Microscope
+Braun Group - EFM-400
+3,691.16 LEI
+pret fara TVA
+cuTVA: 4,466.30 LEI
+Optical Fiber Microscope
+Braun Group - OFM-400
+454.71 LEI
+fara TVA
+379.81 LEI
+pret fara TVA
+cuTVA: 459.58 LEI
+Optical Fiber Microscope
+Braun Group - OFM-200
+444.01 LEI
+fara TVA
+379.81 LEI
+pret fara TVA
+cuTVA: 459.58 LEI
+Optical Light Source
+Braun Group - BG-35-PON
+1,294.58 LEI
+pret fara TVA
+cuTVA: 1,566.44 LEI
+PON Power Meter
+Braun Group - HS-PONPM
+433.31 LEI
+pret fara TVA
+cuTVA: 524.30 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.162 s
+Pagina generata in : 0.123 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

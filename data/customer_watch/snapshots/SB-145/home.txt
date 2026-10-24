@@ -1,6 +1,502 @@
-# SB-145 een.com · home · https://www.een.com/ · fetched 2026-10-23T04:20:51Z · HTTP 504
-Gateway time-out
-The web server reported a gateway time-out error.
-40.76.117.240
-Error reference number: 504
-Cloudflare Location: Ashburn
+# SB-145 een.com · home · https://www.een.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+AI Video Surveillance & Proactive security | Eagle Eye Networks
+Skip to content
+Search for:
+Login
+Cloud VMS
+CameraManager
+English
+Nederlands
+Français
+Deutsch
+日本語
+Español
+1 408 869 5959
+Products
+AI Video Surveillance
+Eagle Eye Cloud VMS
+Video API Platform
+Camera Direct
+Eagle Eye Complete
+Additional Features
+Gun Detection
+911 Camera Sharing
+Remote Video Monitoring
+Face Match
+License Plate Recognition
+Precision Person & Vehicle Detection
+Point of Sale Integration
+Hardware
+Security Cameras
+Bridges
+CMVRs
+Switches
+IP Audio & I/O
+Cabinet Systems
+Sensors
+Camera Support
+Supported Device List
+Solutions
+Industries
+Education
+Multifamily
+Banking
+Retail
+EV Charging
+Restaurants
+Hotels
+Car Dealerships
+Parking
+Healthcare
+Cities
+Smart Buildings
+Cannabis
+Logistics
+Self Storage
+Integrations
+Integration Partners
+Access Control
+Alarm Management
+Advanced AI
+Smart Parking
+Smart Building Management
+Customers
+Success Stories
+Resources
+Documents
+Blog
+Events
+Webinars
+Partners
+Become a Certified Reseller
+EE University
+Project Registration
+Support
+A&E Consultants
+Integration Partners
+Support
+Contact Support
+Supported Device List
+Knowledge Base
+Submit/Manage Tickets
+Company
+About us
+Newsroom
+Careers
+Request Demo
+Contact Us
+Overview
+Tech Specs
+Better Together
+Brivo and Eagle Eye Networks have merged to create the world's largest AI-cloud native physical security company.
+While we work to update our website, you can go to Brivo.com to learn more about the Brivo Security Suite.
+See our vision for the future
+AI-powered surveillance video. Proactive security. Smarter business operations.
+Smart surveillance is so much more than cameras.
+1
+2
+3
+4
+5
+6
+7
+1. Emergency preparedness and response
+Automatically share cameras with emergency services. Confidently spot guns on your premises with AI, and respond instantly.
+2. Protection for remote locations
+Easily and affordably put solar-powered cabinets with cellular connections to keep an eye on parking lots and other remote facilities.
+3. Always-on, proactive surveillance
+Cameras with AI spot security events; remote monitoring adds human response even when you can’t be there.
+4. Personal and environmental safety
+Deploy environmental sensors to detect dangerous leaks, extreme temperatures, or air-quality issues.
+5. Crime prevention
+Detect people and vehicles, even on your perimeter, and spot suspicious license plates. Deter crime with sirens and talk-down alerts.
+6. Business optimization
+View video recordings of suspicious purchases or returns instantly without having to change software or search through footage.
+7. Compliance and liability
+Verify proper use of personal protective equipment (PPE), and receive AI-driven alerts for safety incidents.
+Get a free trial
+Eagle Eye Cloud Video Management System (VMS)
+A robust platform featuring a full suite of AI-powered solutions to make your business safer and more efficient
+Works with more than 7,500 cameras; no need to rip and replace.
+View cameras remotely from all your cameras at all your locations.
+Use natural language to find what you’re looking for in seconds.
+Get custom alerts and automate actions to streamline operations.
+24/7 global support to speak with a real person immediately.
+Learn More
+Eagle Eye Updates
+Using AI and machine learning to push the limits of security
+and surveillance.
+Is your security system ready for what’s next? From single-door tetailers to globally distributed enterprises to harsh, remote environments, video security is moving ever further from the old “rewind and review” model. This report is designed to help security leaders develop a future-proof strategy for their business.
+Download the report ->
+Register today for the 2026 Cloud Security Summit Join us October 26-29, 2026 in Dallas, TX for powerful connections, defining moments, and a championship lineup. You must be a Brivo or Eagle Eye authorized partner to attend.
+Register now ->
+Leverage data
+Store and share video
+Customize layouts
+End-to-end cybersecurity
+Leverage data to improve business
+Use the information your cameras capture to track inventory, ensure safety and compliance procedures are being followed, when deliveries have arrived, and much more.
+Easily store and share video
+View camera feeds from all your sites from your phone or computer, anywhere in the world. Easily search through video using natural language and share clips securely with just a few clicks.
+Customize layouts based on needs
+Group by site, location, purpose, and any other criteria to ensure you can easily see all relevant camera feeds as you need them.
+End-to-end cybersecurity
+Eagle Eye Networks stores video data on its own data centers; all video is fully encrypted both in transmission and at rest so your data stays safe.
+Leverage data
+Leverage data to improve business
+Use the information your cameras capture to track inventory, ensure safety and compliance procedures are being followed, when deliveries have arrived, and much more.
+Store and share video
+Easily store and share video
+View camera feeds from all your sites from your phone or computer, anywhere in the world. Easily search through video using natural language and share clips securely with just a few clicks.
+Customize layouts
+Customize layouts based on needs
+Group by site, location, purpose, and any other criteria to ensure you can easily see all relevant camera feeds as you need them.
+End-to-end cybersecurity
+Eagle Eye Networks stores video data on its own data centers; all video is fully encrypted both in transmission and at rest so your data stays safe.
+Unlimited flexibility to maximize your investment
+We are transforming the video surveillance industry, using the cloud and AI to deliver value to our customers.
+Scale to unlimited locations, cameras, and users
+View multiple locations, increase video retention, and add additional cameras right from your mobile phone. No matter how you grow or your needs change, Eagle Eye can support you.
+Use your existing
+cameras
+Capture video and extract AI-driven analytics from virtually any ONVIF-conformant surveillance camera. Get industry-leading features with the cameras you already have.
+Works with any
+bandwidth
+Make the best use of your limited bandwidth. Smart buffering sends your densest video data when your network can best support it, without losing your real-time eyes on the scene.
+Learn more
+Cloud security news and technology
+Trends 2026: Video Surveillance is no longer just recording
+February 03, 2026
+The world of security is changing. Is your current system ready for what comes next? That’s the...
+Learn more ->
+Eagle Eye Networks and Brivo: Integration at every level
+January 08, 2026
+There’s great news for Eagle Eye customers as we step into 2026. For years, customers have...
+Learn more ->
+Why AI Gun Detection is Essential for Proactive Crisis Prevention
+December 30, 2025
+The Future of security is proactive: enhancing your existing cameras with AI
+Most security systems...
+Learn more ->
+No posts found
+Visit our blog
+Let's start solving your problems.
+Schedule a demo today.
+Facebook
+This field is for validation purposes and should be left unchanged.
+First Name *
+Last Name *
+Phone *
+Email *
+Company *
+Country * Country
+United States
+United Kingdom
+Afghanistan
+Aland Islands
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Chinese Taipei
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Norway
+Oman
+Pakistan
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands
+Wales
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ZIP / Postal Code *
+ZIP / Postal Code
+How can we help you? * How can we help you?
+I want to become an Eagle Eye partner
+I want Eagle Eye for my business
+I'm a current Eagle Eye partner
+I'm a current Eagle Eye customer
+By submitting this form, I agree to be bound by your Privacy Policy
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and Terms of Service apply.
+I'm a current customer and interested in being a beta tester
+Learn more
+© 2026 Eagle Eye Networks. All rights reserved.
+United States
++1-512-473-0500
+[email protected]
+Latin America/Caribbean
++52 55 8526 4926
+[email protected]
+Europe
++31 20 26 10 460
+[email protected]
+Japan Office
+03-6868-5527
+[email protected]
+Products
+Eagle Eye Cloud VMS
+Video API Platform
+CameraManager
+Contract Vault
+Solutions
+Education
+Multifamily
+Banking
+Cannabis
+Cities
+Healthcare
+Hotels
+Logistics
+Restaurant
+Retail
+Buildings
+Success Stories
+Resources
+Supported Device List
+On-Demand Webinars
+Webinars
+Documents
+FAQS
+Blog
+White Papers
+Customer Videos
+Drako School Grant
+Eagle Eye University
+Partners
+Become a Certified Reseller
+Project Registration
+Specifier Resources
+Technology Partners
+Company
+In the News
+Careers
+Security
+Privacy Policy
+Eagle Eye Events

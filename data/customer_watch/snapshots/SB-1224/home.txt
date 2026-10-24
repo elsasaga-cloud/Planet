@@ -1,4 +1,4 @@
-# SB-1224 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1224 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -24,7 +24,7 @@ Gotowe zestawy IP
 Rejestratory
 Kamery
 0
-Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6
+Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
 Cena: 434.93 zł
 Akcesoria CCTV
 UPS-y

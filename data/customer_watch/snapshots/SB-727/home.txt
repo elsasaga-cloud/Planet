@@ -1,7 +1,7 @@
-# SB-727 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-727 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 49,70 TL
-€: 55,79 TL
+$: 49,73 TL
+€: 55,68 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -148,12 +148,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1133,22 TL
+1133,81 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1133,22 TL
+1133,81 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -428,21 +428,21 @@ Fırsat Ürünleri
 250.00 ₺
 250,0000
 %50
-AKUSTİK TELEFON TUTACAGI GRAMOFON
-60.00 ₺
-60,0000
-%50
 T10 ULTRURA AKILLI SAAT
 15.00 $
 15,0000
 %50
-DVR BOX KİLİTLİ PLASTİK KASA KOMPAKT TASARIM PANO
-20.00 $
-20,0000
+AKUSTİK TELEFON TUTACAGI GRAMOFON
+60.00 ₺
+60,0000
 %50
 MONİTÖR LCD ASKI APARATI 22'' 55cm Hareketli Tek Kol UFIX-22KH
 10.00 $
 10,0000
+%50
+DVR BOX KİLİTLİ PLASTİK KASA KOMPAKT TASARIM PANO
+20.00 $
+20,0000
 İndirimli Ürünler
 Tümünü İncele
 %0
@@ -534,17 +534,17 @@ Hikvision DS-2CD1121G2-LIUF 2MP 2.8MM Akıllı Hibrit Işık Fixed Dome Network 
 Güneş Enerlili Kamp Lambası Ampul Solar ( K-120 )
 Hometech Alfa 7LM 4 Çekirdek 7 inç KUTU AÇIK
 REOLINK P320 5MP 2.8MM ÇİFT SES METAL IP BULLET KAMERA
+Hometech Alfa 8SM 4 Çekirdek 8 inç KUTU AÇIK
 PC HD 12TB Seagate ST12000NM0127 Sata HARDDİSK
 4TB WD 3.5 PURPLE SATA3 5400RPM 128MB 7/24 GUVENLIK WD44PURZ (3 YIL RESMI DIST GARANTILI)
 EMKA ARAÇ İÇİ SÜPÜRGE + KOMPRESÖR LASTİK ŞİŞİRME
-Hometech Alfa 8SM 4 Çekirdek 8 inç KUTU AÇIK
 Son Gezilen Ürünler
-O-KAM 3037 6MP WIFI PTZ KAMERA
-SENSEI SP-HD SPLITTER/1-2 1 GİRİŞ 2 ÇIKIŞ 1080P V1.4 HDMI SPLITTER
-ADP12V 5A PLASTİK ADAPTÖR 12500
-HILOOK IPC-T240HA-LUFC 4MP 2.8MM COLORVU 30M DUALLIGHT POE SESLİ IP DOME KAMERA
-Philips G314 Işıklı Kablolu Oyuncu Mouse
-Wastespresso CUPCYCLE 355 ML YEŞİL KAPAKLI
+AKUSTİK TELEFON TUTACAGI GRAMOFON
+HIKVISION (BOTECH) BT-IP272 2MP IP 2.8MM-12MM VARİFOCAL Z MOTORİZE DOME METAL IP POE KAMERA
+IRONSTAR IRT-D05 TYPE-C TO HDMI DÖNÜŞTÜRÜCÜ
+12v 10A amper metal adaptör
+CUDY FS1010P 8 Port 10 100 mbps 8+2 uplink port PoE+ Switch 120W Yönetilemez
+Gaming Pad 6 Fanlı Notebook Laptop Soğutucu
 Yeni Gelen Ürünler
 PC HD 10TB SEAGATE ST10000DM004 BARRACUDA 7200RPM 256MB SATA HARDDISK
 1TB TOSHIBA 2.5" L200 5400RPM 128MB HDWL110UZSVA
@@ -569,10 +569,10 @@ Toptan Ip Dome Kameraları
 29 Ürün
 Toptan Solar Kamera Sistemleri
 6 Ürün
-Toptan Speed Dome PTZ
-32 Ürün
 Toptan IP Kayıt Cihazları
 19 Ürün
+Toptan Speed Dome PTZ
+32 Ürün
 Toptan Küçük Ev Aletleri
 66 Ürün
 Aydınlatma Ürünleri
@@ -586,7 +586,7 @@ Toptan Network Kabloları
 Toptan AHD Kayıt Cihazları
 16 Ürün
 Toptan AHD Dome Kameraları
-11 Ürün
+10 Ürün
 Toptan Access Pointler
 8 Ürün
 POPÜLER KATEGORİLER
@@ -595,8 +595,8 @@ Toptan IP Bullet Kameraları
 Toptan Tabletler
 Toptan Ip Dome Kameraları
 Toptan Solar Kamera Sistemleri
-Toptan Speed Dome PTZ
 Toptan IP Kayıt Cihazları
+Toptan Speed Dome PTZ
 Toptan Küçük Ev Aletleri
 Aydınlatma Ürünleri
 Toptan Poe Switch

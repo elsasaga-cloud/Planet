@@ -1,4 +1,4 @@
-# SB-538 infinitecables.com · home · https://www.infinitecables.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-538 infinitecables.com · home · https://www.infinitecables.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Infinite Cables | Your Online Source for Connectivity Solutions
 Skip to content
 Home
@@ -101,6 +101,10 @@ Special prices on selected items. Limited quantity
 CLICK HERE
 New Products
 View all
+Unloaded Patch Panels
+48-Port Keystone UTP Panel 1U w/ Cable Manager - Unloaded
+PP-48KSUM-1U
+Sale price $54.95 CAD
 AC Power Cords
 IEC C20 to IEC C21 Power Cable - SJT Jacket - 12AWG (250V 20A)
 PWC-123-03
@@ -175,10 +179,6 @@ Coax Bulk Cable
 1000ft RF-240 Flexible Bulk Cable 90% TC Braid + Foil - Black
 BK-RF240UF-1000
 Sale price $791.90 CAD
-Coax Bulk Cable
-1000ft RF-400 Flexible Bulk Cable 90% TC Braid + Foil - Black
-BK-RF400UF-1000
-Sale price $2,809.90 CAD
 Distributors
 Resellers
 Installers

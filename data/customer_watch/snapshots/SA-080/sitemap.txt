@@ -1,4 +1,4 @@
-# SA-080 itk.co.th · sitemap · https://itk.co.th/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-080 itk.co.th · sitemap · https://itk.co.th/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://itk.co.th/ups/ups-ablerexs/ablerex-evo-rt-series.html
 	https://itk.co.th/security-firewall/zyxel-firewall/zywall-atp-firewall-oncloud.html
 	https://itk.co.th/ip-phones/openvox/openvox-analog-cards.html

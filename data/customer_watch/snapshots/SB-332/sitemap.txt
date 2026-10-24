@@ -1,4 +1,4 @@
-# SB-332 很多UK公司在卖他们的产品 · sitemap · https://amgsystems.com/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-332 很多UK公司在卖他们的产品 · sitemap · https://amgsystems.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://amgsystems.com/about
 	https://amgsystems.com/about/about-us
 	https://amgsystems.com/about/news
@@ -89,6 +89,7 @@
 	https://amgsystems.com/support/technical-support/remote-assistance
 	https://amgsystems.com/support/technical-support/design-team
 	https://amgsystems.com/support/technical-support/warranty
+	https://amgsystems.com/support/technical-support/security-vulnerabilities
 	https://amgsystems.com/support/resources
 	https://amgsystems.com/support/resources/how-to-guides
 	https://amgsystems.com/support/resources/amg-videos

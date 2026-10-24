@@ -1,4 +1,4 @@
-# SB-255 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-255 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://www.bitsandbyte.net
 	https://www.bitsandbyte.net/solutions
 	https://www.bitsandbyte.net/solutions/cloud-infrastructure
@@ -21,6 +21,13 @@
 	https://www.bitsandbyte.net/solutions/managed-services/microsoft-365-azure
 	https://www.bitsandbyte.net/solutions/managed-services/microsoft-server
 	https://www.bitsandbyte.net/solutions/managed-services/workstation-helpdesk
+	https://www.bitsandbyte.net/industries
+	https://www.bitsandbyte.net/industries/bfsi
+	https://www.bitsandbyte.net/industries/healthcare
+	https://www.bitsandbyte.net/industries/manufacturing
+	https://www.bitsandbyte.net/industries/retail
+	https://www.bitsandbyte.net/industries/technology
+	https://www.bitsandbyte.net/industries/government
 2026-10-18	https://www.bitsandbyte.net/learn
 2026-10-18	https://www.bitsandbyte.net/learn/cert-in-log-retention-and-time-sync
 2026-09-28	https://www.bitsandbyte.net/learn/ransomware-recovery-starts-before-the-attack

@@ -1,4 +1,2 @@
-# SB-472 n-itus.com · home · https://n-itus.com/ · fetched 2026-10-23T04:20:51Z · HTTP 403
-403 Forbidden
-Forbidden
-You don't have permission to access this resource.
+# SB-472 n-itus.com · home · https://n-itus.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+

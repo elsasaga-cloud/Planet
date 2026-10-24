@@ -1,4 +1,4 @@
-# SB-082 cyberteam.pl · sitemap · https://www.cyberteam.pl/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-082 cyberteam.pl · sitemap · https://www.cyberteam.pl/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2016-08-22	https://www.cyberteam.pl/produkt/25_skyeter18
 2016-08-22	https://www.cyberteam.pl/produkt/27_skyeter13
 2016-04-18	https://www.cyberteam.pl/produkt/28_kabel-h1000

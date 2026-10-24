@@ -1,4 +1,4 @@
-# SB-1161 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1161 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -40,22 +40,6 @@ Uchwyty i akcesoria montażowe
 Voip
 Wi-Fi signal boosters
 Power supply
-Tv, audio and rtv
-WANBO
-XIAOMI
-Projectors
-Multimedia players
-Decoders
-Televisions
-Headphones Wired headphones
-Wireless headphones
-Audio Smart speakers
-Portable speakers
-Soundbars
-Amplifiers
-Rtv accessories RTV cables
-For projectors
-For tv
 Smart home
 AQARA
 SHELLY
@@ -377,6 +361,12 @@ Next
 New
 favorite
 favorite_border
+UniFi Ubiquiti UNAS-Pro NAS Server, 2U, 7x HDD, 1x SFP+, 1x GbE RJ45
+2,613.18 zł gross
+Add to basket
+New
+favorite
+favorite_border
 Products Ubiquiti LS5 Subscriber Unit
 13.35 zł gross
 Add to basket
@@ -407,20 +397,14 @@ Add to basket
 New
 favorite
 favorite_border
-Switches Ubiquiti USW-Flex-2.5G-5 EU Switch, 5x 2.5 GbE RJ45
-253.00 zł gross
+Switches Ubiquiti Switch USW-Flex-2.5G-8-EU, 8x 2.5GbE RJ45, 1x 10GbE SFP+
+791.98 zł gross
 Add to basket
 New
 favorite
 favorite_border
-Switches Ubiquiti USW-Ultra Switch, 8x RJ45 1000Mb/s PoE+, PoE++ Input
-511.35 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Switches Ubiquiti USW-Pro-Max-48 Switch, Etherlighting, 16x RJ45 2.5Gbps, 32x RJ45 1000Mbps, 4x SFP+, L3
-3,223.39 zł gross
+Switches Ubiquiti Switch USW-PRO-HD-24-POE-EU, Etherlighting, 2x 10GbE PoE++, 22x 2.5GbE PoE++, 4x 10G SFP+
+4,956.08 zł gross
 Add to basket
 On sale
 Previous
@@ -438,13 +422,6 @@ favorite_border
 Ip cameras Petcube Play 2 - Pet Monitoring Camera with Laser, WiFi, 1080p
 299.00 zł gross 440.00 zł gross
 Lowest price in 30 days: 440.00 zł gross
-Add to basket
--24.95 zł
-favorite
-favorite_border
-UPS Orvaldi i650LCD USB UPS, 600VA/360W, 7Ah, 4x IEC Backup Power Supply
-249.00 zł gross 273.95 zł gross
-Lowest price in 30 days: 273.95 zł gross
 Add to basket
 -20.00 zł
 favorite

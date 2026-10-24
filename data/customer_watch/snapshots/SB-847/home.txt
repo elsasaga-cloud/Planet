@@ -1,4 +1,4 @@
-# SB-847 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-847 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sensor Exteriores Dual PIR dual Microware Solar, PET 30kg, LANTEK SEN-89RS
-$ 154 + IVA
-Soporte pared sensores inalambricos techo, esquina o cielo, LANTEK SOP.302
-$ 2 + IVA
+Receptor inalambrico a salida cableada, compatib otras marc 868 MHZ, LANTEK SEN.008R
+$ 38 + IVA
+Cable de alarma 22/2 Trenzado 7 CM CL2 500FT Blanco UL, VERTICAL 210-222ST/5WH
+$ 54 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,37 +202,37 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , GABINETES Y RACKS
-Soportes de montaje para Poste Gab.9U Exteriores K...
-$ 35 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Caja modular(Roseta) para fibra optica de 1 puerto...
-$ 1 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 20 mts Fibra optica macho a...
-$ 39 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ESTRUCTURADO , GABINETES Y RACKS
-Soportes de montaje para Poste Gab.9u / 18u Exteri...
-$ 25 + IVA
+SEGURIDAD , CONTROL DE ACCESO
+Kit Videoportero Analógico Pantalla LCD Color 7 I...
+$ 104 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
-Chapa magnetica CON LED (600lbs), LANTEK LTK-MAG60...
-$ 31 + IVA
+Control de acceso y asistencia SaaS WiFi, Facial h...
+$ 102 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Soporte U para chapas en puerta de vidrio s/marco,...
+$ 7 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , ALARMAS
+Conector de Cables UY para Cable Calibre 24, CROW ...
+$ 1 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+EM CARD 125 MHZ tipo llavero, LANTEK CD02-ID CARD
+$ 1 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,6 +266,13 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
+Fuente 370w para RG-S5310-PoE, RUIJIE RG-PA600I-P-...
+$ 263 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
 Switch 4 GE PoE+ / 2GE + 1SFP (combo) uplink , 54W...
 $ 50 + IVA
 Añadir al carrito
@@ -273,29 +280,22 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Smart WEB administrable 8 puertos PoE 2.5G ...
-$ 250 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SWITCHES
-Switch Acceso L2 / 24 GE / 4 x SFP+ / PoE 370w, RE...
-$ 698 + IVA
+Switch L3 NeverDie/ 24 GE/ 4 x SFP+/ VSU, RIP, OSP...
+$ 437 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 48 GE L2+ / 4 SFP+ uplink, Cloud, REYEE RG-...
-$ 599 + IVA
+Switch Acceso L2 / 8 GE / 2 x SFP / PoE 125w V2 ra...
+$ 212 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente Poder para RG-S6120-20XS4VS2QXS, RUIJIE RG-...
-$ 250 + IVA
+Switch Distribucion L2+ / 48 GE / 4 x SFP+ / PoE 7...
+$ 1,271 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

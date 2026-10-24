@@ -1,4 +1,4 @@
-# SA-151 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-151 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2026-08-25	https://anb-rimex.be/fr/
 2022-11-20	https://anb-rimex.be/fr/nouvelles/
 2023-09-21	https://anb-rimex.be/fr/nouvelles/anb-rimex-dahua/

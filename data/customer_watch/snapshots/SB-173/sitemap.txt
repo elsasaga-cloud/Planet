@@ -1,6 +1,6 @@
-# SB-173 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
-2026-10-23T04:26:54+00:00	https://www.digimax.it/it/sitemap.xml
-2026-10-23T04:26:54+00:00	https://www.digimax.it/en/sitemap.xml
+# SB-173 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+2026-10-24T04:43:53+00:00	https://www.digimax.it/it/sitemap.xml
+2026-10-24T04:43:53+00:00	https://www.digimax.it/en/sitemap.xml
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/19D-24D15NNL
@@ -117,8 +117,8 @@
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/GC220A24-R7B
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/GC220A48-R7B
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/GC220A48-R7B
-2026-10-14T00:06:39+00:00	https://www.digimax.it/it/product/GC30B-4P1J
-2026-10-14T00:06:39+00:00	https://www.digimax.it/en/product/GC30B-4P1J
+2026-10-22T11:27:56+00:00	https://www.digimax.it/it/product/GC30B-4P1J
+2026-10-22T11:27:56+00:00	https://www.digimax.it/en/product/GC30B-4P1J
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/GC30B-6P1J
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/GC30B-6P1J
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/GC30E-0P1J
@@ -139,8 +139,8 @@
 2025-06-19T10:26:23+00:00	https://www.digimax.it/en/product/HLG-150H-12B
 2025-06-16T14:03:39+00:00	https://www.digimax.it/it/product/HLG-150H-24B
 2025-06-16T14:03:39+00:00	https://www.digimax.it/en/product/HLG-150H-24B
-2026-07-29T12:27:43+00:00	https://www.digimax.it/it/product/HLG-150H-48A
-2026-07-29T12:27:43+00:00	https://www.digimax.it/en/product/HLG-150H-48A
+2026-10-23T13:57:51+00:00	https://www.digimax.it/it/product/HLG-150H-48A
+2026-10-23T13:57:51+00:00	https://www.digimax.it/en/product/HLG-150H-48A
 2026-02-20T15:05:15+00:00	https://www.digimax.it/it/product/HLG-185H-24B
 2026-02-20T15:05:15+00:00	https://www.digimax.it/en/product/HLG-185H-24B
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/HLG-185H-48

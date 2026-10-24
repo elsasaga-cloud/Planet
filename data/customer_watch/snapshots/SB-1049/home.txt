@@ -1,4 +1,4 @@
-# SB-1049 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1049 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -171,15 +171,14 @@ SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
 판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
-하이브로 전동드라이버 H500 단품 국산 전동 드라이버 비트세트포함
-상품요약정보 : 하이브로 전동드라이버 H500 단품 국산 전동 드라이버 비트세트포함
-소비자가 : 55,000원
-판매가 : 50,000원
+SFP-SX 광모듈 미니지빅 멀티모드
+상품요약정보 : 1.25G, Multi-mode, 550m, 850nm, LC
+판매가 : 19,300원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC503 PoE 장거리 익스텐더 아답터
-상품요약정보 : 802.at PoE / 48 ~56VDC아답터(PD포트) 최대통신거리 500M 통신속도 100Mbps
-판매가 : 78,100원
+ipTIME AX2004T 유무선 공유기 (Wi-Fi 6)
+상품요약정보 : Wi-Fi 6 지원 최저가 가성비 공유기
+판매가 : 45,600원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC200-SCM 멀티모드 100Mbps 광컨버터
@@ -187,9 +186,9 @@ Sold Out
 판매가 : 53,900원
 LIKE IT ! 0
 Sold Out
-ipTIME AX2004T 유무선 공유기 (Wi-Fi 6)
-상품요약정보 : Wi-Fi 6 지원 최저가 가성비 공유기
-판매가 : 45,600원
+애니포트 SC-SC, 멀티 광점퍼코드 (국내제조) 3M (AP-DMSS-3M)
+상품요약정보 : 멀티모드 (Multi-Mode) / SC-SC / 3M
+판매가 : 6,000원
 SOLTECH 브랜드관
 더보기
 {#imgTag_1}

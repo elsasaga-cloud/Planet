@@ -1,4 +1,4 @@
-# SB-1233 rbline.pl · home · https://rbline.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1233 rbline.pl · home · https://rbline.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Masz pytania? Zadzwoń
 77 555 91 30 / 796 224 537 (Pon - Pt - 8-16)
@@ -440,7 +440,7 @@ Delta-Opti
 PARKLIGHT-ECO/90W
 420,66 zł
 Dostawa:
-do czwartku, 29.10
+do piątku, 30.10
 3 szt.
 Maksymalna dostępna ilość: 3 szt. Większą ilość możemy sprowadzić na zapytanie.
 Strumień świetlny: 10800 lm ; Strumień świetlny (Użyteczny): 9900 lm ; Kąt świecenia: 100 ° ; Barwa światła: Neutralna, 4000 K ; Zasilanie: 220 ... 240 V AC ; Moc czynna: 90 W ; Wybrane cechy: Klasa odporności mechanicznej : IK05 ; Klasa szczelności: IP65 ; Sposób montażu: Śruby ; Średnica słupa: max. Ø 64 mm ;
@@ -453,7 +453,7 @@ Delta-Opti
 PARKLIGHT-ECO/60W
 376,38 zł
 Dostawa:
-do czwartku, 29.10
+do piątku, 30.10
 3 szt.
 Maksymalna dostępna ilość: 3 szt. Większą ilość możemy sprowadzić na zapytanie.
 Strumień świetlny: 7200 lm ; Strumień świetlny (Użyteczny): 6600 lm ; Kąt świecenia: 100 ° ; Barwa światła: Neutralna, 4000 K ; Zasilanie: 220 ... 240 V AC ; Moc czynna: 60 W ; Wybrane cechy: Klasa odporności mechanicznej : IK05 ; Klasa szczelności: IP65 ; Sposób montażu: Śruby ; Średnica słupa: max. Ø 64 mm ;
@@ -465,4 +465,4 @@ PATCHCORD RJ45/6/0.5-CU-BLACK 0.5 m Lanberg
 LANBERG
 RJ45/6/0.5-CU-BLACK
 4,87 zł
-Przewód: UTP kat. 6 : RJ 45 Wtyk / RJ 45 Wtyk ; K
+Przewód: UTP kat. 6 : RJ 45 Wtyk / RJ 45 Wtyk ; Kolor

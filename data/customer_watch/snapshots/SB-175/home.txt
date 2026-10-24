@@ -1,4 +1,4 @@
-# SB-175 frogfish.de · home · https://frogfish.de/en/index.html · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-175 frogfish.de · home · https://frogfish.de/en/index.html · fetched 2026-10-24T04:35:40Z · HTTP 200
 Home - frogfish surveillance GmbH
 Keywords
 Search
@@ -336,7 +336,7 @@ Phone number
 Mandatory field E-mail address *
 Mandatory field Password *
 Mandatory field Security question *
-Please add 5 and 7.
+What is the sum of 8 and 2?
 Do not fill in this field
 Register
 Contact us
@@ -355,7 +355,7 @@ Mandatory field E-mail address *
 Message
 Mandatory field Privacy policy *
 Yes, I have taken note of the privacy policy. I agree that my information and data will be collected and stored electronically to answer my request.
-What is the sum of 5 and 6?
+Please add 4 and 9.
 Do not fill in this field
 send
 Keep me informed

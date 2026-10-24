@@ -1,4 +1,5 @@
-# SB-692 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-692 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-24T04:35:40Z · HTTP 200
+Fri, 23 Oct 2026 08:00:00 +0000	TachoSync: la nueva solución de Teltonika para la gestión remota de datos del tacógrafo	https://www.davantel.com/tachosync-la-nueva-solucion-de-teltonika-para-la-gestion-remota-de-datos-del-tacografo
 Wed, 21 Oct 2026 08:00:00 +0000	Data to sender status y más actualizaciones de firmware en RutOS 7.25	https://www.davantel.com/data-to-sender-status-y-mas-actualizaciones-de-firmware-en-rutos-7-25
 Mon, 19 Oct 2026 08:00:00 +0000	Guía para la puesta en marcha de localizadores Teltonika	https://www.davantel.com/guia-para-la-puesta-en-marcha-de-localizadores-teltonika
 Fri, 16 Oct 2026 08:00:00 +0000	Guía de protocolos de gateway IoT: del taller a la nube	https://www.davantel.com/guia-de-protocolos-de-gateway-iot-del-taller-a-la-nube
@@ -54,5 +55,4 @@ Tue, 30 Jun 2026 08:00:00 +0000	AES sin intercambio de claves: análisis técnic
 Mon, 29 Jun 2026 06:02:06 +0000	Más allá de la potencia de la señal: logrando estabilidad en 5G mediante el bloqueo preciso de bandas en routers industriales	https://www.davantel.com/mas-alla-de-la-potencia-de-la-senal-logrando-estabilidad-en-5g-mediante-el-bloqueo-preciso-de-bandas-en-routers-industriales
 Fri, 26 Jun 2026 08:00:00 +0000	¿Qué es el protocolo de comunicación IEC 61850 y cómo funciona?	https://www.davantel.com/que-es-el-protocolo-de-comunicacion-iec-61850-y-como-funciona
 Wed, 24 Jun 2026 08:00:00 +0000	¿Cómo configurar un router Teltonika como un extensor WiFi (wireless bridge)?	https://www.davantel.com/como-configurar-un-router-teltonika-como-un-extensor-wifi-wireless-bridge
-Tue, 23 Jun 2026 08:27:07 +0000	El ‘Día Q’ se acerca: la computación cuántica está más cerca de convertirse en realidad	https://www.davantel.com/el-dia-q-se-acerca-la-computacion-cuantica-esta-mas-cerca-de-convertirse-en-realidad
-Mon, 22 Jun 2026 08:00:00 +0000	¿Por qué tu próximo gateway LoRaWAN debería ejecutar ChirpStack localmente?	https://www.dava
+Tue, 23 Jun 2026 08:27:07 +0000	El ‘Día Q’ se acerca: la computación cuántica está más cerca de convertirse en realidad	ht

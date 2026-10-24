@@ -1,4 +1,5 @@
-# SC-589 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SC-589 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+Fri, 23 Oct 2026 06:06:09 +0000	Avoin työpaikka: Aluemyyntipäällikkö tuotemerkintätiimiin, hakuaika 23.10. – 15.11.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-aluemyyntipaallikko-tuotemerkintatiimiin-hakuaika-23-10-15-11-2026/
 Tue, 20 Oct 2026 11:35:42 +0000	Arctic Performance 2026 – KLINGER Finland esittelee aluevalvonnan ja turvallisuusteknologian ratkaisuja	https://klinger.fi/sisallot-ja-uutiset/arctic-performance-2026-klinger-finland-esittelee-aluevalvonnan-ja-turvallisuusteknologian-ratkaisuja/
 Tue, 20 Oct 2026 06:44:22 +0000	Avoin työpaikka: Aluemyyntipäällikkö teollisuuden venttiilimyyntiin, hakuaika 20.10. – 31.10.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-aluemyyntipaallikko-teollisuuden-venttiilimyyntiin-hakuaika-20-10-31-10-2026/
 Tue, 20 Oct 2026 06:44:14 +0000	Avoin työpaikka: Myyntineuvottelija / tekninen myyjä venttiilimyyntiin Kuopioon, hakuaika 20.10. – 31.10.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-myyntineuvottelija-tekninen-myyja-venttiilimyyntiin-kuopioon-hakuaika-20-10-31-10-2026/
@@ -8,4 +9,3 @@ Wed, 30 Sep 2026 05:55:06 +0000	KLINGER Finland ja DHL rakentavat vähäpääst�
 Mon, 28 Sep 2026 07:50:30 +0000	140 vuotta KLINGERiä: Kokemuksen rakentama, luottamuksen ohjaama	https://klinger.fi/sisallot-ja-uutiset/140-vuotta-klingeria-kokemuksen-rakentama-luottamuksen-ohjaama/
 Mon, 14 Sep 2026 09:00:00 +0000	Kun venttiiliprojekti vaatii tavallista enemmän – KLINGER Finland toteuttaa räätälöidyt venttiilitoimitukset	https://klinger.fi/sisallot-ja-uutiset/kun-venttiiliprojekti-vaatii-tavallista-enemman/
 Wed, 09 Sep 2026 05:58:43 +0000	KLINGER Finland mukana tukemassa Elämä Lapselle -kampanjaa	https://klinger.fi/sisallot-ja-uutiset/klinger-finland-mukana-tukemassa-elama-lapselle-kampanjaa/
-Fri, 04 Sep 2026 05:42:00 +0000	Alihankinta 2026 – KLINGER Finland mukana teollisuuden suurtapahtumassa	https://klinger.fi/sisallot-ja-uutiset/alihankinta-2026-klinger-finland-mukana-teollisuuden-suurtapahtumassa/

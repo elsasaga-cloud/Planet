@@ -1,4 +1,4 @@
-# SB-966 baburtech.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCeg6cn9wL5HRzVZkT0Upn0Q · fetched 2026-10-23T04:20:51Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCeg6cn9wL5HRzVZkT0Upn0Q was not found on this server. That’s all we know.
+# SB-966 baburtech.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCeg6cn9wL5HRzVZkT0Upn0Q · fetched 2026-10-24T04:35:40Z · HTTP 500
+Error 500 (Server Error)!!1
+500. That’s an error.
+The server encountered an error and could not complete your request. If the problem persists, please report your problem and mention this error message and the query that caused it. That’s all we know.

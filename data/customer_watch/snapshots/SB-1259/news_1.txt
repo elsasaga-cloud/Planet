@@ -1,4 +1,4 @@
-# SB-1259 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1259 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -168,7 +168,7 @@ Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Comments
+Name
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Phone
+URL
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

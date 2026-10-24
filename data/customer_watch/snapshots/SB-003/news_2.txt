@@ -1,4 +1,4 @@
-# SB-003 DIGI Group · news_2 · https://thorbroadcast.com/articles · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-003 DIGI Group · news_2 · https://thorbroadcast.com/articles · fetched 2026-10-24T04:35:40Z · HTTP 200
 Broadcast Engineering Guides & Articles - Thor Broadcast
 Search Type
 By Name
@@ -155,6 +155,9 @@ Always verify the applicable spectrum regulations and legal requirements before 
 FCC Licensing
 and
 FCC Equipment Authorization – RF Device .
+IPTV for Hotels and Motels: How to Distribute Local TV Channels Over an Ethernet Network
+Learn how hotels and motels can distribute local over-the-air television channels over Ethernet. Compare a traditional ATSC-to-IP gateway with THORIUMIP's automatic channel discovery system to choose the right IPTV architecture for your property.
+Read Full Article
 H.264 / HEVC MPEG-TS to QAM Troubleshooting: SPS/VUI Timing, PID Remapping, VCT/PSIP, Service IDs, and TV Decoder Compatibility
 Troubleshoot H.264 and HEVC MPEG-TS streams distributed over QAM with the Thor H-IPRF-QAM-32CH. Learn how SPS/VUI timing, PID mapping, Service IDs, VCT/PSIP and TV decoder state can cause missing video despite excellent RF signal quality.
 Read Full Article
@@ -205,9 +208,6 @@ ATSC to IP gateway guide for IPTV delivery using multicast, SPTS, bandwidth plan
 Read Full Article
 Thor Broadcast Hospital IPTV & RF Distribution Solution
 Hospital IPTV and RF distribution guide for multicast video delivery across hospitals, clinics, and satellite healthcare facilities.
-Read Full Article
-How to Design an RF over Fiber Network (1x8, 1x32, 1x64)
-Design RF over Fiber networks for CATV, QAM, ATSC, and antenna systems using transmitters, splitters, and receivers.
 Read Full Article
 1
 2

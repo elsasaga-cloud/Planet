@@ -1,11 +1,11 @@
-# SA-012 GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP） · mastodon_instance · https://mammut.gogreenit.net/api/v1/instance · fetched 2026-10-23T06:51:07Z · HTTP 200
+# SA-012 GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP） · mastodon_instance · https://mammut.gogreenit.net/api/v1/instance · fetched 2026-10-24T04:35:40Z · HTTP 200
 {
- "contact_account.last_status_at": "2026-10-22",
- "contact_account.statuses_count": 15425,
+ "contact_account.last_status_at": "2026-10-23",
+ "contact_account.statuses_count": 15447,
  "contact_account.username": "chewie",
  "stats": {
-  "domain_count": 28555,
-  "status_count": 16381,
+  "domain_count": 28556,
+  "status_count": 16403,
   "user_count": 9
  },
  "version": "4.7.3"

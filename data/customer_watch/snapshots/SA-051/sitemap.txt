@@ -1,4 +1,4 @@
-# SA-051 rfog.pl · sitemap · http://www.rfog.pl/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-051 rfog.pl · sitemap · http://www.rfog.pl/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2019-07-21T16:32:53+00:00	https://www.rfog.pl/
 2019-07-21T16:32:53+00:00	https://www.rfog.pl/mapa-strony
 2019-07-21T16:32:53+00:00	https://www.rfog.pl/rfog,2,o-firmie

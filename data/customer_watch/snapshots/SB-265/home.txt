@@ -1,4 +1,4 @@
-# SB-265 intellcom.net · home · https://intellcom.net/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-265 intellcom.net · home · https://intellcom.net/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -13,7 +13,7 @@
 დაბრუნების პოლიტიკა
 ვაკანსია 3
 ტრენინგები
-ვებინარები 1
+ვებინარები
 კონტაქტი
 ქარ
 ქართული
@@ -170,45 +170,47 @@ LAN & WAN
 მონაცემთა შენახვა
 ახალი პროდუქტები
 ყველას ნახვა
+აკუმულატორი - 12V/100AH, სუფთა ტყვიის, Leoch
+PLH100FT(A)
+#03197
+820.35 ₾
+მარაგშია
+32 არხიანი IP ვიდეო ჩამწერი NVR - 2 მყარი დისკი, HiLook
+NVR-232MH-K
+#04094
+947.06 ₾
+გზაშია, სავარაუდო ჩამოსვლა:
+30.10.2026
+24 წვერიანი ADSS ოპტიკური კაბელი
+ADSS-SS-50M-24B1.3
+#04108
+2.59 ₾
+მარაგშია
+აკუმულატორი - 12V/40AH, სუფთა ტყვიის, Leoch
+PLH40FT(A)
+#03314
+395.41 ₾
+გზაშია, სავარაუდო ჩამოსვლა:
+17.12.2026
 IP კამერა - 2მპ 4.0მმ Bullet, WiFi, Mic, SD, ANR, HBD, Uniview
 IPC2122LB-AF40WK-G
 #03916
 189.54 ₾
 მარაგშია
-მართვადი PoE სვიჩი - 8 x 10/100Mbps POE port (RJ45) ,2 x GP(RJ45), Uniview
-NSW3000-8T2GT-LPOE-IN
-#04052
-160.38 ₾
+SNMP ბარათი MP 1KVA-დან 3KVA-მდე UPS-ებისთვის
+DS801
+#03601
+133.85 ₾
 მარაგშია
-LTU Extreme-Range
-LTU-XR-EU
-#03571
-604.66 ₾
+IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
+IPC6214LFW-AF40C
+#03599
+236.93 ₾
 მარაგშია
-ანალოგური კამერა 5MP 2.8mm, Turret, IR, Mic, Uniview
-UAC-T115-AF28
-#04064
-72.17 ₾
-მარაგშია
-Firewall - FortiGate-90G, Fortinet
-FG-90G
-#03585
-ფასის გასაგებად დაგვიკავშირდით
-მხოლოდ წინასწარი შეკვეთით
-16 არხიანი IP ვიდეო ჩამწერი NVR - 2 მყარი დისკი, Seekfree, Uniview
-NVR502-16E-IM-G
-#03957
-1676.70 ₾
-მარაგშია
-IP კამერა - 4მპ, 2.8მმ, Bullet, Mic, Speaker, SD, ANR, UMD, IK10, Wise-ISP, Uniview
-IPC2B14SE-ADF28KMC-WP-I1
-#03662
-656.10 ₾
-მარაგშია
-5G როუტერი - ATL 5G R16, GbE, IP66, eSIM, 4x4 MIMO, 16dBi, MikroTik
-ATLGM&RG520F-EU
-#03693
-1203.74 ₾
+UniFi WiFi BaseStation XG
+UWB-XG
+#04039
+6813.40 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

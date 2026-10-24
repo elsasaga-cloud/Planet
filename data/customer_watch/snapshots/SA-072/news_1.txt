@@ -1,4 +1,4 @@
-# SA-072 sge.com.tr · news_1 · https://sge.com.tr/kurumsal-duyurular-149.html · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-072 sge.com.tr · news_1 · https://sge.com.tr/kurumsal-duyurular-149.html · fetched 2026-10-24T04:35:40Z · HTTP 200
 Duyurular - SGE Mühendislik
 Online Alışveriş
 ANASAYFA
@@ -9,11 +9,11 @@ Firmamızdan Görseller
 Duyurular
 Basında SGE
 HİZMETLERİMİZ
-Otomasyon Uygulamaları
-Ölçüm Test ve Raporlama Hizmetleri
-Saha Uygulama
-Eğitim
-Danışmanlık
+OTOMASYON UYGULAMALARI
+ÖLÇÜM TEST VE RAPORLAMA HİZMETLERİ
+SAHA UYGULAMA
+EĞİTİM
+DANIŞMANLIK
 ÜRÜNLERİMİZ
 ZENON YAZILIM PLATFORMU (SCADA)
 ENDÜSTRİYEL NETWORK ÜRÜNLERİ

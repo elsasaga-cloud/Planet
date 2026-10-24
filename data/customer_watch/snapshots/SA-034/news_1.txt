@@ -1,4 +1,4 @@
-# SA-034 xcam.cz · news_1 · https://www.xcam.cz/blog · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SA-034 xcam.cz · news_1 · https://www.xcam.cz/blog · fetched 2026-10-24T04:35:40Z · HTTP 200
 Blog - Xcam.cz
 Warning : Undefined array key "options" in /data/a/5/a5d13aaa-44a3-4d5b-b396-f156699e5b30/xcam.cz/www/wp-content/plugins/elementor-pro/modules/theme-builder/widgets/site-logo.php on line 124
 Přeskočit na obsah

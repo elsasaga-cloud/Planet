@@ -1,4 +1,4 @@
-# SB-1205 ipcctv.ch · sitemap · https://ipcctv.ch/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1205 ipcctv.ch · sitemap · https://ipcctv.ch/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2018-08-30T08:14:20+01:00	https://www.ipcctv.ch/
 2008-07-23T23:01:11+01:00	https://www.ipcctv.ch/support/Files/Acifarfisa/Anleitungen/km8100mdw.pdf
 2008-07-23T23:01:15+01:00	https://www.ipcctv.ch/support/Files/Acifarfisa/Anleitungen/km8100mxw.pdf

@@ -1,4 +1,4 @@
-# SB-627 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-627 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Vzhledem k plánované inventuře, budou objednávky vytvořené během pátku 23.10. a víkendu zpracovány až v pondělí 26.10.2026
@@ -28,73 +28,73 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 23.10. od 11 hod. ZAVŘENO
 Brno - Řečkovice
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Blansko
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Bystřice nad Pernštejnem
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Čáslav
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Česká Třebová
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Hradec Králové
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Hustopeče
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Chotěboř
-Otevíráme za 15 minut
+Zavřeno · otevíráme v pondělí od
 Jevíčko
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Kladno
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Kroměříž
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 23.10. od 11 hod. ZAVŘENO
 Liberec
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Pardubice
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Praha 13 - Stodůlky
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Praha 4 - Spořilov
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Praha 9 - Horní Počernice
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Prostějov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Rychnov nad Kněžnou
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Sokolov
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Svitavy
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Šenov u Nového Jičína
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Tišnov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Trutnov
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Třebíč
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště - Jaktáře
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Velké Meziříčí
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Vysoké Mýto
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Zábřeh
-Otevíráme za 30 minut
+Zavřeno · otevíráme v pondělí od
 Zastávka u Brna
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Zlín
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Žďár nad Sázavou
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -561,29 +561,4 @@ Kabelová oka
 Kabelové spojky
 Izolační pásky
 Další kategorie
-Kabelové vidlice
-Ochranné oplety
-Sady koncovek a konektorů
-Cupalové podložky a plechy
-Teplem smrštitelné trubice
-Izolační trubičky
-Kabelové dutinky
-Kabelové kolíky
-Kabelové konektory a fastony
-Přípojnicové systémy
-Kabely USB, audio a video
-Kabely CINCH
-Kabely JACK
-Kabely SCART
-Kabely USB
-Kabely a redukce HDMI
-Vybraní výrobci
-Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
-O partnerství
-Měření a regulace
-Regulace
-Řídící systémy MaR
-Ekvitermní regulace
-Regulace tlaku - manostaty
-Regulace teploty - termostaty
-Regula
+Kabelové vidlic

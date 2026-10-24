@@ -1,4 +1,4 @@
-# SB-519 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-519 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,82 +75,82 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-MikroTik GPOE-CON-mini, 2.5G PoE konvertor, 802.3af/at na 24V
-PoE konvertor se vstupem 802.3af/at a výstupem pasivního PoE 24 V až 12 W pro Ethernet do 2,5 Gb/s. Napájení na pinech 4,5 (+) a 7,8 (-). Rozměry 87 × 33 × 20 mm; venkovní použití s pouzdrem GPeR-IP67-Case.
-478 Kč bez DPH
-578 Kč s DPH
+Ubiquiti UniFi EV Station Lite, 22kW, Wallbox
+Třífázový wallbox pro elektromobily a plug-in hybridy s AC výkonem až 22 kW při 400 V / 32 A. Konektor Typ 2 na 7m kabelu, krytí IP55 a 1,7” displej. Správa UniFi Connect, přístup přes NFC nebo aplikaci UniFi Endpoint.
+13 890 Kč bez DPH
+16 807 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, M8 – dutinka, pár (RVV4-M8-2)
+Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených očkem M8 a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
+273 Kč bez DPH
+330 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MERCUSYS MS108GS-M2 Multi-Gigabit 2.5G switch
-Multi-gigabitový switch s 8 porty 2,5 Gb/s a přepínací kapacitou 40 Gb/s pro NAS, servery, počítače a Wi-Fi přístupové body. Ochrana proti síťovým smyčkám, Plug & Play a pasivní chlazení. Kovový kryt pro stůl i montáž na stěnu.
-1 112 Kč bez DPH
-1 346 Kč s DPH
+Carspa pojistný odpínač CSPV-32H 1p na DIN lištu
+Jednopólová pojistková patice pro vložky 10 × 38 mm do 32 A / 1000 V DC. Montáž na DIN lištu TH35, indikátor poruchy pojistky a svorky pro vodiče 1–10 mm2. Manipulace při odpojeném napájení, vložka se pořizuje samostatně.
+73 Kč bez DPH
+88 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Victron Energy Cerbo GX MK3
-Centrální komunikační jednotka pro monitoring a řízení energetických systémů přes VRM. VE.Direct, VE.Bus, VE.Can, Ethernet, Wi-Fi a Bluetooth; podpora GX Touch 50/70, vstupů nádrží a teplot, dvou relé a automatizace Node-RED.
-5 772 Kč bez DPH
-6 984 Kč s DPH
+TP-Link Archer NB450, 5G Wi-Fi 7 router
+Mobilní 5G router s dvoupásmovou Wi-Fi 7 až 1376 + 5760 Mb/s a internetem přes SIM kartu. Jeden 2,5G LAN/WAN a tři gigabitové porty, EasyMesh a správa přes Tether; podporuje více než 200 připojených zařízení.
+12 270 Kč bez DPH
+14 847 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Jistič DC 50A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 50 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-245 Kč bez DPH
-296 Kč s DPH
+Tester autobaterie UNI-T UT675A
+Tester 12V olověných autobaterií 3–250 Ah včetně AGM, GEL a EFB se zabudovanou tiskárnou výsledků a USB přenosem do PC. Měří napětí, vnitřní odpor a stav baterie; kontroluje startovací i nabíjecí systémy 12/24 V.
+1 954 Kč bez DPH
+2 364 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Solární panel SOLARFAM 150W, 1294x610x2mm, montážní oka, CPC, flexibilní, Černý
-Černý flexibilní monokrystalický solární panel 150 W pro karavany, jachty a čluny. Rozměry 1294 × 610 × 2 mm, ohyb až 20° a montážní oka po obvodu. Povrch CPC odolává povětrnostním vlivům; vodotěsné provedení.
-1 893 Kč bez DPH
-2 291 Kč s DPH
+Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, Svorka - Dutinka, pár (RVV4-CLIP-2)
+Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených svorkou a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
+297 Kč bez DPH
+359 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Ubiquiti UACC-U7-Pro-XG-Wall-Cover, Přetíratelný kryt pro U7-Pro-XG-Wall
-Bílý přetíratelný kryt pro přístupový bod U7 Pro XG Wall zakrývá montážní základnu i kabeláž. Polykarbonátové provedení se instaluje nacvaknutím; rozměry 113 × 160 × 37 mm, hmotnost 80 g.
-622 Kč bez DPH
-753 Kč s DPH
+MikroTik L14G-2ax-BT5-LR8&EG800K, KNOT Gateway LR8
+Venkovní IoT gateway s LoRa 868 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici a montáž na stožár či stěnu.
+2 615 Kč bez DPH
+3 164 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Jistič DC 25A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 25 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-230 Kč bez DPH
-278 Kč s DPH
+DC pojistka Carspa 1000V 32A, 10x38mm
+Válcová DC pojistka 32 A / 1000 V kategorie gPV pro jištění fotovoltaických stringů. Rozměr 10 × 38 mm pro odpovídající pojistkovou základnu nebo držák MC4, zpožděná charakteristika a provoz -40 až +90 °C.
+47 Kč bez DPH
+57 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MikroTik SolidRACK 5 mini, 10" desktop rack, 5U
-Černý stolní montážní rack 10” s kapacitou 5U pro routery, switche a napájecí prvky. Nastavitelný úhel, prostor pro kabeláž a posuvné montážní matice. Rozebíratelná konstrukce umožňuje také montáž pod pracovní stůl.
-837 Kč bez DPH
-1 013 Kč s DPH
+MikroTik L14G-2ax-BT5-HL9&EG800Q, KNOT Gateway HL9
+Venkovní IoT gateway s Wi-Fi HaLow 915 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici; montáž na stožár či stěnu.
+2 615 Kč bez DPH
+3 164 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
-Ubiquiti UACC-U7-Pro-XG-Wall-FM, Přetíratelný zápustný držák do zdi pro U7 Pro XG Wall
-Bílý přetíratelný držák pro zápustnou montáž U7 Pro XG Wall pod omítku ve vnitřních prostorách. Konstrukce z hliníku a polykarbonátu, rozměry 146 × 199 × 41 mm a hmotnost 380 g.
-839 Kč bez DPH
-1 015 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Jistič DC 40A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
-Dvoupólový DC jistič 40 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
-230 Kč bez DPH
-278 Kč s DPH
+MHPower střešní kabelová průchodka pro solární kabely, 2× MC4, kabel 0,25 m, černá
+Černá střešní průchodka pro dva solární kabely s konektory kompatibilními s MC4 a vývody délky 0,25 m s volnými konci. UV a povětrnostní odolnost pro karavany, obytné vozy či lodě. Rozměry přibližně 181 × 95 × 38 mm.
+319 Kč bez DPH
+386 Kč s DPH
 Novinka
 Porovnat
 skladem

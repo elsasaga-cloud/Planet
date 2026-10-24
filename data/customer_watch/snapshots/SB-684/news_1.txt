@@ -1,4 +1,4 @@
-# SB-684 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-684 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-24T04:35:40Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş · TR EN
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 35 içerik).
+Sektörden güncel haberler ve analizler ( 36 içerik).
+İnceleme Dell Pro Precision 9 T2: Xeon 6 ve DDR5-6400 testte
+Dell Pro Precision 9 T2, Intel Xeon 6 ve DDR5-6400 desteğiyle test edildi; çok çekirdekli performansta büyük fark öne çıktı.
+23 Ekim 2026
 Marka Duyurusu IBM Bob artık air-gapped ortamlarda çalışıyor
 IBM, agentic yazılım geliştirme platformu Bob için self-hosted ve air-gapped dağıtım seçeneğini duyurdu.
 20 Ekim 2026
@@ -139,13 +142,10 @@ Microsoft, Windows 11 için KB5089573 önizleme güncellemesini yayımladı. 30 
 Marka Duyurusu Samsung'dan Haziran'da Amiral Gemisi Fiyat Zammı
 Samsung, Haziran ayından itibaren Galaxy S, Z Fold 7, Z Flip 7 ve FE serisi modellerde fiyat artışına gidiyor. Avrupa'da 100 Euro'ya ulaşan zamlar bekleniyor.
 27 Mayıs 2026
-Ürün Lansmanı Finalmouse Starlight X: 38 gram kablosuz gaming fare
-Finalmouse, 11 yılın ardından yeni bir şekil tasarımıyla Starlight X'i tanıttı. 38 gram ağırlık, TMR switch ve özel F1 sensörüyle 179 dolar fiyat etiketiyle geliyor.
-26 Mayıs 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal
-Hakkımızda Genel Müdürün Mesajı Tarihçe Duyurular Banka Hesaplarımız İletişim
+Hakkımızda Genel Müdürün Mesajı Tarihçe Ödüllerimiz Duyurular Banka Hesaplarımız İletişim
 Kategoriler
 Bilgisayar Parçaları Güvenlik Ürünleri Ağ Ürünleri Baskı Çözümleri Tüm Kategoriler Ürün Kataloğu Faydalı Araçlar
 Bayi

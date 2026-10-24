@@ -1,4 +1,4 @@
-# SB-365 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-365 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3989)
+Svi proizvodi (3962)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -85,7 +85,7 @@ Rek ormani 19" (108)
 Rek ormani 10" (8)
 Indoor kućišta (35)
 Eksterni ormani (19)
-Elektro materijal (823)
+Elektro materijal (822)
 Energetski kablovi
 PVC strujni kablovi
 N2XH bez halogena
@@ -99,9 +99,9 @@ Uzidne dozne (11)
 Upodne kutije (2)
 Aluminijumski stubići (3)
 PC strujni kablovi
-Prekidači i utičnice (178)
+Prekidači i utičnice (177)
 Italijanski standard (35)
-Francuski legrand (105)
+Francuski legrand (104)
 Art S serija (15)
 Art F serija pantone (12)
 Art H serija (3)
@@ -130,7 +130,7 @@ Samolepljivi kanali (50)
 Šlicovani kanali (50)
 Energetski - strujni (6)
 PVC strujni kablovi (6)
-Moduli za kabliranje (85)
+Moduli za kabliranje (84)
 Keystone RJ-45 moduli (36)
 UTP - Unshielded (5)
 STP - Shielded (6)
@@ -141,10 +141,10 @@ Keystone telefonski (1)
 Keystone koaksijalni (3)
 Keystone fiber optički
 HDMI, USB, RCA (4)
-Moduli 45x45 (32)
+Moduli 45x45 (31)
 Šuko moduli 220V (2)
 Blanko i ostali mod. (7)
-Utičnice (224)
+Utičnice (223)
 Nazidne utičnice (45)
 Kategorija 5E
 Kategorija 6 i 6A
@@ -161,7 +161,7 @@ Fiber optičke utičnice
 Utičnice HDMI, USB..
 Kombinovane utičnice (18)
 Šuko utičnice
-Pojedinačni elementi (100)
+Pojedinačni elementi (99)
 Telefonske utičnice (3)
 Tooless - bez alata
 Konektori (68)
@@ -321,25 +321,25 @@ Failover kutije (3)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
-Ethernet svičevi (627)
+Ethernet svičevi (619)
 Neupravljivi svičevi (79)
 24 porta (1)
 8 portova (8)
 16 portova (1)
 6-8 portova (7)
-Upravljivi svičevi (156)
-8 portova (1)
+Upravljivi svičevi (152)
+8 portova
 16 portova (1)
 24 porta
 Fiber svičevi (27)
 Layer 3 svičevi (73)
-Industrijski svičevi (63)
-PoE svičevi (79)
+Industrijski svičevi (62)
+PoE svičevi (77)
 Fiber moduli (78)
 Šasije - modularne (35)
 SFP+ i QSFP+ kablovi (10)
 L3 svicevi - ruteri (21)
-PoE (Power-over-Ethernet) (73)
+PoE (Power-over-Ethernet) (71)
 Ekstenderi dometa
 Mreža preko struje (4)
 Fiber optička aktivna oprema (146)
@@ -350,7 +350,7 @@ Fiber šasije
 Fiber-coax konverteri
 Industrijska oprema (5)
 GPON / EPON Fiber (2)
-Kartice - PC adapteri (164)
+Kartice - PC adapteri (163)
 10/100Mb/s kartice (4)
 PCI (3)
 USB (1)
@@ -381,7 +381,7 @@ Wireless 300Mb/s (10)
 Wireless 802.11a 5GHz (2)
 PCI Express (3)
 PCI-X / PCI (10)
-USB adapteri (42)
+USB adapteri (41)
 Ostali adapteri (5)
 RAID & storage (1)
 Asterisk VoIP kartice (18)
@@ -430,9 +430,9 @@ Antenski spliteri (2)
 Prenaponske zaštite (4)
 Antenski kablovi (32)
 Konektori i adapateri (33)
-Wireless WiFi 2.4 - 5GHz (372)
-WiFi ruteri indoor (96)
-Access pointi indoor (90)
+Wireless WiFi 2.4 - 5GHz (369)
+WiFi ruteri indoor (94)
+Access pointi indoor (89)
 High Power oprema (28)
 Ekstenderi dometa (12)
 WiFi adapteri (28)
@@ -453,12 +453,12 @@ Softver (5)
 SuSE i RedHat Linux
 Mikrotik RouterOS
 Microsoft i dr. softver
-Ruteri, VPN, Firewall (37)
-Industrijska i serijska oprema (231)
-Industrijski Ethernet - svičevi, ruteri, konverteri (51)
+Ruteri, VPN, Firewall (36)
+Industrijska i serijska oprema (229)
+Industrijski Ethernet - svičevi, ruteri, konverteri (50)
 Serijska oprema RS232/ 422/ 485/ Modbus/ CAN bus/ USB (15)
 Industrijska wireless oprema (24)
-Industrijski i Embedded računari i Remote I/O (11)
+Industrijski i Embedded računari i Remote I/O (10)
 Industrijsko kabliranje (26)
 IIndustrijska oprema
 Industrijska oprema
@@ -496,7 +496,7 @@ Gas Release Control System (3)
 SAFIE Smoke & Flame Intelligent Eye camera system (3)
 Alarmne centrale (41)
 Torbe i rančevi (10)
-Ostala oprema (45)
+Ostala oprema (44)
 WiFi CPE klijenti
 Eksterni linkovi
 Industrijski wireless
@@ -527,4 +527,5 @@ MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4k
 Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze veze na 60GHz uz automatski 5GHz backup tako da u praksi dobijate Gigabit brzine i nivo pouzdanosti kao da ste postavili fiber optičke kablove ('Wireless Wire'). Uređaji rade u skladu sa 802.11ay/ad 60GHz i 802.11ac 5GHz standardima, malih su dimenzija, neupadljivi, uz vrhunski praktičnu i robusnu izradu (npr. radna temperatura -40º do +70ºC).
 Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
 Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
-TP-Link Omada cloud biznis mrežna rešen
+TP-Link Omada cloud biznis mrežna rešenja
+TP

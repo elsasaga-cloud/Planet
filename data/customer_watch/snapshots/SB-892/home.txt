@@ -1,4 +1,4 @@
-# SB-892 bestpc.bg · home · https://bestpc.bg/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-892 bestpc.bg · home · https://bestpc.bg/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Магазин за лаптопи, компютри и компоненти - BestPC.BG
 Бисквитки
 Използваме бисквитки
@@ -271,43 +271,40 @@ LED Аксесоари
 Мрежи — изграждане и поддръжка
 Към офертата
 Към продукта
-Капацитет: 8 GB
-Скорост: 3200 Mhz
-Тип: DDR4
-Комплект: НЕ
-Гаранция: 60 месеца
-ПРОМОЦИЯ
-119 90 € 169.67 €
-ПРОМО Kingston DRAM 8GB 3200MT-s DDR4 CL16 DIMM FURY Beast Black Купи сега
-Към продукта
-ПРОМОЦИЯ
-4 90 € 6.90 €
-ПРОМО Lemontti Duo силиконова стойка за телефон с вендузи, Оранжева Купи сега
+СУПЕР ЦЕНА
+17 90 € 20.39 €
+ПРОМО Настолна лампа Giftdecor, форма на гъба, 1.5 W, бежова Купи сега
 Към продукта
 MSI
-Сокет: AM5
-Слотове: 4 бр. х DDR5
-Чипсет: AMD B650
-ИЗГОДНО
-174 90 € 178.90 €
-ПРОМО MSI B650M Project Zero Gaming, AMD B650, 4x DDR5 слота, 256 GB, Micro ATX Купи сега
-Към продукта
+Капацитет: 1000 GB m.2 2280
+SSD
+Интерфейс: M.2 NVMe PCIe
 ПРОМОЦИЯ
-47 90 € 52.90 €
-ПРОМО PHILIPS Hair dryer 2100W Series 5000 ThermoShield technology 5 heat Купи сега
+187 90 € 229.48 €
+ПРОМО MSI SPATIUM M452 1TB NVMe M.2 PCIe 4.0 x4 3600/3100MB/s, 500K/750K IOPS, Phison E29T, 3D NAND, 300TBW, 1.5 Купи сега
+Към продукта
+Интерфейс: Кабел USB
+Производител: Bloody
+СПЕЦИАЛНА ЦЕНА
+54 90 € 73.94 €
+ПРОМО А4tech Геймърска механична клавиатура Bloody Naraka S87 TKL Backlit red switch , USB, Черен/червен Купи сега
+Към продукта
+ИЗГОДНО
+234 90 € 275.88 €
+ПРОМО SIMAGIC GT1-SR Кръгъл волан, пера за превключване, кожа, QR70, 4 бутона, черен Купи сега
 Към продукта
 СУПЕР ЦЕНА
-16 90 € 19.40 €
-ПРОМО LORGAR, противоплъзгащ се гумен материал, 360 х 300 mm, Бял/Черен Купи сега
+84 90 € 92.90 €
+ПРОМО LEGO Football Legend: Lionel Messi Soccer Legend (43015) Купи сега
 Към продукта
 Сокет: AM5
-Физически ядра: 12 бр.
-Честота: 5.6 Ghz
-Логически ядра: 24 бр.
-Кеш памет: 64 MB
-ПРОМОЦИЯ
-519 00 € 519.00 €
-ПРОМО Процесор AMD RYZEN 9 9900X, 12-Core, 4.4 GHz, 64MB, 120W, AM5, BOX, No Cooler Купи сега
+Физически ядра: 6 бр.
+Честота: 5.10 Ghz
+Логически ядра: 12 бр.
+Кеш памет: 38 MB
+НАМАЛЕНИЕ
+194 90 € 246.94 €
+ПРОМО AMD Ryzen 5 7600 (5.2GHz Max, 38MB, 65W) MPK, с Radeon Graphics и Wraith Stealth Cooler Купи сега
 Промоции
 Лаптопи
 Компютри
@@ -326,9 +323,6 @@ Logitech PRO X3 Lightspeed, 3.5 mm жак + USB 1.8 м кабел, Черен
 Безжичен геймпад Sony PS5 DualSense - Chroma Teal
 83.90 €
 76 .90 €
-CORSAIR Vengeance CMK16GX5M2B5200Z40, 16GB (2 x 8GB), 1.25V, 1.1V
-353.90 €
-329 .90 €
 LORGAR, противоплъзгащ се гумен материал, 360 х 300 mm, Бял/Черен
 19.40 €
 16 .90 €
@@ -353,6 +347,9 @@ LORGAR, противоплъзгащ се гумен материал, 360 х 30
 Фигурка Funko Pop! Football: Barcelona - Jules Kounde #109
 20.40 €
 18 .90 €
+Фигурка McFarlane Marvel Rivals Spider-Man 1:6th Scale Collectible
+56.90 €
+54 .90 €
 Експресна доставка
 1-2 работни дни за цялата страна
 Право на връщане
@@ -379,28 +376,28 @@ TP-LINK EAP115-Wall
 32 .90 €
 TP-Link TL-PA7017P KIT PowerLine мрежов адаптер 1000 Мбит-с Ethernet LAN Бяла 2 броя
 67 .90 €
+TP-Link TL-WA1201, AC1200, 1x 10-100-1000 Mbps RJ45, 4 фиксирани антени
+50 .90 €
 Faber-Castell Автоматичен молив Grip 1345, 0.5 mm, с включени 12 графита
 6 .00 €
 Съвместима тонер касета Office 1 Xerox 113R00668 5500, 30000 страници-5%, Black
 27 .90 €
-Лента Brother TZe-261, 36 mm x 8 m, черен печат върху бяла лента
-32 .90 €
 НОВИ ЛАПТОПИ
-ASUS TUF Gaming 16 2026 FX610JH-TU027, 16.0", Full HD+, Intel Core i7-14650HX, NVIDIA RTX 5050 8GB GDDR7
-1959 .00 €
-ASUS Vivobook 15 2026, 15.6 инча, IPS Full HD, Intel Core 5 320, 16GB DDR5, 512GB SSD, Сребрист
-699 .00 €
+ASUS Vivobook 15 2026 X1504VA-BQ5718NA, 15.6", Full HD, Intel Core 3 100U, Intel UHD Graphics, 8 GB, 256 GB SSD, Без OS, Син
+559 .00 €
+Lenovo ThinkPad L14 G7, Core Ultra 7 355, 16GB, 1TB SSD, 14 WUXGA IPS, 4G LTE, Win11Pro
+2339 .00 €
+Asus ExpertBook, 15,6 инча, FHD 60Hz, Intel Core 3 100U, 16GB DRR4(2 x8), 512GB SSD, Intel UHD Graphics, Сив
+819 .00 €
+ASUS Vivobook Go 15, 15.6 инча, IPS Full HD, AMD Ryzen 5 40, 16GB LPDDR5, 512GB SSD, Сребрист
+669 .00 €
 ASUS Vivobook 15 2026 M1502XA-BQ012NA/90NB19L1-M00380, 15.6 IPS FHD, Ryzen 7 7840HS, 16GB, 512GB SSD, Free DOS
 669 .00 €
-Acer Aspire Lite AL15-36P-398G, 15.6", Full HD, Intel Core 3 N350, Intel UHD Graphics 32EUs, 8 GB, 512 GB SSD, Без OS, Сребрист
-589 .00 €
-GIGABYTE AORUS Master 16 6ZJ, 16.0", WQXGA, AMD Ryzen 9 9955HX3D, NVIDIA RTX 5090 24GB GDDR7 DLSS 4, 32 GB, 1 TB SSD, Windows 11 Pro
-4859 .00 €
-Lenovo ThinkPad T14s G7, 14.0", Full HD+, Intel Core Ultra 5 325, Intel Graphics 4 Xe3, 16 GB, 512 GB SSD, Windows 11 Pro, Черен
-2599 .00 €
-Lenovo ThinkPad T14 G7, 14.0", Full HD+, Intel Core Ultra 7 355, Intel Graphics 4 Xe3, 32 GB, 1 TB SSD, Windows 11 Pro, Черен
-3099 .00 €
-Lenovo Yoga Slim 7 Ultra 14IPH11 Aura Edition, 14", 2.8K, тъчскрийн, Intel Core Ultra X7 358H, Intel Arc B390 12 Xe3, 32 GB, 1 TB SSD, W11H
+Acer Aspire Lite AL17-52P-573F, 17.3", Full HD, Intel Core Ultra 5 115U, Intel Graphics 4 Core, 16 GB, 512 GB SSD, Без OS, Сребрист
+889 .00 €
+GIGABYTE AORUS Master 16 6YJ, 16.0", WQXGA, AMD Ryzen 9 9955HX3D, NVIDIA RTX 5080 16GB GDDR7 DLSS 4, 32 GB, 1 TB SSD, Windows 11 Pro
+3759 .00 €
+Lenovo ThinkPad T14 G7, 14.0", Full HD+, Intel Core Ultra 5 325, Intel Graphics 4 Xe3, 16 GB, 512 GB SSD, Windows 11 Pro, Черен
 2299 .00 €
 ПО КАТЕГОРИИ
 ЛАПТОПИ
@@ -499,4 +496,4 @@ UPS - Непрекъсваеми ТЗИ
 BestPC.BG — лаптопи, компютри и компоненти на най-ниски цени
 Търсите компютри, конфигурирани по поръчка или преносими компютри? Техника за Вашия офис или дом?
 НОВАТЕХ ЕООД (BestPC.BG) Ви предлага асемблиране и продажба на компютри, лаптопи и периферия, обновяване на компютърни системи и модули, гаранционен и извънгаранционен сервиз.
-Стремим се да задоволим изискванията на нашите настоящ
+Стремим се да задоволим изискванията 

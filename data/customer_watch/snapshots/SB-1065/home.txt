@@ -1,4 +1,4 @@
-# SB-1065 dmtrade.pl · home · https://www.dmtrade.pl/en-PL/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1065 dmtrade.pl · home · https://www.dmtrade.pl/en-PL/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 DMTrade.pl - Your Center for Electronics, Smart Home, and Ergonomics
 Select delivery country and language
 Apply changes
@@ -181,6 +181,7 @@ Keyboards and mice
 USB multiports and hubs
 Adapters
 KVM Switches
+Laptop Gadgets
 Multiport stands
 Webcams
 Electronics cleaning
@@ -189,7 +190,6 @@ Laptop bags
 Laptop backpacks
 Hybrid backpacks
 Travel organizers and cases
-Laptop Gadgets
 Mobile Devices Mobile Devices
 Electronic Translators
 Smartwatches

@@ -1,4 +1,4 @@
-# SB-378 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-378 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-08-17T17:53:39+00:00	https://www.xlrsecurity.com/tutorials/
@@ -113,7 +113,7 @@
 2026-09-05T20:07:59+00:00	https://www.xlrsecurity.com/product/ec-d4f28m-v3/
 2026-10-05T16:20:02+00:00	https://www.xlrsecurity.com/product/smbox02-r/
 2026-09-30T17:17:32+00:00	https://www.xlrsecurity.com/product/pn-d5006-4p-60/
-2026-10-05T16:20:01+00:00	https://www.xlrsecurity.com/product/ipc3628sr-adf40km-wp/
+2026-10-24T02:33:02+00:00	https://www.xlrsecurity.com/product/ipc3628sr-adf40km-wp/
 2026-09-30T14:49:29+00:00	https://www.xlrsecurity.com/product/xlr-pwr-24vac/
 2026-10-09T12:25:33+00:00	https://www.xlrsecurity.com/product/ups-cyberpower-625va-360w/
 2026-07-20T12:28:38+00:00	https://www.xlrsecurity.com/product/ipc3624sr-adf40km-wp/
@@ -136,7 +136,7 @@
 2026-10-05T16:20:01+00:00	https://www.xlrsecurity.com/product/ipc2b18se-adzkmc-wp-i1/
 2026-09-05T20:07:59+00:00	https://www.xlrsecurity.com/product/ipc3638se-adzkmc-wp-i1/
 2026-10-11T07:26:01+00:00	https://www.xlrsecurity.com/product/pkc2641z80-ir-p/
-2026-10-16T16:25:43+00:00	https://www.xlrsecurity.com/product/ipc6324lwh-ax5c-vg2/
+2026-10-24T02:33:24+00:00	https://www.xlrsecurity.com/product/ipc6324lwh-ax5c-vg2/
 2026-10-05T16:20:00+00:00	https://www.xlrsecurity.com/product/ipc325ss-adf28k-i1-bk/
 2026-10-05T15:23:33+00:00	https://www.xlrsecurity.com/product/ipc324sr-adf40km-h-bk/
 2026-07-20T12:11:53+00:00	https://www.xlrsecurity.com/product/ipc324sr-adf28km-h-bk/

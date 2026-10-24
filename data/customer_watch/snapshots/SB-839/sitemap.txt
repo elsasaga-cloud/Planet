@@ -1,4 +1,4 @@
-# SB-839 inv-technology.com · sitemap · https://inv-technology.com/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-839 inv-technology.com · sitemap · https://inv-technology.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2020-10-09T14:26:03+00:00	https://inv-technology.com/fr/
 2020-10-09T14:26:03+00:00	https://inv-technology.com/en/
 2020-10-09T14:26:03+00:00	https://inv-technology.com/fr/nous-contacter

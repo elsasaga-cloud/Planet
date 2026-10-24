@@ -1,4 +1,4 @@
-# SB-1058 anewtech.net · sitemap · https://www.anewtech.net/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1058 anewtech.net · sitemap · https://www.anewtech.net/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2026-03-30T09:36:01+00:00	https://www.anewtech.net/news-events/blogs/wireless-sensor-network/wi-fi-24ghz5ghz-industrial-iot-wireless-io-modules
 2026-03-30T09:22:55+00:00	https://www.anewtech.net/news-events/blogs/server-storage/supermicro-ai-servers-nvidia-gh200-grace-hoppertm-nvidia-h200
 2026-03-30T09:34:48+00:00	https://www.anewtech.net/news-events/blogs/wireless-sensor-network/iiot-lorawan-wireless-io-module-and-gateway-solution

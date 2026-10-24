@@ -1,4 +1,4 @@
-# SB-150 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-150 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 News
 Trade Register
 Products
@@ -102,28 +102,14 @@ News
 Contact Us
 Support
 Webinars
-Intercom & Access Control
-Akuvox
-Door Stations
-Accessories
-Access Control
-Brackets
-Health Care
-Indoor Monitors
-2-Wire
-Armatura
-Accessories
-Biometrics
-Control Units
-Credentials
-Licenses
-Readers
-LTS Intercom
-2-Wire
-Brackets & Accessories
-IP
-Video Doorbell
-Universal / Lift Controllers
+Cabling, Racks & Cable Management
+Racks & Cabinets
+Cable
+Cable Management
+Jacks & Couplers
+Patch Panels
+RG59 Cable & Accessories
+Shelves
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -155,14 +141,6 @@ Wireless Add-Ons
 Automation Add-Ons
 Hypanels
 Smart-Locks
-Cabling, Racks & Cable Management
-Cable
-Cable Management
-Jacks & Couplers
-Patch Panels
-Racks & Cabinets
-RG59 Cable & Accessories
-Shelves
 CCTV & Recorders
 Ajax CCTV
 Cameras
@@ -188,6 +166,28 @@ CCTV Kits
 NVRs
 EZVIZ
 Clearance Items
+Intercom & Access Control
+Akuvox
+Accessories
+Access Control
+Brackets
+Door Stations
+Health Care
+Indoor Monitors
+2-Wire
+Armatura
+Accessories
+Biometrics
+Control Units
+Credentials
+Licenses
+Readers
+LTS Intercom
+2-Wire
+Brackets & Accessories
+IP
+Video Doorbell
+Universal / Lift Controllers
 Kits & Bundles
 Ajax Alarm
 Ajax CCTV

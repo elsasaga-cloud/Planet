@@ -1,4 +1,4 @@
-# SB-724 noxel.pl · home · https://noxel.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-724 noxel.pl · home · https://noxel.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Noxel.pl | Monitoring IP, szafy rack, termowizja, wideodomofony
 Zwroty i reklamacje: reklamacje@noxel.pl
 Skorzystaj z darmowej dostawy powyżej 299zł
@@ -20,7 +20,6 @@ Rejestratory Wi-Fi
 Zestaw monitoringu
 Zestaw monitoringu IP
 Zestaw monitoringu Wi-Fi
-Switche
 Szafa Rack
 Akcesoria do szaf rack
 Szafa rack stojąca

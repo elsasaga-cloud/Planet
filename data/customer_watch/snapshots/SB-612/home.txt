@@ -1,4 +1,4 @@
-# SB-612 fotech.com.tr · home · https://www.fotech.com.tr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-612 fotech.com.tr · home · https://www.fotech.com.tr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Fotech – Uçtan Uca Bilişim Çözüm ve Ürünleri
 GİRİŞ YAP
 KURUMSAL
@@ -261,12 +261,23 @@ Tek tıkla ürün veya eğitim satın alabilir, teklif veya demo talep edebilirs
 30 Yıllık Yolculuk
 1989'dan beri önceliğimiz memnuniyetiniz. 30 yıllık güveniniz için teşekkürler!
 Son Eklenen Ürünler
+Yeni
+_
+AXS-130-SM8
+EXFO AXS-130 SM8 - Canlı Hat Testi
+TEKLİF İSTE
+ÜRÜNÜ İNCELE
+Yeni
+_
+AXS-120-SM1
+EXFO AXS-120 SM
+TEKLİF İSTE
+ÜRÜNÜ İNCELE
 _
 R166006
 Trend Networks NaviTEK III
 TEKLİF İSTE
 ÜRÜNÜ İNCELE
-Yeni
 _
 MAX-720D-SM1-EA
 EXFO MAX-720D OTDR-SM
@@ -329,16 +340,6 @@ Yeni
 _
 MCX G2
 MCX Gen2
-ÜRÜNÜ İNCELE
-Yeni
-_
-MCX S9
-MCX S9 4K60 Networks AV Decoder
-ÜRÜNÜ İNCELE
-Yeni
-_
-MCX S7
-MCX S7 4K60 Network AV Decoder
 ÜRÜNÜ İNCELE
 ')">
 FİRMA TANITIM VİDEOMUZ
@@ -418,4 +419,4 @@ TÜM DETAYLAR
 SEKTÖRÜN EN İYİ
 KALİBRASYON MERKEZİ
 Fiber optik ve bakır test cihazlarının gerçek kalibrasyonunu yapabilen, üreticinin orjinal kalibrasyon cihazına sahipFotech Teknoloji Merkezi, bu sayede ürünlerinizi yurt dışı menşeili üreticilerin merkezlerine yollama zahmetinden sizi kurtararak hem zamandan hem nakitten tasarruf etmenizi sağlıyor! Fotech'in test cihazı kalibrasyon işlemleri yabancı üreticiden sertifikalı, yaniaynı kalite ve doğrulukta!
-OTDR, OPM, PPM, FVA, Datacom, Transport, DSL, Bakır ve benzeri cihazlarda sapmaları tekrar fabrika değerlerine ayarlayabilen Sıfırlama - Gerçek Kalibrasyon işlemleri veyaDoğrulama 
+OTDR, OPM, PPM, FVA, Datacom, Transport, DSL, Bakır ve benzeri cihazlarda sapmaları tekrar fabrika değerlerine ayarlayabilen Sıfırlama - Gerçek Kalibrasyon işlemle

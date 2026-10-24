@@ -1,4 +1,4 @@
-# SB-394 cdr.pl · home · https://cdr.pl/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-394 cdr.pl · home · https://cdr.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -185,36 +185,36 @@ Bestsellery
 57,28 zł
 70,45 zł z VAT
 Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
-417,37 zł
-513,37 zł z VAT
-MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
-586,00 zł
-720,78 zł z VAT
-MikroTik Chateau PRO ax router Wi-Fi 6 AX3600 5x GE, USB, 1x PoE OUT
+261,38 zł
+321,50 zł z VAT
+MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
+379,43 zł
+466,70 zł z VAT
+MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
 231,87 zł
 285,20 zł z VAT
 MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
 Promocje
--52%
-48,20 zł
-22,96 zł
-28,24 zł z VAT
-Zaciskarka złączy RJ45 RJ11 HT-86
--31%
-415,80 zł
-288,18 zł
-354,46 zł z VAT
-MikroTik wAPR-2nD&R11e-LR2 wAP LR2 kit punkt dostępowy N300 z modułem LoRa2 (2.4 GHz)
--42%
-188,87 zł
-110,00 zł
-135,30 zł z VAT
-Opton mufa światłowodowa FDB-0216H 2 IN 16 OUT, dyby, wbudowane adaptery
--43%
-17,75 zł
-10,16 zł
-12,50 zł z VAT
-Zaciskarka złączy RJ45 RJ11 RJ12 HT-315
+-26%
+8 999,00 zł
+6 699,00 zł
+8 239,77 zł z VAT
+Zestaw Huawei: terminal OLT MA5800-X17 z szafą N63E-22
+-32%
+4 399,00 zł
+2 999,00 zł
+3 688,77 zł z VAT
+Opton spawarka światłowodowa Signal Fire AI-9
+-39%
+1,00 zł
+0,61 zł
+0,75 zł z VAT
+Przepust kablowy typu 'dyby' do mufy FDB-0216PG-D
+-38%
+15,08 zł
+9,37 zł
+11,53 zł z VAT
+Pigtail U.FL- SMA/m (20 cm) kątowy
 Promocja!
 -8%
 19 000,00 zł netto
@@ -227,7 +227,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-10-23 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-10-24 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

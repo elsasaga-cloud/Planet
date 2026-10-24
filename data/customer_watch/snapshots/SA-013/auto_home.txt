@@ -1,4 +1,4 @@
-# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_home · https://fiberone.de/ · fetched 2026-10-23T06:51:07Z · HTTP 200
+# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_home · https://fiberone.de/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s | fiberONE
 fiber ONE
 Tarife
@@ -139,6 +139,19 @@ Produktinformationsblatt (24 Monate) →
 Alle Laufzeiten & Preise im Überblick →
 „Ab"-Preise inkl. MwSt. bei 24 Monaten Laufzeit; flexible Laufzeiten mit 24, 12 oder 1 Monat wählbar. Express-Bereitstellung: über das fiberONE-Portal registrieren und in fünf Minuten online sein. Verfügbarkeit und finale Konditionen hängen vom Gebäude ab; ob TV (DVB-C) über deine Glasfaser verfügbar ist, zeigt dir die Adressprüfung.
 * Preis bei 24 bzw. 12 Monaten Mindestvertragslaufzeit, inkl. MwSt. Danach gilt der Monatspreis des Tarifs (fiberONE 1G 40 €, 2,5G 100 €, 5G 125 €, 10G 175 €; mit Kabel-TV jeweils + 5 €), und der Vertrag ist mit einer Frist von einem Monat kündbar. Alternativ kannst du einen neuen Vertrag mit 24 Monaten Laufzeit zu günstigeren Konditionen abschließen.
+Glasfaser vor Ort · und bundesweit
+Wo es fiberONE gibt.
+Unser eigenes Glasfasernetz wächst in Frankfurt, Darmstadt und dem Rhein-Main-Gebiet — und seit Juli 2026 gibt es fiberONE per Vorleistung auch in ganz Deutschland.
+Frankfurt am Main Direkt am DE-CIX — eigene Faser, bis 10 Gbit/s symmetrisch. Mehr erfahren →
+Darmstadt Unsere Heimat: Glasfaser aus der Wissenschaftsstadt. Mehr erfahren →
+Wiesbaden Eigene Glasfaser bis in die Wohnung. Mehr erfahren →
+Mainz Eigene Glasfaser bis in die Wohnung. Mehr erfahren →
+Offenbach am Main Eigene Glasfaser bis in die Wohnung. Mehr erfahren →
+Stuttgart · Asemwald Über 1.100 Wohnungen am fiberONE-Netz. Mehr erfahren →
+FOUR Frankfurt Internet bis 10 Gbit/s ab Einzug. Mehr erfahren →
+OMNITURM Glasfaser im Frankfurter Omniturm. Mehr erfahren →
+Bundesweit verfügbar
+Glasfaser bis 1 Gbit/s und VDSL bis 250 Mbit/s per Vorleistung — die Adressprüfung zeigt, was bei dir geht. Tarife bundesweit ansehen →
 Wohnungswirtschaft · Dienstneutrale Netzebene 4
 Eine Infrastruktur zieht ein. Mit unendlichen Möglichkeiten.
 Die Netzebene 4 — vom Hausanschlussraum bis in jede Wohnung — entscheidet für Jahrzehnte darüber, was Ihr Gebäude kann. Wer sie einem einzelnen Provider überlässt, baut ein Monopol ein. Wir bauen das Gegenteil: ein dienstneutrales Glasfasernetz, das Ihr Gebäude für jede Technologie und jeden Anbieter von morgen offen hält.
@@ -207,7 +220,7 @@ TaunusTurm
 TaunusTurm & TaunusTurm Living im Frankfurter Bankenviertel — Büroturm und exklusive Stadtwohnungen.
 170 Meter
 10 Gbit/s
-4 Fasern/WE
+RJ45 FTTB
 Hochhaus
 Westendgate
 Markantes Hochhaus am Frankfurter Westend — Hotel und Wohnen unter einem Dach, direkt an der Festhalle.
@@ -231,7 +244,7 @@ Sprechen Sie früh mit uns — dann ziehen Zukunftsfähigkeit und Wahlfreiheit g
 Ablauf, Verträge & Angebot →
 Projektanfrage senden
 Alle Referenzen →
-DNE4@fiberone.de
+info@fiberone.de
 Geschäftskunden
 Anbindung, die steht — über Faser, Funk und Orbit.
 Dedizierte Glasfaser bis 100 Gbit/s, Standortvernetzung über eigene Wellenlängen oder Dark Fiber, schlüsselfertige Büronetze und gehostete Telefonanlagen als Service — und wo unser Netz endet, übernehmen die Vorleistungsprodukte der Deutschen Telekom und weiterer namhafter Carrier. Ein Vertrag, ein Ansprechpartner, alle Standorte.
@@ -321,6 +334,7 @@ info@fiberone.de
 Impressum
 Datenschutz
 AGB (Privatkunden)
+Glasfaser vor Ort Frankfurt · Darmstadt · Wiesbaden · Mainz · Offenbach · Stuttgart-Asemwald · FOUR Frankfurt · OMNITURM · Gigabit-Internet · 10 Gbit/s · Bundesweit
 © 2026 NYNEX satellite OHG · Robert-Bosch-Straße 20 · 64293 Darmstadt · HR Darmstadt HRA 84829
 fiberONE® und Home Speed Home® sind eingetragene Marken der NYNEX satellite OHG (DPMA 30 2015 211 749 & 30 2015 228 516 ).
 ✕
@@ -346,5 +360,5 @@ Anfrage absenden
 Im E-Mail-Programm öffnen →
 ✕
 Projekt ansehen →
-Wir verwenden ausschließlich technisch notwendige lokale Speicherung (z. B. für den Tag-/Nacht-Modus) — keine Tracking- oder Werbe-Cookies . Mehr dazu in der Datenschutzerklärung .
+Wir verwenden ausschließlich technisch notwendige lokale Speicherung (z. B. damit dieser Hinweis nicht erneut erscheint) — keine Tracking- oder Werbe-Cookies . Mehr dazu in der Datenschutzerklärung .
 Verstanden

@@ -1,4 +1,4 @@
-# SB-1217 luxritesecurity.com · sitemap · https://www.luxritesecurity.com/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1217 luxritesecurity.com · sitemap · https://www.luxritesecurity.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2026-10-12T14:01:00+00:00	https://www.luxritesecurity.com/contact
 2024-01-16T16:21:00+00:00	https://www.luxritesecurity.com/careers
 2026-05-06T15:16:00+00:00	https://www.luxritesecurity.com/about-us
@@ -65,8 +65,8 @@
 2026-10-14T09:38:00+00:00	https://www.luxritesecurity.com/dhipnvr64-a9-2l
 2026-10-07T09:32:00+00:00	https://www.luxritesecurity.com/dhipnvr08-a9
 2026-10-21T14:15:00+00:00	https://www.luxritesecurity.com/vi-mtr06-g
-2026-10-19T10:52:00+00:00	https://www.luxritesecurity.com/dhipd120_28lrg-m
 2026-10-19T10:51:00+00:00	https://www.luxritesecurity.com/dhipd120_28lrw-m
+2026-10-19T10:52:00+00:00	https://www.luxritesecurity.com/dhipd120_28lrg-m
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/hdmimonitor-22-k
 2026-10-20T11:09:00+00:00	https://www.luxritesecurity.com/vi-dbkit02-b
 2026-10-21T11:22:00+00:00	https://www.luxritesecurity.com/dhanpripq40_2712r
@@ -87,8 +87,8 @@
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhdvr24-b5-v5
 2026-10-21T17:48:00+00:00	https://www.luxritesecurity.com/dhd80_28lrw-4-m
 2026-10-19T17:42:00+00:00	https://www.luxritesecurity.com/dhd80_28lrg-4-m-v2
-2026-10-21T17:48:00+00:00	https://www.luxritesecurity.com/dhd80_28rw_30-4-m
 2026-10-21T17:48:00+00:00	https://www.luxritesecurity.com/dhd80_28rg_30-4-m
+2026-10-21T17:48:00+00:00	https://www.luxritesecurity.com/dhd80_28rw_30-4-m
 2026-10-14T11:07:00+00:00	https://www.luxritesecurity.com/DHD80_28RW_50M-4-M
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/DHQ80_ARW_60M
 2026-10-19T17:42:00+00:00	https://www.luxritesecurity.com/DHD80_ARW_60M-T-M
@@ -118,8 +118,8 @@
 2026-10-15T17:48:00+00:00	https://www.luxritesecurity.com/dhanpripq40_0832r
 2026-10-15T17:48:00+00:00	https://www.luxritesecurity.com/dhipq40_28lrw-ms
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipq40_arw_60-m-i
-2026-10-07T17:44:00+00:00	https://www.luxritesecurity.com/dhipd40_arw_40-m-i
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd40_arg_40-m-i
+2026-10-07T17:44:00+00:00	https://www.luxritesecurity.com/dhipd40_arw_40-m-i
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipptz40_10xlr-d
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd40_28lrg-ms-v2
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd40_28lrw-ms-v2
@@ -129,8 +129,8 @@
 2026-10-21T17:48:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrg-ms
 2026-10-12T17:46:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrg_30-d-v5
 2026-10-12T17:46:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrw_30-d-v5
-2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrw-m-e
 2026-10-20T17:34:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrg-m-e
+2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd60_28lrw-m-e
 2026-09-30T17:54:00+00:00	https://www.luxritesecurity.com/dhipptz80_25xr-ai-v2
 2026-10-19T10:41:00+00:00	https://www.luxritesecurity.com/dhipq80_28lrw-ms
 2026-10-19T17:42:00+00:00	https://www.luxritesecurity.com/dhipq80_28lrw_30-d-v5
@@ -142,12 +142,12 @@
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd80_28lrw_30-d-v5
 2026-09-16T12:07:00+00:00	https://www.luxritesecurity.com/dhipd80_28rg_50-m-i2
 2026-09-16T12:07:00+00:00	https://www.luxritesecurity.com/dhipd80_28rw_50-m-i2
-2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd80_28lrg-m-e
 2026-10-20T17:34:00+00:00	https://www.luxritesecurity.com/dhipd80_28lrw-m-e
+2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipd80_28lrg-m-e
 2026-09-30T17:54:00+00:00	https://www.luxritesecurity.com/dhipnvr128-a10
 2026-09-30T17:54:00+00:00	https://www.luxritesecurity.com/dhipnvr64-a10
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipnvr04-a5
 2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipnvr08-a5
-2026-10-22T17:32:00+00:00	https://www.luxritesecurity.com/dhipnvr16-a7
+2026-10-23T12:47:00+00:00	https://www.luxritesecurity.com/dhipnvr16-a7
 2026-10-09T09:31:00+00:00	https://www.luxritesecurity.com/dhipnvr32-a7
 2026-07-24T09:36:00+00:00	http

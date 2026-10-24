@@ -1,4 +1,4 @@
-# SB-852 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-852 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-10-24T04:35:40Z · HTTP 200
 microseven wi-fi and wired poe security camera
 LIVE CAM
 STORE
@@ -184,7 +184,7 @@ Profile
 Change Password
 Apps
 Patents: US9774767, US9712733, US9510034, US9124946
-Stream views: 13,037,968
+Stream views: 13,038,097
 Microseven® is a registered brand of Microseven Systems LLC.
 © 2026 Microseven Systems LLC. All rights reserved.
 home security, professional poe camera, IP camera, Cloud, live, streaming, hls, wi-fi camera, security Camera

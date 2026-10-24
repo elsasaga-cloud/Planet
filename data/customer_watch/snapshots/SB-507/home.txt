@@ -1,4 +1,4 @@
-# SB-507 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-507 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -98,15 +98,15 @@ USB
 {#item} {#html}
 {#item_lazy} {#html}
 베스트 상품 이달의 인기상품을 확인해보세요!
-넥시 DP to HDMI 2미터 NX1671
-상품요약정보 : NX1671
-판매가 : 16,000원
-넥시 USB 3.0 4포트 확장 멀티허브 무전원
-상품요약정보 : 실버, 블랙메탈
-판매가 : 13,100원
 넥시 USB3.0 8포트 유전원 멀티허브
 상품요약정보 : USB3.0 7포트, 2.1a 충전1포트, 개별스위치, 유전원
 판매가 : 20,600원
+CAT5E UTP 인터넷선 이더넷 랜 케이블 랜선 공유기선 모뎀선
+상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M
+판매가 : 420원
+넥시 USB 3.0 4포트 확장 멀티허브 무전원
+상품요약정보 : 실버, 블랙메탈
+판매가 : 13,100원
 CAT6 UTP 1G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 모뎀선
 상품요약정보 : 1M, 2M, 3M, 5M, 10M, 15M, 20M, 30M
 판매가 : 680원

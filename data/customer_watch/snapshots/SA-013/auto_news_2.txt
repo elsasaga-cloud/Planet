@@ -1,4 +1,4 @@
-# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_news_2 · https://fiberone.de/referenzen/ · fetched 2026-10-23T06:51:07Z · HTTP 200
+# SA-013 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_news_2 · https://fiberone.de/referenzen/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Referenzen — fiberONE | Glasfaser in Frankfurts Türmen & Quartieren
 fiber ONE
 Tarife
@@ -55,7 +55,7 @@ Weitere versorgte Objekte: TaunusTurm · Westendgate · Eden Tower · HPQ Living
 Ihr Projekt als nächste Referenz?
 Sprechen Sie früh mit uns — je eher Glasfaser eingeplant wird, desto reibungsloser der Ausbau.
 Projekt anfragen
-DNE4@fiberone.de
+info@fiberone.de
 fiber ONE
 fiberONE ist die dienstneutrale Netzebene 4 der NYNEX satellite OHG, Darmstadt. Seit 25 Jahren zuhause in kritischer Netz-Infrastruktur — vom Orbit bis in deine Wohnung.
 Produkt
@@ -73,5 +73,6 @@ Kontakt
 Support
 Impressum
 Datenschutz
+Glasfaser vor Ort Frankfurt · Darmstadt · Wiesbaden · Mainz · Offenbach · Stuttgart-Asemwald · FOUR Frankfurt · OMNITURM · Gigabit-Internet · 10 Gbit/s · Bundesweit
 © 2026 NYNEX satellite OHG · Darmstadt — fiberONE ist eine Marke der NYNEX satellite OHG
 AGB · Dokumente

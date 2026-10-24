@@ -1,4 +1,4 @@
-# SB-725 pandacomdirekt.de · sitemap · https://www.pandacomdirekt.de/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-725 pandacomdirekt.de · sitemap · https://www.pandacomdirekt.de/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 2019-12-17T20:22:45+00:00	https://www.pandacomdirekt.de/
 2019-12-17T20:22:45+00:00	https://www.pandacomdirekt.de/produkte.html
 2019-12-17T20:22:45+00:00	https://www.pandacomdirekt.de/produkte/detail/optischer-transport.html

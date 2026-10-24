@@ -1,4 +1,4 @@
-# SB-1259 tramaweb.com.br · news_2 · https://www.tramaweb.com.br/insights/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-1259 tramaweb.com.br · news_2 · https://www.tramaweb.com.br/insights/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Insights da Trama: Blog, Podcast, E-Books. Tudo grátis! Insights da Trama: Blog, Podcast, E-Books. Tudo grátis!
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -86,7 +86,7 @@ Estamos comprometidos com a produção de conteúdos educativos e gratuitos, sem
 Conheça nossa Área do Conhecimento
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-LinkedIn
+X/Twitter
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -96,7 +96,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-URL
+Facebook
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

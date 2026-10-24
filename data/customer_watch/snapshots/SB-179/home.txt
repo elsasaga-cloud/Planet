@@ -1,4 +1,4 @@
-# SB-179 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-179 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Innowatt - Tecnologia innovativa al tuo servizio
 Vai direttamente ai contenuti
 Il tuo carrello è vuoto
@@ -169,11 +169,11 @@ Tutto il catalogo →
 Telecamere
 e video
 Telecamere IP e WiFi, videoregistratori, monitor
-906 articoli
+902 articoli
 Sicurezza
 e allarmi
 Antifurto Ajax, controllo accessi, videocitofoni
-720 articoli
+719 articoli
 Reti
 e smart home
 Switch PoE, WiFi, Shelly, Aqara, domotica
@@ -181,7 +181,7 @@ Switch PoE, WiFi, Shelly, Aqara, domotica
 Energia
 e accessori
 Fotovoltaico, alimentazione, materiale elettrico
-1465 articoli
+1462 articoli
 Kit già configurati
 Tutto in una scatola sola
 Tutti i kit →

@@ -1,4 +1,4 @@
-# SB-901 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-901 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 eSoft – Verkkokauppa – eSoft – Verkkokauppa
 Siirry sisältöön
 eSoft - Verkkokauppa
@@ -62,8 +62,8 @@ LoRa-yhdyskäytävät ja -päätelaitteet ( 22 )
 HomePlug/HomePNA ( 8 )
 HomePlug/Powerline ( 3 )
 HomePNA-laitteet ( 5 )
-Kaapelit CAT/Valokuitu ( 612 )
-CAT-ulkokaapelit ja asennus ( 67 )
+Kaapelit CAT/Valokuitu ( 613 )
+CAT-ulkokaapelit ja asennus ( 68 )
 CAT5E-kaapelit ( 71 )
 CAT6 suojatut kaapelit ( 44 )
 CAT6/6A -kaapelit ( 159 )
@@ -82,13 +82,13 @@ Mediamuuntimet 1G/2.5G/10G ( 30 )
 Mediamuuntimet hallittavat ( 8 )
 Mediamuuntimet Industrial ( 21 )
 Time-Sensitive Networking ( 4 )
-Muut ( 73 )
+Muut ( 72 )
 Bluetooth-sovittimet ( 1 )
 Digiboxit + tarvikkeet ( 5 )
 KVM-kytkimet ja -kaapelit ( 15 )
 Minitietokoneet ( 17 )
 Modeemit ( 3 )
-NTP-kellot ja -serverit ( 32 )
+NTP-kellot ja -serverit ( 31 )
 Power over Ethernet ( 217 )
 Industrial PoE ( 104 )
 PoE over COAX/TP ( 6 )
@@ -121,11 +121,11 @@ Lukitus ja kulunvalvonta ( 54 )
 Palomuurit ja VPN ( 4 )
 SDI HD-kamerat ja -tallentimet ( 3 )
 Teollisuus-automaatio ( 20 )
-USB ( 94 )
+USB ( 93 )
 Muut USB ( 20 )
 USB over IP ( 5 )
 USB RS-232 / Parallel ( 10 )
-USB-laturit ja -kaapelit ( 59 )
+USB-laturit ja -kaapelit ( 58 )
 Vedonlyönti ( 12 )
 MonivetoWeb ( 12 )
 Verkkovirta ja automaatio ( 156 )
@@ -156,80 +156,81 @@ WLAN-kaapelit ( 33 )
 WLAN-sovittimet ( 22 )
 WLAN-tukiasemat ( 4 )
 WLAN-ulkotukiasemat ( 6 )
-Näytetään tulokset 1–24 / 1993
+Näytetään tulokset 1–24 / 1992
 Lajittelu, oletustapa
 Lajittelu: ostetuin ensin
 Järjestä uusimman mukaan
 Lajittelu: halvin ensin
 Lajittelu: kallein ensin
-41,90 € veroton hinta 33,39 €
-SFP 100Base-FX MM 2km, 1310nm Multimode, 155M, LC, DDM
-Datolink DTL-3101L-CD02 on 100M monimuoto (multi-mode) SFP- moduuli DDM-tuella. Moduuli toimii kaikissa standardin mukaisissa tietoliikennelaitteissa, jotka tukevat 100M SFP- moduuleita. Moduuli on varustettu duplex LC-liittimillä. Moduulin avulla SFP-pa
-10,90 € veroton hinta 8,69 €
-CAT6A U/UTP Thin RJ45 5m BLUE Patch Cable Latch Protection 30AWG, LSZH
-AVEC 6A30RUUTPZ0500B on ohut ja notkea (U/UTP) sininen CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pienemm
-7,90 € veroton hinta 6,29 €
-CAT6A U/UTP Thin RJ45 2m YELLOW Patch Cable Latch Protection 30AWG, LSZH
-AVEC AVEC-6A30RUUTPZY on ohut ja notkea (U/UTP) keltainen CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pien
-67,90 € veroton hinta 54,10 €
-SFP 1000Base-LX/LH SM 10km, 1310nm -40…+85C Singlemode, 1.25G, LC, DOM, CISCO Compatible
-Datolink DLT-GLC-LH-SM-RGD on Gigabitin yksimuoto (single- mode) SFP-moduuli Cisco Ethernet-kytkimiin, tukiasemiin ja -reitittimiin DOM-tuella. Industrial moduuli on varustettu duplex LC-liittimillä ja se tukee laajennettua käyttölämpötila-aluetta. Moduu
-143,90 € veroton hinta 114,66 €
-Primeda Ethernet over TP Extender Kit 300-500m, w/o PSU
-Primeda PMD-IP-E-500M on VDSL-laitepari, jonka muodostaa siltaavan Ethernet-yhteyden puhelinkaapelissa 300-500m etäisyyksille kaapelityypistä riippuen jopa 100Mbit/s nopeudella. VDSL-tekniikan käyttökohteita ovat mm. teollisuusautomaatio, kulunvalvonta, k
-34,90 € veroton hinta 27,81 €
-SC/LC/MM 50/125 OM3 20m Duplex-kuitukaapeli Multimode
-DatoLink PCSULU2MMOM3-20 on laadukas 20m OM3 monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuit
-119,90 € veroton hinta 95,54 €
-CASTEL HT-196R RFID for IDD-212GL
-CASTEL HT-196R on RFID-kitti IDD-212GL ajoneuvoseurantalaitteeseen. RFID kitin avulla pystytään ajoneuvolla suoritetut ajot yksilöidä CASTEL-pilvipalvelussa(www.livetelematics.com). Tuotepakkauksen sisältö: keskusyksikkö, välikaapeli sekä 3x RFID korttia
 13,90 € veroton hinta 11,08 €
-Mairdi Headset Cord Generic RJ9
-MAIRDI MRD-QD002 on optiona myytävä välikaapeli. Välikaapelin avulla saat liitettyä MAIRDI kuulokemikrofonin tavallisiin puhelinlaitteisiin. Tekniset tiedot: • 4P4C (RJ11) QD connecting Cord • Connect headsets to IP Phones, telephones or call boxes • RJ1
+Analoginen puhelinhälytin 75dB
+THINK JMX-156 on analogiseen puhelinlinjaan tai GSM- yhdyskäytävän puhelinporttiin kytkettävä voimakasääninen soittohälytin korkeammalla hälytysäänellä. JMX-156 on varustettu kolmella RJ-11 portilla, joten siihen voidaan kytkeä kaksi puhelinlaitettan. Sei
+132,00 € veroton hinta 105,18 €
+8x 10/100BaseT, -40…+75C Industrial Switch, IP30
+PLANET ISW-801T on 8-porttinen Ethernet-kytkin teollisuusympäristöihin laajennetulla käyttölämpötila- alueella. Laite osaa tunnistaa PROFINET-liikenteen ja siirtää sen etusijalla QoS-priorisoinnin avulla. Tekniset tiedot: • 8x 10/100BASE-TX RJ45 auto MD
+47,90 € veroton hinta 38,17 €
+SFP 1000Base-BSX MM BiDi Tx1310 Rx1550 Multimode, 1.25G, LC, DOM, CISCO Compatible
+Datolink DTL-GLC-BSX-U on Gigabitin monimuoto (multimode) SFP BIDI-moduuli Cisco Ethernet-kytkimiin ja -reitittimiin DOM-tuella. Moduuli on varustettu yhdellä simplex LC- liittimellä. SFP-moduulia voidaan käyttää myös muissa kytkin/mediamuunnin/reititin/t
+2,90 € veroton hinta 2,31 €
+RJ-45 murtosuoja, Musta / Black
+RJ45C-K on RJ45-liittimen musta muovinen taivutussuoja.
+15,90 € veroton hinta 12,67 €
+SC/LC/MM 62.5/125 OM1 1m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSULU2MMOM1-01 on laadukas 1m monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitupari
 11,90 € veroton hinta 9,48 €
-CAT6A U/UTP Thin RJ45 7m GREY Patch Cable Latch Protection 30AWG, LSZH
-AVEC AVEC-6A30RUUTPZ on ohut ja notkea (U/UTP) CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pienemmän vaime
+KVM 1.8m cable for KVM-201/401
+PLANET 1.8m KVM-kaapelisarja KVM-201, KVM-401, KVM-800 ja KVM-1600 mallelle.
+4,90 € veroton hinta 3,90 €
+CAT6A U/UTP Thin RJ45 0.25m WHITE Patch Cable Latch Protection 30AWG, LSZH
+AVEC AVEC-6A30RUUTPZW on ohut ja notkea (U/UTP) valkoinen CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pien
+172,90 € veroton hinta 137,77 €
+Yealink HD DECT IP Phone system Handset + W70B Base, 10x Accounts, PoE
+Yealink W76P on DECT-tekniikalla toimiva langaton IP-puhelin. Yealink W76P koostuu lähiverkkoon kytkettävästä tukiasemayksiköstä sekä langattomasta puhelimesta. Langattoman DECT-tekniikan ansiosta puhelin tarjoaa hyvän äänentoiston lisäksi jopa 300m kato
+61,90 € veroton hinta 49,32 €
+Sebury Plastic Access Control RFID/PIN, 2000 users
+Ominaisuudet: • Super low power consumption, the standby current is 14mA • Anti-magnetic • 2000 users • 3 access modes: Card, Card or PIN, Card with PIN • Can be used as a standalone keypad • Can be used as a Wiegand reader • Can connect with a Wiegand ou
+20,90 € veroton hinta 16,65 €
+Yealink Wall mount bracket for T40/T41/T42
+YEALINK-WMB-T41-42 on alkuperäinen seinäkiinniketeline yhteensopiville T41/T42 -sarjan IP-puhelimille. Kiinnikkeen avulla puhelin voidaan asentaa tukevasti seinälle esimerkiksi toimistoihin, varastoihin, vastaanottotiloihin ja muihin kohteisiin, joissa pö
+11,90 € veroton hinta 9,48 €
+USB 2.0 Cable USB-C to USB-C 1m, 60W/3A White
+LVSUN LS-USB-C-C on laadukas USB-välikaapeli USB C- liittimillä. Kaapelin avulla matkapuhelimet/tabletit saadaanyhdistettyä toisiinsa tai uudempiin tietokonemalleihin, joissa USB-C portti. Kaapelia voidaan käyttää myös matkapuhelimen sekä tablet-laitteide
+24,90 € veroton hinta 19,84 €
+Stand for HENEX HC-3209R
+HENEX-HC-3209SR-STAND on taipuisalla joutsenkaulavarrella varustettu pöytäteline HENEX HC-3209SR viivakoodinlukijalle.Taipuisan varren avulla lukija pystytään asettamaan parhaaseen mahdolliseen lukuasentoon työpistekohtaisesti.
+601,00 € veroton hinta 478,88 €
+8x1000T@4xUltraPoE++, 2x SFP, Managed -40…+75C, IP30, DIN
+PLANET PLANET-IGS-4215-4UP4T2S on teollisuuskäyttöön ssuunniteltu 12-porttinen hallittava 10/100/1000 Ultra PoE++Ethernet-kytkin laajennetulla käyttölämpötila-alueella sekä DIN-kiskokiinnityksellä. Kytkin on varustettu 8x 10/100/1000Base-T kupariporteill
+3,90 € veroton hinta 3,11 €
+CAT6 U/UTP RJ45 0.5m PURPLE Patch Cable, 24AWG LSZH
+Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
 119,90 € veroton hinta 95,54 €
-HRUI 8×10/100/1000(8x PoE+) + 2xSFP 90W 802.3af/at Switch
-HRUI HR-200-AFG-82NS-100 on 10-porttinen Gigabit PoE – kytkin, joka tarjoaa 8x 10/100/1000BASE-T PoE Ethernet – kupariporttia sekä 2x 1000BASE-X SFP uplink -moduulipaikkaa.RJ45-portit tukevat automaattista nopeuden- ja kaapelityypintunnistusta, ja kytkin
-131,90 € veroton hinta 105,10 €
-Yealink EXP50 Phone Expansion Module Graphic Color LCD 272×480
-Yealink EXP50 on laajennusmoduuli puhelinmalleihin T56A/ T58A/VP59/MP56/MP58. Tekniset tiedot: • 4.3″ 272 x 480-pixel color screen • Color icons for rich visual experience • 20 physical keys on each page with dual-color LEDs • Three independent control k
-34,90 € veroton hinta 27,81 €
-Procet PoE IEEE802.3af Injector 15.4W 10/100/1000BaseT, White
-Procet PT-EN15GF on toimistokäyttöön suunniteltu kompakti 802.3af standardin mukainen PoE (15.4W) injektori sisäänrakennetulla virtalähteellä, joka syöttää virtaa yhdelle 10/100/1000Base-T IEEE-802.3af PoE-laitteelle. Injektorin yleisimpiä käyttökohteita
-94,90 € veroton hinta 75,62 €
-HDMI IP Extender Rx vastaanotin 1920x1080P IR, CAT5e/6
-DT-7058-TX on lisävastaanotin DT-7058-IR HDMI-extender kittiin. DT-7058-IR järjestelmässä voi olla maksimissaan 253Rx vastaanotinta. Tuotepakkaus sisältää Receiver- keskusyksikön, IR-vastaanottimen sekä ulkoisen virtalähteineen. Tekniset tiedot: • HDMI 1
-28,90 € veroton hinta 23,03 €
-Din-Rail Power Supply 24VDC 1.25A 30W
-WEHO HDR-30-24 on teollisuuskäyttöön suunniteltu DIN-kiskoonasennettava 24VDC virtalähde 30W syöttöteholla. Tekniset tiedot: • Ulostulojännite: 24VDC @ 1.25A, 30W – säädettävä +-10% • Sisääntulojännite: 85-264VAC tai 120-370VDC • Suojaukset: oikosulku /
-34,90 € veroton hinta 27,81 €
-Kaapeliohjuri 19”/1U paneli, syvyys 90mm Väri: RAL7035
-DM-KO90 on tukevarakenteinen metallirakenteinen ohjuripaneeli, joka sopii kupari-, valokuitu- ja virtajohtojen ohjaamiseen 19″ räkissä. Tekniset tiedot: • Korkeus: 4.4cm / 1U • Ohjurien syvyys: 9cm • Ohejurien määrä: 6x • Kokonaisleveys: 48.5cm • Materiali
-301,00 € veroton hinta 239,84 €
-4×10/100+SFP -40…+75C Industrial POE, IP40
-PLANET ISW-514PS on teollisuuskäyttöön soveltuva 5- porttinen 10/100 PoE (4x PoE porttia) Ethernet- kytkin yhdella SFP-portilla, laajennetulla käyttölämpötila-alueella sekä DIN-kiskokiinnityksellä. Laite osaa tunnistaa PROFINET-liikenteen ja siirtää sen
-535,00 € veroton hinta 426,29 €
-8x1000T@4xPoE+, Managed -40…+75C, IP30, DIN
-PLANET IGS-4215-4P4T on teollisuuskäyttöön ssuunniteltu 8- porttinen hallittava 10/100/1000 PoE+ Ethernet-kytkin laajennetulla käyttölämpötila-alueella sekä DIN-kiskokiinnityksellä. Kytkin on varustettu 8x 10/100/1000Base-T kupariporteilla, joista 4x on v
-9,90 € veroton hinta 7,89 €
-External GPS-antenna MC 5m cab
-Royaltek GPS-ANT on ulkoinen GPS-antenni MC-liittimellä, 5m välikaapelilla (RG174/50 Ohm) sekä kiinnitysmagneetilla. Säänkestävän antennin käyttölämpötila -40…+85C.
-7,90 € veroton hinta 6,29 €
-GP 23AE 12VDC Alkaaliparisto langattomiin magneettiantureihin
-12VDC High Voltage alkaali varaparisto langattomiin TUTA- MC10 ovimagneetti-antureihin.
-165,90 € veroton hinta 132,19 €
-1000TX-SX SFP Converter PoE+ Industrial -40…+75C, 802.3at IP67
-PLANET IGTP-815AT on teollisuuskäyttöön suunniteltu IP67 sääsuojattu mediamuunnin PoE+ virransyöttötuella. Laitteessa on yksi 10/100/1000Base-T kupariportti sekä yksi SFP-portti 100/1000M valokuitumoduleille. Tekniset tiedot: • 1x 10/100/1000BASE-T RJ45
+HENEX H310RC Wireless 2D Scanner USB/Cradle Bluetooth/WiFi, 640×480 @ 30scan/s, White
+HENEX H310RC on langaton akulla varustettu 1D/2D- viivakoodinlukija USB-liitännäisellä lataustelakalla. Lataustelakassa on sisäänrakennettu Bluetooth / 2.4GHz – tukiasema itse lukijalle ja se kytketään tietokoneeseen mukana toimitettavalla USB-kaapelilla.
+41,90 € veroton hinta 33,39 €
+CCTV RG-59 Cable+DC 100m Siamese Black 75 Ohm
+WEIMAI CX-100-S-W on laadukas musta 100m RG-59 CCTV asennuskaapeli, joka on varustettu kahdella virransyöttökaapelilla. Koaksiaalikaapelin johdin on valmistettu kuparista (Bare Copper/Cu) mikä on perusedellytys uusien megapikselitarkkuuksisten kamerastand
+19,90 € veroton hinta 15,86 €
+LC/LC/MM 50/125 OM3 5m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCLULU2MMOM3-05 on laadukas 5m OM3 monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitu
+126,90 € veroton hinta 101,12 €
+Sebury Aluminium IP65 Access Control MIFARE 13.56MHz, PIN, 500 users
+Ominaisuudet: • Aluminum alloy structure, waterproof, fully potted, confirms to IP65 • Built-in 13.56MHz (MIFARE card) reader • Anti tamper, antistatic 15kV • Digital backlit keypad. The back light can be set to Normal ON, Normal OFF or Automatic mode. •
+39,90 € veroton hinta 31,79 €
+Shelly 1 Gen3 WiFi rele 1x 230VAC @ 16A
+Shelly 1 Gen3 on Wi-Fi-ohjattava älykäs rele, joka on suunniteltu helppoon verkkovirran etäohjaukseen. Se on erityisen hyödyllinen kotiautomaatiossa ja energiahallinnassa, sillä sen avulla voidaan ohjata erilaisia sähkölaitteita ja seurata niiden kulutust
+2,90 € veroton hinta 2,31 €
+ReguLink kiinnitysmagneetti 15x3mm 3mm reikä N35 NdFeB Permanent
+Teknisten metallikuoristen laitteiden voimakas kiinnitysmagneetti (N35) metallisiin laite- ja asennuskaappeihin Tekniset tiedot: • Halkaisija: 15mm • Paksuus: 3mm • Reijän halkaisija: 3mm • Magneetin tyyppi: N35 (n. 35 MGOe) – Neodium (NdFeB) – Nimellisl
 80,90 € veroton hinta 64,46 €
-Ethernet IOT Relay 2xDI/2xDO/RJ45/WiFi DIN
-Dingtian DT-R002 on lähiverkkoon ja langattomaan WiFi- verkkoon kytkettävä monipuolinen selainhallittava IOT-laite, joka on varustettu 2x Digitaalisella sisääntulolla sekä 2x ohjausreleellä. IOT-rele soveltuu monipuolisesti erilaisten tilatietojen välittä
-34,90 € veroton hinta 27,81 €
-ZySecurity Microphone 10-100m2 200-6000Hz
-1.Adjustable sensitivity low noise mini shape sound audio monitor 2.RoHs&CE approval 3.low power dissipation & long distance Sound pickup use the high fidelity and low noise process chip. After multiple times frequency selected it can restrain the noise
-165,90 € veroton hinta 132,19 €
-Smart Label Printer SLP850, USB Tarratulostin 300dpi 110mm/s
-Seiko SLP850 EU on kompakti ja tehokas lämpösiirtotekniikkaan perustuva tarratulostin, joka tarjoaajopa 110 mm/s tulostusnopeuden ja 300 dpi tarkkuuden. Laitteessa on USB-C-liitäntä, mikä mahdollistaa helpon ja joustavan käytön eri ympäristöissä. SLP850
-35,90 € veroton hinta 28,61 €
-Yleistarra 
+Optical Power Meter kit FC/SC 10mW
+DatoLink DTL-OPM-KIT on kädessä pidettävä optinen tehomittari, jossa on suuri näyttö mittauksia varten varten, tarjoten tarkemman, kestävän ja helposti mukana kuljetettavan testauslaitteen kuituoptisten verkkojen käyttöön ja ylläpitoon. Älykkäällä muotoil
+18,90 € veroton hinta 15,06 €
+WLINK 2G/3G/4G fixed antenna 5dBi SMA 700-2700MHz, White
+WLINK WL-RA-M6W on ympärisäteilevä valkoinen 2G/3G/4G- antenni 5dBi vahvistuksella. Kiinteästi SMA-liittimeen asennettava niveljalalla varustettu antenni soveltuu erilaisiin mobiilitaajuuksia käyttäviin hälyttimiin, puhelimiin, reitittimiin, tukiasemiin.
+67,90 € veroton hinta 54,10 €
+Yealink Entry level IP Phone 1x Account
+Yealink SIP-T19 uusi edullinen yhden VoIP-tilin peruskäyttöön suunniteltu IP-puhelin. SIP-T19 on varustettu 132 x 64-pixelin graafisella LCD-panelilla, joka mahdollistaa selkeän viiden merkkirivin näyttämisen. Puhelimessa on kaiutinpuhelintoiminto sekä li
+179,90 € veroton hinta 143,35 €
+IQsocket GS440 LTE-sähköpistorasia DIN 2x AC, 2x DC, 4x DI, 2x AD, Temp/Hum
+IQSocket IQconbox IQTD-GS440-4G on sähkövirran 4G/LTE- ohjausyksikkö, joka on suunniteltu kahden sähkövaiheen päälle- ja poiskytkemi

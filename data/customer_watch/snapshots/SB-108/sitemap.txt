@@ -1,4 +1,4 @@
-# SB-108 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-108 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
 	https://www.wisp.pl/i4,dojazd.html
 	https://www.wisp.pl/i14,epidemia.html
 	https://www.wisp.pl/i12,konkurs-mundialowy.html
@@ -159,12 +159,14 @@
 	https://www.wisp.pl/k443,szafy-rack-10-19-cali-listwy-zasilajace.html
 	https://www.wisp.pl/k444,szafy-rack-10-19-cali-maskownice.html
 	https://www.wisp.pl/k492,szafy-rack-10-19-cali-obudowy-serwerowe.html
+	https://www.wisp.pl/k500,szafy-rack-10-19-cali-open-rack.html
 	https://www.wisp.pl/k108,szafy-rack-10-19-cali-organizery.html
 	https://www.wisp.pl/k447,szafy-rack-10-19-cali-panele-dystrybucji-napiec.html
 	https://www.wisp.pl/k448,szafy-rack-10-19-cali-panele-wentylacyjne.html
 	https://www.wisp.pl/k247,szafy-rack-10-19-cali-patch-panele.html
 	https://www.wisp.pl/k138,szafy-rack-10-19-cali-polki.html
 	https://www.wisp.pl/k449,szafy-rack-10-19-cali-przelacznice.html
+	https://www.wisp.pl/k501,szafy-rack-10-19-cali-regaly-bateryjne.html
 	https://www.wisp.pl/k445,szafy-rack-10-19-cali-stojaki.html
 	https://www.wisp.pl/k110,szafy-rack-10-19-cali-szafy.html
 	https://www.wisp.pl/k442,szafy-rack-10-19-cali-szuflady.html
@@ -212,7 +214,4 @@
 	https://www.wisp.pl/k329,mikrotik-akcesoria-lte.html
 	https://www.wisp.pl/k78,mikrotik-akcesoria-obudowy.html
 	https://www.wisp.pl/k335,mikrotik-akcesoria-swiatlowody.html
-	https://www.wisp.pl/k337,mikrotik-akcesoria-uchwyty-montazowe.html
-	https://www.wisp.pl/k334,mikrotik-akcesoria-zasilacze.html
-	https://www.wisp.pl/k333,mikrotik-gpen.html
-	http
+	https://www.wisp.pl/k337,mikrotik-akcesoria-

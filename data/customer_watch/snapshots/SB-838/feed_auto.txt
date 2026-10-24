@@ -1,4 +1,4 @@
-# SB-838 ifotec.com · feed_auto · https://www.ifotec.com/feed/ · fetched 2026-10-23T04:20:51Z · HTTP 200
+# SB-838 ifotec.com · feed_auto · https://www.ifotec.com/feed/ · fetched 2026-10-24T04:35:40Z · HTTP 200
 Thu, 22 Oct 2026 09:40:09 +0000	Cybersécurité	https://www.ifotec.com/cybersecurite-equipements-reseau/
 Thu, 08 Oct 2026 15:54:28 +0000	Cybersécurité armoire de rue	https://www.ifotec.com/cybersecurite-armoire-de-rue/
 Thu, 24 Sep 2026 16:35:54 +0000	Comprendre le PoE	https://www.ifotec.com/comprendre-le-poe-power-over-ethernet/
