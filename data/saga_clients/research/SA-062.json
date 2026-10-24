@@ -97,7 +97,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details."
+      "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided)."
     },
     "facts": [
       {

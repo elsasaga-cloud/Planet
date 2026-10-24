@@ -288,7 +288,7 @@ Hi, Charles,
 
 In May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.
 
-- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +75 C — $517 USD/pc EXW list (2026-10 table, valid 15 days).
+- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +70 C at 240 W PoE budget (-40 to +60 C at 370 W) — $517 USD/pc EXW list (2026-10 table, valid 15 days).
 - 10 / 50 / 100 pcs: tiered prices on the attached sheet.
 - Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.
 

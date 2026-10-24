@@ -124,7 +124,7 @@
       "when": "2026-11",
       "channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
       "action": "只问一句",
-      "one_question": "Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
+      "one_question": "Subhash — on stacking: our AC5 units do not stack (no stack ports, no single-image chassis) — redundancy is ERPS G.8032 rings + 10G uplinks. Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
     },
     "facts": [
       {

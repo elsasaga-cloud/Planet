@@ -29215,7 +29215,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details."
+"one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided)."
 },
 "facts": [
 {
@@ -34279,7 +34279,7 @@
 "when": "不主动；他下次来信时一次性答复",
 "channel": "A 邮箱",
 "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
-"one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?"
+"one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW list (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
 },
 "facts": [
 {
@@ -72706,8 +72706,8 @@
 "Connexite（connexite.co.uk，2025-07-23 草案）后来有没有上线——网站/亚马逊未爬；若 Simon 想做英国零售，这是现成的问法"
 ],
 "draft_en": {
-"subject": "Re: SAGA Enterprise L3 Recommendation Report — next step (CENTEC test unit for Ankara depot)",
-"body": "Hi Levent,\n\nThank you again for the July report — it is the clearest statement of a long-term partnership we have received from any customer, and we take it seriously.\n\nAs written in our Aug-17 reply, our Marvell line stays focused on L2+ (AC5), and the enterprise-L3 features you listed — stacking, OOB, dual PSU, OSPF/BGP/VRF, MLAG — are already shipping on our CENTEC-based L3 series. Rather than debate roadmaps, I would like to put one CENTEC L3 unit into your Ankara test depot before the Turk Telekom 2026 cycle, so Taylan can score it against the tender tables directly.\n\nTwo short questions:\n1) Is the 2,000-pc STI-288DGGPM (AC5) project and the IoT board (PC0012) still alive on your side? If yes, let us lock a material-preparation window now — RAM/PCB lead times are the bottleneck, not assembly.\n2) Any outcome from the Turkish Police RfPs you shared in March?\n\nBest regards,\nSimon"
+"subject": "（微信，Levent）88 × STI-288DGGPM — PO / deposit timing",
+"body": "Levent, quick one on the 88 × STI-288DGGPM + 240W Meanwell PSU (quoted Oct 3: 875 + 250 RMB/pc, same box as last order): when do you expect the PO and the deposit?\n\nI will block the production slot the day it lands — same ANW label format, serial numbers and packing as STSC20250619007, so no new confirmations are needed from your side. If the quantity or the PSU option changes, just tell me the new number and I will re-issue the PI the same day.\n\nSeparately (no rush): once this batch ships I would like to put one CENTEC L3 unit in your Ankara test depot before the next Turk Telekom cycle — we can talk after the PI.\n\nSimon"
 },
 "as_of": "2026-10-24"
 }
@@ -118683,7 +118683,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: 24-port DIN L3 PoE — 10/50/100 pcs, DAP France",
-"body": "Hi, Charles,\n\nIn May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.\n\n- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +75 C — $517 USD/pc EXW list (2026-10 table, valid 15 days).\n- 10 / 50 / 100 pcs: tiered prices on the attached sheet.\n- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.\n\nOne question: is this still a live requirement for your router bundles, and which quantity should I firm up first?\n\nThank you.\nSimon"
+"body": "Hi, Charles,\n\nIn May 2024 you asked for DDP prices for 10/50/100 units of the 24-port DIN-rail L3 managed PoE with 10G uplinks, and we only answered EXW. Here is the proper answer.\n\n- Base: STI-42424XGGPM (L3), 24x GbE PoE + 4x 10G SFP+, -40 to +70 C at 240 W PoE budget (-40 to +60 C at 370 W) — $517 USD/pc EXW list (2026-10 table, valid 15 days).\n- 10 / 50 / 100 pcs: tiered prices on the attached sheet.\n- Terms: DAP France via our forwarder (sea or air, your choice); import VAT/duty handled by you or your broker — we do not do DDP into the EU.\n\nOne question: is this still a live requirement for your router bundles, and which quantity should I firm up first?\n\nThank you.\nSimon"
 },
 "as_of": "2026-10-24"
 }
@@ -263874,7 +263874,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, E-mark report available) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
+"one_question": "Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?"
 },
 "facts": [
 {
@@ -412307,7 +412307,7 @@
 "when": "2026-11",
 "channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
 "action": "只问一句",
-"one_question": "Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
+"one_question": "Subhash — on stacking: our AC5 units do not stack (no stack ports, no single-image chassis) — redundancy is ERPS G.8032 rings + 10G uplinks. Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
 },
 "facts": [
 {
@@ -468864,7 +468864,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?"
+"one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — there is no stacking — redundancy is 10G uplinks + LACP/ERPS; would that fit the SMB sites you support?"
 },
 "facts": [
 {

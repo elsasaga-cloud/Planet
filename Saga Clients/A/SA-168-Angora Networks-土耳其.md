@@ -431,20 +431,15 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: SAGA Enterprise L3 Recommendation Report — next step (CENTEC test unit for Ankara depot)
+**主题**：（微信，Levent）88 × STI-288DGGPM — PO / deposit timing
 
 ```text
-Hi Levent,
+Levent, quick one on the 88 × STI-288DGGPM + 240W Meanwell PSU (quoted Oct 3: 875 + 250 RMB/pc, same box as last order): when do you expect the PO and the deposit?
 
-Thank you again for the July report — it is the clearest statement of a long-term partnership we have received from any customer, and we take it seriously.
+I will block the production slot the day it lands — same ANW label format, serial numbers and packing as STSC20250619007, so no new confirmations are needed from your side. If the quantity or the PSU option changes, just tell me the new number and I will re-issue the PI the same day.
 
-As written in our Aug-17 reply, our Marvell line stays focused on L2+ (AC5), and the enterprise-L3 features you listed — stacking, OOB, dual PSU, OSPF/BGP/VRF, MLAG — are already shipping on our CENTEC-based L3 series. Rather than debate roadmaps, I would like to put one CENTEC L3 unit into your Ankara test depot before the Turk Telekom 2026 cycle, so Taylan can score it against the tender tables directly.
+Separately (no rush): once this batch ships I would like to put one CENTEC L3 unit in your Ankara test depot before the next Turk Telekom cycle — we can talk after the PI.
 
-Two short questions:
-1) Is the 2,000-pc STI-288DGGPM (AC5) project and the IoT board (PC0012) still alive on your side? If yes, let us lock a material-preparation window now — RAM/PCB lead times are the bottleneck, not assembly.
-2) Any outcome from the Turkish Police RfPs you shared in March?
-
-Best regards,
 Simon
 ```
 

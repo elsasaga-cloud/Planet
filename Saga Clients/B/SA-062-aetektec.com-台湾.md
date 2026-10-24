@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（? → ?）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT — AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.
+- **第一问（只问一个）**：John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided).
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合
 - **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT**（30% 档，按主表（研究档 saga_fit））——AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.
+  - 第一问（只问一个）：John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
