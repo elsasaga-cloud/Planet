@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd
 - **第一问（只问一个）**：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → mohammad.yaacoub@intracom-telecom.com 问项目
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：工业 PoE 小型款（无线回传站点）。
 - **断点 / 为什么停在这里**：无闭环。
-- **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd）——项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd）——项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　S 邮箱 → mohammad.yaacoub@intracom-telecom.com　问项目
   - 第一问（只问一个）：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?
 

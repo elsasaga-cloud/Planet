@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国得州圣安东尼奥的结构化布线承包商/小型集成商（1986 年起，1–10 人），服务 1–500 人规模的组织，提供布线、光纤安装、电话系统、无线、摄像、门禁；在售 HPE/Extreme 交换机、Panduit/Hubbell/ICC 布线；A 已回复 1 次（群发 US 表）。（调研 2026-10-21；表内兴趣：工业switch 分销商；有比较多的供应商 产品面广 Networking      switch）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-27 → 2025-09-27）；最近一次客户回复：2025-09-27：Price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定） — U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定） — U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）
 - **第一问（只问一个）**：For your San Antonio projects, would an unmanaged 8×10GBASE-T unit (US$181.5 EXW) solve the 10G need, or must it be managed with SFP+ uplinks?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → nate.cline@ 一句话：8×10GBASE-T 非管理 $181.5 EXW 是否解决；要管理则 24GE+8×10G SFP+ 白牌
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Nate 三次主动：2024-08 要 10G MC 价表并问大单折扣；2025-04「I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP」（Alan：现无，可开发但要量）；2025-09「How much do they cost?」→ 280 USD STC-4168XGGCM → 无回。他要的 8×10GBASE-T 其实在 HRUI 线有非管理款。
 - **对方真实需求（有据）**：8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。
 - **断点 / 为什么停在这里**：群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。
-- **Saga 现在该推什么**：P1 **STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）**（25% 档，$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效））——U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）**（25% 档，$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效））——U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：Nate 要不要「管理」——一句话问；Realtek 线对美国小集成商是否开
 - **下一步（具体）**：2026-11　A 邮箱 → nate.cline@　一句话：8×10GBASE-T 非管理 $181.5 EXW 是否解决；要管理则 24GE+8×10G SFP+ 白牌
   - 第一问（只问一个）：For your San Antonio projects, would an unmanaged 8×10GBASE-T unit (US$181.5 EXW) solve the 10G need, or must it be managed with SFP+ uplinks?

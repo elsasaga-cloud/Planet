@@ -99,7 +99,7 @@
       "p1": "STI-280GE",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）",
-      "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）。已打开的主题（3/22 封有打开记录）：「10G media converter」(2024-08-14)、「Power Booster」(2024-09-09)、「10G Ethernet Web Managed Switch」(2024-11-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）。已打开的主题（3/22 封有打开记录）：「10G media converter」(2024-08-14)、「Power Booster」(2024-09-09)、「10G Ethernet Web Managed Switch」(2024-11-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-09)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
     },

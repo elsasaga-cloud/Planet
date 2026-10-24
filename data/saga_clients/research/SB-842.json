@@ -97,8 +97,8 @@
     "saga_now": {
       "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
       "tier": 25,
-      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话，老汇率）：2026-02-28 STH-32C-HSI STH-32QC-HSI 000USD / 000USD",
-      "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
+      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 \"3200USD/PC\"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价",
+      "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [
         "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
@@ -138,12 +138,28 @@
         "k": "68cb354a84c7aa86"
       },
       {
+        "date": "2025-11-26",
+        "dir": "去",
+        "who": "Alan → Steve（ITM）",
+        "quote": "1, We have some good clients in Turkey, Germany, Russia and USA. So far, not in the UK. 2, we focus on OEM/ODM… limited reliable clients… 3, SDK/API is part of our TTC services (OEM/ODM/SKD/CKD/SDK/Source Code) But this is subject to projects… 4, we do not usually get in touch (in any form) with our client's partners like SIs, ISPs etc. We just focus on our clients… training, but just to our clients. 5, standard orders 3~5 working days",
+        "why": "对 ITM 的五条口径里「SDK/Source Code 属 TTC 服务」与对 Netaş 的「source code NEVER」矛盾（E2 边界：不做 SDK/API）——以后统一说「不开放源码/SDK；OEM/ODM/SKD/CKD 可」；「不碰客户的客户」这一条倒是 Saga 真实的渠道纪律，可写进概念层",
+        "k": "gmail_a 2025-11-26 Re: Booster PoE Switch"
+      },
+      {
         "date": "2025-12-01",
         "dir": "来",
         "who": "info@itmsystems.net",
         "quote": "Dear Alan, Thank you for the prompt and very detailed response. The information you provided is excellent and confirms that our companies share a simi",
         "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "bd914113e63ac880"
+      },
+      {
+        "date": "2025-12-01",
+        "dir": "去",
+        "who": "Alan → Steve（ITM）",
+        "quote": "\"ITM Office and factory can be your base in UK. We see ourselves strictly as your strategic supplier, operating entirely on a B2B level to support your OEM/ODM requirements.\" Thanks for this, we are very interested… It would be possible to sign a distributorship or similar agreements… both sides spend some time becoming an indispensable part in each other's business… 2.1 just go for 8-port for testing 2.2 PoE models are better for testing. PoE models + DC12V/DC24V = Non-PoE models",
+        "why": "ITM（英国）主动提出做 Saga 的英国基地/战略供应关系，Alan 回应愿签分销类协议——这是第四次「成单/活跃客户 → 区域分销」构想（Angora、Fastball、XSPec 之后），与 2026-03 的 6 台 400G 报价（$107,675 含模块）并行；U16「不能把 Saga 说成欧洲总代」不冲突（是 ITM 当 Saga 的英国代理）。注意 Alan 给出「PoE 版 + 12/24V 供电 = 非 PoE 版」的测试省钱法",
+        "k": "gmail_a 2025-12-01 Re: Booster PoE Switch"
       },
       {
         "date": "2026-01-22",

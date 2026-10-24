@@ -167,7 +167,7 @@
       "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
       "tier": 25,
       "price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd",
-      "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
+      "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [
         "STI-41616XGGPM-4BT ×1（2025-08）"
       ],
@@ -310,6 +310,14 @@
         "quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
         "why": "未闭环的技术问题（附诊断包）",
         "k": "81bc7f06346f18b0"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "去",
+        "who": "Alan → Chris Clemson",
+        "quote": "we think it might be one of the 2 main reasons, probably reason 2. 1. Our PoE PCB board is faulty… not very likely. 2. Something is wrong with the power system… When PoE board starts to function, it requires much power to be activated. It is possible that your battery is not feeding enough power… what is the input voltage? It should be DC48V… please do below steps 1. Get a standard DIN power supply to power this…",
+        "why": "PoE 不出电的排障结论：倾向电池供电不足（启动浪涌）而非板子故障；04-27 Chris 用 Grafana 证明 53V 稳定 → 两边都没错时，问题多半在 PoE 板启动时序——这个 case 值得写进 AC5 的 FAQ（太阳能/电池供电场景）",
+        "k": "gmail_a 2026-03-23 Re: 90W PoE Managed Switch"
       },
       {
         "date": "2026-04-27",

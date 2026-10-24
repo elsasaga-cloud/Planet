@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。（调研 2026-10-21；表内兴趣：fiber optic transmission information, live in milano）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 8 次（2024-02-04 → 2024-10-13）；最近一次客户回复：1120：欧元价格
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板；€280（2024-11）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STC-448XGGPM(2024-11-20)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-25)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；€280（2024-11）
 - **第一问（只问一个）**：Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：2026-11 S 邮箱 → eros.stefani@stsitalia.com 问用途
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：一个欧元符号的询价，一个数字的回答，然后两年群发。
 - **对方真实需求（有据）**：48 口 PoE 管理型机架。
 - **断点 / 为什么停在这里**：无对话。
-- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，€280（2024-11））——意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，€280（2024-11））——意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STC-448XGGPM(2024-11-20)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-25)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　S 邮箱 → eros.stefani@stsitalia.com　问用途
   - 第一问（只问一个）：Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?
 

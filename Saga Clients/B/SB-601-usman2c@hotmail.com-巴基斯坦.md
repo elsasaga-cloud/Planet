@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。（调研 2026-10-21；表内兴趣：问了2光8管理 RMB price）
 - **为什么是 B 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-08-29 → 2025-06-21）；最近一次客户回复：2025-05-10：L2 managed
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Marvell Based CLI Manual(2024-11-11)、Marvell Based Web Manual(2024-11-11)、STC-448DGGM(2024-11-11)、STI-4480DGGM-U(2024-11-11)；已发单据：Quotation(2024-11-11)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11 S 邮箱 → usman2c@hotmail.com 短信一问（email_hook）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。
 - **对方真实需求（有据）**：首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM
 - **断点 / 为什么停在这里**：只要 RMB 最低价，利润薄
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Marvell Based CLI Manual(2024-11-11)、Marvell Based Web Manual(2024-11-11)、STC-448DGGM(2024-11-11)、STI-4480DGGM-U(2024-11-11)；已发单据：Quotation(2024-11-11)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　S 邮箱 → usman2c@hotmail.com　短信一问（email_hook）
   - 第一问（只问一个）：You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 

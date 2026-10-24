@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。（调研 2026-10-21；表内兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM — 加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）；按主表
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM — 加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表
 - **第一问（只问一个）**：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → robert@bsdnetworks.com 问项目
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。
 - **对方真实需求（有据）**：承包项目用的接入/PoE。
 - **断点 / 为什么停在这里**：无闭环。
-- **Saga 现在该推什么**：P1 **STC-424XGGPM**（25% 档，按主表）——加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM**（25% 档，按主表）——加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：Bid Invitation 真伪
 - **下一步（具体）**：2026-11　A 邮箱 → robert@bsdnetworks.com　问项目
   - 第一问（只问一个）：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?

@@ -296,7 +296,7 @@
       "p1": "STC-4168XGGCM（在产第 6 单）",
       "tier": 30,
       "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd",
-      "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销",
+      "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [
         "STC-4168XGGCM 双 AC（第 5、6 单）",
         "2025-09 AC5 样机 1 台"
@@ -331,6 +331,14 @@
         "quote": "Hello Simon, do you have a 24/48 x SFP version and a non PoE 24/48 BASE-T version too? We’re also looking for a low cost 10G switches with 100G uplink",
         "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "709eb72c74251c3c"
+      },
+      {
+        "date": "2024-11-15",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "It is single AC input by default. But its OK to do dual AC input. Please see attached quotation, it is based on dual AC input. 2, Marvell 98DX336S Flash:512M DRAM:512M CPU: ARM V7 800M 3, Yes, it is completely self-developed… 4, The 10G/100G switch is based on Marvell Aldrin 2 series and Falcon series… not a datasheet for it at the moment (it is a customized version for a client)… maybe start with above 4 models to familiarize yourself with Marvell codes",
+        "why": "首单前 Saga 的承诺底稿：双 AC 可做（报价按双 AC）、芯片规格公开、「完全自研」、100G 线只有硬件且为国内某客户定制——后两点是 2025-03 合规部门追问「Saga↔SmartByte 关系」的伏笔；对 NYNEX 这种会逐字核对的客户，「self-developed」要有口径",
+        "k": "gmail_s 2024-11-15 Re: 48 Port PoE Managed Switch"
       },
       {
         "date": "2024-11-19",
@@ -421,6 +429,14 @@
         "k": "gmail_s 2025-02-11 RE: Testing Feedback"
       },
       {
+        "date": "2025-02-11",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "Yes, the samples do NOT come with the features that monitor the power supply info. We need to change the PCB board, this is costly… May I know the BDCOM model you are talking about? We will check and compare.",
+        "why": "对三项可观测性诉求的第一反应是「要改板、成本高」——后来 AC5 第二单把电源/风扇监控做进去了（CLI 先行、SNMP 后补），说明 NYNEX 的需求实际驱动了产品",
+        "k": "gmail_s 2025-02-11 Re: Testing Feedback"
+      },
+      {
         "date": "2025-03-07",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -435,6 +451,14 @@
         "quote": "looking forward to your alleycat5 based models, please consider adding standard tachometer/PWM fan monitoring/control + temperature monitoring too. The most important missing SNMP MIBs are LLDP neighbors via the LLDP-V2-MIB… and transceiver DDM monitoring data… Regarding the media converter: 10G fiber only with 10/100/1000/2.5G/5G/10G base-t is exactly what we're looking for, but the marvel based media converter we have was not able to handle e.g. 1G base-T with 10G BASE-X",
         "why": "AC5 需求清单（风扇转速/PWM/温度 + LLDP-V2-MIB + DDM）；10G 光电 MC 必须支持「光口固定 10G、电口 1G/2.5G/5G/10G 自适应」——03-19/21/22 连续三封教 Simon 怎么测（一台 MC + 一台 10G 交换机、光口固定 10G）",
         "k": "gmail_s 2025-03-18 RE: Testing Feedback"
+      },
+      {
+        "date": "2025-03-18",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "there are still some AlleyCat3 based materials here, so it takes some time to FULLY adopt AlleyCat5 solutions for all models… By when, power/temperature/fan monitoring via SNMP function will be available on all models… 1.1: transceiver DDM monitoring is available now. 1.2: LLDP-V2-MIB, we now only support a few… please specify nodes. 2, fiber port ONLY supports 10G speed while LAN port is 10/100/1000/2.5G/5G/10G auto-sensing",
+        "why": "AC3→AC5 过渡期的书面承诺（SNMP 监控将覆盖全型号）+ 10G MC 的硬限制（光口只固定 10G）——这两句话是 NYNEX 后续每次追问的依据，别再改口",
+        "k": "gmail_s 2025-03-18 Re: Testing Feedback"
       },
       {
         "date": "2025-03-25",
@@ -541,12 +565,28 @@
         "k": "e59436a1a5d05de6"
       },
       {
+        "date": "2025-10-23",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "MaxLinear is the only option for a replacement of Realtek solution at similar costs. 2, for Marvell solutions, it is much more expensive… 98DX226S is a way too high standard… doubled prices or even higher. 3, for now, your OS still focuses on Broadcom… it is kind of safe to say we are the only small company… that focuses on Marvell solutions in Mainland China, but there are more Marvell based options from Taiwan",
+        "why": "对 FTTH 10G ONT/MC 需求的诚实答复：Marvell 做不到 Realtek 价位；NYNEX 的自有 OS 以 Broadcom 为主——这条线如果要接，只能用 Realtek/HRUI 线（STC-2xx 2.5G/10G 桌面机）而不是 Marvell，且要过 Simon 的「国内客户冲突」边界",
+        "k": "gmail_s 2025-10-23 Re: Marvell Alleycat5 Solution"
+      },
+      {
         "date": "2025-11-11",
         "dir": "来",
         "who": "Frederik Kriewitz（NYNEX）",
         "quote": "they did some basic testing and will install the unit in a production environment soon. They asked for the latest SNMP MIB version. Two trees do not resolve: .1.3.6.1.4.1.57430.1.2.4.* (temperature?) .1.3.6.1.4.1.57430.1.10.*… SNMP sysObjectID is not used correctly… (11-13) how did you implement the fan monitoring… sense pin RPM or current measurement? (11-18) if it's based on RPM you could use the ENTITY-SENSOR-MIB standard… any network monitoring system would be able to pick up these sensors",
         "why": "第二单样机进生产环境；NYNEX 工程师逐项审 MIB（PEN 57430 = Saga/SmartByte 私有树、sysObjectID、风扇 RPM 用标准 ENTITY-SENSOR-MIB）——这些建议后来体现在 7.4.7 OID 修正与 LibreNMS 的 SmartByte 识别（Q-45）",
         "k": "gmail_s 2025-11-11 RE: Marvell Alleycat5 Solution"
+      },
+      {
+        "date": "2025-11-13",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "it is NOT supporting SNMP now. Only CLI (show fan / show power). This feature (fan dual PSU status monitoring) is developed upon your request… our engineering team can develop SNMP MIB for you and this project… we are a small company, we will only do customized R&D when requested… Possible to share your OID info?… making it finally serve this big project (230 pieces, right?)… (11-21) our fan MIBs will be ready soon, probably early Dec… too few are asking this",
+        "why": "「按你需求开发」+「小公司只做定制 R&D」+ 点名 230 台项目——Saga 对 NYNEX 的投入逻辑是项目换功能；12-10/12-17 两版 BIN 兑现（fan MIB、OID=56166 SmartByte、0 值映射）",
+        "k": "gmail_s 2025-11-13 Re: Marvell Alleycat5 Solution"
       },
       {
         "date": "2025-11-15",
@@ -603,6 +643,14 @@
         "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
         "why": "第 6 单 + 价格敏感度上升",
         "k": "afced0c9af361141"
+      },
+      {
+        "date": "2026-09-29",
+        "dir": "去",
+        "who": "Simon → Frederik",
+        "quote": "due to the increasing material costs (mainly PCBs and RAMs), the unit price goes up. And the exchange rate is not good, USD/RMB = 1:6.71… please let me know if you need a RMB quote, and we got another bank account to receive EUR",
+        "why": "20 台订单报 $300/pc 时的涨价口径（PCB/RAM 涨 + 汇率 6.71）与 EUR 账户——与 08-17 给 Angora 的「RAM/DDR 与 PCB 涨价」同一叙事，可复用为 2026Q4 全线涨价说明",
+        "k": "gmail_s 2026-09-29 Re: Saga Marvell AC5 Series Fully Ready"
       },
       {
         "date": "2026-09-30",

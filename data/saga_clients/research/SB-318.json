@@ -151,6 +151,14 @@
         "k": "6029bd8a3ce4a534"
       },
       {
+        "date": "2025-05-23",
+        "dir": "去",
+        "who": "Alan → Alexander Chesnokov（Larch）",
+        "quote": "1, Marvell 98DX2515 CPU: ARM V8 1.2G FLASH: 512MB RAM: 512MB 2, Please see attached datasheet. 3, Sorry, I am not at the exhibition. But we can have some online meetings",
+        "why": "AC5 Lite 平台硬件规格首次对外（98DX2515 / A72 1.2G / 512M）——Larch 做 SONiC/白盒，问芯片就是在评估能否跑自己的 NOS；后来 2026-06-05 Alan 拒绝 SONiC 会议一致",
+        "k": "gmail_a 2025-05-23 Re: Managed Optical Bypass Switch"
+      },
+      {
         "date": "2025-07-23",
         "dir": "去",
         "who": "Saga（Alan）",

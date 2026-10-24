@@ -280,6 +280,14 @@
         "k": "ae618b2e793c520d"
       },
       {
+        "date": "2024-07-04",
+        "dir": "去",
+        "who": "Simon → Au Wai Choon",
+        "quote": "For 5-port model, it is not launched yet, so no pricing for now… roughly in mid-autumn. For the lead time, it takes about 40 calendar days for 1K pieces… We did a thorough test for one important domestic client, yesterday we talked with this client for authorization to share the test report (some confidential information is erased)",
+        "why": "2024-07 的产能口径：1K 台 40 天；拿国内客户的测试报告（脱敏）当背书——这个「国内重要客户」= Hohunet/SmartByte 线的国内单，对外只能脱敏引用",
+        "k": "gmail_s 2024-07-04 Re: 10G MultiGig switch"
+      },
+      {
         "date": "2024-07-19",
         "dir": "来",
         "who": "auwc@resonantnetworks.com",
@@ -392,6 +400,14 @@
         "k": "gmail_s 2024-09-11 10G MultiGig Price"
       },
       {
+        "date": "2024-09-12",
+        "dir": "去",
+        "who": "Simon → Au Wai Choon",
+        "quote": "1, your business plan 2, local market information… any new ideas like online sales? deep customization? testing depot (one Turkey client got some samples to build a local network system in their testing lab to show their partners)… it seems that TP-Link is your main competitor. Perhaps some local prices… we can draft a proposal… recommend some models because we got more features at the same price level, and avoid some models because the prices are not competitive",
+        "why": "Simon 把给 Angora 的「分销伙伴」思路复制到新加坡（测试仓、本地价对照、挑型号打）；Resonant 没有接（最终输给 TP-Link 半价）——同一套路第二次未落地，Q-51 的旁证",
+        "k": "gmail_s 2024-09-12 Re: 10G MultiGig Price"
+      },
+      {
         "date": "2024-10-28",
         "dir": "来",
         "who": "Au Wai Choon",
@@ -430,6 +446,14 @@
         "quote": "Hi, Au, 1, Got a problem checking the details. Do not have this app on my phone or apple store, maybe its the region or something? 2, Possible to give me some screenshots? The brand, model name or something? Or just copy the specs and share. 3, Just this device?…",
         "why": "Saga 实质答复原文（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
         "k": "a39c837e568b25c4"
+      },
+      {
+        "date": "2025-04-09",
+        "dir": "去",
+        "who": "Simon → Au Wai Choon",
+        "quote": "Please let us know if we can help in any way. I mean, maybe something else, H3C switches, data center switches... Just like the IP cameras, we will see what we can do for you.",
+        "why": "Saga 愿意为老客户代采 H3C/DC 交换机/IP 摄像头（「资源库」角色，同 Proposal 里对 Angora 的承诺）——这是真实存在的增值服务，但不写进外宣（Saga.md：不做贸易商叙事）",
+        "k": "gmail_s 2025-04-09 Re: 10G MultiGig Price"
       },
       {
         "date": "2025-07-28",

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：**调研后定级 B**（韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-06-19 → 2025-10-29）；最近一次客户回复：2025-06-30：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI STH 工业 2.5G/10G L3（研究档） — 一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI STH 工业 2.5G/10G L3（研究档） — 一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-20)、Download Link_Alan(2025-06-30)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—
 - **第一问（只问一个）**：Our site is now at sagatele.com — which ETK SKU is sourced externally today?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：2026-11 A 邮箱 → woosy777@naver.com 给网站 + 问 ETK 外采 SKU
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。
 - **对方真实需求（有据）**：ETK 系列 ODM 来源（研究档）。
 - **断点 / 为什么停在这里**：可信度门槛（网站）；现已有解。
-- **Saga 现在该推什么**：P1 **HRUI STH 工业 2.5G/10G L3（研究档）**（30% 档，—）——一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
+- **Saga 现在该推什么**：P1 **HRUI STH 工业 2.5G/10G L3（研究档）**（30% 档，—）——一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-20)、Download Link_Alan(2025-06-30)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → woosy777@naver.com　给网站 + 问 ETK 外采 SKU
   - 第一问（只问一个）：Our site is now at sagatele.com — which ETK SKU is sourced externally today?
 

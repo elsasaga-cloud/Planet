@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：大口FS；大口FS BDCOM；switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/约旦
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → info@smartsystems.jo 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → info@smartsystems.jo　短信一问（email_hook）
   - 第一问（只问一个）：Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Mtechnology（面向工业与极端环境的智能视频监控系统；自有型号工业 PoE 交换机 MT-TP7-16GT240BT（20 口管理，16 Hi-PoE 90W/240W）、MT-TP7308POE、MT-TP7324GE-POE、MT-TP7224E-POE，PoE 电源配件；表内「工业 FS（Utepo 式外壳）是他们自己的型号，PoE 配件，CCTV 为主」）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 13 次（2024-05-09 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → info@mtechnology.it 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Mtechnology（面向工业与极端环境的智能视频监控系统；自有型号工业 PoE 交换机 MT-TP7-16GT240BT（20 口管理，16 Hi-PoE 90W/240W）、MT-TP7308POE、MT-TP7324GE-POE、MT-TP7224E-POE，PoE 电源配件；表内「工业 FS（Utepo 式外壳）是他们自己的型号，PoE 配件，CCTV 为主」）；群发 13 次无回复。
 - **对方真实需求（有据）**：自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）
 - **断点 / 为什么停在这里**：现代工 Utepo 式（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → info@mtechnology.it　短信一问（email_hook）
   - 第一问（只问一个）：For the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first?
 

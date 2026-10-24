@@ -164,7 +164,7 @@
       "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
       "tier": 25,
       "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
-      "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）",
+      "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [
         "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
       ],
@@ -206,12 +206,28 @@
         "k": "f917cf82272856d3"
       },
       {
+        "date": "2025-10-14",
+        "dir": "去",
+        "who": "Alan → Ender Bulut",
+        "quote": "1, We do not have routers, just focus on Marvell based managed switches. 2, It is OK to just offer PCBA with your enclosure design, actually we think this is the best solution… IP40-rated cases, standard… Since this is for military use, great to have your ruggedized design. 3, SKD is fine with us, BUT source code mode is NEVER an option. 4, fine to provide the products/PCBA under your brand. 5, -40~75℃ tested and proven",
+        "why": "对 Netaş 的五条总规则（PCBA + 对方加固外壳为最佳方案、SKD 可、源码绝不、贴牌可、宽温已证）——后来 NETAS绑定.docx 说「基于你 PCBA 做测试」就是这条路线；「source code NEVER」与 2025-11-26 对 ITM 说的「SDK/Source Code 属 TTC 服务、看项目」口径不一致，对外要统一（默认按 Netaş 口径：不给源码）",
+        "k": "gmail_a 2025-10-14 Re: Industrial L2/L3 Managed Switch"
+      },
+      {
         "date": "2025-10-15",
         "dir": "来",
         "who": "ebulut@netas.com.tr",
         "quote": "It is understandable that not support to Cisco private protocols. But you are able to support VRRP, aren’t you? l “Layer 3 features: Supports static a",
         "why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "f64748099f1ca29a"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "去",
+        "who": "Alan → Ender Bulut",
+        "quote": "1, ALL the Cisco private protocols are NOT supported. e.g.: CDP, HSRP 2, There are SOME features unavailable, and we are NOT going to develop it. It is too complicated. PIM-SM, PIM-DM, IPSLA, BFD, Graceful Restart 3, For the other features, we are good for now.",
+        "why": "2025-10 就书面说了「PIM-SM/DM、IP SLA、BFD、GR 不做」；2026-02 Ender 再问 PIM 时 Alan 答「problem/big problem」一致；2026-06 固件 7.5 PIM-SM 只有 CLI——下一封若提 PIM-SM 可用，要先说明这是对 10-15 说法的更新",
+        "k": "gmail_a 2025-10-15 Re: Industrial L2/L3 Managed Switch"
       },
       {
         "date": "2025-10-17",
@@ -364,6 +380,14 @@
         "quote": "IGMPv2, IGMPv3, and IPv4 Multicast (PIM-SM, PIM-DM) specifications are necessary for a Layer-3 switch",
         "why": "第一次提出组播硬需求",
         "k": "bbbaee1e4e6d88df"
+      },
+      {
+        "date": "2026-01-21",
+        "dir": "去",
+        "who": "Alan → Ender Bulut",
+        "quote": "1, It is not easy actually, it will take a long while to get it ready! Let's send the samples for testing first. 2, For the CENTEC-based switches, it will be released in Q2. We are still wor[king]…（01-29 → Burak）Our shipping forwarder represents us to handle the shipment, that is why there is a charge item shipping cost. They typically use their own information for customs.",
+        "why": "承诺「CENTEC 系列 Q2 发布」（Q2 价表只有 3 型号有价，承诺只兑现了一半）；「two invoices」疑问的答案 = 货代以自己名义报关（U28 两条物流线）——土耳其合规客户每单都会问，PI 备注里写明",
+        "k": "gmail_a 2026-01-21 / 2026-01-29"
       },
       {
         "date": "2026-01-23",

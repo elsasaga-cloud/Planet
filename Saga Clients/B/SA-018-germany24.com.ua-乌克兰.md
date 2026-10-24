@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：（加厚挖掘建档，摘要见下文加厚块）（调研 2026-10-21；表内兴趣：之前谈了工业FS）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-20 区域 乌克兰/乌克兰；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：乌克兰（守界：不主动投入，仅被动响应）
 - **历史互动**：实质回复 3 次；推送 22 次（2024-03-21 → 2025-12-29）；最近一次客户回复：2024-11-20：想下单 后续over
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核；按 30% 自有标档
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线 — J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档
 - **第一问（只问一个）**：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（一次） S 邮箱 → sergiy.khodun@gmail.com 两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。
 - **对方真实需求（有据）**：小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。
 - **断点 / 为什么停在这里**：身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。
-- **Saga 现在该推什么**：P1 **BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线**（30% 档，按 30% 自有标档）——J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核
+- **Saga 现在该推什么**：P1 **BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线**（30% 档，按 30% 自有标档）——J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：DI order #1.xls 内容未入库；UA 物流（百运网能否到基辅）与付款（T/T 可否）
 - **下一步（具体）**：2026-11（一次）　S 邮箱 → sergiy.khodun@gmail.com　两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变
   - 第一问（只问一个）：Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?

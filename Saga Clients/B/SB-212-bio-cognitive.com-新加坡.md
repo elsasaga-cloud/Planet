@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。（调研 2026-10-21；表内兴趣：16电 VC 安防   网站：CCTV）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：问了一个型号
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP / STC-28GP — 已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP / STC-28GP — 已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报
 - **第一问（只问一个）**：Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → amyhoi@bio-cognitive.com 一句话
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：4/8 口千兆 PoE + 1 上联（门禁/CCTV）。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-228GP / STC-28GP**（25% 档，历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报）——已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-228GP / STC-28GP**（25% 档，历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报）——已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → amyhoi@bio-cognitive.com　一句话
   - 第一问（只问一个）：Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?
 
