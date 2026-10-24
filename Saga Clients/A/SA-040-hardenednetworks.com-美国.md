@@ -57,6 +57,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-05-09 | 来 | Mark Schulting | I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink | 首个精确需求 | `d0066f467b2afcd7` |
 | 2024-10-31 | 去 | Saga（Simon） | Hi, Mark, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standard Po… | Saga 实质答复原文（主题「Re: L3 managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `f56f98bcf2e0a850` |
+| 2024-12-18 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「8c48xf」→ 对方「需要BCM芯片」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/US.xlsx no.150 1218` |
 | 2025-01-26 | 来 | mark@expresssupply.net | WE would not be interested in this switch . However, we are looking for another vendor to supply us some full layer 3 switches | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `e17a1b0f28d7f22f` |
 | 2025-01-27 | 来 | mark@expresssupply.net | it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-8614 Hardene | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `77637aa387e80868` |
 | 2025-01-28 | 来 | Mark | Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk | 批量意向 | `185a3765640a0e3f` |

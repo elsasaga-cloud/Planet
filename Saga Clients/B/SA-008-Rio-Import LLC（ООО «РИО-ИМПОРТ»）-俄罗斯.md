@@ -54,6 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-02-21 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21` |
+| 2024-05-16 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16` |
 | 2024-05-22 | 去 | Simon → Igor Popov（Quotation，EXW Russia） | STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, "Sample Testing". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing. | 样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例 | `PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`` |
 | 2024-05-23 | PI | Simon → Igor Popov | STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing | 样品单 | `PI STSC20240523008` |
 | 2024-05-23 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |

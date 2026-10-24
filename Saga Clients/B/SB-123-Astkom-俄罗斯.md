@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-04-25 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了10G MC信息」→ 对方「Hello!  will check and reply」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 2024.4.25` |
 | 2026-09-04 | 去 | A 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2026-09-04 → 末封 2026-09-04（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 2024.4.25 10G MC → will check and reply；2024.5.17 mini工业交换机 → checking；2024.7.16 passive poe手册 → OK；2025.4.14 → 有需求会说 是工 | 表内备注 | `用户表` |
 

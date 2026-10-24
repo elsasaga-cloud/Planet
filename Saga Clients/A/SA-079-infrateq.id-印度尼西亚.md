@@ -57,6 +57,10 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-07-04 | 来 | Ismed S（CEO） | Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list | 转 WeChat | `6f6c394625650200` |
 | 2024-07-04 | 去 | Simon | Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information? | 渠道切换 | `ad13f76074d6ed39` |
+| 2024-09-26 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「48口工业poe」→ 对方「hi」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926` |
+| 2024-11-18 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「引流机型」→ 对方「IP67 switch」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118` |
+| 2024-12-11 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「电口」→ 对方「hi」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211` |
+| 2025-01-03 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「迷你」→ 对方「hi」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3` |
 
 ## 基本事实（事实/推断/假设分层）
 

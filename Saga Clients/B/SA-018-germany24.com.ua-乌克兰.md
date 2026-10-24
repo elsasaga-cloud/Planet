@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-04-26 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了2光4小壳信息」→ 对方「sergiy.khodun@gmail.com」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/S 09.08.xlsx no.16 2024.4.26` |
 | 2024-05-27 | 去 | Simon → Sergiy（Re: L3 managed switch） | STI-050FE-M（M = mini）：STI-050FE 的无 DIP 变体，DC12~36V，85×85×30 mm 0.4 kg，**$20/pc**（STI-050FE 本体 $25、STI-080FE $40——Sergiy 5-29 嫌 5 口→8 口差价太大「PLANET 只差 10%」）。 | Sergiy 一直拿 PLANET 当基准（他同时经营 planet.kiev.ua）——对他报价要按「PLANET 同档 −x%」而不是按我们自己的阶梯 | `S 邮箱 2024-05-27（在 05-29 来信引用中）` |
 | 2024-05-29 | 来 | Sergiy Khodun | Do you print labels with our BRAND name, model's name and serial number if we'll be do order regularly about 20-30pcs per models? | 自有标 + 常规量 | `ce8e1aaaf377b7e8` |
 | 2024-05-29 | 去 | Simon → Sergiy（附 Miscellaneous Fee_Saga Telecom.pdf + Label_Saga Telecom.pdf，05-30 补发） | ① STI-080FE 只有 DIP 版（不用可忽略）；② 「that price is just for reference only… For the unit price, we could discuss」；③ 自有 logo 印 PVC 面膜：**$150 / 300 片（MoQ）**（随附《Miscellaneous Fee》写的是 PVC mask MoQ 300 pcs @ $1/pc；COO 产地证 $15/份、发货前 ≥2 个工作日）；型号名 + 序列号印标签**免费**；「we are doing a simple, standard business… serious discussions before finalizing, then things are very easy」。 | OEM 小费用口径的出处之一（`Saga商务条款速查.md` 同源）；注意邮件 $150/300 与 PDF $1/pc×300 = $300 不一致——再报时统一按 PDF | `S 邮箱 2024-05-29 14:22Z / 05-30 05:29Z；附件 sha=6c630744e13c20e8 / 5acc4883e9071d46` |

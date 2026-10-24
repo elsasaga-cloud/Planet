@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-20 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了商业PoE 228信息」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/US.xlsx no.211 2024.6.20` |
 | 2026-09-28 | 去 | A/S 群发 | Commercial PoE Switch、Managed Optical Bypass Switch | 30 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-28（30 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业PoE injector 符合他的要求 https://www.redlion.net/product/100-Po… | 表内备注 | `用户表` |
 

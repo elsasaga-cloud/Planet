@@ -148,7 +148,24 @@
       "action": "不主动",
       "one_question": ""
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2024-06-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了48口引流信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
+      },
+      {
+        "date": "2024-12-09",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
+      }
+    ],
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
     ],

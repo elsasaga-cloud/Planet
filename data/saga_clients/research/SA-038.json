@@ -139,20 +139,28 @@
     },
     "facts": [
       {
-        "date": "2025-11-19",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "be9998111900ae04"
-      },
-      {
         "date": "2024-06-21",
         "dir": "去",
         "who": "Saga（群发）",
         "quote": "「CCTV poe switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "b135d2a3fa4dece3"
+      },
+      {
+        "date": "2024-11-19",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「1121email发了8电口」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/AU.xlsx no.29 1119"
+      },
+      {
+        "date": "2025-11-19",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "be9998111900ae04"
       }
     ],
     "proof_gaps": [

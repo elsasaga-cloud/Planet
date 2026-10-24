@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2025-02-21 | 来 | Kim Woo-kyung（roadman, 韩国） | there is no uplink port and unmanaged? pls let me know a quotation for this model.（回 Alan 推的 16 口 DIN 千兆非管理机） | 第四轮询价（档案记三轮）：16 口 DIN 非管理、无上联——Alan 后续报价见 2025-02 的 STI-0160GE $105；韩国客户四次问价没有一次下样 = 价格比价型 | `gmail_a 2025-02-21 RE: 16 Port Ethernet Switch` |
 | 2025-03-04 | 来 | Roadman Kim | yr price is higher but yr spec is lower. 1. we think 16 port industrial poe switch is better to support over 300~380w… based on this spec, a price should be much cheaper. | 价格 vs 规格 | `a073d6411a2a52db` |
 | 2025-03-05 | 去 | Alan | Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go… 16-port copper, non-PoE: 95usd/pc 16-port PoE+2*1G SFP: 170usd/pc | C2 筛子的书面原话 + 报价 | `7a23a71b55abbff5` |
+| 2025-05-20 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「Bypass」→ 对方「问了价格」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.36 2025.5.20` |
 | 2025-05-26 | 来 | Kim | pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub? | bypass 需求 | `b5cbfcb83f46328a` |
 | 2025-05-26 | 去 | Alan | both 4*4 and 2*2 are available… Its price is 280usd/pc… standalone bypass unit… unavailable for now | bypass 报价 | `6b7ea5b03a91b1ef` |
 

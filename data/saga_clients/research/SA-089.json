@@ -154,12 +154,52 @@
     },
     "facts": [
       {
+        "date": "2023-12-09",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
+      },
+      {
+        "date": "2024-01-08",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
+      },
+      {
+        "date": "2024-04-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
+      },
+      {
+        "date": "2024-11-11",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
+      },
+      {
         "date": "2024-12-18",
         "dir": "去",
         "who": "Saga（群发）",
         "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
         "why": "唯一的互动痕迹",
         "k": "3af24011688d7cd2"
+      },
+      {
+        "date": "2025-06-21",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
       }
     ],
     "proof_gaps": [

@@ -55,6 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1120email发了28poe」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.21 1119` |
 | 2026-03-27 | 去 | A/S 群发 | Marvell Managed Commercial Switches、8 Port Industrial PoE Switch | 2 封 / 0 次打开 / 0 回｜首封 2024-11-20 → 末封 2026-03-27（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe | 表内备注 | `用户表` |
 

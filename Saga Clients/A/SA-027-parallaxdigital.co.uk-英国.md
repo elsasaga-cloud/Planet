@@ -57,6 +57,7 @@ updated: 2026-10-24
 | 2024-06-03 | 来 | Jeff Ferrier（Director） | I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now | 价格基准 | `f38bda5c25315e89` |
 | 2024-10-24 | 来 | Jeff | Customers usually want one or the other and not a combo We sell desktop and rack for both | 24V/48V 组合款被否 | `c935ae4f928d5620` |
 | 2024-10-30 | 去 | Simon | Its actually a selling point(auto voltage output) | Saga 坚持 | `d86526863f22737d` |
+| 2024-12-28 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/UK.xlsx no.56 2024.12.28` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-08-28 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「24PoE」→ 对方「Price List」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.48 2025.8.28` |
 | 2026-01-04 | 来 | SVN 销售部 | send me please your pricelists with POE switches and accessories | 要价表 | `e5396399dcef3822` |
 
 ## 基本事实（事实/推断/假设分层）

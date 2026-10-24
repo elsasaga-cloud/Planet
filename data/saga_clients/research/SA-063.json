@@ -154,7 +154,24 @@
       "action": "换联系人",
       "one_question": ""
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2024-05-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+        "quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「email发了2光2小壳信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.5.18"
+      },
+      {
+        "date": "2024-06-19",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「email发了2光8BT信息」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.6.19"
+      }
+    ],
     "proof_gaps": [
       "「2 次实质回复」无原文"
     ],

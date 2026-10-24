@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-25 | 来（E 邮箱） | support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl | RE: [EXTERNAL] 90W PoE Managed Switch | Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系 | `gmail_e/index_replied` |
+| 2025-09-16 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「24PoE」→ 对方「INFO」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.25 2025.9.16` |
 | 2025-09-29 | 来 | Łukasz Gąsiewicz（Product Development Manager） | I cooworking with Bartosz pls send me you actual offer | 决策人出现 | `93d83062626fac30` |
 | 2025-09-29 | 去 | Saga（Alan） | Hi, Lukasz, 1, please see attached info, there are links about rich info. 2, my colleague Elsa talked with you before, I will take over. She recommended an interesting model(see attached photos), it is our promotion now. Let's discuss.… | Saga 实质答复原文（主题「Re: FW: [EXTERNAL] Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `06d7d26794647364` |
 | 2025-10-03 | 来 | Łukasz | We looking for devices like this 😉 with CE power supply Prices ? MOQ ? | 需求（1G SFP MC） | `897f6d9873002938` |

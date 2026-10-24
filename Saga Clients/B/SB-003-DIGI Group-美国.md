@@ -55,6 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-01-25 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了工业收发器系列」→ 对方「发full info」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/S 09.08.xlsx no.6 2024.1.25` |
 | 2025-06-26 | 来 | Stan Sochur | We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol? | OEM 意向 | `809f837f36d8ac93` |
 | 2025-06-26 | 去 | Simon | For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount | OEM 价推后 | `785f5e7be824e94b` |
 | 2025-06-28 | 来 | Stan | We species with video over IP , we must have IGMP protocol, it is mandatory. | 硬门槛 | `dc22cb3479825c92` |

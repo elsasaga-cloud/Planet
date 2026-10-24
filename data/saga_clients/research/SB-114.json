@@ -93,6 +93,22 @@
     },
     "facts": [
       {
+        "date": "2024-04-29",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.4.29"
+      },
+      {
+        "date": "2024-06-20",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.6.20"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",

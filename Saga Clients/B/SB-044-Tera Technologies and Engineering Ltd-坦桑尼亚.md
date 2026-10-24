@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-20 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.34 2024.6.20` |
 | 2024-09-23 | 去 | S 群发 | Industrial Fiber Switch、8 Port 2.5G Switch | 2 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-09-23（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到 | 表内备注 | `用户表` |
 

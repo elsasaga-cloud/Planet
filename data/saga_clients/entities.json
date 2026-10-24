@@ -3752,6 +3752,14 @@
 "quote": "内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%）",
 "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
 "k": "cost_sheet"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「passive poe only」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118"
 }
 ],
 "proof_gaps": [],
@@ -4177,6 +4185,22 @@
 "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
 },
 "facts": [
+{
+"date": "2024-02-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
+},
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
+},
 {
 "date": "2024-05-22",
 "dir": "去",
@@ -4633,6 +4657,14 @@
 "one_question": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
 },
 "facts": [
+{
+"date": "2023-08-29",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 —）",
+"quote": "用户表跟进：推「—」→ 对方「Full FE 2+4」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/US.xlsx no.257 2023.8.29"
+},
 {
 "date": "2026-03-09",
 "dir": "去",
@@ -5182,7 +5214,32 @@
 "action": "WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-09-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4小壳图 DS」→ 对方「prices」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.9.11"
+},
+{
+"date": "2023-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了导轨电源信息」→ 对方「后续运费报的太高未成单」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2023.12.9"
+},
+{
+"date": "2024-08-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「4 8口工业FS」→ 对方「price list」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -8755,6 +8812,22 @@
 "quote": "内部《成本统计.xlsx》：STSC20240416005：成本 734 / 收款 1,216 / 利润 482（39.6%）",
 "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
 "k": "cost_sheet"
+},
+{
+"date": "2024-05-27",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「问测试结果」→ 对方「will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.5.27"
+},
+{
+"date": "2024-08-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13"
 }
 ],
 "proof_gaps": [
@@ -9491,6 +9564,14 @@
 "k": "7a23a71b55abbff5"
 },
 {
+"date": "2025-05-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 A）",
+"quote": "用户表跟进：推「Bypass」→ 对方「问了价格」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A Replied 09.04.xlsx no.36 2025.5.20"
+},
+{
 "date": "2025-05-26",
 "dir": "来",
 "who": "Kim",
@@ -9962,6 +10043,14 @@
 "one_question": "Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?"
 },
 "facts": [
+{
+"date": "2024-04-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「sergiy.khodun@gmail.com」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/S 09.08.xlsx no.16 2024.4.26"
+},
 {
 "date": "2024-05-27",
 "dir": "去",
@@ -12099,6 +12188,14 @@
 "one_question": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
 },
 "facts": [
+{
+"date": "2024-03-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「介绍自己 发了产品图确认需求」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.3.28"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -14439,6 +14536,14 @@
 "quote": "Its actually a selling point(auto voltage output)",
 "why": "Saga 坚持",
 "k": "d86526863f22737d"
+},
+{
+"date": "2024-12-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/UK.xlsx no.56 2024.12.28"
 }
 ],
 "proof_gaps": [],
@@ -19086,20 +19191,28 @@
 },
 "facts": [
 {
-"date": "2025-11-19",
-"dir": "去",
-"who": "Saga（群发）",
-"quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
-"why": "唯一的互动痕迹",
-"k": "be9998111900ae04"
-},
-{
 "date": "2024-06-21",
 "dir": "去",
 "who": "Saga（群发）",
 "quote": "「CCTV poe switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "b135d2a3fa4dece3"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「1121email发了8电口」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/AU.xlsx no.29 1119"
+},
+{
+"date": "2025-11-19",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "be9998111900ae04"
 }
 ],
 "proof_gaps": [
@@ -19791,6 +19904,14 @@
 "k": "f56f98bcf2e0a850"
 },
 {
+"date": "2024-12-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「8c48xf」→ 对方「需要BCM芯片」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/US.xlsx no.150 1218"
+},
+{
 "date": "2025-01-26",
 "dir": "来",
 "who": "mark@expresssupply.net",
@@ -20179,6 +20300,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-06-02",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 A）",
+"quote": "用户表跟进：推「22mini」→ 对方「DS」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A Replied 09.04.xlsx no.7 2025.6.2"
+},
 {
 "date": "2025-06-16",
 "dir": "来",
@@ -24763,6 +24892,14 @@
 },
 "facts": [
 {
+"date": "2024-03-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「有点兴趣 让发资料」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.13 2024.3.28"
+},
+{
 "date": "2025-04-21",
 "dir": "去",
 "who": "Saga（群发）",
@@ -25788,6 +25925,14 @@
 },
 "facts": [
 {
+"date": "2023-12-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「群发工业电源价格册」→ 对方「问问价近期会不会变化」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/S 09.08.xlsx no.15 2023.12.15"
+},
+{
 "date": "2026-09-08",
 "dir": "去",
 "who": "S 群发",
@@ -26085,6 +26230,14 @@
 "one_question": "For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?"
 },
 "facts": [
+{
+"date": "2025-08-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 A）",
+"quote": "用户表跟进：推「24PoE」→ 对方「Price List」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A Replied 09.04.xlsx no.48 2025.8.28"
+},
 {
 "date": "2026-01-04",
 "dir": "来",
@@ -26578,7 +26731,32 @@
 "action": "不主动",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-02-08",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8"
+},
+{
+"date": "2024-04-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17"
+},
+{
+"date": "2025-02-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -27052,7 +27230,24 @@
 "action": "不主动",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了48口引流信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 2024.6.18"
+},
+{
+"date": "2024-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流」→ 对方「1211: 22迷你」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.74 1209"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -27584,7 +27779,24 @@
 "action": "不主动",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-01-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
+},
+{
+"date": "2024-02-27",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+"quote": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -30177,7 +30389,24 @@
 "action": "换联系人",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-05-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+"quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「email发了2光2小壳信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.5.18"
+},
+{
+"date": "2024-06-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp/Simon邮箱）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「email发了2光8BT信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.32 2024.6.19"
+}
+],
 "proof_gaps": [
 "「2 次实质回复」无原文"
 ],
@@ -35569,6 +35798,14 @@
 "k": "gmail_e/index_replied"
 },
 {
+"date": "2025-09-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 A）",
+"quote": "用户表跟进：推「24PoE」→ 对方「INFO」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A Replied 09.04.xlsx no.25 2025.9.16"
+},
+{
 "date": "2025-09-29",
 "dir": "来",
 "who": "Łukasz Gąsiewicz（Product Development Manager）",
@@ -36190,7 +36427,32 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了mini工业交换机图片」→ 对方「ok」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.5.16"
+},
+{
+"date": "2024-06-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「需要工业级的」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.6.18"
+},
+{
+"date": "2024-08-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「passive poe手册」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.8.17"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -36590,7 +36852,24 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-05-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「之前的项目没拿到」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.15 2024.5.19"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「1120email发了10gmc」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.15 1119"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -37043,6 +37322,38 @@
 "quote": "Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information?",
 "why": "渠道切换",
 "k": "ad13f76074d6ed39"
+},
+{
+"date": "2024-09-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「48口工业poe」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「引流机型」→ 对方「IP67 switch」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118"
+},
+{
+"date": "2024-12-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「电口」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211"
+},
+{
+"date": "2025-01-03",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「迷你」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3"
 }
 ],
 "proof_gaps": [],
@@ -41322,12 +41633,52 @@
 },
 "facts": [
 {
+"date": "2023-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「thanks」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2023.12.9"
+},
+{
+"date": "2024-01-08",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了最新的工业电源价格册」→ 对方「thanks」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.1.8"
+},
+{
+"date": "2024-04-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 2024.4.16"
+},
+{
+"date": "2024-11-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「电口」→ 对方「问了一个不太相关的」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111"
+},
+{
 "date": "2024-12-18",
 "dir": "去",
 "who": "Saga（群发）",
 "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
 "why": "唯一的互动痕迹",
 "k": "3af24011688d7cd2"
+},
+{
+"date": "2025-06-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
 }
 ],
 "proof_gaps": [
@@ -45441,7 +45792,32 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-02-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发工业电源最新的价格册」→ 对方「I will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 2024.2.9"
+},
+{
+"date": "2024-10-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「2.5g/10g network」→ 对方「有兴趣 让发资料」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1011"
+},
+{
+"date": "2025-01-02",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1.2"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -46620,6 +46996,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-04-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「传输距离是多少？」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.120 2024.4.19"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -48457,6 +48841,14 @@
 },
 "facts": [
 {
+"date": "2025-04-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「marvell系列商业图」→ 对方「info」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 418"
+},
+{
 "date": "2026-09-25",
 "dir": "去",
 "who": "A 群发",
@@ -49419,6 +49811,14 @@
 },
 "facts": [
 {
+"date": "2024-11-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「1120email发了28poe」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.21 1119"
+},
+{
 "date": "2026-03-27",
 "dir": "去",
 "who": "A/S 群发",
@@ -49825,7 +50225,40 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-01-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.17"
+},
+{
+"date": "2024-01-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了规格书和管理手册」→ 对方「will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
+},
+{
+"date": "2024-06-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17"
+},
+{
+"date": "2024-07-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -50860,7 +51293,24 @@
 "action": "标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「Hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2023.12.9"
+},
+{
+"date": "2024-06-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「2024.7.15：问了一批提供不了的东西」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.6.18"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -52674,6 +53124,14 @@
 },
 "facts": [
 {
+"date": "2024-05-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了mini工业交换机图」→ 对方「2光8PoE管理带电源」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.9 2024.5.17"
+},
+{
 "date": "2024-07-07",
 "dir": "来",
 "who": "Chandra（NetOn）",
@@ -53478,6 +53936,14 @@
 "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?"
 },
 "facts": [
+{
+"date": "2024-03-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「说资料都准备好了 怎么发给他」→ 对方「ok」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.75 2024.3.18"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -56402,7 +56868,56 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input."
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-09-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了商业POE组合图」→ 对方「thanks, 问了brochure」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2023.9.11"
+},
+{
+"date": "2024-03-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了company profile」→ 对方「thanks, 问了brochure」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.3.21"
+},
+{
+"date": "2024-05-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个工业mini图」→ 对方「nice 问了价格」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.5.15"
+},
+{
+"date": "2024-08-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「4 8口工业FS」→ 对方「yes」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.8.13"
+},
+{
+"date": "2024-09-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「2.5G ethernet」→ 对方「yes」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 926"
+},
+{
+"date": "2024-10-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「电口」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 1022"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -58322,7 +58837,32 @@
 "action": "首封：按 email_hook 一问",
 "one_question": "For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?"
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-01-23",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业电源最新价格册」→ 对方「will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.1.23"
+},
+{
+"date": "2024-08-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「4 8口工业PoE」→ 对方「可能需要10个 在用teltonika的」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.8.13"
+},
+{
+"date": "2025-02-27",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2025.2.27"
+}
+],
 "proof_gaps": [
 "无邮件往来",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
@@ -58825,6 +59365,14 @@
 "one_question": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?"
 },
 "facts": [
+{
+"date": "2024-02-25",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「economic cost 4+2 Poe switch 100M 60w」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.8 2024.2.25"
+},
 {
 "date": "2026-09-02",
 "dir": "去",
@@ -60452,7 +61000,48 @@
 "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
 "one_question": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了导轨电源信息」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2023.12.9"
+},
+{
+"date": "2024-01-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4工业小壳信息」→ 对方「ok」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.1.9"
+},
+{
+"date": "2024-02-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业MC系列相关信息」→ 对方「ok」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.2.9"
+},
+{
+"date": "2024-03-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了24光combo信息」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.3.21"
+},
+{
+"date": "2024-04-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了5 8 16电口信息」→ 对方「ok」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.48 2024.4.16"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -66436,7 +67025,24 @@
 "action": "Simon 决定",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-04-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2层管理BT信息」→ 对方「有统一的管理软件平台」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.4.28"
+},
+{
+"date": "2024-05-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「在和他们合作/https://www.benchu-group.net/」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.62 2024.5.19"
+}
+],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
@@ -70856,6 +71462,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-03-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业MC系列信息」→ 对方「price 含电源嘛？ 电源价格」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.110 2024.3.15"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -75754,6 +76368,14 @@
 "one_question": "Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?"
 },
 "facts": [
+{
+"date": "2024-01-25",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业收发器系列」→ 对方「发full info」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/S 09.08.xlsx no.6 2024.1.25"
+},
 {
 "date": "2025-06-26",
 "dir": "来",
@@ -85973,6 +86595,14 @@
 },
 "facts": [
 {
+"date": "2024-01-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了最新工业电源价格册」→ 对方「catalog and price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.21 2024.1.20"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -86370,6 +87000,14 @@
 "one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?"
 },
 "facts": [
+{
+"date": "2024-10-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「电口」→ 对方「有需求时会说」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.63 1022"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -88252,6 +88890,22 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-03-03",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「—」→ 对方「主动问了一个项目 只能提供一个MC」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.26 3.3"
+},
+{
+"date": "2025-06-12",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「—」→ 对方「主动问了一个项目 100对千兆WDM MC」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.26 6.12"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -90715,6 +91369,14 @@
 "one_question": "Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?"
 },
 "facts": [
+{
+"date": "2024-06-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.34 2024.6.20"
+},
 {
 "date": "2024-09-23",
 "dir": "去",
@@ -93740,6 +94402,14 @@
 "one_question": "For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity."
 },
 "facts": [
+{
+"date": "2023-02-07",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光10电图 价格 没发规格书」→ 对方「要便宜的/洪瑞的就行 4/8 poe+2 lan」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.58 2023.2.7"
+},
 {
 "date": "2026-09-03",
 "dir": "去",
@@ -115553,6 +116223,14 @@
 "one_question": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
 },
 "facts": [
+{
+"date": "2024-03-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光8商业POE管理信息」→ 对方「有兴趣 让发资料」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.39 2024.3.15"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -150112,6 +150790,22 @@
 },
 "facts": [
 {
+"date": "2024-04-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「—」→ 对方「让加微信」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.18"
+},
+{
+"date": "2024-04-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「问工业MC的feedback」→ 对方「问了一个周边产品」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.17 2024.4.22"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -163306,6 +164000,22 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-04-29",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.4.29"
+},
+{
+"date": "2024-06-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.6.20"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -187246,6 +187956,14 @@
 },
 "facts": [
 {
+"date": "2024-04-25",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「Hello!  will check and reply」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 2024.4.25"
+},
+{
 "date": "2026-09-04",
 "dir": "去",
 "who": "A 群发",
@@ -198402,7 +199120,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-05-31",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 领英）",
+"quote": "用户表跟进：推「发了管理小壳图 DS」→ 对方「Thanks for sharing」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.5.31"
+},
+{
+"date": "2023-07-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 领英）",
+"quote": "用户表跟进：推「发了bypass系列宣传册 Ali链接」→ 对方「有用」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.7.13"
+}
+],
 "proof_gaps": [
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
@@ -199914,6 +200649,14 @@
 "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?"
 },
 "facts": [
+{
+"date": "2023-06-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 领英）",
+"quote": "用户表跟进：推「发了2*2bypass图 DS 特点」→ 对方「thanks  问了证书 产品对他有用」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.7 2023.6.19"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -208602,6 +209345,14 @@
 },
 "facts": [
 {
+"date": "2024-01-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业电源相关信息」→ 对方「主动发了新年贺卡」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.107 2024.1.17"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -216597,6 +217348,30 @@
 },
 "facts": [
 {
+"date": "2023-12-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2023.12.22"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「问是否有分销商」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 1118"
+},
+{
+"date": "2025-04-07",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「问需求」→ 对方「已经分享给相关的人了」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 4.7"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -217348,6 +218123,22 @@
 "one_question": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
 },
 "facts": [
+{
+"date": "2024-09-12",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「48工业poe」→ 对方「有兴趣 以及24V poe」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 912"
+},
+{
+"date": "2025-05-29",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 529"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -223455,6 +224246,30 @@
 "one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?"
 },
 "facts": [
+{
+"date": "2024-04-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「问了poE  推了2光8BT型号 问了价格」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.4.28"
+},
+{
+"date": "2024-05-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「主要是需要PoE 必须要有线上店铺」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.5.18"
+},
+{
+"date": "2024-12-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「提了Levent」→ 对方「just need : outdoor 48v poe switch or DC POE injectors. Nothing else」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 1213"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -247579,6 +248394,14 @@
 },
 "facts": [
 {
+"date": "2024-05-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机图」→ 对方「let me check」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.86 2024.5.16"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -249786,6 +250609,22 @@
 "one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
 },
 "facts": [
+{
+"date": "2024-05-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「Hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.61 2024.5.21"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「Hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.61 1118"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -252838,6 +253677,46 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-07-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
+},
+{
+"date": "2024-08-14",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
+},
+{
+"date": "2024-10-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「电口」→ 对方「noted」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
+},
+{
+"date": "2024-12-10",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「Mini」→ 对方「price」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -272230,7 +273109,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 2024.6.21"
+},
+{
+"date": "2024-12-04",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「125 email 48口」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 124"
+}
+],
 "proof_gaps": [
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
@@ -279403,6 +280299,14 @@
 },
 "facts": [
 {
+"date": "2025-06-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「千兆8口pOE价格」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 618"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -280200,6 +281104,14 @@
 "quote": "货代：GT32937 DELTA CONSULTING LLC，广州市荔湾区站前路34号711库房，MARK GT32937",
 "why": "客户自己的广州货代（客户集货线，非 Saga 百运网线）——符合 U28 的两条物流线判断；下次若复活，先问他的广州仓还在不在",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「small 8 port high poe」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.6 1119"
 },
 {
 "date": "2026-09-01",
@@ -312396,6 +313308,38 @@
 },
 "facts": [
 {
+"date": "2021-03-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+"quote": "用户表跟进：推「发了网站 VC图 问是否有用」→ 对方「wait pls  不知道他想说啥」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.3.18"
+},
+{
+"date": "2021-04-06",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+"quote": "用户表跟进：推「发了POE switch价格 图」→ 对方「回复了Ok 问能否运送到India」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.4.6"
+},
+{
+"date": "2021-08-12",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+"quote": "用户表跟进：推「发了mini小壳图 价格」→ 对方「问了一个NVR 提供不了」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.8.12"
+},
+{
+"date": "2022-08-11",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+"quote": "用户表跟进：推「发了8路高清图 阿里链接」→ 对方「问了其他的产品 提供不了」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2022.8.11"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -322065,6 +323009,14 @@
 },
 "facts": [
 {
+"date": "2024-06-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了商业PoE 228信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/US.xlsx no.211 2024.6.20"
+},
+{
 "date": "2026-09-28",
 "dir": "去",
 "who": "A/S 群发",
@@ -330759,6 +331711,30 @@
 },
 "facts": [
 {
+"date": "2024-08-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+"quote": "用户表跟进：推「4 8口工业PoE」→ 对方「Email: 工业154」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 2024.8.17"
+},
+{
+"date": "2025-07-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「24 48口商业图」→ 对方「useful」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 722"
+},
+{
+"date": "2025-09-24",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「dac」→ 对方「interesting」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 924"
+},
+{
 "date": "2026-10-01",
 "dir": "去",
 "who": "A/S 群发",
@@ -336749,6 +337725,22 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+"quote": "用户表跟进：推「发了mini工业交换机图片」→ 对方「Email发了引流型号信息」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.5.16"
+},
+{
+"date": "2024-06-21",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+"quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「问了一个项目 需求：工业2+4PoE  2+8」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.6.21"
+},
 {
 "date": "2024-07-04",
 "dir": "来",
@@ -454984,6 +455976,14 @@
 "one_question": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
 },
 "facts": [
+{
+"date": "2024-01-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「打了个招呼 没推产品」→ 对方「hi」",
+"why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2024.1.16"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",

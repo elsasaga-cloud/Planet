@@ -130,6 +130,38 @@
     },
     "facts": [
       {
+        "date": "2021-03-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了网站 VC图 问是否有用」→ 对方「wait pls  不知道他想说啥」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.3.18"
+      },
+      {
+        "date": "2021-04-06",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了POE switch价格 图」→ 对方「回复了Ok 问能否运送到India」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.4.6"
+      },
+      {
+        "date": "2021-08-12",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了mini小壳图 价格」→ 对方「问了一个NVR 提供不了」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.8.12"
+      },
+      {
+        "date": "2022-08-11",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+        "quote": "用户表跟进：推「发了8路高清图 阿里链接」→ 对方「问了其他的产品 提供不了」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2022.8.11"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",

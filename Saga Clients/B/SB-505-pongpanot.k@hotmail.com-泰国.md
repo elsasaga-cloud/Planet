@@ -53,6 +53,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-05-16 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp/Email） | 用户表跟进：推「发了mini工业交换机图片」→ 对方「Email发了引流型号信息」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.5.16` |
+| 2024-06-21 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp/Email） | 用户表跟进：推「发了几个商业交换机图」→ 对方「问了一个项目 需求：工业2+4PoE  2+8」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/Thailand 2.27.xlsx no.19 2024.6.21` |
 | 2024-07-04 | 来 | Pongpanot | I am looking for 16 sets for Tunnel project in Bangkok. | 项目 | `4dbd322d94d94597` |
 | 2024-07-04 | 去 | Saga（Simon） | Hi, Pongpanot, Thanks for your information. In the diagram, there are 2 different devices Device 1: Main 8 ports Ethernet Switch Device 2: 4 or 5 ports Industrial Unmanaged Switch with PoE The fiber optic cable is single core, so for both devices, its ideal to have 2 SFP slots for single core transc… | Saga 实质答复原文（主题「Re: 8 Port Network Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `4b941fc8bc10a130` |
 

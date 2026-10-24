@@ -87,6 +87,30 @@
     },
     "facts": [
       {
+        "date": "2024-08-17",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp/Email）",
+        "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「Email: 工业154」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 2024.8.17"
+      },
+      {
+        "date": "2025-07-22",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「24 48口商业图」→ 对方「useful」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 722"
+      },
+      {
+        "date": "2025-09-24",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「dac」→ 对方「interesting」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.35 924"
+      },
+      {
         "date": "2026-10-01",
         "dir": "去",
         "who": "A/S 群发",

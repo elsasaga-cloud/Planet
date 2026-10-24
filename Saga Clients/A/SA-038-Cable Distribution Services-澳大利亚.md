@@ -53,8 +53,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
 | 2024-06-21 | 去 | Saga（群发） | 「CCTV poe switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `b135d2a3fa4dece3` |
+| 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1121email发了8电口」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/AU.xlsx no.29 1119` |
+| 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

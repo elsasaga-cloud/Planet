@@ -119,6 +119,46 @@
     },
     "facts": [
       {
+        "date": "2024-07-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
+      },
+      {
+        "date": "2024-08-14",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
+      },
+      {
+        "date": "2024-10-22",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「电口」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
+      },
+      {
+        "date": "2024-11-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
+      },
+      {
+        "date": "2024-12-10",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「Mini」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",

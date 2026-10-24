@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-06-02 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「22mini」→ 对方「DS」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.7 2025.6.2` |
 | 2025-06-16 | 来 | Reyann Salazar Brosoto | Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? | 规格 + 本地化 | `a81a527303ac3a8d` |
 | 2025-06-16 | 去 | Alan | sorry, we do not have any branch/agent in Dubai. We only ship purchased items to Dubai. | 答复 | `10ae2338468afc5d` |
 

@@ -55,6 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-05-17 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了mini工业交换机图」→ 对方「2光8PoE管理带电源」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.9 2024.5.17` |
 | 2024-07-07 | 来 | Chandra（NetOn） | Yes, interested | 10G MC | `98852d1abcd4b4a6` |
 | 2024-08-14 | 来 | Chandra | hi Whats the pricing. | 询价 | `68986281c27a13e8` |
 | 2024-08-14 | 去 | Simon | 38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply | 报价后停 | `71f84f290da90e77` |

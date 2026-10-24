@@ -78,6 +78,30 @@
     },
     "facts": [
       {
+        "date": "2024-04-28",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了10G MC信息」→ 对方「问了poE  推了2光8BT型号 问了价格」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.4.28"
+      },
+      {
+        "date": "2024-05-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「主要是需要PoE 必须要有线上店铺」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.5.18"
+      },
+      {
+        "date": "2024-12-13",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「提了Levent」→ 对方「just need : outdoor 48v poe switch or DC POE injectors. Nothing else」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 1213"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",

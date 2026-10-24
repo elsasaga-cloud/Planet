@@ -83,6 +83,14 @@
     },
     "facts": [
       {
+        "date": "2024-04-26",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Email）",
+        "quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「sergiy.khodun@gmail.com」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/S 09.08.xlsx no.16 2024.4.26"
+      },
+      {
         "date": "2024-05-27",
         "dir": "去",
         "who": "Simon → Sergiy（Re: L3 managed switch）",
