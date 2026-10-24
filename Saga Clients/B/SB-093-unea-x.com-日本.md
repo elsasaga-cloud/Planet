@@ -33,10 +33,31 @@ updated: 2026-10-24
 - **是谁**：日本 UNEAX 株式会社（高速存储、通信、IoT 方案、精密金属加工；站内 /switch/ 产品页；表内「工业 switch 国内的外壳」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：工业switch 国内的外壳）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/日本；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-08 → 2025-11-06）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE） — 集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）；按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价
+- **第一问（只问一个）**：Has your watchdog PoE project selected a supplier yet, or is a paid sample (English neutral label, MEAN WELL PSE adapter) still useful for your evaluation?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 中（若无回音，季度一问） A 邮箱 一句话问看门狗项目是否选定，并重申「样品付费 + 认证自担 + PSE 电源可配」三条
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（询问阶段；未付样）** ｜ 类型：日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性） ｜ 筛子：2（细读规格、提问清单；未进 Template） ｜ 停点：日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」 ｜ 复活：他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回 ｜ 通路：JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担） ｜ 节奏：最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内 ｜ 证据：A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04
+- **现状一句话**：UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。
+- **对方真实需求（有据）**：带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。
+- **断点 / 为什么停在这里**：合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL；对方「Alibaba 采购」的问法说明预算与渠道偏低端。
+- **Saga 现在该推什么**：P1 **STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）**（25% 档，按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价）——集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）
+  - 做不了 / 要先核的：VCCI/JIS 报告：无，客户自担——不承诺；租样：Saga 规则是付费样品，不出借
+- **下一步（具体）**：2026-11 中（若无回音，季度一问）　A 邮箱　一句话问看门狗项目是否选定，并重申「样品付费 + 认证自担 + PSE 电源可配」三条
+  - 第一问（只问一个）：Has your watchdog PoE project selected a supplier yet, or is a paid sample (English neutral label, MEAN WELL PSE adapter) still useful for your evaluation?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-04-22 | 来 | 大迫（UNEAX） | Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing? | 需求 + 借样习惯 | `01650dadfc0d13bc` |
+| 2026-04-30 | 来 | 大迫 | For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS | 日本合规清单 | `b1cd35734a880b12` |
+| 2026-05-04 | 来 | 井上 | is it possible to purchase "Made in China" items from the Alibaba platform? | 渠道/预算信号 | `18a11c4b61a88233` |
+| 2026-05-06 | 来 | 井上 | MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen | 成本锚点 | `d591c419c309c81c` |
+| 2026-05-08 | 去 | Alan | GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type | 日本电源标准答案 | `3ee1098f834e6f04` |
 
 ## 基本事实（事实/推断/假设分层）
 

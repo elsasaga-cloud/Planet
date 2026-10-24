@@ -36,10 +36,36 @@ updated: 2026-10-24
 - **是谁**：土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（2×STC-424XGGPM + 2×STC-28DGGPM 贴 ANW 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。（调研 2026-10-22；表内兴趣：商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom））
 - **为什么是 A 级**：**调研后定级 A**（成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：TT 智能站点与警察 RFP 都落在 8 口工业 PoE L2+（STI-288DGGPM，AC5）；商用线 STC-424DGGPM-280W/424XGGPM/448XGGPM 已成单；OEM 贴牌按 30% 档，但历史成交价 $105–151 远低于主表 +20%（$134.5），复购需按量谈；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代） — 已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）；176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准）
+- **第一问（只问一个）**：Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 上旬（7-08 之后满 4 个月） S 邮箱 + Levent 微信（Simon 主线） 只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-168` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（Simon U28 定级）——按 J4 证据梯度实为**中度**：自有品牌 ANW/TronX 批量 176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 写的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 PCB** ｜ 类型：OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标） ｜ 筛子：3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享） ｜ 停点：大项目节奏在对方（Turk Telekom 智能站点、Turkish Police RfP「cut throat」价格战）；技术侧停在 AC3→AC5 切换（2026-07 客户安全团队要「更新版本」，而 AC3 已停产） ｜ 复活：AC5 版 16 口工业机 BIN/样机给 Taylan 验证通过 → 同客户换代订单；PCB 代工（1,000–2,000 台）随 TT 项目定；Turkish Police RfP 看 Simon 是否愿意按 20% 分销底线参与 ｜ 通路：TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线） ｜ 节奏：最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态 ｜ 证据：S 邮箱 k=7504c277f2473030 / eb90a8d5a460add9 / 14e8b46bf6477893 / c6da478f3e47457d / 397660b870629deb；PI 包 10 单
+- **现状一句话**：安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术）是 PI 包第一大客（10 单 $61,669）：2024-05 样品 → 2024-10 7 台 → 2025-03 176 台 ANW-2116-PG → 2025-05/06 商用 + 演示机；2025-06 要 Saga 代工其自研 6 层板（1,000–2,000 台，Gerber+BoM 已给）；2025-07 把 16 口工业机接入为 Turk Telekom 写的管理平台（SNMP v3 配置排错）；2025-10/11 现场 60+ 站点出现端口掉包，Simon 远程支持后「not a hardware issue」；2026-03 Levent 保密分享 Turkish Police 三份 RfP 交换机部分（「very price sensitive, cut throat」）；2026-07 同一客户安全团队要 16 口工业机「更新版本」，Simon 答 AC3 停产、全线转 AC5、BIN 已微信发 Levent。**S 邮箱主线，微信为辅；没有 A 邮箱往来。**
+- **对方真实需求（有据）**：① 16 口工业 PoE（ANW-2116-PG）换代到 AC5 并通过其安全团队；② Turk Telekom 智能站点（曾谈 5,000 台 → 首批 2,000 台）——取决于 TT 立项；③ 自研 PCB 代工（6 层板、可替代料）；④ Turkish Police 年度 RfP 的交换机段（价格战）；⑤ 零星：NATO 项目媒体转换器（2025-07 已被其伙伴否决）、工业级 SFP。
+- **断点 / 为什么停在这里**：不是 Saga 的问题，是对方项目节奏 + 两个 Simon 需要定的事：(a) 代工 PCB 是否接（偏离「接口层」C1，但 Levent 明说「reassuring to know it can be done with your support」）；(b) Police RfP 这种价格战要不要参与（C6：不打价格战）。技术侧唯一待办：AC5 版 16 口工业机给 Taylan 验证。
+- **Saga 现在该推什么**：P1 **STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代）**（20% 档，176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准））——已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）
+  - 复购/在买项：ANW-2116-PG / STI-21616DGGPM 16 口工业 PoE（176 台批）；STI-288DGGPM 演示机；TronX 光模块系列（TRX-SFP/QSFP）
+  - 做不了 / 要先核的：PCB 代工：Simon 决定（供应商关系 + 产能，不是代理能答的）；Police RfP：按 C6 默认不参与价格战，除非 Simon 另定；AC5 版 16 口工业机的样机/BIN 验证结果（Taylan 未反馈）
+- **下一步（具体）**：2026-11 上旬（7-08 之后满 4 个月）　S 邮箱 + Levent 微信（Simon 主线）　只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期
+  - 第一问（只问一个）：Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-26 | 来 | Levent Kılıç（CEO） | We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board (a 6-layer board) 3- We need a manufacturing factory | 代工请求 = 超出接口层的绑定机会/风险（C1） | `7504c277f2473030` |
+| 2025-07-24 | 来 | Taylan Esen（技术） | We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform | Saga 设备进入客户自研管理系统（J4 中度证据） | `eb90a8d5a460add9` |
+| 2025-10-31 | 来 | Taylan Esen | You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem | 部署规模 + 售后进入循环 | `14e8b46bf6477893` |
+| 2025-11-07 | 来 | Taylan Esen | big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue | 售后闭环，信任加深 | `d948115bd556b921` |
+| 2026-03-05 | 来 | Levent Kılıç | CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat | 保密级信息共享 = 关系深度；但属价格战（C6） | `c6da478f3e47457d` |
+| 2026-07-07 | 来 | Taylan Esen | the same customer would like to have an updated version… This comes from their security assurance team | 当前唯一技术待办（AC5 换代） | `397660b870629deb` |
+| 2026-07-08 | 去 | Simon | That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat | Saga 侧状态 | `1ecdcf634c06d0fa` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里；Turk Telekom 项目的现状（2025-09 之后邮件无更新）
 
 ## 基本事实（事实/推断/假设分层）
 

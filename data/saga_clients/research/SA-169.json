@@ -138,5 +138,80 @@
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
  },
  "binding_level": "轻度",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）"
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335",
+   "type": "加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件）",
+   "sieve": "3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论）",
+   "stop": "无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求）",
+   "revive": "已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选",
+   "lane": "CA 已通（Xtransfer、DHL/UPS DAP）",
+   "cadence": "最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28）",
+   "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单"
+  },
+  "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
+  "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
+  "breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
+  "saga_now": {
+   "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
+   "tier": 30,
+   "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
+   "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
+   "repeat": [
+    "STI-488XGGPM 12 台（2026-08-30）",
+    "STI-21616DGGPM/XGGPM（2024 两单）"
+   ],
+   "gaps": [
+    "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
+    "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11 上旬（12 台到货后）",
+   "channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
+   "action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
+   "one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-28",
+    "dir": "来",
+    "who": "James Clendenan",
+    "quote": "Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware",
+    "why": "首单即技术绑定意图",
+    "k": "e248bc0c33c534e6"
+   },
+   {
+    "date": "2024-12-18",
+    "dir": "来",
+    "who": "James Clendenan",
+    "quote": "Working with my mech eng to confirm placement is still identical to what we have designed for",
+    "why": "客户机械设计围绕 Saga PCB（替换成本）",
+    "k": "51d9acb9ee095737"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "来",
+    "who": "James Clendenan",
+    "quote": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
+    "why": "AC5 迁移 + MQTT 对接在推进",
+    "k": "aa61c45fc8e5eb33"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
+    "why": "第 4 单前置",
+    "k": "ba36e2ca75bc3155"
+   }
+  ],
+  "proof_gaps": [
+   "LinkedIn/WeChat 侧对话不在邮件里（Simon U28）",
+   "UL PSU 承诺的后续"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,32 @@ updated: 2026-10-24
 - **是谁**：土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。（调研 2026-10-21；表内兴趣：工业FS 好多都是Mlis MLB型号）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回 — C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入；HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）
+- **第一问（只问一个）**：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：不主动；他下次来信时一次性答复 A 邮箱 一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-074` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（无成交；两年三轮询价全部止于「太贵」）** ｜ 类型：土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配） ｜ 筛子：1–2（回群发、要价表；未付样、未走 Template） ｜ 停点：价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态 ｜ 复活：只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价 ｜ 通路：TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报） ｜ 节奏：最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交 ｜ 证据：A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97
+- **现状一句话**：土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**
+- **对方真实需求（有据）**：DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。
+- **断点 / 为什么停在这里**：价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。
+- **Saga 现在该推什么**：P1 **不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回**（20% 档，HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报））——C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入
+  - 做不了 / 要先核的：是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）；他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜
+- **下一步（具体）**：不主动；他下次来信时一次性答复　A 邮箱　一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾
+  - 第一问（只问一个）：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-29 | 来 | Berk（iotsistem） | Price is higher than expected. | 价格流起点（S 邮箱） | `19bc7eefb231ce4a` |
+| 2026-05-28 | 来 | Berk | price is extremely expensive, Could it possible to 10/100 not giga? | 降配求价 | `0a2e19b099bda25c` |
+| 2026-06-08 | 来 | Berk | 8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM) | 真实规格 = Realtek 级 | `62ef6eb2735e86ae` |
+| 2026-08-18 | 来 | Berk | This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise | 里拉 + 价格 | `d88199ef36ad9a1d` |
+| 2026-09-03 | 去 | Alan | I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged | Saga 已到底线 | `faed82fe02dfeb95` |
+| 2026-09-18 | 去 | Alan | Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China | 最后一次报价（RMB） | `48f91a073d0f4e97` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -135,5 +135,18 @@
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
  },
  "binding_level": "轻度",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）"
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）",
+   "type": "泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流）",
+   "sieve": "3（多次下单，WhatsApp 成交）",
+   "stop": "无停点；小额高频，走国内货代与人民币",
+   "revive": "已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐）",
+   "lane": "TH 已通（货代走账）",
+   "cadence": "最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封）",
+   "evidence": "PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200"
+  },
+  "as_of": "2026-10-24"
+ }
 }

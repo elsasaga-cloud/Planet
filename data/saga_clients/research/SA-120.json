@@ -104,5 +104,73 @@
   "tier": 25,
   "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
  },
- "email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?"
+ "email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（对方要 SDK/源码/API = 政府强制要求，Saga 不提供；已转介）",
+   "type": "乌兹别克斯坦国家级 IT 硬件项目方（技术流，但要的是「制造商 + 源码」）",
+   "sieve": "2（读资料、明确需求）",
+   "stop": "Saga 边界：SDK/源码/API 为其政府认证所必需；Alan 2025-09/10 转介「Joey」给他们",
+   "revive": "仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣）",
+   "lane": "UZ 未通（无收款/物流先例）",
+   "cadence": "最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式）",
+   "evidence": "A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa"
+  },
+  "situation": "Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**",
+  "need": "可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。",
+  "breakpoint": "C10 边界（E2：不做 SDK/源码）。",
+  "saga_now": {
+   "p1": "不推",
+   "tier": 25,
+   "price": "不报价",
+   "why": "需求与 Saga 路线正交；继续群发只会制造噪音",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "停止对其群发（从 A 邮箱发送名单移除）",
+   "channel": "—",
+   "action": "若其成品采购需求出现再回",
+   "one_question": "（无）"
+  },
+  "facts": [
+   {
+    "date": "2025-07-21",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "looking to establish a partnership with a hardware manufacturer, not a reseller or distributor… national IT hardware solution for Uzbekistan",
+    "why": "需求定义",
+    "k": "14d996fdc995a2b9"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be able to…",
+    "why": "硬边界",
+    "k": "65ea0d5cb4a671d8"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "we signed a memorandum with our partner… Could you please share Joey's contact",
+    "why": "转介落地",
+    "k": "510e36cd41433a95"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "来",
+    "who": "Vladimir Xe",
+    "quote": "No, this is not interesting for us.",
+    "why": "成品不感兴趣",
+    "k": "67798dac43496efa"
+   }
+  ],
+  "proof_gaps": [
+   "「Joey」是谁、属于哪条供应链——邮件未写；不去猜"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -149,5 +149,18 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-026",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度（2 单 $6,038，2023-11 / 2025-07，货代走账；Simon 标「可发展」）",
+   "type": "俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目）",
+   "sieve": "3（两单成交）但无邮件往来（WhatsApp）",
+   "stop": "无停点；低频",
+   "revive": "KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入",
+   "lane": "RU 已通（货代付款）",
+   "cadence": "最后 PI 2025-07-31；邮件 0 封",
+   "evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照"
+  },
+  "as_of": "2026-10-24"
  }
 }

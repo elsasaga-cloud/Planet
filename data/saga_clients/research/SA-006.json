@@ -174,5 +174,81 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交）",
+   "type": "新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格）",
+   "sieve": "3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」）",
+   "stop": "价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」",
+   "revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
+   "lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
+   "cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
+   "evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423"
+  },
+  "situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
+  "need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
+  "breakpoint": "C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。",
+  "saga_now": {
+   "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
+   "tier": 25,
+   "price": "不报价（当前线做不到 $100）",
+   "why": "C3：ISP 千台级是「拼命单」且价格主导",
+   "repeat": [],
+   "gaps": [
+    "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1（ISP 年度预算）",
+   "channel": "S 邮箱",
+   "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
+   "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-14",
+    "dir": "来",
+    "who": "Au Wai Choon",
+    "quote": "ISP tested ok the switch but they want us to bundle with smart home devices or IP camera",
+    "why": "技术验证通过",
+    "k": "fd9c27052dfa1bd1"
+   },
+   {
+    "date": "2025-03-14",
+    "dir": "来",
+    "who": "Au Wai Choon",
+    "quote": "The quantity will be thousands together with the switch… Move fast, pls.",
+    "why": "量级",
+    "k": "a28f30c8f3795eea"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "来",
+    "who": "Hairomee",
+    "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
+    "why": "竞品锚点",
+    "k": "2c2282af0677f30a"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "来",
+    "who": "Au Wai Choon",
+    "quote": "Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)",
+    "why": "失单原话",
+    "k": "c277ca62ea0df0da"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
+    "why": "Saga 底线",
+    "k": "b26aafe834fa3423"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

@@ -2644,6 +2644,82 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交）",
+"type": "新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格）",
+"sieve": "3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」）",
+"stop": "价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」",
+"revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
+"lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
+"cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
+"evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423"
+},
+"situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
+"need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
+"breakpoint": "C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。",
+"saga_now": {
+"p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
+"tier": 25,
+"price": "不报价（当前线做不到 $100）",
+"why": "C3：ISP 千台级是「拼命单」且价格主导",
+"repeat": [],
+"gaps": [
+"HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定"
+]
+},
+"next_move": {
+"when": "2027-Q1（ISP 年度预算）",
+"channel": "S 邮箱",
+"action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
+"one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
+},
+"facts": [
+{
+"date": "2025-03-14",
+"dir": "来",
+"who": "Au Wai Choon",
+"quote": "ISP tested ok the switch but they want us to bundle with smart home devices or IP camera",
+"why": "技术验证通过",
+"k": "fd9c27052dfa1bd1"
+},
+{
+"date": "2025-03-14",
+"dir": "来",
+"who": "Au Wai Choon",
+"quote": "The quantity will be thousands together with the switch… Move fast, pls.",
+"why": "量级",
+"k": "a28f30c8f3795eea"
+},
+{
+"date": "2025-07-28",
+"dir": "来",
+"who": "Hairomee",
+"quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
+"why": "竞品锚点",
+"k": "2c2282af0677f30a"
+},
+{
+"date": "2025-11-11",
+"dir": "来",
+"who": "Au Wai Choon",
+"quote": "Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)",
+"why": "失单原话",
+"k": "c277ca62ea0df0da"
+},
+{
+"date": "2025-11-12",
+"dir": "去",
+"who": "Simon",
+"quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
+"why": "Saga 底线",
+"k": "b26aafe834fa3423"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -11446,6 +11522,19 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-026",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度（2 单 $6,038，2023-11 / 2025-07，货代走账；Simon 标「可发展」）",
+"type": "俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目）",
+"sieve": "3（两单成交）但无邮件往来（WhatsApp）",
+"stop": "无停点；低频",
+"revive": "KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入",
+"lane": "RU 已通（货代付款）",
+"cadence": "最后 PI 2025-07-31；邮件 0 封",
+"evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照"
+},
+"as_of": "2026-10-24"
 }
 }
 },
@@ -29484,7 +29573,92 @@
 "tier": 20,
 "why": "MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档"
 },
-"email_hook": "Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU."
+"email_hook": "Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.",
+"mail_review": {
+"binding": {
+"level": "未绑定（无成交；两年三轮询价全部止于「太贵」）",
+"type": "土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配）",
+"sieve": "1–2（回群发、要价表；未付样、未走 Template）",
+"stop": "价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态",
+"revive": "只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价",
+"lane": "TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报）",
+"cadence": "最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交",
+"evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97"
+},
+"situation": "土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**",
+"need": "DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。",
+"breakpoint": "价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。",
+"saga_now": {
+"p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
+"tier": 20,
+"price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）",
+"why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
+"repeat": [],
+"gaps": [
+"是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）",
+"他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜"
+]
+},
+"next_move": {
+"when": "不主动；他下次来信时一次性答复",
+"channel": "A 邮箱",
+"action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
+"one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?"
+},
+"facts": [
+{
+"date": "2024-05-29",
+"dir": "来",
+"who": "Berk（iotsistem）",
+"quote": "Price is higher than expected.",
+"why": "价格流起点（S 邮箱）",
+"k": "19bc7eefb231ce4a"
+},
+{
+"date": "2026-05-28",
+"dir": "来",
+"who": "Berk",
+"quote": "price is extremely expensive, Could it possible to 10/100 not giga?",
+"why": "降配求价",
+"k": "0a2e19b099bda25c"
+},
+{
+"date": "2026-06-08",
+"dir": "来",
+"who": "Berk",
+"quote": "8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM)",
+"why": "真实规格 = Realtek 级",
+"k": "62ef6eb2735e86ae"
+},
+{
+"date": "2026-08-18",
+"dir": "来",
+"who": "Berk",
+"quote": "This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise",
+"why": "里拉 + 价格",
+"k": "d88199ef36ad9a1d"
+},
+{
+"date": "2026-09-03",
+"dir": "去",
+"who": "Alan",
+"quote": "I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged",
+"why": "Saga 已到底线",
+"k": "faed82fe02dfeb95"
+},
+{
+"date": "2026-09-18",
+"dir": "去",
+"who": "Alan",
+"quote": "Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China",
+"why": "最后一次报价（RMB）",
+"k": "48f91a073d0f4e97"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -47655,7 +47829,75 @@
 "tier": 25,
 "why": "询盘 L2+/L3：STC-448XGGM(L3)（EXW $485.8 @25%）+ STC-424DGGPM-280W（L2+）；集成商 25% 档"
 },
-"email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?"
+"email_hook": "Before I send the L2+/L3 managed switch quote you asked about, could you tell me roughly how many ports and whether it is for your own office or a client project, so I pick the right model?",
+"mail_review": {
+"binding": {
+"level": "未绑定（对方要 SDK/源码/API = 政府强制要求，Saga 不提供；已转介）",
+"type": "乌兹别克斯坦国家级 IT 硬件项目方（技术流，但要的是「制造商 + 源码」）",
+"sieve": "2（读资料、明确需求）",
+"stop": "Saga 边界：SDK/源码/API 为其政府认证所必需；Alan 2025-09/10 转介「Joey」给他们",
+"revive": "仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣）",
+"lane": "UZ 未通（无收款/物流先例）",
+"cadence": "最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式）",
+"evidence": "A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa"
+},
+"situation": "Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**",
+"need": "可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。",
+"breakpoint": "C10 边界（E2：不做 SDK/源码）。",
+"saga_now": {
+"p1": "不推",
+"tier": 25,
+"price": "不报价",
+"why": "需求与 Saga 路线正交；继续群发只会制造噪音",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "停止对其群发（从 A 邮箱发送名单移除）",
+"channel": "—",
+"action": "若其成品采购需求出现再回",
+"one_question": "（无）"
+},
+"facts": [
+{
+"date": "2025-07-21",
+"dir": "来",
+"who": "Vladimir Xe",
+"quote": "looking to establish a partnership with a hardware manufacturer, not a reseller or distributor… national IT hardware solution for Uzbekistan",
+"why": "需求定义",
+"k": "14d996fdc995a2b9"
+},
+{
+"date": "2025-07-24",
+"dir": "来",
+"who": "Vladimir Xe",
+"quote": "these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be able to…",
+"why": "硬边界",
+"k": "65ea0d5cb4a671d8"
+},
+{
+"date": "2025-10-10",
+"dir": "来",
+"who": "Vladimir Xe",
+"quote": "we signed a memorandum with our partner… Could you please share Joey's contact",
+"why": "转介落地",
+"k": "510e36cd41433a95"
+},
+{
+"date": "2025-11-24",
+"dir": "来",
+"who": "Vladimir Xe",
+"quote": "No, this is not interesting for us.",
+"why": "成品不感兴趣",
+"k": "67798dac43496efa"
+}
+],
+"proof_gaps": [
+"「Joey」是谁、属于哪条供应链——邮件未写；不去猜"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -62869,7 +63111,108 @@
 "log": "data/customer_watch/变化日志.md"
 },
 "binding_level": "轻度（卡门槛）",
-"binding_src": "Simon 口述 2026-10-23（T29-U28）"
+"binding_src": "Simon 口述 2026-10-23（T29-U28）",
+"mail_review": {
+"binding": {
+"level": "轻度（Simon U28 定级）——按 J4 证据梯度实为**中度**：自有品牌 ANW/TronX 批量 176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 写的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 PCB",
+"type": "OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标）",
+"sieve": "3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享）",
+"stop": "大项目节奏在对方（Turk Telekom 智能站点、Turkish Police RfP「cut throat」价格战）；技术侧停在 AC3→AC5 切换（2026-07 客户安全团队要「更新版本」，而 AC3 已停产）",
+"revive": "AC5 版 16 口工业机 BIN/样机给 Taylan 验证通过 → 同客户换代订单；PCB 代工（1,000–2,000 台）随 TT 项目定；Turkish Police RfP 看 Simon 是否愿意按 20% 分销底线参与",
+"lane": "TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线）",
+"cadence": "最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态",
+"evidence": "S 邮箱 k=7504c277f2473030 / eb90a8d5a460add9 / 14e8b46bf6477893 / c6da478f3e47457d / 397660b870629deb；PI 包 10 单"
+},
+"situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术）是 PI 包第一大客（10 单 $61,669）：2024-05 样品 → 2024-10 7 台 → 2025-03 176 台 ANW-2116-PG → 2025-05/06 商用 + 演示机；2025-06 要 Saga 代工其自研 6 层板（1,000–2,000 台，Gerber+BoM 已给）；2025-07 把 16 口工业机接入为 Turk Telekom 写的管理平台（SNMP v3 配置排错）；2025-10/11 现场 60+ 站点出现端口掉包，Simon 远程支持后「not a hardware issue」；2026-03 Levent 保密分享 Turkish Police 三份 RfP 交换机部分（「very price sensitive, cut throat」）；2026-07 同一客户安全团队要 16 口工业机「更新版本」，Simon 答 AC3 停产、全线转 AC5、BIN 已微信发 Levent。**S 邮箱主线，微信为辅；没有 A 邮箱往来。**",
+"need": "① 16 口工业 PoE（ANW-2116-PG）换代到 AC5 并通过其安全团队；② Turk Telekom 智能站点（曾谈 5,000 台 → 首批 2,000 台）——取决于 TT 立项；③ 自研 PCB 代工（6 层板、可替代料）；④ Turkish Police 年度 RfP 的交换机段（价格战）；⑤ 零星：NATO 项目媒体转换器（2025-07 已被其伙伴否决）、工业级 SFP。",
+"breakpoint": "不是 Saga 的问题，是对方项目节奏 + 两个 Simon 需要定的事：(a) 代工 PCB 是否接（偏离「接口层」C1，但 Levent 明说「reassuring to know it can be done with your support」）；(b) Police RfP 这种价格战要不要参与（C6：不打价格战）。技术侧唯一待办：AC5 版 16 口工业机给 Taylan 验证。",
+"saga_now": {
+"p1": "STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代）",
+"tier": 20,
+"price": "176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准）",
+"why": "已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）",
+"repeat": [
+"ANW-2116-PG / STI-21616DGGPM 16 口工业 PoE（176 台批）",
+"STI-288DGGPM 演示机",
+"TronX 光模块系列（TRX-SFP/QSFP）"
+],
+"gaps": [
+"PCB 代工：Simon 决定（供应商关系 + 产能，不是代理能答的）",
+"Police RfP：按 C6 默认不参与价格战，除非 Simon 另定",
+"AC5 版 16 口工业机的样机/BIN 验证结果（Taylan 未反馈）"
+]
+},
+"next_move": {
+"when": "2026-11 上旬（7-08 之后满 4 个月）",
+"channel": "S 邮箱 + Levent 微信（Simon 主线）",
+"action": "只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期",
+"one_question": "Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?"
+},
+"facts": [
+{
+"date": "2025-06-26",
+"dir": "来",
+"who": "Levent Kılıç（CEO）",
+"quote": "We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board (a 6-layer board) 3- We need a manufacturing factory",
+"why": "代工请求 = 超出接口层的绑定机会/风险（C1）",
+"k": "7504c277f2473030"
+},
+{
+"date": "2025-07-24",
+"dir": "来",
+"who": "Taylan Esen（技术）",
+"quote": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform",
+"why": "Saga 设备进入客户自研管理系统（J4 中度证据）",
+"k": "eb90a8d5a460add9"
+},
+{
+"date": "2025-10-31",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
+"why": "部署规模 + 售后进入循环",
+"k": "14e8b46bf6477893"
+},
+{
+"date": "2025-11-07",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue",
+"why": "售后闭环，信任加深",
+"k": "d948115bd556b921"
+},
+{
+"date": "2026-03-05",
+"dir": "来",
+"who": "Levent Kılıç",
+"quote": "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat",
+"why": "保密级信息共享 = 关系深度；但属价格战（C6）",
+"k": "c6da478f3e47457d"
+},
+{
+"date": "2026-07-07",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "the same customer would like to have an updated version… This comes from their security assurance team",
+"why": "当前唯一技术待办（AC5 换代）",
+"k": "397660b870629deb"
+},
+{
+"date": "2026-07-08",
+"dir": "去",
+"who": "Simon",
+"quote": "That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat",
+"why": "Saga 侧状态",
+"k": "1ecdcf634c06d0fa"
+}
+],
+"proof_gaps": [
+"微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里",
+"Turk Telekom 项目的现状（2025-09 之后邮件无更新）"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -63154,7 +63497,82 @@
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
 },
 "binding_level": "轻度",
-"binding_src": "Simon 口述 2026-10-23（T29-U28）"
+"binding_src": "Simon 口述 2026-10-23（T29-U28）",
+"mail_review": {
+"binding": {
+"level": "轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335",
+"type": "加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件）",
+"sieve": "3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论）",
+"stop": "无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求）",
+"revive": "已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选",
+"lane": "CA 已通（Xtransfer、DHL/UPS DAP）",
+"cadence": "最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28）",
+"evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单"
+},
+"situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
+"need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
+"breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
+"saga_now": {
+"p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
+"tier": 30,
+"price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
+"why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
+"repeat": [
+"STI-488XGGPM 12 台（2026-08-30）",
+"STI-21616DGGPM/XGGPM（2024 两单）"
+],
+"gaps": [
+"UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
+"MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
+]
+},
+"next_move": {
+"when": "2026-11 上旬（12 台到货后）",
+"channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
+"action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
+"one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+},
+"facts": [
+{
+"date": "2024-06-28",
+"dir": "来",
+"who": "James Clendenan",
+"quote": "Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware",
+"why": "首单即技术绑定意图",
+"k": "e248bc0c33c534e6"
+},
+{
+"date": "2024-12-18",
+"dir": "来",
+"who": "James Clendenan",
+"quote": "Working with my mech eng to confirm placement is still identical to what we have designed for",
+"why": "客户机械设计围绕 Saga PCB（替换成本）",
+"k": "51d9acb9ee095737"
+},
+{
+"date": "2026-07-21",
+"dir": "来",
+"who": "James Clendenan",
+"quote": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
+"why": "AC5 迁移 + MQTT 对接在推进",
+"k": "aa61c45fc8e5eb33"
+},
+{
+"date": "2026-08-26",
+"dir": "去",
+"who": "Simon",
+"quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
+"why": "第 4 单前置",
+"k": "ba36e2ca75bc3155"
+}
+],
+"proof_gaps": [
+"LinkedIn/WeChat 侧对话不在邮件里（Simon U28）",
+"UL PSU 承诺的后续"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -63477,7 +63895,20 @@
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
 },
 "binding_level": "轻度",
-"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
+"binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
+"mail_review": {
+"binding": {
+"level": "轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）",
+"type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
+"sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
+"stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
+"revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料",
+"lane": "NG 已通（客户货代 + 货代走账）",
+"cadence": "最后 PI 2026-08-30；邮件 0 封",
+"evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
+},
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -63747,7 +64178,20 @@
 "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
 },
 "binding_level": "轻度",
-"binding_src": "Simon 口述 2026-10-23（T29-U28）"
+"binding_src": "Simon 口述 2026-10-23（T29-U28）",
+"mail_review": {
+"binding": {
+"level": "轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）",
+"type": "泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流）",
+"sieve": "3（多次下单，WhatsApp 成交）",
+"stop": "无停点；小额高频，走国内货代与人民币",
+"revive": "已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐）",
+"lane": "TH 已通（货代走账）",
+"cadence": "最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封）",
+"evidence": "PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200"
+},
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -92661,7 +93105,84 @@
 "tier": 25,
 "why": "工业 switch（现国内外壳）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）"
 },
-"email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?"
+"email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?",
+"mail_review": {
+"binding": {
+"level": "未绑定（询问阶段；未付样）",
+"type": "日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性）",
+"sieve": "2（细读规格、提问清单；未进 Template）",
+"stop": "日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」",
+"revive": "他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回",
+"lane": "JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担）",
+"cadence": "最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内",
+"evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04"
+},
+"situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
+"need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
+"breakpoint": "合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL；对方「Alibaba 采购」的问法说明预算与渠道偏低端。",
+"saga_now": {
+"p1": "STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）",
+"tier": 25,
+"price": "按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价",
+"why": "集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）",
+"repeat": [],
+"gaps": [
+"VCCI/JIS 报告：无，客户自担——不承诺",
+"租样：Saga 规则是付费样品，不出借"
+]
+},
+"next_move": {
+"when": "2026-11 中（若无回音，季度一问）",
+"channel": "A 邮箱",
+"action": "一句话问看门狗项目是否选定，并重申「样品付费 + 认证自担 + PSE 电源可配」三条",
+"one_question": "Has your watchdog PoE project selected a supplier yet, or is a paid sample (English neutral label, MEAN WELL PSE adapter) still useful for your evaluation?"
+},
+"facts": [
+{
+"date": "2026-04-22",
+"dir": "来",
+"who": "大迫（UNEAX）",
+"quote": "Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing?",
+"why": "需求 + 借样习惯",
+"k": "01650dadfc0d13bc"
+},
+{
+"date": "2026-04-30",
+"dir": "来",
+"who": "大迫",
+"quote": "For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS",
+"why": "日本合规清单",
+"k": "b1cd35734a880b12"
+},
+{
+"date": "2026-05-04",
+"dir": "来",
+"who": "井上",
+"quote": "is it possible to purchase \"Made in China\" items from the Alibaba platform?",
+"why": "渠道/预算信号",
+"k": "18a11c4b61a88233"
+},
+{
+"date": "2026-05-06",
+"dir": "来",
+"who": "井上",
+"quote": "MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen",
+"why": "成本锚点",
+"k": "d591c419c309c81c"
+},
+{
+"date": "2026-05-08",
+"dir": "去",
+"who": "Alan",
+"quote": "GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type",
+"why": "日本电源标准答案",
+"k": "3ee1098f834e6f04"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {

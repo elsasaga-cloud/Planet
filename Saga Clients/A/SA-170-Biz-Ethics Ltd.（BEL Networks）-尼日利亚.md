@@ -35,10 +35,16 @@ updated: 2026-10-24
 - **是谁**：已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json（调研 2026-10-22；表内兴趣：商用 PoE 管理交换机（STC-28GPM / STC-424DGGPM / STC-228GP）、10G 管理（STC-4168XGGCM / STC-424XGGM）、CENTEC 10G（STH-2C24XF-SFI）、贴牌 BNS）
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/尼日利亚；+5 最近活动 2026
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 24 口 PoE + 4×10G 上联；$181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — ；
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-170` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档
 
 ## 基本事实（事实/推断/假设分层）
 

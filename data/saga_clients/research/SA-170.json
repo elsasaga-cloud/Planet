@@ -177,5 +177,18 @@
   "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
  },
  "binding_level": "轻度",
- "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）"
+ "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）",
+   "type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
+   "sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
+   "stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
+   "revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料",
+   "lane": "NG 已通（客户货代 + 货代走账）",
+   "cadence": "最后 PI 2026-08-30；邮件 0 封",
+   "evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
+  },
+  "as_of": "2026-10-24"
+ }
 }

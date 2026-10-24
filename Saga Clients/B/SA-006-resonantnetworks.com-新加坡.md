@@ -35,10 +35,31 @@ updated: 2026-10-24
 - **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。（调研 2026-10-22；表内兴趣：光（多是周边的 如MPO等） 也能用到交换机）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）；最近一次客户回复：2024-10-24：useful
-- **P1（下一步唯一主推）**：STC-448XGGM(L3) — 深挖对位：DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货；$485.8 USD EXW（25% 档，SmartByte LT-S8552XG-4XS48GT 2600 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报 — C3：ISP 千台级是「拼命单」且价格主导；不报价（当前线做不到 $100）
+- **第一问（只问一个）**：（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1（ISP 年度预算） S 邮箱 只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-006` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交）** ｜ 类型：新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格） ｜ 筛子：3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」） ｜ 停点：价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」 ｜ 复活：ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线 ｜ 通路：SG 已通（PayPal/T/T、顺丰/DHL） ｜ 节奏：最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封 ｜ 证据：S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423
+- **现状一句话**：新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**
+- **对方真实需求（有据）**：ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。
+- **断点 / 为什么停在这里**：C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。
+- **Saga 现在该推什么**：P1 **不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报**（25% 档，不报价（当前线做不到 $100））——C3：ISP 千台级是「拼命单」且价格主导
+  - 做不了 / 要先核的：HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定
+- **下一步（具体）**：2027-Q1（ISP 年度预算）　S 邮箱　只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可
+  - 第一问（只问一个）：（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-03-14 | 来 | Au Wai Choon | ISP tested ok the switch but they want us to bundle with smart home devices or IP camera | 技术验证通过 | `fd9c27052dfa1bd1` |
+| 2025-03-14 | 来 | Au Wai Choon | The quantity will be thousands together with the switch… Move fast, pls. | 量级 | `a28f30c8f3795eea` |
+| 2025-07-28 | 来 | Hairomee | the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch | 竞品锚点 | `2c2282af0677f30a` |
+| 2025-11-11 | 来 | Au Wai Choon | Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you) | 失单原话 | `c277ca62ea0df0da` |
+| 2025-11-12 | 去 | Simon | that will be about 100usd/pc, we cannot make it. Maybe next time. | Saga 底线 | `b26aafe834fa3423` |
 
 ## 基本事实（事实/推断/假设分层）
 

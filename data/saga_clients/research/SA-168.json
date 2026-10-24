@@ -423,5 +423,106 @@
   "log": "data/customer_watch/变化日志.md"
  },
  "binding_level": "轻度（卡门槛）",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）"
+ "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度（Simon U28 定级）——按 J4 证据梯度实为**中度**：自有品牌 ANW/TronX 批量 176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 写的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 PCB",
+   "type": "OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标）",
+   "sieve": "3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享）",
+   "stop": "大项目节奏在对方（Turk Telekom 智能站点、Turkish Police RfP「cut throat」价格战）；技术侧停在 AC3→AC5 切换（2026-07 客户安全团队要「更新版本」，而 AC3 已停产）",
+   "revive": "AC5 版 16 口工业机 BIN/样机给 Taylan 验证通过 → 同客户换代订单；PCB 代工（1,000–2,000 台）随 TT 项目定；Turkish Police RfP 看 Simon 是否愿意按 20% 分销底线参与",
+   "lane": "TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线）",
+   "cadence": "最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态",
+   "evidence": "S 邮箱 k=7504c277f2473030 / eb90a8d5a460add9 / 14e8b46bf6477893 / c6da478f3e47457d / 397660b870629deb；PI 包 10 单"
+  },
+  "situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术）是 PI 包第一大客（10 单 $61,669）：2024-05 样品 → 2024-10 7 台 → 2025-03 176 台 ANW-2116-PG → 2025-05/06 商用 + 演示机；2025-06 要 Saga 代工其自研 6 层板（1,000–2,000 台，Gerber+BoM 已给）；2025-07 把 16 口工业机接入为 Turk Telekom 写的管理平台（SNMP v3 配置排错）；2025-10/11 现场 60+ 站点出现端口掉包，Simon 远程支持后「not a hardware issue」；2026-03 Levent 保密分享 Turkish Police 三份 RfP 交换机部分（「very price sensitive, cut throat」）；2026-07 同一客户安全团队要 16 口工业机「更新版本」，Simon 答 AC3 停产、全线转 AC5、BIN 已微信发 Levent。**S 邮箱主线，微信为辅；没有 A 邮箱往来。**",
+  "need": "① 16 口工业 PoE（ANW-2116-PG）换代到 AC5 并通过其安全团队；② Turk Telekom 智能站点（曾谈 5,000 台 → 首批 2,000 台）——取决于 TT 立项；③ 自研 PCB 代工（6 层板、可替代料）；④ Turkish Police 年度 RfP 的交换机段（价格战）；⑤ 零星：NATO 项目媒体转换器（2025-07 已被其伙伴否决）、工业级 SFP。",
+  "breakpoint": "不是 Saga 的问题，是对方项目节奏 + 两个 Simon 需要定的事：(a) 代工 PCB 是否接（偏离「接口层」C1，但 Levent 明说「reassuring to know it can be done with your support」）；(b) Police RfP 这种价格战要不要参与（C6：不打价格战）。技术侧唯一待办：AC5 版 16 口工业机给 Taylan 验证。",
+  "saga_now": {
+   "p1": "STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代）",
+   "tier": 20,
+   "price": "176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准）",
+   "why": "已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）",
+   "repeat": [
+    "ANW-2116-PG / STI-21616DGGPM 16 口工业 PoE（176 台批）",
+    "STI-288DGGPM 演示机",
+    "TronX 光模块系列（TRX-SFP/QSFP）"
+   ],
+   "gaps": [
+    "PCB 代工：Simon 决定（供应商关系 + 产能，不是代理能答的）",
+    "Police RfP：按 C6 默认不参与价格战，除非 Simon 另定",
+    "AC5 版 16 口工业机的样机/BIN 验证结果（Taylan 未反馈）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11 上旬（7-08 之后满 4 个月）",
+   "channel": "S 邮箱 + Levent 微信（Simon 主线）",
+   "action": "只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期",
+   "one_question": "Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?"
+  },
+  "facts": [
+   {
+    "date": "2025-06-26",
+    "dir": "来",
+    "who": "Levent Kılıç（CEO）",
+    "quote": "We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board (a 6-layer board) 3- We need a manufacturing factory",
+    "why": "代工请求 = 超出接口层的绑定机会/风险（C1）",
+    "k": "7504c277f2473030"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "来",
+    "who": "Taylan Esen（技术）",
+    "quote": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform",
+    "why": "Saga 设备进入客户自研管理系统（J4 中度证据）",
+    "k": "eb90a8d5a460add9"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "来",
+    "who": "Taylan Esen",
+    "quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
+    "why": "部署规模 + 售后进入循环",
+    "k": "14e8b46bf6477893"
+   },
+   {
+    "date": "2025-11-07",
+    "dir": "来",
+    "who": "Taylan Esen",
+    "quote": "big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue",
+    "why": "售后闭环，信任加深",
+    "k": "d948115bd556b921"
+   },
+   {
+    "date": "2026-03-05",
+    "dir": "来",
+    "who": "Levent Kılıç",
+    "quote": "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat",
+    "why": "保密级信息共享 = 关系深度；但属价格战（C6）",
+    "k": "c6da478f3e47457d"
+   },
+   {
+    "date": "2026-07-07",
+    "dir": "来",
+    "who": "Taylan Esen",
+    "quote": "the same customer would like to have an updated version… This comes from their security assurance team",
+    "why": "当前唯一技术待办（AC5 换代）",
+    "k": "397660b870629deb"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat",
+    "why": "Saga 侧状态",
+    "k": "1ecdcf634c06d0fa"
+   }
+  ],
+  "proof_gaps": [
+   "微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里",
+   "Turk Telekom 项目的现状（2025-09 之后邮件无更新）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
