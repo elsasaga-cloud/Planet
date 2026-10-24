@@ -5999,6 +5999,14 @@
 "k": "gmail_s 202a39ac28c427b5"
 },
 {
+"date": "2024-05-16",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "What content are you planning to write in the CD?… we really do not do CD for quite a few years… a client uses marvell L3 switches is professional and does CLI log-in",
+"why": "老客户要光盘资料，Saga 多年不做 CD——资料改走 Google Drive 文件夹（04-29 已给专属链接）",
+"k": "gmail_s d4d10442c4af1c47"
+},
+{
 "date": "2024-05-31",
 "dir": "来",
 "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
@@ -6125,6 +6133,14 @@
 "quote": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
 "why": "报价后技术追问（DIP）——下一封「My customer didn't like the DIP switches」的前因",
 "k": "gmail_s f3802ab4ac196997"
+},
+{
+"date": "2026-08-22",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "It is an ON / OFF dialing function… A similar example is Lantronix SGETF series: SW1 Remote Fiber Fault Detect / SW2 Symmetric Pause / SW3 Asymmetric Pause / SW4 Transparent Link Pass Through / SW5 Fiber Auto-Negotiation / SW6 Loopback… Most media converters are unmanaged, DIP features are the primary way to configure",
+"why": "DIP 开关的标准解释（拿 Lantronix / LevelOne 作对照）——之后 Thu 说「客户不喜欢 DIP」，改无 DIP 款",
+"k": "gmail_s d813f53529c41717"
 },
 {
 "date": "2026-09-01",
@@ -6760,6 +6776,14 @@
 "quote": "Its been a week, I guess you have finished the initial testing. How is it going?（09-09 已催一次「Looking forward to your feedback. We have more interesting models to offer」）",
 "why": "收货后 Saga 连催两次测试反馈，Chris 一个多月没答——单台家用客户的节奏就是慢，催不出来",
 "k": "gmail_a 7838cefb5e06900d / 1566da882419f3b8"
+},
+{
+"date": "2025-10-14",
+"dir": "去",
+"who": "Alan（A 邮箱）",
+"quote": "1, Any feedback about the sample testing? 2. This is our 24-port Marvell-based managed SFP switch… Dual AC input… fan monitoring/dual PSU status monitoring",
+"why": "2025-08 第二批样机后 Alan 10-14 / 11-07 两次问测试反馈，Chris 都没回——「读而不回」从这里开始",
+"k": "gmail_a f56d7e81cc794b4f"
 },
 {
 "date": "2025-10-15",
@@ -7633,6 +7657,14 @@
 "quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
 "why": "大项目需求 + 硬件监控要求",
 "k": "3c32c9ad46e6235d"
+},
+{
+"date": "2025-09-11",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "yes, it is available now, please see attached photos. But it is only in the prototype testing stage. Our advice is, get a piece for local testing, if it meets your need, let's move on. Or we will collect your feedback for an immediate improvement.",
+"why": "新机型（风扇/双电源监控版）先给原型让 NYNEX 本地测——NYNEX 当共同开发伙伴的做法",
+"k": "gmail_s f0a4c9b825ff5e38"
 },
 {
 "date": "2025-09-15",
@@ -35392,6 +35424,14 @@
 "quote": "Hi Friend, Good day, Sorry we are Religional holiday so some gap’s. So We receive to 24 port giga series ,very well item, Just only one diffuculties p",
 "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "6b84cc5fa165d326"
+},
+{
+"date": "2026-06-06",
+"dir": "去",
+"who": "Alan（A 邮箱）",
+"quote": "About 24-port copper, we only have Giga model… 16 fiber? What is the spec? like 2*SFP ports and 16*copper, managed?",
+"why": "Berk 的需求描述常常不清（「16 fiber」）——每轮都要先反问口型",
+"k": "gmail_a 8704c1a58b62171a"
 },
 {
 "date": "2026-06-08",
@@ -73818,12 +73858,28 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-04-29",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "our standard practice is to help put the customer's logo and model name in the software for free and even for 1 piece… also help you change the MAC address, IP address, SNMP OID (also free of cost)… we design the software and hardware on our own, so change is easy",
+"why": "Saga 对 OEM 软件贴牌的承诺底稿（1 台也免费：logo/型号/MAC/IP/OID）——此后所有 OEM 客户都按这句办",
+"k": "gmail_s 2ace785d6d413506"
+},
+{
 "date": "2024-04-30",
 "dir": "来",
 "who": "Levent Kılıç",
 "quote": "Can you please send us a Proforma Invoice for the following equipment: 2 pcs STC-424XGGPM, 2 pcs STC-28DGGPM. We would also like to know the bulk pricing for these units as well.",
 "why": "首单样品（PI STSC20240508007，2024-05-08 付款水单 zbe-dekont）；随后 5 月要求 L2+ 工业 + L2+/L3 企业级全套推荐",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-05-06",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "we got a problem with the company color in the management interface… involves too many changes for the coding. It is not suggested doing it in a sample order. So can we do this sample order with your logo and model name ONLY?",
+"why": "界面配色不在免费贴牌范围（改代码量大），样单只改 logo + 型号",
+"k": "gmail_s 4f33c87624c9a28b"
 },
 {
 "date": "2024-05-08",
@@ -73850,6 +73906,14 @@
 "k": "data/pi_2026-10/text/…7_土耳其_Levent…1st_order_sample…PL_for_Zhengzhou_Saga_Telecom_P-24051001.xls"
 },
 {
+"date": "2024-05-21",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "According to the bank, shareholder information is required, otherwise we cannot receive the payment… BOC is a national-based bank and are now strict with incoming foreign currency… just for the 1st payment",
+"why": "首笔外汇入账要对方股东信息（中行合规）——新客户首付前先说，免得像 Angora 那样临时要护照/商业登记",
+"k": "gmail_s 08d71191c7529e7c"
+},
+{
 "date": "2024-05-27",
 "dir": "内",
 "who": "备忘《RFP_2024.5.27》+ 需求表 xlsx",
@@ -73866,6 +73930,14 @@
 "k": "gmail_s dad90e7fb83924c7"
 },
 {
+"date": "2024-06-06",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "there is a mistake in our web manual. SFTP is not supported, its a mistake, it should be TFTP and FTP… DHCP server, please read Chapter 20, page 159… Stack feature is not easy, we do not have a plan to develop it within 2 years",
+"why": "AC3 时代的两个硬口径：无 SFTP（手册错）、两年内不做堆叠——后来 AC5 7.5 补上 SFTP，堆叠至今仍无",
+"k": "gmail_s 768d3e8f83711a2a"
+},
+{
 "date": "2024-06-14",
 "dir": "来",
 "who": "Levent Kılıç",
@@ -73880,6 +73952,14 @@
 "quote": "LT-IS6310G-2GX8GT（= STI-280DGGM）不要 PoE 不要串口…共 500 台分 2 批，第一批 250 台下单后一周发货…主要需求 sFlow / IP-Port-MAC ACL / SNMP MIB / SFTP（客户已自行 workaround）…不支持土耳其语界面；EN 55032 证书未列 IS6310 系列",
 "why": "250 台「一周发货」是 Saga 拿不下的交期；MIB 文件与 ACL 成为后续一年反复出现的两项",
 "k": "pi_doc"
+},
+{
+"date": "2024-06-18",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "For another Marvell chip solution (AC5), the unit price will remain the same. It supports HTTPS, lead time for 250pcs is about 40 calendar days. 2, Its OK to add SFTP function. BUT… there will not be an exact period for this unless a deposit is done",
+"why": "AC3→AC5 同价 + HTTPS；250 台交期 40 天；功能开发只在有订金后排期——Saga 的开发排期原则",
+"k": "gmail_s cfb663aad0d6b99b"
 },
 {
 "date": "2024-07-02",
@@ -73922,6 +74002,14 @@
 "k": "gmail_s e4833fd0939a866f"
 },
 {
+"date": "2024-07-26",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "For a PoE switch that has a PoE board/chip inside, it can read the relevant information (voltage, power etc.)… the displayed information here is ALL about PD… It has nothing to do with the input values to this switch itself… Our engineer has not known a switch that could show input values in GUI",
+"why": "「读输入电压」的标准答法：PoE 机只显示 PD 侧电压/功率，不显示自身输入",
+"k": "gmail_s 5f6aa91cfc7a0b2c"
+},
+{
 "date": "2024-08-26",
 "dir": "来",
 "who": "Taylan Esen",
@@ -73952,6 +74040,14 @@
 "quote": "STC-424DGGPM → 买方型号 ANW-2224-PG ×5 @$150 = $750（Neutral device, Marvell based；Show client logo on Web GUI / client model name on Web GUI and label）+ UPS 21 kg $300 + bank $25 = $1,075；4~6 calendar days。",
 "why": "Angora 第二张 PI 的初版（10-21 的 STSC20241021007 $1,545 是加了 STI-280DGGM 后的改版）；24 口 PoE 贴 ANW 型号 $150 是 2024 年的绑定价",
 "k": "S 邮箱附件 `STSC20241017007.pdf`（k=aea2d199d7cd6571）"
+},
+{
+"date": "2024-10-20",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "Add your logo and product code on the front panel: Yes, but… extra cost, we need to produce a new batch of front PVC mask… Use your MAC address: Yes and free of charge… We will keep the rest PVC masks at our warehouse for future orders",
+"why": "前面板 PVC 丝印 = 收费（整批开模），MAC 免费，余料 Saga 代存——贴牌收费边界",
+"k": "gmail_s c9bf554663d12c81"
 },
 {
 "date": "2024-10-21",
@@ -74002,6 +74098,14 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-11-07",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "Currently we are NOT doing NAT / Stack / SD-WAN / TSN / MPLS / Cloud Management. But we know who can offer it, exactly the same spec… same chip Marvell 98DX226S like us. We can move on if sourcing/reselling is an option to you.",
+"why": "六个「不做」清单 + 愿意代采同芯片第三方（Simon 对 Angora 的坦白式答法）",
+"k": "gmail_s f4e695a067e95cd9"
+},
+{
 "date": "2024-11-08",
 "dir": "来",
 "who": "Angora 市场部群发（lkilic 转）",
@@ -74016,6 +74120,14 @@
 "quote": "STI-050GE (5×GE, unmanaged, DIP, DC12–58V, -40~75℃, DIN, w/o PSU) $30 / $29 @20 / $28 @50 / $27 @100 — \"Replacement for IGS-500T\"; STI-110GE (1×fiber + 1×GE, unmanaged) $26 / $25 @20 / $24 @50 / $23 @100 — \"Replacement for IGT-805AT\". Leadtime 5~10 working days; warranty 3 years; price validity 30 days.",
 "why": "Angora 的工业非管理款是按 **Planet IGS-500T / IGT-805AT 的替代** 报的——Planet 对标在成单客户里有书面先例；阶梯价 1/20/50/100",
 "k": "Drive PI 包 `7_土耳其_Levent/Quotation_5电口_工业MC.xls`"
+},
+{
+"date": "2024-11-19",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "Previously I shared \"Performance of PeakNetX Platform_EN_V1.26\"… there is a model STH-8C48XF at the end… also \"STH10G Series switches datasheet_EN_V1.0\"",
+"why": "对 Angora 数据中心需求第一次给出 CENTEC 机型（STH-8C48XF）——2025-03 $4,600 报价的前身",
+"k": "gmail_s e43e6043c60ac6de"
 },
 {
 "date": "2024-11-23",
@@ -74064,6 +74176,14 @@
 "quote": "385 台 LT-IS6310G：still pending, paperwork internally… TronX 4 台+2 AP：sample order pending payment from partner… 48 口 L2+/L3 与 Maipu 竞标：我价格报得稍高、客户目标价非常低、不抱希望… 75 台 16 口：pending advance payment（→ 2025-03 成为 176 台）… 客户要 stackable：Joey 的 CENTEC 方案（明年年初）或 DCN 同芯片方案，考虑买一台 DCN 寄给你们对比测试、费用我出",
 "why": "2024 年底 Angora 四条线的真实状态；Simon 当时已为「堆叠」主动找 CENTEC/DCN 替代——不是被动等上游",
 "k": "pi_doc"
+},
+{
+"date": "2024-12-13",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "Customized packing box… Cost: 2.5usd/set for 200 sets… 1*device + 1*protective foam + 1*protective sheet + 1*user manual… PoE budget is usually 240W so we can fix the power adapter model 48V 5A… All the 8-port managed (L2+ and L3) and STI-21616DGGPM, the size is 158*115*54mm… We actually have prepared the materials for ANW-2116-PG, now there is a change of requirement… how possible we lock this order?",
+"why": "定制彩盒 $2.5/套（200 套起）、8 口与 16 口 DIN 机同尺寸 158×115×54——包装报价锚；Saga 为未锁定订单备料的教训",
+"k": "gmail_s a17daefafab4939f"
 },
 {
 "date": "2025-01-30",
@@ -74186,6 +74306,14 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2025-05-10",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "If we have sufficient materials, it is fine to prepare ready 5K within a month. But the materials are far from enough… material preparation usually takes around 3 weeks (PCB, PoE chips, AC5 chips)… at least 25% deposit of total amount to prepare the materials… Partial shipment is much easier",
+"why": "大单产能口径：备料 3 周、25% 订金起备料、分批交付——5,000 台项目时 Saga 的真实产能边界",
+"k": "gmail_s b35ca9425fa8697c"
+},
+{
 "date": "2025-05-12",
 "dir": "内",
 "who": "Saga 出口报关资料（4th/5th/6th order）",
@@ -74210,12 +74338,28 @@
 "k": "gmail_s 2025-05-26 → 2025-06-11 Angora Networks - New Order"
 },
 {
+"date": "2025-05-28",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "AC5 chip is an overall upgrading, but the price is the same… we are now promoting AC5 and get rid of AC3 gradually (please let us know if any unique features are required BEFOREHAND)",
+"why": "AC3→AC5 同价迁移在 2025-05 已对 Angora 说明——2026-07 「AC3 停产」不是突然的",
+"k": "gmail_s f357ac59ea74ed59"
+},
+{
 "date": "2025-05-30",
 "dir": "来",
 "who": "Levent Kılıç",
 "quote": "TronX logo in PSD format. One in black and one in white（White TRONX.psd / Black TRONX.psd）",
 "why": "TronX 品牌素材在 Saga 手里（PSD）——TronX 既是 Angora 的第二品牌也曾作为独立买方（TRONX BILISIM, Mustafa Calik, PI STSC20241129007 未付）；两条线用同一套面膜/标签模板",
 "k": "gmail_s 2025-05-30 Angora Networks - TronX logo"
+},
+{
+"date": "2025-06-03",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "Do you need us to help manufacture this PCB board? If yes, that will include PCB production, chip mounting and testing etc. This will be a full procedure… it is easiest and best if we could have a ready piece, then we can reverse the structure",
+"why": "IoT 板代工（PC0012）的接法：全流程代工、要实物逆向——后来 Levent 说「等大项目再谈」",
+"k": "gmail_s b925a87c9fea7ef2"
 },
 {
 "date": "2025-06-19",
@@ -74240,6 +74384,14 @@
 "quote": "内部《成本统计.xlsx》：STSC20240508007：成本 6,991 / 收款 9,150 / 利润 2,159（23.6%） · 第二单：成本 10,968 / 收款 16,722 / 利润 5,754（34.4%） · STSC20250117007：成本 288,124 / 收款 342,420 / 利润 54,296（15.9%） · STSC20250507007：成本 9,706 / 收款 11,933 / 利润 2,227（18.7%） · STSC20250526007：成本 17,577 / 收款 26,828 / 利润 9,251（34.5%） · STSC20250619007：成本 4,948 / 收款 7,051 / 利润 2,102（29.8%）",
 "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
 "k": "cost_sheet"
+},
+{
+"date": "2025-06-20",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "It will be neutral PVC (front mask), you can remove it when necessary. It will be AC5 chip (optional DI/DO/RS485 function), and AC5 chip includes ALL of AC3 features… DI/DO/RS485 is not needed this time… Just to let you know it is a ready function now",
+"why": "6 台 AC5 演示机：中性面板、DI/DO/RS485 已是现成功能（2025-06）",
+"k": "gmail_s 89adec2651947b16"
 },
 {
 "date": "2025-06-25",
@@ -74827,6 +74979,14 @@
 "quote": "Can you send me this again? I missed getting it before it expired.（AC5 固件 WeTransfer 链接过期）",
 "why": "WeTransfer 7 天过期——给客户固件别只用临时链接",
 "k": "gmail_s 9efe5d1b1132a14a"
+},
+{
+"date": "2026-08-07",
+"dir": "去",
+"who": "Simon（S 邮箱）",
+"quote": "It is 2 BINs: 1. AC3 version: lite-hotfix-7.3.13 — This is final, there will not be any updates, just maintenance and support. We are doing AC5 version now. 2. For AC5 version, please use this for now: ac5-hotfix-7.4.2",
+"why": "AC3 固件终版 = lite-hotfix-7.3.13（只维护不更新）；AC5 当时 7.4.2——给老客户的固件口径",
+"k": "gmail_s 3e84bddd5a4fd519"
 },
 {
 "date": "2026-08-26",
@@ -327724,6 +327884,14 @@
 "k": "gmail_a att Dekont-2026-01-13"
 },
 {
+"date": "2026-01-14",
+"dir": "去",
+"who": "Alan（A 邮箱）",
+"quote": "yes, we got the payment. 2, your order is being processed and expected to be ready for shipment next week. As I shared, sample testing MUST last for 5 working days before shipment to ensure stable performance according to our company policy.",
+"why": "对 Netaş 说明的出货前 5 个工作日老化测试政策——以后交期都要把这 5 天算进去",
+"k": "gmail_a 917809e3aa72885e"
+},
+{
 "date": "2026-01-15",
 "dir": "来",
 "who": "Ender Bulut（Netaş）",
@@ -327754,6 +327922,14 @@
 "quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
 "why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
 "k": "gmail_a att ordino ekinde çıkan ft.pdf"
+},
+{
+"date": "2026-01-24",
+"dir": "去",
+"who": "Alan（A 邮箱）",
+"quote": "Hi, Ender, [Google Drive folder]… it will contain information about your EVERY order. 2, please just revise the editor list when necessary. 3, if possible, please upload your testing report (if non-confidential)",
+"why": "Netaş 专属 Drive 订单文件夹（Ender 为编辑）+ 请对方上传测试报告——跟 Angora / Vi-Link / James 同一套做法",
+"k": "gmail_a c789901e48963dab"
 },
 {
 "date": "2026-01-27",

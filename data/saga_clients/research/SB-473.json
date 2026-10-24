@@ -390,6 +390,14 @@
         "k": "gmail_a att Dekont-2026-01-13"
       },
       {
+        "date": "2026-01-14",
+        "dir": "去",
+        "who": "Alan（A 邮箱）",
+        "quote": "yes, we got the payment. 2, your order is being processed and expected to be ready for shipment next week. As I shared, sample testing MUST last for 5 working days before shipment to ensure stable performance according to our company policy.",
+        "why": "对 Netaş 说明的出货前 5 个工作日老化测试政策——以后交期都要把这 5 天算进去",
+        "k": "gmail_a 917809e3aa72885e"
+      },
+      {
         "date": "2026-01-15",
         "dir": "来",
         "who": "Ender Bulut（Netaş）",
@@ -420,6 +428,14 @@
         "quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
         "why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
         "k": "gmail_a att ordino ekinde çıkan ft.pdf"
+      },
+      {
+        "date": "2026-01-24",
+        "dir": "去",
+        "who": "Alan（A 邮箱）",
+        "quote": "Hi, Ender, [Google Drive folder]… it will contain information about your EVERY order. 2, please just revise the editor list when necessary. 3, if possible, please upload your testing report (if non-confidential)",
+        "why": "Netaş 专属 Drive 订单文件夹（Ender 为编辑）+ 请对方上传测试报告——跟 Angora / Vi-Link / James 同一套做法",
+        "k": "gmail_a c789901e48963dab"
       },
       {
         "date": "2026-01-27",

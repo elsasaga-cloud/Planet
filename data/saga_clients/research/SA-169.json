@@ -282,6 +282,14 @@
         "k": "gmail_s 9efe5d1b1132a14a"
       },
       {
+        "date": "2026-08-07",
+        "dir": "去",
+        "who": "Simon（S 邮箱）",
+        "quote": "It is 2 BINs: 1. AC3 version: lite-hotfix-7.3.13 — This is final, there will not be any updates, just maintenance and support. We are doing AC5 version now. 2. For AC5 version, please use this for now: ac5-hotfix-7.4.2",
+        "why": "AC3 固件终版 = lite-hotfix-7.3.13（只维护不更新）；AC5 当时 7.4.2——给老客户的固件口径",
+        "k": "gmail_s 3e84bddd5a4fd519"
+      },
+      {
         "date": "2026-08-26",
         "dir": "去",
         "who": "Simon",

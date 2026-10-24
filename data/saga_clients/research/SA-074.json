@@ -254,6 +254,14 @@
         "k": "6b84cc5fa165d326"
       },
       {
+        "date": "2026-06-06",
+        "dir": "去",
+        "who": "Alan（A 邮箱）",
+        "quote": "About 24-port copper, we only have Giga model… 16 fiber? What is the spec? like 2*SFP ports and 16*copper, managed?",
+        "why": "Berk 的需求描述常常不清（「16 fiber」）——每轮都要先反问口型",
+        "k": "gmail_a 8704c1a58b62171a"
+      },
+      {
         "date": "2026-06-08",
         "dir": "来",
         "who": "Berk",

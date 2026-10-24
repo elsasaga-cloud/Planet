@@ -303,6 +303,14 @@
         "k": "gmail_s 202a39ac28c427b5"
       },
       {
+        "date": "2024-05-16",
+        "dir": "去",
+        "who": "Simon（S 邮箱）",
+        "quote": "What content are you planning to write in the CD?… we really do not do CD for quite a few years… a client uses marvell L3 switches is professional and does CLI log-in",
+        "why": "老客户要光盘资料，Saga 多年不做 CD——资料改走 Google Drive 文件夹（04-29 已给专属链接）",
+        "k": "gmail_s d4d10442c4af1c47"
+      },
+      {
         "date": "2024-05-31",
         "dir": "来",
         "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
@@ -429,6 +437,14 @@
         "quote": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
         "why": "报价后技术追问（DIP）——下一封「My customer didn't like the DIP switches」的前因",
         "k": "gmail_s f3802ab4ac196997"
+      },
+      {
+        "date": "2026-08-22",
+        "dir": "去",
+        "who": "Simon（S 邮箱）",
+        "quote": "It is an ON / OFF dialing function… A similar example is Lantronix SGETF series: SW1 Remote Fiber Fault Detect / SW2 Symmetric Pause / SW3 Asymmetric Pause / SW4 Transparent Link Pass Through / SW5 Fiber Auto-Negotiation / SW6 Loopback… Most media converters are unmanaged, DIP features are the primary way to configure",
+        "why": "DIP 开关的标准解释（拿 Lantronix / LevelOne 作对照）——之后 Thu 说「客户不喜欢 DIP」，改无 DIP 款",
+        "k": "gmail_s d813f53529c41717"
       },
       {
         "date": "2026-09-01",
