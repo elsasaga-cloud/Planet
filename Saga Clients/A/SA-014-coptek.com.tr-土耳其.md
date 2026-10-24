@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。（调研 2026-10-21；表内兴趣：SFP MC 商业FS  也有ONV的工业FS）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 2 次（2025-09-29 → 2025-10-28）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IM-FS280GW — —；—
+- **第一问（只问一个）**：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → info@coptek.com.tr（+ WA 若有） 一封对位表 + 问 100 台询盘
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-014` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 17 封 0 回，Opened 1 次 2025-10-28；用户表「100 台工业 FS 询盘」在邮件无痕——在 Saga 自己的 TR 重点名单内）** ｜ 类型：土耳其网络分销（DCN 分销，Koptek）——主攻区 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：邮件层无互动 ｜ 复活：土耳其主攻：一封针对性（对位 IM-FS280GW 2 光 8 电） ｜ 通路：TR ｜ 节奏：一次 + 季度 ｜ 证据：邮件：去信 17 封（2024-07-08 → 2026-10-06），来信 0；Opened 标签 1 次（2025-10-28）；收件人 info@coptek.com.tr
+- **现状一句话**：17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。
+- **对方真实需求（有据）**：工业光纤交换机 2 光 8 电（100 台级）。
+- **断点 / 为什么停在这里**：渠道未知（WhatsApp/展会？）。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IM-FS280GW**（20% 档，—）———
+- **下一步（具体）**：2026-11　A 邮箱 → info@coptek.com.tr（+ WA 若有）　一封对位表 + 问 100 台询盘
+  - 第一问（只问一个）：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-10-28 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `04dd529092533295` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见
 
 ## 基本事实（事实/推断/假设分层）
 

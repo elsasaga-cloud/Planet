@@ -118,5 +118,40 @@
   "tier": 25,
   "why": "对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）"
  },
- "email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?"
+ "email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 17 封 0 回、Opened 0；由 deepen.py 建档，无首轮调研）",
+   "type": "意大利 4Power S.r.l.（3 个收件人）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "IT/EU",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 17 封（2025-01-29 → 2026-10-08），来信 0；Opened 标签 0 次；收件人 direzione@4power.it, g.chiaese@4power.it, info@4power.it"
+  },
+  "situation": "17 封 0 打开。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

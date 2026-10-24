@@ -98,5 +98,40 @@
   "tier": 25,
   "why": "集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）"
  },
- "email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
+ "email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 11 封 0 回、Opened 0）",
+   "type": "德国 ISIMKO GmbH（Cottbus）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "DE",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de"
+  },
+  "situation": "11 封 0 打开。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

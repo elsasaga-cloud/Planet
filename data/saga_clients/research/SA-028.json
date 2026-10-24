@@ -104,5 +104,65 @@
   "tier": 20,
   "why": "Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源"
  },
- "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first."
+ "email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）",
+   "type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "若成交属实应有 PI——先核",
+   "lane": "US",
+   "cadence": "季度",
+   "evidence": "邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect."
+  },
+  "situation": "4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。",
+  "need": "PoE 注入器/小 PoE 交换机（AV 配套）。",
+  "breakpoint": "证据冲突。",
+  "saga_now": {
+   "p1": "PoE 注入器 + STC-28DGGPM",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "先核成交证据",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "65f347c97b5b0d0b"
+   },
+   {
+    "date": "2025-05-01",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "d759d1535e90b464"
+   },
+   {
+    "date": "2025-10-13",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "868baaf6e6acfd0a"
+   }
+  ],
+  "proof_gaps": [
+   "「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

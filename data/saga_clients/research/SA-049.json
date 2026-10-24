@@ -226,5 +226,79 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-049",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（3 单复购：2024-11 ×1、2025-01 ×5、2025-10 ×2，全部 STI-0160GE，$88/$88/$87；关系在 WhatsApp，邮件仅 1 封群发）",
+   "type": "印度班加罗尔方案商/自有品牌（CEO Manoj Kumar 直联）——PI 包 #14「可发展」",
+   "sieve": "5（三次付款 T/T in advance，自提/FedEx）",
+   "stop": "无停点；节奏由其项目决定（间隔 2 个月、9 个月）",
+   "revive": "—（活跃）",
+   "lane": "IN（非主攻但在复购）",
+   "cadence": "WhatsApp；每单后一句话问下一个项目",
+   "evidence": "PI STSC20241108014（1 pc $88，2024-11-08）、STSC20250107014（5 pcs $440，2025-01-07）、STSC20251009014（2 pcs $174，2025-10-09）；采购合同 LT-IS6016G-16GT 未税 512 RMB/台"
+  },
+  "situation": "Sundar Techno 是 A 邮箱看不见的成单户：三张 PI 都是 STI-0160GE（16 电口工业非管理，-40~75℃，DIN，中性包装，不放保修卡/QC 贴）。研究档「2023 年后沉寂需重新激活」是错的——最近一单 2025-10-09。",
+  "need": "工业 16 口非管理 DIN（配套其工业 PC/网关方案），每次 1–5 台。",
+  "breakpoint": "无；小量多次 = 用户说的「1 次不行就 10 次」正在发生。",
+  "saga_now": {
+   "p1": "STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句",
+   "tier": 30,
+   "price": "STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）",
+   "why": "已成交三次",
+   "repeat": [
+    "2024-11",
+    "2025-01",
+    "2025-10"
+   ],
+   "gaps": [
+    "成交价毛利低于 Marvell ≥25% 底线（工业非管理款是否 Realtek 线？核价格主表）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-12（上单后 2 个月）",
+   "channel": "WhatsApp +91 9482081014",
+   "action": "一句话问下一批 + 提管理型",
+   "one_question": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-08",
+    "dir": "PI",
+    "who": "Simon → Manoj Kumar（CEO）",
+    "quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
+    "why": "首单",
+    "k": "PI STSC20241108014"
+   },
+   {
+    "date": "2025-01-07",
+    "dir": "PI",
+    "who": "Simon → Sundar",
+    "quote": "STI-0160GE … 5 pcs, 88 USD, 440 USD",
+    "why": "复购 1",
+    "k": "PI STSC20250107014"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "PI",
+    "who": "Simon → Sundar",
+    "quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
+    "why": "复购 2",
+    "k": "PI STSC20251009014"
+   },
+   {
+    "date": "2024-11-09",
+    "dir": "采购合同",
+    "who": "Saga → SmartByte",
+    "quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
+    "why": "成本/贴牌要求",
+    "k": "采购合同_STSC20241108014"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

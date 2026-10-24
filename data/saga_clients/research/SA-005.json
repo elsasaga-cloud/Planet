@@ -62,5 +62,40 @@
   "tier": 25,
   "why": "已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选"
  },
- "email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent."
+ "email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表「样品购买 + 型号问价」无 PI/邮件痕迹）",
+   "type": "德国安防（boecek.de，实体不可核）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "邮件从未被打开",
+   "revive": "核实实体后再定",
+   "lane": "DE",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de"
+  },
+  "situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。",
+  "need": "—",
+  "breakpoint": "触达无效 + 证据缺失。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "核实 boecek@ 是否有效",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "用户表「样品购买」无 PI；邮件 0 打开"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

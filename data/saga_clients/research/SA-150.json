@@ -135,5 +135,40 @@
   "tier": 30,
   "why": "VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档"
  },
- "email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout."
+ "email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）",
+   "type": "加尔各答安防集成 + 自有品牌（Vicom）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "2024-12 后未再发",
+   "revive": "视频会后的跟进在 Simon 手上",
+   "lane": "IN",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com"
+  },
+  "situation": "视频会在邮件之外。",
+  "need": "4 光 24 电管理 PoE 贴牌。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "Simon 决定",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

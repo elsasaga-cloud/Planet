@@ -34,10 +34,27 @@ updated: 2026-10-24
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。（调研 2026-10-21；表内兴趣：工业FS SFP AOC MC 很多牌子的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）；最近一次客户回复：2026-01-23：Can you provide Brocade switches?
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI 工业线（替代 Microsens） — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：— — 不主动
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-116` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）** ｜ 类型：莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：需求是 Brocade（品牌货源），不是 OEM ｜ 复活：其 Microsens 工业线的性价比替代（研究档） ｜ 通路：RU ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
+- **现状一句话**：对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。
+- **对方真实需求（有据）**：Brocade 原厂货（Saga 不做）。
+- **断点 / 为什么停在这里**：需求错位。
+- **Saga 现在该推什么**：P1 **STI 工业线（替代 Microsens）**（20% 档，—）———
+- **下一步（具体）**：—　—　不主动
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-01-26 | 来（Elsa 箱） | Pavel Karpov（CCS） | Hello! Can you provide Brocade switches? | 需求错位 | `E 19bf935676cdb7e6` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

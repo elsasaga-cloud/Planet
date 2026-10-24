@@ -35,10 +35,29 @@ updated: 2026-10-24
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）；最近一次客户回复：2025-09-08：Price
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — —；—
+- **第一问（只问一个）**：Any install this quarter where an 8-port PoE at the 60-USD class fits?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 S 邮箱 → brandon@ 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-039` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 15 封 0 来信，但 2 封 Saga 去信带 Replied 标签（2025-09-08 Opened）→ 回复发生在别的地址/渠道）** ｜ 类型：奥斯汀安防安装商（Avenger Security） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：WhatsApp/电话（用户表） ｜ 通路：US ｜ 节奏：季度 ｜ 证据：邮件：去信 15 封（2025-01-23 → 2026-09-08），来信 0；Opened 标签 2 次（2025-06-11、2025-09-08）；收件人 brandon@getsecurityalarm.com, info@getsecurityalarm.com
+- **现状一句话**：Replied 标签说明 Saga 回过对方——对方来信可能从未关联到本户（私人邮箱）。
+- **对方真实需求（有据）**：8/16 口 PoE 自装。
+- **断点 / 为什么停在这里**：单量小。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，—）———
+- **下一步（具体）**：2027-Q1　S 邮箱 → brandon@　一句话
+  - 第一问（只问一个）：Any install this quarter where an 8-port PoE at the 60-USD class fits?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-11 | 去 | Saga（群发） | 「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `ea72575dc36805b9` |
+| 2025-09-08 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `a993a01057d0d553` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Replied 标签对应的来信未关联本户
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -109,5 +109,57 @@
   "tier": 30,
   "why": "OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」"
  },
- "email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?"
+ "email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 23 封 0 回，Opened 2 次（最近 2025-08-13））",
+   "type": "卡塔尼亚经销/集成（Top Italia / topsicurezza）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "电话（固话在册，研究档）",
+   "lane": "IT/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-17），来信 0；Opened 标签 2 次（2025-07-08、2025-08-13）；收件人 info@topsicurezza.com"
+  },
+  "situation": "23 封被打开 2 次。",
+  "need": "12 光 12 电（ONV 对位）。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "SmartByte 12 光 12 电",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱",
+   "action": "一封对位表",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-07-08",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Marvell Industrial Alert System」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "a683ffdbde380276"
+   },
+   {
+    "date": "2025-08-13",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "456350d728a34de6"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

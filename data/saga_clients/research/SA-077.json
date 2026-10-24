@@ -128,5 +128,40 @@
   "tier": 25,
   "why": "ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知"
  },
- "email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
+ "email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 8 封 0 回；用户表「3 次回复 + WA 在线 + 高管」= WA）",
+   "type": "迪拜 IT/ELV 集成（Tecpro，Shereef）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "AE 非主攻",
+   "cadence": "WA",
+   "evidence": "邮件：去信 8 封（2026-03-23 → 2026-10-01），来信 0；Opened 标签 0 次；收件人 shereef@tecprosolutions.com"
+  },
+  "situation": "历史询盘是 HDMI 转换器（Saga 不做）。",
+  "need": "ELV 项目 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

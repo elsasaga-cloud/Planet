@@ -110,5 +110,51 @@
   "tier": 20,
   "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
  },
- "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version."
+ "email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来）",
+   "type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
+   "sieve": "5（付样付款）",
+   "stop": "样品后 17 个月无下文（PI 包「gg」）",
+   "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
+   "lane": "RU",
+   "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
+   "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包"
+  },
+  "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
+  "need": "工业 DIN 非管理小口数（自动化分销）。",
+  "breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
+  "saga_now": {
+   "p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
+   "tier": 20,
+   "price": "按现价表",
+   "why": "样品在其手上",
+   "repeat": [],
+   "gaps": [
+    "样品测试反馈从未记录"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "Simon 原通道",
+   "action": "一句话问样机下落",
+   "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-23",
+    "dir": "PI",
+    "who": "Simon → Igor Popov",
+    "quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
+    "why": "样品单",
+    "k": "PI STSC20240523008"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来（A/S 两箱 0 封）"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

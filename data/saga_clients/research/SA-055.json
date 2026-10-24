@@ -133,5 +133,40 @@
   "tier": 30,
   "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
  },
- "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line."
+ "email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明）",
+   "type": "印度自有品牌（AE Connect，200+ 经销商）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "IN 非主攻",
+   "cadence": "不主动",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "仓库无任何邮件。",
+  "need": "贴牌 8/24 口 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

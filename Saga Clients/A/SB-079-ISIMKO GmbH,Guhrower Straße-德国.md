@@ -36,10 +36,23 @@ updated: 2026-10-24
 - **是谁**：德国 Cottbus 的家族制中型系统集成商 ISIMKO GmbH（Informations-, Sicherheits-, Medien- und Kommunikationstechnik；1990 年成立，前身 G. Fleischhauer Ingenieurbüro Cottbus，2017 年更名；HRB 472；注册资本 €200,000；120+ 名员工含 16 名学徒；Cottbus / Berlin / Dresden / Schwarze Pumpe 四地；总经理 Ralph Hannemann、Diego Noack，股东含 Wolfgang/Falk Noack）：信息技术、安防技术、媒体技术、通信技术项目规划与实施，专长工业高品质铜缆与光纤网络，客户为工业、中型企业与公共部门（Lausitz 能源/工业区，LAUBAG 渊源）。Saga 自建站询盘：1 台 12 光 12 电（询盘人 r.hannemann = 总经理）；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1台12光12电）
 - **为什么是 A 级**：**调研后定级 A**（A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。）；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-25 → 2025-09-15）
-- **P1（下一步唯一主推）**：STI-488DGGGM — 深挖对位：集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）；$332.6 USD EXW（25% 档，SmartByte LT-IS6320XG-4XS8GX8GT-D 1780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：— — 不主动
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-079` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 11 封 0 回、Opened 0）** ｜ 类型：德国 ISIMKO GmbH（Cottbus） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：— ｜ 通路：DE ｜ 节奏：不主动 ｜ 证据：邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de
+- **现状一句话**：11 封 0 打开。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）———
+- **下一步（具体）**：—　—　不主动
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

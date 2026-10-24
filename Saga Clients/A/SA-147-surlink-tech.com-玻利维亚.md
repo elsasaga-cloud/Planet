@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。（调研 2026-10-21；表内兴趣：550个90W 工业PoE injector 2017年使用国际站）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/玻利维亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）；最近一次客户回复：2025-07-02：全系列电口信息
-- **P1（下一步唯一主推）**：— — 深挖对位：550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线） — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：— — 不主动；若 Simon 开 Realtek 线则一次对位表
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-147` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
+- **现状一句话**：Eduardo 的来信是一张清楚的采购清单：非管理 PoE 全口数、Saga 标准品牌与标准彩盒、要图片——是批发商选品。Elsa 回了，之后无回。
+- **对方真实需求（有据）**：非管理 PoE 5/8/16/24 口（商用，标准包装）。
+- **断点 / 为什么停在这里**：回复后静默；价格段（南美批发）可能不匹配 Marvell。
+- **Saga 现在该推什么**：P1 **HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线）**（20% 档，—）———
+- **下一步（具体）**：—　—　不主动；若 Simon 开 Realtek 线则一次对位表
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-07-02 | 来（Elsa 箱） | Ing. Eduardo Miranda（Gerente） | Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures | 采购清单 | `E 197cbce0cb34789f` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 07-03 回复正文未入库；「550 只 90W 注入器」出处未见
 
 ## 基本事实（事实/推断/假设分层）
 

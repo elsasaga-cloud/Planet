@@ -35,10 +35,24 @@ updated: 2026-10-24
 - **是谁**：土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。（调研 2026-10-21；表内兴趣：参展商，商业级的已经有合作的供应商了。 准备扩展工业级的，问能OEM吗，  CEO和product manager来的， Evelyn加了Ali的 Wechat.；参展商，商业级的已经有合作的供应商了。准备扩展工业级的，问能OEM吗， CE）
 - **为什么是 A 级**：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-09-29 → 2025-10-29）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — —；—
+- **第一问（只问一个）**：Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：按 WA 节奏 WhatsApp WA 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-082` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 24 封 0 回、Opened 0；用户表：展会面对面 + CEO + OEM/工业线意向）** ｜ 类型：土耳其弱电安防进口批发（Nova Grup / Novacom，4 个收件人）——主攻区 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：企业邮箱 0 打开 ｜ 复活：WA/电话（展会名片） ｜ 通路：TR ｜ 节奏：一次 + 季度 ｜ 证据：邮件：去信 24 封（2024-06-14 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 ali@nova-grup.com, cem@novacom.com.tr, info@nova-grup.com, satis@novacom.com.tr
+- **现状一句话**：4 个地址、24 封、0 打开——邮件通道基本无效；展会关系在 Simon 手上。
+- **对方真实需求（有据）**：工业 PoE 贴牌（在用新桥/ONV）。
+- **断点 / 为什么停在这里**：渠道。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—）———
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话
+  - 第一问（只问一个）：Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

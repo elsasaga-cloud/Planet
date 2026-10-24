@@ -35,10 +35,29 @@ updated: 2026-10-24
 - **是谁**：美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。（调研 2026-10-21；表内兴趣：买PoE电源/常下单）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-04-03 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：PoE 注入器 + STC-28DGGPM — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：— — 先核成交证据
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-028` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）** ｜ 类型：美国 AV 连接品牌/电商（Sewell Direct，4 个收件人） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：若成交属实应有 PI——先核 ｜ 通路：US ｜ 节奏：季度 ｜ 证据：邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect.
+- **现状一句话**：4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。
+- **对方真实需求（有据）**：PoE 注入器/小 PoE 交换机（AV 配套）。
+- **断点 / 为什么停在这里**：证据冲突。
+- **Saga 现在该推什么**：P1 **PoE 注入器 + STC-28DGGPM**（30% 档，—）———
+- **下一步（具体）**：—　—　先核成交证据
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-02 | 去 | Saga（群发） | 「90W PoE Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `65f347c97b5b0d0b` |
+| 2025-05-01 | 去 | Saga（群发） | 「10G Media Converter」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `d759d1535e90b464` |
+| 2025-10-13 | 去 | Saga（群发） | 「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `868baaf6e6acfd0a` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：「成交 + 复购」无 PI：请 Simon 确认是哪条通道
 
 ## 基本事实（事实/推断/假设分层）
 

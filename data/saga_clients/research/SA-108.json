@@ -95,5 +95,40 @@
   "tier": 25,
   "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
  },
- "email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
+ "email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（A/S 邮箱 0 封；用户表「4 次回复 + WA」）",
+   "type": "海得拉巴嵌入式/系统集成（Areca）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "IN",
+   "cadence": "WA",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "仓库无邮件。",
+  "need": "8 光 8 电管理（L2/L3 分档）。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-448XGGPM 类",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

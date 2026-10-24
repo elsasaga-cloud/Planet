@@ -164,5 +164,40 @@
   "tier": 20,
   "why": "BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档"
  },
- "email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF."
+ "email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 16 封 0 回、Opened 0；用户表：CEO 直接，已有 EWIND 供应商）",
+   "type": "塞萨洛尼基安防批发（B&S Electronics，imports@）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "imports@ 0 打开",
+   "revive": "换联系人",
+   "lane": "GR/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 0 次；收件人 imports@bselectronics.gr"
+  },
+  "situation": "imports@ 通用箱两年 0 打开。",
+  "need": "8 口 PoE / 2.5G / 升压 PoE。",
+  "breakpoint": "触达层。",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "换联系人",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

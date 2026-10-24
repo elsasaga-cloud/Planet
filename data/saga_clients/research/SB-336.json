@@ -107,5 +107,40 @@
   "tier": 30,
   "why": "OEM 30% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$151.6）配其门禁/环境监测/CCTV 柜（EDS 标）；商用 STC-424DGGPM-280W（$145.7）；历史采购型号待 Simon 从邮箱补"
  },
- "email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
+ "email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 12 封 0 回、Opened 0；2026-03 后停发）",
+   "type": "土耳其 EDS Elektronik",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "TR",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 12 封（2024-07-05 → 2026-03-05），来信 0；Opened 标签 0 次；收件人 eds@eds.com.tr"
+  },
+  "situation": "12 封 0 打开。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

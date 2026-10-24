@@ -102,5 +102,65 @@
   "tier": 20,
   "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
  },
- "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?"
+ "email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人）",
+   "type": "加拿大 NSI Distribution（Ontario）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "对打开过的人发一句话",
+   "lane": "CA",
+   "cadence": "一次",
+   "evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
+  },
+  "situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱",
+   "action": "一句话",
+   "one_question": "You opened our June note on the 24-port PoE — is there a line it would fit?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-27",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "c5c7abff2df78e77"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "0a8d96748590fd99"
+   },
+   {
+    "date": "2026-06-12",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "0e8efb29e3a824ef"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

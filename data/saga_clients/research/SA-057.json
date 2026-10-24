@@ -123,5 +123,40 @@
   "tier": 30,
   "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
  },
- "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside."
+ "email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 2 封 0 回）",
+   "type": "卡拉奇白牌品牌商（MT-Link）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "PK",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
+  },
+  "situation": "2 封无互动；南亚价格极敏感。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

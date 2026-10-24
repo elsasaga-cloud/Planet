@@ -136,5 +136,40 @@
   "tier": 20,
   "why": "光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档"
  },
- "email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
+ "email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 12 封 0 回、Opened 0；用户表「5 次回复 + WA」）",
+   "type": "莫斯科光纤传输分销（BPTEHNO）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "RU",
+   "cadence": "WA",
+   "evidence": "邮件：去信 12 封（2025-04-17 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@bptehno.ru"
+  },
+  "situation": "邮件无互动。",
+  "need": "MC → IP/PoE 迁移。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

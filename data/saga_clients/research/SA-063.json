@@ -125,5 +125,40 @@
   "tier": 20,
   "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source."
+ "email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文）",
+   "type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "23 封 0 打开（sales@ 通用箱）",
+   "revive": "找产品负责人",
+   "lane": "PL/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
+  },
+  "situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
+  "need": "LO-IGS-M8GT2GF-HPOE 对位。",
+  "breakpoint": "触达层。",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "换联系人",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "「2 次实质回复」无原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

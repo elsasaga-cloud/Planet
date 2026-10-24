@@ -35,10 +35,30 @@ updated: 2026-10-24
 - **是谁**：自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。（调研 2026-10-21；表内兴趣：ONV的工业FS；工业FS 音频视听设备 ONV的工业FS  他们的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 5 次（2025-02-21 → 2026-01-07）；最近一次客户回复：2026-01-07：INFO
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — —；—
+- **第一问（只问一个）**：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 E 或 A 邮箱 → ak@impulsecctv.com 一封：sagatele.com + 地址 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-023` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）** ｜ 类型：新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：可信度核验（网站/地址）后停；当时 sagatele.com 未上线 ｜ 复活：用 sagatele.com + 公司地址重发一次 ｜ 通路：SG 非主攻 ｜ 节奏：一次 ｜ 证据：邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com
+- **现状一句话**：唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。
+- **对方真实需求（有据）**：自有品牌 PoE 交换机（对位其在用 ONV——用户表）。
+- **断点 / 为什么停在这里**：可信度门槛；现有网站可补。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—）———
+- **下一步（具体）**：2026-11　E 或 A 邮箱 → ak@impulsecctv.com　一封：sagatele.com + 地址 + 一句话
+  - 第一问（只问一个）：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-01-07 | 来（Elsa 箱） | Amol Kumar（Impulse CCTV） | pls share your company website and your address | 核验 | `E 19b9767e81c6fe96` |
+| 2025-02-21 | 去 | Saga（群发） | 「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `f408faefdae4dd88` |
+| 2024-07-08 | 去 | Saga（群发） | 「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `bbfc5a22d14032ff` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

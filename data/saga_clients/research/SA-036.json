@@ -117,5 +117,40 @@
   "tier": 30,
   "why": "AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈"
  },
- "email_hook": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples."
+ "email_hook": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 33 封 0 回、Opened 0；用户表「已买样 + 具名 KP」无 PI）",
+   "type": "美国兼容光模块品牌（AddOn Networks，4 个收件人）——体量大于 Saga 常规客户",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "33 封 0 打开",
+   "revive": "交期承诺（用户表痛点）",
+   "lane": "US",
+   "cadence": "不加频",
+   "evidence": "邮件：去信 33 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 0 次；收件人 anthony.giunta@addonnetworks.com, matt@addoncomputer.com, sales@addonnetworks.com, tyler.griffey@addonnetworks.com"
+  },
+  "situation": "两年 33 封零打开——企业邮箱可能拦截 Gmail 群发。",
+  "need": "MC 自有品牌线补源，交期敏感。",
+  "breakpoint": "触达无效。",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "换渠道（LinkedIn KP）",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "「已买样」无 PI"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

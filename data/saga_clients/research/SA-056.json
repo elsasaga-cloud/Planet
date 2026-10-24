@@ -119,5 +119,40 @@
   "tier": 30,
   "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
  },
- "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files."
+ "email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 3 封 0 回、Opened 0）",
+   "type": "印度光纤配套品牌（DNC，MC 贴牌）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "IN",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 3 封（2024-06-19 → 2024-12-11），来信 0；Opened 标签 0 次；收件人 coo@dncsolutions.co.in"
+  },
+  "situation": "3 封无互动。",
+  "need": "MC 贴牌。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

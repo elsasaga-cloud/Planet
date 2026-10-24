@@ -106,5 +106,40 @@
   "tier": 25,
   "why": "CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档"
  },
- "email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
+ "email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 2 封 0 回；用户表「3 次实质回复 + WhatsApp」= WhatsApp 关系）",
+   "type": "比勒陀利亚 CCTV 集成（Taurus Vision）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WhatsApp",
+   "lane": "ZA 非主攻",
+   "cadence": "WhatsApp",
+   "evidence": "邮件：去信 2 封（2026-08-07 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 sales@taurusvision.com"
+  },
+  "situation": "邮件只在 2026-08/10 发过两封；关系在 WhatsApp。",
+  "need": "8/16 口 PoE 小批量。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WhatsApp",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

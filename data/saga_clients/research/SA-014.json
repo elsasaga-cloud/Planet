@@ -124,5 +124,49 @@
   "tier": 20,
   "why": "询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W"
  },
- "email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity."
+ "email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-10-28；用户表「100 台工业 FS 询盘」在邮件无痕——在 Saga 自己的 TR 重点名单内）",
+   "type": "土耳其网络分销（DCN 分销，Koptek）——主攻区",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "邮件层无互动",
+   "revive": "土耳其主攻：一封针对性（对位 IM-FS280GW 2 光 8 电）",
+   "lane": "TR",
+   "cadence": "一次 + 季度",
+   "evidence": "邮件：去信 17 封（2024-07-08 → 2026-10-06），来信 0；Opened 标签 1 次（2025-10-28）；收件人 info@coptek.com.tr"
+  },
+  "situation": "17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。",
+  "need": "工业光纤交换机 2 光 8 电（100 台级）。",
+  "breakpoint": "渠道未知（WhatsApp/展会？）。",
+  "saga_now": {
+   "p1": "STI-288DGGPM 对位 IM-FS280GW",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@coptek.com.tr（+ WA 若有）",
+   "action": "一封对位表 + 问 100 台询盘",
+   "one_question": "Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-28",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "04dd529092533295"
+   }
+  ],
+  "proof_gaps": [
+   "「100 台工业 FS 询盘」出处未见"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

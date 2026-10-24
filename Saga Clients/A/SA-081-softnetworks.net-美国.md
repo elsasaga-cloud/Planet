@@ -34,10 +34,29 @@ updated: 2026-10-24
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — —；—
+- **第一问（只问一个）**：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 E 邮箱 → nealc@softnetworks.net 一句话问 5 月报价的反馈
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-081` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）** ｜ 类型：新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：价格后停（翻新件价格基准极低） ｜ 复活：只谈管理型新品补充线 + FCC ｜ 通路：US ｜ 节奏：一次 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
+- **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
+- **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
+- **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，—）———
+- **下一步（具体）**：2027-Q1　E 邮箱 → nealc@softnetworks.net　一句话问 5 月报价的反馈
+  - 第一问（只问一个）：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-29 | 来（Elsa 箱） | Neal Cennamo | I never buy Unmanaged. | 筛选标准 | `E 19682eba2d4de4b4` |
+| 2025-05-13 | 来（Elsa 箱） | Neal | What is the price for this one? | 询价 | `E 196ca1e02d95c29d` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 05-14 回价正文未入库
 
 ## 基本事实（事实/推断/假设分层）
 

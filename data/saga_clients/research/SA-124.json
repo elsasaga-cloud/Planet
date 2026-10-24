@@ -122,5 +122,40 @@
   "tier": 25,
   "why": "DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档"
  },
- "email_hook": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input."
+ "email_hook": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（A/S 邮箱 0 封；用户表「6 次回复 + WA + 工业 DIN PoE 项目」）",
+   "type": "印尼工业自动化/MEP 集成（RAS Otomasi）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "ID",
+   "cadence": "WA",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "仓库无邮件。",
+  "need": "STI-288DGGPM 类 DIN PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

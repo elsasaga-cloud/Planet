@@ -35,10 +35,23 @@ updated: 2026-10-24
 - **是谁**：Witten 的家族式 Pro-AV / IT / USV B2B 分销商，PLANET 是其工业以太网类目主力品牌，业主兼总经理邮箱公开。类型：Pro-AV / IT / USV B2B 分销商（1989 年起；「Pro AV & IT-Großhandel mit großem Lager」；只售经销商 / 系统集成商 / 机构，不售终端）；PLANET 为其「Automatisierung / Schaltschrankbau › Industrial Ethernet」类目主力品牌，独立品牌页 PLANET 两页约 48 款。信号：ute.de/produkte/marke/planet：PLANET 品牌页（分页 1/2，results 25-48）；商品页 ISW-504PS 5-Port PoE Switch 178,50 € netto（nicht lagernd，2 Wochen）、ISW-501T 57,40 €（Lagernd 1–2 Werktage）、IGS-501T 94,50 €、IGS-801T Brutto 129 €、IGS-1600T、WGS-804HP；/produkte/automatisierung/industrial-ethernet/hersteller/planet 子类目；同页并列 Delta / Eaton USV 授权分销。Planet 渠道档案 PA-017 评级 A（需求：PLANET 独立品牌页两页约 48 款 + 工业以太网子类目以 PLANET 为主 + 商品页带净价 / 库存状态（ISW-501T Lagernd）→ 工业交换机采购真实、持续；触达：业主兼总经理 Volker Pompetzki（Geschäftsführer / Inhaber）volker.pompetzki@ute.de + 电话 02302 / 28283-18 在 2026-05 / 2026-09 新闻稿与 /ansprechpartner 页公开 → 具名决策人直达；体量：家族式 B2B 分销（约 8 人，RocketReach；1989 年起）→ 可赢；Gmail：Elsa 账号 2025-03-28 → 2026-08-31 以 BCC 群发 9 封（含 volker.pompetzki@ / nils.linnemann@ / info@），0 回复 → 非首触、通道疲劳，需换具名 + 电话入口；Mikrotik 仓无此户 → A）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1262，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：卖几个有名牌子的 在群里列表中；工业FS MC 串口 销售平台）
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-017 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升）；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-054FP — 深挖对位：其在售 ISW-504PS（工业 4×FE PoE + 1×FE 非管理 DIN，178,50 € 净价）→ Saga STI-054FP 同口型，20% 档 $29.1 USD EXW，价差最直观；其库存款 ISW-501T 由 STI-050FE 第二封对位；B2B 分销商（走量、自定毛利）→ 20%（沿用 Planet 档案 PA-017）；需求：；$29.1 USD EXW（20% 档，SmartByte LT-IS3005FP-5TX 162 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：— — 不主动
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1262` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（A/S 邮箱 0 封）** ｜ 类型：德国 U.T.E. Electronic ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：— ｜ 通路：DE ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
+- **现状一句话**：仓库无邮件。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）———
+- **下一步（具体）**：—　—　不主动
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

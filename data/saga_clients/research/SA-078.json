@@ -92,5 +92,40 @@
   "tier": 25,
   "why": "ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档"
  },
- "email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
+ "email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 2 封 0 回；用户表「2 光 4 电 + ERPS 环网」需求 + WA）",
+   "type": "雅加达安防/IT 集成（BSN）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "ID",
+   "cadence": "WA",
+   "evidence": "邮件：去信 2 封（2024-11-20 → 2025-02-04），来信 0；Opened 标签 0 次；收件人 aarstyan@gmail.com, sales@bsn-system.com"
+  },
+  "situation": "需求具体（ERPS 环网）但邮件无痕。",
+  "need": "STI 2 光 4 电管理 + ERPS。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-244GP 管理版",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

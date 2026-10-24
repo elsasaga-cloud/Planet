@@ -108,5 +108,57 @@
   "tier": 20,
   "why": "明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话"
  },
- "email_hook": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have."
+ "email_hook": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 28 封 0 回，Opened 2 次（2024-06-21 当天）；用户表「2 次实质回复 + 问价」应在 WhatsApp）",
+   "type": "澳洲工业线缆分销（CDS）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "首封被打开后两年静默",
+   "revive": "—",
+   "lane": "AU 非主攻",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 28 封（2024-06-21 → 2026-09-30），来信 0；Opened 标签 2 次（2025-11-19、2024-06-21）；收件人 paul@cabledistribution.com.au, ross.wasserman@cabledistribution.com.au"
+  },
+  "situation": "首日打开两次之后 27 封无动静。",
+  "need": "1 光 4 电工业 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-144GP",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-11-19",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "be9998111900ae04"
+   },
+   {
+    "date": "2024-06-21",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「CCTV poe switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "b135d2a3fa4dece3"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他；商业FS 工业FS 自己的logo 价格不是很高 正常水平）
 - **为什么是 A 级**：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGM 类 24+4（对位 SN-GS2300-28F） — —；—
+- **第一问（只问一个）**：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：按 WA 节奏 WhatsApp WA 一句话（付样 + 首批量）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-045` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 17 封 0 回，Opened 1 次 2025-11-26；用户表：展会面谈 + WhatsApp + 索要免费样品）** ｜ 类型：伊斯坦布尔自有品牌白牌采购（Snexus，SN-GS2300-28F）——主攻区 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：免费样品诉求 vs 付样规则 ｜ 复活：WhatsApp（用户表）；对位 SN-GS2300-28F 一次 ｜ 通路：TR ｜ 节奏：WA 季度 ｜ 证据：邮件：去信 17 封（2024-06-24 → 2026-09-17），来信 0；Opened 标签 1 次（2025-11-26）；收件人 info@snexus.com.tr
+- **现状一句话**：展会见过、WA 在手、要免费样——典型 C6 付样筛子案例；邮件只被打开 1 次。
+- **对方真实需求（有据）**：24+4 SFP 管理型贴牌。
+- **断点 / 为什么停在这里**：免费样。
+- **Saga 现在该推什么**：P1 **STC-424DGGM 类 24+4（对位 SN-GS2300-28F）**（30% 档，—）———
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA 一句话（付样 + 首批量）
+  - 第一问（只问一个）：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-11-26 | 去 | Saga（群发） | 「Booster PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `7386567b0f7ec1c7` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

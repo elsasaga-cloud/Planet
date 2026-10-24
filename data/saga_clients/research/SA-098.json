@@ -103,5 +103,40 @@
   "tier": 25,
   "why": "需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报"
  },
- "email_hook": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
+ "email_hook": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 2 封 0 回；用户表「12 光 12 电 ×2、3 次回复、WA」）",
+   "type": "南美系统集成（RYMTECH）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "LatAm",
+   "cadence": "WA",
+   "evidence": "邮件：去信 2 封（2024-09-09 → 2024-10-11），来信 0；Opened 标签 0 次；收件人 cirruslink1983@gmail.com, rosorio@rym-tech.net"
+  },
+  "situation": "需求具体但邮件无痕。",
+  "need": "12 光 12 电 ×2。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "SmartByte 12 光 12 电",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

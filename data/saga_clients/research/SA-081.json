@@ -116,5 +116,57 @@
   "tier": 20,
   "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
  },
- "email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting."
+ "email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）",
+   "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "价格后停（翻新件价格基准极低）",
+   "revive": "只谈管理型新品补充线 + FCC",
+   "lane": "US",
+   "cadence": "一次",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
+  "need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",
+  "breakpoint": "价格基准（翻新 Cisco）vs 新品。",
+  "saga_now": {
+   "p1": "STI-288DGGPM-2BT（90W 款）",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "E 邮箱 → nealc@softnetworks.net",
+   "action": "一句话问 5 月报价的反馈",
+   "one_question": "Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-29",
+    "dir": "来（Elsa 箱）",
+    "who": "Neal Cennamo",
+    "quote": "I never buy Unmanaged.",
+    "why": "筛选标准",
+    "k": "E 19682eba2d4de4b4"
+   },
+   {
+    "date": "2025-05-13",
+    "dir": "来（Elsa 箱）",
+    "who": "Neal",
+    "quote": "What is the price for this one?",
+    "why": "询价",
+    "k": "E 196ca1e02d95c29d"
+   }
+  ],
+  "proof_gaps": [
+   "Elsa 05-14 回价正文未入库"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

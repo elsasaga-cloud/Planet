@@ -111,5 +111,57 @@
   "tier": 20,
   "why": "分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）"
  },
- "email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?"
+ "email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 23 封 0 回，Opened 2 次（2024-11-12））",
+   "type": "卡塞塔 AV/安防集成（TAV Group）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WhatsApp（研究档有手机）",
+   "lane": "IT/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-16），来信 0；Opened 标签 2 次（2024-08-07、2024-11-12）；收件人 f.brighel@transaudiovideo.com"
+  },
+  "situation": "23 封被打开 2 次（同日）。",
+  "need": "8/24 口 PoE 项目价。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-28DGGPM / STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "WhatsApp",
+   "action": "一页式报价（研究档）",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-08-07",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「24 port passive poe switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "535fa639b6b07db7"
+   },
+   {
+    "date": "2024-11-12",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "8fcd8b6dea1d95ec"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -132,5 +132,49 @@
   "tier": 20,
   "why": "RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号"
  },
- "email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU."
+ "email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-04-21；用户表「已回复」无原文）",
+   "type": "波兰分销（自有型号，已贴牌 N-Net 工业 PoE，RFoG）——次重点",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "对位 RF-GP2803PGM 一次",
+   "lane": "PL/EU",
+   "cadence": "一次",
+   "evidence": "邮件：去信 17 封（2024-09-30 → 2026-09-25），来信 0；Opened 标签 1 次（2025-04-21）；收件人 bok@rfog.pl, tomasz.paszkowski@rfog.pl"
+  },
+  "situation": "已在贴牌 N-Net（用户表）= 白牌采购惯手；邮件被打开过 1 次。",
+  "need": "8GE PoE + 2SFP 工业管理。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STI-288DGGPM 对位 RF-GP2803PGM",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
+   "action": "一封对位表",
+   "one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-21",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "8e20d308a9952ad4"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -140,5 +140,49 @@
   "tier": 20,
   "why": "Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档"
  },
- "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending."
+ "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）",
+   "type": "莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "需求是 Brocade（品牌货源），不是 OEM",
+   "revive": "其 Microsens 工业线的性价比替代（研究档）",
+   "lane": "RU",
+   "cadence": "不主动",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。",
+  "need": "Brocade 原厂货（Saga 不做）。",
+  "breakpoint": "需求错位。",
+  "saga_now": {
+   "p1": "STI 工业线（替代 Microsens）",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-01-26",
+    "dir": "来（Elsa 箱）",
+    "who": "Pavel Karpov（CCS）",
+    "quote": "Hello! Can you provide Brocade switches?",
+    "why": "需求错位",
+    "k": "E 19bf935676cdb7e6"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

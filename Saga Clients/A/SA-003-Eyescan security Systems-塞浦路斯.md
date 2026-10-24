@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。（调研 2026-10-21；表内兴趣：工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM但会考虑）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — —；—
+- **第一问（只问一个）**：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：按 WA 节奏 WhatsApp WhatsApp 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-003` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 16 封 0 回；用户表「具体型号问价 4 光 24 电 / 2 光 24」应来自 WhatsApp）** ｜ 类型：塞浦路斯安防集成 + 分销（Marinos） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：邮件层无互动；Opened 1 次（2025-05-29） ｜ 复活：WhatsApp（用户表） ｜ 通路：CY/EU ｜ 节奏：WhatsApp 季度 ｜ 证据：邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 1 次（2025-05-29）；收件人 marinos@eyescan.com.cy
+- **现状一句话**：邮件两年 16 封只被打开 1 次；若「问价」属实，渠道在 WhatsApp。
+- **对方真实需求（有据）**：24 口 PoE 管理（4 光/2 光）。
+- **断点 / 为什么停在这里**：邮件不是其渠道。
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，—）———
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp 一句话
+  - 第一问（只问一个）：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-29 | 去 | Saga（群发） | 「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `66ef1c3d2c1a5e08` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

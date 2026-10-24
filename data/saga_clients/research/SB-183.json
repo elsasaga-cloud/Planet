@@ -96,5 +96,40 @@
   "tier": 20,
   "why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
  },
- "email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?"
+ "email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 20 封 0 回、Opened 0）",
+   "type": "意大利 Kyma Srl",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "—",
+   "lane": "IT/EU",
+   "cadence": "不主动",
+   "evidence": "邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it"
+  },
+  "situation": "20 封 0 打开。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "不主动",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

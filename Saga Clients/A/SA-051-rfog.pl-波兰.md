@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。（调研 2026-10-21；表内兴趣：MC 3GSDI CVI  很多国内供应商 VC(复杂的） 工业FS（小壳））
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）；最近一次客户回复：2024-03-28：有点兴趣 让发资料
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 RF-GP2803PGM — —；—
+- **第一问（只问一个）**：For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → tomasz.paszkowski@rfog.pl 一封对位表
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-051` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（邮件 17 封 0 回，Opened 1 次 2025-04-21；用户表「已回复」无原文）** ｜ 类型：波兰分销（自有型号，已贴牌 N-Net 工业 PoE，RFoG）——次重点 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：— ｜ 复活：对位 RF-GP2803PGM 一次 ｜ 通路：PL/EU ｜ 节奏：一次 ｜ 证据：邮件：去信 17 封（2024-09-30 → 2026-09-25），来信 0；Opened 标签 1 次（2025-04-21）；收件人 bok@rfog.pl, tomasz.paszkowski@rfog.pl
+- **现状一句话**：已在贴牌 N-Net（用户表）= 白牌采购惯手；邮件被打开过 1 次。
+- **对方真实需求（有据）**：8GE PoE + 2SFP 工业管理。
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 RF-GP2803PGM**（20% 档，—）———
+- **下一步（具体）**：2026-11　A 邮箱 → tomasz.paszkowski@rfog.pl　一封对位表
+  - 第一问（只问一个）：For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-21 | 去 | Saga（群发） | 「90W PoE Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `8e20d308a9952ad4` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 
 ## 基本事实（事实/推断/假设分层）
 

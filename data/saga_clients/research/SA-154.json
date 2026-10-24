@@ -110,5 +110,40 @@
   "tier": 25,
   "why": "其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档"
  },
- "email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW."
+ "email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G）",
+   "type": "杜伊斯堡安防经销/项目（Falke Security）——德国主攻",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "info@ 0 打开",
+   "revive": "换联系人 + 对位两款",
+   "lane": "DE",
+   "cadence": "一次",
+   "evidence": "邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de"
+  },
+  "situation": "info@ 两年 0 打开；机型兴趣在邮件无痕。",
+  "need": "STC-424XGGPM-280W / 2.5G 1 光 8 电。",
+  "breakpoint": "触达层。",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "—",
+   "channel": "—",
+   "action": "找具名 KP",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [
+   "机型兴趣出处未见"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

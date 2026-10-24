@@ -1626,7 +1626,51 @@
 "tier": 25,
 "why": "CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W"
 },
-"email_hook": "For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers."
+"email_hook": "For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 16 封 0 回；用户表「具体型号问价 4 光 24 电 / 2 光 24」应来自 WhatsApp）",
+"type": "塞浦路斯安防集成 + 分销（Marinos）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "邮件层无互动；Opened 1 次（2025-05-29）",
+"revive": "WhatsApp（用户表）",
+"lane": "CY/EU",
+"cadence": "WhatsApp 季度",
+"evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 1 次（2025-05-29）；收件人 marinos@eyescan.com.cy"
+},
+"situation": "邮件两年 16 封只被打开 1 次；若「问价」属实，渠道在 WhatsApp。",
+"need": "24 口 PoE 管理（4 光/2 光）。",
+"breakpoint": "邮件不是其渠道。",
+"saga_now": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WhatsApp 一句话",
+"one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
+},
+"facts": [
+{
+"date": "2025-05-29",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "66ef1c3d2c1a5e08"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -2341,7 +2385,42 @@
 "tier": 25,
 "why": "已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选"
 },
-"email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent."
+"email_hook": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 15 封 0 回、Opened 0；用户表「样品购买 + 型号问价」无 PI/邮件痕迹）",
+"type": "德国安防（boecek.de，实体不可核）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "邮件从未被打开",
+"revive": "核实实体后再定",
+"lane": "DE",
+"cadence": "不主动",
+"evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de"
+},
+"situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。",
+"need": "—",
+"breakpoint": "触达无效 + 证据缺失。",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "核实 boecek@ 是否有效",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"用户表「样品购买」无 PI；邮件 0 打开"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -3540,7 +3619,53 @@
 "tier": 20,
 "why": "自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源"
 },
-"email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version."
+"email_hook": "For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.",
+"mail_review": {
+"binding": {
+"level": "轻度绑定（1 张样品单 2024-05-23：STI-050GE ×2 $24 + STI-080GE ×2 $31 = $110；PI 包标「gg」= 难复购；邮件 0 往来）",
+"type": "克拉斯诺亚尔斯克工业自动化分销（РИО-ИМПОРТ，Igor Popov）——俄罗斯非主攻，收款路径特殊",
+"sieve": "5（付样付款）",
+"stop": "样品后 17 个月无下文（PI 包「gg」）",
+"revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
+"lane": "RU",
+"cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
+"evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包"
+},
+"situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
+"need": "工业 DIN 非管理小口数（自动化分销）。",
+"breakpoint": "样品后无反馈；俄罗斯付款/物流摩擦。",
+"saga_now": {
+"p1": "STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型",
+"tier": 20,
+"price": "按现价表",
+"why": "样品在其手上",
+"repeat": [],
+"gaps": [
+"样品测试反馈从未记录"
+]
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "Simon 原通道",
+"action": "一句话问样机下落",
+"one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
+},
+"facts": [
+{
+"date": "2024-05-23",
+"dir": "PI",
+"who": "Simon → Igor Popov",
+"quote": "STI-050GE … 2 pcs 24 USD; STI-080GE … 2 pcs 31 USD; Sample Testing",
+"why": "样品单",
+"k": "PI STSC20240523008"
+}
+],
+"proof_gaps": [
+"无邮件往来（A/S 两箱 0 封）"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -4418,7 +4543,42 @@
 "tier": 25,
 "why": "CCTV 集成接入：STC-28DGGPM 为主、STI-144GP 户外箱位；集成商 25% 档"
 },
-"email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW."
+"email_hook": "For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 2 封 0 回；用户表「3 次实质回复 + WhatsApp」= WhatsApp 关系）",
+"type": "比勒陀利亚 CCTV 集成（Taurus Vision）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WhatsApp",
+"lane": "ZA 非主攻",
+"cadence": "WhatsApp",
+"evidence": "邮件：去信 2 封（2026-08-07 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 sales@taurusvision.com"
+},
+"situation": "邮件只在 2026-08/10 发过两封；关系在 WhatsApp。",
+"need": "8/16 口 PoE 小批量。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WhatsApp",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -6470,7 +6630,51 @@
 "tier": 20,
 "why": "询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W"
 },
-"email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity."
+"email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-10-28；用户表「100 台工业 FS 询盘」在邮件无痕——在 Saga 自己的 TR 重点名单内）",
+"type": "土耳其网络分销（DCN 分销，Koptek）——主攻区",
+"sieve": "0（邮件层无人工回复）",
+"stop": "邮件层无互动",
+"revive": "土耳其主攻：一封针对性（对位 IM-FS280GW 2 光 8 电）",
+"lane": "TR",
+"cadence": "一次 + 季度",
+"evidence": "邮件：去信 17 封（2024-07-08 → 2026-10-06），来信 0；Opened 标签 1 次（2025-10-28）；收件人 info@coptek.com.tr"
+},
+"situation": "17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。",
+"need": "工业光纤交换机 2 光 8 电（100 台级）。",
+"breakpoint": "渠道未知（WhatsApp/展会？）。",
+"saga_now": {
+"p1": "STI-288DGGPM 对位 IM-FS280GW",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → info@coptek.com.tr（+ WA 若有）",
+"action": "一封对位表 + 问 100 台询盘",
+"one_question": "Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?"
+},
+"facts": [
+{
+"date": "2025-10-28",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "04dd529092533295"
+}
+],
+"proof_gaps": [
+"「100 台工业 FS 询盘」出处未见"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -9497,7 +9701,42 @@
 "tier": 30,
 "why": "WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo"
 },
-"email_hook": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand."
+"email_hook": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 27 封 0 回、Opened 0）",
+"type": "泰国光纤分销（自有 logo，WIDEN）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "27 封从未打开",
+"revive": "—",
+"lane": "TH",
+"cadence": "不主动",
+"evidence": "邮件：去信 27 封（2024-06-24 → 2026-09-28），来信 0；Opened 标签 0 次；收件人 info@widen.co.th, thawat@widen.co.th"
+},
+"situation": "两年 27 封邮件 0 打开：地址 info@/thawat@ 很可能不看外部邮件。",
+"need": "MC/光口交换机贴牌（用户表）。",
+"breakpoint": "触达无效。",
+"saga_now": {
+"p1": "STI-110GE",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "移出群发或换联系人",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -10791,7 +11030,67 @@
 "tier": 30,
 "why": "IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档"
 },
-"email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line."
+"email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.",
+"mail_review": {
+"binding": {
+"level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）",
+"type": "新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "可信度核验（网站/地址）后停；当时 sagatele.com 未上线",
+"revive": "用 sagatele.com + 公司地址重发一次",
+"lane": "SG 非主攻",
+"cadence": "一次",
+"evidence": "邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com"
+},
+"situation": "唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。",
+"need": "自有品牌 PoE 交换机（对位其在用 ONV——用户表）。",
+"breakpoint": "可信度门槛；现有网站可补。",
+"saga_now": {
+"p1": "STI-288DGGPM",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "E 或 A 邮箱 → ak@impulsecctv.com",
+"action": "一封：sagatele.com + 地址 + 一句话",
+"one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today?"
+},
+"facts": [
+{
+"date": "2026-01-07",
+"dir": "来（Elsa 箱）",
+"who": "Amol Kumar（Impulse CCTV）",
+"quote": "pls share your company website and your address",
+"why": "核验",
+"k": "E 19b9767e81c6fe96"
+},
+{
+"date": "2025-02-21",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "f408faefdae4dd88"
+},
+{
+"date": "2024-07-08",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "bbfc5a22d14032ff"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -12924,7 +13223,67 @@
 "tier": 20,
 "why": "Sewell 在售 PoE 注入器为 10/100 af 单口 → 升级位是 4+1 千兆 PoE 小交换机（STI-144GP，电商档 20%）与 8 口 STC-28DGGPM；注入器/电源本身继续走其现有采购，Saga 不报电源"
 },
-"email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first."
+"email_hook": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 20 封 0 回，Opened 3 次（最近 2025-10-13）；用户表「成交 + 复购」在 PI 包无 Sewell）",
+"type": "美国 AV 连接品牌/电商（Sewell Direct，4 个收件人）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "若成交属实应有 PI——先核",
+"lane": "US",
+"cadence": "季度",
+"evidence": "邮件：去信 20 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 3 次（2025-04-02、2025-05-01、2025-10-13）；收件人 brent@sewelldirect.com, brett@sewelldirect.com, kelson@sewelldirect.com, pernell@sewelldirect.com, service@sewelldirect."
+},
+"situation": "4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。",
+"need": "PoE 注入器/小 PoE 交换机（AV 配套）。",
+"breakpoint": "证据冲突。",
+"saga_now": {
+"p1": "PoE 注入器 + STC-28DGGPM",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "先核成交证据",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2025-04-02",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "65f347c97b5b0d0b"
+},
+{
+"date": "2025-05-01",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「10G Media Converter」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "d759d1535e90b464"
+},
+{
+"date": "2025-10-13",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "868baaf6e6acfd0a"
+}
+],
+"proof_gaps": [
+"「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -16006,7 +16365,42 @@
 "tier": 30,
 "why": "AddOn MC 全线为 RJ45→SFP 贴牌外采：ADD-GMC-SFP 对位 STI-110GE（千兆 MC），工业/管理/PoE 变体需向 SmartByte 核对应型号；OEM 贴牌 30% 档，但量大可谈"
 },
-"email_hook": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples."
+"email_hook": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 33 封 0 回、Opened 0；用户表「已买样 + 具名 KP」无 PI）",
+"type": "美国兼容光模块品牌（AddOn Networks，4 个收件人）——体量大于 Saga 常规客户",
+"sieve": "0（邮件层无人工回复）",
+"stop": "33 封 0 打开",
+"revive": "交期承诺（用户表痛点）",
+"lane": "US",
+"cadence": "不加频",
+"evidence": "邮件：去信 33 封（2025-04-02 → 2026-08-31），来信 0；Opened 标签 0 次；收件人 anthony.giunta@addonnetworks.com, matt@addoncomputer.com, sales@addonnetworks.com, tyler.griffey@addonnetworks.com"
+},
+"situation": "两年 33 封零打开——企业邮箱可能拦截 Gmail 群发。",
+"need": "MC 自有品牌线补源，交期敏感。",
+"breakpoint": "触达无效。",
+"saga_now": {
+"p1": "STI-110GE",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "换渠道（LinkedIn KP）",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"「已买样」无 PI"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -16920,7 +17314,59 @@
 "tier": 20,
 "why": "明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话"
 },
-"email_hook": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have."
+"email_hook": "For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 28 封 0 回，Opened 2 次（2024-06-21 当天）；用户表「2 次实质回复 + 问价」应在 WhatsApp）",
+"type": "澳洲工业线缆分销（CDS）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "首封被打开后两年静默",
+"revive": "—",
+"lane": "AU 非主攻",
+"cadence": "不主动",
+"evidence": "邮件：去信 28 封（2024-06-21 → 2026-09-30），来信 0；Opened 标签 2 次（2025-11-19、2024-06-21）；收件人 paul@cabledistribution.com.au, ross.wasserman@cabledistribution.com.au"
+},
+"situation": "首日打开两次之后 27 封无动静。",
+"need": "1 光 4 电工业 PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-144GP",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2025-11-19",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "be9998111900ae04"
+},
+{
+"date": "2024-06-21",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「CCTV poe switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "b135d2a3fa4dece3"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -17175,7 +17621,59 @@
 "tier": 25,
 "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
 },
-"email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites."
+"email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 15 封 0 来信，但 2 封 Saga 去信带 Replied 标签（2025-09-08 Opened）→ 回复发生在别的地址/渠道）",
+"type": "奥斯汀安防安装商（Avenger Security）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WhatsApp/电话（用户表）",
+"lane": "US",
+"cadence": "季度",
+"evidence": "邮件：去信 15 封（2025-01-23 → 2026-09-08），来信 0；Opened 标签 2 次（2025-06-11、2025-09-08）；收件人 brandon@getsecurityalarm.com, info@getsecurityalarm.com"
+},
+"situation": "Replied 标签说明 Saga 回过对方——对方来信可能从未关联到本户（私人邮箱）。",
+"need": "8/16 口 PoE 自装。",
+"breakpoint": "单量小。",
+"saga_now": {
+"p1": "STC-28DGGPM",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "S 邮箱 → brandon@",
+"action": "一句话",
+"one_question": "Any install this quarter where an 8-port PoE at the 60-USD class fits?"
+},
+"facts": [
+{
+"date": "2025-06-11",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "ea72575dc36805b9"
+},
+{
+"date": "2025-09-08",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "a993a01057d0d553"
+}
+],
+"proof_gaps": [
+"Replied 标签对应的来信未关联本户"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -19380,7 +19878,51 @@
 "tier": 30,
 "why": "其 SN-GS2300-10FP（8 PoE + 2 SFP 管理，$400 零售）对位 STC-28DGGPM（EXW $87 @30%）；24 口 SN-GS1300-26FP 对位 STC-424DGGPM-280W；工业 ISN-GS 对位 STI-144GP/288DGGPM；贴 Snexus 标 30% 档"
 },
-"email_hook": "Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent."
+"email_hook": "Your SN-GS2300-10FP retails at 400 dollars, and the Marvell-based 8-port PoE+ managed unit with 2 SFP that fits that slot lands well under a quarter of that at EXW in Snexus packing, so I am quoting it together with the 24-port 26FP equivalent.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-11-26；用户表：展会面谈 + WhatsApp + 索要免费样品）",
+"type": "伊斯坦布尔自有品牌白牌采购（Snexus，SN-GS2300-28F）——主攻区",
+"sieve": "0（邮件层无人工回复）",
+"stop": "免费样品诉求 vs 付样规则",
+"revive": "WhatsApp（用户表）；对位 SN-GS2300-28F 一次",
+"lane": "TR",
+"cadence": "WA 季度",
+"evidence": "邮件：去信 17 封（2024-06-24 → 2026-09-17），来信 0；Opened 标签 1 次（2025-11-26）；收件人 info@snexus.com.tr"
+},
+"situation": "展会见过、WA 在手、要免费样——典型 C6 付样筛子案例；邮件只被打开 1 次。",
+"need": "24+4 SFP 管理型贴牌。",
+"breakpoint": "免费样。",
+"saga_now": {
+"p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA 一句话（付样 + 首批量）",
+"one_question": "If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?"
+},
+"facts": [
+{
+"date": "2025-11-26",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "7386567b0f7ec1c7"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -21140,6 +21682,80 @@
 "web_watch_targets": "scripts/web_watch/targets.json#SA-049",
 "status": "data/customer_watch/当前状态.md",
 "log": "data/customer_watch/变化日志.md"
+},
+"mail_review": {
+"binding": {
+"level": "轻度绑定（3 单复购：2024-11 ×1、2025-01 ×5、2025-10 ×2，全部 STI-0160GE，$88/$88/$87；关系在 WhatsApp，邮件仅 1 封群发）",
+"type": "印度班加罗尔方案商/自有品牌（CEO Manoj Kumar 直联）——PI 包 #14「可发展」",
+"sieve": "5（三次付款 T/T in advance，自提/FedEx）",
+"stop": "无停点；节奏由其项目决定（间隔 2 个月、9 个月）",
+"revive": "—（活跃）",
+"lane": "IN（非主攻但在复购）",
+"cadence": "WhatsApp；每单后一句话问下一个项目",
+"evidence": "PI STSC20241108014（1 pc $88，2024-11-08）、STSC20250107014（5 pcs $440，2025-01-07）、STSC20251009014（2 pcs $174，2025-10-09）；采购合同 LT-IS6016G-16GT 未税 512 RMB/台"
+},
+"situation": "Sundar Techno 是 A 邮箱看不见的成单户：三张 PI 都是 STI-0160GE（16 电口工业非管理，-40~75℃，DIN，中性包装，不放保修卡/QC 贴）。研究档「2023 年后沉寂需重新激活」是错的——最近一单 2025-10-09。",
+"need": "工业 16 口非管理 DIN（配套其工业 PC/网关方案），每次 1–5 台。",
+"breakpoint": "无；小量多次 = 用户说的「1 次不行就 10 次」正在发生。",
+"saga_now": {
+"p1": "STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句",
+"tier": 30,
+"price": "STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）",
+"why": "已成交三次",
+"repeat": [
+"2024-11",
+"2025-01",
+"2025-10"
+],
+"gaps": [
+"成交价毛利低于 Marvell ≥25% 底线（工业非管理款是否 Realtek 线？核价格主表）"
+]
+},
+"next_move": {
+"when": "2026-12（上单后 2 个月）",
+"channel": "WhatsApp +91 9482081014",
+"action": "一句话问下一批 + 提管理型",
+"one_question": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
+},
+"facts": [
+{
+"date": "2024-11-08",
+"dir": "PI",
+"who": "Simon → Manoj Kumar（CEO）",
+"quote": "STI-0160GE … 1 pc, 88 USD, Sample Testing, Neutral Device",
+"why": "首单",
+"k": "PI STSC20241108014"
+},
+{
+"date": "2025-01-07",
+"dir": "PI",
+"who": "Simon → Sundar",
+"quote": "STI-0160GE … 5 pcs, 88 USD, 440 USD",
+"why": "复购 1",
+"k": "PI STSC20250107014"
+},
+{
+"date": "2025-10-09",
+"dir": "PI",
+"who": "Simon → Sundar",
+"quote": "STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW",
+"why": "复购 2",
+"k": "PI STSC20251009014"
+},
+{
+"date": "2024-11-09",
+"dir": "采购合同",
+"who": "Saga → SmartByte",
+"quote": "LT-IS6016G-16GT = STI-0160GE，单价 512 RMB，中性设备，不放保修卡",
+"why": "成本/贴牌要求",
+"k": "采购合同_STSC20241108014"
+}
+],
+"proof_gaps": [
+"WhatsApp 往来未入库"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -22219,7 +22835,51 @@
 "tier": 20,
 "why": "RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号"
 },
-"email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU."
+"email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-04-21；用户表「已回复」无原文）",
+"type": "波兰分销（自有型号，已贴牌 N-Net 工业 PoE，RFoG）——次重点",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "对位 RF-GP2803PGM 一次",
+"lane": "PL/EU",
+"cadence": "一次",
+"evidence": "邮件：去信 17 封（2024-09-30 → 2026-09-25），来信 0；Opened 标签 1 次（2025-04-21）；收件人 bok@rfog.pl, tomasz.paszkowski@rfog.pl"
+},
+"situation": "已在贴牌 N-Net（用户表）= 白牌采购惯手；邮件被打开过 1 次。",
+"need": "8GE PoE + 2SFP 工业管理。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-288DGGPM 对位 RF-GP2803PGM",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
+"action": "一封对位表",
+"one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
+},
+"facts": [
+{
+"date": "2025-04-21",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "8e20d308a9952ad4"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -23848,7 +24508,42 @@
 "tier": 30,
 "why": "AE-PS8082SFT-M（8 GE PoE + 2 SFP L2）= STC-28DGGPM；AE-PS242SFT-M = STC-424DGGPM-280W；AE700-IPS8GE4GF-M ≈ STI-288DGGPM；OEM 30% 档"
 },
-"email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line."
+"email_hook": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line.",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封——用户表「3 次实质回复」渠道不明）",
+"type": "印度自有品牌（AE Connect，200+ 经销商）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "IN 非主攻",
+"cadence": "不主动",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无任何邮件。",
+"need": "贴牌 8/24 口 PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-28DGGPM",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -24287,7 +24982,42 @@
 "tier": 30,
 "why": "自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档"
 },
-"email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files."
+"email_hook": "For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 3 封 0 回、Opened 0）",
+"type": "印度光纤配套品牌（DNC，MC 贴牌）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "IN",
+"cadence": "不主动",
+"evidence": "邮件：去信 3 封（2024-06-19 → 2024-12-11），来信 0；Opened 标签 0 次；收件人 coo@dncsolutions.co.in"
+},
+"situation": "3 封无互动。",
+"need": "MC 贴牌。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-110GE",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -24784,7 +25514,42 @@
 "tier": 30,
 "why": "MT-SW1024PE 的千兆管理升级位 = STC-424DGGPM-280W；8 口位 STC-28DGGPM；贴 MT- 型号 30% 档"
 },
-"email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside."
+"email_hook": "Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 2 封 0 回）",
+"type": "卡拉奇白牌品牌商（MT-Link）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "PK",
+"cadence": "不主动",
+"evidence": "邮件：去信 2 封（2026-03-12 → 2026-08-10），来信 0；Opened 标签 0 次；收件人 info@mt-link.com"
+},
+"situation": "2 封无互动；南亚价格极敏感。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -27195,7 +27960,42 @@
 "tier": 20,
 "why": "LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档"
 },
-"email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source."
+"email_hook": "Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the Marvell switch core as the differentiator against your current source.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 23 封 0 回、Opened 0；用户表「2 次实质回复」无原文）",
+"type": "波兰自有品牌电商（Fibermarkt / LightOptics）——次重点",
+"sieve": "0（邮件层无人工回复）",
+"stop": "23 封 0 打开（sales@ 通用箱）",
+"revive": "找产品负责人",
+"lane": "PL/EU",
+"cadence": "一次",
+"evidence": "邮件：去信 23 封（2024-06-19 → 2026-09-25），来信 0；Opened 标签 0 次；收件人 sales@fibermarkt.com"
+},
+"situation": "sales@ 两年 0 打开；用户表说回过 2 次——不在仓库。",
+"need": "LO-IGS-M8GT2GF-HPOE 对位。",
+"breakpoint": "触达层。",
+"saga_now": {
+"p1": "STI-288DGGPM",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "换联系人",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"「2 次实质回复」无原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -32779,7 +33579,42 @@
 "tier": 25,
 "why": "ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知"
 },
-"email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
+"email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 8 封 0 回；用户表「3 次回复 + WA 在线 + 高管」= WA）",
+"type": "迪拜 IT/ELV 集成（Tecpro，Shereef）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "AE 非主攻",
+"cadence": "WA",
+"evidence": "邮件：去信 8 封（2026-03-23 → 2026-10-01），来信 0；Opened 标签 0 次；收件人 shereef@tecprosolutions.com"
+},
+"situation": "历史询盘是 HDMI 转换器（Saga 不做）。",
+"need": "ELV 项目 PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-424DGGPM-280W",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -33144,7 +33979,42 @@
 "tier": 25,
 "why": "ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档"
 },
-"email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
+"email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 2 封 0 回；用户表「2 光 4 电 + ERPS 环网」需求 + WA）",
+"type": "雅加达安防/IT 集成（BSN）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "ID",
+"cadence": "WA",
+"evidence": "邮件：去信 2 封（2024-11-20 → 2025-02-04），来信 0；Opened 标签 0 次；收件人 aarstyan@gmail.com, sales@bsn-system.com"
+},
+"situation": "需求具体（ERPS 环网）但邮件无痕。",
+"need": "STI 2 光 4 电管理 + ERPS。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-244GP 管理版",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -34301,7 +35171,59 @@
 "tier": 20,
 "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
 },
-"email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting."
+"email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.",
+"mail_review": {
+"binding": {
+"level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）",
+"type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
+"sieve": "0（邮件层无人工回复）",
+"stop": "价格后停（翻新件价格基准极低）",
+"revive": "只谈管理型新品补充线 + FCC",
+"lane": "US",
+"cadence": "一次",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
+"need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",
+"breakpoint": "价格基准（翻新 Cisco）vs 新品。",
+"saga_now": {
+"p1": "STI-288DGGPM-2BT（90W 款）",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "E 邮箱 → nealc@softnetworks.net",
+"action": "一句话问 5 月报价的反馈",
+"one_question": "Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?"
+},
+"facts": [
+{
+"date": "2025-04-29",
+"dir": "来（Elsa 箱）",
+"who": "Neal Cennamo",
+"quote": "I never buy Unmanaged.",
+"why": "筛选标准",
+"k": "E 19682eba2d4de4b4"
+},
+{
+"date": "2025-05-13",
+"dir": "来（Elsa 箱）",
+"who": "Neal",
+"quote": "What is the price for this one?",
+"why": "询价",
+"k": "E 196ca1e02d95c29d"
+}
+],
+"proof_gaps": [
+"Elsa 05-14 回价正文未入库"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -34736,7 +35658,42 @@
 "tier": 30,
 "why": "NVC 商用线已满（新桥/ONV），只做工业 OEM：STI-288DGGPM（8 GE PoE + 2 SFP DIN 管理）+ STI-144GP（4+1）作 NVC 工业入门双 SKU，按 NVC- 命名；OEM 30% 档"
 },
-"email_hook": "Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files."
+"email_hook": "Your NVC range covers the commercial PoE side well, so for the industrial line we discussed at ISAF I am quoting the 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact unit as NVC-branded SKUs, EXW with CE/FCC files.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 24 封 0 回、Opened 0；用户表：展会面对面 + CEO + OEM/工业线意向）",
+"type": "土耳其弱电安防进口批发（Nova Grup / Novacom，4 个收件人）——主攻区",
+"sieve": "0（邮件层无人工回复）",
+"stop": "企业邮箱 0 打开",
+"revive": "WA/电话（展会名片）",
+"lane": "TR",
+"cadence": "一次 + 季度",
+"evidence": "邮件：去信 24 封（2024-06-14 → 2026-10-06），来信 0；Opened 标签 0 次；收件人 ali@nova-grup.com, cem@novacom.com.tr, info@nova-grup.com, satis@novacom.com.tr"
+},
+"situation": "4 个地址、24 封、0 打开——邮件通道基本无效；展会关系在 Simon 手上。",
+"need": "工业 PoE 贴牌（在用新桥/ONV）。",
+"breakpoint": "渠道。",
+"saga_now": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA 一句话",
+"one_question": "Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?"
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -35131,7 +36088,42 @@
 "tier": 20,
 "why": "BS-SWP8/2（8 PoE 百兆）千兆管理升级 = STC-28DGGPM；BS-SWP24/2Q = STC-424DGGPM-280W；2.5G 兴趣 = STC-424XGGPM-280W；工业位 STI-288DGGPM 作 EWIND 二供；分销 20% 档"
 },
-"email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF."
+"email_hook": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 16 封 0 回、Opened 0；用户表：CEO 直接，已有 EWIND 供应商）",
+"type": "塞萨洛尼基安防批发（B&S Electronics，imports@）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "imports@ 0 打开",
+"revive": "换联系人",
+"lane": "GR/EU",
+"cadence": "一次",
+"evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 0 次；收件人 imports@bselectronics.gr"
+},
+"situation": "imports@ 通用箱两年 0 打开。",
+"need": "8 口 PoE / 2.5G / 升压 PoE。",
+"breakpoint": "触达层。",
+"saga_now": {
+"p1": "STC-28DGGPM",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "换联系人",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -37413,7 +38405,51 @@
 "tier": 20,
 "why": "贸易商走量品：STI-110GE（MC）+ STC-28DGGPM；分销 20% 档"
 },
-"email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison."
+"email_hook": "For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 18 封 0 回，Opened 1 次 2024-12-18；用户表「5 次实质回复」渠道不明）",
+"type": "圣彼得堡多品牌贸易（Born SPb）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "2026-01 后未再发",
+"revive": "—",
+"lane": "RU",
+"cadence": "不主动",
+"evidence": "邮件：去信 18 封（2024-07-01 → 2026-01-13），来信 0；Opened 标签 1 次（2024-12-18）；收件人 sales@born-spb.ru"
+},
+"situation": "18 封被打开 1 次。",
+"need": "MC / 工业 FS。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-110GE",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2024-12-18",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "3af24011688d7cd2"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -41383,7 +42419,42 @@
 "tier": 25,
 "why": "需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报"
 },
-"email_hook": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?"
+"email_hook": "For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 2 封 0 回；用户表「12 光 12 电 ×2、3 次回复、WA」）",
+"type": "南美系统集成（RYMTECH）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "LatAm",
+"cadence": "WA",
+"evidence": "邮件：去信 2 封（2024-09-09 → 2024-10-11），来信 0；Opened 标签 0 次；收件人 cirruslink1983@gmail.com, rosorio@rym-tech.net"
+},
+"situation": "需求具体但邮件无痕。",
+"need": "12 光 12 电 ×2。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "SmartByte 12 光 12 电",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -45372,7 +46443,42 @@
 "tier": 25,
 "why": "8 SFP + 8 RJ45 管理型非 PoE：标准型谱无对应，需向 SmartByte 核 8 光 8 电 L2/L3 工业机；集成商 25% 档"
 },
-"email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?"
+"email_hook": "Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封；用户表「4 次回复 + WA」）",
+"type": "海得拉巴嵌入式/系统集成（Areca）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "IN",
+"cadence": "WA",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无邮件。",
+"need": "8 光 8 电管理（L2/L3 分档）。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-448XGGPM 类",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -46330,7 +47436,42 @@
 "tier": 20,
 "why": "招标供货商按标书口型临时询价：主力 STC-424DGGPM-280W / STC-28DGGPM 商用管理型；分销 20% 档但 100% 预付、不议账期"
 },
-"email_hook": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
+"email_hook": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 3 封 0 回；用户表「18 次回复」= 全库最活跃联系人之一，渠道在 WA）",
+"type": "莫斯科招投标供货商（ОПТА）——按标书逐单采购",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "标书出现交换机时 24h 内报价（用户表）",
+"lane": "RU",
+"cadence": "按标书",
+"evidence": "邮件：去信 3 封（2026-05-12 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@optat.ru"
+},
+"situation": "邮件层只有 3 封 2026 群发；18 次回复全在邮件之外。",
+"need": "随标书变化。",
+"breakpoint": "收款路径（RU）。",
+"saga_now": {
+"p1": "按标书",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "标书触发",
+"channel": "WhatsApp",
+"action": "标书触发",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -47285,7 +48426,51 @@
 "tier": 25,
 "why": "IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档"
 },
-"email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix."
+"email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 16 封 0 回，Opened 1 次 2026-02-02；用户表「入站询盘 + 年量 ≈150 台工业 PoE」）",
+"type": "以色列 ICT 集成（SMBIT，Yoav）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "对 150 台/年问一次",
+"lane": "IL",
+"cadence": "一次",
+"evidence": "邮件：去信 16 封（2025-06-04 → 2026-10-07），来信 0；Opened 标签 1 次（2026-02-02）；收件人 yoav@smbit.co.il"
+},
+"situation": "邮件被打开 1 次（2026-02）；150 台/年的询盘在邮件无痕。",
+"need": "工业 PoE 150 台/年（市政/学校）。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → yoav@smbit.co.il",
+"action": "一句话",
+"one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
+},
+"facts": [
+{
+"date": "2026-02-02",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "b55e88e2576e6c73"
+}
+],
+"proof_gaps": [
+"「150 台/年」出处未见"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -49087,7 +50272,51 @@
 "tier": 20,
 "why": "Microsens 工业/FTTO 位的低价替代：STI-288DGGPM（8+2 管理）+ STI-144GP；MC 位 STI-110GE；分销 20% 档"
 },
-"email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending."
+"email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.",
+"mail_review": {
+"binding": {
+"level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）",
+"type": "莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "需求是 Brocade（品牌货源），不是 OEM",
+"revive": "其 Microsens 工业线的性价比替代（研究档）",
+"lane": "RU",
+"cadence": "不主动",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。",
+"need": "Brocade 原厂货（Saga 不做）。",
+"breakpoint": "需求错位。",
+"saga_now": {
+"p1": "STI 工业线（替代 Microsens）",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2026-01-26",
+"dir": "来（Elsa 箱）",
+"who": "Pavel Karpov（CCS）",
+"quote": "Hello! Can you provide Brocade switches?",
+"why": "需求错位",
+"k": "E 19bf935676cdb7e6"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -51325,7 +52554,42 @@
 "tier": 25,
 "why": "DIN PoE 项目：STI-288DGGPM（8+2 管理）主推、STI-144GP 辅；集成商 25% 档"
 },
-"email_hook": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input."
+"email_hook": "For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封；用户表「6 次回复 + WA + 工业 DIN PoE 项目」）",
+"type": "印尼工业自动化/MEP 集成（RAS Otomasi）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "ID",
+"cadence": "WA",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无邮件。",
+"need": "STI-288DGGPM 类 DIN PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-288DGGPM",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -55118,7 +56382,42 @@
 "tier": 20,
 "why": "光传输分销的配套品：STI-110GE（MC）+ STI-288DGGPM（工业 FS）；分销 20% 档"
 },
-"email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue."
+"email_hook": "Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 12 封 0 回、Opened 0；用户表「5 次回复 + WA」）",
+"type": "莫斯科光纤传输分销（BPTEHNO）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WA",
+"lane": "RU",
+"cadence": "WA",
+"evidence": "邮件：去信 12 封（2025-04-17 → 2026-08-24），来信 0；Opened 标签 0 次；收件人 info@bptehno.ru"
+},
+"situation": "邮件无互动。",
+"need": "MC → IP/PoE 迁移。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-110GE",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -57050,7 +58349,59 @@
 "tier": 30,
 "why": "OEM 30% 档（Videostar 贴牌）：STC-28DGGPM（8 PoE+ 2 SFP 管理，$87.4）对位 ONV 8 口 PoE；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）；多光口 STC-4168XGGCM（16 SFP + 8 Combo，$408.1）回应「12 光 12 电」"
 },
-"email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?"
+"email_hook": "Sig. Timpanaro, for the Videostar PoE line: an 8-port gigabit PoE+ managed switch with 2 SFP is $87.4 EXW with Videostar label and carton, and the 16-SFP + 8-combo aggregation unit you asked about at IFSEC is $408.1; shall I send the model-by-model comparison against your current ONV codes?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 23 封 0 回，Opened 2 次（最近 2025-08-13））",
+"type": "卡塔尼亚经销/集成（Top Italia / topsicurezza）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "电话（固话在册，研究档）",
+"lane": "IT/EU",
+"cadence": "一次",
+"evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-17），来信 0；Opened 标签 2 次（2025-07-08、2025-08-13）；收件人 info@topsicurezza.com"
+},
+"situation": "23 封被打开 2 次。",
+"need": "12 光 12 电（ONV 对位）。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "SmartByte 12 光 12 电",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "A 邮箱",
+"action": "一封对位表",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2025-07-08",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Marvell Industrial Alert System」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "a683ffdbde380276"
+},
+{
+"date": "2025-08-13",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "456350d728a34de6"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -59427,7 +60778,52 @@
 "tier": 20,
 "why": "550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档"
 },
-"email_hook": "For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative."
+"email_hook": "For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.",
+"mail_review": {
+"binding": {
+"level": "未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）",
+"type": "玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻",
+"sieve": "0（邮件层无人工回复）",
+"stop": "Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕",
+"revive": "其再次询价",
+"lane": "BO 非主攻",
+"cadence": "不主动",
+"evidence": "邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com"
+},
+"situation": "Eduardo 的来信是一张清楚的采购清单：非管理 PoE 全口数、Saga 标准品牌与标准彩盒、要图片——是批发商选品。Elsa 回了，之后无回。",
+"need": "非管理 PoE 5/8/16/24 口（商用，标准包装）。",
+"breakpoint": "回复后静默；价格段（南美批发）可能不匹配 Marvell。",
+"saga_now": {
+"p1": "HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线）",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动；若 Simon 开 Realtek 线则一次对位表",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2025-07-02",
+"dir": "来（Elsa 箱）",
+"who": "Ing. Eduardo Miranda（Gerente）",
+"quote": "Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures",
+"why": "采购清单",
+"k": "E 197cbce0cb34789f"
+}
+],
+"proof_gaps": [
+"Elsa 07-03 回复正文未入库",
+"「550 只 90W 注入器」出处未见"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -60040,7 +61436,59 @@
 "tier": 20,
 "why": "分销 20% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$134.5）+ STC-28DGGPM（$80.7）作商业 PoE 主力；少量工业 STI-288DGGPM（$139.9）；随附完整价格册（其明确索要）"
 },
-"email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?"
+"email_hook": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 23 封 0 回，Opened 2 次（2024-11-12））",
+"type": "卡塞塔 AV/安防集成（TAV Group）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "WhatsApp（研究档有手机）",
+"lane": "IT/EU",
+"cadence": "一次",
+"evidence": "邮件：去信 23 封（2024-07-09 → 2026-09-16），来信 0；Opened 标签 2 次（2024-08-07、2024-11-12）；收件人 f.brighel@transaudiovideo.com"
+},
+"situation": "23 封被打开 2 次（同日）。",
+"need": "8/24 口 PoE 项目价。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-28DGGPM / STC-424DGGPM-280W",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2027-Q1",
+"channel": "WhatsApp",
+"action": "一页式报价（研究档）",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2024-08-07",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「24 port passive poe switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "535fa639b6b07db7"
+},
+{
+"date": "2024-11-12",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "8fcd8b6dea1d95ec"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -60473,7 +61921,42 @@
 "tier": 30,
 "why": "VIES7511-8PGE2GF-DC（8 GE PoE + 2 SFP 工业管理）= STI-288DGGPM；16 口位 STI-21616GP；24+4 位 STC-424DGGPM-280W；VICOM 贴牌 30% 档"
 },
-"email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout."
+"email_hook": "Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 7 封 0 回；用户表：已开视频会 + 自有品牌 + 机型需求）",
+"type": "加尔各答安防集成 + 自有品牌（Vicom）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "2024-12 后未再发",
+"revive": "视频会后的跟进在 Simon 手上",
+"lane": "IN",
+"cadence": "不主动",
+"evidence": "邮件：去信 7 封（2024-06-29 → 2024-12-20），来信 0；Opened 标签 0 次；收件人 info@vicomsecurity.com"
+},
+"situation": "视频会在邮件之外。",
+"need": "4 光 24 电管理 PoE 贴牌。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-424DGGPM-280W",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "Simon 决定",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -61661,7 +63144,42 @@
 "tier": 25,
 "why": "其索价机型（8 电 + 光上联，2.5G/10G）最接近 STC-28DGGPM（8 PoE + 2 SFP）与 STC-424XGGPM-280W（10G 上联）；集成商 25% 档"
 },
-"email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW."
+"email_hook": "You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW.",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 15 封 0 回、Opened 0；用户表：明确机型兴趣 4 光 8 电 10G 上联 / 2.5G）",
+"type": "杜伊斯堡安防经销/项目（Falke Security）——德国主攻",
+"sieve": "0（邮件层无人工回复）",
+"stop": "info@ 0 打开",
+"revive": "换联系人 + 对位两款",
+"lane": "DE",
+"cadence": "一次",
+"evidence": "邮件：去信 15 封（2025-04-15 → 2026-09-24），来信 0；Opened 标签 0 次；收件人 info@falke-security.de"
+},
+"situation": "info@ 两年 0 打开；机型兴趣在邮件无痕。",
+"need": "STC-424XGGPM-280W / 2.5G 1 光 8 电。",
+"breakpoint": "触达层。",
+"saga_now": {
+"p1": "STC-424XGGPM-280W",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "找具名 KP",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"机型兴趣出处未见"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -63327,7 +64845,42 @@
 "tier": 25,
 "why": "现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档"
 },
-"email_hook": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed."
+"email_hook": "For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封；用户表：2 光 2 电 PoE 项目 + 问交期 = 临门一脚）",
+"type": "土耳其 IT 集成（TBI Telemobil）——主攻区",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "Simon 原通道",
+"lane": "TR",
+"cadence": "一次",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无邮件；若「问交期」属实，渠道在 WA。",
+"need": "2 光 2 电工业 PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STI-222GP",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "按 WA 节奏",
+"channel": "WhatsApp",
+"action": "WA 一句话",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -73624,7 +75177,42 @@
 "tier": 25,
 "why": "对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）"
 },
-"email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?"
+"email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 17 封 0 回、Opened 0；由 deepen.py 建档，无首轮调研）",
+"type": "意大利 4Power S.r.l.（3 个收件人）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "IT/EU",
+"cadence": "不主动",
+"evidence": "邮件：去信 17 封（2025-01-29 → 2026-10-08），来信 0；Opened 标签 0 次；收件人 direzione@4power.it, g.chiaese@4power.it, info@4power.it"
+},
+"situation": "17 封 0 打开。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -92313,7 +93901,42 @@
 "tier": 25,
 "why": "集成商 25% 档：STI-488DGGGM（DIN 8 GE + 8×1G SFP + 4×10G SFP+，管理，−40~+75 ℃，$332.6）最接近「12 光 12 电」——12 光（8 SFP + 4 SFP+）/ 8 电，另加 STI-240DGGM 补电口；机架式 12 光 12 电可核 SmartByte 商用 STC-4168XGGCM（16 SFP + 8 Combo，$392.4）"
 },
-"email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
+"email_hook": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 11 封 0 回、Opened 0）",
+"type": "德国 ISIMKO GmbH（Cottbus）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "DE",
+"cadence": "不主动",
+"evidence": "邮件：去信 11 封（2025-03-25 → 2026-09-30），来信 0；Opened 标签 0 次；收件人 info@isimko.de, r.hannemann@isimko.de"
+},
+"situation": "11 封 0 打开。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -173059,7 +174682,42 @@
 "tier": 20,
 "why": "其在售 ISW-504PS（工业 4×FE PoE + 1×FE 非管理 DIN，178,50 € 净价）→ Saga STI-054FP 同口型，20% 档 $29.1 USD EXW，价差最直观；其库存款 ISW-501T 由 STI-050FE 第二封对位；B2B 分销商（走量、自定毛利）→ 20%（沿用 Planet 档案 PA-017）；需求："
 },
-"email_hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?"
+"email_hook": "Your Industrial Ethernet category runs on PLANET DIN-rail units (ISW-504PS at €178.50 net) — a Marvell-based, neutral-packed STI line at EXW gives the same slot a second source with margin you set yourself. For the 4-port PoE DIN-rail class (ISW-504PS), do your Systemhaus customers mostly need Fast Ethernet, or has demand moved to Gigabit PoE — so I send the right sample first?",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封）",
+"type": "德国 U.T.E. Electronic",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "DE",
+"cadence": "不主动",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无邮件。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -199890,7 +201548,42 @@
 "tier": 20,
 "why": "其 3onedata/PLANET 双线均以工业 DIN 交换机为主，8×GE PoE + 2 SFP 是入门走量款；分销走量 → 20%（沿用 Planet 档案 PA-006）；需求：工业 DIN PoE、ERPS、宽温；商用 24 口 PoE"
 },
-"email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?"
+"email_hook": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 20 封 0 回、Opened 0）",
+"type": "意大利 Kyma Srl",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "IT/EU",
+"cadence": "不主动",
+"evidence": "邮件：去信 20 封（2024-06-27 → 2026-09-16），来信 0；Opened 标签 0 次；收件人 info@kyma.it, mara@kyma.it"
+},
+"situation": "20 封 0 打开。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -247681,7 +249374,42 @@
 "tier": 30,
 "why": "OEM 30% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$151.6）配其门禁/环境监测/CCTV 柜（EDS 标）；商用 STC-424DGGPM-280W（$145.7）；历史采购型号待 Simon 从邮箱补"
 },
-"email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
+"email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 12 封 0 回、Opened 0；2026-03 后停发）",
+"type": "土耳其 EDS Elektronik",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "TR",
+"cadence": "不主动",
+"evidence": "邮件：去信 12 封（2024-07-05 → 2026-03-05），来信 0；Opened 标签 0 次；收件人 eds@eds.com.tr"
+},
+"situation": "12 封 0 打开。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -248112,7 +249840,42 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$145.7）作 HCS 品牌主力 L2 PoE；L3 用 STC-424XGGM(L3)（24 GE + 4×10G，$291.5）；楼层 STC-28DGGPM（$87.4）"
 },
-"email_hook": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?"
+"email_hook": "Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?",
+"mail_review": {
+"binding": {
+"level": "未绑定（A/S 邮箱 0 封）",
+"type": "土耳其 HCS Kablolama",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "—",
+"lane": "TR",
+"cadence": "不主动",
+"evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+},
+"situation": "仓库无邮件。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "—",
+"channel": "—",
+"action": "不主动",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -314436,7 +316199,67 @@
 "tier": 20,
 "why": "对位其在售 GSW-2620HP / GS-4210-24P4C 一档（24×GE PoE+ + 4 上联，280W），是安防批发最走量的尺寸；分销走量 → 20%；Norelco 贴牌定制另按 30%（沿用 Planet 档案 PA-004）；需求：24/16/8 口 PoE 商用、贴牌、北美 FCC（Saga 有）、UL（Saga 无——若硬性要求则降级）"
 },
-"email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?"
+"email_hook": "Your PLANET page already lists 17 PoE models next to Norelco SafeCam, so a second-source PoE switch under your own label is a natural fit for your nine branches. Is the 24-port PoE+ with 4 uplinks your highest-volume PLANET SKU across the branches, or do the 8/16-port units move faster?",
+"mail_review": {
+"binding": {
+"level": "未绑定（邮件 18 封 0 回，Opened 3 次（最近 2026-06-12），4 个收件人）",
+"type": "加拿大 NSI Distribution（Ontario）",
+"sieve": "0（邮件层无人工回复）",
+"stop": "—",
+"revive": "对打开过的人发一句话",
+"lane": "CA",
+"cadence": "一次",
+"evidence": "邮件：去信 18 封（2025-05-27 → 2026-09-24），来信 0；Opened 标签 3 次（2025-05-27、2025-11-21、2026-06-12）；收件人 alexs@nsidistribution.com, amanda@nsidistribution.com, claudio@nsidistribution.com, joef@nsidistribution.com, norm@nsidi"
+},
+"situation": "4 个收件人里有人持续打开（3 次，到 2026-06）。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "STC-424DGGPM-280W",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱",
+"action": "一句话",
+"one_question": "You opened our June note on the 24-port PoE — is there a line it would fit?"
+},
+"facts": [
+{
+"date": "2025-05-27",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "c5c7abff2df78e77"
+},
+{
+"date": "2025-11-21",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「Booster PoE Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "0a8d96748590fd99"
+},
+{
+"date": "2026-06-12",
+"dir": "去",
+"who": "Saga（群发）",
+"quote": "「10G L3 Managed Switch」被打开（Mailtrack Opened 标签）",
+"why": "唯一的互动痕迹",
+"k": "0e8efb29e3a824ef"
+}
+],
+"proof_gaps": [
+"邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
