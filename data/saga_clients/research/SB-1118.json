@@ -104,7 +104,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）",
+      "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11",
       "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
       "sieve": "2",
       "stop": "Q-33 + 迟回",
@@ -137,6 +137,14 @@
         "who": "Gmail 退信（A 邮箱）",
         "quote": "svc@mcss.co.kr 永久退信：550 sorry, no mailbox (#5.1.1)",
         "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a e1c1f2f36ab7e6a5"
+      },
+      {
+        "date": "2025-08-11",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "svc@mcss.co.kr 退信：550 sorry, no mailbox (#5.1.1)",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
         "k": "gmail_a e1c1f2f36ab7e6a5"
       },
       {

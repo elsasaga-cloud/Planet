@@ -103,7 +103,7 @@
   "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 1 封被打开（1 次「打开」与退信同日 2024-07-24，是退信触发的像素，不算；真实打开 1 次），0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
@@ -139,11 +139,27 @@
         "k": "gmail_s 169cdf649c10160e"
       },
       {
+        "date": "2024-06-05",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "info@bimel.com.tr 退信：550 Bu adreste böyle bir kimse yok. Final-Recipient: rfc822; info@bimel.com.tr Action: failed Status: 4",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_s 169cdf649c10160e"
+      },
+      {
         "date": "2024-07-24",
         "dir": "内",
         "who": "Gmail 退信（S 邮箱）",
         "quote": "mustafa@bimel.com.tr 永久退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr",
         "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 9aaa8feca1861ef5"
+      },
+      {
+        "date": "2024-07-24",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "mustafa@bimel.com.tr 退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
         "k": "gmail_s 9aaa8feca1861ef5"
       },
       {

@@ -122031,7 +122031,7 @@
 "email_hook": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 23 封 2025→2026，其中 2 封被打开，0 回；收件 asktolanpro@gmail.com, sales@lanpro.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "读而不回（A/S 邮箱 23 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-01-22，是退信触发的像素，不算；真实打开 1 次），0 回；收件 asktolanpro@gmail.com, sales@lanpro.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
 "type": "网络组件品牌商（美国/拉美，自有品牌 LanPro）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -122064,6 +122064,14 @@
 "who": "Gmail 退信（S 邮箱）",
 "quote": "sales@lanpro.com 永久退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 530a633f5d282ffd"
+},
+{
+"date": "2025-01-22",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "sales@lanpro.com 退信：530 IP 209.85.221.174 denied access to SMTP at 01/22/25 10:30:34",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_s 530a633f5d282ffd"
 },
 {
@@ -123770,7 +123778,7 @@
 "email_hook": "Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A 邮箱 19 封 2025→2026，其中 3 封被打开，0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开（1 次「打开」与退信同日 2025-05-27，是退信触发的像素，不算；真实打开 2 次），0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
 "type": "布线系统品牌商（阿联酋，MC/FS 为配套）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -130968,7 +130976,7 @@
 "email_hook": "Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A 邮箱 5 封 2026，其中 2 封被打开，0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）",
+"level": "未触达（A 邮箱 5 封 2026，其中 0 封被打开（2 次「打开」与退信同日 2026-08-18/2026-09-24，是退信触发的像素，不算；真实打开 0 次），0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
@@ -130996,12 +131004,28 @@
 },
 "facts": [
 {
+"date": "2026-08-18",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a 9f022bd57b7e7d1a"
+},
+{
 "date": "2026-09-24",
 "dir": "去",
 "who": "A 群发",
 "quote": "Marvell Managed Commercial Switches、10G L3 Managed Switch",
 "why": "5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来）",
 "k": "gmail_digest"
+},
+{
+"date": "2026-09-24",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a b5e91fb51b7abf8f"
 }
 ],
 "proof_gaps": [],
@@ -150471,7 +150495,7 @@
 "email_hook": "For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+"level": "未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
 "type": "网络产品公司（韩国，待核）",
 "sieve": "1~2（1 次打开）",
 "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -150504,6 +150528,14 @@
 "who": "Gmail 退信（S 邮箱）",
 "quote": "chaesj@zenithtek.co.kr 永久退信：505 this account is unknown user (#5.5.1)",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 8e5ecbcce5f0622a"
+},
+{
+"date": "2024-12-02",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "chaesj@zenithtek.co.kr 退信：505 this account is unknown user (#5.5.1)",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_s 8e5ecbcce5f0622a"
 },
 {
@@ -158431,7 +158463,7 @@
 ],
 "mail_review": {
 "binding": {
-"level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）",
+"level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11",
 "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
 "sieve": "2",
 "stop": "Q-33 + 迟回",
@@ -158464,6 +158496,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "svc@mcss.co.kr 永久退信：550 sorry, no mailbox (#5.1.1)",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a e1c1f2f36ab7e6a5"
+},
+{
+"date": "2025-08-11",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "svc@mcss.co.kr 退信：550 sorry, no mailbox (#5.1.1)",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a e1c1f2f36ab7e6a5"
 },
 {
@@ -160530,7 +160570,7 @@
 "email_hook": "Roberto, under the Korenix JetNet price points — Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW; one evaluation set for the QNV lab?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 16 封 2024→2026，1 次记录打开，0 回；收件 angelng@qnv.com, info@qnv.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
+"level": "未触达（A/S 邮箱 16 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2025-06-06，是退信触发的像素，不算；真实打开 0 次），0 回；收件 angelng@qnv.com, info@qnv.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -160563,6 +160603,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "angelng@qnv.com 永久退信：550 5.1.1 <angelng@qnv.com>: Recipient address rejected: User unknown in virtual mailbox table",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a eb586e333a46833b"
+},
+{
+"date": "2025-06-06",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "angelng@qnv.com 退信：550 5.1.1 <angelng@qnv.com>: Recipient address rejected: User unknown in virtual mailbox table",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a eb586e333a46833b"
 },
 {
@@ -161683,7 +161731,7 @@
 "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 2 封被打开，0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
+"level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -161710,6 +161758,14 @@
 "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
 },
 "facts": [
+{
+"date": "2025-05-28",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a b815d5ee13668ada"
+},
 {
 "date": "2026-10-02",
 "dir": "去",
@@ -184001,7 +184057,7 @@
 "email_hook": "Lawrence, for the PoE switches in your CCTV and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (extend mode for long camera runs, CE/RoHS) from single units, EXW USD — which port count do your Singapore projects use most?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+"level": "未触达（A 邮箱 19 封 2025→2026，0 次有效打开（1 次「打开」与退信同日 2026-09-16，是退信触发的像素，不算；真实打开 0 次），0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
 "type": "安防/布线集成商（新加坡）",
 "sieve": "1~2（1 次打开）",
 "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -184042,6 +184098,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a aa8cdc85cdbf0ebd"
+},
+{
+"date": "2026-09-16",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "joey@keydence.com 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a aa8cdc85cdbf0ebd"
 },
 {
@@ -210436,7 +210500,7 @@
 "email_hook": "Jeneeben, for the entry PoE models in the barox video-network range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP commercial, DIN-rail industrial) from small lots with SNMP/LLDP support for your VMS integration — which model would you consider dual-sourcing first?",
 "mail_review": {
 "binding": {
-"level": "无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）",
+"level": "无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）；退信：info@barox.de 2024-07-19、info@barox.de 2025-03-12、luis.coello@barox.de 2024-06-26、luis.coello@barox.de 2025-03-12",
 "type": "德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购",
 "sieve": "2（问价后拒样）",
 "stop": "销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝",
@@ -210498,6 +210562,22 @@
 "k": "f68b73f1522697d3"
 },
 {
+"date": "2024-06-26",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "luis.coello@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_s b9702cc9841ba461"
+},
+{
+"date": "2024-07-19",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "info@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_s 478c340667d33194"
+},
+{
 "date": "2025-03-12",
 "dir": "内",
 "who": "Gmail 退信（A 邮箱）",
@@ -210512,6 +210592,22 @@
 "quote": "info@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
 "k": "gmail_a 16002134955b5da9"
+},
+{
+"date": "2025-03-12",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "info@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a 16002134955b5da9"
+},
+{
+"date": "2025-03-12",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "luis.coello@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a 2ee3f36bb56f07e7"
 }
 ],
 "proof_gaps": [],
@@ -272827,7 +272923,7 @@
 "email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复）；退信：sales@gaotek.com 2025-06-26",
 "type": "北美 IoT/测试仪器目录供应商（GAO Tek）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -272853,7 +272949,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-06-26",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "sales@gaotek.com 退信：5970.namprd18.prod.outlook.com sales@gaotek.com Remote server returned '554 5.2.2 mailbox full; STOREDR",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_a 8765c2954f5ec178"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -326152,7 +326257,7 @@
 "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
 "mail_review": {
 "binding": {
-"level": "未触达（2 封自动回复）",
+"level": "未触达（2 封自动回复）；退信：te@melbye.com 2025-03-27",
 "type": "北欧/英国光纤方案供应商（Melbye）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -326185,6 +326290,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a e2d153cd779efbe3"
+},
+{
+"date": "2025-03-27",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "te@melbye.com 退信：532972>, and then send the message again. Retype the entire recipient address before selecting Send. If",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a e2d153cd779efbe3"
 }
 ],
@@ -363738,7 +363851,7 @@
 "email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复）；退信：kalen.makela@uniformatic.fr 2026-07-13",
 "type": "法国工业电源/网络经销（Uniformatic）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -427873,7 +427986,7 @@
 "email_hook": "Arunima, for the PLANET 48-port requirement — our 48 GE + 4×10G SFP+ L2+ (Marvell) is $275 EXW at 1 pc, PoE version $349; and yes we have a fibre-bypass industrial model. Is the 48-port for a non-PoE core or camera aggregation?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封自动回复）",
+"level": "未触达（1 封自动回复）；退信：arunima@klasseducation.com 2024-06-21",
 "type": "沙特/阿联酋 IT（Aptvel）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
@@ -453815,7 +453928,7 @@
 "email_hook": "Lynn, for the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 3 封被打开，0 回；收件 indikul@signamax.com, jhamilton@signamax.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+"level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开（1 次「打开」与退信同日 2025-03-18，是退信触发的像素，不算；真实打开 2 次），0 回；收件 indikul@signamax.com, jhamilton@signamax.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
 "type": "网络连接产品品牌商（美国，量大）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -453848,6 +453961,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "jhamilton@signamax.com 永久退信：550 5.4.1 Recipient address rejected: Access denied.",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 302a34fc59b01839"
+},
+{
+"date": "2025-03-18",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "jhamilton@signamax.com 退信：550 5.4.1 Recipient address rejected: Access denied.",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a 302a34fc59b01839"
 },
 {
@@ -473070,7 +473191,7 @@
 "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）",
+"level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01",
 "type": "印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商",
 "sieve": "2",
 "stop": "转 WhatsApp 后仓库失明",
@@ -473108,6 +473229,14 @@
 "k": "gmail_s a739df251b28f025"
 },
 {
+"date": "2024-07-03",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "pankaj@syrotech.com 退信：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_s a739df251b28f025"
+},
+{
 "date": "2024-10-24",
 "dir": "来",
 "who": "Pankaj Sodhi",
@@ -473121,6 +473250,14 @@
 "who": "Gmail 退信（A 邮箱）",
 "quote": "sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_a 0de6557f58082926"
+},
+{
+"date": "2026-09-01",
+"dir": "内",
+"who": "Gmail 退信（A 邮箱）",
+"quote": "sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_a 0de6557f58082926"
 }
 ],
@@ -487844,7 +487981,7 @@
 "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?",
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+"level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 1 封被打开（1 次「打开」与退信同日 2024-07-24，是退信触发的像素，不算；真实打开 1 次），0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
@@ -487880,11 +488017,27 @@
 "k": "gmail_s 169cdf649c10160e"
 },
 {
+"date": "2024-06-05",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "info@bimel.com.tr 退信：550 Bu adreste böyle bir kimse yok. Final-Recipient: rfc822; info@bimel.com.tr Action: failed Status: 4",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+"k": "gmail_s 169cdf649c10160e"
+},
+{
 "date": "2024-07-24",
 "dir": "内",
 "who": "Gmail 退信（S 邮箱）",
 "quote": "mustafa@bimel.com.tr 永久退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr",
 "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+"k": "gmail_s 9aaa8feca1861ef5"
+},
+{
+"date": "2024-07-24",
+"dir": "内",
+"who": "Gmail 退信（S 邮箱）",
+"quote": "mustafa@bimel.com.tr 退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr",
+"why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
 "k": "gmail_s 9aaa8feca1861ef5"
 },
 {

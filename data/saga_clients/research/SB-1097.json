@@ -58,7 +58,7 @@
   "email_hook": "For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+      "level": "未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
       "type": "网络产品公司（韩国，待核）",
       "sieve": "1~2（1 次打开）",
       "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -91,6 +91,14 @@
         "who": "Gmail 退信（S 邮箱）",
         "quote": "chaesj@zenithtek.co.kr 永久退信：505 this account is unknown user (#5.5.1)",
         "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s 8e5ecbcce5f0622a"
+      },
+      {
+        "date": "2024-12-02",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "chaesj@zenithtek.co.kr 退信：505 this account is unknown user (#5.5.1)",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
         "k": "gmail_s 8e5ecbcce5f0622a"
       },
       {

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1127` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 16 封 2025→2026，其中 2 封被打开，0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：南非 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）
+- **绑定等级：读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：南非 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）
 - **现状一句话**：南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。
 - **对方真实需求（有据）**：Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）
@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-28 | 内 | Gmail 退信（A 邮箱） | bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a b815d5ee13668ada` |
 | 2026-10-02 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Mini Industrial PoE Switch | 16 封 / 2 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-10-02（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo | 表内备注 | `用户表` |
 

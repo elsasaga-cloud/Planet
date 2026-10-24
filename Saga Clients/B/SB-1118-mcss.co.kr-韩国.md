@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
+- **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
 - **现状一句话**：—
 - **对方真实需求（有据）**：OEM/白标清单。
 - **断点 / 为什么停在这里**：Q-33。
@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-11 | 内 | Gmail 退信（A 邮箱） | svc@mcss.co.kr 永久退信：550 sorry, no mailbox (#5.1.1) | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a e1c1f2f36ab7e6a5` |
+| 2025-08-11 | 内 | Gmail 退信（A 邮箱） | svc@mcss.co.kr 退信：550 sorry, no mailbox (#5.1.1) | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a e1c1f2f36ab7e6a5` |
 | 2026-02-05 | 去 | Saga（Alan） | Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,… | Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `497037e504e55533` |
 
 ## 基本事实（事实/推断/假设分层）

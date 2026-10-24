@@ -83,7 +83,7 @@
   "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（2 封自动回复）",
+      "level": "未触达（2 封自动回复）；退信：te@melbye.com 2025-03-27",
       "type": "北欧/英国光纤方案供应商（Melbye）",
       "sieve": "0",
       "stop": "自动回复/机器人，无人工回复",
@@ -116,6 +116,14 @@
         "who": "Gmail 退信（A 邮箱）",
         "quote": "te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
         "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a e2d153cd779efbe3"
+      },
+      {
+        "date": "2025-03-27",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "te@melbye.com 退信：532972>, and then send the message again. Retype the entire recipient address before selecting Send. If",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
         "k": "gmail_a e2d153cd779efbe3"
       }
     ],

@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1036` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A 邮箱 19 封 2025→2026，其中 3 封被打开，0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：布线系统品牌商（阿联酋，MC/FS 为配套） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 19，Opened 标签 3（Simon 群发追踪）；用户表：「FS SFP模块 MC」；研究档 risks：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套
+- **绑定等级：读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开（1 次「打开」与退信同日 2025-05-27，是退信触发的像素，不算；真实打开 2 次），0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：布线系统品牌商（阿联酋，MC/FS 为配套） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 19，Opened 标签 3（Simon 群发追踪）；用户表：「FS SFP模块 MC」；研究档 risks：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套
 - **现状一句话**：阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。
 - **对方真实需求（有据）**：自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1052` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A 邮箱 5 封 2026，其中 2 封被打开，0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：DE 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁
+- **绑定等级：未触达（A 邮箱 5 封 2026，其中 0 封被打开（2 次「打开」与退信同日 2026-08-18/2026-09-24，是退信触发的像素，不算；真实打开 0 次），0 回；收件 info@acceed.com, werner.kunze@acceed.com；被打开主题「Marvell Managed Commercial Switches、10G L3 Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：DE 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁
 - **现状一句话**：杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acc
 - **对方真实需求（有据）**：其 PLANET 线公告为工业 AP / TSN 交换机，站内无具名在售 PLANET 交换机型号带价 → 以工业管理型 PoE 主力 STI-288GPM（8×GE PoE+ + 2×SFP 管理，对位 PLANET IGS-4215-8P2T2S / ORing IGPS-9084GP 级）切入，20% 档 $78.9 USD EXW；非 PoE 位由 STI-280GM 第二封对位；分销商（
 - **断点 / 为什么停在这里**：PLANET 线实际在售交换机型号与年量（站内无价）；网络产品线负责人（Produktmanagement / Einkauf）姓名；项目是否要求 UL / 铁路 EN50155（ORing 线暗示部分项目要 → 守界）
@@ -53,7 +53,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-18 | 内 | Gmail 退信（A 邮箱） | werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 9f022bd57b7e7d1a` |
 | 2026-09-24 | 去 | A 群发 | Marvell Managed Commercial Switches、10G L3 Managed Switch | 5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来） | `gmail_digest` |
+| 2026-09-24 | 内 | Gmail 退信（A 邮箱） | werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a b5e91fb51b7abf8f` |
 
 ## 基本事实（事实/推断/假设分层）
 

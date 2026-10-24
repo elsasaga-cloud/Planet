@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-470` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封自动回复）** ｜ 类型：北欧/英国光纤方案供应商（Melbye） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：NO/UK ｜ 节奏：不动 ｜ 证据：k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1
+- **绑定等级：未触达（2 封自动回复）；退信：te@melbye.com 2025-03-27** ｜ 类型：北欧/英国光纤方案供应商（Melbye） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：NO/UK ｜ 节奏：不动 ｜ 证据：k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-27 | 内 | Gmail 退信（A 邮箱） | te@melbye.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a e2d153cd779efbe3` |
+| 2025-03-27 | 内 | Gmail 退信（A 邮箱） | te@melbye.com 退信：532972>, and then send the message again. Retype the entire recipient address before selecting Send. If | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a e2d153cd779efbe3` |
 
 ## 基本事实（事实/推断/假设分层）
 

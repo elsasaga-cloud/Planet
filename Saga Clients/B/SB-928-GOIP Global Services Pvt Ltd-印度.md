@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-928` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）** ｜ 类型：印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商 ｜ 筛子：2 ｜ 停点：转 WhatsApp 后仓库失明 ｜ 复活：不动（印度非主攻） ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=dd23844381a28569
+- **绑定等级：轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01** ｜ 类型：印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商 ｜ 筛子：2 ｜ 停点：转 WhatsApp 后仓库失明 ｜ 复活：不动（印度非主攻） ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=dd23844381a28569
 - **现状一句话**：—
 - **对方真实需求（有据）**：8 口 2.5G + 10G 上联。
 - **断点 / 为什么停在这里**：—
@@ -55,8 +55,10 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-07-03 | 内 | Gmail 退信（S 邮箱） | pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded | 该地址当时收不到信，之后若无再发成功记录就别再往这个地址发 | `gmail_s a739df251b28f025` |
+| 2024-07-03 | 内 | Gmail 退信（S 邮箱） | pankaj@syrotech.com 退信：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_s a739df251b28f025` |
 | 2024-10-24 | 来 | Pankaj Sodhi | Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. | 要价 + 转 WA | `dd23844381a28569` |
 | 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 0de6557f58082926` |
+| 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 0de6557f58082926` |
 
 ## 基本事实（事实/推断/假设分层）
 

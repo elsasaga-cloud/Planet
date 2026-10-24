@@ -73,7 +73,7 @@
   "email_hook": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 2 封被打开，0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
+      "level": "读而不回（A/S 邮箱 16 封 2025→2026，其中 1 封被打开（1 次「打开」与退信同日 2025-05-28，是退信触发的像素，不算；真实打开 1 次），0 回；收件 anton@throughput.co.za, bob@throughput.co.za；被打开主题「Marvell Alleycat5 Solution、Mini Industrial PoE Switch」）",
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -100,6 +100,14 @@
       "one_question": "Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?"
     },
     "facts": [
+      {
+        "date": "2025-05-28",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_a b815d5ee13668ada"
+      },
       {
         "date": "2026-10-02",
         "dir": "去",

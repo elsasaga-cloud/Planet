@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-861` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 29 封 2024→2026，其中 3 封被打开，0 回；收件 indikul@signamax.com, jhamilton@signamax.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：网络连接产品品牌商（美国，量大） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：US 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 29，Opened 标签 3（Simon 群发追踪）；用户表：「SFP MC FS 工业FS；SFP MC FS 工业FS 量非常大；量非常大」；研究档 risks：既有 ODM 供应链（量大但切换门槛高）；18 次无回复 → 改向 VP Sales 具名首触；官网快照空
+- **绑定等级：读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开（1 次「打开」与退信同日 2025-03-18，是退信触发的像素，不算；真实打开 2 次），0 回；收件 indikul@signamax.com, jhamilton@signamax.com；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：网络连接产品品牌商（美国，量大） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：US 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 29，Opened 标签 3（Simon 群发追踪）；用户表：「SFP MC FS 工业FS；SFP MC FS 工业FS 量非常大；量非常大」；研究档 risks：既有 ODM 供应链（量大但切换门槛高）；18 次无回复 → 改向 VP Sales 具名首触；官网快照空
 - **现状一句话**：美国 Signamax（AESP 旗下连接产品品牌：SFP、MC、FS、工业 FS；表内「量非常大」；KP Lynn McCullough（Vice President of Sales）、Indika Kulatunga（Vice President）、Thomas Murphy；官网快照空）；群发 18 次无回复。
 - **对方真实需求（有据）**：Signamax 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：既有 ODM 供应链（量大但切换门槛高）；18 次无回复 → 改向 VP Sales 具名首触；官网快照空
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-18 | 内 | Gmail 退信（A 邮箱） | jhamilton@signamax.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 302a34fc59b01839` |
+| 2025-03-18 | 内 | Gmail 退信（A 邮箱） | jhamilton@signamax.com 退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 302a34fc59b01839` |
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 29 封 / 3 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | SFP MC FS 工业FS；SFP MC FS 工业FS 量非常大；量非常大 | 表内备注 | `用户表` |
 

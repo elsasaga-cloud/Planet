@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1212` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：安防/布线集成商（新加坡） ｜ 筛子：1~2（1 次打开） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：新加坡 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「监控摄像 警报 光纤布线 网络」；研究档 risks：非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核
+- **绑定等级：未触达（A 邮箱 19 封 2025→2026，0 次有效打开（1 次「打开」与退信同日 2026-09-16，是退信触发的像素，不算；真实打开 0 次），0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：安防/布线集成商（新加坡） ｜ 筛子：1~2（1 次打开） ｜ 停点：19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：新加坡 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「监控摄像 警报 光纤布线 网络」；研究档 risks：非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核
 - **现状一句话**：新加坡 Keydence Systems（安防系统服务商：CCTV、门禁、电气布线、网络与数据布线、通信、护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」；表内「监控摄像 警报 光纤布线 网络」；KP Lawrence）；群发 8 次无回复。
 - **对方真实需求（有据）**：CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核
@@ -54,6 +54,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（19 去 / 0 来） | `gmail_digest` |
 | 2026-09-16 | 内 | Gmail 退信（A 邮箱） | joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a aa8cdc85cdbf0ebd` |
+| 2026-09-16 | 内 | Gmail 退信（A 邮箱） | joey@keydence.com 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a aa8cdc85cdbf0ebd` |
 | 2026-10-21 | 用户表 | Simon | 监控摄像 警报 光纤布线 网络 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

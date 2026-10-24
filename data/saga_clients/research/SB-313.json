@@ -84,7 +84,7 @@
   "email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
   "mail_review": {
     "binding": {
-      "level": "未触达（1 封自动回复）",
+      "level": "未触达（1 封自动回复）；退信：sales@gaotek.com 2025-06-26",
       "type": "北美 IoT/测试仪器目录供应商（GAO Tek）",
       "sieve": "0",
       "stop": "自动回复/机器人，无人工回复",
@@ -110,7 +110,16 @@
       "action": "—",
       "one_question": ""
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2025-06-26",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "sales@gaotek.com 退信：5970.namprd18.prod.outlook.com sales@gaotek.com Remote server returned '554 5.2.2 mailbox full; STOREDR",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_a 8765c2954f5ec178"
+      }
+    ],
     "proof_gaps": [],
     "draft_en": null,
     "as_of": "2026-10-24"

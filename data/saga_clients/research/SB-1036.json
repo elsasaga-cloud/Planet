@@ -89,7 +89,7 @@
   "email_hook": "Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A 邮箱 19 封 2025→2026，其中 3 封被打开，0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "level": "读而不回（A 邮箱 19 封 2025→2026，其中 2 封被打开（1 次「打开」与退信同日 2025-05-27，是退信触发的像素，不算；真实打开 2 次），0 回；收件 kennedy@alston-systems.com, purchase@alston-systems.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
       "type": "布线系统品牌商（阿联酋，MC/FS 为配套）",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",

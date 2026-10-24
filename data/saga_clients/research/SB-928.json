@@ -128,7 +128,7 @@
   "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）",
+      "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01",
       "type": "印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商",
       "sieve": "2",
       "stop": "转 WhatsApp 后仓库失明",
@@ -166,6 +166,14 @@
         "k": "gmail_s a739df251b28f025"
       },
       {
+        "date": "2024-07-03",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "pankaj@syrotech.com 退信：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
+        "k": "gmail_s a739df251b28f025"
+      },
+      {
         "date": "2024-10-24",
         "dir": "来",
         "who": "Pankaj Sodhi",
@@ -179,6 +187,14 @@
         "who": "Gmail 退信（A 邮箱）",
         "quote": "sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors",
         "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_a 0de6557f58082926"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "内",
+        "who": "Gmail 退信（A 邮箱）",
+        "quote": "sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr",
+        "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
         "k": "gmail_a 0de6557f58082926"
       }
     ],

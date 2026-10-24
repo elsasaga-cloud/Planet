@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1097` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：网络产品公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「MC switch等」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
+- **绑定等级：未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：网络产品公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「MC switch等」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
 - **现状一句话**：韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。
 - **对方真实需求（有据）**：MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-02 | 内 | Gmail 退信（S 邮箱） | chaesj@zenithtek.co.kr 永久退信：505 this account is unknown user (#5.5.1) | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 8e5ecbcce5f0622a` |
+| 2024-12-02 | 内 | Gmail 退信（S 邮箱） | chaesj@zenithtek.co.kr 退信：505 this account is unknown user (#5.5.1) | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_s 8e5ecbcce5f0622a` |
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC switch等 | 表内备注 | `用户表` |
 
