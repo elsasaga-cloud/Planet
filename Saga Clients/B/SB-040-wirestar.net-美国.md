@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字；按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $220（48 port managed switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串） 发 CENTEC 支持矩阵
+- **下一步**：现在 A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串） 发 CENTEC 支持矩阵；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
 - **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $220（48 port managed switch）、2025-09-22 $280（10G Enterprise SFP Switch））——美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字
   - 做不了 / 要先核的：N；E；T；C；O；N；F；/；控；制；器； ；A；P；I； ；仓；库；无；证； ；→； ；信；里；只；写； ；C；L；I；/；S；N；M；P；；；1；0；G； ；汇；聚；型；号；无；价； ；→； ；不；写
-- **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵
+- **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -239,7 +239,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: VXLAN / MPLS — CENTEC-based line
+**主题**：VXLAN / MPLS — CENTEC-based line
 
 ```text
 Hi, Kyle,

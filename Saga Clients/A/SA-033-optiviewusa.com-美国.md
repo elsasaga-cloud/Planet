@@ -290,7 +290,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 4-port and 8-port industrial PoE — spec, price, lead time
+**主题**：4-port and 8-port industrial PoE — spec, price, lead time
 
 ```text
 Hi, Silvia,

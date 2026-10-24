@@ -274,7 +274,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: DI order #1 (Nov 2024) — still worth shipping?
+**主题**：DI order #1 (Nov 2024) — still worth shipping?
 
 ```text
 Hi Sergiy,

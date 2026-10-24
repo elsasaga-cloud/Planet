@@ -317,7 +317,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: bypass switch 4x4 / 2x2 — updated prices
+**主题**：Bypass switch 4x4 / 2x2 — updated prices
 
 ```text
 Hi, Mr. Kim,

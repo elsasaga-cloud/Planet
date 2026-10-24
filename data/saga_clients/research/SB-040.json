@@ -114,7 +114,7 @@
     "next_move": {
       "when": "现在",
       "channel": "A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）",
-      "action": "发 CENTEC 支持矩阵",
+      "action": "发 CENTEC 支持矩阵；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?"
     },
     "facts": [
@@ -153,7 +153,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: VXLAN / MPLS — CENTEC-based line",
+      "subject": "VXLAN / MPLS — CENTEC-based line",
       "body": "Hi, Kyle,\n\nIn April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.\n\nOur CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:\n- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW\n- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-32C-HSI — 32x100G — $6,000 USD EXW\n(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)\n\nOne question: which role would you test first — a 10G/25G aggregation box or a 100G spine?\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

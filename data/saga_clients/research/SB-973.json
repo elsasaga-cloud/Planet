@@ -77,7 +77,7 @@
     "next_move": {
       "when": "2026-11（顺手）",
       "channel": "Elsa 邮箱回原线程",
-      "action": "补答",
+      "action": "补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Datasheet attached; which project is the 24-SFP unit for, and how many sites?"
     },
     "facts": [
@@ -110,7 +110,7 @@
       "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
     ],
     "draft_en": {
-      "subject": "Re: 24-port SFP managed switch — datasheet",
+      "subject": "24-port SFP managed switch — datasheet",
       "body": "Hi Kennedy,\n\nYou asked for the datasheet of the 24-port SFP managed switch in October 2025 — attached now, with apologies for the gap. It is a Marvell-based L2+/L3 aggregation unit (24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC).\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

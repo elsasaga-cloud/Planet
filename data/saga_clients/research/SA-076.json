@@ -229,7 +229,7 @@
       "Elsa 与 Łukasz 的早先往来在 E 邮箱（189 封）中未单独核对"
     ],
     "draft_en": {
-      "subject": "Re: 1G SFP media converter for Lanberg — CE PSU version",
+      "subject": "1G SFP media converter for Lanberg — CE PSU version",
       "body": "Hi, Lukasz,\n\nIn October 2025 we quoted the 1G SFP media converter (1x SFP + 1x GbE, DC 5 V) at $13 USD, MOQ 1, and then did not follow up properly. Copying Bartosz.\n\nFor a Lanberg SKU the relevant version is with a CE-marked PSU and your carton; the price is re-quoted on the 2026 table on request (same class, MOQ 100 for branded).\n\nOne question: is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC in the 13-USD class go into it?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

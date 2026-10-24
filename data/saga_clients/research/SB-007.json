@@ -126,7 +126,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: detailed spec and price — Booster PoE managed",
+      "subject": "Detailed spec and price — Booster PoE managed",
       "body": "Hi, Rex,\n\nYour November request for spec and prices — here is the concrete answer:\n\n- STI-488XGGBPM: 8x GbE PoE + 4x 1G/2.5G/10G SFP+, L2+ managed, internal power booster — $215 USD EXW in OEM lots (2026-10 price table, valid 15 days from this mail)\n- Platforms we build on: Marvell AC5 (managed) and Realtek (entry); no Qualcomm/MTK.\n- OEM: logo, model name, GUI, packaging from 50 pcs.\n\nOne question: is the booster-PoE managed unit for your own catalogue, or a project where I should quote a specific quantity?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

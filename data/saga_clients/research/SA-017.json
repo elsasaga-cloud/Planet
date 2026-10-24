@@ -249,7 +249,7 @@
       "用户表「三次到访 / Secon 参展」无邮件印证"
     ],
     "draft_en": {
-      "subject": "Re: bypass switch 4x4 / 2x2 — updated prices",
+      "subject": "Bypass switch 4x4 / 2x2 — updated prices",
       "body": "Hi, Mr. Kim,\n\nLast May you asked for bypass industrial switches (4x4 and 2x2). The $280 figure then was a placeholder; here are the actual numbers:\n\n- 8x GbE + 4x SFP industrial managed, 1 fibre bypass pair (2x2) — $225.4 USD EXW\n- same unit, 2 fibre bypass pairs (4x4) — $283.7 USD EXW\n- 16x GbE PoE (>=300 W) + 2x SFP industrial L2+ — $242 USD EXW (list)\n(2026-10 price table, valid 15 days from this mail)\n\nStandalone bypass boxes are still not in the range. NEXTU label, model name and GUI can be applied from 50 pcs.\n\nOne question: did the 2x2 bypass requirement from May 2025 turn into a project, and is a Marvell-based unit acceptable on the NEXTU industrial line?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

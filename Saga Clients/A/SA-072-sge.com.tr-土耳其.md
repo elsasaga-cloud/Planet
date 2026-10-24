@@ -268,7 +268,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: price list — industrial PoE for resale
+**主题**：Price list — industrial PoE for resale
 
 ```text
 Hi, Murat,

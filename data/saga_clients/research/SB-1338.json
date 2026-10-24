@@ -77,7 +77,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: RFQ — access / aggregation switches (March 2024)",
+      "subject": "RFQ — access / aggregation switches (March 2024)",
       "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nIf the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan Yan\nSaga Telecom"
     },
     "as_of": "2026-10-24"

@@ -119,7 +119,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: where we build, and which platforms",
+      "subject": "Where we build, and which platforms",
       "body": "Hi, Mikhail,\n\nYour May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.\n\nCENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).\n\nOne question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

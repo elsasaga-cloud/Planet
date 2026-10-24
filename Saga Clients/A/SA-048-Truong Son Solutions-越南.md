@@ -301,7 +301,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ
+**主题**：STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ
 
 ```text
 Hi,

@@ -281,7 +281,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: operating temperature — the industrial unit, not the commercial one
+**主题**：Operating temperature — the industrial unit, not the commercial one
 
 ```text
 Hi,

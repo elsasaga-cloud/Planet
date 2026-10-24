@@ -184,7 +184,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: price list — industrial PoE for resale",
+      "subject": "Price list — industrial PoE for resale",
       "body": "Hi, Murat,\n\nYou asked for our price list in December and got a link; here is the part that matters for an industrial-PoE reseller, in the body:\n\n- STI-244GP: 4x GbE PoE + 2x SFP, unmanaged, DIN — $45 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN — $137.5 USD EXW\n- STI-21616DGGPM: 16x GbE PoE + 2x SFP, L2+ managed — $242 USD EXW\n(2026-10 price table, valid 15 days from this mail)\nAll -40 to +75 C, CE/RoHS/FCC; 4-7 working days ex-works, i.e. 10-15 days to Istanbul by air.\n\nOne question: for the industrial PoE units you resell today, is that lead time (vs ~5 weeks from your current source) worth a paid sample on one SKU?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

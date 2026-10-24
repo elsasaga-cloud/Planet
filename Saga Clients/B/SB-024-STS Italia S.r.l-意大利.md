@@ -263,7 +263,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 48-port PoE managed — 2026 unit and price
+**主题**：48-port PoE managed — 2026 unit and price
 
 ```text
 Hi, Eros,

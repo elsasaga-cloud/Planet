@@ -90,7 +90,7 @@
     "next_move": {
       "when": "2026-11（顺手）",
       "channel": "Elsa 邮箱回原线程",
-      "action": "目录 + 一问",
+      "action": "目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -115,7 +115,7 @@
       "Elsa 回复未入库"
     ],
     "draft_en": {
-      "subject": "Re: how many types of switch — TESCOM",
+      "subject": "How many types of switch — TESCOM",
       "body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\" — the short answer: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nReference price: STI-110GE (1× SFP + 1× GE gigabit media converter, DIN-rail) at $26.5 USD EXW, MOQ 1 pc, 15-day validity; the 1-fibre + 2-copper version is a few dollars above that and I will quote it once you confirm the quantity.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

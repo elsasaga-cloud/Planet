@@ -274,7 +274,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: Broadcom-based solution — straight answer, and the one thing we can offer
+**主题**：Broadcom-based solution — straight answer, and the one thing we can offer
 
 ```text
 Hi, Mark,

@@ -130,7 +130,7 @@
     "next_move": {
       "when": "现在",
       "channel": "S 邮箱 → stan@thorfiber.com",
-      "action": "发整表 + 问首批型号",
+      "action": "发整表 + 问首批型号；附件：OEM 档价目（从三档表摘 STI-288DGGPM $137.5 / STI-42424XGGPM $423.5 L2+ · $517 L3 两行成一页，不发整表 PDF）",
       "one_question": "Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?"
     },
     "facts": [
@@ -193,7 +193,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: OEM prices — managed industrial PoE with IGMP",
+      "subject": "OEM prices — managed industrial PoE with IGMP",
       "body": "Hi, Stan,\n\nYou asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:\n\n- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD EXW/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)\n- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — $137.5 USD EXW (OEM tier on the sheet)\n- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — $423.5 (L2+) / $517 (L3) USD EXW (OEM tier on the sheet)\n\nAll three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.\n\nOne question: which two SKUs do you want to brand first for the Thor catalog?\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"

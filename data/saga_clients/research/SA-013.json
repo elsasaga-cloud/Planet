@@ -769,7 +769,7 @@
       "A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
     ],
     "draft_en": {
-      "subject": "Re: 2x10G + 4x2.5G media converter — is 1,000/2,000 pcs still on the 2027 roadmap?",
+      "subject": "2x10G + 4x2.5G media converter — is 1,000/2,000 pcs still on the 2027 roadmap?",
       "body": "Hi, Frederik,\n\nThank you for the 6th order; the 20 units ship with original SmartByte names and SNMP strings as you asked.\n\nOn the FTTH 1G-to-10G upgrade: the 2x10G + 4x2.5G lite-managed unit is not a Marvell AC5 product, so we cannot derive it from the switch line. It is doable as a Realtek-based design (the RTL8373 class you mentioned), but only worth opening against a real volume.\n\nOne question: if we bring you a sample at a unit price in the range you had in mind, is 1,000 pcs for the first batch and ~2,000 per year still real for 2027, and what is the ceiling price per unit for your business case?\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"

@@ -266,7 +266,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 8-port 10G copper — two units that match
+**主题**：8-port 10G copper — two units that match
 
 ```text
 Hi, Nate,

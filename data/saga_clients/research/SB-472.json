@@ -98,7 +98,7 @@
     "next_move": {
       "when": "现在",
       "channel": "A 邮箱 → peter01@n-itus.com",
-      "action": "给区间表 + ODM 一页",
+      "action": "给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发",
       "one_question": "Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?"
     },
     "facts": [
@@ -121,7 +121,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: PoE / non-PoE price bands + ODM proposal",
+      "subject": "PoE / non-PoE price bands + ODM proposal",
       "body": "Hi, Peter,\n\nThank you for your note in November — price ranges for PoE / non-PoE access switches and an ODM proposal for the Korean ISP market. Attached: price bands and a one-page ODM scope.\n\n- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $87.4 USD EXW (2026-10 snapshot)\n- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $180 USD EXW\n- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $89.4 USD EXW\n- ODM: your logo, model name, web GUI, packaging; MOQ 50 pcs per model; firmware OEM string changes included.\n(All EXW Shenzhen, valid 15 days from this mail.)\n\nOne question: which ISP account would be the first fit, and is it PoE (cameras/APs) or non-PoE (FTTx CPE side)?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

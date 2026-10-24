@@ -313,7 +313,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: the two STI-288GP samples (July 2025) — GSA or commercial use?
+**主题**：The two STI-288GP samples (July 2025) — GSA or commercial use?
 
 ```text
 Hi John,

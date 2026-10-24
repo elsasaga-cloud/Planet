@@ -115,7 +115,7 @@
     "next_move": {
       "when": "现在",
       "channel": "S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com",
-      "action": "一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里",
+      "action": "一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?"
     },
     "facts": [
@@ -333,7 +333,7 @@
       "Saga 当天附的「stacking」资料是 AC5 还是 CENTEC——附件名未见"
     ],
     "draft_en": {
-      "subject": "Re: 48 port stacking switches — the stackable line, properly this time",
+      "subject": "48 port stacking switches — the stackable line, properly this time",
       "body": "Hi, Greg,\n\nIn March I sent you one line and a PDF and called it done — that was too short after you had asked about stacking since 2024. Here is the proper answer against your January-2025 list.\n\nThe stackable platform is our CENTEC-based STH1G series, not the Marvell access switches (those will not stack, and I will not claim otherwise). It is a build-to-order line that we do not list publicly — lead time is confirmed per order, not the 3-5 days of the Marvell units:\n- STH-2QX4DX48GP-HSI: 48 x 1G PoE++ (90 W/port, 1200 W dual hot-swap PSU) + 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G)\n- Stacking: up to 8 units as one logical switch, ring or chain over the fiber ports, 360 Gbps stack bandwidth (Catalyst 9300-class StackWise-320 is the comparison your market will make)\n- 10G copper access: the 48-port unit is 1G copper; the same family has a 40 x 2.5G + 8 x 10G multi-gig PoE++ model (STH-2QX4DX8XP40DP-HSI) with the same 4 x 25G + 2 x 40G uplinks — stacking on that model I will confirm before promising it\n- L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec; Versitron logo, model name and SNMP strings on the unit\n- Lighter version: STH-2QX4DX48GP-SFI (PoE+ 30 W, single PSU)\n\nPricing is by first-batch quantity, so I will not guess a number here.\n\nOne question: is the Cisco-alternative stackable line still on your 2027 plan, and if yes, how many units per stack and roughly how many stacks? With that I will send the EXW price the same day.\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"

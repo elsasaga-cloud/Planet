@@ -298,7 +298,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 1G SFP media converter for Lanberg — CE PSU version
+**主题**：1G SFP media converter for Lanberg — CE PSU version
 
 ```text
 Hi, Lukasz,

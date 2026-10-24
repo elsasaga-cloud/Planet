@@ -578,7 +578,7 @@
       "《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）"
     ],
     "draft_en": {
-      "subject": "Re: vehicle network L3 requirement — PIM-SM now in firmware 7.5",
+      "subject": "Vehicle network L3 requirement — PIM-SM now in firmware 7.5",
       "body": "Hi, Ender,\n\nIn February we had to say \"problem\" to PIM-SM/DM, RIPng/PBR and IP SLA for the vehicle container network. One of those has moved: PIM-SM is now available in firmware 7.5 (CLI). PIM-DM, RIPng, PBR and IP SLA are still not on the Marvell L3 units, and I will not pretend otherwise. They are all on our CENTEC STOS line (PIM-SM/DM, RIPng, PBR, IP SLA, BFD, VRRP — MS license), but that line is rated 0 to 40 C, so it only fits the container if the cabinet is climate-controlled.\n\nTemperature: the industrial units are rated -40 to +75 C, so your -40 to +71 C spec is covered; the hardened enclosure stays on your side as discussed.\n\nOne question: does your end customer's multicast design actually require PIM-DM, or would PIM-SM be sufficient for the 2-4 switches per vehicle?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

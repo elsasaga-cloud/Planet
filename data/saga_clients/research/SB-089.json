@@ -120,7 +120,7 @@
     "next_move": {
       "when": "现在",
       "channel": "A 邮箱 → hussain.alqahtani@linx-com.com（回到 MOH-TA-170325 Offer 串）",
-      "action": "问结果 + 给重算价 + 不再附 ChatGPT",
+      "action": "问结果 + 给重算价 + 不再附 ChatGPT；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly."
     },
     "facts": [
@@ -226,7 +226,7 @@
       "MOH-TA 是哪国卫生部项目——仅由编号推断"
     ],
     "draft_en": {
-      "subject": "Re: MOH-TA-170325 — 24-port industrial PoE x400",
+      "subject": "MOH-TA-170325 — 24-port industrial PoE x400",
       "body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

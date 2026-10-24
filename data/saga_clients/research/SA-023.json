@@ -190,7 +190,7 @@
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
     ],
     "draft_en": {
-      "subject": "Re: company website and address — sagatele.com",
+      "subject": "Company website and address — sagatele.com",
       "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

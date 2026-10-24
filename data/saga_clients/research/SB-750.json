@@ -81,7 +81,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）",
-      "action": "只发 CENTEC",
+      "action": "只发 CENTEC；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
     },
     "facts": [
@@ -120,7 +120,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: SFP+ switch with front-to-back airflow",
+      "subject": "SFP+ switch with front-to-back airflow",
       "body": "Hi, Francois,\n\nIn June 2024 you said what you need is SFP+ ports with front-to-back ventilation, and we had nothing to offer. Now there is a CENTEC-based L3 unit: 24x 10G SFP+ + 2x 100G QSFP28, front-to-rear airflow, hot-swap PSU, VXLAN/EVPN/MPLS; indicative price around $1,250 USD EXW for the DC/MA-license version (project quote, 15 days validity).\n\nOne question: is this still relevant for your racks, and is it AC or DC power?\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"

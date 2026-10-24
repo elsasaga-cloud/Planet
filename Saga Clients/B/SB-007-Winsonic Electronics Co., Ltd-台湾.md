@@ -259,7 +259,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: detailed spec and price — Booster PoE managed
+**主题**：Detailed spec and price — Booster PoE managed
 
 ```text
 Hi, Rex,

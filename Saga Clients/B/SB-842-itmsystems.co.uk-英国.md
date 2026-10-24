@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变） — 集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界；已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 "3200USD/PC"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $65（10G Media Converter）、2025-02-28 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 上旬（9-07 追问满 2 个月） A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串） 一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界
+- **下一步**：2026-11 上旬（9-07 追问满 2 个月） A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串） 一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。
 - **Saga 现在该推什么**：P1 **CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）**（25% 档，已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 "3200USD/PC"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $65（10G Media Converter）、2025-02-28 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch））——集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界
   - 做不了 / 要先核的：SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清；800G：无，不许诺；400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问；报价单写交期 12~15 周（按单生产），群发却说「Ready in stock」——同一客户两处看到两个说法；重开报价前定一个
-- **下一步（具体）**：2026-11 上旬（9-07 追问满 2 个月）　A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）　一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界
+- **下一步（具体）**：2026-11 上旬（9-07 追问满 2 个月）　A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）　一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -307,7 +307,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 400G switches — still on the 2026 plan?
+**主题**：400G switches — still on the 2026 plan?
 
 ```text
 Hi, Steve,

@@ -283,7 +283,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 2×SFP + 8×GE endüstriyel switch — 100 adetlik talep
+**主题**：2×SFP + 8×GE endüstriyel switch — 100 adetlik talep
 
 ```text
 Merhaba,

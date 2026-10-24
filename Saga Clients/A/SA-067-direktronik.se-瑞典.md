@@ -274,7 +274,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: EN 18031 / supplier documents — wired switches are outside RED scope
+**主题**：EN 18031 / supplier documents — wired switches are outside RED scope
 
 ```text
 Hi, Mats, hi Anders,

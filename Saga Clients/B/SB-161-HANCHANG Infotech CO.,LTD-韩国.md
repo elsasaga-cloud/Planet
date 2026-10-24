@@ -256,7 +256,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: price for CENTEC core/aggregation + 24-port access
+**主题**：Price for CENTEC core/aggregation + 24-port access
 
 ```text
 Hi, Peter,

@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列半宽 10G — 已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-120XGM(2024-06-18)、STC-448XGGMO(2024-06-18)、STI-4168XGGCM-U(2024-06-18)、Product Link_2026Q2(2026-03-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $65（10G Media Converter）、2025-07-25 $300（48 Port PoE Managed Switch）、2025-08-29 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11 S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串） 只发 CENTEC
+- **下一步**：2026-11 S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串） 只发 CENTEC；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：全 SFP+，前后风道。
 - **断点 / 为什么停在这里**：产品线。
 - **Saga 现在该推什么**：P1 **STH 系列半宽 10G**（25% 档，按 CENTEC 价表；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $65（10G Media Converter）、2025-07-25 $300（48 Port PoE Managed Switch）、2025-08-29 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-120XGM(2024-06-18)、STC-448XGGMO(2024-06-18)、STI-4168XGGCM-U(2024-06-18)、Product Link_2026Q2(2026-03-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）　只发 CENTEC
+- **下一步（具体）**：2026-11　S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）　只发 CENTEC；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -224,7 +224,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: SFP+ switch with front-to-back airflow
+**主题**：SFP+ switch with front-to-back airflow
 
 ```text
 Hi, Francois,

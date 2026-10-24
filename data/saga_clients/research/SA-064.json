@@ -329,7 +329,7 @@
       "PI/付款金额见 A 总览 §3，样机型号 STI-288GP 由 2025-07-12 报价链确认"
     ],
     "draft_en": {
-      "subject": "Re: the two STI-288GP samples (July 2025) — GSA or commercial use?",
+      "subject": "The two STI-288GP samples (July 2025) — GSA or commercial use?",
       "body": "Hi John,\n\nA direct question rather than a new-product mail: the two STI-288GP industrial PoE units you bought from us in July 2025 — did they end up in a commercial/state project, or were they meant to replace the Transition SISTP1040-382-LRT on your GSA listing?\n\nIf GSA was the target, I should be honest: our switches are made in China, so they are not TAA-compliant and cannot go on the schedule. For open-market or state/county work the same unit is still $58 USD EXW (power supply MEAN WELL NDR-240-48 $40), and the managed version STI-288DGGPM is available if a project needs VLAN/ring.\n\nIf there is nothing on your side right now, just say so and I will not keep sending catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

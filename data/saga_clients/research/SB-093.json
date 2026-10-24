@@ -120,7 +120,7 @@
     "next_move": {
       "when": "2026-11 中（若无回音，季度一问）",
       "channel": "A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）",
-      "action": "一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」",
+      "action": "一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?"
     },
     "facts": [
@@ -279,7 +279,7 @@
     ],
     "proof_gaps": [],
     "draft_en": {
-      "subject": "Re: PoE watchdog project — one question",
+      "subject": "PoE watchdog project — one question",
       "body": "Hi Inoue-san,\n\nIn May we answered your 17 questions (certification at your cost, Japanese label text from your side, MEAN WELL GST-series PSE adapters, 3-year warranty, DIP 4 for the watchdog, 10 Mb/s at 250 m). Since then we have not heard whether the watchdog PoE project selected a supplier.\n\nOne question: is the test unit we offered to lend in April (STI-054GP, neutral English label, MEAN WELL GST PSE adapter — returned after your test) still useful for your evaluation, or has the project gone to the partner who proposed it originally? Either answer is fine — I would rather know than keep sending product mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"

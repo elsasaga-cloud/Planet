@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：现在 A 邮箱 → peter01@n-itus.com 给区间表 + ODM 一页
+- **下一步**：现在 A 邮箱 → peter01@n-itus.com 给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：回法。
 - **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch））——韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：8； ；口； ；P；o；E； ；商；用； ；=； ；S；T；C；-；2；8；D；G；G；P；M； ；S；a；g；a； ；列；表；价； ；$；9；9；（；主；表；；；S；a；g；a； ；标； ；2；4；0；W；、；S；m；a；r；t；B；y；t；e； ；标； ；1；2；0；W； ；电；源；—；—；报；价；前；核；对；电；源；规；格；）
-- **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页
+- **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
   - 第一问（只问一个）：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -235,7 +235,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: PoE / non-PoE price bands + ODM proposal
+**主题**：PoE / non-PoE price bands + ODM proposal
 
 ```text
 Hi, Peter,

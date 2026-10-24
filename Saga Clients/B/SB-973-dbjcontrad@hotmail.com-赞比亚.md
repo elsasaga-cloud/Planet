@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
 - **第一问（只问一个）**：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：Cisco / DAC 需求不在 Saga 线。
 - **断点 / 为什么停在这里**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
 - **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -206,7 +206,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 24-port SFP managed switch — datasheet
+**主题**：24-port SFP managed switch — datasheet
 
 ```text
 Hi Kennedy,

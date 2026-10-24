@@ -247,7 +247,7 @@
       "BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证"
     ],
     "draft_en": {
-      "subject": "Re: operating temperature — the industrial unit, not the commercial one",
+      "subject": "Operating temperature — the industrial unit, not the commercial one",
       "body": "Hi,\n\nIn June we answered \"0 to 40 C\" to your temperature question, which was the commercial unit — the wrong product for DYMEC. The industrial line is -40 to +75 C:\n\n- STI-480XGGM: 8x GbE + 4x 1G/2.5G/10G SFP+, L2+, DIN-rail, dual DC 12-58 V — $163.2 USD EXW\n- 24x GbE PoE + 4x 10G SFP+, L3, industrial — $517 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n\nCopying Thom so this reaches the BlueWarrior side as well.\n\nOne question: for your ITS economy line (where Vitesse sits today), is TAA a must, or only for the federal SKUs? That decides whether we talk at all.\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"

@@ -293,7 +293,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: company website and address — sagatele.com
+**主题**：Company website and address — sagatele.com
 
 ```text
 Hi Amol,

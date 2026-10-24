@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书） — 上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串） 一句话问评审结论
+- **下一步**：现在 S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串） 一句话问评审结论；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：没有闭环问题。
 - **Saga 现在该推什么**：P1 **STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）**（30% 档，$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch））——上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：U；L；/；N；E；B；S； ；仓；库；明；确；无； ；→； ；若；对；方；要；求；则；直；接；回；「；无；」
-- **下一步（具体）**：现在　S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）　一句话问评审结论
+- **下一步（具体）**：现在　S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）　一句话问评审结论；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -287,7 +287,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 24-port SFP aggregation switch — one question
+**主题**：24-port SFP aggregation switch — one question
 
 ```text
 Hi, Casey,

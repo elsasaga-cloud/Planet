@@ -270,7 +270,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 24-port PoE project — did it close, and what do current projects need?
+**主题**：24-port PoE project — did it close, and what do current projects need?
 
 ```text
 Hi, Wadii,

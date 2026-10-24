@@ -302,7 +302,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: STH-2C24XF-HSI DC + MA license — did the H3C project move?
+**主题**：STH-2C24XF-HSI DC + MA license — did the H3C project move?
 
 ```text
 Hi, Ivan,

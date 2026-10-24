@@ -306,7 +306,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 4-port industrial PoE sample — still relevant?
+**主题**：4-port industrial PoE sample — still relevant?
 
 ```text
 Hi, Inam,

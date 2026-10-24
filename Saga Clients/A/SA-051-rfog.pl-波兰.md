@@ -298,7 +298,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: RF-GP2803PGM — a like-for-like Marvell unit, priced
+**主题**：RF-GP2803PGM — a like-for-like Marvell unit, priced
 
 ```text
 Tomasz,

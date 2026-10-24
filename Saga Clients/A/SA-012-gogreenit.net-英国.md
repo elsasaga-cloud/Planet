@@ -39,7 +39,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5 — 技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 26.3%（STI-42424XGGPM-4BT 成本 2,912）——正常；首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd
 - **第一问（只问一个）**：Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 上旬 A 邮箱 → info@gogreenit.net（Chris Clemson；回原串） 先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷
+- **下一步**：2026-11 上旬 A 邮箱 → info@gogreenit.net（Chris Clemson；回原串） 先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -52,7 +52,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5**（25% 档，首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd）——技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-06-11)、Download Link_Alan(2025-06-11)、STI-41616XGGPM-4BT(2025-08-22)、Product Link_2026Q2(2026-02-04)、Saga Feature List_7.5.x_L2+(2026-07-10)；已发单据：Quotation(2025-06-11)、STAG20250823017_R1(2025-08-23)、STAG20250823017(2025-08-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 26.3%（STI-42424XGGPM-4BT 成本 2,912）——正常
   - 复购/在买项：STI-41616XGGPM-4BT ×1（2025-08）
   - 做不了 / 要先核的：PoE 在 DC 低压/欠压恢复后的行为：需 SmartByte 给结论（Simon 问 Peter，代理不问）；SSH 终端类型 xterm-256color 未识别：固件侧问题，是否在 7.5 修复未知
-- **下一步（具体）**：2026-11 上旬　A 邮箱 → info@gogreenit.net（Chris Clemson；回原串）　先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷
+- **下一步（具体）**：2026-11 上旬　A 邮箱 → info@gogreenit.net（Chris Clemson；回原串）　先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -312,7 +312,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: PoE not powering on battery — did 7.5 change anything?
+**主题**：PoE not powering on battery — did 7.5 change anything?
 
 ```text
 Hi, Chris,

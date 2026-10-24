@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。；再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 目录 + 一问
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。
 - **断点 / 为什么停在这里**：东非付款 T/T 预付；小量
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　目录 + 一问
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -214,7 +214,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: how many types of switch — TESCOM
+**主题**：How many types of switch — TESCOM
 
 ```text
 Hi Samuisso,

@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表 — 品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高）
 - **第一问（只问一个）**：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 S 邮箱 → stan@thorfiber.com 发整表 + 问首批型号
+- **下一步**：现在 S 邮箱 → stan@thorfiber.com 发整表 + 问首批型号；附件：OEM 档价目（从三档表摘 STI-288DGGPM $137.5 / STI-42424XGGPM $423.5 L2+ · $517 L3 两行成一页，不发整表 PDF）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：OEM 价格表未给全。
 - **Saga 现在该推什么**：P1 **STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表**（30% 档，按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高））——品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：Thor 目标量；品牌化范围（logo/固件 GUI/包装）
-- **下一步（具体）**：现在　S 邮箱 → stan@thorfiber.com　发整表 + 问首批型号
+- **下一步（具体）**：现在　S 邮箱 → stan@thorfiber.com　发整表 + 问首批型号；附件：OEM 档价目（从三档表摘 STI-288DGGPM $137.5 / STI-42424XGGPM $423.5 L2+ · $517 L3 两行成一页，不发整表 PDF）
   - 第一问（只问一个）：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -284,7 +284,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: OEM prices — managed industrial PoE with IGMP
+**主题**：OEM prices — managed industrial PoE with IGMP
 
 ```text
 Hi, Stan,

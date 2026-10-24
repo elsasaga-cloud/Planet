@@ -128,7 +128,7 @@
     "next_move": {
       "when": "2026-11（拆档后）",
       "channel": "Elsa 邮箱回原线程",
-      "action": "拆档 + 各一问",
+      "action": "拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?"
     },
     "facts": [
@@ -178,7 +178,7 @@
       "Elsa 回复正文未入库"
     ],
     "draft_en": {
-      "subject": "Re: your test-sample request — capacities priced",
+      "subject": "Your test-sample request — capacities priced",
       "body": "Vadim,\n\nThree CENTEC SKUs are priced today, all EXW (2026 Q2 list): 32× 100G USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. 10G models are quoted per project.\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
     },
     "as_of": "2026-10-24"
