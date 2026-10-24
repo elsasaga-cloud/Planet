@@ -1,148 +1,151 @@
 {
- "code": "SB-637",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（focomm-cabling.com，快照 2026-10-21）",
- "summary": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
- "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร 02 97",
-   "url": "https://www.focomm-cabling.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC SFP 光猫 ONV的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "泰语官网：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目",
-   "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU … สำหรับ SI โรงงาน โครงการราชการและเอกชน",
-   "url": "https://www.focomm-cabling.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS / MC / SFP / 光猫，ONV 工业 FS",
-   "quote": "工业FS MC SFP 光猫；ONV的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "泰国",
-  "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "光缆 / 铜缆 / 机柜分销",
-  "PoE 交换机 / MC / SFP / GPON ONU",
-  "网络测试仪器（NF-716ADHS 等）"
- ],
- "channels": {
-  "role": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
-  "region": "泰国",
-  "contact": "info@focomm-cabling.com"
- },
- "signals": [
-  "产品页 /industrial-poe-switch/、/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/、/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
-  "站内 kw：sfp 149 / fiber 140 / media converter 84 / industrial 87 / data center 50",
-  "表内「可以尝试多跟进一下」"
- ],
- "risks": [
-  "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
-  "政府项目（โครงการราชการ）占比：只做非关键节点、不做招标担保",
-  "群发 16 次无回复：换角度（同口型对位）首触"
- ],
- "saga_fit": {
-  "p1": "STI-488DGGPM",
-  "tier": 20,
-  "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE"
- },
- "email_hook": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?",
- "products_seen": [
-  {
-   "brand": "ONV（分销）",
-   "model": "Industrial L3 managed PoE 4×Base-X + 8×Base-T",
-   "spec": "工业 L3 4 光 8 电 PoE",
-   "saga": "STI-488DGGPM（L2+）",
-   "url": "https://focomm-cabling.com/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "ONV（分销）",
-   "model": "Industrial web-smart PoE 4 ports + 2 SFP",
-   "spec": "工业 Web-smart 4 PoE + 2 SFP",
-   "saga": "STI-244GPM",
-   "url": "https://focomm-cabling.com/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 info@focomm-cabling.com；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）",
-   "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "泰国 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 光猫 ONV的工业FS」；研究档 risks：泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低"
-  },
-  "situation": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
-  "need": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE",
-  "breakpoint": "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STI-488DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@focomm-cabling.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC SFP 光猫 ONV的工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-    "why": "25 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-637",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（focomm-cabling.com，快照 2026-10-21）",
+  "summary": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
+  "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร 02 97",
+      "url": "https://www.focomm-cabling.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC SFP 光猫 ONV的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "泰语官网：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目",
+      "quote": "โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU … สำหรับ SI โรงงาน โครงการราชการและเอกชน",
+      "url": "https://www.focomm-cabling.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS / MC / SFP / 光猫，ONV 工业 FS",
+      "quote": "工业FS MC SFP 光猫；ONV的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "泰国",
+    "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "光缆 / 铜缆 / 机柜分销",
+    "PoE 交换机 / MC / SFP / GPON ONU",
+    "网络测试仪器（NF-716ADHS 等）"
+  ],
+  "channels": {
+    "role": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+    "region": "泰国",
+    "contact": "info@focomm-cabling.com"
+  },
+  "signals": [
+    "产品页 /industrial-poe-switch/、/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/、/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
+    "站内 kw：sfp 149 / fiber 140 / media converter 84 / industrial 87 / data center 50",
+    "表内「可以尝试多跟进一下」"
+  ],
+  "risks": [
+    "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
+    "政府项目（โครงการราชการ）占比：只做非关键节点、不做招标担保",
+    "群发 16 次无回复：换角度（同口型对位）首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-488DGGPM",
+    "tier": 20,
+    "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE"
+  },
+  "email_hook": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?",
+  "products_seen": [
+    {
+      "brand": "ONV（分销）",
+      "model": "Industrial L3 managed PoE 4×Base-X + 8×Base-T",
+      "spec": "工业 L3 4 光 8 电 PoE",
+      "saga": "STI-488DGGPM（L2+）",
+      "url": "https://focomm-cabling.com/industrial-l3-managed-poe-switch-4xbase-x-8xbase-t/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "ONV（分销）",
+      "model": "Industrial web-smart PoE 4 ports + 2 SFP",
+      "spec": "工业 Web-smart 4 PoE + 2 SFP",
+      "saga": "STI-244GPM",
+      "url": "https://focomm-cabling.com/industrial-web-smart-managed-poe-switch-4xports-2xgigabit-sfp/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 25 封 2024→2026，其中 2 封被打开，0 回；收件 info@focomm-cabling.com；被打开主题「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+      "type": "布线与网络设备分销商（面向 SI / 工厂 / 政府项目）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "泰国 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 25，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 光猫 ONV的工业FS」；研究档 risks：泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低"
+    },
+    "situation": "泰国 Focomm Cabling（布线与网络设备分销：光缆 / UTP / 机柜 / PoE 交换机 / MC / SFP / GPON ONU，面向 SI、工厂、政府与私营项目；产品页工业 PoE：L3 管理 4×Base-X + 8×Base-T、Web-smart 4 PoE + 1/2 SFP；表内「工业 FS / MC / SFP / 光猫，ONV 的工业 FS」）；群发 16 次无回复。",
+    "need": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE",
+    "breakpoint": "泰国（T5）价格敏感；现货源 ONV（深圳）价格基准低",
+    "saga_now": {
+      "p1": "STI-488DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@focomm-cabling.com",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC SFP 光猫 ONV的工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+        "why": "25 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"24 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

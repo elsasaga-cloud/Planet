@@ -1,134 +1,137 @@
 {
- "code": "SB-1061",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cominet.co.kr，快照 2026-10-21）",
- "summary": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
- "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Cominet；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "주메뉴；QNSS-KMC100C；Live Video Demo；IR Thermal Camera；OIRU-80S；OIRP-100S",
-   "url": "http://cominet.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS fiber solution",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Cominet 首页",
-   "quote": "Cominet ; QNSS-KMC100C ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT ; CMS-7010",
-   "url": "http://cominet.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS fiber solution",
-   "quote": "工业FS fiber solution；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（tcsong，姓名待核）",
-   "title": "（职务待核）",
-   "email": "tcsong@cominet.co.kr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "光中继 / 光传输",
-  "安防摄像 / 热像",
-  "交换机（CMS 系列）"
- ],
- "channels": {
-  "role": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
-  "region": "韩国",
-  "contact": "tcsong@cominet.co.kr"
- },
- "signals": [
-  "首页 QNSS-KMC100C ; Live Video Demo ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT；站内 CMS-7010 / CMS-5006；kw switch 23 / poe 21",
-  "表内：工业 FS fiber solution；可以尝试多跟进一下"
- ],
- "risks": [
-  "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
-  "23 次无回复，仅个人邮箱 tcsong@（姓名/职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE"
- },
- "email_hook": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 2 封被打开，0 回；收件 tcsong@cominet.co.kr；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 35，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS fiber solution」；研究档 risks：非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套"
-  },
-  "situation": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
-  "need": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
-  "breakpoint": "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → tcsong@cominet.co.kr",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS fiber solution",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "35 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1061",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cominet.co.kr，快照 2026-10-21）",
+  "summary": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
+  "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Cominet；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 网络交换 / PoE",
+      "quote": "주메뉴；QNSS-KMC100C；Live Video Demo；IR Thermal Camera；OIRU-80S；OIRP-100S",
+      "url": "http://cominet.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS fiber solution",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Cominet 首页",
+      "quote": "Cominet ; QNSS-KMC100C ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT ; CMS-7010",
+      "url": "http://cominet.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS fiber solution",
+      "quote": "工业FS fiber solution；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（tcsong，姓名待核）",
+      "title": "（职务待核）",
+      "email": "tcsong@cominet.co.kr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 cominet.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "光中继 / 光传输",
+    "安防摄像 / 热像",
+    "交换机（CMS 系列）"
+  ],
+  "channels": {
+    "role": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+    "region": "韩国",
+    "contact": "tcsong@cominet.co.kr"
+  },
+  "signals": [
+    "首页 QNSS-KMC100C ; Live Video Demo ; IR Thermal Camera ; OIRU-80S ; OIRP-100S ; OIRP-160S-FT；站内 CMS-7010 / CMS-5006；kw switch 23 / poe 21",
+    "表内：工业 FS fiber solution；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
+    "23 次无回复，仅个人邮箱 tcsong@（姓名/职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE"
+  },
+  "email_hook": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 2 封被打开，0 回；收件 tcsong@cominet.co.kr；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "韩国光传输/安防设备商（自有 CMS 系列交换机）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 35，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS fiber solution」；研究档 risks：非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套"
+    },
+    "situation": "韩国 Cominet（光中继/光传输 OIRU-80S / OIRP-100S / OIRP-160S-FT、CMS-7010 / CMS-5006 交换机、红外热像仪、KMC 摄像机；表内「工业 FS fiber solution」「可以尝试多跟进一下」；邮箱 tcsong@）；群发 23 次无回复。",
+    "need": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
+    "breakpoint": "非主攻区（T5，韩国）；主业光中继/热像（Saga 不做），交换机为配套",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 CMS 系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Cominet 标；MC 位 STI-110GE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → tcsong@cominet.co.kr",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS fiber solution",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "35 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Marvell Industrial Alert System",
+      "body": "Hi Tcsong,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

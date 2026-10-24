@@ -1,142 +1,145 @@
 {
- "code": "SB-074",
- "name_official": "Optiwatch Ltd（Co. 09595034，Enfield, London；optiwatchgroup.com；Optimum Group 成员）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与地址",
-   "quote": "Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems … Unit 5 Industrial Trading Estate 240-242 Lincoln Road, London, EN1 1SP, United Kingdom. +44 (0) 208 443 0077 marketing@optiwatchgroup.com",
-   "url": "https://www.optiwatchgroup.com/videosurveillance/videosurveillance.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "定位与规模",
-   "quote": "Optiwatch Limited was established in 2015 to provide remotely monitored Video Surveillance solutions primarily for the construction industry … Company size: 11-50 employees Headquarters: Enfield, Greater London … Founded: 2015",
-   "url": "https://www.linkedin.com/company/optiwatchlimited",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人登记",
-   "quote": "OPTIWATCH LTD … Registered office address: Optiwatch Ltd, Unit 5, Martinbridge Trading Estate, Lincoln Road, Enfield, Middlesex, England, EN1 1SP … Incorporated on: 18 May 2015",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09595034",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "创办人与联系邮箱",
-   "quote": "Optiwatch provide remotely monitored Video Surveillance solutions primarily for the construction industry … Founders Tim Chege … Contact Email marketing@optiwatchgroup.com Phone Number 44 (0) 208 443 0077",
-   "url": "https://www.crunchbase.com/organization/optiwatch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "17 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tim Chege",
-   "role": "Founder（Crunchbase 公开）",
-   "email": "marketing@optiwatchgroup.com（公司公开）",
-   "phone": "+44 20 8443 0077",
-   "source": "https://www.crunchbase.com/organization/optiwatch"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
- },
- "company_facts": {
-  "legal_name": "Optiwatch Ltd（Companies House 09595034，2015-05-18）",
-  "hq": "Unit 5, Martinbridge Trading Estate, 240-242 Lincoln Road, Enfield EN1 1SP, UK（+44 20 8443 0077；marketing@optiwatchgroup.com）",
-  "size": "11–50（LinkedIn）/ 15（RocketReach）；营业额 <£1M（Endole）",
-  "other": "创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地"
- },
- "business_lines": [
-  "建筑工地远程视频监控（AI 检测 + 喊话 + 虚拟巡更）",
-  "远程门禁 / 入侵检测 / 火灾预防监控（守界：火灾主系统不供）",
-  "钥匙托管、报警响应、巡逻与驻守"
- ],
- "channels": {
-  "网站": "https://optiwatchgroup.com/",
-  "电话": "+44 20 8443 0077（官网公开）",
-  "邮箱（公开）": "marketing@optiwatchgroup.com",
-  "LinkedIn": "https://www.linkedin.com/company/optiwatchlimited"
- },
- "signals": [
-  "工地监控塔/柜户外部署、4G 回传 → 每套 1 台宽温 DIN PoE 交换机（4–8 口）；自营服务商，设备自购自用、重复采购"
- ],
- "risks": [
-  "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W"
- },
- "email_hook": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
-  },
-  "situation": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
-  "need": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W",
-  "breakpoint": "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → muhassin@optiwatchgroup.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "28 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-074",
+  "name_official": "Optiwatch Ltd（Co. 09595034，Enfield, London；optiwatchgroup.com；Optimum Group 成员）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与地址",
+      "quote": "Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems … Unit 5 Industrial Trading Estate 240-242 Lincoln Road, London, EN1 1SP, United Kingdom. +44 (0) 208 443 0077 marketing@optiwatchgroup.com",
+      "url": "https://www.optiwatchgroup.com/videosurveillance/videosurveillance.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "定位与规模",
+      "quote": "Optiwatch Limited was established in 2015 to provide remotely monitored Video Surveillance solutions primarily for the construction industry … Company size: 11-50 employees Headquarters: Enfield, Greater London … Founded: 2015",
+      "url": "https://www.linkedin.com/company/optiwatchlimited",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "登记",
+      "claim": "法人登记",
+      "quote": "OPTIWATCH LTD … Registered office address: Optiwatch Ltd, Unit 5, Martinbridge Trading Estate, Lincoln Road, Enfield, Middlesex, England, EN1 1SP … Incorporated on: 18 May 2015",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09595034",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "创办人与联系邮箱",
+      "quote": "Optiwatch provide remotely monitored Video Surveillance solutions primarily for the construction industry … Founders Tim Chege … Contact Email marketing@optiwatchgroup.com Phone Number 44 (0) 208 443 0077",
+      "url": "https://www.crunchbase.com/organization/optiwatch",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "17 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Tim Chege",
+      "role": "Founder（Crunchbase 公开）",
+      "email": "marketing@optiwatchgroup.com（公司公开）",
+      "phone": "+44 20 8443 0077",
+      "source": "https://www.crunchbase.com/organization/optiwatch"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  },
+  "company_facts": {
+    "legal_name": "Optiwatch Ltd（Companies House 09595034，2015-05-18）",
+    "hq": "Unit 5, Martinbridge Trading Estate, 240-242 Lincoln Road, Enfield EN1 1SP, UK（+44 20 8443 0077；marketing@optiwatchgroup.com）",
+    "size": "11–50（LinkedIn）/ 15（RocketReach）；营业额 <£1M（Endole）",
+    "other": "创办人 Tim Chege；Optimum Group 成员；24/7 自营监控中心；主攻建筑工地"
+  },
+  "business_lines": [
+    "建筑工地远程视频监控（AI 检测 + 喊话 + 虚拟巡更）",
+    "远程门禁 / 入侵检测 / 火灾预防监控（守界：火灾主系统不供）",
+    "钥匙托管、报警响应、巡逻与驻守"
+  ],
+  "channels": {
+    "网站": "https://optiwatchgroup.com/",
+    "电话": "+44 20 8443 0077（官网公开）",
+    "邮箱（公开）": "marketing@optiwatchgroup.com",
+    "LinkedIn": "https://www.linkedin.com/company/optiwatchlimited"
+  },
+  "signals": [
+    "工地监控塔/柜户外部署、4G 回传 → 每套 1 台宽温 DIN PoE 交换机（4–8 口）；自营服务商，设备自购自用、重复采购"
+  ],
+  "risks": [
+    "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W"
+  },
+  "email_hook": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 muhassin@optiwatchgroup.com, shiffin@optiwatchgroup.com；被打开主题「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：多采用整套移动监控塔（第三方整机）；17 次推送 0 回复"
+    },
+    "situation": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
+    "need": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W",
+    "breakpoint": "多采用整套移动监控塔（第三方整机）；17 次推送 0 回复",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$145.7）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → muhassin@optiwatchgroup.com",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+        "why": "28 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Managed Optical Bypass Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

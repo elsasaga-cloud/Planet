@@ -1,134 +1,137 @@
 {
- "code": "SB-166",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（advance.technology，快照 2026-10-21）",
- "summary": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
- "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Advance Technology Solutions Ltd；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Compatible, affordable.；Discover more about Advance, including our guarantees and warranty.；Who We Are；Recent Posts；Quick Links",
-   "url": "https://advance.technology/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Advance 首页",
-   "quote": "Advance Technology Solutions Ltd ; Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty.",
-   "url": "https://advance.technology/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC PoE 自己 logo，很多 SFP",
-   "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "兼容光模块 / MC / PoE / 线缆（自有品牌 Advance）"
- ],
- "channels": {
-  "role": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
-  "region": "英国",
-  "contact": "info@advance.technology"
- },
- "signals": [
-  "页面 /poe-media-converters/、/product-support/；站内 A-MC-PS-V2-111-SFP；kw sfp 512 / cable 204 / 10g 88 / media converter 35 / poe 30",
-  "首页：Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty"
- ],
- "risks": [
-  "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
-  "10 次无回复，仅 info@，无具名 KP；现供多家深圳厂价格基准低"
- ],
- "saga_fit": {
-  "p1": "STI-111GP",
-  "tier": 30,
-  "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）"
- },
- "email_hook": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?",
- "products_seen": [
-  {
-   "brand": "Advance（自有）",
-   "model": "A-MC-PS-V2-111-SFP",
-   "spec": "PoE 媒体转换器（SFP 口）",
-   "saga": "STI-111GP",
-   "url": "https://advance.technology/poe-media-converters/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 21 封 2025→2026，其中 2 封被打开，0 回；收件 info@advance.technology；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块」；研究档 risks：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位"
-  },
-  "situation": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
-  "need": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）",
-  "breakpoint": "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
-  "saga_now": {
-   "p1": "STI-111GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@advance.technology",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "21 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-166",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（advance.technology，快照 2026-10-21）",
+  "summary": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
+  "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Advance Technology Solutions Ltd；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Compatible, affordable.；Discover more about Advance, including our guarantees and warranty.；Who We Are；Recent Posts；Quick Links",
+      "url": "https://advance.technology/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Advance 首页",
+      "quote": "Advance Technology Solutions Ltd ; Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty.",
+      "url": "https://advance.technology/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC PoE 自己 logo，很多 SFP",
+      "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 advance.technology，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "兼容光模块 / MC / PoE / 线缆（自有品牌 Advance）"
+  ],
+  "channels": {
+    "role": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
+    "region": "英国",
+    "contact": "info@advance.technology"
+  },
+  "signals": [
+    "页面 /poe-media-converters/、/product-support/；站内 A-MC-PS-V2-111-SFP；kw sfp 512 / cable 204 / 10g 88 / media converter 35 / poe 30",
+    "首页：Compatible, affordable. ; Discover more about Advance, including our guarantees and warranty"
+  ],
+  "risks": [
+    "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
+    "10 次无回复，仅 info@，无具名 KP；现供多家深圳厂价格基准低"
+  ],
+  "saga_fit": {
+    "p1": "STI-111GP",
+    "tier": 30,
+    "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）"
+  },
+  "email_hook": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?",
+  "products_seen": [
+    {
+      "brand": "Advance（自有）",
+      "model": "A-MC-PS-V2-111-SFP",
+      "spec": "PoE 媒体转换器（SFP 口）",
+      "saga": "STI-111GP",
+      "url": "https://advance.technology/poe-media-converters/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 21 封 2025→2026，其中 2 封被打开，0 回；收件 info@advance.technology；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块」；研究档 risks：主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位"
+    },
+    "situation": "英国 Advance Technology Solutions Ltd（「Compatible, affordable」兼容光模块品牌（sfp 512）、PoE 媒体转换器页、线缆（204）、10G/2.5G；表内「外壳比较杂，很多是国内的；MC / PoE 自己 logo，很多 SFP 模块」「可以尝试多跟进一下」）；群发 10 次无回复。",
+    "need": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）",
+    "breakpoint": "主品类 SFP：Saga 不供（Q-32），仅 MC/PoE 可对位",
+    "saga_now": {
+      "p1": "STI-111GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@advance.technology",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "21 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

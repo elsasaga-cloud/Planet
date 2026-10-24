@@ -266,21 +266,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: ANDA ATMIS series — the stacking point
 
 ```text
-Hi Harish,
+Hi Subhash,
 
-Picking up our earlier exchange about PoE / industrial switches. Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?
+Following your 4 August note ("no a days Stacking is mandatory") — a straight answer rather than a datasheet:
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+Our AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). What they do offer is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.
+
+So the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, we should not waste your time on the AC5 line; if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom · sagatele.com
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

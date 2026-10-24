@@ -1,133 +1,136 @@
 {
- "code": "SA-018",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "",
- "summary": "（加厚挖掘建档，摘要见下文加厚块）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "S 重点；之前谈了工业 FS；CEO；WA 加不上",
-   "quote": "之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SA-018",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "",
+  "summary": "（加厚挖掘建档，摘要见下文加厚块）",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "S 重点；之前谈了工业 FS；CEO；WA 加不上",
+      "quote": "之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
+  },
+  "company_facts": {
+    "legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
+    "hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
+    "size": "待核",
+    "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
+  },
+  "business_lines": [
+    "网络设备经销（PLANET 线）",
+    "（待核）德国商品代购站 germany24"
+  ],
+  "channels": {
+    "网站": "germany24.com.ua · planet.kiev.ua（未抓取）",
+    "邮箱": "info@germany24.com.ua（用户表）"
+  },
+  "signals": [
+    "曾谈工业 FS（光纤交换机）→ 对位 PLANET 工业 DIN 系列；S 重点名单；CEO Sergey Khodun 直达"
+  ],
+  "risks": [
+    "乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
+  },
+  "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20）",
+      "type": "乌克兰进口商 + 自有标（要印自己品牌/型号/序列号，每型号常规 20–30 台）；Sergiy Khodun——第二档「有进口经验者」+ 贴牌",
+      "sieve": "3（BO 已发：DI order #1.xls；问交期/标签样/GUI logo）",
+      "stop": "2024-11-22「your company is not a manufacturer and does not have its own production facilities… right?」→ Simon「We are a manufacturer, at the same time, we trade. Marvell… manufacture, Realtek from other suppliers」→ 再无来信；BO 疑含 Realtek 低价款（他 5 月问过 STI-050FE/080FE 25/40 USD 的价差）",
+      "revive": "以 sagatele.com 现口径（Engineering & Supply-Chain-First）重述身份一次 + 问 2024 BO 是否仍有效；UA 物流/付款需先核",
+      "lane": "UA（战时物流/付款待核；对方 2024 要普通快递）",
+      "cadence": "2024-05 → 2026-09 去信 28 封；最后来信 2024-11-22",
+      "evidence": "k=ce8e1aaaf377b7e8 / 510ef3ba6b343873 / fbd001897a47c982 / eaa8056ace798022 / d6c3e30a8869b4c6"
+    },
+    "situation": "Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。",
+    "need": "小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。",
+    "breakpoint": "身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。",
+    "saga_now": {
+      "p1": "BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线",
+      "tier": 30,
+      "price": "按 30% 自有标档",
+      "why": "J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核",
+      "repeat": [],
+      "gaps": [
+        "DI order #1.xls 内容未入库",
+        "UA 物流（百运网能否到基辅）与付款（T/T 可否）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11（一次）",
+      "channel": "S 邮箱 → sergiy.khodun@gmail.com",
+      "action": "两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变",
+      "one_question": "Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?"
+    },
+    "facts": [
+      {
+        "date": "2024-05-29",
+        "dir": "来",
+        "who": "Sergiy Khodun",
+        "quote": "Do you print labels with our BRAND name, model's name and serial number if we'll be do order regularly about 20-30pcs per models?",
+        "why": "自有标 + 常规量",
+        "k": "ce8e1aaaf377b7e8"
+      },
+      {
+        "date": "2024-11-20",
+        "dir": "来",
+        "who": "Sergiy",
+        "quote": "We are going to do our first order for testing your products. Pls refer to our current BO attached.",
+        "why": "BO 递交",
+        "k": "510ef3ba6b343873"
+      },
+      {
+        "date": "2024-11-20",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "For the listed quantity and models, 7~10 working days… logo… free of cost",
+        "why": "交期与贴牌答复",
+        "k": "fbd001897a47c982"
+      },
+      {
+        "date": "2024-11-22",
+        "dir": "来",
+        "who": "Sergiy",
+        "quote": "As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right?",
+        "why": "身份追问 = 停点",
+        "k": "eaa8056ace798022"
+      },
+      {
+        "date": "2024-11-22",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "We are a manufacturer, at the same time, we trade. Marvell solution is what we do/manufacture, while Realtek is from other suppliers(trading).",
+        "why": "当时口径",
+        "k": "d6c3e30a8869b4c6"
+      }
+    ],
+    "proof_gaps": [
+      "BO 具体型号/数量",
+      "对方 2026 年是否仍在营业（战时）——官网未核"
+    ],
+    "draft_en": {
+      "subject": "Re: DI order #1 (Nov 2024) — still worth shipping?",
+      "body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界）"
- },
- "company_facts": {
-  "legal_name": "Germany24 / planet.kiev.ua 运营主体（待核）",
-  "hq": "Kyiv, Ukraine（+380 44 593 7976，WA 加不上）",
-  "size": "待核",
-  "other": "域名 planet.kiev.ua 表明其为 PLANET 品牌在乌克兰的经销/推广站；S 重点名单；22 次跟进、1 次实质回复"
- },
- "business_lines": [
-  "网络设备经销（PLANET 线）",
-  "（待核）德国商品代购站 germany24"
- ],
- "channels": {
-  "网站": "germany24.com.ua · planet.kiev.ua（未抓取）",
-  "邮箱": "info@germany24.com.ua（用户表）"
- },
- "signals": [
-  "曾谈工业 FS（光纤交换机）→ 对位 PLANET 工业 DIN 系列；S 重点名单；CEO Sergey Khodun 直达"
- ],
- "risks": [
-  "乌克兰：战时物流/保险/付款与最终用途不可控 → 守界（只被动响应、不主动推送军用可用品类）；WA 加不上"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "分销 20% 档（被动）：STI-288GP（DIN 8 GE PoE+ 2 SFP，$57.4）对应曾谈的工业 FS；管理型 STI-288DGGPM（$139.9）。乌克兰守界：仅在对方来询且用途为民用基础设施时报价"
- },
- "email_hook": "（守界：不主动发送；若对方来询——Sergey, for the industrial fibre switch we discussed: DIN-rail 8× GbE PoE+ + 2× SFP at $57.4 EXW, managed L2+ at $139.9; please confirm the civil end-use and delivery route so I can quote shipping.）",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（订单意向止于身份追问）——曾递交首张测试订单 BO（2024-11-20）",
-   "type": "乌克兰进口商 + 自有标（要印自己品牌/型号/序列号，每型号常规 20–30 台）；Sergiy Khodun——第二档「有进口经验者」+ 贴牌",
-   "sieve": "3（BO 已发：DI order #1.xls；问交期/标签样/GUI logo）",
-   "stop": "2024-11-22「your company is not a manufacturer and does not have its own production facilities… right?」→ Simon「We are a manufacturer, at the same time, we trade. Marvell… manufacture, Realtek from other suppliers」→ 再无来信；BO 疑含 Realtek 低价款（他 5 月问过 STI-050FE/080FE 25/40 USD 的价差）",
-   "revive": "以 sagatele.com 现口径（Engineering & Supply-Chain-First）重述身份一次 + 问 2024 BO 是否仍有效；UA 物流/付款需先核",
-   "lane": "UA（战时物流/付款待核；对方 2024 要普通快递）",
-   "cadence": "2024-05 → 2026-09 去信 28 封；最后来信 2024-11-22",
-   "evidence": "k=ce8e1aaaf377b7e8 / 510ef3ba6b343873 / fbd001897a47c982 / eaa8056ace798022 / d6c3e30a8869b4c6"
-  },
-  "situation": "Deutsche Import 是 A 级里唯一真正递交过订单表的乌克兰客户：2024-05 就问能否按其品牌印标签/型号/序列号（每型号 20–30 台常规量），2024-11-20 发来「first order for testing」BO，问交期（Simon：7–10 工作日）、标签样、GUI 加 logo（Simon：免费）。两天后他问「你们不是制造商、没有自己的产线对吧？」，Simon 答「既制造也贸易，Marvell 自产、Realtek 来自其他供应商」，对话终止。",
-  "need": "小批量自有标：Marvell 管理型 + Realtek 低价非管理（DIN 5/8 口），GUI 带 logo。",
-  "breakpoint": "身份问题是真实停点（摘读 D12/D13）：对方要的是「厂」的确定性，Saga 当时的回答把 Realtek 线的「贸易」属性摆在了订单前面。现口径「Engineering & Supply-Chain-First」正好是对这个问题的答案。",
-  "saga_now": {
-   "p1": "BO 内 Marvell 款（具体型号在 DI order #1.xls，附件未入库）；Realtek 款按 Simon 是否开线",
-   "tier": 30,
-   "price": "按 30% 自有标档",
-   "why": "J3：一次性回答身份 + 问旧 BO，成本一封信；UA 风险另核",
-   "repeat": [],
-   "gaps": [
-    "DI order #1.xls 内容未入库",
-    "UA 物流（百运网能否到基辅）与付款（T/T 可否）"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11（一次）",
-   "channel": "S 邮箱 → sergiy.khodun@gmail.com",
-   "action": "两段：Saga 现身份一句话；2024 BO 的 Marvell 项是否仍要、7–10 天交期不变",
-   "one_question": "Your Nov-2024 test order (DI order #1) — is it still worth shipping the Marvell items with your label, 7–10 days after payment?"
-  },
-  "facts": [
-   {
-    "date": "2024-05-29",
-    "dir": "来",
-    "who": "Sergiy Khodun",
-    "quote": "Do you print labels with our BRAND name, model's name and serial number if we'll be do order regularly about 20-30pcs per models?",
-    "why": "自有标 + 常规量",
-    "k": "ce8e1aaaf377b7e8"
-   },
-   {
-    "date": "2024-11-20",
-    "dir": "来",
-    "who": "Sergiy",
-    "quote": "We are going to do our first order for testing your products. Pls refer to our current BO attached.",
-    "why": "BO 递交",
-    "k": "510ef3ba6b343873"
-   },
-   {
-    "date": "2024-11-20",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "For the listed quantity and models, 7~10 working days… logo… free of cost",
-    "why": "交期与贴牌答复",
-    "k": "fbd001897a47c982"
-   },
-   {
-    "date": "2024-11-22",
-    "dir": "来",
-    "who": "Sergiy",
-    "quote": "As far as I understand, your company is not a manufacturer and does not have its own production facilities. You operate in cooperation with other manufacturers, right?",
-    "why": "身份追问 = 停点",
-    "k": "eaa8056ace798022"
-   },
-   {
-    "date": "2024-11-22",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "We are a manufacturer, at the same time, we trade. Marvell solution is what we do/manufacture, while Realtek is from other suppliers(trading).",
-    "why": "当时口径",
-    "k": "d6c3e30a8869b4c6"
-   }
-  ],
-  "proof_gaps": [
-   "BO 具体型号/数量",
-   "对方 2026 年是否仍在营业（战时）——官网未核"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

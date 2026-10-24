@@ -1,123 +1,126 @@
 {
- "code": "SB-953",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（rollan.ca，快照 2026-10-21）",
- "summary": "加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。",
- "type": "IT/电信/工业方案商（加拿大）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：RollanTech Corporation；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备",
-   "quote": "RollanTech Corporation â IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada.",
-   "url": "https://rollan.ca/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "networking 方案商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "RollanTech 定位",
-   "quote": "RollanTech Corporation – IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada",
-   "url": "https://rollan.ca/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "networking 方案商",
-   "quote": "networking 方案商；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "IT / 电信 / 绿色能源 / 工业方案（加拿大）"
- ],
- "channels": {
-  "role": "IT/电信/工业方案商（加拿大）",
-  "region": "加拿大",
-  "contact": "sales@rollan.ca"
- },
- "signals": [
-  "官网：RollanTech Corporation – IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada；首页 Advanced Tech Solutions for Every Industry；kw industrial 9 / telecom 7",
-  "表内：networking 方案商；可以多跟进一下"
- ],
- "risks": [
-  "业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 sales@rollan.ca；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
-   "type": "IT/电信/工业方案商（加拿大）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "CA 主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「networking 方案商」；研究档 risks：业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@"
-  },
-  "situation": "加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。",
-  "need": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → sales@rollan.ca",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "networking 方案商",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "22 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-953",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（rollan.ca，快照 2026-10-21）",
+  "summary": "加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。",
+  "type": "IT/电信/工业方案商（加拿大）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：RollanTech Corporation；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备",
+      "quote": "RollanTech Corporation â IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada.",
+      "url": "https://rollan.ca/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "networking 方案商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "RollanTech 定位",
+      "quote": "RollanTech Corporation – IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada",
+      "url": "https://rollan.ca/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "networking 方案商",
+      "quote": "networking 方案商；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "加拿大",
+    "other": "官网 rollan.ca，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "IT / 电信 / 绿色能源 / 工业方案（加拿大）"
+  ],
+  "channels": {
+    "role": "IT/电信/工业方案商（加拿大）",
+    "region": "加拿大",
+    "contact": "sales@rollan.ca"
+  },
+  "signals": [
+    "官网：RollanTech Corporation – IT, Telecom, Green Energy, Lab Equipment, and Industrial Solutions based in Montreal, Canada；首页 Advanced Tech Solutions for Every Industry；kw industrial 9 / telecom 7",
+    "表内：networking 方案商；可以多跟进一下"
+  ],
+  "risks": [
+    "业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 sales@rollan.ca；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
+      "type": "IT/电信/工业方案商（加拿大）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "CA 主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「networking 方案商」；研究档 risks：业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@"
+    },
+    "situation": "加拿大 RollanTech Corporation（蒙特利尔：IT、电信、绿色能源、实验设备与工业方案；表内「networking 方案商」「可以多跟进一下」）；群发 8 次无回复。",
+    "need": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "业务面宽（IT/电信/绿能/实验设备），网络采购量待核；8 次无回复，仅 sales@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "方案商配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 GE + 2 SFP STI-280GE（$48.6）；24 口 STC-424DGGPM-280W（$140.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → sales@rollan.ca",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "networking 方案商",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+        "why": "22 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,137 +1,140 @@
 {
- "code": "SB-150",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ltsecurityinc.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
- "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
- "size": "",
- "brands_seen": [
-  "Ajax",
-  "Utepo",
-  "LTS"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Security Cameras & CCTV Distributor Australia | LTS Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
-   "url": "https://www.ltsecurityinc.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "LTS Security 澳洲授权分销",
-   "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
-   "url": "https://www.ltsecurityinc.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo 的工业 FS 自己的型号",
-   "quote": "工业FS MC 周边产品；Upeto的工业FS 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "George Lu",
-   "title": "Technical Support Specialist",
-   "email": "george@ltsecurityinc.com.au",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防分销（LTS CCTV / 对讲 / Ajax / KNX）",
-  "工业 PoE 交换机（自有型号，Utepo 代工）"
- ],
- "channels": {
-  "role": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
-  "region": "澳大利亚",
-  "contact": "george@ltsecurityinc.com.au、info@ltsecurityinc.com.au"
- },
- "signals": [
-  "官网：Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions",
-  "表内：Utepo 的工业 FS 自己的型号；KP George Lu / Technical Support Specialist"
- ],
- "risks": [
-  "非主攻区（T5）；RCM 合规由客户申报",
-  "现代工 Utepo（深圳）价格基准低；21 次无回复 → 改向具名技术支持首触，预期低"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 30,
-  "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
- },
- "email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 30，Opened 标签 4（Simon 群发追踪）；用户表：「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
-  },
-  "situation": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
-  "need": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM",
-  "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → george@ltsecurityinc.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "30 封 / 4 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-150",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ltsecurityinc.com.au，快照 2026-10-21）",
+  "summary": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
+  "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
+  "size": "",
+  "brands_seen": [
+    "Ajax",
+    "Utepo",
+    "LTS"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Security Cameras & CCTV Distributor Australia | LTS Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
+      "url": "https://www.ltsecurityinc.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "LTS Security 澳洲授权分销",
+      "quote": "Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions for security professionals.",
+      "url": "https://www.ltsecurityinc.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Utepo 的工业 FS 自己的型号",
+      "quote": "工业FS MC 周边产品；Upeto的工业FS 自己的型号",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "George Lu",
+      "title": "Technical Support Specialist",
+      "email": "george@ltsecurityinc.com.au",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "澳大利亚",
+    "other": "官网 ltsecurityinc.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "安防分销（LTS CCTV / 对讲 / Ajax / KNX）",
+    "工业 PoE 交换机（自有型号，Utepo 代工）"
+  ],
+  "channels": {
+    "role": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
+    "region": "澳大利亚",
+    "contact": "george@ltsecurityinc.com.au、info@ltsecurityinc.com.au"
+  },
+  "signals": [
+    "官网：Authorised Australian importer and distributor of LTS security products, CCTV cameras, intercoms, Ajax alarms, and PRO-X solutions",
+    "表内：Utepo 的工业 FS 自己的型号；KP George Lu / Technical Support Specialist"
+  ],
+  "risks": [
+    "非主攻区（T5）；RCM 合规由客户申报",
+    "现代工 Utepo（深圳）价格基准低；21 次无回复 → 改向具名技术支持首触，预期低"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 30,
+    "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM"
+  },
+  "email_hook": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 30，Opened 标签 4（Simon 群发追踪）；用户表：「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
+    },
+    "situation": "澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。",
+    "need": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM",
+    "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → george@ltsecurityinc.com.au",
+      "action": "短信一问（email_hook）",
+      "one_question": "George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC 周边产品 Upeto的工业FS 自己的型号",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "30 封 / 4 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Marvell Industrial Alert System",
+      "body": "Hi George,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

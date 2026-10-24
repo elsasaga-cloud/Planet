@@ -218,25 +218,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：One question — Information
 
 ```text
 Hi Usman,
 
-Picking up our earlier exchange about PoE / industrial switches. You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
+You opened our mail on "Information" but had no reason to answer — fair enough. No brochure this time, just one question:
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom · sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -240,21 +240,25 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：One question — 2.5G Unmanaged Switch
 
 ```text
-Hello,
+Hi Dipol,
 
-Picking up our earlier exchange about PoE / industrial switches. For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
+You opened our mail on "2.5G Unmanaged Switch" (and "Industrial fiber switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
+
+Prices are USD EXW, 2026-10-17 snapshot, valid 15 days.
+
+If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom · sagatele.com
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1,124 +1,127 @@
 {
- "code": "SB-1042",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（hyesungtechwin.com，快照 2026-10-21）",
- "summary": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
- "type": "工业光通信设备商（韩国，bypass 需求）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：hyesungtechwin.com",
-   "quote": "ICT, ì°ì ì©ê´ì¤ìì¹, ê´ì ì¡ì¥ë¹, ì°ì ì© ë¯¸ëì´ ì»¨ë²í°, IOT ì¤ìê° ëª¨ëí°ë§ ì¥ë¹",
-   "url": "https://hyesungtechwin.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: www.hyesungtechwin.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Bypass Ethernet Switch；质量不错",
-   "quote": "Bypass Ethernet Switch；质量不错；attn: Kang In-Su",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Kang In-Su",
-   "title": "Director",
-   "email": "kis@hstw.net",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 hyesungtechwin.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业光交换机 / 光传输 / 工业 MC / IoT 监控（韩国）"
- ],
- "channels": {
-  "role": "工业光通信设备商（韩国，bypass 需求）",
-  "region": "韩国",
-  "contact": "insuner@hanmail.net、kis@hstw.net"
- },
- "signals": [
-  "官网 desc：ICT, 산업용광스위치, 광전송장비, 산업용 미디어 컨버터, IOT 실시간 모니터링 장비（乱码还原）",
-  "表内：Bypass Ethernet Switch；质量不错；attn: Kang In-Su | telephone: 031-745-7005"
- ],
- "risks": [
-  "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标"
- },
- "email_hook": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 2 封被打开，0 回；收件 insuner@hanmail.net, kis@hstw.net；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-   "type": "工业光通信设备商（韩国，bypass 需求）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 38，Opened 标签 2（Simon 群发追踪）；用户表：「Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010」；研究档 risks：bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 "
-  },
-  "situation": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
-  "need": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标",
-  "breakpoint": "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → insuner@hanmail.net",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: ww",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "38 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1042",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（hyesungtechwin.com，快照 2026-10-21）",
+  "summary": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
+  "type": "工业光通信设备商（韩国，bypass 需求）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：hyesungtechwin.com",
+      "quote": "ICT, ì°ì ì©ê´ì¤ìì¹, ê´ì ì¡ì¥ë¹, ì°ì ì© ë¯¸ëì´ ì»¨ë²í°, IOT ì¤ìê° ëª¨ëí°ë§ ì¥ë¹",
+      "url": "https://hyesungtechwin.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: www.hyesungtechwin.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Bypass Ethernet Switch；质量不错",
+      "quote": "Bypass Ethernet Switch；质量不错；attn: Kang In-Su",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Kang In-Su",
+      "title": "Director",
+      "email": "kis@hstw.net",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 hyesungtechwin.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业光交换机 / 光传输 / 工业 MC / IoT 监控（韩国）"
+  ],
+  "channels": {
+    "role": "工业光通信设备商（韩国，bypass 需求）",
+    "region": "韩国",
+    "contact": "insuner@hanmail.net、kis@hstw.net"
+  },
+  "signals": [
+    "官网 desc：ICT, 산업용광스위치, 광전송장비, 산업용 미디어 컨버터, IOT 실시간 모니터링 장비（乱码还原）",
+    "表内：Bypass Ethernet Switch；质量不错；attn: Kang In-Su | telephone: 031-745-7005"
+  ],
+  "risks": [
+    "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标"
+  },
+  "email_hook": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 38 封 2024→2026，其中 2 封被打开，0 回；收件 insuner@hanmail.net, kis@hstw.net；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+      "type": "工业光通信设备商（韩国，bypass 需求）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 38，Opened 标签 2（Simon 群发追踪）；用户表：「Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010」；研究档 risks：bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 "
+    },
+    "situation": "韩国 HYESUNG TECHWIN（hyesungtechwin.com / hstw.net：ICT、工业用光交换机、光传输设备、工业 MC、IoT 实时监控设备；表内「Bypass Ethernet Switch」「质量不错」；KP Kang In-Su（Director），电话 031-745-7005）；群发 22 次无回复。",
+    "need": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标",
+    "breakpoint": "bypass 款不在 Saga 列表（以 SmartByte 型号替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；自有产品线（可能有既定 ODM）；22 次无回复；备用邮箱 hanmail 免费邮箱",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → insuner@hanmail.net",
+      "action": "短信一问（email_hook）",
+      "one_question": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Bypass Ethernet Switch；attn: Kang In-Su | telephone: 031-745-7005 | mobile.: 010-3368-2118 | fax.: 031-745-7006 | 网址: ww",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "38 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Managed Optical Bypass Switch",
+      "body": "Hi Insuner,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

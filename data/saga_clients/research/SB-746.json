@@ -171,7 +171,10 @@
     "proof_gaps": [
       "Elsa 2026-08-04 发出的规格书型号未入库"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: ANDA ATMIS series — the stacking point",
+      "body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). What they do offer is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, we should not waste your time on the AC5 line; if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

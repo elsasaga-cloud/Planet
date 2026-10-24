@@ -1,122 +1,125 @@
 {
- "code": "SB-809",
- "name_official": "Arcdyn（美国北卡阿什维尔）",
- "researched_at": "2026-10-21",
- "website_status": "在线（arcdyn.com，快照 2026-10-21）",
- "summary": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Uniview"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "安防摄像机供应商与分销，NDAA 选项；阿什维尔",
-   "quote": "Arcdyn Security Supplier sells affordable professional grade IP Security Cameras, NVR Surveillance Systems, & Access Control Systems Nation Wide and In Asheville, NC… NDAA Options… brands Uniview",
-   "url": "https://arcdyn.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要是 CCTV 商业 PoE PoE extender",
-   "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Justin Bowman",
-   "title": "President",
-   "email": "jbowman@arcdyn.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Arcdyn LLC（待核）",
-  "founded": "",
-  "hq": "Asheville, NC, USA",
-  "size": "中小型安防分销",
-  "other": "NDAA 合规选项"
- },
- "business_lines": [
-  "安防摄像机 / NVR 分销"
- ],
- "channels": {
-  "role": "安防分销商",
-  "region": "美国"
- },
- "signals": [
-  "President 具名；PoE 为配套品类"
- ],
- "risks": [
-  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "NDAA 合规（芯片来源）敏感 → Marvell 平台需说明",
-  "PoE 延长器 Saga 无；19 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
- },
- "email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 21 封 2024→2026，其中 3 封被打开，0 回；收件 jbowman@arcdyn.com, support@arcdyn.com；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 21，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 商业PoE PoE extender」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
-  },
-  "situation": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
-  "need": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
-  "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → jbowman@arcdyn.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "21 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-809",
+  "name_official": "Arcdyn（美国北卡阿什维尔）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（arcdyn.com，快照 2026-10-21）",
+  "summary": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Uniview"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "安防摄像机供应商与分销，NDAA 选项；阿什维尔",
+      "quote": "Arcdyn Security Supplier sells affordable professional grade IP Security Cameras, NVR Surveillance Systems, & Access Control Systems Nation Wide and In Asheville, NC… NDAA Options… brands Uniview",
+      "url": "https://arcdyn.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是 CCTV 商业 PoE PoE extender",
+      "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Justin Bowman",
+      "title": "President",
+      "email": "jbowman@arcdyn.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Arcdyn LLC（待核）",
+    "founded": "",
+    "hq": "Asheville, NC, USA",
+    "size": "中小型安防分销",
+    "other": "NDAA 合规选项"
+  },
+  "business_lines": [
+    "安防摄像机 / NVR 分销"
+  ],
+  "channels": {
+    "role": "安防分销商",
+    "region": "美国"
+  },
+  "signals": [
+    "President 具名；PoE 为配套品类"
+  ],
+  "risks": [
+    "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+    "NDAA 合规（芯片来源）敏感 → Marvell 平台需说明",
+    "PoE 延长器 Saga 无；19 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
+  },
+  "email_hook": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 21 封 2024→2026，其中 3 封被打开，0 回；收件 jbowman@arcdyn.com, support@arcdyn.com；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 21，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 商业PoE PoE extender」；研究档 risks：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+    },
+    "situation": "美国安防摄像机供应商 / 分销（NDAA 选项，IP 摄像机、NVR、门禁；Uniview；camera 232 / poe 164 / switch 66），President Justin Bowman；表内「主要是 CCTV，商用 PoE，PoE extender」；群发 19 次无回复。",
+    "need": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
+    "breakpoint": "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → jbowman@arcdyn.com",
+      "action": "短信一问（email_hook）",
+      "one_question": "Justin, for the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "21 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Justin,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

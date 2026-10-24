@@ -1,125 +1,128 @@
 {
- "code": "SB-405",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（murrelektronik.de，快照 2026-10-21）",
- "summary": "德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。",
- "type": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Wir sind Experte für Automatisierungslösungen | Murrelektronik；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik. Erfahren sie hier mehr über uns und unsere Lösungen.",
-   "url": "https://my.murrelektronik.com/home/de",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "电口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Murrelektronik 定位",
-   "quote": "Wir sind Experte für Automatisierungslösungen | Murrelektronik ; Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik ; /product-portfolio/industrial-switches",
-   "url": "https://my.murrelektronik.com/home/de",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "电口；着重跟",
-   "quote": "电口；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "分布式自动化（I/O、连接、电源）",
-  "工业交换机 / 工业无线"
- ],
- "channels": {
-  "role": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
-  "region": "德国",
-  "contact": "shop@murrelektronik.de"
- },
- "signals": [
-  "页面 /home/en/technologies-systems/product-portfolio/industrial-switches、…/industrial-switches/industrial-wireless；官网：Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik；站内 IP69K / IMPACT67",
-  "表内：电口；可以着重跟一下"
- ],
- "risks": [
-  "体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做",
-  "7 次无回复，仅 shop@，无具名 KP；用户标「着重跟」"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做"
- },
- "email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A 邮箱 10 封 2025→2026，其中 2 封被打开，0 回；收件 shop@murrelektronik.de；被打开主题「16 Port Ethernet Switch、Managed Optical Bypass Switch」）",
-   "type": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 10，Opened 标签 2（Simon 群发追踪）；用户表：「电口」；研究档 risks：体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做"
-  },
-  "situation": "德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。",
-  "need": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做",
-  "breakpoint": "体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → shop@murrelektronik.de",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "电口",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
-    "why": "10 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-405",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（murrelektronik.de，快照 2026-10-21）",
+  "summary": "德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。",
+  "type": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Wir sind Experte für Automatisierungslösungen | Murrelektronik；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+      "quote": "Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik. Erfahren sie hier mehr über uns und unsere Lösungen.",
+      "url": "https://my.murrelektronik.com/home/de",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "电口",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Murrelektronik 定位",
+      "quote": "Wir sind Experte für Automatisierungslösungen | Murrelektronik ; Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik ; /product-portfolio/industrial-switches",
+      "url": "https://my.murrelektronik.com/home/de",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "电口；着重跟",
+      "quote": "电口；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 murrelektronik.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "分布式自动化（I/O、连接、电源）",
+    "工业交换机 / 工业无线"
+  ],
+  "channels": {
+    "role": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
+    "region": "德国",
+    "contact": "shop@murrelektronik.de"
+  },
+  "signals": [
+    "页面 /home/en/technologies-systems/product-portfolio/industrial-switches、…/industrial-switches/industrial-wireless；官网：Seit 50 Jahren ist Murrelektronik einer der Vorreiter in der dezentralen elektrischen Automatisierungstechnik；站内 IP69K / IMPACT67",
+    "表内：电口；可以着重跟一下"
+  ],
+  "risks": [
+    "体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做",
+    "7 次无回复，仅 shop@，无具名 KP；用户标「着重跟」"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做"
+  },
+  "email_hook": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A 邮箱 10 封 2025→2026，其中 2 封被打开，0 回；收件 shop@murrelektronik.de；被打开主题「16 Port Ethernet Switch、Managed Optical Bypass Switch」）",
+      "type": "德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 10，Opened 标签 2（Simon 群发追踪）；用户表：「电口」；研究档 risks：体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做"
+    },
+    "situation": "德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。",
+    "need": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做",
+    "breakpoint": "体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → shop@murrelektronik.de",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "电口",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "16 Port Ethernet Switch、Managed Optical Bypass Switch",
+        "why": "10 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — 16 Port Ethernet Switch",
+      "body": "Hello,\n\nYou opened our mail on \"16 Port Ethernet Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

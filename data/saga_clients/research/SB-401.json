@@ -1,134 +1,137 @@
 {
- "code": "SB-401",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（helmholz.de，快照 2026-10-21）",
- "summary": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
- "type": "德国工业网络品牌商（PROFINET，自有品牌）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Home；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke；Produktnews；Success Stories；Aktuelle Angebote；Jetzt Newsletter abonnieren!",
-   "url": "https://www.helmholz.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "自己的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "PROFINET 与工业网络专家",
-   "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke ; Produktnews ; Success Stories",
-   "url": "https://www.helmholz.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "自有品牌，质量高",
-   "quote": "自己的牌子；质量高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Carsten Bokholt",
-   "title": "Managing Director",
-   "email": "carsten.bokholt@helmholz.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 helmholz.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "PROFINET 交换机 / 网关 / 远程维护（自有品牌）"
- ],
- "channels": {
-  "role": "德国工业网络品牌商（PROFINET，自有品牌）",
-  "region": "德国",
-  "contact": "info@helmholz.de、carsten.bokholt@helmholz.de"
- },
- "signals": [
-  "官网：Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke",
-  "站内 kw：switch 195 / ethernet 103 / industrial 31",
-  "KP：Carsten Bokholt / Managing Director（表内）"
- ],
- "risks": [
-  "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
-  "PROFINET 一致性认证：管理型需 SmartByte 确认（Saga 现无 PROFINET 声明）",
-  "群发 8 次无回复：改向 MD 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）"
- },
- "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 carsten.bokholt@helmholz.de, info@helmholz.de；被打开主题「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
-   "type": "德国工业网络品牌商（PROFINET，自有品牌）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「自己的牌子」；研究档 risks：德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位"
-  },
-  "situation": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
-  "need": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
-  "breakpoint": "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → carsten.bokholt@helmholz.de",
-   "action": "短信一问（email_hook）",
-   "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "自己的牌子",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
-    "why": "22 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-401",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（helmholz.de，快照 2026-10-21）",
+  "summary": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
+  "type": "德国工业网络品牌商（PROFINET，自有品牌）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Home；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke；Produktnews；Success Stories；Aktuelle Angebote；Jetzt Newsletter abonnieren!",
+      "url": "https://www.helmholz.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "自己的牌子",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "PROFINET 与工业网络专家",
+      "quote": "Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke ; Produktnews ; Success Stories",
+      "url": "https://www.helmholz.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "自有品牌，质量高",
+      "quote": "自己的牌子；质量高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Carsten Bokholt",
+      "title": "Managing Director",
+      "email": "carsten.bokholt@helmholz.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 helmholz.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "PROFINET 交换机 / 网关 / 远程维护（自有品牌）"
+  ],
+  "channels": {
+    "role": "德国工业网络品牌商（PROFINET，自有品牌）",
+    "region": "德国",
+    "contact": "info@helmholz.de、carsten.bokholt@helmholz.de"
+  },
+  "signals": [
+    "官网：Helmholz – Ihr Experte für PROFINET und industrielle Netzwerke",
+    "站内 kw：switch 195 / ethernet 103 / industrial 31",
+    "KP：Carsten Bokholt / Managing Director（表内）"
+  ],
+  "risks": [
+    "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
+    "PROFINET 一致性认证：管理型需 SmartByte 确认（Saga 现无 PROFINET 声明）",
+    "群发 8 次无回复：改向 MD 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）"
+  },
+  "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 carsten.bokholt@helmholz.de, info@helmholz.de；被打开主题「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
+      "type": "德国工业网络品牌商（PROFINET，自有品牌）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 22，Opened 标签 3（Simon 群发追踪）；用户表：「自己的牌子」；研究档 risks：德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位"
+    },
+    "situation": "德国 Helmholz GmbH & Co. KG（PROFINET 与工业网络专家：自有品牌 PROFINET 交换机 / 网关 / 远程维护；表内「自己的牌子，质量高」；KP Carsten Bokholt（Managing Director，carsten.bokholt@））；群发 8 次无回复。",
+    "need": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
+    "breakpoint": "德国品牌「质量高」定位：外采中国白牌意愿低；只谈入门非管理位",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → carsten.bokholt@helmholz.de",
+      "action": "短信一问（email_hook）",
+      "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "自己的牌子",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+        "why": "22 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — 10G Enterprise SFP Switch",
+      "body": "Hi Carsten,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

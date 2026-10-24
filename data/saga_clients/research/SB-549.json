@@ -1,126 +1,129 @@
 {
- "code": "SB-549",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
- "summary": "澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。",
- "type": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 少量商业POE 有Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "CCTV 少量商业 PoE Utepo",
-   "quote": "主要是CCTV 少量商业POE 有Utepo的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mary Cartisano",
-   "title": "Supply Manager",
-   "email": "sales@ness.com.au",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Gerard Mace",
-   "title": "Project Manager",
-   "email": "grmace@ness.com.au",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防产品制造 / 分销（自有品牌 Ness，澳大利亚）"
- ],
- "channels": {
-  "role": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
-  "region": "澳大利亚",
-  "contact": "sales@ness.com.au、grmace@ness.com.au"
- },
- "signals": [
-  "表内：主要是 CCTV 少量商业 POE 有 Utepo 的；KP Gerard Mace / Project Manager；Mary Cartisano / Supply Manager；可以多跟进一下",
-  "快照：unreachable"
- ],
- "risks": [
-  "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供"
- },
- "email_hook": "Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 3 封被打开，0 回；收件 grmace@ness.com.au, mcartisano@ness.com.au；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 31，Opened 标签 3（Simon 群发追踪）；用户表：「主要是CCTV 少量商业POE 有Utepo的」；研究档 risks：非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager"
-  },
-  "situation": "澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。",
-  "need": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供",
-  "breakpoint": "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager 具名首触",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → grmace@ness.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是CCTV 少量商业POE 有Utepo的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "31 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-549",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（unreachable）",
+  "summary": "澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。",
+  "type": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV 少量商业POE 有Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "CCTV 少量商业 PoE Utepo",
+      "quote": "主要是CCTV 少量商业POE 有Utepo的；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Mary Cartisano",
+      "title": "Supply Manager",
+      "email": "sales@ness.com.au",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Gerard Mace",
+      "title": "Project Manager",
+      "email": "grmace@ness.com.au",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "澳大利亚",
+    "other": "官网 ness.com.au，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "安防产品制造 / 分销（自有品牌 Ness，澳大利亚）"
+  ],
+  "channels": {
+    "role": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
+    "region": "澳大利亚",
+    "contact": "sales@ness.com.au、grmace@ness.com.au"
+  },
+  "signals": [
+    "表内：主要是 CCTV 少量商业 POE 有 Utepo 的；KP Gerard Mace / Project Manager；Mary Cartisano / Supply Manager；可以多跟进一下",
+    "快照：unreachable"
+  ],
+  "risks": [
+    "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供"
+  },
+  "email_hook": "Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 3 封被打开，0 回；收件 grmace@ness.com.au, mcartisano@ness.com.au；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 31，Opened 标签 3（Simon 群发追踪）；用户表：「主要是CCTV 少量商业POE 有Utepo的」；研究档 risks：非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager"
+    },
+    "situation": "澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。",
+    "need": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供",
+    "breakpoint": "非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager 具名首触",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → grmace@ness.com.au",
+      "action": "短信一问（email_hook）",
+      "one_question": "Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是CCTV 少量商业POE 有Utepo的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "31 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Mary,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

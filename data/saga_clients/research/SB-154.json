@@ -1,134 +1,137 @@
 {
- "code": "SB-154",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sieraelectronics.com，快照 2026-10-21）",
- "summary": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
- "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Siera Electronics |；品类词 安防监控（CCTV / 门禁）",
-   "quote": "North America；Central America and Caribbean；South America；Europe；Asia；Important Notice · Service update",
-   "url": "https://sieraelectronics.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "ONV的商业POE 带了自己的标",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Siera 首页",
-   "quote": "Siera Electronics | ; North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home",
-   "url": "https://sieraelectronics.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV 的商业 PoE 带自己的标",
-   "quote": "ONV的商业POE 带了自己的标",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mauro Fleitas",
-   "title": "Electronic Engineer",
-   "email": "venta@sieraelectronics.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "香港",
-  "other": "官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防摄像 / CCTV / 对讲 / 云（自有品牌 Siera / Sieco）"
- ],
- "channels": {
-  "role": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
-  "region": "香港",
-  "contact": "venta@sieraelectronics.com"
- },
- "signals": [
-  "首页 North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home；页面 /en/products/cctv/、/en/products/intercom/",
-  "表内：ONV 的商业 PoE 带了自己的标；KP Mauro Fleitas / Electronic Engineer"
- ],
- "risks": [
-  "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
-  "18 次无回复 → 改向 Electronic Engineer 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
- },
- "email_hook": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 venta@sieraelectronics.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "香港 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「ONV的商业POE 带了自己的标」；研究档 risks：现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）"
-  },
-  "situation": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
-  "need": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
-  "breakpoint": "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → venta@sieraelectronics.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "ONV的商业POE 带了自己的标",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "27 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-154",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sieraelectronics.com，快照 2026-10-21）",
+  "summary": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
+  "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Siera Electronics |；品类词 安防监控（CCTV / 门禁）",
+      "quote": "North America；Central America and Caribbean；South America；Europe；Asia；Important Notice · Service update",
+      "url": "https://sieraelectronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "ONV的商业POE 带了自己的标",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Siera 首页",
+      "quote": "Siera Electronics | ; North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home",
+      "url": "https://sieraelectronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ONV 的商业 PoE 带自己的标",
+      "quote": "ONV的商业POE 带了自己的标",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Mauro Fleitas",
+      "title": "Electronic Engineer",
+      "email": "venta@sieraelectronics.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "香港",
+    "other": "官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "安防摄像 / CCTV / 对讲 / 云（自有品牌 Siera / Sieco）"
+  ],
+  "channels": {
+    "role": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
+    "region": "香港",
+    "contact": "venta@sieraelectronics.com"
+  },
+  "signals": [
+    "首页 North America ; Central America and Caribbean ; South America ; Europe ; Asia ; Sieco Cameras Compatible with Alexa and Google Home；页面 /en/products/cctv/、/en/products/intercom/",
+    "表内：ONV 的商业 PoE 带了自己的标；KP Mauro Fleitas / Electronic Engineer"
+  ],
+  "risks": [
+    "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
+    "18 次无回复 → 改向 Electronic Engineer 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）"
+  },
+  "email_hook": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 venta@sieraelectronics.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "香港 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「ONV的商业POE 带了自己的标」；研究档 risks：现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）"
+    },
+    "situation": "Siera Electronics（香港注册、面向北美/中美洲加勒比/南美/欧洲/亚洲的安防品牌：Sieco 摄像机（Alexa/Google Home 兼容）、CCTV、云、对讲；表内「ONV 的商业 PoE 带了自己的标」；KP Mauro Fleitas（Electronic Engineer）；邮箱 venta@（西语））；群发 18 次无回复。",
+    "need": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+    "breakpoint": "现供 ONV（深圳）价格基准低；香港注册/拉美市场（T5）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 Siera 标商用 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → venta@sieraelectronics.com",
+      "action": "短信一问（email_hook）",
+      "one_question": "Mauro, for the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "ONV的商业POE 带了自己的标",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "27 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Mauro,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

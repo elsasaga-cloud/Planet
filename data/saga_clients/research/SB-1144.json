@@ -1,124 +1,127 @@
 {
- "code": "SB-1144",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（accuratetechnologies.com，快照 2026-10-21）",
- "summary": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
- "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ATI - Provides SW/HW Solutions for Control System Development；品类词 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis",
-   "url": "https://www.accuratetechnologies.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "poe network switch 产品较少 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ATI 定位",
-   "quote": "ATI - Provides SW/HW Solutions for Control System Development ; control system development tools for calibration, data acquisition, rapid prototyping and network analysis ; /Products/ns-1-network-switch",
-   "url": "https://www.accuratetechnologies.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE network switch 产品较少",
-   "quote": "poe network switch 产品较少 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "ECU 开发工具（标定 / 采集 / 原型）",
-  "网络交换机 NS-1（配套）"
- ],
- "channels": {
-  "role": "汽车 ECU 开发工具商（美国，交换机为配套）",
-  "region": "美国",
-  "contact": "sales@accuratetechnologies.com"
- },
- "signals": [
-  "官网：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis；页面 /Products/ns-1-network-switch、/CANBusProducts",
-  "表内：poe network switch 产品较少 周边产品"
- ],
- "risks": [
-  "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 30,
-  "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做"
- },
- "email_hook": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（S 邮箱 7 封 2024，其中 2 封被打开，0 回；收件 sales@accuratetechnologies.com；被打开主题「Industrial PoE Switch、48 port managed switch」）",
-   "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
-  },
-  "situation": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
-  "need": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
-  "breakpoint": "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → sales@accuratetechnologies.com",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "poe network switch 产品较少 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "Industrial PoE Switch、48 port managed switch",
-    "why": "7 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1144",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（accuratetechnologies.com，快照 2026-10-21）",
+  "summary": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
+  "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ATI - Provides SW/HW Solutions for Control System Development；品类词 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis",
+      "url": "https://www.accuratetechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "poe network switch 产品较少 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ATI 定位",
+      "quote": "ATI - Provides SW/HW Solutions for Control System Development ; control system development tools for calibration, data acquisition, rapid prototyping and network analysis ; /Products/ns-1-network-switch",
+      "url": "https://www.accuratetechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE network switch 产品较少",
+      "quote": "poe network switch 产品较少 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "ECU 开发工具（标定 / 采集 / 原型）",
+    "网络交换机 NS-1（配套）"
+  ],
+  "channels": {
+    "role": "汽车 ECU 开发工具商（美国，交换机为配套）",
+    "region": "美国",
+    "contact": "sales@accuratetechnologies.com"
+  },
+  "signals": [
+    "官网：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis；页面 /Products/ns-1-network-switch、/CANBusProducts",
+    "表内：poe network switch 产品较少 周边产品"
+  ],
+  "risks": [
+    "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 30,
+    "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做"
+  },
+  "email_hook": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（S 邮箱 7 封 2024，其中 2 封被打开，0 回；收件 sales@accuratetechnologies.com；被打开主题「Industrial PoE Switch、48 port managed switch」）",
+      "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
+    },
+    "situation": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
+    "need": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
+    "breakpoint": "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "S 邮箱 → sales@accuratetechnologies.com",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "poe network switch 产品较少 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch、48 port managed switch",
+        "why": "7 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"48 port managed switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

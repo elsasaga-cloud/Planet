@@ -1,136 +1,139 @@
 {
- "code": "SB-542",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（jdktech.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 JDK Technologies（澳洲工业网络与 IoT 方案：工业网关、路由器、PoE 交换机、IoT 传感器；自有 JDK-POE-4P12 PoE 交换机、JIG02 网关、LG43；案例医院无线呼叫、Ventia 环境监测；表内「工业 FS，很多种外壳，有 ONV 的」「可以多跟进一下」）；群发 21 次无回复。",
- "type": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：JDK Technologies；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "JDK Technologies â Industrial Networking & IoT Solutions for Australia. Industrial gateways, routers, PoE switches, and IoT sensors.",
-   "url": "https://www.jdktech.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 很多种外壳 有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "JDK Technologies 定位",
-   "quote": "JDK Technologies – Industrial Networking & IoT Solutions for Australia. Industrial gateways, routers, PoE switches, and IoT sensors.",
-   "url": "https://www.jdktech.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 很多种外壳，有 ONV 的",
-   "quote": "工业FS 很多种外壳 有ONV的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 jdktech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业网关 / 路由器 / PoE 交换机 / IoT 传感器（自有品牌 JDK）"
- ],
- "channels": {
-  "role": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
-  "region": "澳大利亚",
-  "contact": "info@jdktech.com.au"
- },
- "signals": [
-  "页面 /products/jdk-poe-4p12/、/products/lg43/、/products/pb01/；首页 Connecting Industrial Australia to the Cloud；kw industrial 54 / ethernet 32",
-  "官网：Industrial gateways, routers, PoE switches, and IoT sensors"
- ],
- "risks": [
-  "现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
-  "21 次无回复，仅 info@，无具名 KP"
- ],
- "saga_fit": {
-  "p1": "STI-154GP",
-  "tier": 30,
-  "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工"
- },
- "email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?",
- "products_seen": [
-  {
-   "brand": "JDK（自有）",
-   "model": "JDK-POE-4P12",
-   "spec": "工业 4 口 PoE 交换机",
-   "saga": "STI-154GP",
-   "url": "https://jdktech.com.au/products/jdk-poe-4p12/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@jdktech.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-   "type": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 很多种外壳 有ONV的」；研究档 risks：现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
-  },
-  "situation": "澳大利亚 JDK Technologies（澳洲工业网络与 IoT 方案：工业网关、路由器、PoE 交换机、IoT 传感器；自有 JDK-POE-4P12 PoE 交换机、JIG02 网关、LG43；案例医院无线呼叫、Ventia 环境监测；表内「工业 FS，很多种外壳，有 ONV 的」「可以多跟进一下」）；群发 21 次无回复。",
-  "need": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
-  "breakpoint": "现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
-  "saga_now": {
-   "p1": "STI-154GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@jdktech.com.au",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 很多种外壳 有ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "30 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-542",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（jdktech.com.au，快照 2026-10-21）",
+  "summary": "澳大利亚 JDK Technologies（澳洲工业网络与 IoT 方案：工业网关、路由器、PoE 交换机、IoT 传感器；自有 JDK-POE-4P12 PoE 交换机、JIG02 网关、LG43；案例医院无线呼叫、Ventia 环境监测；表内「工业 FS，很多种外壳，有 ONV 的」「可以多跟进一下」）；群发 21 次无回复。",
+  "type": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：JDK Technologies；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "JDK Technologies â Industrial Networking & IoT Solutions for Australia. Industrial gateways, routers, PoE switches, and IoT sensors.",
+      "url": "https://www.jdktech.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 很多种外壳 有ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "JDK Technologies 定位",
+      "quote": "JDK Technologies – Industrial Networking & IoT Solutions for Australia. Industrial gateways, routers, PoE switches, and IoT sensors.",
+      "url": "https://www.jdktech.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 很多种外壳，有 ONV 的",
+      "quote": "工业FS 很多种外壳 有ONV的；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "澳大利亚",
+    "other": "官网 jdktech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业网关 / 路由器 / PoE 交换机 / IoT 传感器（自有品牌 JDK）"
+  ],
+  "channels": {
+    "role": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
+    "region": "澳大利亚",
+    "contact": "info@jdktech.com.au"
+  },
+  "signals": [
+    "页面 /products/jdk-poe-4p12/、/products/lg43/、/products/pb01/；首页 Connecting Industrial Australia to the Cloud；kw industrial 54 / ethernet 32",
+    "官网：Industrial gateways, routers, PoE switches, and IoT sensors"
+  ],
+  "risks": [
+    "现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+    "21 次无回复，仅 info@，无具名 KP"
+  ],
+  "saga_fit": {
+    "p1": "STI-154GP",
+    "tier": 30,
+    "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工"
+  },
+  "email_hook": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?",
+  "products_seen": [
+    {
+      "brand": "JDK（自有）",
+      "model": "JDK-POE-4P12",
+      "spec": "工业 4 口 PoE 交换机",
+      "saga": "STI-154GP",
+      "url": "https://jdktech.com.au/products/jdk-poe-4p12/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 30 封 2024→2026，其中 2 封被打开，0 回；收件 info@jdktech.com.au；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+      "type": "澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 30，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 很多种外壳 有ONV的」；研究档 risks：现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报"
+    },
+    "situation": "澳大利亚 JDK Technologies（澳洲工业网络与 IoT 方案：工业网关、路由器、PoE 交换机、IoT 传感器；自有 JDK-POE-4P12 PoE 交换机、JIG02 网关、LG43；案例医院无线呼叫、Ventia 环境监测；表内「工业 FS，很多种外壳，有 ONV 的」「可以多跟进一下」）；群发 21 次无回复。",
+    "need": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
+    "breakpoint": "现代工 ONV（深圳）价格基准低；非主攻区（T5），RCM 由客户申报",
+    "saga_now": {
+      "p1": "STI-154GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 JDK-POE-4P12（4 PoE 工业）→ 工业 4 PoE + 1 GE STI-154GP（$40.8 @30%）/ 8 口位 STI-288GPM（$85.5）贴 JDK 标；现 ONV 代工",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@jdktech.com.au",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 很多种外壳 有ONV的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "30 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Managed Optical Bypass Switch",
+      "body": "Hello,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

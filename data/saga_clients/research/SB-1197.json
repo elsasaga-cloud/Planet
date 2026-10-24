@@ -1,144 +1,147 @@
 {
- "code": "SB-1197",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（icecom.is，快照 2026-10-21）",
- "summary": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
- "type": "IT/通信系统集成商（冰岛）",
- "size": "",
- "brands_seen": [
-  "Teltonika",
-  "Cambium"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：IceCom ehf. – Vörur og þjónusta；品类词 网络交换 / PoE",
-   "quote": "IceCom ehf veitir fyrirtækjum og stofnunum；heildarlausnir í tölvu- og fjarskiptakerfum.",
-   "url": "https://www.icecom.is/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "IceCom 定位",
-   "quote": "IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum.",
-   "url": "https://www.icecom.is/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch",
-   "quote": "switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "冰岛",
-  "other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "计算机与通信系统整体方案"
- ],
- "channels": {
-  "role": "IT/通信系统集成商（冰岛）",
-  "region": "冰岛",
-  "contact": "icecom@icecom.is"
- },
- "signals": [
-  "官网：IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum；站内 IES-2710C / EM-C107CSC / GM-C301ASC / RUT951 / BBP37"
- ],
- "risks": [
-  "小国（冰岛，非主动挖掘范围）：量有限",
-  "无具名 KP（icecom@）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）"
- },
- "email_hook": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?",
- "products_seen": [
-  {
-   "brand": "（站内）",
-   "model": "IES-2710C",
-   "spec": "工业交换机",
-   "saga": "STI-288GPM",
-   "url": "https://www.icecom.is/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "（站内）",
-   "model": "GM-C301ASC",
-   "spec": "千兆 MC",
-   "saga": "STI-110GE",
-   "url": "https://www.icecom.is/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 2 封 2025，其中 2 封被打开，0 回；收件 icecom@icecom.is；被打开主题「Industrial PoE Switch」）",
-   "type": "IT/通信系统集成商（冰岛）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "冰岛（欧洲全域主攻）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「switch」；研究档 risks：小国（冰岛，非主动挖掘范围）：量有限"
-  },
-  "situation": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
-  "need": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
-  "breakpoint": "小国（冰岛，非主动挖掘范围）：量有限",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → icecom@icecom.is",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch",
-    "why": "2 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1197",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（icecom.is，快照 2026-10-21）",
+  "summary": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
+  "type": "IT/通信系统集成商（冰岛）",
+  "size": "",
+  "brands_seen": [
+    "Teltonika",
+    "Cambium"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：IceCom ehf. – Vörur og þjónusta；品类词 网络交换 / PoE",
+      "quote": "IceCom ehf veitir fyrirtækjum og stofnunum；heildarlausnir í tölvu- og fjarskiptakerfum.",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "IceCom 定位",
+      "quote": "IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum.",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "冰岛",
+    "other": "官网 icecom.is，语言 is，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "计算机与通信系统整体方案"
+  ],
+  "channels": {
+    "role": "IT/通信系统集成商（冰岛）",
+    "region": "冰岛",
+    "contact": "icecom@icecom.is"
+  },
+  "signals": [
+    "官网：IceCom ehf veitir fyrirtækjum og stofnunum heildarlausnir í tölvu- og fjarskiptakerfum；站内 IES-2710C / EM-C107CSC / GM-C301ASC / RUT951 / BBP37"
+  ],
+  "risks": [
+    "小国（冰岛，非主动挖掘范围）：量有限",
+    "无具名 KP（icecom@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）"
+  },
+  "email_hook": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?",
+  "products_seen": [
+    {
+      "brand": "（站内）",
+      "model": "IES-2710C",
+      "spec": "工业交换机",
+      "saga": "STI-288GPM",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "（站内）",
+      "model": "GM-C301ASC",
+      "spec": "千兆 MC",
+      "saga": "STI-110GE",
+      "url": "https://www.icecom.is/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 2 封 2025，其中 2 封被打开，0 回；收件 icecom@icecom.is；被打开主题「Industrial PoE Switch」）",
+      "type": "IT/通信系统集成商（冰岛）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "冰岛（欧洲全域主攻）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「switch」；研究档 risks：小国（冰岛，非主动挖掘范围）：量有限"
+    },
+    "situation": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
+    "need": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
+    "breakpoint": "小国（冰岛，非主动挖掘范围）：量有限",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → icecom@icecom.is",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch",
+        "why": "2 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Icecom,\n\nYou opened our mail on \"Industrial PoE Switch\" but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

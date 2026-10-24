@@ -8931,7 +8931,10 @@
 "BO 具体型号/数量",
 "对方 2026 年是否仍在营业（战时）——官网未核"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: DI order #1 (Nov 2024) — still worth shipping?",
+"body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -11371,7 +11374,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: company website and address — sagatele.com",
+"body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -41947,7 +41953,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: our website — sagatele.com",
+"body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -52677,7 +52686,10 @@
 "proof_gaps": [
 "Elsa 回复正文未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: price list, MOQ, warranty — Topica",
+"body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc, 3-year warranty with lifetime technical support, list prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -76293,7 +76305,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Steve,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -76735,7 +76750,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Industrial poe switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -95609,7 +95627,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: our earlier exchange",
+"body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -98525,7 +98546,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hello,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -104529,7 +104553,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: PoE watchdog project — one question",
+"body": "Hi Inoue-san,\n\nIn May we answered your 17 questions (certification at your cost, Japanese label text from your side, MEAN WELL GST-series PSE adapters, 3-year warranty, DIP 4 for the watchdog, 10 Mb/s at 250 m). Since then we have not heard whether the watchdog PoE project selected a supplier.\n\nOne question: is a paid sample (neutral English label, MEAN WELL PSE adapter) still useful for your evaluation, or has the project gone to the partner who proposed it originally? Either answer is fine — I would rather know than keep sending product mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -111594,7 +111621,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Saga Q3 Product Links\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nСергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $24; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -117594,7 +117624,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Trinidad,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -119322,7 +119355,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Kennedy,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -122031,7 +122067,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Insuner,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -122336,7 +122375,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: our earlier exchange",
+"body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 },
@@ -124798,7 +124840,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Jason,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -130725,7 +130770,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Tcsong,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -132151,7 +132199,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Pete,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -134501,7 +134552,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Robin,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G L3 Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -146437,7 +146491,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Mini Industrial PoE Switch",
+"body": "Hi Harshul,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"Commercial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -157021,7 +157078,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Alleycat5 Solution",
+"body": "Hi Anton,\n\nYou opened our mail on \"Marvell Alleycat5 Solution\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -160610,7 +160670,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"24 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor bank-branch and hospital CCTV refits, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W) is $140.1 EXW with the CE/RoHS file; is a multi-site rollout planned for 2026 where a second switch source would help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -161199,7 +161262,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"48 port managed switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -170034,7 +170100,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 2.5G Unmanaged Switch",
+"body": "Hi Dipol,\n\nYou opened our mail on \"2.5G Unmanaged Switch\" (and \"Industrial fiber switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -175010,7 +175079,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Icecom,\n\nYou opened our mail on \"Industrial PoE Switch\" but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -176422,7 +176494,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G fiber media converter",
+"body": "Hello,\n\nYou opened our mail on \"10G fiber media converter\" (and \"Passive poe switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -207686,7 +207761,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Alleycat5 Solution",
+"body": "Hi Chris,\n\nYou opened our mail on \"Marvell Alleycat5 Solution\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nYou asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -210286,7 +210364,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi George,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -211871,7 +211952,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Mauro,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -215415,7 +215499,10 @@
 "proof_gaps": [
 "Elsa 回复未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: how many types of switch — TESCOM",
+"body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\" — the short answer: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -216228,7 +216315,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -220709,7 +220799,10 @@
 "WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机",
 "SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: MII / local content — what we can and cannot do",
+"body": "Dear Shantanu,\n\nAfter our April exchange (industrial PoE at $35, AWB and delivery proof for India) the thread moved to WhatsApp with Simon. One point deserves a written answer: Make-in-India content.\n\nWhat we can do: ship SKD kits for assembly by an Indian partner and progress to CKD as volumes justify it; firmware and web GUI under HFCL branding. What we cannot do: claim a Saga plant in India or certify a local-content percentage ourselves.\n\nOne question: which HFCL programme is this for, and what local-content percentage does that tender actually score? With that number we can tell you honestly whether the SKD route gets you there.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -226390,7 +226483,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nBetween the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -227218,7 +227314,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 90W PoE Managed Switch",
+"body": "Hi Fatjon,\n\nYou opened our mail on \"90W PoE Managed Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nOn the fibre bypass switch you asked about: we can supply an industrial 4-SFP + 8-GE PoE unit with optical bypass on the fibre ring, plus standard DIN-rail 8-PoE + 2 SFP managed models (−40~75 °C, CE/RoHS) from small lots — how many ring nodes does the project need?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -231936,7 +232035,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: our earlier exchange",
+"body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July fit the access-control job, or did the count change?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -233655,7 +233757,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Simone,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches your installer customers buy with Hikvision and UNV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from small lots, CE/RoHS, EXW USD — which PoE port count moves most through your branches?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -236748,7 +236853,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hi Ankara,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches at your LPR and parking-barrier sites, we supply Marvell-based 8-PoE + 2 SFP L2+ units and DIN-rail industrial 4/8-PoE models for outdoor cabinets (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which do your installers use more, indoor rack or cabinet-mounted?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -237911,7 +238019,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hi Ibrahim,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -249835,7 +249946,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hello,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the IFS industrial switches and media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units, gigabit MCs and 8-PoE + 2 SFP L2+ commercial switches (CE/RoHS, neutral packing) from small lots, EXW USD — which configuration do your CCTV integrators order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -262088,7 +262202,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Philip,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -263843,7 +263960,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Alleycat5 Solution",
+"body": "Hi Robert,\n\nYou opened our mail on \"Marvell Alleycat5 Solution\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -266040,7 +266160,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Ken,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"8 Port Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -269818,7 +269941,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 8 Port Industrial PoE Switch",
+"body": "Hi Logan,\n\nYou opened our mail on \"8 Port Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -271247,7 +271373,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Denise,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -272207,7 +272336,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — Marvell/Realtek DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -280699,7 +280831,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -286288,7 +286423,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Optional Marvell Chipset Solutions",
+"body": "Hi Nick,\n\nYou opened our mail on \"Optional Marvell Chipset Solutions\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -286799,7 +286937,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Mini Industrial PoE Switch",
+"body": "Hi Stephane,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 },
@@ -289886,7 +290027,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Marvell Alleycat5 Solution\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the MikroTik and fiber lines you carry in Almaty, we supply Marvell-based DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -297128,7 +297272,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Golmar,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"48 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -297824,7 +297971,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hi Carsten,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -298938,7 +299088,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 16 Port Ethernet Switch",
+"body": "Hello,\n\nYou opened our mail on \"16 Port Ethernet Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -306765,7 +306918,10 @@
 "proof_gaps": [
 "Elsa 是否已回规格书未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: datasheet — 2× SFP + 4× PoE industrial switch",
+"body": "Hi Azad,\n\nYou asked for the datasheet first (April 2025) and it never reached you properly — attached now: STI-244GP, 2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged. List price $49.5 USD EXW (2026-10-17 snapshot, valid 15 days); the managed version STI-244GPM is $77.\n\nOne question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -310718,7 +310874,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Serkan,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Booster PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -327675,7 +327834,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -328212,7 +328374,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Harry,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ELPRO-branded industrial Ethernet switches that accompany your wireless I/O range, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units in your white housing and label from small lots (−40~75 °C, CE/RoHS; RCM by your side) — which configuration do your remote-site kits use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -329526,7 +329691,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -330055,7 +330223,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Pav,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and small switches carried under the FOS label with your fibre and copper systems, we can supply gigabit MCs (desktop/industrial) and 8-GE + 2 SFP units in your packaging from small lots, CE/RoHS; RCM by your side — which active SKU do your Australian customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -330566,7 +330737,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you sell under your own label, we can add a Marvell-platform tier (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C) alongside your current HiSilicon-based line, in your packaging from small lots, CE/RoHS; KC by your side — which model do your customers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -332952,7 +333126,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Scale,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -333790,7 +333967,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Jaesik,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -344925,7 +345105,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 48 Port PoE Managed Switch",
+"body": "Hello,\n\nYou opened our mail on \"48 Port PoE Managed Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -345328,7 +345511,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Augustin,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -346919,7 +347105,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hello,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -348668,7 +348857,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Mini Industrial PoE Switch",
+"body": "Hi Dimitrios,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -350196,7 +350388,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Mary,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -351640,7 +351835,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 24-port PoE / 10G L3",
+"body": "Hello,\n\nSomeone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $220 USD EXW list, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -367345,7 +367543,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Information",
+"body": "Hi Usman,\n\nYou opened our mail on \"Information\" but had no reason to answer — fair enough. No brochure this time, just one question:\n\nYou asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -372113,7 +372314,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 24 Port Fiber Switch",
+"body": "Hi Abiel,\n\nYou opened our mail on \"24 Port Fiber Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -375450,7 +375654,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Nabidky,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"48 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -378834,7 +379041,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"24 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -379662,7 +379872,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hi Intant,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"48 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Utepo-type industrial PoE positions in your Hikvision installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from small lots, CE/RoHS; EAC by your side — which configuration do your projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -385017,7 +385230,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 10G media converter — price",
+"body": "Hello,\n\nYou asked \"Price pls\" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.\n\nOne question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -390834,7 +391050,10 @@
 "proof_gaps": [
 "Elsa 回复未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: our earlier exchange",
+"body": "Hi Ravi,\n\nPicking up your note of 2025-12-08 (\"How about Console port and management ports…\"). Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -403808,7 +404027,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Managed Optical Bypass Switch",
+"body": "Hi Jakub,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"8 Port Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -406779,7 +407001,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 10G Enterprise SFP Switch",
+"body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Lantech industrial switches in your Endüstriyel Network line, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which Lantech port count do your factory projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -407872,7 +408097,10 @@
 "proof_gaps": [
 "Elsa 2026-08-04 发出的规格书型号未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: ANDA ATMIS series — the stacking point",
+"body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). What they do offer is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, we should not waste your time on the AC5 line; if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -411902,7 +412130,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Marcus,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -417191,7 +417422,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Daniel,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -418617,7 +418851,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — 8 Port Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"8 Port Industrial PoE Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Netsys industrial range, we can serve as a second source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS) — is there a port count your OEM customers ask for that you do not build in-house?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -419056,7 +419293,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Daniel,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -427169,7 +427409,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Justin,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -430065,7 +430308,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi Tim,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -432240,7 +432486,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hi David,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) — Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE (no UL); send me the ONV part number and I'll quote like-for-like.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -446892,7 +447141,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Lynn,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Signamax industrial switch and media-converter lines, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit/PoE MCs, commercial 8/24-PoE L2+) in your packaging, FCC/CE/RoHS — which SKU family would you want sampled first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -447358,7 +447610,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -449140,7 +449395,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hi Motaz,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Booster PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -451614,7 +451872,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G L3 Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the VSS PoE switch range (W04POE2 / W08POE2G / W08GPOE2), we can supply the same port layouts under your label from small lots with a choice of housings, plus a Marvell-based gigabit L2+ 8-PoE step-up model — which VSS model do you reorder most often?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -456140,7 +456401,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -471764,7 +472028,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -475052,7 +475319,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Industrial PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the access switches in your IT and industrial projects, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP managed models from single units, FCC/CE/RoHS, EXW USD — which switch position comes up most in your Montreal-area deployments?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -481042,7 +481312,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Passive PoE Switch",
+"body": "Hello,\n\nYou opened our mail on \"Passive PoE Switch\" (and \"Mini industrial switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -481743,7 +482016,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 24-port SFP managed switch — datasheet",
+"body": "Hi Kennedy,\n\nYou asked for the datasheet of the 24-port SFP managed switch in October 2025 — attached now, with apologies for the gap. It is a Marvell-based L2+/L3 aggregation unit (24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC).\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -487146,7 +487422,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question — Marvell Industrial Alert System",
+"body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"90W PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -586392,7 +586671,11 @@
 "-48V DC 输入版是否可做：HRUI/SmartByte 未核",
 "WhatsApp 上是否谈过价：只在 Simon 手机"
 ],
-"as_of": "2026-10-24"
+"as_of": "2026-10-24",
+"draft_en": {
+"subject": "Re: RFP (8/24/16-port PoE) — the prices we did not give in July",
+"body": "Hi Tarun,\n\nIn July you sent a clear RFP (100 × 8-port, 20 × 24-port, 100 × 16-port industrial L2+ PoE) and we answered with datasheets but no numbers. That was our mistake. Budget prices, USD EXW (2026-10-17 snapshot, valid 15 days):\n\n- 8-port L2+ PoE 120W + 2× 2.5G SFP: STC-28DGGPM $99 (10G-uplink version on request)\n- 24-port L2+ PoE 440W + 4× 10G SFP+: STC-424DGGPM-440W $220\n- 16-port industrial L2+ PoE + 4× 10G SFP+, -40 to +75 °C: STI-21616XGGPM $324.5\n\nThe −48 V DC input (−32 to −78 V) on the 8-port is a project build, not a stock item.\n\nOne question: is the RFP still open, and which site / operator is it for?\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+}
 }
 }
 },

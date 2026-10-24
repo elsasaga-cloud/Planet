@@ -232,25 +232,21 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Re: 10G media converter — price
 
 ```text
-Hi Sarwar,
+Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.
+You asked "Price pls" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom · sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

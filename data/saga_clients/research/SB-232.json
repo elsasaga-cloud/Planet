@@ -1,158 +1,161 @@
 {
- "code": "SB-232",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（oncuguvenlik.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Öncü Güvenlik Sistemleri A.Ş.（多国际品牌安防/网络分销：PoE 交换机 / 网络交换机 / 工业交换机 / PoE 注入分离器栏目；在售 Hikvision、BDCOM（S1500-16P2ES-H / S5700-24EP6X）、Utepo（IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE）、丰润达；自有标「Sec-on」；KP Ibrahim（ibrahim@））；群发 2 次无回复。",
- "type": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Utepo",
-  "BDCOM",
-  "Fengrunda",
-  "Sec-on"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Öncü Güvenlik Sistemleri A.Ş.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Öncü Güvenlik Sistemleri A.Ş. birçok uluslararası markayı tüketiciye en etkin ve verimli bir şekilde ulaştıran lider teknoloji firmasıdır.",
-   "url": "https://www.oncuguvenlik.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Öncü Güvenlik 多品牌分销",
-   "quote": "Öncü Güvenlik Sistemleri A.Ş. birçok uluslararası markayı tüketiciye en etkin ve verimli bir şekilde ulaştıran lider teknoloji firmasıdır.",
-   "url": "https://www.oncuguvenlik.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS PoE 丰润达/Utepo；Sec-on 标；BDCOM",
-   "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标；分销商 有很多家的产品 / 也有BDCOM的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ibrahim",
-   "title": "（表内联系人）",
-   "email": "ibrahim@oncuguvenlik.com.tr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防/网络多品牌分销",
-  "自有标 Sec-on"
- ],
- "channels": {
-  "role": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
-  "region": "土耳其",
-  "contact": "info@oncuguvenlik.com.tr、ibrahim@oncuguvenlik.com.tr"
- },
- "signals": [
-  "栏目 /tr/kategori/poe-switch、/network-switch、/endustriyel-switch、/poe-enjektorsplitter",
-  "站内型号 S1500-16P2ES-H / S5700-24EP6X（BDCOM）、IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE（Utepo）",
-  "表内：有 Sec-on 这个标；KP Ibrahim"
- ],
- "risks": [
-  "现有 Utepo / BDCOM / 丰润达 多源：价格基准低",
-  "土耳其：汇率敏感；2 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）"
- },
- "email_hook": "Ibrahim, for the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?",
- "products_seen": [
-  {
-   "brand": "Utepo",
-   "model": "IES200-V25-4S10T",
-   "spec": "工业 L2 管理（4 SFP + 10 TP）",
-   "saga": "STI-288GPM（近似）",
-   "url": "https://www.oncuguvenlik.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "BDCOM",
-   "model": "S1500-16P2ES-H",
-   "spec": "16 PoE + 2 SFP",
-   "saga": "STC-2016GP（HRUI 列表价 $88.0）",
-   "url": "https://www.oncuguvenlik.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 3 封被打开，0 回；收件 ibrahim@oncuguvenlik.com.tr, info@oncuguvenlik.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 17，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS POE 丰润达 upeto的 有Sec-on这个标」；研究档 risks：现有 Utepo / BDCOM / 丰润达 多源：价格基准低"
-  },
-  "situation": "土耳其 Öncü Güvenlik Sistemleri A.Ş.（多国际品牌安防/网络分销：PoE 交换机 / 网络交换机 / 工业交换机 / PoE 注入分离器栏目；在售 Hikvision、BDCOM（S1500-16P2ES-H / S5700-24EP6X）、Utepo（IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE）、丰润达；自有标「Sec-on」；KP Ibrahim（ibrahim@））；群发 2 次无回复。",
-  "need": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）",
-  "breakpoint": "现有 Utepo / BDCOM / 丰润达 多源：价格基准低",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → ibrahim@oncuguvenlik.com.tr",
-   "action": "短信一问（email_hook）",
-   "one_question": "Ibrahim, for the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-232",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（oncuguvenlik.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Öncü Güvenlik Sistemleri A.Ş.（多国际品牌安防/网络分销：PoE 交换机 / 网络交换机 / 工业交换机 / PoE 注入分离器栏目；在售 Hikvision、BDCOM（S1500-16P2ES-H / S5700-24EP6X）、Utepo（IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE）、丰润达；自有标「Sec-on」；KP Ibrahim（ibrahim@））；群发 2 次无回复。",
+  "type": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Utepo",
+    "BDCOM",
+    "Fengrunda",
+    "Sec-on"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Öncü Güvenlik Sistemleri A.Ş.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Öncü Güvenlik Sistemleri A.Ş. birçok uluslararası markayı tüketiciye en etkin ve verimli bir şekilde ulaştıran lider teknoloji firmasıdır.",
+      "url": "https://www.oncuguvenlik.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Öncü Güvenlik 多品牌分销",
+      "quote": "Öncü Güvenlik Sistemleri A.Ş. birçok uluslararası markayı tüketiciye en etkin ve verimli bir şekilde ulaştıran lider teknoloji firmasıdır.",
+      "url": "https://www.oncuguvenlik.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS PoE 丰润达/Utepo；Sec-on 标；BDCOM",
+      "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标；分销商 有很多家的产品 / 也有BDCOM的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ibrahim",
+      "title": "（表内联系人）",
+      "email": "ibrahim@oncuguvenlik.com.tr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 oncuguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防/网络多品牌分销",
+    "自有标 Sec-on"
+  ],
+  "channels": {
+    "role": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
+    "region": "土耳其",
+    "contact": "info@oncuguvenlik.com.tr、ibrahim@oncuguvenlik.com.tr"
+  },
+  "signals": [
+    "栏目 /tr/kategori/poe-switch、/network-switch、/endustriyel-switch、/poe-enjektorsplitter",
+    "站内型号 S1500-16P2ES-H / S5700-24EP6X（BDCOM）、IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE（Utepo）",
+    "表内：有 Sec-on 这个标；KP Ibrahim"
+  ],
+  "risks": [
+    "现有 Utepo / BDCOM / 丰润达 多源：价格基准低",
+    "土耳其：汇率敏感；2 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）"
+  },
+  "email_hook": "Ibrahim, for the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?",
+  "products_seen": [
+    {
+      "brand": "Utepo",
+      "model": "IES200-V25-4S10T",
+      "spec": "工业 L2 管理（4 SFP + 10 TP）",
+      "saga": "STI-288GPM（近似）",
+      "url": "https://www.oncuguvenlik.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "BDCOM",
+      "model": "S1500-16P2ES-H",
+      "spec": "16 PoE + 2 SFP",
+      "saga": "STC-2016GP（HRUI 列表价 $88.0）",
+      "url": "https://www.oncuguvenlik.com.tr/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 3 封被打开，0 回；收件 ibrahim@oncuguvenlik.com.tr, info@oncuguvenlik.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业线）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 17，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS POE 丰润达 upeto的 有Sec-on这个标」；研究档 risks：现有 Utepo / BDCOM / 丰润达 多源：价格基准低"
+    },
+    "situation": "土耳其 Öncü Güvenlik Sistemleri A.Ş.（多国际品牌安防/网络分销：PoE 交换机 / 网络交换机 / 工业交换机 / PoE 注入分离器栏目；在售 Hikvision、BDCOM（S1500-16P2ES-H / S5700-24EP6X）、Utepo（IES200-V25-4S10T / IES2000-TU12S4T / UTP7624GE-IE）、丰润达；自有标「Sec-on」；KP Ibrahim（ibrahim@））；群发 2 次无回复。",
+    "need": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）",
+    "breakpoint": "现有 Utepo / BDCOM / 丰润达 多源：价格基准低",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → ibrahim@oncuguvenlik.com.tr",
+      "action": "短信一问（email_hook）",
+      "one_question": "Ibrahim, for the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS POE 丰润达 upeto的 有Sec-on这个标",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "17 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — 10G Enterprise SFP Switch",
+      "body": "Hi Ibrahim,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

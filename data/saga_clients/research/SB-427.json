@@ -138,7 +138,10 @@
     "proof_gaps": [
       "Elsa 是否已回规格书未入库"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: datasheet — 2× SFP + 4× PoE industrial switch",
+      "body": "Hi Azad,\n\nYou asked for the datasheet first (April 2025) and it never reached you properly — attached now: STI-244GP, 2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged. List price $49.5 USD EXW (2026-10-17 snapshot, valid 15 days); the managed version STI-244GPM is $77.\n\nOne question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

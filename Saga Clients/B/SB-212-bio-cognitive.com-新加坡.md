@@ -244,25 +244,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Re: our earlier exchange
 
 ```text
 Hi Amy,
 
-Picking up our earlier exchange about PoE / industrial switches. Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price.
+Picking up your note of 2025-07-07 ("Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…"). Instead of another catalog mail, one question:
 
-We supply a Marvell-based 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks - model STI-21616GP - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $177.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Did the 4/8-port PoE quote from July fit the access-control job, or did the count change?
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+If there is no live project, just say so and I will stop here.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan
+Saga Telecom · sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

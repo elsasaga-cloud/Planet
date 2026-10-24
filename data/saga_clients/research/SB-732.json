@@ -1,132 +1,135 @@
 {
- "code": "SB-732",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（schrack.cz，快照 2026-10-21）",
- "summary": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
- "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Schrack Technik | Výrobce elektroinstalačních materiálů；品类词 网络交换 / PoE",
-   "quote": "Nejvhodnější elektromateriály již více jak 30 let v ČR. S námi nakupujete kvalitu, kterou nám i Vy pomáháte stále zlepšovat svou praxí.",
-   "url": "https://www.schrack.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "销售平台 工商业 台湾厂商的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Schrack 定位",
-   "quote": "Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
-   "url": "https://www.schrack.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "台湾厂商的 销售平台",
-   "quote": "销售平台 工商业 台湾厂商的；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jakub Drbohlav",
-   "title": "（职务待核）",
-   "email": "p.simek@schrack.cz",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "捷克",
-  "other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "电气安装材料制造与分销（集团）",
-  "网络 / 数据产品线（自有标）"
- ],
- "channels": {
-  "role": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
-  "region": "捷克",
-  "contact": "p.simek@schrack.cz、v.jurek@schrack.cz"
- },
- "signals": [
-  "官网：Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
-  "表内：销售平台 工商业 台湾厂商的；KP Jakub Drbohlav；可以尝试多跟进一下"
- ],
- "risks": [
-  "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）"
- },
- "email_hook": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 j.drbohlav@schrack.cz, j.mynar@schrack.cz；被打开主题「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）",
-   "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「销售平台 工商业 台湾厂商的」；研究档 risks：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
-  },
-  "situation": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
-  "need": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）",
-  "breakpoint": "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → j.drbohlav@schrack.cz",
-   "action": "短信一问（email_hook）",
-   "one_question": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "销售平台 工商业 台湾厂商的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
-    "why": "12 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-732",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（schrack.cz，快照 2026-10-21）",
+  "summary": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
+  "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Schrack Technik | Výrobce elektroinstalačních materiálů；品类词 网络交换 / PoE",
+      "quote": "Nejvhodnější elektromateriály již více jak 30 let v ČR. S námi nakupujete kvalitu, kterou nám i Vy pomáháte stále zlepšovat svou praxí.",
+      "url": "https://www.schrack.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "销售平台 工商业 台湾厂商的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Schrack 定位",
+      "quote": "Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
+      "url": "https://www.schrack.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "台湾厂商的 销售平台",
+      "quote": "销售平台 工商业 台湾厂商的；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Jakub Drbohlav",
+      "title": "（职务待核）",
+      "email": "p.simek@schrack.cz",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "捷克",
+    "other": "官网 schrack.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "电气安装材料制造与分销（集团）",
+    "网络 / 数据产品线（自有标）"
+  ],
+  "channels": {
+    "role": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
+    "region": "捷克",
+    "contact": "p.simek@schrack.cz、v.jurek@schrack.cz"
+  },
+  "signals": [
+    "官网：Schrack Technik | Výrobce elektroinstalačních materiálů ; Nejvhodnější elektromateriály již více jak 30 let v ČR",
+    "表内：销售平台 工商业 台湾厂商的；KP Jakub Drbohlav；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）"
+  },
+  "email_hook": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 j.drbohlav@schrack.cz, j.mynar@schrack.cz；被打开主题「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）",
+      "type": "电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "捷克（欧洲全域主攻）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「销售平台 工商业 台湾厂商的」；研究档 risks：体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复"
+    },
+    "situation": "捷克 Schrack Technik（奥地利 Schrack Technik 集团捷克公司：电气安装材料制造与分销 30 余年，含网络/数据产品线；表内「销售平台 工商业 台湾厂商的」「可以尝试多跟进一下」；KP Jakub Drbohlav；邮箱 p.simek@ / v.jurek@）；表内 7 次跟进无回复。",
+    "need": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）",
+    "breakpoint": "体量：Schrack Technik 集团（集团采购、供应商准入流程长）——用户标「可以尝试多跟进一下」，保留 B；现有台湾 ODM 供应链；7 次无回复",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → j.drbohlav@schrack.cz",
+      "action": "短信一问（email_hook）",
+      "one_question": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "销售平台 工商业 台湾厂商的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
+        "why": "12 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Managed Optical Bypass Switch",
+      "body": "Hi Jakub,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"8 Port Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

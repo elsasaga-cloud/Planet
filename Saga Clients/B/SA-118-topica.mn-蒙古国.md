@@ -231,21 +231,21 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: price list, MOQ, warranty — Topica
 
 ```text
-Hello,
+Hi Bayar,
 
-Picking up our earlier exchange about PoE / industrial switches. Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?
+You asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc, 3-year warranty with lifetime technical support, list prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+One question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom · sagatele.com
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -256,21 +256,21 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: datasheet — 2× SFP + 4× PoE industrial switch
 
 ```text
 Hi Azad,
 
-Picking up our earlier exchange about PoE / industrial switches. Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?
+You asked for the datasheet first (April 2025) and it never reached you properly — attached now: STI-244GP, 2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged. List price $49.5 USD EXW (2026-10-17 snapshot, valid 15 days); the managed version STI-244GPM is $77.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+One question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom · sagatele.com
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

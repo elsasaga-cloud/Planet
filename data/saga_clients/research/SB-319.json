@@ -1,133 +1,136 @@
 {
- "code": "SB-319",
- "name_official": "Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "At Longtek Electronics (Europe) Ltd, we have been at the forefront of security technology since 2004, serving Enfield Town … installation, maintenance, and repair of state-of-the-art CCTV systems, alarm systems (including intruder alarms and fire alarms) and access control systems … admin@longtek.co.uk … +44 20 8805 0002 … 12 Bishops Close, Enfield EN1 3QJ",
-   "url": "https://longtek.co.uk/aboutUs",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人登记",
-   "quote": "LONGTEK ELECTRONICS EUROPE LTD Company number 05227994 … 12 Bishops Close, Enfield, Mddx, EN1 3QJ … Incorporated on: 10 September 2004",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模与创办人",
-   "quote": "Micro Turnover is under £1M … Under 10 employees … Security systems service activities (80200) … Thevarajah Thevalojan Founder Appointed in Sep 2004",
-   "url": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "17 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Thevarajah Thevalojan",
-   "role": "Founder / Director（Companies House 公开）",
-   "email": "admin@longtek.co.uk（公司公开）",
-   "phone": "+44 20 8805 0002",
-   "source": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
- },
- "company_facts": {
-  "legal_name": "Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200）",
-  "hq": "12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611）",
-  "size": "<10 人；营业额 <£1M（Endole）；3 人（GlobalDatabase）",
-  "other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）"
- },
- "business_lines": [
-  "CCTV / 入侵报警 / 门禁安装与维护",
-  "火灾报警安装（守界：火灾主系统不供）"
- ],
- "channels": {
-  "网站": "https://longtek.co.uk/",
-  "电话": "+44 20 8805 0002（官网公开）",
-  "邮箱（公开）": "admin@longtek.co.uk"
- },
- "signals": [
-  "小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单"
- ],
- "risks": [
-  "微型、采购量小；17 次推送 0 回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）"
- },
- "email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 logan@longtek.co.uk；被打开主题「8 Port Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：微型、采购量小；17 次推送 0 回复"
-  },
-  "situation": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
-  "need": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）",
-  "breakpoint": "微型、采购量小；17 次推送 0 回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → logan@longtek.co.uk",
-   "action": "短信一问（email_hook）",
-   "one_question": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "28 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-319",
+  "name_official": "Longtek Electronics (Europe) Ltd（Co. 05227994，Enfield, London；longtek.co.uk）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与联系方式",
+      "quote": "At Longtek Electronics (Europe) Ltd, we have been at the forefront of security technology since 2004, serving Enfield Town … installation, maintenance, and repair of state-of-the-art CCTV systems, alarm systems (including intruder alarms and fire alarms) and access control systems … admin@longtek.co.uk … +44 20 8805 0002 … 12 Bishops Close, Enfield EN1 3QJ",
+      "url": "https://longtek.co.uk/aboutUs",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "登记",
+      "claim": "法人登记",
+      "quote": "LONGTEK ELECTRONICS EUROPE LTD Company number 05227994 … 12 Bishops Close, Enfield, Mddx, EN1 3QJ … Incorporated on: 10 September 2004",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "规模与创办人",
+      "quote": "Micro Turnover is under £1M … Under 10 employees … Security systems service activities (80200) … Thevarajah Thevalojan Founder Appointed in Sep 2004",
+      "url": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "17 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Thevarajah Thevalojan",
+      "role": "Founder / Director（Companies House 公开）",
+      "email": "admin@longtek.co.uk（公司公开）",
+      "phone": "+44 20 8805 0002",
+      "source": "https://open.endole.co.uk/insight/company/05227994-longtek-electronics-europe-ltd"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  },
+  "company_facts": {
+    "legal_name": "Longtek Electronics Europe Ltd（Companies House 05227994，2004-09-10；SIC 80200）",
+    "hq": "12 Bishops Close, Enfield EN1 3QJ, UK（+44 20 8805 0002；admin@longtek.co.uk / info@longtek.co.uk；0800 511 8611）",
+    "size": "<10 人；营业额 <£1M（Endole）；3 人（GlobalDatabase）",
+    "other": "SSAIB 认证安装商；关联公司 Longtek Commercial Ltd（14264827，2022）"
+  },
+  "business_lines": [
+    "CCTV / 入侵报警 / 门禁安装与维护",
+    "火灾报警安装（守界：火灾主系统不供）"
+  ],
+  "channels": {
+    "网站": "https://longtek.co.uk/",
+    "电话": "+44 20 8805 0002（官网公开）",
+    "邮箱（公开）": "admin@longtek.co.uk"
+  },
+  "signals": [
+    "小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单"
+  ],
+  "risks": [
+    "微型、采购量小；17 次推送 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）"
+  },
+  "email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 logan@longtek.co.uk；被打开主题「8 Port Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 28，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：微型、采购量小；17 次推送 0 回复"
+    },
+    "situation": "伦敦 Enfield 的微型安防/消防安装商（2004-09 注册；SSAIB 认证；<10 人、营业额 <£1M；创办人 Thevarajah Thevalojan）：CCTV、入侵报警、火灾报警、门禁的安装与维护，覆盖伦敦与英格兰；另有自研 Longtek Engineer/Customers App。用户表：17 次跟进 0 回复。",
+    "need": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）",
+    "breakpoint": "微型、采购量小；17 次推送 0 回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → logan@longtek.co.uk",
+      "action": "短信一问（email_hook）",
+      "one_question": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "8 Port Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "28 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — 8 Port Industrial PoE Switch",
+      "body": "Hi Logan,\n\nYou opened our mail on \"8 Port Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

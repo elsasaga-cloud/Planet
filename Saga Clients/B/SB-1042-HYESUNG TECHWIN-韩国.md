@@ -271,21 +271,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：One question — Managed Optical Bypass Switch
 
 ```text
-Hi Kang,
+Hi Insuner,
 
-Picking up our earlier exchange about PoE / industrial switches. Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?
+You opened our mail on "Managed Optical Bypass Switch" (and "Marvell Industrial Alert System") but had no reason to answer — fair enough. No brochure this time, just one question:
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?
+
+If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan
+Saga Telecom · sagatele.com
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

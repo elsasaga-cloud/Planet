@@ -1,136 +1,139 @@
 {
- "code": "SB-817",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（comtrol.co.uk，快照 2026-10-21）",
- "summary": "英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。",
- "type": "专业通信设备增值分销商（英国，Omnitron 为主）",
- "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "Omnitron"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Comtrol UK Ltd -；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities.",
-   "url": "https://www.comtrol.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 光猫 工业FS 很多是omnitron的产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Comtrol UK 定位",
-   "quote": "Comtrol UK Ltd ; A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities ; /distribution/omnitron/omniconverter/omniconverter-poe-switches/",
-   "url": "https://www.comtrol.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC 光猫 工业 FS；多为 Omnitron",
-   "quote": "MC 光猫 工业FS 很多是omnitron的产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tim Jones",
-   "title": "（职务待核）",
-   "email": "tim.jones@comtrol.co.uk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "专业通信设备增值分销（Omnitron 等）",
-  "定制设计 / 楼宇监测"
- ],
- "channels": {
-  "role": "专业通信设备增值分销商（英国，Omnitron 为主）",
-  "region": "英国",
-  "contact": "sales@comtrol.co.uk、tim.jones@comtrol.co.uk"
- },
- "signals": [
-  "首页 ETHERNET SWITCHES AND MEDIA CONVERTERS ; SERIAL COMMUNICATIONS ; FIBRE CONVERSION ; BESPOKE DESIGN ; SFP Modules；页面 /distribution/omnitron/omniconverter/omniconverter-poe-switches/",
-  "官网：A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities；KP Tim（tim.jones@）"
- ],
- "risks": [
-  "Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供",
-  "19 次无回复 → 改向 Tim Jones 具名首触（职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE"
- },
- "email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "专业通信设备增值分销商（英国，Omnitron 为主）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「MC 光猫 工业FS 很多是omnitron的产品」；研究档 risks：Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供"
-  },
-  "situation": "英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。",
-  "need": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE",
-  "breakpoint": "Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → sales@comtrol.co.uk",
-   "action": "短信一问（email_hook）",
-   "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 光猫 工业FS 很多是omnitron的产品",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "27 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-817",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（comtrol.co.uk，快照 2026-10-21）",
+  "summary": "英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。",
+  "type": "专业通信设备增值分销商（英国，Omnitron 为主）",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti",
+    "Omnitron"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Comtrol UK Ltd -；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities.",
+      "url": "https://www.comtrol.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 光猫 工业FS 很多是omnitron的产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Comtrol UK 定位",
+      "quote": "Comtrol UK Ltd ; A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities ; /distribution/omnitron/omniconverter/omniconverter-poe-switches/",
+      "url": "https://www.comtrol.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 光猫 工业 FS；多为 Omnitron",
+      "quote": "MC 光猫 工业FS 很多是omnitron的产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Tim Jones",
+      "title": "（职务待核）",
+      "email": "tim.jones@comtrol.co.uk",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 comtrol.co.uk，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "专业通信设备增值分销（Omnitron 等）",
+    "定制设计 / 楼宇监测"
+  ],
+  "channels": {
+    "role": "专业通信设备增值分销商（英国，Omnitron 为主）",
+    "region": "英国",
+    "contact": "sales@comtrol.co.uk、tim.jones@comtrol.co.uk"
+  },
+  "signals": [
+    "首页 ETHERNET SWITCHES AND MEDIA CONVERTERS ; SERIAL COMMUNICATIONS ; FIBRE CONVERSION ; BESPOKE DESIGN ; SFP Modules；页面 /distribution/omnitron/omniconverter/omniconverter-poe-switches/",
+    "官网：A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities；KP Tim（tim.jones@）"
+  ],
+  "risks": [
+    "Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供",
+    "19 次无回复 → 改向 Tim Jones 具名首触（职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE"
+  },
+  "email_hook": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "专业通信设备增值分销商（英国，Omnitron 为主）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「MC 光猫 工业FS 很多是omnitron的产品」；研究档 risks：Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供"
+    },
+    "situation": "英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。",
+    "need": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE",
+    "breakpoint": "Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → sales@comtrol.co.uk",
+      "action": "短信一问（email_hook）",
+      "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 光猫 工业FS 很多是omnitron的产品",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "27 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Marvell Industrial Alert System",
+      "body": "Hi Tim,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

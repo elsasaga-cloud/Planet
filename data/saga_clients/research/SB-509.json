@@ -1,136 +1,139 @@
 {
- "code": "SB-509",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（starlink.co.kr，快照 2026-10-21）",
- "summary": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
- "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
- "size": "",
- "brands_seen": [
-  "Soltech",
-  "Cisco",
-  "HPE",
-  "Netgear"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：유비큐넷 네트워크솔루션 전문기업",
-   "quote": "스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
-   "url": "https://starlink.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Ubiqnet 定位",
-   "quote": "유비큐넷 네트워크솔루션 전문기업 ; 스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
-   "url": "https://starlink.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "自己的标 工业 FS MC EoC；Soltech 合作",
-   "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作；质量高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jaesik Lee",
-   "title": "（职务待核）",
-   "email": "help@ubiqnet.co.kr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 starlink.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络设备分销（自有品牌 Starlink；HP / Cisco / Netgear / Soltech）",
-  "综合布线"
- ],
- "channels": {
-  "role": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
-  "region": "韩国",
-  "contact": "help@ubiqnet.co.kr、ubiqnet@ubiqnet.co.kr"
- },
- "signals": [
-  "官网：스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체；표内：工业 FS MC EoC 自己的标 也卖一些思科 HPE 交换机；和 Soltech 有合作；质量高"
- ],
- "risks": [
-  "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供"
- },
- "email_hook": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 5 封被打开，0 回；收件 help@ubiqnet.co.kr, ubiqnet@ubiqnet.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 35，Opened 标签 5（Simon 群发追踪）；用户表：「工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作」；研究档 risks：与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
-  },
-  "situation": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
-  "need": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
-  "breakpoint": "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → help@ubiqnet.co.kr",
-   "action": "短信一问（email_hook）",
-   "one_question": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "35 封 / 5 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-509",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（starlink.co.kr，快照 2026-10-21）",
+  "summary": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
+  "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
+  "size": "",
+  "brands_seen": [
+    "Soltech",
+    "Cisco",
+    "HPE",
+    "Netgear"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：유비큐넷 네트워크솔루션 전문기업",
+      "quote": "스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
+      "url": "https://starlink.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Ubiqnet 定位",
+      "quote": "유비큐넷 네트워크솔루션 전문기업 ; 스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체",
+      "url": "https://starlink.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "自己的标 工业 FS MC EoC；Soltech 合作",
+      "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作；质量高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jaesik Lee",
+      "title": "（职务待核）",
+      "email": "help@ubiqnet.co.kr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 starlink.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络设备分销（自有品牌 Starlink；HP / Cisco / Netgear / Soltech）",
+    "综合布线"
+  ],
+  "channels": {
+    "role": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
+    "region": "韩国",
+    "contact": "help@ubiqnet.co.kr、ubiqnet@ubiqnet.co.kr"
+  },
+  "signals": [
+    "官网：스타링크, HP, 시스코, 넷기어, 솔텍, 네트워크장비,통합배선, 유통전문업체；표内：工业 FS MC EoC 自己的标 也卖一些思科 HPE 交换机；和 Soltech 有合作；质量高"
+  ],
+  "risks": [
+    "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供"
+  },
+  "email_hook": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 35 封 2024→2026，其中 5 封被打开，0 回；收件 help@ubiqnet.co.kr, ubiqnet@ubiqnet.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "韩国网络分销商（自有 Starlink 标，Soltech 合作）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 35，Opened 标签 5（Simon 群发追踪）；用户表：「工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作」；研究档 risks：与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）"
+    },
+    "situation": "韩国 유비큐넷 Ubiqnet / Starlink（网络方案与分销专业企业：Starlink 自有品牌、HP、Cisco、Netgear、Soltech，综合布线；表内「工业 FS MC EoC 自己的标；也卖一些思科 HPE 交换机」「和 Soltech 有合作」「质量高」；KP Jaesik Lee）；群发 23 次无回复。",
+    "need": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
+    "breakpoint": "与 Soltech（韩国厂商）有合作（既定供应）；非主攻区（T5，韩国）；23 次无回复 → 改向 Jaesik Lee 具名首触（职务待核）",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → help@ubiqnet.co.kr",
+      "action": "短信一问（email_hook）",
+      "one_question": "Mr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "35 封 / 5 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Jaesik,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Lee, for the industrial switches and media converters under the Starlink label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; CE/RoHS; KC by your side) in your packaging from small lots — which model do your distribution customers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -141,7 +141,10 @@
     "proof_gaps": [
       "Elsa 回复正文未入库"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: price list, MOQ, warranty — Topica",
+      "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc, 3-year warranty with lifetime technical support, list prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

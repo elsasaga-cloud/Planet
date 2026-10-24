@@ -116,7 +116,10 @@
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: our earlier exchange",
+      "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July fit the access-control job, or did the count change?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

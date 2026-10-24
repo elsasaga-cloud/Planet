@@ -170,7 +170,27 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> C 级不出邮件样板（不主动跟进）。
+**主题**：Re: RFP (8/24/16-port PoE) — the prices we did not give in July
+
+```text
+Hi Tarun,
+
+In July you sent a clear RFP (100 × 8-port, 20 × 24-port, 100 × 16-port industrial L2+ PoE) and we answered with datasheets but no numbers. That was our mistake. Budget prices, USD EXW (2026-10-17 snapshot, valid 15 days):
+
+- 8-port L2+ PoE 120W + 2× 2.5G SFP: STC-28DGGPM $99 (10G-uplink version on request)
+- 24-port L2+ PoE 440W + 4× 10G SFP+: STC-424DGGPM-440W $220
+- 16-port industrial L2+ PoE + 4× 10G SFP+, -40 to +75 °C: STI-21616XGGPM $324.5
+
+The −48 V DC input (−32 to −78 V) on the 8-port is a project build, not a stock item.
+
+One question: is the RFP still open, and which site / operator is it for?
+
+Best regards,
+Alan
+Saga Telecom · sagatele.com
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
