@@ -70,5 +70,38 @@
   "tier": 30,
   "why": "自有 Prolink 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
  },
- "email_hook": "For the PoE and unmanaged switches sold under the Prolink label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, budget 5/8/16-port units) in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your Singapore and regional dealers?"
+ "email_hook": "For the PoE and unmanaged switches sold under the Prolink label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, budget 5/8/16-port units) in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your Singapore and regional dealers?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封休假自动回复）",
+   "type": "新加坡 SMB 电子品牌（Prolink）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "SG",
+   "cadence": "不动",
+   "evidence": "k=351900683615a3d6 / 05e17c6906b051b1"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

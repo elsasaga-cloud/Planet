@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：在用UniPoE的工业FS；工业FS 优力普的）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-11-24）；最近一次客户回复：2025-11-24：INFO
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM — 制造商二供；$215（2025-12 对 Thor 报价）
+- **第一问（只问一个）**：Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → rex.lin@ewinsonic.com 给价表
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-007` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接）** ｜ 类型：台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径 ｜ 筛子：2 ｜ 停点：要价表给链接；多平台问题未答 ｜ 复活：一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无 ｜ 通路：TW ｜ 节奏：一封 ｜ 证据：k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf
+- **现状一句话**：—
+- **对方真实需求（有据）**：Booster PoE 管理型 + 多芯片平台。
+- **断点 / 为什么停在这里**：回法。
+- **Saga 现在该推什么**：P1 **STI-488XGGBPM**（30% 档，$215（2025-12 对 Thor 报价））——制造商二供
+- **下一步（具体）**：2026-11　A 邮箱 → rex.lin@ewinsonic.com　给价表
+  - 第一问（只问一个）：Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-11-24 | 来 | Rex Lin | Coule you provide detial spec and price list? | 要价表 | `a1d6d7a7e1d0a1f5` |
 
 ## 基本事实（事实/推断/假设分层）
 

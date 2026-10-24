@@ -68,5 +68,47 @@
   "tier": 25,
   "why": "16 电口 PoE + 工业设施场景 → Saga STI-21616GP（$170.4/177.5/184.6）；商用机房版 STC-2216GPM（HRUI 列表 $137.5）备选。"
  },
- "email_hook": "Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price."
+ "email_hook": "Amy, following your July question on the PoE model — for the 16-port requirement, is it going into a plant / OT cabinet (DIN-rail, −40~75 ℃) or a comms room rack? I'll send the matching sheet and 1-pc price.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-07-07 Amy Hoi 问 4 口 PoE+1 上联 / 8 口 PoE+1 上联 价格 → 当天确认千兆 → 报价已发；无后续）",
+   "type": "新加坡安防/生物识别集成商（Bio-Cognitive；Amy = 采购）",
+   "sieve": "3（报价）",
+   "stop": "报价后无回",
+   "revive": "一句话",
+   "lane": "SG 非主攻",
+   "cadence": "一封",
+   "evidence": "k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2"
+  },
+  "situation": "—",
+  "need": "4/8 口千兆 PoE + 1 上联（门禁/CCTV）。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-228GP / STC-28GP",
+   "tier": 25,
+   "price": "按主表",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → amyhoi@bio-cognitive.com",
+   "action": "一句话",
+   "one_question": "Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?"
+  },
+  "facts": [
+   {
+    "date": "2025-07-07",
+    "dir": "来",
+    "who": "Amy Hoi",
+    "quote": "Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?",
+    "why": "询价",
+    "k": "1341fd835e388fae"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

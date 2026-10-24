@@ -59,5 +59,47 @@
   "tier": 25,
   "why": "项目需求「工业 2+8 PoE」→ STI-288GP（2 SFP + 8 PoE，DIN）；2+4 用 STI-154GP/STI-054GP 类；多光口汇聚另询"
  },
- "email_hook": "For the project you described (industrial 2 SFP + 4 PoE and 2 SFP + 8 PoE) the DIN-rail 8-port unit is $57–62 EXW and the 4-port from $38 — is that project still live, and which quantities should I price?"
+ "email_hook": "For the project you described (industrial 2 SFP + 4 PoE and 2 SFP + 8 PoE) the DIN-rail 8-port unit is $57–62 EXW and the 4-port from $38 — is that project still live, and which quantities should I price?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-07-04 Pongpanot：曼谷隧道项目 16 套，附系统图 → Simon 拆成两种设备回复；无后续）",
+   "type": "泰国项目承包（个人 Hotmail）",
+   "sieve": "2（项目 RFQ）",
+   "stop": "报价后无回",
+   "revive": "不动",
+   "lane": "TH",
+   "cadence": "不动",
+   "evidence": "k=4dbd322d94d94597 / 4b941fc8bc10a130"
+  },
+  "situation": "—",
+  "need": "隧道 CCTV：8 口 + 4/5 口工业 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-07-04",
+    "dir": "来",
+    "who": "Pongpanot",
+    "quote": "I am looking for 16 sets for Tunnel project in Bangkok.",
+    "why": "项目",
+    "k": "4dbd322d94d94597"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

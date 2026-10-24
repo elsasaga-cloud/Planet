@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Optimus（optimus-cctv.ru / red-dst.ru：CCTV 品牌，自有 logo 商用 PoE、PoE 配件、SFP 模块；表内「卖丰润达的」「商业 PoE CCTV 为主 很多配件」；KP Mokerova Alina（product manager）、Alla Kiyashkina（product manager））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-31）
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有 Optimus 标商用 PoE（现丰润达）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；SFP/PoE 配件 Saga 不供；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-930` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（2 封自动回复；现丰润达 → Q-33 口径）** ｜ 类型：俄罗斯 CCTV 品牌商（Optimus） ｜ 筛子：0 ｜ 停点：Q-33 ｜ 复活：不动 ｜ 通路：RU ｜ 节奏：不动 ｜ 证据：k=6dc1a9f9ab0559b1 / 45ade38e74eaddb0
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

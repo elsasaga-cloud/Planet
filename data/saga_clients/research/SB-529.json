@@ -104,5 +104,38 @@
   "tier": 25,
   "why": "现 ONV 工业 FS 深度合作 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作 Marvell 平台替代位；商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "Majdi, for the industrial PoE switches in your camera and access-control projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from single units, EXW USD — is there a managed-switch position you would like a comparative quote for alongside your current supplier?"
+ "email_hook": "Majdi, for the industrial PoE switches in your camera and access-control projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (−40~75 °C, 90 W PoE++ option, CE/RoHS, neutral packing) from single units, EXW USD — is there a managed-switch position you would like a comparative quote for alongside your current supplier?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；ONV 深度合作）",
+   "type": "科威特安防集成（DSS）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "KW",
+   "cadence": "不动",
+   "evidence": "k=eedb744221423d3a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -81,5 +81,38 @@
   "tier": 30,
   "why": "主业 DC 白盒（Saga 不做）→ 仅园区接入补位：24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、PoE 版 STC-424XGGPM-280W；BDM 方案讨论见 Gmail 线程（待导出核对）"
  },
- "email_hook": "Alexander, picking up our earlier exchange: if netberg needs a Marvell-based campus/access tier next to your data-center line, we can supply 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots under your label — is an access-layer SKU on your roadmap?"
+ "email_hook": "Alexander, picking up our earlier exchange: if netberg needs a Marvell-based campus/access tier next to your data-center line, we can supply 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots under your label — is an access-layer SKU on your roadmap?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-05-20 Alex（Netberg）两封：「great cooperation potential… Trident3/4, SONiC」→「you are limited to Marvell… explore Broadcom」）",
+   "type": "台湾数据中心白盒交换机厂商（Netberg）——同行，非买家",
+   "sieve": "1",
+   "stop": "对方是卖方",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=4db5b4b28bbd3946 / b2fdeceac0796384"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

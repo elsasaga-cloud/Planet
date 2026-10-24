@@ -84,5 +84,38 @@
   "tier": 25,
   "why": "PoE 长距（250 m）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%，长距模式 250 m@10 Mbps 待核）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）"
  },
- "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?"
+ "email_hook": "Jackson, on your question about 250 m PoE runs: our Marvell-based 8-PoE + 2 SFP L2+ switch supports an extended-reach mode on PoE ports (250 m at 10 Mbps for cameras; standard 100 m at gigabit) — shall I confirm the exact figures on a datasheet and quote one evaluation unit, EXW USD?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封 2023-11 自动回复）",
+   "type": "新加坡电信工程商（Lucky Joint）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "SG",
+   "cadence": "不动",
+   "evidence": "k=8132922529f0518a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

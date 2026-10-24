@@ -35,10 +35,21 @@ updated: 2026-10-24
 - **是谁**：德国 ASSMANN（DIGITUS 品牌）台湾分公司 / 亚洲采购办，PM Kent Wang；展会接触：串口与 HDMI-to-RJ45，兴趣 MC / HDMI / SFP / PoE / 串口系列，2025-12 对 Alarm 回复「I/O modules」。DIGITUS 产品均为亚洲贴牌采购 → OEM 30%；HDMI / 串口 / I/O 模块 Saga 无。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：MC HDMI SFP POE serials 展会：串口和HDMI to Rj45）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-12-15）；最近一次客户回复：2025-12-15：I/O modules
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：DIGITUS 商用 PoE 线贴牌 → STC-28DGGPM（Marvell L2+）与 MC STI-110GE 作样；OEM 30%。；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-005` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2025-12-15 Kent Wang（Product Management）问「Input and Output devices also?」→ Alan：无 I/O 模块，转介）** ｜ 类型：台湾/德国布线品牌（ASSMANN / DIGITUS） ｜ 筛子：1 ｜ 停点：需求是 I/O 模块 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=841a7692319b168b
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

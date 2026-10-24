@@ -69,5 +69,47 @@
   "tier": 30,
   "why": "替换 UniPoE 同口型工业 2 光 8 PoE → Saga STI-288GP（$57.4/59.8/62.2）贴 Winsonic 标；升压款按 SmartByte 另询。"
  },
- "email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first."
+ "email_hook": "Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接）",
+   "type": "台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径",
+   "sieve": "2",
+   "stop": "要价表给链接；多平台问题未答",
+   "revive": "一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无",
+   "lane": "TW",
+   "cadence": "一封",
+   "evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf"
+  },
+  "situation": "—",
+  "need": "Booster PoE 管理型 + 多芯片平台。",
+  "breakpoint": "回法。",
+  "saga_now": {
+   "p1": "STI-488XGGBPM",
+   "tier": 30,
+   "price": "$215（2025-12 对 Thor 报价）",
+   "why": "制造商二供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → rex.lin@ewinsonic.com",
+   "action": "给价表",
+   "one_question": "Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no."
+  },
+  "facts": [
+   {
+    "date": "2025-11-24",
+    "dir": "来",
+    "who": "Rex Lin",
+    "quote": "Coule you provide detial spec and price list?",
+    "why": "要价表",
+    "k": "a1d6d7a7e1d0a1f5"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

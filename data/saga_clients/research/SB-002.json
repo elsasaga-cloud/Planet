@@ -68,5 +68,38 @@
   "tier": 30,
   "why": "其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。"
  },
- "email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?"
+ "email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS）",
+   "type": "台湾网络厂商（AD-NET）",
+   "sieve": "1",
+   "stop": "轨交 M12 不做",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=266471f2990a3b25"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "守界。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

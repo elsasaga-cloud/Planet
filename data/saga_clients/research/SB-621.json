@@ -90,5 +90,40 @@
    "url": "https://symanitron.ru/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封俄语休假自动回复，转 ion@symanitron.ru）",
+   "type": "俄罗斯工业网络品牌/合同制造（Symanitron）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "改发 ion@symanitron.ru",
+   "lane": "RU",
+   "cadence": "2026-12",
+   "evidence": "k=3a5b900fd44405f5 / 8f1a2192a4db3fa3"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "具名联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "A 邮箱 → ion@symanitron.ru",
+   "action": "换人",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

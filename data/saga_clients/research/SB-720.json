@@ -77,5 +77,38 @@
   "tier": 30,
   "why": "Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供"
  },
- "email_hook": "Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?"
+ "email_hook": "Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续）",
+   "type": "南非自有品牌网络/电源商（Netshield）",
+   "sieve": "2",
+   "stop": "价表后无回",
+   "revive": "一句话",
+   "lane": "ZA",
+   "cadence": "一封",
+   "evidence": "k=e0c4b6cd7947d58e"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "A 邮箱 → inus@netshieldsa.com",
+   "action": "一句话",
+   "one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?"
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

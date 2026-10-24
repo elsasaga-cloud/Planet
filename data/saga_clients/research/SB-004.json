@@ -74,5 +74,47 @@
   "tier": 30,
   "why": "工业管理 PoE（带告警继电器 DI/DO）→ Saga STI-288GPM 作其入门 ODM 补充（OEM 30%）；铁路用途不供。"
  },
- "email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price."
+ "email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（Gary Chen 4 封：2025-07 要 Alert System 资料 → 2026-04「will let you know if any model useful」→ 2026-08「don't have requirement so far」）",
+   "type": "台湾工业电脑/网络厂商（Tailyn 台林；Gary = 采购/产品）——台湾厂商口径：只谈 OEM/ODM 二供",
+   "sieve": "2",
+   "stop": "明确「暂无需求」",
+   "revive": "不动；年度一次",
+   "lane": "TW 非主攻",
+   "cadence": "年度",
+   "evidence": "k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "无需求。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-11",
+    "dir": "来",
+    "who": "Gary Chen",
+    "quote": "Thanks Alan and I don't have requirement so far.",
+    "why": "无需求",
+    "k": "8f58c5f5654aaa52"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

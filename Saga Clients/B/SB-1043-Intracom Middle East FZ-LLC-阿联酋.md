@@ -34,10 +34,26 @@ updated: 2026-10-24
 - **是谁**：Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：项目配套 PoE（表内兴趣）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 口 STC-424XGGPM-280W（$188.7）作中东项目接入层；国防/关键基础设施项目不涉；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量；$34（2024-10）
+- **第一问（只问一个）**：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 S 邮箱 → mohammad.yaacoub@intracom-telecom.com 问项目
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1043` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）** ｜ 类型：希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型 ｜ 筛子：2→3（问价后未要样） ｜ 停点：$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目 ｜ 复活：一句话问当时的无线回传项目 ｜ 通路：AE 非主攻（但 Intracom 体量大） ｜ 节奏：一封 ｜ 证据：k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824
+- **现状一句话**：—
+- **对方真实需求（有据）**：工业 PoE 小型款（无线回传站点）。
+- **断点 / 为什么停在这里**：无闭环。
+- **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，$34（2024-10））——项目体量
+- **下一步（具体）**：2026-11　S 邮箱 → mohammad.yaacoub@intracom-telecom.com　问项目
+  - 第一问（只问一个）：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-10-09 | 来 | Mohammad Yaacoub | Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. | 价格先行 | `d05d6d8f07683799` |
 
 ## 基本事实（事实/推断/假设分层）
 

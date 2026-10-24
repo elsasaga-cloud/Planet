@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。（调研 2026-10-21；表内兴趣：Switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-06-05：芯片是啥
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口；按 CENTEC 价表
+- **第一问（只问一个）**：Mikhail — the CENTEC line (STH-2QX4XF48GP / 8C48DX, VXLAN/EVPN/MPLS) is attached with the 2026 list; which platform are you evaluating for your own range?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → afonin@npotelecom.ru CENTEC 表 + 身份说明
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-475` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）** ｜ 类型：俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档 ｜ 筛子：2（芯片/产地尽调） ｜ 停点：两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了 ｜ 复活：若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表 ｜ 通路：RU（点名） ｜ 节奏：一封 ｜ 证据：k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69
+- **现状一句话**：—
+- **对方真实需求（有据）**：CENTEC/Microchip 平台交换机（自有产品线对标）。
+- **断点 / 为什么停在这里**：身份回答。
+- **Saga 现在该推什么**：P1 **STH 系列**（30% 档，按 CENTEC 价表）——用户标重要 + CENTEC 对口
+- **下一步（具体）**：2026-11　A 邮箱 → afonin@npotelecom.ru　CENTEC 表 + 身份说明
+  - 第一问（只问一个）：Mikhail — the CENTEC line (STH-2QX4XF48GP / 8C48DX, VXLAN/EVPN/MPLS) is attached with the 2026 list; which platform are you evaluating for your own range?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-05-12 | 来 | Mikhail Afonin | What city is your factory located in? Do you produce switches based on Microchip and Centec chips? | 尽调 | `f954ab2b523be0e6` |
 
 ## 基本事实（事实/推断/假设分层）
 

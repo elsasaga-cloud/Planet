@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：韩国网络设备公司 N-ITUS（Director Peter 邮箱退信，另一联系人 yhahn@），兴趣商用以太网交换机，表内「质量一般」，2025-11 对升压 PoE 群发回复「Price and ODM」→ 有 ODM 意向（升压款 Saga 价目无，Q-32）。（调研 2026-10-21；表内兴趣：Ethernet Switch；商业switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-13 → 2025-11-13）；最近一次客户回复：2025-11-13：Price and ODM
-- **P1（下一步唯一主推）**：— — 深挖对位：其询价对象为升压 PoE 款（价目无，待 Q-32 / SmartByte 另询）；ODM 口径 30%；常规商用线 STC-28DGGPM 备选。；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director；按主表 OEM 30% 档
+- **第一问（只问一个）**：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 A 邮箱 → peter01@n-itus.com 给区间表 + ODM 一页
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-472` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）** ｜ 类型：韩国 ISP 供应商（N-ITUS；Director 直联）——第二档，ISP 渠道 + ODM 意向 ｜ 筛子：2（要价格区间 + ODM 方案） ｜ 停点：Alan 用「先看链接再说品类」回了一个明确的「给我价格区间和 ODM 方案」——对方没有再来；Simon 2026-08-02 点名韩国客户 ｜ 复活：直接给：PoE/非 PoE 两张价格区间表 + ODM 一页（logo/型号/GUI/包装/MOQ） ｜ 通路：KR 次级（Simon 点名） ｜ 节奏：一封 ｜ 证据：k=57253159a4b7a064 / d5a07aad76ff2c53
+- **现状一句话**：对方开口要的是两样具体东西，Saga 给的是链接。
+- **对方真实需求（有据）**：ISP 用接入 PoE/非 PoE + ODM。
+- **断点 / 为什么停在这里**：回法。
+- **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档）——韩国 ISP 渠道 + Director
+  - 做不了 / 要先核的：ISP 名单/年量
+- **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页
+  - 第一问（只问一个）：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-11-13 | 来 | Peter | Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. | ODM 意向 | `57253159a4b7a064` |
 
 ## 基本事实（事实/推断/假设分层）
 

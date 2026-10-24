@@ -33,10 +33,29 @@ updated: 2026-10-24
 - **是谁**：以色列 Aironix（工业/无线网络产品分销；表内「工业 FS O-ring 的」「可以尝试多跟进一下」；KP Yair Turjeman（Chief Executive Officer）、Eytan Birenzwige（Vice President Operations））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS O-ring的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-04 → 2025-10-27）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：ORing 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）；$46.6 USD EXW（20% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424… 24 口千兆（非 PoE）对位 GS910/24 — 数量 + 目标价 + 距今 2 个月；$60 EXW 已报；按 47/300 两档重报（主表 20%）
+- **第一问（只问一个）**：Yair — line-by-line against AT-GS910/24 attached; 47 pcs at $58 and 300/yr at $54 EXW; shall I ship 2 units for your customer to test this month?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384） 对表 + 样品 + 两档价一次给齐
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-754` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→活线索（2026-08-13 Yair：「equivalent to Allied AT-GS910-24, 47 pcs, 300 pcs a year」→ Alan 给近似款 → Yair「customer target $150」→ Alan「$60 EXW… I think we can make it」；之后 Yair 无回，Alan 9-18 改发 16 口群发）** ｜ 类型：以色列工业网络分销（Aironix；ORing 在供；Yair = 销售/采购，WhatsApp 公开）——第二档分销，手里有 47+300/年的项目 ｜ 筛子：3→4（规格对表 + 目标价，差一步样品） ｜ 停点：价格空间巨大（$60 vs 目标 $150）却没有闭环：Alan 的回复里带了「ChatGPT 说是 technically suitable candidate」——把判断责任推给客户；之后没有追「要不要 2 台样品」 ｜ 复活：一句话：按 AT-GS910-24 逐项对表（24×GE 非管理 L2 web smart？实际 GS910/24 是非管理机架 24 口）+ 2 台付费样品 + 47 台价与 300 台/年价两档 ｜ 通路：IL 非主攻——但 J5：300 台/年证据压过地区 ｜ 节奏：现在；之后按项目 ｜ 证据：k=e38d26c7ab40da80（47/300 pcs）；8cd7e98463599356（近似款）；3a08877b73cf6f38（target $150）；44e2d2b34a060ccb（$60 EXW + ChatGPT）；67992b2d19d5a0b8（9-18 群发）
+- **现状一句话**：两个月前的活线索：客户给了型号、数量、年量、目标价四个要素，Saga 的价只有目标价的 40%。断在没有人把「对表 + 样品 + 两档价」一次给齐。
+- **对方真实需求（有据）**：AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。
+- **断点 / 为什么停在这里**：Saga 未闭环。
+- **Saga 现在该推什么**：P1 **STC-424… 24 口千兆（非 PoE）对位 GS910/24**（20% 档，$60 EXW 已报；按 47/300 两档重报（主表 20%））——数量 + 目标价 + 距今 2 个月
+  - 做不了 / 要先核的：客户是否已另购；GS910/24 关键参数（非管理、桌面/机架、风扇）逐项对表
+- **下一步（具体）**：现在　A 邮箱 → yair@aironix.co.il（+WhatsApp +972 54 831 8384）　对表 + 样品 + 两档价一次给齐
+  - 第一问（只问一个）：Yair — line-by-line against AT-GS910/24 attached; 47 pcs at $58 and 300/yr at $54 EXW; shall I ship 2 units for your customer to test this month?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-13 | 来 | Yair | Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. | 需求四要素 | `e38d26c7ab40da80` |
+| 2026-08-15 | 来 | Yair | my customer buying target price is 150usd each | 目标价 | `3a08877b73cf6f38` |
+| 2026-08-15 | 去 | Alan | I checked with ChatGPT… "Technically suitable replacement candidate"… About the price, it is 60USD/PC, EXW term. | 价差 2.5 倍，未闭环 | `44e2d2b34a060ccb` |
 
 ## 基本事实（事实/推断/假设分层）
 

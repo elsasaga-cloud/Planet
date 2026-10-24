@@ -87,5 +87,38 @@
   "tier": 20,
   "why": "MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。"
  },
- "email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set."
+ "email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-09-08 Ahmad「Looks good」→ $33.5 + 问样；无后续）",
+   "type": "迪拜 IT 分销（Techsouq）",
+   "sieve": "2",
+   "stop": "问样后无回",
+   "revive": "不动",
+   "lane": "AE",
+   "cadence": "不动",
+   "evidence": "k=a0ca6fa7bfe03f08"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

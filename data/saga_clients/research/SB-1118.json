@@ -101,5 +101,38 @@
    "url": "https://www.mcss.co.kr/",
    "date": "2026-10-21"
   }
- ]
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）",
+   "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
+   "sieve": "2",
+   "stop": "Q-33 + 迟回",
+   "revive": "不动（Q-33）",
+   "lane": "KR",
+   "cadence": "不动",
+   "evidence": "k=4d792eebebf6a404 / 497037e504e55533"
+  },
+  "situation": "—",
+  "need": "OEM/白标清单。",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：基本都是unifi的switch）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 PLANET GS-4210-8P2S（8 PoE + 2 SFP）与 UniFi USW-24-PoE → 对位 STC-28DGGPM（$84.1 @25%）/ STC-424DGGPM-280W；工业位 PLANET IGS-6325-8UP2S2X ↔ STI-288DGGPM（L2+，无 L3 工业 8 口标准型）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
+- **现状一句话**：—
+- **对方真实需求（有据）**：OEM/白标清单。
+- **断点 / 为什么停在这里**：Q-33。
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

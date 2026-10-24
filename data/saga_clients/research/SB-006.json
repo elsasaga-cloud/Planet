@@ -74,5 +74,38 @@
   "tier": 30,
   "why": "16 电工业 PoE → STI-21616GP 贴 EDIMAX 标（OEM 30%）；配套 SFP 不在价目（Q-32）。"
  },
- "email_hook": "Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week."
+ "email_hook": "Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续）",
+   "type": "台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供",
+   "sieve": "2",
+   "stop": "资料后无回",
+   "revive": "年度一次",
+   "lane": "TW",
+   "cadence": "年度",
+   "evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

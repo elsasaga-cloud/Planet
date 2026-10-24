@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：印度诺伊达 **Syrotech** 品牌母公司（1994 年成立，201–500 人，500 家渠道伙伴覆盖 100 城，CRISIL 评级；自有品牌占多数销售），产品 OLT/ONT、MC、1G–400G SFP、PoE / L2+ 交换机、无线、CCTV、门禁道闸；Grandstream 分销；2026-04 新 CEO Pankaj Sodhi（表内「有回复了」）。表内：SFP BiDi 3 km 量很大（Saga 无）、**自己的 logo：MC / PoE / 工业 FS**，在卖丰润达工业 FS；BD Akshat Pandey / Naman Gupta。= 标准 OEM 30% 大客户候选。（调研 2026-10-21；表内兴趣：SFP bidi 3KM  数量很大 2023加入国际站；交换机 Simon之前跟过；自己的logo MC POE 工业FS SFP 周边产品 在卖丰润达的工业FS）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+15 WhatsApp 已加并有跟进表；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 9 次（2024-05-08 → 2025-06-17）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：Syrotech 工业 FS 线替换 / 补充 → STI-288GPM（管理型 2 SFP + 8 PoE，$85.5 @30%）贴 Syrotech 标；非管理 STI-288GP；商用 PoE STC-28DGGPM。；$85.5 USD EXW（30% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-928` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）** ｜ 类型：印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商 ｜ 筛子：2 ｜ 停点：转 WhatsApp 后仓库失明 ｜ 复活：不动（印度非主攻） ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=dd23844381a28569
+- **现状一句话**：—
+- **对方真实需求（有据）**：8 口 2.5G + 10G 上联。
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+  - 做不了 / 要先核的：WhatsApp 是否有后续
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-10-24 | 来 | Pankaj Sodhi | Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. | 要价 + 转 WA | `dd23844381a28569` |
 
 ## 基本事实（事实/推断/假设分层）
 

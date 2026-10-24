@@ -36,45 +36,47 @@
  "grade_override": "B",
  "override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "伊斯兰堡 Litech（华为渠道集成商，BD 经理 Hassan Ijaz Cheema）2024-03-09 主动发 RFQ：《Access and aggregation switches specs.docx》+ 路由器规格，要求技术符合性声明，并写明「number of projects in pipeline, want long business partnership」。**S 邮箱内无任何回复**（T29-U11 Simon 裁定：重开）。",
-  "need": "规格以华为为参照：① 24 口 GE PoE+ + SFP 接入机（S5735-L24P4S 级）；② 48 口 GE PoE+ 370W + 4 SFP（S5735-L48P4S 级）；③ 汇聚 48×1G SFP + 4×10G SFP+、支持 OSPF/RIP（S5736-S48S4X 级）；④ 1000Base-LX SFP；⑤ AR6300 路由器。功能要求：802.1X / RADIUS CoA、Port Security、DAI、IP Source Guard、DHCP snooping、SSHv2/HTTPS/SNMPv3。",
-  "breakpoint": "2024-03 没人回（可能微信/其他渠道回过，Simon 未确认）；2.5 年后项目是否还在不知道。路由器不做；汇聚 48×SFP 商用款价格主表没有标准条目。",
+  "binding": {
+   "level": "轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录）",
+   "type": "巴基斯坦系统集成/项目承包（Litech；华为渠道）",
+   "sieve": "2（RFQ 来了没回）",
+   "stop": "Saga 未回（或在别的渠道回了）",
+   "revive": "研究档已记：先确认是否回过；若没有，一封「当年没接上」短信（只交换机，守界公共/运营商项目）",
+   "lane": "PK",
+   "cadence": "一封",
+   "evidence": "k=7203d72a927b7030"
+  },
+  "situation": "—",
+  "need": "接入/汇聚交换机 + 路由器（路由器不做）。",
+  "breakpoint": "未回。",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
+   "p1": "STC/STH 按规格",
    "tier": 25,
-   "price": "$188.7 USD EXW（CNY 1010 ×1.25）；48 口 STC-448XGGPM $349.4；汇聚 48×SFP+4×10G L3 用 SmartByte 型号报价并标注",
-   "why": "项目集成商 → 25% 档；接入层两款正好对上他的 ① ②（AC5 L2+ 规格书列 802.1X、IP source guard、ARP-check、DHCP snooping、SSHv2/HTTPS/SNMPv3）；汇聚 ③ 需 L3 OSPF——用 L3 款另议",
+   "price": "—",
+   "why": "—",
    "repeat": [],
    "gaps": [
-    "RADIUS CoA / Flexible Authentication、DAI（SmartByte 叫 ARP-check）逐条符合性要向 SmartByte 核",
-    "48×SFP + 4×10G 商用 L3 汇聚：价格主表无条目，需向 SmartByte 询 LT-S85xx 48 光口 L3 价格",
-    "守界：若终端是政府/军队/运营商标的，先问清收货主体与最终用户再报价",
-    "路由器（AR6300 级）：不做，明说"
+    "是否在 WhatsApp 回过"
    ]
   },
   "next_move": {
-   "when": "本周（Simon 从 S 邮箱发）",
-   "channel": "S 邮箱回 2024-03-09 原件（Re: RFQ Switches）",
-   "action": "按下稿发重开门短信；若对方回复项目仍在，再按 ①②③ 逐条出符合性表",
-   "one_question": "Is the access/aggregation project from your March 2024 RFQ still live (or a similar one in the pipeline), and roughly how many 24/48-port PoE units does it need?"
+   "when": "2026-11",
+   "channel": "S 邮箱 → hassancheema@litech.com.pk",
+   "action": "一封",
+   "one_question": ""
   },
   "facts": [
    {
     "date": "2024-03-09",
     "dir": "来",
-    "who": "Hassan Ijaz Cheema, Manager BD",
-    "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects in pipeline, want long business partnership",
-    "why": "主动来询 + 长期合作意向；S 邮箱无回复",
+    "who": "Hassan Cheema",
+    "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement.",
+    "why": "RFQ",
     "k": "7203d72a927b7030"
    }
   ],
-  "proof_gaps": [
-   "Simon 当年是否在微信/其他邮箱回过（T29-U11 决定不等确认直接重开）"
-  ],
-  "draft_en": {
-   "subject": "Re: RFQ Switches - picking this up (access / aggregation switches only)",
-   "body": "Hi Hassan,\n\nYour RFQ from March 2024 (access and aggregation switches referenced to Huawei S5735 / S5736) did not get the answer it deserved from our side, and I would like to pick it up properly now - for the switch part only; we do not offer routers.\n\nWhat we can quote today, with a line-by-line compliance statement:\n- 24 x Gigabit PoE+ (802.3at, 280 W) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Marvell AC5): 802.1X, port security, DHCP snooping, IP source guard, ARP inspection, SSHv2 / HTTPS / SNMPv3 - about USD 189 EXW per unit (snapshot 2026-10-22, valid 15 days).\n- 48 x Gigabit PoE+ (440 W) + 4 x SFP+, same feature set - about USD 349 EXW.\n- 48 x 1G SFP + 4 x 10G SFP+ L3 aggregation (OSPF / RIP) - on request.\nNeutral or your own branding, CE / RoHS / FCC, 10-15 days lead time.\n\nOne question: is the project from that RFQ (or a similar one in your pipeline) still live, and roughly how many 24/48-port PoE units does it need?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
-  }
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }

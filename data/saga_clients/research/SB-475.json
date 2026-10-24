@@ -70,5 +70,47 @@
   "tier": 30,
   "why": "Switch 需求（有回复）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 NPO 标"
  },
- "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?"
+ "email_hook": "Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）",
+   "type": "俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档",
+   "sieve": "2（芯片/产地尽调）",
+   "stop": "两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了",
+   "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
+   "lane": "RU（点名）",
+   "cadence": "一封",
+   "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69"
+  },
+  "situation": "—",
+  "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
+  "breakpoint": "身份回答。",
+  "saga_now": {
+   "p1": "STH 系列",
+   "tier": 30,
+   "price": "按 CENTEC 价表",
+   "why": "用户标重要 + CENTEC 对口",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → afonin@npotelecom.ru",
+   "action": "CENTEC 表 + 身份说明",
+   "one_question": "Mikhail — the CENTEC line (STH-2QX4XF48GP / 8C48DX, VXLAN/EVPN/MPLS) is attached with the 2026 list; which platform are you evaluating for your own range?"
+  },
+  "facts": [
+   {
+    "date": "2026-05-12",
+    "dir": "来",
+    "who": "Mikhail Afonin",
+    "quote": "What city is your factory located in? Do you produce switches based on Microchip and Centec chips?",
+    "why": "尽调",
+    "k": "f954ab2b523be0e6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

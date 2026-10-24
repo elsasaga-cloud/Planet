@@ -33,10 +33,25 @@ updated: 2026-10-24
 - **是谁**：印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：买丰润达的商业PoE 工业FS AOA的  8 PORT ROUTER WIRED）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；$110（2024-09）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-679` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（5 封来信 2024-09 → 2025-01：Ravi 三次问「managed or unmanaged」、要 24V/48V 管理型 → $110 → 问 30V/55V（否）、要 24 口光纤款数据表；无样无单）** ｜ 类型：印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段 ｜ 筛子：3（问价 + 规格） ｜ 停点：管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持 ｜ 复活：不动；若做印度，用非管理 24V/48V 自动款 + 阶梯价 ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9
+- **现状一句话**：—
+- **对方真实需求（有据）**：24V/48V 混供 PoE 管理型。
+- **断点 / 为什么停在这里**：价格段。
+- **Saga 现在该推什么**：P1 **—**（30% 档，$110（2024-09））———
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-09-18 | 来 | Ravi | I need manage switch for 24V/48V POE. | 需求 | `e3fdaaebc77d14ee` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -107,5 +107,38 @@
   "tier": 20,
   "why": "其 HRUI 非管理线已有货源，切口是 PLANET 价位段的 L2+ 管理 PoE：Saga STC-28DGGPM（Marvell）对 GS-4210-8P2S。"
  },
- "email_hook": "You already carry HRUI unmanaged PoE and PLANET managed switches — our Marvell-based 8-PoE + 2-SFP L2+ model sits between the two on price; want a 1-pc sample to list alongside the GS-4210 range?"
+ "email_hook": "You already carry HRUI unmanaged PoE and PLANET managed switches — our Marvell-based 8-PoE + 2-SFP L2+ model sits between the two on price; want a 1-pc sample to list alongside the GS-4210 range?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-11-03「What is the price?」→ 资料已发；无后续）",
+   "type": "越南网络电商（Gmail）",
+   "sieve": "2",
+   "stop": "—",
+   "revive": "不动",
+   "lane": "VN",
+   "cadence": "不动",
+   "evidence": "k=cd4b791c86455683"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

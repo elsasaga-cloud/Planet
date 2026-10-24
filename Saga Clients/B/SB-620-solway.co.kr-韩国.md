@@ -33,10 +33,26 @@ updated: 2026-10-24
 - **是谁**：韩国 Solway（solway.co.kr；表内「bypass」；KP Jinsoo Kim（公司邮箱 + gmail）；官网为防爬验证页）；表内未跟进。（调研 2026-10-21；表内兴趣：bypass）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：bypass 款不在 Saga 列表 → 以 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）；$48.6 USD EXW（25% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — —；按主表
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 补价
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-620` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2026-02-06 Kim/Lee：「Copper Bypass equipment as well? best pricing for both Optic and Copper Bypass」→ Alan：仅光 bypass）** ｜ 类型：韩国网络设备公司（Solway；bypass 需求） ｜ 筛子：2 ｜ 停点：铜 bypass 无 ｜ 复活：若光 bypass 报价已给则等；否则补价 ｜ 通路：KR 次级 ｜ 节奏：一封 ｜ 证据：k=60de5a43f2413966 / ad3c414a423e33cb
+- **现状一句话**：—
+- **对方真实需求（有据）**：光/铜 bypass。
+- **断点 / 为什么停在这里**：产品线。
+- **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表）———
+  - 做不了 / 要先核的：光 bypass 报价是否已给
+- **下一步（具体）**：2026-11　A 邮箱　补价
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-02-06 | 来 | Kim | Could you please provide me with your best pricing for both Optic and Copper Bypass switches? | 要价 | `60de5a43f2413966` |
 
 ## 基本事实（事实/推断/假设分层）
 

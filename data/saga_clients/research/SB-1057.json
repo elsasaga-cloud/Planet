@@ -79,5 +79,38 @@
   "tier": 30,
   "why": "自有标 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Altronics 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Brian, for the PoE switches sold under the Altronics label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in your packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU do your stores reorder most?"
+ "email_hook": "Brian, for the PoE switches sold under the Altronics label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in your packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU do your stores reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达→拒（2026-04-20 Dean「not at this time」）",
+   "type": "澳大利亚电子分销连锁（Altronics；自有标 PoE 现 Hisource）",
+   "sieve": "1",
+   "stop": "明确暂不",
+   "revive": "年度",
+   "lane": "AU",
+   "cadence": "年度",
+   "evidence": "k=f6879c7d612d62b5"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

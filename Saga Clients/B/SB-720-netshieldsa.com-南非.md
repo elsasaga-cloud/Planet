@@ -33,10 +33,22 @@ updated: 2026-10-24
 - **是谁**：南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：MC SFP 工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-26 → 2025-11-05）
-- **P1（下一步唯一主推）**：STI-280GE — 深挖对位：Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供；$50.5 USD EXW（30% 档，SmartByte LT-IS3010G-2GX8GT 260 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **第一问（只问一个）**：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-12 A 邮箱 → inus@netshieldsa.com 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-720` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续）** ｜ 类型：南非自有品牌网络/电源商（Netshield） ｜ 筛子：2 ｜ 停点：价表后无回 ｜ 复活：一句话 ｜ 通路：ZA ｜ 节奏：一封 ｜ 证据：k=e0c4b6cd7947d58e
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：2026-12　A 邮箱 → inus@netshieldsa.com　一句话
+  - 第一问（只问一个）：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?
 
 ## 基本事实（事实/推断/假设分层）
 

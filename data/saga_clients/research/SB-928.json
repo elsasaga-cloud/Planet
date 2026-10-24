@@ -125,5 +125,49 @@
   "tier": 30,
   "why": "Syrotech 工业 FS 线替换 / 补充 → STI-288GPM（管理型 2 SFP + 8 PoE，$85.5 @30%）贴 Syrotech 标；非管理 STI-288GP；商用 PoE STC-28DGGPM。"
  },
- "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?"
+ "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）",
+   "type": "印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商",
+   "sieve": "2",
+   "stop": "转 WhatsApp 后仓库失明",
+   "revive": "不动（印度非主攻）",
+   "lane": "IN 非主攻",
+   "cadence": "不动",
+   "evidence": "k=dd23844381a28569"
+  },
+  "situation": "—",
+  "need": "8 口 2.5G + 10G 上联。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "WhatsApp 是否有后续"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-10-24",
+    "dir": "来",
+    "who": "Pankaj Sodhi",
+    "quote": "Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect.",
+    "why": "要价 + 转 WA",
+    "k": "dd23844381a28569"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

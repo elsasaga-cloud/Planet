@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：格鲁吉亚第比利斯分销商 Intellcom Group（官网格鲁吉亚语：供电 / 安防系统 / LAN & WAN / 光网络 / 音视频 / 存储；站内 MikroTik CSS610-8P-2S、Ubiquiti、Uniview；PoE 词频 816；表内「MC、Switch 等」，KP Ekvtime Kheredinashvili（Head of Product Management）+ Samson Khaduri（Head of Procurement），有 1 次回复）。（调研 2026-10-21；表内兴趣：MC Switch等）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-06-12 → 2025-06-12）；最近一次客户回复：2025-06-12：有啥事?
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 MikroTik CSS610-8P-2S（8 PoE + 2 SFP）→ 同口型 STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE；A 候选（具名产品与采购负责人 + 已回复）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-265` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2025-06-12 工单客服「How can i help you?」→ Alan 一句推荐；无后续）** ｜ 类型：格鲁吉亚 IT/安防分销（Intellcom） ｜ 筛子：1 ｜ 停点：客服 ｜ 复活：不动 ｜ 通路：GE ｜ 节奏：不动 ｜ 证据：k=d0ac14f05dc4281e
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

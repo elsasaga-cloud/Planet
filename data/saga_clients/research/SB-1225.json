@@ -65,5 +65,38 @@
   "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
  },
  "email_hook": "For the Utepo-type PoE switch positions in your security installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?",
- "site_mismatch": true
+ "site_mismatch": true,
+ "mail_review": {
+  "binding": {
+   "level": "未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）",
+   "type": "卡塔尔安防集成（Tamyeez；Utepo 在用）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "QA",
+   "cadence": "不动",
+   "evidence": "digest noise（odoo.com）"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

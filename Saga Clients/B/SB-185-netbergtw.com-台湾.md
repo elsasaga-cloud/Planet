@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：台湾 netberg（数据中心以太网交换机 / 全可编程交换机 / 开放 NOS / 定制网络方案，Broadcom BCM56870/56771 平台；表内「BDM 方案，再看看聊天记录；基本都是数据中心交换机；Marvell BDM 芯片都有」，**已回复**，「邮件中有详细的联系信息」；KP Alexander Ustyuzhanin（Director，au@））；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：BDM方案 再看看聊天记录；基本都是数据中心交换机 Marvell BDM芯片都有）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-05-20 → 2025-05-20）；最近一次客户回复：2025-05-20：BDM芯片
-- **P1（下一步唯一主推）**：STC-424XGGM — 深挖对位：主业 DC 白盒（Saga 不做）→ 仅园区接入补位：24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、PoE 版 STC-424XGGPM-280W；BDM 方案讨论见 Gmail 线程（待导出核对）；$138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-185` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2025-05-20 Alex（Netberg）两封：「great cooperation potential… Trident3/4, SONiC」→「you are limited to Marvell… explore Broadcom」）** ｜ 类型：台湾数据中心白盒交换机厂商（Netberg）——同行，非买家 ｜ 筛子：1 ｜ 停点：对方是卖方 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=4db5b4b28bbd3946 / b2fdeceac0796384
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -76,5 +76,40 @@
   "tier": 30,
   "why": "其询价对象为 400G / 相干模块（规格外）；接入交换机 ODM 需原厂层面（30% 口径），暂无主推型。"
  },
- "email_hook": "（不主动发送；若其采购询接入层 ODM 再转 SmartByte 原厂）"
+ "email_hook": "（不主动发送；若其采购询接入层 ODM 再转 SmartByte 原厂）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-10-01 sales@nag.ru 回「? ?」→ Alan 复述；无后续）",
+   "type": "俄罗斯网络分销巨头（НАГ / NAG，叶卡捷琳堡）——自有 SNR 品牌，体量大",
+   "sieve": "1",
+   "stop": "sales@ 不是对口；NAG 有自有品牌 SNR（中国 ODM 体系成熟）",
+   "revive": "若做俄罗斯：找 SNR 产品经理",
+   "lane": "RU（点名）",
+   "cadence": "不动",
+   "evidence": "k=79823d7c4b89ed10"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "SNR 产品经理邮箱"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

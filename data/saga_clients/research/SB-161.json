@@ -80,5 +80,47 @@
   "tier": 30,
   "why": "自有 logo 商用 FS（现 Volktek 台湾）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作二供；24 口 STC-424DGGPM-280W（$145.7）"
  },
- "email_hook": "Peter, for the PoE switches you sell under your own label, we can be a second source alongside your Taiwanese supplier — Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which model do your resellers reorder most?"
+ "email_hook": "Peter, for the PoE switches you sell under your own label, we can be a second source alongside your Taiwanese supplier — Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models in your packaging from small lots, CE/RoHS; KC by your side — which model do your resellers reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）",
+   "type": "韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商",
+   "sieve": "2（两次要资料/价格）",
+   "stop": "Saga 欠价：CENTEC 2026Q2 价表在库（U29）",
+   "revive": "补发 Q2 价表",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46"
+  },
+  "situation": "—",
+  "need": "CENTEC 核心/汇聚 + 商用 FS 贴标。",
+  "breakpoint": "Saga 未补价。",
+  "saga_now": {
+   "p1": "STH 系列 + STC-424XGGPM",
+   "tier": 30,
+   "price": "按 2026Q2 CENTEC 价表",
+   "why": "品牌商 + 主动要价",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "A 邮箱 → jryoun74@hcin4.com",
+   "action": "补价",
+   "one_question": "Peter — the 2026 CENTEC list is final (attached); for the Volktek-class access range we can also quote the 24-port 10G-uplink L2+ under your label."
+  },
+  "facts": [
+   {
+    "date": "2026-01-16",
+    "dir": "来",
+    "who": "Peter (jryoun74)",
+    "quote": "thank you for informations~ please give about price~",
+    "why": "要价",
+    "k": "edd3336a251448b6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

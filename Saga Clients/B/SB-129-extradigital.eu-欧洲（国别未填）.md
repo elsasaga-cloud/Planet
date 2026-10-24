@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。（调研 2026-10-21；表内兴趣：PoE switch 工业FS等）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 11 次（2024-05-17 → 2025-11-07）；最近一次客户回复：2024-08-13：后续不用跟了
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-129` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达→明确拒（2024-08-13 Austėja 三封：「If your products made in China we are not interested」「nobody anymore want a China products for security due to regulations」「We have our brand which Chinese making, but we looking for… new from Europe」）** ｜ 类型：立陶宛安防电商（Eurodigital / ExtraDigital；卖 Dahua/Hikvision） ｜ 筛子：1 ｜ 停点：欧盟安防「去中国化」市场信号——值得记入概念层 ｜ 复活：不动 ｜ 通路：LT ｜ 节奏：不动 ｜ 证据：k=6b922fcb12a900af / 94cc7dd92c05aaa7 / 51990c10603c5511
+- **现状一句话**：明确的拒绝，也是明确的市场信号：波罗的海安防渠道对中国产品的监管顾虑。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：原产地。
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-08-13 | 来 | Austėja Matulaitytė | in Lithuania and Europe nobody anymore want a China products for security due to regulations | 市场信号 | `94cc7dd92c05aaa7` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：台湾鑫志科技 AirLive Technology（网络品牌：Wi-Fi 6 Mesh / 管理交换机 / 5G / XGPON；站内工业 PoE 型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2，PoE 词频 481、2.5G 171、10G 135；表内「工业 FS / MC / SFP，自己的牌子」；KP John Lai（john.lai@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-01-02 → 2025-10-23）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：自有品牌工业 PoE（IGM-1082BT-2 = 8 PoE++ + 2 SFP）→ 工业 L2+ 8 PoE + 2×2.5G SFP STI-288DGGPM（$151.6 @30%）/ -2BT 版（$171.0）；多千兆位 Saga 无 2.5G 全端口标准型；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1054` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2024-01-02 John Lai「Whats your company url? Is those CE certificate?」→ Simon「new trading company, website under construction」）** ｜ 类型：台湾网络品牌商（AirLive） ｜ 筛子：1 ｜ 停点：2024 年初 Saga 刚起步时的尽调 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=455bebcee9e0b0b7
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

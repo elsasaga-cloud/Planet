@@ -39,5 +39,38 @@
   "why": "分销商 → 20% 档；走量口型 24 口 PoE"
  },
  "grade_override": "B",
- "override_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）"
+ "override_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（4 封：2 封 Switchcom 工单 + Kevin 2024-12 反向发来 Switchcom 报价单（把 Saga 当买家）+ elberts@firsttech 2024-08「cannot receive samples」）",
+   "type": "南非网络分销（Switchcom）",
+   "sieve": "1",
+   "stop": "角色错位：对方在卖",
+   "revive": "不动",
+   "lane": "ZA",
+   "cadence": "不动",
+   "evidence": "k=a7d9a3952458bd64 / 40e70b0706c53fbb"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

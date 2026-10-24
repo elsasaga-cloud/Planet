@@ -55,5 +55,40 @@
   "tier": 20,
   "why": "平台 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
  },
- "email_hook": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform?"
+ "email_hook": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封退信：store@ 已废弃 → cs@ubwh.com.au）",
+   "type": "澳大利亚多品牌网店（UBWH）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "改发 cs@ubwh.com.au",
+   "lane": "AU",
+   "cadence": "2026-12",
+   "evidence": "k=38270940dcccfc56"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "具名联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "A 邮箱 → cs@ubwh.com.au",
+   "action": "换地址",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

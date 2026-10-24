@@ -84,5 +84,47 @@
   "tier": 30,
   "why": "现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做"
  },
- "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?"
+ "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（5 封来信 2024-09 → 2025-01：Ravi 三次问「managed or unmanaged」、要 24V/48V 管理型 → $110 → 问 30V/55V（否）、要 24 口光纤款数据表；无样无单）",
+   "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
+   "sieve": "3（问价 + 规格）",
+   "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
+   "revive": "不动；若做印度，用非管理 24V/48V 自动款 + 阶梯价",
+   "lane": "IN 非主攻",
+   "cadence": "不动",
+   "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9"
+  },
+  "situation": "—",
+  "need": "24V/48V 混供 PoE 管理型。",
+  "breakpoint": "价格段。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "$110（2024-09）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-09-18",
+    "dir": "来",
+    "who": "Ravi",
+    "quote": "I need manage switch for 24V/48V POE.",
+    "why": "需求",
+    "k": "e3fdaaebc77d14ee"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

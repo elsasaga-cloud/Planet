@@ -60,5 +60,38 @@
   "why": "需求光猫不在 Saga 范围；主体待核，无主推型。"
  },
  "email_hook": "（待核主体；不主动发送）",
- "site_mismatch": true
+ "site_mismatch": true,
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封休假自动回复；域名为北美 POS 公司，印度联系人待核）",
+   "type": "Infonet（身份待核）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "IN",
+   "cadence": "不动",
+   "evidence": "k=99e379fd60d7c1aa"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

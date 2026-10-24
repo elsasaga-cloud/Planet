@@ -70,5 +70,49 @@
   "tier": 25,
   "why": "bypass 款不在 Saga 列表 → 以 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）"
  },
- "email_hook": "Jinsoo, following your interest in bypass switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD; KC by your side — which ports need to be bypassed on power failure, copper or fibre?"
+ "email_hook": "Jinsoo, following your interest in bypass switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD; KC by your side — which ports need to be bypassed on power failure, copper or fibre?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-02-06 Kim/Lee：「Copper Bypass equipment as well? best pricing for both Optic and Copper Bypass」→ Alan：仅光 bypass）",
+   "type": "韩国网络设备公司（Solway；bypass 需求）",
+   "sieve": "2",
+   "stop": "铜 bypass 无",
+   "revive": "若光 bypass 报价已给则等；否则补价",
+   "lane": "KR 次级",
+   "cadence": "一封",
+   "evidence": "k=60de5a43f2413966 / ad3c414a423e33cb"
+  },
+  "situation": "—",
+  "need": "光/铜 bypass。",
+  "breakpoint": "产品线。",
+  "saga_now": {
+   "p1": "光 bypass 管理型",
+   "tier": 25,
+   "price": "按主表",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "光 bypass 报价是否已给"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱",
+   "action": "补价",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-02-06",
+    "dir": "来",
+    "who": "Kim",
+    "quote": "Could you please provide me with your best pricing for both Optic and Copper Bypass switches?",
+    "why": "要价",
+    "k": "60de5a43f2413966"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

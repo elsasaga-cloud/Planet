@@ -79,5 +79,47 @@
   "tier": 20,
   "why": "电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
  },
- "email_hook": "For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?"
+ "email_hook": "For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达→明确拒（2024-08-13 Austėja 三封：「If your products made in China we are not interested」「nobody anymore want a China products for security due to regulations」「We have our brand which Chinese making, but we looking for… new from Europe」）",
+   "type": "立陶宛安防电商（Eurodigital / ExtraDigital；卖 Dahua/Hikvision）",
+   "sieve": "1",
+   "stop": "欧盟安防「去中国化」市场信号——值得记入概念层",
+   "revive": "不动",
+   "lane": "LT",
+   "cadence": "不动",
+   "evidence": "k=6b922fcb12a900af / 94cc7dd92c05aaa7 / 51990c10603c5511"
+  },
+  "situation": "明确的拒绝，也是明确的市场信号：波罗的海安防渠道对中国产品的监管顾虑。",
+  "need": "—",
+  "breakpoint": "原产地。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-08-13",
+    "dir": "来",
+    "who": "Austėja Matulaitytė",
+    "quote": "in Lithuania and Europe nobody anymore want a China products for security due to regulations",
+    "why": "市场信号",
+    "k": "94cc7dd92c05aaa7"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

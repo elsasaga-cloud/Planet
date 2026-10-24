@@ -102,5 +102,49 @@
   "tier": 30,
   "why": "其缺交换机线、有 OEM 能力 → 以 SKEO 贴牌 8 PoE + 2 SFP 管理机（STC-28DGGPM）切入，OEM 30% 档；工业线 STI-288GP 备选。"
  },
- "email_hook": "Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?"
+ "email_hook": "Николай, в 2024 вы сказали, что 8-портовые коммутаторы интересны — у SKEO нет собственной линейки коммутаторов; мы делаем 8×PoE + 2×SFP (L2+, Marvell) под вашим брендом с MOQ от 1 шт. Прислать спецификацию и цену EXW?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-09-06 Nikolay 两封：「can you send it to the test」→「price? how to send?」→ $33 STI-080GE + 运输说明；之后无回；2026-04 群发无回）",
+   "type": "俄罗斯工业/系统公司（СКЕО）",
+   "sieve": "3（要样 + 问价）",
+   "stop": "付样 + 对俄物流（百运网不走俄？）后无回",
+   "revive": "不动",
+   "lane": "RU（Simon 点名「一些俄罗斯客户」）",
+   "cadence": "不动",
+   "evidence": "k=46b6696538cc7288 / 01bcd6732964d044 / 8884a81a60ecbdb4"
+  },
+  "situation": "—",
+  "need": "8 口工业非管理。",
+  "breakpoint": "物流/付款。",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 20,
+   "price": "$33（2024-09）",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "对俄付款/物流通道"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-09-06",
+    "dir": "来",
+    "who": "Nikolay",
+    "quote": "What is the price for them? And how do you want to send them to us?",
+    "why": "要样问价",
+    "k": "01bcd6732964d044"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

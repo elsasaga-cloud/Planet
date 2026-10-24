@@ -80,5 +80,38 @@
   "tier": 30,
   "why": "自有 Optimus 标商用 PoE（现丰润达）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；SFP/PoE 配件 Saga 不供"
  },
- "email_hook": "Alina, for the Optimus-branded PoE switches bundled with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?"
+ "email_hook": "Alina, for the Optimus-branded PoE switches bundled with your cameras and recorders, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复；现丰润达 → Q-33 口径）",
+   "type": "俄罗斯 CCTV 品牌商（Optimus）",
+   "sieve": "0",
+   "stop": "Q-33",
+   "revive": "不动",
+   "lane": "RU",
+   "cadence": "不动",
+   "evidence": "k=6dc1a9f9ab0559b1 / 45ade38e74eaddb0"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

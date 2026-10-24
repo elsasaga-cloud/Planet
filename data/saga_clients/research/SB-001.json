@@ -66,5 +66,38 @@
   "tier": 30,
   "why": "摄像机配套 8 PoE + 2 SFP 管理机贴 LILIN 标（OEM 30%）；工业款 STI-288GP、MC STI-110GE 同步贴牌。"
  },
- "email_hook": "Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up."
+ "email_hook": "Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-02-20 Gina「which country are you from? I will forward to the responsible sales」—— 把 Saga 当客户）",
+   "type": "台湾安防品牌商（Merit LILIN）",
+   "sieve": "1",
+   "stop": "错位",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=ed575542f470023e"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

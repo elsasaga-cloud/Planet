@@ -35,28 +35,26 @@ updated: 2026-10-24
 - **是谁**：巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。（调研 2026-10-22；表内兴趣：接入/汇聚交换机 + 路由器 RFQ（客户规格以华为型号为参照，要求做技术符合性声明）；称项目在管线、想长期合作）
 - **为什么是 B 级**：**调研后定级 B**（具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-22）**：STC-424XGGPM-280W — 项目集成商 → 25% 档；接入层两款正好对上他的 ① ②（AC5 L2+ 规格书列 802.1X、IP source guard、ARP-check、DHCP snooping、SSHv2/HTTPS/SNMPv3）；汇聚 ③ 需 L3 OSPF——用 L3 款另议；$188.7 USD EXW（CNY 1010 ×1.25）；48 口 STC-448XGGPM $349.4；汇聚 48×SFP+4×10G L3 用 SmartByte 型号报价并标注
-- **第一问（只问一个）**：Is the access/aggregation project from your March 2024 RFQ still live (or a similar one in the pipeline), and roughly how many 24/48-port PoE units does it need?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC/STH 按规格 — —；—
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：本周（Simon 从 S 邮箱发） S 邮箱回 2024-03-09 原件（Re: RFQ Switches） 按下稿发重开门短信；若对方回复项目仍在，再按 ①②③ 逐条出符合性表
+- **下一步**：2026-11 S 邮箱 → hassancheema@litech.com.pk 一封
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-22）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1338` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-22。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1338` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **现状一句话**：伊斯兰堡 Litech（华为渠道集成商，BD 经理 Hassan Ijaz Cheema）2024-03-09 主动发 RFQ：《Access and aggregation switches specs.docx》+ 路由器规格，要求技术符合性声明，并写明「number of projects in pipeline, want long business partnership」。**S 邮箱内无任何回复**（T29-U11 Simon 裁定：重开）。
-- **对方真实需求（有据）**：规格以华为为参照：① 24 口 GE PoE+ + SFP 接入机（S5735-L24P4S 级）；② 48 口 GE PoE+ 370W + 4 SFP（S5735-L48P4S 级）；③ 汇聚 48×1G SFP + 4×10G SFP+、支持 OSPF/RIP（S5736-S48S4X 级）；④ 1000Base-LX SFP；⑤ AR6300 路由器。功能要求：802.1X / RADIUS CoA、Port Security、DAI、IP Source Guard、DHCP snooping、SSHv2/HTTPS/SNMPv3。
-- **断点 / 为什么停在这里**：2024-03 没人回（可能微信/其他渠道回过，Simon 未确认）；2.5 年后项目是否还在不知道。路由器不做；汇聚 48×SFP 商用款价格主表没有标准条目。
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$188.7 USD EXW（CNY 1010 ×1.25）；48 口 STC-448XGGPM $349.4；汇聚 48×SFP+4×10G L3 用 SmartByte 型号报价并标注）——项目集成商 → 25% 档；接入层两款正好对上他的 ① ②（AC5 L2+ 规格书列 802.1X、IP source guard、ARP-check、DHCP snooping、SSHv2/HTTPS/SNMPv3）；汇聚 ③ 需 L3 OSPF——用 L3 款另议
-  - 做不了 / 要先核的：RADIUS CoA / Flexible Authentication、DAI（SmartByte 叫 ARP-check）逐条符合性要向 SmartByte 核；48×SFP + 4×10G 商用 L3 汇聚：价格主表无条目，需向 SmartByte 询 LT-S85xx 48 光口 L3 价格；守界：若终端是政府/军队/运营商标的，先问清收货主体与最终用户再报价；路由器（AR6300 级）：不做，明说
-- **下一步（具体）**：本周（Simon 从 S 邮箱发）　S 邮箱回 2024-03-09 原件（Re: RFQ Switches）　按下稿发重开门短信；若对方回复项目仍在，再按 ①②③ 逐条出符合性表
-  - 第一问（只问一个）：Is the access/aggregation project from your March 2024 RFQ still live (or a similar one in the pipeline), and roughly how many 24/48-port PoE units does it need?
+- **绑定等级：轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录）** ｜ 类型：巴基斯坦系统集成/项目承包（Litech；华为渠道） ｜ 筛子：2（RFQ 来了没回） ｜ 停点：Saga 未回（或在别的渠道回了） ｜ 复活：研究档已记：先确认是否回过；若没有，一封「当年没接上」短信（只交换机，守界公共/运营商项目） ｜ 通路：PK ｜ 节奏：一封 ｜ 证据：k=7203d72a927b7030
+- **现状一句话**：—
+- **对方真实需求（有据）**：接入/汇聚交换机 + 路由器（路由器不做）。
+- **断点 / 为什么停在这里**：未回。
+- **Saga 现在该推什么**：P1 **STC/STH 按规格**（25% 档，—）———
+  - 做不了 / 要先核的：是否在 WhatsApp 回过
+- **下一步（具体）**：2026-11　S 邮箱 → hassancheema@litech.com.pk　一封
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024-03-09 | 来 | Hassan Ijaz Cheema, Manager BD | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects in pipeline, want long business partnership | 主动来询 + 长期合作意向；S 邮箱无回复 | `7203d72a927b7030` |
-
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Simon 当年是否在微信/其他邮箱回过（T29-U11 决定不等确认直接重开）
+| 2024-03-09 | 来 | Hassan Cheema | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement. | RFQ | `7203d72a927b7030` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -199,28 +197,7 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: RFQ Switches - picking this up (access / aggregation switches only)
-
-```text
-Hi Hassan,
-
-Your RFQ from March 2024 (access and aggregation switches referenced to Huawei S5735 / S5736) did not get the answer it deserved from our side, and I would like to pick it up properly now - for the switch part only; we do not offer routers.
-
-What we can quote today, with a line-by-line compliance statement:
-- 24 x Gigabit PoE+ (802.3at, 280 W) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Marvell AC5): 802.1X, port security, DHCP snooping, IP source guard, ARP inspection, SSHv2 / HTTPS / SNMPv3 - about USD 189 EXW per unit (snapshot 2026-10-22, valid 15 days).
-- 48 x Gigabit PoE+ (440 W) + 4 x SFP+, same feature set - about USD 349 EXW.
-- 48 x 1G SFP + 4 x 10G SFP+ L3 aggregation (OSPF / RIP) - on request.
-Neutral or your own branding, CE / RoHS / FCC, 10-15 days lead time.
-
-One question: is the project from that RFQ (or a similar one in your pipeline) still live, and roughly how many 24/48-port PoE units does it need?
-
-Best regards,
-Simon
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

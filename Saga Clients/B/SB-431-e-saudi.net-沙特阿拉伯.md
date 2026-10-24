@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1 A 邮箱 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-431` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（10 封来信、2024-02 → 2025-04，全是 Saeed 的「分享给团队/工程部，稍后回复」；2024-07 反向 RFQ Tofino 工业路由器替代（Saga 无）；2024-10「we need a sample and datasheet」→ Simon「sample NOT free $50」后无付款；2025-04 要 List price → 已给）** ｜ 类型：沙特 IT/网络贸易商（e-Saudi；Saeed = 商务/运营经理）——第三档贸易商，礼貌型回复者 ｜ 筛子：3（要样 + 要价表，均未成交） ｜ 停点：付费样品 $50 这道筛没过；每次都是「分享给团队」——无决策权或无真实项目 ｜ 复活：不再群发；半年一句话问「团队评审结果」 ｜ 通路：SA 非主攻 ｜ 节奏：半年 ｜ 证据：k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）
+- **现状一句话**：十封回信没有一封是决定。
+- **对方真实需求（有据）**：不明确（CCTV PoE / 工业路由替代）。
+- **断点 / 为什么停在这里**：付费样品。
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：2027-Q1　A 邮箱　一句话
+  - 第一问（只问一个）：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-10-15 | 来 | Saeed | Yes indeed we need a sample and datasheet if you can provide us. | 要样 | `bad9a4f3d0798ce2` |
+| 2024-10-15 | 去 | Simon | The sample is NOT free. 50usd/pc | 付样筛 | `600c9221602d0b9d` |
 
 ## 基本事实（事实/推断/假设分层）
 
