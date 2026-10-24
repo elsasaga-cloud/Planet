@@ -1,4 +1,16 @@
-# SB-998 riverplus.com · youtube · https://www.youtube.com/c/RiverplusChannelTH · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCVaYn99Q6DLKlXAIPCuq1cQ was not found on this server. That’s all we know.
+# SB-998 riverplus.com · youtube · https://www.youtube.com/c/RiverplusChannelTH · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-18T04:08:31+00:00	BrightSign — ให้ทุกหน้าจอ พร้อมสื่อสาร	https://www.youtube.com/shorts/hqa_9Tx6wmk
+2026-09-14T03:24:21+00:00	ตรวจสอบสิ่งแปลกปลอมในบรรจุภัณฑ์ | Machine Vision Solution	https://www.youtube.com/shorts/8QsSUBRAeuA
+2026-09-14T03:20:03+00:00	ตรวจสอบสิ่งแปลกปลอมในบรรจุภัณฑ์ | Machine Vision Solution	https://www.youtube.com/watch?v=FN_sbh2B7Mg
+2026-08-27T03:13:46+00:00	ตรวจสอบการติดฉลากบนผลิตภัณฑ์ | Machine Vision Solution	https://www.youtube.com/shorts/33BL0lyMBTk
+2026-08-27T02:59:24+00:00	ตรวจสอบการติดฉลากบนผลิตภัณฑ์ | Machine Vision Solution	https://www.youtube.com/watch?v=IYWbiq9uXao
+2026-08-27T02:20:31+00:00	วิธีส่งข้อมูล Sensors จาก Gateway ไปยัง Server ผ่าน MQTT Protocol | Milesight LoRaWAN	https://www.youtube.com/watch?v=vA4Il0ETFVA
+2026-08-13T04:07:11+00:00	Date Code Inspection Machine | ตรวจสอบ Date Code วันที่ผลิต–วันหมดอายุ ของผลิตภัณฑ์	https://www.youtube.com/shorts/fnNx-8OVqec
+2026-08-13T04:03:47+00:00	Date Code Inspection Machine | ตรวจสอบ Date Code วันที่ผลิต–วันหมดอายุ ของผลิตภัณฑ์	https://www.youtube.com/watch?v=VI95GZU3Iok
+2026-08-10T02:14:41+00:00	วิธีการส่งค่า Sensors ผ่าน MQTT PROTOCOL | Teltonika	https://www.youtube.com/watch?v=3DzBKQ1J75g
+2026-08-07T03:12:32+00:00	C100 Series | AMR สำหรับคลังสินค้าอัตโนมัติ | Under-Ride Lifting	https://www.youtube.com/watch?v=alyOYPuTKNA
+2026-07-27T06:39:41+00:00	จัด 500 ออเดอร์/วัน คนแค่ 3 คน — ทำยังไง (AMR)	https://www.youtube.com/shorts/nH7vjHsWwac
+2026-07-27T06:38:31+00:00	จัด 500 ออเดอร์/วัน คนแค่ 3 คน — ทำยังไง (AMR)	https://www.youtube.com/watch?v=3C4Gg5JHl9A
+2026-07-17T11:01:11+00:00	วิธีการใช้งาน RMS VPN | Teltonika	https://www.youtube.com/watch?v=VjL_gYAZAGw
+2026-07-08T06:24:14+00:00	AiTRON Panel PC | Industrial Design Showcase	https://www.youtube.com/shorts/fBEMD5E9upA
+2026-07-08T03:05:32+00:00	AiTRON Panel PC | Industrial Design Showcase	https://www.youtube.com/watch?v=cNKJSjvuoZg

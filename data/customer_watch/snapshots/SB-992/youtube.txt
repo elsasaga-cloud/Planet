@@ -1,4 +1,15 @@
-# SB-992 netsolutionstore.com.au · youtube · https://www.youtube.com/c/VirtualgraffitiAU · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCOqrb2g4Uzitktmo8UUSU4g was not found on this server. That’s all we know.
+# SB-992 netsolutionstore.com.au · youtube · https://www.youtube.com/c/VirtualgraffitiAU · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-08-20T02:51:57+00:00	The Autonomy Problem: Rethinking Identity, Risk and Control in an AI-Driven Threat Landscape 190826	https://www.youtube.com/watch?v=bBRgjZ6xTKg
+2025-11-12T07:08:35+00:00	Fireside Chat with Mark Cravotta of CoreView and Thad Legg of Virtual Graffiti	https://www.youtube.com/watch?v=NSb5ZrDNWMA
+2025-10-31T02:47:43+00:00	Rethinking Recovery: Build a Comprehensive Data Protection Strategy 291025	https://www.youtube.com/watch?v=IGFyaoUc458
+2025-09-24T04:37:55+00:00	The Role of AI in Strengthening Cybersecurity with Sophos 230925	https://www.youtube.com/watch?v=j1C0hQjEG2A
+2025-09-03T04:02:45+00:00	Big or Small: Securing Your Network Infrastructure 020925	https://www.youtube.com/watch?v=8bUYk0DIrak
+2025-07-24T02:52:32+00:00	Become a Master of Disaster Recovery: Learn How to Safeguard Your Data and IT Systems with N-Able	https://www.youtube.com/watch?v=uaLXWRGd4Tg
+2025-07-01T02:56:31+00:00	The Cybersecurity Gap: Real-World Threats, Limited Resources, Smarter Defenses Webinar 260625	https://www.youtube.com/watch?v=c_Ixl0E_-1U
+2025-05-09T01:57:21+00:00	Aligning MFA and ISM with the Essential8 Webinar 250325	https://www.youtube.com/watch?v=G3gAUsPAsSs
+2025-04-30T06:49:31+00:00	Navigating the Transition from Point Products to Integrated Cybersecurity Platforms Webinar 300425	https://www.youtube.com/watch?v=SC2fniuEQGw
+2023-07-18T02:22:00+00:00	Why Microsoft is Your Solution for Application Patching Macro Settings & User Application Hardening	https://www.youtube.com/watch?v=3wsuE9gvs3k
+2023-06-27T03:52:15+00:00	Airlock Digital Allowlisting vs Application Blocking in Firewalls	https://www.youtube.com/watch?v=Oep3G6eqBug
+2023-06-21T22:00:11+00:00	RSA Security - Changes to MFA with BYOD in the Essential 8	https://www.youtube.com/watch?v=ECJMpEtc_KU
+2023-05-02T07:45:54+00:00	SmartEncrypt - Understanding the Importance of File level Encryption in Protecting Your Data	https://www.youtube.com/watch?v=847LxyMhYkY
+2023-03-22T02:05:55+00:00	Why you should be looking at File and Folder Level Encryption	https://www.youtube.com/watch?v=S292Ex53FPM

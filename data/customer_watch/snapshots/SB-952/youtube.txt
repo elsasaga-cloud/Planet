@@ -1,4 +1,16 @@
-# SB-952 qualicam.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCwyKwjrqSd6aLsbpppwom_Q · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCwyKwjrqSd6aLsbpppwom_Q was not found on this server. That’s all we know.
+# SB-952 qualicam.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCwyKwjrqSd6aLsbpppwom_Q · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-07-09T14:28:45+00:00	Einbrecher aktiv mit einer QC-HouseGuard Reizgasanlage abwehren!	https://www.youtube.com/watch?v=gcNm6Z1PaBw
+2025-07-09T10:54:52+00:00	Reizgasauslösung einer QC-HouseGuard Reizgasanlage	https://www.youtube.com/shorts/kftrrWcXEDM
+2020-03-03T10:10:45+00:00	3D Holo-Display als EyeCatcher	https://www.youtube.com/watch?v=zb8bCfaDem0
+2020-01-23T14:02:28+00:00	Smart 3D Hologramm Display 1080p	https://www.youtube.com/watch?v=ft-r1lyzO-M
+2019-03-07T12:39:27+00:00	simulierte Reizgasauslösung vom QC-HouseGuard QC-402W	https://www.youtube.com/watch?v=IYyvmNdT4a0
+2018-11-15T09:25:44+00:00	Alarmanlage QC-AlarmGuard11	https://www.youtube.com/watch?v=x8D23FK_XCY
+2017-11-15T11:37:42+00:00	Milesight PTZ Steuerung mit der Maus	https://www.youtube.com/watch?v=UqEI0e7ZJw8
+2017-11-15T10:36:25+00:00	Milesight IP PTZ-Kamera Presets und Tour einstellen	https://www.youtube.com/watch?v=7vDcRhn9aIo
+2017-11-15T08:51:28+00:00	Milesight Smart Motion Detection	https://www.youtube.com/watch?v=D-FDC6bbKbE
+2017-10-27T10:44:41+00:00	Milesight Mini PTZ Bullet IP Kamera Weiße Alarm-LED	https://www.youtube.com/watch?v=yKDozgtzKRg
+2017-08-16T09:21:37+00:00	Reizgasauslösung QC-HouseGuard Raumschutz-System	https://www.youtube.com/watch?v=O1O3iTkxzzQ
+2017-08-14T09:36:33+00:00	SmartHome IP-Kamera in der App V380 einbinden	https://www.youtube.com/watch?v=ixEKBWlRudk
+2017-07-28T09:37:02+00:00	PTZ-Funktion der 180° Outdoor Fisheye Kamera	https://www.youtube.com/watch?v=OYTe1nsEAnI
+2017-07-27T14:40:44+00:00	Smarthomekamera 360° Funktionen der App JASBOOM	https://www.youtube.com/watch?v=snrbKahRF7o
+2017-07-27T12:47:20+00:00	180° Fisheye Outdoor Kamera mit der App JASBOOM	https://www.youtube.com/watch?v=tuk-kscyymY

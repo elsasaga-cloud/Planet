@@ -1,4 +1,4 @@
-# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-210 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,41 +41,41 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Seagate HDD Exos 7E10, 3.5", 10TB, 512n, SATA
-10 401 Kč bez DPH
-12 585 Kč s DPH
-Triton 19" stojanový rack 37U/600x800 prosklené dveře, šedý
-12 010 Kč bez DPH
-14 532 Kč s DPH
-Teltonika RUTC54 Průmyslový 5G Wi-Fi 6 Router, GPS, eSIM
-17 361 Kč bez DPH
-21 007 Kč s DPH
-Ubiquiti USL-Smoke, UniFi Protect detektor kouře a CO
-1 908 Kč bez DPH
-2 309 Kč s DPH
-AXAGON BUCM2-CM25AB, USB-C napájecí kabel, 240W PD, 2.5m
-208 Kč bez DPH
-252 Kč s DPH
-Conexpro Gigabitový PoE konvertor, 802.3af/at na 24V, 24W
-260 Kč bez DPH
-314 Kč s DPH
-Hikvision AX PRO DS-PWA64-KIT-WE, Kit bezdrátové ústředny pro 64 zón, PIR, magnetu a klíčenky
-Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
-1 689 Kč bez DPH
-2 044 Kč s DPH
-Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
-TP-Link Tapo RVA420, Deodorizační modul pro robotický vysavač Tapo
-804 Kč bez DPH
-973 Kč s DPH
-Ubiquiti UX7, UniFi Express 7, 3 pack
-14 013 Kč bez DPH
-16 955 Kč s DPH
-Ubiquiti Venkovní singlemode simplex optický patch cord SC APC/SC APC, 1m
-219 Kč bez DPH
-265 Kč s DPH
-Teltonika Security CAS6, Plastový kryt s pojistkou transformátoru a tamperem
-1 123 Kč bez DPH
-1 359 Kč s DPH
+Hikvision AX PRO Bezdrátová dálkově ovládané vysokonapěťové relé
+Ubiquiti UTR-LR, UniFi Travel Router Long Range
+2 178 Kč bez DPH
+2 635 Kč s DPH
+Samsung T7 Micro SDXC 128GB
+825 Kč bez DPH
+999 Kč s DPH
+MEAN WELL XDR-240E-12 Průmyslový zdroj na DIN lištu, 240W, 12V
+1 135 Kč bez DPH
+1 373 Kč s DPH
+Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
+195 Kč bez DPH
+236 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2143G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 50 pack
+2 149 Kč bez DPH
+2 600 Kč s DPH
+Ubiquiti Venkovní singlemode simplex optický patch cord SC APC/SC APC, 5m
+280 Kč bez DPH
+339 Kč s DPH
+MERCUSYS MD210 Video zvonek
+1 324 Kč bez DPH
+1 602 Kč s DPH
+Hikvision AX PRO Vnitřní univerzální držák
+Hikvision IP dome kamera DS-2CD1123G2-LIU(4mm), 2Mpx, 4mm, ColorVu
+MikroTik 1.25/2.5G SFP optický modul HS-55DLC80D, SM, 80km, 1550nm
+605 Kč bez DPH
+732 Kč s DPH
+Teltonika Telematics ATC700, miniaturní tracker s 4G LTE Cat 1
+1 845 Kč bez DPH
+2 232 Kč s DPH
+Hikvision IP dome kamera DS-2CD1127G3-LIU(4mm), 2Mpx, 4mm, ColorVu 3.0
+Ubiquiti UniFi UPS 2U Baterie, 9 Ah
+2 179 Kč bez DPH
+2 636 Kč s DPH
 Aktuality
 MikroTik Queue Tree: když Simple QoS nestačí
 22.10.2026

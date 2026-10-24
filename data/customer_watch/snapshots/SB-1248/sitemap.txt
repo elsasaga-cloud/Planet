@@ -1,4 +1,4 @@
-# SB-1248 sphinxcomputer.de · sitemap · https://www.sphinxcomputer.de/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-1248 sphinxcomputer.de · sitemap · https://www.sphinxcomputer.de/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 2025-09-02T13:40:47+00:00	https://www.sphinxcomputer.de/
 2025-09-02T13:40:47+00:00	https://www.sphinxcomputer.de/anmelden.php
 2025-09-02T13:40:47+00:00	https://www.sphinxcomputer.de/produktgruppen_pfs.php

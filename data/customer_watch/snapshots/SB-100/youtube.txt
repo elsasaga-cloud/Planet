@@ -1,4 +1,16 @@
-# SB-100 balter.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCw_8poOyVQk-TM00gLFRTsA · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCw_8poOyVQk-TM00gLFRTsA was not found on this server. That’s all we know.
+# SB-100 balter.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCw_8poOyVQk-TM00gLFRTsA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-13T14:06:52+00:00	EVO HD Sonderanfertigung: Türstation in Wunsch-RAL-Farbe & freiem Aufbau #Shorts #EVOHD	https://www.youtube.com/shorts/g5qG_Qzy0dU
+2026-10-07T18:04:27+00:00	30 Klingeltasten? Kein Problem. #Shorts #Türsprechanlage #Sonderanfertigung	https://www.youtube.com/shorts/MMv3gpfQUDk
+2026-09-16T15:06:23+00:00	Balter EVO HD PRO 7	https://www.youtube.com/shorts/tdP5_TUNx5A
+2026-09-01T15:32:53+00:00	EVO HD PRO 2-Module-Variante	https://www.youtube.com/shorts/BPf_vY0TKTY
+2026-08-06T15:42:31+00:00	BALTER in Schwarz & Weiß	https://www.youtube.com/shorts/Mn2h61Xfb0A
+2026-07-22T15:04:44+00:00	Balter EVO-HD-MINI-4.3M-WIFi	https://www.youtube.com/shorts/EG6zbEhLXhI
+2026-07-15T11:03:02+00:00	Balter EVO HD Touch 7	https://www.youtube.com/shorts/dx18fQMfQoE
+2026-06-16T12:23:54+00:00	Balter EVO HD PRO Monitor	https://www.youtube.com/shorts/aEL8XVe0otk
+2026-06-15T15:50:19+00:00	EVO HD Fingerprint	https://www.youtube.com/shorts/uMgLybU8ymU
+2026-01-14T14:32:39+00:00	EVO HD PRO	https://www.youtube.com/shorts/HfDIps9o8Yk
+2025-08-12T17:45:46+00:00	Balter EVO Monitore	https://www.youtube.com/shorts/7nQdQnzJXNE
+2025-07-17T09:48:58+00:00	Vom ersten Entwurf bis zum fertigen Produkt	https://www.youtube.com/shorts/u7GHJwohpo0
+2025-07-07T17:03:10+00:00	BALTER EVO HD Fingerprint	https://www.youtube.com/shorts/fELx150c-7I
+2025-06-26T15:31:17+00:00	🏠 ENTRI – Die smarte Türsprechanlage für dein Zuhause	https://www.youtube.com/shorts/ssn3ARaWVHE
+2025-06-13T17:03:08+00:00	🚨 Ab Montag verfügbar:	https://www.youtube.com/shorts/psfcluX5yiA

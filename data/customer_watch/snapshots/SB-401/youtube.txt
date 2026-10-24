@@ -1,4 +1,16 @@
-# SB-401 helmholz.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD13AjgtNmJdLSQaD19qYjg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCD13AjgtNmJdLSQaD19qYjg was not found on this server. That’s all we know.
+# SB-401 helmholz.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD13AjgtNmJdLSQaD19qYjg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-28T08:50:28+00:00	Cabinet Guard: Condition Monitoring einfach gemacht | aaa Chemnitz 2026	https://www.youtube.com/watch?v=8FMKeeR0-ms
+2026-05-13T12:13:18+00:00	Webinar: Cabinet Guard – Condition Monitoring im Handtaschenformat	https://www.youtube.com/watch?v=MDWhGLOemJg
+2026-05-13T11:31:56+00:00	Webinar: Cabinet Guard - Pocket-sized condition monitoring	https://www.youtube.com/watch?v=V-BLA-GZgwI
+2025-05-26T07:24:40+00:00	Webinar: Smart security with WALL IE - Safe through the new machinery regulation.	https://www.youtube.com/watch?v=aolMWyUnb6c
+2025-03-28T06:51:35+00:00	Webinar: Smarte Security mit WALL IE – Sicher durch die neue Maschinenverordnung	https://www.youtube.com/watch?v=_S2TaVFuKg0
+2025-03-06T13:11:56+00:00	Webinar: Zones & Conduits: Simple network security for your machines.	https://www.youtube.com/watch?v=Gx60p0R5Aok
+2025-03-03T12:50:00+00:00	Webinar: Zones & Conduits: Einfache Netzwerksicherheit für Ihre Maschinen	https://www.youtube.com/watch?v=0AxIBlgmbGU
+2024-12-10T10:08:17+00:00	Webinar: Ethernet Cable Guard: Predictive maintenance for Ethernet cables made easy!	https://www.youtube.com/watch?v=VIUhY4SXBR4
+2024-12-10T09:36:28+00:00	Webinar: Ethernet Cable Guard: Predictive Maintenance für Ethernet-Leitungen leicht gemacht!	https://www.youtube.com/watch?v=RFrLKa15hrA
+2023-10-05T22:00:20+00:00	Webinar: Hybrid Fieldbus Switches for highly available PROFINET-Networks. What are the Advantages?	https://www.youtube.com/watch?v=XLc6pRN1hig
+2023-10-05T22:00:09+00:00	Webinar: Hybride Feldbus-Switche für hochverfügbare PROFINET-Netzwerke. Was sind die Vorteile?	https://www.youtube.com/watch?v=Ezcy233n7SU
+2023-06-23T08:50:40+00:00	IP67 Switches from Helmholz – highly reliable in the roughest industrial environments	https://www.youtube.com/watch?v=dLCYZcTDous
+2023-06-23T06:23:20+00:00	IP67 Switches von Helmholz – hohe Stabilität und Zuverlässigkeit in rauen Industrieumgebungen	https://www.youtube.com/watch?v=R2LS6ujnm8k
+2021-04-12T08:59:00+00:00	PROFINET Coupler – the clever network translators. I This is how seamless data flow works!	https://www.youtube.com/watch?v=x0GKNgYfDtQ
+2021-04-12T08:58:24+00:00	PROFINET Koppler – die cleveren Netzwerk-Übersetzer I So geht nahtloser Datenfluss!	https://www.youtube.com/watch?v=L-Kmg_yapaE

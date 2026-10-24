@@ -1,4 +1,16 @@
-# SB-1145 acixme.com · youtube · https://www.youtube.com/@acixmiddleeast3587 · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UChmZzZCJmKr9b5J8dHubDAA was not found on this server. That’s all we know.
+# SB-1145 acixme.com · youtube · https://www.youtube.com/@acixmiddleeast3587 · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-06-11T03:00:25+00:00	Choosing the Right Biometric Device for Your Facility	https://www.youtube.com/watch?v=w88j0rLKcrg
+2026-05-12T19:00:15+00:00	ACIX Middle East: Smarter Systems for Modern Workplaces	https://www.youtube.com/watch?v=O_2zzrUqrqc
+2023-03-26T11:54:57+00:00	Value Additions By ACIX Middle East	https://www.youtube.com/watch?v=nLi-E1t-8mI
+2023-03-24T19:26:44+00:00	INTEGRATED SECURITY SOLUTION FROM ACIX MIDDLE EAST	https://www.youtube.com/watch?v=ncok0xJgyvk
+2023-03-23T15:58:07+00:00	Matrix Integrated IPVS Solution	https://www.youtube.com/watch?v=2xzFly-jDvk
+2023-03-22T08:41:42+00:00	MATRIX CAFETERIA MANAGEMENT SYSTEM	https://www.youtube.com/watch?v=fZlcm8kOcA8
+2023-03-22T07:40:36+00:00	EMPLOYEE SELF SERVICE APPLICATION	https://www.youtube.com/watch?v=FdqqzQbiInk
+2023-03-21T11:03:02+00:00	ENTERPRISE TIME ATTENDANCE SOLUTION	https://www.youtube.com/watch?v=zjP3QtXLdL0
+2023-03-20T10:12:23+00:00	VISITOR MANAGEMENT SYSTEM	https://www.youtube.com/watch?v=1lto3nyZtY4
+2023-03-18T10:28:30+00:00	SECURITY ACCESS CONTROL SOLUTION	https://www.youtube.com/watch?v=b-XvqeIYiPk
+2023-03-14T10:18:41+00:00	ACIX PEOPLE MOBILITY SOLUTION	https://www.youtube.com/watch?v=5cwLBc3jdhc
+2022-09-23T06:31:11+00:00	Matrix Argo FACE Recognition Machine	https://www.youtube.com/watch?v=Bdha_HfHQcM
+2022-09-23T06:29:18+00:00	MOBILE BASED ACCESS CONTROL SOLUTION	https://www.youtube.com/watch?v=cfFhhyVfbWs
+2022-09-23T06:21:02+00:00	Matrix FACE Recognition Solution	https://www.youtube.com/watch?v=1fNm9DtGYS8
+2022-09-20T07:16:36+00:00	ACIX Middle East	https://www.youtube.com/watch?v=r7iXx-o3dD8

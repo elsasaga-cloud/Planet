@@ -1,4 +1,16 @@
-# SB-1152 amplicon.com · youtube · https://www.youtube.com/user/amplicontv · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCop5hhPkgoOu7lV5wiHJShQ was not found on this server. That’s all we know.
+# SB-1152 amplicon.com · youtube · https://www.youtube.com/user/amplicontv · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-04-02T09:10:01+00:00	Amplicon ICP DAS Remote I/O solutions | Remote I/O modules	https://www.youtube.com/watch?v=A6KB6yBvr5I
+2026-03-23T14:47:12+00:00	Amplicon Automation & Control solutions	https://www.youtube.com/watch?v=-a8Blu5BXyo
+2025-12-09T14:26:09+00:00	Amplicon Christmas Decorations 2025	https://www.youtube.com/watch?v=CngRe_E5EUo
+2024-12-11T14:10:20+00:00	Amplicon Christmas Decorations 2024	https://www.youtube.com/watch?v=zTn-oQgmhZE
+2024-10-21T08:32:53+00:00	Keysight HD3 oscilloscope | Product overview | 14-bit ADC Oscilloscope	https://www.youtube.com/watch?v=XcEPdNDugAI
+2024-10-21T08:27:47+00:00	New Keysight InfiniiVision HD3 oscilloscope | Product demo	https://www.youtube.com/watch?v=rEGmGHfaYvA
+2024-01-24T11:14:28+00:00	Amplicon On-site Warranty Packages	https://www.youtube.com/watch?v=KcwALdp3JrQ
+2023-12-12T16:23:06+00:00	Amplicon Christmas competition | Mission: Christmas Impossible | 2023 (Competition closed)	https://www.youtube.com/watch?v=4usG6DJq2Nk
+2023-12-08T12:12:53+00:00	Amplicon Christmas Decorations 2023	https://www.youtube.com/watch?v=XVemXAEon_w
+2023-11-21T16:37:01+00:00	Amplicon Christmas video competition | 2019 (Competition closed)	https://www.youtube.com/watch?v=8eJb_kGVA-0
+2023-11-21T16:36:23+00:00	Amplicon "Mischievous Elf at Amplicon" competition | 2022 (Competition closed)	https://www.youtube.com/watch?v=xs8grf7W4jM
+2023-10-10T10:55:27+00:00	Amplicon Engineering Services | NI PXI Cabinet Build	https://www.youtube.com/watch?v=GV8RNFDEBaQ
+2023-09-06T07:49:11+00:00	Amplicon Founders Day 2023 - Celebrating 50 Glorious Years	https://www.youtube.com/watch?v=qTeEYjQXxIo
+2023-05-10T15:32:35+00:00	Amplicon 50th Anniversary video	https://www.youtube.com/watch?v=1OKVVhrfh_c
+2023-03-23T14:20:30+00:00	What is an IPv4 address? | Q&A | Data Comms	https://www.youtube.com/watch?v=Ges90sRJEUo

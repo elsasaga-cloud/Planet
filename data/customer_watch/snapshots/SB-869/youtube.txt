@@ -1,4 +1,16 @@
-# SB-869 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCYkxQrCGHcQKG522f9c_oyQ was not found on this server. That’s all we know.
+# SB-869 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-21T15:47:13+00:00	RS-366 Dial-Up Fiber Optic Modem | TC1230	https://www.youtube.com/watch?v=5fM-0aVDfGU
+2026-10-02T14:44:26+00:00	T3 / E3 Fiber Optic Modem | TC1680	https://www.youtube.com/watch?v=LNe3gO_Ib2Y
+2026-09-24T15:04:44+00:00	Multimode to Single Mode Converter/Repeater | TC3004	https://www.youtube.com/watch?v=h4cBN4VWRcI
+2026-09-11T16:53:26+00:00	T1/E1, Data, Voice & Ethernet Fiber Optic Multiplexer | TC8518	https://www.youtube.com/watch?v=UNWzqsxFzEk
+2026-09-08T19:20:12+00:00	Video Case Study: Providing Deterministic Circuits for Teleprotection on IP/MPLS Networks	https://www.youtube.com/watch?v=46HMyqTe9X4
+2026-09-04T17:07:13+00:00	Packet Transition Challenges for Utilities	https://www.youtube.com/watch?v=4ifQGoeaqZU
+2026-08-26T16:36:19+00:00	T1/E1 Fiber Optic Converter Modem | TC1631	https://www.youtube.com/watch?v=rG6DIiW-JfA
+2026-08-11T14:28:37+00:00	Leased Line Replacement Is Accelerating: How Organizations Can Navigate the Transition to IP	https://www.youtube.com/watch?v=A1Z6dH3mfvw
+2026-08-03T18:45:48+00:00	Telephone or Analog over Ethernet Extender | TC1910	https://www.youtube.com/watch?v=U6fJS77cjlk
+2026-07-28T14:47:23+00:00	JumboBank Voice-over-T1/E1 Multiplexer| TC8638	https://www.youtube.com/watch?v=iLZC93K1HPg
+2026-05-27T15:42:54+00:00	600 Ohm Analog & Dry Contact-over-T1/E1 Multiplexer | TC8624	https://www.youtube.com/watch?v=bfJUlIp4LW8
+2026-05-19T16:04:10+00:00	Video Application Note: Connecting Mobile Substations in Rugged Environments with JumboSwitch	https://www.youtube.com/watch?v=C5QcD_ZDJB0
+2026-05-13T15:54:42+00:00	Video Case Study: Old Equipment; New Problem: Solving Legacy Device Issues for a Utility	https://www.youtube.com/watch?v=fN4sOT40kXw
+2026-05-05T15:22:50+00:00	C37.94-Over-T1/E1 Multiplexer | TC8616	https://www.youtube.com/watch?v=zElFevEd4c4
+2026-04-28T16:11:10+00:00	Video Application Note: Staying NERC CIP Compliant When Connecting Third-Party Facilities	https://www.youtube.com/watch?v=6xAYLZAPUrk

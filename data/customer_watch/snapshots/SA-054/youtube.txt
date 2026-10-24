@@ -1,4 +1,16 @@
-# SA-054 svn-video.ru · youtube · https://www.youtube.com/@SVNVIDEO · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCW-DdPfCwHnU18ERgkLKwHg was not found on this server. That’s all we know.
+# SA-054 svn-video.ru · youtube · https://www.youtube.com/@SVNVIDEO · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-28T11:23:52+00:00	Обзор NVR 6.0 прошивки IP регистраторов - Часть 3. Обслуживание и прошивка оборудования	https://www.youtube.com/watch?v=tHWwQWciJMY
+2026-09-28T10:38:19+00:00	Обзор NVR 6.0 прошивки IP регистраторов SVN - Часть 2. Режимы записи и подключение камер	https://www.youtube.com/watch?v=vthsfMQ5TgU
+2026-09-28T10:24:55+00:00	Обзор NVR 6.0 прошивки IP регистраторов SVN - 1 Часть. Базовые настройки.	https://www.youtube.com/watch?v=SWi_hG57eQs
+2026-09-28T10:18:34+00:00	Реальные тесты на антивандальность видео камер SVN	https://www.youtube.com/watch?v=Hofr0rTRPr8
+2026-09-28T09:23:16+00:00	Обзор Комплектов видеонаблюдения SONY ХИТ! (СОНИХИТ)	https://www.youtube.com/watch?v=Xxyogukqz5E
+2025-10-11T17:22:58+00:00	Инструкция прошивки оборудования видеонаблюдения марки SVN под сервис CV380	https://www.youtube.com/watch?v=OHAiMPuetto
+2025-10-11T17:19:41+00:00	CV380 приложение для Вашего смартфона - для ваших камер	https://www.youtube.com/watch?v=xf8YlkurHAI
+2025-10-11T17:14:15+00:00	VMS380 - программа видеонаблюдения для вашего ПК (сервис CV380)	https://www.youtube.com/watch?v=WKDlFr-6ZDU
+2024-07-01T16:03:41+00:00	AHD-камера SVN-R25HTC500F	https://www.youtube.com/watch?v=-wHbAl9BBpI
+2024-07-01T16:03:30+00:00	IP-камера SVN-200R25HF	https://www.youtube.com/watch?v=7pbHip5V1Ns
+2024-07-01T16:03:22+00:00	AHD-камера SVN-CD20HTC200F	https://www.youtube.com/watch?v=AC-yuTTMorQ
+2024-07-01T16:03:14+00:00	IP-камера SVN-800SBA20MPOE	https://www.youtube.com/watch?v=AlQ025E_XLc
+2024-07-01T16:03:06+00:00	IP-камера SVN-500SB25FC	https://www.youtube.com/watch?v=RK3YaAMMROY
+2024-07-01T16:03:00+00:00	IP-камера SVN-500SBC20KPOE	https://www.youtube.com/watch?v=VvDV2O8ykhg
+2024-06-05T10:45:11+00:00	IP-камера SVN-200PL20HF	https://www.youtube.com/watch?v=p4OhZsD67u8

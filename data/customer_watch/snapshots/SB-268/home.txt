@@ -1,4 +1,4 @@
-# SB-268 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-268 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Home Page SWL
 Login
 Email Address
@@ -192,20 +192,20 @@ Activor Wireless
 Inovonics Wireless
 Sherlotronics Wireless
 Featured Products
-48460
-Wi-Tek WI-LTE113-O V2: 4G CAT6 Router, 1x 1000Mbps, RJ45, 24V PoE
-POA
-More Info
-48280
-Wi-Tek WI-PS206GF-I V2:4x 100Mbps PoE Ports + 1x 1000Mbps RJ45+SFP, 55W Hardened
-POA
-More Info
-47878
-Wi-Tek WI-IOTBOX03 V3: O/D Cabinet 500x 720x 286.5mm, Fan, Tamper, IP65, IK10
+56955
+STP Replacement Protective Cover For 56953
 POA
 More Info
 27280
 Vanderbilt GM730 Seismic Detector: 8 -16 VDC, IP43
+POA
+More Info
+48250
+Wi-Tek WI-PCES206-O:4x 100Mbps PoE Ports+ 2x 100Mbps RJ45, 60W O/D Switch IP65
+POA
+More Info
+33401
+Provision-ISR DPAN2-340ADRN: 8MP 180°, 20m Hybrid, IP66, IK10, Active Deterrence
 POA
 More Info
 Products

@@ -1,4 +1,16 @@
-# SB-722 nodactechnology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA was not found on this server. That’s all we know.
+# SB-722 nodactechnology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-07-13T12:39:33+00:00	How to Configure DNAKE AC02C in Standalone Mode | Access Control Setup Tutorial	https://www.youtube.com/watch?v=mOqs13h8Wfk
+2026-06-23T17:47:25+00:00	Drop-In Dual-SIM M2M Access Control | NFC, Wiegand & Remote Door Management	https://www.youtube.com/watch?v=eQY1KP5Ta10
+2026-06-01T21:54:09+00:00	How to Configure a Hikvision Video Intercom System	https://www.youtube.com/watch?v=1NvPe2LudE8
+2026-05-29T14:25:06+00:00	UNV SeekFree | Smart search on your NVR—no cloud, no delays	https://www.youtube.com/watch?v=T1GtMKyDp68
+2026-05-18T20:19:35+00:00	Unboxing KF4 COC1: Everything you need for fiber optic splicing in the field	https://www.youtube.com/watch?v=vEnDa4E-dY0
+2025-10-13T18:46:04+00:00	⚡ Power your network with Wi-Tek PoE Switches.	https://www.youtube.com/watch?v=esuaQLmWQAU
+2025-10-08T20:52:18+00:00	🎥 Unboxing & Demo – Hikvision ExpressIP Cameras with ColorVu 3.0!	https://www.youtube.com/shorts/FXINy1FpwMo
+2025-10-06T22:12:49+00:00	📦 Unboxing AJAX Starter Kit	https://www.youtube.com/watch?v=7kb8EpcsLtI
+2025-10-03T14:35:53+00:00	📶✨ Boost your connection with the future of Wi-Fi	https://www.youtube.com/shorts/rH7Rf-mkQTU
+2025-09-30T19:13:38+00:00	Ajax Systems: Redefining wireless security	https://www.youtube.com/shorts/KQ8Sj2O82b0
+2025-09-23T11:55:00+00:00	Technology moves forward with Hikvision	https://www.youtube.com/shorts/N129zSTd0LQ
+2025-09-20T14:57:51+00:00	Technology moves forward with Hikvision	https://www.youtube.com/shorts/CX-058pFdto
+2025-09-15T16:54:48+00:00	Nodac technology interviewed Dahua ESS+ 2025 Bogotá Colombia	https://www.youtube.com/shorts/H-9sC0qGOtI
+2025-09-12T20:46:16+00:00	UNV Password Reset Tutorial | Step by Step Guide	https://www.youtube.com/watch?v=RJoO8SSnjrY
+2025-09-09T05:00:58+00:00	Nodac Technology & Ajax Systems: Innovation at the International Security Fair Bogotá 2025	https://www.youtube.com/shorts/tSo0_d_ejkw

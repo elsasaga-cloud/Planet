@@ -1,4 +1,4 @@
-# SB-533 elfcams.com · feed_auto · https://www.elfcams.com/feed · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-533 elfcams.com · feed_auto · https://www.elfcams.com/feed · fetched 2026-10-24T07:26:33Z · HTTP 200
 Mon, 08 Dec 2025 10:19:11 +0000	Comparatif PVC vs LSZH vs TPU : Quel Matériau de Gaine pour les Câbles Fibre Optique ? Analyse Technique 2025	https://www.elfcams.com/article/pvc-vs-lszh-vs-tpu
 Mon, 23 Jun 2025 10:26:53 +0000	Switch PoE vs Switch standard : lequel choisir pour votre installation réseau ?	https://www.elfcams.com/article/comment-choisir-switch
 Thu, 23 Nov 2023 12:00:13 +0000	Comment identifier le code couleur des fibres optiques ?	https://www.elfcams.com/article/comment-identifier-le-code-couleur-des-fibres-optiques

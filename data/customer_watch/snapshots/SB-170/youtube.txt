@@ -1,4 +1,16 @@
-# SB-170 bositaly.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g was not found on this server. That’s all we know.
+# SB-170 bositaly.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCDuq-1vdWtBPKosxuzLiW6g · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-09-29T15:04:10+00:00	Live Streaming - BOS Italy	https://www.youtube.com/watch?v=zCtKvunsEsE
+2025-09-10T05:00:24+00:00	Live Streaming - BOS Italy	https://www.youtube.com/watch?v=RBUK_r1QlTY
+2025-01-20T13:15:33+00:00	Cos’è una Stazione di Alimentazione indipendente per Videosorveglianza (BS-BALS08PL2M5D2)	https://www.youtube.com/watch?v=ik0FHXWs3gw
+2024-11-26T10:58:40+00:00	Stazioni di Alimentazione per Videosorveglianza	https://www.youtube.com/watch?v=1nZ6TnAprUc
+2024-11-05T09:46:59+00:00	Funzionalità ESCLUSIVE dello Switch "Sensitive" degli NVR BOS	https://www.youtube.com/watch?v=L8B88oUQiVo
+2024-10-24T10:30:39+00:00	Attivazione Prodotti BOS da App BOS Vision	https://www.youtube.com/watch?v=IM94oVC6n1A
+2023-11-23T18:35:39+00:00	Imprenditori si Raccontano	https://www.youtube.com/watch?v=hfVqU5PCYIo
+2023-11-10T17:14:32+00:00	Ci piace la semplicità, di funzioni sofisticate che garantiscono la sicurezza di persone e cose.	https://www.youtube.com/watch?v=yKl_gkUJOjQ
+2023-11-03T10:07:39+00:00	Leonardo Borinato, CEO di BOS Italy, la nuova sede: un passo avanti verso il futuro.	https://www.youtube.com/watch?v=SNgqg_WXPgY
+2023-11-03T10:04:35+00:00	Leonardo Borinato, CEO di BOS Italy, la nuova sede: un passo avanti verso il futuro.	https://www.youtube.com/shorts/pe-Rb1OLcug
+2023-07-14T15:51:24+00:00	COMING SOON...	https://www.youtube.com/shorts/_QZ2F2GRfjY
+2023-06-20T14:30:59+00:00	BS-BOXIO808 - Configurazione Con Telecamera IP BOS	https://www.youtube.com/watch?v=zFXUpQlfn5w
+2023-06-20T08:32:45+00:00	Funzione RTMP - Configurazione Live Streaming	https://www.youtube.com/watch?v=Tz_gbHaJk_o
+2023-05-10T13:18:42+00:00	Notifica HTTP - Configurazione con Centrale Ksenia	https://www.youtube.com/watch?v=WLzeWNfOz9w
+2023-05-10T13:11:04+00:00	Allarme Combinato - Configurazione	https://www.youtube.com/watch?v=oPzJI72bH7k

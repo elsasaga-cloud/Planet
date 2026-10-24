@@ -1,4 +1,16 @@
-# SB-150 ltsecurityinc.com.au · youtube · https://www.youtube.com/@LTSSecurityAustralia · fetched 2026-10-24T04:35:40Z · HTTP 500
-Error 500 (Server Error)!!1
-500. That’s an error.
-The server encountered an error and could not complete your request. If the problem persists, please report your problem and mention this error message and the query that caused it. That’s all we know.
+# SB-150 ltsecurityinc.com.au · youtube · https://www.youtube.com/@LTSSecurityAustralia · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-22T23:16:46+00:00	Ajax Fibra Webinar: Wired Ajax Explained for Installers | LTS Security Australia	https://www.youtube.com/watch?v=L4Z00h11YiM
+2026-10-12T05:51:43+00:00	How We Added 40 IP Cameras Over One Old Coax Cable | No New Cablin	https://www.youtube.com/watch?v=i_WBQQaemQI
+2026-08-12T22:32:26+00:00	Beyond the Alarm: 10 Advanced Ajax Deployments for Security Installers | LTS Security Australia	https://www.youtube.com/watch?v=vOPxF8X6tqM
+2025-12-03T06:35:11+00:00	LTS AI ISP Camera - CMIP3CD82WI-28LAISP	https://www.youtube.com/watch?v=uZe1BhHhfrw
+2025-06-26T05:05:53+00:00	Ajax MotionCam Outdoor HighMount PHOD - Hands-on	https://www.youtube.com/watch?v=sJcEBqjclzk
+2025-06-05T07:20:23+00:00	How to Set Up Ajax PRO Desktop: Configuring Ajax SIM Card & Cloud Services	https://www.youtube.com/watch?v=fePWMIpqTFw
+2025-05-20T04:41:00+00:00	What's New in Ajax Systems? Exclusive Showcase by LTS Australia	https://www.youtube.com/watch?v=7XAaaIwXhKA
+2025-05-11T21:30:17+00:00	Smartphone-Only LTS NVR Setup: Using LTS Platinum Partner (LPP) – No Monitor or Mouse Needed!	https://www.youtube.com/watch?v=iNQ9L6z_Qzo
+2025-05-08T07:14:36+00:00	LTS D Series NVR - LTN8708D-P8N & LTN8716D-P16 #CCTV #SecurityCamera #Surveillance #HomeSecurity	https://www.youtube.com/shorts/CPqTgkcKVMM
+2025-05-07T00:55:39+00:00	LTS - AI Colour247 - With Anti-corrosion NEMA 4X	https://www.youtube.com/shorts/1whlsZa7wCw
+2024-06-05T06:29:16+00:00	Pro X PTZ Camera Series AU Version	https://www.youtube.com/watch?v=BjOHo_1Knqs
+2024-06-05T05:18:11+00:00	Pro-X: Intelligent Colour Series	https://www.youtube.com/watch?v=_wGe1Bk7JDA
+2024-06-05T05:10:00+00:00	Pro-X: X-Search Demo	https://www.youtube.com/watch?v=kLK8Kq14370
+2024-06-05T05:04:30+00:00	Pro-X: Ai Based X-Search Features	https://www.youtube.com/watch?v=vYZWcIcrouc
+2024-06-03T21:30:02+00:00	Introducing Pro-X: The Newest NDAA Compliant Security Solution from LTS	https://www.youtube.com/watch?v=bmU6zwNDGbQ

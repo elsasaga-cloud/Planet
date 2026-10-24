@@ -1,4 +1,16 @@
-# SB-055 F.A.S.T · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCUK_LRnkLEqvy8AQz-jl7ZQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCUK_LRnkLEqvy8AQz-jl7ZQ was not found on this server. That’s all we know.
+# SB-055 F.A.S.T · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCUK_LRnkLEqvy8AQz-jl7ZQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-15T13:10:20+00:00	RASCH HMI VNC ile Uzaktan Erişim | Bilgisayar ve Telefondan HMI Kontrolü	https://www.youtube.com/watch?v=da2JBsPzAG8
+2026-10-02T07:22:00+00:00	4- FGate Manager ile HMI Uzaktan İzleme ve Kontrol (PC & Mobil)	https://www.youtube.com/watch?v=hcVPpR6wmkk
+2026-09-24T13:13:56+00:00	Shihlin Servo - Parametre Çekme ve Yükleme	https://www.youtube.com/watch?v=wc80JbQg1J8
+2026-08-31T11:20:51+00:00	RASCH MC501 & MC512 & MC522 Serisi PLC PAC Programlama Yazılım Kurulumu (CODESYS 3.5)	https://www.youtube.com/watch?v=76YqIPNgwLo
+2026-08-05T11:31:25+00:00	7- FGate Manager - İkinci Kullanıcı Yetkilendirme	https://www.youtube.com/watch?v=K0ZTkxHgwP8
+2026-07-28T10:29:49+00:00	RASCH HMI - Reçete USB Gönder Al	https://www.youtube.com/watch?v=tIsjciP8KTQ
+2026-03-09T10:22:04+00:00	5- FGate Manager - RASCH Designer HMI’lara Uzaktan Erişim ve Proje Yükleme	https://www.youtube.com/watch?v=WHIDKJWUcoE
+2026-03-09T10:17:47+00:00	6- FGate Manager - HMI'a bağlı PLC'e uzak ağdan program gönderme	https://www.youtube.com/watch?v=cbv3-FfZOtI
+2026-03-09T10:07:28+00:00	3- FGate Manager - VNC Bağlantı Ayarları	https://www.youtube.com/watch?v=4YRx0zs1of4
+2026-03-09T10:04:55+00:00	2- FGate Manager - Cihaz Ekleme	https://www.youtube.com/watch?v=YrGBd78DMlU
+2026-03-09T10:01:45+00:00	1- FGate Manager - Üye Olma	https://www.youtube.com/watch?v=Z4Mo_Em2miE
+2026-03-06T07:54:16+00:00	RASCH EC201S Serisi PLC'lerde CODESYS ile Dijital I/O Konfigürasyonu	https://www.youtube.com/watch?v=L-d38Qst2eU
+2026-02-20T12:35:03+00:00	RASCH RTP HMI - Buton çeşitleri (WORD)	https://www.youtube.com/watch?v=Ql6atUBvNAE
+2026-02-20T12:24:15+00:00	RASCH RTP HMI - PDF Görüntüleme	https://www.youtube.com/watch?v=A-jn3EOxHeo
+2026-02-20T12:19:31+00:00	RASCH RTP HMI - Dil Değiştirme Ayarları	https://www.youtube.com/watch?v=ABIuxVabBdQ

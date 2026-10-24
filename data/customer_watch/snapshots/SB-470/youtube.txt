@@ -1,4 +1,16 @@
-# SB-470 melbyefiber.com · youtube · https://www.youtube.com/user/MelbyeSkandinavia · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCCCPAgxi9oRnTsAQvVz1ESg was not found on this server. That’s all we know.
+# SB-470 melbyefiber.com · youtube · https://www.youtube.com/user/MelbyeSkandinavia · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-22T08:14:40+00:00	FF-kum og QA-multikanal - fleksibel kabelhåndtering | Melbye	https://www.youtube.com/watch?v=60kNTgj75J8
+2026-10-21T13:50:02+00:00	FF-brunn och QA-multikanal – flexibel kabelhantering | Melbye	https://www.youtube.com/watch?v=NoRAGVCERLQ
+2026-09-09T11:51:34+00:00	Kan et fundament monteres på under 12 minutter? Ja - se selv.	https://www.youtube.com/watch?v=M0iGvGwIXh8
+2026-09-09T11:49:39+00:00	E-Foundation – montering uten støping	https://www.youtube.com/watch?v=aM_IvJGFPPA
+2026-09-09T11:46:32+00:00	Montering av E-Foundation på under 12 minuter	https://www.youtube.com/watch?v=Zf66h5NZrkw
+2026-09-09T11:44:17+00:00	E-Foundation – fundament för laddstationer utan gjutning	https://www.youtube.com/watch?v=yXAK8MipNdc
+2026-03-23T14:03:48+00:00	BLL-løsninger fra Melbye - for tette og solide BLL-anlegg	https://www.youtube.com/watch?v=PVasfENwocQ
+2026-02-27T08:04:27+00:00	Ring of fire	https://www.youtube.com/watch?v=HaAPdyxKAHk
+2026-02-25T10:15:34+00:00	Montasje av kaldkrymp endeavslutning	https://www.youtube.com/watch?v=SElbeW8YxdY
+2026-02-25T09:52:38+00:00	Montering av T-kontakt	https://www.youtube.com/watch?v=ylQuuMVUZ44
+2026-02-10T09:54:25+00:00	Ring of Fire Gasbrännarhuvud	https://www.youtube.com/shorts/3Rkpi-HlfXw
+2026-01-19T11:37:08+00:00	Varmkrymp endeavslutning fra Melbye	https://www.youtube.com/watch?v=5fXlip_mGZY
+2025-12-11T14:00:52+00:00	Brandvarnare v230	https://www.youtube.com/watch?v=oYpx0ExHcf8
+2025-12-11T13:59:13+00:00	Brandvarnare från Melbye	https://www.youtube.com/watch?v=J1LMiVd3bHI
+2025-11-11T13:56:02+00:00	Melbyes showroom	https://www.youtube.com/shorts/1duiVDPiAds

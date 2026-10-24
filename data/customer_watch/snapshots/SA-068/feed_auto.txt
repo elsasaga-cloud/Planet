@@ -1,4 +1,4 @@
-# SA-068 dymec.com · feed_auto · https://www.dymec.com/feed/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SA-068 dymec.com · feed_auto · https://www.dymec.com/feed/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Tue, 30 Jun 2020 01:39:52 +0000	The Difference Between Industrial and Enterprise Ethernet	https://www.dymec.com/recent-news/difference-between-industrial-and-enterprise-ethernet/
 Wed, 10 Jun 2020 17:12:33 +0000	Evolution of Industrial Ethernet Networks – Layer 2 vs Layer 3	https://www.dymec.com/recent-news/evolution-of-industrial-ethernet-networks-layer-2-vs-layer-3/
 Wed, 10 Jun 2020 16:37:12 +0000	DYMEC is Moving to High Density Ethernet HARTING ix Industrial® – Ethernet Interface	https://www.dymec.com/recent-news/dymec-is-moving-to-high-density-ethernet-harting-ix-industrial-ethernet-interface/

@@ -1,4 +1,16 @@
-# SB-607 WAN networking technology · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQgkkvGl8lo-ztHqPbSobpA · fetched 2026-10-24T04:35:40Z · HTTP 500
-Error 500 (Server Error)!!1
-500. That’s an error.
-The server encountered an error and could not complete your request. If the problem persists, please report your problem and mention this error message and the query that caused it. That’s all we know.
+# SB-607 WAN networking technology · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQgkkvGl8lo-ztHqPbSobpA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-08-17T15:24:12+00:00	تایبەتمەندیەکانی کامێرای چاودێری کەناڵی کوردسات	https://www.youtube.com/watch?v=gscDKqDxGXA
+2026-05-13T12:53:36+00:00	Construct Iraq 2025	https://www.youtube.com/watch?v=o7r-MgfUDpY
+2025-09-04T14:34:03+00:00	GoodWe Inverter Connection	https://www.youtube.com/shorts/qFhD0wtWy94
+2025-09-04T14:28:11+00:00	GoodWe Inverter ES Uniq Configuration	https://www.youtube.com/watch?v=EnH_S1IFx8I
+2025-07-18T12:55:51+00:00	GOODWE Event 8th July 2025	https://www.youtube.com/watch?v=BwhMsdhg2rQ
+2025-06-28T11:41:57+00:00	WAN Company – GoodWe Authorized Distributor	https://www.youtube.com/watch?v=S45lBV3fUe8
+2023-08-16T08:55:21+00:00	Garden City Villa Project	https://www.youtube.com/watch?v=cLwJ7anKfi0
+2023-08-13T19:18:56+00:00	Teknim Roadshow Event	https://www.youtube.com/watch?v=LTajt9mEYNQ
+2023-06-14T14:57:25+00:00	HITEXT 2023 Kurdish SUB	https://www.youtube.com/watch?v=vTexrhh784c
+2023-06-11T19:50:40+00:00	HITEX 2023 Video	https://www.youtube.com/watch?v=i4OljQwesHo
+2023-05-16T09:01:58+00:00	HITEXT 2023	https://www.youtube.com/watch?v=dCVWEF8Zij8
+2023-05-02T10:35:34+00:00	WAN and Teknim Partnership with Kurdish subtitle	https://www.youtube.com/watch?v=ifKD04bOQeE
+2023-04-27T09:35:02+00:00	WAN and Teknim Partnership	https://www.youtube.com/watch?v=V-N4hwnPhPs
+2023-03-12T12:27:37+00:00	WAN and IQ Visit to Fibrain	https://www.youtube.com/watch?v=5qVi6me2xlk
+2022-12-26T01:23:30+00:00	UNV Halabja Opening Ceremony	https://www.youtube.com/watch?v=ItocPoMmPM0

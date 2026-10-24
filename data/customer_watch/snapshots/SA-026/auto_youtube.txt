@@ -1,4 +1,7 @@
-# SA-026 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · auto_youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A was not found on this server. That’s all we know.
+# SA-026 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · auto_youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCTOihFJ_tskxJEpzfKbJ95A · fetched 2026-10-24T07:26:33Z · HTTP 200
+2021-10-19T05:51:33+00:00	Мини-блендер	https://www.youtube.com/watch?v=JezGrn-TCsI
+2021-10-19T05:48:17+00:00	Электрический штопор	https://www.youtube.com/watch?v=5AWUPdyKHPI
+2021-08-19T12:11:42+00:00	Робот-мойщик окон W200	https://www.youtube.com/watch?v=fT8hW_LYTEo
+2021-08-19T12:04:18+00:00	Робот-мойщик окон W100	https://www.youtube.com/watch?v=zDsIgIOgP5A
+2019-05-17T08:41:16+00:00	БитБук SC-60AWU демонстрация считывание кода DataMatrix с маркировки сигарет	https://www.youtube.com/shorts/qs6r1nAkKnM
+2019-05-17T06:54:50+00:00	БитБук SC-30AWH демонстрация считывание кода DataMatrix с маркировки сигарет	https://www.youtube.com/shorts/Fpc_8GK5SUc

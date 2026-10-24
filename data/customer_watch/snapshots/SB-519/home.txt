@@ -1,4 +1,4 @@
-# SB-519 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-519 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,18 +75,66 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-Ubiquiti UniFi EV Station Lite, 22kW, Wallbox
-Třífázový wallbox pro elektromobily a plug-in hybridy s AC výkonem až 22 kW při 400 V / 32 A. Konektor Typ 2 na 7m kabelu, krytí IP55 a 1,7” displej. Správa UniFi Connect, přístup přes NFC nebo aplikaci UniFi Endpoint.
-13 890 Kč bez DPH
-16 807 Kč s DPH
+MikroTik IAQM-THC2V-G, CLAIRÉ Lite monitor kvality vzduchu, šedý
+Šedý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 501 Kč bez DPH
+1 816 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, M8 – dutinka, pár (RVV4-M8-2)
-Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených očkem M8 a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
-273 Kč bez DPH
-330 Kč s DPH
+TP-Link Fusion G+, Omada gateway
+Moderní řešení pro firemní i náročné síťové prostředí spojuje funkce routeru a kontroleru do jediného zařízení, které umožňuje pohodlnou správu celé infrastruktury bez licenčních poplatků. Díky 5 portům 1G a 2.5G RJ45 poskytuje dostatek výkonu pro rychlé
+3 818 Kč bez DPH
+4 620 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+Bateriový odpojovač 275A CARSPA model A701
+Bateriový odpojovač pro systémy 12–48 V zvládá trvale 275 A, po 10 s až 455 A a startovací proud 1250 A. Odpojuje kladný pól od DC rozvodu. Má odnímatelný ovladač, svorky M10 a možnost montáže na povrch či do panelu.
+200 Kč bez DPH
+242 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti UniFi EV Station Lite, 22kW, Wallbox
+Třífázový wallbox pro elektromobily a plug-in hybridy s AC výkonem až 22 kW při 400 V / 32 A. Konektor Typ 2 na 7m kabelu, krytí IP55 a 1,7” displej. Správa UniFi Connect, přístup přes NFC nebo aplikaci UniFi Endpoint.
+13 940 Kč bez DPH
+16 867 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+MERCUSYS MS108GS-M2 Multi-Gigabit 2.5G switch
+Multi-gigabitový switch s 8 porty 2,5 Gb/s a přepínací kapacitou 40 Gb/s pro NAS, servery, počítače a Wi-Fi přístupové body. Ochrana proti síťovým smyčkám, Plug & Play a pasivní chlazení. Kovový kryt pro stůl i montáž na stěnu.
+1 112 Kč bez DPH
+1 346 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Victron Energy Multi HS19 Solar 15 kW, Vysokonapěťový třífázový měnič, nabíječka, MPPT
+Vysokonapěťový třífázový měnič/nabíječ 15 kW pro baterie 650–1000 V s CAN-Bus komunikací. Čtyři samostatné MPPT vstupy po 8 kW umožňují FV pole až 32 kW. Provedení pro 19” rack, Bluetooth a monitoring přes zařízení GX.
+104 310 Kč bez DPH
+126 215 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti USL-Motion-3, UniFi Protect senzor pohybu, 3-pac
+Sada tří bateriových PIR senzorů pohybu pro vnitřní prostory s komunikací SuperLink 865,1–869,5 MHz a dosahem až 2 km. Horizontální i vertikální PIR detekce, správa přes UniFi Protect a montáž lepením nebo šrouby.
+2 640 Kč bez DPH
+3 194 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Jistič DC 25A 2P Carspa SPB9-63DC 2-pólový 6kA na DIN lištu
+Dvoupólový DC jistič 25 A pro ochranu fotovoltaických a bateriových obvodů proti přetížení a zkratu. Jmenovité napětí až 600 V DC, vypínací schopnost 6 kA, krytí IP20 a montáž na DIN lištu TH35.
+230 Kč bez DPH
+278 Kč s DPH
 Novinka
 Porovnat
 skladem
@@ -103,54 +151,6 @@ TP-Link Archer NB450, 5G Wi-Fi 7 router
 Mobilní 5G router s dvoupásmovou Wi-Fi 7 až 1376 + 5760 Mb/s a internetem přes SIM kartu. Jeden 2,5G LAN/WAN a tři gigabitové porty, EasyMesh a správa přes Tether; podporuje více než 200 připojených zařízení.
 12 270 Kč bez DPH
 14 847 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Tester autobaterie UNI-T UT675A
-Tester 12V olověných autobaterií 3–250 Ah včetně AGM, GEL a EFB se zabudovanou tiskárnou výsledků a USB přenosem do PC. Měří napětí, vnitřní odpor a stav baterie; kontroluje startovací i nabíjecí systémy 12/24 V.
-1 954 Kč bez DPH
-2 364 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Bateriový nabíjecí, propojovací kabel 2 m, 4 mm2, Svorka - Dutinka, pár (RVV4-CLIP-2)
-Pár bateriových kabelů délky 2 m s průřezem 4 mm2, zakončených svorkou a dutinkou. Měděné jádro s PVC izolací, proudová zatížitelnost 30 A a vnější průměr 5 mm. Červený a černý kabel pro baterie, nabíječky a měniče.
-297 Kč bez DPH
-359 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-MikroTik L14G-2ax-BT5-LR8&EG800K, KNOT Gateway LR8
-Venkovní IoT gateway s LoRa 868 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici a montáž na stožár či stěnu.
-2 615 Kč bez DPH
-3 164 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-DC pojistka Carspa 1000V 32A, 10x38mm
-Válcová DC pojistka 32 A / 1000 V kategorie gPV pro jištění fotovoltaických stringů. Rozměr 10 × 38 mm pro odpovídající pojistkovou základnu nebo držák MC4, zpožděná charakteristika a provoz -40 až +90 °C.
-47 Kč bez DPH
-57 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-MikroTik L14G-2ax-BT5-HL9&EG800Q, KNOT Gateway HL9
-Venkovní IoT gateway s Wi-Fi HaLow 915 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici; montáž na stožár či stěnu.
-2 615 Kč bez DPH
-3 164 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-MHPower střešní kabelová průchodka pro solární kabely, 2× MC4, kabel 0,25 m, černá
-Černá střešní průchodka pro dva solární kabely s konektory kompatibilními s MC4 a vývody délky 0,25 m s volnými konci. UV a povětrnostní odolnost pro karavany, obytné vozy či lodě. Rozměry přibližně 181 × 95 × 38 mm.
-319 Kč bez DPH
-386 Kč s DPH
 Novinka
 Porovnat
 skladem

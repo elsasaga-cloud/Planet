@@ -1,4 +1,16 @@
-# SB-1259 tramaweb.com.br · youtube · https://www.youtube.com/user/tramacomunicacao · fetched 2026-10-24T04:35:40Z · HTTP 500
-Error 500 (Server Error)!!1
-500. That’s an error.
-The server encountered an error and could not complete your request. If the problem persists, please report your problem and mention this error message and the query that caused it. That’s all we know.
+# SB-1259 tramaweb.com.br · youtube · https://www.youtube.com/user/tramacomunicacao · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-21T17:05:17+00:00	Instituto Mauá de Tecnologia no Jornal Nacional | Assessoria de imprensa	https://www.youtube.com/watch?v=PVy-obH1cIU
+2026-10-02T18:09:04+00:00	Intelbras no Jornal da Band | Assessoria de imprensa	https://www.youtube.com/watch?v=bKpuKYHKFX4
+2026-10-02T18:09:02+00:00	UNICEF no Jornal Nacional | Assessoria de imprensa	https://www.youtube.com/watch?v=M1Wu4DGx37w
+2026-10-02T18:09:00+00:00	SENAC no SBT Brasil | Assessoria de imprensa	https://www.youtube.com/watch?v=QlZRI8n4PoI
+2026-10-02T18:08:45+00:00	#VotePelaEducação: como levar educação para o centro da eleição | UNICE	https://www.youtube.com/watch?v=8ICf7drXKsc
+2026-10-02T18:08:41+00:00	Inclusão da diversidade na prática | Danone	https://www.youtube.com/watch?v=3e9tk-BnYdw
+2026-10-02T18:08:39+00:00	Quem conta a história são os próprios alunos | Case Specialisterne	https://www.youtube.com/watch?v=_esrctFL-Ys
+2026-10-02T18:08:37+00:00	A campanha interna que comunicou um novo propósito global | Boehringer Ingelheim	https://www.youtube.com/watch?v=oYAL-4Y2pNU
+2026-10-02T18:08:08+00:00	A estratégia que divulgou o rebranding da Alares | Alares	https://www.youtube.com/watch?v=AFHvLg-1aY0
+2026-10-02T18:07:58+00:00	Cadê a água do ratinho? A campanha do UNICEF que virou pauta | UNICEF	https://www.youtube.com/watch?v=twZGmpvPZGk
+2026-10-02T18:07:55+00:00	Como colocar crianças e adolescentes no centro da cobertura climática | UNICEF	https://www.youtube.com/watch?v=rX8boMjRIDQ
+2026-10-02T18:07:52+00:00	A campanha interna que engajou o Hcor no Setembro Vermelho | Hcor	https://www.youtube.com/watch?v=xNQz9x5dyxM
+2026-10-02T18:07:49+00:00	Como um programa de embaixadores fortaleceu o pertencimento | Boehringer Ingelheim	https://www.youtube.com/watch?v=XHvAqu2z4-w
+2026-10-02T12:13:46+00:00	Instituto Mauá de Tecnologia no Jornal Nacional | Assessoria de imprensa	https://www.youtube.com/watch?v=cQ0w4OpXeqI
+2026-08-04T17:20:59+00:00	Como engajar quem não senta na frente de um computador | Diálogos #24	https://www.youtube.com/watch?v=iWMQdaUD24U

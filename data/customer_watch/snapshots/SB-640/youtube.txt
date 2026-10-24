@@ -1,4 +1,16 @@
-# SB-640 ipc2u.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ was not found on this server. That’s all we know.
+# SB-640 ipc2u.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-06-03T13:54:24+00:00	NVIDIA Jetson vs. Traditional IPCs: Why Jetson Rules Edge AI	https://www.youtube.com/watch?v=F2iYUUZhCnU
+2026-05-06T14:23:15+00:00	NEXCOM nDAS 6000: Industrial IoT Edge Controller & Data Acquisition System	https://www.youtube.com/watch?v=EW-8uPnU_OE
+2026-05-06T14:06:49+00:00	ARBOR EdgeX-6000: High-Performance Edge AI Server with AMD EPYC & NVIDIA GPUs	https://www.youtube.com/watch?v=D4a4G_Th1a0
+2025-01-23T08:19:50+00:00	NexMOV2 Elevating Smart Factories and Warehousing with CuttingEdge AI and Visual SLAM Technology	https://www.youtube.com/watch?v=tIBAp9xqNfE
+2025-01-17T14:25:38+00:00	NEXCOM DNA 140 Smart, Fast, and Secure AI in a Box	https://www.youtube.com/watch?v=OGVeV73bw7Q
+2024-05-21T08:43:35+00:00	NEXCOM NISE 3910: High-Performance Fanless Industrial PC	https://www.youtube.com/watch?v=w4fZdaEX2ws
+2024-03-04T23:00:13+00:00	Overview of ICOP's Industrial Panel PCs range	https://www.youtube.com/watch?v=Ec7VCyZu2G0
+2024-02-27T10:00:14+00:00	GuardianBytes: Crafting Your Smart Sanctuary with QEC and 86Duino	https://www.youtube.com/watch?v=NtiqYkBkSzs
+2024-02-22T23:00:15+00:00	NEXCOM X-Series: Driving Digital Transformation and Shaping the Future	https://www.youtube.com/watch?v=RDl8F4gf-mA
+2024-02-20T14:21:43+00:00	ICOP Technology - DM&P Group Manufacturing Overview	https://www.youtube.com/watch?v=BuWSe3U0SFY
+2024-02-18T09:00:11+00:00	Automatic License Plate Recognition for toll roads	https://www.youtube.com/watch?v=IPjbqY5XvKM
+2024-02-17T17:00:28+00:00	Automatic License Plate Recognition for paid parking	https://www.youtube.com/watch?v=k5TTosSdrGQ
+2024-02-17T08:00:26+00:00	Driver Face Camera DFC recognition	https://www.youtube.com/watch?v=bMxXhUpyweM
+2024-02-16T11:35:49+00:00	ALPR - Automatic License Plate Recognition technolog	https://www.youtube.com/watch?v=jI8gtWbQqCc
+2021-11-02T10:34:41+00:00	Visiting Winmate: Industrial Tablets and PCs for Transport and Light Industry	https://www.youtube.com/watch?v=H8khEK7_SIA

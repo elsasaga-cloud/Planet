@@ -1,4 +1,16 @@
-# SB-972 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw was not found on this server. That’s all we know.
+# SB-972 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-03-04T12:12:55+00:00	Tedarik Zincirinde Veri Görünürlüğü Nasıl Sağlanır? | AVEVA PI System	https://www.youtube.com/watch?v=IjQTQhTE9vw
+2026-02-26T12:27:30+00:00	Sürdürülebilirlik KPI'larini Nasıl Yönetirsiniz? | AVEVA PI Vision ile CO2 ve Enerji Takibi	https://www.youtube.com/watch?v=SIJrtYbkQk0
+2026-02-07T13:52:05+00:00	Endüstriyel Ağda Yüksek Bant Genişliği ve Güvenlik | Hirschmann BOBCAT Switch	https://www.youtube.com/watch?v=42gU4B_fySg
+2026-02-04T11:10:06+00:00	Çelik ve Metal Üretiminde Veri Takibi Nasıl Yapılır? | PI Vision Dokum Uygulaması	https://www.youtube.com/watch?v=WaZ5Hx0AZEU
+2026-02-01T21:00:37+00:00	Rüzgar Türbini Arizasını Oluşmadan Önce Tespit Edin | AVEVA Predictive Analytics	https://www.youtube.com/watch?v=YgEeVOmV8rM
+2026-01-28T10:37:15+00:00	SCADA Verilerini Nasıl Anlamlandırırsınız? AVEVA PI System ile Endüstriyel Veri Analizi	https://www.youtube.com/watch?v=eIRCCeKCEus
+2026-01-21T18:25:28+00:00	AVEVA PI System Nedir? | Endüstriyel Tesislerde Gerçek Zamanlı Veri Yönetimi	https://www.youtube.com/watch?v=EgvKm5odkZ0
+2025-10-27T11:05:31+00:00	IO-Link Nedir ve Sensör Bağlantısını Nasıl Kolaylaştırır? | FAS Electronic	https://www.youtube.com/watch?v=yGHV59ByjcA
+2025-10-22T19:31:24+00:00	Pnömatik Hortum Bağlantılarını Sadeleştirin | FAS Electronic KDM Serisi	https://www.youtube.com/watch?v=bI_xTDbE7QM
+2025-09-25T21:00:24+00:00	Zero Trust Nedir? Endustriyel Ağlarda Siber Güvenlik | Macmon Secure NAC	https://www.youtube.com/watch?v=FBfqcN6v-rY
+2025-09-24T21:00:10+00:00	VLAN Yönetimi ile Ağ Güvenliği | Macmon NAC Türkiye	https://www.youtube.com/watch?v=52HPIIiZVWw
+2025-09-23T21:00:07+00:00	Grafiksel Ağ Topolojisi ile Tam Görünürlük | Macmon Türkiye	https://www.youtube.com/watch?v=6VE0k6Evsqg
+2025-09-22T21:00:30+00:00	NET ATTACK — The macmon Exit Game | Siber Güvenlik Simülasyonu	https://www.youtube.com/watch?v=QENlBM-6qss
+2025-09-22T21:00:17+00:00	VLAN Yönetimi ile Kurumsal Ağ Güvenliği | Macmon Türkiye	https://www.youtube.com/watch?v=DyqKJWUTQTw
+2025-09-21T21:00:09+00:00	Kurumsal Ağlarda Misafir Erişimi ve BYOD Yönetimi | Macmon Türkiye	https://www.youtube.com/watch?v=9PNaMoTmuEQ

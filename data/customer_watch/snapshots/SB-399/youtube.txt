@@ -1,4 +1,16 @@
-# SB-399 golmar.es · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC4zWDLG150AzCZGTBF5YNOg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UC4zWDLG150AzCZGTBF5YNOg was not found on this server. That’s all we know.
+# SB-399 golmar.es · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC4zWDLG150AzCZGTBF5YNOg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-08-07T10:05:29+00:00	GolmarLABs | You design it, we make it real	https://www.youtube.com/watch?v=_Eu0JXJZzmU
+2026-08-07T10:05:25+00:00	GolmarLABs | Tú diseñas, nosotros lo hacemos realidad	https://www.youtube.com/watch?v=7nRlz8lZNpQ
+2026-07-28T06:43:22+00:00	Golmar Tips | Domótica - Cómo dar de alta los módulos Yokis	https://www.youtube.com/shorts/8CdMMUvOY5k
+2026-07-28T06:41:26+00:00	Golmar Tips | ART 4 XLITE - Comprobación de la configuración como monitor máster / secundario	https://www.youtube.com/shorts/SeQHvQnTj4U
+2026-07-28T06:41:22+00:00	Golmar Tips | Domótica - Cómo dar de alta los módulos y mandos Yokis	https://www.youtube.com/shorts/eI23CgDAVGo
+2026-07-13T10:57:51+00:00	GOLMARSAFE | Contacto magnético CM-033W | Golmar	https://www.youtube.com/watch?v=3dfNbWLf9hw
+2026-07-13T10:57:47+00:00	GOLMARSAFE | Detector de inundación DA-302W | Golmar	https://www.youtube.com/watch?v=0vCEYt4Q1aU
+2026-07-13T10:57:45+00:00	GOLMARSAFE | Central HUB de alarma CA-8100W | Golmar	https://www.youtube.com/watch?v=SSllCGXDYsE
+2026-07-13T10:57:41+00:00	GOLMARSAFE | Teclado KP-810W | Golmar	https://www.youtube.com/watch?v=r6Qn9cN9SXE
+2026-07-13T10:57:38+00:00	GOLMARSAFE | Detector infrarrojo PIR-910W | Golmar	https://www.youtube.com/watch?v=5dueQWfa5ws
+2026-07-13T10:57:34+00:00	GOLMARSAFE | Mando TX-810W | Golmar	https://www.youtube.com/watch?v=Dd-Ig5I5NZM
+2025-12-10T07:56:47+00:00	Supra. The door panel that surpasses all expectations | Golmar	https://www.youtube.com/watch?v=ZgBFuCfvZwE
+2025-12-10T07:56:43+00:00	Supra. La placa que eclipsa cualquier expectativa | Golmar	https://www.youtube.com/watch?v=hEDi8wSp_vQ
+2024-06-26T07:00:01+00:00	GOLMAR | ART 4 XLITE: Easy user guide	https://www.youtube.com/watch?v=0V0oaSWKbzk
+2024-06-26T07:00:00+00:00	GOLMAR | ART 4 XLITE: Guía básica de usuario	https://www.youtube.com/watch?v=-Pz17Jqed90

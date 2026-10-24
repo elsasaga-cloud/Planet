@@ -1,4 +1,4 @@
-# SB-909 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-909 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Lendoux Specialized Store
  New
 
@@ -53,20 +53,21 @@ More Category Less Category More Category Less Category
 Popular Products
 
 
-FS Datacenter switch NC8200-4TD with 32*100G & 64*40G & 128*25G
+Edgecore Datacenter switch DCS560-AS9817-64O-AS9817-64D-with 64*QSFP-DD800/OSFP800
 Switch and router store
-$8,732.00 Price
+$1.00 Price
 
 FS Datacenter switch NC8200-4TD with 128*25G&64*40G&32*100G
 Switch and router store
 $8,732.90 Price
 
-HOP6865-56YC- 48 port 25 G Access and 8x100 G Uplink Switch
-Telecom and Network
-$7,400.00 Price
+Edgecore Datacenter switch DCS520-AS9736-64D-with 64*400G
+Switch and router store
+$44,400.00 Price
 
-Complete and intelligent rack package for EDGE-7 data center with usystem liquid ventilation
-Data center store
+Dell Unity XT 480
+Home
+$0.00 Price
 All Featured Products 
 Latest Requests
 

@@ -1,4 +1,13 @@
-# SB-1165 bizsyscon.com · youtube · https://www.youtube.com/@Bizsyscon · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCJgN2w4yE_8L8qft1PvnQbA was not found on this server. That’s all we know.
+# SB-1165 bizsyscon.com · youtube · https://www.youtube.com/@Bizsyscon · fetched 2026-10-24T07:26:33Z · HTTP 200
+2019-10-11T14:17:18+00:00	Ubiquiti FlexHD 802.11ac 4x4 AP	https://www.youtube.com/watch?v=3qwrMLK-94I
+2017-02-01T16:56:46+00:00	MU MIMO UAP-AC-HD	https://www.youtube.com/watch?v=jFKXkZpzaPQ
+2016-07-27T17:22:44+00:00	Planet VF-102-KIT Media Converter Unboxing	https://www.youtube.com/watch?v=OeNgP53Xabc
+2016-06-29T19:23:04+00:00	Planet IPOE-E174 Industrial PoE Extender Unboxing	https://www.youtube.com/watch?v=W5kyo61ZMCQ
+2016-06-02T20:49:19+00:00	Planet GS-4210-48T4S Gigabit Switch Unboxing	https://www.youtube.com/watch?v=1uPLmnBR4UQ
+2016-05-25T21:19:44+00:00	Planet WGS-804HP Flat Ethernet Switch Unboxing	https://www.youtube.com/watch?v=plr4a4yC1Q4
+2016-04-20T18:06:27+00:00	Planet VIP-156PE Analog Telephone Adapter Unboxing	https://www.youtube.com/watch?v=Dec9ppdXUuw
+2016-02-26T19:02:51+00:00	Planet Long Reach PoE Kits Unboxing	https://www.youtube.com/watch?v=6FggXczI6HI
+2015-08-31T15:21:27+00:00	Ubiquiti LBE-M5-23 LiteBeam M5 23dBi 5GHz Wireless Broadband CPE	https://www.youtube.com/watch?v=F-bBks7Wv6Y
+2015-07-01T18:25:36+00:00	Long Reach PoE	https://www.youtube.com/watch?v=Ode37Qt5hiA
+2015-06-24T22:01:22+00:00	AF 5X	https://www.youtube.com/watch?v=h48SVVo0e5U
+2015-05-28T19:00:24+00:00	Ubiquiti UVC Micro IP Camera Introduction	https://www.youtube.com/watch?v=Qr1t8Mg2vtM

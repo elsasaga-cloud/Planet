@@ -1,4 +1,16 @@
-# SB-1240 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ was not found on this server. That’s all we know.
+# SB-1240 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-03-11T14:37:00+00:00	Seismic Shield Wireless | Part 2 - System Configuration	https://www.youtube.com/watch?v=q3LGHPDHIy4
+2026-03-11T14:33:13+00:00	Seismic Shield Wireless | Part 1 - What's in The Box?	https://www.youtube.com/watch?v=-hEvKwKan08
+2026-03-11T14:31:33+00:00	Seismic Shield Wireless | Part 4 - Sensor Calibration	https://www.youtube.com/watch?v=w58jz6hgmus
+2025-12-15T08:00:42+00:00	Invisible Perimeter Security for Private Properties	https://www.youtube.com/watch?v=YuxJ9iCDfHk
+2025-10-29T09:12:12+00:00	30 Seconds About SensoGuard Sensors	https://www.youtube.com/watch?v=oBMZyl-3gPA
+2025-10-16T08:06:55+00:00	עמדת תצפית IDIS AI PTZ - שליטה מוחלטת בשטח	https://www.youtube.com/watch?v=GV8HlL5qJZo
+2025-08-26T11:55:53+00:00	SensoGuard Tactical Surveillance - CovertEye 4G	https://www.youtube.com/watch?v=bODFtsaU2Yo
+2025-07-20T11:35:45+00:00	SensoGuard Terrain Dominance - סנסוגארד אחיזת שטח	https://www.youtube.com/watch?v=uaOY6qevUYQ
+2025-07-10T06:45:05+00:00	SensoGuard Terrain Dominance System	https://www.youtube.com/watch?v=kEDGbEgRrMg
+2025-06-30T09:18:58+00:00	IDIS 365 Days of Security	https://www.youtube.com/watch?v=IwxwUYdqcOo
+2025-06-08T09:55:55+00:00	InvisiFence Plus 30s Installation	https://www.youtube.com/watch?v=uASZjV85D_g
+2025-05-08T11:19:45+00:00	OutWatch	https://www.youtube.com/watch?v=3KNlrfTetgc
+2025-02-02T13:04:14+00:00	Protecting Our Heritage - Seismic Shield Pro - English	https://www.youtube.com/watch?v=AWP_4zA1E3w
+2025-02-02T13:03:33+00:00	Protecting Our Heritage - Seismic Shield Pro - Hebrew	https://www.youtube.com/watch?v=s9IuBRf8d7g
+2024-09-24T07:51:52+00:00	OutWatch | AI Alarm Monitoring Server (Hebrew Version)	https://www.youtube.com/watch?v=DRx2oFaFod4

@@ -1,4 +1,16 @@
-# SB-187 pixcom.ae · youtube · https://www.youtube.com/user/pixcomtech · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCJvROrAiWPWlyf0yzXvJ0ng was not found on this server. That’s all we know.
+# SB-187 pixcom.ae · youtube · https://www.youtube.com/user/pixcomtech · fetched 2026-10-24T07:26:33Z · HTTP 200
+2018-03-08T10:50:13+00:00	Pixcom Marquee References	https://www.youtube.com/watch?v=QzXMWyVTXE8
+2018-01-03T04:42:36+00:00	Pixcom : 2017 Year In Review	https://www.youtube.com/watch?v=wYCj2UhNc14
+2016-05-15T12:01:54+00:00	Pixcom Installed 360 degree Curved LED Display in Dubai Airport Concourse 4	https://www.youtube.com/watch?v=csgdRUAnW0s
+2016-05-07T12:55:16+00:00	LED Unipole On Sheikh Zayed Road - Night View	https://www.youtube.com/watch?v=kKyXXZmBysg
+2016-05-07T12:52:54+00:00	LED Unipole On Sheikh Zayed Road - Day View	https://www.youtube.com/watch?v=Oyx7SYT0xDU
+2015-01-14T13:02:19+00:00	Dubai Mall Fountain LED Display	https://www.youtube.com/watch?v=_WkYsm_I9yI
+2015-01-14T12:54:24+00:00	M8 Media Wall - Box Park	https://www.youtube.com/watch?v=QQqxCxNabuw
+2015-01-14T12:51:27+00:00	Media Pole LED Display at BoxPark	https://www.youtube.com/watch?v=_hm-MxL0n1A
+2015-01-14T12:51:17+00:00	M10MediaWalll	https://www.youtube.com/watch?v=wPUq-XBOqOw
+2015-01-14T12:47:03+00:00	BoxPark LED Display - M10	https://www.youtube.com/watch?v=qevr7-s2kEE
+2015-01-14T12:40:58+00:00	DWTC Indoor LED Display	https://www.youtube.com/watch?v=CALpVo9kbxA
+2014-01-29T11:16:36+00:00	JBR Media Pole	https://www.youtube.com/watch?v=60uFQC58wK8
+2013-09-16T11:31:29+00:00	DWTC LED Display during Sibos	https://www.youtube.com/watch?v=tbx10isBzTs
+2013-09-16T11:29:59+00:00	Exhibition Gate LED Display at DWTC, Dubai	https://www.youtube.com/watch?v=-XPMlI1aW30
+2013-09-16T11:19:42+00:00	DWTC LED Display Installed By Pixcom	https://www.youtube.com/watch?v=Vw_bFc81W-A

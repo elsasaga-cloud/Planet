@@ -1,4 +1,14 @@
-# SA-144 mutexsystemsltd.com · youtube · https://www.youtube.com/@mutexsystemsltd · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UClMh0TpCNROfu3Ky5uGgDLA was not found on this server. That’s all we know.
+# SA-144 mutexsystemsltd.com · youtube · https://www.youtube.com/@mutexsystemsltd · fetched 2026-10-24T07:26:33Z · HTTP 200
+2023-06-12T13:36:55+00:00	Cutting-Edge Cyber Security and Digital Transformation Solutions by Mutex Systems Pvt. Ltd.	https://www.youtube.com/watch?v=AOOsBPb_Wt4
+2020-08-14T12:40:23+00:00	Mutex Systems Pvt. Ltd. Team wishes Happy Independence to Nation.	https://www.youtube.com/watch?v=wmMwIDr5f0w
+2020-07-28T05:24:39+00:00	World Hepatitis Day	https://www.youtube.com/watch?v=l7HUejTpv78
+2020-07-15T15:03:18+00:00	World Youth Skills Day	https://www.youtube.com/shorts/x2Bpf6kXdQk
+2020-07-08T11:43:09+00:00	Workplace Precautions	https://www.youtube.com/shorts/Q6xJ1CXIFtg
+2020-07-06T07:35:07+00:00	COVID-19 Misconceptions	https://www.youtube.com/shorts/97mTPTZDeiY
+2020-07-05T10:20:53+00:00	Cloud Management Services	https://www.youtube.com/watch?v=LJpsbY7i8nE
+2020-06-29T11:59:21+00:00	Why wearing masks is important?	https://www.youtube.com/shorts/Ptm4YhE_lIM
+2020-06-12T18:33:51+00:00	International Day against Child Labour!	https://www.youtube.com/shorts/4wBklX4EvY8
+2020-06-12T18:05:27+00:00	Wecare Campaign-CSR-Mutex Systems Pvt Ltd During COVID 19	https://www.youtube.com/watch?v=14HcOLhRJWk
+2020-04-23T09:59:42+00:00	VMware Horizon 7 | Deliver desktops, Apps & secure data on endpoint devices | Mutex Systems Pvt Ltd	https://www.youtube.com/shorts/R34kWQPiTRQ
+2020-04-23T07:14:57+00:00	Microsoft 365 | Productivity Cloud Designed to help Customers | Mutex Systems Pvt Ltd	https://www.youtube.com/shorts/v7szs-3GWik
+2020-04-22T18:07:59+00:00	VMware Workspace One | Intelligence-driven Digital Workspace Platform | Get Free Advise	https://www.youtube.com/shorts/rWP0JllWZ1Q

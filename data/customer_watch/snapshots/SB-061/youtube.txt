@@ -1,4 +1,16 @@
-# SB-061 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw was not found on this server. That’s all we know.
+# SB-061 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-16T02:47:35+00:00	なぜスマートファクトリーにTSNが必要なのか	https://www.youtube.com/watch?v=EvusKwGwLjk
+2026-09-14T07:12:07+00:00	為什麼智慧工廠需要TSN	https://www.youtube.com/watch?v=yKCif5AvJow
+2026-09-14T07:12:00+00:00	Why Smart Factories Need TSN	https://www.youtube.com/watch?v=fglIY45juGU
+2026-06-08T02:30:28+00:00	Stability Without the Cabinet 8075-8GT-M12	https://www.youtube.com/watch?v=0z75YVUdQY4
+2026-05-22T03:20:46+00:00	VOLKTEK｜1,000m Ethernet with Just One Pair (SPE)	https://www.youtube.com/watch?v=wyNO7wNRMWo
+2026-04-28T02:05:13+00:00	Volktek Built for the Edge PoE+10G	https://www.youtube.com/watch?v=ATBgejcyjoE
+2026-04-09T02:34:31+00:00	VOLKTEK Industrial Networking for Smart Water Systems	https://www.youtube.com/watch?v=eFOqneVJROI
+2026-03-12T07:29:20+00:00	VOLKTEK Marine Network Stability DNV & LR Certified Switches	https://www.youtube.com/watch?v=v56npayjFbs
+2026-01-28T08:35:10+00:00	VOLKTEK LAMUNGAN — Embedded Management System for Lite Managed Switches	https://www.youtube.com/watch?v=Fe89H71Zry0
+2025-12-11T08:09:11+00:00	VOLKTEK Unmanaged Premiun vs. Lite Managed Switches: Why Visibility Matters	https://www.youtube.com/watch?v=LGwxWAei698
+2025-11-17T09:52:51+00:00	VOLKTEK Unmanaged Basic vs. Premium Switches	https://www.youtube.com/watch?v=rcshaegreLc
+2025-10-30T03:41:28+00:00	VOLKTEK Industrial Ethernet Products Portfolio & Purpose	https://www.youtube.com/watch?v=TLYrWnMnf3c
+2025-10-16T03:33:53+00:00	Korean Version – Ethernet Switch 123	https://www.youtube.com/watch?v=HdhX9xPyzn4
+2025-09-17T05:47:50+00:00	中文版Ethernet Switch1 2 3	https://www.youtube.com/watch?v=l8cRPuegDao
+2025-09-16T05:36:51+00:00	Ethernet Switch1 2 3	https://www.youtube.com/watch?v=8xCLfzIzPi4

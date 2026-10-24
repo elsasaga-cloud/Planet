@@ -1,4 +1,16 @@
-# SB-988 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCHQkdMNOIt3gultYUrcsYdQ was not found on this server. That’s all we know.
+# SB-988 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-14T15:00:16+00:00	3 типа коммутаторов: неуправляемый, Smart, управляемый shorts	https://www.youtube.com/shorts/Gbns63hOzDY
+2026-09-13T16:00:09+00:00	Три вопроса при выборе коммутатора shorts	https://www.youtube.com/shorts/sL7CCsjYkug
+2026-09-12T09:00:16+00:00	Управляемый и неуправляемый коммутатор. В чём разница? shorts	https://www.youtube.com/shorts/ORL4_aiWIFE
+2026-09-11T16:00:38+00:00	5 линеек сетевого оборудования в TRASSIR	https://www.youtube.com/shorts/HdHaaEueMhM
+2026-09-10T16:59:02+00:00	Коммутатор не просто коробка с портами shorts	https://www.youtube.com/shorts/nje0aiKMK0Y
+2026-09-10T16:14:20+00:00	ОБЪЕКТ РЕШАЕТ какой коммутатор нужен	https://www.youtube.com/watch?v=YNLbQ0xIMVk
+2026-08-23T14:00:03+00:00	Экономить на сопровождении будущей сети	https://www.youtube.com/shorts/vCFjF3MDjXg
+2026-08-22T10:00:14+00:00	Закрыть большие линии объекта обычной офисной схемой	https://www.youtube.com/shorts/wBwPHT2nsiY
+2026-08-21T08:00:08+00:00	Забывать про UPLINK и скорость	https://www.youtube.com/shorts/ZYSWmVG13EI
+2026-08-16T14:00:37+00:00	Смотреть на наличие POE без подсчета мощности	https://www.youtube.com/shorts/8xYtwgY17DI
+2026-08-15T14:04:04+00:00	Брать сетевые порты коммутатора впритык под текущие задачи — грубая ошибка проектирования	https://www.youtube.com/shorts/k6caUkKjMQY
+2026-08-11T05:00:26+00:00	КАК ВЫБРАТЬ СЕТЕВОЕ ОБОРУДОВАНИЕ? Для видеонаблюдения	https://www.youtube.com/watch?v=zXy1_eO1zwk
+2026-06-28T06:00:09+00:00	Охранная система TRASSIR СКУД	https://www.youtube.com/shorts/dlIpJKPqH-I
+2026-06-27T06:00:23+00:00	Контроль СКУД РС ЕБС	https://www.youtube.com/shorts/CDtGsPnYdKQ
+2026-06-08T14:46:25+00:00	Цифровая основа сети	https://www.youtube.com/shorts/9j46-1EtQSg

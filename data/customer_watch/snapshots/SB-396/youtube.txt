@@ -1,4 +1,2 @@
-# SB-396 efb-elektronik.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCtFNGfz_2KI7nlFZycox4Uw · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCtFNGfz_2KI7nlFZycox4Uw was not found on this server. That’s all we know.
+# SB-396 efb-elektronik.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCtFNGfz_2KI7nlFZycox4Uw · fetched 2026-10-24T07:26:33Z · HTTP 200
+2017-12-08T09:54:17+00:00	efb tanitimfilmi mpeg4 aac	https://www.youtube.com/watch?v=gal3x5XS2sk

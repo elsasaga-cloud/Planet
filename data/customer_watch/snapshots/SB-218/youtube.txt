@@ -1,4 +1,16 @@
-# SB-218 dodicelettronica.it · youtube · https://www.youtube.com/@dodicelettronica · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UC_C6eXe8L3gtmcMGswZBwNg was not found on this server. That’s all we know.
+# SB-218 dodicelettronica.it · youtube · https://www.youtube.com/@dodicelettronica · fetched 2026-10-24T07:26:33Z · HTTP 200
+2022-09-30T08:31:14+00:00	La nostra nuova sede Dodic di Roma Sud!	https://www.youtube.com/watch?v=c1OpPEq7SbY
+2021-04-29T14:33:14+00:00	Uniview ColorHunter, una nuova era per la Videosorveglianza!	https://www.youtube.com/watch?v=SsIGxWPnIH0
+2020-05-15T15:54:30+00:00	Demo OET-213H Terminale Termometrico di controllo accessi UNV presso Dodic	https://www.youtube.com/watch?v=3Mqj1xL1UeA
+2020-04-30T10:52:45+00:00	OET-213H-BTS1 - Funzionamento	https://www.youtube.com/watch?v=4l1yO2Cz_KA
+2020-04-28T14:00:39+00:00	ZKTeco Touchless Biometrics Solutions with Body Temperature Detection	https://www.youtube.com/watch?v=K_mkwmkxqE4
+2020-04-23T14:46:11+00:00	Touchless Biometrics Solution with Body Temperature Crowd Control and Masked Individual Recognition	https://www.youtube.com/watch?v=0OJx_0jNVxQ
+2020-04-23T14:45:04+00:00	ZKTeco's Body Temperature Crowd Control Product Series	https://www.youtube.com/watch?v=Hal28lRL0B4
+2020-04-23T14:43:53+00:00	Hikvision Temperature Screening Solutions	https://www.youtube.com/watch?v=RRhUXYDcv7Q
+2020-04-23T14:42:26+00:00	Safer, Faster, Smarter Hikvision Temperature Screening Thermal Solutions	https://www.youtube.com/watch?v=THRT1JkLABc
+2020-04-23T14:40:19+00:00	CW180 Temperature Measurement Kit （Italian）	https://www.youtube.com/shorts/wXUeasPfm2g
+2020-04-23T14:37:52+00:00	Face Recognition Terminal with Temperature Measurement Module Italian）	https://www.youtube.com/shorts/6UTEuutEKIk
+2020-04-23T14:36:35+00:00	Heat Tracker Series Successful Cases Italian Verison	https://www.youtube.com/watch?v=ay18qnCcvl0
+2020-04-23T14:34:28+00:00	UNV Heat Tracker Series Products and Solution in Chinese National Level Museums Italian Version	https://www.youtube.com/shorts/fg32gtKGuSY
+2020-04-23T14:32:31+00:00	The pandemic prevention solution for hospitals ITALIAN	https://www.youtube.com/watch?v=KtfAYVP3LMk
+2020-04-23T14:31:25+00:00	UNV Pandemic Prevention Solutions for Public Transportation italian	https://www.youtube.com/watch?v=vmGbwHqh6f8

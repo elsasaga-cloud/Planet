@@ -1,4 +1,16 @@
-# SB-914 prismwifi.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7jsSmhXVbiaqsiXKdBrMfA · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UC7jsSmhXVbiaqsiXKdBrMfA was not found on this server. That’s all we know.
+# SB-914 prismwifi.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7jsSmhXVbiaqsiXKdBrMfA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-01-24T13:41:51+00:00	Prism by Browan: Powering IoT with Enterprise Wi-Fi	https://www.youtube.com/watch?v=kgl9XzoCAj4
+2024-08-06T07:24:18+00:00	PRISM_Wi-Fi 6 AX3000 Indoor Router_MI14	https://www.youtube.com/watch?v=zFGzpkhGP5E
+2024-08-06T07:10:34+00:00	PRISM_Wi-Fi 6 AX1800 In Wall AP_MI13	https://www.youtube.com/watch?v=1jgPyspjlDU
+2024-08-06T07:02:23+00:00	PRISM_Wi-Fi 6 AX6000 Indoor Router_MI12	https://www.youtube.com/watch?v=CPMprulhsPI
+2023-12-08T07:55:31+00:00	BROWAN Prism MI13 - How to Setup The Local GUI via Ethernet LAN Port	https://www.youtube.com/watch?v=-2s6U1bNGvE
+2023-12-08T07:51:04+00:00	BROWAN Prism MI13 - How to Setup Wi-Fi Via Local GUI	https://www.youtube.com/watch?v=Q7BAwlIjX4Y
+2023-12-08T07:37:51+00:00	WBA interview with Henry Huang	https://www.youtube.com/watch?v=oIvbwkfzlw0
+2023-10-19T06:23:09+00:00	BROWAN Prism MI10 Wi-Fi 6 AX6600 Indoor Mesh Router	https://www.youtube.com/watch?v=Yk7hDoAhGGs
+2023-10-19T06:23:08+00:00	BROWAN Prism MI13 Wi-Fi 6 AX1800 In-Wall AP	https://www.youtube.com/watch?v=aXuTfQCUxw0
+2023-10-19T06:01:20+00:00	BROWAN Prism MO10 Wi-Fi 6 AX6600 Outdoor Mesh Router	https://www.youtube.com/watch?v=ZKmn3kZoadQ
+2023-08-17T06:10:57+00:00	WGC Interview Chloe Yang	https://www.youtube.com/watch?v=JZa1IFUu2HE
+2023-04-25T06:29:41+00:00	PRISM Use Case	https://www.youtube.com/watch?v=ZWJdDd2rfNk
+2023-04-25T06:21:15+00:00	2023 Smart City Asia in Vietnam	https://www.youtube.com/watch?v=g8BmmYXDjbw
+2022-03-25T08:54:57+00:00	PRISM_Wi-Fi 6 AX6600 Outdoor Mesh AP Router_MO10	https://www.youtube.com/watch?v=2ABEzU59c60
+2022-03-25T08:54:54+00:00	PRISM_Wi-Fi 6 AX6600 Indoor Mesh AP Router_MI10	https://www.youtube.com/watch?v=wv0ko6gigDk

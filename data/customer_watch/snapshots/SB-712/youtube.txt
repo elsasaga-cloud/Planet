@@ -1,4 +1,11 @@
-# SB-712 mavialarm.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjdDRS04mEeJv2wV6iiEEzQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCjdDRS04mEeJv2wV6iiEEzQ was not found on this server. That’s all we know.
+# SB-712 mavialarm.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjdDRS04mEeJv2wV6iiEEzQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2021-09-26T12:15:17+00:00	Hikvision DS 2CD1023G0E-IF 2MP IP IR Bullet Kamera	https://www.youtube.com/watch?v=rWhq4eNTAmk
+2021-08-03T21:19:00+00:00	IP İnterkom Sistemleri | Hikvision	https://www.youtube.com/watch?v=XApVKC5-g5A
+2021-06-26T17:32:12+00:00	Mavi Alarm Sistemleri	https://www.youtube.com/watch?v=K2HrA6G68nc
+2021-06-21T05:31:37+00:00	MaviAlarm Kamera ve Güvenlik Teknolojileri	https://www.youtube.com/watch?v=QuzqM9L2DSk
+2021-06-19T11:20:29+00:00	Dahua Full Color Güvenlik Kamera Sistemleri	https://www.youtube.com/watch?v=AaekIEmLrUE
+2021-06-12T23:16:12+00:00	Hybrone Veri Takip ve İzleme Çözümleri	https://www.youtube.com/watch?v=m21QcalL77k
+2021-03-04T19:47:39+00:00	Hikvision ColorVu IP Network ve Analog HD Kamera Çözümleri	https://www.youtube.com/watch?v=RbYzCNuGgbg
+2020-10-24T16:33:48+00:00	Hikvision Plaka Tanıma Sistemleri	https://www.youtube.com/watch?v=WxOI-Ashipk
+2020-07-22T09:07:43+00:00	Hikvision DS-K1TA70MI-T Isı ve Ateş Ölçerli Yüz Tanıma Terminali	https://www.youtube.com/watch?v=dm5eHR99S9E
+2020-07-22T08:54:05+00:00	Hikvisioon DS-2TD2617B-6/PA Isı Ölçer Termal Kamera	https://www.youtube.com/watch?v=ukc5XVEQFjM

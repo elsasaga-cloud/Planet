@@ -1,4 +1,14 @@
-# SB-975 erete.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCu6QpJWkTqt-bi3jMjqhBlg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCu6QpJWkTqt-bi3jMjqhBlg was not found on this server. That’s all we know.
+# SB-975 erete.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCu6QpJWkTqt-bi3jMjqhBlg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2018-06-10T12:24:32+00:00	XP Marka Kablolama ve Aktif Sistemler Ürünleri	https://www.youtube.com/watch?v=3GIJY_wHgs4
+2018-06-05T11:13:01+00:00	Yapısal Kablolamada XPCable Ömür Boyu Garanti	https://www.youtube.com/watch?v=q18tEcbrpdE
+2018-05-07T12:18:37+00:00	XPS NETWORKS	https://www.youtube.com/watch?v=3T25OrwBSpE
+2018-04-26T10:06:07+00:00	Securitex Eurasia Güvenlik Fuarında Erete Network Tanıtımı	https://www.youtube.com/watch?v=Efx-gwVIvO4
+2015-09-22T10:51:08+00:00	ERETE ISAF'ta FLUKENETWORKS EĞİTİMİ VERDİ	https://www.youtube.com/shorts/nhi-F4dpya4
+2015-09-22T10:05:28+00:00	ETHERWAN Endüstriyel Switch Memnuniyeti	https://www.youtube.com/shorts/XpVu1Ry2ygo
+2015-09-22T08:41:59+00:00	ERETE Türkiye'nin ilk 500 bilişim firmasındaki yerini bu yıl da korudu.	https://www.youtube.com/watch?v=se_X81MbHhQ
+2015-07-30T10:35:07+00:00	NETWORKLERDE NEDEN RISK ALALIM Ki?	https://www.youtube.com/watch?v=g-cMDK3QNv4
+2015-07-30T10:25:15+00:00	ETHERWAN POL( Power Over Link)ürünü ile iki tel telefon kablosu ile 2km uzağa bağlantı imkanı	https://www.youtube.com/watch?v=OgSOOuzhy9U
+2015-07-30T09:59:28+00:00	ETHERWAN MEDIA CONVERTER ERETE ILE TÜRKİYE'de tüm Güvenlik, Data, Ses iletişim Altyapılarında	https://www.youtube.com/watch?v=_fR6BC3rWz4
+2015-07-30T09:20:24+00:00	ETHERWAN ENDÜSTRİYEL/HARDENED SWITCH	https://www.youtube.com/watch?v=sqhqTq0KGMM
+2015-07-30T08:51:37+00:00	ETHERWAN PoE 60w SWITCH TEKNOLOJİSI	https://www.youtube.com/watch?v=mYD122R9f9c
+2014-11-04T09:20:42+00:00	erete_network_sistemleri_gulgun_feyman	https://www.youtube.com/watch?v=-Y6WasSoRC0

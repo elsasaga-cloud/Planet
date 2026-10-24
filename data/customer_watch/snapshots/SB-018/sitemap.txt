@@ -1,4 +1,4 @@
-# SB-018 telkolink.com · sitemap · http://www.telkolink.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-018 telkolink.com · sitemap · http://www.telkolink.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 2020-09-01T18:16:29+00:00	http://telkolink.com/
 2015-03-30T11:00:21+00:00	http://telkolink.com/Katalog/1040G.pdf
 2014-12-03T11:16:14+00:00	http://telkolink.com/Katalog/10G-SFP.pdf

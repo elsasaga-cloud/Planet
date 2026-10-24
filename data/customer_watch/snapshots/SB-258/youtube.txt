@@ -1,4 +1,16 @@
-# SB-258 alconlink.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ was not found on this server. That’s all we know.
+# SB-258 alconlink.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCiY2Cne9NDjOhemZGZYTDEQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-03-03T06:31:26+00:00	Alcon 5MP Starlight Outdoor Bullet Camera Low light performance, high resolution imaging,	https://www.youtube.com/watch?v=z2enpUkpEUs
+2025-02-03T09:24:32+00:00	Alcon 2MP bullet Camera	https://www.youtube.com/watch?v=2vn_wYSWFUE
+2025-01-08T06:17:33+00:00	Alcon High- Quality 2MP AI STARILIGHT 250M IR PTZ CAMERA	https://www.youtube.com/watch?v=W1PoDO9zdmM
+2025-01-04T10:07:21+00:00	Alcon 5MP STARLIGHT MOTORIZED INDOOR BULLET CAMERA	https://www.youtube.com/watch?v=awpedsqW-cA
+2025-01-02T07:36:22+00:00	"Revolutionizing Campus Security: 500 Alcon Cameras at Bhubaneswar"	https://www.youtube.com/watch?v=8qtcUjs8aws
+2024-07-12T11:00:04+00:00	Alcon Panoramic PTZ 180 Degree Camera	https://www.youtube.com/watch?v=_Ypo11Y-VY8
+2024-07-06T10:25:40+00:00	Alcon NVR Connection for Hooter	https://www.youtube.com/watch?v=fCNG1HH1Hu0
+2024-06-22T11:21:44+00:00	Alcon 180 Degree Panoramic Bullet Camera	https://www.youtube.com/watch?v=6KEksTGU3Fo
+2021-08-28T10:23:08+00:00	Downloading Short Video Clip From Playback In Alcon NVRs	https://www.youtube.com/watch?v=oY7k2HXt3JQ
+2020-09-25T04:43:45+00:00	ALCON THERMAL FEVER & MASK DETECTION SOLUTION BY AL-5001-MPCT-HD2FRUDK & AL-NVR5010T-2DP	https://www.youtube.com/watch?v=tjMkXMLu0X4
+2020-09-05T08:32:29+00:00	Alcon AI Ultra-Precision Human Body Temperature Detection Machine Installation & Operation Guide	https://www.youtube.com/watch?v=oJfgpKkpmYY
+2018-10-08T13:55:18+00:00	WDR effect from Alcon camera	https://www.youtube.com/watch?v=CNldvShAMf0
+2018-10-08T13:23:47+00:00	Using Alcon 02MP camera number plate shown during the night	https://www.youtube.com/watch?v=SK3iJjZpw4o
+2018-04-18T12:48:39+00:00	Configurations of alcon creative and premium series cameras to add in creative series NVRs	https://www.youtube.com/watch?v=gyCDP32cXCg
+2018-04-18T08:15:05+00:00	Alcon 02MP Ultra Dark Knight Camera At Night In Middle East	https://www.youtube.com/watch?v=S6lxQRcMuS4

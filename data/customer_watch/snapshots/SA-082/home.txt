@@ -1,4 +1,4 @@
-# SA-082 NOVA Group Engineering Project Electronic Co LTD · home · https://www.novacom.com.tr/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SA-082 NOVA Group Engineering Project Electronic Co LTD · home · https://www.novacom.com.tr/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Anasayfa - Novacom Technology
 Ürünlerimiz
 Güvenlik ve Ağ Ürünleri
@@ -152,30 +152,6 @@ Merkezi TV ve Uydu (SMATV)
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-NC-10/10 (MY921) Multiswitch Yükseltici
-Merkezi TV ve Uydu (SMATV) , Multiswitch Yükseltici
-In stock
-SKU:
-5400
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-NMS-10/80S Sonlu Multiswitch
-Merkezi TV ve Uydu (SMATV) , Multiswitch
-In stock
-SKU:
-244
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-NMS-10/8P Sonlu / Kaskat Multiswitch
-Merkezi TV ve Uydu (SMATV) , Multiswitch
-In stock
-SKU:
-9254
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
 NMS-10/40S Sonlu Kaskat Multiswitch
 Merkezi TV ve Uydu (SMATV) , Multiswitch
 In stock
@@ -184,11 +160,33 @@ SKU:
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-Formuler GTV-IR1 Kumanda
+100 cm Offset Delikli Çanak Anten
+Merkezi TV ve Uydu (SMATV) , Çanak Anten
+In stock
+SKU:
+339
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+NMS-10/52P Sonlu Kaskat Multiswitch
+Merkezi TV ve Uydu (SMATV) , Multiswitch
+In stock
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Formuler Z10 Pro Max
 IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-5948
+6880
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Novacom Octo LNB
+Merkezi TV ve Uydu (SMATV) , (4K) Full HD LNB
+In stock
+SKU:
+8953
 NOVACOM SİNYAL AVCISI
 Sinyal Bulucular
 İncele
@@ -203,11 +201,19 @@ SKU:
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-DRHD-SAT06 HD Uydu Sinyal Bulucu
+DRHD-STC10 Combo Signal Meter Uydu Bulucu
+Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
+In stock
+SKU:
+9477
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Gtmedia V8 Finder2
 Sinyal Bulucu
 In stock
 SKU:
-3204
+8880
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
@@ -216,14 +222,6 @@ Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
 In stock
 SKU:
 10236
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-DRHD-STC10 Combo Signal Meter Uydu Bulucu
-Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
-In stock
-SKU:
-9477
 Güvenlik Ağ Ürünleri
 Novacom ile güvenliğiniz her zaman önde.
 0
@@ -235,53 +233,53 @@ Dk
 00
 Sn
 İncele
-9U 500×400 Rack Kabinet
-CB69-TZ Vstarcam Wi-Fi Solar Kamera
-NVC-HG2444GBM
-HDMI 4×2 Matrix Switch
-ND-PE103W Extender/Splitter (Dış Ortam)
+NVC-PSEG0821 POE Switch
+NVC-HIS2116G2S Ethernet Switch
+NVC-HDES60 HDMI Video Extender
+HDVW09 4K 2×2 Video Wall Controller
+NVC-HDVW12C 4K 1×4 HDMI Multi-Screen Box
 IPTV Ürünleri
 İncele
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-SPYBOX S11CI Turbo Plus
-IPTV Set Top Box , Set Top Box
-In stock
-SKU:
-4505
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-Homatics Box R 4K Plus (Rose)
+Homatics Type-C DVB-S/S2 Uydu Bağlantı Modülü
 IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-8062
+8323
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-TBS MOI-V IPTV Streaming Server
-IPTV Ürünleri , IPTV Server
+NVC16-IPG IPTV Gateway
+IPTV Ürünleri , IPTV Gateway
 In stock
 SKU:
-Özel
+2015
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-TBS-2603 IPTV Encoder
-IPTV Ürünleri , IPTV Encoder
+Homatics Box R 4K Plus
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-9655
+9604
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-TBS2955 IPTV Streaming Server
-IPTV Ürünleri , IP Transcoder , IPTV Server
+Homatics Box R 4K/4K Plus Orjinal Uzaktan Kumanda
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-7336
+9451
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Formuler Z8
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
+In stock
+SKU:
+4025
 Fiber Optik TV
 Ürünleri
 Fiber Optik TV ürünlerinde geniş bir yelpaze sunuyoruz. Her ihtiyaca uygun çözümlerimizle kesintisiz bir TV deneyimi için Novacom'a göz atın.
@@ -301,19 +299,19 @@ Fiber LNB ile Tanışın!
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-Fiber Optik Test Cihazı VFL
-Fiber Optik TV Ürünleri , OTDR Test Cihazı
+Invacom Fiber Optik Lnb 64’lü
+LNB
 In stock
 SKU:
-10334
+81
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-FOTx26 Mini Fiber Optik Gönderici-Transmitter
-Transmitter
+NVC-IPC OTDR MOT31 Fiber Optik Tester
+Fiber Optik TV Ürünleri , OTDR Test Cihazı
 In stock
 SKU:
-1067
+10592
 Son Görüntülenen Ürünler
 Bizden Haberler
 Novacom, ihtiyaçlarınızı karşılayan teknoloji çözümleri sunar.

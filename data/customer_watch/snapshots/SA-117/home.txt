@@ -1,4 +1,4 @@
-# SA-117 domoticalia.es · home · https://www.domoticalia.es/en/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SA-117 domoticalia.es · home · https://www.domoticalia.es/en/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee, y SmartThings ...
 Sign in
 Contact us
@@ -306,24 +306,10 @@ AJAX MotionCam (PhOD) HDR Motion Detector: Integrated camera with photo verifica
 Add to cart
 More
 In stock
-39,95 €
-ZOOZ - Z-WAVE LONG RANGE 800 STICK
-New 800 Series long range Z-Wave Plus V2 LR radio USB home automation controller dongle: amazing signal, super secure and fast network!
-39,95 €
-Add to cart
-More
-In stock
 39,99 €
 SMLIGHT - SLZB-06 Adaptador Zigbee...
 SMLIGHT - the CC2652P POE Zigbee 3.0 USB Ethernet adapter compatible with Zigbee2mqtt and ZHA, for seamless automation.
 39,99 €
-Add to cart
-More
-In stock
-38,90 €
-Zigbee Smart Occupancy Sensor with Radar...
-Human presence sensor with 24GHz mmWave radar technology, representing an evolution from typical motion sensors. Precise detection and automation based on human presence/occupancy
-38,90 €
 Add to cart
 More
 In stock
@@ -339,6 +325,13 @@ Add to cart
 More
 Reduced price!
 In stock
+38,90 €
+Zigbee Smart Occupancy Sensor with Radar...
+Human presence sensor with 24GHz mmWave radar technology, representing an evolution from typical motion sensors. Precise detection and automation based on human presence/occupancy
+38,90 €
+Add to cart
+More
+In stock
 49,99 €
 SMLIGHT - Coordinador Zigbee 3.0 PoE USB...
 SMLIGHT SLZB-06Mg24 is a Zigbee 3.0 coordinator designed to integrate your Zigbee 3.0 devices into your network via Ethernet/PoE, WiFi, or USB connections.
@@ -350,6 +343,13 @@ In stock
 SMLIGHT - SLZB-06 Adaptador Zigbee...
 SMLIGHT - the CC2652P POE Zigbee 3.0 USB Ethernet adapter compatible with Zigbee2mqtt and ZHA, for seamless automation.
 39,99 €
+Add to cart
+More
+In stock
+39,95 €
+ZOOZ - Z-WAVE LONG RANGE 800 STICK
+New 800 Series long range Z-Wave Plus V2 LR radio USB home automation controller dongle: amazing signal, super secure and fast network!
+39,95 €
 Add to cart
 More
 In stock

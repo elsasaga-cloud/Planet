@@ -1,4 +1,4 @@
-# SB-939 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-939 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-24T07:26:33Z · HTTP 200
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-35/trunk-sm-2xmpo12-apcf-f-pol-b-35-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 25 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-25/trunk-sm-2xmpo12-apcf-f-pol-b-25-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 23.10.2026 12.18.03	DIN boks MAXI MPO/APC-12xSC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/pd1-kea2-1m1mf12su/din-boks-maxi-mpo-apc-12xsc-upc-pol-dot--u1-g-dot-657-dot-a2-mpo-apc12-hann-base-12-elite

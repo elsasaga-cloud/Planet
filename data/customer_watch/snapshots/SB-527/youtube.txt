@@ -1,4 +1,16 @@
-# SB-527 commfront.com · youtube · https://www.youtube.com/user/CommfrontComm · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCAREBssXjGacub3UsVYuRPA was not found on this server. That’s all we know.
+# SB-527 commfront.com · youtube · https://www.youtube.com/user/CommfrontComm · fetched 2026-10-24T07:26:33Z · HTTP 200
+2018-03-29T11:01:09+00:00	Surge Protectors - Protect your RS232 RS485 RS422 Serial Devices	https://www.youtube.com/watch?v=x95iqnfeV-0
+2018-03-29T10:59:24+00:00	Opto Isolators - Protect your RS232 RS485 RS422 Serial Devices	https://www.youtube.com/watch?v=f2cONUomsLs
+2018-03-28T11:18:31+00:00	Serial Conversion	https://www.youtube.com/watch?v=VUxvHzR7uXc
+2018-03-28T11:15:36+00:00	USB Conversion	https://www.youtube.com/watch?v=6hY8iayjMlY
+2018-03-28T11:11:50+00:00	Fiber Optic Conversion	https://www.youtube.com/watch?v=0JGa81axuEk
+2018-03-27T10:25:45+00:00	CONVERT - a mastery of legacy and leading-edge data formats	https://www.youtube.com/watch?v=KJCpMKq28DU
+2018-03-23T09:03:51+00:00	EXTEND - Communication without Limits	https://www.youtube.com/watch?v=bMa6aqnFP0I
+2018-03-23T09:00:22+00:00	PROTECT - Safeguarding your assets from all elements	https://www.youtube.com/watch?v=5b-TlaerQZk
+2018-03-23T08:51:55+00:00	Network - 5 Effective Ways to Extend your Data Communication Distance	https://www.youtube.com/watch?v=6g-1S7L_kOk
+2018-03-23T08:49:39+00:00	Redundant Ring - 5 Effective Ways to Extend your Data Communication Distance	https://www.youtube.com/watch?v=A-x7PFatyJo
+2018-03-23T08:46:43+00:00	Star Wiring - 5 Effective Ways to Extend your Data Communication Distance	https://www.youtube.com/watch?v=GskhyZCV8lY
+2018-03-23T08:38:11+00:00	Daisy Chain - 5 Effective Ways to Extend your Data Communication Distance	https://www.youtube.com/watch?v=i_I7sxrDeyo
+2018-03-23T08:16:36+00:00	Point to Point - 5 Effective Ways to Extend your Data Communication Distance	https://www.youtube.com/watch?v=EKe4XoVKCGQ
+2018-02-28T07:40:25+00:00	How does Optical Isolator work?	https://www.youtube.com/watch?v=YzMDj64-TUQ
+2018-02-28T07:27:47+00:00	How does Surge Protector work?	https://www.youtube.com/watch?v=nkYmiIlGSzw

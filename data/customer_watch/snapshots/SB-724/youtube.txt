@@ -1,4 +1,16 @@
-# SB-724 noxel.pl · youtube · https://www.youtube.com/@technicznynoxel · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCMGuLZJGPj9OR0wmAF1Bmyg was not found on this server. That’s all we know.
+# SB-724 noxel.pl · youtube · https://www.youtube.com/@technicznynoxel · fetched 2026-10-24T07:26:33Z · HTTP 200
+2024-07-07T10:06:13+00:00	Kamera obrotowa z autotrackingiem HiLook. Omówienie, Obraz i Konfiguracja.	https://www.youtube.com/watch?v=H6Hpw7-FH6k
+2024-06-30T20:57:56+00:00	Zarządzanie kamerami w rejestratorze z wbudowanym switchem POE.	https://www.youtube.com/watch?v=oU04pUmAgds
+2024-02-05T11:00:11+00:00	Jak przedłużyć kabel do kamery ? 3 proste sposoby.	https://www.youtube.com/watch?v=EBsRe6xLI0Y
+2024-01-28T11:00:26+00:00	Monitoring do domu, lokalu i ogrodu. Hikvision WIFIKIT - Konfiguracja	https://www.youtube.com/watch?v=LOqqjc93DnI
+2023-11-26T11:00:17+00:00	Ezviz - pierwsze kroki, uruchomienie, konfiguracja, aplikacja na komputer i telefon.	https://www.youtube.com/watch?v=Ms3VC4w7Yu4
+2023-10-09T08:51:25+00:00	Omówienie i konfiguracja zestawu IP Hilook by Hikvision + APLIKACJA	https://www.youtube.com/watch?v=s__nMg-_VFU
+2023-10-09T08:51:08+00:00	Omówienie i Konfiguracja zestawu analogowego HiLook by Hikvision + Aplikacja	https://www.youtube.com/watch?v=U8xM9APxeyU
+2023-10-05T12:59:08+00:00	Jak podłączyć 2 kamery ip na jednym przewodzie ?	https://www.youtube.com/shorts/Ft6XVm2yxIg
+2023-07-13T08:51:57+00:00	Inteligentny zamek EZVIZ #ezviz	https://www.youtube.com/shorts/GcFu_ArKuAM
+2023-07-06T08:48:25+00:00	Stacja Ładująca Ezviz PS300 #ezviz	https://www.youtube.com/shorts/jsTrZfNAle4
+2023-07-04T13:27:25+00:00	EZVIZ HP7 - Wideodomofon Two-Wire z Aplikacją.	https://www.youtube.com/watch?v=adc8lt6uAeI
+2023-06-25T10:00:24+00:00	EZVIZ H8c - Omówienie, konfiguracja, obraz testowy + BONUS	https://www.youtube.com/watch?v=gmDYtSzRHpk
+2023-06-21T14:55:47+00:00	Zestaw monitoringu Imou - konifguracja	https://www.youtube.com/watch?v=liLWd0vxTDg
+2023-05-24T07:51:20+00:00	Porównanie widoku z kamer analogowych Hikvision 2/4/5/8MPX	https://www.youtube.com/watch?v=ntr779qO3_s
+2023-05-23T12:48:25+00:00	Kamera WIFI Hikvision HWI-B120H-D/W	https://www.youtube.com/shorts/h4mGWDp8R2o

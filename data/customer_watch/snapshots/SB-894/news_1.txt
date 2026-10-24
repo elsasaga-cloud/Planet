@@ -1,4 +1,4 @@
-# SB-894 cctvspot.co.uk · news_1 · https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/hikvision-sadp-tool-how-to-use-it · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-894 cctvspot.co.uk · news_1 · https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/hikvision-sadp-tool-how-to-use-it · fetched 2026-10-24T07:26:33Z · HTTP 200
 What is Hikvision SADP tool and how to use it? - cctvspot.co.uk
 Menu
 Your Cart
@@ -56,7 +56,7 @@ What is Hikvision SADP tool and how to use it?
 Posted By
 CCTV Spot
 0 Comment(s)
-15828 View(s)
+15829 View(s)
 CCTV products` reviews
 SADP stands for Search Active Devices Protocol.
 Hikvision`s SADP tool is one of the basic tools you can use to set up your devices on your network. Basically the app scans your network and looks for devices by their MAC address. After finding them it shows them in a table where you can configure them by selecting the device you`d like to work with.

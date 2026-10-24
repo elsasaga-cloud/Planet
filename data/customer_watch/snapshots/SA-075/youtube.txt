@@ -1,4 +1,16 @@
-# SA-075 Desk Technologies · youtube · https://www.youtube.com/@Desk-Sicherheit-GmbH · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCAAgr5R0W8z5lLKcC6jFElQ was not found on this server. That’s all we know.
+# SA-075 Desk Technologies · youtube · https://www.youtube.com/@Desk-Sicherheit-GmbH · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-04-15T13:09:44+00:00	Digitale Spurensuche: Technik trifft Spürhund –	https://www.youtube.com/watch?v=Mz0aSikPY58
+2025-04-15T12:56:42+00:00	Hanwha BestShot + Nx Witness VMS – Network Optix + Plugin integration	https://www.youtube.com/watch?v=YVxtCQ0oJAc
+2025-04-15T12:45:37+00:00	Ghosting, Blurring, Tracking – Intelligente Videoanalyse im Einsatz	https://www.youtube.com/watch?v=Moyr4l1LLzk
+2025-04-15T12:31:35+00:00	Videoanalytik für Personenzählung aus komplexen Perspektiven	https://www.youtube.com/watch?v=Uv_nZvOoPlI
+2025-04-15T12:24:21+00:00	Moderne Videoanalytik für klare Lagebilder und mehr Datenschutz	https://www.youtube.com/watch?v=nMuEKspFnO0
+2025-04-14T22:09:22+00:00	Mini-Drohne im Spähangriff – so entstehen echte physische Penetrationstests	https://www.youtube.com/watch?v=KLo27jkmSt4
+2025-04-14T22:03:25+00:00	Angriff auf Rechenzentrum	https://www.youtube.com/watch?v=nH81E8aheK0
+2024-03-06T15:57:11+00:00	Als Vogel getarnte Drohne – unentdeckt im Einsatz	https://www.youtube.com/watch?v=XzHZENZiN-I
+2024-01-07T00:19:19+00:00	Präzise Segmentierung von Personen und Objekten mit moderner Videoanalytik	https://www.youtube.com/watch?v=7JvmEpcptwQ
+2024-01-06T14:32:51+00:00	Segmentierung durch KI-Videoanalytics | DESK Sicherheit GmbH	https://www.youtube.com/shorts/87_uEj6qv7Q
+2024-01-05T20:56:28+00:00	Fall Detection - KI Videoanalytics	https://www.youtube.com/watch?v=NYaefnzSoiA
+2024-01-05T20:42:37+00:00	So anonymisiert moderne Videoüberwachung Personen in Echtzeit	https://www.youtube.com/watch?v=0nJ1glEKznU
+2023-12-20T16:57:15+00:00	Innovation am Himmel: Drohneninspektion bei Windrädern	https://www.youtube.com/watch?v=EF3COOKtE5c
+2023-12-20T16:45:28+00:00	SOLARPARKINSPEKTION DROHNEN	https://www.youtube.com/watch?v=dJZyn3V2oUw
+2023-12-20T14:58:59+00:00	Sicherheitsnebel:Unsichtbare Barriere die effektive Lösung gegen Einbrecher	https://www.youtube.com/watch?v=kH1DLNBiQ6A

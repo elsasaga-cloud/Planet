@@ -1,4 +1,12 @@
-# SB-015 lansan.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQUp25HVPDdV4PKbwQDxWFg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCQUp25HVPDdV4PKbwQDxWFg was not found on this server. That’s all we know.
+# SB-015 lansan.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQUp25HVPDdV4PKbwQDxWFg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-02-23T12:30:28+00:00	UTP Keystone Tool | LNS-1109	https://www.youtube.com/watch?v=du0tp5nYlIQ
+2024-10-17T22:18:54+00:00	4 Port FTTH Fiber Optik Box Fast Konnektör Sonlandırma | LNS-1061	https://www.youtube.com/watch?v=VZtsgb1Kg_Q
+2024-10-17T22:02:41+00:00	4 Port FTTH Fiber Optik Box Sonlandırma Kutusu | LNS-1061	https://www.youtube.com/watch?v=LX8nAUWdbXE
+2024-02-07T23:11:33+00:00	Toki Patch Panel	https://www.youtube.com/watch?v=kv9zh-z2Zko
+2022-07-20T18:58:05+00:00	Kafes Somun Pensesi | LNS-1110	https://www.youtube.com/watch?v=MtrJvwm4B1U
+2021-03-17T21:33:28+00:00	Office Box 2 Port LNS-1060	https://www.youtube.com/watch?v=bMRqaJh4tvs
+2021-03-17T21:33:08+00:00	DIN Rail Mounting Keystone Module LNS-7012	https://www.youtube.com/watch?v=_k7ZDFoKh3M
+2021-03-09T22:11:51+00:00	Fiber Optik SFP Converter LNS-4001	https://www.youtube.com/watch?v=Rt-83TXX2PE
+2021-03-09T21:51:30+00:00	Fiber Optik Media Converter Single Mode LNS-4002-SM	https://www.youtube.com/watch?v=pdLDRUoJJKY
+2021-01-27T10:49:05+00:00	Ez Type Data Konnektör Pensesi	https://www.youtube.com/watch?v=oRHQmDfo1sU
+2021-01-27T10:48:01+00:00	Rj45 Cat6 Ez Jack	https://www.youtube.com/watch?v=43dg70cKd4A

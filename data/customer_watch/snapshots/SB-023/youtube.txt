@@ -1,4 +1,16 @@
-# SB-023 Grundig · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCFDlR7Dosq4yKG6BDfxYyog · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCFDlR7Dosq4yKG6BDfxYyog was not found on this server. That’s all we know.
+# SB-023 Grundig · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCFDlR7Dosq4yKG6BDfxYyog · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-02-16T10:38:31+00:00	GRUNDIG Security Solutions	https://www.youtube.com/watch?v=ibxgHj91Q0E
+2022-12-05T10:26:35+00:00	GRUNDIG Security: Your partner for video surveillance | Ihr Partner für Videoüberwachung	https://www.youtube.com/watch?v=aHvyNLD8ebY
+2022-12-05T10:24:52+00:00	GRUNDIG Security SMART Line Crowd Density Detection | Menschenmengen analysieren	https://www.youtube.com/watch?v=-6tCcbVG_eg
+2022-11-28T14:43:36+00:00	GRUNDIG Security SMART Line Human & Vehicle Classification | Personen & Fahrzeuge klassifizieren	https://www.youtube.com/watch?v=4IdzQWcYkOk
+2022-11-28T14:38:59+00:00	GRUNDIG Security SMART Line Perimeter Intrusion Detection | Erkennung "Bereich betreten"	https://www.youtube.com/watch?v=z0E6lduje-M
+2022-11-28T14:34:43+00:00	GRUNDIG Security SMART Line Queue Length Detection | Warteschlangenerkennung	https://www.youtube.com/watch?v=pt9CzsJGnaQ
+2022-11-13T08:50:45+00:00	GRUNDIG Security SMART Line Cross Counting | Personen-/Objektzählung	https://www.youtube.com/watch?v=aq0RqC6_tZ0
+2022-11-13T08:42:42+00:00	GRUNDIG Security SMART Line Face Detection | Gesichtserkennung	https://www.youtube.com/watch?v=ORckvbDcRJQ
+2022-11-13T08:40:20+00:00	GRUNDIG Security SMART License Plate Detection | Nummernschilderkennung	https://www.youtube.com/watch?v=aaqLlARaE_o
+2022-11-13T08:33:44+00:00	GRUNDIG Security SMART Line "Heatmap"	https://www.youtube.com/watch?v=W7j5KMQ_Atw
+2022-11-13T08:31:40+00:00	GRUNDIG Security SMART Line Rare Sound Detection "Gunshot" | Geräuscherkennung "Schussgeräusch"	https://www.youtube.com/watch?v=rRVOd1ty92Y
+2022-11-13T08:30:26+00:00	GRUNDIG Security SMART Line Rare Sound Detection "Baby Crying" | Geräuscherkennung "Babyweinen"	https://www.youtube.com/watch?v=loIPyEIjvEY
+2022-11-13T08:27:48+00:00	GRUNDIG Security SMART Line Rare Sound Detection "Dog Barking" | Geräuscherkennung "Hundebellen"	https://www.youtube.com/watch?v=XdgNrW1cy64
+2022-07-13T07:00:34+00:00	GRUNDIG Security IP Camera Line Crossing Detection | Erkennung Linienüberquerung IP-Kamera	https://www.youtube.com/watch?v=yJHJApkD-Ig
+2022-07-13T06:51:45+00:00	GRUNDIG Security NVR Search by Event (Line Crossing) | Suche nach Ereignistyp (Linienüberquerung)	https://www.youtube.com/watch?v=6VCi70aVNe0

@@ -1,4 +1,16 @@
-# SB-894 cctvspot.co.uk · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKCH9AwwPcfJ9Bil43oNVvA · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCKCH9AwwPcfJ9Bil43oNVvA was not found on this server. That’s all we know.
+# SB-894 cctvspot.co.uk · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKCH9AwwPcfJ9Bil43oNVvA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-22T12:55:26+00:00	Преди Китай с Hikvision: 8MP камери, лудница и HikTechStar!	https://www.youtube.com/shorts/quvtNAkzXqQ
+2026-10-15T13:10:57+00:00	Край на „Нещо се вижда, ама не се разбира“ 😂 | Hikvision Turbo HD система за видеонаблюдение	https://www.youtube.com/shorts/9nfCIIjN-6s
+2026-10-13T13:24:54+00:00	Реклама ли е? 8MP Hikvision AcuSense през нощта!	https://www.youtube.com/shorts/CXXU8-Y89KI
+2026-10-10T06:34:32+00:00	Търговец? Инсталатор? Явно съм пропуснал правилото, че трябва да избера само едно.	https://www.youtube.com/shorts/5_hdSx6kGUE
+2026-10-09T16:13:31+00:00	Монтаж на камера за секунди… почти 😂 | Hikvision 4KHD	https://www.youtube.com/shorts/8flVlvNBQPQ
+2026-10-07T15:34:07+00:00	8MP AcuSense: Нищо лично. Просто записваме. 😎| Hikvision	https://www.youtube.com/shorts/eilROLLhQaY
+2026-10-05T11:45:13+00:00	Старата система вече си изкара парите 😂 | HiWatch HWI-T240H	https://www.youtube.com/shorts/Gv6yEzj_g4Y
+2026-10-02T11:21:55+00:00	👉 Камерите още ги няма… а монтажът вече започна | Подготовка рак шкаф	https://www.youtube.com/shorts/GFVCcQvgmPg
+2026-09-30T14:29:03+00:00	Записът, който не искаш да имаш… от стара 5MP Hikvision камера	https://www.youtube.com/shorts/38xlnfan7HY
+2026-09-29T14:37:17+00:00	Камерата, която отказва да гледа само напред 😂 | Hikvision DS-2DE2C400IWG/W(W)	https://www.youtube.com/shorts/KHD4aPIVOGM
+2026-09-27T18:20:33+00:00	„Спокойно, брат, държи.“ 😂 Професионален монтаж по света	https://www.youtube.com/shorts/1kaT6a9XLfg
+2026-09-25T11:55:27+00:00	Спокойно, брат, аз от 10 години ги слагам“ 😂 | Камери от Facebook	https://www.youtube.com/shorts/G-QZXzME95Q
+2026-09-21T11:13:28+00:00	Камера със соларен панел и 4G – без кабели!	https://www.youtube.com/shorts/Er8kLACUdnY
+2026-09-18T19:04:53+00:00	Когато Stanley са ти дали 10 отделения,но ти трябват 16. 😂	https://www.youtube.com/shorts/NfSwBwI0iT4
+2026-09-18T07:16:36+00:00	Hikvision WiFi IP PTZ - Изглежда компактна. Държи се като голяма. 😂	https://www.youtube.com/shorts/415W4zl5gFE

@@ -1,4 +1,16 @@
-# SB-839 inv-technology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg was not found on this server. That’s all we know.
+# SB-839 inv-technology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-15T14:36:50+00:00	Tutoriel Ruijie RG-EST330FP | Appairage et configuration de deux ponts Wi-Fi	https://www.youtube.com/watch?v=DfEdxl4v6_4
+2025-09-02T10:06:10+00:00	TUTO DY-BCONNECT	https://www.youtube.com/watch?v=dYdc9xtXLk0
+2025-02-10T09:09:40+00:00	Ajout enregistreur sur NVMS 2 0	https://www.youtube.com/watch?v=R6rzxes_pCU
+2025-02-10T09:08:11+00:00	Programmation du DY-CLPVWIFI	https://www.youtube.com/watch?v=eYqxm2a7Hyg
+2025-02-10T09:06:07+00:00	Programmation du DY-SMCYLE	https://www.youtube.com/watch?v=4ulv1szZ6lc
+2024-04-23T09:32:24+00:00	INAUGURATION SHOWROOM DYNVISION BY INV-TECHNOLOGY	https://www.youtube.com/watch?v=O_D6rYLRtVs
+2022-10-14T14:39:33+00:00	programmation 4G et WIFI de nos PTZ solaire	https://www.youtube.com/watch?v=qYlDlHjrAAg
+2022-10-10T08:51:47+00:00	Comment utiliser le mode cryptage pour les extractions sur nos enregistreurs	https://www.youtube.com/watch?v=-hnkFq7_VlU
+2022-08-30T12:25:58+00:00	Tuto pour notre caméra DY-PTZ8MP10X4GSOL	https://www.youtube.com/watch?v=VQ12g44XBJQ
+2022-08-30T12:16:47+00:00	Présentation de notre camera solaire 4G DY-PTZ8MP10X4GSOL.	https://www.youtube.com/watch?v=eRAaKl0qH24
+2020-08-21T13:00:04+00:00	desactivation du mode tracking via application	https://www.youtube.com/shorts/qT69AkIOkCs
+2020-08-21T12:53:35+00:00	ajout d'un PTZ tracking sur l'application	https://www.youtube.com/shorts/KFVSdogF5Ro
+2020-08-21T12:41:06+00:00	activation du mode tracking via application	https://www.youtube.com/shorts/ma2J6PFM1bk
+2020-08-20T14:33:12+00:00	Présentation du terminal de température et de reconnaissance faciale	https://www.youtube.com/shorts/HyfbEt2fQrw
+2020-07-09T12:07:49+00:00	configuration de notre petit dôme WIFI DY-VD2MPW30	https://www.youtube.com/watch?v=AD8Y81ExhAM

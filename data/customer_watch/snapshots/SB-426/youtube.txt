@@ -1,4 +1,15 @@
-# SB-426 amatek.su · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCNSSCmYlGf7klcRsfhRLT6Q · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCNSSCmYlGf7klcRsfhRLT6Q was not found on this server. That’s all we know.
+# SB-426 amatek.su · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCNSSCmYlGf7klcRsfhRLT6Q · fetched 2026-10-24T07:26:33Z · HTTP 200
+2017-12-25T12:19:45+00:00	С Новым 2018 Годом!!!	https://www.youtube.com/watch?v=CwYMNGbqZTQ
+2017-12-08T13:50:00+00:00	IP видеокамера AMATEK 5Мп, объектив 3,6 мм (пример записи)	https://www.youtube.com/watch?v=822iD-7z0es
+2017-06-09T11:07:23+00:00	С Днем России!	https://www.youtube.com/watch?v=6jxipded12c
+2017-05-12T09:36:17+00:00	IP видеокамера Amatek 4Мп (пример записи)	https://www.youtube.com/watch?v=vP59-zbc3I0
+2017-05-12T09:31:00+00:00	IP видеокамера Amatek 3Мп (пример записи)	https://www.youtube.com/watch?v=QcNIHuIA3y8
+2017-05-12T09:27:39+00:00	IP видеокамера Amatek 2Мп (пример записи)	https://www.youtube.com/watch?v=1yCS6bL1RBY
+2017-05-12T09:23:27+00:00	IP видеокамера Amatek 1,3Мп (пример записи)	https://www.youtube.com/watch?v=9he_m-N7_PY
+2017-04-20T13:50:38+00:00	Уличная IP видеокамера 5Мп AC‐IS506 (пример записи - день)	https://www.youtube.com/watch?v=AuoycZcg8lY
+2017-04-20T13:45:40+00:00	Уличная IP видеокамера 4Мп AC‐IS402 (пример записи - день/ночь)	https://www.youtube.com/watch?v=XYh28pAdBKQ
+2017-04-20T13:41:13+00:00	Уличная IP видеокамера 1.3Мп AC‐IS132 (пример записи - день)	https://www.youtube.com/watch?v=i1p16bbI6FQ
+2016-12-27T11:41:07+00:00	С Новым 2017 Годом!!!	https://www.youtube.com/watch?v=OTjRKNm-uiE
+2016-05-04T08:31:30+00:00	С Днём Победы !	https://www.youtube.com/watch?v=O9nC6LrDmr4
+2016-04-25T11:04:40+00:00	Видеокамера AC-AD132V	https://www.youtube.com/watch?v=4YEgU_c1F84
+2016-04-25T10:11:24+00:00	Видеокамера AC-AS204V	https://www.youtube.com/watch?v=jee1OB0aY28

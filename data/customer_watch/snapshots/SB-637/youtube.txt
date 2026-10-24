@@ -1,4 +1,16 @@
-# SB-637 focomm-cabling.com · youtube · https://www.youtube.com/@FocommThailand · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCjUkHGDahvacUmoVr3BC6pA was not found on this server. That’s all we know.
+# SB-637 focomm-cabling.com · youtube · https://www.youtube.com/@FocommThailand · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-09T03:30:42+00:00	🏸 ย้อนรอยความสนุก! กับอีกหนึ่งวันดี ๆ ที่เต็มไปด้วยรอยยิ้มและมิตรภาพ 💙	https://www.youtube.com/shorts/Vv-IyEHcfvY
+2026-07-17T09:15:03+00:00	คู่มือการประกอบพัดลม Outdoor Steel Cabinet Type B	https://www.youtube.com/watch?v=Qns6LKJpdcg
+2026-07-17T09:12:47+00:00	คู่มือการประกอบพัดลม Outdoor Steel Cabinet Type A	https://www.youtube.com/watch?v=gCArwsNyGTo
+2026-07-17T09:10:33+00:00	คู่มือการประกอบพัดลม Outdoor Steel Cabinet Type C	https://www.youtube.com/watch?v=dbW28FaF9dU
+2026-07-08T04:49:47+00:00	🎥 Smart IoT Box คืออะไร? ทำไมงาน Outdoor ถึงควรมี	https://www.youtube.com/watch?v=_0BEvnP-tGA
+2026-05-06T03:15:15+00:00	🎥Focomm จัดกิจกรรมตรวจสุขภาพประจำปี 2569	https://www.youtube.com/shorts/lH8v953eRdA
+2026-04-13T02:07:43+00:00	13 เมษายน 2569	https://www.youtube.com/shorts/weJhBRfxggE
+2025-06-10T08:01:06+00:00	วิธีประกอบตู้ 9U Swing Type Wall Mount Rack Cabinet, 19-inch Standard	https://www.youtube.com/watch?v=XFq-43G4nG8
+2025-06-10T07:55:01+00:00	วิธีประกอบตู้ 9U Fixed Type Wall Mount Rack Cabinet, 19-inch Standard	https://www.youtube.com/watch?v=t1sXzEta7Xc
+2025-06-10T07:46:52+00:00	วิธีประกอบตู้ 27U Server – 19” Rackmount Standard	https://www.youtube.com/watch?v=ehuhMIR6Q0s
+2025-06-10T07:39:57+00:00	วิธีประกอบตู้ 42U Network Equipment Rack Enclosure	https://www.youtube.com/watch?v=zqODhTxfJ6w
+2025-06-10T07:34:00+00:00	วิธีประกอบตู้ 42U Data Rack Cabinet	https://www.youtube.com/watch?v=NXH1DiwN37I
+2025-05-13T03:00:03+00:00	🏆 Focomm Cup 2025 – ชุดทีมพร้อมลุย! ⚽	https://www.youtube.com/shorts/S9zoSRlOFP0
+2025-04-18T02:25:25+00:00	⚽ Focomm Cup 2025 ⚽ตามล่าหาสุดยอดนักฟุตบอลสายช่างและผู้รับเหมาระบบโครงการทั่วประเทศ!	https://www.youtube.com/watch?v=Sgv4xpBarJU
+2023-08-08T06:58:41+00:00	วิธี Splice สาย Fiber และ ทดสอบสายด้วยเครื่อง OTDR	https://www.youtube.com/watch?v=nCemutYTs5Y

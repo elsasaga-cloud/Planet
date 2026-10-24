@@ -1,4 +1,4 @@
-# SB-802 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-802 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 	http://sigmarectrix.com/supportzayd/account/create/process
 	http://sigmarectrix.com/supportzayd/portal/ticket/comment
 	http://sigmarectrix.com/supportzayd/subcategories/fetch

@@ -1,4 +1,4 @@
-# SA-001 Astel Digicom Electronics LLC（迪拜 Deira 卫星市场，线缆/光纤/FTTH 批发） · auto_sitemap · https://asteldigicom.com/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SA-001 Astel Digicom Electronics LLC（迪拜 Deira 卫星市场，线缆/光纤/FTTH 批发） · auto_sitemap · https://asteldigicom.com/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 	https://asteldigicom.com/
 2025-12-27T23:47:40+00:00	https://asteldigicom.com/cable-tv.html
 2025-12-27T23:33:33+00:00	https://asteldigicom.com/cables.html

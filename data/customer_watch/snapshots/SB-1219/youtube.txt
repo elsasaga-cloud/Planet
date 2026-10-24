@@ -1,4 +1,16 @@
-# SB-1219 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg was not found on this server. That’s all we know.
+# SB-1219 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-09-24T11:49:26+00:00	DNP3 Slave Protokol Tanımlamaları (Firmware versiyon 19.05 ve üzeri için)	https://www.youtube.com/watch?v=2eCD7ejVBhk
+2025-09-24T11:49:04+00:00	DNP3 Slave Protocol Definitions (for firmware version 19.05 and above)	https://www.youtube.com/watch?v=UB9DqjramDU
+2024-06-07T12:25:29+00:00	IEC 60870 5 104 Protocol Definitions	https://www.youtube.com/watch?v=_7Hetxe5vp0
+2024-06-07T12:24:51+00:00	DNP3 Slave Protocol Definitions (for old version)	https://www.youtube.com/watch?v=nhqJrA4KkAY
+2024-06-07T12:24:25+00:00	21 FBD SNMP Blocks	https://www.youtube.com/watch?v=kLzCpH3gWOk
+2024-06-07T12:23:55+00:00	20 FBD Serial Communication Applications	https://www.youtube.com/watch?v=M-X6ikCLLIs
+2024-06-07T12:23:32+00:00	19 FBD MQTT Applications	https://www.youtube.com/watch?v=wu-d6TNXXOc
+2024-06-07T12:22:58+00:00	18 FBD Macro Applicationsproje	https://www.youtube.com/watch?v=jXof4RAFMBA
+2024-06-07T12:22:28+00:00	17 FBD Data Event Logging, System, Calendar Applications	https://www.youtube.com/watch?v=9fhjrNDYjTY
+2024-06-07T12:22:03+00:00	16 FBD HVAC Applications	https://www.youtube.com/watch?v=8g30RZR0gio
+2024-06-07T12:18:20+00:00	15 FBD Controller Applications	https://www.youtube.com/watch?v=VnDpKLcZmSE
+2024-06-07T12:17:53+00:00	14 FBD Table Applications	https://www.youtube.com/watch?v=u_OmGjBQ7cI
+2024-06-07T12:17:25+00:00	13 FBD GSM, String Applications	https://www.youtube.com/watch?v=UZR1CyxCWk0
+2024-06-07T12:17:00+00:00	12 FBD MODBUS, Communication Applications	https://www.youtube.com/watch?v=_nP38FZej5g
+2024-06-07T12:16:31+00:00	11 FBD Register Variable, Multiplexer Applications	https://www.youtube.com/watch?v=fXSeKVZwMfY

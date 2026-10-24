@@ -1,4 +1,4 @@
-# SB-544 lanopia.de · sitemap · https://www.lanopia.de/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-544 lanopia.de · sitemap · https://www.lanopia.de/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 	https://www.lanopia.de/
 	https://www.lanopia.de/company/
 	https://www.lanopia.de/company/philosophie/

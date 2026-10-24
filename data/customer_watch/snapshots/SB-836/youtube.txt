@@ -1,4 +1,16 @@
-# SB-836 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ was not found on this server. That’s all we know.
+# SB-836 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-15T13:58:20+00:00	RockFLEET Assured & RockBLOCK APNT Tested at Jammertest 2026 | Ground Control	https://www.youtube.com/watch?v=h42EOjj_Ru4
+2026-10-14T14:21:23+00:00	GNSS Under Attack: What the Data Actually Shows, and What to Do About It | Ground Control Webinar	https://www.youtube.com/watch?v=QMUSi3Z41KE
+2026-10-08T14:39:21+00:00	RockBLOCK APNT: Independent Position and Timing for UAVs, USVs and Autonomous Systems	https://www.youtube.com/watch?v=cIbyxSfxqAU
+2026-07-14T15:45:37+00:00	Choosing the Right RockBLOCK	https://www.youtube.com/watch?v=ZU0v5rCM1SY
+2026-07-08T14:21:51+00:00	GNSS Spoofing & Jamming at Sea: Risks, Limits and Practical Responses | Maritime Webinar	https://www.youtube.com/watch?v=IFD1KOsqGRk
+2026-07-01T10:51:34+00:00	RockFLEET Assured: Maritime GNSS Jamming and Spoofing Protection with Iridium PNT	https://www.youtube.com/watch?v=t52B87Jpw44
+2026-06-10T15:41:01+00:00	RockFLEET Assured: Cloudloop Tracking	https://www.youtube.com/watch?v=7XEv7kEanj8
+2026-06-10T11:16:04+00:00	RockFLEET Assured: Bridge View	https://www.youtube.com/watch?v=xnxnt-eXac4
+2026-04-28T12:53:42+00:00	GNSS Can Fail at Sea: How A-PNT Adds Maritime Resilience	https://www.youtube.com/watch?v=2TwNmxehJXE
+2026-04-14T16:59:01+00:00	Satellite-Enabled LPWAN in 2026: What NTN Means for Sensor Connectivity	https://www.youtube.com/watch?v=bvnogZvdfdE
+2026-02-17T11:42:10+00:00	Assured Maritime Positioning When GNSS is Jammed or Spoofed | RockFLEET Assured Product Showcase	https://www.youtube.com/watch?v=UyHPaSiXAN4
+2025-12-24T10:44:09+00:00	Satellite Connectivity for Drones | BVLOS Operations Anywhere on Earth	https://www.youtube.com/watch?v=WmM9JhqItUg
+2025-12-02T12:43:13+00:00	RockREMOTE UAV Product Showcase: Global Iridium Certus 100 Link for UAV C2 & Telemetry	https://www.youtube.com/watch?v=JOjW8OC8pko
+2025-11-25T12:00:36+00:00	RockBLOCK Pro / Pro OEM Product Showcase | Iridium Messaging Transport (IMT) Satellite Transceiver	https://www.youtube.com/watch?v=IMTU67f9qRo
+2025-11-21T12:14:41+00:00	Never Lose an Asset Again: Global Tracking for Fleets, Aircraft & Lone Workers	https://www.youtube.com/watch?v=sPqtjD_Uz2I

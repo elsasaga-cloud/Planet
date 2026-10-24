@@ -1,4 +1,4 @@
-# SB-079 ISIMKO GmbH,Guhrower Straße · sitemap · https://www.isimko.de/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-079 ISIMKO GmbH,Guhrower Straße · sitemap · https://www.isimko.de/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 2023-04-03T07:00:00+00:00	https://www.isimko.de/
 2023-04-03T07:00:00+00:00	https://www.isimko.de/uber-uns/
 2023-04-03T07:00:00+00:00	https://www.isimko.de/karriere/

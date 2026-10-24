@@ -1,4 +1,16 @@
-# SB-328 wieland-electric.com · youtube · https://www.youtube.com/user/wielandelectric · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCMqL8u6WMx8InR_K20hII0g was not found on this server. That’s all we know.
+# SB-328 wieland-electric.com · youtube · https://www.youtube.com/user/wielandelectric · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-06-26T10:15:37+00:00	Wieland PREFAB® x Tinglev | Pilotprojekt N48: Elektroinstallation neu gedacht	https://www.youtube.com/watch?v=0EhNZ3SSjm8
+2026-06-23T08:15:12+00:00	Steckbare Energieverteilung im Kompaktformat​ mit RST® NRG - Wieland Electric	https://www.youtube.com/watch?v=D4JddE19SDY
+2026-06-23T08:13:38+00:00	Pluggable power distribution in a compact format with RST® NRG - Wieland Electric	https://www.youtube.com/watch?v=kyIzLKknelA
+2026-06-22T10:52:24+00:00	Wieland Electric - selos NEW GENERATION terminal blocks	https://www.youtube.com/watch?v=CMvWvQ230aU
+2026-03-16T08:57:46+00:00	Maximum efficiency with RST DIRECT - Wieland Electric	https://www.youtube.com/watch?v=3RDrxKbLubw
+2026-03-16T07:35:54+00:00	Maximale Effizienz mit RST DIRECT - Wieland Electric	https://www.youtube.com/watch?v=sv1mPu2TheE
+2026-02-17T12:32:02+00:00	Wieland Electric - selos NEW GENERATION Reihenklemmen	https://www.youtube.com/watch?v=pz5eEeGXMWY
+2026-02-04T12:18:27+00:00	Smart distribution boxes gesis® - Wieland Electric	https://www.youtube.com/watch?v=kTDic6WI8dI
+2026-02-04T12:15:28+00:00	Smarte Systemverteiler für flexible Gebäude gesis® - Wieland Electric	https://www.youtube.com/watch?v=ZeOAbktnuG4
+2025-11-26T10:57:44+00:00	Consolidation Points gesis® Systemverteiler CPO	https://www.youtube.com/watch?v=rzlcSXx67-U
+2025-07-17T13:45:37+00:00	RST® with longitudinal sealing - Wieland Electric	https://www.youtube.com/watch?v=UCQM0dS0TCI
+2024-11-18T11:29:47+00:00	Wieland PREFAB - Behind the scenes	https://www.youtube.com/watch?v=eEBqQknCxjI
+2023-09-18T10:39:36+00:00	gesis® CLASSIC unser Steckverbindersystem für die moderne Elektroinstallation - Wieland Electric	https://www.youtube.com/watch?v=Q4b_Rm-ehto
+2023-07-11T12:44:10+00:00	Installationssäulen in Schulen für Sanierung und Neubau - Teil 3: Konzeptions-&Planungsunterstützung	https://www.youtube.com/watch?v=LCp6HI9BvwU
+2023-07-11T11:52:31+00:00	Installationssäulen in Schulen für Sanierung und Neubau - Teil 2: Die Lösung im Detail	https://www.youtube.com/watch?v=pl_EtrfLyjg

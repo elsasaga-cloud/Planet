@@ -1,4 +1,16 @@
-# SB-224 hanelektronik.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg was not found on this server. That’s all we know.
+# SB-224 hanelektronik.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCCp-lDqiHakEPjXUHc5Rapg · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-07-23T14:47:18+00:00	GRUNDIG GU-CI-AC4614T - 4MP AI H.265 Bullet Network Kamera	https://www.youtube.com/watch?v=zxJX0_Hm880
+2026-07-08T08:26:44+00:00	GRUNDIG GU-CI-AC4614E - 4MP AI H.265 Dome Network Kamera	https://www.youtube.com/watch?v=eLp1h8V5nyk
+2026-07-02T10:11:54+00:00	SPY SP 540D 5 Mega Piksel IR Led & Warm Light Dome IP Kamera	https://www.youtube.com/watch?v=rCg8etnmhNg
+2026-07-02T10:07:14+00:00	SPY SP 540B 5 Mega Piksel IR Led & Warm Light Bullet IP Kamera	https://www.youtube.com/watch?v=v3NxonM_M_Q
+2026-06-22T09:12:37+00:00	Milesight MS C6762 FPE - 5 Mega Piksel IP Bullet Kamera	https://www.youtube.com/watch?v=7Gy1KHgQYOI
+2026-06-17T12:07:00+00:00	SPY MOBİL CMSV7 TANITIM VİDEOSU	https://www.youtube.com/shorts/QIMBFmMD9yY
+2026-04-15T07:51:36+00:00	UNIWIZ IPC B128 APF28KM 8.0 Mega Piksel IR Bullet Kamera	https://www.youtube.com/watch?v=5P1qvYGf21c
+2026-04-14T11:27:33+00:00	UNIWIZ IPC B233 APF40W 3.0 Mega Piksel IR Bullet Kamera	https://www.youtube.com/watch?v=gBb78Dmbj2E
+2026-03-10T10:41:37+00:00	GRUNDIG GU CI AC8616T - 8MP AI H.265+ Bullet Network Kamera	https://www.youtube.com/watch?v=ZD4mygbTTK0
+2026-02-26T12:20:44+00:00	UNIWIZ IPC D312 APKZ 2 0 Mega Piksel IR DOME Kamera	https://www.youtube.com/watch?v=G_LRj1lTAco
+2026-02-17T13:41:46+00:00	Milesight MS C2325 RPB - 2 Mega Piksel IP Dome Kamera	https://www.youtube.com/watch?v=VSEx-z7pKVk
+2026-02-09T10:04:35+00:00	Milesight MS C5373 PD - 5MP AI Vandal-proof Mini Dome Network Kamera	https://www.youtube.com/watch?v=m5KggF6AojQ
+2026-02-05T13:55:34+00:00	Milesight MS C5383 PD 5 Mega Piksel IP Dome Kamera	https://www.youtube.com/watch?v=7yU1YgdTkMg
+2026-02-04T07:48:04+00:00	MS C8165 PA - 8 Mega Piksel 180° Panoramik Mini Bullet IP Kamera	https://www.youtube.com/watch?v=bmYsrKOHkKs
+2026-02-04T06:56:05+00:00	Milesight MS C5362 FPE - 5 Mega Piksel IP Bullet Kamera	https://www.youtube.com/watch?v=iv3w7NHRWmA

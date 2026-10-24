@@ -1,4 +1,7 @@
-# SB-800 Maxitulin · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkwed9x_I-QM68uwWzHFqFQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCkwed9x_I-QM68uwWzHFqFQ was not found on this server. That’s all we know.
+# SB-800 Maxitulin · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkwed9x_I-QM68uwWzHFqFQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-02-26T09:30:19+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=d_-EZDdQb6I
+2024-03-05T01:48:37+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=Hxxedahdbso
+2024-03-04T04:30:45+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=aLV1J1MAZ3M
+2024-03-04T02:09:10+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=2z1eqFKpMjo
+2020-07-09T05:05:55+00:00	Ditec Maxitulin Automatic Door Operator with Possible Applications	https://www.youtube.com/shorts/FyyZ-on52dY
+2020-07-06T10:00:30+00:00	Ditec Maxitulin - Automatic Door Operator	https://www.youtube.com/shorts/p4p9P3fAc_E

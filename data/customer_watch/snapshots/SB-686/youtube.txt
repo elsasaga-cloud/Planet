@@ -1,4 +1,5 @@
-# SB-686 atelekom.com.tr · youtube · https://www.youtube.com/@atelekom · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UC_RtBMBGnQvGcWHRrYKZCUw was not found on this server. That’s all we know.
+# SB-686 atelekom.com.tr · youtube · https://www.youtube.com/@atelekom · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-08-23T12:36:21+00:00	Hikvision DS-KIS313-P Görüntülü Hibrit İnterkom Kiti | A Telekomünikasyon #hikvision #interkom	https://www.youtube.com/shorts/rFmfao1BUX4
+2020-05-21T13:58:19+00:00	HIKVISION Vücut Sıcaklığı Ölçen Termal Kamera	https://www.youtube.com/watch?v=zYgmk9c75Mw
+2020-05-10T13:03:49+00:00	HIKVISION | DS-2TP31B-3AUF Termografik el kamerası ile daha hızlı ve güvenli vücut sıcaklığı tespiti	https://www.youtube.com/watch?v=fOD0bNo0nHU
+2019-03-07T08:55:16+00:00	Hikvision Haikon Hilook CCTV Kayıt Cihazı Şifre Sıfırlama	https://www.youtube.com/watch?v=4tLYD-ElCG0

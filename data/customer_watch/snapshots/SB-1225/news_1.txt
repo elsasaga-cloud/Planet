@@ -1,4 +1,4 @@
-# SB-1225 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-1225 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-24T07:26:33Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -208,7 +208,7 @@ How Harvey Cheese Built a Future-Ready Business
 Oct 21, 2026
 Success Stories
 Which ERP should you choose: Odoo or SAP?
-Oct 20, 2026
+Oct 21, 2026
 Business Hacks
 Which is the best accounting software for my company?
 Oct 20, 2026

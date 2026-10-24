@@ -1,4 +1,4 @@
-# SB-287 yli.ro · home · https://yli.ro/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-287 yli.ro · home · https://yli.ro/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
-S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
-YMP-300 - Electromagnet aplicat de 300 kgf, IP68, rezistent la medii saline
+INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+T-LR(V3) - Cititor carduri Mifare 13.56MHz, ecran LCD 3.4” inch pentru citirea cardurilor incuietorilor adresabile T-0880
+BSW-90 - Controler de acces pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
 YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
 S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
-YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
-BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
-PB-16-NO(LED)-bl - Buton de iesire, contact NO, Led semnalizare, filet M16, actionare prin apasare
-FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
 INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
-GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
-S532(BRAK.F) - Suport montare incastrata pentru videointerfoanele S532(IP)
-BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
+FLM16-CASE - Carcasa din plastic, montaj aparent, pentru butoane cu diametru filet M16
+S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
 FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
-BSW-52 - Controler de acces cu buton iesire, pentru selectarea modului de functionare a amortizoarelor electrice seria SDO
+CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
+CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
+YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
+QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
+SR-620 - Modul de radiocomanda Bluetooth 2.4GHz, IP65, 2 telecomenzi si 1 controler
+FL1M-08FW-3-GN - Indicator LED verde, 12–24 Vcc, filet M8, IP65
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

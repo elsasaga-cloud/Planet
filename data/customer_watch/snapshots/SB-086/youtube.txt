@@ -1,4 +1,16 @@
-# SB-086 elmospa.com · youtube · https://www.youtube.com/c/Elmospa · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCOt2G93OyAje9jZUMZ0mB0Q was not found on this server. That’s all we know.
+# SB-086 elmospa.com · youtube · https://www.youtube.com/c/Elmospa · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-05-18T09:51:11+00:00	Nuovo rivelatore lineare di fumo a riflessione FLB01A	https://www.youtube.com/watch?v=eSmDhBA44Nw
+2026-05-14T07:57:10+00:00	Nuova SIM multioperatore GSM-ALT	https://www.youtube.com/watch?v=RzoVh9GwbIo
+2026-04-29T15:17:09+00:00	Webinar: PassManager Embedded in Superia	https://www.youtube.com/watch?v=BACRQ-DcMqo
+2026-04-27T13:25:52+00:00	Passmanager Embedded - il controllo accessi integrato nella centrale antintrusione SUPERIA	https://www.youtube.com/watch?v=yOh-C7FdvdQ
+2026-04-23T06:55:30+00:00	HERCOLA2K - la centrale antintrusione all-in-one per case e negozi	https://www.youtube.com/watch?v=UPErpPF4n0U
+2026-04-07T07:53:09+00:00	Nx Witness | Integrazione e-Vision Linea Pro	https://www.youtube.com/watch?v=OviqFi25NVw
+2026-03-30T07:18:02+00:00	Soluzioni TVCC e-Vision Linea Pro	https://www.youtube.com/watch?v=tTQ25tDfO8U
+2025-01-23T14:08:33+00:00	Nuove telecamere notturne Zero Lux - EL.MO.	https://www.youtube.com/watch?v=NfdvFZsTlJw
+2025-01-23T13:54:18+00:00	Benvenuto in EL.MO.!	https://www.youtube.com/watch?v=4O-cht1MpoM
+2024-07-29T07:28:23+00:00	QHUBO - il nuovo hub per la sicurezza di casa!	https://www.youtube.com/watch?v=pV8OX2pSn7k
+2024-02-14T10:35:03+00:00	Telecamere notturne con tecnologia ZERO-L	https://www.youtube.com/watch?v=fYXQf5GnVQM
+2023-12-18T08:56:30+00:00	EL.MO. - QhubO: il nuovo HUB di casa EL.MO.!	https://www.youtube.com/watch?v=b10tEqoX5ls
+2023-12-13T15:49:56+00:00	EL.MO. - SA5000: la nuova sirena da esterno!	https://www.youtube.com/watch?v=K3ygxi3MTAU
+2022-10-21T07:36:01+00:00	Live streaming di EL.MO. SPA	https://www.youtube.com/watch?v=FtPtxlAQ26A
+2022-03-09T16:12:41+00:00	EL.MO. e NX WITNESS - Il sistema di gestione video IP open ed estendibile	https://www.youtube.com/watch?v=oH2gbClByEE

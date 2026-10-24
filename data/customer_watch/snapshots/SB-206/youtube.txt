@@ -1,4 +1,16 @@
-# SB-206 Vdeotronic AG · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w was not found on this server. That’s all we know.
+# SB-206 Vdeotronic AG · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w · fetched 2026-10-24T07:26:33Z · HTTP 200
+2024-09-23T12:01:06+00:00	Senstar MultiSensor™ Einführungsvideo	https://www.youtube.com/watch?v=slir-tyUex8
+2024-09-23T11:56:39+00:00	Unboxing Panomera	https://www.youtube.com/watch?v=r9t7MHRO_PM
+2020-09-28T11:10:31+00:00	Senstar Safespaces bei Videotronic AG	https://www.youtube.com/watch?v=PFOAOjsA-AQ
+2020-09-28T05:36:31+00:00	Dahua ASI7213X-T1, Zutrittskontroll Terminal und Temperaturmessung jetzt bei Videotronic AG	https://www.youtube.com/watch?v=CM3UXOuzxZc
+2020-05-02T09:01:36+00:00	Zaunmontierter Einbrucherkennungssensor mit Ortserkennung von Videotronic AG	https://www.youtube.com/watch?v=3znFGHmQU5Y
+2019-03-10T08:11:59+00:00	Sicherheit in der Tierhaltung und der Landwirtschaft	https://www.youtube.com/watch?v=PRxxVJAFGWs
+2018-01-14T16:43:43+00:00	Comelit Quadra Kit , installation und konfiguration von Relais	https://www.youtube.com/watch?v=im26HEPjV8Y
+2018-01-14T16:14:56+00:00	Comelit Quadra Kit, Zusatz Monitor installieren	https://www.youtube.com/watch?v=IpUS6nFbjnA
+2018-01-14T15:53:17+00:00	Comelit Quadra Kit , Zusatz-Aussensprechstelle	https://www.youtube.com/watch?v=iHr3cu9RoDM
+2018-01-14T15:37:14+00:00	Comelit Quadra Kit, 2 Draht	https://www.youtube.com/watch?v=nEdR6Z_0kok
+2018-01-14T15:21:40+00:00	Comelit Multiuser Gateway	https://www.youtube.com/watch?v=X2h1ZwZ7jyA
+2018-01-14T15:16:31+00:00	Comelit Kit VIP 8512 IM & 8513 IM, Verkabelung und Installation	https://www.youtube.com/watch?v=Bqq0Fk-WD9Y
+2018-01-14T08:12:36+00:00	Comelit Kit VIP App	https://www.youtube.com/watch?v=nBBfY2E_lzU
+2018-01-14T08:01:40+00:00	Comelit ICONA	https://www.youtube.com/watch?v=yCHrG1e5Za4
+2017-09-01T11:48:22+00:00	Comelit Videotürsprechen	https://www.youtube.com/watch?v=UEvocdCw3ZU

@@ -1,4 +1,16 @@
-# SB-183 kyma.it · youtube · https://www.youtube.com/user/PLANETTechnology · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCjzzdJT-EDvpzTlwWlxWStg was not found on this server. That’s all we know.
+# SB-183 kyma.it · youtube · https://www.youtube.com/user/PLANETTechnology · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-09-24T03:12:44+00:00	PLANET 1-Port XGS-PON OLT with 2-Port Gigabit + 1-Port 10G SFP+ and 1 AC + 1 DC (XGPL-1000)	https://www.youtube.com/shorts/-YxtFkR57ZI
+2026-09-23T01:54:52+00:00	PLANET Industrial 5G NR Cellular Gateway with 4-Port PoE+ (ICG-2515P-NR)	https://www.youtube.com/shorts/ongN915d7Go
+2026-09-03T08:10:10+00:00	【普萊德科技】2025 德拉楠文化傳承計畫 瞭望台與穀倉重現	https://www.youtube.com/watch?v=rgZT3nG00-Y
+2026-07-13T09:50:26+00:00	PLANET Enterprise Dual 10G VPN Security Router (XVR-800)	https://www.youtube.com/shorts/7S3t0HYluK8
+2026-06-18T06:16:47+00:00	PLANET Social Responsibility in Action	https://www.youtube.com/watch?v=NQT__-8kyAM
+2026-06-16T02:16:11+00:00	PLANET showcasing at ITS America Conference & Expo 2026	https://www.youtube.com/watch?v=jTUPeOb-tr8
+2026-06-08T06:16:05+00:00	PLANET Advanced Cybersecurity Solution	https://www.youtube.com/watch?v=-qv371HMWJ8
+2026-06-02T10:10:33+00:00	PLANET at the 2026 COMPUTEX Highlight	https://www.youtube.com/watch?v=2S2pzK8rU9E
+2026-05-25T05:48:00+00:00	PLANET AI Surveillance Station (AIS-1000)	https://www.youtube.com/watch?v=SK4vQ8vRr0Q
+2026-03-26T03:06:43+00:00	PLANET L3 2.5G 802.3bt PoE + 10G Fiber Managed Ethernet Switch (MGS-6311-8UP4X)	https://www.youtube.com/shorts/jLJtsVAnFuU
+2026-03-24T03:38:42+00:00	PLANET Wi-Fi 7 Dual Band 802.11be 5100Mbps Outdoor Wireless Access Point (WDAP‑5100BE)	https://www.youtube.com/shorts/ATswT4RCT98
+2026-03-12T07:32:04+00:00	Unleash the Power of 100G Data Center with PLANET DCS‑7342‑24X6C Layer 3 Managed Switch	https://www.youtube.com/shorts/-WnjO7i49_s
+2026-03-09T03:33:00+00:00	PLANET Sustainable Product Design	https://www.youtube.com/watch?v=ERpZhhFUY9E
+2026-01-30T08:08:29+00:00	PLANET AI-driven Smart Energy Management Solution	https://www.youtube.com/watch?v=1mm_F9w7fk4
+2025-12-26T09:18:22+00:00	PLANET CloudNMS Lesson Part 3: Alerts, Firmware Updates & Administrators Configurations	https://www.youtube.com/watch?v=3Gd1M8jf0f8

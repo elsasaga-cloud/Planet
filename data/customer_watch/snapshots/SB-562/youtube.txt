@@ -1,4 +1,7 @@
-# SB-562 tacel.ca · youtube · https://www.youtube.com/@tacelltd · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCxLVNtDvyMeFt6vsNkrn1ig was not found on this server. That’s all we know.
+# SB-562 tacel.ca · youtube · https://www.youtube.com/@tacelltd · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-07-29T15:50:50+00:00	Polara iDS & iNS APS | Touchless Wave-to-Cross Pedestrian Signals	https://www.youtube.com/watch?v=TKldaUoE7ds
+2026-05-07T15:41:08+00:00	TraffiCalm M75-SA328 RRFB | Rugged Pedestrian Safety Beacon	https://www.youtube.com/watch?v=UZaAAJK_x0A
+2025-09-24T19:54:21+00:00	Over 45 Years of Trusted Traffic Solutions	https://www.youtube.com/watch?v=0WWhyRDyI_k
+2025-09-24T18:01:42+00:00	DERQ Insight | In Partnership with TACEL	https://www.youtube.com/watch?v=Mp7iQAtlYTk
+2025-07-29T12:38:32+00:00	Tacel's New Website Is Live – Explore Our Enhanced Platform!	https://www.youtube.com/watch?v=X3h7dU2rzQE
+2025-06-12T23:39:20+00:00	Bike4Kids Bike Rodeo at Esther Shiner Stadium!	https://www.youtube.com/watch?v=r4y4VaC1qag

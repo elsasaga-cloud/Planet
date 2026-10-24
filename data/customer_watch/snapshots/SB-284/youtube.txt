@@ -1,4 +1,16 @@
-# SB-284 omninet.com.vn · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-_6YHGQFcVSHLbEXLNlA · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCeU-_6YHGQFcVSHLbEXLNlA was not found on this server. That’s all we know.
+# SB-284 omninet.com.vn · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCeU-_6YHGQFcVSHLbEXLNlA · fetched 2026-10-24T07:26:33Z · HTTP 200
+2023-04-19T08:57:54+00:00	How can WordPress cater to the “Instant Generation”? | Plesk Official Podcast	https://www.youtube.com/watch?v=hxptr_Iwhp4
+2022-09-20T08:28:30+00:00	Sitejet - Messages and Ticket System	https://www.youtube.com/watch?v=xJ8fj88EVSg
+2022-09-19T14:55:03+00:00	Sitejet - Whitelabel features	https://www.youtube.com/watch?v=3eU_K4wV39Y
+2022-07-20T16:02:02+00:00	Sitejet - Set Up an eCommerce store	https://www.youtube.com/watch?v=mGbM01Mk7MI
+2022-07-20T15:53:23+00:00	Sitejet - Create Forms	https://www.youtube.com/watch?v=2bkwfrd9CF0
+2022-07-20T14:49:43+00:00	Sitejet - Export a Website	https://www.youtube.com/watch?v=_7fwueMmUdQ
+2022-07-20T14:39:01+00:00	SItejet - Create References	https://www.youtube.com/watch?v=LYnrkJ_zXVg
+2022-07-20T14:21:52+00:00	Sitejet - Using Third Party Code	https://www.youtube.com/watch?v=Z1dS-ohrrxQ
+2022-05-09T16:28:39+00:00	Sitejet - Website Feedback	https://www.youtube.com/watch?v=9EsvRS1KCmo
+2022-05-09T16:20:17+00:00	Sitejet - Website Audit	https://www.youtube.com/watch?v=aLSyhbmmLdI
+2022-05-09T15:59:45+00:00	Sitejet - Website Creation	https://www.youtube.com/watch?v=HYNLfjsZt9w
+2022-05-09T15:53:40+00:00	Sitejet - Website Preparation	https://www.youtube.com/watch?v=S6Utqdv0q-4
+2022-04-08T12:40:02+00:00	Sitejet Short Walkthrough	https://www.youtube.com/watch?v=m9cDPaaqG2o
+2022-04-08T12:34:34+00:00	Powerful Web Design with Sitejet	https://www.youtube.com/watch?v=XHJSPXI49fM
+2022-03-24T09:44:09+00:00	Cloudfest 2022 Day 1 / Tuesday	https://www.youtube.com/watch?v=W_FS8tjlpXU

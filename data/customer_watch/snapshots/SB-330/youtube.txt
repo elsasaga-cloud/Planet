@@ -1,4 +1,16 @@
-# SB-330 wirewerks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKplNTWACOCc9VnsFAi_ApQ · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCKplNTWACOCc9VnsFAi_ApQ was not found on this server. That’s all we know.
+# SB-330 wirewerks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKplNTWACOCc9VnsFAi_ApQ · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-08-20T16:01:51+00:00	NextSTEP 3S Dual FLEX - Vidéo d’installation	https://www.youtube.com/watch?v=JyEjtdQ8zD0
+2025-08-20T15:56:01+00:00	NextSTEP 3S Dual FLEX - Installation Video	https://www.youtube.com/watch?v=1x_lRNHFh_E
+2025-06-19T19:06:45+00:00	LGXtra 2 Strip Wall Mount Patch Panel - Installation Video	https://www.youtube.com/watch?v=bpzA-kyM9i0
+2024-08-30T16:53:33+00:00	Bandeja de Administración de Cables - Vídeo de Instalación	https://www.youtube.com/watch?v=BruLlYivgQQ
+2024-06-06T19:51:25+00:00	LGXtra Panneau de brassage 4U - Vidéo d'installation	https://www.youtube.com/watch?v=fdFrFwNp1ks
+2024-06-06T15:33:24+00:00	LGXtra Panel de Conexión 4U - Video de instalación	https://www.youtube.com/watch?v=-hQZbiVE8dE
+2024-05-30T14:04:52+00:00	NextSTEP Minus1U - Vidéo d’installation	https://www.youtube.com/watch?v=1IqWTGkejrQ
+2024-05-29T14:53:49+00:00	NextSTEP Minus1U - Vídeo de Instalación	https://www.youtube.com/watch?v=R0OhVJt9WbE
+2023-12-01T21:11:54+00:00	12U Swing-Out Wallmount Rack	https://www.youtube.com/watch?v=l3kXSNZ6qng
+2023-10-25T16:52:36+00:00	LGXtra 4U Rackmount Patch Panel - Installation Video	https://www.youtube.com/watch?v=IDUpQ940_QM
+2023-09-22T16:00:22+00:00	NextSTEP Minus1U - Installation Video	https://www.youtube.com/watch?v=SzSM9u3HUos
+2023-09-08T18:13:39+00:00	FastPunch Tool - Installation Video	https://www.youtube.com/watch?v=19BdHsKlDCM
+2023-09-05T19:16:36+00:00	Cable Management Tray - Installation Video	https://www.youtube.com/watch?v=XRw1cq-LxW0
+2023-08-24T17:00:17+00:00	LGXtra Hybrid Patch Module - Installation Video	https://www.youtube.com/watch?v=9d-6LoQeACM
+2023-08-04T19:09:05+00:00	LGXtra Hybrid Compact Wall-Mount Enclosure - Installation Video	https://www.youtube.com/watch?v=XgTiEGDmR-U

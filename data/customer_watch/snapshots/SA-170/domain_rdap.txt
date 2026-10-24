@@ -1,4 +1,4 @@
-# SA-170 Biz-Ethics Ltd. / BEL Networks（拉各斯，自有品牌 BNSC-） · domain_rdap · https://rdap.verisign.com/com/v1/domain/belnetworks.com · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SA-170 Biz-Ethics Ltd. / BEL Networks（拉各斯，自有品牌 BNSC-） · domain_rdap · https://rdap.verisign.com/com/v1/domain/belnetworks.com · fetched 2026-10-24T07:26:33Z · HTTP 200
 {
  "events": [
   {
@@ -15,7 +15,7 @@
   },
   {
    "eventAction": "last update of RDAP database",
-   "eventDate": "2026-10-24T04:35:20Z"
+   "eventDate": "2026-10-24T07:26:20Z"
   }
  ],
  "nameservers": [

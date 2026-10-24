@@ -1,4 +1,4 @@
-# SB-566 ubitron.co.kr · news_1 · https://ubitron.co.kr/kr/customer/news.php · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-566 ubitron.co.kr · news_1 · https://ubitron.co.kr/kr/customer/news.php · fetched 2026-10-24T07:26:33Z · HTTP 200
 NEWS - 고객지원 - UBITRON
 본문바로가기
 메인으로
@@ -79,17 +79,17 @@ TOTAL : 8
 공지사항입니다.
 관리자
 2021-01-20
-1,252
+1,254
 8
 ★ 중소벤처기업부 장관상 수상
 관리자
 2026-05-01
-661
+662
 7
 유비트론, 강원국방벤처센터 협약기업 선정
 관리자
 2026-05-01
-628
+629
 6
 [ VCS 출시 ] 재난·사고 대응을 위한 차세대 통합 지휘 플랫폼 공식 출시
 관리자

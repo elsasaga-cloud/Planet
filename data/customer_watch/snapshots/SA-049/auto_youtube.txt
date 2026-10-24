@@ -1,4 +1,16 @@
-# SA-049 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCjrD-7j8HAjLoqBUgfyLgFw was not found on this server. That’s all we know.
+# SA-049 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-23T13:44:59+00:00	PANASONIC TOUGHBOOK 55 RUGGED LAPTOP FOR UGV FIELD OPERATIONS_SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/e-5008o5OQg
+2026-10-23T10:55:50+00:00	**STS 3.5″ Industrial Single Board Computer (SBC) | Embedded Computing for Industrial Applications**	https://www.youtube.com/shorts/La0XnsYCiLo
+2026-10-21T17:36:16+00:00	**INDUSTRIAL GRADE KVM EXTENDERS USING ETHERNET / OFC | HDMI, USB, AUDIO & FIBER DISTANCE**	https://www.youtube.com/shorts/lHkb8k0Cuoo
+2026-10-21T17:03:26+00:00	**RUGGED HANDHELD COMPUTERS, RUGGED MOBILE PHONES & 2D SCANNER TERMINALS | SUNDAR TECHNO SOLUTIONS**	https://www.youtube.com/shorts/TYkJ8jXriRE
+2026-10-19T15:24:27+00:00	**BESS + IoT: Better visibility for energy storage**_SUNDAR TECHNO SOLUTIONS_BANGALORE_INDIA	https://www.youtube.com/shorts/Q5oOtMpokSc
+2026-10-19T14:55:51+00:00	**SoftPLC on an Embedded PC: Can Control, HMI and Edge IoT Work Together?**_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/mv_yOERK-tA
+2026-10-18T15:13:48+00:00	Explore industrial computing for CentOS Stream projects with Sundar Techno Solutions (STS)	https://www.youtube.com/shorts/4yD_dHC_U3M
+2026-10-17T10:53:57+00:00	**Industrial Fanless Box PC for Fire & Gas System Monitoring | STS**_SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/awhRCPOTCCM
+2026-10-17T09:50:21+00:00	10.1-inch Industrial Panel PC with 3-Hour Battery Backup with i5-12th Gen | Sundar Techno Solutions	https://www.youtube.com/shorts/3PxF31XGYzE
+2026-10-16T13:59:04+00:00	Sundar Techno Solutions fanless AI computer with a Hailo-8 M.2 AI accelerator, edge AI applications	https://www.youtube.com/watch?v=AApCysi40Bs
+2026-10-16T13:53:37+00:00	Fanless AI computer with a Hailo-8 M.2 AI accelerator, designed for roadside edge AI applications	https://www.youtube.com/shorts/2foQoKbwus4
+2026-10-14T14:21:38+00:00	**PHARMA PLANT DIGITAL TWIN | Powered by STS-680H 4U Rackmount AI Computer**_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/qgoJyd1uw3U
+2026-10-12T14:34:52+00:00	Video json gateway mqtt cloud ai gateway sundar techno solutions bangalore india	https://www.youtube.com/shorts/woXEAuLzfL0
+2026-10-10T12:57:12+00:00	SUNDAR TECHNO SOLUTIONS_Infrastructure, People & Industrial Technology_ELECTRONIC CITY_BANGALORE	https://www.youtube.com/shorts/hC2Qe_RbTt4
+2026-10-09T14:50:14+00:00	WINDOWS WON’T BOOT? ACCESS THE BIOS REMOTELY | STS BIOSLink_SUNDAR TECHNO SOLUTIONS_BANGALORE_INDIA	https://www.youtube.com/shorts/rrtaCprcrN4

@@ -1,4 +1,4 @@
-# SB-265 intellcom.net · home · https://intellcom.net/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-265 intellcom.net · home · https://intellcom.net/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -170,21 +170,30 @@ LAN & WAN
 მონაცემთა შენახვა
 ახალი პროდუქტები
 ყველას ნახვა
-აკუმულატორი - 12V/100AH, სუფთა ტყვიის, Leoch
-PLH100FT(A)
-#03197
-820.35 ₾
+IP კამერა - 2მპ 4.0მმ Bullet, WiFi, Mic, SD, ANR, HBD, Uniview
+IPC2122LB-AF40WK-G
+#03916
+189.54 ₾
 მარაგშია
-32 არხიანი IP ვიდეო ჩამწერი NVR - 2 მყარი დისკი, HiLook
-NVR-232MH-K
-#04094
-947.06 ₾
-გზაშია, სავარაუდო ჩამოსვლა:
-30.10.2026
-24 წვერიანი ADSS ოპტიკური კაბელი
-ADSS-SS-50M-24B1.3
-#04108
-2.59 ₾
+Firewall - FortiGate-90G, Fortinet
+FG-90G
+#03585
+ფასის გასაგებად დაგვიკავშირდით
+მხოლოდ წინასწარი შეკვეთით
+მართვადი PoE სვიჩი - USW-Pro-XG-24-PoE, Ubiquiti
+USW-Pro-XG-24-PoE
+#03949
+9384.16 ₾
+მარაგშია
+Device Bridge Pro
+UDB-Pro-EU
+#03603
+953.14 ₾
+მარაგშია
+LTE როუტერი - Chateau LTE7
+D53G-5HacD2HnD-TC&R11e-LTE7
+#03861
+460.35 ₾
 მარაგშია
 აკუმულატორი - 12V/40AH, სუფთა ტყვიის, Leoch
 PLH40FT(A)
@@ -192,25 +201,15 @@ PLH40FT(A)
 395.41 ₾
 გზაშია, სავარაუდო ჩამოსვლა:
 17.12.2026
-IP კამერა - 2მპ 4.0მმ Bullet, WiFi, Mic, SD, ANR, HBD, Uniview
-IPC2122LB-AF40WK-G
-#03916
-189.54 ₾
+32 არხიანი IP ვიდეო ჩამწერი NVR - 2 მყარი დისკი, Seekfree, Uniview
+NVR502-32E-IM-G
+#04051
+1822.50 ₾
 მარაგშია
-SNMP ბარათი MP 1KVA-დან 3KVA-მდე UPS-ებისთვის
-DS801
-#03601
-133.85 ₾
-მარაგშია
-IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
-IPC6214LFW-AF40C
-#03599
-236.93 ₾
-მარაგშია
-UniFi WiFi BaseStation XG
-UWB-XG
-#04039
-6813.40 ₾
+PTZ კამერების დისტანციურად სამართავი კონტროლერი Uniview
+KB-1100-E
+#03958
+1217.43 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

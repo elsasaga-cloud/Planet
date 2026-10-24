@@ -1,4 +1,16 @@
-# SB-763 ctsystem.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g was not found on this server. That’s all we know.
+# SB-763 ctsystem.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g · fetched 2026-10-24T07:26:33Z · HTTP 200
+2023-07-17T09:46:19+00:00	That’s where WaaS comes in, CTS' solution for managed Wi-Fi	https://www.youtube.com/watch?v=o3NVHEd6DPE
+2021-10-21T02:08:53+00:00	Let's see what CTS Converter Solution could do for flexibly In-Home deployment	https://www.youtube.com/watch?v=hba6cyX_b1s
+2021-09-15T07:32:11+00:00	CTS FOS 10G solution helps ISPs Deploy FTTH Broadband to Cover Increased Demand	https://www.youtube.com/watch?v=oUM94ETIQAQ
+2020-11-25T02:48:05+00:00	CTS Network solutions – Active equipment for your FTTH last mile – Switches, CPE s & WiFi routers	https://www.youtube.com/watch?v=yY8cYgV2B9o
+2020-11-24T10:32:53+00:00	Your best network partner provides broadband and home solutions for your tailored needs	https://www.youtube.com/watch?v=vER9gLO5NRY
+2020-07-01T05:02:22+00:00	CTS Delivers World First 10G NBase-T Fiber CPE Switch for FTTH Deployment	https://www.youtube.com/watch?v=bnif3uQFbHc
+2019-06-05T05:40:03+00:00	2019 CTS Insight Sharing Workshop_Key Partner Sharing	https://www.youtube.com/watch?v=InqkmyNo3KA
+2019-02-13T11:00:43+00:00	2019 RTIME: Show Recap	https://www.youtube.com/watch?v=djVsDJAP8pk
+2018-12-17T08:22:20+00:00	2018 Fiberday Video_Show Recap	https://www.youtube.com/watch?v=isjv2yZBjDQ
+2018-10-16T01:30:48+00:00	CTS Ring Test Video (with music)	https://www.youtube.com/watch?v=3XW4JHQaX2c
+2018-02-01T12:17:32+00:00	CTS FOS-3114/3110: 19-inch Rack-mount Bracket Installation	https://www.youtube.com/watch?v=RFx7NlFzCZU
+2018-02-01T08:23:26+00:00	CTS FOS-3114/3110 : a Single Access Swtich Installation in a Rack	https://www.youtube.com/watch?v=T71_tTKAIyM
+2017-10-12T07:10:05+00:00	CTS IoT Smart Gateway Solutions	https://www.youtube.com/watch?v=enOsxvQvPyU
+2017-09-25T12:02:45+00:00	CTS IoT Solution (JPN subtitles)	https://www.youtube.com/watch?v=hOioLpgVxEk
+2017-09-05T11:43:56+00:00	CTS IoT Solution	https://www.youtube.com/watch?v=AU57YeQQ6TA

@@ -1,4 +1,4 @@
-# SB-1039 Blue Skill Ltd · sitemap · https://blueskill.co/sitemap.xml · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-1039 Blue Skill Ltd · sitemap · https://blueskill.co/sitemap.xml · fetched 2026-10-24T07:26:33Z · HTTP 200
 2026-10-02	https://www.blueskill.co/
 2026-10-02	https://www.blueskill.co/familias.html
 2026-10-02	https://www.blueskill.co/condominios.html

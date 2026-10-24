@@ -1,4 +1,16 @@
-# SB-1043 Intracom Middle East FZ-LLC · youtube · https://www.youtube.com/user/IntracomTelecom · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCbPq_uE5R0pPBaxQi6_g74w was not found on this server. That’s all we know.
+# SB-1043 Intracom Middle East FZ-LLC · youtube · https://www.youtube.com/user/IntracomTelecom · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-10-13T10:59:19+00:00	Unlocking Gigabit Connectivity in Every Building	https://www.youtube.com/watch?v=pfF_WjcjPF0
+2026-09-01T10:45:25+00:00	"Tech Talks by Intracom Telecom" - Episode 3 | E-Band & Microwave	https://www.youtube.com/watch?v=QMOtICL0gcM
+2026-01-28T12:45:58+00:00	"Tech Talks by Intracom Telecom" | Episode 2	https://www.youtube.com/watch?v=atvSFg1i5GY
+2025-12-10T11:29:38+00:00	Border Security & Control: UltraLink-GX80 & OmniBAS	https://www.youtube.com/watch?v=UBb2Oablrgs
+2025-12-04T13:18:28+00:00	Fiber-Like Speeds Anywhere! | Intracom Telecom & GeoLinks	https://www.youtube.com/watch?v=spz420HsPTo
+2025-11-24T12:10:17+00:00	Intracom Telecom at Kifissia Climate Day Week	https://www.youtube.com/watch?v=81DfugHIZpU
+2025-09-10T08:42:00+00:00	Η Intracom Telecom συμμετέχει στο Πρόγραμμα Δίκαιης Αναπτυξιακής Μετάβασης 2021-2027	https://www.youtube.com/watch?v=dwV7QLlhf_I
+2025-07-07T12:56:12+00:00	"Tech Talks by Intracom Telecom" | Episode 1	https://www.youtube.com/watch?v=tWuNglEmTAk
+2025-06-30T09:49:37+00:00	Christos Rizos, CTO Software & ICT Solutions, at MWC Barcelona 2025	https://www.youtube.com/watch?v=7fP1FqE03Hk
+2025-06-30T09:42:51+00:00	Γιάννης Τενίδης, Διπλάσιες Ταχύτητες- Χαμηλότερο Κόστος	https://www.youtube.com/watch?v=2E6O8Zq-33s
+2025-06-30T09:20:42+00:00	Χρήστος Ρίζος, Intracom Telecom: H τεχνητή νοημοσύνη μετασχηματίζει τις τηλεπικοινωνίες	https://www.youtube.com/watch?v=-HhFEwdx3po
+2025-05-08T08:59:36+00:00	Ο ρόλος της τεχνητής νοημοσύνης στην ανάπτυξη των τηλεπικοινωνιών	https://www.youtube.com/watch?v=P8Gxib_vNf0
+2025-03-21T11:10:52+00:00	MWC25 | Wireless Access & Transmission highlights	https://www.youtube.com/watch?v=uG2A51ESiy8
+2025-03-11T08:50:45+00:00	Delivering 15 Gbps over a single 1+0 link	https://www.youtube.com/watch?v=oxRXO2WDDNI
+2025-02-26T09:54:42+00:00	Gigabit to the Premises Fixed Wireless Access	https://www.youtube.com/watch?v=htzkdNCveWQ

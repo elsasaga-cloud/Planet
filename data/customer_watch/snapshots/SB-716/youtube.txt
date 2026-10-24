@@ -1,4 +1,8 @@
-# SB-716 mnsbilisim.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC5obxRLu-uWnxL9tdUvB3Uw · fetched 2026-10-24T04:35:40Z · HTTP 500
-Error 500 (Server Error)!!1
-500. That’s an error.
-The server encountered an error and could not complete your request. If the problem persists, please report your problem and mention this error message and the query that caused it. That’s all we know.
+# SB-716 mnsbilisim.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC5obxRLu-uWnxL9tdUvB3Uw · fetched 2026-10-24T07:26:33Z · HTTP 200
+2021-03-29T08:45:00+00:00	#Cnet CGS-8002P Switch Tanıtımı	https://www.youtube.com/watch?v=gUHdhYjjQyk
+2021-03-21T13:00:11+00:00	Ruijie Networks Tanıtımı	https://www.youtube.com/watch?v=qdWen99k_9Q
+2021-03-21T10:00:05+00:00	#Ruijie NB3200 10 GB Port Testi	https://www.youtube.com/watch?v=K6ER-Xuhzqc
+2021-02-22T10:24:11+00:00	CNet WNOR 500H #cnet #dışortam #accesspoint #mnsbilisim #mnspazar	https://www.youtube.com/watch?v=9GqAqUhIqks
+2021-02-08T08:14:31+00:00	RUIJIE Wi-Fi 6 RGAP820L(V2) Ürün Tanıtımı	https://www.youtube.com/watch?v=WoegtOSDEMY
+2021-02-01T05:00:08+00:00	PROJELERİMİZ slayt	https://www.youtube.com/watch?v=d3wYAfOYZek
+2019-08-01T13:06:39+00:00	UBNT Türkiye, MNS Bilişim Resmi Satış Sitesidir.	https://www.youtube.com/watch?v=lh_36WuYLHA

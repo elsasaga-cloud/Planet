@@ -1,4 +1,4 @@
-# SB-865 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-865 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-10-24T07:26:33Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -200,29 +200,32 @@ BCS-L-SP0802G(2) BCS switch PoE 10 portowy (8x PoE 100M, 2x RJ45 ...
 Do koszyka
 545,87 zł
 pokaż więcej
-BCS-P-TIP24FSR4-AI2-G BCS Point kamera tubowa IP 4Mpx IR 40M ...
-Zobacz warianty
-BCS-P-TIP15FSR5-Ai BCS Point kamera tubowa IP z mikrofonem 5Mpx ...
+BCS-P-NVR0801-4K(3) BCS Point rejestrator 8 kanałowy IP 8mpx
 Do koszyka
-608,00 zł
-BCS-B-TIP45VSR5(2.0) BCS Basic kamera tubowa IP 5Mpx IR 50M WDR ...
-638,37 zł
+953,00 zł
+BCS-L-EIP16FCR3L3 BCS Line kamera kopułowa IP NightColor 6Mpx ...
 Do koszyka
-510,70 zł
-BCS-IP8/E-S System zasilania do 9 kamer IP ze switchem PoE w ...
+921,00 zł
+BCS-MON7400W-S BCS Line wideomonitor głośnomówiący 7"
 Do koszyka
-1 199,00 zł
-BCS-B-XVR0801(2.0) BCS Basic rejestrator 8 kanałowy 5w1 do 5Mpx...
+1 519,00 zł
+BCS-L-DIP14FSR3-W BCS Line kamera kopułowa IP 4Mpx Wi-Fi
+826,56 zł
 Do koszyka
-387,00 zł
-Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
+578,59 zł
+BCS-P-NVR0801-4K-8P(3) BCS Point rejestrator 8 kanałowy IP 8mpx ...
 Do koszyka
-651,00 zł
-BCS-P-TIP24FSR4-AI2 BCS Point kamera tubowa IP 4Mpx IR 40M WDR...
-Zobacz warianty
-BCS-P-NVR0401-4K(3) BCS Point rejestrator 4 kanałowy IP 8mpx
+1 597,00 zł
+BCS-L-EIP14FSR3L3-AI BCS Line kamera kopułowa IP 4Mpx LED 30M ...
 Do koszyka
-822,00 zł
+904,00 zł
+BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
+921,00 zł
+Do koszyka
+710,33 zł
+BCS-PAN1320B-S BCS Line Jednorodzinny panel zewnętrzny TCP IP ...
+Do koszyka
+1 100,00 zł
 BCS-B-EIP12FR3-AI(2.0) kamera kopułowa IP 2Mpx mikrofon SMD BCS ...
 146,00 zł
 Do koszyka
@@ -239,12 +242,12 @@ BCS-B-EIP14FSR3(2.0) kamera kopułowa IP 4Mpx mikrofon SMD BCS ...
 207,00 zł
 Do koszyka
 179,00 zł
-BCS-P-EIP24FSR3-AI2 BCS Point kamera kopułowa 4Mpx IR 30M WDR...
-Zobacz warianty
 BCS-L-EIP402FIR3-LED-Ai1 BCS Line kamera kopułowa IP NightColor ...
 1 437,00 zł
 Do koszyka
 519,00 zł
+BCS-P-EIP24FSR3-AI2 BCS Point kamera kopułowa 4Mpx IR 30M WDR...
+Zobacz warianty
 BCS-P-TIP24FSR4-AI2 BCS Point kamera tubowa IP 4Mpx IR 40M WDR...
 Zobacz warianty
 BCS-L-TIP14FCR3L3-AI1 BCS Line kamera tubowa IP NightColor 4Mpx ...

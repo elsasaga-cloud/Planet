@@ -1,4 +1,16 @@
-# SB-422 Optima Soft · youtube · https://www.youtube.com/user/EngineeringOptima · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCv1lcr4DDSf-NGhewejYzmg was not found on this server. That’s all we know.
+# SB-422 Optima Soft · youtube · https://www.youtube.com/user/EngineeringOptima · fetched 2026-10-24T07:26:33Z · HTTP 200
+2025-03-07T07:33:10+00:00	FXB-CT-ULTRASHALLOW Crash Test	https://www.youtube.com/watch?v=eww8URR5FDQ
+2025-03-07T07:29:34+00:00	FXB-CT-DEFENDER Crash Test	https://www.youtube.com/watch?v=LVBqrbbJKfM
+2025-02-06T08:54:16+00:00	OPTIMA CRASH TESTS (17)	https://www.youtube.com/watch?v=NOOcT3HTEaI
+2025-02-06T07:17:05+00:00	FXB CT DSM CRASH TESTED DEFENDER SHALLOW MOUNT BOLLARD	https://www.youtube.com/watch?v=JPbr2pbLP9M
+2025-02-06T07:10:51+00:00	FXB CT USM CRASH TESTED ULTRA SHALLOW MOUNT BOLLARD	https://www.youtube.com/watch?v=BzVaRPKQ7Lk
+2024-03-12T07:34:00+00:00	Optima Engineering INC	https://www.youtube.com/watch?v=trWpn4uec0c
+2024-03-12T06:31:21+00:00	OPTIMA Mühendislik A.Ş.	https://www.youtube.com/watch?v=VFxzg0YmU3M
+2023-04-03T10:34:16+00:00	Optima License Plate Recognition and Under Vehicle Inspection System	https://www.youtube.com/watch?v=cyww7eqoPB0
+2022-12-12T11:59:54+00:00	SG HDCR CRASH TESTED SLIDING GATE	https://www.youtube.com/watch?v=LIyypM602iA
+2022-12-12T11:58:59+00:00	SG CT CRASH TESTED SLIDING GATE (CLOSED TO VISION)	https://www.youtube.com/watch?v=DjoIB9fAiWc
+2022-12-12T11:56:16+00:00	HDAB CT CRASH TESTED HYDRAULIC DROP ARM BARRIER	https://www.youtube.com/watch?v=48VCcYhGkzs
+2022-12-12T11:54:57+00:00	MAB CT MANUAL ARM BARRIER	https://www.youtube.com/watch?v=KAtt2oRZAyM
+2022-12-12T11:52:51+00:00	FXB CT SHM CRASH TESTED SHALLOW MOUNT FIXED BOLLARD	https://www.youtube.com/watch?v=bs_n9XrNUMM
+2022-12-12T11:34:38+00:00	HRB HS CT SERIES RETRACTABLE BOLLARD	https://www.youtube.com/watch?v=a_SD_9T8F_c
+2022-12-12T11:33:05+00:00	FRB 01 CRASH TESTED FIXED BOLLARD	https://www.youtube.com/watch?v=ivmpq0yxXgY

@@ -1,4 +1,16 @@
-# SB-235 rimaelektronik.com · youtube · https://www.youtube.com/user/rimaelektronik · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCRC8OCQJoiJhSI_aKxQGuzA was not found on this server. That’s all we know.
+# SB-235 rimaelektronik.com · youtube · https://www.youtube.com/user/rimaelektronik · fetched 2026-10-24T07:26:33Z · HTTP 200
+2016-08-09T20:13:59+00:00	AXIS Q61 Serisi Dome IP Kameralar	https://www.youtube.com/watch?v=BXD262LgppI
+2016-08-09T19:25:59+00:00	Luxriot Evo Ip Kamera Platformu	https://www.youtube.com/watch?v=Bxfh9dNgznc
+2015-04-16T06:07:48+00:00	Axis Ip Kamera Zipstrem Teknolojisi - Düşük Bant ve Alan İhtiyacı	https://www.youtube.com/watch?v=UZ4XoWDHRdc
+2014-05-10T17:21:37+00:00	Sony 4K Ip Kamera Tanıtımı	https://www.youtube.com/watch?v=NxgdS_YVtdY
+2014-03-26T15:36:50+00:00	Dynacolor Z6 Ultra HD Box Ip Kamera	https://www.youtube.com/watch?v=dLzCI_NeIss
+2014-02-20T11:27:39+00:00	Onvif Profil Tanımlaması	https://www.youtube.com/watch?v=ZR3C2e9ZvYk
+2013-07-10T20:31:55+00:00	Luxriot Ip Kamera Platformu Tanıtım	https://www.youtube.com/watch?v=Q07MlQT6P3Y
+2013-04-27T23:19:42+00:00	360 Derece Panoramik Ip Güvenlik Kamerası	https://www.youtube.com/watch?v=aOYhLNidoJM
+2012-12-11T02:51:34+00:00	LPR Plaka Tanima Sistemleri	https://www.youtube.com/watch?v=VCHeCewp0Ho
+2012-12-03T01:14:05+00:00	Ip Kamera Kişi Araç Sayma	https://www.youtube.com/watch?v=6e_x9_Crzls
+2012-12-01T14:24:16+00:00	İnşaat Time Lapse Ugulaması	https://www.youtube.com/watch?v=X4kZOk6y_N4
+2012-11-24T15:59:56+00:00	AXIS P5544 PTZ IP Kamera 720MP 360 derce Panaromik 18X Optik Zoom	https://www.youtube.com/watch?v=vDk3lksGDOQ
+2012-11-24T12:55:33+00:00	Axis m-3005-v 1080p 2MP Ip Kamera Demo	https://www.youtube.com/watch?v=b2ZkTTWC-bA
+2012-09-27T13:24:08+00:00	Digifort Ip Kamera Kayıt ve Yönetim Yazılımı	https://www.youtube.com/watch?v=re4_3_iuPRc
+2012-08-30T08:54:32+00:00	DYNACOLOR Ip Kamera İç Ortam Full HD PTZ Demo	https://www.youtube.com/watch?v=nflzviMPcSI

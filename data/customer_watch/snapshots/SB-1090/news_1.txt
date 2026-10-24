@@ -1,4 +1,4 @@
-# SB-1090 top-fa.com · news_1 · https://top-fa.com/bbs/board.php?bo_table=news · fetched 2026-10-24T04:35:40Z · HTTP 200
+# SB-1090 top-fa.com · news_1 · https://top-fa.com/bbs/board.php?bo_table=news · fetched 2026-10-24T07:26:33Z · HTTP 200
 news 1 페이지 | 자동화의 모든것 TOP-FA!
 CART
 HOME
@@ -70,7 +70,7 @@ news 목록
 ADCSYSTEM 자체 제작 임베디드 시스템
 최고관리자
 03-25
-11026
+11027
 공지
 홈페이지 오픈예정 안내(3월 2일)
 최고관리자

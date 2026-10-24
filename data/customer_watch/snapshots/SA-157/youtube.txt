@@ -1,4 +1,16 @@
-# SA-157 Liveye · youtube · https://www.youtube.com/@LivEye-mobileVideosicherheit · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCUcOGuioS0aVYUB1l06zGVQ was not found on this server. That’s all we know.
+# SA-157 Liveye · youtube · https://www.youtube.com/@LivEye-mobileVideosicherheit · fetched 2026-10-24T07:26:33Z · HTTP 200
+2026-01-28T11:00:12+00:00	JAHRESAUFTAKT LivEye 2026	https://www.youtube.com/watch?v=o-0eEYkcCZM
+2025-11-17T07:24:36+00:00	LivEye Detektion: Discounter Abenteuer	https://www.youtube.com/watch?v=mmVnmklsFEA
+2025-10-28T11:07:04+00:00	DISCOUNTER ADVENTURE ENG	https://www.youtube.com/watch?v=oUZpzXzYeMw
+2025-08-25T08:02:50+00:00	TEAM ORANGE 2025	https://www.youtube.com/watch?v=y1Q-oHkqtWM
+2025-07-09T08:33:08+00:00	NSTR Produktion bei becorp GmbH	https://www.youtube.com/watch?v=sA8Sx9YB-Sw
+2025-07-09T08:27:18+00:00	NSTR Marc Thurn - Part 3	https://www.youtube.com/watch?v=g96hh8PBlq4
+2025-07-09T08:25:25+00:00	NSTR Marc Thurn - Part 2	https://www.youtube.com/watch?v=UvMVcCOWyL0
+2025-07-09T08:23:27+00:00	NSTR Marc Thurn - Part 1	https://www.youtube.com/watch?v=UKCCn7_fmSU
+2025-05-15T08:26:25+00:00	REVIEW MARKETING CLUB	https://www.youtube.com/watch?v=QYxk81IKJCQ
+2025-05-13T09:05:12+00:00	VSU TESTIMONIAL Trailer	https://www.youtube.com/watch?v=fNXbuBchaNI
+2025-05-12T09:37:02+00:00	VSU TESTIMONIAL Untertitel Deutsch	https://www.youtube.com/watch?v=AWM9t-zHVlc
+2025-05-07T10:37:15+00:00	LivEye Pro2.0 im Einsatz	https://www.youtube.com/watch?v=k4ogGEMUREo
+2025-03-20T10:33:42+00:00	LIVEYE CLIP KURZVIDEO	https://www.youtube.com/shorts/CSoojxQ4HF8
+2025-02-06T07:07:51+00:00	JAHRESAUFTAKT LivEye Recap Clip 2025	https://www.youtube.com/watch?v=tglN33VPwHs
+2024-12-17T08:27:20+00:00	LIVEYE Tätervideo Eindringling mit Fluchtversuch	https://www.youtube.com/watch?v=zGNeaMbBOjc

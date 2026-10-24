@@ -1,4 +1,16 @@
-# SA-028 Sewell · youtube · https://www.youtube.com/user/sewelldirect · fetched 2026-10-24T04:35:40Z · HTTP 404
-Error 404 (Not Found)!!1
-404. That’s an error.
-The requested URL /feeds/videos.xml?channel_id=UCOEiwCUGEAVmMsAepHUDD_Q was not found on this server. That’s all we know.
+# SA-028 Sewell · youtube · https://www.youtube.com/user/sewelldirect · fetched 2026-10-24T07:26:33Z · HTTP 200
+2024-03-21T22:04:40+00:00	Introducing the Glacial Refraction Squeakerless Shoes!	https://www.youtube.com/watch?v=bq8vis_jsvY
+2024-03-21T21:41:17+00:00	Introducing the Butterfly Daydream Squeakerless Shoes!	https://www.youtube.com/watch?v=72knUoxq6KI
+2023-02-24T20:15:55+00:00	Squeaky Shoes your kids will love!	https://www.youtube.com/shorts/OvWAnWqdtt4
+2023-02-16T23:35:11+00:00	ikiki The Perfect Kids' Shoe	https://www.youtube.com/shorts/wq7yP6HwcHE
+2023-02-16T17:36:38+00:00	Owlivia Hoot - Owl Squeaky shoes	https://www.youtube.com/watch?v=51Oeb3tMQs8
+2023-02-14T17:57:19+00:00	ikiki - Beeatrix Bumblebee Squeaky Shoes	https://www.youtube.com/watch?v=8rwIbdi-iJU
+2023-02-02T19:44:27+00:00	ikiki - Lady Dorothy Rose Ladybug	https://www.youtube.com/watch?v=Pi4PstPn_Y4
+2023-01-31T17:52:56+00:00	Duchess Bubblegum Sparkles - Squeaky Unicorn Shoes by ikiki	https://www.youtube.com/watch?v=_OKhBBP0rSA
+2023-01-30T18:02:07+00:00	Introducing the Bipedal Nebula Sneaks!	https://www.youtube.com/watch?v=RREgYziC3NA
+2023-01-23T15:39:54+00:00	Glacial Refraction Squeakerless Shoes - Sneaks By ikiki	https://www.youtube.com/watch?v=1bzsH2MKais
+2023-01-19T21:13:08+00:00	Elephant & Piggie Squeaky Shoes!	https://www.youtube.com/watch?v=H_OhsMGfnZ8
+2022-09-14T19:54:30+00:00	Strider McSloth - ikiki Squeaky Shoes	https://www.youtube.com/watch?v=Y5Bfkf1SNiw
+2020-06-23T18:23:54+00:00	ikiki - Meet Moe	https://www.youtube.com/watch?v=piEkq9XuJe4
+2018-12-18T21:57:54+00:00	BabyLeague reviews ikiki shoes.	https://www.youtube.com/watch?v=V4nPUEWp-ZU
+2018-11-20T22:23:56+00:00	ikiki shoes - made for kids	https://www.youtube.com/watch?v=ppSw-NMSC2g
