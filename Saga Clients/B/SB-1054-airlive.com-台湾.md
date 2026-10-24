@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾鑫志科技 AirLive Technology（网络品牌：Wi-Fi 6 Mesh / 管理交换机 / 5G / XGPON；站内工业 PoE 型号 IGM-1484POE-2、IGM-1082BT-2、IGM-14104BT-2，PoE 词频 481、2.5G 171、10G 135；表内「工业 FS / MC / SFP，自己的牌子」；KP John Lai（john.lai@））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-01-02 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———。已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

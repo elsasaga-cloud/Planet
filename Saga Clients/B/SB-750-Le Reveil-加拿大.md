@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加拿大（电话 +1 613，渥太华地区）个人/小型需求方 François Burton（Gmail）：明确需求「8/12 个 SFP+ 甚至更高规格光口、不要网管(或不要电口)、工业级温度」；WhatsApp 已加、以邮件跟进为主，15 次跟进 0 回复。Saga 工业线最多 4×10G SFP+（STI-488DGGGM：8×1G SFP + 4×10G SFP+ + 8 GE），无 8/12 口 SFP+ 工业机型——待核型。（调研 2026-10-21；表内兴趣：8/12个SFP+甚至更高规格的光 不要网  工业级温度!!）
 - **为什么是 B 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 15 次（2024-06-27 → 2025-10-17）；最近一次客户回复：2024-06-27：不需要网口 只需要光
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列半宽 10G — —。已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；按 CENTEC 价表
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列半宽 10G — 已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；按 CENTEC 价表
 - **第一问（只问一个）**：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11 S 邮箱 只发 CENTEC
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：需求是数据中心 ToR 口径。
 - **对方真实需求（有据）**：全 SFP+，前后风道。
 - **断点 / 为什么停在这里**：产品线。
-- **Saga 现在该推什么**：P1 **STH 系列半宽 10G**（25% 档，按 CENTEC 价表）———。已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
+- **Saga 现在该推什么**：P1 **STH 系列半宽 10G**（25% 档，按 CENTEC 价表）——已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
 - **下一步（具体）**：2026-11　S 邮箱　只发 CENTEC
   - 第一问（只问一个）：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 

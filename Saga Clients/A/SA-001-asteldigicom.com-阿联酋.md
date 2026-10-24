@@ -70,6 +70,7 @@ updated: 2026-10-24
 | 2025-11-27 | 来 | Sanjay | I need two samples of this model with Power Supply… I shall pay by Paypal. You need to send the goods to our forwarder in Guangzhou… How can I reach on wechat for faster communication | 付样 + 广州货代 + 要 WeChat | `05f51c687ba38b88` |
 | 2025-11-27 | 去 | Alan | Please see attached invoice… PayPal payment is to: s.sagatelecom@gmail.com… About WeChat, please contact Simon 86-15237149683 | 发票 + 交接给 Simon | `5ec435ffe9b9305e` |
 | 2025-11-27 | PI | Simon → Astel | STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75 | 样品单经济账 | `PI STAG20251127018` |
+| 2025-11-27 | 去 | Saga PI STAG20251127018（Alan） | Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990 | 最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7 | `gmail_a att STAG20251127018.pdf` |
 | 2025-12-01 | 来 | Sanjay | We have processed your payment… Shipping address and Shipping marks have been advised on WeChat. | 付款；邮件到此为止 | `0cc642cb3b5505fb` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无

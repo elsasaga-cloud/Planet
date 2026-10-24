@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Optimus（optimus-cctv.ru / red-dst.ru：CCTV 品牌，自有 logo 商用 PoE、PoE 配件、SFP 模块；表内「卖丰润达的」「商业 PoE CCTV 为主 很多配件」；KP Mokerova Alina（product manager）、Alla Kiyashkina（product manager））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：SFP module；自己的logo 商业POE CCTV为主 很多配件；商业POE POE配件 主要是CCTV；卖丰润达的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———。已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）

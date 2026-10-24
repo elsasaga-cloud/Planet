@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。（调研 2026-10-21；表内兴趣：很多国内的牌子 有洪瑞的）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（? → ?）；最近一次客户回复：113：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———。已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）——已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

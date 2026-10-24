@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：商业POE POE配件较多）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-18 → 2025-10-20）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣偏「其他」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 A 邮箱 → contact@acelink.com.tw 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 Acelink Technology（网络方案：WiFi 7 商用、智慧工厂、AIoT 智慧城市，Network X 2026 参展，ODM；表内「商业 PoE，PoE 配件较多」）；群发 7 次无回复。
 - **对方真实需求（有据）**：台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）
 - **断点 / 为什么停在这里**：台湾 ODM 商：自有供应体系，白牌切入点弱；非主攻区（T5）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣偏「其他」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2026-11　A 邮箱 → contact@acelink.com.tw　短信一问（email_hook）
   - 第一问（只问一个）：For the PoE switches that pair with your Wi-Fi 7 and smart-factory offerings, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 4/8-port unmanaged) from small lots — is a lower-cost PoE tier something you would consider dual-sourcing?
 

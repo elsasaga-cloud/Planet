@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加拿大小型电信承包/个体 JTS Telecom（Hotmail 邮箱）：用户记录「VC（视频/光纤转换）对他是新领域，想进入」；1 次回复后 15 次跟进无果。身份不可核。（调研 2026-10-21；表内兴趣：VC is new to him, wanna enter into this new field）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-06-06 → 2025-10-17）；最近一次客户回复：2024-07-31：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：被动 PoE 24 口。
 - **断点 / 为什么停在这里**：明确拒绝。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—）———。已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

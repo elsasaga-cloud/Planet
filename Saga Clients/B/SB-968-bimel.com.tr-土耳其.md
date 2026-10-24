@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：几个有名牌子的MC POE 商业FS 工业品较少）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣偏「其他」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-9
 - **对方真实需求（有据）**：对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：
 - **断点 / 为什么停在这里**：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣偏「其他」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

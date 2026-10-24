@@ -164,6 +164,14 @@
         "k": "gmail_a att（sha 见 attachments/text）"
       },
       {
+        "date": "2025-04-22",
+        "dir": "来",
+        "who": "Hussain Alqahtani 附件「28 ports with uplink 10G L3 managed PoE switch.doc」",
+        "quote": "\"Overview This series of products are the industrial L3 lite Ethernet switch products independently developed by N-net® for the industrial application scenarios…\"（15,295 字规格书）",
+        "why": "客户的 RFQ 规格书直接来自竞品 N-net（深圳）工业 L3 lite 28 口 PoE 机 → Linxcom 在比价，Saga 的 $430 L3 报价对标的是 N-net 规格；「too expensive」应理解为高于 N-net 报价",
+        "k": "gmail_a att 2025-04-22"
+      },
+      {
         "date": "2025-04-23",
         "dir": "去",
         "who": "Saga（Alan）",

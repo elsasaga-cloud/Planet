@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。（调研 2026-10-21；表内兴趣：买PoE电源/常下单）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-04-03 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：PoE 注入器 + STC-28DGGPM — —。已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：PoE 注入器 + STC-28DGGPM — 已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：— — 先核成交证据
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：4 个收件人、20 封、3 次打开；用户表称成交 + 复购但 PI 包 20 个客户里没有 Sewell。
 - **对方真实需求（有据）**：PoE 注入器/小 PoE 交换机（AV 配套）。
 - **断点 / 为什么停在这里**：证据冲突。
-- **Saga 现在该推什么**：P1 **PoE 注入器 + STC-28DGGPM**（30% 档，—）———。已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **PoE 注入器 + STC-28DGGPM**（30% 档，—）——已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：—　—　先核成交证据
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：阿联酋 Safa Networks（safanetworks.com；表内「Switch APs」；官网 http_error）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：Switch APs）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-04-17 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣偏「其他」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches you sell with access points, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which port count do your UAE customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：阿联酋 Safa Networks（safanetworks.com；表内「Switch APs」；官网 http_error）；群发 7 次无回复。
 - **对方真实需求（有据）**：Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；官网 http_error；7 次无回复，仅 sales@
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣偏「其他」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the PoE switches you sell with access points, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which port count do your UAE customers order most?
 

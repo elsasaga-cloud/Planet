@@ -148,14 +148,14 @@
   "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
   "mail_review": {
     "binding": {
-      "level": "轻度（1 台样机留在终端客户处）",
+      "level": "中度（正式供应商入库 + PO 2600011146 + 付款 $545 + 3 台样机交付；1 台留在终端客户处；止于 L3 组播/宽温功能上限）",
       "type": "系统集成商 / 国防通信项目承包（技术流）",
       "sieve": "3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机）",
       "stop": "功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C）",
       "revive": "固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机",
       "lane": "TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程）",
       "cadence": "最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga",
-      "evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+      "evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）；第 22 批回补附件原文：PO、CI STAG20251224020、Garanti 付款回单、UPS 发票、供应商入库包、ZTE 合规信"
     },
     "situation": "土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。",
     "need": "① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。",
@@ -163,7 +163,7 @@
     "saga_now": {
       "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
       "tier": 25,
-      "price": "样机单 3 台 $545 已成交（PI 2025-12）；重开报价按 CNY ×1.25 ÷ 6.69，快照日期另写",
+      "price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
       "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）",
       "repeat": [
         "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
@@ -254,12 +254,28 @@
         "k": "ff3d41beaad53936"
       },
       {
+        "date": "2025-12-02",
+        "dir": "来",
+        "who": "Burak Özdemir（Netaş 采购）附件",
+        "quote": "供应商入库包 6 件：Supplier Entry Form(English).xlsx、Bank-information-template.xlsx、NETAS-Standard-NDA.DOCX、533-IY-003 SCM Ethical Principles Rules.docx、1400-T-002 Annex 5 Defense Business Partners Export…、Netas DRAFT Supplier Export Classification Request Form（ECCN 申报）；12-04 回收已填表（SUPPLIER NAME Zhengzhou Saga Telecom）",
+        "why": "Saga 已走完 Netaş 正式供应商入库（含国防业务合规附件、出口分类）——这是「深绑定」的制度性证据，不是一次样品单",
+        "k": "gmail_a att 2025-12-02/04"
+      },
+      {
         "date": "2025-12-03",
         "dir": "来",
         "who": "buozdemir@netas.com.tr",
         "quote": "Hello Alan, Thanks for information, I am sharing the documents. I will inform you if there are any missing items. Could you also send me the dimension",
         "why": "来信原文（主题「RE: Request for NDA and ECCN form C」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "ec7219c7266d38b6"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "去",
+        "who": "Saga Quotation_2025.12.09（Alan → Ender Bulut）",
+        "quote": "Price Term: T/T in advance, DAP but without customs clearance；Destination Turkey；STI-488DGGPM-2BT 3 pcs × $150 = $450.0；Freight UPS door-to-door $70.00（4~6 calendar days to local customs）；Bank Cost Standard Charge in EACH Order $25.00；TOTAL $545.00；Remark: Please do make sure client side could handle import customs clearance",
+        "why": "报价单原文 = 后来 PO/付款的 $545 来源；「每单 $25 银行费」与「客户自行清关」是写进单据的标准条款",
+        "k": "gmail_a att Quotation_2025.12.09.pdf"
       },
       {
         "date": "2025-12-23",
@@ -270,12 +286,36 @@
         "k": "575f6cc1f5d1c75d"
       },
       {
+        "date": "2025-12-23",
+        "dir": "来",
+        "who": "Netaş PO 2600011146（Buyer Burak Ozdemir, Narflow 2266494）",
+        "quote": "ITEM 00010 QTY 3 ADT Industrial PoE Managed Switch STI-488DGGPM-2BT ECCN:EAR99 Export Licence(Y/N):N DEL.DATE 27.01.2026 U.PRICE 181,66 EXTENSION 544,98 TOTAL (USD) 544,98；交货点 Orhanlı Mah. İrfanlı Cad. 28, Tuzla İstanbul",
+        "why": "正式采购订单（含 ECCN EAR99 申报与交期 2026-01-27）；PO 单价 $181.66 = CI 单价 $150 + UPS 运费 $70/3 + T/T 手续费 $25/3 → 口径：Netaş 的 PO 把运费与银行费摊进单价",
+        "k": "gmail_a att 2600011146_saga.pdf"
+      },
+      {
+        "date": "2025-12-24",
+        "dir": "去",
+        "who": "Saga 商业发票 STAG20251224020",
+        "quote": "PO No. 2600011146；Payment Term: T/T in advance, DAP but without customs clearance；STI-488DGGPM-2BT 3 pcs × $150 = $450.0（Without DI/DO/RS485；-40~+75℃@240W PoE；HS 8517622990；158×115×54mm 1.2/1.4kg）；Freight 70usd for about 5kg volume weight to Turkey by UPS",
+        "why": "成交价锚：STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70；主表 -2BT 列表价 $154 → 此单约在 30% 档略下",
+        "k": "gmail_a att 0550_001.pdf"
+      },
+      {
         "date": "2026-01-13",
         "dir": "来",
         "who": "Burak Özdemir",
         "quote": "The payment has been made. Could you help me with the delivery of the products?",
         "why": "3 台样机 $545 付清（A 总览 §3）",
         "k": "c1778580f27190ae"
+      },
+      {
+        "date": "2026-01-13",
+        "dir": "来",
+        "who": "Garanti BBVA 付款回单（Dekont）",
+        "quote": "İTHALAT BEDELİ TRANSFERİ 13/01/2026 NETAŞ TELEKOMÜNİKASYON A.Ş. → 545,00 USD（TBF ID 26000000620887000006713，DOSYA REF 6003833900604）",
+        "why": "付款证据：$545 到账 2026-01-13（PO 后 21 天）——Netaş 付款周期约 3 周，T/T 预付无拖延",
+        "k": "gmail_a att Dekont-2026-01-13"
       },
       {
         "date": "2026-01-21",
@@ -286,6 +326,14 @@
         "k": "bbbaee1e4e6d88df"
       },
       {
+        "date": "2026-01-23",
+        "dir": "去",
+        "who": "UPS 商业发票（发货人 SHENZHEN ZY FF TRADING CO.,LTD / SONG LIANG，宝安福永）",
+        "quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
+        "why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
+        "k": "gmail_a att ordino ekinde çıkan ft.pdf"
+      },
+      {
         "date": "2026-01-29",
         "dir": "来",
         "who": "Burak Özdemir",
@@ -294,12 +342,28 @@
         "k": "2a8ead0c64c4f045"
       },
       {
+        "date": "2026-02-06",
+        "dir": "去",
+        "who": "Saga Warranty Certificate（PI STAG20251224020 / PO 2600011146）",
+        "quote": "Model STI-488DGGPM-2BT（箱标误写 STC-488DGGPM-2BT）Serial 202601140001–202601140003, 3 Pieces；Warranty Three (3) years 06 Feb 2026 → 05 Feb 2029；Tracking UPS 1Z0E64G86728428159 DELIVERED；Acceptance: deemed accepted if no written notice of defects within two (2) months",
+        "why": "交付闭环文件：序列号段、3 年保修到 2029-02-05、2 个月验收条款；箱标型号前缀 STC/STI 不一致是文档瑕疵（下次出证前校对）",
+        "k": "gmail_a att Warranty Certificate_STAG20251224020.pdf"
+      },
+      {
         "date": "2026-02-09",
         "dir": "去",
         "who": "Saga（Alan）",
         "quote": "Hi, Burak, Good to know that the materials have been delivered. Thank you for your efforts along the way. Hi, Ender, 1, I have uploaded the warranty certificate to the drive folder. Please see the attached information. And we updated the product links for 2026/Q2, there will be a new version of feat…",
         "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
         "k": "86c8bd8b1a70cc5d"
+      },
+      {
+        "date": "2026-02-09",
+        "dir": "来",
+        "who": "Netaş 合规部群发（ZTE Chief Export Compliance Officer letter，EN/TR）",
+        "quote": "\"Dear Business Partner, ZTE believes that export compliance is of critical importance to the sustainable development of our partnership…\"；2026-03-02 附 2025-2026 ZTE Export Compliance Policy and Commitment；05-05、08-12 续发",
+        "why": "Netaş = ZTE 控股；Saga 已在其「业务伙伴」合规名单上按季收信 → 供应商身份持续有效；也意味着 Netaş 对供应商有出口管制审查",
+        "k": "gmail_a att 2026-02-09/03-02/05-05/08-12"
       },
       {
         "date": "2026-02-26",

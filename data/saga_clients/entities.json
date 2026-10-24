@@ -924,6 +924,14 @@
 "k": "PI STAG20251127018"
 },
 {
+"date": "2025-11-27",
+"dir": "去",
+"who": "Saga PI STAG20251127018（Alan）",
+"quote": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990",
+"why": "最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7",
+"k": "gmail_a att STAG20251127018.pdf"
+},
+{
 "date": "2025-12-01",
 "dir": "来",
 "who": "Sanjay",
@@ -1761,7 +1769,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -6032,6 +6040,14 @@
 "k": "1ebe663694bef166"
 },
 {
+"date": "2025-08-23",
+"dir": "去",
+"who": "Saga PI STAG20250823017_R1（Alan）",
+"quote": "Buyer: GOGREENIT（Chris Clemson, info@gogreenit.net）Payment Term: T/T in advance, DAP but without customs clearance；Shipping: The Poplars, Burleigh Drive, Derby DE22 1AL, UK；STI-42424XGGPM-4BT（4×10G SFP + 24×GE PoE，20 af/at + 4 bt，240W/370W，L3）1 pc $500.0；Freight FedEx door-to-door $60；PayPal 5% $28；TOTAL $588.00",
+"why": "GOGREENIT 第二张 PI 原文：L3 24 口 PoE 机 $500（主表 L3 -4BT 列表 $528）+ FedEx $60 + PayPal 5%；=「PayPal 付款、DAP 英国、4~6 天」的成交模板",
+"k": "gmail_a att STAG20250823017_R1.pdf"
+},
+{
 "date": "2025-09-01",
 "dir": "去",
 "who": "Saga（Alan）",
@@ -7223,7 +7239,7 @@
 "p1": "STI-288DGGPM 对位 IM-FS280GW",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -11785,7 +11801,7 @@
 "p1": "STI-288DGGPM",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+"why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -14026,7 +14042,7 @@
 "p1": "PoE 注入器 + STC-28DGGPM",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -14365,7 +14381,7 @@
 "p1": "STI-288DGGPM（若其 E-link 线出现缺口）",
 "tier": 30,
 "price": "按 30% 自有标档",
-"why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -18258,7 +18274,7 @@
 "p1": "STI-144GP",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -18565,7 +18581,7 @@
 "p1": "STC-28DGGPM",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（2/15 封有打开记录）：「16 Port Ethernet Switch」(2025-06-11)、「Industrial PoE Switch」(2025-09-08) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（2/15 封有打开记录）：「16 Port Ethernet Switch」(2025-06-11)、「Industrial PoE Switch」(2025-09-08) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -20873,7 +20889,7 @@
 "p1": "STC-424DGGM 类 24+4（对位 SN-GS2300-28F）",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -23905,7 +23921,7 @@
 "p1": "STI-288DGGPM 对位 RF-GP2803PGM",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -40402,7 +40418,7 @@
 "p1": "STI-110GE",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+"why": "已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
 "repeat": [],
 "gaps": []
 },
@@ -50922,7 +50938,7 @@
 "p1": "STI-288DGGPM",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+"why": "已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -54141,7 +54157,7 @@
 "p1": "不推",
 "tier": 25,
 "price": "不报价",
-"why": "需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -61575,7 +61591,7 @@
 "p1": "SmartByte 12 光 12 电",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（2/23 封有打开记录）：「Marvell Industrial Alert System」(2025-07-08)、「16 Port Ethernet Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -64988,7 +65004,7 @@
 "p1": "STC-28DGGPM / STC-424DGGPM-280W",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/23 封有打开记录）：「24 port passive poe switch」(2024-08-07)、「8 Port Ethernet Switch」(2024-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -68011,7 +68027,7 @@
 "p1": "STI-144GP",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$151.6）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -73052,7 +73068,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（6/26 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-03-25)、「Re: 24 Port Fiber Switch」(2025-04-25)、「Booster PoE Switch」(2025-11-28)、「Updated Ethernet Switches Links」(2026-03-11) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"why": "已打开的主题（6/26 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-03-25)、「Re: 24 Port Fiber Switch」(2025-04-25)、「Booster PoE Switch」(2025-11-28)、「Updated Ethernet Switches Links」(2026-03-11) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -73532,7 +73548,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/27 封有打开记录）：「16 Port PoE Managed Switch」(2025-09-17)、「Re: 16 Port PoE Managed Switch」(2025-09-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/27 封有打开记录）：「16 Port PoE Managed Switch」(2025-09-17)、「Re: 16 Port PoE Managed Switch」(2025-09-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -74475,7 +74491,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -74863,7 +74879,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（7/21 封有打开记录）：「90W PoE Managed Switch」(2025-05-15)、「Marvell Industrial Alert System」(2025-12-15)、「Re: Marvell Industrial Alert System」(2025-12-15)、「24 Port PoE Managed Switch」(2026-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -75225,7 +75241,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -76912,7 +76928,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -80473,7 +80489,7 @@
 "p1": "STC-28DGGPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）。已打开的主题（1/16 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）。已打开的主题（1/16 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -87326,7 +87342,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -89281,7 +89297,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）。已打开的主题（1/7 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-25) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "商业 PoE 自有型号 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Torus 标；工业位（Utepo/丰润达）STI-288GP；PoE 分离器/延长器/注入器 Saga 无 SKU（Q-32）。已打开的主题（1/7 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-25) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -91440,7 +91456,7 @@
 "p1": "STC-028GP",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -96740,7 +96756,7 @@
 "p1": "STC-424XGGPM",
 "tier": 25,
 "price": "按主表",
-"why": "加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": [
 "Bid Invitation 真伪"
@@ -99172,7 +99188,7 @@
 "p1": "STI-288GP",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -100173,7 +100189,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（7/18 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-25)、「16 Port PoE Managed Switch」(2025-01-30)、「Managed Optical Bypass Switch」(2025-04-21)、「48 Port PoE Managed Switch」(2025-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（7/18 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-25)、「16 Port PoE Managed Switch」(2025-01-30)、「Managed Optical Bypass Switch」(2025-04-21)、「48 Port PoE Managed Switch」(2025-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -100883,7 +100899,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -104230,6 +104246,14 @@
 "k": "gmail_a att（sha 见 attachments/text）"
 },
 {
+"date": "2025-04-22",
+"dir": "来",
+"who": "Hussain Alqahtani 附件「28 ports with uplink 10G L3 managed PoE switch.doc」",
+"quote": "\"Overview This series of products are the industrial L3 lite Ethernet switch products independently developed by N-net® for the industrial application scenarios…\"（15,295 字规格书）",
+"why": "客户的 RFQ 规格书直接来自竞品 N-net（深圳）工业 L3 lite 28 口 PoE 机 → Linxcom 在比价，Saga 的 $430 L3 报价对标的是 N-net 规格；「too expensive」应理解为高于 N-net 报价",
+"k": "gmail_a att 2025-04-22"
+},
+{
 "date": "2025-04-23",
 "dir": "去",
 "who": "Saga（Alan）",
@@ -105372,7 +105396,7 @@
 "p1": "STI-080GE",
 "tier": 20,
 "price": "$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd",
-"why": "—。已打开的主题（1/8 封有打开记录）：「Re: 8 port unmanaged switch」(2024-09-06) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（1/8 封有打开记录）：「Re: 8 port unmanaged switch」(2024-09-06) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": [
 "对俄付款/物流通道"
@@ -107799,7 +107823,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -108760,7 +108784,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/13 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（1/13 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -123319,7 +123343,7 @@
 "p1": "STI-280GE",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标。已打开的主题（2/38 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10)、「Marvell Industrial Alert System」(2025-12-30) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标。已打开的主题（2/38 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10)、「Marvell Industrial Alert System」(2025-12-30) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -128463,7 +128487,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（8/24 封有打开记录）：「Power Converter」(2024-11-26)、「16 Port Ethernet Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-02-21)、「Industrial PoE Switch」(2025-08-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -129846,7 +129870,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -130286,7 +130310,7 @@
 "p1": "STI-288GPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -131295,7 +131319,7 @@
 "p1": "STI-280GM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Pla。已打开的主题（1/18 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-13) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "其 PLANET 类目核心是 IGS-801M（工业 8×GE 管理 DIN）与 IGS-800T-PN（£269）→ Saga 工业 8×GE + 2×SFP L2 管理（$68.2 EXW）同口型；PoE 位（WGS-818HP £219 / ISW-514PTF £160.89 / WGS-4215-8P2X）由 STI-288GPM（$78.9）第二封对位；分销商 → 20%（沿用 Pla。已打开的主题（1/18 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-13) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -138342,7 +138366,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -142572,7 +142596,7 @@
 "p1": "STI-280GE",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）。已打开的主题（1/29 封有打开记录）：「16 Port Ethernet Switch」(2025-06-26) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）。已打开的主题（1/29 封有打开记录）：「16 Port Ethernet Switch」(2025-06-26) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -144192,7 +144216,7 @@
 "p1": "STI-280GE",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -155185,7 +155209,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -156511,7 +156535,7 @@
 "p1": "—",
 "tier": 30,
 "price": "历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd",
-"why": "—。已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"why": "已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -172745,7 +172769,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -173844,7 +173868,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -181781,7 +181805,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/1 封有打开记录）：「16 Port PoE Managed Switch」(2025-01-26) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（1/1 封有打开记录）：「16 Port PoE Managed Switch」(2025-01-26) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -195695,7 +195719,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/2 封有打开记录）：「8 Port Ethernet Switch」(2024-11-02)、「48 Port PoE Managed Switch」(2024-11-29) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（2/2 封有打开记录）：「8 Port Ethernet Switch」(2024-11-02)、「48 Port PoE Managed Switch」(2024-11-29) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -196427,7 +196451,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -196969,7 +196993,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -197273,7 +197297,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -201026,7 +201050,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/24 封有打开记录）：「Passive PoE Switch」(2024-08-13)、「Re: Passive PoE Switch」(2024-08-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/24 封有打开记录）：「Passive PoE Switch」(2024-08-13)、「Re: Passive PoE Switch」(2024-08-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -210469,7 +210493,7 @@
 "p1": "STI-288GPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -211815,7 +211839,7 @@
 "p1": "STI-288GP",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -212551,7 +212575,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/17 封有打开记录）：「Re: 10G Enterprise SFP Switch」(2025-10-01)、「Booster PoE Switch」(2025-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（2/17 封有打开记录）：「Re: 10G Enterprise SFP Switch」(2025-10-01)、「Booster PoE Switch」(2025-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "SNR 产品经理邮箱"
@@ -214363,7 +214387,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -221326,7 +221350,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（4/23 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-11)、「Marvell Alleycat5 Solution」(2025-03-13)、「Updated Ethernet Switches Links」(2026-03-06)、「Marvell Managed Commercial Switches」(2026-03-27) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "现 HRUI（Saga 供应商）贴 frogfish 标 → 按 Q-33 口径不碰同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（4/23 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-11)、「Marvell Alleycat5 Solution」(2025-03-13)、「Updated Ethernet Switches Links」(2026-03-06)、「Marvell Managed Commercial Switches」(2026-03-27) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -221958,7 +221982,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Urmet/Grothe 标配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理位 HRUI STC-028GP（$24.2）；EoC Saga 不做。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -224742,7 +224766,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "采购邮箱"
@@ -225011,7 +225035,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/3 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-20)、「Re: Marvell Alleycat5 Solution」(2025-05-20) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（2/3 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-20)、「Re: Marvell Alleycat5 Solution」(2025-05-20) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -227626,7 +227650,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -233581,7 +233605,7 @@
 "p1": "STC-228GP / STC-28GP",
 "tier": 25,
 "price": "历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报",
-"why": "—。已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -250236,7 +250260,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -251500,7 +251524,7 @@
 "p1": "STI-288GPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）。已打开的主题（2/19 封有打开记录）：「16 Port Ethernet Switch」(2025-05-20)、「Industrial PoE Switch」(2025-06-25) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "现售 IFS（Interlogix/Carrier）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；MC 位 STI-110GE（$22.4）；商用 STC-28DGGPM（$80.7）。已打开的主题（2/19 封有打开记录）：「16 Port Ethernet Switch」(2025-05-20)、「Industrial PoE Switch」(2025-06-25) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -254113,7 +254137,7 @@
 "p1": "STC-28DGGPM",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -269207,7 +269231,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/26 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-20)、「Managed Optical Bypass Switch」(2025-06-26) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（2/26 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-20)、「Managed Optical Bypass Switch」(2025-06-26) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -270252,7 +270276,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/2 封有打开记录）：「industrial fiber switch」(2024-06-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/2 封有打开记录）：「industrial fiber switch」(2024-06-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -272012,7 +272036,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -273578,7 +273602,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/31 封有打开记录）：「8 port poe switch」(2024-07-18)、「Mini Industrial PoE Switch」(2024-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/31 封有打开记录）：「8 port poe switch」(2024-07-18)、「Mini Industrial PoE Switch」(2024-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -274286,7 +274310,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -274649,7 +274673,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -275083,7 +275107,7 @@
 "p1": "STI-288GPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -280871,7 +280895,7 @@
 "p1": "STI-050GE",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做。已打开的主题（1/12 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -281753,7 +281777,7 @@
 "p1": "STI-050GE",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -289014,7 +289038,7 @@
 "p1": "STC-28DGGPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-05-27) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -291772,7 +291796,7 @@
 "p1": "STI-288GP",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -304577,7 +304601,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
+"why": "已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -308394,7 +308418,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云。已打开的主题（1/46 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云。已打开的主题（1/46 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -309136,7 +309160,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet。已打开的主题（1/21 封有打开记录）：「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "NVR 配套 PoE（现 ONV 贴 Bettini 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；16/24 口位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM 对位 ComNet。已打开的主题（1/21 封有打开记录）：「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -310507,7 +310531,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -311494,7 +311518,7 @@
 "p1": "STI-280GE",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "PLC 网络配套自有 logo 工业 FS（现 Uotek 深圳）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 5 口 STI-050GE（$18.5）；PoE 位 STI-288GPM（$85.5）。已打开的主题（1/17 封有打开记录）：「Saga Q3 Product Links」(2026-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -311884,7 +311908,7 @@
 "p1": "STI-288GPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-02-06) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "少量工业 FS（现德国品牌）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）作预算线；CWDM Saga 不供（Q-32）。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-02-06) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -314661,7 +314685,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -322264,7 +322288,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-27) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（1/23 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-27) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -323127,14 +323151,14 @@
 "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
 "mail_review": {
 "binding": {
-"level": "轻度（1 台样机留在终端客户处）",
+"level": "中度（正式供应商入库 + PO 2600011146 + 付款 $545 + 3 台样机交付；1 台留在终端客户处；止于 L3 组播/宽温功能上限）",
 "type": "系统集成商 / 国防通信项目承包（技术流）",
 "sieve": "3（NDA·ECCN 供应商表、PO、PI、付款、报关、样机）",
 "stop": "功能上限——终端客户要 L3 组播 PIM-SM **和** PIM-DM + RIPng/PBR + IP SLA；CENTEC 线 0~40 °C 不够（要 -40~+71 °C）",
 "revive": "固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机",
 "lane": "TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程）",
 "cadence": "最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga",
-"evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+"evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）；第 22 批回补附件原文：PO、CI STAG20251224020、Garanti 付款回单、UPS 发票、供应商入库包、ZTE 合规信"
 },
 "situation": "土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。",
 "need": "① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。",
@@ -323142,7 +323166,7 @@
 "saga_now": {
 "p1": "STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5",
 "tier": 25,
-"price": "样机单 3 台 $545 已成交（PI 2025-12）；重开报价按 CNY ×1.25 ÷ 6.69，快照日期另写",
+"price": "成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此",
 "why": "集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）",
 "repeat": [
 "STI-488DGGPM-2BT 样机 3 台（2026-01 付款）"
@@ -323233,12 +323257,28 @@
 "k": "ff3d41beaad53936"
 },
 {
+"date": "2025-12-02",
+"dir": "来",
+"who": "Burak Özdemir（Netaş 采购）附件",
+"quote": "供应商入库包 6 件：Supplier Entry Form(English).xlsx、Bank-information-template.xlsx、NETAS-Standard-NDA.DOCX、533-IY-003 SCM Ethical Principles Rules.docx、1400-T-002 Annex 5 Defense Business Partners Export…、Netas DRAFT Supplier Export Classification Request Form（ECCN 申报）；12-04 回收已填表（SUPPLIER NAME Zhengzhou Saga Telecom）",
+"why": "Saga 已走完 Netaş 正式供应商入库（含国防业务合规附件、出口分类）——这是「深绑定」的制度性证据，不是一次样品单",
+"k": "gmail_a att 2025-12-02/04"
+},
+{
 "date": "2025-12-03",
 "dir": "来",
 "who": "buozdemir@netas.com.tr",
 "quote": "Hello Alan, Thanks for information, I am sharing the documents. I will inform you if there are any missing items. Could you also send me the dimension",
 "why": "来信原文（主题「RE: Request for NDA and ECCN form C」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "ec7219c7266d38b6"
+},
+{
+"date": "2025-12-09",
+"dir": "去",
+"who": "Saga Quotation_2025.12.09（Alan → Ender Bulut）",
+"quote": "Price Term: T/T in advance, DAP but without customs clearance；Destination Turkey；STI-488DGGPM-2BT 3 pcs × $150 = $450.0；Freight UPS door-to-door $70.00（4~6 calendar days to local customs）；Bank Cost Standard Charge in EACH Order $25.00；TOTAL $545.00；Remark: Please do make sure client side could handle import customs clearance",
+"why": "报价单原文 = 后来 PO/付款的 $545 来源；「每单 $25 银行费」与「客户自行清关」是写进单据的标准条款",
+"k": "gmail_a att Quotation_2025.12.09.pdf"
 },
 {
 "date": "2025-12-23",
@@ -323249,12 +323289,36 @@
 "k": "575f6cc1f5d1c75d"
 },
 {
+"date": "2025-12-23",
+"dir": "来",
+"who": "Netaş PO 2600011146（Buyer Burak Ozdemir, Narflow 2266494）",
+"quote": "ITEM 00010 QTY 3 ADT Industrial PoE Managed Switch STI-488DGGPM-2BT ECCN:EAR99 Export Licence(Y/N):N DEL.DATE 27.01.2026 U.PRICE 181,66 EXTENSION 544,98 TOTAL (USD) 544,98；交货点 Orhanlı Mah. İrfanlı Cad. 28, Tuzla İstanbul",
+"why": "正式采购订单（含 ECCN EAR99 申报与交期 2026-01-27）；PO 单价 $181.66 = CI 单价 $150 + UPS 运费 $70/3 + T/T 手续费 $25/3 → 口径：Netaş 的 PO 把运费与银行费摊进单价",
+"k": "gmail_a att 2600011146_saga.pdf"
+},
+{
+"date": "2025-12-24",
+"dir": "去",
+"who": "Saga 商业发票 STAG20251224020",
+"quote": "PO No. 2600011146；Payment Term: T/T in advance, DAP but without customs clearance；STI-488DGGPM-2BT 3 pcs × $150 = $450.0（Without DI/DO/RS485；-40~+75℃@240W PoE；HS 8517622990；158×115×54mm 1.2/1.4kg）；Freight 70usd for about 5kg volume weight to Turkey by UPS",
+"why": "成交价锚：STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70；主表 -2BT 列表价 $154 → 此单约在 30% 档略下",
+"k": "gmail_a att 0550_001.pdf"
+},
+{
 "date": "2026-01-13",
 "dir": "来",
 "who": "Burak Özdemir",
 "quote": "The payment has been made. Could you help me with the delivery of the products?",
 "why": "3 台样机 $545 付清（A 总览 §3）",
 "k": "c1778580f27190ae"
+},
+{
+"date": "2026-01-13",
+"dir": "来",
+"who": "Garanti BBVA 付款回单（Dekont）",
+"quote": "İTHALAT BEDELİ TRANSFERİ 13/01/2026 NETAŞ TELEKOMÜNİKASYON A.Ş. → 545,00 USD（TBF ID 26000000620887000006713，DOSYA REF 6003833900604）",
+"why": "付款证据：$545 到账 2026-01-13（PO 后 21 天）——Netaş 付款周期约 3 周，T/T 预付无拖延",
+"k": "gmail_a att Dekont-2026-01-13"
 },
 {
 "date": "2026-01-21",
@@ -323265,6 +323329,14 @@
 "k": "bbbaee1e4e6d88df"
 },
 {
+"date": "2026-01-23",
+"dir": "去",
+"who": "UPS 商业发票（发货人 SHENZHEN ZY FF TRADING CO.,LTD / SONG LIANG，宝安福永）",
+"quote": "Waybill 1Z0E64G86728428159, Shipment ID OE64G8CBSG4, Reason for Export: SAMPLE, SHIP TO Burak Ozdemir NETAS Tuzla；Netaş 01-29 问「invoice from SAGA TELECOM; however… an invoice from SONG LIANG. Why were two different invoices?」",
+"why": "物流口径：Saga 走深圳货代（SHENZHEN ZY FF TRADING）UPS 直发，货代名出现在报关发票上 → 对合规型客户（Netaş）会引起「两张发票」质询；下次出货前先告知客户货代名称",
+"k": "gmail_a att ordino ekinde çıkan ft.pdf"
+},
+{
 "date": "2026-01-29",
 "dir": "来",
 "who": "Burak Özdemir",
@@ -323273,12 +323345,28 @@
 "k": "2a8ead0c64c4f045"
 },
 {
+"date": "2026-02-06",
+"dir": "去",
+"who": "Saga Warranty Certificate（PI STAG20251224020 / PO 2600011146）",
+"quote": "Model STI-488DGGPM-2BT（箱标误写 STC-488DGGPM-2BT）Serial 202601140001–202601140003, 3 Pieces；Warranty Three (3) years 06 Feb 2026 → 05 Feb 2029；Tracking UPS 1Z0E64G86728428159 DELIVERED；Acceptance: deemed accepted if no written notice of defects within two (2) months",
+"why": "交付闭环文件：序列号段、3 年保修到 2029-02-05、2 个月验收条款；箱标型号前缀 STC/STI 不一致是文档瑕疵（下次出证前校对）",
+"k": "gmail_a att Warranty Certificate_STAG20251224020.pdf"
+},
+{
 "date": "2026-02-09",
 "dir": "去",
 "who": "Saga（Alan）",
 "quote": "Hi, Burak, Good to know that the materials have been delivered. Thank you for your efforts along the way. Hi, Ender, 1, I have uploaded the warranty certificate to the drive folder. Please see the attached information. And we updated the product links for 2026/Q2, there will be a new version of feat…",
 "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
 "k": "86c8bd8b1a70cc5d"
+},
+{
+"date": "2026-02-09",
+"dir": "来",
+"who": "Netaş 合规部群发（ZTE Chief Export Compliance Officer letter，EN/TR）",
+"quote": "\"Dear Business Partner, ZTE believes that export compliance is of critical importance to the sustainable development of our partnership…\"；2026-03-02 附 2025-2026 ZTE Export Compliance Policy and Commitment；05-05、08-12 续发",
+"why": "Netaş = ZTE 控股；Saga 已在其「业务伙伴」合规名单上按季收信 → 供应商身份持续有效；也意味着 Netaş 对供应商有出口管制审查",
+"k": "gmail_a att 2026-02-09/03-02/05-05/08-12"
 },
 {
 "date": "2026-02-26",
@@ -325779,7 +325867,7 @@
 "p1": "STI-288DGGPM",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求：。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-17) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "其 PLANET 工业专页主打 DIN 8 口类；8×GE PoE+ + 2 SFP 入门；方案/集成型 → 25%（沿用 Planet 档案 PB-015）；需求：。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-17) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -334394,7 +334482,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（3/28 封有打开记录）：「CCTV poe switch」(2024-06-22)、「Re: 8 Port Network Switch」(2024-07-04)、「Re: 8 Port Network Switch」(2024-07-08) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（3/28 封有打开记录）：「CCTV poe switch」(2024-06-22)、「Re: 8 Port Network Switch」(2024-07-04)、「Re: 8 Port Network Switch」(2024-07-08) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -335149,7 +335237,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -335991,7 +336079,7 @@
 "p1": "STI-288GPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供。已打开的主题（5/35 封有打开记录）：「24 port poe switch」(2024-07-19)、「24 Port Fiber Switch」(2025-02-06)、「Industrial PoE Switch」(2025-07-22)、「Marvell Managed Commercial Switches」(2026-03-18) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供。已打开的主题（5/35 封有打开记录）：「24 port poe switch」(2024-07-19)、「24 Port Fiber Switch」(2025-02-06)、「Industrial PoE Switch」(2025-07-22)、「Marvell Managed Commercial Switches」(2026-03-18) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -343487,7 +343575,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "新联系人"
@@ -343959,7 +344047,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-18)、「16 Port Industrial PoE Switch」(2026-09-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -345089,7 +345177,7 @@
 "p1": "STI-288GPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE。已打开的主题（1/16 封有打开记录）：「Marvell Networking Solutions」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "自有 EL-1000 系列工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；bypass 型 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；MC 位 STI-110GE。已打开的主题（1/16 封有打开记录）：「Marvell Networking Solutions」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -353853,7 +353941,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -356710,7 +356798,7 @@
 "p1": "STI-288GP",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/34 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/34 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -358727,7 +358815,7 @@
 "p1": "STI-288GP",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；mini STI-050GE；MC STI-110GE。已打开的主题（1/17 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -359593,7 +359681,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/18 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-13) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+"why": "已打开的主题（1/18 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-13) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -369587,7 +369675,7 @@
 "p1": "STC-28DGGPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -372054,7 +372142,7 @@
 "p1": "STC-28DGGPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-16) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 Wi-Tek 工商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 预算线；工业位 STI-288GPM（$78.9）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-16) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -375335,7 +375423,7 @@
 "p1": "光 bypass 管理型",
 "tier": 25,
 "price": "按主表；历史报价（邮件原话，老汇率）：2026-02-06 ",
-"why": "—。已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1",
+"why": "已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1",
 "repeat": [],
 "gaps": [
 "光 bypass 报价是否已给"
@@ -375841,7 +375929,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "具名联系人"
@@ -382603,7 +382691,7 @@
 "p1": "STI-288GPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换。已打开的主题（1/19 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-24) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换。已打开的主题（1/19 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-24) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -393122,7 +393210,7 @@
 "p1": "—",
 "tier": 30,
 "price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd",
-"why": "—。已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -396422,7 +396510,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/23 封有打开记录）：「Unmanaged switch」(2024-08-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（1/23 封有打开记录）：「Unmanaged switch」(2024-08-05) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -399851,7 +399939,7 @@
 "p1": "STC-424XGGM",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV。已打开的主题（1/9 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV。已打开的主题（1/9 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -403182,7 +403270,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -408398,7 +408486,7 @@
 "p1": "—",
 "tier": 20,
 "price": "历史报价（邮件原话，老汇率）：2024-09-09 33.5usd",
-"why": "—。已打开的主题（3/20 封有打开记录）：「Re: Power Converter」(2024-09-09)、「Re: Power Converter」(2024-10-03)、「Re: Power Converter」(2024-10-24) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"why": "已打开的主题（3/20 封有打开记录）：「Re: Power Converter」(2024-09-09)、「Re: Power Converter」(2024-10-03)、「Re: Power Converter」(2024-10-24) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -411160,7 +411248,7 @@
 "p1": "STH 系列半宽 10G",
 "tier": 25,
 "price": "按 CENTEC 价表",
-"why": "—。已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
+"why": "已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
 "repeat": [],
 "gaps": []
 },
@@ -415125,7 +415213,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（1/25 封有打开记录）：「Re: 10G Ethernet Web Managed Switch」(2024-10-31) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "固件 7.5 HTTPS 状态"
@@ -423649,7 +423737,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -426720,7 +426808,7 @@
 "p1": "—",
 "tier": 25,
 "price": "—",
-"why": "—。已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -429586,7 +429674,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。已打开的主题（3/21 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-25)、「Managed Optical Bypass Switch」(2025-04-25)、「Commercial Network Switch」(2025-05-23) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。已打开的主题（3/21 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-25)、「Managed Optical Bypass Switch」(2025-04-25)、「Commercial Network Switch」(2025-05-23) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -430045,7 +430133,7 @@
 "p1": "STI-280GE",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位。已打开的主题（1/27 封有打开记录）：「48 port switch」(2024-09-02) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -435345,7 +435433,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-25) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "已打开的主题（1/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-25) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -438181,7 +438269,7 @@
 "p1": "STI-288GPM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）。已打开的主题（2/29 封有打开记录）：「48 port managed switch」(2024-07-29)、「Industrial PoE Switch」(2025-01-29) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）。已打开的主题（2/29 封有打开记录）：「48 port managed switch」(2024-07-29)、「Industrial PoE Switch」(2025-01-29) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -438678,7 +438766,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/30 封有打开记录）：「Marvell Industrial Alert System」(2025-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/30 封有打开记录）：「Marvell Industrial Alert System」(2025-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -443827,7 +443915,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/27 封有打开记录）：「24 Port Fiber Switch」(2024-12-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"why": "已打开的主题（1/27 封有打开记录）：「24 Port Fiber Switch」(2024-12-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -444250,7 +444338,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（3/28 封有打开记录）：「10G Media Converter」(2024-12-17)、「Firmware 7.5 L2+ Feature Update」(2026-06-25)、「Re: Firmware 7.5 L2+ Feature Update」(2026-06-30) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+"why": "已打开的主题（3/28 封有打开记录）：「10G Media Converter」(2024-12-17)、「Firmware 7.5 L2+ Feature Update」(2026-06-25)、「Re: Firmware 7.5 L2+ Feature Update」(2026-06-30) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -445545,7 +445633,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（1/30 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/30 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -446031,7 +446119,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位。已打开的主题（2/28 封有打开记录）：「8 Port Ethernet Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-11-28) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作上位。已打开的主题（2/28 封有打开记录）：「8 Port Ethernet Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-11-28) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -451440,7 +451528,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/34 封有打开记录）：「L3 Managed Switch」(2025-01-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（1/34 封有打开记录）：「L3 Managed Switch」(2025-01-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -452952,7 +453040,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -455238,7 +455326,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -458746,7 +458834,7 @@
 "p1": "STC-28DGGPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）",
-"why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "台湾 ODM 商：仅二供/补缺 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；PoE 配件 Saga 价目无（Q-32）。已打开的主题（3/14 封有打开记录）：「24 port poe switch」(2024-07-15)、「Marvell Alleycat5 Solution」(2025-03-19)、「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -468612,7 +468700,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/23 封有打开记录）：「24 port poe switch」(2024-07-03)、「8 Port 2.5G Switch」(2024-10-22)、「24 Port PoE Managed Switch」(2026-09-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（3/23 封有打开记录）：「24 port poe switch」(2024-07-03)、「8 Port 2.5G Switch」(2024-10-22)、「24 Port PoE Managed Switch」(2026-09-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": [
 "WhatsApp 是否有后续"
@@ -469539,7 +469627,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（3/23 封有打开记录）：「10G Media Converter」(2025-01-13)、「Marvell Alleycat5 Solution」(2025-03-11)、「24 Port Fiber Switch」(2025-08-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -471248,7 +471336,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -473874,7 +473962,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+"why": "已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -474574,7 +474662,7 @@
 "p1": "STI-080GE",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -481987,7 +482075,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "—。已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -483342,7 +483430,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -484554,7 +484642,7 @@
 "p1": "—",
 "tier": 25,
 "price": "按主表（研究档 saga_fit）",
-"why": "Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -489974,7 +490062,7 @@
 "p1": "STC-424XGGM",
 "tier": 20,
 "price": "按主表（研究档 saga_fit）",
-"why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位。已打开的主题（3/12 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-15)、「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣偏「其他」；与 P1 同类，继续",
+"why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位。已打开的主题（3/12 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-15)、「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
 },
@@ -862518,7 +862606,7 @@
 "p1": "—",
 "tier": 20,
 "price": "—",
-"why": "—。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2026-05-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2026-05-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },

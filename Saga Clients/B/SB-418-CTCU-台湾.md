@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾主向位科技 CTC Union（1993 年成立的网络通信产品制造商：L2/L3 管理交换机、TDM、MC、工业交换机、PoE 供电器；EN50155 / IEC 61850-3 / E-Mark 认证型；热门品 IGR-A804SM 资安强化 PoE、QSW-4624CM 2.5G；表内「和公司产品线接近，有多功能 VC，可再调查」，已有回复；KP Gary、總經理室 / 產品企劃處邮箱）。（调研 2026-10-21；表内兴趣：和公司产品线接近 有多功能VC 可以再调查一下）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 9 次（2025-10-23 → 2025-10-23）；最近一次客户回复：2025-10-23：CC了
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———。已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（3/12 封有打开记录）：「Marvell Software Function List」(2025-03-27)、「10G Enterprise SFP Switch」(2025-10-23)、「OEM Core Switching Solution」(2026-01-13) → 读者兴趣偏「价格/目录」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

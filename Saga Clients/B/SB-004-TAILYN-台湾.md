@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：台湾 40 年工业通信 / 电信 / 车载电子厂商（桃园，+886 3 322 2201），产品含工业交换机、PoE、L2+ 机架交换机、铁路方案（EN50155）、IEC 61850、SFP28/QSFP28；有 ODM 业务。表内 Gary / Jill 兴趣工业 FS，2025-07 对 Alarm 功能回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。 铁路 / 车载线守界。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-10-20）；最近一次客户回复：2025-07-09：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：无需求。
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———。已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

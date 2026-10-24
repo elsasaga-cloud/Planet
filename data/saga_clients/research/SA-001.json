@@ -313,6 +313,14 @@
         "k": "PI STAG20251127018"
       },
       {
+        "date": "2025-11-27",
+        "dir": "去",
+        "who": "Saga PI STAG20251127018（Alan）",
+        "quote": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990",
+        "why": "最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7",
+        "k": "gmail_a att STAG20251127018.pdf"
+      },
+      {
         "date": "2025-12-01",
         "dir": "来",
         "who": "Sanjay",
