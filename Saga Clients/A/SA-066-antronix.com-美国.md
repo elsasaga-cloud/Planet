@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-01-20 | 来 | Peter Tarquinio | switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2.5SFP+ and 10G SFP+ | 需求 | `113bf0edbaff9900` |
 | 2024-04-19 | 来 | Peter | Do you have any of the 4168 in USA? Can I get a sample or do you have one online | 要美国现货样 | `320a0015fdc91397` |
+| 2024-04-20 | 去 | Saga（Simon） | Hi, Peter, Now another USA client has bought this model for sample testing. Perhaps you can wait a while and purchase from him?? Not sure if this is an option. For an online store, I got findlight. *https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd <https://www.findlight.net/company/zh… | Saga 实质答复原文（主题「Re: 2.5G PoE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `37b8c7ebfde7af7d` |
 | 2024-04-24 | 去 | Simon | http://vilinknet.com/ This is the client. Now it is just about sample testing… this is between you and me. | 向一客户透露另一客户名（做法记录，不评判） | `ca03d94ea39777b8` |
 | 2025-08-08 | 来 | Peter | Thanks.. I'd be interested in the pricing… | 第二轮 | `42afe1e39f3c25e0` |
 | 2025-08-09 | 去 | Alan | 225usd/pc, L2+ managed 310usd/pc, L3 managed | 报价 | `7533abba594ebc6d` |

@@ -56,14 +56,17 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-09 | 来 | Mark Schulting | I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink | 首个精确需求 | `d0066f467b2afcd7` |
+| 2024-10-31 | 去 | Saga（Simon） | Hi, Mark, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standard Po… | Saga 实质答复原文（主题「Re: L3 managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `f56f98bcf2e0a850` |
 | 2025-01-26 | 来 | mark@expresssupply.net | WE would not be interested in this switch . However, we are looking for another vendor to supply us some full layer 3 switches | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `e17a1b0f28d7f22f` |
 | 2025-01-27 | 来 | mark@expresssupply.net | it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-8614 Hardene | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `77637aa387e80868` |
 | 2025-01-28 | 来 | Mark | Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk | 批量意向 | `185a3765640a0e3f` |
+| 2025-01-28 | 去 | Saga（Simon） | Hi, Mark, Do you mean something like attached photos? There is a rich port combination for your choice. *Just one thing* *Its CENTEC Chip based, a good domestic brand(see below link)* https://www.centec.com/silicon?category=Ethernet-Switch-Silicon… | Saga 实质答复原文（主题「Re: 48 Port SFP Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `f6d6159512661dd7` |
 | 2025-02-05 | 来 | Mark | I need a broadcom chipset | 边界出现 | `5f00be3e081f8769` |
 | 2025-02-10 | 去 | Simon | I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G | 破例找货（来源未入库） | `eb80eea25e1a3bb5` |
 | 2025-03-03 | 来 | mark@expresssupply.net | We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Adv | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `c7ad8300f3fcf7eb` |
 | 2025-04-28 | 来 | Mark | Do you have broadcom based solution? | 第三次 | `898769c94b9fc197` |
 | 2025-04-28 | 去 | Alan | Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small... | 口径收回 | `e8d9d485eebf828f` |
+| 2026-01-16 | 去 | Saga（Alan） | Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `231c410bdb6b62d3` |
 
 ## 基本事实（事实/推断/假设分层）
 

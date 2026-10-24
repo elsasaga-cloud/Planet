@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-09-17 | 来 | robin@ad-net.com.tw | Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 | 来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `266471f2990a3b25` |
+| 2025-09-17 | 去 | Saga（Alan） | Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in… | Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `09e9eda0a8877d0b` |
 
 ## 基本事实（事实/推断/假设分层）
 

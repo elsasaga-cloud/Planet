@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-07-04 | 来 | Pongpanot | I am looking for 16 sets for Tunnel project in Bangkok. | 项目 | `4dbd322d94d94597` |
+| 2024-07-04 | 去 | Saga（Simon） | Hi, Pongpanot, Thanks for your information. In the diagram, there are 2 different devices Device 1: Main 8 ports Ethernet Switch Device 2: 4 or 5 ports Industrial Unmanaged Switch with PoE The fiber optic cable is single core, so for both devices, its ideal to have 2 SFP slots for single core transc… | Saga 实质答复原文（主题「Re: 8 Port Network Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `4b941fc8bc10a130` |
 
 ## 基本事实（事实/推断/假设分层）
 

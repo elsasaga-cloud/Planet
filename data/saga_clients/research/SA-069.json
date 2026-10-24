@@ -1,189 +1,197 @@
 {
- "code": "SA-069",
- "name_official": "Energy Plus Systems（Viña del Mar, Chile）",
- "website_status": "在线",
- "summary": "智利比尼亚德尔马的矿业/工业技术供应商（团队 15+ 年经验）：变频器、软启动、矿用电缆与接插件、变压器、PLC、传感器、工业交换机与通信、光纤/机柜/UTP、IoT、光伏套件。用户表：S 重点名单，1 次实质回复，18 次跟进；兴趣工业 FS（中科德能款）；联系人 Ling。",
- "type": "工业/矿业集成供应商（工业交换机为配套品类）",
- "size": "未见人数（小型）",
- "brands_seen": [
-  "中科德能"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "品类含工业交换机与通信网络",
-   "quote": "Especialistas en brindar tecnología para la minería e industria actual … Switch Industriales … Telcom Networking … Switch Industriales y Comunicaciones … ventas@energyplusystems.cl",
-   "url": "https://energyplusystems.cl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "Estamos en: 6 1/2 oriente #270 - Viña del Mar | Fono: +56 9 9218 8218",
-   "url": "https://energyplusystems.cl/catalogo-de-productos/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "工业交换机在售型号与含税价",
-   "quote": "Switch Industrial PoE 8 puertos Administrable 10/100 / 1000T + 2 1000X SFP Ethernet $370.000 IVA Incluido … Switch industrial PoE 8 puertos 10/100 / 1000T + 2 1000X SFP Ethernet No Administrable $200.000 … Switch Ethernet Industrial Administrable 4 puertos 10/100/1000 Mbps Base-T IP40 + FO a Riel DIN $215.000 … Switch Ethernet Industrial 16 puertos Poe 10/100 Base-t Ip40 a Riel Din $330.000",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址 / 销售联系人 / 电话 / 邮箱",
-   "quote": "Estamos en: 6 1/2 oriente #270 - Viña del Mar | Fono: +56 9 9218 8218 … Ventas: Ling Fuentes - Fono: +56 9 9218 8218 - E-mail: ventas@energyplusystems.cl",
-   "url": "https://energyplusystems.cl/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ling（用户表）",
-   "role": "联系人",
-   "email": "ventas@energyplusystems.cl",
-   "phone": "+56 9 9218 8218",
-   "source": "https://energyplusystems.cl/sistemas-fotovoltaicos/"
-  },
-  {
-   "name": "Ling Fuentes",
-   "role": "Ventas（销售，官网公开）",
-   "email": "ventas@energyplusystems.cl",
-   "phone": "+56 9 9218 8218",
-   "source": "https://energyplusystems.cl/"
-  }
- ],
- "notes": "A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网网店含价核对）"
- },
- "company_facts": {
-  "legal_name": "Energyplus Systems（energyplusystems.cl）",
-  "hq": "6 ½ Oriente #270, Viña del Mar, Chile（+56 9 9218 8218；ventas@energyplusystems.cl）",
-  "other": "矿业/工业技术供应商网店（WooCommerce，CLP 含税标价）：变频器、软启动、矿用插头/电缆、PLC、传感器、4G 工业路由、Modbus-Profinet 网关、**工业交换机全系在售**；销售联系人 Ling Fuentes（官网公开）"
- },
- "business_lines": [
-  "工业自动化与电气（矿业）",
-  "工业交换机与通信（中科德能来源）",
-  "光纤/机柜/UTP",
-  "矿业电气（矿用插头/电缆/变压器/硫化）",
-  "自动化（VFD、软启动、PLC、传感器）",
-  "工业交换机 / 4G 路由 / 协议网关 网店零售",
-  "Telcom Networking（机柜、光纤、UTP）"
- ],
- "products_seen": [
-  {
-   "brand": "中科德能（现来源）",
-   "model": "工业 FS",
-   "spec": "—",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "（网店通用，未标牌）",
-   "model": "Switch Industrial PoE 8×GE + 2×SFP 管理型",
-   "spec": "DIN IP40；售价 CLP 370,000 含税（≈US$390）",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（EXW ≈US$146–152）"
-  },
-  {
-   "brand": "（网店通用）",
-   "model": "Switch Industrial PoE 8×GE + 2×SFP 非管理",
-   "spec": "CLP 200,000 含税",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（管理型同价位替代）"
-  },
-  {
-   "brand": "（网店通用）",
-   "model": "Switch Industrial 8×GE PoE 非管理 / 8×GE 管理非 PoE",
-   "spec": "CLP 180,000 / 230,000 含税",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（商用位）"
-  },
-  {
-   "brand": "（网店通用）",
-   "model": "Switch Industrial 管理型 4×GE + FO / 5×GE PoE 非管理 / 5×FE mini",
-   "spec": "CLP 215,000 / 130,000 / 70,000 含税",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP / STI-050GE"
-  },
-  {
-   "brand": "（网店通用）",
-   "model": "Switch Industrial 16×FE PoE",
-   "spec": "CLP 330,000 含税",
-   "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（千兆升级）"
-  }
- ],
- "channels": {
-  "网站": "https://energyplusystems.cl/",
-  "直邮": "ventas@energyplusystems.cl（用户表）",
-  "网站/网店": "https://energyplusystems.cl/",
-  "电话/WA": "+56 9 9218 8218（官网公开）",
-  "邮箱（公开）": "ventas@energyplusystems.cl"
- },
- "signals": [
-  "用户表：S 重点，1 次实质回复，18 次跟进",
-  "网店工业交换机明码标价：8 PoE+2 SFP 管理型 CLP 370,000（≈US$390 含税）vs Saga STI-288DGGPM EXW ≈US$146——毛利空间大，是最直接的报价切入（2026-10-21）"
- ],
- "risks": [
-  "矿业场景可能要求更高防护/认证；智利不在主攻区；西语资料"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "网店在售 8 PoE + 2 SFP 管理型工业机 ≈US$390 零售；STI-288DGGPM EXW 对位 + STI-144GP（4+1）替其 4 口管理 + FO 位；工业/矿业方案商 25% 档"
- },
- "email_hook": "Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2024-09 问价与 MOQ → STI-154GP 38 USD、MOQ 1 → 无下文）",
-   "type": "智利工业/矿业集成供应商；Ling Fuentes（销售工程师）——拉美非重点",
-   "sieve": "2",
-   "stop": "38 USD / MOQ 1 后无回",
-   "revive": "其矿业项目",
-   "lane": "CL",
-   "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-09-27",
-   "evidence": "k=de350c97144e5285 / dd2380a46a6ba1cc"
-  },
-  "situation": "Ling 问价与最小量，Simon 报 38 USD、MOQ 1。无回。",
-  "need": "4 口工业 PoE（矿业）。",
-  "breakpoint": "项目型；非重点区。",
-  "saga_now": {
-   "p1": "STI-154GP",
-   "tier": 25,
-   "price": "—",
-   "why": "不主动",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-09-27",
-    "dir": "来",
-    "who": "Ling Fuentes",
-    "quote": "Can you please give me the price and minimum quantity?",
-    "why": "询价",
-    "k": "de350c97144e5285"
-   }
+  "code": "SA-069",
+  "name_official": "Energy Plus Systems（Viña del Mar, Chile）",
+  "website_status": "在线",
+  "summary": "智利比尼亚德尔马的矿业/工业技术供应商（团队 15+ 年经验）：变频器、软启动、矿用电缆与接插件、变压器、PLC、传感器、工业交换机与通信、光纤/机柜/UTP、IoT、光伏套件。用户表：S 重点名单，1 次实质回复，18 次跟进；兴趣工业 FS（中科德能款）；联系人 Ling。",
+  "type": "工业/矿业集成供应商（工业交换机为配套品类）",
+  "size": "未见人数（小型）",
+  "brands_seen": [
+    "中科德能"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "品类含工业交换机与通信网络",
+      "quote": "Especialistas en brindar tecnología para la minería e industria actual … Switch Industriales … Telcom Networking … Switch Industriales y Comunicaciones … ventas@energyplusystems.cl",
+      "url": "https://energyplusystems.cl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "Estamos en: 6 1/2 oriente #270 - Viña del Mar | Fono: +56 9 9218 8218",
+      "url": "https://energyplusystems.cl/catalogo-de-productos/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "工业交换机在售型号与含税价",
+      "quote": "Switch Industrial PoE 8 puertos Administrable 10/100 / 1000T + 2 1000X SFP Ethernet $370.000 IVA Incluido … Switch industrial PoE 8 puertos 10/100 / 1000T + 2 1000X SFP Ethernet No Administrable $200.000 … Switch Ethernet Industrial Administrable 4 puertos 10/100/1000 Mbps Base-T IP40 + FO a Riel DIN $215.000 … Switch Ethernet Industrial 16 puertos Poe 10/100 Base-t Ip40 a Riel Din $330.000",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址 / 销售联系人 / 电话 / 邮箱",
+      "quote": "Estamos en: 6 1/2 oriente #270 - Viña del Mar | Fono: +56 9 9218 8218 … Ventas: Ling Fuentes - Fono: +56 9 9218 8218 - E-mail: ventas@energyplusystems.cl",
+      "url": "https://energyplusystems.cl/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ling（用户表）",
+      "role": "联系人",
+      "email": "ventas@energyplusystems.cl",
+      "phone": "+56 9 9218 8218",
+      "source": "https://energyplusystems.cl/sistemas-fotovoltaicos/"
+    },
+    {
+      "name": "Ling Fuentes",
+      "role": "Ventas（销售，官网公开）",
+      "email": "ventas@energyplusystems.cl",
+      "phone": "+56 9 9218 8218",
+      "source": "https://energyplusystems.cl/"
+    }
+  ],
+  "notes": "A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网网店含价核对）"
+  },
+  "company_facts": {
+    "legal_name": "Energyplus Systems（energyplusystems.cl）",
+    "hq": "6 ½ Oriente #270, Viña del Mar, Chile（+56 9 9218 8218；ventas@energyplusystems.cl）",
+    "other": "矿业/工业技术供应商网店（WooCommerce，CLP 含税标价）：变频器、软启动、矿用插头/电缆、PLC、传感器、4G 工业路由、Modbus-Profinet 网关、**工业交换机全系在售**；销售联系人 Ling Fuentes（官网公开）"
+  },
+  "business_lines": [
+    "工业自动化与电气（矿业）",
+    "工业交换机与通信（中科德能来源）",
+    "光纤/机柜/UTP",
+    "矿业电气（矿用插头/电缆/变压器/硫化）",
+    "自动化（VFD、软启动、PLC、传感器）",
+    "工业交换机 / 4G 路由 / 协议网关 网店零售",
+    "Telcom Networking（机柜、光纤、UTP）"
+  ],
+  "products_seen": [
+    {
+      "brand": "中科德能（现来源）",
+      "model": "工业 FS",
+      "spec": "—",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "（网店通用，未标牌）",
+      "model": "Switch Industrial PoE 8×GE + 2×SFP 管理型",
+      "spec": "DIN IP40；售价 CLP 370,000 含税（≈US$390）",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（EXW ≈US$146–152）"
+    },
+    {
+      "brand": "（网店通用）",
+      "model": "Switch Industrial PoE 8×GE + 2×SFP 非管理",
+      "spec": "CLP 200,000 含税",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（管理型同价位替代）"
+    },
+    {
+      "brand": "（网店通用）",
+      "model": "Switch Industrial 8×GE PoE 非管理 / 8×GE 管理非 PoE",
+      "spec": "CLP 180,000 / 230,000 含税",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM（商用位）"
+    },
+    {
+      "brand": "（网店通用）",
+      "model": "Switch Industrial 管理型 4×GE + FO / 5×GE PoE 非管理 / 5×FE mini",
+      "spec": "CLP 215,000 / 130,000 / 70,000 含税",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21",
+      "saga": "STI-144GP / STI-050GE"
+    },
+    {
+      "brand": "（网店通用）",
+      "model": "Switch Industrial 16×FE PoE",
+      "spec": "CLP 330,000 含税",
+      "url": "https://energyplusystems.cl/switch-industriales-y-comunicaciones/",
+      "date": "2026-10-21",
+      "saga": "STI-21616GP（千兆升级）"
+    }
+  ],
+  "channels": {
+    "网站": "https://energyplusystems.cl/",
+    "直邮": "ventas@energyplusystems.cl（用户表）",
+    "网站/网店": "https://energyplusystems.cl/",
+    "电话/WA": "+56 9 9218 8218（官网公开）",
+    "邮箱（公开）": "ventas@energyplusystems.cl"
+  },
+  "signals": [
+    "用户表：S 重点，1 次实质回复，18 次跟进",
+    "网店工业交换机明码标价：8 PoE+2 SFP 管理型 CLP 370,000（≈US$390 含税）vs Saga STI-288DGGPM EXW ≈US$146——毛利空间大，是最直接的报价切入（2026-10-21）"
+  ],
+  "risks": [
+    "矿业场景可能要求更高防护/认证；智利不在主攻区；西语资料"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "网店在售 8 PoE + 2 SFP 管理型工业机 ≈US$390 零售；STI-288DGGPM EXW 对位 + STI-144GP（4+1）替其 4 口管理 + FO 位；工业/矿业方案商 25% 档"
+  },
+  "email_hook": "Your 8-port PoE + 2 SFP managed industrial switch is listed at CLP 370,000; the Marvell-based equivalent I supply lands well under half of that EXW, with the 4+1 compact unit for your pump and well sites.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（2024-09 问价与 MOQ → STI-154GP 38 USD、MOQ 1 → 无下文）",
+      "type": "智利工业/矿业集成供应商；Ling Fuentes（销售工程师）——拉美非重点",
+      "sieve": "2",
+      "stop": "38 USD / MOQ 1 后无回",
+      "revive": "其矿业项目",
+      "lane": "CL",
+      "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-09-27",
+      "evidence": "k=de350c97144e5285 / dd2380a46a6ba1cc"
+    },
+    "situation": "Ling 问价与最小量，Simon 报 38 USD、MOQ 1。无回。",
+    "need": "4 口工业 PoE（矿业）。",
+    "breakpoint": "项目型；非重点区。",
+    "saga_now": {
+      "p1": "STI-154GP",
+      "tier": 25,
+      "price": "历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd",
+      "why": "不主动",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-09-27",
+        "dir": "来",
+        "who": "Ling Fuentes",
+        "quote": "Can you please give me the price and minimum quantity?",
+        "why": "询价",
+        "k": "de350c97144e5285"
+      },
+      {
+        "date": "2024-09-28",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Ling, Thanks for your interest. Please see attached datasheet. 38usd/pc STI-154GP: industrial PoE Switch 1*Gigabit SFP+1*1G Copper Uplink+4*10/100/1000M PoE Downlink, POE af/at, 120W, Unmanaged Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial T",
+        "why": "历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-154GP 38usd",
+        "k": "dd2380a46a6ba1cc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

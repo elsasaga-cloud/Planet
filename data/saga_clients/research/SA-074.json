@@ -134,7 +134,7 @@
     "saga_now": {
       "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
       "tier": 20,
-      "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）",
+      "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd",
       "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
       "repeat": [],
       "gaps": [
@@ -150,6 +150,14 @@
     },
     "facts": [
       {
+        "date": "2024-05-03",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Bosgem, Thanks for your interest. 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without",
+        "why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
+        "k": "6f9e1d3875bc1933"
+      },
+      {
         "date": "2024-05-29",
         "dir": "来",
         "who": "Berk（iotsistem）",
@@ -158,12 +166,36 @@
         "k": "19bc7eefb231ce4a"
       },
       {
+        "date": "2024-05-29",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Bosgem, Do you mean STI-050GE price? We have a mini model, please see attached photo. There are 3 main differences between 2 models. 1, DIP function 2, Power input, STI-050GE is DC12V~58V, STI-050GE-M is DC12V~36V. 3, Size and weight, STI-050GE is 30*98*13",
+        "why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE, STI-050GE, STI-050GE-M 18usd",
+        "k": "effa45ee7857ca74"
+      },
+      {
         "date": "2026-01-29",
         "dir": "来",
         "who": "info@iotsistem.com",
         "quote": "Hi I’m fine, Could you send to catalouge pdf and price list too?= We can check to device deeply, Thank you, Berk Very Best Regards…",
         "why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "de3f311cbf2fca6c"
+      },
+      {
+        "date": "2026-02-02",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, Sorry for the late reply. 1, Please check the info from below google drive link https://drive.google.com/drive/folders/1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU?usp=drive_link . 2, For prices, we are still deciding for 2026. Memory prices have risen too much recently. Please first check the inform…",
+        "why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "7347a7e968898eeb"
+      },
+      {
+        "date": "2026-05-08",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, 1. For this spec, it also have an industrial version, but rack type as well. 2. For DIN model, the best we can do is as below 8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10G Base-X SFP+ slots Please see attached datasheet(L2+ managed) Btw: L3 managed is also available.…",
+        "why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "e19d4573051439f3"
       },
       {
         "date": "2026-05-20",
@@ -190,6 +222,14 @@
         "k": "0a2e19b099bda25c"
       },
       {
+        "date": "2026-05-28",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, 1. for 5 and 8 port models, we have 10/100Mbps, just 10/100Mbps 2. for 16 / 24 port model, it is ONLY 10/100/1000Mbps, auto-adaptive. To be honest, this is NOT our focus, we do managed networking solutions. What you need is unmanaged, we will not produce a new version(10/100Mbps), it is lo…",
+        "why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "3a31a94be60bc5ee"
+      },
+      {
         "date": "2026-06-04",
         "dir": "来",
         "who": "info@iotsistem.com",
@@ -212,6 +252,14 @@
         "quote": "Hi Alan, Good day, 1- We keep on 24 port giga still is huge esxpensive anyway thanks, 2- Left Picture only 4 Fiber port SC look’s fit pls tell to pric",
         "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "3567ff28d4ac5917"
+      },
+      {
+        "date": "2026-06-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, Thanks for your information. Yes, left picture supports 1G*fixed fiber(SC connector). Price is 90USD/PC STI-288GPM 2*1000M SC connector(SM or MM)+8*10/100/1000M PoE L2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input, Without powe",
+        "why": "历史报价点（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）：STI-288GPM 90USD",
+        "k": "d4c32ad12702c20b"
       },
       {
         "date": "2026-07-14",
@@ -238,6 +286,14 @@
         "k": "ca8eab6eec73a6fe"
       },
       {
+        "date": "2026-08-17",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, 1. 340USD/PC Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 20*PoE af/at+4*PoE af/at/bt, 240W/370W, L2+ Managed, Active PoE, DC48V output DC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din",
+        "why": "历史报价点（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）：340USD",
+        "k": "4f01bf073540287e"
+      },
+      {
         "date": "2026-08-18",
         "dir": "来",
         "who": "Berk",
@@ -252,6 +308,14 @@
         "quote": "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE",
         "why": "对方把 Alan 6 月的 $120 原话截图回寄 =「你自己报的就是贵」；土耳其 10/100 低价需求与 Saga 千兆线错位",
         "k": "gmail_a att 2026-08-18"
+      },
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Berk, Thanks for your feedback. 1. Last offer was an unmanaged model, but managed this time. So there is the big price gap. 2. Please do know that our models are Marvell chipset based. This is usually more expensive than Realtek or some untrusted brands. 3. Yes I know. Lira currency is a big pro…",
+        "why": "Saga 实质答复原文（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "c6123b252bbbe871"
       },
       {
         "date": "2026-09-03",

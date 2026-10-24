@@ -128,7 +128,7 @@
     "saga_now": {
       "p1": "STI-488XGGPM2B-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
       "tier": 25,
-      "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚",
+      "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM2B-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
       "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
       "repeat": [],
       "gaps": [
@@ -151,12 +151,28 @@
         "k": "6029bd8a3ce4a534"
       },
       {
+        "date": "2025-07-23",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Alexander, How are you? We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added interesting features(Sftp, Https, L3 Routing) 3, Prestera 98DX25xx and 98DX35xx series [image: Web GUI] Lets talk about it if yo…",
+        "why": "Saga 实质答复原文（主题「Re: Managed Optical Bypass Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "d8a5be10fcec6d02"
+      },
+      {
         "date": "2025-11-28",
         "dir": "来",
         "who": "alexander@larch-networks.com",
         "quote": "Hi Alan, That’s very interesting — especially the Marvell-based design and the 12–54V PoE booster concept. Let’s discuss more details — which Marvell",
         "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "21ed9f8ba13a5507"
+      },
+      {
+        "date": "2025-12-01",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Alexander, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/",
+        "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+        "k": "3a03a13e6ecdd2d5"
       },
       {
         "date": "2025-12-08",
@@ -173,6 +189,14 @@
         "quote": "Alan, Greate! Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?) Best regards, Andrey S",
         "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "fd4f4163ed089c3f"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM2B-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial",
+        "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM2B-2BT 295usd",
+        "k": "2c412f7579125bdb"
       },
       {
         "date": "2026-03-30",
@@ -215,6 +239,22 @@
         "k": "231732b0e66a97ce"
       },
       {
+        "date": "2026-05-25",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Alex, Thanks for your info. 1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done. You are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance. And AC5 will be our long-term anchored solution. 2. As I explained in point…",
+        "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "3c888655608fcc01"
+      },
+      {
+        "date": "2026-05-25",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Alexander, Thanks for your info and the introduction to Larch Networks’ SONiC offering. 1. At the moment, our Marvell based models are mainly focusing L2+/L3 SMBs and enterprise network, lower-speed deployments. As you may notice, our high-speed networks is about CENTEC chip, a famous domestic c…",
+        "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "36ef0d39b4e679c2"
+      },
+      {
         "date": "2026-05-26",
         "dir": "来",
         "who": "alexander@larch-networks.com",
@@ -245,6 +285,14 @@
         "quote": "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting",
         "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "ce5ef79be8ca9c8c"
+      },
+      {
+        "date": "2026-06-05",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Oksana, Thanks for your information. 1. Good to know that everything is going well there! 2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3 Ethernet switches for SMBs. Your focus is on Marvell SONiC for high-speed networks. But we are cur…",
+        "why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "d637bcde75ed85d8"
       },
       {
         "date": "2026-07-02",

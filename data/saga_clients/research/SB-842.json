@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
       "tier": 25,
-      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用",
+      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话，老汇率）：2026-02-28 STH-32C-HSI STH-32QC-HSI 000USD / 000USD",
       "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
       "repeat": [],
       "gaps": [
@@ -146,6 +146,14 @@
         "k": "bd914113e63ac880"
       },
       {
+        "date": "2026-01-22",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Steve, Happy New Year!! Wishing you all the magic in 2026!! 1. About the samples and cooperation, any thoughts to share? 2. I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for variou…",
+        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "4fc14c822ea680cd"
+      },
+      {
         "date": "2026-01-23",
         "dir": "来",
         "who": "info@itmsystems.net",
@@ -162,12 +170,28 @@
         "k": "e1c21321a0b20243"
       },
       {
+        "date": "2026-02-03",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Steve, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently, w…",
+        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "db6ffc13965ba8dd"
+      },
+      {
         "date": "2026-02-05",
         "dir": "来",
         "who": "Steve",
         "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
         "why": "内部审批阶段",
         "k": "d4ad954f1fff2bea"
+      },
+      {
+        "date": "2026-02-05",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Steve, 1. Thanks for your kind words and photo. Yes, we will have our new year holiday from 11th. 2. Could you tell us if the new switches support BGP/OSPF v2/IS-IS protocol? *Yes, those features are supported.*If you mean access switches, please check Route as below Saga Software Function List_…",
+        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "8438b50dedd1f4eb"
       },
       {
         "date": "2026-02-16",
@@ -178,12 +202,28 @@
         "k": "gmail_a att 2026-02-16"
       },
       {
+        "date": "2026-02-22",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Steve, Thanks for your kind words, I am still on holiday. After an initial review, here are the conclusions. 1, About the core switch, we can offer an equivalent. That is STH100G Series: STH-32C-HSI With the help of GPT, the functions are basically good. But it is still subject to your specific…",
+        "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "3a52e634757504a0"
+      },
+      {
         "date": "2026-02-27",
         "dir": "来",
         "who": "info@itmsystems.net",
         "quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
         "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
         "k": "f9e69dea9b5d2ded"
+      },
+      {
+        "date": "2026-02-28",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Steve, Thanks for your information. 1, Yes, our 100G model got similar functions with Juniper QFX5200-32C-AFO. It can be considered as an equivalent. STH-32C-HSI: 6000USD/PC, MA License, PeakNetX Platform, 32*100G Ports 2, About 400G switches STH-32QC-HSI:",
+        "why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STH-32C-HSI, STH-32QC-HSI, STH-64QC-HSI 000USD / 000USD / 200USD",
+        "k": "08e23b4cd1d35e84"
       },
       {
         "date": "2026-03-20",

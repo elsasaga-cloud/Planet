@@ -57,10 +57,12 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-07-30 | 来 | sales@dymec.com | Very low poe budget. Nothing of interest | 第 1 次否定（24 口被动 PoE 300W） | `9963340096ada5bb` |
 | 2025-05-28 | 来 | Thom Sherer | need a better description please... | 对 Alert System 群发的追问 | `444cc4b308af1ab6` |
+| 2025-05-29 | 去 | Saga（Alan） | Hi, Thom, Please see attached datasheet(Data&Alarm info). You can also check this webpage(Planet) *https://www.planet.com.tw/en/product/igs-10020hpt-v3* <https://www.planet.com.tw/en/product/igs-10020hpt-v3> It is about the same feature.… | Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d18e3fae85a4413d` |
 | 2025-09-22 | 来 | Thom Sherer | not our market...sorry | 企业 SFP 交换机 → 否定 | `1568af8ab7b7c8ba` |
 | 2026-05-29 | 来 | sales.support@dymec.com | What is the operating temp please? | 唯一主动技术问题 | `cf8437996c751467` |
 | 2026-06-01 | 去 | Alan | Operating temperature: 0ºC to 40ºC | 答的是商用款——致命 | `2454f781f4a01510` |
 | 2026-06-01 | 来 | sales.support@dymec.com | Alan, for our market your operating temp does not go high enough.... | 停点原话 | `372ede3d101a3791` |
+| 2026-06-03 | 去 | Saga（Alan） | Hi, Thomas, 1. What is your expected range? 2. 0ºC to 40ºC is a popular range, widely applied by various brands like Juniper, see attached photo. Such switches are installed in data center stations with a fixed temp range from 22ºC to 28ºC, and there are good cooling conditions and designs. It shoul… | Saga 实质答复原文（主题「Re: 10G L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `6b53faaab0eef35f` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证
 

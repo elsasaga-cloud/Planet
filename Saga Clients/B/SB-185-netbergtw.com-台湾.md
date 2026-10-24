@@ -53,6 +53,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-05-20 | 来 | au@netbergtw.com | Hi Alan, We have great cooperation potential! We are making Broadcom Trident3 and Trident4-based switches. All systems support SONiC, Ubuntu, and cust | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `4db5b4b28bbd3946` |
 | 2025-05-20 | 来 | au@netbergtw.com | And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support. | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `b2fdeceac0796384` |
+| 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Thanks for your information. I noticed that you are using marvell and BDM chips for your tor/dc switches. We now focus on marvell based edge/access switches, mostly 1G/2.5G/10G switches. Just wondering if you would possibly use such switches(not your focus, but sometimes come in need) in y… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `23b50febd1c4cfa9` |
+| 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Our client base is about SMBs and industrial networking. So we basically use marvell AC3 and AC5 chips, this is a very cost-effective choice. In our daily work, we received some queries for stackable/data center switches, or simply just need broadcom-based models. Well, not much we can do.… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `0759f588345bd385` |
 
 ## 基本事实（事实/推断/假设分层）
 

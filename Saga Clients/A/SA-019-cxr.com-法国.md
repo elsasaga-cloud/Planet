@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-05-30 | 来 | Marco Di Valerio（COO） | please could you send data sheet please | 要规格书 | `afbdeb9d5505018c` |
 | 2024-05-30 | 去 | Simon | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged | 报价后停 | `696d6a213ad761ca` |
+| 2024-06-25 | 去 | Saga（Simon） | Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function… | Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `d3deca09f7f9a22b` |
 
 ## 基本事实（事实/推断/假设分层）
 

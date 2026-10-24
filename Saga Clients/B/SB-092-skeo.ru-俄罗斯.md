@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。（调研 2026-10-21；表内兴趣：主要是光模块 有一部分MC 有光路的；WDM配件较多）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 14 次（2024-07-12 → 2025-10-31）；最近一次客户回复：2024-11-19：有需求会说的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — —；$33（2024-09）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — —；$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,13 +48,14 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：8 口工业非管理。
 - **断点 / 为什么停在这里**：物流/付款。
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，$33（2024-09））———
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd）———
   - 做不了 / 要先核的：对俄付款/物流通道
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-09-06 | 来 | Nikolay | What is the price for them? And how do you want to send them to us? | 要样问价 | `01bcd6732964d044` |
+| 2024-09-06 | 去 | Saga（Simon） | Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme | 历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd | `8884a81a60ecbdb4` |
 
 ## 基本事实（事实/推断/假设分层）
 

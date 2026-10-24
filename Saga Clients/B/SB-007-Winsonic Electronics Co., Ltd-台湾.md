@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-03-19 | 来 | rex.lin@ewinsonic.com | Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M | 来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `6a176ba292b92e65` |
 | 2025-11-24 | 来 | Rex Lin | Coule you provide detial spec and price list? | 要价表 | `a1d6d7a7e1d0a1f5` |
+| 2026-01-29 | 去 | Saga（Alan） | Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `83397972ba8367d6` |
 
 ## 基本事实（事实/推断/假设分层）
 

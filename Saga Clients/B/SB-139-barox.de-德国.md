@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国/瑞士 barox Kommunikation（视频与安防网络专用交换机、MC、IP 延长器制造商品牌：VAR2-IPPOE 等，与 VMS/PSIM 集成，24 口 10G 工业管理新品，培训课程体系；表内「工业 FS / MC / PoE，自己的 logo；很多人在卖他们的」；KP Rudolf Rohr（CEO，rohr.rudolf@barox.ch）、Jeneeben Jesujeevagan（Head of Engineering））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC POE  自己的logo 很多人在卖他们的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-12 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE（对位 PC-PIGE500-GBTE） — 品牌商；$25（2024-05 旧价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE（对位 PC-PIGE500-GBTE） — 品牌商；$25（2024-05 旧价）；历史报价（邮件原话，老汇率）：2024-05-03 STI-050GE 25usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 找对人再发
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：三封热情的一句话回复后，问「要几台样品」得到「None whatsoever!」。对方是卖 Barox 的人，不是买交换机的人。
 - **对方真实需求（有据）**：OEM 工业 FS（PC-PIGE500-GBTE 同类）。
 - **断点 / 为什么停在这里**：联系人错位。
-- **Saga 现在该推什么**：P1 **STI-050GE（对位 PC-PIGE500-GBTE）**（30% 档，$25（2024-05 旧价））——品牌商
+- **Saga 现在该推什么**：P1 **STI-050GE（对位 PC-PIGE500-GBTE）**（30% 档，$25（2024-05 旧价）；历史报价（邮件原话，老汇率）：2024-05-03 STI-050GE 25usd）——品牌商
   - 做不了 / 要先核的：采购/产品负责人邮箱
 - **下一步（具体）**：不动　—　找对人再发
 
@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 2024-05-02 | 来 | luis.coello@barox.de | Ooohh that’s sounds great Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `15383b63e796c734` |
 | 2024-05-02 | 来 | luis.coello@barox.de | Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ae372c96fe2917af` |
 | 2024-05-03 | 来 | Luis Coello | None whatsoever! | 拒样 | `c3a6ce39d1213582` |
+| 2024-05-03 | 去 | Saga（Simon） | Hi, Luis, 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without power supply How many piece | 历史报价点（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd | `f68b73f1522697d3` |
 
 ## 基本事实（事实/推断/假设分层）
 

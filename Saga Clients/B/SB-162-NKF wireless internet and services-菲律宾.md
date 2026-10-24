@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：菲律宾小型 WISP（Joemar Baquiran），兴趣 PON 产品（Saga 无），2026-01 对 2 光 2 电 mini 工业机群发回复「sample?」。表内曾被误归「欧洲」名单。（调研 2026-10-21；表内兴趣：没找到相关的客户记录；Pon产品）
 - **为什么是 B 级**：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+0 仅免费邮箱；+0 区域 亚太/菲律宾；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 6 次（2025-02-26 → 2025-08-29）；最近一次客户回复：1.5：sample?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；历史报价（邮件原话，老汇率）：2025-01-16 STI-222GP 33usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
@@ -48,12 +48,13 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，历史报价（邮件原话，老汇率）：2025-01-16 STI-222GP 33usd）———
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-01-15 | 来 | joemar.baquiran@gmail.com | sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks | 来信原文（主题「Re: Mini Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `fd2e05c62942799c` |
+| 2025-01-16 | 去 | Saga（Simon） | Hi, Joemar, Yes, but it is not free samples. Lets focus on a hot-selling model. Price: 33usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, PoE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial Termi | 历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 33usd | `05b51bd103cc66ea` |
 
 ## 基本事实（事实/推断/假设分层）
 

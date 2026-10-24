@@ -49,6 +49,10 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **—**（25% 档，—）———
 - **下一步（具体）**：不动　—　—
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-02-05 | 去 | Saga（Alan） | Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,… | Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `497037e504e55533` |
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

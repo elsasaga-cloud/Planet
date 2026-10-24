@@ -111,7 +111,7 @@
     "saga_now": {
       "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
       "tier": 30,
-      "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档",
+      "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd",
       "why": "上市品牌商 + VP 直联 + 七次回复",
       "repeat": [],
       "gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"
@@ -130,6 +130,14 @@
         "quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
         "why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "421dd559ac7a7b63"
+      },
+      {
+        "date": "2024-09-27",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Casey, I noticed Residential Broadband and Business Ethernet Connectivity services on your website. So maybe... I have a client from Singapore who mainly does Internet Fibre Broadband Links. Please see attached information(this is what they purchased) and let me know if you need samples for test…",
+        "why": "Saga 实质答复原文（主题「Re: [External]8 Port 2.5G Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "5cb1b1ebf2e01948"
       },
       {
         "date": "2025-01-03",
@@ -154,6 +162,14 @@
         "quote": "How much are they?",
         "why": "问价",
         "k": "5f74509fff9d6018"
+      },
+      {
+        "date": "2025-04-29",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Casey, 500usd/pc, STI-42424XGGPM-4BT 4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE L3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget Marvell Chip, Active PoE, DC48V output DC36V~DC72V(Removable 2*2-PIN Industrial Terminal Block), -40°C to 75°C, Din mounted",
+        "why": "历史报价点（主题「Re: [External]L3 Managed Switch」；第 20 批从 gmail_s 回补）：STI-42424XGGPM-4BT 500usd",
+        "k": "d6394cf0f807b767"
       },
       {
         "date": "2025-08-27",

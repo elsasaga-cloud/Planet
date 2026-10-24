@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-20 | 来 | Eros Stefani | €..? | 问价 | `31786de96cbb8b96` |
+| 2024-11-20 | 去 | Saga（Simon） | Hi, Eros, Thanks for your interest. *Its 280 Euro for this model.* STC-448XGGPM, Commercial PoE Managed Switch 4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell Chip PoE af/at, 440W budget, Support PoE management, PoE watchdog Single AC input, Rack compatible, With mounting… | Saga 实质答复原文（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `b552ce1372ae1296` |
 
 ## 基本事实（事实/推断/假设分层）
 

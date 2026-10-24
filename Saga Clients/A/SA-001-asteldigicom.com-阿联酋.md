@@ -60,6 +60,7 @@ updated: 2026-10-24
 | 2024-06-29 | 来 | Sanjay Singla（GM） | Need minimum 2 SFP So that we can loop the fiber connectivity… 2.5G… Also suggest good power supply 120W. | 首个真实需求（环网） | `4911955d4797da97` |
 | 2024-06-29 | 去 | Simon | For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip | 身份与芯片实话——对方没走 | `f7eeb34e0ebf238b` |
 | 2025-01-06 | 来 | navsim@eim.ae | Hello MR Simon May we have your website URL or PDF catalogue to see the products in detail. Thanks and best regards Sanjay Singla General Manager ASTE | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `f18cc2e1fa27d344` |
+| 2025-01-06 | 去 | Saga（Simon） | Hi, Sanjay, Please check attached PROFILE and below google drive link(containing full information). *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link>*… | Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `27d005cda6b7196c` |
 | 2025-04-28 | 来 | Sanjay | Please advise the best pricing for 4 Port GB x POE with 2 SFP Uplinks, and 1 NMS Port RJ45; 8 Port…; 12 or higher… How many years warranty… any testing certificate | 三款询价 + 质保 + 证书 | `ca2fc1d1b52d5bb7` |
 | 2025-04-28 | 去 | Simon | STI-244DGGPM, 110usd/pc… STI-288DGGPM, 125usd/pc… | 报价 | `13c00bbc4cc5b9d8` |
 | 2025-10-22 | 来 | Sanjay | Please send pictures of your QC/Testing lab as well. May we have your PDF catalogue | 尽调（实验室） | `3ef374eddbbcccae` |

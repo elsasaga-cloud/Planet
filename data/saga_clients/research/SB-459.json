@@ -143,7 +143,7 @@
     "saga_now": {
       "p1": "STH 系列或 10G 工业汇聚（新品类）",
       "tier": 25,
-      "price": "按主表",
+      "price": "按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd",
       "why": "品牌商直联",
       "repeat": [],
       "gaps": [
@@ -166,6 +166,14 @@
         "k": "d7d86e7b1d5cba30"
       },
       {
+        "date": "2024-05-09",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Andy, Thanks for your information. This is my sister's company, and there are many interesting models with expert design. Like 10G media converter, Mini industrial media converter or 52 port full fiber rack managed switch... Anyway, I will send some information from time to time and lets see if…",
+        "why": "Saga 实质答复原文（主题「Re: 24 port switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "4e64486e83ba3f88"
+      },
+      {
         "date": "2025-02-07",
         "dir": "来",
         "who": "Andy",
@@ -180,6 +188,22 @@
         "quote": "It does seem quite expensive we have layer 3 switches for a lot less.",
         "why": "价格断",
         "k": "83a6a36c850cb83b"
+      },
+      {
+        "date": "2025-02-08",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Andy, Thanks for your interest. 1, Its 500usd/pc, please see attached datasheet and manuals. 2, In the datasheet, you can see some details about customization. *And please do know that this is Marvell based, not Realtek, Vitesse or Broadcom.* *Its for high",
+        "why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）：500usd",
+        "k": "aee9616b96315f19"
+      },
+      {
+        "date": "2025-03-03",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Andy, Please check this series(Unmanaged, PoE) Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, support DIP Its good for powering IP cameras(similar PDs). Prices are fairly competitive.…",
+        "why": "Saga 实质答复原文（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "71f5f62ff6785f81"
       }
     ],
     "proof_gaps": [],

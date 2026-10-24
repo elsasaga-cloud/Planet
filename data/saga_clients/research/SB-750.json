@@ -86,12 +86,28 @@
         "k": "2974def9d7ffbd3f"
       },
       {
+        "date": "2024-06-18",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Francois, Thanks for your reply. We got 2 commercial models. 1, Realtek chip, 12 port SFP+, L2 managed 2, Marvell chip, 4 port SFP+ and 48 port SFP, L3 managed There is a Marvell based industrial model FYI. Its 4 port SFP+ and 16 port SFP+8*1G SFP/RJ45, L3 managed Please see attached datasheets…",
+        "why": "Saga 实质答复原文（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "9c34ff9a98f0c773"
+      },
+      {
         "date": "2024-06-24",
         "dir": "来",
         "who": "François Burton",
         "quote": "Not really, looking for SFP+ ports with ventilation front to back.",
         "why": "规格",
         "k": "75e864d4417eab48"
+      },
+      {
+        "date": "2024-09-09",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Francois, How are you? We are now introducing a new series, high-speed switches. Previously you said you need a switch that just has fiber ports. Please check this one. 32*100G We have many other specifications. Please let me know if this is useful to you.…",
+        "why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "5b93217dc580dc09"
       }
     ],
     "proof_gaps": [],

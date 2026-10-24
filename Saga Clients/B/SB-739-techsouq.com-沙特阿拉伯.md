@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。（调研 2026-10-21；表内兴趣：MC 机架 周边产品）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-25 邮件发不过去且无 WhatsApp 通道；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-09-08 → 2025-10-22）；最近一次客户回复：2024-09-08：interesting
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；历史报价（邮件原话，老汇率）：2024-09-09 33.5usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动 — —
@@ -48,12 +48,13 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，历史报价（邮件原话，老汇率）：2024-09-09 33.5usd）———
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-09-08 | 来 | info@techsouq.com | Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate | 来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a0ca6fa7bfe03f08` |
+| 2024-09-09 | 去 | Saga（Simon） | Hi, Ahmed, Its 33.5usd/pc. Please see attached datasheet. Do you need some samples for testing? Thank you, | 历史报价点（主题「Re: Power Converter」；第 20 批从 gmail_s 回补）：33.5usd | `82968785e232fd55` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 OlsonTech（光纤设备：EDFA、Laser Plus 光发射机（1310/1550 nm）、EdgePON、edgeswitch；OEM/集成商导向；表内「MC WDM 模块 光产品」）；群发 11 次无回复。（调研 2026-10-21；表内兴趣：MC WDM模块 光产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2025-02-28 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -46,8 +46,12 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（30% 档，历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-08-09 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta | 历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd | `7533abba594ebc6d` |
 
 ## 基本事实（事实/推断/假设分层）
 

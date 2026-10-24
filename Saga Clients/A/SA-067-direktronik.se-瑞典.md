@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2025-05-19 | 来 | info@direktronik.se（客服） | The responsible salesperson, Mats, will be back to you shortly. | 指定负责人 Mats（从未回） | `195f51b6b5903da9` |
 | 2025-11-11 | 来 | info@direktronik.se（合规） | we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH compliance ISO certification (if applicable) | 合规清单 = 停点 | `cda0898220404dd0` |
 | 2025-11-12 | 去 | Alan | We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know. | Saga 答复 | `a72460754524b4c8` |
+| 2025-12-08 | 去 | Saga（Alan） | Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d69d71aab444aaa5` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句
 

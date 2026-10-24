@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 30,
-      "price": "$110（2024-09）",
+      "price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd",
       "why": "—",
       "repeat": [],
       "gaps": []
@@ -129,6 +129,14 @@
         "quote": "I need manage switch for 24V/48V POE.",
         "why": "需求",
         "k": "e3fdaaebc77d14ee"
+      },
+      {
+        "date": "2024-09-18",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Ravi, Please see attached information. It is 110usd/pc. Thank you.",
+        "why": "历史报价点（主题「Re: 24V/48V PoE Switch」；第 20 批从 gmail_s 回补）：110usd",
+        "k": "f38de7254a2ba19a"
       },
       {
         "date": "2024-09-19",

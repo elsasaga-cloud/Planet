@@ -107,7 +107,7 @@
     "saga_now": {
       "p1": "STI-050GE（对位 PC-PIGE500-GBTE）",
       "tier": 30,
-      "price": "$25（2024-05 旧价）",
+      "price": "$25（2024-05 旧价）；历史报价（邮件原话，老汇率）：2024-05-03 STI-050GE 25usd",
       "why": "品牌商",
       "repeat": [],
       "gaps": [
@@ -144,6 +144,14 @@
         "quote": "None whatsoever!",
         "why": "拒样",
         "k": "c3a6ce39d1213582"
+      },
+      {
+        "date": "2024-05-03",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Luis, 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without power supply How many piece",
+        "why": "历史报价点（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
+        "k": "f68b73f1522697d3"
       }
     ],
     "proof_gaps": [],

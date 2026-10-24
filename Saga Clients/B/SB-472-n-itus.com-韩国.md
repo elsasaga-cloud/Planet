@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-11-13 | 来 | Peter | Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. | ODM 意向 | `57253159a4b7a064` |
+| 2025-12-11 | 去 | Saga（Alan） | Hi, Peter, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (port… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `1704546832652ac3` |
 
 ## 基本事实（事实/推断/假设分层）
 

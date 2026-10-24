@@ -105,7 +105,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—",
+      "price": "历史报价（邮件原话，老汇率）：2024-09-09 33.5usd",
       "why": "—",
       "repeat": [],
       "gaps": []
@@ -124,6 +124,14 @@
         "quote": "Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate",
         "why": "来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "a0ca6fa7bfe03f08"
+      },
+      {
+        "date": "2024-09-09",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Ahmed, Its 33.5usd/pc. Please see attached datasheet. Do you need some samples for testing? Thank you,",
+        "why": "历史报价点（主题「Re: Power Converter」；第 20 批从 gmail_s 回补）：33.5usd",
+        "k": "82968785e232fd55"
       }
     ],
     "proof_gaps": [],

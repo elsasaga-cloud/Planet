@@ -169,12 +169,28 @@
     },
     "facts": [
       {
+        "date": "2025-08-25",
+        "dir": "来（E 邮箱）",
+        "who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
+        "quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
+        "why": "Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
+        "k": "gmail_e/index_replied"
+      },
+      {
         "date": "2025-09-29",
         "dir": "来",
         "who": "Łukasz Gąsiewicz（Product Development Manager）",
         "quote": "I cooworking with Bartosz pls send me you actual offer",
         "why": "决策人出现",
         "k": "93d83062626fac30"
+      },
+      {
+        "date": "2025-09-29",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Lukasz, 1, please see attached info, there are links about rich info. 2, my colleague Elsa talked with you before, I will take over. She recommended an interesting model(see attached photos), it is our promotion now. Let's discuss.…",
+        "why": "Saga 实质答复原文（主题「Re: FW: [EXTERNAL] Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "06d7d26794647364"
       },
       {
         "date": "2025-10-03",
@@ -199,14 +215,6 @@
         "quote": "Any news about the 1G media converter? Need to order or something?",
         "why": "追问无回",
         "k": "43168b7db932dd31"
-      },
-      {
-        "date": "2025-08-25",
-        "dir": "来（E 邮箱）",
-        "who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
-        "quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
-        "why": "Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
-        "k": "gmail_e/index_replied"
       }
     ],
     "proof_gaps": [

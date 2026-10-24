@@ -139,6 +139,14 @@
         "k": "d0066f467b2afcd7"
       },
       {
+        "date": "2024-10-31",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Mark, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standard Po…",
+        "why": "Saga 实质答复原文（主题「Re: L3 managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "f56f98bcf2e0a850"
+      },
+      {
         "date": "2025-01-26",
         "dir": "来",
         "who": "mark@expresssupply.net",
@@ -161,6 +169,14 @@
         "quote": "Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk",
         "why": "批量意向",
         "k": "185a3765640a0e3f"
+      },
+      {
+        "date": "2025-01-28",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Mark, Do you mean something like attached photos? There is a rich port combination for your choice. *Just one thing* *Its CENTEC Chip based, a good domestic brand(see below link)* https://www.centec.com/silicon?category=Ethernet-Switch-Silicon…",
+        "why": "Saga 实质答复原文（主题「Re: 48 Port SFP Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "f6d6159512661dd7"
       },
       {
         "date": "2025-02-05",
@@ -201,6 +217,14 @@
         "quote": "Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small...",
         "why": "口径收回",
         "k": "e8d9d485eebf828f"
+      },
+      {
+        "date": "2026-01-16",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+        "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "231c410bdb6b62d3"
       }
     ],
     "proof_gaps": [],

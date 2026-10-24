@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-12-15 | 来 | kent.wang@assmann.com.tw | Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager | 来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `841a7692319b168b` |
+| 2025-12-15 | 去 | Saga（Alan） | Hi, Kent, I guess you are talking about I/O modules? Like below link https://sieportal.siemens.com/en-pe/products-services/10046659?tree=CatalogTree 1, If yes, sorry to tell you that it is not on our list. But I know someone handles I/O modules, please try to contact this person. I know her from an… | Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `52269215276dd05a` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-12 | 来 | Jomini Midhun（Sales Coordinator） | Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch? | 误读为采购 | `75714cbe9fd11aa2` |
+| 2026-08-15 | 去 | Saga（Alan） | Hi, Jomini, 1. I am recommending our models. We focus on Marvell based L2+ switches, checking if we could cooperate in some way. 2. I met George on IFSEC UK 2023 and know that you deal with Ethernet switches with a supplier from Shenzhen. Maybe our products can be useful in some projects, or we can… | Saga 实质答复原文（主题「Re: Confirmation: BORN 24-Port Managed S」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `5eacc9efe7146ba8` |
 
 ## 基本事实（事实/推断/假设分层）
 

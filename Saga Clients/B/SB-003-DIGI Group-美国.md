@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2025-06-26 | 来 | Stan Sochur | We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol? | OEM 意向 | `809f837f36d8ac93` |
 | 2025-06-26 | 去 | Simon | For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount | OEM 价推后 | `785f5e7be824e94b` |
 | 2025-06-28 | 来 | Stan | We species with video over IP , we must have IGMP protocol, it is mandatory. | 硬门槛 | `dc22cb3479825c92` |
+| 2025-06-28 | 去 | Saga（Simon） | Hi, Stan, Thanks for your info. 1, IGMP protocol is a management feature, it is not available on unmanaged switches. 2, We have managed switches. You can see this in the downlink link file I shared with you. *Marvell Based Industrial Managed Switch* In the datasheet, there is IGMP info.… | Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `2603220c608ffb88` |
 | 2025-11-28 | 来 | stan@thorfiber.com | Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `92ccd99bae9b2cff` |
 | 2025-12-01 | 去 | Simon | STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster | 单款报价 | `822038afc07c951e` |
 

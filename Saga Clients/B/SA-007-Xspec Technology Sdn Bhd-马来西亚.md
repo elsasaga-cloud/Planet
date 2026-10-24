@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。（调研 2026-10-22；表内兴趣：对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selango）
 - **为什么是 B 级**：**调研后定级 B**（成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）；最近一次客户回复：2024-11-18：passive poe only
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟；历史报价（邮件原话，老汇率）：2024-06-17 90usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：跟 PI 节奏；不主动 WhatsApp —
@@ -49,15 +49,17 @@ updated: 2026-10-24
 - **现状一句话**：Sugito（CEO）2024-06-14 回群发要 24 口被动 PoE（24V，24×100M + 2 GE + 2 SFP，15.4W/口），4 天内要发票、要 T/T、成单 1 台样机。之后没有第二单（邮件），Simon 定 gg。
 - **对方真实需求（有据）**：24 口被动 PoE 24V（项目配套）。
 - **断点 / 为什么停在这里**：一次性项目配套；不是 Saga 的复利客户。
-- **Saga 现在该推什么**：P1 **无主动动作**（25% 档，—）——B 慢跟
+- **Saga 现在该推什么**：P1 **无主动动作**（25% 档，历史报价（邮件原话，老汇率）：2024-06-17 90usd）——B 慢跟
 - **下一步（具体）**：跟 PI 节奏；不主动　WhatsApp　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-14 | 来 | Sugito Wibawa（CEO） | I am looking for PASSIVE POE 24 port Switch. Do you have ? | 需求 | `c4b545e745cfee3e` |
 | 2024-06-14 | 来 | Sugito | MUST BE PASSIVE POE… 24 x 10-100Mbps downlink PoE… PoE switch output 24V… Maximum power of single PoE port: 15,4W | 规格 | `d4fd9769046a10ec` |
+| 2024-06-17 | 去 | Saga（Simon） | Hi, Sugito, Thanks for your information. After careful check, we can offer it, but we do not have a ready datasheet yet. Price: 90usd/pc Commercial PoE Switch 2*1G SFP uplink+2*1000M Copper uplink+24*10/100M PoE downlink, passive PoE, unmanaged AC 100~240V inp | 历史报价点（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）：90usd | `eb6c2057389fafbf` |
 | 2024-06-18 | 来 | Sugito | Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd | 样品单 | `10fca04e1dcc0437` |
 | 2024-06-18 | 来 | Sugito | Can we pay via Bank TT, as we dont do paypal payment here. | T/T | `ca8ed8495f53d8b5` |
+| 2024-06-18 | 去 | Saga（Simon） | Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c… | Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `3c88bfd8760e162d` |
 
 ## 基本事实（事实/推断/假设分层）
 

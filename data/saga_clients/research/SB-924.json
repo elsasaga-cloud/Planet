@@ -107,7 +107,7 @@
     "saga_now": {
       "p1": "CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」",
       "tier": 30,
-      "price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价",
+      "price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd",
       "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信",
       "repeat": [],
       "gaps": "CENTEC 堆叠能力仓库无证（Q2 表功能栏只列 VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPv6），信里不写 CENTEC stacking；MLAG 作为替代口径"
@@ -136,12 +136,28 @@
         "k": "bf1123a71b98d0a9"
       },
       {
+        "date": "2023-12-12",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Greg, Thanks for your kind words. There is also din power supply for your choice. You may also download the information from below Google Drive link. https://drive.google.com/drive/folders/1ZG50Ugnns3XQ2RuFzFx7CwNX6eZAbf4H?usp=drive_link…",
+        "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "045cc03da988c60f"
+      },
+      {
         "date": "2024-01-08",
         "dir": "来",
         "who": "gmassott@versitron.com",
         "quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
         "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "bdc33af7998da6ad"
+      },
+      {
+        "date": "2024-02-19",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Greg, How are you? I am back to work and would like to recommend a 16 port PoE Industrial Switch. Please see attached product information. For this series, you could also get more information from below google drive link. https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?u…",
+        "why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "b88fdfbd72e71b7e"
       },
       {
         "date": "2024-02-20",
@@ -158,6 +174,22 @@
         "quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
         "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "362966d662d4b69d"
+      },
+      {
+        "date": "2024-05-16",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Greg, Please see attached datasheets, web manual and CLI manual. Commercial model, 375usd/pc Industrial model, 550usd/pc Both models share the same specification as below. 4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stan",
+        "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：375usd / 550usd",
+        "k": "73339deec6e397bd"
+      },
+      {
+        "date": "2024-06-18",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Greg, How are you? Last time we talked about 24 port managed switch, is there any plan for sample testing? And I would like to recommend a 10G fiber media converter. Good outlook and 14-slot rack mountable. Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Eth",
+        "why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：75usd",
+        "k": "533485b14a400b6f"
       },
       {
         "date": "2024-07-17",
@@ -214,6 +246,14 @@
         "quote": "I'm following up to see if you have been able to successfully design the stacking switches discussed below.",
         "why": "追问 ×3（06-11/18/23）",
         "k": "0a50926da6770aea"
+      },
+      {
+        "date": "2025-08-28",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Greg, Thanks for your email. It is 500usd/pc, it is expensive because we are doing Marvell chip. Please see attached datasheet. Thank you.",
+        "why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_s 回补）：500usd",
+        "k": "d9911e2b978f6965"
       },
       {
         "date": "2025-10-31",

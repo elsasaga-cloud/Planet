@@ -1,138 +1,147 @@
 {
- "code": "SB-1118",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mcss.co.kr，快照 2026-10-21）",
- "summary": "韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。",
- "type": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
- "size": "",
- "brands_seen": [
-  "Teltonika",
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：엠씨에스솔루션 | 네트워크 솔루션·ICT·IoT 전문기업；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
+  "code": "SB-1118",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mcss.co.kr，快照 2026-10-21）",
+  "summary": "韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。",
+  "type": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
+  "size": "",
+  "brands_seen": [
+    "Teltonika",
+    "PLANET"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：엠씨에스솔루션 | 네트워크 솔루션·ICT·IoT 전문기업；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다",
+      "url": "https://www.mcss.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "基本都是unifi的switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "韩语官网：网络集成/云/IoT/IT 外包 ICT 专业企业",
+      "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공",
+      "url": "https://www.mcss.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "基本都是 UniFi 交换机",
+      "quote": "基本都是unifi的switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "基本都是unifi的switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 mcss.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "韩语官网：网络集成/云/IoT/IT 外包 ICT 专业企业",
-   "quote": "(주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "网络集成 / 云 / IoT / IT 外包",
+    "在线商城（交换机 / 无线 / 路由）"
+  ],
+  "channels": {
+    "role": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
+    "region": "韩国",
+    "contact": "sales@mcss.co.kr"
   },
-  {
-   "kind": "用户表",
-   "claim": "基本都是 UniFi 交换机",
-   "quote": "基本都是unifi的switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "站内商城页 /tt_shop_switch、/usw-24-poe、/usw-16-poe、/usw-48-poe",
+    "站内 PLANET 词频 71、Teltonika 在售"
+  ],
+  "risks": [
+    "韩国市场（T5）：语言/本地支持门槛，低频跟进",
+    "UniFi 为主 = 云控生态，Saga 无云管理（只替换非云场景）",
+    "无具名 KP（sales@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "在售 PLANET GS-4210-8P2S（8 PoE + 2 SFP）与 UniFi USW-24-PoE → 对位 STC-28DGGPM（$84.1 @25%）/ STC-424DGGPM-280W；工业位 PLANET IGS-6325-8UP2S2X ↔ STI-288DGGPM（L2+，无 L3 工业 8 口标准型）"
+  },
+  "email_hook": "For the sites you build on UniFi USW and PLANET GS-4210 PoE switches, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models (neutral packing, small lots) as a cost line under the same topology — which one do you deploy more, the 8-port or the 24-port?",
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-8P2S",
+      "spec": "8 口千兆 PoE + 2 SFP 管理型",
+      "saga": "STC-28DGGPM",
+      "url": "https://www.mcss.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-6325-8UP2S2X",
+      "spec": "工业 L3 8 口 UPoE + 2 SFP + 2 SFP+",
+      "saga": "STI-288DGGPM（L2+，L3 待核）",
+      "url": "https://www.mcss.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "USW-24-POE",
+      "spec": "24 口 PoE 云管理",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://www.mcss.co.kr/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）",
+      "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
+      "sieve": "2",
+      "stop": "Q-33 + 迟回",
+      "revive": "不动（Q-33）",
+      "lane": "KR",
+      "cadence": "不动",
+      "evidence": "k=4d792eebebf6a404 / 497037e504e55533"
+    },
+    "situation": "—",
+    "need": "OEM/白标清单。",
+    "breakpoint": "Q-33。",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-02-05",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,…",
+        "why": "Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "497037e504e55533"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 mcss.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络集成 / 云 / IoT / IT 外包",
-  "在线商城（交换机 / 无线 / 路由）"
- ],
- "channels": {
-  "role": "系统集成 + 在线商城（PLANET / UniFi 渠道）",
-  "region": "韩国",
-  "contact": "sales@mcss.co.kr"
- },
- "signals": [
-  "站内商城页 /tt_shop_switch、/usw-24-poe、/usw-16-poe、/usw-48-poe",
-  "站内 PLANET 词频 71、Teltonika 在售"
- ],
- "risks": [
-  "韩国市场（T5）：语言/本地支持门槛，低频跟进",
-  "UniFi 为主 = 云控生态，Saga 无云管理（只替换非云场景）",
-  "无具名 KP（sales@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "在售 PLANET GS-4210-8P2S（8 PoE + 2 SFP）与 UniFi USW-24-PoE → 对位 STC-28DGGPM（$84.1 @25%）/ STC-424DGGPM-280W；工业位 PLANET IGS-6325-8UP2S2X ↔ STI-288DGGPM（L2+，无 L3 工业 8 口标准型）"
- },
- "email_hook": "For the sites you build on UniFi USW and PLANET GS-4210 PoE switches, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models (neutral packing, small lots) as a cost line under the same topology — which one do you deploy more, the 8-port or the 24-port?",
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-8P2S",
-   "spec": "8 口千兆 PoE + 2 SFP 管理型",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-6325-8UP2S2X",
-   "spec": "工业 L3 8 口 UPoE + 2 SFP + 2 SFP+",
-   "saga": "STI-288DGGPM（L2+，L3 待核）",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Ubiquiti",
-   "model": "USW-24-POE",
-   "spec": "24 口 PoE 云管理",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.mcss.co.kr/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）",
-   "type": "韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售）",
-   "sieve": "2",
-   "stop": "Q-33 + 迟回",
-   "revive": "不动（Q-33）",
-   "lane": "KR",
-   "cadence": "不动",
-   "evidence": "k=4d792eebebf6a404 / 497037e504e55533"
-  },
-  "situation": "—",
-  "need": "OEM/白标清单。",
-  "breakpoint": "Q-33。",
-  "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

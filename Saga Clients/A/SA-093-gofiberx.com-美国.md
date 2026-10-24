@@ -57,6 +57,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-01-03 | 来 | Ivan Rivera | Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? | 第一轮需求 | `55521ad734b4480a` |
 | 2025-01-03 | 来 | Ivan | You don't have that one rackmount? Not din rail? What it's the OS? | 形态 + OS | `aa33fba00ea6c8ff` |
+| 2025-01-03 | 去 | Saga（Simon） | Hi, Ivan, 1, Maybe attached model? 1U rack, 4*SFP+, 16*1G SFP+8*1G SFP/RJ45 Combo, DC36V~DC75V input 2, Its marvell chip, see below link and attached GUI photos. https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf… | Saga 实质答复原文（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `7e5de4e309f0d7ca` |
 | 2026-06-05 | 来 | Ivan | Support MPLS with H3C? | 互通问题 | `553ba9ad1fef0430` |
 | 2026-06-08 | 来 | Ivan | Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. | 指定型号询价 | `894de4474cf06741` |
 | 2026-06-08 | 去 | Alan | SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules. | 报价 | `5d26574728e757e2` |

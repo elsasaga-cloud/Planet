@@ -192,7 +192,7 @@
     "saga_now": {
       "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
       "tier": 25,
-      "price": "不报价（当前线做不到 $100）",
+      "price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd",
       "why": "C3：ISP 千台级是「拼命单」且价格主导",
       "repeat": [],
       "gaps": [
@@ -213,6 +213,14 @@
         "quote": "Hi Simon, How much is it? Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantne",
         "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "e14599fb95e788eb"
+      },
+      {
+        "date": "2024-07-02",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Thanks for your interest. 50usd/pc STC-18XGDGE 1*10G SFP slot+8*100M/1000M/2.5G Copper, unmanaged, non-PoE, DC input, with power cable, without sfp module. Please see attached datasheet for more information. Thank you. On Tue, Jul 2, 2024 at 10:22 AM A",
+        "why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：STC-18XGDGE 50usd",
+        "k": "90a2996a99eb6cc2"
       },
       {
         "date": "2024-07-03",
@@ -247,6 +255,14 @@
         "k": "ce207bc45a47a708"
       },
       {
+        "date": "2024-07-03",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Thanks for your information. Requirement 1 2*10G+2*1G/2.5G, full UTP ports Requirement 2 2*10G+4*1G/2.5/5G, full UTP ports We have a model for both, 8*10G UTP. I know the specification is higher, this is the closest model we have. As far as I know, ver",
+        "why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：",
+        "k": "af564e63f6de5441"
+      },
+      {
         "date": "2024-07-04",
         "dir": "来",
         "who": "auwc@resonantnetworks.com",
@@ -271,6 +287,54 @@
         "k": "3df6ebcc3c4bfc5f"
       },
       {
+        "date": "2024-07-21",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Thanks for your offer. STC-08XGE 170usd/pc 8*10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaegd, AC input, with power cable, with mounting hangers(rack compatible) I quoted this model before. For the managed version, yes, we have it, pl",
+        "why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：STC-08XGE 170usd / 200usd",
+        "k": "fa2d4aedda431ffa"
+      },
+      {
+        "date": "2024-07-23",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Yes, most suppliers are approaching some famous brands from the GUI interface and product outlook. This is trendy, its about replacement(similar features, similar outlook, but much lower prices). Please let me know if there is news from your side.…",
+        "why": "Saga 实质答复原文（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "7dd13e7c8f2a221e"
+      },
+      {
+        "date": "2024-08-21",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Thanks for your information. For the managed models, let's do 185usd/pc, OK? This is the bulk price. Just would like to work out something together. Please see attached quotation and send me PO if everything is OK. Thank you, On Wed, Aug 21, 2024 at 12",
+        "why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：185usd",
+        "k": "112e99f1af79b68a"
+      },
+      {
+        "date": "2024-09-04",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, While waiting for the shipment of your order, I would like to let you know that, 5-port model is now available. 1, with fan 2, web managed 3, smaller size So it will be similar to this 8-port model, better test this 8-port switch and decide what is for",
+        "why": "历史报价点（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）：145usd",
+        "k": "c7034f814c362836"
+      },
+      {
+        "date": "2024-09-10",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, 1, please check the google drive link I shared. it is about the information of this order. 2, yes, the fan is not noisy according to the feedback from different clients. On the market, for 10G ethernet switches, most suppliers do fans for better dissipation. In our product list, all 10G Ethe…",
+        "why": "Saga 实质答复原文（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "d1c2643f199d1be2"
+      },
+      {
+        "date": "2024-09-11",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, Thanks for your information. Below is the unit price we can do for you. USD$140: 5-port managed USD$195: 8-port managed USD$170: 8-port unmanaged For a bulk order, lets discuss. Example: its 185usd for the sample unit(8-port managed), as I explained be",
+        "why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：$140 / $195 / $170",
+        "k": "ee373c9b9e537f8e"
+      },
+      {
         "date": "2025-03-14",
         "dir": "来",
         "who": "Au Wai Choon",
@@ -287,12 +351,28 @@
         "k": "a28f30c8f3795eea"
       },
       {
+        "date": "2025-03-14",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, 1, Got a problem checking the details. Do not have this app on my phone or apple store, maybe its the region or something? 2, Possible to give me some screenshots? The brand, model name or something? Or just copy the specs and share. 3, Just this device?…",
+        "why": "Saga 实质答复原文（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "a39c837e568b25c4"
+      },
+      {
         "date": "2025-07-28",
         "dir": "来",
         "who": "Hairomee",
         "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
         "why": "竞品锚点",
         "k": "2c2282af0677f30a"
+      },
+      {
+        "date": "2025-07-28",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Hairomee, Thanks for your information, glad to know there is some progress. 1. In last order, it is 210usd(product cost and shipping cost) Considering customs clearance cost and your profit, AND your customer's profit, let's say 30% each, this will make it",
+        "why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：210usd / 360usd",
+        "k": "f7a668d6ff8fbc71"
       },
       {
         "date": "2025-11-11",
@@ -309,6 +389,14 @@
         "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
         "why": "Saga 底线",
         "k": "b26aafe834fa3423"
+      },
+      {
+        "date": "2026-09-21",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Au, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI *Price: 180USD/PC* Do you need some samples for testing? Thank you. [ima",
+        "why": "历史报价点（主题「Re: Optional Marvell Chipset Solutions」；第 20 批从 gmail_s 回补）：180USD",
+        "k": "059803e2ac308b24"
       }
     ],
     "proof_gaps": [],

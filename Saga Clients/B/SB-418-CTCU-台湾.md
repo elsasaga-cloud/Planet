@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-01-13 | 来 | micro-chang@ctcu.com.tw | Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market | 来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `622d9c1213433077` |
+| 2026-07-20 | 去 | Saga（Alan） | Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l… | Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `2c088651a92dded8` |
 
 ## 基本事实（事实/推断/假设分层）
 

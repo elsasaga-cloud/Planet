@@ -54,6 +54,8 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-08-13 | 来 | Austėja Matulaitytė | in Lithuania and Europe nobody anymore want a China products for security due to regulations | 市场信号 | `94cc7dd92c05aaa7` |
+| 2024-08-13 | 去 | Saga（Simon） | Hi, Austeja, Thanks for your information. I understand your concerns, it seems that you do not do OEM, right? Many European companies are importing from China, but they will ask for Chinese suppliers to do some customization(change the logo, model name etc.). This is popular now. We can also do this… | Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `e8fb7d7801aaff8c` |
+| 2024-12-12 | 去 | Saga（Simon） | Hi, Austėja, How are you? Previously we had a discussion on brand and import issues. Fact 1: you now prefer a supplier from EU countries. Fact 2: you now have a Chinese partner for OEM manufacturing. This email is about, If possible to try our models if we have a strategic partner in Turkey? This pa… | Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `ed973dfae5902353` |
 
 ## 基本事实（事实/推断/假设分层）
 

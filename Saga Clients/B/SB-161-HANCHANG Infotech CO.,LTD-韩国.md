@@ -54,6 +54,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-02-04 | 来 | jryoun74@hcin4.com | ﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: "Alan from Saga Telecom" | 来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `8b775668d592d1fe` |
 | 2026-01-16 | 来 | Peter (jryoun74) | thank you for informations~ please give about price~ | 要价 | `edd3336a251448b6` |
+| 2026-01-19 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. 1, we are still working on the new prices for 2026. I will let you know when ready. 2, please see attached files to know about our software features. Btw, is there any specific specification you need?… | Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `eae2ff437c2f5e46` |
 
 ## 基本事实（事实/推断/假设分层）
 

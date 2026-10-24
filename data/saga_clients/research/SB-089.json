@@ -164,6 +164,14 @@
         "k": "gmail_a att（sha 见 attachments/text）"
       },
       {
+        "date": "2025-04-23",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Hussain, Last time I shared datasheet Q2, please see attached Q3 version. It explains the unique features of our models from chip and hardware design. This is a little technical, please transfer it to your engineering team, they will soon understand. Btw: do you have any target price/budget?…",
+        "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "365aa3e5b9a0605e"
+      },
+      {
         "date": "2025-04-28",
         "dir": "来",
         "who": "Hussain",
@@ -172,12 +180,28 @@
         "k": "7b0d91fec35aaa9c"
       },
       {
+        "date": "2025-04-28",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Hussain, What do you mean by \"outdoor use\"? 1, high IP grade, waterproof: Like IP66, IP67 or IP68 The enclosure itself is high IP rated. 2, just industrial grade products for harsh outdoor use It might be used in outdoor IP box, a typical example is like below link https://www.inscapedata.com/lp…",
+        "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "1f18c82924a11d1e"
+      },
+      {
         "date": "2025-05-15",
         "dir": "来",
         "who": "Hussain",
         "quote": "Unfortunately there is no news yest, but once we have news regarding your offer we will be in touch.",
         "why": "项目停摆",
         "k": "d385ca588de7d060"
+      },
+      {
+        "date": "2025-05-15",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Hussain, Any update about this project? Btw There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. *Model choice* 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version *It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antair…",
+        "why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "46f7e87117f44fe3"
       }
     ],
     "proof_gaps": [

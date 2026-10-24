@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国纽约州 Buffalo 的工业无线数据通信设备制造商（1996 年成立，11–50 人，收入 $1–4.9M），品牌 ARIA Wireless / GLB Electronics / SIMREX；产品线含 DataMover 无线电台与 **DataMover 加固型管理交换机 MS-5 / MS-5GS / MSG-8E4S**（贴自有品牌的工业交换机）；行业：航空、轨道、能源、水务、交通 ITS。已成单。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 11 次（2025-02-08 → 2025-11-28）；最近一次客户回复：1.3：L3管理 后续未下单
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过） — J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价；130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过） — J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价；130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 
 - **第一问（只问一个）**：Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 WhatsApp（Simon） 问 130 USD 款是否排进实验室；主动给 SNMP OID/MIB 文件
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Frank Neuperger 2024-12 一周内连问 5 封（管理？OS？每口功率？250 m 怎么跑以太网？56V 行不行？「Do you work for Saga Telecom?」），Simon 答「Saga Telecom is my sister's… 56V OK」后转 WhatsApp；用户表记成单。2026-07-20 Frank 的长信是 A 级里最有信息量的一封：他们私标 Mikrotik、靠 API 做云 NMS 和脚本增值、成本 90–120 美元，问 Saga 交换机能做什么 MT 做不到的。Simon 次日给了 130 USD 的 Marvell 24 口（与 CRS326 同级）。
 - **对方真实需求（有据）**：6/12/24 口加固管理交换机，能进其 NMS（API/SNMP 发现 + 吞吐测试），56V PoE，成本 ≤$120 级。
 - **断点 / 为什么停在这里**：客户系统依赖的是 Mikrotik 固件（J 系列「客户系统依赖固件」反向案例）；Saga 想替代就得在固件侧给出等价接口，不是价格。
-- **Saga 现在该推什么**：P1 **Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）**（30% 档，130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档））——J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价
+- **Saga 现在该推什么**：P1 **Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）**（30% 档，130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ）——J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价
   - 做不了 / 要先核的：2026-07-21 报价型号（附件名 STC-4…）；WhatsApp 成交内容未入库——成单型号/数量不明
 - **下一步（具体）**：2026-11　WhatsApp（Simon）　问 130 USD 款是否排进实验室；主动给 SNMP OID/MIB 文件
   - 第一问（只问一个）：Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first.
@@ -57,6 +57,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-12-04 | 来 | Frank Neuperger | Is this a managed switch? If so, what operating system? What is max power per port?… With the specified 250 m POE distance, how do you get ETH connectivity? | 工程师式追问 | `95d30a86d792cc0d` |
 | 2024-12-05 | 来 | frank@simrex.com | Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank N | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `beb1989d2b8314a0` |
+| 2024-12-05 | 去 | Saga（Simon） | Hi, Frank, Please check this google drive link, there are many other models available. *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link* <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive | 历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）： | `b5564e71079c9744` |
 | 2024-12-06 | 来 | Frank | Do you work for Saga Telecom? Can we use 56V with any of the products… Most of our POE is 56V. | 身份 + 56V | `d83e2c902092c388` |
 | 2024-12-07 | 去 | Simon | Saga Telecom is my sister's. I deal with foreign trade only… 56V is OK. For PoE models, the max input is 57V | 身份口径（历史） | `a5829330c3f7b38f` |
 | 2024-12-12 | 来 | frank@simrex.com | Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simrex Corporat | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `19b86efa448c3a2c` |

@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STI-222GP",
       "tier": 25,
-      "price": "$34（2024-10）",
+      "price": "$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd",
       "why": "项目体量",
       "repeat": [],
       "gaps": []
@@ -147,6 +147,14 @@
         "quote": "Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch.",
         "why": "价格先行",
         "k": "d05d6d8f07683799"
+      },
+      {
+        "date": "2024-10-09",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T",
+        "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd",
+        "k": "815888411fd50a1b"
       }
     ],
     "proof_gaps": [],

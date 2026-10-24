@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-04-20 | 来 | dean.stephens@altronics.com.au | Hi Alan, Thank you, not at this time. Regards Dean | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `f6879c7d612d62b5` |
+| 2026-06-05 | 去 | Saga（Alan） | Hi, Dean, How are you? Please check our half-width 10Gb managed switch featuring 1. Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers 2. Compact size, support hot-swappable fan modulars 3. OEM/white-label support(branding, model name etc.) Do you have any pr… | Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `c943d0ffd571332d` |
 
 ## 基本事实（事实/推断/假设分层）
 

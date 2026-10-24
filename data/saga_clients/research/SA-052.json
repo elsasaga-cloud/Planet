@@ -136,7 +136,7 @@
     "saga_now": {
       "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
       "tier": 20,
-      "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价",
+      "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
       "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
       "repeat": [],
       "gaps": [
@@ -167,6 +167,14 @@
         "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
         "why": "需求首次出现",
         "k": "cc4b73b466fbfdcc"
+      },
+      {
+        "date": "2024-02-27",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Alexander, Thanks for your interest. It is an unmanaged switch. 40usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block) , -40℃ to",
+        "why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：STI-244GP 40usd",
+        "k": "9e70b92b05e06744"
       },
       {
         "date": "2024-03-19",
@@ -201,6 +209,14 @@
         "k": "db027757ebd31a57"
       },
       {
+        "date": "2024-04-18",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Alexander, Price: 135usd/pc 2*1G/2.5G SFP+8*1/100/1000M Ethernet/PoE, PoE af/at/bt for 1~2 port, PoE af/at for 3~8 port, 240W budget, layer 2 managed, Marvell chip, without fiber module, without power supply. Thank you.",
+        "why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：135usd",
+        "k": "3b218a526f756a50"
+      },
+      {
         "date": "2024-05-19",
         "dir": "来",
         "who": "air@td-fe.ru",
@@ -215,6 +231,14 @@
         "quote": "Dear Simon! What price of this one, and have you similar, but 1G speed only? With the best wishes, Alexander Rudnev Executive director of TH Faraday E",
         "why": "来信原文（主题「Re: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "13f234fc6fab9e63"
+      },
+      {
+        "date": "2024-05-20",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Alexander, For the 10G L3 model, it is 360usd/pc. Yes, we have a lower standard for it. It is about Marvell L2 managed, 4*1G/2.5G SFP+8*1G copper. Please see attached datasheet. Price is 130usd/pc. Thank you.",
+        "why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：360usd / 130usd",
+        "k": "7e7f4ea846102c34"
       },
       {
         "date": "2024-05-21",
@@ -257,12 +281,28 @@
         "k": "fa125622a89afa47"
       },
       {
+        "date": "2024-10-15",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Alexander, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standa…",
+        "why": "Saga 实质答复原文（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+        "k": "a12c600b2588bbc5"
+      },
+      {
         "date": "2024-12-12",
         "dir": "来",
         "who": "Alexander",
         "quote": "Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB.",
         "why": "要 RMB 价表",
         "k": "c4b08a47d73f023f"
+      },
+      {
+        "date": "2024-12-12",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Alexander, Please check full info of our Industrial Marvell managed switches from below google drive link. https://drive.google.com/drive/folders/1y-3HWGDrnKc7SAROusRWvoUtmFjjJy32?usp=drive_link For prices, its also in this link, in USD. To exchange it to",
+        "why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：1USD",
+        "k": "894e2e7e3d6fd765"
       },
       {
         "date": "2025-01-03",

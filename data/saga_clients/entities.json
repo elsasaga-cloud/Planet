@@ -844,6 +844,14 @@
 "k": "f18cc2e1fa27d344"
 },
 {
+"date": "2025-01-06",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Sanjay, Please check attached PROFILE and below google drive link(containing full information). *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link>*…",
+"why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "27d005cda6b7196c"
+},
+{
 "date": "2025-04-28",
 "dir": "来",
 "who": "Sanjay",
@@ -1305,7 +1313,7 @@
 "saga_now": {
 "p1": "Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-4…，型号待核）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）",
 "tier": 30,
-"price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）",
+"price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ",
 "why": "J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价",
 "repeat": [],
 "gaps": [
@@ -1335,6 +1343,14 @@
 "quote": "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank N",
 "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "beb1989d2b8314a0"
+},
+{
+"date": "2024-12-05",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frank, Please check this google drive link, there are many other models available. *https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link* <https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive",
+"why": "历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）：",
+"k": "b5564e71079c9744"
 },
 {
 "date": "2024-12-06",
@@ -2962,7 +2978,7 @@
 "saga_now": {
 "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
 "tier": 25,
-"price": "不报价（当前线做不到 $100）",
+"price": "不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd",
 "why": "C3：ISP 千台级是「拼命单」且价格主导",
 "repeat": [],
 "gaps": [
@@ -2983,6 +2999,14 @@
 "quote": "Hi Simon, How much is it? Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantne",
 "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "e14599fb95e788eb"
+},
+{
+"date": "2024-07-02",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Thanks for your interest. 50usd/pc STC-18XGDGE 1*10G SFP slot+8*100M/1000M/2.5G Copper, unmanaged, non-PoE, DC input, with power cable, without sfp module. Please see attached datasheet for more information. Thank you. On Tue, Jul 2, 2024 at 10:22 AM A",
+"why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：STC-18XGDGE 50usd",
+"k": "90a2996a99eb6cc2"
 },
 {
 "date": "2024-07-03",
@@ -3017,6 +3041,14 @@
 "k": "ce207bc45a47a708"
 },
 {
+"date": "2024-07-03",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Thanks for your information. Requirement 1 2*10G+2*1G/2.5G, full UTP ports Requirement 2 2*10G+4*1G/2.5/5G, full UTP ports We have a model for both, 8*10G UTP. I know the specification is higher, this is the closest model we have. As far as I know, ver",
+"why": "历史报价点（主题「Re: 2.5G switch」；第 20 批从 gmail_s 回补）：",
+"k": "af564e63f6de5441"
+},
+{
 "date": "2024-07-04",
 "dir": "来",
 "who": "auwc@resonantnetworks.com",
@@ -3041,6 +3073,54 @@
 "k": "3df6ebcc3c4bfc5f"
 },
 {
+"date": "2024-07-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Thanks for your offer. STC-08XGE 170usd/pc 8*10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaegd, AC input, with power cable, with mounting hangers(rack compatible) I quoted this model before. For the managed version, yes, we have it, pl",
+"why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：STC-08XGE 170usd / 200usd",
+"k": "fa2d4aedda431ffa"
+},
+{
+"date": "2024-07-23",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Yes, most suppliers are approaching some famous brands from the GUI interface and product outlook. This is trendy, its about replacement(similar features, similar outlook, but much lower prices). Please let me know if there is news from your side.…",
+"why": "Saga 实质答复原文（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "7dd13e7c8f2a221e"
+},
+{
+"date": "2024-08-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Thanks for your information. For the managed models, let's do 185usd/pc, OK? This is the bulk price. Just would like to work out something together. Please see attached quotation and send me PO if everything is OK. Thank you, On Wed, Aug 21, 2024 at 12",
+"why": "历史报价点（主题「Re: 10G MultiGig switch」；第 20 批从 gmail_s 回补）：185usd",
+"k": "112e99f1af79b68a"
+},
+{
+"date": "2024-09-04",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, While waiting for the shipment of your order, I would like to let you know that, 5-port model is now available. 1, with fan 2, web managed 3, smaller size So it will be similar to this 8-port model, better test this 8-port switch and decide what is for",
+"why": "历史报价点（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）：145usd",
+"k": "c7034f814c362836"
+},
+{
+"date": "2024-09-10",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, 1, please check the google drive link I shared. it is about the information of this order. 2, yes, the fan is not noisy according to the feedback from different clients. On the market, for 10G ethernet switches, most suppliers do fans for better dissipation. In our product list, all 10G Ethe…",
+"why": "Saga 实质答复原文（主题「Re: PO | SGP250051 10G MultiGig switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "d1c2643f199d1be2"
+},
+{
+"date": "2024-09-11",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, Thanks for your information. Below is the unit price we can do for you. USD$140: 5-port managed USD$195: 8-port managed USD$170: 8-port unmanaged For a bulk order, lets discuss. Example: its 185usd for the sample unit(8-port managed), as I explained be",
+"why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：$140 / $195 / $170",
+"k": "ee373c9b9e537f8e"
+},
+{
 "date": "2025-03-14",
 "dir": "来",
 "who": "Au Wai Choon",
@@ -3057,12 +3137,28 @@
 "k": "a28f30c8f3795eea"
 },
 {
+"date": "2025-03-14",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, 1, Got a problem checking the details. Do not have this app on my phone or apple store, maybe its the region or something? 2, Possible to give me some screenshots? The brand, model name or something? Or just copy the specs and share. 3, Just this device?…",
+"why": "Saga 实质答复原文（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "a39c837e568b25c4"
+},
+{
 "date": "2025-07-28",
 "dir": "来",
 "who": "Hairomee",
 "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
 "why": "竞品锚点",
 "k": "2c2282af0677f30a"
+},
+{
+"date": "2025-07-28",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Hairomee, Thanks for your information, glad to know there is some progress. 1. In last order, it is 210usd(product cost and shipping cost) Considering customs clearance cost and your profit, AND your customer's profit, let's say 30% each, this will make it",
+"why": "历史报价点（主题「Re: 10G MultiGig Price」；第 20 批从 gmail_s 回补）：210usd / 360usd",
+"k": "f7a668d6ff8fbc71"
 },
 {
 "date": "2025-11-11",
@@ -3079,6 +3175,14 @@
 "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
 "why": "Saga 底线",
 "k": "b26aafe834fa3423"
+},
+{
+"date": "2026-09-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Au, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI *Price: 180USD/PC* Do you need some samples for testing? Thank you. [ima",
+"why": "历史报价点（主题「Re: Optional Marvell Chipset Solutions」；第 20 批从 gmail_s 回补）：180USD",
+"k": "059803e2ac308b24"
 }
 ],
 "proof_gaps": [],
@@ -3417,7 +3521,7 @@
 "saga_now": {
 "p1": "无主动动作",
 "tier": 25,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2024-06-17 90usd",
 "why": "B 慢跟",
 "repeat": [],
 "gaps": []
@@ -3446,6 +3550,14 @@
 "k": "d4fd9769046a10ec"
 },
 {
+"date": "2024-06-17",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Sugito, Thanks for your information. After careful check, we can offer it, but we do not have a ready datasheet yet. Price: 90usd/pc Commercial PoE Switch 2*1G SFP uplink+2*1000M Copper uplink+24*10/100M PoE downlink, passive PoE, unmanaged AC 100~240V inp",
+"why": "历史报价点（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）：90usd",
+"k": "eb6c2057389fafbf"
+},
+{
 "date": "2024-06-18",
 "dir": "来",
 "who": "Sugito",
@@ -3460,6 +3572,14 @@
 "quote": "Can we pay via Bank TT, as we dont do paypal payment here.",
 "why": "T/T",
 "k": "ca8ed8495f53d8b5"
+},
+{
+"date": "2024-06-18",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c…",
+"why": "Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "3c88bfd8760e162d"
 }
 ],
 "proof_gaps": [],
@@ -5343,7 +5463,7 @@
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 20,
-"price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效",
+"price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ",
 "why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏",
 "repeat": [
 "STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购",
@@ -5371,12 +5491,36 @@
 "k": "c99c94abd0c7eed6"
 },
 {
+"date": "2024-11-14",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Thu, Thanks for your information. 1, please see attached datasheets. 2, for this 14-slot rack, it is housing the standalone units, not cards. Pros: Easier to insert or plug out for other purposes(directly use it elsewhere, while cards are not that easy), a",
+"why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
+"k": "aa5bd145269a4a45"
+},
+{
+"date": "2024-11-16",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Thu, Thanks for your information. After confirmation, its OK to move on. 1, Please PS/AI source file that contains *detailed description* of your logo. *Especially the white part as I marked.* If you proceed with the photo you shared in last email, the eff",
+"why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
+"k": "9b26b8e5f17f8e5c"
+},
+{
 "date": "2024-11-19",
 "dir": "去",
 "who": "Simon → Thu",
 "quote": "PI STSC20241119006：5 台 MC10G（STC-110XGE）+ MC1400 机架（STC-14DUR），$530",
 "why": "第二单，品类从交换机扩到 MC + 机架",
 "k": "5421b6cec88fe6fc"
+},
+{
+"date": "2024-11-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Thu, Please see attached photos for labels. Is this format OK? As you said, add the \" Ethernet 10GBase-TX to Ethernet 10G SFP Conversion\" with the same Font with your \" 10G Ethernet Media Converter\" and a line between them. It will be Arial then. *Is there a source file for both logos?(PS/AI/Vis…",
+"why": "Saga 实质答复原文（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "c42b730eadf0bfa6"
 },
 {
 "date": "2026-08-20",
@@ -5828,7 +5972,7 @@
 "saga_now": {
 "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
 "tier": 25,
-"price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定",
+"price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定；历史报价（邮件原话，老汇率）：2025-08-22 480usd",
 "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
 "repeat": [
 "STI-41616XGGPM-4BT ×1（2025-08）"
@@ -5878,6 +6022,22 @@
 "k": "06796ffea23adddd"
 },
 {
+"date": "2025-08-22",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Chris, Thanks for your information. 1, L3 model price: 480usd/pc 2, There are indeed some differences, mainly about routing protocols. 3, Our website is available but for reference only, we still deal with our customers directly. *https://www.sagatelecom.c",
+"why": "历史报价点（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）：480usd",
+"k": "1ebe663694bef166"
+},
+{
+"date": "2025-09-01",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Chris, Your order is shipped out. FedEx/884000961870 Because you do not have a google account yet, hard to share the folder for your order details(see attached photo). I am attaching some typical photos for your reference. And some more questions to know more about you. 1, is this for purpose us…",
+"why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "9b4196ac919370f1"
+},
+{
 "date": "2025-09-08",
 "dir": "来",
 "who": "Chris",
@@ -5894,12 +6054,36 @@
 "k": "9ac926d31f10e0be"
 },
 {
+"date": "2025-11-27",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Chris, Good to know that things are good so far. 1, yes, it is manually configured, not auto-detecting. 2, about the number of records in each page, I transferred this to our engineering team, I guess it is just 20 for now. I will let you know if we have a change. Please let me know if you have…",
+"why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "a4916e66bf82191b"
+},
+{
+"date": "2026-01-22",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Chris, Happy New Year!! Wishing you all the magic in 2026!! 1, How is the testing going? Ready to get a few more for your projects? 2, I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available…",
+"why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "ec7356b7a39c28e7"
+},
+{
 "date": "2026-03-13",
 "dir": "来",
 "who": "Chris",
 "quote": "I have a bug/feature request for the switch. When I ssh in from a modern Linux OS, the terminal is being detected as \"xterm-256color\"… your switch… defaults to \"dumb terminal\"",
 "why": "主动做 QA = 中度绑定前兆",
 "k": "20cf814dcb5e8197"
+},
+{
+"date": "2026-03-16",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Chris, Thanks for your feedback. After talking with our engineer, this is a chip problem. The version you used is AC3, an old version. We are now transitioning to AC5 chip. 1. it will be available on this model next month. 2. there will be no big difference in WEB UI etc., just more features. On…",
+"why": "Saga 实质答复原文（主题「Re: 90W PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3e66face8ebfe535"
 },
 {
 "date": "2026-03-19",
@@ -6433,7 +6617,7 @@
 "saga_now": {
 "p1": "STC-4168XGGCM（在产第 6 单）",
 "tier": 30,
-"price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）",
+"price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd",
 "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
 "repeat": [
 "STC-4168XGGCM 双 AC（第 5、6 单）",
@@ -6485,12 +6669,28 @@
 "k": "2c73370ad9f9cefb"
 },
 {
+"date": "2024-11-19",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Thanks for your information. Yes, we have L2 switches, the EDM model, 48-port PoE Managed switch(300usd/pc, single AC input). If you do not need PoE, that is 260usd/pc, single AC input. Because you never tried marvel solution before, maybe single",
+"why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：300usd / 260usd",
+"k": "457e16a7973e9b43"
+},
+{
 "date": "2024-11-20",
 "dir": "来",
 "who": "f.kriewitz@nynex.de",
 "quote": "4*1G/2.5G/10G+24*1G Ethernet(PoE optional) 150usd/pc for non-PoE model Is there a SFP version available too? Best Regards Frederik Kriewitz NYNEX sate",
 "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "74aac1949ef29187"
+},
+{
+"date": "2024-11-20",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Yes, 230usd/pc, single AC input. 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo, L2+ managed Thank you. On Wed, Nov 20, 2024 at 4:13 PM Frederik Kriewitz <f.kriewitz@nynex.de> wrote:",
+"why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：230usd",
+"k": "9a7e87c0eef923b1"
 },
 {
 "date": "2024-11-21",
@@ -6517,6 +6717,30 @@
 "k": "efebdbab211ca5a4"
 },
 {
+"date": "2024-11-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Lets do 265usd/pc for dual AC input(an extra 35usd). Thank you. On Thu, Nov 21, 2024 at 5:43 PM Frederik Kriewitz <f.kriewitz@nynex.de> wrote:",
+"why": "历史报价点（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）：265usd / 35usd",
+"k": "f2e1b29e2a1ebeae"
+},
+{
+"date": "2025-03-07",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Currently we are in a transition status from Marvell Alleycat3 Solution to Marvell Alleycat5 Solution. 1, about the power supply monitoring features, it will be available on this new solution(Alleycat5). This takes some time, it is good to stick with BDcom model for now. I will let you…",
+"why": "Saga 实质答复原文（主题「Re: Testing Feedback」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "27536178aa9a5ed0"
+},
+{
+"date": "2025-03-25",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Peter has explained the situation in a separate email. I will take over. 1, Please see attached SNMP file and let us know if upgrading is necessary. 2, Temperature monitoring code SWITCH#enterdebug SWITCH(debug)#show diagnostic temperature Dev 0 Temperature 80. This is for our internal…",
+"why": "Saga 实质答复原文（主题「Re: Testing Feedback」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "1f56b62cdf57550a"
+},
+{
 "date": "2025-03-26",
 "dir": "来",
 "who": "Frederik Kriewitz（NYNEX）",
@@ -6541,12 +6765,36 @@
 "k": "3c32c9ad46e6235d"
 },
 {
+"date": "2025-09-15",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, 1, it is the same price as before, 265usd/pc. It is just an upgrade, and thanks for your feedback. 2, technically, there is no manual for it, it is just readily available, no need for extra configuration. Thank you. On Mon, Sep 15, 2025 at 7:27 P",
+"why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：265usd",
+"k": "6683b4837e2e4d62"
+},
+{
 "date": "2025-10-21",
 "dir": "来",
 "who": "Frederik Kriewitz",
 "quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
 "why": "未接住的年量需求（媒体转换器）",
 "k": "61065505a331e5fd"
+},
+{
+"date": "2025-10-22",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Sorry for that, its wrong and misleading info, please forget it. Thanks for your information about quantity and demand. By our knowledge, Realtek lite managed model is about 25usd to 35usd. Let's consider it 30usd/pc, price is not high. However,",
+"why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：25usd / 35usd / 30usd",
+"k": "e59436a1a5d05de6"
+},
+{
+"date": "2025-11-15",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Thanks for your feedback. 1, Currently, there is no such feature as counting the fan speed, of any kind!! 2, For fan status, it is only about \"normal\" and “failure” When it works normally, there is \"high\" and \"low\" status for fan speed. When it f",
+"why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：",
+"k": "eb14772778a52488"
 },
 {
 "date": "2025-12-18",
@@ -6557,6 +6805,14 @@
 "k": "e2c8e6b4f49f56e3"
 },
 {
+"date": "2026-01-14",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, Happy new year, wishing you all the magic in 2026!! 1, Is there any progress about the 24-port switch project(230pcs, dual PSUs)? 2, I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) a…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "635eaadd4b17a77a"
+},
+{
 "date": "2026-01-20",
 "dir": "来",
 "who": "Frederik Kriewitz",
@@ -6565,12 +6821,28 @@
 "k": "c24584352bd15931"
 },
 {
+"date": "2026-02-03",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, 1, good and sad to know 24-port switch project. Well, let's see and talk if there is any issue. 2, Are you using the standard Centec software? We are using CENTEC chips & SDK. But the software, R&D(including functions, system architecture and external interfaces etc.) are handled by ou…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "e08c66c8ff0ae155"
+},
+{
 "date": "2026-09-29",
 "dir": "来",
 "who": "Frederik Kriewitz",
 "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
 "why": "第 6 单 + 价格敏感度上升",
 "k": "afced0c9af361141"
+},
+{
+"date": "2026-09-30",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Frederik, After confirmation, conclusions are as below 1. Best offer is 2015RMB/PC USD offer: 300USD/PC, this is from the exchange rate: 1:6.71 EUR offer: 265.2EUR/PC, this is from the exchange rate: 1:7.6 2. Please see attached quotation in EUR. 3. Produc",
+"why": "历史报价点（主题「Re: Saga Marvell AC5 Series Fully Ready」；第 20 批从 gmail_s 回补）：300USD",
+"k": "074a700ad4b10bf7"
 },
 {
 "date": "2026-10-15",
@@ -9629,6 +9901,14 @@
 "quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged",
 "why": "报价后停",
 "k": "696d6a213ad761ca"
+},
+{
+"date": "2024-06-25",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Marco, How are you? Last time we discussed 10G media converter, do you need some units for testing? And I would like to recommend a new model. This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support DI/DO/RS485 function…",
+"why": "Saga 实质答复原文（主题「Re: 10g media converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "d3deca09f7f9a22b"
 }
 ],
 "proof_gaps": [],
@@ -17408,7 +17688,7 @@
 "saga_now": {
 "p1": "STC-424DGGPM-280W（管理型 PoE，差异品）",
 "tier": 20,
-"price": "按 20% 分销档",
+"price": "按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd",
 "why": "换品类问一次",
 "repeat": [],
 "gaps": []
@@ -17427,6 +17707,14 @@
 "quote": "And the price is ?",
 "why": "询价",
 "k": "5f2f240aad79e90d"
+},
+{
+"date": "2025-04-18",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Price: 65usd/pc 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, Marvell chip, unmanaged, non-PoE, DC5~12V input, with power adapter Please see attached datasheet. Thank you.",
+"why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_a 回补）：65usd",
+"k": "9e557e84dc8bdbf1"
 },
 {
 "date": "2025-04-22",
@@ -18676,6 +18964,14 @@
 "k": "d0066f467b2afcd7"
 },
 {
+"date": "2024-10-31",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Mark, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standard Po…",
+"why": "Saga 实质答复原文（主题「Re: L3 managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "f56f98bcf2e0a850"
+},
+{
 "date": "2025-01-26",
 "dir": "来",
 "who": "mark@expresssupply.net",
@@ -18698,6 +18994,14 @@
 "quote": "Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk",
 "why": "批量意向",
 "k": "185a3765640a0e3f"
+},
+{
+"date": "2025-01-28",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Mark, Do you mean something like attached photos? There is a rich port combination for your choice. *Just one thing* *Its CENTEC Chip based, a good domestic brand(see below link)* https://www.centec.com/silicon?category=Ethernet-Switch-Silicon…",
+"why": "Saga 实质答复原文（主题「Re: 48 Port SFP Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "f6d6159512661dd7"
 },
 {
 "date": "2025-02-05",
@@ -18738,6 +19042,14 @@
 "quote": "Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small...",
 "why": "口径收回",
 "k": "e8d9d485eebf828f"
+},
+{
+"date": "2026-01-16",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "231c410bdb6b62d3"
 }
 ],
 "proof_gaps": [],
@@ -24042,7 +24354,7 @@
 "saga_now": {
 "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
 "tier": 20,
-"price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价",
+"price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
 "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
 "repeat": [],
 "gaps": [
@@ -24073,6 +24385,14 @@
 "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
 "why": "需求首次出现",
 "k": "cc4b73b466fbfdcc"
+},
+{
+"date": "2024-02-27",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Alexander, Thanks for your interest. It is an unmanaged switch. 40usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block) , -40℃ to",
+"why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：STI-244GP 40usd",
+"k": "9e70b92b05e06744"
 },
 {
 "date": "2024-03-19",
@@ -24107,6 +24427,14 @@
 "k": "db027757ebd31a57"
 },
 {
+"date": "2024-04-18",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Alexander, Price: 135usd/pc 2*1G/2.5G SFP+8*1/100/1000M Ethernet/PoE, PoE af/at/bt for 1~2 port, PoE af/at for 3~8 port, 240W budget, layer 2 managed, Marvell chip, without fiber module, without power supply. Thank you.",
+"why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：135usd",
+"k": "3b218a526f756a50"
+},
+{
 "date": "2024-05-19",
 "dir": "来",
 "who": "air@td-fe.ru",
@@ -24121,6 +24449,14 @@
 "quote": "Dear Simon! What price of this one, and have you similar, but 1G speed only? With the best wishes, Alexander Rudnev Executive director of TH Faraday E",
 "why": "来信原文（主题「Re: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "13f234fc6fab9e63"
+},
+{
+"date": "2024-05-20",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Alexander, For the 10G L3 model, it is 360usd/pc. Yes, we have a lower standard for it. It is about Marvell L2 managed, 4*1G/2.5G SFP+8*1G copper. Please see attached datasheet. Price is 130usd/pc. Thank you.",
+"why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：360usd / 130usd",
+"k": "7e7f4ea846102c34"
 },
 {
 "date": "2024-05-21",
@@ -24163,12 +24499,28 @@
 "k": "fa125622a89afa47"
 },
 {
+"date": "2024-10-15",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Alexander, How are you? I would like to show you a power booster that transforms 1*DC12V~DC48V input to 2*DC52.4V output. *It is very useful in solar power solution where most PV generated power is between DC12V~DC24V.* This power converter increases the voltage and make possible powering standa…",
+"why": "Saga 实质答复原文（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "a12c600b2588bbc5"
+},
+{
 "date": "2024-12-12",
 "dir": "来",
 "who": "Alexander",
 "quote": "Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB.",
 "why": "要 RMB 价表",
 "k": "c4b08a47d73f023f"
+},
+{
+"date": "2024-12-12",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Alexander, Please check full info of our Industrial Marvell managed switches from below google drive link. https://drive.google.com/drive/folders/1y-3HWGDrnKc7SAROusRWvoUtmFjjJy32?usp=drive_link For prices, its also in this link, in USD. To exchange it to",
+"why": "历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：1USD",
+"k": "894e2e7e3d6fd765"
 },
 {
 "date": "2025-01-03",
@@ -29450,6 +29802,14 @@
 "k": "41a1bbbe8f213553"
 },
 {
+"date": "2025-07-18",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, John, Please see attaced invoice. 1, payment account: s.sagatelecom@gmail.com a payment request is sent, please check. 2, as stated in the invoice: production time: 2~4 days, shipment time: 4~6 days it takes about 7~10 days for you to get it.…",
+"why": "Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "cc2d0a9b668bf0f8"
+},
+{
 "date": "2025-07-22",
 "dir": "来",
 "who": "sales@52networks.com",
@@ -29488,6 +29848,14 @@
 "quote": "Thanks, I will let you know. On Wed, 23 Jul 2025 at 19:00, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
 "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "b54e8de1cb453b98"
+},
+{
+"date": "2025-07-23",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, John, Your order is ready and on the way now. I will share AWB info once available. *https://drive.google.com/drive/folders/1mchLjAO5PysNCW_B7hm_pSJpM07GE0ue?usp=drive_link <https://drive.google.com/drive/folders/1mchLjAO5PysNCW_B7hm_pSJpM07GE0ue?usp=drive_link>* Please check the details of this…",
+"why": "Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3b51c9a34e2f070c"
 },
 {
 "date": "2025-07-24",
@@ -29975,7 +30343,7 @@
 "saga_now": {
 "p1": "无",
 "tier": 30,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd",
 "why": "不投入",
 "repeat": [],
 "gaps": []
@@ -29996,12 +30364,28 @@
 "k": "d90350574a564aa4"
 },
 {
+"date": "2025-12-01",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2",
+"why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+"k": "90c5981a276812c1"
+},
+{
 "date": "2025-12-04",
 "dir": "来",
 "who": "Eric",
 "quote": "No need now, just for information.",
 "why": "停点",
 "k": "fbde4352065d43fb"
+},
+{
+"date": "2026-01-12",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "0378ea2dc053e4ce"
 }
 ],
 "proof_gaps": [],
@@ -30292,6 +30676,14 @@
 "quote": "Do you have any of the 4168 in USA? Can I get a sample or do you have one online",
 "why": "要美国现货样",
 "k": "320a0015fdc91397"
+},
+{
+"date": "2024-04-20",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Peter, Now another USA client has bought this model for sample testing. Perhaps you can wait a while and purchase from him?? Not sure if this is an option. For an online store, I got findlight. *https://www.findlight.net/company/zhengzhou-saga-telecom-co-ltd <https://www.findlight.net/company/zh…",
+"why": "Saga 实质答复原文（主题「Re: 2.5G PoE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "37b8c7ebfde7af7d"
 },
 {
 "date": "2024-04-24",
@@ -30646,6 +31038,14 @@
 "quote": "We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know.",
 "why": "Saga 答复",
 "k": "a72460754524b4c8"
+},
+{
+"date": "2025-12-08",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "d69d71aab444aaa5"
 }
 ],
 "proof_gaps": [
@@ -30964,6 +31364,14 @@
 "k": "444cc4b308af1ab6"
 },
 {
+"date": "2025-05-29",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Thom, Please see attached datasheet(Data&Alarm info). You can also check this webpage(Planet) *https://www.planet.com.tw/en/product/igs-10020hpt-v3* <https://www.planet.com.tw/en/product/igs-10020hpt-v3> It is about the same feature.…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "d18e3fae85a4413d"
+},
+{
 "date": "2025-09-22",
 "dir": "来",
 "who": "Thom Sherer",
@@ -30994,6 +31402,14 @@
 "quote": "Alan, for our market your operating temp does not go high enough....",
 "why": "停点原话",
 "k": "372ede3d101a3791"
+},
+{
+"date": "2026-06-03",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Thomas, 1. What is your expected range? 2. 0ºC to 40ºC is a popular range, widely applied by various brands like Juniper, see attached photo. Such switches are installed in data center stations with a fixed temp range from 22ºC to 28ºC, and there are good cooling conditions and designs. It shoul…",
+"why": "Saga 实质答复原文（主题「Re: 10G L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "6b53faaab0eef35f"
 }
 ],
 "proof_gaps": [
@@ -31478,7 +31894,7 @@
 "saga_now": {
 "p1": "STI-154GP",
 "tier": 25,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd",
 "why": "不主动",
 "repeat": [],
 "gaps": []
@@ -31497,6 +31913,14 @@
 "quote": "Can you please give me the price and minimum quantity?",
 "why": "询价",
 "k": "de350c97144e5285"
+},
+{
+"date": "2024-09-28",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Ling, Thanks for your interest. Please see attached datasheet. 38usd/pc STI-154GP: industrial PoE Switch 1*Gigabit SFP+1*1G Copper Uplink+4*10/100/1000M PoE Downlink, POE af/at, 120W, Unmanaged Support DIP function, DC44V~DC57V(Removable 4 PIN Industrial T",
+"why": "历史报价点（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-154GP 38usd",
+"k": "dd2380a46a6ba1cc"
 }
 ],
 "proof_gaps": [],
@@ -33176,7 +33600,7 @@
 "saga_now": {
 "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
 "tier": 20,
-"price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）",
+"price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd",
 "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
 "repeat": [],
 "gaps": [
@@ -33192,6 +33616,14 @@
 },
 "facts": [
 {
+"date": "2024-05-03",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Bosgem, Thanks for your interest. 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without",
+"why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
+"k": "6f9e1d3875bc1933"
+},
+{
 "date": "2024-05-29",
 "dir": "来",
 "who": "Berk（iotsistem）",
@@ -33200,12 +33632,36 @@
 "k": "19bc7eefb231ce4a"
 },
 {
+"date": "2024-05-29",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Bosgem, Do you mean STI-050GE price? We have a mini model, please see attached photo. There are 3 main differences between 2 models. 1, DIP function 2, Power input, STI-050GE is DC12V~58V, STI-050GE-M is DC12V~36V. 3, Size and weight, STI-050GE is 30*98*13",
+"why": "历史报价点（主题「Re: Industrial network switch」；第 20 批从 gmail_s 回补）：STI-050GE, STI-050GE, STI-050GE-M 18usd",
+"k": "effa45ee7857ca74"
+},
+{
 "date": "2026-01-29",
 "dir": "来",
 "who": "info@iotsistem.com",
 "quote": "Hi I’m fine, Could you send to catalouge pdf and price list too?= We can check to device deeply, Thank you, Berk Very Best Regards…",
 "why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "de3f311cbf2fca6c"
+},
+{
+"date": "2026-02-02",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, Sorry for the late reply. 1, Please check the info from below google drive link https://drive.google.com/drive/folders/1nKIZPptuYQhoUs0FbjyXYStrn2sl4iRU?usp=drive_link . 2, For prices, we are still deciding for 2026. Memory prices have risen too much recently. Please first check the inform…",
+"why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "7347a7e968898eeb"
+},
+{
+"date": "2026-05-08",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, 1. For this spec, it also have an industrial version, but rack type as well. 2. For DIN model, the best we can do is as below 8*10/100/1000Base-T RJ45 ports, 8*100/1000Base-X SFP, 4*1G/2.5G/10G Base-X SFP+ slots Please see attached datasheet(L2+ managed) Btw: L3 managed is also available.…",
+"why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "e19d4573051439f3"
 },
 {
 "date": "2026-05-20",
@@ -33232,6 +33688,14 @@
 "k": "0a2e19b099bda25c"
 },
 {
+"date": "2026-05-28",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, 1. for 5 and 8 port models, we have 10/100Mbps, just 10/100Mbps 2. for 16 / 24 port model, it is ONLY 10/100/1000Mbps, auto-adaptive. To be honest, this is NOT our focus, we do managed networking solutions. What you need is unmanaged, we will not produce a new version(10/100Mbps), it is lo…",
+"why": "Saga 实质答复原文（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3a31a94be60bc5ee"
+},
+{
 "date": "2026-06-04",
 "dir": "来",
 "who": "info@iotsistem.com",
@@ -33254,6 +33718,14 @@
 "quote": "Hi Alan, Good day, 1- We keep on 24 port giga still is huge esxpensive anyway thanks, 2- Left Picture only 4 Fiber port SC look’s fit pls tell to pric",
 "why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "3567ff28d4ac5917"
+},
+{
+"date": "2026-06-09",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, Thanks for your information. Yes, left picture supports 1G*fixed fiber(SC connector). Price is 90USD/PC STI-288GPM 2*1000M SC connector(SM or MM)+8*10/100/1000M PoE L2 Managed, PoE af/at, 240W budget, Din Rail, Redundant DC44V~57V Input, Without powe",
+"why": "历史报价点（主题「Re: 10G Enterprise SFP Switch」；第 20 批从 gmail_a 回补）：STI-288GPM 90USD",
+"k": "d4c32ad12702c20b"
 },
 {
 "date": "2026-07-14",
@@ -33280,6 +33752,14 @@
 "k": "ca8eab6eec73a6fe"
 },
 {
+"date": "2026-08-17",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, 1. 340USD/PC Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+24*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 20*PoE af/at+4*PoE af/at/bt, 240W/370W, L2+ Managed, Active PoE, DC48V output DC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din",
+"why": "历史报价点（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）：340USD",
+"k": "4f01bf073540287e"
+},
+{
 "date": "2026-08-18",
 "dir": "来",
 "who": "Berk",
@@ -33294,6 +33774,14 @@
 "quote": "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE",
 "why": "对方把 Alan 6 月的 $120 原话截图回寄 =「你自己报的就是贵」；土耳其 10/100 低价需求与 Saga 千兆线错位",
 "k": "gmail_a att 2026-08-18"
+},
+{
+"date": "2026-08-20",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Berk, Thanks for your feedback. 1. Last offer was an unmanaged model, but managed this time. So there is the big price gap. 2. Please do know that our models are Marvell chipset based. This is usually more expensive than Realtek or some untrusted brands. 3. Yes I know. Lira currency is a big pro…",
+"why": "Saga 实质答复原文（主题「Re: 24 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "c6123b252bbbe871"
 },
 {
 "date": "2026-09-03",
@@ -34171,12 +34659,28 @@
 },
 "facts": [
 {
+"date": "2025-08-25",
+"dir": "来（E 邮箱）",
+"who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
+"quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
+"why": "Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
+"k": "gmail_e/index_replied"
+},
+{
 "date": "2025-09-29",
 "dir": "来",
 "who": "Łukasz Gąsiewicz（Product Development Manager）",
 "quote": "I cooworking with Bartosz pls send me you actual offer",
 "why": "决策人出现",
 "k": "93d83062626fac30"
+},
+{
+"date": "2025-09-29",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Lukasz, 1, please see attached info, there are links about rich info. 2, my colleague Elsa talked with you before, I will take over. She recommended an interesting model(see attached photos), it is our promotion now. Let's discuss.…",
+"why": "Saga 实质答复原文（主题「Re: FW: [EXTERNAL] Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "06d7d26794647364"
 },
 {
 "date": "2025-10-03",
@@ -34201,14 +34705,6 @@
 "quote": "Any news about the 1G media converter? Need to order or something?",
 "why": "追问无回",
 "k": "43168b7db932dd31"
-},
-{
-"date": "2025-08-25",
-"dir": "来（E 邮箱）",
-"who": "support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl",
-"quote": "RE: [EXTERNAL] 90W PoE Managed Switch",
-"why": "Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系",
-"k": "gmail_e/index_replied"
 }
 ],
 "proof_gaps": [
@@ -41862,6 +42358,14 @@
 "k": "aa33fba00ea6c8ff"
 },
 {
+"date": "2025-01-03",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Ivan, 1, Maybe attached model? 1U rack, 4*SFP+, 16*1G SFP+8*1G SFP/RJ45 Combo, DC36V~DC75V input 2, Its marvell chip, see below link and attached GUI photos. https://www.marvell.com/content/dam/marvell/en/public-collateral/switching/marvell-prestera-98DX35xx-product-brief.pdf…",
+"why": "Saga 实质答复原文（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "7e5de4e309f0d7ca"
+},
+{
 "date": "2026-06-05",
 "dir": "来",
 "who": "Ivan",
@@ -46034,6 +46538,14 @@
 "quote": "Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?",
 "why": "误读为采购",
 "k": "75714cbe9fd11aa2"
+},
+{
+"date": "2026-08-15",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Jomini, 1. I am recommending our models. We focus on Marvell based L2+ switches, checking if we could cooperate in some way. 2. I met George on IFSEC UK 2023 and know that you deal with Ethernet switches with a supplier from Shenzhen. Maybe our products can be useful in some projects, or we can…",
+"why": "Saga 实质答复原文（主题「Re: Confirmation: BORN 24-Port Managed S」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "5eacc9efe7146ba8"
 }
 ],
 "proof_gaps": [],
@@ -53642,12 +54154,36 @@
 "k": "65ea0d5cb4a671d8"
 },
 {
+"date": "2025-07-24",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Vladimir, Simon talked with me. About SDK, Source Code & API info, it is not easy to move on. We can anticipate that there will be too many problems ahead. What you need is carrier-level products and technology support, honestly this is difficult for too many small companies. Sorry for this. I g…",
+"why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "9b92c332e549ec67"
+},
+{
+"date": "2025-07-29",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Vladimir, I talked with our engineer again. It is not easy to recommend a supplier suited for your needs. 1, source codes are the very most confidential information. It is almost impossible to share it even if the quantity is huge or some kind of agreement is signed. 2, technical support is comp…",
+"why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "df24b9c68b2f5757"
+},
+{
 "date": "2025-09-14",
 "dir": "来",
 "who": "vladimir.xe@latmedia.uz",
 "quote": "Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. 2025 г.,",
 "why": "来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "f494577cfa227b40"
+},
+{
+"date": "2025-09-15",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Vladimir, Thanks. Just fyi, it is a close friend, she will handle your requirements. We discussed your project, CKD, SDK, original codes etc., there is a chance to work out something. So wondering if it is still available. We know that this is not easy(especially when SDK and original codes are…",
+"why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "8883a9bf7dc2bf69"
 },
 {
 "date": "2025-09-16",
@@ -53664,6 +54200,14 @@
 "quote": "we signed a memorandum with our partner… Could you please share Joey's contact",
 "why": "转介落地",
 "k": "510e36cd41433a95"
+},
+{
+"date": "2025-10-10",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Vladimir, I shared your contact info with the person we know, Joey. About the CKD/SKD/Source Code info, its all good. Perhaps it is better that you talk with Joey directly. Maybe you can work out something or next time.…",
+"why": "Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3cdc9c1b300ef132"
 },
 {
 "date": "2025-11-24",
@@ -72972,6 +73516,14 @@
 "quote": "Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12",
 "why": "来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "266471f2990a3b25"
+},
+{
+"date": "2025-09-17",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in…",
+"why": "Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "09e9eda0a8877d0b"
 }
 ],
 "proof_gaps": [],
@@ -73495,6 +74047,14 @@
 "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
 "why": "硬门槛",
 "k": "dc22cb3479825c92"
+},
+{
+"date": "2025-06-28",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Stan, Thanks for your info. 1, IGMP protocol is a management feature, it is not available on unmanaged switches. 2, We have managed switches. You can see this in the downlink link file I shared with you. *Marvell Based Industrial Managed Switch* In the datasheet, there is IGMP info.…",
+"why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "2603220c608ffb88"
 },
 {
 "date": "2025-11-28",
@@ -74287,6 +74847,14 @@
 "quote": "Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager",
 "why": "来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "841a7692319b168b"
+},
+{
+"date": "2025-12-15",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Kent, I guess you are talking about I/O modules? Like below link https://sieportal.siemens.com/en-pe/products-services/10046659?tree=CatalogTree 1, If yes, sorry to tell you that it is not on our list. But I know someone handles I/O modules, please try to contact this person. I know her from an…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "52269215276dd05a"
 }
 ],
 "proof_gaps": [],
@@ -75022,6 +75590,14 @@
 "quote": "Coule you provide detial spec and price list?",
 "why": "要价表",
 "k": "a1d6d7a7e1d0a1f5"
+},
+{
+"date": "2026-01-29",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "83397972ba8367d6"
 }
 ],
 "proof_gaps": [],
@@ -81119,6 +81695,14 @@
 "quote": "€..?",
 "why": "问价",
 "k": "31786de96cbb8b96"
+},
+{
+"date": "2024-11-20",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Eros, Thanks for your interest. *Its 280 Euro for this model.* STC-448XGGPM, Commercial PoE Managed Switch 4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell Chip PoE af/at, 440W budget, Support PoE management, PoE watchdog Single AC input, Rack compatible, With mounting…",
+"why": "Saga 实质答复原文（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "b552ce1372ae1296"
 }
 ],
 "proof_gaps": [],
@@ -86944,7 +87528,7 @@
 "saga_now": {
 "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
 "tier": 25,
-"price": "按 CENTEC 底线",
+"price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd",
 "why": "美国运营商 + 创始人直联 + 明确技术需求",
 "repeat": [],
 "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
@@ -86963,6 +87547,14 @@
 "quote": "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon",
 "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "1301f24ebea116b3"
+},
+{
+"date": "2024-06-19",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Kyle, We got PoE model, please see attached datasheet. Price is 310usd/pc. Thank you.",
+"why": "历史报价点（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）：310usd",
+"k": "deda136173372ce7"
 },
 {
 "date": "2025-04-01",
@@ -103578,6 +104170,14 @@
 "k": "gmail_a att（sha 见 attachments/text）"
 },
 {
+"date": "2025-04-23",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Hussain, Last time I shared datasheet Q2, please see attached Q3 version. It explains the unique features of our models from chip and hardware design. This is a little technical, please transfer it to your engineering team, they will soon understand. Btw: do you have any target price/budget?…",
+"why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "365aa3e5b9a0605e"
+},
+{
 "date": "2025-04-28",
 "dir": "来",
 "who": "Hussain",
@@ -103586,12 +104186,28 @@
 "k": "7b0d91fec35aaa9c"
 },
 {
+"date": "2025-04-28",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Hussain, What do you mean by \"outdoor use\"? 1, high IP grade, waterproof: Like IP66, IP67 or IP68 The enclosure itself is high IP rated. 2, just industrial grade products for harsh outdoor use It might be used in outdoor IP box, a typical example is like below link https://www.inscapedata.com/lp…",
+"why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "1f18c82924a11d1e"
+},
+{
 "date": "2025-05-15",
 "dir": "来",
 "who": "Hussain",
 "quote": "Unfortunately there is no news yest, but once we have news regarding your offer we will be in touch.",
 "why": "项目停摆",
 "k": "d385ca588de7d060"
+},
+{
+"date": "2025-05-15",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Hussain, Any update about this project? Btw There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. *Model choice* 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version *It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antair…",
+"why": "Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "46f7e87117f44fe3"
 }
 ],
 "proof_gaps": [
@@ -104695,7 +105311,7 @@
 "saga_now": {
 "p1": "STI-080GE",
 "tier": 20,
-"price": "$33（2024-09）",
+"price": "$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd",
 "why": "—",
 "repeat": [],
 "gaps": [
@@ -104716,6 +105332,14 @@
 "quote": "What is the price for them? And how do you want to send them to us?",
 "why": "要样问价",
 "k": "01bcd6732964d044"
+},
+{
+"date": "2024-09-06",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme",
+"why": "历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd",
+"k": "8884a81a60ecbdb4"
 }
 ],
 "proof_gaps": [],
@@ -105023,6 +105647,22 @@
 "k": "044e800de1232d47"
 },
 {
+"date": "2026-04-24",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Ryosuke, Thanks for your info. I talked with Simon, he thinks testing is important in this discussion. So, lending a piece is OK, please use it for your test or promotion. Question where do we ship it, maybe your shipping agent in China? And how will you send it back? Please let me know.…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "91a2b01ba897536b"
+},
+{
+"date": "2026-04-28",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Osako, Thanks for your information. 1. Please check attached file to know more about us. *Please read \"must know“ info!!*2. Company history: we are a small company founded in 2023, though short, we have our own business rules and mature product portfolio. About sales performance, we only focus o…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "9016d7390bff035d"
+},
+{
 "date": "2026-04-30",
 "dir": "来",
 "who": "大迫",
@@ -105037,6 +105677,14 @@
 "quote": "Hi.Alan I am Inoue from UNEAX. Please let us know the status of your company’s certification. This is for internal consideration regarding implementat",
 "why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "567917bc0a22f8a7"
+},
+{
+"date": "2026-05-02",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Inoue, Sorry for the late reply, it is holiday here. About certification, please check info from below link. https://drive.google.com/drive/folders/17PUHesmpgS-0SpWytsokeC7nLrUF38S3?usp=sharing It is uploaded in the \"MUST KNOW\" folder.…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "b0ab7872d3dde48a"
 },
 {
 "date": "2026-05-04",
@@ -105069,6 +105717,14 @@
 "quote": "MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen",
 "why": "成本锚点",
 "k": "d591c419c309c81c"
+},
+{
+"date": "2026-05-06",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Inoue, 1. About Power Supply *From our perspective,* we ONLY recommend MEANWELL models. 1.1: MEANWELL is a reputable brand, we use it for quite a long time, it is good. *1.2: Actually we do not trust or want to use any other brands unless it is famous.*In industrial applications, most after-sale…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Managed Commercial Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "5baf0e8e96978608"
 },
 {
 "date": "2026-05-08",
@@ -116573,6 +117229,14 @@
 "quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
 "why": "条款错位",
 "k": "320115425c459bcb"
+},
+{
+"date": "2024-06-21",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Charles, How are you? Any update about our offer last time? Not sure if you care about chip solution, we are using Marvell chip, basically one of the most expensive solutions on the market. Let me recommend a new unmanaged model(paralleled to the market prices). Feature: Support DIP dialing and…",
+"why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "096d6be144a97e35"
 }
 ],
 "proof_gaps": [],
@@ -122896,7 +123560,7 @@
 "saga_now": {
 "p1": "STI-222GP",
 "tier": 25,
-"price": "$34（2024-10）",
+"price": "$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd",
 "why": "项目体量",
 "repeat": [],
 "gaps": []
@@ -122923,6 +123587,14 @@
 "quote": "Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch.",
 "why": "价格先行",
 "k": "d05d6d8f07683799"
+},
+{
+"date": "2024-10-09",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T",
+"why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd",
+"k": "815888411fd50a1b"
 }
 ],
 "proof_gaps": [],
@@ -129112,6 +129784,14 @@
 "quote": "Hi Alan, Thank you, not at this time. Regards Dean",
 "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "f6879c7d612d62b5"
+},
+{
+"date": "2026-06-05",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Dean, How are you? Please check our half-width 10Gb managed switch featuring 1. Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation layers 2. Compact size, support hot-swappable fan modulars 3. OEM/white-label support(branding, model name etc.) Do you have any pr…",
+"why": "Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "c943d0ffd571332d"
 }
 ],
 "proof_gaps": [],
@@ -154430,7 +155110,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2026-02-05",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,…",
+"why": "Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "497037e504e55533"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -155736,7 +156425,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 30,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -155747,7 +156436,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-08-09",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta",
+"why": "历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd",
+"k": "7533abba594ebc6d"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -196184,6 +196882,14 @@
 "quote": "hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar",
 "why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "53639b11bc8d96b5"
+},
+{
+"date": "2024-05-25",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Waseem, Please see below link. *https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link* <https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link> In the *PROFILE*, there are some download links(on page 13). It contains FULL informa…",
+"why": "Saga 实质答复原文（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "e8ccb44bae99d13f"
 }
 ],
 "proof_gaps": [],
@@ -200225,6 +200931,22 @@
 "quote": "in Lithuania and Europe nobody anymore want a China products for security due to regulations",
 "why": "市场信号",
 "k": "94cc7dd92c05aaa7"
+},
+{
+"date": "2024-08-13",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Austeja, Thanks for your information. I understand your concerns, it seems that you do not do OEM, right? Many European companies are importing from China, but they will ask for Chinese suppliers to do some customization(change the logo, model name etc.). This is popular now. We can also do this…",
+"why": "Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "e8fb7d7801aaff8c"
+},
+{
+"date": "2024-12-12",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Austėja, How are you? Previously we had a discussion on brand and import issues. Fact 1: you now prefer a supplier from EU countries. Fact 2: you now have a Chinese partner for OEM manufacturing. This email is about, If possible to try our models if we have a strategic partner in Turkey? This pa…",
+"why": "Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "ed973dfae5902353"
 }
 ],
 "proof_gaps": [],
@@ -206280,7 +207002,7 @@
 "saga_now": {
 "p1": "STI-050GE（对位 PC-PIGE500-GBTE）",
 "tier": 30,
-"price": "$25（2024-05 旧价）",
+"price": "$25（2024-05 旧价）；历史报价（邮件原话，老汇率）：2024-05-03 STI-050GE 25usd",
 "why": "品牌商",
 "repeat": [],
 "gaps": [
@@ -206317,6 +207039,14 @@
 "quote": "None whatsoever!",
 "why": "拒样",
 "k": "c3a6ce39d1213582"
+},
+{
+"date": "2024-05-03",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Luis, 25usd/pc STI-050GE Industrial Ethernet Switch 5*10/100/1000M Ethernet, without Fiber port, non-PoE, unmanaged Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block) , -40℃ to 75℃, Din mounted, without power supply How many piece",
+"why": "历史报价点（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）：STI-050GE 25usd",
+"k": "f68b73f1522697d3"
 }
 ],
 "proof_gaps": [],
@@ -215308,6 +216038,14 @@
 "quote": "thank you for informations~ please give about price~",
 "why": "要价",
 "k": "edd3336a251448b6"
+},
+{
+"date": "2026-01-19",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Peter, Thanks for your interest. 1, we are still working on the new prices for 2026. I will let you know when ready. 2, please see attached files to know about our software features. Btw, is there any specific specification you need?…",
+"why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "eae2ff437c2f5e46"
 }
 ],
 "proof_gaps": [],
@@ -215602,7 +216340,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2025-01-16 STI-222GP 33usd",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -215621,6 +216359,14 @@
 "quote": "sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks",
 "why": "来信原文（主题「Re: Mini Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "fd2e05c62942799c"
+},
+{
+"date": "2025-01-16",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Joemar, Yes, but it is not free samples. Lets focus on a hot-selling model. Price: 33usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, PoE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial Termi",
+"why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 33usd",
+"k": "05b51bd103cc66ea"
 }
 ],
 "proof_gaps": [],
@@ -224164,6 +224910,22 @@
 "quote": "And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support.",
 "why": "来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "b2fdeceac0796384"
+},
+{
+"date": "2025-05-20",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alex, Thanks for your information. I noticed that you are using marvell and BDM chips for your tor/dc switches. We now focus on marvell based edge/access switches, mostly 1G/2.5G/10G switches. Just wondering if you would possibly use such switches(not your focus, but sometimes come in need) in y…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "23b50febd1c4cfa9"
+},
+{
+"date": "2025-05-20",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alex, Our client base is about SMBs and industrial networking. So we basically use marvell AC3 and AC5 chips, this is a very cost-effective choice. In our daily work, we received some queries for stackable/data center switches, or simply just need broadcom-based models. Well, not much we can do.…",
+"why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "0759f588345bd385"
 }
 ],
 "proof_gaps": [],
@@ -270074,7 +270836,7 @@
 "saga_now": {
 "p1": "STI-488XGGPM2B-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
 "tier": 25,
-"price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚",
+"price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM2B-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
 "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
 "repeat": [],
 "gaps": [
@@ -270097,12 +270859,28 @@
 "k": "6029bd8a3ce4a534"
 },
 {
+"date": "2025-07-23",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alexander, How are you? We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added interesting features(Sftp, Https, L3 Routing) 3, Prestera 98DX25xx and 98DX35xx series [image: Web GUI] Lets talk about it if yo…",
+"why": "Saga 实质答复原文（主题「Re: Managed Optical Bypass Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "d8a5be10fcec6d02"
+},
+{
 "date": "2025-11-28",
 "dir": "来",
 "who": "alexander@larch-networks.com",
 "quote": "Hi Alan, That’s very interesting — especially the Marvell-based design and the 12–54V PoE booster concept. Let’s discuss more details — which Marvell",
 "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "21ed9f8ba13a5507"
+},
+{
+"date": "2025-12-01",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alexander, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/",
+"why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd",
+"k": "3a03a13e6ecdd2d5"
 },
 {
 "date": "2025-12-08",
@@ -270119,6 +270897,14 @@
 "quote": "Alan, Greate! Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?) Best regards, Andrey S",
 "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "fd4f4163ed089c3f"
+},
+{
+"date": "2025-12-09",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Andrey, 1, Unit price: 295usd/pc STI-488XGGPM2B-2BT 4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port 2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE DC48V output, Support Bypass feature(2 channels) DC44V~DC57V, (Removable 4-PIN Industrial",
+"why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGPM2B-2BT 295usd",
+"k": "2c412f7579125bdb"
 },
 {
 "date": "2026-03-30",
@@ -270161,6 +270947,22 @@
 "k": "231732b0e66a97ce"
 },
 {
+"date": "2026-05-25",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alex, Thanks for your info. 1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done. You are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance. And AC5 will be our long-term anchored solution. 2. As I explained in point…",
+"why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3c888655608fcc01"
+},
+{
+"date": "2026-05-25",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Alexander, Thanks for your info and the introduction to Larch Networks’ SONiC offering. 1. At the moment, our Marvell based models are mainly focusing L2+/L3 SMBs and enterprise network, lower-speed deployments. As you may notice, our high-speed networks is about CENTEC chip, a famous domestic c…",
+"why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "36ef0d39b4e679c2"
+},
+{
 "date": "2026-05-26",
 "dir": "来",
 "who": "alexander@larch-networks.com",
@@ -270191,6 +270993,14 @@
 "quote": "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting",
 "why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "ce5ef79be8ca9c8c"
+},
+{
+"date": "2026-06-05",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Oksana, Thanks for your information. 1. Good to know that everything is going well there! 2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3 Ethernet switches for SMBs. Your focus is on Marvell SONiC for high-speed networks. But we are cur…",
+"why": "Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "d637bcde75ed85d8"
 },
 {
 "date": "2026-07-02",
@@ -303615,6 +304425,14 @@
 "quote": "Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market",
 "why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "622d9c1213433077"
+},
+{
+"date": "2026-07-20",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l…",
+"why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "2c088651a92dded8"
 }
 ],
 "proof_gaps": [],
@@ -309542,12 +310360,36 @@
 "k": "ef7c580e09a399f6"
 },
 {
+"date": "2024-02-26",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Saeed, Thanks for your information. Its busy here... Just got back from holiday. Next week, I will be going to Singapore for a business exhibition. Maybe we could have a meeting after that. Please download the product information from below links(commercial switch, din power adapter, industrial…",
+"why": "Saga 实质答复原文（主题「Re: Industrial poe switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "bd6e5e02fd161d1f"
+},
+{
+"date": "2024-03-19",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Saeed, How are you? I am back from the business trip. Please see the attached company profile. 1. download full information from the google drive links on page 18. 2. read the price list to have a general understanding of our models. 3. go to the file folders of interested models for more inform…",
+"why": "Saga 实质答复原文（主题「Re: Industrial poe switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "65e31282aefa89d6"
+},
+{
 "date": "2024-05-16",
 "dir": "来",
 "who": "saeed@e-saudi.net",
 "quote": "Hi Simon, Thank you for your email. Kindly allow me few days to check and reply you. Regards, Saeed Mohammed Commercial Business Development and Opera",
 "why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "31d92aca47a504fd"
+},
+{
+"date": "2024-05-23",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Saeed, Not sure if you have taken some time checking our profile and product details? May I know what product categories you are interested in? like industrial switch or commercial switch. I can recommend some typical models FYI.…",
+"why": "Saga 实质答复原文（主题「Re: Industrial poe switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "23976fa56be68134"
 },
 {
 "date": "2024-06-23",
@@ -318089,7 +318931,7 @@
 "saga_now": {
 "p1": "STH 系列或 10G 工业汇聚（新品类）",
 "tier": 25,
-"price": "按主表",
+"price": "按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd",
 "why": "品牌商直联",
 "repeat": [],
 "gaps": [
@@ -318112,6 +318954,14 @@
 "k": "d7d86e7b1d5cba30"
 },
 {
+"date": "2024-05-09",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Andy, Thanks for your information. This is my sister's company, and there are many interesting models with expert design. Like 10G media converter, Mini industrial media converter or 52 port full fiber rack managed switch... Anyway, I will send some information from time to time and lets see if…",
+"why": "Saga 实质答复原文（主题「Re: 24 port switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "4e64486e83ba3f88"
+},
+{
 "date": "2025-02-07",
 "dir": "来",
 "who": "Andy",
@@ -318126,6 +318976,22 @@
 "quote": "It does seem quite expensive we have layer 3 switches for a lot less.",
 "why": "价格断",
 "k": "83a6a36c850cb83b"
+},
+{
+"date": "2025-02-08",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Andy, Thanks for your interest. 1, Its 500usd/pc, please see attached datasheet and manuals. 2, In the datasheet, you can see some details about customization. *And please do know that this is Marvell based, not Realtek, Vitesse or Broadcom.* *Its for high",
+"why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）：500usd",
+"k": "aee9616b96315f19"
+},
+{
+"date": "2025-03-03",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Andy, Please check this series(Unmanaged, PoE) Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, support DIP Its good for powering IP cameras(similar PDs). Prices are fairly competitive.…",
+"why": "Saga 实质答复原文（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "71f5f62ff6785f81"
 }
 ],
 "proof_gaps": [],
@@ -321790,6 +322656,14 @@
 "quote": "Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea.",
 "why": "ODM 意向",
 "k": "57253159a4b7a064"
+},
+{
+"date": "2025-12-11",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Peter, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (port…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "1704546832652ac3"
 }
 ],
 "proof_gaps": [],
@@ -322146,6 +323020,14 @@
 "k": "37d0a18adaf6e108"
 },
 {
+"date": "2025-10-17",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Ender, Thanks for your information. 1. The prices in the Google Drive folders are standard. 2. For PCBA, we mean a complete piece without enclosure, it is ready to use and easy for your own enclosure. This is our understanding, please let us know if you have a different idea. 3. Let’s split the…",
+"why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "b74b59ea19377fe5"
+},
+{
 "date": "2025-11-04",
 "dir": "来",
 "who": "ebulut@netas.com.tr",
@@ -322210,12 +323092,28 @@
 "k": "2a8ead0c64c4f045"
 },
 {
+"date": "2026-02-09",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Burak, Good to know that the materials have been delivered. Thank you for your efforts along the way. Hi, Ender, 1, I have uploaded the warranty certificate to the drive folder. Please see the attached information. And we updated the product links for 2026/Q2, there will be a new version of feat…",
+"why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "86c8bd8b1a70cc5d"
+},
+{
 "date": "2026-02-26",
 "dir": "来",
 "who": "Ender Bulut",
 "quote": "Do you have any idea when L3 Multicast PIM-SM and PIM-DM will be ready? Our costumer wants to go with layer-3 solution and must be include PIM-SM and PIM DM",
 "why": "停点原话",
 "k": "10e6fdf62c477b46"
+},
+{
+"date": "2026-02-26",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Ender, Thanks for your information. 1, Please let me know if there is any update. 2, As you see from the roadmap, we are sewing the entire portfolio together, ensuring a coherent evolution from Access to Aggregation & Core. In 2026, our directions will be, *2.1: Improve existing features, OS and…",
+"why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "73a52f3522d0d516"
 },
 {
 "date": "2026-02-27",
@@ -322240,6 +323138,14 @@
 "quote": "We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… If we receive new requests for Layer-2 switches… we will contact you",
 "why": "轻度绑定证据 + 复活条件由对方说出",
 "k": "2b615482de0608a5"
+},
+{
+"date": "2026-03-02",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Ender, Thanks for your information. 1. For those 3 units, it is Layer 2+, not L3 We can provide L3 models as you may notice from the links. But still PIM-SM/DM and RIPng/PBR are the main issue. It is just NOT available with the current chipset solution. This info can be found in Saga Software Fu…",
+"why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "812cebfaec6cbb12"
 },
 {
 "date": "2026-07-17",
@@ -333319,6 +334225,14 @@
 "quote": "I am looking for 16 sets for Tunnel project in Bangkok.",
 "why": "项目",
 "k": "4dbd322d94d94597"
+},
+{
+"date": "2024-07-04",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Pongpanot, Thanks for your information. In the diagram, there are 2 different devices Device 1: Main 8 ports Ethernet Switch Device 2: 4 or 5 ports Industrial Unmanaged Switch with PoE The fiber optic cable is single core, so for both devices, its ideal to have 2 SFP slots for single core transc…",
+"why": "Saga 实质答复原文（主题「Re: 8 Port Network Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "4b941fc8bc10a130"
 }
 ],
 "proof_gaps": [],
@@ -374215,7 +375129,7 @@
 "saga_now": {
 "p1": "光 bypass 管理型",
 "tier": 25,
-"price": "按主表",
+"price": "按主表；历史报价（邮件原话，老汇率）：2026-02-06 ",
 "why": "—",
 "repeat": [],
 "gaps": [
@@ -374236,6 +375150,14 @@
 "quote": "Could you please provide me with your best pricing for both Optic and Copper Bypass switches?",
 "why": "要价",
 "k": "60de5a43f2413966"
+},
+{
+"date": "2026-02-06",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Lee, Thanks for your reply. 1, Sorry, we do not have copper bypass, just fiber bypass. I believe you know the differences and applications very well. 2, for now, we only have optical bypass managed switch. That is an optical component fixed inside the swit",
+"why": "历史报价点（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）：",
+"k": "ad3c414a423e33cb"
 }
 ],
 "proof_gaps": [],
@@ -391987,7 +392909,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 30,
-"price": "$110（2024-09）",
+"price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -392014,6 +392936,14 @@
 "quote": "I need manage switch for 24V/48V POE.",
 "why": "需求",
 "k": "e3fdaaebc77d14ee"
+},
+{
+"date": "2024-09-18",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Ravi, Please see attached information. It is 110usd/pc. Thank you.",
+"why": "历史报价点（主题「Re: 24V/48V PoE Switch」；第 20 批从 gmail_s 回补）：110usd",
+"k": "f38de7254a2ba19a"
 },
 {
 "date": "2024-09-19",
@@ -407254,7 +408184,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—",
+"price": "历史报价（邮件原话，老汇率）：2024-09-09 33.5usd",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -407273,6 +408203,14 @@
 "quote": "Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate",
 "why": "来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "a0ca6fa7bfe03f08"
+},
+{
+"date": "2024-09-09",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Ahmed, Its 33.5usd/pc. Please see attached datasheet. Do you need some samples for testing? Thank you,",
+"why": "历史报价点（主题「Re: Power Converter」；第 20 批从 gmail_s 回补）：33.5usd",
+"k": "82968785e232fd55"
 }
 ],
 "proof_gaps": [],
@@ -410029,12 +410967,28 @@
 "k": "2974def9d7ffbd3f"
 },
 {
+"date": "2024-06-18",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Francois, Thanks for your reply. We got 2 commercial models. 1, Realtek chip, 12 port SFP+, L2 managed 2, Marvell chip, 4 port SFP+ and 48 port SFP, L3 managed There is a Marvell based industrial model FYI. Its 4 port SFP+ and 16 port SFP+8*1G SFP/RJ45, L3 managed Please see attached datasheets…",
+"why": "Saga 实质答复原文（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "9c34ff9a98f0c773"
+},
+{
 "date": "2024-06-24",
 "dir": "来",
 "who": "François Burton",
 "quote": "Not really, looking for SFP+ ports with ventilation front to back.",
 "why": "规格",
 "k": "75e864d4417eab48"
+},
+{
+"date": "2024-09-09",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Francois, How are you? We are now introducing a new series, high-speed switches. Previously you said you need a switch that just has fiber ports. Please check this one. 32*100G We have many other specifications. Please let me know if this is useful to you.…",
+"why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "5b93217dc580dc09"
 }
 ],
 "proof_gaps": [],
@@ -441129,7 +442083,7 @@
 "saga_now": {
 "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
 "tier": 25,
-"price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用",
+"price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话，老汇率）：2026-02-28 STH-32C-HSI STH-32QC-HSI 000USD / 000USD",
 "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
 "repeat": [],
 "gaps": [
@@ -441178,6 +442132,14 @@
 "k": "bd914113e63ac880"
 },
 {
+"date": "2026-01-22",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Steve, Happy New Year!! Wishing you all the magic in 2026!! 1. About the samples and cooperation, any thoughts to share? 2. I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for variou…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "4fc14c822ea680cd"
+},
+{
 "date": "2026-01-23",
 "dir": "来",
 "who": "info@itmsystems.net",
@@ -441194,12 +442156,28 @@
 "k": "e1c21321a0b20243"
 },
 {
+"date": "2026-02-03",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Steve, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently, w…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "db6ffc13965ba8dd"
+},
+{
 "date": "2026-02-05",
 "dir": "来",
 "who": "Steve",
 "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
 "why": "内部审批阶段",
 "k": "d4ad954f1fff2bea"
+},
+{
+"date": "2026-02-05",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Steve, 1. Thanks for your kind words and photo. Yes, we will have our new year holiday from 11th. 2. Could you tell us if the new switches support BGP/OSPF v2/IS-IS protocol? *Yes, those features are supported.*If you mean access switches, please check Route as below Saga Software Function List_…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "8438b50dedd1f4eb"
 },
 {
 "date": "2026-02-16",
@@ -441210,12 +442188,28 @@
 "k": "gmail_a att 2026-02-16"
 },
 {
+"date": "2026-02-22",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Steve, Thanks for your kind words, I am still on holiday. After an initial review, here are the conclusions. 1, About the core switch, we can offer an equivalent. That is STH100G Series: STH-32C-HSI With the help of GPT, the functions are basically good. But it is still subject to your specific…",
+"why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+"k": "3a52e634757504a0"
+},
+{
 "date": "2026-02-27",
 "dir": "来",
 "who": "info@itmsystems.net",
 "quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
 "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
 "k": "f9e69dea9b5d2ded"
+},
+{
+"date": "2026-02-28",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "Hi, Steve, Thanks for your information. 1, Yes, our 100G model got similar functions with Juniper QFX5200-32C-AFO. It can be considered as an equivalent. STH-32C-HSI: 6000USD/PC, MA License, PeakNetX Platform, 32*100G Ports 2, About 400G switches STH-32QC-HSI:",
+"why": "历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STH-32C-HSI, STH-32QC-HSI, STH-64QC-HSI 000USD / 000USD / 200USD",
+"k": "08e23b4cd1d35e84"
 },
 {
 "date": "2026-03-20",
@@ -466249,7 +467243,7 @@
 "saga_now": {
 "p1": "CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」",
 "tier": 30,
-"price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价",
+"price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd",
 "why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信",
 "repeat": [],
 "gaps": "CENTEC 堆叠能力仓库无证（Q2 表功能栏只列 VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPv6），信里不写 CENTEC stacking；MLAG 作为替代口径"
@@ -466278,12 +467272,28 @@
 "k": "bf1123a71b98d0a9"
 },
 {
+"date": "2023-12-12",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Greg, Thanks for your kind words. There is also din power supply for your choice. You may also download the information from below Google Drive link. https://drive.google.com/drive/folders/1ZG50Ugnns3XQ2RuFzFx7CwNX6eZAbf4H?usp=drive_link…",
+"why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "045cc03da988c60f"
+},
+{
 "date": "2024-01-08",
 "dir": "来",
 "who": "gmassott@versitron.com",
 "quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
 "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "bdc33af7998da6ad"
+},
+{
+"date": "2024-02-19",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Greg, How are you? I am back to work and would like to recommend a 16 port PoE Industrial Switch. Please see attached product information. For this series, you could also get more information from below google drive link. https://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?u…",
+"why": "Saga 实质答复原文（主题「Re: POE switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "b88fdfbd72e71b7e"
 },
 {
 "date": "2024-02-20",
@@ -466300,6 +467310,22 @@
 "quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
 "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "362966d662d4b69d"
+},
+{
+"date": "2024-05-16",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Greg, Please see attached datasheets, web manual and CLI manual. Commercial model, 375usd/pc Industrial model, 550usd/pc Both models share the same specification as below. 4*10 Gigabit SFP+16*Gigabit SFP+8*Gigabit SFP/RJ45(Combo ports)+1*Console Port, Stan",
+"why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：375usd / 550usd",
+"k": "73339deec6e397bd"
+},
+{
+"date": "2024-06-18",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Greg, How are you? Last time we talked about 24 port managed switch, is there any plan for sample testing? And I would like to recommend a 10G fiber media converter. Good outlook and 14-slot rack mountable. Price: 75usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Eth",
+"why": "历史报价点（主题「Re: POE switch」；第 20 批从 gmail_s 回补）：75usd",
+"k": "533485b14a400b6f"
 },
 {
 "date": "2024-07-17",
@@ -466356,6 +467382,14 @@
 "quote": "I'm following up to see if you have been able to successfully design the stacking switches discussed below.",
 "why": "追问 ×3（06-11/18/23）",
 "k": "0a50926da6770aea"
+},
+{
+"date": "2025-08-28",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Greg, Thanks for your email. It is 500usd/pc, it is expensive because we are doing Marvell chip. Please see attached datasheet. Thank you.",
+"why": "历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_s 回补）：500usd",
+"k": "d9911e2b978f6965"
 },
 {
 "date": "2025-10-31",
@@ -469268,7 +470302,7 @@
 "saga_now": {
 "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
 "tier": 30,
-"price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档",
+"price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd",
 "why": "上市品牌商 + VP 直联 + 七次回复",
 "repeat": [],
 "gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"
@@ -469287,6 +470321,14 @@
 "quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
 "why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "421dd559ac7a7b63"
+},
+{
+"date": "2024-09-27",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Casey, I noticed Residential Broadband and Business Ethernet Connectivity services on your website. So maybe... I have a client from Singapore who mainly does Internet Fibre Broadband Links. Please see attached information(this is what they purchased) and let me know if you need samples for test…",
+"why": "Saga 实质答复原文（主题「Re: [External]8 Port 2.5G Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
+"k": "5cb1b1ebf2e01948"
 },
 {
 "date": "2025-01-03",
@@ -469311,6 +470353,14 @@
 "quote": "How much are they?",
 "why": "问价",
 "k": "5f74509fff9d6018"
+},
+{
+"date": "2025-04-29",
+"dir": "去",
+"who": "Saga（Simon）",
+"quote": "Hi, Casey, 500usd/pc, STI-42424XGGPM-4BT 4*100M/1G/2.5G/10G SFP+24*10/100/1000M PoE L3 Managed, 20*PoE af/at+4*PoE af/at/bt, 370W budget Marvell Chip, Active PoE, DC48V output DC36V~DC72V(Removable 2*2-PIN Industrial Terminal Block), -40°C to 75°C, Din mounted",
+"why": "历史报价点（主题「Re: [External]L3 Managed Switch」；第 20 批从 gmail_s 回补）：STI-42424XGGPM-4BT 500usd",
+"k": "d6394cf0f807b767"
 },
 {
 "date": "2025-08-27",

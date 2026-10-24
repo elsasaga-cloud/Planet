@@ -106,7 +106,7 @@
     "saga_now": {
       "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
       "tier": 25,
-      "price": "按 CENTEC 底线",
+      "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd",
       "why": "美国运营商 + 创始人直联 + 明确技术需求",
       "repeat": [],
       "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
@@ -125,6 +125,14 @@
         "quote": "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon",
         "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "1301f24ebea116b3"
+      },
+      {
+        "date": "2024-06-19",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "Hi, Kyle, We got PoE model, please see attached datasheet. Price is 310usd/pc. Thank you.",
+        "why": "历史报价点（主题「Re: 48 port managed switch」；第 20 批从 gmail_s 回补）：310usd",
+        "k": "deda136173372ce7"
       },
       {
         "date": "2025-04-01",

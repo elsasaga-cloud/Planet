@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：韩国 Solway（solway.co.kr；表内「bypass」；KP Jinsoo Kim（公司邮箱 + gmail）；官网为防爬验证页）；表内未跟进。（调研 2026-10-21；表内兴趣：bypass）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — —；按主表
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — —；按主表；历史报价（邮件原话，老汇率）：2026-02-06 
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 补价
@@ -46,13 +46,14 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：光/铜 bypass。
 - **断点 / 为什么停在这里**：产品线。
-- **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表）———
+- **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表；历史报价（邮件原话，老汇率）：2026-02-06 ）———
   - 做不了 / 要先核的：光 bypass 报价是否已给
 - **下一步（具体）**：2026-11　A 邮箱　补价
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-06 | 来 | Kim | Could you please provide me with your best pricing for both Optic and Copper Bypass switches? | 要价 | `60de5a43f2413966` |
+| 2026-02-06 | 去 | Saga（Alan） | Hi, Lee, Thanks for your reply. 1, Sorry, we do not have copper bypass, just fiber bypass. I believe you know the differences and applications very well. 2, for now, we only have optical bypass managed switch. That is an optical component fixed inside the swit | 历史报价点（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）： | `ad3c414a423e33cb` |
 
 ## 基本事实（事实/推断/假设分层）
 

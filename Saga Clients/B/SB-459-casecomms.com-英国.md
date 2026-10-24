@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：工业FS 工业MC 自己的logo SFP ONV的；商业PoE CCTV为主 很多配件；商业POE CCTV为主 很多配件）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-01 → 2025-10-27）；最近一次客户回复：2025-02-07：MoQ 能否定制
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列或 10G 工业汇聚（新品类） — 品牌商直联；按主表
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列或 10G 工业汇聚（新品类） — 品牌商直联；按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd
 - **第一问（只问一个）**：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → andys@case.uk.com 只发它没有的品类
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Andy 两次回复都在说同一件事：你们的东西我有，而且更便宜。Saga 的回应是强调 Marvell 高端定位——对品牌商这不是论点。52 封群发中 5 封得到回复，全部是 2024-05 与 2025-02 的两个瞬间。
 - **对方真实需求（有据）**：L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。
 - **断点 / 为什么停在这里**：价格 + 定位话术。
-- **Saga 现在该推什么**：P1 **STH 系列或 10G 工业汇聚（新品类）**（25% 档，按主表）——品牌商直联
+- **Saga 现在该推什么**：P1 **STH 系列或 10G 工业汇聚（新品类）**（25% 档，按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd）——品牌商直联
   - 做不了 / 要先核的：Case 现用 L3 供应商与价位
 - **下一步（具体）**：2027-Q1　A 邮箱 → andys@case.uk.com　只发它没有的品类
   - 第一问（只问一个）：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?
@@ -56,8 +56,11 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-09 | 来 | andys@case.uk.com | Hi Simon Thank you for your mail but we already have such a switch Best regards Andy | 来信原文（主题「RE: 24 port switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `d7d86e7b1d5cba30` |
+| 2024-05-09 | 去 | Saga（Simon） | Hi, Andy, Thanks for your information. This is my sister's company, and there are many interesting models with expert design. Like 10G media converter, Mini industrial media converter or 52 port full fiber rack managed switch... Anyway, I will send some information from time to time and lets see if… | Saga 实质答复原文（主题「Re: 24 port switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `4e64486e83ba3f88` |
 | 2025-02-07 | 来 | Andy | can you let me know the unit price of this switch, and MoQ to have it customised | 定制意向 | `f76d37aef2dff400` |
 | 2025-02-08 | 来 | Andy | It does seem quite expensive we have layer 3 switches for a lot less. | 价格断 | `83a6a36c850cb83b` |
+| 2025-02-08 | 去 | Saga（Alan） | Hi, Andy, Thanks for your interest. 1, Its 500usd/pc, please see attached datasheet and manuals. 2, In the datasheet, you can see some details about customization. *And please do know that this is Marvell based, not Realtek, Vitesse or Broadcom.* *Its for high | 历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）：500usd | `aee9616b96315f19` |
+| 2025-03-03 | 去 | Saga（Alan） | Hi, Andy, Please check this series(Unmanaged, PoE) Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, support DIP Its good for powering IP cameras(similar PDs). Prices are fairly competitive.… | Saga 实质答复原文（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `71f5f62ff6785f81` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-24 | 来 | powerlogic1965@gmail.com | hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `53639b11bc8d96b5` |
+| 2024-05-25 | 去 | Saga（Simon） | Hi, Waseem, Please see below link. *https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link* <https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link> In the *PROFILE*, there are some download links(on page 13). It contains FULL informa… | Saga 实质答复原文（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `e8ccb44bae99d13f` |
 
 ## 基本事实（事实/推断/假设分层）
 

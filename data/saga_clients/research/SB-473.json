@@ -222,6 +222,14 @@
         "k": "37d0a18adaf6e108"
       },
       {
+        "date": "2025-10-17",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Ender, Thanks for your information. 1. The prices in the Google Drive folders are standard. 2. For PCBA, we mean a complete piece without enclosure, it is ready to use and easy for your own enclosure. This is our understanding, please let us know if you have a different idea. 3. Let’s split the…",
+        "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "b74b59ea19377fe5"
+      },
+      {
         "date": "2025-11-04",
         "dir": "来",
         "who": "ebulut@netas.com.tr",
@@ -286,12 +294,28 @@
         "k": "2a8ead0c64c4f045"
       },
       {
+        "date": "2026-02-09",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Burak, Good to know that the materials have been delivered. Thank you for your efforts along the way. Hi, Ender, 1, I have uploaded the warranty certificate to the drive folder. Please see the attached information. And we updated the product links for 2026/Q2, there will be a new version of feat…",
+        "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "86c8bd8b1a70cc5d"
+      },
+      {
         "date": "2026-02-26",
         "dir": "来",
         "who": "Ender Bulut",
         "quote": "Do you have any idea when L3 Multicast PIM-SM and PIM-DM will be ready? Our costumer wants to go with layer-3 solution and must be include PIM-SM and PIM DM",
         "why": "停点原话",
         "k": "10e6fdf62c477b46"
+      },
+      {
+        "date": "2026-02-26",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Ender, Thanks for your information. 1, Please let me know if there is any update. 2, As you see from the roadmap, we are sewing the entire portfolio together, ensuring a coherent evolution from Access to Aggregation & Core. In 2026, our directions will be, *2.1: Improve existing features, OS and…",
+        "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "73a52f3522d0d516"
       },
       {
         "date": "2026-02-27",
@@ -316,6 +340,14 @@
         "quote": "We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… If we receive new requests for Layer-2 switches… we will contact you",
         "why": "轻度绑定证据 + 复活条件由对方说出",
         "k": "2b615482de0608a5"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "Hi, Ender, Thanks for your information. 1. For those 3 units, it is Layer 2+, not L3 We can provide L3 models as you may notice from the links. But still PIM-SM/DM and RIPng/PBR are the main issue. It is just NOT available with the current chipset solution. This info can be found in Saga Software Fu…",
+        "why": "Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+        "k": "812cebfaec6cbb12"
       },
       {
         "date": "2026-07-17",
