@@ -84,5 +84,40 @@
   "tier": 30,
   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP；桌面 MC 用 HRUI（列表价，注明）"
  },
- "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?"
+ "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（3 封来信 = Kelly 休假/退休自动回复）",
+   "type": "美国网络配件品牌商（DMSI）",
+   "sieve": "0",
+   "stop": "联系人已退休（2024-05-23 自动回复）",
+   "revive": "改发 sales@dmsimfg.com",
+   "lane": "US",
+   "cadence": "一封",
+   "evidence": "k=02e8365a9e7d02a0（RETIRED）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "新联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → sales@dmsimfg.com",
+   "action": "换人",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

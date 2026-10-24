@@ -80,5 +80,38 @@
   "tier": 25,
   "why": "bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1）"
  },
- "email_hook": "Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?"
+ "email_hook": "Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（5 封来信 = info@eter.it 意大利语转办自动回复 + Andrea 休假自动回复）",
+   "type": "意大利门禁/消防集成商（Eter）",
+   "sieve": "0",
+   "stop": "自动回复",
+   "revive": "改发 commerciale@eter.it（其自动回复指明的报价入口）",
+   "lane": "IT",
+   "cadence": "一封到 commerciale@",
+   "evidence": "k=77015acab5634ba1（转办指引）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → commerciale@eter.it",
+   "action": "按其指引改发",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

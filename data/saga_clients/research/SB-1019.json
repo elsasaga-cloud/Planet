@@ -97,5 +97,74 @@
   "tier": 30,
   "why": "OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）"
  },
- "email_hook": "Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?"
+ "email_hook": "Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）",
+   "type": "英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动",
+   "sieve": "3（两次报价、一次项目 RFQ）",
+   "stop": "2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见",
+   "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
+   "lane": "UK 主攻",
+   "cadence": "季度一封项目型信",
+   "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）"
+  },
+  "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
+  "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
+  "breakpoint": "Saga 对「不完全匹配」的 RFQ 一句话放弃（2024-09）。",
+  "saga_now": {
+   "p1": "STC-424XGGPM（双电源版若有）+ SFP 模块",
+   "tier": 20,
+   "price": "按主表",
+   "why": "英国经销 + 6 次回复",
+   "repeat": [],
+   "gaps": [
+    "2025-10-31 Booster 资料是否已发",
+    "20 台项目是否已被他人拿走"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → wadii@teltronix.net",
+   "action": "重对 2024-09 清单 + 问当前项目",
+   "one_question": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?"
+  },
+  "facts": [
+   {
+    "date": "2024-09-03",
+    "dir": "来",
+    "who": "Wadii",
+    "quote": "I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack wise cable",
+    "why": "20 台 RFQ",
+    "k": "47d30031bff4bebe"
+   },
+   {
+    "date": "2024-09-03",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "sorry to tell you that this specification is not available on our product list.",
+    "why": "一句放弃",
+    "k": "9709506348c74b1f"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "来",
+    "who": "Wadii",
+    "quote": "Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table?",
+    "why": "做预算",
+    "k": "8fa533b181f1ab4b"
+   },
+   {
+    "date": "2025-07-08",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc",
+    "why": "电源价",
+    "k": "79fecf111ba8f0f3"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

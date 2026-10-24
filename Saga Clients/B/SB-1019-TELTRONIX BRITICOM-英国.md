@@ -35,10 +35,30 @@ updated: 2026-10-24
 - **是谁**：英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：有自己的logo 有的没有 光猫 ONV Upeto的工业FS 机架 FS等；机架 MC FS 工业FS  自己的logo 外壳种类比较多；2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：Price 电源
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM（双电源版若有）+ SFP 模块 — 英国经销 + 6 次回复；按主表
+- **第一问（只问一个）**：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → wadii@teltronix.net 重对 2024-09 清单 + 问当前项目
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1019` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）** ｜ 类型：英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动 ｜ 筛子：3（两次报价、一次项目 RFQ） ｜ 停点：2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见 ｜ 复活：把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信 ｜ 通路：UK 主攻 ｜ 节奏：季度一封项目型信 ｜ 证据：k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）
+- **现状一句话**：Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。
+- **对方真实需求（有据）**：项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。
+- **断点 / 为什么停在这里**：Saga 对「不完全匹配」的 RFQ 一句话放弃（2024-09）。
+- **Saga 现在该推什么**：P1 **STC-424XGGPM（双电源版若有）+ SFP 模块**（20% 档，按主表）——英国经销 + 6 次回复
+  - 做不了 / 要先核的：2025-10-31 Booster 资料是否已发；20 台项目是否已被他人拿走
+- **下一步（具体）**：2026-11　A 邮箱 → wadii@teltronix.net　重对 2024-09 清单 + 问当前项目
+  - 第一问（只问一个）：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-09-03 | 来 | Wadii | I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack wise cable | 20 台 RFQ | `47d30031bff4bebe` |
+| 2024-09-03 | 去 | Simon | sorry to tell you that this specification is not available on our product list. | 一句放弃 | `9709506348c74b1f` |
+| 2025-07-07 | 来 | Wadii | Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? | 做预算 | `8fa533b181f1ab4b` |
+| 2025-07-08 | 去 | Alan | HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc | 电源价 | `79fecf111ba8f0f3` |
 
 ## 基本事实（事实/推断/假设分层）
 

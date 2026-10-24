@@ -35,10 +35,22 @@ updated: 2026-10-24
 - **是谁**：美国 L-com（Infinite Electronics 集团，5 万 SKU 当日发货，自有品牌线缆 / 天线 / 工业网络；switch 196 / industrial 108 / poe 56），Product Manager Steve Smith、Mary Kleinfelter；表内「工业 switch、工业 FS MC PoE 周边；有人在卖他们家的设备」；群发 9 次无回复。集团规模大但自有品牌采购 → OEM 30%。（调研 2026-10-21；表内兴趣：工业switch；工业FS MC POE 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-04-04 → 2025-11-04）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1117` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（6 封来信全部是 noreply@l-com.com 自动回复）** ｜ 类型：美国连接器/网络配件大分销（L-com / Infinite Electronics）——sales@ 是客服入口 ｜ 筛子：0 ｜ 停点：大公司 sales@ 入口 ｜ 复活：需要供应商入驻渠道（vendor onboarding），不是邮件 ｜ 通路：US 主攻 ｜ 节奏：不动 ｜ 证据：k=82bce901657f3d30 等
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+  - 做不了 / 要先核的：vendor 入驻入口
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

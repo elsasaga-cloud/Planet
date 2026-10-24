@@ -67,5 +67,40 @@
   "tier": 20,
   "why": "工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE 对位 Omnitron。"
  },
- "email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?"
+ "email_hook": "Guten Tag — for the industrial media-converter and switch range beside Omnitron: DIN gigabit MC at $22 and Marvell managed 8-PoE + 2-SFP at $79 EXW, CE/RoHS; who is the right product contact at Lanopia?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（15 封来信全部是 info@lanopia.de 的德语自动回复「Ihr email an Lanopia GmbH」，2023-11 → 2026-09；无人工回复）",
+   "type": "德国网络设备分销/品牌（Lanopia GmbH）——只打过 info@",
+   "sieve": "0",
+   "stop": "info@ 自动回复黑洞",
+   "revive": "找具名采购邮箱",
+   "lane": "DE 主攻",
+   "cadence": "不动",
+   "evidence": "k=8624aa9d96551841 … 13ba27424bd3e77f（15 封同文）"
+  },
+  "situation": "三年 18 封群发换来 15 封一模一样的自动回复。",
+  "need": "—",
+  "breakpoint": "无人读信。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "具名联系人"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

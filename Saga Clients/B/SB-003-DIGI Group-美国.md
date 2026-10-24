@@ -35,10 +35,30 @@ updated: 2026-10-24
 - **是谁**：美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。（调研 2026-10-21；表内兴趣：Polish, buy from PLANET, interested in VC with Audio + 10bit video, quoted $90 but want to buy samples at $20-1v1d）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+25 在 Simon 的 S 重点名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：需求品类不在 Saga 主线
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 22 次（2024-01-25 → 2025-11-27）；最近一次客户回复：2025-06-25：想OEM
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有品牌 OEM：目录只有延长器/MC，缺 PoE 交换机——STC-28DGGPM（8 PoE+ + 2 SFP）与其 F-GET 光纤产品成套；中性/Thor 标，OEM 30% 档；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表 — 品牌商 + 明确 OEM 意向 + 美国；按主表 OEM 30% 档；IGMP 标注
+- **第一问（只问一个）**：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 S 邮箱 → stan@thorfiber.com 发整表 + 问首批型号
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-003` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）** ｜ 类型：美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP ｜ 筛子：3（两次问 OEM 价、一次技术门槛） ｜ 停点：两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回 ｜ 复活：一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：现在一封 OEM 价表；之后季度 ｜ 证据：k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）
+- **现状一句话**：Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。
+- **对方真实需求（有据）**：OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。
+- **断点 / 为什么停在这里**：OEM 价格表未给全。
+- **Saga 现在该推什么**：P1 **STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表**（30% 档，按主表 OEM 30% 档；IGMP 标注）——品牌商 + 明确 OEM 意向 + 美国
+  - 做不了 / 要先核的：Thor 目标量；品牌化范围（logo/固件 GUI/包装）
+- **下一步（具体）**：现在　S 邮箱 → stan@thorfiber.com　发整表 + 问首批型号
+  - 第一问（只问一个）：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-26 | 来 | Stan Sochur | We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol? | OEM 意向 | `809f837f36d8ac93` |
+| 2025-06-26 | 去 | Simon | For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount | OEM 价推后 | `785f5e7be824e94b` |
+| 2025-06-28 | 来 | Stan | We species with video over IP , we must have IGMP protocol, it is mandatory. | 硬门槛 | `dc22cb3479825c92` |
+| 2025-12-01 | 去 | Simon | STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster | 单款报价 | `822038afc07c951e` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -77,5 +77,38 @@
   "tier": 30,
   "why": "自有 logo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；MC 位 STI-110GE（$24.3）对位 NTFFSM 系列；SFP Saga 不供"
  },
- "email_hook": "Daniel, for the industrial switches and media converters carried under the Nitrotel label alongside your cabling lines, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs in your packaging from small lots, FCC/CE/RoHS — which model do your Latin-American integrators order most?"
+ "email_hook": "Daniel, for the industrial switches and media converters carried under the Nitrotel label alongside your cabling lines, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs in your packaging from small lots, FCC/CE/RoHS — which model do your Latin-American integrators order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（3 封来信全部自动回复）",
+   "type": "迈阿密布线/网络品牌商（Nitrotel）",
+   "sieve": "0",
+   "stop": "自动回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=dcbdd79165251136 等"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

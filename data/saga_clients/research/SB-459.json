@@ -125,5 +125,57 @@
   "tier": 30,
   "why": "OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA"
  },
- "email_hook": "For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?"
+ "email_hook": "For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）",
+   "type": "英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应",
+   "sieve": "3（问价 + 定制 MOQ）",
+   "stop": "$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门",
+   "revive": "只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE",
+   "lane": "UK 主攻",
+   "cadence": "半年一封新品类信",
+   "evidence": "k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」"
+  },
+  "situation": "Andy 两次回复都在说同一件事：你们的东西我有，而且更便宜。Saga 的回应是强调 Marvell 高端定位——对品牌商这不是论点。52 封群发中 5 封得到回复，全部是 2024-05 与 2025-02 的两个瞬间。",
+  "need": "L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。",
+  "breakpoint": "价格 + 定位话术。",
+  "saga_now": {
+   "p1": "STH 系列或 10G 工业汇聚（新品类）",
+   "tier": 25,
+   "price": "按主表",
+   "why": "品牌商直联",
+   "repeat": [],
+   "gaps": [
+    "Case 现用 L3 供应商与价位"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → andys@case.uk.com",
+   "action": "只发它没有的品类",
+   "one_question": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-07",
+    "dir": "来",
+    "who": "Andy",
+    "quote": "can you let me know the unit price of this switch, and MoQ to have it customised",
+    "why": "定制意向",
+    "k": "f76d37aef2dff400"
+   },
+   {
+    "date": "2025-02-08",
+    "dir": "来",
+    "who": "Andy",
+    "quote": "It does seem quite expensive we have layer 3 switches for a lot less.",
+    "why": "价格断",
+    "k": "83a6a36c850cb83b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

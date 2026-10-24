@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：德州 College Station 的区域 ISP/CLEC 与 **MDU（多户住宅）/HOA 托管 WiFi 服务商**（2005 年创业、2007-12 注册；创始人 Kyle Leissner；11–50 人 / RocketReach 42 人、营收 $5.1M）：为「全国数百个多户住宅物业」提供最高 1 Gig 互联网（光纤、固定无线、有线、EoC、DSL）、WiFi 部署、语音、电视、安防门禁、托管 IT 与综合布线；SAM 登记 UEI PU66QHF8L5F6（可承接政府业务）。用户表：1 次实质回复，1 次跟进。（调研 2026-10-21；表内兴趣：在找PoE交换机）
 - **为什么是 B 级**：+22 实质回复 1 次；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-01 → 2025-04-01）；最近一次客户回复：2025-04-01：XVLAN or MPLS?
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM；$188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求；按 CENTEC 底线
+- **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串） 发 CENTEC 支持矩阵
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）** ｜ 类型：德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器 ｜ 筛子：2（两次技术提问） ｜ 停点：AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起 ｜ 复活：一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间 ｜ 通路：US 主攻 ｜ 节奏：一封；之后看回复 ｜ 证据：k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）
+- **现状一句话**：创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。
+- **对方真实需求（有据）**：运营商汇聚：VXLAN/MPLS + 控制器。
+- **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
+- **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线）——美国运营商 + 创始人直联 + 明确技术需求
+  - 做不了 / 要先核的：Kyle 的网络规模/现用品牌
+- **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵
+  - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-01 | 来 | Kyle Leissner | This is interesting. Does it have VXLAN support or MPLS support? Any controller? | 运营商级需求 | `3217cb91c0855a86` |
+| 2025-04-02 | 去 | Alan | Sorry, it is not supporting XVLAN or MPLS… I feed this question to GPT and conclusion is as attached. | 关门（未提 CENTEC） | `a444eeb97758ba35` |
 
 ## 基本事实（事实/推断/假设分层）
 

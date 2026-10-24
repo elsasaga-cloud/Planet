@@ -35,10 +35,34 @@ updated: 2026-10-24
 - **是谁**：英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。（调研 2026-10-21；表内兴趣：MC SFP FS 周边产品）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-03-17 → 2025-03-17）；最近一次客户回复：2025-03-17：没成
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算 — 英国分销 + 500 台 RFQ + 采购经理直联；按主表 20% 分销档重算；对 500 台量级在信里明确「volume tier」
+- **第一问（只问一个）**：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 A 邮箱 → hussain.alqahtani@linx-com.com（回到 MOH-TA-170325 Offer 串） 问结果 + 给重算价 + 不再附 ChatGPT
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-089` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回）** ｜ 类型：英国结构化布线/网络产品品牌分销（Linxcom UK；Hussain = Purchasing & Product Development Manager，RFQ 编号 MOH-TA 指向中东卫生部类标书）——第二档有进口经验的分销 ｜ 筛子：4（报价 + 技术对表 + 户外改版诉求），卡在价格 ｜ 停点：价格：2025-03-18「The prices are too expensive」；Alan 的回法是「如果你只是买卖那是贵了；如果看技术就值」+ ChatGPT 附件——没有给出降价空间或 MOQ 阶梯；2025-05-15 项目无消息后再无实质往来 ｜ 复活：一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间） ｜ 通路：UK 主攻 + 中东项目 ｜ 节奏：一封结果信；之后半年一次项目询问，不群发 ｜ 证据：k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）
+- **现状一句话**：2025-03 Linxcom 拿着一张 500 台的项目清单来询价（100 台 8 口 2BT 管理 PoE + 400 台 24 口 10G 上联 L3 工业 PoE，按装箱单合计 760 kg），Alan 当天出报价并说 25~30 个工作日交期。对方次日说贵；Alan 没有谈价，而是讲 Marvell 高端定位并附 ChatGPT 对比。4 月对方还在跟：要 Saga 型号与他们手里数据表的差异说明、要户外版；5 月 15 日说项目还没消息。之后 Alan 转为每月一封群发，再无回复。这是 A 邮箱里体量最大的一张 RFQ（500 台）之一，败因是价格谈判没有展开。
+- **对方真实需求（有据）**：项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。
+- **断点 / 为什么停在这里**：价格 + Saga 未给阶梯；对方的工程/项目侧（MOH）有无中标未知。
+- **Saga 现在该推什么**：P1 **STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算**（20% 档，按主表 20% 分销档重算；对 500 台量级在信里明确「volume tier」）——英国分销 + 500 台 RFQ + 采购经理直联
+  - 做不了 / 要先核的：2025-03 报价单价（PDF 未提取，仅 PL.xls）；MOH-TA 标书结果
+- **下一步（具体）**：现在　A 邮箱 → hussain.alqahtani@linx-com.com（回到 MOH-TA-170325 Offer 串）　问结果 + 给重算价 + 不再附 ChatGPT
+  - 第一问（只问一个）：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-03-17 | 去 | Alan | Please see attached our datasheets and quotation about 2 models you need. 1, our models are Marvell chip based, its for high-end market. 2, production time: 25~30 working days | 报价；PL.xls：STI-288DGGPM-2BT 400 pcs / STI-42424XGGPM 100 pcs，42 CTNS，G.W 760 kg | `c9837fd061da8de5` |
+| 2025-03-18 | 来 | Hussain Alqahtani | The prices are too expensive. | 断点 | `bcfbcbc7aff20e51` |
+| 2025-03-19 | 去 | Alan | Attached information is from ChatGPT. 1, If you ONLY buy and sell for your client, I guess yes, it would be a little expensive. 2, If you are focusing on some technical features, our solution is good to move on. | 未谈价 | `2f38e52e0a8ab212` |
+| 2025-04-22 | 来 | Hussain | Kindly explain us what is the differences between what you offered and the attached data sheets? | 仍在对表 | `d91fcb4809f3db04` |
+| 2025-04-28 | 来 | Hussain | Can you make this 2 items for outdoor use? If you have a solution kindly send us the updated offer with the data sheet. | 户外版诉求 | `7b0d91fec35aaa9c` |
+| 2025-05-15 | 来 | Hussain | Unfortunately there is no news yest, but once we have news regarding your offer we will be in touch. | 项目停摆 | `d385ca588de7d060` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：报价单价（quotation PDF 未在附件索引中提取）；MOH-TA 是哪国卫生部项目——仅由编号推断
 
 ## 基本事实（事实/推断/假设分层）
 

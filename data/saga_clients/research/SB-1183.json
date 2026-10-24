@@ -71,5 +71,38 @@
   "tier": 30,
   "why": "PBX 部署配套 PoE（可贴 Epygi 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM"
  },
- "email_hook": "For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?"
+ "email_hook": "For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（6 封来信 = 4 封自动回复 + 2 封 Simrex Frank（SA-002）抄送 sales@epygi.com 的误归属）",
+   "type": "美国 IP PBX 厂商（Epygi）",
+   "sieve": "0",
+   "stop": "误归属：真实回复人是 SA-002 Frank Neuperger",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

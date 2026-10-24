@@ -88,5 +88,57 @@
   "tier": 25,
   "why": "运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM"
  },
- "email_hook": "For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?"
+ "email_hook": "For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）",
+   "type": "德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器",
+   "sieve": "2（两次技术提问）",
+   "stop": "AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起",
+   "revive": "一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间",
+   "lane": "US 主攻",
+   "cadence": "一封；之后看回复",
+   "evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）"
+  },
+  "situation": "创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。",
+  "need": "运营商汇聚：VXLAN/MPLS + 控制器。",
+  "breakpoint": "产品线错配（AC5 vs CENTEC）。",
+  "saga_now": {
+   "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
+   "tier": 25,
+   "price": "按 CENTEC 底线",
+   "why": "美国运营商 + 创始人直联 + 明确技术需求",
+   "repeat": [],
+   "gaps": [
+    "Kyle 的网络规模/现用品牌"
+   ]
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）",
+   "action": "发 CENTEC 支持矩阵",
+   "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-01",
+    "dir": "来",
+    "who": "Kyle Leissner",
+    "quote": "This is interesting. Does it have VXLAN support or MPLS support? Any controller?",
+    "why": "运营商级需求",
+    "k": "3217cb91c0855a86"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Sorry, it is not supporting XVLAN or MPLS… I feed this question to GPT and conclusion is as attached.",
+    "why": "关门（未提 CENTEC）",
+    "k": "a444eeb97758ba35"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

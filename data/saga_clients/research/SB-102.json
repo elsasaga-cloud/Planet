@@ -80,5 +80,38 @@
   "tier": 20,
   "why": "在售 3onedata 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换；MC 位 STI-110GE"
  },
- "email_hook": "Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
+ "email_hook": "Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（13 封「来信」= 1 封休假自动回复 + 12 封 Consteel 自家新闻信（它把 s./a. 邮箱加进了邮件列表）；无人工回复）",
+   "type": "波兰工业自动化分销（Consteel Electronics，3onedata 工业线代理）——竞品代理",
+   "sieve": "0",
+   "stop": "新闻信不是回复；3onedata 代理无动机换线",
+   "revive": "不动",
+   "lane": "PL 次级",
+   "cadence": "不动",
+   "evidence": "k=e2b261c39ea8864e（OOO）；e9e2609a807e5171 等（newsletter）"
+  },
+  "situation": "群发命中的是他们的营销列表。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

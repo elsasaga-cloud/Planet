@@ -79,5 +79,40 @@
   "tier": 30,
   "why": "自有标 24 PoE（替换 ONV）→ STC-424DGGPM-280W（$145.7 @30%）；8 PoE STC-28DGGPM。"
  },
- "email_hook": "Ryan, for the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly."
+ "email_hook": "Ryan, for the PoE switches you source from ONV today — like-for-like Marvell L2+ 24-PoE and 8-PoE units under the Nelly's label from small lots (FCC/CE); send me the ONV model numbers and I'll quote them directly.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（6 封来信 = Zendesk「Request received」+「rate the support」自动工单；无人工回复）",
+   "type": "美国安防分销/电商（Nelly's Security）——只打过 customerservice@",
+   "sieve": "0",
+   "stop": "客服工单系统",
+   "revive": "找采购（purchasing/vendor）邮箱",
+   "lane": "US 主攻",
+   "cadence": "不动",
+   "evidence": "k=a8425797c1332005 等"
+  },
+  "situation": "工单号 252114/253755/265626 都是机器。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "采购邮箱"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

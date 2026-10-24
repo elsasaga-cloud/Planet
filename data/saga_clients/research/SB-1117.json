@@ -75,5 +75,40 @@
   "tier": 30,
   "why": "L-com 工业 PoE 线 → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE。"
  },
- "email_hook": "Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?"
+ "email_hook": "Steve, for the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（6 封来信全部是 noreply@l-com.com 自动回复）",
+   "type": "美国连接器/网络配件大分销（L-com / Infinite Electronics）——sales@ 是客服入口",
+   "sieve": "0",
+   "stop": "大公司 sales@ 入口",
+   "revive": "需要供应商入驻渠道（vendor onboarding），不是邮件",
+   "lane": "US 主攻",
+   "cadence": "不动",
+   "evidence": "k=82bce901657f3d30 等"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "vendor 入驻入口"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

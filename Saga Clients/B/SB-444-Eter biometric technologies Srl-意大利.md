@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：意大利 Eter Biometric Technologies Srl（门禁、考勤、火灾探测（Hochiki）、HR 系统集成（Suprema 终端）；表内「介绍了 bypass 和接线图，大概懂，让邮件发给他信息」；KP Ing. Andrea Giacobazzi（CEO and founder））；表内 5 次跟进无回复。（调研 2026-10-21；表内兴趣：介绍了bypass和接线图，大概懂，让邮件发给他信息）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-05-29 → 2025-10-16）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：bypass 需求 → 整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明非 Saga 自有型号）；常规门禁配套 工业 8 PoE + 2 SFP 管理 STI-288GPM（$82.2）/ 商用 STC-28DGGPM（$84.1）；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → commerciale@eter.it 按其指引改发
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-444` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（5 封来信 = info@eter.it 意大利语转办自动回复 + Andrea 休假自动回复）** ｜ 类型：意大利门禁/消防集成商（Eter） ｜ 筛子：0 ｜ 停点：自动回复 ｜ 复活：改发 commerciale@eter.it（其自动回复指明的报价入口） ｜ 通路：IT ｜ 节奏：一封到 commerciale@ ｜ 证据：k=77015acab5634ba1（转办指引）
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（25% 档，—）———
+- **下一步（具体）**：2026-11　A 邮箱 → commerciale@eter.it　按其指引改发
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -71,5 +71,38 @@
   "tier": 30,
   "why": "主业 CATV 光发射/EDFA/PON（Saga 不供）→ MC 位 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 OlsonTech 标；WDM 模块 Saga 不供"
  },
- "email_hook": "For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?"
+ "email_hook": "For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（3 封来信 = Olson 营销信 + Antronix Peter（SA-066）抄送 sales@olsontech.com 的误归属）",
+   "type": "美国 CATV/PON 光设备商（Olson Technology）",
+   "sieve": "0",
+   "stop": "误归属：真实回复人是 SA-066 Peter Tarquinio",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=42afe1e39f3c25e0 / b64dad136b4bdc24（属 SA-066）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

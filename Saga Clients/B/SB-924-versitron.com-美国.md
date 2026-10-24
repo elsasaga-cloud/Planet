@@ -35,10 +35,35 @@ updated: 2026-10-24
 - **是谁**：美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。（调研 2026-10-21；表内兴趣：Stacking）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC 为其主线 → STI-110GE（$24.3 @30%）贴 Versitron 标；工业 PoE STI-288GPM；堆叠不供。；$24.3 USD EXW（30% 档，SmartByte LT-IMC30G-E 125 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」 — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价
+- **第一问（只问一个）**：Greg — is the stackable line still on your 2027 roadmap, and if so, which is the first SKU you would need (24/48-port 1G access with 10G uplinks, or 10G access with 40/100G stacking)?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch） 一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-924` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：较深的「关系绑定」但零成交（S 邮箱三年 21 来 29 去，全是 Greg Massott 本人；他在 2024-11 → 2025-10 之间 6 次主动追问堆叠；2026-03-11 Simon 宣布堆叠可用后只收到自动回复，至今 7 个月无回）** ｜ 类型：美国老牌光传输/工业以太网品牌商（第一档 OEM 品牌商；Greg = 采购/产品经理级，Simon 前东家时代就认识，Olycom HDMI） ｜ 筛子：3→4 之间：要过数据表、报价、芯片追问，但从未要样品；原因是它要的是「能和 Cisco 比的堆叠整线」，不是单品 ｜ 停点：两个断点：① 2024-11 Simon 承诺堆叠「2~3 个月」，拖到 2025-10-31 坦白「1st release 出了严重问题」，期间 Greg 追了 6 次——信用被消耗；② 2026-03-11 Simon 说「Finally, stacking available on all models」，Greg 只回了 OOO 自动回复——要么没看到，要么已另寻来源 ｜ 复活：不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品 ｜ 证据：k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）
+- **现状一句话**：这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。
+- **对方真实需求（有据）**：可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。
+- **断点 / 为什么停在这里**：承诺与交付之间的 16 个月；以及产品线对不上（AC5 ≠ Catalyst 9300 级堆叠）。
+- **Saga 现在该推什么**：P1 **CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」**（30% 档，按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价）——美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信
+  - 做不了 / 要先核的：Greg 是否仍在职/是否已找到替代（2026-03 后无回）；CENTEC 线堆叠的真实成熟度（固件 7.5 口径：PIM-SM CLI only——堆叠在哪个版本、几台、什么口，要查固件说明再写）
+- **下一步（具体）**：现在　S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）　一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
+  - 第一问（只问一个）：Greg — is the stackable line still on your 2027 roadmap, and if so, which is the first SKU you would need (24/48-port 1G access with 10G uplinks, or 10G access with 40/100G stacking)?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-11-19 | 来 | Greg Massott | We are interested in developing a switch product line that offers stacking technology, so that we can compete with Cisco in the USA market. Is this something that your company… | 需求起点 | `1025007cd6875d3e` |
+| 2024-11-21 | 去 | Simon | Yes, we received many stacking requirements, but sorry to tell you that it is not available now… expected to be ready in 2~3 months | 承诺 | `1c4ec9e7a2e3b881` |
+| 2025-01-31 | 来 | Greg | We do not have a chip preference… must support 10/100/1G/10G copper and SFP… dedicated high-speed stacking modules (40/80/100G)… all stacked switches must be recognized as one logical switch | 硬规格 | `f8ad0f8ce32688ea` |
+| 2025-06-11 | 来 | Greg | I'm following up to see if you have been able to successfully design the stacking switches discussed below. | 追问 ×3（06-11/18/23） | `0a50926da6770aea` |
+| 2025-10-31 | 去 | Simon | stacking is still not available, we found some serious issues after 1st release… honestly we do not see a big demand | 坦白 + 质疑需求 | `973470596a08bd2e` |
+| 2025-10-31 | 来 | Greg | We are trying to offer stacking as an alternative to Cisco. | 目标对手 | `401b90aaadcce218` |
+| 2026-03-11 | 去 | Simon | Finally, our "stacking" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine. | 宣布可用；只收到 OOO | `3cab7e50e48fea36` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）；Saga 当天附的「stacking」资料是 AC5 还是 CENTEC——附件名未见
 
 ## 基本事实（事实/推断/假设分层）
 

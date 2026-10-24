@@ -89,5 +89,38 @@
   "tier": 30,
   "why": "现由 HRUI 代工贴 Inaxsys 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 PoE + 4×10G STC-424XGGPM-280W（$196.3）；不以 HRUI 同型号竞价"
  },
- "email_hook": "Alain, for the Inaxsys-branded PoE switches, we can add a Marvell-based tier (8-PoE + 2 SFP L2+ and 24-PoE + 4×10G L2+) as a second source from small lots in your housing, with FCC/CE/RoHS reports — which size would you consider dual-sourcing first?"
+ "email_hook": "Alain, for the Inaxsys-branded PoE switches, we can add a Marvell-based tier (8-PoE + 2 SFP L2+ and 24-PoE + 4×10G L2+) as a second source from small lots in your housing, with FCC/CE/RoHS reports — which size would you consider dual-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（6 封来信全部是 support@inaxsys.com 工单自动回复；无人工回复）",
+   "type": "加拿大安防品牌商（Inaxsys；交换机由 HRUI 贴标 → Q-33 口径）",
+   "sieve": "0",
+   "stop": "工单系统 + Q-33",
+   "revive": "不动（Q-33）",
+   "lane": "CA 主攻",
+   "cadence": "不动",
+   "evidence": "k=4254f07f7989d16f 等"
+  },
+  "situation": "HRUI 现有客户，按 Q-33 标记不碰。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

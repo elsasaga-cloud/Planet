@@ -71,62 +71,55 @@
  "grade_override": "B",
  "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
  "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "伦敦 Milliseconds Evolution（Iyiola Folayan，MikroTik 顾问 20 年、公司新成立）。2026-09-29 回群发问目录与「Can we work as your distributor in the UK?」；Simon 09-30 回「先合作再谈分销」+ 资料包；10-03 给样机政策；10-17 对方给地址，Simon 开 **2 台 STC-424XGGPM-280W 样品 PI STSC-20261017-001（$180/台）**；同日对方回「unable to make the payment now… only proceed when I have a project」；Simon 10-19「Let's wait then」。",
-  "need": "想做 Saga 英国转售伙伴，但没有现金/项目；真正需要的是**一个能用 Saga 机型投标的项目**和 MikroTik 用户听得懂的对比资料（CLI/功能/价格 vs CRS3xx）。",
-  "breakpoint": "卡在样机款 $360；他做项目制，没有项目就不会付。再催付款没有意义。",
+  "binding": {
+   "level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」）",
+   "type": "伦敦一人 MikroTik 顾问/集成（Milliseconds Evolution Ltd，注册地 128 City Road 虚拟地址；20 年 MikroTik 经验）——第四档小集成商，有做 UK 经销的想法",
+   "sieve": "4（走到样品 PI，未付）",
+   "stop": "现金：没有项目就付不起 $360 的样品；Simon 10-19「Let's wait then」处理正确",
+   "revive": "等他的项目；不催。若他来，样品款抵首单（已承诺）",
+   "lane": "UK 主攻",
+   "cadence": "不动；他来再动",
+   "evidence": "k=9dced38d1d03963a（目录 + 分销问）；3bc111136e01bedb（Simon：暂无 UK 分销，先合作再谈）；29898c900941a648（project by project）；5a52d22fbd2a46da（STC-424XGGPM-280W $180 起步）；5ca2dee1999bade7（2 台样品 PI）；d90558425d8bf645（付不起）；0590f6770f0e3414（Let's wait）"
+  },
+  "situation": "三周内从群发命中走到样品发票，再停在付款——节奏对、对象弱。Simon 的处理（不给免费样、样品款抵首单、暂不谈分销、不催）符合规则。MikroTik 顾问对 L2+ Web UI 的技术反馈会有价值，但要等他有项目。",
+  "need": "24 口 PoE + 10G 上联（STC-424XGGPM-280W）起步样机。",
+  "breakpoint": "客户现金流。",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "tier": 20,
-   "price": "$180 USD（Simon 已开 PI；仓内 20% 档 $181.2）",
-   "why": "转售伙伴 → 20% 档；PI 已开，维持价格到他有项目",
+   "p1": "STC-424XGGPM-280W $180",
+   "tier": 25,
+   "price": "$180（2026-10 报价，样品款抵首单）",
+   "why": "英国 + 愿意测试 + 技术背景",
    "repeat": [],
    "gaps": [
-    "英国 UKCA 标识 + 英标电源线（BS 1363）——发货前确认",
-    "他是 MikroTik 顾问：准备一页「STC-424XGGPM-280W vs MikroTik CRS328-24P-4S+」对比（端口/PoE 预算/L3 功能/价格），这是他最需要的弹药"
+    "首个项目时间"
    ]
   },
   "next_move": {
-   "when": "4 周后（11 月中）一次轻触",
-   "channel": "S 邮箱同线程",
-   "action": "不催款；发一页 MikroTik CRS328 对比 + 「项目来了告诉我，样机 3 天内发」",
-   "one_question": "When a project comes up, will it most likely be a PoE access job (cameras / APs) or a small L3 core, so I prepare the right comparison against the MikroTik model you would normally use?"
+   "when": "客户触发",
+   "channel": "S 邮箱",
+   "action": "等",
+   "one_question": ""
   },
   "facts": [
    {
-    "date": "2026-09-29",
-    "dir": "来",
-    "who": "Iyiola Folayan",
-    "quote": "Do you have distributors in the UK? Can we work as your distributor in the UK?",
-    "why": "主动提分销",
-    "k": "9dced38d1d03963a"
-   },
-   {
-    "date": "2026-09-30",
-    "dir": "来",
-    "who": "Iyiola Folayan",
-    "quote": "For now, I just work project by project. My plan is to start a reseller partner agreement… I have been working with mikrotik for over 20 years",
-    "why": "项目制 + MikroTik 背景",
-    "k": "29898c900941a648"
-   },
-   {
-    "date": "2026-10-17",
-    "dir": "去",
-    "who": "Simon → Iyiola",
-    "quote": "PI STSC-20261017-001：2 台 STC-424XGGPM-280W，样机款抵后续订单",
-    "why": "样品 PI 已开",
-    "k": "5ca2dee1999bade7"
-   },
-   {
     "date": "2026-10-17",
     "dir": "来",
     "who": "Iyiola Folayan",
-    "quote": "Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
-    "why": "断点：无项目不付款",
+    "quote": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
+    "why": "样品 PI 搁置",
     "k": "d90558425d8bf645"
+   },
+   {
+    "date": "2026-10-03",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point",
+    "why": "付样规则",
+    "k": "5a52d22fbd2a46da"
    }
   ],
   "proof_gaps": [],
-  "draft_en": null
+  "draft_en": null,
+  "as_of": "2026-10-24"
  }
 }
