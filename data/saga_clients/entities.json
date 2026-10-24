@@ -185189,7 +185189,7 @@
 "cadence": "不动",
 "evidence": "k=2300dd9d2d1f3408"
 },
-"situation": "来信全部为机器回复；无人读信或无人回信。",
+"situation": "英国 Trade 安防分销（Luxrite Security 的 sales@ 直接进 4Gon Solutions / Cadmus Distribution Group 的 Zendesk 工单台——三者同一集团；4Gon 另有档 SC-406）。Simon 2025-01-26 发 16 口 PoE L2+ 群发 → 次日工单台真人回「not an item we would find useful」——明确婉拒。2026-10-07 Simon 又把 $180 的 24 口 PoE 群发发到 info@4gon.co.uk（SC-406 的地址），同一集团再被打一次；不动。",
 "need": "—",
 "breakpoint": "—",
 "saga_now": {
@@ -185203,10 +185203,27 @@
 "next_move": {
 "when": "不动",
 "channel": "—",
-"action": "—",
+"action": "把 luxritesecurity.com 与 4gon.co.uk 一起从群发名单剔除（已明确「not useful」）",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-01-27",
+"dir": "来",
+"who": "4Gon Solutions 工单台（support@4gon.zendesk.com，代 Luxrite sales@）",
+"quote": "Hi Simon, thank you. This is not an item we would find useful, sorry. We appreciate your enquiry. 4Gon Solutions",
+"why": "真人婉拒（不是自动回复）；Luxrite 的销售邮箱由 4Gon 工单台接管，说明同一集团",
+"k": "gmail_s 2300dd9d2d1f3408"
+},
+{
+"date": "2026-10-07",
+"dir": "去",
+"who": "Saga（Simon，群发）",
+"quote": "24 Port PoE Managed Switch… Price: 180USD/PC（发 info@4gon.co.uk = SC-406）",
+"why": "同一集团 21 个月后再被群发一次；他们已明确说过不需要——4Gon/Luxrite 应从群发名单剔除",
+"k": "gmail_s（thr 1878262953979638412）"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
