@@ -24992,21 +24992,22 @@
 "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
 "breakpoint": "C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。",
 "saga_now": {
-"p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
+"p1": "不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定",
 "tier": 20,
 "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
 "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
 "repeat": [],
 "gaps": [
 "是否对俄罗斯客户开 Realtek 线——Simon 定",
-"HRUI 线有无「8 口 PoE 管理 + watchdog」DIN 款——查规格书再说",
-"用户表「已卖 ONV 工业 FS」出处（邮件无）"
+"用户表「已卖 ONV 工业 FS」出处（邮件无）",
+"Realtek 工业线（Hasivo 供，Saga 2025-04 对外表）有 DIN 8 口 PoE L2 $110 / L3 $170——正是他 2024-05 的价位与「reliable, not hi-end」要求；见 docs/reference/价格表_Realtek工业线_Saga对外_2025.md",
+"HRUI 商用线无 DIN 款；对位在 Realtek 工业线（第 60 批核出），只差 watchdog 一项待核"
 ]
 },
 "next_move": {
 "when": "不主动；他 10 月来华季或下次来信时一句话",
 "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
-"action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给一行 HRUI 对位款",
+"action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）",
 "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
 },
 "facts": [
@@ -105491,7 +105492,8 @@
 "repeat": [],
 "gaps": [
 "2025-03 报价单价（PDF 未提取，仅 PL.xls）",
-"MOH-TA 标书结果"
+"MOH-TA 标书结果",
+"500 台项目若再活：100 台「8 口 2BT 管理 PoE」Realtek 工业线有对位 STI-288GPM-2BT（2025-04 表 $110 vs Marvell -2BT $154）；400 台「24 口 10G 上联 L3 PoE」Realtek 线无对位（最大 16 PoE、无 24 口 L3 PoE）——只能半套，别整单换线（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
 ]
 },
 "next_move": {
@@ -232427,7 +232429,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not sell optics on their own (modules only ship together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
+"one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
 },
 "facts": [
 {
@@ -321007,7 +321009,8 @@
 "why": "品牌商直联",
 "repeat": [],
 "gaps": [
-"Case 现用 L3 供应商与价位"
+"Case 现用 L3 供应商与价位",
+"他要的 L3 DIN 24 PoE 在 Realtek 工业线也没有（只有 8 口 L3 PoE $170）——「我有更便宜的」这件事 Saga 没有对位品，不接价格战（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
 ]
 },
 "next_move": {
@@ -325352,6 +325355,22 @@
 "quote": "PIM-SM/DM, problem; RIPng/PBR, big problem; IP SLA, problem. It is really hard to move on: R&D, ROI etc.",
 "why": "Saga 明确划边界（C10）",
 "k": "7adbcd07a050e85a"
+},
+{
+"date": "2026-02-27",
+"dir": "来",
+"who": "Ender Bulut",
+"quote": "I checked the Realtek-based solutions, the temperature range seems acceptable what do you think about the STI-488XGGPM-2BT, STI-0288XGGPM-2BT and STI-2288XGGGPM-2BT modules? What were the limitations or constraints related to our use of Realtek-based solutions?",
+"why": "Netaş 从 Drive 看到了 Saga 的 Realtek 工业 L3 表（第四张表）并点名三款；证明这条线对客户可见",
+"k": ""
+},
+{
+"date": "2026-02-27",
+"dir": "去",
+"who": "Saga（Alan）",
+"quote": "For Realtek, it is even far from enough, the management functions are even worse than Marvell. What you need is an industrial access switch(L3) with a wide-range temperature range… I am afraid that we have to let it go.",
+"why": "Saga 自己对 Realtek 工业 L3 的定性——车载 L3（PIM/RIPng/PBR）不能拿它答",
+"k": ""
 },
 {
 "date": "2026-03-02",
@@ -583133,7 +583152,7 @@
 "price": "2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5",
 "why": "已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈",
 "repeat": "项目制",
-"gaps": "是否还在做项目；付款路径"
+"gaps": "是否还在做项目；付款路径；L2 DIN 2×SFP + 8×PoE 240W 项目的 Realtek 工业线对位：STI-288GPM-2BT（2025-04 表 $110，vs Marvell STI-288DGGPM $137.5）——只在他再来问价时给，不主动（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
 },
 "next_move": {
 "when": "2026-12",

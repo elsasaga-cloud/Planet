@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。
 - **断点 / 为什么停在这里**：对手不是 Cisco/Planet 而是深圳 N-net（同价带国产）：Linxcom 2025-03-18 说「too expensive」、04-22 拿 N-net 规格书要 Saga 解释差异 → Saga 的差异只能是 Marvell/软件平台与长期供货，不是价格。对位：N-net 244PGM ↔ STI-42424XGGPM(L3) $517；N-net 10 口 bt ↔ STI-288DGGPM-2BT $154。
 - **Saga 现在该推什么**：P1 **STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算**（20% 档，历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线）——英国分销 + 500 台 RFQ + 采购经理直联｜已发资料（勿重发）：PL(2025-03-17)、STI-42424XGGPM(2025-03-17)、STI-288DGGPM-2BT(2025-03-17)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-03-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-  - 做不了 / 要先核的：2025-03 报价单价（PDF 未提取，仅 PL.xls）；MOH-TA 标书结果
+  - 做不了 / 要先核的：2025-03 报价单价（PDF 未提取，仅 PL.xls）；MOH-TA 标书结果；500 台项目若再活：100 台「8 口 2BT 管理 PoE」Realtek 工业线有对位 STI-288GPM-2BT（2025-04 表 $110 vs Marvell -2BT $154）；400 台「24 口 10G 上联 L3 PoE」Realtek 线无对位（最大 16 PoE、无 24 口 L3 PoE）——只能半套，别整单换线（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）
 - **下一步（具体）**：现在　A 邮箱 → hussain.alqahtani@linx-com.com（回到 MOH-TA-170325 Offer 串）　问结果 + 给重算价 + 不再附 ChatGPT
   - 第一问（只问一个）：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
 

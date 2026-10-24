@@ -134,21 +134,22 @@
     "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
     "breakpoint": "C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。",
     "saga_now": {
-      "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
+      "p1": "不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定",
       "tier": 20,
       "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
       "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
       "repeat": [],
       "gaps": [
         "是否对俄罗斯客户开 Realtek 线——Simon 定",
-        "HRUI 线有无「8 口 PoE 管理 + watchdog」DIN 款——查规格书再说",
-        "用户表「已卖 ONV 工业 FS」出处（邮件无）"
+        "用户表「已卖 ONV 工业 FS」出处（邮件无）",
+        "Realtek 工业线（Hasivo 供，Saga 2025-04 对外表）有 DIN 8 口 PoE L2 $110 / L3 $170——正是他 2024-05 的价位与「reliable, not hi-end」要求；见 docs/reference/价格表_Realtek工业线_Saga对外_2025.md",
+        "HRUI 商用线无 DIN 款；对位在 Realtek 工业线（第 60 批核出），只差 watchdog 一项待核"
       ]
     },
     "next_move": {
       "when": "不主动；他 10 月来华季或下次来信时一句话",
       "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
-      "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给一行 HRUI 对位款",
+      "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）",
       "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
     },
     "facts": [

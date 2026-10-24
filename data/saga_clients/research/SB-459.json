@@ -147,7 +147,8 @@
       "why": "品牌商直联",
       "repeat": [],
       "gaps": [
-        "Case 现用 L3 供应商与价位"
+        "Case 现用 L3 供应商与价位",
+        "他要的 L3 DIN 24 PoE 在 Realtek 工业线也没有（只有 8 口 L3 PoE $170）——「我有更便宜的」这件事 Saga 没有对位品，不接价格战（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
       ]
     },
     "next_move": {

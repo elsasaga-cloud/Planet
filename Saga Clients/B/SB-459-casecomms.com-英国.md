@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。
 - **断点 / 为什么停在这里**：价格 + 定位话术。
 - **Saga 现在该推什么**：P1 **STH 系列或 10G 工业汇聚（新品类）**（25% 档，按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd）——品牌商直联
-  - 做不了 / 要先核的：Case 现用 L3 供应商与价位
+  - 做不了 / 要先核的：Case 现用 L3 供应商与价位；他要的 L3 DIN 24 PoE 在 Realtek 工业线也没有（只有 8 口 L3 PoE $170）——「我有更便宜的」这件事 Saga 没有对位品，不接价格战（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）
 - **下一步（具体）**：2027-Q1　A 邮箱 → andys@case.uk.com　只发它没有的品类
   - 第一问（只问一个）：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?
 

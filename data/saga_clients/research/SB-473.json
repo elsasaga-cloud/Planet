@@ -478,6 +478,22 @@
         "k": "7adbcd07a050e85a"
       },
       {
+        "date": "2026-02-27",
+        "dir": "来",
+        "who": "Ender Bulut",
+        "quote": "I checked the Realtek-based solutions, the temperature range seems acceptable what do you think about the STI-488XGGPM-2BT, STI-0288XGGPM-2BT and STI-2288XGGGPM-2BT modules? What were the limitations or constraints related to our use of Realtek-based solutions?",
+        "why": "Netaş 从 Drive 看到了 Saga 的 Realtek 工业 L3 表（第四张表）并点名三款；证明这条线对客户可见",
+        "k": ""
+      },
+      {
+        "date": "2026-02-27",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "For Realtek, it is even far from enough, the management functions are even worse than Marvell. What you need is an industrial access switch(L3) with a wide-range temperature range… I am afraid that we have to let it go.",
+        "why": "Saga 自己对 Realtek 工业 L3 的定性——车载 L3（PIM/RIPng/PBR）不能拿它答",
+        "k": ""
+      },
+      {
         "date": "2026-03-02",
         "dir": "来",
         "who": "Ender Bulut",

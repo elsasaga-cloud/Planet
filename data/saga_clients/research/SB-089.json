@@ -105,7 +105,8 @@
       "repeat": [],
       "gaps": [
         "2025-03 报价单价（PDF 未提取，仅 PL.xls）",
-        "MOH-TA 标书结果"
+        "MOH-TA 标书结果",
+        "500 台项目若再活：100 台「8 口 2BT 管理 PoE」Realtek 工业线有对位 STI-288GPM-2BT（2025-04 表 $110 vs Marvell -2BT $154）；400 台「24 口 10G 上联 L3 PoE」Realtek 线无对位（最大 16 PoE、无 24 口 L3 PoE）——只能半套，别整单换线（docs/reference/价格表_Realtek工业线_Saga对外_2025.md）"
       ]
     },
     "next_move": {
