@@ -75,7 +75,7 @@
       "when": "2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）",
       "channel": "S 邮箱 → cfikes@fikesmedia.com（同一线程）",
       "action": "一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样",
-      "one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
+      "one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
     },
     "facts": [
       {
@@ -106,7 +106,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: 24 Port PoE Managed Switch — one straight answer on API",
-      "body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB) and scriptable SSH/CLI — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
+      "body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
     },
     "as_of": "2026-10-24"
   }

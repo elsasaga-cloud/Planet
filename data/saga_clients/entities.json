@@ -19547,7 +19547,7 @@
 "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
 "breakpoint": "芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。",
 "saga_now": {
-"p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI——仅当 Mark 对 Broadcom 松口",
+"p1": "CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI（2026-06 对 FiberX 报 $1,250 含 MA 许可；群发 $1,500）——仅当 Mark 对 Broadcom 松口",
 "tier": 30,
 "price": "CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者",
 "why": "C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜需求台账 #13/#1：2024-05 的「不可用」现在可用（STH1G），一句话补上；价按 Q-54「按数量报」",
@@ -205146,7 +205146,7 @@
 "when": "2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）",
 "channel": "S 邮箱 → cfikes@fikesmedia.com（同一线程）",
 "action": "一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样",
-"one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
+"one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
 },
 "facts": [
 {
@@ -205177,7 +205177,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: 24 Port PoE Managed Switch — one straight answer on API",
-"body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB) and scriptable SSH/CLI — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
+"body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
 },
 "as_of": "2026-10-24"
 }
@@ -205392,7 +205392,7 @@
 "p1": "STC-424XGGPM-280W $180",
 "tier": 25,
 "price": "$180（2026-10 报价，样品款抵首单）",
-"why": "英国 + 愿意测试 + 技术背景",
+"why": "英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17",
 "repeat": [],
 "gaps": [
 "首个项目时间"

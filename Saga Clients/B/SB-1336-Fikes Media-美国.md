@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B）；自动分级 B：+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）
-- **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
+- **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发） S 邮箱 → cfikes@fikesmedia.com（同一线程） 一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$180（2026-10 对同类客户报价））——美国 + 主动
   - 做不了 / 要先核的：他的控制器是什么
 - **下一步（具体）**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）　S 邮箱 → cfikes@fikesmedia.com（同一线程）　一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
-  - 第一问（只问一个）：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
+  - 第一问（只问一个）：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@ updated: 2026-10-24
 ```text
 Hi Christopher,
 
-One straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB) and scriptable SSH/CLI — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.
+One straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB), scriptable SSH/CLI, and MQTT publish of port/PoE status from firmware 7.5 — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.
 
 Which controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).
 
