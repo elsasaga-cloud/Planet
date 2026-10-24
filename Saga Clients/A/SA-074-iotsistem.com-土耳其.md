@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-074` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（无成交；两年三轮询价全部止于「太贵」）** ｜ 类型：土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配） ｜ 筛子：1–2（回群发、要价表；未付样、未走 Template） ｜ 停点：价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态 ｜ 复活：只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价 ｜ 通路：TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报） ｜ 节奏：最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交 ｜ 证据：A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97
+- **绑定等级：未绑定（无成交；两年三轮询价全部止于「太贵」）** ｜ 类型：土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配） ｜ 筛子：1–2（回群发、要价表；未付样、未走 Template） ｜ 停点：价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态 ｜ 复活：只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价 ｜ 通路：TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报） ｜ 节奏：最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交 ｜ 证据：A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）
 - **现状一句话**：土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**
 - **对方真实需求（有据）**：DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。
 - **断点 / 为什么停在这里**：价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。
@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2026-05-28 | 来 | Berk | price is extremely expensive, Could it possible to 10/100 not giga? | 降配求价 | `0a2e19b099bda25c` |
 | 2026-06-08 | 来 | Berk | 8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM) | 真实规格 = Realtek 级 | `62ef6eb2735e86ae` |
 | 2026-08-18 | 来 | Berk | This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise | 里拉 + 价格 | `d88199ef36ad9a1d` |
+| 2026-08-18 | 来 | Berk（附件 price.png = Alan 2026-06-08 邮件截图） | For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE | 对方把 Alan 6 月的 $120 原话截图回寄 =「你自己报的就是贵」；土耳其 10/100 低价需求与 Saga 千兆线错位 | `gmail_a att 2026-08-18` |
 | 2026-09-03 | 去 | Alan | I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged | Saga 已到底线 | `faed82fe02dfeb95` |
 | 2026-09-18 | 去 | Alan | Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China | 最后一次报价（RMB） | `48f91a073d0f4e97` |
 

@@ -89,7 +89,7 @@
       "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
       "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
       "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de"
+      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
     },
     "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
     "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
@@ -136,6 +136,14 @@
         "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
         "why": "内部审批阶段",
         "k": "d4ad954f1fff2bea"
+      },
+      {
+        "date": "2026-02-16",
+        "dir": "来",
+        "who": "客户（附件 Network products from Juniper.txt）",
+        "quote": "QFX5200-32C-AFO ×4 · MX204-HW-BASE ×2 · S-MX-4C-A1-C1-P ×2 · QSFP-100G-ER4 ×12 · JNP-QSFP-100G-LR4 ×3 · QSFP-100G-SR4 ×4 · 100G DAC 1M ×4 / 3M ×2 · PSU/FAN/RACK-KIT 备件",
+        "why": "终端项目原 BOM 是 Juniper QFX5200-32C（32×100G）+ MX204 路由 → Saga 报的 CENTEC 400G 32×QSFP112 是「升维替代」；MX204 路由器部分 Saga 没有对位",
+        "k": "gmail_a att 2026-02-16"
       },
       {
         "date": "2026-03-20",

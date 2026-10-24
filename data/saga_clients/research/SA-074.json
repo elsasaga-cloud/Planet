@@ -1,205 +1,213 @@
 {
- "code": "SA-074",
- "name_official": "IoT Sistem（Bosgem，USR IoT 土耳其官方分销）",
- "website_status": "在线（产品页 2018–2020 年发布，更新停滞迹象）",
- "summary": "土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。",
- "type": "工业/IoT 分销商（网店）",
- "size": "小型",
- "brands_seen": [
-  "USR IoT",
-  "MLB（MLB-E4204-28-F 等工业交换机）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "USR IoT 土耳其官方分销商 Bosgem，在售 MLB 工业交换机",
-   "quote": "Usr iot Türkiye resmi distribütörü Bosgem… Ethernet Switch MLB-E4204-28-F… MLB E4202-10-F… MLB-E4103-5-P",
-   "url": "https://www.iotsistem.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业交换机用于自动化与军工项目；品类覆盖媒体转换器/可管理 PoE/可管理/非管理",
-   "quote": "Endüstriyel ethernet switch ürünlerimizi otomasyon ve askeri projeler gibi birçok projelerde kullanılabilir… Ethernet Medya Çevirici, Yönetilebilir PoE, Yönetilebilir Switch, Yönetilemez PoE, Yönetilemez Switch",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "MLB-E4208-14-F：10 电 + 4 SFP，双电源 12~58VDC，DIN 导轨，-40/+85°C 可选",
-   "quote": "10 Gigabit bakır bağlantı noktası artı 4 SFP… Çift güç girişi (12 ~ 58VDC)… DIN rayı ve duvara montaj… -40/+85 ˚C",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4208-14-f/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "MLB-E4204-28-G-F 28 口管理机架工业机",
-   "quote": "28 Port yönetilebilir switch MLB-E4204-28-G-F … rafa monte edilebilir … MTBF · > 25 yıl … Giriş Koruması · IP30 … 19 “rafa montaj",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
-   "date": "2019-01-26"
-  },
-  {
-   "kind": "官网",
-   "claim": "管理型类目型号列表",
-   "quote": "MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Berk",
-   "role": "（用户记录：已有回复）",
-   "email": "info@iotsistem.com",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "IoT Sistem（Bosgem；USR IoT 土耳其官方分销）",
-  "hq": "Türkiye",
-  "other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE"
- },
- "business_lines": [
-  "USR IoT 串口服务器/网关分销",
-  "MLB-E 系列工业以太网交换机（机架 28 口管理、14 口、5/8 口非管理 DIN）",
-  "自动化与军工项目（守界：军工不供）"
- ],
- "products_seen": [
-  {
-   "brand": "MLB",
-   "model": "MLB-E4204-28-G-F / MLB-E4204-28-F",
-   "spec": "28 口千兆管理机架工业，IP30，MTBF >25 年",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
-   "date": "2019-01-26",
-   "saga": "STC-424XGGPM-280W（PoE 版）/ STC-448XGGM(L3)"
-  },
-  {
-   "brand": "MLB",
-   "model": "MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F",
-   "spec": "10/14 口管理型",
-   "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
-   "date": "2019-01",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "MLB",
-   "model": "MLB-E4102-5-F / MLB-E4101-5",
-   "spec": "5 口非管理 DIN，-40~75℃",
-   "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-switch/mlb-e4102-5-f/",
-   "date": "2018-11-26",
-   "saga": "STI-144GP"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.iotsistem.com/（「Fiyat Teklif Listesine Ekle」询价制）",
-  "直邮": "info@iotsistem.com（用户表）"
- },
- "signals": [
-  "MLB 系列页面最后日期 2018–2020——产品线陈旧，可能正在换源（2026-10-21）",
-  "用户表：工业 FS，好多都是 MLB 型号"
- ],
- "risks": [
-  "提及军工项目——守界，只供自动化/商用",
-  "网店询价制，决策人不明"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档"
- },
- "email_hook": "Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（无成交；两年三轮询价全部止于「太贵」）",
-   "type": "土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配）",
-   "sieve": "1–2（回群发、要价表；未付样、未走 Template）",
-   "stop": "价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态",
-   "revive": "只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价",
-   "lane": "TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报）",
-   "cadence": "最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交",
-   "evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97"
-  },
-  "situation": "土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**",
-  "need": "DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。",
-  "breakpoint": "价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。",
-  "saga_now": {
-   "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
-   "tier": 20,
-   "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）",
-   "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
-   "repeat": [],
-   "gaps": [
-    "是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）",
-    "他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜"
-   ]
-  },
-  "next_move": {
-   "when": "不主动；他下次来信时一次性答复",
-   "channel": "A 邮箱",
-   "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
-   "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?"
-  },
-  "facts": [
-   {
-    "date": "2024-05-29",
-    "dir": "来",
-    "who": "Berk（iotsistem）",
-    "quote": "Price is higher than expected.",
-    "why": "价格流起点（S 邮箱）",
-    "k": "19bc7eefb231ce4a"
-   },
-   {
-    "date": "2026-05-28",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "price is extremely expensive, Could it possible to 10/100 not giga?",
-    "why": "降配求价",
-    "k": "0a2e19b099bda25c"
-   },
-   {
-    "date": "2026-06-08",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM)",
-    "why": "真实规格 = Realtek 级",
-    "k": "62ef6eb2735e86ae"
-   },
-   {
-    "date": "2026-08-18",
-    "dir": "来",
-    "who": "Berk",
-    "quote": "This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise",
-    "why": "里拉 + 价格",
-    "k": "d88199ef36ad9a1d"
-   },
-   {
-    "date": "2026-09-03",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged",
-    "why": "Saga 已到底线",
-    "k": "faed82fe02dfeb95"
-   },
-   {
-    "date": "2026-09-18",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China",
-    "why": "最后一次报价（RMB）",
-    "k": "48f91a073d0f4e97"
-   }
+  "code": "SA-074",
+  "name_official": "IoT Sistem（Bosgem，USR IoT 土耳其官方分销）",
+  "website_status": "在线（产品页 2018–2020 年发布，更新停滞迹象）",
+  "summary": "土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。",
+  "type": "工业/IoT 分销商（网店）",
+  "size": "小型",
+  "brands_seen": [
+    "USR IoT",
+    "MLB（MLB-E4204-28-F 等工业交换机）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "USR IoT 土耳其官方分销商 Bosgem，在售 MLB 工业交换机",
+      "quote": "Usr iot Türkiye resmi distribütörü Bosgem… Ethernet Switch MLB-E4204-28-F… MLB E4202-10-F… MLB-E4103-5-P",
+      "url": "https://www.iotsistem.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业交换机用于自动化与军工项目；品类覆盖媒体转换器/可管理 PoE/可管理/非管理",
+      "quote": "Endüstriyel ethernet switch ürünlerimizi otomasyon ve askeri projeler gibi birçok projelerde kullanılabilir… Ethernet Medya Çevirici, Yönetilebilir PoE, Yönetilebilir Switch, Yönetilemez PoE, Yönetilemez Switch",
+      "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "MLB-E4208-14-F：10 电 + 4 SFP，双电源 12~58VDC，DIN 导轨，-40/+85°C 可选",
+      "quote": "10 Gigabit bakır bağlantı noktası artı 4 SFP… Çift güç girişi (12 ~ 58VDC)… DIN rayı ve duvara montaj… -40/+85 ˚C",
+      "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4208-14-f/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "MLB-E4204-28-G-F 28 口管理机架工业机",
+      "quote": "28 Port yönetilebilir switch MLB-E4204-28-G-F … rafa monte edilebilir … MTBF · > 25 yıl … Giriş Koruması · IP30 … 19 “rafa montaj",
+      "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
+      "date": "2019-01-26"
+    },
+    {
+      "kind": "官网",
+      "claim": "管理型类目型号列表",
+      "quote": "MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF",
+      "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Berk",
+      "role": "（用户记录：已有回复）",
+      "email": "info@iotsistem.com",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "IoT Sistem（Bosgem；USR IoT 土耳其官方分销）",
+    "hq": "Türkiye",
+    "other": "IoT/工业通讯网店；MLB-E 系列工业交换机页面日期 2018–2020（陈旧），28 口机架管理型、14 口、5 口非管理；类目含工业 MC、管理/非管理 PoE"
+  },
+  "business_lines": [
+    "USR IoT 串口服务器/网关分销",
+    "MLB-E 系列工业以太网交换机（机架 28 口管理、14 口、5/8 口非管理 DIN）",
+    "自动化与军工项目（守界：军工不供）"
+  ],
+  "products_seen": [
+    {
+      "brand": "MLB",
+      "model": "MLB-E4204-28-G-F / MLB-E4204-28-F",
+      "spec": "28 口千兆管理机架工业，IP30，MTBF >25 年",
+      "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilebilir-switch/mlb-e4204-28-g-f/",
+      "date": "2019-01-26",
+      "saga": "STC-424XGGPM-280W（PoE 版）/ STC-448XGGM(L3)"
+    },
+    {
+      "brand": "MLB",
+      "model": "MLB E4202-10-F / E4202-10-GF；MLB-E4208-14-G-F",
+      "spec": "10/14 口管理型",
+      "url": "https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/",
+      "date": "2019-01",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "MLB",
+      "model": "MLB-E4102-5-F / MLB-E4101-5",
+      "spec": "5 口非管理 DIN，-40~75℃",
+      "url": "https://www.iotsistem.com/iotsistem/ethernet-switch/yonetilemez-switch/mlb-e4102-5-f/",
+      "date": "2018-11-26",
+      "saga": "STI-144GP"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.iotsistem.com/（「Fiyat Teklif Listesine Ekle」询价制）",
+    "直邮": "info@iotsistem.com（用户表）"
+  },
+  "signals": [
+    "MLB 系列页面最后日期 2018–2020——产品线陈旧，可能正在换源（2026-10-21）",
+    "用户表：工业 FS，好多都是 MLB 型号"
+  ],
+  "risks": [
+    "提及军工项目——守界，只供自动化/商用",
+    "网店询价制，决策人不明"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "MLB-E4202-10 / E4208-14 位（8–14 口 DIN 管理）对位 STI-288DGGPM；5 口位 STI-144GP；28 口机架位 STC-424XGGPM-280W；分销 20% 档"
+  },
+  "email_hook": "Your MLB-E4202-10 and E4208-14 class DIN units map directly onto the 8-port gigabit PoE managed switch we build on a Marvell core, so I am quoting that first with the 5-port compact model as the entry SKU.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（无成交；两年三轮询价全部止于「太贵」）",
+      "type": "土耳其 DIN 导轨工业集成/分销（**价格流**：每轮都要 special price、改 10/100 降配）",
+      "sieve": "1–2（回群发、要价表；未付样、未走 Template）",
+      "stop": "价格——2024-05「Price is higher than expected」、2026-05/06「extremely expensive」、2026-08「huge expensive」；只接受 DIN 导轨形态",
+      "revive": "只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价",
+      "lane": "TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报）",
+      "cadence": "最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交",
+      "evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+    },
+    "situation": "土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**",
+    "need": "DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。",
+    "breakpoint": "价格与芯片线错位：他要的是 Realtek 价位的 DIN 机，Saga 群发推的是 Marvell。C2 第一道筛子本应把他筛掉，但他持续回信，消耗了 Alan 约 30 封去信。",
+    "saga_now": {
+      "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
+      "tier": 20,
+      "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）",
+      "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
+      "repeat": [],
+      "gaps": [
+        "是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）",
+        "他要的「SC 光口 + 10/100」在 HRUI 目录里是否有现货型号——查规格书后再说，不猜"
+      ]
+    },
+    "next_move": {
+      "when": "不主动；他下次来信时一次性答复",
+      "channel": "A 邮箱",
+      "action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
+      "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at [HRUI 价] close this, or is PoE still required?"
+    },
+    "facts": [
+      {
+        "date": "2024-05-29",
+        "dir": "来",
+        "who": "Berk（iotsistem）",
+        "quote": "Price is higher than expected.",
+        "why": "价格流起点（S 邮箱）",
+        "k": "19bc7eefb231ce4a"
+      },
+      {
+        "date": "2026-05-28",
+        "dir": "来",
+        "who": "Berk",
+        "quote": "price is extremely expensive, Could it possible to 10/100 not giga?",
+        "why": "降配求价",
+        "k": "0a2e19b099bda25c"
+      },
+      {
+        "date": "2026-06-08",
+        "dir": "来",
+        "who": "Berk",
+        "quote": "8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM)",
+        "why": "真实规格 = Realtek 级",
+        "k": "62ef6eb2735e86ae"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "来",
+        "who": "Berk",
+        "quote": "This is huge expensive friend… price highly important issue for Turkish client. Now the Currency is amazing raise",
+        "why": "里拉 + 价格",
+        "k": "d88199ef36ad9a1d"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "来",
+        "who": "Berk（附件 price.png = Alan 2026-06-08 邮件截图）",
+        "quote": "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE",
+        "why": "对方把 Alan 6 月的 $120 原话截图回寄 =「你自己报的就是贵」；土耳其 10/100 低价需求与 Saga 千兆线错位",
+        "k": "gmail_a att 2026-08-18"
+      },
+      {
+        "date": "2026-09-03",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged",
+        "why": "Saga 已到底线",
+        "k": "faed82fe02dfeb95"
+      },
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China",
+        "why": "最后一次报价（RMB）",
+        "k": "48f91a073d0f4e97"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

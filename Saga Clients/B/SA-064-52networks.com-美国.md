@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-22；表内兴趣：MC SFP 无源产品）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：他 2025-07 买的 8 口工业 PoE 同款（型号以 PI 为准） — 转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）；样机 2 台已成交（A 总览 §3）；批量报价按 CNY ×1.2 ÷ 6.69 快照另写
-- **第一问（只问一个）**：Did the two 8-port industrial PoE samples end up in a project or in your GSA catalog, and what was missing if not?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表 — 转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）；STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变
+- **第一问（只问一个）**：John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 中旬 A 邮箱 只问样机去向（进目录了吗、哪个项目），不发新品
 
@@ -44,24 +44,26 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-064` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（2 台样机已付已收）** ｜ 类型：美国政府/企业 IT 转售商（GSA MAS 至 2027-07-25）（混合：先问价再要样） ｜ 筛子：3（PayPal 付样、收货） ｜ 停点：对方不需要 / 无回音——2025-07 样机到手后未再来信；Alan 2026-05/07/08 三次单向推送（10G L3、Q3 链接、24 口 PoE $170）无回 ｜ 复活：52 Networks 拿到联邦/州项目（GSA 渠道）；或对方对 24 口 PoE $170 报价有反应 ｜ 通路：US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge） ｜ 节奏：最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成 ｜ 证据：A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档
+- **绑定等级：轻度（2 台 STI-288GP 样机已付已收，2025-07；之后 15 个月无项目）** ｜ 类型：美国政府/企业 IT 转售商（GSA MAS 至 2027-07-25）（混合：先问价再要样） ｜ 筛子：3（PayPal 付样、收货） ｜ 停点：样机收到后沉默的最可能原因不是产品，而是 GSA MAS 的 TAA 产地要求：Transition 机是 TAIWAN（TAA 合规国），Saga 机 Made in China 不能上 GSA 目录 → 他只能拿去 open-market/州县项目用，没有现成出口 ｜ 复活：① 他有非 GSA（商业/州县）项目需要 8 口加固 PoE；② 或他问「TAA 怎么解」——Saga 没有台湾/越南产线，不能承诺，只能老实说 ｜ 通路：US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge） ｜ 节奏：最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成 ｜ 证据：A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）
 - **现状一句话**：美国 52 Networks（John Davis，Director Sales，VA）2025-07-11 回群发问「anything similar to」他附的 1U 非管理机 → 两天内问价、问含电源价 → 7-17 要 2 台样机 + PayPal 链接 → 7-18 付款 → 7-22/23 催货 → 7-24「Thanks」后沉默。**典型美国转售商试样：两周内付钱，之后没有项目就没有声音。**
 - **对方真实需求（有据）**：① 8 口工业 PoE（附 1U 非管理机图样，可能是替代某现有 SKU）；② 含电源整套报价；③ 快（反复问 how soon）。
-- **断点 / 为什么停在这里**：样机之后没有项目触发；Saga 三次推送都是通用新品（10G L3 / Q3 链接 / 24 口 PoE），没有针对他 7 月那款 8 口工业 PoE 的回访（样机用得怎样、是否进了目录）。
-- **Saga 现在该推什么**：P1 **他 2025-07 买的 8 口工业 PoE 同款（型号以 PI 为准）**（20% 档，样机 2 台已成交（A 总览 §3）；批量报价按 CNY ×1.2 ÷ 6.69 快照另写）——转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）
+- **断点 / 为什么停在这里**：TAA/GSA：他买样是为了替换目录里的台湾 Transition SKU；Saga 中国产地 ≠ TAA → 目录路径走不通。Alan 之后三次群发（10G L3 / Q3 链接 / 24 口 PoE $170）都没碰这个要害，也没回访样机。
+- **Saga 现在该推什么**：P1 **STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表**（20% 档，STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变）——转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）
   - 复购/在买项：8 口工业 PoE 样机 ×2（2025-07）
   - 做不了 / 要先核的：美国项目若要 TAA/UL：Saga 不做 UL（INH 规则），TAA 产地问题要先问清——不主动承诺
 - **下一步（具体）**：2026-11 中旬　A 邮箱　只问样机去向（进目录了吗、哪个项目），不发新品
-  - 第一问（只问一个）：Did the two 8-port industrial PoE samples end up in a project or in your GSA catalog, and what was missing if not?
+  - 第一问（只问一个）：John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-07-11 | 来 | John Davis（52 Networks） | Do you have anything similar to that?（附 1U Unmanaged 图） | 需求来源 = 替代某现有 SKU | `3cce90c065ca8ce5` |
+| 2025-07-11 | 来 | John Davis（附件 Xerox Scan_07102025162250.pdf） | GSA Advantage 页：UNMANAGED HARDENED GIGABIT ETHERNET POE+ SWITCH · Transition Networks SISTP1040-382-LRT · Country of Origin: TAIWAN · $210.81 EA · Sold and shipped by 52 NETWORKS, INC. · Contract 47QTCA22D00B3 (ends Jul 25, 2027) | 「anything similar to that」= 他在 GSA 目录里卖的台湾产 Transition 8 PoE+ + 2 SFP 加固非管理机（$210.81）；他想找一个更便宜的替代 SKU 上同一目录 | `e38d26c7… / 附件 sha 5ab4b0d2600e1deb 同批` |
+| 2025-07-12 | 去 | Alan | 58usd/pc STI-288GP: 2*Gigabit SFP+8*10/100/1000M RJ45, PoE af/at, 240W, Unmanaged, DIP, DC44V~DC57V, -40℃ to 75℃, Din mounted … 40usd/pc for ORIGINAL Meanwell NDR-240-48 → 58+40=98usd; 1G-LX 6usd, single-fiber pair 12usd | Saga 对位 = STI-288GP $58（含 PSU $98）vs 他 GSA 售价 $210.81 —— 毛利空间巨大，所以他两天内付样 | `gmail_a 2025-07-12` |
 | 2025-07-17 | 来 | John Davis | Can you send me a sample for 2? Shipping Address: 5142 Meeting pl woodbridge VA 22193 And let me know how to pay? | 样机决策快 | `34e665593ab1c50f` |
 | 2025-07-18 | 来 | John Davis | I just made the payment | PayPal 成交 | `41a1bbbe8f213553` |
 | 2026-08-14 | 去 | Alan | Marvell AC5 based L2+ switch… 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC | 最近一次报价点（群发式） | `9fc5dd871aabe856` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-07 分片在重跑范围内：Alan 7-12/7-18 的报价原文待补（当前分片 2025-07 只有 154 KB）
+- **还缺的证据（等 A 邮箱 / Extra Info）**：TAA 是否真是停点 = 推断（证据：GSA 页写 TAIWAN + 他是 GSA 承包商），需他一句话确认；PI/付款金额见 A 总览 §3，样机型号 STI-288GP 由 2025-07-12 报价链确认
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -301,19 +303,20 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: the two 8-port industrial PoE samples — did they land anywhere?
+**主题**：Re: the two STI-288GP samples (July 2025) — GSA or commercial use?
 
 ```text
-Hi, John,
+Hi John,
 
-In July 2025 you bought two 8-port industrial PoE samples and asked twice "how soon". We shipped, and then sent you only generic new-product mail, which was not fair to you.
+A direct question rather than a new-product mail: the two STI-288GP industrial PoE units you bought from us in July 2025 — did they end up in a commercial/state project, or were they meant to replace the Transition SISTP1040-382-LRT on your GSA listing?
 
-One question: did the two units end up in a project or in your GSA catalog — and if not, what was missing (spec, PSU, TAA, price)?
+If GSA was the target, I should be honest: our switches are made in China, so they are not TAA-compliant and cannot go on the schedule. For open-market or state/county work the same unit is still $58 USD EXW (power supply MEAN WELL NDR-240-48 $40), and the managed version STI-288DGGPM is available if a project needs VLAN/ring.
 
-If the fit is right, the same unit in 20-50 pcs is quoted on request with the power supplies included, 4-7 working days ex-works.
+If there is nothing on your side right now, just say so and I will not keep sending catalog mails.
 
-Thank you.
+Best regards,
 Alan
+Saga Telecom · sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

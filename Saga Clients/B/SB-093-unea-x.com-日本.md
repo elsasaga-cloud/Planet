@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段；未付样）** ｜ 类型：日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性） ｜ 筛子：2（细读规格、提问清单；未进 Template） ｜ 停点：日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」 ｜ 复活：他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回 ｜ 通路：JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担） ｜ 节奏：最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内 ｜ 证据：A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04
+- **绑定等级：未绑定（询问阶段；未付样）** ｜ 类型：日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性） ｜ 筛子：2（细读规格、提问清单；未进 Template） ｜ 停点：日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」 ｜ 复活：他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回 ｜ 通路：JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担） ｜ 节奏：最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内 ｜ 证据：A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）
 - **现状一句话**：UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。
 - **对方真实需求（有据）**：带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。
 - **断点 / 为什么停在这里**：合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL；对方「Alibaba 采购」的问法说明预算与渠道偏低端。
@@ -54,8 +54,10 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-04-22 | 来 | 大迫（UNEAX） | Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing? | 需求 + 借样习惯 | `01650dadfc0d13bc` |
+| 2026-04-23 | 去 | Alan | STI-054GP: 33USD/PC · STI-088GP: 50USD/PC · STI-01616GP: 128USD/PC；100 pcs: 31 / 45 / 120 USD；DAP 34.5 / 48.5 / 127 USD（邮件正文内混入中文「请注意…」三条备注） | 对 UNEAX 的价格锚；同一封客户信里带中文内部备注 = 外发纪律漏洞（Saga.md：对外英文） | `gmail_a 2026-04-23` |
 | 2026-04-30 | 来 | 大迫 | For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS | 日本合规清单 | `b1cd35734a880b12` |
 | 2026-05-04 | 来 | 井上 | is it possible to purchase "Made in China" items from the Alibaba platform? | 渠道/预算信号 | `18a11c4b61a88233` |
+| 2026-05-05 | 来 | UNEAX Inoue（附件 Requirements.xlsx，17 问） | 1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sale in Japan under our company name? · 3 label translated into Japanese? · 5–7 logo on sample/packaging/product? · 8 PSE-certified power supply mandatory · 9–12 RMA / warranty years / post-warranty policy / tech support duration · 13–14 Sales track record in Japan & to date · 15 failure rate · 16 how to verify AI WATCH DOG · 17 transmission speed at 250 m | 日本商社的尽调清单：合规自担 + 日文标签 + PSE 电源 + 故障率/保修制度 —— Saga 能答的是 8/9/10/16/17，答不了的是 2/13/15（无日本先例、无故障率统计） | `gmail_a att 2026-05-05` |
 | 2026-05-06 | 来 | 井上 | MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purchase price of 1,100 yen | 成本锚点 | `d591c419c309c81c` |
 | 2026-05-08 | 去 | Alan | GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified… desktop type, NOT DIN type | 日本电源标准答案 | `3ee1098f834e6f04` |
 
