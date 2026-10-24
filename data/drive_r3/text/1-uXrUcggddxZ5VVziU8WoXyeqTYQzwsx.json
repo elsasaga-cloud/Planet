@@ -1,0 +1,720 @@
+{
+"id":"1-uXrUcggddxZ5VVziU8WoXyeqTYQzwsx",
+"name":"STC-4168XGGCM.docx",
+"path":"Drive第三轮/Marvell Based Commercial Managed Switch/10G L3 without PoE/STC-4168XGGCM.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1658720,
+"sha256":"9093f124eb8c0235fe7cc265ecdae189a9b5741caf46fdbfd14133a0c01360e9",
+"extracted_at":"2026-10-24T03:27:29Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":9797,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-09-18T11:49:00+00:00",
+"modified":"2026-06-22T12:38:40+00:00",
+"paragraphs":65,
+"tables":3,
+"embedded_images":8,
+"ocr_images":0
+},
+"warnings":[],
+"text":"Introduction\nIt is a Layer 3 1G/10G Hybrid rate Managed Ethernet Switch featuring\nseamless connection for 10/100/1000M Ethernet\nwith LED indicators to display the connection and operation of equipment\neasy to manage and maintain\nIt can be  used as core layer, distribution layer, and access layer switch for various business network applications\nKey Features\n4*1G/2.5G/10G SFP+ uplink slots, 16*100/1000M SFP ports+8*1G SFP/RJ45 COMBO ports downlink, 1* RJ45 console port and 1* USB port for basic management and setup\nLayer 3 features: Support static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP\nPort aggregation: Support GE ports, 2.5GE and 10GE port aggregation, static and dynamic aggregation\nVLAN : Support access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN\nQinQ: Support port-based, VLAN-based and flow-based QinQ\nPort Mirroring: Many to one port mirroring\nLayer 2 ring network protocol: Support STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring\nMulticast: Support IGMP snooping\nQoS: QoS class, remarking, Support SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS\nSecurity: Support Dot1x, port authentication, mac authentication, RADIUS service\nSupport port-security, ip source guard, IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation\nManagement: Support LLDP, user management and login authentication; SNMPV1/V2C/V3; web management, HTTP1.1, HTTPS; Syslog; RMON(Remote Monitoring)alarm, event and history record; NTP, temperature monitoring; Ping, Tracert and optical transceiver DDM function; Support TFTP Client, Telnet Server, SSH Server and IPv6 Management\nFirmware update, configure backup/restore through Web UI, FTP and TFTP\nSpecification\nProduct Name\t32 Port Hybrid Rate Rack Type Managed Ethernet Switch\nPort\t24*Gigabit SFP Ports(With Combo Ports) / 8*10/100/1000M UTP RJ45(Combo) / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console Port(115200,8,N,1) / 1*USB 2.0 port\nNetwork Protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP\nFiber Option\tSFP Plug-able Module(LC), 1G , 2.5G or 10G based / Default speed is 10G, 1G or 2.5G speed needs to be manually configured in the Web UI / It is NOT supporting auto-detecting, manual configuration is required / It is NOT supporting 100M optical module nor configurable / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter\nSwitching Capacity\t128Gbps\nPacket Forwarding Rate\t190.4Mpps\nMAC Address Table\t16K\nVLAN\t4K\nBuffer\t12Mbit\nForwarding Delay\t<5us\nJumbo Frame\tSupport 10Kbytes\nMDX/MIDX\tSupport\nPower\tAC100-240V Input, Single Power Input(default) / Dual Power Input is optional, support fan monitoring/dual PSU status monitoring / Fan monitoring: support normal/failure mode / Fan speed: support high/low speed mode, configuring fan speed is NOT supported\nTotal Power Consumption\tFull loading≤25W\nOver-current Protection\tSupport\nWatchdog\tSupport\nMTBF\t100,000 hours\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: 0℃~50℃ / Storage Temperature: -10℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing\nLED Indicator\tPWR(Power indicator) / On: power status is normal\nOff: power off or power connection failure / S(System indicator) / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator) / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nPacking Information\n1pc switch(neutral device)\n1pc power cable(standards vary across countries)\n1pc user manual(including QIG information)\n1pc console cable(USB 2.0 to RJ45 connector)\n1pair mounting brackets(rack mountable)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 440*245*44mm\nInner box size: 525*390*95mm\nProduct weight: 3.2Kg\nPacking weight: 4Kg\nMaster box size: 545*495*420mm\nPacking quantity: 5Pcs\nPacking weight: 22Kg\nRemark\nAccessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box\nPlease prepare it by yourself or purchase a whole set from us\nPower cable is included in BOTH the packing box AND unit pricing\nWeb UI\nAbove changes are free of cost(even for 1 piece only)\nDefault IP: 192.168.56.166\nUser Name/Password: admin/admin\nPlease contact us if you need to check\nWeb Manual\nCLI Manual\nFull Software Function List\nUnavailable features\nBelow features are not available for now, and we are NOT going to develop it in 2 or 3 years\nNAT\nStacking\nSD-WAN\nTSN\nMPLS\nCloud Management\nL3 Function\nARP\tARP table aging\nDHCP Server\nIPv4/IPv6\tStatic routing\nECMP\tSupport ECMP(Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration\nRoute Policy\tIPv4 prefix-list\nVRRP\tVirtual Router Redundancy Protocol\nRouting Protocol Specification\nRIP\tRIPv1/v2\nOSPFv2\tOSPFv2\nBGP4\tBGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state\nIS-IS\tIS-ISv4\nRouting Entry\t13K\nARP\tARP table aging\nDHCP Server\nIPv4/IPv6\tStatic routing\nARP\tARP table aging\nDHCP Server\nIPv4/IPv6\tStatic routing\nL2 Function\nPort Aggregation\tSupport GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group\nPort Features\tSupport IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)\nMac-address Table Management\tSupport static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN\nVLAN\tSupport access mode / Support trunk mode / Support hybrid mode\nVLAN Classification\tMac Based VLAN / IP Based VLAN / Protocol Based VLAN\nGVRP\tNormal mode / Fixed mode / Forbidden mode\nQinQ\tPort-based QinQ / VLAN-based QinQ(VLAN-stacking; VLAN-mapping) / Flow-based QinQ\nLLDP\tLLDP(Link Layer Discovery Protocol)\nRing Network Protocol\tSupport IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures\nL2 Multicast\nIGMP Snooping\tSupport\nGroup Address\tSupport\nSecurity Function\nACL\tIP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL\nQoS\tSupport QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS\n802.1x\tPort access control / Mac-address access control / RADIUS server\nPort-security\tPort-security\nIP Source Guard\tIP Port/MAC binding\nARP-check\tSupport ARP-check and ARP packet filtering for illegal users\nAccess Control\tSupport Telnet/SSH/HTTP/HTTPS user access control\nManagement & Maintenance Function\nUser Management\tSupport password protection / Support user authorization management\nSNMP\tSupporting SNMP V1/V2C/V3 version\nWeb Management\tWeb Management / Support HTTP V1.1 / Support HTTPS\nCLI Management\tConsole/Telnet command line management\nRMON\tSupport RMON(Remote Monitoring)alarm\nFirmware Upgrade\tFirmware upgrade\nFault Detection\tPing/Tracerout / Dying gasp / Support optical transceiver DDM function\nCable Detection\tSupport copper port cable detection\nNTP\tNetwork Time Protocol\nSyslog/Debug\tSyslog/Debug / Syslog send to two servers\nConfiguration Import/Export\tSupport FTP/TFTP remote import/export / Support USB import/export / SFTP is supported\nDual Partition Management\tSupport dual partition switching\nApplication Protocol Function\nDHCP Snooping\tDHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82\nDHCP Client\tSupport DHCP client\nTelnet Server\tSupport telnet server\nTelnet Client\tSupport telnet client\nSSH Server\tSupport SSH server\nTACACS\tSupport TACACS(the terminal access controller accesses the control system)\nsFlow\tSupport network traffic analysis\nTFTP\tSupport TFTP Client\nMechanical Drawing\nRemark\nPlease contact us if the source file is needed\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nMarvell Commercial Managed Series\t                                                                                                  Saga Telecom\n2026/Q3 \t\t\t\t\t                                                                  www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Introduction"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is a Layer 3 1G/10G Hybrid rate Managed Ethernet Switch featuring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"seamless connection for 10/100/1000M Ethernet"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"with LED indicators to display the connection and operation of equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"easy to manage and maintain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It can be  used as core layer, distribution layer, and access layer switch for various business network applications"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"4*1G/2.5G/10G SFP+ uplink slots, 16*100/1000M SFP ports+8*1G SFP/RJ45 COMBO ports downlink, 1* RJ45 console port and 1* USB port for basic management and setup"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 3 features: Support static and dynamic routing, RIP, OSPF, BGP4,ECMP, VRRP"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port aggregation: Support GE ports, 2.5GE and 10GE port aggregation, static and dynamic aggregation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"VLAN : Support access, truck , hybrid mode and VLAN classification, including the Mac based VLAN, IP based VLAN and protocol based VLAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QinQ: Support port-based, VLAN-based and flow-based QinQ"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port Mirroring: Many to one port mirroring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Layer 2 ring network protocol: Support STP, RSTP, MSTP, G.8032 ERPS protocol, single ring, sub ring"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Multicast: Support IGMP snooping"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"QoS: QoS class, remarking, Support SP, WRR queue scheduling, Ingress/Engress port-based rate-limit and policy-based QoS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Security: Support Dot1x, port authentication, mac authentication, RADIUS service"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support port-security, ip source guard, IP/Port/MAC binding, arp-check and ARP packet filtering for illegal users and port isolation"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Management: Support LLDP, user management and login authentication; SNMPV1/V2C/V3; web management, HTTP1.1, HTTPS; Syslog; RMON(Remote Monitoring)alarm, event and history record; NTP, temperature monitoring; Ping, Tracert and optical transceiver DDM function; Support TFTP Client, Telnet Server, SSH Server and IPv6 Management"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Firmware update, configure backup/restore through Web UI, FTP and TFTP"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"32 Port Hybrid Rate Rack Type Managed Ethernet Switch"
+],
+[
+"Port",
+"24*Gigabit SFP Ports(With Combo Ports) / 8*10/100/1000M UTP RJ45(Combo) / 4*1G/2.5G/10GBase-X SFP+ / 1*RJ45 Console Port(115200,8,N,1) / 1*USB 2.0 port"
+],
+[
+"Network Protocol",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u 100Base-TX Ethernet / IEEE 802.3ab 1000Base-T Ethernet / IEEE 802.3z 1000Base-X Ethernet / IEEE802.3x Flow Control and Back Pressure / IEEE 802.1D Spanning Tree Protocol / IEEE 802.1w Rapid Spanning Tree Protocol / IEEE 802.1Q VLAN / ITU-T G.8032 ERPS / IEEE 802.1X Port Authentication Network Control / IEEE 802.1ab LLDP / IEEE 802.3ad LACP"
+],
+[
+"Fiber Option",
+"SFP Plug-able Module(LC), 1G , 2.5G or 10G based / Default speed is 10G, 1G or 2.5G speed needs to be manually configured in the Web UI / It is NOT supporting auto-detecting, manual configuration is required / It is NOT supporting 100M optical module nor configurable / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter"
+],
+[
+"Switching Capacity",
+"128Gbps"
+],
+[
+"Packet Forwarding Rate",
+"190.4Mpps"
+],
+[
+"MAC Address Table",
+"16K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Buffer",
+"12Mbit"
+],
+[
+"Forwarding Delay",
+"<5us"
+],
+[
+"Jumbo Frame",
+"Support 10Kbytes"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Power",
+"AC100-240V Input, Single Power Input(default) / Dual Power Input is optional, support fan monitoring/dual PSU status monitoring / Fan monitoring: support normal/failure mode / Fan speed: support high/low speed mode, configuring fan speed is NOT supported"
+],
+[
+"Total Power Consumption",
+"Full loading≤25W"
+],
+[
+"Over-current Protection",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"MTBF",
+"100,000 hours"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: 0℃~50℃ / Storage Temperature: -10℃~70℃ / Working Humidity: 10%~90%, non-condensing / Storage Temperature: 5%~95%, non-condensing"
+],
+[
+"LED Indicator",
+"PWR(Power indicator) / On: power status is normal\nOff: power off or power connection failure / S(System indicator) / On: Normal operation / Off: Connection failure / Blinking: Device initialization / USB(USB status indicator) / On: USB flash drive is detected by device / Blinking: the device is reading and writing the data from USB flash drive / Off: USB flash drive is not inserted or not detected by device / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power cable(standards vary across countries)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc console cable(USB 2.0 to RJ45 connector)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pair mounting brackets(rack mountable)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 440*245*44mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 525*390*95mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 3.2Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 4Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 545*495*420mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 5Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 22Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(Optical module, network cable, patchcord etc.)are NOT included in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power cable is included in BOTH the packing box AND unit pricing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Web UI"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Above changes are free of cost(even for 1 piece only)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Default IP: 192.168.56.166"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"User Name/Password: admin/admin"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if you need to check"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Web Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CLI Manual"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Full Software Function List"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Unavailable features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Below features are not available for now, and we are NOT going to develop it in 2 or 3 years"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"NAT"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Stacking"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"SD-WAN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"TSN"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"MPLS"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Cloud Management"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L3 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP Server"
+],
+[
+"IPv4/IPv6",
+"Static routing"
+],
+[
+"ECMP",
+"Support ECMP(Equal-cost multi-path routing) / Support the configuration of ECMP Max next-hop / Support capacity balanced configuration"
+],
+[
+"Route Policy",
+"IPv4 prefix-list"
+],
+[
+"VRRP",
+"Virtual Router Redundancy Protocol"
+],
+[
+"Routing Protocol Specification"
+],
+[
+"RIP",
+"RIPv1/v2"
+],
+[
+"OSPFv2",
+"OSPFv2"
+],
+[
+"BGP4",
+"BGP4 / BGP Support Routing Recursive ECMP / Support to view the number of neighbors and up/down state"
+],
+[
+"IS-IS",
+"IS-ISv4"
+],
+[
+"Routing Entry",
+"13K"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP Server"
+],
+[
+"IPv4/IPv6",
+"Static routing"
+],
+[
+"ARP",
+"ARP table aging"
+],
+[
+"DHCP Server"
+],
+[
+"IPv4/IPv6",
+"Static routing"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"L2 Function"
+},
+{
+"t":"table",
+"rows":[
+[
+"Port Aggregation",
+"Support GE port aggregation / Support 2.5GE aggregation / Support 10GE aggregation / Support static aggregation / Support LACP dynamic aggregation / Up to 64 aggregation groups and up to 8 ports per group"
+],
+[
+"Port Features",
+"Support IEEE802.3x flow control / Support interface counters / Support port isolation / Port mirroring(One-to-One, Many-to-One) / Support loop detection(Port-based; VLAN-based) / Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)"
+],
+[
+"Mac-address Table Management",
+"Support static Mac-address management / Support dynamic Mac-address Management / Support filtering Mac-address / Support MAC limit based on port and VLAN / Support MAC flapping based on port and VLAN"
+],
+[
+"VLAN",
+"Support access mode / Support trunk mode / Support hybrid mode"
+],
+[
+"VLAN Classification",
+"Mac Based VLAN / IP Based VLAN / Protocol Based VLAN"
+],
+[
+"GVRP",
+"Normal mode / Fixed mode / Forbidden mode"
+],
+[
+"QinQ",
+"Port-based QinQ / VLAN-based QinQ(VLAN-stacking; VLAN-mapping) / Flow-based QinQ"
+],
+[
+"LLDP",
+"LLDP(Link Layer Discovery Protocol)"
+],
+[
+"Ring Network Protocol",
+"Support IEEE802.1D-STP / Support IEEE802.1W-RSTP / Support IEEE802.1S-MSTP / Support G.8032 ERPS protocol, single ring, sub Ring and major ring / Recovery time≤20ms(based on Marvell switching chipset under ring topology with Rapid Ring Protocol enabled) / Typical ring topologies: single ring, dual ring, tangent ring, intersecting ring, nested ring(ring-in-ring), chain-type and hybrid structures"
+],
+[
+"L2 Multicast"
+],
+[
+"IGMP Snooping",
+"Support"
+],
+[
+"Group Address",
+"Support"
+],
+[
+"Security Function"
+],
+[
+"ACL",
+"IP Standard ACL / MAC extend ACL / IP extend ACL / IPv6 ACL"
+],
+[
+"QoS",
+"Support QoS Class, remarking / Support SP, WRR queue scheduling / Ingress port-based rate-limit / Egress port-based rate-limit / Support policy-based QoS"
+],
+[
+"802.1x",
+"Port access control / Mac-address access control / RADIUS server"
+],
+[
+"Port-security",
+"Port-security"
+],
+[
+"IP Source Guard",
+"IP Port/MAC binding"
+],
+[
+"ARP-check",
+"Support ARP-check and ARP packet filtering for illegal users"
+],
+[
+"Access Control",
+"Support Telnet/SSH/HTTP/HTTPS user access control"
+],
+[
+"Management & Maintenance Function"
+],
+[
+"User Management",
+"Support password protection / Support user authorization management"
+],
+[
+"SNMP",
+"Supporting SNMP V1/V2C/V3 version"
+],
+[
+"Web Management",
+"Web Management / Support HTTP V1.1 / Support HTTPS"
+],
+[
+"CLI Management",
+"Console/Telnet command line management"
+],
+[
+"RMON",
+"Support RMON(Remote Monitoring)alarm"
+],
+[
+"Firmware Upgrade",
+"Firmware upgrade"
+],
+[
+"Fault Detection",
+"Ping/Tracerout / Dying gasp / Support optical transceiver DDM function"
+],
+[
+"Cable Detection",
+"Support copper port cable detection"
+],
+[
+"NTP",
+"Network Time Protocol"
+],
+[
+"Syslog/Debug",
+"Syslog/Debug / Syslog send to two servers"
+],
+[
+"Configuration Import/Export",
+"Support FTP/TFTP remote import/export / Support USB import/export / SFTP is supported"
+],
+[
+"Dual Partition Management",
+"Support dual partition switching"
+],
+[
+"Application Protocol Function"
+],
+[
+"DHCP Snooping",
+"DHCP snooping trust port / Support remote-id/circuit-id configuration / DHCP option-82"
+],
+[
+"DHCP Client",
+"Support DHCP client"
+],
+[
+"Telnet Server",
+"Support telnet server"
+],
+[
+"Telnet Client",
+"Support telnet client"
+],
+[
+"SSH Server",
+"Support SSH server"
+],
+[
+"TACACS",
+"Support TACACS(the terminal access controller accesses the control system)"
+],
+[
+"sFlow",
+"Support network traffic analysis"
+],
+[
+"TFTP",
+"Support TFTP Client"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Marvell Commercial Managed Series\t                                                                                                  Saga Telecom",
+"2026/Q3 \t\t\t\t\t                                                                  www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":711114
+},
+{
+"name":"image2.png",
+"bytes":49530
+},
+{
+"name":"image3.png",
+"bytes":163816
+},
+{
+"name":"image4.png",
+"bytes":96016
+},
+{
+"name":"image5.jpeg",
+"bytes":170154
+},
+{
+"name":"image6.jpeg",
+"bytes":304099
+},
+{
+"name":"image7.jpeg",
+"bytes":109644
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+"id":"1Ju2HQzNi99bXjYyYcfXg-PDW8qjEmtut",
+"name":"1.jpg",
+"path":"Drive第三轮/Marvell Based Commercial Managed Switch/2.5G L2+ with PoE/STC-28DGGPM/1.jpg",
+"type":"图片",
+"bytes":3648612,
+"sha256":"488c92d4cbeccaa191c56f5966f337028dc5d797b66113434cee30f1df62c271",
+"extracted_at":"2026-10-24T03:28:10Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":5000,
+"height":3600,
+"mode":"RGB",
+"datetime":"2024:01:10 21:55:29",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":6597
+},
+"ocr":{
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole",
+"conf":89.3
+},
+"text":"Yellow:PoE/Speed Green:Link/act\nConsole"
+}
