@@ -95,20 +95,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
+        "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-14（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "POE core switch 工业FS 有ONV的工业FS",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
-        "why": "35 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

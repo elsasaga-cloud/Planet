@@ -53,7 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「116 atalog.weidmueller.com/catalog/Start.do?+localeId=hk&ObjectID=group323638918562 印度 谷歌 商业POE sales@provisionisr.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
-| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 23 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2026-09-09 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 23 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-09（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE CCTV 宝安有办公室 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

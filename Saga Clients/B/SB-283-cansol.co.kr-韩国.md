@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-15 | 去 | A 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 25 封 / 1 次打开 / 0 回｜首封 2025-03-24 → 末封 2026-09-15（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业switch bypass monadinc是他们自己的品牌；邮件中有详细联系信息 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 25 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

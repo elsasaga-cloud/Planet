@@ -1,138 +1,138 @@
 {
- "code": "SB-210",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（axilogi.com，快照 2026-10-21）",
- "summary": "捷克 Axilogi s.r.o.（IT/安防网店与分销：Mean Well DIN 电源、WD 硬盘、Ubiquiti UniFi、Hikvision（44）、MikroTik（25）、TP-Link；表内「很多牌子的」；KP Milan Harmacek（CEO，milan@））；群发 4 次无回复。",
- "type": "IT/安防多品牌网店（捷克）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "MikroTik",
-  "Ubiquiti",
-  "TP-Link",
-  "Mean Well"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Axilogi s.r.o.；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Axilogi s.r.o.",
-   "url": "https://axilogi.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "很多品牌子的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Axilogi 首页货架",
-   "quote": "Axilogi s.r.o. ; MEAN WELL XDR-120E-24 Průmyslový zdroj na DIN lištu ; WD Ultrastar DC HA340 ; Ubiquiti UniFi patch kabel",
-   "url": "https://axilogi.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "很多牌子的",
-   "quote": "很多品牌子的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Milan Harmacek",
-   "title": "Chief Executive Officer",
-   "email": "milan@axilogi.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "捷克",
-  "other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
- },
- "business_lines": [
-  "IT / 安防 / 工业电源网店"
- ],
- "channels": {
-  "role": "IT/安防多品牌网店（捷克）",
-  "region": "捷克",
-  "contact": "sales@axilogi.cz、milan@axilogi.com"
- },
- "signals": [
-  "首页：MEAN WELL XDR-120E-24 … ; WD Ultrastar DC HA340 ; Ubiquiti UniFi patch kabel；kw hikvision 44 / mikrotik 25 / poe 25",
-  "KP：Milan Harmacek / Chief Executive Officer（表内）"
- ],
- "risks": [
-  "多品牌货架：白牌需靠价差",
-  "4 次无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP"
- },
- "email_hook": "Milan, alongside the MikroTik, Ubiquiti and TP-Link PoE switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — which band do your Hikvision-kit customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 david@axilogi.com, milan@axilogi.com；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）",
-   "type": "IT/安防多品牌网店（捷克）",
-   "sieve": "1（只收到群发）",
-   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16；用户表：「很多品牌子的」；研究档 risks：多品牌货架：白牌需靠价差"
-  },
-  "situation": "捷克 Axilogi s.r.o.（IT/安防网店与分销：Mean Well DIN 电源、WD 硬盘、Ubiquiti UniFi、Hikvision（44）、MikroTik（25）、TP-Link；表内「很多牌子的」；KP Milan Harmacek（CEO，milan@））；群发 4 次无回复。",
-  "need": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP",
-  "breakpoint": "多品牌货架：白牌需靠价差",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Milan, alongside the MikroTik, Ubiquiti and TP-Link PoE switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — which band do your Hikvision-kit customers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "很多品牌子的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
-    "why": "16 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-210",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（axilogi.com，快照 2026-10-21）",
+  "summary": "捷克 Axilogi s.r.o.（IT/安防网店与分销：Mean Well DIN 电源、WD 硬盘、Ubiquiti UniFi、Hikvision（44）、MikroTik（25）、TP-Link；表内「很多牌子的」；KP Milan Harmacek（CEO，milan@））；群发 4 次无回复。",
+  "type": "IT/安防多品牌网店（捷克）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "MikroTik",
+    "Ubiquiti",
+    "TP-Link",
+    "Mean Well"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Axilogi s.r.o.；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Axilogi s.r.o.",
+      "url": "https://axilogi.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "很多品牌子的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Axilogi 首页货架",
+      "quote": "Axilogi s.r.o. ; MEAN WELL XDR-120E-24 Průmyslový zdroj na DIN lištu ; WD Ultrastar DC HA340 ; Ubiquiti UniFi patch kabel",
+      "url": "https://axilogi.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "很多牌子的",
+      "quote": "很多品牌子的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Milan Harmacek",
+      "title": "Chief Executive Officer",
+      "email": "milan@axilogi.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "捷克",
+    "other": "官网 axilogi.com，语言 cs，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  },
+  "business_lines": [
+    "IT / 安防 / 工业电源网店"
+  ],
+  "channels": {
+    "role": "IT/安防多品牌网店（捷克）",
+    "region": "捷克",
+    "contact": "sales@axilogi.cz、milan@axilogi.com"
+  },
+  "signals": [
+    "首页：MEAN WELL XDR-120E-24 … ; WD Ultrastar DC HA340 ; Ubiquiti UniFi patch kabel；kw hikvision 44 / mikrotik 25 / poe 25",
+    "KP：Milan Harmacek / Chief Executive Officer（表内）"
+  ],
+  "risks": [
+    "多品牌货架：白牌需靠价差",
+    "4 次无回复 → 改向 CEO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP"
+  },
+  "email_hook": "Milan, alongside the MikroTik, Ubiquiti and TP-Link PoE switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — which band do your Hikvision-kit customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 16 封 2025→2026，无记录打开，0 回；收件 david@axilogi.com, milan@axilogi.com；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）",
+      "type": "IT/安防多品牌网店（捷克）",
+      "sieve": "1（只收到群发）",
+      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "捷克（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 16；用户表：「很多品牌子的」；研究档 risks：多品牌货架：白牌需靠价差"
+    },
+    "situation": "捷克 Axilogi s.r.o.（IT/安防网店与分销：Mean Well DIN 电源、WD 硬盘、Ubiquiti UniFi、Hikvision（44）、MikroTik（25）、TP-Link；表内「很多牌子的」；KP Milan Harmacek（CEO，milan@））；群发 4 次无回复。",
+    "need": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP",
+    "breakpoint": "多品牌货架：白牌需靠价差",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "多品牌货架（MikroTik/Ubiquiti/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；非管理位 HRUI STC-028GP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Milan, alongside the MikroTik, Ubiquiti and TP-Link PoE switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — which band do your Hikvision-kit customers buy most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
+        "why": "16 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-09（16 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "很多品牌子的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

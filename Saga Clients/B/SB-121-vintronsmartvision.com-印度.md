@@ -52,11 +52,11 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24 Port PoE Managed Switch | 24 封 / 4 次打开 / 0 回 | `gmail_digest` |
 | 2026-02-06 | 来 | Rahul Kansal（Vintron Smart Vision，印度） | Please share brochure with technical sheet to do further analysis. | CENTEC 核心信触发；印度 CCTV 制造商 | `gmail_e` |
 | 2026-03-12 | 来 | Vadim Rudenko（QUIP PRO LLP，阿拉木图） | Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples. | 哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问 | `gmail_e` |
 | 2026-04-27 | 来 | Leann（AirLink iLife Inc.，台湾） | Can you send price list for viewing? | 台湾同行式问价 | `gmail_e` |
+| 2026-09-24 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24 Port PoE Managed Switch | 24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；Elsa 回复正文未入库
 

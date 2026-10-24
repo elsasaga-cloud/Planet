@@ -1,116 +1,116 @@
 {
- "code": "SB-594",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（metaworldcomputers.com，快照 2026-10-21）",
- "summary": "沙特阿拉伯 Meta World Computers（IT 经销；表内「Switch」；官网快照空）；表内 3 次跟进无回复。",
- "type": "IT 经销商（沙特）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：metaworldcomputers.com",
-   "quote": "",
-   "url": "https://metaworldcomputers.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Switch",
-   "quote": "Switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "沙特阿拉伯",
-  "other": "官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "IT 经销（沙特）"
- ],
- "channels": {
-  "role": "IT 经销商（沙特）",
-  "region": "沙特阿拉伯",
-  "contact": "info@metaworldcomputers.com"
- },
- "signals": [
-  "表内：Switch",
-  "快照：内容为空"
- ],
- "risks": [
-  "非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
- },
- "email_hook": "For the switches you resell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your Saudi customers ask for most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@metaworldcomputers.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
-   "type": "IT 经销商（沙特）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "沙特阿拉伯 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「Switch」；研究档 risks：非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@"
-  },
-  "situation": "沙特阿拉伯 Meta World Computers（IT 经销；表内「Switch」；官网快照空）；表内 3 次跟进无回复。",
-  "need": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
-  "breakpoint": "非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the switches you resell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your Saudi customers ask for most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Switch",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-594",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（metaworldcomputers.com，快照 2026-10-21）",
+  "summary": "沙特阿拉伯 Meta World Computers（IT 经销；表内「Switch」；官网快照空）；表内 3 次跟进无回复。",
+  "type": "IT 经销商（沙特）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：metaworldcomputers.com",
+      "quote": "",
+      "url": "https://metaworldcomputers.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Switch",
+      "quote": "Switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "沙特阿拉伯",
+    "other": "官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "IT 经销（沙特）"
+  ],
+  "channels": {
+    "role": "IT 经销商（沙特）",
+    "region": "沙特阿拉伯",
+    "contact": "info@metaworldcomputers.com"
+  },
+  "signals": [
+    "表内：Switch",
+    "快照：内容为空"
+  ],
+  "risks": [
+    "非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+  },
+  "email_hook": "For the switches you resell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your Saudi customers ask for most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 info@metaworldcomputers.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+      "type": "IT 经销商（沙特）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "沙特阿拉伯 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「Switch」；研究档 risks：非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@"
+    },
+    "situation": "沙特阿拉伯 Meta World Computers（IT 经销；表内「Switch」；官网快照空）；表内 3 次跟进无回复。",
+    "need": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
+    "breakpoint": "非主攻区（T5，沙特）；官网快照空（业务待核）；3 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the switches you resell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your Saudi customers ask for most?"
+    },
+    "facts": [
+      {
+        "date": "2026-02-02",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-02-02（6 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,154 +1,154 @@
 {
- "code": "SB-1107",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cctv-global.co.uk，快照 2026-10-21）",
- "summary": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
- "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
- "size": "",
- "brands_seen": [
-  "Ruijie",
-  "Ajax",
-  "Hikvision"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CCTV Global London Ltd；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "CCTV GLOBAL LONDON LTD；Hikvision；HiLook；AJAX；EZVIZ；Toshiba",
-   "url": "https://www.cctv-global.co.uk",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV类产品 卖Longse的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "品牌栏：Hikvision / HiLook / AJAX / EZVIZ / Toshiba / HAYDON",
-   "quote": "CCTV GLOBAL LONDON LTD ; Hikvision ; HiLook ; AJAX ; EZVIZ ; Toshiba ; HAYDON",
-   "url": "https://www.cctv-global.co.uk",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要 CCTV，卖 Longse",
-   "quote": "主要是CCTV类产品 卖Longse的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Iain McNeil",
-   "title": "Director",
-   "email": "imcneil@cctv-global.co.uk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）"
- ],
- "channels": {
-  "role": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
-  "region": "英国",
-  "contact": "sales@cctv-global.co.uk、imcneil@cctv-global.co.uk"
- },
- "signals": [
-  "站内型号 RG-POE-50-60W-MG、NS-0106P-35、NS-0505P-35、RG-ES106F-P、DS-3E1105P-EI",
-  "KP：Iain McNeil / Director（表内）"
- ],
- "risks": [
-  "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
-  "群发 9 次无回复：改向 Director 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）"
- },
- "email_hook": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?",
- "products_seen": [
-  {
-   "brand": "Ruijie/Reyee",
-   "model": "RG-ES106F-P",
-   "spec": "6 口百兆 4 PoE 非管理",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-   "url": "https://www.cctv-global.co.uk",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Hikvision",
-   "model": "DS-3E1105P-EI",
-   "spec": "4 PoE + 1 上联 智能管理",
-   "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
-   "url": "https://www.cctv-global.co.uk",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 imcneil@cctv-global.co.uk, sales@cctv-global.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
-   "sieve": "1（只收到群发）",
-   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 25；用户表：「主要是CCTV类产品 卖Longse的」；研究档 risks：Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充"
-  },
-  "situation": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
-  "need": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
-  "breakpoint": "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是CCTV类产品 卖Longse的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "25 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1107",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cctv-global.co.uk，快照 2026-10-21）",
+  "summary": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
+  "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
+  "size": "",
+  "brands_seen": [
+    "Ruijie",
+    "Ajax",
+    "Hikvision"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：CCTV Global London Ltd；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "CCTV GLOBAL LONDON LTD；Hikvision；HiLook；AJAX；EZVIZ；Toshiba",
+      "url": "https://www.cctv-global.co.uk",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV类产品 卖Longse的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "品牌栏：Hikvision / HiLook / AJAX / EZVIZ / Toshiba / HAYDON",
+      "quote": "CCTV GLOBAL LONDON LTD ; Hikvision ; HiLook ; AJAX ; EZVIZ ; Toshiba ; HAYDON",
+      "url": "https://www.cctv-global.co.uk",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要 CCTV，卖 Longse",
+      "quote": "主要是CCTV类产品 卖Longse的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Iain McNeil",
+      "title": "Director",
+      "email": "imcneil@cctv-global.co.uk",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 cctv-global.co.uk，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "CCTV / 门禁 / 报警分销（Hikvision、HiLook、Ajax、EZVIZ）"
+  ],
+  "channels": {
+    "role": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
+    "region": "英国",
+    "contact": "sales@cctv-global.co.uk、imcneil@cctv-global.co.uk"
+  },
+  "signals": [
+    "站内型号 RG-POE-50-60W-MG、NS-0106P-35、NS-0505P-35、RG-ES106F-P、DS-3E1105P-EI",
+    "KP：Iain McNeil / Director（表内）"
+  ],
+  "risks": [
+    "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
+    "群发 9 次无回复：改向 Director 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）"
+  },
+  "email_hook": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?",
+  "products_seen": [
+    {
+      "brand": "Ruijie/Reyee",
+      "model": "RG-ES106F-P",
+      "spec": "6 口百兆 4 PoE 非管理",
+      "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+      "url": "https://www.cctv-global.co.uk",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Hikvision",
+      "model": "DS-3E1105P-EI",
+      "spec": "4 PoE + 1 上联 智能管理",
+      "saga": "STC-204GP（HRUI 列表价 $20.4，非 SmartByte）",
+      "url": "https://www.cctv-global.co.uk",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 25 封 2024→2026，无记录打开，0 回；收件 imcneil@cctv-global.co.uk, sales@cctv-global.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "安防分销商（伦敦，Hikvision/Ajax 渠道）",
+      "sieve": "1（只收到群发）",
+      "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 25；用户表：「主要是CCTV类产品 卖Longse的」；研究档 risks：Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充"
+    },
+    "situation": "英国 CCTV Global London Ltd（CCTV 分销：Hikvision / HiLook / Ajax / EZVIZ / Toshiba / Haydon；站内 Ruijie RG-ES106F-P、RG-POE-50-60W、Hikvision DS-3E1105P-EI、NS-0106P-35 等 PoE 交换机；表内「主要是 CCTV 类产品，卖 Longse 的」；KP Iain McNeil（Director，imcneil@））；群发 9 次无回复。",
+    "need": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
+    "breakpoint": "Hikvision 渠道分销：PoE 多随摄像机套装走，白牌交换机为补充",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 Ruijie RG-ES106F-P / Hik DS-3E1105P 等 4–5 口非管理 PoE（$20–35 价带）→ 对价 HRUI STC-204GP（$20.4）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Iain, next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "25 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-08（25 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是CCTV类产品 卖Longse的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

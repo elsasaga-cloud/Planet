@@ -92,20 +92,20 @@
     },
     "facts": [
       {
+        "date": "2024-06-22",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "8 port poe switch",
+        "why": "1 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2024",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "8 port poe switch",
-        "why": "1 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

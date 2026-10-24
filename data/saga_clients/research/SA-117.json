@@ -157,11 +157,11 @@
     },
     "facts": [
       {
-        "date": "2026",
+        "date": "2026-09-30",
         "dir": "去",
         "who": "A 群发",
         "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-        "why": "18 封 / 1 次打开 / 0 回",
+        "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（18 去 / 0 来）",
         "k": "gmail_digest"
       }
     ],

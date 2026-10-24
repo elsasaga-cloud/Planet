@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-12-26 | 去 | S 群发 | PoE Switch、Industrial fiber switch | 8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：谈了1+2+8商业POE，问了OEM | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | PoE Switch、Industrial fiber switch | 8 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

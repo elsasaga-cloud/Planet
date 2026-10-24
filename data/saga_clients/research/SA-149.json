@@ -137,8 +137,8 @@
     "next_move": {
       "when": "2027-Q1",
       "channel": "WhatsApp",
-      "action": "一页式报价（研究档）",
-      "one_question": ""
+      "action": "一页式报价（研究档）（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Francesco, the detailed price list you asked for at IFSEC: commercial 24-port PoE+ with 4 SFP at $134.5 EXW, 8-port PoE+ managed at $80.7, and the DIN-rail industrial 8-port PoE+ at $139.9 — which of the three would you like a sample of for the Caserta demo room?"
     },
     "facts": [
       {

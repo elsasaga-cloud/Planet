@@ -1,130 +1,130 @@
 {
- "code": "SB-820",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（dnaelektro.cz，快照 2026-10-21）",
- "summary": "捷克 DNA Elektro（电子产品网店：网络路由器与交换机、PoE 网络组件、游戏外设等；表内「外壳比较杂」「可以尝试多跟进一下」）；群发 8 次无回复。",
- "type": "电子产品网店（捷克）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Úvodní stránka | DNA Elektro",
-   "quote": "DNA Elektro",
-   "url": "https://www.dnaelektro.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "外壳比较杂",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Úvodní stránka | DNA Elektro；品类词 网络交换 / PoE",
-   "quote": "DNA Elektro",
-   "url": "https://www.dnaelektro.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "DNA Elektro 分类页",
-   "quote": "Úvodní stránka | DNA Elektro ; /site/sitove-komponenty/poe-sitove-komponenty/",
-   "url": "https://www.dnaelektro.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "外壳比较杂",
-   "quote": "外壳比较杂；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "捷克",
-  "other": "官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "电子 / 网络产品网店（捷克）"
- ],
- "channels": {
-  "role": "电子产品网店（捷克）",
-  "region": "捷克",
-  "contact": "info@dnaelektro.cz"
- },
- "signals": [
-  "页面 /pocitace-a-kancelarska-technika/site/sitove-routery-a-switche/lan-routery/、/site/sitove-komponenty/poe-sitove-komponenty/；kw ubiquiti 1",
-  "表内：外壳比较杂；可以尝试多跟进一下"
- ],
- "risks": [
-  "综合电子网店（白牌契合度待核）；8 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "For the PoE switches in your networking category, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count sells most in your Czech shop?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@dnaelektro.cz；主题多为「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）",
-   "type": "电子产品网店（捷克）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「外壳比较杂」；研究档 risks：综合电子网店（白牌契合度待核）；8 次无回复，仅 info@"
-  },
-  "situation": "捷克 DNA Elektro（电子产品网店：网络路由器与交换机、PoE 网络组件、游戏外设等；表内「外壳比较杂」「可以尝试多跟进一下」）；群发 8 次无回复。",
-  "need": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "综合电子网店（白牌契合度待核）；8 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches in your networking category, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count sells most in your Czech shop?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "外壳比较杂",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-820",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（dnaelektro.cz，快照 2026-10-21）",
+  "summary": "捷克 DNA Elektro（电子产品网店：网络路由器与交换机、PoE 网络组件、游戏外设等；表内「外壳比较杂」「可以尝试多跟进一下」）；群发 8 次无回复。",
+  "type": "电子产品网店（捷克）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Úvodní stránka | DNA Elektro",
+      "quote": "DNA Elektro",
+      "url": "https://www.dnaelektro.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "外壳比较杂",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Úvodní stránka | DNA Elektro；品类词 网络交换 / PoE",
+      "quote": "DNA Elektro",
+      "url": "https://www.dnaelektro.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "DNA Elektro 分类页",
+      "quote": "Úvodní stránka | DNA Elektro ; /site/sitove-komponenty/poe-sitove-komponenty/",
+      "url": "https://www.dnaelektro.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "外壳比较杂",
+      "quote": "外壳比较杂；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "捷克",
+    "other": "官网 dnaelektro.cz，语言 cs，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "电子 / 网络产品网店（捷克）"
+  ],
+  "channels": {
+    "role": "电子产品网店（捷克）",
+    "region": "捷克",
+    "contact": "info@dnaelektro.cz"
+  },
+  "signals": [
+    "页面 /pocitace-a-kancelarska-technika/site/sitove-routery-a-switche/lan-routery/、/site/sitove-komponenty/poe-sitove-komponenty/；kw ubiquiti 1",
+    "表内：外壳比较杂；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "综合电子网店（白牌契合度待核）；8 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "For the PoE switches in your networking category, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count sells most in your Czech shop?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@dnaelektro.cz；主题多为「Managed Optical Bypass Switch、8 Port Industrial PoE Switch」）",
+      "type": "电子产品网店（捷克）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "捷克（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「外壳比较杂」；研究档 risks：综合电子网店（白牌契合度待核）；8 次无回复，仅 info@"
+    },
+    "situation": "捷克 DNA Elektro（电子产品网店：网络路由器与交换机、PoE 网络组件、游戏外设等；表内「外壳比较杂」「可以尝试多跟进一下」）；群发 8 次无回复。",
+    "need": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "综合电子网店（白牌契合度待核）；8 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PoE 网络组件分类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches in your networking category, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count sells most in your Czech shop?"
+    },
+    "facts": [
+      {
+        "date": "2026-02-09",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Managed Optical Bypass Switch、8 Port Industrial PoE Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-09（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "外壳比较杂",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

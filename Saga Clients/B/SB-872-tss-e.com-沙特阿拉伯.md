@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-10-28 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 4 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-10-28（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个 | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

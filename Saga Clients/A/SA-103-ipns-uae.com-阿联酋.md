@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2024-11-12 → 2025-10-22）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：按 Simon WA 节奏 WhatsApp —
+- **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：工业 PoE（在用 N-Net，研究档）。
 - **断点 / 为什么停在这里**：渠道错位：销售台 vs 采购。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—）——WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—
+- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

@@ -1,126 +1,126 @@
 {
- "code": "SB-631",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ablelink.co.th，快照 2026-10-21）",
- "summary": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
- "type": "网络/安防分销商（泰国，Witek/Oring）",
- "size": "",
- "brands_seen": [
-  "Witek",
-  "ORing"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ABLELINK — Network & Security Distributor Thailand；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "ABLELINK (Thailand) — ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI) และผู้รับเหมาทั่วประเทศ สินค้าแท้ประกันศูนย์ บริการเทคนิคครบวงจร",
-   "url": "https://ablelink.co.th/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ABLELINK 定位",
-   "quote": "ABLELINK — Network & Security Distributor Thailand ; สำหรับ System Integrators (SI)",
-   "url": "https://ablelink.co.th/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Witek Oring MC 工业 FS",
-   "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "泰国",
-  "other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
- },
- "business_lines": [
-  "IT 网络 / 安防分销（泰国）"
- ],
- "channels": {
-  "role": "网络/安防分销商（泰国，Witek/Oring）",
-  "region": "泰国",
-  "contact": "info@ablelink.co.th"
- },
- "signals": [
-  "官网：ABLELINK — Network & Security Distributor Thailand ; ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI)；页面 /products/sp-pc40-3854/",
-  "表内：好几个牌子的产品 Witek Oring MC 工业 FS SFP 等；可以尝试多跟进一下"
- ],
- "risks": [
-  "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位"
- },
- "email_hook": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 info@ablelink.co.th；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
-   "type": "网络/安防分销商（泰国，Witek/Oring）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "泰国 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 27；用户表：「好几个牌子的产品 Witek Oring MC 工业FS SFP等」；研究档 risks：非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
-  },
-  "situation": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
-  "need": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
-  "breakpoint": "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
-    "why": "27 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-631",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ablelink.co.th，快照 2026-10-21）",
+  "summary": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
+  "type": "网络/安防分销商（泰国，Witek/Oring）",
+  "size": "",
+  "brands_seen": [
+    "Witek",
+    "ORing"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ABLELINK — Network & Security Distributor Thailand；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "ABLELINK (Thailand) — ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI) และผู้รับเหมาทั่วประเทศ สินค้าแท้ประกันศูนย์ บริการเทคนิคครบวงจร",
+      "url": "https://ablelink.co.th/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ABLELINK 定位",
+      "quote": "ABLELINK — Network & Security Distributor Thailand ; สำหรับ System Integrators (SI)",
+      "url": "https://ablelink.co.th/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Witek Oring MC 工业 FS",
+      "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "泰国",
+    "other": "官网 ablelink.co.th，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  },
+  "business_lines": [
+    "IT 网络 / 安防分销（泰国）"
+  ],
+  "channels": {
+    "role": "网络/安防分销商（泰国，Witek/Oring）",
+    "region": "泰国",
+    "contact": "info@ablelink.co.th"
+  },
+  "signals": [
+    "官网：ABLELINK — Network & Security Distributor Thailand ; ตัวแทนจำหน่ายอุปกรณ์ IT Network & Security ครบวงจรสำหรับ System Integrators (SI)；页面 /products/sp-pc40-3854/",
+    "表内：好几个牌子的产品 Witek Oring MC 工业 FS SFP 等；可以尝试多跟进一下"
+  ],
+  "risks": [
+    "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位"
+  },
+  "email_hook": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 info@ablelink.co.th；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
+      "type": "网络/安防分销商（泰国，Witek/Oring）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "泰国 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 27；用户表：「好几个牌子的产品 Witek Oring MC 工业FS SFP等」；研究档 risks：非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@"
+    },
+    "situation": "泰国 ABLELINK（Network & Security Distributor Thailand：面向 SI 与承包商的 IT 网络与安防分销；表内「好几个牌子的产品 Witek、Oring；MC 工业 FS SFP 等」「可以尝试多跟进一下」）；群发 18 次无回复。",
+    "need": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
+    "breakpoint": "非主攻区（T5，泰国）；多品牌分销（Oring 价格基准中等、Witek 低）；18 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业 FS（现 Oring/Witek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）作白牌预算位",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Alongside the ORing and Witek lines you distribute to system integrators, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs from small lots, CE/RoHS, EXW USD — is there a budget industrial position your SI customers ask for?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
+        "why": "27 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-28（27 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "好几个牌子的产品 Witek Oring MC 工业FS SFP等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

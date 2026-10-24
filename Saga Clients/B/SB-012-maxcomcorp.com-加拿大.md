@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-04 | 去 | A 群发 | Marvell Industrial Alert System、Managed Optical Bypass Switch | 25 封 / 2 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-04（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | Marvell Industrial Alert System、Managed Optical Bypass Switch | 25 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

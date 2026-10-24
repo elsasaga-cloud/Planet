@@ -105,20 +105,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Software Function List",
+        "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-09-09（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Software Function List",
-        "why": "35 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

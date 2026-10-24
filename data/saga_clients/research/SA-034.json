@@ -1,140 +1,140 @@
 {
- "code": "SA-034",
- "name_official": "XCAM CZech s.r.o.（Ostrava, Czech Republic）",
- "website_status": "在线",
- "summary": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
- "type": "安防集成/安装商（小型）",
- "size": "未见人数（小型 s.r.o.）",
- "brands_seen": [
-  "AXIS",
-  "E-link",
-  "X-（自有标）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务范围",
-   "quote": "Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839",
-   "url": "https://www.xcam.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "自有标工业 PoE 小交换机与价格",
-   "quote": "LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP LAN SWITCH … Kč 1,480.00 … Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky",
-   "url": "https://www.xcam.cz/",
-   "date": "2023-10-04"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "X-104GP-SFP 规格",
-   "quote": "LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial 104GP-SFP Series is a Mini Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 100/1000X SFP Gigabit Ethernet Switch with 12~48VDC Input and Voltage Booster … Kč 1,680.00",
-   "url": "https://www.xcam.cz/produkt/kamera/",
-   "date": "2023-05-22"
-  },
-  {
-   "kind": "姊妹站",
-   "claim": "DIN 导轨 PoE 交换机主推",
-   "quote": "Jedinečný PoE switch pro DIN montáž a pasující do standardních rozvaděčů. Ušetří čas instalace a místo pro Vaše kamerové rozvody. V nabídce také standardní PoE switche do racku",
-   "url": "https://www.excam.cz/",
-   "date": "2026-10-21"
-  }
- ],
- "grade_override": "B",
- "override_reason": "小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。",
- "notes": "",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网网店自有标核对）"
- },
- "company_facts": {
-  "legal_name": "Xcam.cz（含姊妹站 excam.cz）",
-  "other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」"
- },
- "business_lines": [
-  "摄像系统安装与维护（含光伏电站）",
-  "报警与门禁",
-  "网店：X- 自有标工业 PoE 小交换机、LAN 配件"
- ],
- "products_seen": [
-  {
-   "brand": "X-（自有标）",
-   "model": "X-IMC005GP",
-   "spec": "LAN PoE MiniSwitch 4+1，工业，PoE booster 12V，Kč 1,480",
-   "url": "https://www.xcam.cz/",
-   "date": "2023-10-04",
-   "saga": "STI-144GP（4 PoE + 上联，X- 标 OEM）"
-  },
-  {
-   "brand": "X-（自有标）",
-   "model": "X-104GP-SFP",
-   "spec": "4×GE 802.3at PoE + 1×100/1000X SFP，12~48VDC 宽压升压，非管理，DIN/壁挂，Kč 1,680",
-   "url": "https://www.xcam.cz/produkt/kamera/",
-   "date": "2023-05-22",
-   "saga": "STI-144GP（同口型）"
-  },
-  {
-   "brand": "eXcam",
-   "model": "DIN 导轨 PoE 交换机（型号未列）",
-   "spec": "装入标准配电箱的 DIN PoE 交换机 + 机架 PoE 交换机",
-   "url": "https://www.excam.cz/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理）"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.xcam.cz/ · https://www.excam.cz/"
- },
- "signals": [
-  "已成交（用户表）+ 自有 X- 标工业 PoE 小机在售 → 直接的 OEM 续单型客户：STI-144GP 对位其 4+1 主力 SKU，STI-288DGGPM 补其 DIN 8 口管理空缺"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 30,
-  "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
- },
- "email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-   "type": "安防集成/安装商（小型）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19"
-  },
-  "situation": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
-  "need": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
-  "breakpoint": "无回复",
-  "saga_now": {
-   "p1": "STI-144GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "19 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-034",
+  "name_official": "XCAM CZech s.r.o.（Ostrava, Czech Republic）",
+  "website_status": "在线",
+  "summary": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+  "type": "安防集成/安装商（小型）",
+  "size": "未见人数（小型 s.r.o.）",
+  "brands_seen": [
+    "AXIS",
+    "E-link",
+    "X-（自有标）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务范围",
+      "quote": "Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839",
+      "url": "https://www.xcam.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "自有标工业 PoE 小交换机与价格",
+      "quote": "LAN PoE MiniSwitch 4+1, Industrial, POE booster 12V, X-IMC005GP LAN SWITCH … Kč 1,480.00 … Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky",
+      "url": "https://www.xcam.cz/",
+      "date": "2023-10-04"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "X-104GP-SFP 规格",
+      "quote": "LAN POE SWITCH X-104GP-SFP, 4+1SFP, Industrial 104GP-SFP Series is a Mini Industrial 4-Port 10/100/1000T 802.3at PoE + 1-Port 100/1000X SFP Gigabit Ethernet Switch with 12~48VDC Input and Voltage Booster … Kč 1,680.00",
+      "url": "https://www.xcam.cz/produkt/kamera/",
+      "date": "2023-05-22"
+    },
+    {
+      "kind": "姊妹站",
+      "claim": "DIN 导轨 PoE 交换机主推",
+      "quote": "Jedinečný PoE switch pro DIN montáž a pasující do standardních rozvaděčů. Ušetří čas instalace a místo pro Vaše kamerové rozvody. V nabídce také standardní PoE switche do racku",
+      "url": "https://www.excam.cz/",
+      "date": "2026-10-21"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。",
+  "notes": "",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网网店自有标核对）"
+  },
+  "company_facts": {
+    "legal_name": "Xcam.cz（含姊妹站 excam.cz）",
+    "other": "捷克摄像系统安装商 + 网店：安防摄像安装/维护、报警与门禁（住宅、写字楼、厂房）、**光伏电站摄像**；网店以 **X- 自有标**销售工业小型 PoE 交换机（X-IMC005GP 4+1 工业迷你 PoE 带 12V 升压 Kč 1,480；X-104GP-SFP 4 PoE + 1 SFP 工业 12~48VDC 升压 Kč 1,680），excam.cz 主推「DIN 导轨 PoE 交换机，装进标准配电箱」"
+  },
+  "business_lines": [
+    "摄像系统安装与维护（含光伏电站）",
+    "报警与门禁",
+    "网店：X- 自有标工业 PoE 小交换机、LAN 配件"
+  ],
+  "products_seen": [
+    {
+      "brand": "X-（自有标）",
+      "model": "X-IMC005GP",
+      "spec": "LAN PoE MiniSwitch 4+1，工业，PoE booster 12V，Kč 1,480",
+      "url": "https://www.xcam.cz/",
+      "date": "2023-10-04",
+      "saga": "STI-144GP（4 PoE + 上联，X- 标 OEM）"
+    },
+    {
+      "brand": "X-（自有标）",
+      "model": "X-104GP-SFP",
+      "spec": "4×GE 802.3at PoE + 1×100/1000X SFP，12~48VDC 宽压升压，非管理，DIN/壁挂，Kč 1,680",
+      "url": "https://www.xcam.cz/produkt/kamera/",
+      "date": "2023-05-22",
+      "saga": "STI-144GP（同口型）"
+    },
+    {
+      "brand": "eXcam",
+      "model": "DIN 导轨 PoE 交换机（型号未列）",
+      "spec": "装入标准配电箱的 DIN PoE 交换机 + 机架 PoE 交换机",
+      "url": "https://www.excam.cz/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理）"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.xcam.cz/ · https://www.excam.cz/"
+  },
+  "signals": [
+    "已成交（用户表）+ 自有 X- 标工业 PoE 小机在售 → 直接的 OEM 续单型客户：STI-144GP 对位其 4+1 主力 SKU，STI-288DGGPM 补其 DIN 8 口管理空缺"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 30,
+    "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档"
+  },
+  "email_hook": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 19 封 2025→2026，无记录打开，0 回；收件 info@xcam.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+      "type": "安防集成/安装商（小型）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "捷克（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 19"
+    },
+    "situation": "捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。",
+    "need": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
+    "breakpoint": "无回复",
+    "saga_now": {
+      "p1": "STI-144GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "19 封 / 0 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-10-01（19 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

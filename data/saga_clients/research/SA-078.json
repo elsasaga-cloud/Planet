@@ -1,131 +1,131 @@
 {
- "code": "SA-078",
- "name_official": "BSN System / Berkah Saudara Network（雅加达）",
- "website_status": "在线",
- "summary": "印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。",
- "type": "安防/IT 集成商",
- "size": "小型",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "独立安防/IT 组织，8 年经验，提供安全系统与外包运维",
-   "quote": "BSN adalah organisasi independen… Dengan 8 tahun pengalaman dan berorientasi layanan… Anda juga dapat mengalihdayakan layanan dan pemeliharaan lengkap Anda kepada kami",
-   "url": "https://bsn-system.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址与联系方式（雅加达西区）",
-   "quote": "Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com",
-   "url": "https://bsn-system.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司定位与地址",
-   "quote": "BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahun pengalaman … Alamat Jalan Jembatan Besi No 23 A Grogol, Kel Angke, Kec Tambora Jakarta Barat 11320",
-   "url": "https://bsn-system.com/",
-   "date": "2025-04-25"
-  },
-  {
-   "kind": "官网",
-   "claim": "2014 年起",
-   "quote": "Sejak tahun 2014 , kami telah membantu banyak organisasi meningkatkan keamanan mereka.",
-   "url": "https://bsn-system.com/?20080901",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（用户记录联系人，Gmail 个人邮箱）",
-   "role": "",
-   "email": "sales@bsn-system.com",
-   "phone": "+62 819-3999-8899（官网）",
-   "source": "官网 + 用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网核对）"
- },
- "company_facts": {
-  "legal_name": "BSN System / Berkah Saudara Network（bsn-system.com）",
-  "hq": "Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 11320",
-  "other": "独立安防顾问/集成商：OSE（组织/结构/电子）安防措施全套实施 + 外包运维 + 代管人防与控制室；官网 WordPress，2025-04 更新",
-  "founded": "2014（官网「Sejak tahun 2014」；首页另称 8 年经验）"
- },
- "business_lines": [
-  "安防系统集成",
-  "IT 运维外包",
-  "电子安防（CCTV/门禁）设计实施",
-  "安防运维外包、控制室代管"
- ],
- "products_seen": [
-  {
-   "brand": "（项目需求）",
-   "model": "2 光 4 电 ERPS 环网工业交换机；5 电口带 PoE",
-   "spec": "明确需求",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-144GP（4+1；2 光需核）/ STI-288DGGPM"
-  }
- ],
- "channels": {
-  "直邮": "aarstyan@gmail.com（用户表，免费邮箱）",
-  "WhatsApp": "已加（用户表）",
-  "网站": "https://bsn-system.com/"
- },
- "signals": [
-  "用户表：2 次回复 + WA，需求具体（ERPS 环网）",
-  "官网为通用安防顾问叙事、无产品目录——采购属项目制，2 光 N 电工业机需求来自具体项目（用户记录）"
- ],
- "risks": [
-  "免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档"
- },
- "email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 2 封 0 回；用户表「2 光 4 电 + ERPS 环网」需求 + WA）",
-   "type": "雅加达安防/IT 集成（BSN）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "WA",
-   "lane": "ID",
-   "cadence": "WA",
-   "evidence": "邮件：去信 2 封（2024-11-20 → 2025-02-04），来信 0；Opened 标签 0 次；收件人 aarstyan@gmail.com, sales@bsn-system.com"
-  },
-  "situation": "需求具体（ERPS 环网）但邮件无痕。",
-  "need": "STI 2 光 4 电管理 + ERPS。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STI-244GP 管理版",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "按 WA 节奏",
-   "channel": "WhatsApp",
-   "action": "WA",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "code": "SA-078",
+  "name_official": "BSN System / Berkah Saudara Network（雅加达）",
+  "website_status": "在线",
+  "summary": "印尼雅加达独立安防与 IT 解决方案公司（8 年经验，OSE 安防措施 + 外包运维）；用户记录 2 次回复、已加 WA，明确需要 2 光 4 电 ERPS 环网工业交换机。",
+  "type": "安防/IT 集成商",
+  "size": "小型",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "独立安防/IT 组织，8 年经验，提供安全系统与外包运维",
+      "quote": "BSN adalah organisasi independen… Dengan 8 tahun pengalaman dan berorientasi layanan… Anda juga dapat mengalihdayakan layanan dan pemeliharaan lengkap Anda kepada kami",
+      "url": "https://bsn-system.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址与联系方式（雅加达西区）",
+      "quote": "Jalan Jembatan Besi No 23 A Grogol… Jakarta Barat 11320… 0819-3999-8899… info@bsn-system.com",
+      "url": "https://bsn-system.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司定位与地址",
+      "quote": "BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keamanan yang bersemangat. Dengan 8 tahun pengalaman … Alamat Jalan Jembatan Besi No 23 A Grogol, Kel Angke, Kec Tambora Jakarta Barat 11320",
+      "url": "https://bsn-system.com/",
+      "date": "2025-04-25"
+    },
+    {
+      "kind": "官网",
+      "claim": "2014 年起",
+      "quote": "Sejak tahun 2014 , kami telah membantu banyak organisasi meningkatkan keamanan mereka.",
+      "url": "https://bsn-system.com/?20080901",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（用户记录联系人，Gmail 个人邮箱）",
+      "role": "",
+      "email": "sales@bsn-system.com",
+      "phone": "+62 819-3999-8899（官网）",
+      "source": "官网 + 用户 Clients 表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "BSN System / Berkah Saudara Network（bsn-system.com）",
+    "hq": "Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 11320",
+    "other": "独立安防顾问/集成商：OSE（组织/结构/电子）安防措施全套实施 + 外包运维 + 代管人防与控制室；官网 WordPress，2025-04 更新",
+    "founded": "2014（官网「Sejak tahun 2014」；首页另称 8 年经验）"
+  },
+  "business_lines": [
+    "安防系统集成",
+    "IT 运维外包",
+    "电子安防（CCTV/门禁）设计实施",
+    "安防运维外包、控制室代管"
+  ],
+  "products_seen": [
+    {
+      "brand": "（项目需求）",
+      "model": "2 光 4 电 ERPS 环网工业交换机；5 电口带 PoE",
+      "spec": "明确需求",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-144GP（4+1；2 光需核）/ STI-288DGGPM"
+    }
+  ],
+  "channels": {
+    "直邮": "aarstyan@gmail.com（用户表，免费邮箱）",
+    "WhatsApp": "已加（用户表）",
+    "网站": "https://bsn-system.com/"
+  },
+  "signals": [
+    "用户表：2 次回复 + WA，需求具体（ERPS 环网）",
+    "官网为通用安防顾问叙事、无产品目录——采购属项目制，2 光 N 电工业机需求来自具体项目（用户记录）"
+  ],
+  "risks": [
+    "免费邮箱、小公司；ERPS 功能需 SmartByte 固件确认"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "ERPS 环网需求 → 管理型 STI-288DGGPM（8+2，ERPS 待核）优于 4+1 非管理；集成商 25% 档"
+  },
+  "email_hook": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 2 封 0 回；用户表「2 光 4 电 + ERPS 环网」需求 + WA）",
+      "type": "雅加达安防/IT 集成（BSN）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "WA",
+      "lane": "ID",
+      "cadence": "WA",
+      "evidence": "邮件：去信 2 封（2024-11-20 → 2025-02-04），来信 0；Opened 标签 0 次；收件人 aarstyan@gmail.com, sales@bsn-system.com"
+    },
+    "situation": "需求具体（ERPS 环网）但邮件无痕。",
+    "need": "STI 2 光 4 电管理 + ERPS。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STI-244GP 管理版",
+      "tier": 25,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "按 WA 节奏",
+      "channel": "WhatsApp",
+      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory."
+    },
+    "facts": [],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

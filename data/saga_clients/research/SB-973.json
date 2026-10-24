@@ -82,19 +82,11 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：Cisco Switch；回复：price info",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2024",
+        "date": "2024-12-30",
         "dir": "去",
         "who": "S 群发",
         "quote": "48 port managed switch、10G media converter",
-        "why": "8 封 / 1 次打开 / 0 回",
+        "why": "8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
@@ -104,6 +96,14 @@
         "quote": "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…",
         "why": "要规格书 + 追问；非主攻区，个人邮箱",
         "k": "gmail_e"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：Cisco Switch；回复：price info",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [

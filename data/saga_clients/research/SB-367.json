@@ -130,20 +130,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-27",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
+        "why": "28 封 / 2 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-08-27（28 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "全线用itoonertech的FS IPC比较多 主要是CCTV领域；全线用itoonertech的FS IPC比较多 主要是CCTV领域 在用Itoonertech商业PoE；https://petawise.com/product-ca",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "28 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

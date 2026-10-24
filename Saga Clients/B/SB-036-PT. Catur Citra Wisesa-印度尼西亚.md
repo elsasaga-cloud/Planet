@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-04 | 去 | A/S 群发 | 16 Port PoE Managed Switch、Industrial PoE Switch | 3 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2025-02-04（3 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc | 表内备注 | `用户表` |
-| 2025 | 去 | A/S 群发 | 16 Port PoE Managed Switch、Industrial PoE Switch | 3 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

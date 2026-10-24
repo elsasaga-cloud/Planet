@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-02-11 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 16 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-02-11（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC 工业POE FS 串口 工业电源 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

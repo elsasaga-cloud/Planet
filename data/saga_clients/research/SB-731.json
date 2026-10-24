@@ -162,11 +162,11 @@
     },
     "facts": [
       {
-        "date": "2026",
+        "date": "2026-09-28",
         "dir": "去",
         "who": "A 群发",
         "quote": "10G Enterprise SFP Switch、48 Port PoE Managed Switch",
-        "why": "18 封 / 2 次打开 / 0 回",
+        "why": "18 封 / 2 次打开 / 0 回｜首封 2025-06-10 → 末封 2026-09-28（18 去 / 0 来）",
         "k": "gmail_digest"
       }
     ],

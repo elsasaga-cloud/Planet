@@ -1,108 +1,108 @@
 {
- "code": "SB-686",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（atelekom.com.tr，快照 2026-10-21）",
- "summary": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
- "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Ruijie",
-  "Bosch",
-  "Siemens",
-  "Karel"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：A Telekomünikasyon | Zayıf Akımda En İyi Çözüm；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
-   "url": "https://atelekom.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "A Telekomünikasyon 弱电方案",
-   "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
-   "url": "https://atelekom.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "弱电方案（PBX / CCTV / 对讲 / 视频会议）"
- ],
- "channels": {
-  "role": "弱电方案商/经销（土耳其，Hikvision 为主）",
-  "region": "土耳其",
-  "contact": "info@atelekom.com.tr"
- },
- "signals": [
-  "官网：Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan",
-  "站内型号 DS-3E2528P-H / DS-3E0505P-E（Hikvision PoE）；kw hikvision 259"
- ],
- "risks": [
-  "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
-  "土耳其：汇率敏感；无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
- },
- "email_hook": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@atelekom.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走"
-  },
-  "situation": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
-  "need": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-686",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（atelekom.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
+  "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Ruijie",
+    "Bosch",
+    "Siemens",
+    "Karel"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：A Telekomünikasyon | Zayıf Akımda En İyi Çözüm；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
+      "url": "https://atelekom.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "A Telekomünikasyon 弱电方案",
+      "quote": "A Telekomünikasyon, Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan öncü bir firmadır.",
+      "url": "https://atelekom.com.tr/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "弱电方案（PBX / CCTV / 对讲 / 视频会议）"
+  ],
+  "channels": {
+    "role": "弱电方案商/经销（土耳其，Hikvision 为主）",
+    "region": "土耳其",
+    "contact": "info@atelekom.com.tr"
+  },
+  "signals": [
+    "官网：Siemens, Karel ve Hikvision gibi markaların telefon santralleri ile Hikvision güvenlik teknolojilerini sunan",
+    "站内型号 DS-3E2528P-H / DS-3E0505P-E（Hikvision PoE）；kw hikvision 259"
+  ],
+  "risks": [
+    "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
+    "土耳其：汇率敏感；无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）"
+  },
+  "email_hook": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@atelekom.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "弱电方案商/经销（土耳其，Hikvision 为主）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；研究档 risks：Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走"
+    },
+    "situation": "土耳其 A Telekomünikasyon（弱电方案：Siemens / Karel 电话交换机、Hikvision 安防（Hikvision 259：DS-3E2528P-H / DS-3E0505P-E PoE 交换机）、对讲、视频会议；表内无兴趣记录）；表内 1 次跟进无回复。",
+    "need": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+    "breakpoint": "Hikvision 为主：PoE 多随 Hikvision 套装（DS-3E 系列）走",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Hikvision 套装配套 PoE（现 DS-3E 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches you install with Hikvision cameras and Karel PBX systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-11",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

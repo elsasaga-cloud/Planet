@@ -90,20 +90,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-15",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2026-04-15 → 末封 2026-09-15（5 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-        "why": "5 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

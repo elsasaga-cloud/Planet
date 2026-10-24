@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-23 | 去 | A 群发 | 24 Port PoE Managed Switch、90W PoE Managed Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-23（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、90W PoE Managed Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

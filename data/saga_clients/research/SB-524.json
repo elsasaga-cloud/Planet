@@ -1,126 +1,126 @@
 {
- "code": "SB-524",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
- "summary": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
- "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE ONV的 好多人卖他们的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE ONV；好多人卖他们的",
-   "quote": "商业PoE ONV的 好多人卖他们的；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Daniela Sdanga",
-   "title": "Buyer",
-   "email": "mdl@atlantis-land.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Massimo Liddo",
-   "title": "Director",
-   "email": "info@atlantis-land.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 atlantis-land.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
- },
- "business_lines": [
-  "网络 / 安防产品品牌（自有品牌 Atlantis）"
- ],
- "channels": {
-  "role": "网络/安防品牌商（意大利，PoE 现 ONV）",
-  "region": "意大利",
-  "contact": "info@atlantis-land.com、mdl@atlantis-land.com"
- },
- "signals": [
-  "表内：商业 PoE ONV 的 好多人卖他们的；KP Massimo Liddo / Director；Daniela Sdanga / Buyer；可以尝试多跟进一下",
-  "快照：unreachable"
- ],
- "risks": [
-  "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供"
- },
- "email_hook": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 d.sdanga@atlantis-land.com, info@atlantis-land.com；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）",
-   "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
-   "sieve": "1（只收到群发）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「商业PoE ONV的 好多人卖他们的」；研究档 risks：现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
-  },
-  "situation": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
-  "need": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
-  "breakpoint": "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE ONV的 好多人卖他们的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Networking Solutions",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-524",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（unreachable）",
+  "summary": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
+  "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE ONV的 好多人卖他们的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE ONV；好多人卖他们的",
+      "quote": "商业PoE ONV的 好多人卖他们的；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Daniela Sdanga",
+      "title": "Buyer",
+      "email": "mdl@atlantis-land.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Massimo Liddo",
+      "title": "Director",
+      "email": "info@atlantis-land.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 atlantis-land.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  },
+  "business_lines": [
+    "网络 / 安防产品品牌（自有品牌 Atlantis）"
+  ],
+  "channels": {
+    "role": "网络/安防品牌商（意大利，PoE 现 ONV）",
+    "region": "意大利",
+    "contact": "info@atlantis-land.com、mdl@atlantis-land.com"
+  },
+  "signals": [
+    "表内：商业 PoE ONV 的 好多人卖他们的；KP Massimo Liddo / Director；Daniela Sdanga / Buyer；可以尝试多跟进一下",
+    "快照：unreachable"
+  ],
+  "risks": [
+    "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供"
+  },
+  "email_hook": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 d.sdanga@atlantis-land.com, info@atlantis-land.com；主题多为「Industrial PoE Switch、Marvell Networking Solutions」）",
+      "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
+      "sieve": "1（只收到群发）",
+      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21；用户表：「商业PoE ONV的 好多人卖他们的」；研究档 risks：现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触"
+    },
+    "situation": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
+    "need": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
+    "breakpoint": "现供 ONV 价格基准低；官网 unreachable；13 次无回复 → 改向 Buyer 具名首触",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Networking Solutions",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE ONV的 好多人卖他们的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

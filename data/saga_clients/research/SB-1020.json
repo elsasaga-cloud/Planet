@@ -96,20 +96,20 @@
     },
     "facts": [
       {
+        "date": "2024-07-09",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial poe switch",
+        "why": "1 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2024-07-09（1 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "N-net的工业FS 刷了自己的标 主要做安防的",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2024",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial poe switch",
-        "why": "1 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

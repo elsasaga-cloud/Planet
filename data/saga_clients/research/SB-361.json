@@ -1,146 +1,146 @@
 {
- "code": "SB-361",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mapleye.com，快照 2026-10-21）",
- "summary": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
- "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "HiSource"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Mapleye Security Cameras - Security Systems, Security Camera；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
-   "url": "https://mapleye.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE switch；POE switch hisource的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "多伦多视频监控公司",
-   "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
-   "url": "https://mapleye.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE switch，HiSource 的",
-   "quote": "POE switch；hisource的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Elmir Mammadov",
-   "title": "Co-Founder",
-   "email": "elmir@mapleye.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "视频监控系统（自有标套装）",
-  "配套 PoE 交换机 / NVR"
- ],
- "channels": {
-  "role": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
-  "region": "加拿大",
-  "contact": "info@mapleye.com、elmir@mapleye.com"
- },
- "signals": [
-  "页面 /8-port-poe-switch、/poe-network-switch、/ip-poe-nvr",
-  "官网：Mapleye Technologies is a Toronto-based video surveillance company",
-  "KP：Elmir Mammadov / Co-Founder（表内）"
- ],
- "risks": [
-  "现代工 HiSource（深圳）价格基准低",
-  "16 次无回复 → 改向 Co-Founder 具名首触；本地安装商体量小"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）"
- },
- "email_hook": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful?",
- "products_seen": [
-  {
-   "brand": "Mapleye（自有标）",
-   "model": "8-port PoE switch",
-   "spec": "8 口 PoE（HiSource 代工）",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.mapleye.com/8-port-poe-switch",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 elmir@mapleye.com, info@mapleye.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "CA 主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 26；用户表：「POE switch；POE switch hisource的」；研究档 risks：现代工 HiSource（深圳）价格基准低"
-  },
-  "situation": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
-  "need": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
-  "breakpoint": "现代工 HiSource（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "POE switch；POE switch hisource的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "26 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-361",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mapleye.com，快照 2026-10-21）",
+  "summary": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
+  "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "HiSource"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Mapleye Security Cameras - Security Systems, Security Camera；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
+      "url": "https://mapleye.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "POE switch；POE switch hisource的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "多伦多视频监控公司",
+      "quote": "Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
+      "url": "https://mapleye.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE switch，HiSource 的",
+      "quote": "POE switch；hisource的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Elmir Mammadov",
+      "title": "Co-Founder",
+      "email": "elmir@mapleye.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "加拿大",
+    "other": "官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "视频监控系统（自有标套装）",
+    "配套 PoE 交换机 / NVR"
+  ],
+  "channels": {
+    "role": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
+    "region": "加拿大",
+    "contact": "info@mapleye.com、elmir@mapleye.com"
+  },
+  "signals": [
+    "页面 /8-port-poe-switch、/poe-network-switch、/ip-poe-nvr",
+    "官网：Mapleye Technologies is a Toronto-based video surveillance company",
+    "KP：Elmir Mammadov / Co-Founder（表内）"
+  ],
+  "risks": [
+    "现代工 HiSource（深圳）价格基准低",
+    "16 次无回复 → 改向 Co-Founder 具名首触；本地安装商体量小"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）"
+  },
+  "email_hook": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful?",
+  "products_seen": [
+    {
+      "brand": "Mapleye（自有标）",
+      "model": "8-port PoE switch",
+      "spec": "8 口 PoE（HiSource 代工）",
+      "saga": "STC-28DGGPM",
+      "url": "https://www.mapleye.com/8-port-poe-switch",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 elmir@mapleye.com, info@mapleye.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "26 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "CA 主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 26；用户表：「POE switch；POE switch hisource的」；研究档 risks：现代工 HiSource（深圳）价格基准低"
+    },
+    "situation": "加拿大 Mapleye Technologies（多伦多视频监控公司：商用与住宅安防系统，自有标套装 MYK-4K4R1T54-MCA 等、8 口 PoE 交换机 / PoE NVR 页；表内「PoE switch，HiSource 的」；KP Elmir Mammadov（Co-Founder，elmir@））；群发 16 次无回复。",
+    "need": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
+    "breakpoint": "现代工 HiSource（深圳）价格基准低",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有标 8 口 PoE（HiSource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Mapleye 标；百兆位 HRUI STC-028GFP（$17.6）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Elmir, for the 8-port PoE switch you bundle with Mapleye camera kits, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, your housing and label) from small lots with FCC/CE/RoHS reports — would a sample against your current unit be useful?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-21",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "26 封 / 0 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-21（26 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "POE switch；POE switch hisource的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

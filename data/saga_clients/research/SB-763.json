@@ -1,134 +1,134 @@
 {
- "code": "SB-763",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ctsystem.com，快照 2026-10-21）",
- "summary": "台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。",
- "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Connection Technology Systems Inc.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Founded in Taiwan in 1998, CTS is an in-house designer, manufacturer and leading network solution provider for fiber communication products.",
-   "url": "https://www.ctsystem.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC SFP FS POE 自己的牌子",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "1998 年台湾成立，光通信产品自研制造商",
-   "quote": "Founded in Taiwan in 1998, CTS is an in-house designer, manufacturer and leading network solution provider for fiber communication products.",
-   "url": "https://www.ctsystem.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC / SFP / FS / PoE 自有品牌，已加微信",
-   "quote": "MC SFP FS POE 自己的牌子；加了微信",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Koichi Ito",
-   "title": "（表内联系人）",
-   "email": "koichi_ito@ctsystem.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ctsystem.com，语言 en-GB，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "光纤通信产品（MC / 工业交换机 / PoE）自研自产",
-  "海外办事处：瑞典、奥地利"
- ],
- "channels": {
-  "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-  "region": "台湾",
-  "contact": "koichi_ito@ctsystem.com"
- },
- "signals": [
-  "新闻页：CTS proudly reveals an enhanced 10-port managed industrial PoE switch；28-port managed 180W PoE switch",
-  "站内 kw：industrial 149 / media converter 65 / poe 162",
-  "KP：Koichi Ito（表内邮箱）；已加微信"
- ],
- "risks": [
-  "台湾自研自产厂商：外采意愿低，仅二供/补缺",
-  "非主攻区（T5）；8 次无回复，改走微信"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息"
- },
- "email_hook": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 koichi_ito@ctsystem.com；主题多为「90W PoE Managed Switch、Marvell Software Function List」）",
-   "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "台湾 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「MC SFP FS POE 自己的牌子」；研究档 risks：台湾自研自产厂商：外采意愿低，仅二供/补缺"
-  },
-  "situation": "台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。",
-  "need": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
-  "breakpoint": "台湾自研自产厂商：外采意愿低，仅二供/补缺",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC SFP FS POE 自己的牌子",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "90W PoE Managed Switch、Marvell Software Function List",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-763",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ctsystem.com，快照 2026-10-21）",
+  "summary": "台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。",
+  "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Connection Technology Systems Inc.；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Founded in Taiwan in 1998, CTS is an in-house designer, manufacturer and leading network solution provider for fiber communication products.",
+      "url": "https://www.ctsystem.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC SFP FS POE 自己的牌子",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "1998 年台湾成立，光通信产品自研制造商",
+      "quote": "Founded in Taiwan in 1998, CTS is an in-house designer, manufacturer and leading network solution provider for fiber communication products.",
+      "url": "https://www.ctsystem.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC / SFP / FS / PoE 自有品牌，已加微信",
+      "quote": "MC SFP FS POE 自己的牌子；加了微信",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Koichi Ito",
+      "title": "（表内联系人）",
+      "email": "koichi_ito@ctsystem.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "台湾",
+    "other": "官网 ctsystem.com，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "光纤通信产品（MC / 工业交换机 / PoE）自研自产",
+    "海外办事处：瑞典、奥地利"
+  ],
+  "channels": {
+    "role": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+    "region": "台湾",
+    "contact": "koichi_ito@ctsystem.com"
+  },
+  "signals": [
+    "新闻页：CTS proudly reveals an enhanced 10-port managed industrial PoE switch；28-port managed 180W PoE switch",
+    "站内 kw：industrial 149 / media converter 65 / poe 162",
+    "KP：Koichi Ito（表内邮箱）；已加微信"
+  ],
+  "risks": [
+    "台湾自研自产厂商：外采意愿低，仅二供/补缺",
+    "非主攻区（T5）；8 次无回复，改走微信"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息"
+  },
+  "email_hook": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 koichi_ito@ctsystem.com；主题多为「90W PoE Managed Switch、Marvell Software Function List」）",
+      "type": "台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "台湾 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「MC SFP FS POE 自己的牌子」；研究档 risks：台湾自研自产厂商：外采意愿低，仅二供/补缺"
+    },
+    "situation": "台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。",
+    "need": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
+    "breakpoint": "台湾自研自产厂商：外采意愿低，仅二供/补缺",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "90W PoE Managed Switch、Marvell Software Function List",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-02-21 → 末封 2026-09-10（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC SFP FS POE 自己的牌子",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

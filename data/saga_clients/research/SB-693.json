@@ -1,163 +1,163 @@
 {
- "code": "SB-693",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（digisol.com，快照 2026-10-21）",
- "summary": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
- "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "HRUI",
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Digisol – Leading Networking & IT Solutions in India；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions. Explore our innovative network products and technology.",
-   "url": "https://www.digisol.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Digisol：印度本土网络品牌",
-   "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions.",
-   "url": "https://www.digisol.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 来自洪瑞/Utepo，商用来自新桥",
-   "quote": "洪瑞 Upeto的工业FS 新桥商业 洪瑞工业；工业FS MC 线缆 Pon 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ranjan Gupta",
-   "title": "Dy. Business Development Manager",
-   "email": "ranjan.gupta@digisol.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Nandini Singh",
-   "title": "Deputy Manager",
-   "email": "nandini.singh@digisol.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "印度",
-  "other": "官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "交换机（商用 / 工业 / 多千兆 L3）",
-  "FTTH / PON / MC / 布线 / 监控（自有品牌）"
- ],
- "channels": {
-  "role": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
-  "region": "印度",
-  "contact": "nandini.singh@digisol.com、ranjan.gupta@digisol.com"
- },
- "signals": [
-  "新闻页 /digisol-introduces-dg-is1006gp-unmanaged-poe-gigabit-switch-series-…、/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…",
-  "站内型号 DG-IS4628FSE / DG-IS4628HPSE / DG-IS1010GP / DG-IS1006GP / DG-MC5123S-PTL",
-  "表内：洪瑞 Utepo 的工业 FS；新桥商业；KP Nandini Singh / Deputy Manager；Ranjan Gupta / Dy. BDM"
- ],
- "risks": [
-  "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
-  "印度 BIS：由 Digisol 以其品牌取证；整机关税高 → SKD 可谈",
-  "「Made in India」宣传：进口整机需配合其本地化口径；非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价"
- },
- "email_hook": "Ranjan, for the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?",
- "products_seen": [
-  {
-   "brand": "Digisol（自有）",
-   "model": "DG-IS1010GP",
-   "spec": "工业 8 PoE + 2 SFP 非管理（推断）",
-   "saga": "STI-288GP（Q-33 口径：只推 SmartByte 线）",
-   "url": "https://www.digisol.com/product/switching-solutions/industrial-switches/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Digisol（自有）",
-   "model": "DG-IS4628HPSE",
-   "spec": "工业 24 PoE + 4 SFP 管理（推断）",
-   "saga": "（Saga 工业 24 口无标准型）",
-   "url": "https://www.digisol.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "IN 次级（点名）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线"
-  },
-  "situation": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
-  "need": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
-  "breakpoint": "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-693",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（digisol.com，快照 2026-10-21）",
+  "summary": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
+  "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "HRUI",
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Digisol – Leading Networking & IT Solutions in India；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions. Explore our innovative network products and technology.",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Digisol：印度本土网络品牌",
+      "quote": "Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions.",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 来自洪瑞/Utepo，商用来自新桥",
+      "quote": "洪瑞 Upeto的工业FS 新桥商业 洪瑞工业；工业FS MC 线缆 Pon 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ranjan Gupta",
+      "title": "Dy. Business Development Manager",
+      "email": "ranjan.gupta@digisol.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Nandini Singh",
+      "title": "Deputy Manager",
+      "email": "nandini.singh@digisol.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 digisol.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "交换机（商用 / 工业 / 多千兆 L3）",
+    "FTTH / PON / MC / 布线 / 监控（自有品牌）"
+  ],
+  "channels": {
+    "role": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+    "region": "印度",
+    "contact": "nandini.singh@digisol.com、ranjan.gupta@digisol.com"
+  },
+  "signals": [
+    "新闻页 /digisol-introduces-dg-is1006gp-unmanaged-poe-gigabit-switch-series-…、/introducing-digisols-revolutionary-range-of-multigig-l3-and-l2-poe-and-non-poe-switche…",
+    "站内型号 DG-IS4628FSE / DG-IS4628HPSE / DG-IS1010GP / DG-IS1006GP / DG-MC5123S-PTL",
+    "表内：洪瑞 Utepo 的工业 FS；新桥商业；KP Nandini Singh / Deputy Manager；Ranjan Gupta / Dy. BDM"
+  ],
+  "risks": [
+    "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+    "印度 BIS：由 Digisol 以其品牌取证；整机关税高 → SKD 可谈",
+    "「Made in India」宣传：进口整机需配合其本地化口径；非主攻区（T5）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价"
+  },
+  "email_hook": "Ranjan, for the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?",
+  "products_seen": [
+    {
+      "brand": "Digisol（自有）",
+      "model": "DG-IS1010GP",
+      "spec": "工业 8 PoE + 2 SFP 非管理（推断）",
+      "saga": "STI-288GP（Q-33 口径：只推 SmartByte 线）",
+      "url": "https://www.digisol.com/product/switching-solutions/industrial-switches/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Digisol（自有）",
+      "model": "DG-IS4628HPSE",
+      "spec": "工业 24 PoE + 4 SFP 管理（推断）",
+      "saga": "（Saga 工业 24 口无标准型）",
+      "url": "https://www.digisol.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "IN 次级（点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线"
+    },
+    "situation": "印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。",
+    "need": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+    "breakpoint": "现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-09-17",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-17（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

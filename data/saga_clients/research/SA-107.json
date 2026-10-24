@@ -155,20 +155,20 @@
     },
     "facts": [
       {
+        "date": "2026-03-27",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Managed Commercial Switches、8 Port Industrial PoE Switch",
+        "why": "2 封 / 0 次打开 / 0 回｜首封 2024-11-20 → 末封 2026-03-27（2 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Managed Commercial Switches、8 Port Industrial PoE Switch",
-        "why": "2 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

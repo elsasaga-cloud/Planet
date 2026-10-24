@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-04 | 去 | A 群发 | Marvell Industrial Alert System、Marvell Software Function List | 14 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-04（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | Marvell Industrial Alert System、Marvell Software Function List | 14 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

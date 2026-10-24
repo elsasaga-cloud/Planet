@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-15 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 61 封 / 5 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（61 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Utepo的工业FS；SFP MC 自己的logo 周边产品 有光路的OEO 国内的工业FS；https://www.andcorp.com.au/how-to-use-a-media-converter-in-your-network/ | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 61 封 / 5 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

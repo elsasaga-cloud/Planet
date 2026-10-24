@@ -94,20 +94,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
+        "why": "29 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-28（29 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-        "why": "29 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -109,11 +109,11 @@
     },
     "facts": [
       {
-        "date": "2026",
+        "date": "2026-09-24",
         "dir": "去",
         "who": "A 群发",
         "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "12 封 / 1 次打开 / 0 回",
+        "why": "12 封 / 1 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
         "k": "gmail_digest"
       }
     ],

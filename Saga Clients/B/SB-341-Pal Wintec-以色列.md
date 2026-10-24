@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-10-07 | 去 | A 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-05-21 → 末封 2026-10-07（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

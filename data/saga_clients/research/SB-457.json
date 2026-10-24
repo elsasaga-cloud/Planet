@@ -1,136 +1,136 @@
 {
- "code": "SB-457",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（bma-networks.com，快照 2026-10-21）",
- "summary": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
- "type": "企业 IT 系统集成商（德国，Extreme 生态）",
- "size": "",
- "brands_seen": [
-  "Zyxel",
-  "Fortinet",
-  "Extreme"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：dierckgroup – IT, Service & Technik für Unternehmen；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen – persönlich geplant und zuverlässig betreut.",
-   "url": "https://www.dierck-group.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Networking",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "dierckgroup 定位",
-   "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen ; DEUTZ AG – Industrial Ethernet ; Netzwerkdesign mit Extreme Fabric",
-   "url": "https://www.dierck-group.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Networking",
-   "quote": "Networking",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mats Hansen",
-   "title": "Technical Lead",
-   "email": "mats.hansen@bma-networks.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "企业 IT / 网络 / OT 安全系统集成"
- ],
- "channels": {
-  "role": "企业 IT 系统集成商（德国，Extreme 生态）",
-  "region": "德国",
-  "contact": "info@bma-networks.com、mats.hansen@bma-networks.com"
- },
- "signals": [
-  "首页案例：Netzwerkdesign mit Extreme Fabric ; DEUTZ AG – Industrial Ethernet ; Buchholz Digital GmbH – FTTH-Ausbau ; Nordmark Pharma – Modulares Rechenzentrum",
-  "页面 /case-studies/deutz-ag-industrial-ethernet/、/it-solutions/cyber-security/industrial-security-ot/；kw datacenter 45 / industrial 29"
- ],
- "risks": [
-  "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
-  "集成商项目型采购；3 次跟进无回复 → 改向 Technical Lead 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替"
- },
- "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
-   "type": "企业 IT 系统集成商（德国，Extreme 生态）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「Networking」；研究档 risks：Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位"
-  },
-  "situation": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
-  "need": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
-  "breakpoint": "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Networking",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "48 Port PoE Managed Switch、10G Enterprise SFP Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-457",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（bma-networks.com，快照 2026-10-21）",
+  "summary": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
+  "type": "企业 IT 系统集成商（德国，Extreme 生态）",
+  "size": "",
+  "brands_seen": [
+    "Zyxel",
+    "Fortinet",
+    "Extreme"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：dierckgroup – IT, Service & Technik für Unternehmen；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 数据中心 / 企业 IT / 网络交换 / PoE",
+      "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen – persönlich geplant und zuverlässig betreut.",
+      "url": "https://www.dierck-group.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Networking",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "dierckgroup 定位",
+      "quote": "Die dierckgroup bietet IT, Cloud, Cyber Security, Managed Services und Gebäudetechnik für Unternehmen ; DEUTZ AG – Industrial Ethernet ; Netzwerkdesign mit Extreme Fabric",
+      "url": "https://www.dierck-group.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Networking",
+      "quote": "Networking",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Mats Hansen",
+      "title": "Technical Lead",
+      "email": "mats.hansen@bma-networks.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 bma-networks.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "企业 IT / 网络 / OT 安全系统集成"
+  ],
+  "channels": {
+    "role": "企业 IT 系统集成商（德国，Extreme 生态）",
+    "region": "德国",
+    "contact": "info@bma-networks.com、mats.hansen@bma-networks.com"
+  },
+  "signals": [
+    "首页案例：Netzwerkdesign mit Extreme Fabric ; DEUTZ AG – Industrial Ethernet ; Buchholz Digital GmbH – FTTH-Ausbau ; Nordmark Pharma – Modulares Rechenzentrum",
+    "页面 /case-studies/deutz-ag-industrial-ethernet/、/it-solutions/cyber-security/industrial-security-ot/；kw datacenter 45 / industrial 29"
+  ],
+  "risks": [
+    "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+    "集成商项目型采购；3 次跟进无回复 → 改向 Technical Lead 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替"
+  },
+  "email_hook": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@bma-networks.com, mats.hansen@bma-networks.com；主题多为「48 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+      "type": "企业 IT 系统集成商（德国，Extreme 生态）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「Networking」；研究档 risks：Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位"
+    },
+    "situation": "德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。",
+    "need": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
+    "breakpoint": "Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "48 Port PoE Managed Switch、10G Enterprise SFP Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-17 → 末封 2026-09-22（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Networking",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

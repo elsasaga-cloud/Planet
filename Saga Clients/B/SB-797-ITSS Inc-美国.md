@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-28 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Managed Optical Bypass Switch | 29 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-28（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China) | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Managed Optical Bypass Switch | 29 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

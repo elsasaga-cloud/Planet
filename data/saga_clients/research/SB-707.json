@@ -102,20 +102,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "OEM Core Switching Solution、Updated Ethernet Switches Links",
+        "why": "9 封 / 1 次打开 / 0 回｜首封 2026-01-21 → 末封 2026-09-24（9 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "Switches",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "OEM Core Switching Solution、Updated Ethernet Switches Links",
-        "why": "9 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

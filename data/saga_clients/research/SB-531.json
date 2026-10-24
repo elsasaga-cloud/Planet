@@ -1,124 +1,124 @@
 {
- "code": "SB-531",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。",
- "type": "CCTV 品牌/分销商（美国）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE",
-   "quote": "商业PoE；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tony Forbes",
-   "title": "Sales Executive",
-   "email": "tony@eclipsecctv.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Manuel Alvarez",
-   "title": "Support Engineer",
-   "email": "sales@eclipsecctv.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "CCTV 品牌 / 分销（美国）"
- ],
- "channels": {
-  "role": "CCTV 品牌/分销商（美国）",
-  "region": "美国",
-  "contact": "sales@eclipsecctv.com、tony@eclipsecctv.com"
- },
- "signals": [
-  "表内：商业 PoE；KP Tony Forbes / Sales Executive；Manuel Alvarez / Support Engineer；可以尝试多跟进一下",
-  "快照：http_error"
- ],
- "risks": [
-  "官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 manny@eclipsecctv.com, sales@eclipsecctv.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "CCTV 品牌/分销商（美国）",
-   "sieve": "1（只收到群发）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23；用户表：「商业PoE」；研究档 risks：官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）"
-  },
-  "situation": "美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。",
-  "need": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "23 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-531",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。",
+  "type": "CCTV 品牌/分销商（美国）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE",
+      "quote": "商业PoE；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Tony Forbes",
+      "title": "Sales Executive",
+      "email": "tony@eclipsecctv.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Manuel Alvarez",
+      "title": "Support Engineer",
+      "email": "sales@eclipsecctv.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 eclipsecctv.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "CCTV 品牌 / 分销（美国）"
+  ],
+  "channels": {
+    "role": "CCTV 品牌/分销商（美国）",
+    "region": "美国",
+    "contact": "sales@eclipsecctv.com、tony@eclipsecctv.com"
+  },
+  "signals": [
+    "表内：商业 PoE；KP Tony Forbes / Sales Executive；Manuel Alvarez / Support Engineer；可以尝试多跟进一下",
+    "快照：http_error"
+  ],
+  "risks": [
+    "官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2025→2026，无记录打开，0 回；收件 manny@eclipsecctv.com, sales@eclipsecctv.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "CCTV 品牌/分销商（美国）",
+      "sieve": "1（只收到群发）",
+      "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 23；用户表：「商业PoE」；研究档 risks：官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）"
+    },
+    "situation": "美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。",
+    "need": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "官网 http_error；10 次无回复 → 改向 Sales Executive 具名首触；NDAA 场景（§889 适用范围待核）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2025-01-21 → 末封 2026-09-16（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

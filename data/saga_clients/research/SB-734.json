@@ -1,102 +1,102 @@
 {
- "code": "SB-734",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（serrackkabin.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Ser Rack Kabinet（19\" 机柜、服务器/数据中心机柜、电信户外柜制造商；站内「Aktif Cihazlar / Switchler」有源设备分类与铜缆/光纤网络产品）；表内 1 次跟进无回复。",
- "type": "机柜制造商兼网络产品经销（土耳其）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Ser Rack Kabinet | 19\" Rack Kabinetler, Server ve Data Center Kabinetleri, Telekom Saha Ka；品类词 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "SER RACK KABİNET müşterilerimize Elektroniksel / Elektriksel, cihazların daha verimli, güvenli ve sürdürülebilir bir şekilde yönetmeleri için yardımcı olan Muhafaza ( Rack Kabinet, Pano, Kutu vb…) çözümleri sunar.",
-   "url": "https://serrackkabin.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Ser Rack 分类页",
-   "quote": "Ser Rack Kabinet | 19\" Rack Kabinetler, Server ve Data Center Kabinetleri ; /Ser-Rack-Kabinet/Aktif-Cihazlar/Switchler",
-   "url": "https://serrackkabin.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "机柜 / 数据中心柜制造（土耳其）",
-  "网络有源/无源产品经销"
- ],
- "channels": {
-  "role": "机柜制造商兼网络产品经销（土耳其）",
-  "region": "土耳其",
-  "contact": "satis@serrackkabin.com.tr"
- },
- "signals": [
-  "官网：SER RACK KABİNET ; Rack Kabinet ; Data Network ; Rack/Plug PDU；页面 /Ser-Rack-Kabinet/Aktif-Cihazlar/Switchler、/Ser-Rack-Kabinet/Fiber-Optik-Network-Urunleri；kw data center 37 / fiber 42",
-  "表内：无兴趣备注"
- ],
- "risks": [
-  "主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑"
- },
- "email_hook": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 satis@serrackkabin.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "机柜制造商兼网络产品经销（土耳其）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@"
-  },
-  "situation": "土耳其 Ser Rack Kabinet（19\" 机柜、服务器/数据中心机柜、电信户外柜制造商；站内「Aktif Cihazlar / Switchler」有源设备分类与铜缆/光纤网络产品）；表内 1 次跟进无回复。",
-  "need": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
-  "breakpoint": "主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-734",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（serrackkabin.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Ser Rack Kabinet（19\" 机柜、服务器/数据中心机柜、电信户外柜制造商；站内「Aktif Cihazlar / Switchler」有源设备分类与铜缆/光纤网络产品）；表内 1 次跟进无回复。",
+  "type": "机柜制造商兼网络产品经销（土耳其）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Ser Rack Kabinet | 19\" Rack Kabinetler, Server ve Data Center Kabinetleri, Telekom Saha Ka；品类词 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "SER RACK KABİNET müşterilerimize Elektroniksel / Elektriksel, cihazların daha verimli, güvenli ve sürdürülebilir bir şekilde yönetmeleri için yardımcı olan Muhafaza ( Rack Kabinet, Pano, Kutu vb…) çözümleri sunar.",
+      "url": "https://serrackkabin.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Ser Rack 分类页",
+      "quote": "Ser Rack Kabinet | 19\" Rack Kabinetler, Server ve Data Center Kabinetleri ; /Ser-Rack-Kabinet/Aktif-Cihazlar/Switchler",
+      "url": "https://serrackkabin.com.tr/",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "机柜 / 数据中心柜制造（土耳其）",
+    "网络有源/无源产品经销"
+  ],
+  "channels": {
+    "role": "机柜制造商兼网络产品经销（土耳其）",
+    "region": "土耳其",
+    "contact": "satis@serrackkabin.com.tr"
+  },
+  "signals": [
+    "官网：SER RACK KABİNET ; Rack Kabinet ; Data Network ; Rack/Plug PDU；页面 /Ser-Rack-Kabinet/Aktif-Cihazlar/Switchler、/Ser-Rack-Kabinet/Fiber-Optik-Network-Urunleri；kw data center 37 / fiber 42",
+    "表内：无兴趣备注"
+  ],
+  "risks": [
+    "主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑"
+  },
+  "email_hook": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 satis@serrackkabin.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "机柜制造商兼网络产品经销（土耳其）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；研究档 risks：主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@"
+    },
+    "situation": "土耳其 Ser Rack Kabinet（19\" 机柜、服务器/数据中心机柜、电信户外柜制造商；站内「Aktif Cihazlar / Switchler」有源设备分类与铜缆/光纤网络产品）；表内 1 次跟进无回复。",
+    "need": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
+    "breakpoint": "主业机柜（Saga 不做），交换机为配套经销；土耳其汇率敏感；1 次无回复，仅 satis@",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "机柜配套有源设备分类 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、24 口 PoE STC-424DGGPM-280W（$134.5）、8 口 STC-28DGGPM（$80.7）作机柜捆绑",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the switches listed under your active-devices category, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ switches (plus 8-PoE + 2 SFP) from small lots, CE/RoHS, EXW USD — would a cabinet + switch bundle SKU fit your data-network offer?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-09",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-09（5 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

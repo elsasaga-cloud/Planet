@@ -100,20 +100,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
+        "why": "23 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-22（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-        "why": "23 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

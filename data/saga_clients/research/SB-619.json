@@ -1,119 +1,119 @@
 {
- "code": "SB-619",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（plus-nn.ru，快照 2026-10-21）",
- "summary": "俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。",
- "type": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
- "size": "",
- "brands_seen": [
-  "HRUI"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° Ñ",
-   "quote": "Ð§ÑÐ¾ ÑÑÐ¾ Ð·Ð½Ð°ÑÐ¸Ñ Ð¸ ÐºÐ°Ðº Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°ÑÑ Ð´Ð¾Ð¼ÐµÐ½?；Ð¢ÐµÑ . Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ°；What does it mean, and how do I link it?；Support",
-   "url": "https://plus-nn.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "国内多家商业 PoE 含 HRUI；自己的型号",
-   "quote": "有国内好几家商业POE 也有洪瑞的 / 用的洪瑞的 商业PoE 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 plus-nn.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "商用 PoE 交换机（自有型号，多家国内供货）"
- ],
- "channels": {
-  "role": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
-  "region": "俄罗斯",
-  "contact": "praid-city@yandex.ru"
- },
- "signals": [
-  "表内：有国内好几家商业 PoE 也有洪瑞的 / 用的洪瑞的 商业 PoE 自己的型号；7 903 848 22 27 (linked to Viber and WhatsApp)",
-  "快照：Домен не прилинкован ни к одной из директорий（域名未绑定）"
- ],
- "risks": [
-  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "俄罗斯：结算/物流/合规风险；域名未绑定站点、联系邮箱为 yandex 免费邮箱（实体待核）；18 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望"
- },
- "email_hook": "For the PoE switches you sell under your own model numbers, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; EAC by your side — which configuration do your customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 praid-city@yandex.ru；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
-   "sieve": "1（只收到群发）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 23；用户表：「有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsA」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
-  },
-  "situation": "俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。",
-  "need": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望",
-  "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "23 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-619",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（plus-nn.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。",
+  "type": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
+  "size": "",
+  "brands_seen": [
+    "HRUI"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ÐÐ¾Ð¼ÐµÐ½ Ð½Ðµ Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°Ð½ Ð½Ð¸ Ðº Ð¾Ð´Ð½Ð¾Ð¹ Ð¸Ð· Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¹ Ð½Ð° Ñ",
+      "quote": "Ð§ÑÐ¾ ÑÑÐ¾ Ð·Ð½Ð°ÑÐ¸Ñ Ð¸ ÐºÐ°Ðº Ð¿ÑÐ¸Ð»Ð¸Ð½ÐºÐ¾Ð²Ð°ÑÑ Ð´Ð¾Ð¼ÐµÐ½?；Ð¢ÐµÑ . Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ°；What does it mean, and how do I link it?；Support",
+      "url": "https://plus-nn.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "国内多家商业 PoE 含 HRUI；自己的型号",
+      "quote": "有国内好几家商业POE 也有洪瑞的 / 用的洪瑞的 商业PoE 自己的型号",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 plus-nn.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "商用 PoE 交换机（自有型号，多家国内供货）"
+  ],
+  "channels": {
+    "role": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
+    "region": "俄罗斯",
+    "contact": "praid-city@yandex.ru"
+  },
+  "signals": [
+    "表内：有国内好几家商业 PoE 也有洪瑞的 / 用的洪瑞的 商业 PoE 自己的型号；7 903 848 22 27 (linked to Viber and WhatsApp)",
+    "快照：Домен не прилинкован ни к одной из директорий（域名未绑定）"
+  ],
+  "risks": [
+    "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "俄罗斯：结算/物流/合规风险；域名未绑定站点、联系邮箱为 yandex 免费邮箱（实体待核）；18 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望"
+  },
+  "email_hook": "For the PoE switches you sell under your own model numbers, we can add a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; EAC by your side — which configuration do your customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 praid-city@yandex.ru；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）",
+      "sieve": "1（只收到群发）",
+      "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 23；用户表：「有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsA」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+    },
+    "situation": "俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。",
+    "need": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望",
+    "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-08-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-08-24（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号；7 903 848 22 27 ( linked to Viber and WhatsApp)",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

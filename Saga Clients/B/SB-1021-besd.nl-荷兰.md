@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-02-27 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-02-27（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

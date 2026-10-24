@@ -1,128 +1,128 @@
 {
- "code": "SB-140",
- "name_official": "Brainboxes Ltd（利物浦）",
- "researched_at": "2026-10-21",
- "website_status": "在线（brainboxes.com，快照 2026-10-21）",
- "summary": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Brainboxes（自有）"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修",
-   "quote": "Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support",
-   "url": "https://brainboxes.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "5/8 电口工业 FS 自己的 logo",
-   "quote": "兴趣：5/8电口工业FS 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Luke Walsh",
-   "title": "（表内联系人）",
-   "email": "luke.walsh@brainboxes.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Stephen Greer",
-   "title": "（表内联系人）",
-   "email": "stephen.greer@brainboxes.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Brainboxes Ltd",
-  "founded": "1983",
-  "hq": "Liverpool, UK",
-  "size": "中型制造商",
-  "other": "自有工业交换机 SW 系列（部分外购）"
- },
- "business_lines": [
-  "工业以太网交换机 / 串口 / IO（自有品牌）"
- ],
- "channels": {
-  "role": "英国制造商（OEM 采购）",
-  "region": "英国"
- },
- "signals": [
-  "明确：5/8 口工业 FS 贴自己 logo → OEM 入口"
- ],
- "risks": [
-  "终身保修要求 → 品质 / 保修条款需谈",
-  "10 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 30,
-  "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。"
- },
- "email_hook": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 luke.walsh@brainboxes.com, sales@brainboxes.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "UK 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「兴趣：5/8电口工业FS 自己的logo」；研究档 risks：终身保修要求 → 品质 / 保修条款需谈"
-  },
-  "situation": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
-  "need": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
-  "breakpoint": "终身保修要求 → 品质 / 保修条款需谈",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：5/8电口工业FS 自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-140",
+  "name_official": "Brainboxes Ltd（利物浦）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（brainboxes.com，快照 2026-10-21）",
+  "summary": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Brainboxes（自有）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "英国工业数据连接制造商：工业以太网交换机、IoT、串口、IO；终身保修",
+      "quote": "Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support",
+      "url": "https://brainboxes.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "5/8 电口工业 FS 自己的 logo",
+      "quote": "兴趣：5/8电口工业FS 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Luke Walsh",
+      "title": "（表内联系人）",
+      "email": "luke.walsh@brainboxes.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Stephen Greer",
+      "title": "（表内联系人）",
+      "email": "stephen.greer@brainboxes.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Brainboxes Ltd",
+    "founded": "1983",
+    "hq": "Liverpool, UK",
+    "size": "中型制造商",
+    "other": "自有工业交换机 SW 系列（部分外购）"
+  },
+  "business_lines": [
+    "工业以太网交换机 / 串口 / IO（自有品牌）"
+  ],
+  "channels": {
+    "role": "英国制造商（OEM 采购）",
+    "region": "英国"
+  },
+  "signals": [
+    "明确：5/8 口工业 FS 贴自己 logo → OEM 入口"
+  ],
+  "risks": [
+    "终身保修要求 → 品质 / 保修条款需谈",
+    "10 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 30,
+    "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。"
+  },
+  "email_hook": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 luke.walsh@brainboxes.com, sales@brainboxes.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "UK 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21；用户表：「兴趣：5/8电口工业FS 自己的logo」；研究档 risks：终身保修要求 → 品质 / 保修条款需谈"
+    },
+    "situation": "英国利物浦工业数据连接制造商（坚固工业以太网交换机、IoT、串口转换、IO；终身保修；industrial 204 / switch 233 / sfp 108），Luke Walsh / Stephen Greer；表内「5/8 电口工业 FS 自己的 logo」；群发 10 次无回复。英国制造商 → OEM 30%。",
+    "need": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
+    "breakpoint": "终身保修要求 → 品质 / 保修条款需谈",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Luke, for the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：5/8电口工业FS 自己的logo",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

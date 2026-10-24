@@ -102,20 +102,20 @@
     },
     "facts": [
       {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+        "why": "19 封 / 2 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-10-01（19 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "IFS这个牌子 工业FS MC CCTV",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-        "why": "19 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

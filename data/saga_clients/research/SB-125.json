@@ -86,20 +86,20 @@
     },
     "facts": [
       {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "industrial poe switch、16 Port Ethernet Switch",
+        "why": "12 封 / 1 次打开 / 0 回｜首封 2024-06-16 → 末封 2025-04-03（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2025",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "industrial poe switch、16 Port Ethernet Switch",
-        "why": "12 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

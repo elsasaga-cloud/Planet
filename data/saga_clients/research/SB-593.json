@@ -1,140 +1,140 @@
 {
- "code": "SB-593",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（matrix.es，快照 2026-10-21）",
- "summary": "西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。",
- "type": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.",
-   "url": "https://www.matrix.es/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工厂、能源或现场网络改造项目 工业级千兆交换机、8口工业PoE、ERPS环网交换机 官网路径直接为“Industrial Networking / Industr",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Matrix：IoT 方案与电子模块供应",
-   "quote": "Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.",
-   "url": "https://www.matrix.es/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "几个小有名气的牌子；AI 41% A",
-   "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Daniel Cortes",
-   "title": "（表内联系人）",
-   "email": "info@matrix.es",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Jose Miguel",
-   "title": "（表内联系人）",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "西班牙",
-  "other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "IoT 方案 / 电子模块与设备供应",
-  "工业网络（串口服务器等）/ 嵌入式计算"
- ],
- "channels": {
-  "role": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
-  "region": "西班牙",
-  "contact": "info@matrix.es"
- },
- "signals": [
-  "官网：Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas；栏目 Wireless IoT / Networking Industrial / Embedded Computing",
-  "表内 AI：41% A 西班牙工业网络专业渠道/方案商；KP Daniel Cortes / Jose Miguel"
- ],
- "risks": [
-  "站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低",
-  "无邮箱具名（info@）；表内无跟进"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低"
- },
- "email_hook": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 info@matrix.es；主题多为「24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update」）",
-   "type": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 4；用户表：「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；研究档 risks：站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低"
-  },
-  "situation": "西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。",
-  "need": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低",
-  "breakpoint": "站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update",
-    "why": "4 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-593",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（matrix.es，快照 2026-10-21）",
+  "summary": "西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。",
+  "type": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.",
+      "url": "https://www.matrix.es/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工厂、能源或现场网络改造项目 工业级千兆交换机、8口工业PoE、ERPS环网交换机 官网路径直接为“Industrial Networking / Industr",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Matrix：IoT 方案与电子模块供应",
+      "quote": "Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas.",
+      "url": "https://www.matrix.es/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "几个小有名气的牌子；AI 41% A",
+      "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Daniel Cortes",
+      "title": "（表内联系人）",
+      "email": "info@matrix.es",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Jose Miguel",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "西班牙",
+    "other": "官网 matrix.es，语言 es-ES，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "IoT 方案 / 电子模块与设备供应",
+    "工业网络（串口服务器等）/ 嵌入式计算"
+  ],
+  "channels": {
+    "role": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
+    "region": "西班牙",
+    "contact": "info@matrix.es"
+  },
+  "signals": [
+    "官网：Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas；栏目 Wireless IoT / Networking Industrial / Embedded Computing",
+    "表内 AI：41% A 西班牙工业网络专业渠道/方案商；KP Daniel Cortes / Jose Miguel"
+  ],
+  "risks": [
+    "站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低",
+    "无邮箱具名（info@）；表内无跟进"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低"
+  },
+  "email_hook": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 info@matrix.es；主题多为「24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update」）",
+      "type": "工业电子/IoT 组件供应商（西班牙，面向集成商）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "西班牙（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 4；用户表：「几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、C」；研究档 risks：站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低"
+    },
+    "situation": "西班牙 Matrix Electrónica（IoT 方案开发、面向设计者与系统集成商的电子模块与设备制造/供应：无线 IoT、工业网络（串口-以太网 XPort）、嵌入式计算、天线线缆、传感器、电源；表内 AI「41% A：工业网络专业渠道/方案商，客户偏技术与项目」「几个小有名气的牌子」；KP Daniel Cortes、Jose Miguel）；表内无跟进记录。",
+    "need": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低",
+    "breakpoint": "站内交换机占比低（switch 14 / industrial 96）：以 IoT 模块为主，交换机预期低",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-30",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update",
+        "why": "4 封 / 0 次打开 / 0 回｜首封 2026-06-24 → 末封 2026-09-30（4 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

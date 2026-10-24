@@ -1,138 +1,138 @@
 {
- "code": "SA-142",
- "name_official": "Citicore Renewable Energy Corporation（CREC，PSE 上市；San Juan City, Philippines；crec.com.ph）",
- "website_status": "在线",
- "summary": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
- "type": "经销/集成商",
- "size": "待补证",
- "brands_seen": [
-  "迈威 Maiwe（用户记录）",
-  "Maiwe 迈威（外贸数据在采）"
- ],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "买了迈威的；0 回复",
-   "quote": "买了迈威的（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网/交易所",
-   "claim": "公司定位与规模",
-   "quote": "Citicore Renewable Energy Corporation (CREC) is a corporation duly organized and existing under Philippine law and listed on the Philippine Stock Exchange … 14 operating solar assets with a combined gross installed capacity of 597.2 MW as of December 31, 2025. CREC has a target to achieve 5 GW",
-   "url": "https://edge.pse.com.ph/companyInformation/form.do?cmpy_id=703",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与联系方式",
-   "quote": "T: +632 8826 5698 | E: corpaffairs@crec.com.ph … Company size: 51-200 employees … Headquarters: San Juan City, NCR … Founded: 2015",
-   "url": "https://www.linkedin.com/company/citicoreph",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "富通天下：买了迈威的；做项目的",
-   "quote": "买了迈威的 / 做项目的 / 富通天下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": "B",
- "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
- "notes": "一封'迈威对位 STI 工业线'邮件。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
- },
- "company_facts": {
-  "legal_name": "Citicore Renewable Energy Corporation（SEC CS201807415；PSE: CREC）",
-  "founded": "2015（LinkedIn）",
-  "hq": "San Juan City, Metro Manila（+632 8826 5698；corpaffairs@crec.com.ph）",
-  "size": "51–200（LinkedIn）；14 座光伏电站 597.2 MW（2025）",
-  "other": "2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW"
- },
- "business_lines": [
-  "光伏电站开发/运营（含储能）",
-  "径流水电、海上风电"
- ],
- "channels": {
-  "网站": "https://www.crec.com.ph/",
-  "电话": "+632 8826 5698（公开）",
-  "邮箱": "info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）"
- },
- "signals": [
-  "每年新增 ~1 GW 光伏 → 每站需 DIN 工业环网交换机（逆变器/SCADA/CCTV）；已外采 Maiwe → 对中国工业机接受度高",
-  "采购经 EPC 承包商 → 需找到其 EPC/O&M 工程团队"
- ],
- "risks": [
-  "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
- },
- "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）",
-   "type": "经销/集成商",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "菲律宾 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
-  },
-  "situation": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
-  "need": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
-  "breakpoint": "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "买了迈威的 / 做项目的 / 富通天下",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Media Converter",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-142",
+  "name_official": "Citicore Renewable Energy Corporation（CREC，PSE 上市；San Juan City, Philippines；crec.com.ph）",
+  "website_status": "在线",
+  "summary": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
+  "type": "经销/集成商",
+  "size": "待补证",
+  "brands_seen": [
+    "迈威 Maiwe（用户记录）",
+    "Maiwe 迈威（外贸数据在采）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "买了迈威的；0 回复",
+      "quote": "买了迈威的（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网/交易所",
+      "claim": "公司定位与规模",
+      "quote": "Citicore Renewable Energy Corporation (CREC) is a corporation duly organized and existing under Philippine law and listed on the Philippine Stock Exchange … 14 operating solar assets with a combined gross installed capacity of 597.2 MW as of December 31, 2025. CREC has a target to achieve 5 GW",
+      "url": "https://edge.pse.com.ph/companyInformation/form.do?cmpy_id=703",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与联系方式",
+      "quote": "T: +632 8826 5698 | E: corpaffairs@crec.com.ph … Company size: 51-200 employees … Headquarters: San Juan City, NCR … Founded: 2015",
+      "url": "https://www.linkedin.com/company/citicoreph",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "富通天下：买了迈威的；做项目的",
+      "quote": "买了迈威的 / 做项目的 / 富通天下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
+  "notes": "一封'迈威对位 STI 工业线'邮件。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  },
+  "company_facts": {
+    "legal_name": "Citicore Renewable Energy Corporation（SEC CS201807415；PSE: CREC）",
+    "founded": "2015（LinkedIn）",
+    "hq": "San Juan City, Metro Manila（+632 8826 5698；corpaffairs@crec.com.ph）",
+    "size": "51–200（LinkedIn）；14 座光伏电站 597.2 MW（2025）",
+    "other": "2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW"
+  },
+  "business_lines": [
+    "光伏电站开发/运营（含储能）",
+    "径流水电、海上风电"
+  ],
+  "channels": {
+    "网站": "https://www.crec.com.ph/",
+    "电话": "+632 8826 5698（公开）",
+    "邮箱": "info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）"
+  },
+  "signals": [
+    "每年新增 ~1 GW 光伏 → 每站需 DIN 工业环网交换机（逆变器/SCADA/CCTV）；已外采 Maiwe → 对中国工业机接受度高",
+    "采购经 EPC 承包商 → 需找到其 EPC/O&M 工程团队"
+  ],
+  "risks": [
+    "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
+  },
+  "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）",
+      "type": "经销/集成商",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "菲律宾 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+    },
+    "situation": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
+    "need": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+    "breakpoint": "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-19",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Media Converter",
+        "why": "1 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2025-03-19（1 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "买了迈威的 / 做项目的 / 富通天下",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

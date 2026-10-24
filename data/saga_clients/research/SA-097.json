@@ -111,8 +111,8 @@
     "next_move": {
       "when": "不动",
       "channel": "WeChat",
-      "action": "—",
-      "one_question": ""
+      "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Jayden, you mentioned a 24-fibre unit on a higher-end Realtek/Marvell platform — if PIOLINK needs an ODM access/aggregation SKU below the TiFRONT line, I can send the L3 24+4×10G spec and a sample price; which chipset family is your software team already on?"
     },
     "facts": [
       {

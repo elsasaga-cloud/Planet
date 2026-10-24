@@ -1,104 +1,104 @@
 {
- "code": "SB-683",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（arthaberlesme.com，快照 2026-10-21）",
- "summary": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
- "type": "通信/安防集成商（土耳其，Karel 经销）",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Karel"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；品类词 网络交换 / PoE",
-   "quote": "Ürünler；Blog；Duyurular；Teknolojiyi Takip Edin；Bağlantılar；Hakkımızda",
-   "url": "https://www.arthaberlesme.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ART 定位",
-   "quote": "ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi ; /urun/mpls-vpn/",
-   "url": "https://www.arthaberlesme.com/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "通信 / 安防系统集成（土耳其）"
- ],
- "channels": {
-  "role": "通信/安防集成商（土耳其，Karel 经销）",
-  "region": "土耳其",
-  "contact": "info@arthaberlesme.com"
- },
- "signals": [
-  "官网：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；页面 /urun/mpls-vpn/、/urun/e-fax/；站内 IPG1000 / IPG500；kw ethernet 21",
-  "表内：无兴趣备注"
- ],
- "risks": [
-  "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@arthaberlesme.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "通信/安防集成商（土耳其，Karel 经销）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
-  },
-  "situation": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
-  "need": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-683",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（arthaberlesme.com，快照 2026-10-21）",
+  "summary": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
+  "type": "通信/安防集成商（土耳其，Karel 经销）",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Karel"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；品类词 网络交换 / PoE",
+      "quote": "Ürünler；Blog；Duyurular；Teknolojiyi Takip Edin；Bağlantılar；Hakkımızda",
+      "url": "https://www.arthaberlesme.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ART 定位",
+      "quote": "ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi ; /urun/mpls-vpn/",
+      "url": "https://www.arthaberlesme.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "通信 / 安防系统集成（土耳其）"
+  ],
+  "channels": {
+    "role": "通信/安防集成商（土耳其，Karel 经销）",
+    "region": "土耳其",
+    "contact": "info@arthaberlesme.com"
+  },
+  "signals": [
+    "官网：ART Haberleşme ve Güvenlik Sistemleri | Karel Yetkili Satıcı ve Servisi；页面 /urun/mpls-vpn/、/urun/e-fax/；站内 IPG1000 / IPG500；kw ethernet 21",
+    "表内：无兴趣备注"
+  ],
+  "risks": [
+    "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@arthaberlesme.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "通信/安防集成商（土耳其，Karel 经销）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；研究档 risks：Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复"
+    },
+    "situation": "土耳其 ART Haberleşme ve Güvenlik Sistemleri（Karel 授权经销与服务；通信与安防系统：IP 网关 IPG500/1000、MPLS VPN、e-Fax、二手设备；Dahua）；表内 1 次跟进无回复。",
+    "need": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "Karel 生态（配套交换机可能随品牌方案）；土耳其汇率敏感；仅 info@，1 次无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "IP 话机/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches behind your Karel IP telephony and Dahua camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (QoS/VLAN for voice) from single units, CE/RoHS, EXW USD — which port count do your projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-11",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

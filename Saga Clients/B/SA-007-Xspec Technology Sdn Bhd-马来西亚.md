@@ -37,9 +37,9 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）；最近一次客户回复：2024-11-18：passive poe only
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟；历史报价（邮件原话，老汇率）：2024-06-17 90usd
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
 - **最大未知**：年走量与现供应商
-- **下一步**：跟 PI 节奏；不主动 WhatsApp —
+- **下一步**：跟 PI 节奏；不主动 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：24 口被动 PoE 24V（项目配套）。
 - **断点 / 为什么停在这里**：一次性项目配套；不是 Saga 的复利客户。
 - **Saga 现在该推什么**：P1 **无主动动作**（25% 档，历史报价（邮件原话，老汇率）：2024-06-17 90usd）——B 慢跟
-- **下一步（具体）**：跟 PI 节奏；不主动　WhatsApp　—
+- **下一步（具体）**：跟 PI 节奏；不主动　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

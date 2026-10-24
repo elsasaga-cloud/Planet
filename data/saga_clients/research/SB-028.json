@@ -112,20 +112,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "49 封 / 1 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-08-28（49 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "用的洪瑞的 商业PoE CCTV产品为主；其他",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "49 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

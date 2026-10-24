@@ -167,8 +167,8 @@
     "next_move": {
       "when": "跟 PI 节奏；不主动",
       "channel": "WhatsApp",
-      "action": "—",
-      "one_question": ""
+      "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?"
     },
     "facts": [
       {

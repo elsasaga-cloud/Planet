@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-11-27 | 去 | S 群发 | 10G managed switch、industrial fiber switch | 5 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2024-11-27（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,182629,182960,182961,393686,700325,702859,18 | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | 10G managed switch、industrial fiber switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

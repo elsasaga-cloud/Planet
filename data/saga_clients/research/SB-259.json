@@ -130,20 +130,20 @@
     },
     "facts": [
       {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Mini Industrial PoE Switch",
+        "why": "19 封 / 1 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-10-01（19 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "MC SFP 工业FS（标价高） 周边产品 JHA的反搜列表中有；Milan Krátký https://www.alternetivo.cz/industrialni-neriditelny-poe-switch-2xrj-45-10-",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Mini Industrial PoE Switch",
-        "why": "19 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

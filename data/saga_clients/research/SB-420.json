@@ -107,20 +107,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-23",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "57 封 / 2 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-23（57 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：洪瑞全百兆6口 4个POE 10个;包装盒要印他们的logo，换掉标签，想要比工业级realtek那个更便宜点的… 提到了想要简单的网管，可以监控到",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "57 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

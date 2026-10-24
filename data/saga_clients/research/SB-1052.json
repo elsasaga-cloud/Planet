@@ -177,11 +177,11 @@
     },
     "facts": [
       {
-        "date": "2026",
+        "date": "2026-09-24",
         "dir": "去",
         "who": "A 群发",
         "quote": "Marvell Managed Commercial Switches、10G L3 Managed Switch",
-        "why": "5 封 / 2 次打开 / 0 回",
+        "why": "5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来）",
         "k": "gmail_digest"
       }
     ],

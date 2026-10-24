@@ -1,132 +1,132 @@
 {
- "code": "SB-425",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（aicom.pl，快照 2026-10-21）",
- "summary": "波兰 AICOM / A-LAN（a-lan.pl：CCTV IP 系统与 LAN 布线系统生产商的在线批发平台，25 年系统质保，配线架/插座/线缆/测试仪，卫星多开关；表内「在用国内的」「可以着重跟一下」；KP Marcin Buczak）；群发 8 次无回复。",
- "type": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Platforma sprzedażowa AICOM · Okablowanie Strukturalne, 25 letnia gwarancja systemowa, świetne ceny, Sieci telefoniczne i komputerowe, panele krosowe i zasilające, gniazda, kable, narzędzia, testery itp.",
-   "url": "https://aicom.pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "在用国内的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "AICOM 定位",
-   "quote": "Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM ; Platforma sprzedażowa AICOM · Okablowanie Strukturalne, 25 letnia gwarancja systemowa",
-   "url": "https://aicom.pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "在用国内的；着重跟",
-   "quote": "在用国内的；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Marcin Buczak",
-   "title": "（职务待核）",
-   "email": "marcin.buczak@a-lan.pl",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "波兰",
-  "other": "官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "CCTV IP 系统 / LAN 布线（自有品牌 A-LAN）",
-  "在线批发平台 AICOM"
- ],
- "channels": {
-  "role": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
-  "region": "波兰",
-  "contact": "marcin.buczak@a-lan.pl"
- },
- "signals": [
-  "官网：Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM ; Okablowanie Strukturalne, 25 letnia gwarancja systemowa；kw poe 23 / cctv 27 / ftth 21 / data center 17",
-  "表内：在用国内的；可以着重跟一下；KP Marcin Buczak"
- ],
- "risks": [
-  "现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）"
- },
- "email_hook": "Marcin, for the PoE switches sold under the A-LAN label with your CCTV IP and cabling systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models from small lots in your packaging, CE/RoHS, EXW USD — which size do your installers order most with camera kits?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 marcin.buczak@a-lan.pl；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "PL 次级重点",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「在用国内的」；研究档 risks：现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）"
-  },
-  "situation": "波兰 AICOM / A-LAN（a-lan.pl：CCTV IP 系统与 LAN 布线系统生产商的在线批发平台，25 年系统质保，配线架/插座/线缆/测试仪，卫星多开关；表内「在用国内的」「可以着重跟一下」；KP Marcin Buczak）；群发 8 次无回复。",
-  "need": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
-  "breakpoint": "现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Marcin, for the PoE switches sold under the A-LAN label with your CCTV IP and cabling systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models from small lots in your packaging, CE/RoHS, EXW USD — which size do your installers order most with camera kits?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "在用国内的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-425",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（aicom.pl，快照 2026-10-21）",
+  "summary": "波兰 AICOM / A-LAN（a-lan.pl：CCTV IP 系统与 LAN 布线系统生产商的在线批发平台，25 年系统质保，配线架/插座/线缆/测试仪，卫星多开关；表内「在用国内的」「可以着重跟一下」；KP Marcin Buczak）；群发 8 次无回复。",
+  "type": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Platforma sprzedażowa AICOM · Okablowanie Strukturalne, 25 letnia gwarancja systemowa, świetne ceny, Sieci telefoniczne i komputerowe, panele krosowe i zasilające, gniazda, kable, narzędzia, testery itp.",
+      "url": "https://aicom.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "在用国内的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "AICOM 定位",
+      "quote": "Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM ; Platforma sprzedażowa AICOM · Okablowanie Strukturalne, 25 letnia gwarancja systemowa",
+      "url": "https://aicom.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "在用国内的；着重跟",
+      "quote": "在用国内的；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Marcin Buczak",
+      "title": "（职务待核）",
+      "email": "marcin.buczak@a-lan.pl",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 aicom.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "CCTV IP 系统 / LAN 布线（自有品牌 A-LAN）",
+    "在线批发平台 AICOM"
+  ],
+  "channels": {
+    "role": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
+    "region": "波兰",
+    "contact": "marcin.buczak@a-lan.pl"
+  },
+  "signals": [
+    "官网：Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM ; Okablowanie Strukturalne, 25 letnia gwarancja systemowa；kw poe 23 / cctv 27 / ftth 21 / data center 17",
+    "表内：在用国内的；可以着重跟一下；KP Marcin Buczak"
+  ],
+  "risks": [
+    "现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）"
+  },
+  "email_hook": "Marcin, for the PoE switches sold under the A-LAN label with your CCTV IP and cabling systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models from small lots in your packaging, CE/RoHS, EXW USD — which size do your installers order most with camera kits?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 marcin.buczak@a-lan.pl；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「在用国内的」；研究档 risks：现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）"
+    },
+    "situation": "波兰 AICOM / A-LAN（a-lan.pl：CCTV IP 系统与 LAN 布线系统生产商的在线批发平台，25 年系统质保，配线架/插座/线缆/测试仪，卫星多开关；表内「在用国内的」「可以着重跟一下」；KP Marcin Buczak）；群发 8 次无回复。",
+    "need": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
+    "breakpoint": "现用国内供应商（价格基准低）；8 次无回复 → 改向 Marcin Buczak 具名首触（职务待核）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 A-LAN 品牌、现用国内货 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口 PoE 位 HRUI STC-2216GPM（列表价，注明）/ STC-424DGGPM-280W（$145.7）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Marcin, for the PoE switches sold under the A-LAN label with your CCTV IP and cabling systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 16/24-PoE models from small lots in your packaging, CE/RoHS, EXW USD — which size do your installers order most with camera kits?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-02-06 → 末封 2026-09-28（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "在用国内的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

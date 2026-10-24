@@ -1,127 +1,127 @@
 {
- "code": "SB-068",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（digicomm.de，快照 2026-10-21）",
- "summary": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
- "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Kritische Infrastrukturen - Germany",
-   "quote": "Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen.",
-   "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC SFP 自己的logo 有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "digicomm 定位",
-   "quote": "Kritische Infrastrukturen - Germany ; Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen ; LWL / Glasfaser ; Kupfer ; Funknetze",
-   "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC SFP 自己的 logo 有 ONV 的",
-   "quote": "工业FS MC SFP 自己的logo 有ONV的；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "关键基础设施数据通信（光纤 / 铜缆 / SHDSL / 无线）",
-  "报警与安全软件"
- ],
- "channels": {
-  "role": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
-  "region": "德国",
-  "contact": "info@digicomm.de"
- },
- "signals": [
-  "官网：Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung；首页 LWL / Glasfaser ; Kupfer ; Funknetze ; Software/Security；页面 /kritische-infrastrukturen/shdsl-workshop/；站内 SHDTU-1 / SHRM-08 / VRM-108",
-  "表内：工业 FS MC SFP 自己的 logo 有 ONV 的；可以着重跟一下"
- ],
- "risks": [
-  "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
-  "现供 ONV（深圳）价格基准低；15 次无回复，仅 info@；用户标「着重跟」"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）"
- },
- "email_hook": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统"
-  },
-  "situation": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
-  "need": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
-  "breakpoint": "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC SFP 自己的logo 有ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "23 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-068",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（digicomm.de，快照 2026-10-21）",
+  "summary": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
+  "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Kritische Infrastrukturen - Germany",
+      "quote": "Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen.",
+      "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC SFP 自己的logo 有ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "digicomm 定位",
+      "quote": "Kritische Infrastrukturen - Germany ; Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung und maßgeschneiderten Lösungen ; LWL / Glasfaser ; Kupfer ; Funknetze",
+      "url": "https://www.addsecure.de/kritische-infrastrukturen/?digicomm",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS MC SFP 自己的 logo 有 ONV 的",
+      "quote": "工业FS MC SFP 自己的logo 有ONV的；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 digicomm.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "关键基础设施数据通信（光纤 / 铜缆 / SHDSL / 无线）",
+    "报警与安全软件"
+  ],
+  "channels": {
+    "role": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
+    "region": "德国",
+    "contact": "info@digicomm.de"
+  },
+  "signals": [
+    "官网：Sichere Datenkommunikation für kritische Infrastrukturen – mit 40 Jahren Erfahrung；首页 LWL / Glasfaser ; Kupfer ; Funknetze ; Software/Security；页面 /kritische-infrastrukturen/shdsl-workshop/；站内 SHDTU-1 / SHRM-08 / VRM-108",
+    "表内：工业 FS MC SFP 自己的 logo 有 ONV 的；可以着重跟一下"
+  ],
+  "risks": [
+    "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
+    "现供 ONV（深圳）价格基准低；15 次无回复，仅 info@；用户标「着重跟」"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）"
+  },
+  "email_hook": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 info@digicomm.de；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 23；用户表：「工业FS MC SFP 自己的logo 有ONV的」；研究档 risks：守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统"
+    },
+    "situation": "德国 digicomm（40 年关键基础设施安全数据通信：光纤/铜缆/无线网络、SHDSL（SHDTU/SHRM）、报警方案（AddSecure 工作坊）、软件/安全，OT 应用；表内「工业 FS MC SFP 自己的 logo，有 ONV 的」「可以着重跟一下」）；群发 15 次无回复。",
+    "need": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
+    "breakpoint": "守界备注：客户为关键基础设施（能源/公用事业等）——只供民用通用工业交换机/MC，不涉报警/公共安全专用系统",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 logo 工业 FS（现 ONV 深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 digicomm 标；MC 位 STI-110GE（$24.3）；SFP Saga 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For the industrial switches and media converters sold under the digicomm label for OT networks, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, redundant power, CE/RoHS) from small lots in your housing — which model do your utility customers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-23",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-23（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC SFP 自己的logo 有ONV的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

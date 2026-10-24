@@ -1,138 +1,138 @@
 {
- "code": "SB-1120",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nltinc.com，快照 2026-10-21）",
- "summary": "加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。",
- "type": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Northern Light Technologies - Global Cap Lamp Innovation & Design；品类词 安防监控（CCTV / 门禁）",
-   "quote": "Award-winning cap lamp technology, including the world’s most popular “all-in-one” Polaris.",
-   "url": "https://nltinc.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "NLT 定位",
-   "quote": "Northern Light Technologies - Global Cap Lamp Innovation & Design ; Cap Lamps ; Charging Lockers ; Lighting Solutions ; Networks / Cameras",
-   "url": "https://nltinc.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "买 MC / MC 板子 次数多",
-   "quote": "买的MC MC板子 次数比较多；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Marlon Noveloso",
-   "title": "（职务待核）",
-   "email": "mnoveloso@nltinc.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Spanton",
-   "title": "（职务待核）",
-   "email": "spanton@nltinc.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "矿用帽灯 / 照明 / 井下网络与摄像头（自有品牌 NLT）"
- ],
- "channels": {
-  "role": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
-  "region": "加拿大",
-  "contact": "spanton@nltinc.com、mnoveloso@nltinc.com"
- },
- "signals": [
-  "官网：Northern Light Technologies - Global Cap Lamp Innovation & Design ; Award-winning cap lamp technology ; Cap Lamps ; Charging Lockers ; Networks / Cameras ; Lighting the Way with Advanced Underground Technologies",
-  "表内：公司涉及很多领域 看着比较杂 / 买的 MC MC 板子 次数比较多；KP Spanton / Marlon Noveloso；可以多跟进一下"
- ],
- "risks": [
-  "MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）"
- },
- "email_hook": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 mnoveloso@nltinc.com, spanton@nltinc.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
-   "type": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "CA 主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso」；研究档 risks：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触"
-  },
-  "situation": "加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。",
-  "need": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）",
-  "breakpoint": "MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1120",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nltinc.com，快照 2026-10-21）",
+  "summary": "加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。",
+  "type": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Northern Light Technologies - Global Cap Lamp Innovation & Design；品类词 安防监控（CCTV / 门禁）",
+      "quote": "Award-winning cap lamp technology, including the world’s most popular “all-in-one” Polaris.",
+      "url": "https://nltinc.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "NLT 定位",
+      "quote": "Northern Light Technologies - Global Cap Lamp Innovation & Design ; Cap Lamps ; Charging Lockers ; Lighting Solutions ; Networks / Cameras",
+      "url": "https://nltinc.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "买 MC / MC 板子 次数多",
+      "quote": "买的MC MC板子 次数比较多；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Marlon Noveloso",
+      "title": "（职务待核）",
+      "email": "mnoveloso@nltinc.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Spanton",
+      "title": "（职务待核）",
+      "email": "spanton@nltinc.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "加拿大",
+    "other": "官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "矿用帽灯 / 照明 / 井下网络与摄像头（自有品牌 NLT）"
+  ],
+  "channels": {
+    "role": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
+    "region": "加拿大",
+    "contact": "spanton@nltinc.com、mnoveloso@nltinc.com"
+  },
+  "signals": [
+    "官网：Northern Light Technologies - Global Cap Lamp Innovation & Design ; Award-winning cap lamp technology ; Cap Lamps ; Charging Lockers ; Networks / Cameras ; Lighting the Way with Advanced Underground Technologies",
+    "表内：公司涉及很多领域 看着比较杂 / 买的 MC MC 板子 次数比较多；KP Spanton / Marlon Noveloso；可以多跟进一下"
+  ],
+  "risks": [
+    "MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）"
+  },
+  "email_hook": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 mnoveloso@nltinc.com, spanton@nltinc.com；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）",
+      "type": "矿用设备制造商（加拿大，井下网络副线，MC 重复采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "CA 主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso」；研究档 risks：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触"
+    },
+    "situation": "加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。",
+    "need": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）",
+    "breakpoint": "MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-03",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-01-13 → 末封 2026-03-03（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "公司：涉及很多领域 看着比较杂 买的MC MC板子 次数比较多；Marlon Noveloso",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

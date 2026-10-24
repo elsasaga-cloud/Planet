@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-17 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回｜首封 2025-03-17 → 末封 2025-03-17（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
-| 2025 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

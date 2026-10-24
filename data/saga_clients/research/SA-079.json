@@ -170,8 +170,8 @@
     "next_move": {
       "when": "按 Simon WeChat 节奏",
       "channel": "WeChat",
-      "action": "—",
-      "one_question": ""
+      "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
     },
     "facts": [
       {

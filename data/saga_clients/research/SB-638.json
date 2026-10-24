@@ -1,125 +1,125 @@
 {
- "code": "SB-638",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（handsonsecurity.co.za，快照 2026-10-21）",
- "summary": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
- "type": "CCTV 网店/安装商（南非，Utepo 在售）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Hands On – Security；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi",
-   "quote": "CCTV；Welcome To Hands On Security；Get Best CCTV Solutions For House；What We Provide；Individual CCTV Solution；Commercial CCTV System",
-   "url": "https://www.handsonsecurity.co.za/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "比较多的外壳 有utepo的 switch 销售平台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Hands On 定位",
-   "quote": "Hands On – Security ; Individual CCTV Solution ; Commercial CCTV System ; Office & Industrial Security",
-   "url": "https://www.handsonsecurity.co.za/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "有 Utepo 的 switch",
-   "quote": "比较多的外壳 有utepo的 switch 销售平台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "南非",
-  "other": "官网 handsonsecurity.co.za，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV 方案 / 网店（南非）"
- ],
- "channels": {
-  "role": "CCTV 网店/安装商（南非，Utepo 在售）",
-  "region": "南非",
-  "contact": "info@handsonsecurity.co.za"
- },
- "signals": [
-  "官网：Hands On – Security ; Get Best CCTV Solutions For House ; Commercial CCTV System ; Office & Industrial Security；kw camera 56 / cctv 25",
-  "表内：比较多的外壳 有 utepo 的 switch 销售平台；可以多跟进一下"
- ],
- "risks": [
-  "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@handsonsecurity.co.za；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-   "type": "CCTV 网店/安装商（南非，Utepo 在售）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "南非 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「比较多的外壳 有utepo的 switch 销售平台」；研究档 risks：非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
-  },
-  "situation": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
-  "need": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "比较多的外壳 有utepo的 switch 销售平台",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "18 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-638",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（handsonsecurity.co.za，快照 2026-10-21）",
+  "summary": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
+  "type": "CCTV 网店/安装商（南非，Utepo 在售）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Hands On – Security；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi",
+      "quote": "CCTV；Welcome To Hands On Security；Get Best CCTV Solutions For House；What We Provide；Individual CCTV Solution；Commercial CCTV System",
+      "url": "https://www.handsonsecurity.co.za/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "比较多的外壳 有utepo的 switch 销售平台",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Hands On 定位",
+      "quote": "Hands On – Security ; Individual CCTV Solution ; Commercial CCTV System ; Office & Industrial Security",
+      "url": "https://www.handsonsecurity.co.za/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有 Utepo 的 switch",
+      "quote": "比较多的外壳 有utepo的 switch 销售平台",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "南非",
+    "other": "官网 handsonsecurity.co.za，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "CCTV 方案 / 网店（南非）"
+  ],
+  "channels": {
+    "role": "CCTV 网店/安装商（南非，Utepo 在售）",
+    "region": "南非",
+    "contact": "info@handsonsecurity.co.za"
+  },
+  "signals": [
+    "官网：Hands On – Security ; Get Best CCTV Solutions For House ; Commercial CCTV System ; Office & Industrial Security；kw camera 56 / cctv 25",
+    "表内：比较多的外壳 有 utepo 的 switch 销售平台；可以多跟进一下"
+  ],
+  "risks": [
+    "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 info@handsonsecurity.co.za；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+      "type": "CCTV 网店/安装商（南非，Utepo 在售）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "南非 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「比较多的外壳 有utepo的 switch 销售平台」；研究档 risks：非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@"
+    },
+    "situation": "南非 Hands On Security（CCTV 方案与网店：家庭/商业/办公与工业安防；表内「比较多的外壳 有 Utepo 的 switch 销售平台」「可以多跟进一下」）；群发 8 次无回复。",
+    "need": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "非主攻区（T5，南非）；现供 Utepo 等国内货价格基准低；8 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 配套 PoE（现 Utepo 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-02",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "18 封 / 0 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-10-02（18 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "比较多的外壳 有utepo的 switch 销售平台",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

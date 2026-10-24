@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-10-01 | 去 | A/S 群发 | 90W PoE Managed Switch、Managed Optical Bypass Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | 90W PoE Managed Switch、Managed Optical Bypass Switch | 34 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

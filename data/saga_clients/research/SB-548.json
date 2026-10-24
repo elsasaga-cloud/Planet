@@ -121,20 +121,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Managed Optical Bypass Switch",
+        "why": "35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-22（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "在用洪瑞的商业POE 换了PVC膜",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Managed Optical Bypass Switch",
-        "why": "35 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -111,19 +111,11 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2024",
+        "date": "2024-12-31",
         "dir": "去",
         "who": "S 群发",
         "quote": "10G media converter、Web managed switch",
-        "why": "13 封 / 0 次打开 / 0 回",
+        "why": "13 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-31（13 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
@@ -133,6 +125,14 @@
         "quote": "Thanks First, we need datasheet",
         "why": "要 2 光 4 电工业 PoE（120W）规格书",
         "k": "gmail_e"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [

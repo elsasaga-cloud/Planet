@@ -90,20 +90,20 @@
     },
     "facts": [
       {
+        "date": "2024-11-11",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Information",
+        "why": "2 封 / 2 次打开 / 0 回｜首封 2024-11-11 → 末封 2024-11-11（2 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2024",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Information",
-        "why": "2 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

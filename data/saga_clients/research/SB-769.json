@@ -1,160 +1,160 @@
 {
- "code": "SB-769",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（eworldme.com，快照 2026-10-21）",
- "summary": "沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。",
- "type": "工业自动化与数据通信分销商（中东，Moxa 为主）",
- "size": "",
- "brands_seen": [
-  "Moxa"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Industrial Automation & Data Communication Distributor | eWorld；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.",
-   "url": "https://eworldme.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "分销商 工业以太网",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "中东工业自动化与数据通信分销商",
-   "quote": "Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.",
-   "url": "https://eworldme.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "分销商 工业以太网",
-   "quote": "分销商 工业以太网",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mohsen Nejadi",
-   "title": "Chief Operating Officer",
-   "email": "m.nejadi@eworldme.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Akram Jafari",
-   "title": "Sales Manager",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "沙特阿拉伯",
-  "other": "官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业自动化 / 数据通信 / IIoT 分销（Moxa 等）"
- ],
- "channels": {
-  "role": "工业自动化与数据通信分销商（中东，Moxa 为主）",
-  "region": "沙特阿拉伯",
-  "contact": "info@eworldme.com、m.nejadi@eworldme.com"
- },
- "signals": [
-  "官网：Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East",
-  "页面 /MOXA_EDS_205_Unmanaged_Ethernet_Switches、/MOXA_EDS_208_Unmanaged_Ethernet_Switches；站内 TN-G6500 / RM-G4000 / EDS-G205A",
-  "KP：Mohsen Nejadi / COO；Akram Jafari / Sales Manager（表内）"
- ],
- "risks": [
-  "非主攻区（T5，沙特/阿联酋）",
-  "Moxa 为主的品牌分销：白牌仅价格补充；10 次无回复 → 改向 COO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 20,
-  "why": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报"
- },
- "email_hook": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?",
- "products_seen": [
-  {
-   "brand": "Moxa",
-   "model": "EDS-208",
-   "spec": "工业 8 口非管理",
-   "saga": "STI-080GE",
-   "url": "https://www.eworldme.com/MOXA_EDS_208_Unmanaged_Ethernet_Switches",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Moxa",
-   "model": "EDS-205",
-   "spec": "工业 5 口非管理",
-   "saga": "STI-050GE",
-   "url": "https://eworldme.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 info@eworldme.com, m.nejadi@eworldme.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "工业自动化与数据通信分销商（中东，Moxa 为主）",
-   "sieve": "1（只收到群发）",
-   "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "沙特阿拉伯 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「分销商 工业以太网」；研究档 risks：非主攻区（T5，沙特/阿联酋）"
-  },
-  "situation": "沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。",
-  "need": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报",
-  "breakpoint": "非主攻区（T5，沙特/阿联酋）",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "分销商 工业以太网",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-769",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（eworldme.com，快照 2026-10-21）",
+  "summary": "沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。",
+  "type": "工业自动化与数据通信分销商（中东，Moxa 为主）",
+  "size": "",
+  "brands_seen": [
+    "Moxa"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Industrial Automation & Data Communication Distributor | eWorld；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.",
+      "url": "https://eworldme.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "分销商 工业以太网",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "中东工业自动化与数据通信分销商",
+      "quote": "Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.",
+      "url": "https://eworldme.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "分销商 工业以太网",
+      "quote": "分销商 工业以太网",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Mohsen Nejadi",
+      "title": "Chief Operating Officer",
+      "email": "m.nejadi@eworldme.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Akram Jafari",
+      "title": "Sales Manager",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "沙特阿拉伯",
+    "other": "官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "工业自动化 / 数据通信 / IIoT 分销（Moxa 等）"
+  ],
+  "channels": {
+    "role": "工业自动化与数据通信分销商（中东，Moxa 为主）",
+    "region": "沙特阿拉伯",
+    "contact": "info@eworldme.com、m.nejadi@eworldme.com"
+  },
+  "signals": [
+    "官网：Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East",
+    "页面 /MOXA_EDS_205_Unmanaged_Ethernet_Switches、/MOXA_EDS_208_Unmanaged_Ethernet_Switches；站内 TN-G6500 / RM-G4000 / EDS-G205A",
+    "KP：Mohsen Nejadi / COO；Akram Jafari / Sales Manager（表内）"
+  ],
+  "risks": [
+    "非主攻区（T5，沙特/阿联酋）",
+    "Moxa 为主的品牌分销：白牌仅价格补充；10 次无回复 → 改向 COO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 20,
+    "why": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报"
+  },
+  "email_hook": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?",
+  "products_seen": [
+    {
+      "brand": "Moxa",
+      "model": "EDS-208",
+      "spec": "工业 8 口非管理",
+      "saga": "STI-080GE",
+      "url": "https://www.eworldme.com/MOXA_EDS_208_Unmanaged_Ethernet_Switches",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Moxa",
+      "model": "EDS-205",
+      "spec": "工业 5 口非管理",
+      "saga": "STI-050GE",
+      "url": "https://eworldme.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2025→2026，无记录打开，0 回；收件 info@eworldme.com, m.nejadi@eworldme.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "工业自动化与数据通信分销商（中东，Moxa 为主）",
+      "sieve": "1（只收到群发）",
+      "stop": "21 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "沙特阿拉伯 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21；用户表：「分销商 工业以太网」；研究档 risks：非主攻区（T5，沙特/阿联酋）"
+    },
+    "situation": "沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。",
+    "need": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报",
+    "breakpoint": "非主攻区（T5，沙特/阿联酋）",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-29",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-29（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "分销商 工业以太网",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

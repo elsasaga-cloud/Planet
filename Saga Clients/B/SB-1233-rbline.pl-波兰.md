@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-12-05 | 去 | S 群发 | 2.5G Ethernet Switch、Industrial power supply | 6 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2024-12-05（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工商Switch | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | 2.5G Ethernet Switch、Industrial power supply | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

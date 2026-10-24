@@ -1,120 +1,120 @@
 {
- "code": "SB-460",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cctvdepo.com，快照 2026-10-21）",
- "summary": "土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。",
- "type": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
- "size": "",
- "brands_seen": [
-  "SZNT"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CCTV Depo A.Å.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Geri Bildiriminiz；Kamera Sistemleri；Bilgisayar AksesuarlarÄ±；Network ÃrÃ¼nleri；Mobil Tel AksesuarlarÄ±；Montaj Malzemeleri",
-   "url": "https://cctvdepo.com/bayi/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "CCTV Depo 经销门户栏目",
-   "quote": "CCTV Depo A.Ş. ; Kamera Sistemleri ; Bilgisayar Aksesuarları ; Network Ürünleri ; Mobil Tel Aksesuarları ; Montaj Malzemeleri ; Akıllı Güvenlik",
-   "url": "https://cctvdepo.com/bayi/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Asuman Ozuedogru",
-   "title": "Portfolio Manager",
-   "email": "can@cctvdepo.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Can Gurcan",
-   "title": "CTO",
-   "email": "can@cctvdepo.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "摄像机系统 / 网络产品 / 电脑与手机配件经销"
- ],
- "channels": {
-  "role": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
-  "region": "土耳其",
-  "contact": "can@cctvdepo.com"
- },
- "signals": [
-  "栏目 /bayi/category/87&name=poe-network；站内 SZNT-PSY0420FL / SZNT-PSP0420FLR / SZNT-PSY0820FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR",
-  "首页：Kamera Sistemleri / Bilgisayar Aksesuarları / Network Ürünleri / Akıllı Güvenlik",
-  "KP：Can Gurcan / CTO；Asuman Ozuedogru / Portfolio Manager（表内）"
- ],
- "risks": [
-  "现卖 SZNT（深圳）价格基准低",
-  "土耳其：汇率敏感；1 次跟进无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）"
- },
- "email_hook": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 can@cctvdepo.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
-   "sieve": "1（只收到群发）",
-   "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11；研究档 risks：现卖 SZNT（深圳）价格基准低"
-  },
-  "situation": "土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。",
-  "need": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
-  "breakpoint": "现卖 SZNT（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "11 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-460",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cctvdepo.com，快照 2026-10-21）",
+  "summary": "土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。",
+  "type": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
+  "size": "",
+  "brands_seen": [
+    "SZNT"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：CCTV Depo A.Å.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Geri Bildiriminiz；Kamera Sistemleri；Bilgisayar AksesuarlarÄ±；Network ÃrÃ¼nleri；Mobil Tel AksesuarlarÄ±；Montaj Malzemeleri",
+      "url": "https://cctvdepo.com/bayi/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "CCTV Depo 经销门户栏目",
+      "quote": "CCTV Depo A.Ş. ; Kamera Sistemleri ; Bilgisayar Aksesuarları ; Network Ürünleri ; Mobil Tel Aksesuarları ; Montaj Malzemeleri ; Akıllı Güvenlik",
+      "url": "https://cctvdepo.com/bayi/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Asuman Ozuedogru",
+      "title": "Portfolio Manager",
+      "email": "can@cctvdepo.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Can Gurcan",
+      "title": "CTO",
+      "email": "can@cctvdepo.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 cctvdepo.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "摄像机系统 / 网络产品 / 电脑与手机配件经销"
+  ],
+  "channels": {
+    "role": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
+    "region": "土耳其",
+    "contact": "can@cctvdepo.com"
+  },
+  "signals": [
+    "栏目 /bayi/category/87&name=poe-network；站内 SZNT-PSY0420FL / SZNT-PSP0420FLR / SZNT-PSY0820FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR",
+    "首页：Kamera Sistemleri / Bilgisayar Aksesuarları / Network Ürünleri / Akıllı Güvenlik",
+    "KP：Can Gurcan / CTO；Asuman Ozuedogru / Portfolio Manager（表内）"
+  ],
+  "risks": [
+    "现卖 SZNT（深圳）价格基准低",
+    "土耳其：汇率敏感；1 次跟进无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）"
+  },
+  "email_hook": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 11 封 2025→2026，无记录打开，0 回；收件 can@cctvdepo.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "安防/电脑配件经销门户（土耳其，SZNT PoE）",
+      "sieve": "1（只收到群发）",
+      "stop": "11 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 11；研究档 risks：现卖 SZNT（深圳）价格基准低"
+    },
+    "situation": "土耳其 CCTV Depo A.Ş.（摄像机系统 / 电脑配件 / 网络产品 / 手机配件 / 安装材料 / 智能安防经销门户（bayi 分类 poe-network）；站内 SZNT-PSY0420FL / SZNT-PSP0820FLR / SZNT-PSP0420GLR PoE 交换机；KP Can Gurcan（CTO，can@）、Asuman Ozuedogru（Portfolio Manager））；表内 1 次跟进无回复。",
+    "need": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
+    "breakpoint": "现卖 SZNT（深圳）价格基准低",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 SZNT 系列百兆/千兆 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）/ 4 口 STC-204GP（$20.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Asuman, alongside the SZNT PoE switches in your dealer portal, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE models from small lots, CE/RoHS, EXW USD — which band do your dealers order most, FE or gigabit PoE?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "11 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-10-06（11 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

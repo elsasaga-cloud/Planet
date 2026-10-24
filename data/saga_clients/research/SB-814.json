@@ -1,126 +1,126 @@
 {
- "code": "SB-814",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cleerlinefiber.com，快照 2026-10-21）",
- "summary": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
- "type": "光纤品牌商（美国，有源配件现光路）",
- "size": "",
- "brands_seen": [
-  "光路"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：cleerlinefiber.com",
-   "quote": "",
-   "url": "https://cleerlinefiber.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 10G MC SFP；光路是供应商",
-   "quote": "工业FS 10GMC SFP 周边产品 / 光路是供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ryan Prentice",
-   "title": "Partner",
-   "email": "ryan@cleerline.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "SSF 光纤 / 有源配件（自有品牌 Cleerline）"
- ],
- "channels": {
-  "role": "光纤品牌商（美国，有源配件现光路）",
-  "region": "美国",
-  "contact": "info@clrtec.com、ryan@cleerline.com"
- },
- "signals": [
-  "表内：工业 FS 10GMC SFP 周边产品 / 光路是供应商；KP Ryan Prentice / Partner",
-  "快照：内容为空（cleerlinefiber.com / clrtec.com）"
- ],
- "risks": [
-  "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）"
- },
- "email_hook": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 alfonso.chavarria@cleerline.com, info@clrtec.com；主题多为「8 Port Industrial PoE Switch、Marvell Industrial Alert System」）",
-   "type": "光纤品牌商（美国，有源配件现光路）",
-   "sieve": "1（只收到群发）",
-   "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 28；用户表：「工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商」；研究档 risks：现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
-  },
-  "situation": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
-  "need": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
-  "breakpoint": "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "8 Port Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "28 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-814",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cleerlinefiber.com，快照 2026-10-21）",
+  "summary": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
+  "type": "光纤品牌商（美国，有源配件现光路）",
+  "size": "",
+  "brands_seen": [
+    "光路"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：cleerlinefiber.com",
+      "quote": "",
+      "url": "https://cleerlinefiber.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 10G MC SFP；光路是供应商",
+      "quote": "工业FS 10GMC SFP 周边产品 / 光路是供应商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ryan Prentice",
+      "title": "Partner",
+      "email": "ryan@cleerline.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 cleerlinefiber.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "SSF 光纤 / 有源配件（自有品牌 Cleerline）"
+  ],
+  "channels": {
+    "role": "光纤品牌商（美国，有源配件现光路）",
+    "region": "美国",
+    "contact": "info@clrtec.com、ryan@cleerline.com"
+  },
+  "signals": [
+    "表内：工业 FS 10GMC SFP 周边产品 / 光路是供应商；KP Ryan Prentice / Partner",
+    "快照：内容为空（cleerlinefiber.com / clrtec.com）"
+  ],
+  "risks": [
+    "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）"
+  },
+  "email_hook": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 alfonso.chavarria@cleerline.com, info@clrtec.com；主题多为「8 Port Industrial PoE Switch、Marvell Industrial Alert System」）",
+      "type": "光纤品牌商（美国，有源配件现光路）",
+      "sieve": "1（只收到群发）",
+      "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 28；用户表：「工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商」；研究档 risks：现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空"
+    },
+    "situation": "美国 Cleerline（Cleerline Technology Group / clrtec.com：SSF 光纤品牌，兼售工业 FS、10G MC、SFP 等周边；表内「光路是供应商」（现 MC 供应商为光路）；KP Ryan Prentice（Partner））；群发 18 次无回复。",
+    "need": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
+    "breakpoint": "现供光路（深圳）价格基准低；10G MC/SFP 需求 Saga 不供（Q-32）；18 次无回复 → 改向 Partner 具名首触；官网快照空",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "有源配件（现光路）→ 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Cleerline 标；10G MC/SFP Saga 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Ryan, for the media converters and industrial switches sold under the Cleerline label alongside SSF fibre, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, FCC/CE/RoHS) from small lots — which active SKU do your integrator dealers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-25",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "8 Port Industrial PoE Switch、Marvell Industrial Alert System",
+        "why": "28 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-25（28 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 10GMC SFP 周边产品；工业FS 10GMC SFP 周边产品 光路是供应商",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

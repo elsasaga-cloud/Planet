@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / HRUI 工业款（研究档 P1） — 以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
 - **最大未知**：年走量与现供应商
-- **下一步**：按 Simon WeChat 节奏 WeChat —
+- **下一步**：按 Simon WeChat 节奏 WeChat —（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,8 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM / HRUI 工业款（研究档 P1）**（25% 档，—）——以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：WeChat 往来内容未入库
-- **下一步（具体）**：按 Simon WeChat 节奏　WeChat　—
+- **下一步（具体）**：按 Simon WeChat 节奏　WeChat　—（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

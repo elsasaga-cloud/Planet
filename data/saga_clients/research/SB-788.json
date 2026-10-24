@@ -1,115 +1,115 @@
 {
- "code": "SB-788",
- "name_official": "Wood Communications Ltd",
- "researched_at": "2026-10-21",
- "website_status": "在线（woodcomm.ie；并档 Planet 渠道档案 PB-013）",
- "summary": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "卖方目录",
-   "claim": "PLANET 品牌页",
-   "quote": "Brands › Planet Technology（目录品牌页，检索摘要）",
-   "url": "https://www.woodcomm.ie/catalogue/brands/planet-technology/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销",
-   "quote": "distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）",
-   "url": "https://www.woodcomm.ie/",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Wood Communications Ltd",
-  "founded": "",
-  "hq": "Dublin 12, 爱尔兰",
+  "code": "SB-788",
+  "name_official": "Wood Communications Ltd",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（woodcomm.ie；并档 Planet 渠道档案 PB-013）",
+  "summary": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
- },
- "business_lines": [
-  "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GSD-804P",
-   "spec": "PLANET 为 8 口其中 4 PoE 非管理；Saga 为 8 PoE + 2 SFP 管理型，功能覆盖、价位相近",
-   "saga": "STC-28DGGPM（近似）",
-   "url": "https://woodcomm.ie",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）",
-  "region": "爱尔兰"
- },
- "signals": [
-  "爱尔兰本地分销，给集成商供基础设施产品；PLANET 品牌页在目录内"
- ],
- "risks": [
-  "PLANET 在其交换机销量占比；采购决策人",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求："
- },
- "email_hook": "Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "爱尔兰（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人"
-  },
-  "situation": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
-  "need": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
-  "breakpoint": "PLANET 在其交换机销量占比；采购决策人",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G L3 Managed Switch、32 Port 400GB DC Switch",
-    "why": "4 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 品牌页",
+      "quote": "Brands › Planet Technology（目录品牌页，检索摘要）",
+      "url": "https://www.woodcomm.ie/catalogue/brands/planet-technology/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销",
+      "quote": "distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）",
+      "url": "https://www.woodcomm.ie/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "Wood Communications Ltd",
+    "founded": "",
+    "hq": "Dublin 12, 爱尔兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
+  },
+  "business_lines": [
+    "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GSD-804P",
+      "spec": "PLANET 为 8 口其中 4 PoE 非管理；Saga 为 8 PoE + 2 SFP 管理型，功能覆盖、价位相近",
+      "saga": "STC-28DGGPM（近似）",
+      "url": "https://woodcomm.ie",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）",
+    "region": "爱尔兰"
+  },
+  "signals": [
+    "爱尔兰本地分销，给集成商供基础设施产品；PLANET 品牌页在目录内"
+  ],
+  "risks": [
+    "PLANET 在其交换机销量占比；采购决策人",
+    "Planet 首触邮件未发送（Elsa 账号待定）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求："
+  },
+  "email_hook": "Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 louise@woodcomm.ie, pat@woodcomm.ie；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "爱尔兰（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 4；研究档 risks：PLANET 在其交换机销量占比；采购决策人"
+    },
+    "situation": "都柏林的基础设施分销商，面向爱尔兰集成商与数据中心，PLANET 是其交换机品牌之一。类型：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）。信号：目录品牌页 PLANET Technology（GSD-804P 等）。Planet 渠道档案 PB-013 评级 B（需求：PLANET 品牌页；触达：sales@woodcomm.ie 通用；LinkedIn 帖中出现 John@woodcomm.ie（仅名无姓，不作 KP）；体量 16 人 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-788，爱尔兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+    "need": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
+    "breakpoint": "PLANET 在其交换机销量占比；采购决策人",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位其在售 GSD-804P 一档的 8 口 PoE（Saga 为 8 PoE + 2 SFP 管理型）；分销走量 → 20%（沿用 Planet 档案 PB-013）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-09-15",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G L3 Managed Switch、32 Port 400GB DC Switch",
+        "why": "4 封 / 0 次打开 / 0 回｜首封 2026-05-27 → 末封 2026-09-15（4 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

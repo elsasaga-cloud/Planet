@@ -133,22 +133,6 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "48 Port PoE Managed Switch、24 Port PoE Managed Switch",
-        "why": "24 封 / 4 次打开 / 0 回",
-        "k": "gmail_digest"
-      },
-      {
         "date": "2026-02-06",
         "dir": "来",
         "who": "Rahul Kansal（Vintron Smart Vision，印度）",
@@ -171,6 +155,22 @@
         "quote": "Can you send price list for viewing?",
         "why": "台湾同行式问价",
         "k": "gmail_e"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "48 Port PoE Managed Switch、24 Port PoE Managed Switch",
+        "why": "24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [

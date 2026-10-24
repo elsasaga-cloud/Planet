@@ -51,8 +51,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-17 | 去 | A/S 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 12 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-17（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/ | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 12 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-10-02 | 去 | A/S 群发 | 24 Port Fiber Switch、Industrial PoE Switch | 40 封 / 7 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-02（40 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | 24 Port Fiber Switch、Industrial PoE Switch | 40 封 / 7 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

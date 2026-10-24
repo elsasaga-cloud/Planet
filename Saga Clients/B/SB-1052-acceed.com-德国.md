@@ -53,7 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026 | 去 | A 群发 | Marvell Managed Commercial Switches、10G L3 Managed Switch | 5 封 / 2 次打开 / 0 回 | `gmail_digest` |
+| 2026-09-24 | 去 | A 群发 | Marvell Managed Commercial Switches、10G L3 Managed Switch | 5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来） | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -53,7 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 24 封 / 2 次打开 / 0 回 | `gmail_digest` |
+| 2026-10-10 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-10（24 去 / 0 来） | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

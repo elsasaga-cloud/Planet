@@ -85,20 +85,20 @@
     },
     "facts": [
       {
+        "date": "2025-02-04",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "16 Port PoE Managed Switch、Industrial PoE Switch",
+        "why": "3 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2025-02-04（3 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2025",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "16 Port PoE Managed Switch、Industrial PoE Switch",
-        "why": "3 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

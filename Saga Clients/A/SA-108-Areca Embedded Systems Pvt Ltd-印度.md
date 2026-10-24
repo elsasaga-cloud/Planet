@@ -35,9 +35,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 13 次（2024-01-17 → 2025-06-21）；最近一次客户回复：2024-11-18：BIS
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM 类 — —；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA
+- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：8 光 8 电管理（L2/L3 分档）。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-448XGGPM 类**（25% 档，—）———
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

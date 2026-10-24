@@ -110,20 +110,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "16 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

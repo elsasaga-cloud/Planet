@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 16 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC POE 周边产品 自己的logo | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 16 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

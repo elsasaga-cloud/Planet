@@ -111,20 +111,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "21 封 / 2 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "外壳比较杂 很多是国内的 MC PoE 自己logo 很多SFP模块",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "21 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

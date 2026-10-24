@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了10gmc
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP 管理版 — —；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WA
+- **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：STI 2 光 4 电管理 + ERPS。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-244GP 管理版**（25% 档，—）———
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WA
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：For the 2-fibre 4-copper ERPS ring requirement, the managed 8-port gigabit PoE + 2 SFP DIN switch is the unit that carries ring protection, so I am quoting that and confirming the ERPS firmware detail with the factory.
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

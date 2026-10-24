@@ -1,127 +1,127 @@
 {
- "code": "SB-643",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（karma-group.ru，快照 2026-10-21）",
- "summary": "俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。",
- "type": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
- "size": "",
- "brands_seen": [
-  "Huawei",
-  "DCN",
-  "Cisco"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Компания АО «Карма Групп» - системный интегратор, поставщик ИТ-решений и технологий, серве；品类词 网络交换 / PoE",
-   "quote": "АО Карма Групп - системный интегратор, поставщик серверов, СХД, сетевого оборудования ведущих мировых производителей. Сборка, тестирование, доставка, консультирование, выезд специалиста.",
-   "url": "https://www.karma-group.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有DCN的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Karma Group 定位",
-   "quote": "Компания АО «Карма Групп» - системный интегратор, поставщик ИТ-решений ; /catalog/dcn/",
-   "url": "https://www.karma-group.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "有 DCN 的",
-   "quote": "有DCN的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 karma-group.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "IT 系统集成 / 服务器与网络分销（俄罗斯）"
- ],
- "channels": {
-  "role": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
-  "region": "俄罗斯",
-  "contact": "office@karma-group.ru"
- },
- "signals": [
-  "官网：АО Карма Групп - системный интегратор, поставщик серверов, СХД, сетевого оборудования ведущих мировых произ…；页面 /catalog/dcn/、/catalog/amur-pc/；站内 MES1124M / QSW-3310",
-  "表内：有 DCN 的"
- ],
- "risks": [
-  "俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 25,
-  "why": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）"
- },
- "email_hook": "Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 office@karma-group.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）",
-   "type": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；用户表：「有DCN的」；研究档 risks：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@"
-  },
-  "situation": "俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。",
-  "need": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）",
-  "breakpoint": "俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "有DCN的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-643",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（karma-group.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。",
+  "type": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
+  "size": "",
+  "brands_seen": [
+    "Huawei",
+    "DCN",
+    "Cisco"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Компания АО «Карма Групп» - системный интегратор, поставщик ИТ-решений и технологий, серве；品类词 网络交换 / PoE",
+      "quote": "АО Карма Групп - системный интегратор, поставщик серверов, СХД, сетевого оборудования ведущих мировых производителей. Сборка, тестирование, доставка, консультирование, выезд специалиста.",
+      "url": "https://www.karma-group.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有DCN的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Karma Group 定位",
+      "quote": "Компания АО «Карма Групп» - системный интегратор, поставщик ИТ-решений ; /catalog/dcn/",
+      "url": "https://www.karma-group.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有 DCN 的",
+      "quote": "有DCN的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 karma-group.ru，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "IT 系统集成 / 服务器与网络分销（俄罗斯）"
+  ],
+  "channels": {
+    "role": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
+    "region": "俄罗斯",
+    "contact": "office@karma-group.ru"
+  },
+  "signals": [
+    "官网：АО Карма Групп - системный интегратор, поставщик серверов, СХД, сетевого оборудования ведущих мировых произ…；页面 /catalog/dcn/、/catalog/amur-pc/；站内 MES1124M / QSW-3310",
+    "表内：有 DCN 的"
+  ],
+  "risks": [
+    "俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 25,
+    "why": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）"
+  },
+  "email_hook": "Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 office@karma-group.ru；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）",
+      "type": "IT 系统集成/分销商（俄罗斯，DCN 在供）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；用户表：「有DCN的」；研究档 risks：俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@"
+    },
+    "situation": "俄罗斯 АО «Карма Групп» Karma Group（系统集成商与 IT 方案供应商：服务器、存储、网络设备（DCN、Huawei、Cisco）、自有 Amur PC；表内「有 DCN 的」）；表内未跟进。",
+    "need": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）",
+    "breakpoint": "俄罗斯：结算/物流/合规风险；DCN 在供价格基准低；未跟进过，仅 office@",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "DCN 位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Alongside the DCN switches in your catalogue, we supply neutral-brand Marvell-based 24-GE + 4×10G and 24-PoE + 4 SFP L2+ access switches from small lots, CE/RoHS; EAC by your side — is there an entry-level managed position your integration projects need?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-12-15 → 末封 2026-09-04（5 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "有DCN的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

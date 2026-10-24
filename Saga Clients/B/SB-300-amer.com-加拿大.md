@@ -51,8 +51,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-09 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 28 封 / 2 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-09（28 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC SFP POE injector 自己logo switch 有自己的标 也有Planet的 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 28 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

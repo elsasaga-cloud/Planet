@@ -1,115 +1,115 @@
 {
- "code": "SB-711",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（marsateknoloji.com，快照 2026-10-21）",
- "summary": "土耳其 Marsa Teknoloji（U-Prox、Urfog、BasIP、Fanvil 土耳其授权分销商；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；经销商计划；KP Ali Yıldız）；表内 1 次跟进无回复。",
- "type": "安防/对讲分销商（土耳其）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Dahua",
-  "Fanvil",
-  "BasIP"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Marsa Teknoloji, uluslararası markalardan U-Prox, Urfog, BasIP, Fanvil markalarının Türkiye Distribütörüdür. Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır.",
-   "url": "https://www.marsateknoloji.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Marsa Teknoloji 定位",
-   "quote": "Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü ; Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır",
-   "url": "https://www.marsateknoloji.com/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ali Yıldız",
-   "title": "（职务待核）",
-   "email": "ali.yildiz@marsateknoloji.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 marsateknoloji.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防 / 对讲 / IP 话机分销（U-Prox、Urfog、BasIP、Fanvil）"
- ],
- "channels": {
-  "role": "安防/对讲分销商（土耳其）",
-  "region": "土耳其",
-  "contact": "ali.yildiz@marsateknoloji.com"
- },
- "signals": [
-  "官网：Marsa Teknoloji, uluslararası markalardan U-Prox, Urfog, BasIP, Fanvil markalarının Türkiye Distribütörüdür. Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır；首页 Become Our Dealer；kw switch 19 / fiber 13",
-  "KP Ali Yıldız（表内邮箱）"
- ],
- "risks": [
-  "土耳其：汇率敏感；品牌授权分销模式，PoE 为配套",
-  "1 次跟进无回复；KP 职务待核"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
- },
- "email_hook": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ali.yildiz@marsateknoloji.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "安防/对讲分销商（土耳其）",
-   "sieve": "1（只收到群发）",
-   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；研究档 risks：土耳其：汇率敏感；品牌授权分销模式，PoE 为配套"
-  },
-  "situation": "土耳其 Marsa Teknoloji（U-Prox、Urfog、BasIP、Fanvil 土耳其授权分销商；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；经销商计划；KP Ali Yıldız）；表内 1 次跟进无回复。",
-  "need": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-  "breakpoint": "土耳其：汇率敏感；品牌授权分销模式，PoE 为配套",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-711",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（marsateknoloji.com，快照 2026-10-21）",
+  "summary": "土耳其 Marsa Teknoloji（U-Prox、Urfog、BasIP、Fanvil 土耳其授权分销商；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；经销商计划；KP Ali Yıldız）；表内 1 次跟进无回复。",
+  "type": "安防/对讲分销商（土耳其）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Dahua",
+    "Fanvil",
+    "BasIP"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Marsa Teknoloji, uluslararası markalardan U-Prox, Urfog, BasIP, Fanvil markalarının Türkiye Distribütörüdür. Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır.",
+      "url": "https://www.marsateknoloji.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Marsa Teknoloji 定位",
+      "quote": "Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü ; Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır",
+      "url": "https://www.marsateknoloji.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ali Yıldız",
+      "title": "（职务待核）",
+      "email": "ali.yildiz@marsateknoloji.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 marsateknoloji.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防 / 对讲 / IP 话机分销（U-Prox、Urfog、BasIP、Fanvil）"
+  ],
+  "channels": {
+    "role": "安防/对讲分销商（土耳其）",
+    "region": "土耳其",
+    "contact": "ali.yildiz@marsateknoloji.com"
+  },
+  "signals": [
+    "官网：Marsa Teknoloji, uluslararası markalardan U-Prox, Urfog, BasIP, Fanvil markalarının Türkiye Distribütörüdür. Hikvision, dahua, tiandy, teletek gibi büyük markalarında satış ve teknik servis noktasıdır；首页 Become Our Dealer；kw switch 19 / fiber 13",
+    "KP Ali Yıldız（表内邮箱）"
+  ],
+  "risks": [
+    "土耳其：汇率敏感；品牌授权分销模式，PoE 为配套",
+    "1 次跟进无回复；KP 职务待核"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
+  },
+  "email_hook": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ali.yildiz@marsateknoloji.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "安防/对讲分销商（土耳其）",
+      "sieve": "1（只收到群发）",
+      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；研究档 risks：土耳其：汇率敏感；品牌授权分销模式，PoE 为配套"
+    },
+    "situation": "土耳其 Marsa Teknoloji（U-Prox、Urfog、BasIP、Fanvil 土耳其授权分销商；Hikvision / Dahua / Tiandy / Teletek 销售与技术服务点；经销商计划；KP Ali Yıldız）；表内 1 次跟进无回复。",
+    "need": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+    "breakpoint": "土耳其：汇率敏感；品牌授权分销模式，PoE 为配套",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "BasIP 对讲 / Fanvil 话机 / 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Ali, alongside the BasIP intercoms and Fanvil phones you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for installer kits from small lots, CE/RoHS, EXW USD — which port count do your dealers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-11",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-11（5 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

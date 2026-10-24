@@ -101,20 +101,20 @@
     },
     "facts": [
       {
+        "date": "2024-12-25",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch、48 port managed switch",
+        "why": "7 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-12-25（7 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "poe network switch 产品较少 周边产品",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2024",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial PoE Switch、48 port managed switch",
-        "why": "7 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -111,20 +111,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-19",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+        "why": "27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-19（27 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "主要用工业PoE 比较懂",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-        "why": "27 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

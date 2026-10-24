@@ -118,20 +118,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Booster PoE Switch、Marvell Industrial Alert System",
+        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-11-12 → 末封 2026-09-08（12 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：4光8电 4光16电 10G光带BT",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Booster PoE Switch、Marvell Industrial Alert System",
-        "why": "12 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

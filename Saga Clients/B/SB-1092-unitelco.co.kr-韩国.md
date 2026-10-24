@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-17 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 34 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-17（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 看着很专业 像是光缆系统产品 也有switch 右图 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 34 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

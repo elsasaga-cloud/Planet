@@ -135,20 +135,20 @@
     },
     "facts": [
       {
+        "date": "2026-02-09",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Alleycat5 Solution、90W PoE Managed Switch",
+        "why": "10 封 / 1 次打开 / 0 回｜首封 2025-06-18 → 末封 2026-02-09（10 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "卖几个牌子的 有marvell方案",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Marvell Alleycat5 Solution、90W PoE Managed Switch",
-        "why": "10 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

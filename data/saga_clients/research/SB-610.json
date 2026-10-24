@@ -1,109 +1,109 @@
 {
- "code": "SB-610",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。",
- "type": "电信设备/光模块供应商（英国，MC 为副线）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是光模块 有一些MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要是光模块 有一些 MC",
-   "quote": "主要是光模块 有一些MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "电信设备 / 光模块供应（英国）"
- ],
- "channels": {
-  "role": "电信设备/光模块供应商（英国，MC 为副线）",
-  "region": "英国",
-  "contact": "contact@carritech.com"
- },
- "signals": [
-  "表内：主要是光模块 有一些 MC",
-  "快照：http_error"
- ],
- "risks": [
-  "主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供"
- },
- "email_hook": "For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 contact@carritech.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-   "type": "电信设备/光模块供应商（英国，MC 为副线）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "UK 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「主要是光模块 有一些MC」；研究档 risks：主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@"
-  },
-  "situation": "英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。",
-  "need": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供",
-  "breakpoint": "主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是光模块 有一些MC",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-610",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。",
+  "type": "电信设备/光模块供应商（英国，MC 为副线）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是光模块 有一些MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是光模块 有一些 MC",
+      "quote": "主要是光模块 有一些MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 carritech.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "电信设备 / 光模块供应（英国）"
+  ],
+  "channels": {
+    "role": "电信设备/光模块供应商（英国，MC 为副线）",
+    "region": "英国",
+    "contact": "contact@carritech.com"
+  },
+  "signals": [
+    "表内：主要是光模块 有一些 MC",
+    "快照：http_error"
+  ],
+  "risks": [
+    "主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供"
+  },
+  "email_hook": "For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 contact@carritech.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
+      "type": "电信设备/光模块供应商（英国，MC 为副线）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "UK 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「主要是光模块 有一些MC」；研究档 risks：主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@"
+    },
+    "situation": "英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。",
+    "need": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供",
+    "breakpoint": "主业光模块（Saga 不供）；官网 http_error；2 次无回复，仅 contact@",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-02-11",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-02-11（6 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是光模块 有一些MC",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-16 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 23 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-09-16（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 23 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

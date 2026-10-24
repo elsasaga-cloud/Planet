@@ -54,9 +54,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：Cisco Switch；回复：price info | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | 48 port managed switch、10G media converter | 8 封 / 1 次打开 / 0 回 | `gmail_digest` |
+| 2024-12-30 | 去 | S 群发 | 48 port managed switch、10G media converter | 8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来） | `gmail_digest` |
 | 2025-10-05 | 来 | dbjcontrad（赞比亚） | could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire… | 要规格书 + 追问；非主攻区，个人邮箱 | `gmail_e` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：Cisco Switch；回复：price info | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-02 | 去 | A 群发 | 24 Port PoE Managed Switch、48 Port PoE Managed Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/ | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、48 Port PoE Managed Switch | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

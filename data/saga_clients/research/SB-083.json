@@ -1,137 +1,137 @@
 {
- "code": "SB-083",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（dci.jp，快照 2026-10-21）",
- "summary": "日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。",
- "type": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
- "size": "",
- "brands_seen": [
-  "ORing",
-  "CTC Union"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：データコントロルズ株式会社 | データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート",
-   "url": "https://dci.jp/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 工业FS POE；光路的MC系列 Oring的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Data Controls 定位",
-   "quote": "データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート",
-   "url": "https://dci.jp/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "光路 MC 系列；ORing 工业 FS",
-   "quote": "MC 工业FS POE / 光路的MC系列 Oring的工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "日本",
-  "other": "官网 dci.jp，语言 ja，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "媒体转换 / 工业网络产品设计开发销售"
- ],
- "channels": {
-  "role": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
-  "region": "日本",
-  "contact": "info@dci.jp、sales@dci.jp"
- },
- "signals": [
-  "页面 /product-tag/poe、/product-tag/switch、/product-tag/bypass-switch、/product-tag/industrial_widetemp；站内 FRM220-1000DS / DCWDM2108；kw sfp 99 / poe 76 / 10g 45",
-  "表内：光路的 MC 系列；ORing 的工业 FS"
- ],
- "risks": [
-  "非主攻区（T5，日本）；PSE/VCCI 由客户申报",
-  "ORing / CTC Union 既定货源；2 次跟进无回复，仅 info@/sales@"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
- },
- "email_hook": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?",
- "products_seen": [
-  {
-   "brand": "CTC Union",
-   "model": "FRM220-1000DS",
-   "spec": "机架式 MC 卡",
-   "saga": "—（Saga 无 MC 机架，Q-32）",
-   "url": "https://dci.jp/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "日本 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21；用户表：「MC 工业FS POE；光路的MC系列 Oring的工业FS」；研究档 risks：非主攻区（T5，日本）；PSE/VCCI 由客户申报"
-  },
-  "situation": "日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。",
-  "need": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
-  "breakpoint": "非主攻区（T5，日本）；PSE/VCCI 由客户申报",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 工业FS POE；光路的MC系列 Oring的工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-083",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（dci.jp，快照 2026-10-21）",
+  "summary": "日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。",
+  "type": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
+  "size": "",
+  "brands_seen": [
+    "ORing",
+    "CTC Union"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：データコントロルズ株式会社 | データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート",
+      "url": "https://dci.jp/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 工业FS POE；光路的MC系列 Oring的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Data Controls 定位",
+      "quote": "データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート",
+      "url": "https://dci.jp/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "光路 MC 系列；ORing 工业 FS",
+      "quote": "MC 工业FS POE / 光路的MC系列 Oring的工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "日本",
+    "other": "官网 dci.jp，语言 ja，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "媒体转换 / 工业网络产品设计开发销售"
+  ],
+  "channels": {
+    "role": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
+    "region": "日本",
+    "contact": "info@dci.jp、sales@dci.jp"
+  },
+  "signals": [
+    "页面 /product-tag/poe、/product-tag/switch、/product-tag/bypass-switch、/product-tag/industrial_widetemp；站内 FRM220-1000DS / DCWDM2108；kw sfp 99 / poe 76 / 10g 45",
+    "表内：光路的 MC 系列；ORing 的工业 FS"
+  ],
+  "risks": [
+    "非主攻区（T5，日本）；PSE/VCCI 由客户申报",
+    "ORing / CTC Union 既定货源；2 次跟进无回复，仅 info@/sales@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）"
+  },
+  "email_hook": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?",
+  "products_seen": [
+    {
+      "brand": "CTC Union",
+      "model": "FRM220-1000DS",
+      "spec": "机架式 MC 卡",
+      "saga": "—（Saga 无 MC 机架，Q-32）",
+      "url": "https://dci.jp/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "日本 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21；用户表：「MC 工业FS POE；光路的MC系列 Oring的工业FS」；研究档 risks：非主攻区（T5，日本）；PSE/VCCI 由客户申报"
+    },
+    "situation": "日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。",
+    "need": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
+    "breakpoint": "非主攻区（T5，日本）；PSE/VCCI 由客户申报",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-29",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-29（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 工业FS POE；光路的MC系列 Oring的工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

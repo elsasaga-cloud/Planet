@@ -87,20 +87,20 @@
     },
     "facts": [
       {
+        "date": "2026-10-07",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G L3 Managed Switch、Saga Q3 Product Links",
+        "why": "5 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-10-07（5 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G L3 Managed Switch、Saga Q3 Product Links",
-        "why": "5 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -55,8 +55,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-03-09 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 20 封 / 0 次打开 / 0 回｜首封 2024-08-13 → 末封 2026-03-09（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 烽火美国分公司 · 收发器/差点成样品单 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 20 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

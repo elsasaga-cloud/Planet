@@ -55,7 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2024 | 去 | S 群发 | Commercial poe switch、24 port poe switch | 4 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2024-10-23 | 去 | S 群发 | Commercial poe switch、24 port poe switch | 4 封 / 0 次打开 / 0 回｜首封 2024-07-16 → 末封 2024-10-23（4 去 / 0 来） | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

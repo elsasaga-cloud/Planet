@@ -88,20 +88,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-23",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "37 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（37 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "37 封 / 2 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

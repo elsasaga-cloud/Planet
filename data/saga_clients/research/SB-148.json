@@ -1,146 +1,146 @@
 {
- "code": "SB-148",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（level1.com，快照 2026-10-21）",
- "summary": "德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。",
- "type": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Human verification",
-   "quote": "Checking if you're human",
-   "url": "https://level1.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Human verification；品类词 网络交换 / PoE",
-   "quote": "Checking if you're human",
-   "url": "https://level1.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "LevelOne 产品页路径（快照为人机验证页）",
-   "quote": "/level1_en/levelone/industrial/switches/poe-switches ; /level1_en/levelone/industrial/switches/managed-switches ; Human verification",
-   "url": "https://level1.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "自己的标；Peter 产品已做进去",
-   "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；质量高；总部在德国 有很多国家办事处",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Saeid Habibi",
-   "title": "（职务待核）",
-   "email": "saeid.habibi@ddc-group.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Marcelo Pio",
-   "title": "CEO",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络产品品牌（LevelOne：工业/商用 PoE、管理交换机、MC）"
- ],
- "channels": {
-  "role": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
-  "region": "德国",
-  "contact": "saeid.habibi@ddc-group.com"
- },
- "signals": [
-  "页面 /level1_en/levelone/industrial/switches/poe-switches、/industrial/switches/managed-switches、/wired-networking/poe/poe-switches",
-  "表内：MC 工业 FS FS 自己的标；Peter 产品已经做进去了；质量高；总部在德国 有很多国家办事处；KP Saeid / Marcelo Pio / CEO"
- ],
- "risks": [
-  "已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径",
-  "官网快照为人机验证页（产品页未抓到）；10 次无回复 → 改向 Saeid 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE"
- },
- "email_hook": "Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 saeid.habibi@ddc-group.com；主题多为「16 Port PoE Managed Switch、Managed Optical Bypass Switch」）",
-   "type": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
-   "sieve": "1（只收到群发）",
-   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 8；用户表：「MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处」；研究档 risks：已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径"
-  },
-  "situation": "德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。",
-  "need": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE",
-  "breakpoint": "已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "16 Port PoE Managed Switch、Managed Optical Bypass Switch",
-    "why": "8 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-148",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（level1.com，快照 2026-10-21）",
+  "summary": "德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。",
+  "type": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Human verification",
+      "quote": "Checking if you're human",
+      "url": "https://level1.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Human verification；品类词 网络交换 / PoE",
+      "quote": "Checking if you're human",
+      "url": "https://level1.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "LevelOne 产品页路径（快照为人机验证页）",
+      "quote": "/level1_en/levelone/industrial/switches/poe-switches ; /level1_en/levelone/industrial/switches/managed-switches ; Human verification",
+      "url": "https://level1.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "自己的标；Peter 产品已做进去",
+      "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；质量高；总部在德国 有很多国家办事处",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Saeid Habibi",
+      "title": "（职务待核）",
+      "email": "saeid.habibi@ddc-group.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Marcelo Pio",
+      "title": "CEO",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 level1.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络产品品牌（LevelOne：工业/商用 PoE、管理交换机、MC）"
+  ],
+  "channels": {
+    "role": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
+    "region": "德国",
+    "contact": "saeid.habibi@ddc-group.com"
+  },
+  "signals": [
+    "页面 /level1_en/levelone/industrial/switches/poe-switches、/industrial/switches/managed-switches、/wired-networking/poe/poe-switches",
+    "表内：MC 工业 FS FS 自己的标；Peter 产品已经做进去了；质量高；总部在德国 有很多国家办事处；KP Saeid / Marcelo Pio / CEO"
+  ],
+  "risks": [
+    "已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径",
+    "官网快照为人机验证页（产品页未抓到）；10 次无回复 → 改向 Saeid 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE"
+  },
+  "email_hook": "Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 8 封 2024→2026，无记录打开，0 回；收件 saeid.habibi@ddc-group.com；主题多为「16 Port PoE Managed Switch、Managed Optical Bypass Switch」）",
+      "type": "网络品牌商（LevelOne，OEM 采购；已有在供厂商）",
+      "sieve": "1（只收到群发）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 8；用户表：「MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处」；研究档 risks：已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径"
+    },
+    "situation": "德国 LevelOne / DDC Group（Digital Data Communications GmbH，总部德国、多国办事处；LevelOne 品牌含工业 PoE/管理交换机、商用 PoE；表内「MC 工业 FS FS 自己的标；Peter 产品已经做进去了」「质量高」；KP Saeid Habibi、Marcelo Pio（CEO））；群发 10 次无回复。",
+    "need": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE",
+    "breakpoint": "已有在供厂商（表内「Peter 产品已经做进去了」）：仅二供口径",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "LevelOne 工业 PoE 线 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；商用 PoE 位 STC-28DGGPM（$87.4）；MC 位 STI-110GE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Saeid, for the LevelOne industrial PoE and managed switch lines, we can be an additional ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8/24-PoE L2+ commercial, gigabit MC) from small lots in your packaging, CE/RoHS — is there a model in the range you would like a second-source quote for?"
+    },
+    "facts": [
+      {
+        "date": "2026-01-16",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "16 Port PoE Managed Switch、Managed Optical Bypass Switch",
+        "why": "8 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-01-16（8 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 工业FS FS 自己的标 Peter产品已经做进去了；总部在德国 有很多国家办事处",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

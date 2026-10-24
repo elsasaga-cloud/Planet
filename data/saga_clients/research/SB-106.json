@@ -209,11 +209,11 @@
     },
     "facts": [
       {
-        "date": "2026",
+        "date": "2026-09-04",
         "dir": "去",
         "who": "A 群发",
         "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
-        "why": "18 封 / 1 次打开 / 0 回",
+        "why": "18 封 / 1 次打开 / 0 回｜首封 2025-07-04 → 末封 2026-09-04（18 去 / 0 来）",
         "k": "gmail_digest"
       }
     ],

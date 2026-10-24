@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-16 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 38 封 / 2 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-09-16（38 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Bypass Ethernet Switch；attn: Kang In-Su \| telephone: 031-745-7005 \| mobile.: 010-3368-2118 \| fax.: 031-745-7006 \| 网址: ww | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 38 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

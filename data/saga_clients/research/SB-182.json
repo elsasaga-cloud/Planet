@@ -1,130 +1,130 @@
 {
- "code": "SB-182",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（jpg.lt，快照 2026-10-21）",
- "summary": "立陶宛 jpg.lt（视频监控与安防系统网店：IP 摄像机、Dahua PoE、PoE 分离器、16 口 PoE（LT-54312 / 3220-16GT240）、Ajax、Teltonika、GPS 追踪器；表内「商业 PoE 丰润达的；销售平台」「可以尝试多跟进一下」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；群发 12 次无回复。",
- "type": "安防网店（立陶宛，丰润达 PoE 在售）",
- "size": "",
- "brands_seen": [
-  "Ajax",
-  "Teltonika",
-  "丰润达",
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos, IP vaizdo stebėjimo kameros, IP valdomos ka",
-   "url": "https://jpg.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE 丰润达的 销售平台",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "jpg.lt 网店（立陶宛语）",
-   "quote": "Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt ; Tel. +370 656 65557 ; poe-sakotuvas-3220-16gt240",
-   "url": "https://jpg.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 丰润达的",
-   "quote": "商业PoE 丰润达的 销售平台；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 jpg.lt，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "视频监控 / 安防系统网店"
- ],
- "channels": {
-  "role": "安防网店（立陶宛，丰润达 PoE 在售）",
-  "region": "立陶宛",
-  "contact": "info@jpg.lt"
- },
- "signals": [
-  "页面 /dahua-poe-005、/poe-sakotuvas-3220-16gt240、/poe-10100m-spliteris-25-5w；站内 LT-54312；kw poe 23",
-  "官网：Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos … jpg.lt；电话 +370 656 65557"
- ],
- "risks": [
-  "小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）",
-  "12 次无回复，仅 info@；现供丰润达（深圳）价格基准低"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP"
- },
- "email_hook": "Alongside the PoE switches and splitters in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8/16-port PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit customers buy most?",
- "country_fix": "立陶宛",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@jpg.lt；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
-   "type": "安防网店（立陶宛，丰润达 PoE 在售）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 21；用户表：「商业PoE 丰润达的 销售平台」；研究档 risks：小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）"
-  },
-  "situation": "立陶宛 jpg.lt（视频监控与安防系统网店：IP 摄像机、Dahua PoE、PoE 分离器、16 口 PoE（LT-54312 / 3220-16GT240）、Ajax、Teltonika、GPS 追踪器；表内「商业 PoE 丰润达的；销售平台」「可以尝试多跟进一下」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；群发 12 次无回复。",
-  "need": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP",
-  "breakpoint": "小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE 丰润达的 销售平台",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-182",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（jpg.lt，快照 2026-10-21）",
+  "summary": "立陶宛 jpg.lt（视频监控与安防系统网店：IP 摄像机、Dahua PoE、PoE 分离器、16 口 PoE（LT-54312 / 3220-16GT240）、Ajax、Teltonika、GPS 追踪器；表内「商业 PoE 丰润达的；销售平台」「可以尝试多跟进一下」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；群发 12 次无回复。",
+  "type": "安防网店（立陶宛，丰润达 PoE 在售）",
+  "size": "",
+  "brands_seen": [
+    "Ajax",
+    "Teltonika",
+    "丰润达",
+    "Dahua"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos, IP vaizdo stebėjimo kameros, IP valdomos ka",
+      "url": "https://jpg.lt/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE 丰润达的 销售平台",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "jpg.lt 网店（立陶宛语）",
+      "quote": "Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt ; Tel. +370 656 65557 ; poe-sakotuvas-3220-16gt240",
+      "url": "https://jpg.lt/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 丰润达的",
+      "quote": "商业PoE 丰润达的 销售平台；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 jpg.lt，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "视频监控 / 安防系统网店"
+  ],
+  "channels": {
+    "role": "安防网店（立陶宛，丰润达 PoE 在售）",
+    "region": "立陶宛",
+    "contact": "info@jpg.lt"
+  },
+  "signals": [
+    "页面 /dahua-poe-005、/poe-sakotuvas-3220-16gt240、/poe-10100m-spliteris-25-5w；站内 LT-54312；kw poe 23",
+    "官网：Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos … jpg.lt；电话 +370 656 65557"
+  ],
+  "risks": [
+    "小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）",
+    "12 次无回复，仅 info@；现供丰润达（深圳）价格基准低"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP"
+  },
+  "email_hook": "Alongside the PoE switches and splitters in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and budget 4/8/16-port PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit customers buy most?",
+  "country_fix": "立陶宛",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@jpg.lt；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+      "type": "安防网店（立陶宛，丰润达 PoE 在售）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "立陶宛（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 21；用户表：「商业PoE 丰润达的 销售平台」；研究档 risks：小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）"
+    },
+    "situation": "立陶宛 jpg.lt（视频监控与安防系统网店：IP 摄像机、Dahua PoE、PoE 分离器、16 口 PoE（LT-54312 / 3220-16GT240）、Ajax、Teltonika、GPS 追踪器；表内「商业 PoE 丰润达的；销售平台」「可以尝试多跟进一下」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；群发 12 次无回复。",
+    "need": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP",
+    "breakpoint": "小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-08（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE 丰润达的 销售平台",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

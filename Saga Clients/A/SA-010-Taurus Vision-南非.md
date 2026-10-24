@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — —；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
 - **最大未知**：年走量与现供应商
-- **下一步**：按 WA 节奏 WhatsApp WhatsApp
+- **下一步**：按 WA 节奏 WhatsApp WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：8/16 口 PoE 小批量。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，—）———
-- **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp
+- **下一步（具体）**：按 WA 节奏　WhatsApp　WhatsApp（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

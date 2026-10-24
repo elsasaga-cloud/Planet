@@ -112,20 +112,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-28",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Updated Ethernet Switches Links、Marvell Managed Commercial Switches",
+        "why": "7 封 / 0 次打开 / 0 回｜首封 2026-03-09 → 末封 2026-08-28（7 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "（用户表字段）",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Updated Ethernet Switches Links、Marvell Managed Commercial Switches",
-        "why": "7 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-24 | 去 | A 群发 | OEM Core Switching Solution、Updated Ethernet Switches Links | 9 封 / 1 次打开 / 0 回｜首封 2026-01-21 → 末封 2026-09-24（9 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Switches | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | OEM Core Switching Solution、Updated Ethernet Switches Links | 9 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

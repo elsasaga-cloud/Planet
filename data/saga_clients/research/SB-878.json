@@ -1,126 +1,126 @@
 {
- "code": "SB-878",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（worldstarsecuritycameras.com，快照 2026-10-21）",
- "summary": "美国 WorldStar Security Cameras / WorldStar CCTV（CCTV 经销；表内「商业 PoE 新桥的」；KP Rolf Vilaire（BD）；官网快照空）；群发 18 次无回复。",
- "type": "CCTV 经销商（美国，PoE 现新桥）",
- "size": "",
- "brands_seen": [
-  "新桥"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：worldstarsecuritycameras.com",
-   "quote": "",
-   "url": "https://worldstarsecuritycameras.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业PoE 新桥的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 新桥的",
-   "quote": "商业PoE 新桥的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Rolf Vilaire",
-   "title": "BD",
-   "email": "rv@worldstarcctv.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "CCTV / 安防产品经销（美国）"
- ],
- "channels": {
-  "role": "CCTV 经销商（美国，PoE 现新桥）",
-  "region": "美国",
-  "contact": "sales@worldstarcctv.com、rv@worldstarcctv.com"
- },
- "signals": [
-  "表内：商业 PoE 新桥的；KP Rolf Vilaire / BD",
-  "快照：内容为空"
- ],
- "risks": [
-  "现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "Rolf, for the PoE switches you sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your dealer customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 rv@worldstarcctv.com, sales@worldstarcctv.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-   "type": "CCTV 经销商（美国，PoE 现新桥）",
-   "sieve": "1（只收到群发）",
-   "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "US 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 28；用户表：「商业PoE 新桥的」；研究档 risks：现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空"
-  },
-  "situation": "美国 WorldStar Security Cameras / WorldStar CCTV（CCTV 经销；表内「商业 PoE 新桥的」；KP Rolf Vilaire（BD）；官网快照空）；群发 18 次无回复。",
-  "need": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业PoE 新桥的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-    "why": "28 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-878",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（worldstarsecuritycameras.com，快照 2026-10-21）",
+  "summary": "美国 WorldStar Security Cameras / WorldStar CCTV（CCTV 经销；表内「商业 PoE 新桥的」；KP Rolf Vilaire（BD）；官网快照空）；群发 18 次无回复。",
+  "type": "CCTV 经销商（美国，PoE 现新桥）",
+  "size": "",
+  "brands_seen": [
+    "新桥"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：worldstarsecuritycameras.com",
+      "quote": "",
+      "url": "https://worldstarsecuritycameras.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业PoE 新桥的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 新桥的",
+      "quote": "商业PoE 新桥的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Rolf Vilaire",
+      "title": "BD",
+      "email": "rv@worldstarcctv.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 worldstarsecuritycameras.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "CCTV / 安防产品经销（美国）"
+  ],
+  "channels": {
+    "role": "CCTV 经销商（美国，PoE 现新桥）",
+    "region": "美国",
+    "contact": "sales@worldstarcctv.com、rv@worldstarcctv.com"
+  },
+  "signals": [
+    "表内：商业 PoE 新桥的；KP Rolf Vilaire / BD",
+    "快照：内容为空"
+  ],
+  "risks": [
+    "现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "Rolf, for the PoE switches you sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your dealer customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 28 封 2024→2026，无记录打开，0 回；收件 rv@worldstarcctv.com, sales@worldstarcctv.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "type": "CCTV 经销商（美国，PoE 现新桥）",
+      "sieve": "1（只收到群发）",
+      "stop": "28 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "US 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 28；用户表：「商业PoE 新桥的」；研究档 risks：现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空"
+    },
+    "situation": "美国 WorldStar Security Cameras / WorldStar CCTV（CCTV 经销；表内「商业 PoE 新桥的」；KP Rolf Vilaire（BD）；官网快照空）；群发 18 次无回复。",
+    "need": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "现供新桥（深圳）价格基准低；18 次无回复 → 改向 BD 具名首触；官网快照空",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-08-27",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "28 封 / 0 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-08-27（28 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业PoE 新桥的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

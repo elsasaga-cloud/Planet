@@ -53,8 +53,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-28 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 7 封 / 0 次打开 / 0 回｜首封 2026-03-23 → 末封 2026-09-28（7 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工程商 Switch 网站：看着不太相关 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

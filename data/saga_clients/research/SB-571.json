@@ -129,20 +129,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "30 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-22（30 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "8 Port Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "30 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-25 | 去 | A 群发 | Optional Marvell Chipset Solutions、OEM Core Switching Solution | 5 封 / 0 次打开 / 0 回｜首封 2025-12-12 → 末封 2026-08-25（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 有很多DCN的；WDM SFP | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | Optional Marvell Chipset Solutions、OEM Core Switching Solution | 5 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

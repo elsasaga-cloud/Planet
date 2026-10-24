@@ -122,20 +122,20 @@
     },
     "facts": [
       {
+        "date": "2026-01-09",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+        "why": "13 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-01-09（13 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
-        "why": "13 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

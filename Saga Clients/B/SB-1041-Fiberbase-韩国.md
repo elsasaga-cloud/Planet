@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-11 | 去 | A/S 群发 | Managed Optical Bypass Switch、90W PoE Managed Switch | 35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-11（35 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 买的MC 全都是Diva这个牌子 公司：MC POE switch 机架 光猫；https://fiberbase-net.com/default/product/sub2.php https://www.fiberbase-net.com | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Managed Optical Bypass Switch、90W PoE Managed Switch | 35 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

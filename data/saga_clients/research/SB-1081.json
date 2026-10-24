@@ -1,134 +1,134 @@
 {
- "code": "SB-1081",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mse.com.tw，快照 2026-10-21）",
- "summary": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
- "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
-   "url": "https://www.mse.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "多年专注 PoE 与开关电源制造",
-   "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
-   "url": "https://www.mse.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE 商业 + 工业 + 配件，自有 logo",
-   "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Arthur",
-   "title": "（表内联系人）",
-   "email": "arthur@mse.com.tw",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "PoE 分离器 / 注入器 / 开关电源制造（OEM/ODM）",
-  "PoE 交换机（补线）"
- ],
- "channels": {
-  "role": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
-  "region": "台湾",
-  "contact": "arthur@mse.com.tw"
- },
- "signals": [
-  "官网：Ultra High Power PoE Splitter 80W、25W 12VDC 802.3at splitter",
-  "站内 kw：poe 556 / oem 18 / odm 14；认证词 EN50155 / EN60945 / UL497B"
- ],
- "risks": [
-  "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
-  "台湾厂商：OEM 口径，19 次无回复",
-  "非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）"
- },
- "email_hook": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 arthur@mse.com.tw；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
-   "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "台湾 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22；用户表：「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；研究档 risks：主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小"
-  },
-  "situation": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
-  "need": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
-  "breakpoint": "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "22 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1081",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mse.com.tw，快照 2026-10-21）",
+  "summary": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
+  "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：PoE manufacturer, Power over Ethernet - MSTronic Co. Ltd.；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
+      "url": "https://www.mse.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "多年专注 PoE 与开关电源制造",
+      "quote": "MSTronic Co. Ltd. has been specializing in producing Power over Ethernet (PoE) and Switching Power Supply for many years, offering the most PoE solutions in the world.",
+      "url": "https://www.mse.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 商业 + 工业 + 配件，自有 logo",
+      "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Arthur",
+      "title": "（表内联系人）",
+      "email": "arthur@mse.com.tw",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "台湾",
+    "other": "官网 mse.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "PoE 分离器 / 注入器 / 开关电源制造（OEM/ODM）",
+    "PoE 交换机（补线）"
+  ],
+  "channels": {
+    "role": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
+    "region": "台湾",
+    "contact": "arthur@mse.com.tw"
+  },
+  "signals": [
+    "官网：Ultra High Power PoE Splitter 80W、25W 12VDC 802.3at splitter",
+    "站内 kw：poe 556 / oem 18 / odm 14；认证词 EN50155 / EN60945 / UL497B"
+  ],
+  "risks": [
+    "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
+    "台湾厂商：OEM 口径，19 次无回复",
+    "非主攻区（T5）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）"
+  },
+  "email_hook": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 arthur@mse.com.tw；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+      "type": "台湾 PoE 配件制造商（交换机为补线，OEM 采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "台湾 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22；用户表：「主要是POE 商业 工业 配件 自己的logo 工业白色外壳」；研究档 risks：主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小"
+    },
+    "situation": "台湾 MSTronic Co., Ltd.（PoE 制造商：PoE 分离器 / 注入器 / 开关电源，「offering the most PoE solutions in the world」，OEM/ODM 词频 18/14；站内 EN50155 / EN60945 / UL497B；表内「主要是 PoE 商业 + 工业 + 配件，自己的 logo，工业白色外壳」；KP Arthur（arthur@））；群发 19 次无回复。",
+    "need": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
+    "breakpoint": "主业为 PoE 电源/分离器（Saga 不做，Q-32 配件缺口）：交换机只是补线，量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "主业 PoE 电源/分离器，交换机为补充线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MSTronic 标；工业位 STI-288GP；Saga 不做其主业（注入器/分离器，Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Arthur, to round out your PoE power range, we can supply Marvell-based 8-port PoE+ L2+ switches and DIN-rail 8-PoE industrial switches under your label from small lots — would a switch line next to your splitters and injectors make sense, and which port count first?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+        "why": "22 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-10（22 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是POE 商业 工业 配件 自己的logo 工业白色外壳",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,150 +1,150 @@
 {
- "code": "SA-075",
- "name_official": "DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）",
- "website_status": "在线",
- "summary": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
- "type": "安防集成/项目商",
- "size": "小型（待补证）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "CEO 直接沟通；兴趣点为 IP67 户外交换机与 OEM；已报价 $80；之后 0 回复 / 7 次推送",
-   "quote": "Daniel Rupp / CEO；police projects；IP67 interest；OEM ask；$80 quote（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网 Impressum",
-   "claim": "法人、登记、代表",
-   "quote": "DESK SICHERHEIT GmbH Roonstraße 25 76137 Karlsruhe Handelsregister: 717686 Registergericht: Mannheim Vertreten durch: Daniel Rupp Kontakt Telefon: 072182101964 E-Mail: info@desk-sicherheit.de … DESK Sicherheit verbindet klassischen Sicherheitsdienst mit intelligenter Videoüberwachung, KI-Videoanalyse, moderner Sicherheitstechnik und Drohnenabwehr.",
-   "url": "https://desk-sicherheit.de/impressum",
-   "date": "2023-07-14"
-  },
-  {
-   "kind": "官网新闻",
-   "claim": "CEO 公开直邮",
-   "quote": "DESK SICHERHEIT GmbH Daniel Rupp – CEO Telefon: +49 721 1812642-0 | +49 173 1590372 E-Mail: dr@desk-sicherheit.de",
-   "url": "https://desk-sicherheit.de/news/physische-penetrationstest",
-   "date": "2025-04-15"
-  },
-  {
-   "kind": "登记",
-   "claim": "UG→GmbH、注册资本",
-   "quote": "Desk Sicherheit GmbH 28.12.2022 Geschäftsführer: Daniel Salim Rupp · Kapital: 25.000 € … 22.02.2017 als Desk Sicherheit UG",
-   "url": "https://www.northdata.de/Rupp,%20Daniel%20Salim,%20Karlsruhe/ptu",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "展会互动：警方项目、IP67、$80 报价、OEM、样品；7 次推送 0 回复",
-   "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Daniel Rupp",
-   "role": "CEO",
-   "email": "dr@desk-sicherheit.de",
-   "phone": "",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Daniel Salim Rupp",
-   "role": "CEO / Geschäftsführer（Impressum + 新闻稿公开）",
-   "email": "dr@desk-sicherheit.de（官网新闻稿公开）",
-   "phone": "+49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）",
-   "source": "https://desk-sicherheit.de/news/physische-penetrationstest"
-  }
- ],
- "grade_override": "B",
- "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
- "notes": "若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（Impressum + 登记核对）"
- },
- "company_facts": {
-  "legal_name": "DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315）",
-  "founded": "2017-02-22（UG）→ 2022-12 GmbH",
-  "hq": "Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de）",
-  "size": "小型（注册资本 €25k；人数待核）",
-  "other": "CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店"
- },
- "business_lines": [
-  "安保勤务（Sicherheitsdienst）",
-  "视频监控 / KI 视频分析 / 安防技术集成",
-  "无人机巡检与反无人机、物理渗透测试"
- ],
- "channels": {
-  "网站": "https://desk-sicherheit.de/",
-  "电话": "+49 721 1812642-0（新闻稿公开）",
-  "邮箱（公开）": "info@desk-sicherheit.de；dr@desk-sicherheit.de（新闻稿公开 CEO 直邮）"
- },
- "signals": [
-  "项目型采购（警方/数据中心周界）→ 户外柜 DIN 工业 PoE（IP40）+ 户外防水箱方案可替代 IP67 需求",
-  "曾问 OEM 与样品 → 对贴牌开放"
- ],
- "risks": [
-  "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67"
- },
- "email_hook": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 dr@desk-sicherheit.de；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）",
-   "type": "安防集成/项目商",
-   "sieve": "1（只收到群发）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15；用户表：「和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67」；研究档 risks：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
-  },
-  "situation": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
-  "need": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
-  "breakpoint": "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
-    "why": "15 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-075",
+  "name_official": "DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）",
+  "website_status": "在线",
+  "summary": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
+  "type": "安防集成/项目商",
+  "size": "小型（待补证）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "CEO 直接沟通；兴趣点为 IP67 户外交换机与 OEM；已报价 $80；之后 0 回复 / 7 次推送",
+      "quote": "Daniel Rupp / CEO；police projects；IP67 interest；OEM ask；$80 quote（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网 Impressum",
+      "claim": "法人、登记、代表",
+      "quote": "DESK SICHERHEIT GmbH Roonstraße 25 76137 Karlsruhe Handelsregister: 717686 Registergericht: Mannheim Vertreten durch: Daniel Rupp Kontakt Telefon: 072182101964 E-Mail: info@desk-sicherheit.de … DESK Sicherheit verbindet klassischen Sicherheitsdienst mit intelligenter Videoüberwachung, KI-Videoanalyse, moderner Sicherheitstechnik und Drohnenabwehr.",
+      "url": "https://desk-sicherheit.de/impressum",
+      "date": "2023-07-14"
+    },
+    {
+      "kind": "官网新闻",
+      "claim": "CEO 公开直邮",
+      "quote": "DESK SICHERHEIT GmbH Daniel Rupp – CEO Telefon: +49 721 1812642-0 | +49 173 1590372 E-Mail: dr@desk-sicherheit.de",
+      "url": "https://desk-sicherheit.de/news/physische-penetrationstest",
+      "date": "2025-04-15"
+    },
+    {
+      "kind": "登记",
+      "claim": "UG→GmbH、注册资本",
+      "quote": "Desk Sicherheit GmbH 28.12.2022 Geschäftsführer: Daniel Salim Rupp · Kapital: 25.000 € … 22.02.2017 als Desk Sicherheit UG",
+      "url": "https://www.northdata.de/Rupp,%20Daniel%20Salim,%20Karlsruhe/ptu",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "展会互动：警方项目、IP67、$80 报价、OEM、样品；7 次推送 0 回复",
+      "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Daniel Rupp",
+      "role": "CEO",
+      "email": "dr@desk-sicherheit.de",
+      "phone": "",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Daniel Salim Rupp",
+      "role": "CEO / Geschäftsführer（Impressum + 新闻稿公开）",
+      "email": "dr@desk-sicherheit.de（官网新闻稿公开）",
+      "phone": "+49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）",
+      "source": "https://desk-sicherheit.de/news/physische-penetrationstest"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
+  "notes": "若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（Impressum + 登记核对）"
+  },
+  "company_facts": {
+    "legal_name": "DESK Sicherheit GmbH（HRB 717686 Amtsgericht Mannheim；USt-ID DE291361315）",
+    "founded": "2017-02-22（UG）→ 2022-12 GmbH",
+    "hq": "Roonstraße 25, 76137 Karlsruhe, Germany（+49 721 82101964；info@desk-sicherheit.de）",
+    "size": "小型（注册资本 €25k；人数待核）",
+    "other": "CEO Daniel Salim Rupp（2013 起）；业务含反无人机、渗透测试；网店"
+  },
+  "business_lines": [
+    "安保勤务（Sicherheitsdienst）",
+    "视频监控 / KI 视频分析 / 安防技术集成",
+    "无人机巡检与反无人机、物理渗透测试"
+  ],
+  "channels": {
+    "网站": "https://desk-sicherheit.de/",
+    "电话": "+49 721 1812642-0（新闻稿公开）",
+    "邮箱（公开）": "info@desk-sicherheit.de；dr@desk-sicherheit.de（新闻稿公开 CEO 直邮）"
+  },
+  "signals": [
+    "项目型采购（警方/数据中心周界）→ 户外柜 DIN 工业 PoE（IP40）+ 户外防水箱方案可替代 IP67 需求",
+    "曾问 OEM 与样品 → 对贴牌开放"
+  ],
+  "risks": [
+    "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67"
+  },
+  "email_hook": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 dr@desk-sicherheit.de；主题多为「10G Enterprise SFP Switch、8 Port Industrial PoE Switch」）",
+      "type": "安防集成/项目商",
+      "sieve": "1（只收到群发）",
+      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 15；用户表：「和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67」；研究档 risks：Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复"
+    },
+    "situation": "德国卡尔斯鲁厄的安保服务 + 安防技术公司 DESK Sicherheit GmbH（2017-02 以 UG 注册、2022-12 转 GmbH，注册资本 €25,000；HRB 717686；CEO Daniel Salim Rupp，前联邦国防军；业务：安保勤务、视频监控/AI 视频分析、安防技术、无人机巡检与反无人机、物理渗透测试；自称服务数据中心、银行与集团客户，网店 shop.desk-sicherheit.de）。展会（埃森 2024）记录：CEO 直接沟通，与当地警方有项目联系，关注 IP67 户外交换机（布线 60–80 m），曾被报 $80/台，问 OEM 与样品；7 次推送 0 回复。Saga 无 IP67 机型——仅在需求转为机柜/IP40 DIN 工业 PoE 时重启。",
+    "need": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
+    "breakpoint": "Saga 无 IP67 机型（不要承诺）；警务/公共项目守界按个案；7 次推送 0 回复",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，IP40，−40~+75 ℃，$145.7）置于 IP66 户外箱替代 IP67 整机；非管理 STI-288GP（$59.8）；明示无 IP67",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Herr Rupp, for the 60–80 m outdoor camera runs you described in Essen: we do not build IP67 switches, but the DIN-rail 8-port PoE+ managed unit (IP40, −40 to +75 °C, $145.7 EXW) fitted in an IP66 pole box is what our integrators use — would a sample of that configuration help your next police-site tender?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+        "why": "15 封 / 0 次打开 / 0 回｜首封 2025-04-14 → 末封 2026-09-24（15 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

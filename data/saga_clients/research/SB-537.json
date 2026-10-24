@@ -90,20 +90,20 @@
     },
     "facts": [
       {
+        "date": "2025-12-12",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
+        "why": "14 封 / 3 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-12-12（14 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2025",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "48 Port PoE Managed Switch、Mini Industrial PoE Switch",
-        "why": "14 封 / 3 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

@@ -151,8 +151,8 @@
     "next_move": {
       "when": "按 Simon WA 节奏",
       "channel": "WhatsApp",
-      "action": "—",
-      "one_question": ""
+      "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+      "one_question": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
     },
     "facts": [
       {

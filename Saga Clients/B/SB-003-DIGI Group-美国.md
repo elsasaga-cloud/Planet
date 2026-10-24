@@ -289,9 +289,9 @@ Hi, Stan,
 
 You asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:
 
-- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)
-- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — list $137.5 USD, OEM tier on the sheet
-- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — list $423.5 / $517 USD, OEM tier on the sheet
+- STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD EXW/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)
+- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — list $137 EXW.5 USD, OEM tier on the sheet
+- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — list $423 EXW.5 / $517 USD EXW, OEM tier on the sheet
 
 All three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.
 

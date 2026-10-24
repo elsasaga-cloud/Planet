@@ -1,125 +1,125 @@
 {
- "code": "SB-050",
- "name_official": "IZUX（瓦伦西亚）",
- "researched_at": "2026-10-21",
- "website_status": "在线（izux.es，快照 2026-10-21，西语）",
- "summary": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "ONV",
-  "Hikvision",
-  "Dahua",
-  "Uniview",
-  "Ajax"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "安防摄像机、AJAX 报警、可视门铃、门禁、电子锁电商；品牌 Hikvision / Dahua / Uniview / Ajax；+34 963 320 337",
-   "quote": "Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso… brands Hikvision, Dahua, Uniview, Ajax",
-   "url": "https://izux.es/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮",
-   "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Igor Guimerá",
-   "title": "Manager",
-   "email": "comercial@izux.es",
-   "phone": "+34 963 320 337",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "IZUX（待核）",
-  "founded": "",
-  "hq": "Valencia, Spain",
-  "size": "中小型安防电商",
-  "other": "已售 ONV 商用 PoE"
- },
- "business_lines": [
-  "安防电商"
- ],
- "channels": {
-  "role": "电商（已售 ONV）",
-  "region": "西班牙"
- },
- "signals": [
-  "已售 ONV → 同类替换",
-  "Manager 具名"
- ],
- "risks": [
-  "6 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
- },
- "email_hook": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复"
-  },
-  "situation": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
-  "need": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-  "breakpoint": "6 次群发无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Managed Optical Bypass Switch、24 Port PoE Managed Switch",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-050",
+  "name_official": "IZUX（瓦伦西亚）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（izux.es，快照 2026-10-21，西语）",
+  "summary": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "ONV",
+    "Hikvision",
+    "Dahua",
+    "Uniview",
+    "Ajax"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "安防摄像机、AJAX 报警、可视门铃、门禁、电子锁电商；品牌 Hikvision / Dahua / Uniview / Ajax；+34 963 320 337",
+      "quote": "Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso… brands Hikvision, Dahua, Uniview, Ajax",
+      "url": "https://izux.es/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 POE CCTV 为主 很多配件 有 ONV 的；网站上有 WA 按钮",
+      "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Igor Guimerá",
+      "title": "Manager",
+      "email": "comercial@izux.es",
+      "phone": "+34 963 320 337",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "IZUX（待核）",
+    "founded": "",
+    "hq": "Valencia, Spain",
+    "size": "中小型安防电商",
+    "other": "已售 ONV 商用 PoE"
+  },
+  "business_lines": [
+    "安防电商"
+  ],
+  "channels": {
+    "role": "电商（已售 ONV）",
+    "region": "西班牙"
+  },
+  "signals": [
+    "已售 ONV → 同类替换",
+    "Manager 具名"
+  ],
+  "risks": [
+    "6 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+  },
+  "email_hook": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 comercial@izux.es；主题多为「Managed Optical Bypass Switch、24 Port PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "西班牙（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「兴趣：商业POE CCTV为主 很多配件 有ONV的」；研究档 risks：6 次群发无回复"
+    },
+    "situation": "西班牙瓦伦西亚安防电商（摄像机、AJAX 报警、可视门铃、门禁、酒店锁；Hikvision、Dahua、Uniview、Ajax；poe 260 / switch 167 / sfp 73；+34 963 320 337），Manager Igor Guimerá；表内「商用 PoE，CCTV 为主很多配件，有 ONV 的」；群发 6 次无回复。",
+    "need": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+    "breakpoint": "6 次群发无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位 ONV 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Igor, junto a los switches ONV que vendéis — 8 PoE + 2 SFP L2+ (Marvell) a $81 y 24 PoE a $135 EXW, caja neutra y fichas CE; ¿probamos 2 unidades para la tienda?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-30",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Managed Optical Bypass Switch、24 Port PoE Managed Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-30（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

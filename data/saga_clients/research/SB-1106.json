@@ -1,125 +1,125 @@
 {
- "code": "SB-1106",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（b-plus.com，快照 2026-10-21）",
- "summary": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
- "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
-   "url": "https://www.b-plus.com/de/home",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "b-plus：自动驾驶与移动机械开发伙伴",
-   "quote": "Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 ; b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
-   "url": "https://www.b-plus.com/de/home",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 周边产品，可着重跟",
-   "quote": "工业FS 周边产品；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "自动驾驶/ADAS 数据采集与存储工具",
-  "移动机械自动化"
- ],
- "channels": {
-  "role": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
-  "region": "德国",
-  "contact": "services@b-plus.com"
- },
- "signals": [
-  "官网：b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben",
-  "站内 kw：10g 39 / ethernet 53 / sfp 17；IEC62443-4-2 / QSFP28"
- ],
- "risks": [
-  "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
-  "15 次无回复，仅 services@，无具名 KP；用户表「可以着重跟一下」但产品错位"
- ],
- "saga_fit": {
-  "p1": "STI-488XGGPM",
-  "tier": 25,
-  "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低"
- },
- "email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
-   "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「工业FS 周边产品」；研究档 risks：车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈"
-  },
-  "situation": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
-  "need": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
-  "breakpoint": "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
-  "saga_now": {
-   "p1": "STI-488XGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Marvell Alleycat5 Solution",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1106",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（b-plus.com，快照 2026-10-21）",
+  "summary": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+  "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+      "url": "https://www.b-plus.com/de/home",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "b-plus：自动驾驶与移动机械开发伙伴",
+      "quote": "Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 ; b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben.",
+      "url": "https://www.b-plus.com/de/home",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 周边产品，可着重跟",
+      "quote": "工业FS 周边产品；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "自动驾驶/ADAS 数据采集与存储工具",
+    "移动机械自动化"
+  ],
+  "channels": {
+    "role": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
+    "region": "德国",
+    "contact": "services@b-plus.com"
+  },
+  "signals": [
+    "官网：b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben",
+    "站内 kw：10g 39 / ethernet 53 / sfp 17；IEC62443-4-2 / QSFP28"
+  ],
+  "risks": [
+    "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
+    "15 次无回复，仅 services@，无具名 KP；用户表「可以着重跟一下」但产品错位"
+  ],
+  "saga_fit": {
+    "p1": "STI-488XGGPM",
+    "tier": 25,
+    "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低"
+  },
+  "email_hook": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 services@b-plus.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）",
+      "type": "汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「工业FS 周边产品」；研究档 risks：车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈"
+    },
+    "situation": "德国 b-plus 集团（1996 年起「新出行」开发伙伴：自动驾驶/ADAS 与移动机械自动化的数据采集、分析与存储工具，车载 10G/25G 以太网、IEC 62443；表内「工业 FS 周边产品」「可以着重跟一下」）；群发 15 次无回复。",
+    "need": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
+    "breakpoint": "车载/自动驾驶测试设备：Saga 无 E-mark/车规，仅实验室网络可谈",
+    "saga_now": {
+      "p1": "STI-488XGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "主业车载数据记录（E-mark/车规 Saga 不做）→ 仅实验室/台架网络位：工业 8 PoE + 4×10G STI-488XGGPM（$178.7 @30% 档价参考，此处 25%）、STI-280GE；预期低",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?"
+    },
+    "facts": [
+      {
+        "date": "2026-03-06",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Marvell Alleycat5 Solution",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-03-06（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

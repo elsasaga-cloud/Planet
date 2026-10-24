@@ -97,20 +97,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
+        "why": "34 封 / 5 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-28（34 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：工商业switch都有 POE交换机问了芯片，Gpon，Epon",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Alleycat5 Solution、Managed Optical Bypass Switch",
-        "why": "34 封 / 5 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

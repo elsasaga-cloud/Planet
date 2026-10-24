@@ -1,136 +1,136 @@
 {
- "code": "SB-456",
- "name_official": "Austec Communications（澳大利亚昆士兰）",
- "researched_at": "2026-10-21",
- "website_status": "在线（austec.net，快照 2026-10-21）",
- "summary": "澳大利亚昆士兰 Toorbul（1300 663 442）通信设备分销商：CCTV（Dahua）、网络交换机（含 **ONV** 工业 PoE ONV-IPS31108PFB）、Teltonika 工业路由、Cambium、D-Link、紧急求助电话 Teltek 系列；表内「ONV 的工业 FS 比较少，有兴趣」；11 次跟进无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "ONV",
-  "Dahua",
-  "Cambium",
-  "D-Link",
-  "Teltonika"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "品牌 Dahua / Cambium / D-Link / ONV / Teltonika；型号 ONV-IPS31108PFB、RUT950；1025A Pumicestone Road, Toorbul QLD 4510；1300 663 442；关键词 industrial 27 / camera 30 / switch 25",
-   "quote": "brands Dahua, Cambium, D-Link, ONV, Teltonika; models ONV-IPS31108PFB, RUT950… 1025A Pumicestone Road, Toorbul QLD 4510 1300 663 442 sales@austec.net",
-   "url": "https://www.austec.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV 的工业 FS 比较少；有兴趣",
-   "quote": "兴趣：ONV的工业FS 比较少",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（销售）",
-   "title": "Sales",
-   "email": "sales@austec.net",
-   "phone": "+61 1300 663 442",
-   "source": "https://www.austec.net/"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：ONV 替换）"
- },
- "company_facts": {
-  "legal_name": "Austec Communications Pty Ltd（待核）",
-  "founded": "（待核）",
-  "hq": "1025A Pumicestone Road, Toorbul QLD 4510, Australia",
-  "size": "小型通信分销 / 电商",
-  "other": "紧急求助电话自有系列 Teltek"
- },
- "business_lines": [
-  "CCTV / 网络交换机 / 工业路由分销",
-  "紧急求助电话 Teltek"
- ],
- "products_seen": [
-  {
-   "brand": "ONV",
-   "model": "ONV-IPS31108PFB",
-   "spec": "工业 8 PoE + 2 SFP（推断）",
-   "saga": "Saga STI-288GP（$57.4 @20%）",
-   "url": "https://www.austec.net/products/networking/network-switches/",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "role": "分销商 / 电商（已售 ONV）",
-  "region": "澳大利亚"
- },
- "signals": [
-  "已售 ONV 工业 PoE → 同类可替换 / 补充",
-  "有兴趣（表内）"
- ],
- "risks": [
-  "澳洲 RCM；无具名联系人"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。"
- },
- "email_hook": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@austec.net；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22；用户表：「兴趣：ONV的工业FS 比较少」；研究档 risks：澳洲 RCM；无具名联系人"
-  },
-  "situation": "澳大利亚昆士兰 Toorbul（1300 663 442）通信设备分销商：CCTV（Dahua）、网络交换机（含 **ONV** 工业 PoE ONV-IPS31108PFB）、Teltonika 工业路由、Cambium、D-Link、紧急求助电话 Teltek 系列；表内「ONV 的工业 FS 比较少，有兴趣」；11 次跟进无实质回复。",
-  "need": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。",
-  "breakpoint": "澳洲 RCM；无具名联系人",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：ONV的工业FS 比较少",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
-    "why": "22 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-456",
+  "name_official": "Austec Communications（澳大利亚昆士兰）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（austec.net，快照 2026-10-21）",
+  "summary": "澳大利亚昆士兰 Toorbul（1300 663 442）通信设备分销商：CCTV（Dahua）、网络交换机（含 **ONV** 工业 PoE ONV-IPS31108PFB）、Teltonika 工业路由、Cambium、D-Link、紧急求助电话 Teltek 系列；表内「ONV 的工业 FS 比较少，有兴趣」；11 次跟进无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "ONV",
+    "Dahua",
+    "Cambium",
+    "D-Link",
+    "Teltonika"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "品牌 Dahua / Cambium / D-Link / ONV / Teltonika；型号 ONV-IPS31108PFB、RUT950；1025A Pumicestone Road, Toorbul QLD 4510；1300 663 442；关键词 industrial 27 / camera 30 / switch 25",
+      "quote": "brands Dahua, Cambium, D-Link, ONV, Teltonika; models ONV-IPS31108PFB, RUT950… 1025A Pumicestone Road, Toorbul QLD 4510 1300 663 442 sales@austec.net",
+      "url": "https://www.austec.net/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ONV 的工业 FS 比较少；有兴趣",
+      "quote": "兴趣：ONV的工业FS 比较少",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（销售）",
+      "title": "Sales",
+      "email": "sales@austec.net",
+      "phone": "+61 1300 663 442",
+      "source": "https://www.austec.net/"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对：ONV 替换）"
+  },
+  "company_facts": {
+    "legal_name": "Austec Communications Pty Ltd（待核）",
+    "founded": "（待核）",
+    "hq": "1025A Pumicestone Road, Toorbul QLD 4510, Australia",
+    "size": "小型通信分销 / 电商",
+    "other": "紧急求助电话自有系列 Teltek"
+  },
+  "business_lines": [
+    "CCTV / 网络交换机 / 工业路由分销",
+    "紧急求助电话 Teltek"
+  ],
+  "products_seen": [
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS31108PFB",
+      "spec": "工业 8 PoE + 2 SFP（推断）",
+      "saga": "Saga STI-288GP（$57.4 @20%）",
+      "url": "https://www.austec.net/products/networking/network-switches/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "分销商 / 电商（已售 ONV）",
+    "region": "澳大利亚"
+  },
+  "signals": [
+    "已售 ONV 工业 PoE → 同类可替换 / 补充",
+    "有兴趣（表内）"
+  ],
+  "risks": [
+    "澳洲 RCM；无具名联系人"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。"
+  },
+  "email_hook": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 22 封 2025→2026，无记录打开，0 回；收件 sales@austec.net；主题多为「8 Port Industrial PoE Switch、Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22；用户表：「兴趣：ONV的工业FS 比较少」；研究档 risks：澳洲 RCM；无具名联系人"
+    },
+    "situation": "澳大利亚昆士兰 Toorbul（1300 663 442）通信设备分销商：CCTV（Dahua）、网络交换机（含 **ONV** 工业 PoE ONV-IPS31108PFB）、Teltonika 工业路由、Cambium、D-Link、紧急求助电话 Teltek 系列；表内「ONV 的工业 FS 比较少，有兴趣」；11 次跟进无实质回复。",
+    "need": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。",
+    "breakpoint": "澳洲 RCM；无具名联系人",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位 ONV-IPS31108PFB → STI-288GP（$57.4 @20%）；管理型 STI-288GPM。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Next to the ONV-IPS31108PFB you list — our 2-SFP + 8-PoE DIN unit is $57 EXW (managed Marvell version $79), CE/FCC/RoHS, 2-year warranty; shall I send a sample to Toorbul for comparison?"
+    },
+    "facts": [
+      {
+        "date": "2026-08-26",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "8 Port Industrial PoE Switch、Industrial PoE Switch",
+        "why": "22 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-08-26（22 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：ONV的工业FS 比较少",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

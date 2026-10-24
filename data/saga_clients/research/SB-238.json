@@ -1,140 +1,140 @@
 {
- "code": "SB-238",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sisav.it，快照 2026-10-21）",
- "summary": "意大利 SisAv – Sistemi Avanzati Elettronici（工业与过程自动化产品供应：工业 PC / 面板 PC / 现场总线 / PoE 方案专题；站内 MIL-STD-810G / EN50155 加固 PC 词；表内「switch / MC」；KP Chiara Beriachetto（Account & Technical Manager，c.beriachetto@）、Ilaria Cianciola（Marketing））；群发 6 次无回复。",
- "type": "工业自动化产品分销商（意大利）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：SisAv；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Technology together",
-   "url": "https://www.sisav.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "为工业与过程自动化提供最佳产品",
-   "quote": "SisAv - SISTEMI AVANZATI ELETTRONICI ; Forniamo i migliori prodotti per l’automazione industriale e di processo.",
-   "url": "https://www.sisav.it/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch / MC",
-   "quote": "switch MC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Chiara Beriachetto",
-   "title": "Account & Technical Manager",
-   "email": "c.beriachetto@sisav.it",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Ilaria Cianciola",
-   "title": "Marketing Specialist",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业与过程自动化产品（工业 PC / 面板 PC / 现场总线 / 网络）"
- ],
- "channels": {
-  "role": "工业自动化产品分销商（意大利）",
-  "region": "意大利",
-  "contact": "info@sisav.it、c.beriachetto@sisav.it"
- },
- "signals": [
-  "官网：Forniamo i migliori prodotti per l’automazione industriale e di processo",
-  "专题页 /approfondimento/sistema-poe-uso-e-vantaggi-produttivi/、/bus-di-campo-…",
-  "KP：Chiara Beriachetto / Account & Technical Manager；Ilaria Cianciola / Marketing Specialist（表内）"
- ],
- "risks": [
-  "加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化",
-  "群发 6 次无回复：改向 Account & Technical Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报"
- },
- "email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
-   "type": "工业自动化产品分销商（意大利）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「switch MC」；研究档 risks：加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化"
-  },
-  "situation": "意大利 SisAv – Sistemi Avanzati Elettronici（工业与过程自动化产品供应：工业 PC / 面板 PC / 现场总线 / PoE 方案专题；站内 MIL-STD-810G / EN50155 加固 PC 词；表内「switch / MC」；KP Chiara Beriachetto（Account & Technical Manager，c.beriachetto@）、Ilaria Cianciola（Marketing））；群发 6 次无回复。",
-  "need": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报",
-  "breakpoint": "加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch MC",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-238",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sisav.it，快照 2026-10-21）",
+  "summary": "意大利 SisAv – Sistemi Avanzati Elettronici（工业与过程自动化产品供应：工业 PC / 面板 PC / 现场总线 / PoE 方案专题；站内 MIL-STD-810G / EN50155 加固 PC 词；表内「switch / MC」；KP Chiara Beriachetto（Account & Technical Manager，c.beriachetto@）、Ilaria Cianciola（Marketing））；群发 6 次无回复。",
+  "type": "工业自动化产品分销商（意大利）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：SisAv；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Technology together",
+      "url": "https://www.sisav.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "为工业与过程自动化提供最佳产品",
+      "quote": "SisAv - SISTEMI AVANZATI ELETTRONICI ; Forniamo i migliori prodotti per l’automazione industriale e di processo.",
+      "url": "https://www.sisav.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch / MC",
+      "quote": "switch MC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Chiara Beriachetto",
+      "title": "Account & Technical Manager",
+      "email": "c.beriachetto@sisav.it",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Ilaria Cianciola",
+      "title": "Marketing Specialist",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 sisav.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业与过程自动化产品（工业 PC / 面板 PC / 现场总线 / 网络）"
+  ],
+  "channels": {
+    "role": "工业自动化产品分销商（意大利）",
+    "region": "意大利",
+    "contact": "info@sisav.it、c.beriachetto@sisav.it"
+  },
+  "signals": [
+    "官网：Forniamo i migliori prodotti per l’automazione industriale e di processo",
+    "专题页 /approfondimento/sistema-poe-uso-e-vantaggi-produttivi/、/bus-di-campo-…",
+    "KP：Chiara Beriachetto / Account & Technical Manager；Ilaria Cianciola / Marketing Specialist（表内）"
+  ],
+  "risks": [
+    "加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化",
+    "群发 6 次无回复：改向 Account & Technical Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报"
+  },
+  "email_hook": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2025→2026，无记录打开，0 回；收件 c.beriachetto@sisav.it, i.cianciola@sisav.it；主题多为「Industrial PoE Switch、16 Port Ethernet Switch」）",
+      "type": "工业自动化产品分销商（意大利）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「switch MC」；研究档 risks：加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化"
+    },
+    "situation": "意大利 SisAv – Sistemi Avanzati Elettronici（工业与过程自动化产品供应：工业 PC / 面板 PC / 现场总线 / PoE 方案专题；站内 MIL-STD-810G / EN50155 加固 PC 词；表内「switch / MC」；KP Chiara Beriachetto（Account & Technical Manager，c.beriachetto@）、Ilaria Cianciola（Marketing））；群发 6 次无回复。",
+    "need": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报",
+    "breakpoint": "加固 PC 含 MIL-STD / EN50155 场景：Saga 不做军用/轨道，只报工厂自动化",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业自动化配套网络 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 非 PoE STI-280GE；MC 位 STI-110GE；加固/轨道（EN50155）场景不报",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Chiara, for the networking items alongside your industrial and panel PCs, we supply Marvell-based DIN-rail 8-port PoE and gigabit industrial switches plus gigabit media converters (−40~75 °C, neutral packing) from small lots — is PoE or non-PoE the more common request from your automation customers?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-08",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、16 Port Ethernet Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-10-08（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch MC",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -96,19 +96,11 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：SFP, MC, switch, router；回复：price",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2024",
+        "date": "2024-08-09",
         "dir": "去",
         "who": "S 群发",
         "quote": "Industrial PoE Switch、10G media converter",
-        "why": "3 封 / 0 次打开 / 0 回",
+        "why": "3 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2024-08-09（3 去 / 0 来）",
         "k": "gmail_digest"
       },
       {
@@ -118,6 +110,14 @@
         "quote": "Price pls",
         "why": "Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价",
         "k": "gmail_e"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：SFP, MC, switch, router；回复：price",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
     "proof_gaps": [

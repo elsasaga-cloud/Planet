@@ -55,8 +55,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-01-21 | 去 | S 群发 | PoE Switch、48 port managed switch | 6 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2025-01-21（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/k | 表内备注 | `用户表` |
-| 2025 | 去 | S 群发 | PoE Switch、48 port managed switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

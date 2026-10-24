@@ -138,20 +138,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-24",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "46 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-08-24（46 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "工商业FS 自己的logo 有人在卖他们的；普通POE FS AHD IP cameras 工业FS；产品上是自己的logo",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "46 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

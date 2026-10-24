@@ -53,7 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「85 https://io.hfcl.com/products/industrial-access-switch 印度 谷歌 商业FS 工业FS iosales@hfcl.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
-| 2025 | 去 | A/S 群发 | Marvell Alleycat5 Solution、poe managed switch | 9 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2025-03-03 | 去 | A/S 群发 | Marvell Alleycat5 Solution、poe managed switch | 9 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2025-03-03（9 去 / 0 来） | `gmail_digest` |
 | 2026-01-08 | 来 | Shantanu Rana（HFCL, DGM Key Strategic Accounts） | How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also. | Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂） | `gmail_e` |
 | 2026-01-08 | 去 | Elsa | About MII 2.1 Start with SKD units for initial testing 2.2 Progress to CKD if deeper localization is needed … Are you doing your own brand or just introducing some certain models for local projects?（附 STH100G Series.pdf / Saga Software Function List_EN_V2.4.pdf / Performance of PeakNetX Platform_EN_V3.1.pdf / CENTEC WEB UI.jpg） | Saga 对 MII 的正式口径 = SKD→CKD；这是对 HFCL 的承诺边界，Simon 需确认是否真能做 SKD | `gmail_e 19b9ce96044d34d2` |
 | 2026-04-03 | 来 | Shantanu Rana | Manufacturing country- Price- Model number IPR- Kindly share details | 四件套问法 = 真实采购评估清单 | `gmail_e` |

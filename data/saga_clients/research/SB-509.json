@@ -113,20 +113,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-11",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+        "why": "35 封 / 5 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-11（35 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "工业FS MC EOC 自己的标 也卖一些思科 HPE交换机；和Soltech有合作",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-        "why": "35 封 / 5 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

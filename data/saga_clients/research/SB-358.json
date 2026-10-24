@@ -1,111 +1,111 @@
 {
- "code": "SB-358",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
- "summary": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
- "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
- "size": "",
- "brands_seen": [
-  "丰润达"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "分销商 商业PoE 有润丰达的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "分销商 商业 PoE 有丰润达",
-   "quote": "分销商 商业PoE 有润丰达的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表"
- },
- "business_lines": [
-  "电气 / 安防产品批发（英国）"
- ],
- "channels": {
-  "role": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
-  "region": "英国",
-  "contact": "sales@hunters-wholesalers.co.uk"
- },
- "signals": [
-  "表内：分销商 商业 PoE 有润丰达的；可以多跟进一下",
-  "快照：timeout"
- ],
- "risks": [
-  "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
- },
- "email_hook": "For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 sales@hunters-wholesalers.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
-   "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 23；用户表：「分销商 商业PoE 有润丰达的」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
-  },
-  "situation": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
-  "need": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-  "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "分销商 商业PoE 有润丰达的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-    "why": "23 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-358",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（timeout）",
+  "summary": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
+  "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "丰润达"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "分销商 商业PoE 有润丰达的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "分销商 商业 PoE 有丰润达",
+      "quote": "分销商 商业PoE 有润丰达的；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 hunters-wholesalers.co.uk，语言 ?，快照状态 timeout；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "电气 / 安防产品批发（英国）"
+  ],
+  "channels": {
+    "role": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
+    "region": "英国",
+    "contact": "sales@hunters-wholesalers.co.uk"
+  },
+  "signals": [
+    "表内：分销商 商业 PoE 有润丰达的；可以多跟进一下",
+    "快照：timeout"
+  ],
+  "risks": [
+    "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
+  },
+  "email_hook": "For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 sales@hunters-wholesalers.co.uk；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
+      "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 23；用户表：「分销商 商业PoE 有润丰达的」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@"
+    },
+    "situation": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
+    "need": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+    "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；官网 timeout；16 次无回复，仅 sales@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+        "why": "23 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-18（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "分销商 商业PoE 有润丰达的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

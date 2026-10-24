@@ -1,133 +1,133 @@
 {
- "code": "SB-647",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（smol-electro.ru，快照 2026-10-21）",
- "summary": "俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。",
- "type": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
- "size": "",
- "brands_seen": [
-  "Siemens",
-  "丰润达"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск",
-   "quote": "Собственное производство электронагревателей . У нас вы можете получить профессиональную консультацию по подбору и установке оборудования.",
-   "url": "https://smol-electro.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск；品类词 网络交换 / PoE",
-   "quote": "Собственное производство электронагревателей . У нас вы можете получить профессиональную консультацию по подбору и установке оборудования.",
-   "url": "https://smol-electro.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ЭЛПРО 页面",
-   "quote": "Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск ; /kommutatory-s-podderzhkoj-poe",
-   "url": "https://smol-electro.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 丰润达的",
-   "quote": "商业POE；丰润达的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 smol-electro.ru，语言 ru，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "电加热器制造 / 电气产品经销（俄罗斯）"
- ],
- "channels": {
-  "role": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
-  "region": "俄罗斯",
-  "contact": "info@smol-electro.ru"
- },
- "signals": [
-  "官网：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск；页面 /kommutatory-s-podderzhkoj-poe、/kabel-i-kabelnaya-produktsiya",
-  "表内：商业 POE；丰润达的"
- ],
- "risks": [
-  "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
- },
- "email_hook": "For the PoE switch category on your site, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count do your customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@smol-electro.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
-   "type": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 21；用户表：「商业POE」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复"
-  },
-  "situation": "俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。",
-  "need": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
-  "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业POE",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "21 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-647",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（smol-electro.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。",
+  "type": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "Siemens",
+    "丰润达"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск",
+      "quote": "Собственное производство электронагревателей . У нас вы можете получить профессиональную консультацию по подбору и установке оборудования.",
+      "url": "https://smol-electro.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск；品类词 网络交换 / PoE",
+      "quote": "Собственное производство электронагревателей . У нас вы можете получить профессиональную консультацию по подбору и установке оборудования.",
+      "url": "https://smol-electro.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ЭЛПРО 页面",
+      "quote": "Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск ; /kommutatory-s-podderzhkoj-poe",
+      "url": "https://smol-electro.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 丰润达的",
+      "quote": "商业POE；丰润达的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 smol-electro.ru，语言 ru，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "电加热器制造 / 电气产品经销（俄罗斯）"
+  ],
+  "channels": {
+    "role": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
+    "region": "俄罗斯",
+    "contact": "info@smol-electro.ru"
+  },
+  "signals": [
+    "官网：Производство электронагревателей - ООО \"ЭЛПРО\", Смоленск；页面 /kommutatory-s-podderzhkoj-poe、/kabel-i-kabelnaya-produktsiya",
+    "表内：商业 POE；丰润达的"
+  ],
+  "risks": [
+    "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
+  },
+  "email_hook": "For the PoE switch category on your site, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count do your customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@smol-electro.ru；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+      "type": "电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 21；用户表：「商业POE」；研究档 risks：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复"
+    },
+    "situation": "俄罗斯 ООО «ЭЛПРО»（smol-electro.ru，斯摩棱斯克：自产电加热器，站内另有 PoE 交换机、线缆、LED 产品分类；表内「商业 PoE，丰润达的」→ Q-33 口径）；群发 17 次无回复。",
+    "need": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+    "breakpoint": "Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；主业电加热器（PoE 为副线）；俄罗斯：结算/物流/合规风险；17 次无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-08-25",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "21 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-08-25（21 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业POE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

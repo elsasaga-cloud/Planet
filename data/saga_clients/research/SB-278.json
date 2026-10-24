@@ -131,20 +131,20 @@
     },
     "facts": [
       {
+        "date": "2024-12-10",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch",
+        "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2024",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial PoE Switch",
-        "why": "1 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

@@ -134,20 +134,20 @@
     },
     "facts": [
       {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+        "why": "13 封 / 1 次打开 / 0 回｜首封 2025-08-25 → 末封 2026-10-01（13 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "安防 networking；一些小有名气的牌子",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-        "why": "13 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

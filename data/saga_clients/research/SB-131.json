@@ -100,20 +100,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、90W PoE Managed Switch",
+        "why": "14 封 / 1 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-09-14（14 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-        "why": "14 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

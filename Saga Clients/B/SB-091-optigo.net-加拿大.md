@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-03-06 | 去 | A 群发 | Mini Industrial PoE Switch、24 Port Fiber Switch | 7 封 / 0 次打开 / 0 回｜首封 2025-08-26 → 末封 2026-03-06（7 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的品牌 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | Mini Industrial PoE Switch、24 Port Fiber Switch | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

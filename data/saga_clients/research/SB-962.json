@@ -1,117 +1,117 @@
 {
- "code": "SB-962",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nextlan.cz，快照 2026-10-21）",
- "summary": "捷克 Nextlan（早期 AI：捷克网络设备分销商，交换机为核心产品之一；nextlan.cz 现快照为会计服务站 dgaccounting.cz（域名易主，site_mismatch，经营状态待核）；电话加不上）；群发 19 次无回复。",
- "type": "网络设备分销商（捷克，经营状态待核）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：dgaccounting.cz",
-   "quote": "KDO JSEM?；Pro koho nejčastěji pracuji；SLUŽBY, KTERÉ NABÍZÍM；ÚČETNICTVÍ；MZDOVÉ ÚČETNICTVÍ；NEZISKOVÉ ORGANIZACE",
-   "url": "https://www.dgaccounting.cz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一 发送通用PoE交换机产品邮件，强调稳定供货+OEM定制 8口PoE交换机、16口PoE交换机、SFP+汇聚交换机 官网主营网络设备解决方案，属于网络设备渠道商 | max: 34% B 捷克网络设备品牌/渠道倾向客户，业务聚焦",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "早期 AI 分销商判断",
-   "quote": "早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "捷克",
-  "other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络设备分销（捷克，待核）"
- ],
- "channels": {
-  "role": "网络设备分销商（捷克，经营状态待核）",
-  "region": "捷克",
-  "contact": "sales@nextlan.cz"
- },
- "signals": [
-  "快照：dgaccounting.cz ; KDO JSEM? ; ÚČETNICTVÍ（与实体不符）",
-  "表内：420 4696 59144 加不上；早期 ai: 捷克网络设备分销商，交换机为核心产品之一"
- ],
- "risks": [
-  "域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
- },
- "email_hook": "For the switches in your distribution range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is Nextlan still active in network distribution, and which port count do your customers ask for most?",
- "site_mismatch": true,
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@nextlan.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-   "type": "网络设备分销商（捷克，经营状态待核）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "捷克（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 26；用户表：「420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为」；研究档 risks：域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复"
-  },
-  "situation": "捷克 Nextlan（早期 AI：捷克网络设备分销商，交换机为核心产品之一；nextlan.cz 现快照为会计服务站 dgaccounting.cz（域名易主，site_mismatch，经营状态待核）；电话加不上）；群发 19 次无回复。",
-  "need": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-  "breakpoint": "域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For the switches in your distribution range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is Nextlan still active in network distribution, and which port count do your customers ask for most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一 发送通用PoE交换机产品邮件，强调稳定供货+OEM定制 8口PoE",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-    "why": "26 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-962",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nextlan.cz，快照 2026-10-21）",
+  "summary": "捷克 Nextlan（早期 AI：捷克网络设备分销商，交换机为核心产品之一；nextlan.cz 现快照为会计服务站 dgaccounting.cz（域名易主，site_mismatch，经营状态待核）；电话加不上）；群发 19 次无回复。",
+  "type": "网络设备分销商（捷克，经营状态待核）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：dgaccounting.cz",
+      "quote": "KDO JSEM?；Pro koho nejčastěji pracuji；SLUŽBY, KTERÉ NABÍZÍM；ÚČETNICTVÍ；MZDOVÉ ÚČETNICTVÍ；NEZISKOVÉ ORGANIZACE",
+      "url": "https://www.dgaccounting.cz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一 发送通用PoE交换机产品邮件，强调稳定供货+OEM定制 8口PoE交换机、16口PoE交换机、SFP+汇聚交换机 官网主营网络设备解决方案，属于网络设备渠道商 | max: 34% B 捷克网络设备品牌/渠道倾向客户，业务聚焦",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "早期 AI 分销商判断",
+      "quote": "早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "捷克",
+    "other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络设备分销（捷克，待核）"
+  ],
+  "channels": {
+    "role": "网络设备分销商（捷克，经营状态待核）",
+    "region": "捷克",
+    "contact": "sales@nextlan.cz"
+  },
+  "signals": [
+    "快照：dgaccounting.cz ; KDO JSEM? ; ÚČETNICTVÍ（与实体不符）",
+    "表内：420 4696 59144 加不上；早期 ai: 捷克网络设备分销商，交换机为核心产品之一"
+  ],
+  "risks": [
+    "域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
+  },
+  "email_hook": "For the switches in your distribution range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is Nextlan still active in network distribution, and which port count do your customers ask for most?",
+  "site_mismatch": true,
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 sales@nextlan.cz；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
+      "type": "网络设备分销商（捷克，经营状态待核）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "捷克（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 26；用户表：「420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为」；研究档 risks：域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复"
+    },
+    "situation": "捷克 Nextlan（早期 AI：捷克网络设备分销商，交换机为核心产品之一；nextlan.cz 现快照为会计服务站 dgaccounting.cz（域名易主，site_mismatch，经营状态待核）；电话加不上）；群发 19 次无回复。",
+    "need": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+    "breakpoint": "域名快照为会计服务站（dgaccounting.cz）——经营状态待核（可能已停业/域名易主）；电话加不上；19 次无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For the switches in your distribution range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is Nextlan still active in network distribution, and which port count do your customers ask for most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-01",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+        "why": "26 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-10-01（26 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "420 4696 59144 加不上；420 4696 59144 加不上 / 早期ai: 25% B 捷克网络设备分销商，主营网络设备与通信解决方案，交换机为核心产品之一 发送通用PoE交换机产品邮件，强调稳定供货+OEM定制 8口PoE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

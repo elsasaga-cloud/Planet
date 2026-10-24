@@ -291,7 +291,7 @@ Hi, Casey,
 
 Last October your team asked for the spec sheet and user manual of our 24-port SFP aggregation switch (4x 10G uplinks) and we sent both. Since then no feedback — which usually means something did not fit.
 
-If it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) we priced at $500 USD in April 2025 still stands within 15 days of this mail; the aggregation SFP box is priced on request for OEM quantities.
+If it is useful: the industrial L3 24-port PoE with 4x 10G SFP+ (STI-42424XGGPM-4BT) we priced at $500 USD EXW in April 2025 still stands within 15 days of this mail; the aggregation SFP box is priced on request for OEM quantities.
 
 One question: was there a specific gap — a feature, a certification (UL/NEBS), or price — that kept the 24-SFP unit off your list? A one-line answer is enough; it tells us whether to keep investing in Actelis.
 

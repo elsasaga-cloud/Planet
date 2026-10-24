@@ -86,20 +86,20 @@
     },
     "facts": [
       {
+        "date": "2026-09-29",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "23 封 / 1 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-29（23 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "Switch APs",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-        "why": "23 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],

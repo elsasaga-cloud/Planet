@@ -36,9 +36,9 @@ updated: 2026-10-24
 - **为什么是 A 级**：+30 实质回复 18 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 18 次；WhatsApp 已加；推送 20 次（2023-12-09 → 2025-08-12）；最近一次客户回复：2025-07-18：Whatsapp
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：按标书 — —；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 - **最大未知**：年走量与现供应商
-- **下一步**：标书触发 WhatsApp 标书触发
+- **下一步**：标书触发 WhatsApp 标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：随标书变化。
 - **断点 / 为什么停在这里**：收款路径（RU）。
 - **Saga 现在该推什么**：P1 **按标书**（20% 档，—）———
-- **下一步（具体）**：标书触发　WhatsApp　标书触发
+- **下一步（具体）**：标书触发　WhatsApp　标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
+  - 第一问（只问一个）：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

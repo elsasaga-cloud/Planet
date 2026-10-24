@@ -55,8 +55,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-29 | 去 | A/S 群发 | 10G L3 Managed Switch、24 Port PoE Managed Switch | 22 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-29（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | 10G L3 Managed Switch、24 Port PoE Managed Switch | 22 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

@@ -1,133 +1,133 @@
 {
- "code": "SB-458",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（bturesearch.com，快照 2026-10-21）",
- "summary": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
- "type": "边缘基础设施平台商（美国，定位转型待核）",
- "size": "",
- "brands_seen": [
-  "Aruba"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Intepo",
-   "quote": "INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure. Modern infrastructure for modern intelligence.Factory integrated. Field ready. Learn More The INTEPO Infrastructure Pl",
-   "url": "https://intepo.com",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "户外安防 感觉比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Intepo 定位",
-   "quote": "Home - Intepo ; INTEPO Sovereign Infrastructure ; Factory integrated. Field ready",
-   "url": "https://intepo.com",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "户外安防 比较专业",
-   "quote": "户外安防 感觉比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Michael Kanarellis",
-   "title": "Chief Executive",
-   "email": "mkanarellis@bturesearch.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "AI 边缘物理基础设施平台（美国）"
- ],
- "channels": {
-  "role": "边缘基础设施平台商（美国，定位转型待核）",
-  "region": "美国",
-  "contact": "info@bturesearch.com、mkanarellis@bturesearch.com"
- },
- "signals": [
-  "官网：INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure ; Factory integrated. Field ready ; A governance platform embodied in hardware",
-  "表内：户外安防 感觉比较专业；KP Michael Kanarellis / Chief Executive"
- ],
- "risks": [
-  "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核"
- },
- "email_hook": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@bturesearch.com, mkanarellis@bturesearch.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
-   "type": "边缘基础设施平台商（美国，定位转型待核）",
-   "sieve": "1（只收到群发）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "US 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15；用户表：「户外安防 感觉比较专业」；研究档 risks：公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
-  },
-  "situation": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
-  "need": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
-  "breakpoint": "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "户外安防 感觉比较专业",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-    "why": "15 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-458",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（bturesearch.com，快照 2026-10-21）",
+  "summary": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
+  "type": "边缘基础设施平台商（美国，定位转型待核）",
+  "size": "",
+  "brands_seen": [
+    "Aruba"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Intepo",
+      "quote": "INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure. Modern infrastructure for modern intelligence.Factory integrated. Field ready. Learn More The INTEPO Infrastructure Pl",
+      "url": "https://intepo.com",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "户外安防 感觉比较专业",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Intepo 定位",
+      "quote": "Home - Intepo ; INTEPO Sovereign Infrastructure ; Factory integrated. Field ready",
+      "url": "https://intepo.com",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "户外安防 比较专业",
+      "quote": "户外安防 感觉比较专业",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Michael Kanarellis",
+      "title": "Chief Executive",
+      "email": "mkanarellis@bturesearch.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "AI 边缘物理基础设施平台（美国）"
+  ],
+  "channels": {
+    "role": "边缘基础设施平台商（美国，定位转型待核）",
+    "region": "美国",
+    "contact": "info@bturesearch.com、mkanarellis@bturesearch.com"
+  },
+  "signals": [
+    "官网：INTEPO Sovereign Infrastructure The AI revolution requires a fundamentally more advanced form of physical infrastructure ; Factory integrated. Field ready ; A governance platform embodied in hardware",
+    "表内：户外安防 感觉比较专业；KP Michael Kanarellis / Chief Executive"
+  ],
+  "risks": [
+    "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核"
+  },
+  "email_hook": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 15 封 2025→2026，无记录打开，0 回；收件 info@bturesearch.com, mkanarellis@bturesearch.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
+      "type": "边缘基础设施平台商（美国，定位转型待核）",
+      "sieve": "1（只收到群发）",
+      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "US 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 15；用户表：「户外安防 感觉比较专业」；研究档 risks：公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触"
+    },
+    "situation": "美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。",
+    "need": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
+    "breakpoint": "公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?"
+    },
+    "facts": [
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+        "why": "15 封 / 0 次打开 / 0 回｜首封 2025-09-03 → 末封 2026-08-31（15 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "户外安防 感觉比较专业",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

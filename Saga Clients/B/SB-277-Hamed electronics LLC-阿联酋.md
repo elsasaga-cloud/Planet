@@ -54,8 +54,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-22 | 去 | S 群发 | 48 port managed switch | 1 封 / 1 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加 | 表内备注 | `用户表` |
-| 2024 | 去 | S 群发 | 48 port managed switch | 1 封 / 1 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

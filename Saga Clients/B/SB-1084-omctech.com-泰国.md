@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-02-17 | 去 | A 群发 | 10G Media Converter、16 Port Ethernet Switch | 13 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-17（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | VC MC 基本没有switch；好几个办事处的邮箱 | 表内备注 | `用户表` |
-| 2026 | 去 | A 群发 | 10G Media Converter、16 Port Ethernet Switch | 13 封 / 0 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

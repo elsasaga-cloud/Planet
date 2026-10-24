@@ -96,20 +96,20 @@
     },
     "facts": [
       {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
-        "why": "17 封 / 0 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [

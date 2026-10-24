@@ -1,125 +1,125 @@
 {
- "code": "SB-328",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（wieland-electric.com，快照 2026-10-21）",
- "summary": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
- "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Wieland Electric: Pioneer for electrical connection technology；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology ► Discover now!",
-   "url": "https://www.wieland-electric.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Wieland Electric 定位",
-   "quote": "Wieland Electric: Pioneer for electrical connection technology ; safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology",
-   "url": "https://www.wieland-electric.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 自己的 logo；着重跟",
-   "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "电气连接技术 / 可插拔安装技术",
-  "自有标工业以太网交换机（wienet）"
- ],
- "channels": {
-  "role": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
-  "region": "德国",
-  "contact": "info@wieland-electric.com"
- },
- "signals": [
-  "官网：Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology；行业 Building Technology / Machine Building / Wind Power",
-  "表内：工业 FS 自己的 logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下"
- ],
- "risks": [
-  "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
-  "17 次无回复，仅 info@，无具名 KP"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）"
- },
- "email_hook": "For the wienet industrial switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 info@wieland-electric.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 24；用户表：「工业FS 自己的logo SFP 周边产品 配件 有人卖他们的」；研究档 risks：体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B"
-  },
-  "situation": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
-  "need": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
-  "breakpoint": "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For the wienet industrial switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "24 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-328",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（wieland-electric.com，快照 2026-10-21）",
+  "summary": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
+  "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Wieland Electric: Pioneer for electrical connection technology；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology ► Discover now!",
+      "url": "https://www.wieland-electric.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Wieland Electric 定位",
+      "quote": "Wieland Electric: Pioneer for electrical connection technology ; safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology",
+      "url": "https://www.wieland-electric.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 自己的 logo；着重跟",
+      "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 wieland-electric.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "电气连接技术 / 可插拔安装技术",
+    "自有标工业以太网交换机（wienet）"
+  ],
+  "channels": {
+    "role": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
+    "region": "德国",
+    "contact": "info@wieland-electric.com"
+  },
+  "signals": [
+    "官网：Wieland Electric » safe solutions for industrial & functional buildings ✓ electrical connection technology & pluggable installation technology；行业 Building Technology / Machine Building / Wind Power",
+    "表内：工业 FS 自己的 logo SFP 周边产品 配件 有人卖他们的；可以着重跟一下"
+  ],
+  "risks": [
+    "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
+    "17 次无回复，仅 info@，无具名 KP"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）"
+  },
+  "email_hook": "For the wienet industrial switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 info@wieland-electric.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 24；用户表：「工业FS 自己的logo SFP 周边产品 配件 有人卖他们的」；研究档 risks：体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B"
+    },
+    "situation": "德国 Wieland Electric（电气连接技术先驱：工业与楼宇可插拔安装技术、机械制造、风电、园艺；自有标工业 FS（wienet 系列）/ SFP / 配件，「有人卖他们的」；表内「工业 FS 自己的 logo SFP 周边产品配件」「可以着重跟一下」）；群发 17 次无回复。",
+    "need": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
+    "breakpoint": "体量大（家族企业，数千人）：供应商准入流程长，交换机为补充品类；用户表「可以着重跟一下」→ 保留 B",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 wienet 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-080GE（$34.0）作二供；SFP 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For the wienet industrial switch range, we can serve as a second ODM source on a Marvell platform (DIN-rail 5/8-GE unmanaged, 8-PoE + 2 SFP managed, −40~75 °C, CE/RoHS) from small lots in your housing — is there a port count in the range you currently source from a single supplier?"
+    },
+    "facts": [
+      {
+        "date": "2026-09-22",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "24 封 / 0 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-22（24 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 自己的logo SFP 周边产品 配件 有人卖他们的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

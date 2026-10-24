@@ -52,8 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Industrial poe switch | 21 封 / 2 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主 | 表内备注 | `用户表` |
-| 2026 | 去 | A/S 群发 | Industrial PoE Switch、Industrial poe switch | 21 封 / 2 次打开 / 0 回 | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
 

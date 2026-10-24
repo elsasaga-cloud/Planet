@@ -1,131 +1,131 @@
 {
- "code": "SB-1039",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（blueskill.co，快照 2026-10-21）",
- "summary": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
- "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Blue Skill - Soluciones de Seguridad；品类词 安防监控（CCTV / 门禁）",
-   "quote": "Sistemas de seguridad y tecnologÃ­a inteligente.",
-   "url": "https://blueskill.co/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Blue Skill 定位",
-   "quote": "Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente",
-   "url": "https://blueskill.co/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "2 光 4 PoE 5 个",
-   "quote": "2光4PoE 5个 / from: 阿里巴巴询盘",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Francisco Javier Zúñiga",
-   "title": "（职务待核）",
-   "email": "javier.zuniga@blueskill.co",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "哥伦比亚",
-  "other": "官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防 / 智能技术方案（哥伦比亚）"
- ],
- "channels": {
-  "role": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
-  "region": "哥伦比亚",
-  "contact": "javier.zuniga@blueskill.co"
- },
- "signals": [
-  "官网：Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente ; Hogar y Familia ; Condominios y Vecindarios ; Comercios y Empresas",
-  "表内：工业 FS；2 光 4PoE 5 个 / from: 阿里巴巴询盘；KP Francisco Javier Zuniga"
- ],
- "risks": [
-  "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-244GPM",
-  "tier": 25,
-  "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效"
- },
- "email_hook": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
-   "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
-   "sieve": "1（只收到群发）",
-   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "哥伦比亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「工业FS；2光4PoE 5个 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
-  },
-  "situation": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
-  "need": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
-  "breakpoint": "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复",
-  "saga_now": {
-   "p1": "STI-244GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1039",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（blueskill.co，快照 2026-10-21）",
+  "summary": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
+  "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Blue Skill - Soluciones de Seguridad；品类词 安防监控（CCTV / 门禁）",
+      "quote": "Sistemas de seguridad y tecnologÃ­a inteligente.",
+      "url": "https://blueskill.co/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Blue Skill 定位",
+      "quote": "Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente",
+      "url": "https://blueskill.co/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "2 光 4 PoE 5 个",
+      "quote": "2光4PoE 5个 / from: 阿里巴巴询盘",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Francisco Javier Zúñiga",
+      "title": "（职务待核）",
+      "email": "javier.zuniga@blueskill.co",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "哥伦比亚",
+    "other": "官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防 / 智能技术方案（哥伦比亚）"
+  ],
+  "channels": {
+    "role": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
+    "region": "哥伦比亚",
+    "contact": "javier.zuniga@blueskill.co"
+  },
+  "signals": [
+    "官网：Blue Skill - Soluciones de Seguridad ; Sistemas de seguridad y tecnología inteligente ; Hogar y Familia ; Condominios y Vecindarios ; Comercios y Empresas",
+    "表内：工业 FS；2 光 4PoE 5 个 / from: 阿里巴巴询盘；KP Francisco Javier Zuniga"
+  ],
+  "risks": [
+    "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-244GPM",
+    "tier": 25,
+    "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效"
+  },
+  "email_hook": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+      "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "哥伦比亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「工业FS；2光4PoE 5个 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复"
+    },
+    "situation": "哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。",
+    "need": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
+    "breakpoint": "非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复",
+    "saga_now": {
+      "p1": "STI-244GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?"
+    },
+    "facts": [
+      {
+        "date": "2025-08-04",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
+        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-04（6 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS；2光4PoE 5个 / from: 阿里巴巴询盘",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

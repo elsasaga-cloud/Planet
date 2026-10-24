@@ -124,20 +124,20 @@
     },
     "facts": [
       {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Industrial Alert System、16 Port Ethernet Switch",
+        "why": "15 封 / 1 次打开 / 0 回｜首封 2025-08-26 → 末封 2026-08-31（15 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
         "quote": "串口 工业FS",
         "why": "表内备注",
         "k": "用户表"
-      },
-      {
-        "date": "2026",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Marvell Industrial Alert System、16 Port Ethernet Switch",
-        "why": "15 封 / 1 次打开 / 0 回",
-        "k": "gmail_digest"
       }
     ],
     "proof_gaps": [],
