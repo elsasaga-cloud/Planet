@@ -103,7 +103,7 @@ updated: 2026-10-24
 | 2026-07-17 | 去 | Alan | We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features | 最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了） | `a323d408b374a3d1` |
 | 2026-08-12 | 来 | compliance@netas.com.tr（季度群发） | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A 邮箱 | Saga 仍在 Netaş「业务伙伴」合规分发名单上（最近一期 2026-08-12）——供应商账号没有被清理，是被动绑定仍在的硬证据；Netaş 是 ZTE 参股公司，其合规口径跟 ZTE 走：下次报 CENTEC（国产芯片）或任何含美国成分的型号前，ECCN/EAR99 表要和 2025-12 那份一致 | `gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-03~08 分片重跑后核对 Simon 最初转介 Netaş 的 S 侧邮件是否有更早接触；留在客户处那台样机的测试结论（对方未反馈）；《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）
+- **还缺的证据（等 A 邮箱 / Extra Info）**：两箱核对完毕（A 箱 20,521 封全入）：Netaş 最早往来 = 2025-10-13 Alan 开发信 → Emre Bulut 当天回「May be Simon has already told you」；S 邮箱 0 封——Simon 与 Emre 的「更早接触」不在邮件里（LinkedIn/展会/电话），仓内无记录，不去猜；留在客户处那台样机的测试结论（对方未反馈）；《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）
 
 ## 基本事实（事实/推断/假设分层）
 
