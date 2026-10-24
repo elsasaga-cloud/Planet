@@ -317,6 +317,14 @@
     },
     "facts": [
       {
+        "date": "2024-11-09",
+        "dir": "来",
+        "who": "fiberONE 工单机器人",
+        "quote": "[NX#10565698] vielen Dank für Ihre Kontaktaufnahme mit fiberONE. Ihr Anliegen wurde unter der Ticketnummer NX#10565698 erfasst",
+        "why": "NYNEX 同一集团下有 fiberONE（ISP 品牌）工单系统，Simon 的群发被当作工单——说明 nynex.de 之外还有 fiberone.de 品牌（NYNEX = 卫星/光纤 ISP 集团，Frederik 是技术决策人）",
+        "k": "gmail_s 2024-11-09"
+      },
+      {
         "date": "2024-11-15",
         "dir": "来",
         "who": "f.kriewitz@nynex.de",
@@ -461,6 +469,14 @@
         "k": "gmail_s 2025-03-18 Re: Testing Feedback"
       },
       {
+        "date": "2025-03-19",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "could you test it with a media converter + 10G switch instead of 2 media converters? With two media converters and the same speed on both copper ends it's working fine… the 10G transceivers actually will run in 1G mode. Please test it with a fixed 10G copper connection on one end and all speeds on the other end… (03-21) does it support 2.5 or 5G BASE-T? You probably don't need a formal tester… (03-22) Did you configure the switch ports to 10G fixed speed in this test?",
+        "why": "NYNEX 连测试方法都替 Saga 设计（MC 对 10G 固定速率交换机、铜侧各档速率）——第一次 10G MC 评估就暴露「光口只跑 10G、铜侧自适应」的限制；2025-10 的 FTTH ONT 需求（旧路由器只有 1G）正是这个场景的延伸。给 NYNEX 的测试报告要按他的拓扑做，不要用两台 MC 背靠背",
+        "k": "gmail_s 2025-03-19/21/22 RE: Testing Feedback"
+      },
+      {
         "date": "2025-03-25",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -571,6 +587,14 @@
         "quote": "MaxLinear is the only option for a replacement of Realtek solution at similar costs. 2, for Marvell solutions, it is much more expensive… 98DX226S is a way too high standard… doubled prices or even higher. 3, for now, your OS still focuses on Broadcom… it is kind of safe to say we are the only small company… that focuses on Marvell solutions in Mainland China, but there are more Marvell based options from Taiwan",
         "why": "对 FTTH 10G ONT/MC 需求的诚实答复：Marvell 做不到 Realtek 价位；NYNEX 的自有 OS 以 Broadcom 为主——这条线如果要接，只能用 Realtek/HRUI 线（STC-2xx 2.5G/10G 桌面机）而不是 Marvell，且要过 Simon 的「国内客户冲突」边界",
         "k": "gmail_s 2025-10-23 Re: Marvell Alleycat5 Solution"
+      },
+      {
+        "date": "2025-10-23",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "we intend to use them as Media Converter/ONT for our FTTH deployment. We want to upgrade from 1G to 10G active ethernet but many customers are using older routers supporting only 1G, that's why we're looking for a low cost switch… We're only aware of the Realtek RTL8372/RTL8373 and MaxLinear MxL86252S/MxL86282S based solutions which allow 30/40 USD ma[rket prices]",
+        "why": "FTTH 10G 主动以太网升级 = 1,000 + 2,000/年 的量，但目标价 $30–40 市场价——Marvell 线做不到；Realtek RTL8372/8373 正是 HRUI/STC-2xx 2.5G 桌面机的芯片，若 Simon 愿意让 Realtek 线出海，这是现成的大量需求（Q-52：Realtek 线是否对 NYNEX 开放，默认不动）",
+        "k": "gmail_s 2025-10-23 RE: Marvell Alleycat5 Solution"
       },
       {
         "date": "2025-11-11",

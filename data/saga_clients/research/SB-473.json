@@ -492,6 +492,14 @@
         "quote": "We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features",
         "why": "最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了）",
         "k": "a323d408b374a3d1"
+      },
+      {
+        "date": "2026-08-12",
+        "dir": "来",
+        "who": "compliance@netas.com.tr（季度群发）",
+        "quote": "Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A 邮箱",
+        "why": "Saga 仍在 Netaş「业务伙伴」合规分发名单上（最近一期 2026-08-12）——供应商账号没有被清理，是被动绑定仍在的硬证据；Netaş 是 ZTE 参股公司，其合规口径跟 ZTE 走：下次报 CENTEC（国产芯片）或任何含美国成分的型号前，ECCN/EAR99 表要和 2025-12 那份一致",
+        "k": "gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12"
       }
     ],
     "proof_gaps": [

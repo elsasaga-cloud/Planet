@@ -232,6 +232,14 @@
         "k": "1c4ec9e7a2e3b881"
       },
       {
+        "date": "2025-01-03",
+        "dir": "来",
+        "who": "Greg Massott",
+        "quote": "（Re: 24 Port Fiber Switch）We currently offer a similar product, but will keep this on file.（2025-08-27 Re: L3 Managed Switch）What is the price of this unit? → 08-28 Simon: 500usd/pc, it is expensive because we are doing Marvell chip",
+        "why": "Versitron 自有 24 口光纤交换机 → 单品推送无效；只有堆叠整线这个空白才是他要 Saga 的理由。L3 $500 他收下「thank you」即止——价格不是他的决定因素，产品线是",
+        "k": "gmail_s 2025-01-03 / 2025-08-27"
+      },
+      {
         "date": "2025-01-31",
         "dir": "来",
         "who": "Greg",
@@ -246,6 +254,14 @@
         "quote": "I'm following up to see if you have been able to successfully design the stacking switches discussed below.",
         "why": "追问 ×3（06-11/18/23）",
         "k": "0a50926da6770aea"
+      },
+      {
+        "date": "2025-06-23",
+        "dir": "来",
+        "who": "Greg Massott",
+        "quote": "（06-11 / 06-18 / 06-23 三封同文）I'm following up to see if you have been able to successfully design the stacking switches discussed below. Please advise when you have a moment.（10-15）Any news on this?（10-30）What is the status of the stacking switches that we had been discussing?",
+        "why": "一个月内三封同文催问 + 10 月两封——Versitron 这边是认真排了产品线的；Saga 的回复节奏（06 无回、10-31 坦白出问题）是这条线断掉的直接原因。对表信要先认这件事",
+        "k": "gmail_s 2025-06-11/18/23, 10-15, 10-30"
       },
       {
         "date": "2025-08-28",
