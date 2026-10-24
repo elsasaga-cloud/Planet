@@ -60,9 +60,9 @@
   "email_hook": "For the managed PoE position in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count sells most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 4 封 2024，1 次记录打开，0 回；收件 info@unitech-shop.ru；主题多为「24 port PoE switch、10G media converter」）",
+      "level": "地址失效（S 邮箱 4 封 2024 发 info@unitech-shop.ru，2024-10-09 永久退信「550 user not found」；Q-33 网店口径不动）",
       "type": "PoE 网店（俄罗斯，HRUI 在售，Q-33 口径）",
-      "sieve": "1~2（1 次打开）",
+      "sieve": "0（信没到）",
       "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
       "revive": "不动（Q-33）",
       "lane": "RU 次级（Simon 2026-08 点名）",
@@ -94,6 +94,14 @@
         "quote": "24 port PoE switch、10G media converter",
         "why": "4 封 / 1 次打开 / 0 回｜首封 2024-07-12 → 末封 2024-10-09（4 去 / 0 来）",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2024-10-09",
+        "dir": "内",
+        "who": "Gmail 退信",
+        "quote": "** Message blocked ** Your message to info@unitech-shop.ru has been blocked… 550 LTD BeGet: user not found.",
+        "why": "去信没有送达；「1 次记录打开」无效；本户本就按 Q-33 不动",
+        "k": "gmail_s 358e0b89bc10ef9d"
       },
       {
         "date": "2026-10-21",

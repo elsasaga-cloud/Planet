@@ -36,24 +36,27 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1020` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 inquiries@avizio.pl；主题多为「Industrial poe switch」）** ｜ 类型：安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
+- **绑定等级：地址失效（S 邮箱 2024-07-09 唯一一封发 inquiries@avizio.pl 当即永久退信「550 No such recipient here」；此后未再发——「1 次打开」记录无效）** ｜ 类型：安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核） ｜ 筛子：0（信没到） ｜ 停点：地址错了：inquiries@ 不存在；官网联系邮箱待核后才能算第一封 ｜ 复活：先从 avizio.pl 官网/LinkedIn 找到有效邮箱（biuro@ / 具名），再发首封——不要把这户继续算在群发名单里 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **现状一句话**：波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。
 - **对方真实需求（有据）**：现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
   - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-07-09 | 去 | S 群发 | Industrial poe switch | 1 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2024-07-09（1 去 / 0 来） | `gmail_digest` |
+| 2024-07-09 | 内 | Gmail 退信 | ** Address not found ** Your message wasn't delivered to inquiries@avizio.pl… 550 No such recipient here | 本户唯一一封去信没有送达；绑定行原写「1 次记录打开」为误（退信不会触发打开） | `gmail_s 5feee0c19da3d4b7` |
 | 2026-10-21 | 用户表 | Simon | N-net的工业FS 刷了自己的标 主要做安防的 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：avizio.pl 当前有效邮箱（inquiries@ 2024-07 已 550）
 
 ## 基本事实（事实/推断/假设分层）
 

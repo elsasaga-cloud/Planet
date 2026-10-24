@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-787` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 4 封 2024，1 次记录打开，0 回；收件 info@unitech-shop.ru；主题多为「24 port PoE switch、10G media converter」）** ｜ 类型：PoE 网店（俄罗斯，HRUI 在售，Q-33 口径） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
+- **绑定等级：地址失效（S 邮箱 4 封 2024 发 info@unitech-shop.ru，2024-10-09 永久退信「550 user not found」；Q-33 网店口径不动）** ｜ 类型：PoE 网店（俄罗斯，HRUI 在售，Q-33 口径） ｜ 筛子：0（信没到） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 4，Opened 标签 1（Simon 群发追踪）；用户表：「商业PoE」；研究档 risks：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
 - **现状一句话**：俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。
 - **对方真实需求（有据）**：HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-10-09 | 去 | S 群发 | 24 port PoE switch、10G media converter | 4 封 / 1 次打开 / 0 回｜首封 2024-07-12 → 末封 2024-10-09（4 去 / 0 来） | `gmail_digest` |
+| 2024-10-09 | 内 | Gmail 退信 | ** Message blocked ** Your message to info@unitech-shop.ru has been blocked… 550 LTD BeGet: user not found. | 去信没有送达；「1 次记录打开」无效；本户本就按 Q-33 不动 | `gmail_s 358e0b89bc10ef9d` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

@@ -68,11 +68,11 @@
   "email_hook": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 inquiries@avizio.pl；主题多为「Industrial poe switch」）",
+      "level": "地址失效（S 邮箱 2024-07-09 唯一一封发 inquiries@avizio.pl 当即永久退信「550 No such recipient here」；此后未再发——「1 次打开」记录无效）",
       "type": "安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "sieve": "0（信没到）",
+      "stop": "地址错了：inquiries@ 不存在；官网联系邮箱待核后才能算第一封",
+      "revive": "先从 avizio.pl 官网/LinkedIn 找到有效邮箱（biuro@ / 具名），再发首封——不要把这户继续算在群发名单里",
       "lane": "PL 次级重点",
       "cadence": "季度",
       "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「N-net的工业FS 刷了自己的标 主要做安防的」；研究档 risks：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低"
@@ -89,9 +89,9 @@
       "gaps": []
     },
     "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
+      "when": "2026-11（先找地址）",
+      "channel": "A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）",
+      "action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发",
       "one_question": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?"
     },
     "facts": [
@@ -104,6 +104,14 @@
         "k": "gmail_digest"
       },
       {
+        "date": "2024-07-09",
+        "dir": "内",
+        "who": "Gmail 退信",
+        "quote": "** Address not found ** Your message wasn't delivered to inquiries@avizio.pl… 550 No such recipient here",
+        "why": "本户唯一一封去信没有送达；绑定行原写「1 次记录打开」为误（退信不会触发打开）",
+        "k": "gmail_s 5feee0c19da3d4b7"
+      },
+      {
         "date": "2026-10-21",
         "dir": "用户表",
         "who": "Simon",
@@ -112,7 +120,9 @@
         "k": "用户表"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "avizio.pl 当前有效邮箱（inquiries@ 2024-07 已 550）"
+    ],
     "draft_en": null,
     "as_of": "2026-10-24"
   }
