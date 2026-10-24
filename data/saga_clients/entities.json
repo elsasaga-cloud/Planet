@@ -5257,9 +5257,11 @@
 }
 },
 {
-"name": "vilinknet.com",
-"name_src": "domain",
-"names": [],
+"name": "Vi-Link（vilinknet.com）",
+"name_src": "company",
+"names": [
+"Vi-Link（vilinknet.com）"
+],
 "country": "美国",
 "iso": "US",
 "region": "北美",
@@ -5269,12 +5271,14 @@
 "vi-link.net"
 ],
 "urls": [
-"http://vilinknet.com/"
+"http://vilinknet.com/",
+"https://vilinknet.com"
 ],
 "platform_links": [],
 "emails": [
 "sales@vi-link.net",
-"thup@vilinknet.com"
+"thup@vilinknet.com",
+"thupvilink16@gmail.com"
 ],
 "corp_emails": [
 "sales@vi-link.net",
@@ -5282,32 +5286,46 @@
 ],
 "phones": [],
 "persons": [
-"Thu Pham  成单"
+"Thu Pham  成单",
+"Thu Pham"
 ],
 "positions": [],
 "froms": [
-"公海"
+"公海",
+"补录：S 邮箱全部往来来自私人 gmail thupvilink16@，原实体只有公司邮箱（第 71 批归属补洞）"
 ],
 "interests": [
-"光猫 3G SDI VC SFP模块 DAC MC"
+"光猫 3G SDI VC SFP模块 DAC MC",
+"OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」→ Simon 答 1300RMB/pc"
 ],
-"remarks": [],
-"categories": [],
+"remarks": [
+"同一实体 SA-011；本行只为把 thupvilink16@gmail.com 并入该实体邮箱"
+],
+"categories": [
+"OEM 品牌商 / 转售（Vi-Link 品牌）"
+],
 "tags": [
 "S重点",
+"补录",
+"归属补洞",
 "成交(PI)",
 "Simon:可发展"
 ],
 "flags": {
-"deal": 1
+"deal": 1,
+"own_brand": 1
 },
 "fit": {
-"mc_sfp": 1,
+"mc_sfp": 2,
 "off": 1,
-"vc": 1
+"vc": 1,
+"switch": 1
 },
 "ai_evals": [],
-"years": [],
+"years": [
+2024,
+2026
+],
 "sources": [
 {
 "file": "Clients/S 09.08.xlsx",
@@ -5332,6 +5350,31 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 19
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 21,
+"no": "AS-补录-2026-10-24-07",
+"tags": [
+"补录",
+"归属补洞"
+],
+"company": "Vi-Link（vilinknet.com）",
+"country": "美国",
+"person": "Thu Pham",
+"from": "补录：S 邮箱全部往来来自私人 gmail thupvilink16@，原实体只有公司邮箱（第 71 批归属补洞）",
+"interest": "OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」→ Simon 答 1300RMB/pc",
+"contact": "thupvilink16@gmail.com; thup@vilinknet.com",
+"mobile": "",
+"website": "https://vilinknet.com",
+"remark": "同一实体 SA-011；本行只为把 thupvilink16@gmail.com 并入该实体邮箱",
+"extra": "",
+"category": "OEM 品牌商 / 转售（Vi-Link 品牌）",
+"position": "",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
 }
 ],
 "followups": [
@@ -5565,8 +5608,11 @@
 "wa_in_fu": false,
 "deal_in_fu": true,
 "fu_sample": false,
-"last_year": 2025,
-"merge_keys": [],
+"last_year": 2026,
+"merge_keys": [
+"d:vilinknet.com",
+"e:thup@vilinknet.com"
+],
 "pi": {
 "code": "SA-011",
 "keys": [
@@ -5583,17 +5629,17 @@
 "folder_no": "6"
 },
 "grade_auto": "A",
-"score": 117,
+"score": 150,
 "reasons": [
 "+50 有成单/下单/买过记录（用户备注或跟进表）",
 "+22 实质回复 1 次",
 "+25 在 Simon 的 S 重点名单",
-"+2 兴趣仅 MC/SFP/配件（边缘品类）",
-"-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）",
+"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
 "+10 有企业邮箱",
 "+5 有可核实的公司网站/域名",
 "+8 区域 北美/美国",
-"+5 最近活动 2025",
+"+5 最近活动 2026",
 "+5 跟进表最近平台标记 S"
 ],
 "c_sub": "",

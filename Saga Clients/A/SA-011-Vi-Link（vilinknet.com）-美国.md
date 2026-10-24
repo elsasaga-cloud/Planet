@@ -1,9 +1,9 @@
-# vilinknet.com
+# Vi-Link（vilinknet.com）
 **官方名称（调研核实）**：Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）
 
 > **评级 A**　|　美国　|　档案编号 `SA-011`　|　优先级 ★★★　|　状态：成交过·可发展（Simon）
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）　|　**所在清单**：S重点、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌（推断）　|　**历史关系**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）　|　**所在清单**：S重点、补录、归属补洞、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-011
@@ -11,12 +11,12 @@ rating: A
 rating_auto: A
 rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
 name_official: "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）"
-score: 117
+score: 150
 country: 美国
 region: 北美
 website: vilinknet.com
 type: 品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌
-tier_tags: ["S重点", "成交(PI)", "Simon:可发展"]
+tier_tags: ["S重点", "补录", "归属补洞", "成交(PI)", "Simon:可发展"]
 deal: yes
 replies: 1
 followups: 19
@@ -27,14 +27,14 @@ p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
-sources: 1
+sources: 2
 updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-22；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-22；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC；OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」）
+- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）；最近一次客户回复：2024-11-13：下单了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追；Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-13 $65（10G Media Converter）、2025-10-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
@@ -88,15 +88,16 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | vilinknet.com（取自域名，公司全名待核） | 推断 |
+| 名称 | Vi-Link（vilinknet.com） | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | vilinknet.com / vi-link.net | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌 | 推断（据兴趣/备注关键词） |
-| 联系人 | Thu Pham  成单 | 事实（用户表） |
-| 来源（From） | 公海 | 事实（用户表） |
-| 兴趣（Interested in） | 光猫 3G SDI VC SFP模块 DAC MC | 事实（用户表） |
-| 用户备注（Remark） | — | 事实（用户表） |
-| 所在清单 | S重点、成交(PI)、Simon:可发展 | 事实（文件路径） |
+| 联系人 | Thu Pham  成单 / Thu Pham | 事实（用户表） |
+| 来源（From） | 公海 / 补录：S 邮箱全部往来来自私人 gmail thupvilink16@，原实体只有公司邮箱（第 71 批归属补洞） | 事实（用户表） |
+| 兴趣（Interested in） | 光猫 3G SDI VC SFP模块 DAC MC / OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」→ Simon 答 1300RMB/pc | 事实（用户表） |
+| 用户备注（Remark） | 同一实体 SA-011；本行只为把 thupvilink16@gmail.com 并入该实体邮箱 | 事实（用户表） |
+| 用户分档（Category） | OEM 品牌商 / 转售（Vi-Link 品牌） | 事实（用户表） |
+| 所在清单 | S重点、补录、归属补洞、成交(PI)、Simon:可发展 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
@@ -267,7 +268,9 @@ updated: 2026-10-24
 
 - 邮箱：`sales@vi-link.net`〔企业邮箱；来源：用户表原值〕
 - 邮箱：`thup@vilinknet.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`thupvilink16@gmail.com`〔免费邮箱；来源：用户表原值〕
 - 联系人（原值）：Thu Pham  成单
+- 联系人（原值）：Thu Pham
 - 网站/域名：vilinknet.com
 - 网站/域名：vi-link.net
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
@@ -283,11 +286,12 @@ updated: 2026-10-24
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`d:vilinknet.com`, `e:thup@vilinknet.com`。
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | S 09.08.xlsx#总表:14 | 13 | http://vilinknet.com/ | 美国 | Thu Pham  成单 | 公海 | 光猫 3G SDI VC SFP模块 DAC MC | sales@vi-link.net<br>thup@vilinknet.com |  | 19 条 |
+| 补录客户.jsonl#(补录):21 | AS-补录-2026-10-24-07 | Vi-Link（vilinknet.com） | 美国 | Thu Pham | 补录：S 邮箱全部往来来自私人 gmail thupvilink16@，原实体只有公司邮箱（第 71 批归属补洞） | OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」→ Simon 答 1300RMB/pc | thupvilink16@gmail.com; thup@vilinknet.com https://vilinknet.com | 同一实体 SA-011；本行只为把 thupvilink16@gmail.com 并入该实体邮箱 | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -374,7 +378,7 @@ https://sagatele.com/
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 117）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 150）
 
 ---
 

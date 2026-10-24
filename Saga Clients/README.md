@@ -66,7 +66,7 @@ C 级细分：群发冷名单无回应 1128；用户判定不行/不相关 548�
 | SA-003 | Eyescan security Systems | 塞浦路斯 | 安防集成/经销（兼分销） | 成交过·维护 | 133 | 已 | [SA-003-Eyescan security Systems-塞浦路斯.md](A/SA-003-Eyescan%20security%20Systems-塞浦路斯.md) |
 | SA-005 | Boecek Sec | 德国 | 安防集成/经销（据用户备注推断） | 成交过·维护 | 131 | 已 | [SA-005-Boecek Sec-德国.md](A/SA-005-Boecek%20Sec-德国.md) |
 | SA-010 | Taurus Vision | 南非 | 安防集成商（CCTV/视频管理） | 有回复·跟进中 | 67 | 已 | [SA-010-Taurus Vision-南非.md](A/SA-010-Taurus%20Vision-南非.md) |
-| SA-011 | vilinknet.com | 美国 | 品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌 | 成交过·可发展（Simon） | 117 | 已 | [SA-011-vilinknet.com-美国.md](A/SA-011-vilinknet.com-美国.md) |
+| SA-011 | Vi-Link（vilinknet.com） | 美国 | 品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌 | 成交过·可发展（Simon） | 150 | 已 | [SA-011-Vi-Link（vilinknet.com）-美国.md](A/SA-011-Vi-Link（vilinknet.com）-美国.md) |
 | SA-012 | gogreenit.net | 英国 | IT 服务商/终端（非渠道） | 成交过·可发展（Simon） | 116 | 已 | [SA-012-gogreenit.net-英国.md](A/SA-012-gogreenit.net-英国.md) |
 | SA-013 | fiberone.de | 德国 | 运营商/ISP（终端 + 自有 logo 贴牌需求） | 成交过·活跃（Simon） | 112 | 已 | [SA-013-fiberone.de-德国.md](A/SA-013-fiberone.de-德国.md) |
 | SA-014 | coptek.com.tr | 土耳其 | 分销商（网络设备，DCN 土耳其分销） | 成交过·维护 | 110 | 已 | [SA-014-coptek.com.tr-土耳其.md](A/SA-014-coptek.com.tr-土耳其.md) |
