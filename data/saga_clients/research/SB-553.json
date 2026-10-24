@@ -127,7 +127,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → norm@nsidistribution.com",
       "action": "一句话",
       "one_question": "You opened our June note on the 24-port PoE — is there a line it would fit?"
     },

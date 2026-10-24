@@ -109,7 +109,7 @@
     },
     "next_move": {
       "when": "2026-11 上旬（9-07 追问满 2 个月）",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）",
       "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界",
       "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
     },

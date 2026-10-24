@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STI-222GP",
       "tier": 25,
-      "price": "$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+      "price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
       "why": "项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -129,7 +129,7 @@
       "when": "2026-11",
       "channel": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com",
       "action": "问项目",
-      "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?"
+      "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -168,7 +168,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: Industrial poe switch",
-      "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+      "body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nReference price: STI-222GP (2× GE PoE + 2× SFP, DIN-rail) at $34 USD EXW as quoted in October 2024, MOQ 1 pc, 15-day validity.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

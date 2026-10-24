@@ -71,6 +71,13 @@
       "email": "irivera@fiberx.net",
       "phone": "",
       "source": "S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）"
+    },
+    {
+      "name": "Edwuar Morillo",
+      "role": "同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核）",
+      "email": "emorillo@fiberx.net",
+      "phone": "",
+      "source": "A 邮箱邮件表头（10 封）"
     }
   ],
   "grade_override": null,
@@ -155,7 +162,7 @@
     },
     "next_move": {
       "when": "2026-11（一次）",
-      "channel": "A 邮箱 → irivera@ + emorillo@",
+      "channel": "A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net",
       "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
       "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
     },

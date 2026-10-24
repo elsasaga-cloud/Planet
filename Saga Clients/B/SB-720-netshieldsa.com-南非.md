@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：MC SFP 工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-26 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-12 A 邮箱 → inus@netshieldsa.com 一句话
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **—**（30% 档，再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-12　A 邮箱 → inus@netshieldsa.com　一句话
-  - 第一问（只问一个）：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?
+  - 第一问（只问一个）：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

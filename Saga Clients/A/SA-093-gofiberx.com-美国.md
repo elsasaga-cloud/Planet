@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价） — J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-4168XGGCM-U(2025-01-03)、Saga Software Function List-release 7.(2025-03-20)、Product Link_2026Q2(2026-02-26)、Saga Software Function List_EN_V2.4(2026-06-06)、Performance of VastLakes Platform_EN_3(2026-06-06)、XLite Series(2026-06-06)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；**进价对照（Drive 价格比对 2026-03-01：STH-2C24XF-HSI = HohuNet S5624XH-2Z-EI 7,300 RMB）：$1,250 → 毛利 @7 16.6% / @6.69 12.7%，低于 Marvell 25% 线更低于 CENTEC 35% 线；同款 2026-07-20 群发 $1,500（27–30%）、35% 地板 $1,680 @6.69 → 再报 FiberX 不低于 $1,500 并说明是含 MA 的现行表价（见 CENTEC 锚表 §5.2）**；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（一次） A 邮箱 → irivera@ + emorillo@ 一句话问 6 月报价是否进了项目、测试窗口是否还在
+- **下一步**：2026-11（一次） A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net 一句话问 6 月报价是否进了项目、测试窗口是否还在
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。
 - **Saga 现在该推什么**：P1 **STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）**（25% 档，1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；**进价对照（Drive 价格比对 2026-03-01：STH-2C24XF-HSI = HohuNet S5624XH-2Z-EI 7,300 RMB）：$1,250 → 毛利 @7 16.6% / @6.69 12.7%，低于 Marvell 25% 线更低于 CENTEC 35% 线；同款 2026-07-20 群发 $1,500（27–30%）、35% 地板 $1,680 @6.69 → 再报 FiberX 不低于 $1,500 并说明是含 MA 的现行表价（见 CENTEC 锚表 §5.2）**；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2025-10-08 $280（10G Enterprise SFP Switch））——J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-4168XGGCM-U(2025-01-03)、Saga Software Function List-release 7.(2025-03-20)、Product Link_2026Q2(2026-02-26)、Saga Software Function List_EN_V2.4(2026-06-06)、Performance of VastLakes Platform_EN_3(2026-06-06)、XLite Series(2026-06-06)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核；H3C MPLS 互通无实测
-- **下一步（具体）**：2026-11（一次）　A 邮箱 → irivera@ + emorillo@　一句话问 6 月报价是否进了项目、测试窗口是否还在
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net　一句话问 6 月报价是否进了项目、测试窗口是否还在
   - 第一问（只问一个）：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -116,6 +116,7 @@ updated: 2026-10-24
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：（见 Clients 表联系人）（） +1 787-705-6999〔用户 Clients 表 + Crunchbase/Facebook〕
 - **KP**：Ivan Rivera（来信署名人（职务未在邮件署名里出现））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
+- **KP**：Edwuar Morillo（同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核））emorillo@fiberx.net 〔A 邮箱邮件表头（10 封）〕
 - 备注：运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + PeeringDB 核对））
@@ -237,6 +238,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Ivan Rivera | 来信署名人（职务未在邮件署名里出现） | irivera@fiberx.net | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补） |
+| Edwuar Morillo | 同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核） | emorillo@fiberx.net | 调研核实（公开页） | A 邮箱邮件表头（10 封） |
 
 - **通道建议**：企业邮箱可直发
 

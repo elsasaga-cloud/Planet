@@ -163,7 +163,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → lukasz.gasiewicz@（主收件人），抄 Bartosz",
+      "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl（主收件人），抄 bartosz.krawczyk@impakt.com.pl",
       "action": "一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划",
       "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
     },

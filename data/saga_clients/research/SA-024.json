@@ -167,7 +167,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "S 邮箱 → jitendra@（招标）+ nasim@（注入器）",
+      "channel": "S 邮箱 → jitendra@megnet.co.uk（招标）+ nasim@megnet.co.uk（注入器）",
       "action": "给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单",
       "one_question": "Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?"
     },

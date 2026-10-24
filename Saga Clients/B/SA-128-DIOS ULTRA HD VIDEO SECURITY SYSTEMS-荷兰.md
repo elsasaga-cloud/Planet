@@ -39,7 +39,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-04 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 由列表价 $99 改为 25% 档 $84.1；STI-288DGGPM $137.5 = 列表价封顶（25% 档 $145.7 更高）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：2026-11 A 邮箱 → j.slob@ 问价表里哪一款进过选型、输在哪
+- **下一步**：2026-11 A 邮箱 → j.slob@dios-industries.com 问价表里哪一款进过选型、输在哪
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：8 口工业 PoE（户外摄像机）价格。
 - **断点 / 为什么停在这里**：价表给了就结束——价表式回复没有带一个问题；A 邮箱 2026-10-24 新增线程里 DIOS 也只出现这一次。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM / STI-288DGGPM**（25% 档，按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-04 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 由列表价 $99 改为 25% 档 $84.1；STI-288DGGPM $137.5 = 列表价封顶（25% 档 $145.7 更高）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch））——一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → j.slob@　问价表里哪一款进过选型、输在哪
+- **下一步（具体）**：2026-11　A 邮箱 → j.slob@dios-industries.com　问价表里哪一款进过选型、输在哪
   - 第一问（只问一个）：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

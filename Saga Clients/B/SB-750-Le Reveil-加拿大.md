@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列半宽 10G — 已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-120XGM(2024-06-18)、STC-448XGGMO(2024-06-18)、STI-4168XGGCM-U(2024-06-18)、Product Link_2026Q2(2026-03-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $65（10G Media Converter）、2025-07-25 $300（48 Port PoE Managed Switch）、2025-08-29 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11 S 邮箱 只发 CENTEC
+- **下一步**：2026-11 S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串） 只发 CENTEC
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：全 SFP+，前后风道。
 - **断点 / 为什么停在这里**：产品线。
 - **Saga 现在该推什么**：P1 **STH 系列半宽 10G**（25% 档，按 CENTEC 价表；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $65（10G Media Converter）、2025-07-25 $300（48 Port PoE Managed Switch）、2025-08-29 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（4/20 封有打开记录）：「Re: 48 port managed switch」(2024-06-18)、「Re: 48 port managed switch」(2024-06-24)、「24 port managed switch」(2024-08-14)、「90W PoE Managed Switch」(2024-11-14) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-120XGM(2024-06-18)、STC-448XGGMO(2024-06-18)、STI-4168XGGCM-U(2024-06-18)、Product Link_2026Q2(2026-03-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　S 邮箱　只发 CENTEC
+- **下一步（具体）**：2026-11　S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）　只发 CENTEC
   - 第一问（只问一个）：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -81,6 +81,7 @@ updated: 2026-10-24
 - **【用户表】需求：8/12×SFP+ 以上光口、工业级温度；WhatsApp 已加、邮件跟进为主；15 次跟进 0 回复**
   > 8/12个SFP+甚至更高规格的光 不要网 工业级温度!!
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Francois Burton（询盘人（2024-06 回「No thanks… any SFP/SFP+ switches only?」，只要 SFP+ 口、前后通风））francois.burton0@gmail.com 〔S 邮箱 2024-06-17 / 06-24 来信表头〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息（需求已映射））
@@ -157,7 +158,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Francois Burton | — | francois.burton0@gmail.com / +16133223444 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
+| Francois Burton | 询盘人（2024-06 回「No thanks… any SFP/SFP+ switches only?」，只要 SFP+ 口、前后通风） | francois.burton0@gmail.com | 调研核实（公开页） | S 邮箱 2024-06-17 / 06-24 来信表头 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

@@ -16,7 +16,15 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Francois Burton",
+      "role": "询盘人（2024-06 回「No thanks… any SFP/SFP+ switches only?」，只要 SFP+ 口、前后通风）",
+      "email": "francois.burton0@gmail.com",
+      "phone": "",
+      "source": "S 邮箱 2024-06-17 / 06-24 来信表头"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -72,7 +80,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "S 邮箱",
+      "channel": "S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）",
       "action": "只发 CENTEC",
       "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
     },

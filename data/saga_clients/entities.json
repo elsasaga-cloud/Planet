@@ -6657,7 +6657,7 @@
 },
 "next_move": {
 "when": "2026-11 上旬",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@gogreenit.net（Chris Clemson；回原串）",
 "action": "先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷",
 "one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
 },
@@ -13060,7 +13060,7 @@
 "saga_now": {
 "p1": "STI-288DGGPM",
 "tier": 30,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）",
+"price": "再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -13069,7 +13069,7 @@
 "when": "2026-11",
 "channel": "E 或 A 邮箱 → ak@impulsecctv.com",
 "action": "一封：sagatele.com + 地址 + 一句话",
-"one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today?"
+"one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -13102,7 +13102,7 @@
 ],
 "draft_en": {
 "subject": "Re: company website and address — sagatele.com",
-"body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -13530,7 +13530,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "S 邮箱 → jitendra@（招标）+ nasim@（注入器）",
+"channel": "S 邮箱 → jitendra@megnet.co.uk（招标）+ nasim@megnet.co.uk（注入器）",
 "action": "给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单",
 "one_question": "Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?"
 },
@@ -31514,7 +31514,7 @@
 },
 "next_move": {
 "when": "2026-11 中旬",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → uzair@52networks.com（抄 sales@52networks.com）",
 "action": "只问样机去向（进目录了吗、哪个项目），不发新品",
 "one_question": "John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them."
 },
@@ -32430,7 +32430,7 @@
 },
 "next_move": {
 "when": "2026-11（一次）",
-"channel": "A 邮箱 → Peter（抄 Jim Taxdahl）",
+"channel": "A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com）",
 "action": "一句话问去年 8 月之后卡在哪",
 "one_question": "After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?"
 },
@@ -32687,6 +32687,13 @@
 "email": "anders.hedin@direktronik.se",
 "phone": "+46 8 52 400 700（总机）",
 "source": "Clients/A Replied 09.04.xlsx"
+},
+{
+"name": "Mats Backlund",
+"role": "收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核）",
+"email": "mats.backlund@direktronik.se",
+"phone": "",
+"source": "A 邮箱发件表头（18 封 to）"
 }
 ],
 "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
@@ -32795,7 +32802,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）",
+"channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
 "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品",
 "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
 },
@@ -36511,7 +36518,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → lukasz.gasiewicz@（主收件人），抄 Bartosz",
+"channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl（主收件人），抄 bartosz.krawczyk@impakt.com.pl",
 "action": "一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划",
 "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
 },
@@ -43229,7 +43236,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → nate.cline@",
+"channel": "A 邮箱 → nate.cline@alphanetcom.com",
 "action": "一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口",
 "one_question": "For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?"
 },
@@ -44261,6 +44268,13 @@
 "email": "irivera@fiberx.net",
 "phone": "",
 "source": "S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Edwuar Morillo",
+"role": "同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核）",
+"email": "emorillo@fiberx.net",
+"phone": "",
+"source": "A 邮箱邮件表头（10 封）"
 }
 ],
 "grade_override": null,
@@ -44345,7 +44359,7 @@
 },
 "next_move": {
 "when": "2026-11（一次）",
-"channel": "A 邮箱 → irivera@ + emorillo@",
+"channel": "A 邮箱 → irivera@fiberx.net + emorillo@fiberx.net",
 "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
 "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
 },
@@ -44804,7 +44818,7 @@
 "saga_now": {
 "p1": "HRUI STH 工业 2.5G/10G L3（研究档）",
 "tier": 30,
-"price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+"price": "再触锚价 STI-488XGGPM $178.8（30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
 "why": "一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-20)、Download Link_Alan(2025-06-30)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -44813,7 +44827,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → woosy777@naver.com",
 "action": "给网站 + 问 ETK 外采 SKU",
-"one_question": "Our site is now at sagatele.com — which ETK SKU is sourced externally today?"
+"one_question": "Our site is now at sagatele.com — which ETK SKU is sourced externally today? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -44836,7 +44850,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: our website — sagatele.com",
-"body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nReference price: STI-488XGGPM (8× GE PoE + 4× 10G SFP+, managed DIN-rail) at $178.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -59178,7 +59192,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → j.slob@",
+"channel": "A 邮箱 → j.slob@dios-industries.com",
 "action": "问价表里哪一款进过选型、输在哪",
 "one_question": "From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?"
 },
@@ -100353,7 +100367,7 @@
 "saga_now": {
 "p1": "STC-424XGGPM",
 "tier": 25,
-"price": "按主表；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+"price": "再触锚价 STC-424XGGPM-280W $180（群发现价；8 月他见过 $170，信里点明；第 72 批 2026-10-24）；按主表；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
 "why": "加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": [
@@ -100364,7 +100378,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → robert@bsdnetworks.com",
 "action": "问项目",
-"one_question": "Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?"
+"one_question": "Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; the $170 you saw in August was the launch price)."
 },
 "facts": [
 {
@@ -100395,7 +100409,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: Marvell Managed Commercial Switches",
-"body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nReference price: STC-424XGGPM-280W (24× GE PoE+ 280 W + 4× 10G SFP+, L2+) at $180 USD EXW, MOQ 1 pc, 15-day validity — the $170 in our August mail was the launch price.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -109346,7 +109360,7 @@
 },
 "next_move": {
 "when": "2026-11 中（若无回音，季度一问）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）",
 "action": "一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」",
 "one_question": "Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?"
 },
@@ -127462,7 +127476,7 @@
 "saga_now": {
 "p1": "STI-222GP",
 "tier": 25,
-"price": "$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+"price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
 "why": "项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -127471,7 +127485,7 @@
 "when": "2026-11",
 "channel": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com",
 "action": "问项目",
-"one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?"
+"one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -127510,7 +127524,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: Industrial poe switch",
-"body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+"body": "Hi Mohammad,\n\nPicking up your note of 2024-10-09 (\"Before we request for a sample, I would like to understand from you what is the price level for the below kind…\"). Instead of another catalog mail, one question:\n\nWas the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?\n\nReference price: STI-222GP (2× GE PoE + 2× SFP, DIN-rail) at $34 USD EXW as quoted in October 2024, MOQ 1 pc, 15-day validity.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -221193,7 +221207,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
 "repeat": [],
 "gaps": []
@@ -221202,7 +221216,7 @@
 "when": "2026-11（顺手）",
 "channel": "Elsa 邮箱回原线程",
 "action": "目录 + 一问",
-"one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania?"
+"one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -221227,7 +221241,7 @@
 ],
 "draft_en": {
 "subject": "Re: how many types of switch — TESCOM",
-"body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\" — the short answer: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\" — the short answer: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nReference price: STI-110GE (1× SFP + 1× GE gigabit media converter, DIN-rail) at $26.5 USD EXW, MOQ 1 pc, 15-day validity; the 1-fibre + 2-copper version is a few dollars above that and I will quote it once you confirm the quantity.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -358850,7 +358864,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → norm@nsidistribution.com",
 "action": "一句话",
 "one_question": "You opened our June note on the 24-port PoE — is there a line it would fit?"
 },
@@ -380352,7 +380366,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → jskim@solway.co.kr",
 "action": "补价",
 "one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
 },
@@ -390567,13 +390581,13 @@
 "email_hook": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform?",
 "mail_review": {
 "binding": {
-"level": "未触达（1 封退信：store@ 已废弃 → cs@ubwh.com.au）",
+"level": "未触达（2025-06 store@ 退信 → 已改发 cs@ubwh.com.au，之后群发多封无记录打开、0 回）",
 "type": "澳大利亚多品牌网店（UBWH）",
 "sieve": "0",
 "stop": "自动回复/机器人，无人工回复",
-"revive": "改发 cs@ubwh.com.au",
+"revive": "换人：找具名采购 + 一问带价",
 "lane": "AU",
-"cadence": "2026-12",
+"cadence": "2027-Q1",
 "evidence": "k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "来信全部为机器回复；无人读信或无人回信。",
@@ -390582,7 +390596,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+"price": "换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
 "why": "—｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": [
@@ -390590,10 +390604,10 @@
 ]
 },
 "next_move": {
-"when": "2026-12",
-"channel": "A 邮箱 → cs@ubwh.com.au",
-"action": "换地址",
-"one_question": ""
+"when": "2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频）",
+"channel": "A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名）",
+"action": "一问（研究档 email_hook + 价锚）",
+"one_question": "For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -408216,7 +408230,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 30,
-"price": "—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+"price": "再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -408225,7 +408239,7 @@
 "when": "2026-12",
 "channel": "A 邮箱 → inus@netshieldsa.com",
 "action": "一句话",
-"one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?"
+"one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -416164,7 +416178,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Francois Burton",
+"role": "询盘人（2024-06 回「No thanks… any SFP/SFP+ switches only?」，只要 SFP+ 口、前后通风）",
+"email": "francois.burton0@gmail.com",
+"phone": "",
+"source": "S 邮箱 2024-06-17 / 06-24 来信表头"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -416220,7 +416242,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "S 邮箱",
+"channel": "S 邮箱 → francois.burton0@gmail.com（回 2024 「48 port managed switch」原串）",
 "action": "只发 CENTEC",
 "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
 },
@@ -447498,7 +447520,7 @@
 },
 "next_move": {
 "when": "2026-11 上旬（9-07 追问满 2 个月）",
-"channel": "A 邮箱",
+"channel": "A 邮箱 → info@itmsystems.net（Steve；回 9-07 原串）",
 "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界",
 "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
 },

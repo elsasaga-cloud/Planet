@@ -54,6 +54,13 @@
       "email": "anders.hedin@direktronik.se",
       "phone": "+46 8 52 400 700（总机）",
       "source": "Clients/A Replied 09.04.xlsx"
+    },
+    {
+      "name": "Mats Backlund",
+      "role": "收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核）",
+      "email": "mats.backlund@direktronik.se",
+      "phone": "",
+      "source": "A 邮箱发件表头（18 封 to）"
     }
   ],
   "notes": "A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。",
@@ -162,7 +169,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）",
+      "channel": "A 邮箱 → mats.backlund@direktronik.se + anders.hedin@direktronik.se（抄 info@ 回原工单）",
       "action": "附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品",
       "one_question": "Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?"
     },

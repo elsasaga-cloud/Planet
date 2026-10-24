@@ -97,7 +97,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → jskim@solway.co.kr",
       "action": "补价",
       "one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
     },

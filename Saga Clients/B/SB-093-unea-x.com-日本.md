@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE） — 集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）。已打开的主题（9/18 封有打开记录）：「Re: Marvell Managed Commercial Switche」(2026-05-04)、「Re: Marvell Managed Commercial Switche」(2026-05-05)、「Re: Marvell Managed Commercial Switche」(2026-05-06)、「Re: Marvell Managed Commercial Switche」(2026-05-08) → 读者兴趣偏「其他」；当前 P1 属「工业」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Requirements_2026.05.05(2026-05-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11 中（若无回音，季度一问） A 邮箱 一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」
+- **下一步**：2026-11 中（若无回音，季度一问） A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串） 一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL（GST 桌面型有 PSE、NDR DIN 型无）；对方「Alibaba 采购」的问法说明预算与渠道偏低端。最后一封是 2026-05-08 Alan 答完 PSE 并让对方「把问题攒一起问」——此后 UNEAX 零来信，09-14 单推 16 口 DIN PoE 也无回。
 - **Saga 现在该推什么**：P1 **STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）**（25% 档，按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）。已打开的主题（9/18 封有打开记录）：「Re: Marvell Managed Commercial Switche」(2026-05-04)、「Re: Marvell Managed Commercial Switche」(2026-05-05)、「Re: Marvell Managed Commercial Switche」(2026-05-06)、「Re: Marvell Managed Commercial Switche」(2026-05-08) → 读者兴趣偏「其他」；当前 P1 属「工业」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Requirements_2026.05.05(2026-05-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：VCCI/JIS 报告：无，客户自担——不承诺；租样：Saga 规则是付费样品，不出借
-- **下一步（具体）**：2026-11 中（若无回音，季度一问）　A 邮箱　一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」
+- **下一步（具体）**：2026-11 中（若无回音，季度一问）　A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）　一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」
   - 第一问（只问一个）：Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表 — 转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 47.9%（STI-288GP 成本 322 + 2 × NDR-240-48，收 1,910）——高毛利一单客，不主动降价；STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-17 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them.
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 中旬 A 邮箱 只问样机去向（进目录了吗、哪个项目），不发新品
+- **下一步**：2026-11 中旬 A 邮箱 → uzair@52networks.com（抄 sales@52networks.com） 只问样机去向（进目录了吗、哪个项目），不发新品
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表**（20% 档，STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-17 $240（24 Port Fiber Switch））——转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 47.9%（STI-288GP 成本 322 + 2 × NDR-240-48，收 1,910）——高毛利一单客，不主动降价
   - 复购/在买项：8 口工业 PoE 样机 ×2（2025-07）
   - 做不了 / 要先核的：美国项目若要 TAA/UL：Saga 不做 UL（INH 规则），TAA 产地问题要先问清——不主动承诺
-- **下一步（具体）**：2026-11 中旬　A 邮箱　只问样机去向（进目录了吗、哪个项目），不发新品
+- **下一步（具体）**：2026-11 中旬　A 邮箱 → uzair@52networks.com（抄 sales@52networks.com）　只问样机去向（进目录了吗、哪个项目），不发新品
   - 第一问（只问一个）：John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

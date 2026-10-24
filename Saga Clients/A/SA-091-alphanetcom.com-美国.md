@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-84XGWE（4×10G SFP + 8×10G mGig 铜，网管，$204 EXW，`data/hrui_STC对照表.csv`）= 他 2025-04 原话的规格；备选 STC-08XGE 8×10G 铜非管理 $181.5；Realtek 线对美国客户开 → Simon 定（Q-52；SA-006 2024-08 已卖过同系列） — U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-04 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → nate.cline@ 一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口
+- **下一步**：2026-11 A 邮箱 → nate.cline@alphanetcom.com 一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。
 - **Saga 现在该推什么**：P1 **STC-84XGWE（4×10G SFP + 8×10G mGig 铜，网管，$204 EXW，`data/hrui_STC对照表.csv`）= 他 2025-04 原话的规格；备选 STC-08XGE 8×10G 铜非管理 $181.5；Realtek 线对美国客户开 → Simon 定（Q-52；SA-006 2024-08 已卖过同系列）**（25% 档，$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-04 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch））——U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：Nate 要不要「管理」——一句话问；Realtek 线对美国小集成商是否开；Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G；CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」
-- **下一步（具体）**：2026-11　A 邮箱 → nate.cline@　一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口
+- **下一步（具体）**：2026-11　A 邮箱 → nate.cline@alphanetcom.com　一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口
   - 第一问（只问一个）：For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

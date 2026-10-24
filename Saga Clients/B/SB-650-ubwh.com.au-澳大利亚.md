@@ -33,22 +33,23 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 UBWH（ubwh.com.au：销售平台型网店，「很多品牌子的」；仅 cs@；官网 http_error）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：很多品牌子的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-06-20 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
+- **第一问（只问一个）**：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-12 A 邮箱 → cs@ubwh.com.au 换地址
+- **下一步**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频） A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名） 一问（研究档 email_hook + 价锚）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-650` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封退信：store@ 已废弃 → cs@ubwh.com.au）** ｜ 类型：澳大利亚多品牌网店（UBWH） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：改发 cs@ubwh.com.au ｜ 通路：AU ｜ 节奏：2026-12 ｜ 证据：k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：未触达（2025-06 store@ 退信 → 已改发 cs@ubwh.com.au，之后群发多封无记录打开、0 回）** ｜ 类型：澳大利亚多品牌网店（UBWH） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：换人：找具名采购 + 一问带价 ｜ 通路：AU ｜ 节奏：2027-Q1 ｜ 证据：k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））———｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **—**（20% 档，换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch））———｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：具名联系人
-- **下一步（具体）**：2026-12　A 邮箱 → cs@ubwh.com.au　换地址
+- **下一步（具体）**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频）　A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名）　一问（研究档 email_hook + 价锚）
+  - 第一问（只问一个）：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

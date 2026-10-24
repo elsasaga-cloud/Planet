@@ -38,7 +38,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD — 一句话确认停点即可；不重复发规格。已打开的主题（13/30 封有打开记录）：「Re: 2.5G PoE switch」(2024-07-16)、「Re: 24 Port Fiber Switch」(2025-08-09)、「Re: 24 Port Fiber Switch」(2025-08-11)、「Re: 24 Port Fiber Switch」(2025-08-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：L3(2025-08-09)、L2+(2025-08-09)、Marvell Based CLI Manual(2025-08-11)、Marvell Based Web Manual(2025-08-11)、Saga Software Function List_7.3, 7.4, (2025-08-11)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；按 30% OEM 档复核 2025 报价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $220（Re: 2.5G PoE switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-06-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（一次） A 邮箱 → Peter（抄 Jim Taxdahl） 一句话问去年 8 月之后卡在哪
+- **下一步**：2026-11（一次） A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com） 一句话问去年 8 月之后卡在哪
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：多 SFP 口（1G/2.5G/10G）聚合交换机，美国可先看样；L2+/L3 皆可。
 - **断点 / 为什么停在这里**：两次都停在「拿到资料之后」——不是价格也不是规格，是对方项目没落地。无需推。
 - **Saga 现在该推什么**：P1 **STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD**（30% 档，按 30% OEM 档复核 2025 报价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $220（Re: 2.5G PoE switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-06-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——一句话确认停点即可；不重复发规格。已打开的主题（13/30 封有打开记录）：「Re: 2.5G PoE switch」(2024-07-16)、「Re: 24 Port Fiber Switch」(2025-08-09)、「Re: 24 Port Fiber Switch」(2025-08-11)、「Re: 24 Port Fiber Switch」(2025-08-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：L3(2025-08-09)、L2+(2025-08-09)、Marvell Based CLI Manual(2025-08-11)、Marvell Based Web Manual(2025-08-11)、Saga Software Function List_7.3, 7.4, (2025-08-11)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题
-- **下一步（具体）**：2026-11（一次）　A 邮箱 → Peter（抄 Jim Taxdahl）　一句话问去年 8 月之后卡在哪
+- **下一步（具体）**：2026-11（一次）　A 邮箱 → petertarquinio@antronix.com（抄 jimtaxdahl@antronix.com）　一句话问去年 8 月之后卡在哪
   - 第一问（只问一个）：After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

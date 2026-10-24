@@ -178,7 +178,7 @@
     },
     "next_move": {
       "when": "2026-11 上旬",
-      "channel": "A 邮箱",
+      "channel": "A 邮箱 → info@gogreenit.net（Chris Clemson；回原串）",
       "action": "先把 3-19/4-27 的两个问题各给一句结论（哪怕是「已转研发，7.5 未修」），再问 7.5 是否已刷",
       "one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
     },

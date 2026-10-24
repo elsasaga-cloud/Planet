@@ -147,7 +147,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → nate.cline@",
+      "channel": "A 邮箱 → nate.cline@alphanetcom.com",
       "action": "一句话：8×10G 铜 + 4×10G SFP+ 网管（STC-84XGWE $204）是否够用；非管理 STC-08XGE $181.5 备选；全管理只有 CENTEC 24 口",
       "one_question": "For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?"
     },
