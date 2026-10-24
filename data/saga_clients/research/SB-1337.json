@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STC-424XGGPM-280W $180",
       "tier": 25,
-      "price": "$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）",
+      "price": "$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话）",
       "why": "英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17",
       "repeat": [],
       "gaps": [
@@ -132,6 +132,14 @@
         "quote": "Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」",
         "why": "付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来",
         "k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2026-10-17",
+        "dir": "去",
+        "who": "Simon → Iyiola Folayan（Milliseconds Evolution Ltd, 128 City Road, London EC1V 2NX）",
+        "quote": "Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 calendar days to local customs); Bank cost $25; TOTAL $535. Payment: Sample full payment by PayPal or T/T; Bulk 50% T/T in advance + 50% before shipment; MoQ 1; label customizable; price validity 15 days; Saga reserves repricing if USD-RMB moves sharply.",
+        "why": "$535 的构成：货 $360 + 运 $150 + 银行费 $25；DAP 含出口清关与国际运费、不含英国进口清关与关税；装箱单 1 箱 2 台 G.W 10 kg、53.5×20.5×40.8 cm",
+        "k": "Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`"
       }
     ],
     "proof_gaps": [],

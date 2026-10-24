@@ -441,7 +441,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项",
       "tier": 20,
-      "price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800；**CENTEC 进价对照（价格比对 2026-03-01：STH-8C48DX-HSI = S7548N-8Z 28,000 RMB）：$4,800 → 16.7% / 12.8%（@7 / @6.69），底价 $4,600 → 13.0% / 9.0%，Angora 目标 <$4,000 = 进价线以下；下次 Angora 再提 DC 机，$4,600 是底，不能再让（CENTEC 锚表 §5.2）**",
+      "price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800；**CENTEC 进价对照（价格比对 2026-03-01：STH-8C48DX-HSI = S7548N-8Z 28,000 RMB）：$4,800 → 16.7% / 12.8%（@7 / @6.69），底价 $4,600 → 13.0% / 9.0%，Angora 目标 <$4,000 = 进价线以下；下次 Angora 再提 DC 机，$4,600 是底，不能再让（CENTEC 锚表 §5.2）**；量价锚（2024-12-03 报价单）：STC-448XGGPM L2+ 150 台 $360 / L3 $560；工业非管理 STI-050GE 100 台 $27、STI-110GE 100 台 $23（按 Planet IGS-500T / IGT-805AT 替代报）",
       "why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价｜毛利复盘：小批 23.6% / 34.4% / 18.7% / 34.5% / 29.8%，176 台大单 15.9%（运费 22,426）；88 台新单 875 RMB 属绑定价",
       "repeat": "10 单（2024-05 → 2025-07），复购间隔 1–3 个月，2025-07 后 15 个月无新 PI（排障/RfP/路线图讨论持续）",
       "gaps": [
@@ -611,6 +611,14 @@
         "k": "gmail_s 2024-11-08 Angora Networks - End of Year Offer"
       },
       {
+        "date": "2024-11-18",
+        "dir": "去",
+        "who": "Simon → Levent / Taylan（Quotation，EXW Turkey）",
+        "quote": "STI-050GE (5×GE, unmanaged, DIP, DC12–58V, -40~75℃, DIN, w/o PSU) $30 / $29 @20 / $28 @50 / $27 @100 — \"Replacement for IGS-500T\"; STI-110GE (1×fiber + 1×GE, unmanaged) $26 / $25 @20 / $24 @50 / $23 @100 — \"Replacement for IGT-805AT\". Leadtime 5~10 working days; warranty 3 years; price validity 30 days.",
+        "why": "Angora 的工业非管理款是按 **Planet IGS-500T / IGT-805AT 的替代** 报的——Planet 对标在成单客户里有书面先例；阶梯价 1/20/50/100",
+        "k": "Drive PI 包 `7_土耳其_Levent/Quotation_5电口_工业MC.xls`"
+      },
+      {
         "date": "2024-11-23",
         "dir": "去",
         "who": "Simon → Levent/TronX（Quotation + Siparis Listesi）",
@@ -625,6 +633,14 @@
         "quote": "（150 台 48 口交换机报价单）",
         "why": "对应 Taylan 2024-08-26 提到的「122×16 Port PoE + data center grade」第二批投标；Angora 的量总在 100–400 台级别反复报价、少数落地",
         "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2024-12-03",
+        "dir": "去",
+        "who": "Simon → Levent / Taylan（Quotation 48 port switch 150pcs，EXW）",
+        "quote": "STC-448XGGPM L2+ (48×GE PoE af/at 850W + 4×1G/2.5G/10G SFP+) $400 @1 / $360 @150 = $54,000; L3 version $600 @1 / $560 @150 = $84,000. 75 cartons 900 kg: UPS 8~12 days ≈ $10K vs sea 4~6 weeks $1,300. Production time 40~60 calendar days; warranty 1 year; validity 30 days.",
+        "why": "48 口 PoE 的 **量价锚**：150 台 L2+ $360（比群发 $300 高 20%、比老表 $335 高 7%）、L3 $560；海运 vs 快递差 8 倍——给 Angora/TronX 类百台级项目报价时直接用",
+        "k": "Drive PI 包 `7_土耳其_Levent/Quotation_48_port_switch_150pcs.xls`"
       },
       {
         "date": "2024-12-10",

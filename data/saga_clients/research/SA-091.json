@@ -141,7 +141,8 @@
       "gaps": [
         "Nate 要不要「管理」——一句话问",
         "Realtek 线对美国小集成商是否开",
-        "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+        "Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G",
+        "CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」"
       ]
     },
     "next_move": {
@@ -203,7 +204,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: 8-port 10G copper — two units that match",
-      "body": "Hi, Nate,\n\nIn April 2025 you asked for a small switch with about 8 x 10G copper ports plus 2-4 x 10G SFP+, and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nTwo units now match, both on our commercial (Realtek) line, neutral brand, AC input, 1U:\n- 8 x 10G multi-gig copper (100M/1G/2.5G/5G/10G) + 4 x 10G SFP+, web-managed (VLAN, IGMP snooping, port stats): $204 USD EXW\n- 8 x 10G multi-gig copper, unmanaged: $181.5 USD EXW\n(2026-10 price table, valid 15 days from this mail; 1-year warranty on the commercial line (3 years on industrial models).)\n\nIf it must be full L2+/L3 managed, the smallest managed 10GBASE-T unit is 24 x 10G copper + 2 x 100G on the CENTEC line (quoted ex-stock at $1,700 USD in July 2026 to another customer).\n\nOne question: for your San Antonio projects, is the 8 x 10G + 4 x SFP+ web-managed unit enough, or do you need CLI/SNMP management on it?\n\nThank you.\nAlan"
+      "body": "Hi, Nate,\n\nIn April 2025 you asked for a small switch with about 8 x 10G copper ports plus 2-4 x 10G SFP+, and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nTwo units now match, both on our commercial (Realtek) line, neutral brand, AC input, 1U:\n- 8 x 10G multi-gig copper (100M/1G/2.5G/5G/10G) + 4 x 10G SFP+, web-managed (VLAN, IGMP snooping, port stats): $204 USD EXW\n- 8 x 10G multi-gig copper, unmanaged: $181.5 USD EXW\n(2026-10 price table, valid 15 days from this mail; 1-year warranty on the commercial line (3 years on industrial models).)\n\nIf it must be full L2+/L3 managed, the smallest managed 10GBASE-T unit is 24 x 10G copper + 2 x 100G on the CENTEC line (quoted at $1,700 USD in July 2026 to another customer; lead time confirmed at order).\n\nOne question: for your San Antonio projects, is the 8 x 10G + 4 x SFP+ web-managed unit enough, or do you need CLI/SNMP management on it?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
   }

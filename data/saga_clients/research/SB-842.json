@@ -103,7 +103,8 @@
       "gaps": [
         "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
         "800G：无，不许诺",
-        "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问"
+        "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问",
+        "报价单写交期 12~15 周（按单生产），群发却说「Ready in stock」——同一客户两处看到两个说法；重开报价前定一个"
       ]
     },
     "next_move": {
@@ -272,6 +273,14 @@
         "quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
         "why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
         "k": "quote"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "去",
+        "who": "Alan → Steve（iTM Systems, Peterborough PE1 1RP；Quotation STA-20260323-001，DAP）",
+        "quote": "Business Term: Price validity 15 days; Sample full payment PayPal/T/T, Bulk 50% T/T in advance + 50% before shipment; MoQ 1; Non-brand packing, neutral device; Country of origin China, CoO on request; Production time: 12~15 weeks (NOT including shipping); Warranty: 1 year, lifetime technical support; acceptance deemed if no written defect notice within 2 months. Additional: customer logo + model name on WEB UI and label.",
+        "why": "这张 $107,675 报价单上写的是 **交期 12~15 周**、保修 1 年——与对外「CENTEC 现货 4~7 个工作日」不一致（32×400G 是按单生产）；也是 STH 线 1 年保修的书面证据（口径 #6）",
+        "k": "Drive Extra Info `Quotation__STA-20260323-001.xls`"
       },
       {
         "date": "2026-04-23",

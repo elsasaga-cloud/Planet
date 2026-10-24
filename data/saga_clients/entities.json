@@ -22915,7 +22915,8 @@
 "why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：DIN Power Adapter(2024-08-06)、Download Link_Alan(2025-12-19)、Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-15)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
 "repeat": [],
 "gaps": [
-"STH-8C24XF-HSI 现货状态（Alan 说无货）"
+"STH-8C24XF-HSI 现货状态（Alan 说无货）",
+"CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」"
 ]
 },
 "next_move": {
@@ -22953,7 +22954,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ",
-"body": "Hi,\n\nIn July we quoted STH-8C24DX-HSI (24x25G + 8x100G) at $2,200 USD and STH-2C24XE-HSI (24x10GBASE-T + 2x100G) at $1,700 USD, both ex-stock. We then sent you general PoE mail, which was not what you asked for; apologies.\n\nBoth prices are re-confirmed for 15 days from this mail, MA license pre-installed, hot-swap PSU.\n\nOne question: did the July RFQ (2 + 2 units) close with another vendor, or is it still open? If closed, which price did it close at — that helps us set the OEM/ODM list you asked for in December.\n\nThank you.\nAlan"
+"body": "Hi,\n\nIn July we quoted STH-8C24DX-HSI (24x25G + 8x100G) at $2,200 USD and STH-2C24XE-HSI (24x10GBASE-T + 2x100G) at $1,700 USD (availability as quoted then; lead time to be confirmed at order). We then sent you general PoE mail, which was not what you asked for; apologies.\n\nBoth prices are re-confirmed for 15 days from this mail, MA license pre-installed, hot-swap PSU.\n\nOne question: did the July RFQ (2 + 2 units) close with another vendor, or is it still open? If closed, which price did it close at — that helps us set the OEM/ODM list you asked for in December.\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }
@@ -41915,7 +41916,8 @@
 "gaps": [
 "Nate 要不要「管理」——一句话问",
 "Realtek 线对美国小集成商是否开",
-"Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G"
+"Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G",
+"CENTEC 交期：群发/7 月邮件写「ex-stock / Ready in stock」，正式报价单（iTM 2026-03）写 12~15 周——再报时交期按口径 #7「下单时确认」"
 ]
 },
 "next_move": {
@@ -41977,7 +41979,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: 8-port 10G copper — two units that match",
-"body": "Hi, Nate,\n\nIn April 2025 you asked for a small switch with about 8 x 10G copper ports plus 2-4 x 10G SFP+, and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nTwo units now match, both on our commercial (Realtek) line, neutral brand, AC input, 1U:\n- 8 x 10G multi-gig copper (100M/1G/2.5G/5G/10G) + 4 x 10G SFP+, web-managed (VLAN, IGMP snooping, port stats): $204 USD EXW\n- 8 x 10G multi-gig copper, unmanaged: $181.5 USD EXW\n(2026-10 price table, valid 15 days from this mail; 1-year warranty on the commercial line (3 years on industrial models).)\n\nIf it must be full L2+/L3 managed, the smallest managed 10GBASE-T unit is 24 x 10G copper + 2 x 100G on the CENTEC line (quoted ex-stock at $1,700 USD in July 2026 to another customer).\n\nOne question: for your San Antonio projects, is the 8 x 10G + 4 x SFP+ web-managed unit enough, or do you need CLI/SNMP management on it?\n\nThank you.\nAlan"
+"body": "Hi, Nate,\n\nIn April 2025 you asked for a small switch with about 8 x 10G copper ports plus 2-4 x 10G SFP+, and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nTwo units now match, both on our commercial (Realtek) line, neutral brand, AC input, 1U:\n- 8 x 10G multi-gig copper (100M/1G/2.5G/5G/10G) + 4 x 10G SFP+, web-managed (VLAN, IGMP snooping, port stats): $204 USD EXW\n- 8 x 10G multi-gig copper, unmanaged: $181.5 USD EXW\n(2026-10 price table, valid 15 days from this mail; 1-year warranty on the commercial line (3 years on industrial models).)\n\nIf it must be full L2+/L3 managed, the smallest managed 10GBASE-T unit is 24 x 10G copper + 2 x 100G on the CENTEC line (quoted at $1,700 USD in July 2026 to another customer; lead time confirmed at order).\n\nOne question: for your San Antonio projects, is the 8 x 10G + 4 x SFP+ web-managed unit enough, or do you need CLI/SNMP management on it?\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }
@@ -72250,7 +72252,7 @@
 "saga_now": {
 "p1": "STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项",
 "tier": 20,
-"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800；**CENTEC 进价对照（价格比对 2026-03-01：STH-8C48DX-HSI = S7548N-8Z 28,000 RMB）：$4,800 → 16.7% / 12.8%（@7 / @6.69），底价 $4,600 → 13.0% / 9.0%，Angora 目标 <$4,000 = 进价线以下；下次 Angora 再提 DC 机，$4,600 是底，不能再让（CENTEC 锚表 §5.2）**",
+"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800；**CENTEC 进价对照（价格比对 2026-03-01：STH-8C48DX-HSI = S7548N-8Z 28,000 RMB）：$4,800 → 16.7% / 12.8%（@7 / @6.69），底价 $4,600 → 13.0% / 9.0%，Angora 目标 <$4,000 = 进价线以下；下次 Angora 再提 DC 机，$4,600 是底，不能再让（CENTEC 锚表 §5.2）**；量价锚（2024-12-03 报价单）：STC-448XGGPM L2+ 150 台 $360 / L3 $560；工业非管理 STI-050GE 100 台 $27、STI-110GE 100 台 $23（按 Planet IGS-500T / IGT-805AT 替代报）",
 "why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价｜毛利复盘：小批 23.6% / 34.4% / 18.7% / 34.5% / 29.8%，176 台大单 15.9%（运费 22,426）；88 台新单 875 RMB 属绑定价",
 "repeat": "10 单（2024-05 → 2025-07），复购间隔 1–3 个月，2025-07 后 15 个月无新 PI（排障/RfP/路线图讨论持续）",
 "gaps": [
@@ -72420,6 +72422,14 @@
 "k": "gmail_s 2024-11-08 Angora Networks - End of Year Offer"
 },
 {
+"date": "2024-11-18",
+"dir": "去",
+"who": "Simon → Levent / Taylan（Quotation，EXW Turkey）",
+"quote": "STI-050GE (5×GE, unmanaged, DIP, DC12–58V, -40~75℃, DIN, w/o PSU) $30 / $29 @20 / $28 @50 / $27 @100 — \"Replacement for IGS-500T\"; STI-110GE (1×fiber + 1×GE, unmanaged) $26 / $25 @20 / $24 @50 / $23 @100 — \"Replacement for IGT-805AT\". Leadtime 5~10 working days; warranty 3 years; price validity 30 days.",
+"why": "Angora 的工业非管理款是按 **Planet IGS-500T / IGT-805AT 的替代** 报的——Planet 对标在成单客户里有书面先例；阶梯价 1/20/50/100",
+"k": "Drive PI 包 `7_土耳其_Levent/Quotation_5电口_工业MC.xls`"
+},
+{
 "date": "2024-11-23",
 "dir": "去",
 "who": "Simon → Levent/TronX（Quotation + Siparis Listesi）",
@@ -72434,6 +72444,14 @@
 "quote": "（150 台 48 口交换机报价单）",
 "why": "对应 Taylan 2024-08-26 提到的「122×16 Port PoE + data center grade」第二批投标；Angora 的量总在 100–400 台级别反复报价、少数落地",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-12-03",
+"dir": "去",
+"who": "Simon → Levent / Taylan（Quotation 48 port switch 150pcs，EXW）",
+"quote": "STC-448XGGPM L2+ (48×GE PoE af/at 850W + 4×1G/2.5G/10G SFP+) $400 @1 / $360 @150 = $54,000; L3 version $600 @1 / $560 @150 = $84,000. 75 cartons 900 kg: UPS 8~12 days ≈ $10K vs sea 4~6 weeks $1,300. Production time 40~60 calendar days; warranty 1 year; validity 30 days.",
+"why": "48 口 PoE 的 **量价锚**：150 台 L2+ $360（比群发 $300 高 20%、比老表 $335 高 7%）、L3 $560；海运 vs 快递差 8 倍——给 Angora/TronX 类百台级项目报价时直接用",
+"k": "Drive PI 包 `7_土耳其_Levent/Quotation_48_port_switch_150pcs.xls`"
 },
 {
 "date": "2024-12-10",
@@ -73041,7 +73059,7 @@
 "saga_now": {
 "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）｜他 8/26 问的 mGig PoE：CENTEC STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G，双 CRPS）/ STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G），见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`；价/现货 → Simon（Q-56）｜便宜路径：Realtek STC-624XGDGPM（6×10G SFP + 24×2.5G PoE bt 400W，L3 网管，$396 EXW，单电源，`data/hrui_STC对照表.csv`）——双电源 + PWM 风扇只有 CENTEC",
 "tier": 30,
-"price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
+"price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用；2026-06-22 报价单 STS-20260622-001：裸板 STI-21616DGGPM-PCB $230 / 无壳整机 $240（含 MQTT + LLDP-MED 定制），运费 UPS $180 + 银行 $25 = $1,605——他的 ODM 形态是买板装自己的壳",
 "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新",
 "repeat": [
 "STI-488XGGPM 12 台（2026-08-30）",
@@ -73117,6 +73135,14 @@
 "quote": "Based on our conversation on LinkedIn, please see attached MIBs information. Let's talk again after your review.",
 "why": "James 要把设备接进自己的 NMS（后来 2026-07 要做 MQTT）——与 Angora 一样走「OID/管理系统接入」这条绑定路径",
 "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2026-06-22",
+"dir": "去",
+"who": "Simon → James Clendenan（Quotation STS-20260622-001，DAP North Vancouver）",
+"quote": "STI-21616DGGPM-PCB (customer P/N SW-3200-16GP-2SM; PCB ONLY, AC5, no optics/PSU/enclosure, \"Support mqtt and lldp-med\") × 4 @ $230 = $920; STI-21616DGGPM standalone unit (DIN, no enclosure/PSU) × 2 @ $240 = $480; \"Put customer model name on WEB UI and label\"; UPS air to Canada $180 incl. insurance; bank $25; TOTAL $1,605.",
+"why": "他的 ODM 形态：买裸板（PCB）装进自己的机箱，型号用他的 SW-3200-16GP-2SM，WEB UI 与标签印他的名——这就是 8/26 他提电源板改 Molex/JST、加温度传感器的由来；裸板 $230 比老表整机 $220 还贵（MQTT/LLDP-MED 定制固件 + 小量）",
+"k": "Drive Extra Info `Quotation__STS-20260622-001.xls`"
 },
 {
 "date": "2026-07-21",
@@ -205396,7 +205422,7 @@
 "saga_now": {
 "p1": "STC-424XGGPM-280W $180",
 "tier": 25,
-"price": "$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）",
+"price": "$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话）",
 "why": "英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17",
 "repeat": [],
 "gaps": [
@@ -205441,6 +205467,14 @@
 "quote": "Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」",
 "why": "付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来",
 "k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2026-10-17",
+"dir": "去",
+"who": "Simon → Iyiola Folayan（Milliseconds Evolution Ltd, 128 City Road, London EC1V 2NX）",
+"quote": "Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 calendar days to local customs); Bank cost $25; TOTAL $535. Payment: Sample full payment by PayPal or T/T; Bulk 50% T/T in advance + 50% before shipment; MoQ 1; label customizable; price validity 15 days; Saga reserves repricing if USD-RMB moves sharply.",
+"why": "$535 的构成：货 $360 + 运 $150 + 银行费 $25；DAP 含出口清关与国际运费、不含英国进口清关与关税；装箱单 1 箱 2 台 G.W 10 kg、53.5×20.5×40.8 cm",
+"k": "Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`"
 }
 ],
 "proof_gaps": [],
@@ -444749,7 +444783,8 @@
 "gaps": [
 "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
 "800G：无，不许诺",
-"400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问"
+"400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问",
+"报价单写交期 12~15 周（按单生产），群发却说「Ready in stock」——同一客户两处看到两个说法；重开报价前定一个"
 ]
 },
 "next_move": {
@@ -444918,6 +444953,14 @@
 "quote": "400GB Optical Module 400G-SR4 ×36 @ $300.00 = $10,800.00（400Gb/s, 850nm, MPO-12, up to 100m over OM4 MMF）；6 × STH-32QC-HSI @ $16,000 = $96,000；DHL 空运 $850；银行费 $25；TOTAL 42 pcs $107,675.00，DAP Peterborough",
 "why": "$107,675 的构成（主机 + 模块 + 运费），重报时模块价单列；光模块只随整机报，不单卖",
 "k": "quote"
+},
+{
+"date": "2026-03-23",
+"dir": "去",
+"who": "Alan → Steve（iTM Systems, Peterborough PE1 1RP；Quotation STA-20260323-001，DAP）",
+"quote": "Business Term: Price validity 15 days; Sample full payment PayPal/T/T, Bulk 50% T/T in advance + 50% before shipment; MoQ 1; Non-brand packing, neutral device; Country of origin China, CoO on request; Production time: 12~15 weeks (NOT including shipping); Warranty: 1 year, lifetime technical support; acceptance deemed if no written defect notice within 2 months. Additional: customer logo + model name on WEB UI and label.",
+"why": "这张 $107,675 报价单上写的是 **交期 12~15 周**、保修 1 年——与对外「CENTEC 现货 4~7 个工作日」不一致（32×400G 是按单生产）；也是 STH 线 1 年保修的书面证据（口径 #6）",
+"k": "Drive Extra Info `Quotation__STA-20260323-001.xls`"
 },
 {
 "date": "2026-04-23",

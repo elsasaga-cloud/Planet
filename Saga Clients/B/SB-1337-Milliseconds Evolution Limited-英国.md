@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。（调研 2026-10-22；表内兴趣：STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销）
 - **为什么是 B 级**：**调研后定级 B**（有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W $180 — 英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17；$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W $180 — 英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17；$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话）
 - **第一问（只问一个）**：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-12 上旬（10-19「Let's wait」后 6–7 周） S 邮箱同一线程 只问一句项目是否落地；不降样机价、不给账期
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：三周内从群发命中走到样品发票，再停在付款——节奏对、对象弱。Simon 的处理（不给免费样、样品款抵首单、暂不谈分销、不催）符合规则。MikroTik 顾问对 L2+ Web UI 的技术反馈会有价值，但要等他有项目。
 - **对方真实需求（有据）**：24 口 PoE + 10G 上联（STC-424XGGPM-280W）起步样机。
 - **断点 / 为什么停在这里**：客户现金流。
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W $180**（25% 档，$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20））——英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W $180**（25% 档，$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话））——英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17
   - 做不了 / 要先核的：首个项目时间
 - **下一步（具体）**：2026-12 上旬（10-19「Let's wait」后 6–7 周）　S 邮箱同一线程　只问一句项目是否落地；不降样机价、不给账期
   - 第一问（只问一个）：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
@@ -59,6 +59,7 @@ updated: 2026-10-24
 | 2026-10-03 | 去 | Simon | evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be a good starting point | 付样规则 | `5a52d22fbd2a46da` |
 | 2026-10-17 | 来 | Iyiola Folayan | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. | 样品 PI 搁置 | `d90558425d8bf645` |
 | 2026-10-17 | 去 | Simon → Iyiola | Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」 | 付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来 | `gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）` |
+| 2026-10-17 | 去 | Simon → Iyiola Folayan（Milliseconds Evolution Ltd, 128 City Road, London EC1V 2NX） | Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 calendar days to local customs); Bank cost $25; TOTAL $535. Payment: Sample full payment by PayPal or T/T; Bulk 50% T/T in advance + 50% before shipment; MoQ 1; label customizable; price validity 15 days; Saga reserves repricing if USD-RMB moves sharply. | $535 的构成：货 $360 + 运 $150 + 银行费 $25；DAP 含出口清关与国际运费、不含英国进口清关与关税；装箱单 1 箱 2 台 G.W 10 kg、53.5×20.5×40.8 cm | `Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`` |
 
 ## 基本事实（事实/推断/假设分层）
 

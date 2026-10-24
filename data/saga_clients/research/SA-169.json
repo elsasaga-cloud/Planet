@@ -156,7 +156,7 @@
     "saga_now": {
       "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）｜他 8/26 问的 mGig PoE：CENTEC STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G，双 CRPS）/ STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G），见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`；价/现货 → Simon（Q-56）｜便宜路径：Realtek STC-624XGDGPM（6×10G SFP + 24×2.5G PoE bt 400W，L3 网管，$396 EXW，单电源，`data/hrui_STC对照表.csv`）——双电源 + PWM 风扇只有 CENTEC",
       "tier": 30,
-      "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
+      "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用；2026-06-22 报价单 STS-20260622-001：裸板 STI-21616DGGPM-PCB $230 / 无壳整机 $240（含 MQTT + LLDP-MED 定制），运费 UPS $180 + 银行 $25 = $1,605——他的 ODM 形态是买板装自己的壳",
       "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新",
       "repeat": [
         "STI-488XGGPM 12 台（2026-08-30）",
@@ -232,6 +232,14 @@
         "quote": "Based on our conversation on LinkedIn, please see attached MIBs information. Let's talk again after your review.",
         "why": "James 要把设备接进自己的 NMS（后来 2026-07 要做 MQTT）——与 Angora 一样走「OID/管理系统接入」这条绑定路径",
         "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2026-06-22",
+        "dir": "去",
+        "who": "Simon → James Clendenan（Quotation STS-20260622-001，DAP North Vancouver）",
+        "quote": "STI-21616DGGPM-PCB (customer P/N SW-3200-16GP-2SM; PCB ONLY, AC5, no optics/PSU/enclosure, \"Support mqtt and lldp-med\") × 4 @ $230 = $920; STI-21616DGGPM standalone unit (DIN, no enclosure/PSU) × 2 @ $240 = $480; \"Put customer model name on WEB UI and label\"; UPS air to Canada $180 incl. insurance; bank $25; TOTAL $1,605.",
+        "why": "他的 ODM 形态：买裸板（PCB）装进自己的机箱，型号用他的 SW-3200-16GP-2SM，WEB UI 与标签印他的名——这就是 8/26 他提电源板改 Molex/JST、加温度传感器的由来；裸板 $230 比老表整机 $220 还贵（MQTT/LLDP-MED 定制固件 + 小量）",
+        "k": "Drive Extra Info `Quotation__STS-20260622-001.xls`"
       },
       {
         "date": "2026-07-21",
