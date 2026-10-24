@@ -116,7 +116,7 @@
       "p1": "STI-288GPM",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-27 $300（48 Port PoE Managed Switch）",
-      "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #1（2026-10-24 改正）：「Stacking is mandatory」的正确答法不是只说没有——AC5 没有，但 CENTEC STH1G（STH-2QX4DX48GP，≤8 台）有；信里两层都说",
       "repeat": [],
       "gaps": []
     },
@@ -124,7 +124,7 @@
       "when": "2026-11",
       "channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
       "action": "只问一句",
-      "one_question": "Subhash — on stacking: our AC5 units do not stack (no stack ports, no single-image chassis) — redundancy is ERPS G.8032 rings + 10G uplinks. Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
+      "one_question": "Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?"
     },
     "facts": [
       {
@@ -181,7 +181,7 @@
     ],
     "draft_en": {
       "subject": "Re: ANDA ATMIS series — the stacking point",
-      "body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). What they do offer is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, we should not waste your time on the AC5 line; if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+      "body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). Where stacking is a written requirement, we have the CENTEC-based STH-2QX4DX48GP (48 x 1G PoE++ + 4 x 25G + 2 x 40G) that stacks up to 8 units as one logical switch. On the AC5 access units, what you get instead is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, the STH-2QX4DX48GP is the unit to discuss (ANDA label possible); if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

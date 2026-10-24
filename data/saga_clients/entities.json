@@ -69867,7 +69867,7 @@
 "p1": "STH 系列 48×10G（若对方再来）",
 "tier": 20,
 "price": "—",
-"why": "不投入｜对外统一口径（#1）：2024-11/2025-05 两次答「开发中」（48 口 10G、机箱/堆叠）属口径漂移——若再触达，说法改为「接入线无堆叠；48×10G/机箱级用 CENTEC（8C48DX $4,800 EXW）」，不再说开发中",
+"why": "不投入｜对外统一口径（#1）：2024-11/2025-05 两次答「开发中」（48 口 10G、机箱/堆叠）属口径漂移——若再触达，说法改为「接入 AC5 不堆叠；可堆叠的是 CENTEC STH1G（STH-2QX4DX48GP/GE，48×1G + 4×25G + 2×40G，≤8 台）；48×10G 用 STH-8C48DX $4,800 EXW」，不再说开发中",
 "repeat": [],
 "gaps": []
 },
@@ -412299,7 +412299,7 @@
 "p1": "STI-288GPM",
 "tier": 30,
 "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-27 $300（48 Port PoE Managed Switch）",
-"why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+"why": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #1（2026-10-24 改正）：「Stacking is mandatory」的正确答法不是只说没有——AC5 没有，但 CENTEC STH1G（STH-2QX4DX48GP，≤8 台）有；信里两层都说",
 "repeat": [],
 "gaps": []
 },
@@ -412307,7 +412307,7 @@
 "when": "2026-11",
 "channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
 "action": "只问一句",
-"one_question": "Subhash — on stacking: our AC5 units do not stack (no stack ports, no single-image chassis) — redundancy is ERPS G.8032 rings + 10G uplinks. Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
+"one_question": "Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?"
 },
 "facts": [
 {
@@ -412364,7 +412364,7 @@
 ],
 "draft_en": {
 "subject": "Re: ANDA ATMIS series — the stacking point",
-"body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). What they do offer is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, we should not waste your time on the AC5 line; if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than a datasheet:\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). Where stacking is a written requirement, we have the CENTEC-based STH-2QX4DX48GP (48 x 1G PoE++ + 4 x 25G + 2 x 40G) that stacks up to 8 units as one logical switch. On the AC5 access units, what you get instead is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, the STH-2QX4DX48GP is the unit to discuss (ANDA label possible); if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -468867,7 +468867,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — there is no stacking — redundancy is 10G uplinks + LACP/ERPS; would that fit the SMB sites you support?"
+"one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD; these do not stack (10G uplinks + LACP/ERPS instead), and where a site really needs a stack we have a CENTEC-based 48-PoE unit that stacks up to 8 — would that fit the SMB sites you support?"
 },
 "facts": [
 {
@@ -469710,20 +469710,20 @@
 },
 "situation": "这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。",
 "need": "可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。",
-"breakpoint": "承诺与交付之间的 16 个月；以及产品线对不上（AC5 ≠ Catalyst 9300 级堆叠）。",
+"breakpoint": "承诺与交付之间的 16 个月；2026-03-11 终于有了可堆叠线（STH1G），却只发了一句话 + pdf，Greg 没回——对表没做完。",
 "saga_now": {
-"p1": "CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」",
+"p1": "CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX",
 "tier": 30,
 "price": "按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-10-30 $280（10G Enterprise SFP Switch）",
-"why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（见 docs/对外口径一致性_2026-10-24.md #1）：2026-03-11 Simon 写的「stacking available on all models」与对 Angora（2025-02-11「Stack 长期不做」）、Netaş（2026-02「maturing」）矛盾，且仓内结论 AC5 无硬件堆叠——对表信里要先把这句纠正为 MLAG/ERPS/统一管理，再谈 CENTEC 汇聚",
+"why": "美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf",
 "repeat": [],
-"gaps": "CENTEC 堆叠能力仓库无证（Q2 表功能栏只列 VXLAN/EVPN/BGP/OSPF/MPLS/MLAG/IPv6），信里不写 CENTEC stacking；MLAG 作为替代口径"
+"gaps": "STH1G 仓内无价（主表/CENTEC Q2 xls 都没有 STH-2QX4DX 行）——报价区间要 Simon 自己定；10G 铜口接入（他 2025-01-31 要 10/100/1G/10G copper）STH1G 没有，只有 1G 铜 + 25G/40G 光"
 },
 "next_move": {
 "when": "现在",
-"channel": "S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）；备用具名邮箱 → rwtull@versitron.com",
-"action": "一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在",
-"one_question": "Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?"
+"channel": "S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com",
+"action": "一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里",
+"one_question": "Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?"
 },
 "facts": [
 {
@@ -469916,8 +469916,8 @@
 "Saga 当天附的「stacking」资料是 AC5 还是 CENTEC——附件名未见"
 ],
 "draft_en": {
-"subject": "Re: 48 port stacking switches — honest status + what we can brand",
-"body": "Hi, Greg,\n\nClosing the loop on the stackable line you asked about since 2024.\n\nHonest status: our Marvell AC5 access switches now have stacking in firmware, but they are not a Catalyst 9300-class platform (no dedicated 40/80/100G stack ports, no single-image chassis view across 8 units). I would not put the Versitron name on that claim.\n\nWhat we can put your name on today:\n- CENTEC-based L3 switches for the aggregation/core role — 48x25G + 8x100G (STH-8C48DX-HSI, $4,800 USD EXW) and 6x40G + 2x100G half-width (STH-2C6QX-HSI, $1,200 USD EXW), VXLAN/EVPN, MLAG, MPLS, hot-swap PSU, MA license included (2026 Q2 list, valid 15 days).\n- 24/48-port 1G access with 4x10G uplinks (L2+/L3) under your label.\n\nOne question: if the 2027 roadmap still has \"stackable\", is it the access tier (1G + 10G uplinks) or the aggregation tier where you need it first?\n\nThank you.\nSimon"
+"subject": "Re: 48 port stacking switches — the stackable line, properly this time",
+"body": "Hi, Greg,\n\nIn March I sent you one line and a PDF and called it done — that was too short after you had asked about stacking since 2024. Here is the proper answer against your January-2025 list.\n\nThe stackable platform is our CENTEC-based STH1G series, not the Marvell access switches (those will not stack, and I will not claim otherwise):\n- STH-2QX4DX48GP-HSI: 48 x 1G PoE++ (90 W/port, 1200 W dual hot-swap PSU) + 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G)\n- Stacking: up to 8 units as one logical switch, ring or chain over the fiber ports, 360 Gbps stack bandwidth (Catalyst 9300-class StackWise-320 is the comparison your market will make)\n- Not covered: 10G copper access ports — this line is 1G copper + 25G/40G fiber\n- L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec; Versitron logo, model name and SNMP strings on the unit\n- Lighter version: STH-2QX4DX48GP-SFI (PoE+ 30 W, single PSU)\n\nPricing is by first-batch quantity, so I will not guess a number here.\n\nOne question: is the Cisco-alternative stackable line still on your 2027 plan, and if yes, how many units per stack and roughly how many stacks? With that I will send the EXW price the same day.\n\nThank you.\nSimon"
 },
 "as_of": "2026-10-24"
 }
@@ -688889,10 +688889,186 @@
 "-15 只有免费邮箱、无公司名无网站（个人买家特征）",
 "-3 区域 未知/未填"
 ],
-"c_sub": "综合分低",
+"c_sub": "",
 "status": "名单内·未触达",
 "code": "SC-2186",
-"grade": "C"
+"grade": "B",
+"research": {
+"code": "SC-2186",
+"name_official": "Arnoldo Beltetón Mohr（Solution Architect / Project Manager；gmail；国别未填，姓氏 Beltetón 常见于危地马拉——待证）",
+"researched_at": "2026-10-24",
+"website_status": "无域名（gmail）",
+"summary": "A 邮箱 2025-04 起 8 轮群发；2026-01-15 对「OEM Core Switching Solution」真回：CENTEC「could be a great alternative in our market」，2 月有高端交换机项目；2026-03-10 带客户需求来：若干台 Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+），要堆叠（StackWise-320，8 台 / 320 Gbps）；Alan 03-11 二选一（无堆叠→STC-448XGGPM；要堆叠→CENTEC STH-2QX4DX48GP-HSI，附 STH1G Series.pdf），03-12 给出堆叠参数（最多 8 台、360 Gbps、2×40G+4×25G 光口堆叠、链/环）并问数量 → 至今无回（7 个月）。",
+"type": "方案商 / 项目经理（为终端客户找 Cisco 替代）",
+"size": "",
+"brands_seen": [
+"Cisco C9300L-48P-4X"
+],
+"evidence": [
+{
+"kind": "邮件",
+"claim": "对 CENTEC 表兴趣：「great alternative in our market」",
+"quote": "The OEM switch proposal looks very interesting. I think it would be worthwhile to learn more about CENTEC, as it could be a great alternative in our market",
+"url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+"date": "2026-01-15"
+},
+{
+"kind": "邮件",
+"claim": "2 月有高端交换机项目",
+"quote": "I have a project in February that requires high-end switches",
+"url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+"date": "2026-01-19"
+},
+{
+"kind": "邮件",
+"claim": "终端客户要 Cisco C9300L-48P-4X 等价物并要报价",
+"quote": "client who's requesting several switches similar to the Cisco C9300L-48P-4X… 48x1G PoE+ Base-T/4x10G SFP+… get a quote?",
+"url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+"date": "2026-03-10"
+},
+{
+"kind": "邮件",
+"claim": "堆叠是硬需求（8 台 / StackWise-320）",
+"quote": "my client needs stacking… up to 8 units using StackWise-320… 320 Gbps",
+"url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+"date": "2026-03-11"
+},
+{
+"kind": "邮件（去）",
+"claim": "Alan 锁定 STH-2QX4DX48GP-HSI 并给堆叠参数，问数量",
+"quote": "max 8 units… 360Gbps… 2*40G and 4*25G… chain and ring… what is the quantity you need?",
+"url": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）",
+"date": "2026-03-12"
+}
+],
+"kp": [
+{
+"name": "Arnoldo Beltetón Mohr",
+"title": "Solution Architect / Project Manager",
+"email": "arnoldomohr@gmail.com",
+"phone": "",
+"source": "gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）"
+}
+],
+"grade_override": "B",
+"override_reason": "5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。",
+"notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-924 Versitron，只发未回）。",
+"deep": {
+"done_at": "2026-10-24",
+"level": "仅邮件证据 · 无域名"
+},
+"company_facts": {
+"legal_name": "（未知；gmail 联系人）",
+"founded": "",
+"hq": "（未填）",
+"size": "",
+"other": "Solution Architect 署名；2026-03 为终端客户选型"
+},
+"channels": {
+"role": "方案商 / 项目经理",
+"region": "（未填；疑危地马拉）"
+},
+"risks": [
+"终端客户是否已选其他品牌不明（03-12 后无回）",
+"STH1G 仓内无价（主表/CENTEC Q2 xls 均无 STH-2QX4DX 行）——报价要 Simon 自己定",
+"gmail 联系人，公司实体不明"
+],
+"saga_fit": {
+"p1": "STH-2QX4DX48GP-HSI（CENTEC STH1G，48×PoE++ + 4×25G + 2×40G，堆叠 ≤8）",
+"tier": 30,
+"why": "终端客户要 C9300L-48P-4X 可堆叠等价——接入 AC5 不堆叠，只能走 CENTEC STH1G；仓内无价。"
+},
+"email_hook": "（见 mail_review.draft_en）",
+"mail_review": {
+"as_of": "2026-10-24",
+"binding": {
+"level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）",
+"type": "方案商（为终端客户选型）",
+"sieve": "4~5（具体型号 + 堆叠参数层面）",
+"stop": "停在「what is the quantity you need?」（2026-03-12 去）——他要先回客户，后无音；STH1G 无价也让我们没法主动给数",
+"revive": "一封「STH1G 对 C9300L 对表 + 一个问题」；不发新品群发",
+"lane": "拉美（疑危地马拉）非主攻；CENTEC 敲门砖案例",
+"cadence": "季度",
+"evidence": "gmail_a 2026-01-15 → 2026-03-12（17 封：9 群发、3 实质去信、5 来信）；附件 STH1G Series.pdf（2026-03-11 去，sha df9670bdd28f51ac）；digest in 5 / out 21"
+},
+"situation": "方案商 Arnoldo（Solution Architect）2026-01 对 CENTEC 感兴趣，03-10 带来终端客户需求：若干台 Cisco C9300L-48P-4X 等价（48×1G PoE+ + 4×10G SFP+），03-11 明确要堆叠（8 台 / StackWise-320）。Alan 当天给出二选一，03-12 锁定 CENTEC STH-2QX4DX48GP-HSI 并给堆叠参数，问数量——此后无回。",
+"need": "Cisco C9300L-48P-4X 的可堆叠等价物（48×PoE+ + 10G 上联，8 台堆叠），要价格和数量级别的对表。",
+"breakpoint": "我们问「数量」时没给价，他回客户拿不到数就断了；且 STH1G 仓内无价，Simon 得自己定一个区间才能重启。",
+"saga_now": {
+"p1": "STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）",
+"tier": "OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
+"price": "仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
+"why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）",
+"repeat": "若成，终端客户项目制；方案商可带下一个项目",
+"gaps": "国别/公司实体；终端客户是否已定；数量；STH1G 价"
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → arnoldomohr@gmail.com（回 2026-03-12 原线程「OEM Core Switching Solution」）",
+"action": "一封对表信：STH-2QX4DX48GP-HSI 对 C9300L-48P-4X 四行对表（PoE 预算、上联、堆叠 8 台/360G、L3 特性），价格先给「按数量报」而不是空着——Simon 需先定 STH1G 的 EXW 区间（仓内无价）；只问一个问题：项目还在不在 + 数量级别",
+"one_question": "Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet."
+},
+"facts": [
+{
+"date": "2026-01-15",
+"dir": "来",
+"who": "Arnoldo Beltetón Mohr",
+"quote": "The OEM switch proposal looks very interesting. I think it would be worthwhile to learn more about CENTEC, as it could be a great alternative in our market",
+"why": "CENTEC 敲门砖在他的市场成立",
+"k": "interest"
+},
+{
+"date": "2026-01-19",
+"dir": "来",
+"who": "Arnoldo",
+"quote": "I'm interested in learning more about CENTEC, as I have a project in February that requires high-end switches",
+"why": "2 月项目——Alan 01-20 答 10G~800G 都有、等规格、Simon 可谈",
+"k": "project"
+},
+{
+"date": "2026-03-10",
+"dir": "来",
+"who": "Arnoldo（Solution Architect）",
+"quote": "I have a client who's requesting several switches similar to the Cisco C9300L-48P-4X… 48x1G PoE+ Base-T/4x10G SFP+/Network Essentials. I'd like to get in touch to see if we have a good option with Centec or SAGA. Do you think we can move forward and get a quote?",
+"why": "终端客户型号明确；要报价",
+"k": "rfq"
+},
+{
+"date": "2026-03-11",
+"dir": "去",
+"who": "Alan",
+"quote": "Need to know if your client needs \"stacking\" feature. This is important. If no, let's just do Marvell solution. STC-448XGGPM, 10G L3 with PoE. If yes, we need to go with CENTEC solution… STH-2QX4DX48GP-HSI. The fiber uplink is about 25G/40G, but it can be configured as 10G.（附 STH1G Series.pdf）",
+"why": "二选一分叉；AC5 不堆叠的口径在此已用对",
+"k": "offer"
+},
+{
+"date": "2026-03-11",
+"dir": "来",
+"who": "Arnoldo",
+"quote": "Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWise-320 technology… total stack bandwidth of 320 Gbps… if you have something equivalent or superior it's very good.",
+"why": "堆叠是硬需求，标尺 = 8 台 / 320G",
+"k": "need"
+},
+{
+"date": "2026-03-12",
+"dir": "去",
+"who": "Alan",
+"quote": "Yes, let's do CENTEC solution… we will focus on STH-2QX4DX48GP-HSI. About stacking: 1. max 8 units; 2. bandwidth max 360Gbps, uplinks 2*40G and 4*25G; 3. fiber uplinks for stacking; 4. both chain and ring… what is the quantity you need?",
+"why": "对表完成但没给价——断点",
+"k": "offer"
+}
+],
+"proof_gaps": [
+"国别/公司（gmail，信中只说 our market）",
+"03-12 之后是否有 WhatsApp/会议等线外接触——仓内无",
+"STH1G EXW 价（主表无）"
+],
+"draft_en": {
+"subject": "Re: OEM Core Switching Solution — STH-2QX4DX48GP-HSI vs C9300L-48P-4X, is the project still open?",
+"body": "Hi, Arnoldo,\n\nIn March we settled on the CENTEC-based STH-2QX4DX48GP-HSI as the stackable alternative to the C9300L-48P-4X, and I owe you a cleaner comparison than a datasheet:\n\n- Access: 48 x 1G PoE++ (90 W per port, 1200 W dual hot-swap PSU) vs 48 x 1G PoE+ on the Cisco\n- Uplinks: 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G) vs 4 x 10G SFP+\n- Stacking: up to 8 units, ring or chain over the fiber ports, 360 Gbps vs StackWise-320\n- Software: L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec, SNMP v3/CLI/Web; your own logo and model name on the unit\n\nIf the budget is tighter, the -SFI version (PoE+ 30 W, single PSU) is the lighter option.\n\nOne question: is the C9300L replacement still open, and roughly how many units (how many 8-unit stacks, how many sites)? With that I will give you the EXW unit price instead of a range.\n\nThank you.\nAlan"
+}
+}
+}
 },
 {
 "name": "eletrotecnicasoares",

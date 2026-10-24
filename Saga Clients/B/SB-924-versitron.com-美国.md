@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。（调研 2026-10-21；表内兴趣：Stacking）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」 — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（见 docs/对外口径一致性_2026-10-24.md #1）：2026-03-11 Simon 写的「stacking available on all models」与对 Angora（2025-02-11「Stack 长期不做」）、Netaş（2026-02「maturing」）矛盾，且仓内结论 AC5 无硬件堆叠——对表信里要先把这句纠正为 MLAG/ERPS/统一管理，再谈 CENTEC 汇聚；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-10-30 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-10-30 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）；备用具名邮箱 → rwtull@versitron.com 一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
+- **下一步**：现在 S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com 一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,11 +47,11 @@ updated: 2026-10-24
 - **绑定等级：较深的「关系绑定」但零成交（S 邮箱三年 21 来 29 去，全是 Greg Massott 本人；他在 2024-11 → 2025-10 之间 6 次主动追问堆叠；2026-03-11 Simon 宣布堆叠可用后只收到自动回复，至今 7 个月无回）** ｜ 类型：美国老牌光传输/工业以太网品牌商（第一档 OEM 品牌商；Greg = 采购/产品经理级，Simon 前东家时代就认识，Olycom HDMI） ｜ 筛子：3→4 之间：要过数据表、报价、芯片追问，但从未要样品；原因是它要的是「能和 Cisco 比的堆叠整线」，不是单品 ｜ 停点：两个断点：① 2024-11 Simon 承诺堆叠「2~3 个月」，拖到 2025-10-31 坦白「1st release 出了严重问题」，期间 Greg 追了 6 次——信用被消耗；② 2026-03-11 Simon 说「Finally, stacking available on all models」，Greg 只回了 OOO 自动回复——要么没看到，要么已另寻来源 ｜ 复活：不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过） ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品 ｜ 证据：k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
 - **现状一句话**：这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。
 - **对方真实需求（有据）**：可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。
-- **断点 / 为什么停在这里**：承诺与交付之间的 16 个月；以及产品线对不上（AC5 ≠ Catalyst 9300 级堆叠）。
-- **Saga 现在该推什么**：P1 **CENTEC STH 系列（10G/25G 接入 + 100G 上联，VXLAN/EVPN/Stacking）——而不是继续推 AC5「stacking」**（30% 档，按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-10-30 $280（10G Enterprise SFP Switch））——美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（见 docs/对外口径一致性_2026-10-24.md #1）：2026-03-11 Simon 写的「stacking available on all models」与对 Angora（2025-02-11「Stack 长期不做」）、Netaş（2026-02「maturing」）矛盾，且仓内结论 AC5 无硬件堆叠——对表信里要先把这句纠正为 MLAG/ERPS/统一管理，再谈 CENTEC 汇聚
-  - 做不了 / 要先核的：C；E；N；T；E；C； ；堆；叠；能；力；仓；库；无；证；（；Q；2； ；表；功；能；栏；只；列； ；V；X；L；A；N；/；E；V；P；N；/；B；G；P；/；O；S；P；F；/；M；P；L；S；/；M；L；A；G；/；I；P；v；6；）；，；信；里；不；写； ；C；E；N；T；E；C； ；s；t；a；c；k；i；n；g；；；M；L；A；G； ；作；为；替；代；口；径
-- **下一步（具体）**：现在　S 邮箱 → gmassott@versitron.com（同一串 Re: 48 Port PoE Managed Switch）；备用具名邮箱 → rwtull@versitron.com　一封对表信：承认 2025 年拖延；按他 2025-01-31 的三条硬规格逐条写「有/没有/哪个型号」；给 CENTEC 两款的 OEM 价格区间；问他现在堆叠项目还在不在
-  - 第一问（只问一个）：Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?
+- **断点 / 为什么停在这里**：承诺与交付之间的 16 个月；2026-03-11 终于有了可堆叠线（STH1G），却只发了一句话 + pdf，Greg 没回——对表没做完。
+- **Saga 现在该推什么**：P1 **CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX**（30% 档，按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2025-10-30 $280（10G Enterprise SFP Switch））——美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf
+  - 做不了 / 要先核的：S；T；H；1；G； ；仓；内；无；价；（；主；表；/；C；E；N；T；E；C； ；Q；2； ；x；l；s； ；都；没；有； ；S；T；H；-；2；Q；X；4；D；X； ；行；）；—；—；报；价；区；间；要； ；S；i；m；o；n； ；自；己；定；；；1；0；G； ；铜；口；接；入；（；他； ；2；0；2；5；-；0；1；-；3；1； ；要； ；1；0；/；1；0；0；/；1；G；/；1；0；G； ；c；o；p；p；e；r；）；S；T；H；1；G； ；没；有；，；只；有； ；1；G； ；铜； ；+； ；2；5；G；/；4；0；G； ；光
+- **下一步（具体）**：现在　S 邮箱 → gmassott@versitron.com（回 2026-03-11 那封「Re: 10G Enterprise SFP Switch」，他没回过）；备用具名邮箱 → rwtull@versitron.com　一封对表信：承认 2025 年拖延 + 3 月那封写得太短（一句「available on all models」+ 一个 pdf）；按他 2025-01-31 的三条硬规格逐条写 STH-2QX4DX48GP-HSI 有/没有（1G 铜口 PoE++ 有、10G 铜口没有、40G 光口堆叠 ≤8 台有、单逻辑设备有）；价格写「按首批数量给 EXW」——Simon 先定 STH1G 区间（仓内无价）；只问一个问题：堆叠线还在不在 2027 计划里
+  - 第一问（只问一个）：Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -274,20 +274,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: 48 port stacking switches — honest status + what we can brand
+**主题**：Re: 48 port stacking switches — the stackable line, properly this time
 
 ```text
 Hi, Greg,
 
-Closing the loop on the stackable line you asked about since 2024.
+In March I sent you one line and a PDF and called it done — that was too short after you had asked about stacking since 2024. Here is the proper answer against your January-2025 list.
 
-Honest status: our Marvell AC5 access switches now have stacking in firmware, but they are not a Catalyst 9300-class platform (no dedicated 40/80/100G stack ports, no single-image chassis view across 8 units). I would not put the Versitron name on that claim.
+The stackable platform is our CENTEC-based STH1G series, not the Marvell access switches (those will not stack, and I will not claim otherwise):
+- STH-2QX4DX48GP-HSI: 48 x 1G PoE++ (90 W/port, 1200 W dual hot-swap PSU) + 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G)
+- Stacking: up to 8 units as one logical switch, ring or chain over the fiber ports, 360 Gbps stack bandwidth (Catalyst 9300-class StackWise-320 is the comparison your market will make)
+- Not covered: 10G copper access ports — this line is 1G copper + 25G/40G fiber
+- L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec; Versitron logo, model name and SNMP strings on the unit
+- Lighter version: STH-2QX4DX48GP-SFI (PoE+ 30 W, single PSU)
 
-What we can put your name on today:
-- CENTEC-based L3 switches for the aggregation/core role — 48x25G + 8x100G (STH-8C48DX-HSI, $4,800 USD EXW) and 6x40G + 2x100G half-width (STH-2C6QX-HSI, $1,200 USD EXW), VXLAN/EVPN, MLAG, MPLS, hot-swap PSU, MA license included (2026 Q2 list, valid 15 days).
-- 24/48-port 1G access with 4x10G uplinks (L2+/L3) under your label.
+Pricing is by first-batch quantity, so I will not guess a number here.
 
-One question: if the 2027 roadmap still has "stackable", is it the access tier (1G + 10G uplinks) or the aggregation tier where you need it first?
+One question: is the Cisco-alternative stackable line still on your 2027 plan, and if yes, how many units per stack and roughly how many stacks? With that I will send the EXW price the same day.
 
 Thank you.
 Simon

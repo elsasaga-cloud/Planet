@@ -114,7 +114,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — there is no stacking — redundancy is 10G uplinks + LACP/ERPS; would that fit the SMB sites you support?"
+      "one_question": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD; these do not stack (10G uplinks + LACP/ERPS instead), and where a site really needs a stack we have a CENTEC-based 48-PoE unit that stacks up to 8 — would that fit the SMB sites you support?"
     },
     "facts": [
       {
