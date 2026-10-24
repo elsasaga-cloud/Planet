@@ -52,6 +52,11 @@ updated: 2026-10-24
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → boecek@（先核地址是否有效；无具名 KP）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-14 | 去 | Saga（Alan） | 「16 Port Ethernet Switch」——A 邮箱对 boecek@boecek.de 的第 1 封群发 | A 级（人工定）却从未有任何来信；15 封群发 2025-04→2026-09 无一次打开记录 | `f5b9385c457b416c` |
+| 2026-09-23 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址 | 同一地址打了 17 个月；换人（找具名采购）比再发更有用 | `7c09d3b669698238` |
+
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「样品购买」无 PI；邮件 0 打开
 
 ## 基本事实（事实/推断/假设分层）

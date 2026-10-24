@@ -52,6 +52,11 @@ updated: 2026-10-24
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → matt@addoncomputer.com　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-02 | 去 | Saga（Alan） | 「90W PoE Managed Switch」——对 sales@addonnetworks.com 的第 1 封 | 33 封分发到 4 个地址（sales@ 13 / matt@addoncomputer.com 15 / anthony.giunta@ 5 / tyler.griffey@ 5），0 回 | `d4c6d5fe4ffb46a9` |
+| 2026-08-31 | 去 | Saga（Alan） | 「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@ | AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期 | `9a4cd7f8c26980fe` |
+
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「已买样」无 PI
 
 ## 基本事实（事实/推断/假设分层）
@@ -99,6 +104,8 @@ updated: 2026-10-24
   > Country Of Origin · Varies … TAA Compliant · No … AddOn Part# · ADD-MC-PRO-1000AS-SFP
   > 来源：https://www.addonnetworks.com/products/media-converters/industry-standard/add-mc-pro-1000as-sfp（抓取 2026-10-21）
 - **KP**：Matt McCormick（采购/产品联系人（用户表原值））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
+- **KP**：Anthony Giunta（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））anthony.giunta@addonnetworks.com 〔A 邮箱发件表头〕
+- **KP**：Tyler Griffey（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））tyler.griffey@addonnetworks.com 〔A 邮箱发件表头〕
 - 备注：A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -230,8 +237,9 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Matt McCormick | 采购/产品联系人（用户表原值） | matt@addoncomputer.com / +1 949-735-4119（WhatsApp 已加） | 调研核实（公开页） | Clients/A/DONE/US.xlsx |
+| Anthony Giunta | 收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核） | anthony.giunta@addonnetworks.com | 调研核实（公开页） | A 邮箱发件表头 |
+| Tyler Griffey | 收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核） | tyler.griffey@addonnetworks.com | 调研核实（公开页） | A 邮箱发件表头 |
 | Mr. Matt McCormick | — | sales@addonnetworks.com / matt@addoncomputer.com / +9497354119 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
-| Anthony Giunta | — | sales@addonnetworks.com / matt@addoncomputer.com / +9497354119 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

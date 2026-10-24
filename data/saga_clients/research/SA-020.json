@@ -137,11 +137,28 @@
     },
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-      "channel": "A 邮箱 → WIDEN 具名 KP 待找（27 封 0 回，建议换联系人）",
+      "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
       "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
       "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2024-06-24",
+        "dir": "去",
+        "who": "Saga（Simon）",
+        "quote": "「5 port industrial switch」——S 邮箱对 thawat@widen.co.th + info@widen.co.th 的第 1 封",
+        "why": "两个地址并发 27 封（2024-06→2026-09），0 回、0 打开记录",
+        "k": "b43d00bf4155c428"
+      },
+      {
+        "date": "2026-09-28",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「Managed PoE Switches」——最后一封群发",
+        "why": "thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人",
+        "k": "f68e0de76ea765a6"
+      }
+    ],
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
     ],

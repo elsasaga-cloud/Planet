@@ -45,6 +45,20 @@
       "email": "matt@addoncomputer.com",
       "phone": "+1 949-735-4119（WhatsApp 已加）",
       "source": "Clients/A/DONE/US.xlsx"
+    },
+    {
+      "name": "Anthony Giunta",
+      "role": "收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核）",
+      "email": "anthony.giunta@addonnetworks.com",
+      "phone": "",
+      "source": "A 邮箱发件表头"
+    },
+    {
+      "name": "Tyler Griffey",
+      "role": "收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核）",
+      "email": "tyler.griffey@addonnetworks.com",
+      "phone": "",
+      "source": "A 邮箱发件表头"
     }
   ],
   "notes": "A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。",
@@ -146,7 +160,24 @@
       "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
       "one_question": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2025-04-02",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「90W PoE Managed Switch」——对 sales@addonnetworks.com 的第 1 封",
+        "why": "33 封分发到 4 个地址（sales@ 13 / matt@addoncomputer.com 15 / anthony.giunta@ 5 / tyler.griffey@ 5），0 回",
+        "k": "d4c6d5fe4ffb46a9"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Saga（Alan）",
+        "quote": "「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@",
+        "why": "AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期",
+        "k": "9a4cd7f8c26980fe"
+      }
+    ],
     "proof_gaps": [
       "「已买样」无 PI"
     ],

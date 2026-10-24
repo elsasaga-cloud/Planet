@@ -52,6 +52,11 @@ updated: 2026-10-24
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → info@falke-security.de（Nuri Sahin）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：You asked at the show for the 8-copper models with fibre uplinks, so here are the two closest Marvell-based units, the 8-port PoE+ with 2 SFP and the 24-port with four 10G SFP+ uplinks, both at EXW. Which of the two should I price first? Reference: STC-28DGGPM at $84.1 / STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity).
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-15 | 去 | Saga（Alan） | 「L3 Managed Switch」——对 info@falke-security.de 的第 1 封 | 15 封 2025-04→2026-09 全发 info@，0 回、0 打开记录 | `0443766a26891554` |
+| 2026-09-24 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封 | 公用 info@ 打了 17 个月无反应；具名 Nuri Sahin 下次直发 | `d564e14c35bc58ca` |
+
 - **还缺的证据（等 A 邮箱 / Extra Info）**：机型兴趣出处未见
 
 ## 基本事实（事实/推断/假设分层）
