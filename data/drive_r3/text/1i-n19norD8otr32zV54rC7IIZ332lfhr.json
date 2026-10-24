@@ -1,0 +1,471 @@
+{
+"id":"1i-n19norD8otr32zV54rC7IIZ332lfhr",
+"name":"STI-2160GE.docx",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-2160GE.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1196511,
+"sha256":"9f22bf8f8b78425fc8308421ce7cf059e0982c5b9322d9bc3429b0757ba67b31",
+"extracted_at":"2026-10-24T03:24:52Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":5545,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-10-07T12:20:00+00:00",
+"modified":"2026-06-22T12:55:13+00:00",
+"paragraphs":54,
+"tables":1,
+"embedded_images":11,
+"ocr_images":0
+},
+"warnings":[],
+"text":"Key Features\n16*10/100/1000Base-T RJ45 port, 2*1000Base-X SFP fiber port\nRedundant DC12-58V power input with polarity reverse/over-current protection\nSupport one channel output relay alarm(terminal block Pin 5/6)for DC power failure\nPowerful DIP switch function(on the top panel)\nLink aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain\nSupport 10K bytes jumbo frame\nSupport 6KV surge protection and ESD: Air-15KV, Contact-8KV protection\nIP40 fan-less and Din-rail design\nOperation temperature: -40℃~+75℃\nIt is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries\nSpecification\nProduct Name\t18 Port 10/100/1000Mbps Industrial Ethernet Switch\nPort\t16*10/100/1000M Ethernet + 2 Port 1000M Fiber\nAlarm Port\tOne relay output for power failure / Alarm relay current carry ability: 1A@24VDC\nNetwork Medium\t10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)\nNetwork Protocol\tIEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet\nFiber Option\tHot Plug-able Module(LC), 1000M based / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: 1*9 fixed module is NOT available on this model / It is NOT supporting 100M SFP Module\nSwitching Capacity\t36Gbps\nThroughput\t53.5Mpps\nPacket Buffer\t2M\nMAC Address\t8K\nVLAN\t4K\nJumbo Frame\t10Kbytes\nTransfer Mode\tStore and forward, forwarding delay<5us\nMDX/MIDX\tSupport\nWatchdog\tSupport\nNetwork Topology\tStar topology / Bus topology / Tree Topology\nMTBF\t200,000 hours\nInput Voltage\tDC12-58V, Redundant Input, Typically DC12V/DC24V/DC48V / Removable 6 PIN Industrial Terminal Block, pin 5/6 for relay alarm output\nInput Current\t0.8A Max\nPower Consumption\tFull loading≤10W\nReverse Polarity Protection\tSupport\nOver-current Protection\tSupport\nProtection Level\tIP40(Currently IP66/IP67/IP68 rated models are NOT available)\nInstallation\tDin Rail or Wall Mounted(1pc mounting hanger is offered)\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nIndustry Standard\tEMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5 6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10V/m / EFT: IEC 61000-4-4 power interface: 4K; Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2 Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nDIP\tLink aggregation / Flow control / QoS(1-2 ports) / Broadcast storm restrain\nLED Indicator\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: the chip read/write is abnormal / Off: the chip is normally operating / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission\nApplication\nAny network utilizing a mixture of copper and fiber\nIP connectivity and communication\nCCTV system such as network camera, access control\nMechanical Drawing\nRemark\nPlease contact us if the source file is needed\nPacking Information\n1pc switch(neutral device)\n1pc wall hanger(shared holes with DIN Rail Kit)\n1pc user manual(including QIG information)\nPlease know that there is NOT a warranty card in the packing box\nA “Warranty Certificate” will be issued to indicate the order information and warranty coverage\nShipping box information(Below information is approximately accurate)\nProduct size: 158*115*54mm\nInner box size: 230*180*70mm\nProduct weight: 1.2Kg\nPacking weight: 1.4Kg\nMaster box size: 440*375*250mm\nPacking quantity: 12Pcs\nPacking weight: 18Kg\nRemark\nAccessories(DIN rail bracket, optical module, power supply, network cable, patchcord etc.)are NOT included in the packing box, please prepare it by yourself or purchase a whole set from us\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\nBullet Points\nThis helps you understand the unique features of our models and why choose us\nExpert Design\nWe borrow the case design idea from Moxa and Simens(to have beauty, professionalism and practicality in industrial design)\nThe upper panel, aluminum\nThe other sides, iron\nThe curves and textures\nThis ensures beautiful outlook and good heat dissipation especially for PoE models\nDIP Function\nThis offers useful and flexible configurations based on the same model\nPush-in Terminal Block\nThis is much easier in installation than traditional screw-type terminal block\nFor many models on the market\nThe design is not so good\nWithout DIP function\nTraditional screw-type terminal block\n[页眉页脚]\nMarvell Industrial Unmanaged Series\t                                                                                                  Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"16*10/100/1000Base-T RJ45 port, 2*1000Base-X SFP fiber port"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Redundant DC12-58V power input with polarity reverse/over-current protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support one channel output relay alarm(terminal block Pin 5/6)for DC power failure"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Powerful DIP switch function(on the top panel)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Link aggregation; 2. Flow control; 3. QoS; 4. Broadcast storm restrain"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 10K bytes jumbo frame"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 6KV surge protection and ESD: Air-15KV, Contact-8KV protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP40 fan-less and Din-rail design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operation temperature: -40℃~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is an ideal solution for IP surveillance, wind, electricity, assembly automation, subway PIS, power SCADA, sewage treatment, metallurgy, intelligent transportation, rail transportation, military and other industries"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"18 Port 10/100/1000Mbps Industrial Ethernet Switch"
+],
+[
+"Port",
+"16*10/100/1000M Ethernet + 2 Port 1000M Fiber"
+],
+[
+"Alarm Port",
+"One relay output for power failure / Alarm relay current carry ability: 1A@24VDC"
+],
+[
+"Network Medium",
+"10BASE-T: Cat3, 4, 5 or above UTP(≤100 meters) / 100BASE-TX: Cat5 or above UTP(≤100 meters) / 1000BASE-TX: Cat5 or above UTP(≤100 meters)"
+],
+[
+"Network Protocol",
+"IEEE 802.3 10Base-T Ethernet / IEEE 802.3u Fast Ethernet / IEEE 802.3ab Gigabit Ethernet / IEEE 802.3x Full-Duplex Flow Control / IEEE 802.3az Energy Efficient Ethernet"
+],
+[
+"Fiber Option",
+"Hot Plug-able Module(LC), 1000M based / SM: 1310nm/1550nm, 20Km; 1490nm/1550nm, 40~100Km / MM: 1310nm, 2Km; 850nm, 500-meter / Remark: 1*9 fixed module is NOT available on this model / It is NOT supporting 100M SFP Module"
+],
+[
+"Switching Capacity",
+"36Gbps"
+],
+[
+"Throughput",
+"53.5Mpps"
+],
+[
+"Packet Buffer",
+"2M"
+],
+[
+"MAC Address",
+"8K"
+],
+[
+"VLAN",
+"4K"
+],
+[
+"Jumbo Frame",
+"10Kbytes"
+],
+[
+"Transfer Mode",
+"Store and forward, forwarding delay<5us"
+],
+[
+"MDX/MIDX",
+"Support"
+],
+[
+"Watchdog",
+"Support"
+],
+[
+"Network Topology",
+"Star topology / Bus topology / Tree Topology"
+],
+[
+"MTBF",
+"200,000 hours"
+],
+[
+"Input Voltage",
+"DC12-58V, Redundant Input, Typically DC12V/DC24V/DC48V / Removable 6 PIN Industrial Terminal Block, pin 5/6 for relay alarm output"
+],
+[
+"Input Current",
+"0.8A Max"
+],
+[
+"Power Consumption",
+"Full loading≤10W"
+],
+[
+"Reverse Polarity Protection",
+"Support"
+],
+[
+"Over-current Protection",
+"Support"
+],
+[
+"Protection Level",
+"IP40(Currently IP66/IP67/IP68 rated models are NOT available)"
+],
+[
+"Installation",
+"Din Rail or Wall Mounted(1pc mounting hanger is offered)"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+],
+[
+"Industry Standard",
+"EMI: FCC Part 15B Class A\nSurge protection of power: IEC 61000-4-5 6KV/4KV(8/20us)\nSurge protection of Ethernet ports: IEC 61000-4-5 6KV/2KV(10/700us) / RS: IEC 61000-4-3 80 MHz-1 GHz: 10V/m / EFT: IEC 61000-4-4 power interface: 4K; Ethernet ports: 2K\nCS: IEC 61000-4-6 10V / ESD: IEC 61000-4-2 Level 4(8K/15K)\nShock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+],
+[
+"DIP",
+"Link aggregation / Flow control / QoS(1-2 ports) / Broadcast storm restrain"
+],
+[
+"LED Indicator",
+"PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure / S(System indicator), Red Color / On: the chip read/write is abnormal / Off: the chip is normally operating / Ethernet Port / Green Indicator / On: port link up / Off: port link down / Blinking: data is in normal transmission / Yellow Indicator / On: port speed is 1000M / Off: port speed is 10/100M / Fiber port, Green Color / On: port link up / Off: port link down / Blinking: data is in normal transmission"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Any network utilizing a mixture of copper and fiber"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP connectivity and communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"CCTV system such as network camera, access control"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please contact us if the source file is needed"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc switch(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc wall hanger(shared holes with DIN Rail Kit)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc user manual(including QIG information)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"A “Warranty Certificate” will be issued to indicate the order information and warranty coverage"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 158*115*54mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 230*180*70mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 1.2Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 1.4Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 440*375*250mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 12Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 18Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Accessories(DIN rail bracket, optical module, power supply, network cable, patchcord etc.)are NOT included in the packing box, please prepare it by yourself or purchase a whole set from us"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Bullet Points"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This helps you understand the unique features of our models and why choose us"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Expert Design"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"We borrow the case design idea from Moxa and Simens(to have beauty, professionalism and practicality in industrial design)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The upper panel, aluminum"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The other sides, iron"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The curves and textures"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This ensures beautiful outlook and good heat dissipation especially for PoE models"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"DIP Function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This offers useful and flexible configurations based on the same model"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Push-in Terminal Block"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"This is much easier in installation than traditional screw-type terminal block"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"For many models on the market"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"The design is not so good"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Without DIP function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Traditional screw-type terminal block"
+}
+],
+"header_footer":[
+"Marvell Industrial Unmanaged Series\t                                                                                                  Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.png",
+"bytes":210132
+},
+{
+"name":"image10.png",
+"bytes":328766
+},
+{
+"name":"image2.png",
+"bytes":53634
+},
+{
+"name":"image3.png",
+"bytes":182520
+},
+{
+"name":"image4.jpeg",
+"bytes":34056
+},
+{
+"name":"image5.jpeg",
+"bytes":27525
+},
+{
+"name":"image6.jpeg",
+"bytes":25661
+},
+{
+"name":"image7.jpeg",
+"bytes":30355
+},
+{
+"name":"image8.png",
+"bytes":155811
+},
+{
+"name":"image9.png",
+"bytes":102580
+}
+]
+}

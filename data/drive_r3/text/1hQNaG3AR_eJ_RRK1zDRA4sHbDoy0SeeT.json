@@ -1,0 +1,22 @@
+{
+"id":"1hQNaG3AR_eJ_RRK1zDRA4sHbDoy0SeeT",
+"name":"10.jpg",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-110FE/10.jpg",
+"type":"图片",
+"bytes":1556849,
+"sha256":"c6a8d3a4327552461f115e690a2d0246ffac4ec8d9b9b58615661b27c52cfa37",
+"extracted_at":"2026-10-24T03:25:26Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":4032,
+"height":3024,
+"mode":"RGB",
+"thumb_bytes":9019
+},
+"ocr":{
+"text":"| |\nPetree, j\nPetal\n=.",
+"conf":54.6
+},
+"text":"| |\nPetree, j\nPetal\n=."
+}

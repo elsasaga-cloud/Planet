@@ -1,0 +1,394 @@
+{
+"id":"1wvE5aZPfXrtwSALfK72PPwh9AMNg7og2",
+"name":"STI-PA-120W-UP.docx",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-PA-120W-UP.docx",
+"type":"Word",
+"ext":".docx",
+"bytes":1309754,
+"sha256":"87f6e6fe6156ea2ad170b23d720ba22a1c6f88a2f4cf9a2b8047bc6654fd73a4",
+"extracted_at":"2026-10-24T03:24:59Z",
+"method":"python-docx(段落+表格+文本框+页眉页脚)",
+"status":"ok",
+"chars":3848,
+"meta":{
+"title":"",
+"author":"Simon",
+"last_modified_by":"Simon",
+"created":"2025-10-07T12:20:00+00:00",
+"modified":"2026-06-22T12:54:32+00:00",
+"paragraphs":49,
+"tables":1,
+"embedded_images":13,
+"ocr_images":0
+},
+"warnings":[],
+"text":"Key Features\nPort: 1*DC12~48V input, 2*DC52.4V output, 2-pin connectors\nVoltage step-up: boost DC12V/24V/48V to DC52.4V for IEEE802.3af/at/bt PoE devices(typically industrial PoE switches that receive DC48V~DC57V input)\nVariable power output: DC12V~DC23V input supports Max 60W power output; DC24V~DC48V input supports Max 120W power output\nSupport 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection\nIP40 fan-less and Din-rail hardware design with compact size(85*85*30mm)\nOperation temperature: -40 ℃ ~+75℃\nIt is an ideal solution for easy and efficient PoE equipment deployment such as PoE wireless access points or IP cameras in different industries and scenario\nSpecification\nProduct Name\t120W Din Rail Industrial Power Adapter\nInput Voltage\t1*DC12V~DC48V\nInput Current\t5.7A 12V input, 60W output / 5.4A 24V input, 120W output / 2.7A 48V input, 120W output\nOutput Voltage\t2*DC52.4V(±10%)\nOutput Power\t60W: 12V input / 120W: 24 or 48V input\nConnector\tRemovable 2 PIN Industrial Terminal Block\nReverse Polarity Protection\tSupport\nOver-current Protection\tSupport, 7.5A Max\nProtection Level\tIP40(Currently IP66/IP67/IP68 rated models are NOT available)\nInstallation\tDin Rail or Wall Mounted(1pc mounting hanger is offered)\nCertification\tCE/FCC/RoHS/Reach/UKCA\nWorking Environment\tWorking Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing\nIndustry Standard\tSurge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us) / Surge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6\nLED Indicator\tPWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure\nMechanical Drawing\nPacking Information\n1pc power adapter(neutral device)\n1pc wall hanger(shared holes with DIN Rail Kit)\nPlease know that there is NOT a user manual or warranty card in the packing box\nShipping box information(Below information is approximately accurate)\nProduct size: 85*85*30mm\nInner box size: 153*125*44mm\nProduct weight: 0.3Kg\nPacking weight: 0.4Kg\nMaster box size: 385*385*325mm\nPacking quantity: 48Pcs\nPacking weight: 20Kg\nApplication\nSolar power solution\nIndustrial automation & power control\nPower boosting system\nTypical Example\nBackground\nIn a solar power system, the generated voltage is between DC12V~DC24V\nDifferent IP-based devices require power and data transmission\nWireless radio equipment\nCamera\nDifficulty\nMost PoE switches received DC48V or above voltage to activate PoE function\nSolution\nSTI-PA-120W-UP features below\nAllow either DIN-rail or Wall mounting\nBoost DC12V~DC48V to DC52.4V for powering PoE devices\nVariable power output(60W or 120W), enough for powered IP-based devices\nIt could serve as an easy and cost-effective medium to transform low DC voltage to high DC voltage for transmitting power and networking signals on a PoE switch\nIn the meantime, it could be installed in any industrial Ethernet applications that requires voltage boosting such as\nVehicle network solution\nResidential security system\nSmart agriculture & healthcare\nIndustrial automation & IP communication\nIts compact size((85*85*30mm, 0.3Kg) does not take up too much space while offering an easy and efficient power transformation solution\nProduct Picture\nRemark\nPlease let us know if you need to check the PCBs\n[页眉页脚]\nMarvell Industrial Unmanaged Series\t                                                                                                  Saga Telecom\n2026/Q3                                                                                                                                      www.sagatelecom.com.cn\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+"blocks":[
+{
+"t":"p",
+"s":"Normal",
+"text":"Key Features"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Port: 1*DC12~48V input, 2*DC52.4V output, 2-pin connectors"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Voltage step-up: boost DC12V/24V/48V to DC52.4V for IEEE802.3af/at/bt PoE devices(typically industrial PoE switches that receive DC48V~DC57V input)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Variable power output: DC12V~DC23V input supports Max 60W power output; DC24V~DC48V input supports Max 120W power output"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Support 6KV surge protection and ESD: Air-15kV, Contact-8kV Protection"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"IP40 fan-less and Din-rail hardware design with compact size(85*85*30mm)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Operation temperature: -40 ℃ ~+75℃"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It is an ideal solution for easy and efficient PoE equipment deployment such as PoE wireless access points or IP cameras in different industries and scenario"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Specification"
+},
+{
+"t":"table",
+"rows":[
+[
+"Product Name",
+"120W Din Rail Industrial Power Adapter"
+],
+[
+"Input Voltage",
+"1*DC12V~DC48V"
+],
+[
+"Input Current",
+"5.7A 12V input, 60W output / 5.4A 24V input, 120W output / 2.7A 48V input, 120W output"
+],
+[
+"Output Voltage",
+"2*DC52.4V(±10%)"
+],
+[
+"Output Power",
+"60W: 12V input / 120W: 24 or 48V input"
+],
+[
+"Connector",
+"Removable 2 PIN Industrial Terminal Block"
+],
+[
+"Reverse Polarity Protection",
+"Support"
+],
+[
+"Over-current Protection",
+"Support, 7.5A Max"
+],
+[
+"Protection Level",
+"IP40(Currently IP66/IP67/IP68 rated models are NOT available)"
+],
+[
+"Installation",
+"Din Rail or Wall Mounted(1pc mounting hanger is offered)"
+],
+[
+"Certification",
+"CE/FCC/RoHS/Reach/UKCA"
+],
+[
+"Working Environment",
+"Working Temperature: -40℃~75℃ / Storage Temperature: -40℃~85℃ / Relative Humidity: 5%~95%, non-condensing"
+],
+[
+"Industry Standard",
+"Surge protection of power: IEC 61000-4-5 Level 3(4KV/2KV)(8/20us) / Surge protection of Ethernet ports: IEC 61000-4-5 Level 3(4KV/2KV) / (10/700us) / ESD: IEC 61000-4-2 Level 4(8K/15K) / Shock: IEC 60068-2-27 / Free fall: IEC 60068-2-32 / Vibration: IEC 60068-2-6"
+],
+[
+"LED Indicator",
+"PWR(Power indicator), Green Color / On: power status is normal\nOff: power off or power connection failure"
+]
+]
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Mechanical Drawing"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Packing Information"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc power adapter(neutral device)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"1pc wall hanger(shared holes with DIN Rail Kit)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please know that there is NOT a user manual or warranty card in the packing box"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Shipping box information(Below information is approximately accurate)"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product size: 85*85*30mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Inner box size: 153*125*44mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Product weight: 0.3Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 0.4Kg"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Master box size: 385*385*325mm"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing quantity: 48Pcs"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Packing weight: 20Kg"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Application"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solar power solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial automation & power control"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Power boosting system"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Typical Example"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Background"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In a solar power system, the generated voltage is between DC12V~DC24V"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Different IP-based devices require power and data transmission"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Wireless radio equipment"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Camera"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Difficulty"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Most PoE switches received DC48V or above voltage to activate PoE function"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"STI-PA-120W-UP features below"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Allow either DIN-rail or Wall mounting"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Boost DC12V~DC48V to DC52.4V for powering PoE devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Variable power output(60W or 120W), enough for powered IP-based devices"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"It could serve as an easy and cost-effective medium to transform low DC voltage to high DC voltage for transmitting power and networking signals on a PoE switch"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"In the meantime, it could be installed in any industrial Ethernet applications that requires voltage boosting such as"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Vehicle network solution"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Residential security system"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Smart agriculture & healthcare"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Industrial automation & IP communication"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Its compact size((85*85*30mm, 0.3Kg) does not take up too much space while offering an easy and efficient power transformation solution"
+},
+{
+"t":"h",
+"s":"Heading 1",
+"text":"Product Picture"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Remark"
+},
+{
+"t":"p",
+"s":"Normal",
+"text":"Please let us know if you need to check the PCBs"
+}
+],
+"header_footer":[
+"Marvell Industrial Unmanaged Series\t                                                                                                  Saga Telecom",
+"2026/Q3                                                                                                                                      www.sagatelecom.com.cn",
+"Tailored Managed Networking Solutions Provider",
+"Built to Last, Continuous Supply, Evolving Together"
+],
+"embedded_media":[
+{
+"name":"",
+"bytes":0
+},
+{
+"name":"image1.jpeg",
+"bytes":49424
+},
+{
+"name":"image10.jpeg",
+"bytes":28482
+},
+{
+"name":"image11.jpeg",
+"bytes":102217
+},
+{
+"name":"image12.png",
+"bytes":174258
+},
+{
+"name":"image2.jpeg",
+"bytes":57281
+},
+{
+"name":"image3.png",
+"bytes":32280
+},
+{
+"name":"image4.png",
+"bytes":182520
+},
+{
+"name":"image5.png",
+"bytes":21939
+},
+{
+"name":"image6.jpeg",
+"bytes":59030
+},
+{
+"name":"image7.jpeg",
+"bytes":189253
+},
+{
+"name":"image8.jpeg",
+"bytes":52709
+},
+{
+"name":"image9.png",
+"bytes":317921
+}
+]
+}
