@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1242` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CCTV相关的都卖 POE分销」）** ｜ 类型：安防分销商（美国，PoE 分销） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CCTV相关的都卖 POE分销」；研究档 risks：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CCTV相关的都卖 POE分销」）** ｜ 类型：安防分销商（美国，PoE 分销） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CCTV相关的都卖 POE分销」；研究档 risks：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）

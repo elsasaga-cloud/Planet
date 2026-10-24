@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1149` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US/CA-1 批次 To orders@premiertek.net，0 回（第 73 批(o) Bcc 头核对 msg 1a048f12be656fcc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IP-based产品 也牵涉到了POE」）** ｜ 类型：IP 寻呼终端厂商（加拿大，交换机非其品类） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：CA 主攻 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「IP-based产品 也牵涉到了POE」；研究档 risks：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US/CA-1 批次 To orders@premiertek.net，0 回（第 73 批(o) Bcc 头核对 msg 1a048f12be656fcc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IP-based产品 也牵涉到了POE」）** ｜ 类型：IP 寻呼终端厂商（加拿大，交换机非其品类） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-28）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：CA 主攻 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「IP-based产品 也牵涉到了POE」；研究档 risks：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：加拿大 Algo Communication Products（IP 寻呼与应急通知平台：SIP 扬声器、适配器、频闪灯、门口对讲；PoE 供电终端；表内「IP-based 产品 也牵涉到了 PoE」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核
 - **断点 / 为什么停在这里**：交换机非其品类（PoE 受电终端厂商），需求待核；表内「质量一般」；仅 info@，未跟进过

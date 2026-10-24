@@ -75,7 +75,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「无源器件为主 MC switch」）",
    "type": "线缆制造商（美国，MC/交换机为有源副线）",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过",
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "US 主攻（四主）",
    "cadence": "首封后看打开",

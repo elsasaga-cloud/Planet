@@ -151,7 +151,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
    "type": "—",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "未填 非主攻",
    "cadence": "不动",

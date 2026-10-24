@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1070` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 自己的logo 周边产品较多 看着像国内的外壳」）** ｜ 类型：光纤配件品牌商（比利时，自有标 MC；官网待核） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 自己的logo 周边产品较多 看着像国内的外壳」；研究档 risks：官网快照不可达（站点状态待核）；12 次无回复，仅 sales@；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 自己的logo 周边产品较多 看着像国内的外壳」）** ｜ 类型：光纤配件品牌商（比利时，自有标 MC；官网待核） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 自己的logo 周边产品较多 看着像国内的外壳」；研究档 risks：官网快照不可达（站点状态待核）；12 次无回复，仅 sales@；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。
 - **对方真实需求（有据）**：自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
 - **断点 / 为什么停在这里**：官网快照不可达（站点状态待核）；12 次无回复，仅 sales@

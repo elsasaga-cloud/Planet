@@ -2157,6 +2157,18 @@
      "hattelandtechnology.com",
      "sales.sweden@hattelandtechnology.com"
     ]
+   },
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "hattelandtechnology.com",
+     "sales.sweden@hattelandtechnology.com"
+    ]
    }
   ]
  },
@@ -4876,6 +4888,19 @@
      "altala.net",
      "info@altala.net"
     ]
+   },
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "altala.net",
+     "procurement@altala.net",
+     "ventas@altala.net"
+    ]
    }
   ]
  },
@@ -5985,6 +6010,18 @@
      "artisantg.com",
      "info@artisantg.com"
     ]
+   },
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "artisantg.com",
+     "info@artisantg.com"
+    ]
    }
   ]
  },
@@ -5998,6 +6035,18 @@
     "subject": "24 Port PoE Managed Switch",
     "batch": "US-2",
     "to": "info@allisontecusa.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "grossautomation.com",
+     "sales@grossautomation.com"
+    ]
+   },
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
     "price_text": "Price: 170USD/PC",
     "matched": [
      "grossautomation.com",
@@ -7201,6 +7250,1153 @@
     "matched": [
      "harddiskdirect.com",
      "jason.lee@harddiskdirect.com"
+    ]
+   }
+  ]
+ },
+ "SC-1479": {
+  "grade": "C",
+  "name": "omniray.ch",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@omniray.ch",
+     "omniray.ch"
+    ]
+   }
+  ]
+ },
+ "SC-1640": {
+  "grade": "C",
+  "name": "Chipcom",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "chipcom.gt",
+     "ventas1@chipcom.gt",
+     "ventas2@chipcom.gt"
+    ]
+   }
+  ]
+ },
+ "SC-1712": {
+  "grade": "C",
+  "name": "sumteccorp.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "logistica@sumteccorp.com",
+     "sumteccorp.com"
+    ]
+   }
+  ]
+ },
+ "SC-2344": {
+  "grade": "C",
+  "name": "compu_cinkar@hotmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "compu_cinkar@hotmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2348": {
+  "grade": "C",
+  "name": "fabrimex-systems.ch",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "fabrimex-systems.ch",
+     "kontakt@fabrimex-systems.ch"
+    ]
+   }
+  ]
+ },
+ "SC-2353": {
+  "grade": "C",
+  "name": "julian_doni@hotmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "julian_doni@hotmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2361": {
+  "grade": "C",
+  "name": "sandyperez2790@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "sandyperez2790@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2452": {
+  "grade": "C",
+  "name": "alltron.ch",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "alltron.ch",
+     "mail@alltron.ch"
+    ]
+   }
+  ]
+ },
+ "SC-2459": {
+  "grade": "C",
+  "name": "RB TRADERS",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "rajubabani@hotmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2496": {
+  "grade": "C",
+  "name": "islavend@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "islavend@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2507": {
+  "grade": "C",
+  "name": "wifititansj@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "wifititansj@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-428": {
+  "grade": "C",
+  "name": "TIO Master",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "hpartida@ticmaster.com.mx",
+     "ticmaster.com.mx",
+     "ticmaster@ticmaster.com.mx"
+    ]
+   }
+  ]
+ },
+ "SC-953": {
+  "grade": "C",
+  "name": "directlink.cl",
+  "hits": [
+   {
+    "msg_id": "19ffbad32315ee55",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "CH/LatAm/US",
+    "to": "kontakt@fabrimex-systems.ch",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "directlink.cl",
+     "ventas@directlink.cl"
+    ]
+   }
+  ]
+ },
+ "SB-1103": {
+  "grade": "B",
+  "name": "Multi Technology System",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@multi-technology.com",
+     "multi-technology.com"
+    ]
+   }
+  ]
+ },
+ "SB-1160": {
+  "grade": "B",
+  "name": "avstek.fi",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "avstek.fi",
+     "myynti@avstek.fi"
+    ]
+   }
+  ]
+ },
+ "SB-1178": {
+  "grade": "B",
+  "name": "dipol.pt",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "dipol.pt",
+     "office@dipol.pt"
+    ]
+   }
+  ]
+ },
+ "SB-1181": {
+  "grade": "C",
+  "name": "elfa.se",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "elfa.se",
+     "offert@elfa.se",
+     "order@elfa.se"
+    ]
+   }
+  ]
+ },
+ "SB-1199": {
+  "grade": "B",
+  "name": "icpdas.ro",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "icpdas.ro",
+     "office@icpdas.ro"
+    ]
+   }
+  ]
+ },
+ "SB-1203": {
+  "grade": "B",
+  "name": "iotkomponenty.sk",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@iotkomponenty.sk",
+     "iotkomponenty.sk"
+    ]
+   }
+  ]
+ },
+ "SB-1211": {
+  "grade": "B",
+  "name": "kdelectronics.ie",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@kdelectronics.ie",
+     "kdelectronics.ie",
+     "sales@kdelectronics.ie"
+    ]
+   }
+  ]
+ },
+ "SB-1214": {
+  "grade": "B",
+  "name": "lan.hu",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "jhegedus@lan.hu",
+     "lan.hu",
+     "wbea@lan.hu"
+    ]
+   }
+  ]
+ },
+ "SB-1216": {
+  "grade": "C",
+  "name": "luminex.be",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@luminex.be",
+     "luminex.be"
+    ]
+   }
+  ]
+ },
+ "SB-1255": {
+  "grade": "B",
+  "name": "tehnoelectric.ro",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "office@tehnoelectric.ro",
+     "tehnoelectric.ro"
+    ]
+   }
+  ]
+ },
+ "SC-1507": {
+  "grade": "C",
+  "name": "The Last Mile vzw",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@thelastmile.be",
+     "thelastmile.be"
+    ]
+   }
+  ]
+ },
+ "SC-1575": {
+  "grade": "C",
+  "name": "mustafasultan.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "m-yousuf@mustafasultan.com",
+     "msho@mustafasultan.com",
+     "mustafasultan.com"
+    ]
+   }
+  ]
+ },
+ "SC-1645": {
+  "grade": "C",
+  "name": "Samm-automation",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "ab.megadmini@samm-automation.com",
+     "samm-automation.com"
+    ]
+   }
+  ]
+ },
+ "SC-1798": {
+  "grade": "C",
+  "name": "irix.ae",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@irix.ae",
+     "irix.ae"
+    ]
+   }
+  ]
+ },
+ "SC-1824": {
+  "grade": "C",
+  "name": "Sajee For Computer",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "osamahimmat@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-1831": {
+  "grade": "C",
+  "name": "Westwing",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "lovettcast@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-1915": {
+  "grade": "C",
+  "name": "cygnus.la",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "cygnus.la",
+     "info@cygnus.la"
+    ]
+   }
+  ]
+ },
+ "SC-2102": {
+  "grade": "C",
+  "name": "EB Engineering Ghana Limited",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "ernesttwum1@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-2104": {
+  "grade": "C",
+  "name": "Lilnic GROUP Limited",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "nicholasmakwae@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2162": {
+  "grade": "C",
+  "name": "Warm services",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "walubo.moses879@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2205": {
+  "grade": "C",
+  "name": "kajubia@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "kajubia@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2212": {
+  "grade": "C",
+  "name": "ojuma1452@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "ojuma1452@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2234": {
+  "grade": "C",
+  "name": "shafi.gasco@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "shafi.gasco@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2331": {
+  "grade": "C",
+  "name": "vadim.adamovich@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "vadim.adamovich@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2340": {
+  "grade": "C",
+  "name": "arthurweale@yahoo.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "arthurweale@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-2341": {
+  "grade": "C",
+  "name": "atanazidionizi@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "atanazidionizi@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2365": {
+  "grade": "C",
+  "name": "sumalink",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "kingfa9@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-2407": {
+  "grade": "C",
+  "name": "justinmwangi100@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "justinmwangi100@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-241": {
+  "grade": "C",
+  "name": "itplus.co.nz",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "info@itplus.co.nz",
+     "itplus.co.nz"
+    ]
+   }
+  ]
+ },
+ "SC-2456": {
+  "grade": "C",
+  "name": "tashinavimukthi123@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "tashinavimukthi123@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2488": {
+  "grade": "C",
+  "name": "davidredimi2@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "davidredimi2@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2495": {
+  "grade": "C",
+  "name": "hkzizhou@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "hkzizhou@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2515": {
+  "grade": "C",
+  "name": "Bytronics Computers Ltd",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "gmnolkeri@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2528": {
+  "grade": "C",
+  "name": "djotssbestscore@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "djotssbestscore@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-254": {
+  "grade": "C",
+  "name": "notjustcables.co.nz",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "notjustcables.co.nz",
+     "website@notjustcables.co.nz"
+    ]
+   }
+  ]
+ },
+ "SC-915": {
+  "grade": "C",
+  "name": "kodicam.net",
+  "hits": [
+   {
+    "msg_id": "19ffb6888b465b84",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+    "to": "info@iotkomponenty.sk",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "kodicam.net",
+     "ventas@kodicam.net"
+    ]
+   }
+  ]
+ },
+ "SB-1114": {
+  "grade": "C",
+  "name": "hms-networks.com",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "hms-networks.com",
+     "info@hms-networks.com"
+    ]
+   }
+  ]
+ },
+ "SC-1313": {
+  "grade": "C",
+  "name": "\"DAAC System Integrator\" S.R.L.",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "alexander.carajia@daac-system.md",
+     "andrei.cornea@daac-system.md",
+     "daac-system.md"
+    ]
+   }
+  ]
+ },
+ "SC-1492": {
+  "grade": "C",
+  "name": "unilinkcommunication.com",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "sales@unilinkcommunication.com",
+     "unilinkcommunication.com"
+    ]
+   }
+  ]
+ },
+ "SC-1592": {
+  "grade": "C",
+  "name": "Atlas Gentech (NZ) Limited",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "alanw@atlasgentech.co.nz",
+     "atlasgentech.co.nz"
+    ]
+   }
+  ]
+ },
+ "SC-1593": {
+  "grade": "C",
+  "name": "Axis Solution",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "axis-solutions.com",
+     "melbin.pj@axis-solutions.com"
+    ]
+   }
+  ]
+ },
+ "SC-1820": {
+  "grade": "C",
+  "name": "Machaia agrico",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "zacariaseuzebioeuzebio@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-1932": {
+  "grade": "C",
+  "name": "Andy security system",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "andi-bg.com",
+     "angelov@andi-bg.com"
+    ]
+   }
+  ]
+ },
+ "SC-1933": {
+  "grade": "C",
+  "name": "Aniar IT Services",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "aniar.ie",
+     "michale.cotter@aniar.ie"
+    ]
+   }
+  ]
+ },
+ "SC-1979": {
+  "grade": "C",
+  "name": "Telespace",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "jmlobognon@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-1987": {
+  "grade": "C",
+  "name": "Magnum Allied Systems Limited",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "magallsys@yahoo.com"
+    ]
+   }
+  ]
+ },
+ "SC-2100": {
+  "grade": "C",
+  "name": "CEBUKA GENERAL SUPPLIERS",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "cebuka.generalsupply@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2257": {
+  "grade": "C",
+  "name": "Okisan",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "okan@okisan.com",
+     "okisan.com"
+    ]
+   }
+  ]
+ },
+ "SC-2314": {
+  "grade": "C",
+  "name": "bfatmata110@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "bfatmata110@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-2410": {
+  "grade": "C",
+  "name": "mcobonyo290@gmail.com",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "mcobonyo290@gmail.com"
+    ]
+   }
+  ]
+ },
+ "SC-307": {
+  "grade": "C",
+  "name": "belram.be",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "belram.be",
+     "info@belram.be"
+    ]
+   }
+  ]
+ },
+ "SC-824": {
+  "grade": "C",
+  "name": "emporium(systeme de securitate)",
+  "hits": [
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "date": "2026-08-13",
+    "subject": "24 Port PoE Managed Switch",
+    "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+    "to": "sales@unilinkcommunication.com",
+    "price_text": "Price: 170USD/PC",
+    "matched": [
+     "emporium.ro",
+     "magda@emporium.ro"
     ]
    }
   ]

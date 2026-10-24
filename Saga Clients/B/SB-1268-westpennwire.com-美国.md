@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1268` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「无源器件为主 MC switch」）** ｜ 类型：线缆制造商（美国，MC/交换机为有源副线） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「无源器件为主 MC switch」）** ｜ 类型：线缆制造商（美国，MC/交换机为有源副线） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。
 - **对方真实需求（有据）**：有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套
 - **断点 / 为什么停在这里**：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过

@@ -43,12 +43,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1160` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：芬兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：芬兰（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目
 - **对方真实需求（有据）**：其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需
 - **断点 / 为什么停在这里**：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

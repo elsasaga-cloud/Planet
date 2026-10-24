@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1222` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「串口 工业FS」）** ｜ 类型：工业网络与边缘计算分销商（Moxa 渠道） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「串口 工业FS」；研究档 risks：Moxa 正规渠道：引入白牌意愿低；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「串口 工业FS」）** ｜ 类型：工业网络与边缘计算分销商（Moxa 渠道） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：US 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「串口 工业FS」；研究档 risks：Moxa 正规渠道：引入白牌意愿低；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：美国 Neteon Technologies（工业数字化方案分销 20+ 年：Moxa（词频 31，BXP-A101 边缘 AI）、Cincoze 面板 PC、ASUS IoT；方案页 OT 工业网络 / 边缘 AI / 无风扇 PC；表内「串口、工业 FS，在用很多有名的牌子」）；表内无跟进记录。
 - **对方真实需求（有据）**：Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做
 - **断点 / 为什么停在这里**：Moxa 正规渠道：引入白牌意愿低

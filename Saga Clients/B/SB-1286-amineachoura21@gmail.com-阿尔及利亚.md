@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1286` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿尔及利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿尔及利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。
 - **对方真实需求（有据）**：WDM 不在 Saga 线；无主推型。
 - **断点 / 为什么停在这里**：需求 WDM（缺口）；身份不明

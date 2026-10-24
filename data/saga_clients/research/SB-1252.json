@@ -61,7 +61,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」）",
    "type": "工业设备供应商（匈牙利，待核）",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过",
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "匈牙利（欧洲全域主攻）",
    "cadence": "首封后看打开",

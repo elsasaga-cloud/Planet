@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1186` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekb」）** ｜ 类型：光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com」；研究档 risks：TEMPEST / 数据二极管 = 政府国防安全市场：守界，只报商用光纤传输配套；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekb」）** ｜ 类型：光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com」；研究档 risks：TEMPEST / 数据二极管 = 政府国防安全市场：守界，只报商用光纤传输配套；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：瑞典 Fibersystem AB（斯德哥尔摩光纤传输设备、视频、以太网与安全产品开发商：数据二极管、TEMPEST 瘦客户机/HDMI 二极管、光路切换器 1×2/1×4、安全 USB 断开器；表内「switch / 光猫 / MC / FS / 周边产品」「之前联系过」；KP Oscar Lindberg、Anne Ekblad；表内国别「瑞士」有误——官网 Based in Stockholm, Sweden → 更正为瑞典）；表内无跟进记录。
 - **对方真实需求（有据）**：自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰
 - **断点 / 为什么停在这里**：TEMPEST / 数据二极管 = 政府国防安全市场：守界，只报商用光纤传输配套

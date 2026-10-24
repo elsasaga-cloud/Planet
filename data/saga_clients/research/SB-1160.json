@@ -121,14 +121,14 @@
  "email_hook": "Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
    "type": "—",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "芬兰（欧洲全域主攻）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）"
+   "evidence": "gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目",
   "need": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需",
@@ -147,7 +147,16 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

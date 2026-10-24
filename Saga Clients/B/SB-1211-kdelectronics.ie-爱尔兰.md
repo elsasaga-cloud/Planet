@@ -35,22 +35,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@kdelectronics.ie（无具名 KP；公用地址） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@kdelectronics.ie（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1211` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「VC POE 工业FS」）** ｜ 类型：安防/网络贸易供应商（爱尔兰，Dahua 总分销） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「VC POE 工业FS」）** ｜ 类型：安防/网络贸易供应商（爱尔兰，Dahua 总分销） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：爱尔兰（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：爱尔兰 KD Electronics（CCTV、安防、AV 与网络产品贸易供应商，「Dahua Largest Distributor」（爱尔兰）、TP-Link（21）、Ajax、Triax 线缆；表内「VC / PoE / 工业 FS；大华 PoE」）；表内无跟进记录。
 - **对方真实需求（有据）**：Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@kdelectronics.ie（无具名 KP；公用地址）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@kdelectronics.ie（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@kdelectronics.ie, kdelectronics.ie, sales@kdelectronics.ie）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | VC POE 工业FS | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

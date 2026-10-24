@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1163` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）** ｜ 类型：工业电子与自动化分销商（瑞典，Antaira/Planet 工业线） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）** ｜ 类型：工业电子与自动化分销商（瑞典，Antaira/Planet 工业线） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入

@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1230` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP VC MC 很多周边产品；MC PoE 工业品 VC」）** ｜ 类型：安防/网络产品分销商兼网店（波兰） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「SFP VC MC 很多周边产品；MC PoE 工业品 VC」；研究档 risks：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP VC MC 很多周边产品；MC PoE 工业品 VC」）** ｜ 类型：安防/网络产品分销商兼网店（波兰） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「SFP VC MC 很多周边产品；MC PoE 工业品 VC」；研究档 risks：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：波兰 Delta Poznań（delta.poznan.pl / shopdelta.eu：安防与网络产品分销商兼网店（SFP、VC、MC、PoE、工业品，很多周边产品；oferty@ 报价邮箱）；表内国别波兰；表内「质量一般」「销售平台」；快照抓到的是 poznan.pl 市政府官网（域名误判，待重抓））；表内未跟进。
 - **对方真实需求（有据）**：MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供
 - **断点 / 为什么停在这里**：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（低粘性）

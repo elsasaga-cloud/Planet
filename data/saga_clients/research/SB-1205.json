@@ -77,7 +77,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CVI POE 工业FS SDI 主要是围绕着CCTV来的」）",
    "type": "瑞士 CCTV 与对讲方案商/分销",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "瑞士（欧洲全域主攻）",
    "cadence": "首封后看打开",

@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-772` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：商业POE MC」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：保加利亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：商业POE MC」；研究档 risks：保加利亚为小国名单（不主动挖）；采购权在德国总部；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：商业POE MC」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：保加利亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：商业POE MC」；研究档 risks：保加利亚为小国名单（不主动挖）；采购权在德国总部；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：保加利亚网络设备 / 光缆 / 机柜 / 配件供应商（IC Intracom 集团保加利亚公司，面向企业与安装商；Moxa、TP-Link；sfp 246 / switch 133 / poe 108 / industrial 103 / media converter 31；+359 2 923 1781），Hristo Chankov；表内商用 PoE、MC；无跟进。
 - **对方真实需求（有据）**：商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
 - **断点 / 为什么停在这里**：保加利亚为小国名单（不主动挖）；采购权在德国总部

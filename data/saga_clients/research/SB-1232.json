@@ -79,7 +79,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
    "type": "门禁/CCTV 分销商（英国）",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过",
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "UK 主攻（四主）",
    "cadence": "首封后看打开",

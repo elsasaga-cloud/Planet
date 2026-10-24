@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1195` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」）** ｜ 类型：电气仪表安装商（意大利，网络为边缘品类） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「switch」；研究档 risks：电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」）** ｜ 类型：电气仪表安装商（意大利，网络为边缘品类） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「switch」；研究档 risks：电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：意大利 Grin Srl（「Energia versatile」电气仪表安装商：4 个行业领域、Siemens 合作伙伴、工业/SCADA；表内「switch」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-602` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-28）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：捷克（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：北波希米亚三店 IT 商，e-shop 上 PLANET 工业交换机带价带库存（IGS-10020MT 5 台可发）。类型：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修。信号：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez D
 - **对方真实需求（有据）**：其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：
 - **断点 / 为什么停在这里**：PLANET 线年量（库存 5 台 + 1 台 = 小量常备）；采购决策人（Chomutov 总部 vs 门店）；是否要求捷克语文档 / 本地保修 60 个月口径

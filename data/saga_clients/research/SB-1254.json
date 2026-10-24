@@ -79,7 +79,7 @@
    "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「大口FS MC 机架 data center」）",
    "type": "电信设备分销/集成商（罗马尼亚，PLANET 工业线在售）",
    "sieve": "—（未入筛）",
-   "stop": "从未触达",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "罗马尼亚（欧洲全域主攻）",
    "cadence": "不动",

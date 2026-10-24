@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1214` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封自动回复）** ｜ 类型：匈牙利 IT 服务商（LAN Kft.） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：HU ｜ 节奏：不动 ｜ 证据：k=d120e1aa64662a70
+- **绑定等级：未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）** ｜ 类型：匈牙利 IT 服务商（LAN Kft.） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：HU ｜ 节奏：不动 ｜ 证据：k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 jhegedus@lan.hu, lan.hu, wbea@lan.hu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

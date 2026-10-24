@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1177` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：丹麦（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：丹麦（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：丹麦 Køge 一家 1970 年起的工业 IT 分销商（瑞典有姊妹公司 Binär Teknik），把 PLANET 工业 PoE 管理交换机换上自家 ESW 货号卖，是典型的贴牌买家。类型：工业 IT / 网络专业分销商（1970 年起；6,000+ 特种产品，主要自台湾 / 中国 / 韩国 / 日本 / 美国进口；工业 PC、串口服务器、媒体转换器、工业交换机、PoE；自编货号 ESW- / ETH- / KAM- 贴牌销售，其中 ESW8G-M-SFP2(-PWM) 文案直接写「PLANET 智能 PoE 功能」）。信号：danbit.dk：PLANET IFT-802T 媒体转换器、PLANET POE-171S 分离器、Planet TDS-712 串口服务器、Planet IVS-H125P / IVS-2120 视频服务器（EOL）、CNV-SFP2.5G「designed
 - **对方真实需求（有据）**：其 ESW8G-M-SFP2（= PLANET IGS-10020HPT 文案）与 ESW8G-M-SFP2-PWM（= PLANET 壁挂 LCD PoE 管理款）均为工业 8×GE PoE+ + 2×SFP 管理位 → Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；贴牌场景按 OEM 档 30% = $85.5 EXW；自编货号贴牌转
 - **断点 / 为什么停在这里**：采购负责人姓名；ESW 系列年量与现行 PLANET 进货渠道；是否要求丹麦语 / 瑞典语文档、CE 文件格式；Binär Teknik 是否独立采购

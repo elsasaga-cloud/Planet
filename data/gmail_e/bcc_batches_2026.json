@@ -1,6 +1,6 @@
 {
  "_note": "Elsa 邮箱群发 = 1 个 To + 15–40 个 Bcc；S/A 邮箱 digest 看不到这些触达。本文件 = 第 73 批(o) 2026-10-24 经连接器 get_message(metadata) 读到的 Bcc 头（最近一轮「24 Port PoE Managed Switch」$170 群发 19 封 + 2026-05 10G 群发 1 封）。全量重建（317 封 / 本轮；3,224 封 / 全部）见 Q-60。",
- "fetched_at": "2026-10-24T16:45Z",
+ "fetched_at": "2026-10-24T16:39Z",
  "batches": [
   {
    "msg_id": "1a05bfb71364077f",
@@ -639,6 +639,718 @@
     "sales@compufox.com",
     "jsibrava@amphenol-aao.com"
    ]
+  },
+  {
+   "msg_id": "19ffbad32315ee55",
+   "date": "2026-08-13",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Price: 170USD/PC",
+   "to": "kontakt@fabrimex-systems.ch",
+   "batch": "CH/LatAm/US",
+   "bcc": [
+    "info@omniray.ch",
+    "hpartida@ticmaster.com.mx",
+    "ticmaster@ticmaster.com.mx",
+    "ventas@directlink.cl",
+    "mail@alltron.ch",
+    "procurement@altala.net",
+    "ventas@altala.net",
+    "Sandyperez2790@gmail.com",
+    "compu_cinkar@hotmail.com",
+    "rajubabani@hotmail.com",
+    "julian_doni@hotmail.com",
+    "wifititansj@gmail.com",
+    "islavend@gmail.com",
+    "logistica@sumteccorp.com",
+    "ventas1@chipcom.gt",
+    "ventas2@chipcom.gt",
+    "sales@grossautomation.com",
+    "info@artisantg.com"
+   ]
+  },
+  {
+   "msg_id": "19ffb6888b465b84",
+   "date": "2026-08-13",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Price: 170USD/PC",
+   "to": "info@iotkomponenty.sk",
+   "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+   "bcc": [
+    "office@icpdas.ro",
+    "info@luminex.be",
+    "myynti@avstek.fi",
+    "ventas@kodicam.net",
+    "office@dipol.pt",
+    "info@kdelectronics.ie",
+    "sales@kdelectronics.ie",
+    "offert@elfa.se",
+    "order@elfa.se",
+    "msho@mustafasultan.com",
+    "m-yousuf@mustafasultan.com",
+    "jhegedus@lan.hu",
+    "wbea@lan.hu",
+    "info@itplus.co.nz",
+    "website@notjustcables.co.nz",
+    "office@tehnoelectric.ro",
+    "sales@xpert.mt",
+    "sales.sweden@hattelandtechnology.com",
+    "info@irix.ae",
+    "info@thelastmile.be",
+    "info@multi-technology.com",
+    "davidredimi2@gmail.com",
+    "shafi.gasco@gmail.com",
+    "vadim.adamovich@gmail.com",
+    "hkzizhou@gmail.com",
+    "djotssbestscore@gmail.com",
+    "tashinavimukthi123@gmail.com",
+    "walubo.moses879@gmail.com",
+    "info@cygnus.la",
+    "justinmwangi100@gmail.com",
+    "ernesttwum1@yahoo.com",
+    "gmnolkeri@gmail.com",
+    "kingfa9@yahoo.com",
+    "kajubia@gmail.com",
+    "ojuma1452@gmail.com",
+    "nicholasmakwae@gmail.com",
+    "ab.megadmini@samm-automation.com",
+    "osamahimmat@yahoo.com",
+    "lovettcast@yahoo.com",
+    "atanazidionizi@gmail.com",
+    "arthurweale@yahoo.com"
+   ]
+  },
+  {
+   "msg_id": "19ffadf35e0679b0",
+   "date": "2026-08-13",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Price: 170USD/PC",
+   "to": "sales@unilinkcommunication.com",
+   "batch": "BE/NZ/BG/TR/IE/MD/RO+非洲散户",
+   "bcc": [
+    "info@hms-networks.com",
+    "info@belram.be",
+    "alanw@atlasgentech.co.nz",
+    "angelov@andi-bg.com",
+    "okan@okisan.com",
+    "magallsys@yahoo.com",
+    "michale.cotter@aniar.ie",
+    "melbin.pj@axis-solutions.com",
+    "Andrei.Cornea@daac-system.md",
+    "Alexander.Carajia@daac-system.md",
+    "magda@emporium.ro",
+    "bfatmata110@gmail.com",
+    "zacariaseuzebioeuzebio@gmail.com",
+    "cebuka.generalsupply@gmail.com",
+    "mcobonyo290@gmail.com",
+    "jmlobognon@gmail.com"
+   ]
   }
- ]
+ ],
+ "campaign_24poe_heads": {
+  "_note": "最近一轮「24 Port PoE Managed Switch」317 封的 To 首收件人表（按时间倒序，页 1–2 = 2026-09-10→08-04 共 120 封；页 3+ 续读 token 01533873212755427691）；bcc_read=true 的已读 Bcc 头入 batches",
+  "query": "from:e.sagatelecom@gmail.com subject:\"24 Port PoE Managed Switch\" after:2026/07/31",
+  "next_page_token_after_p2": "01533873212755427691",
+  "heads": [
+   {
+    "msg_id": "1a08a7cf5fc993e4",
+    "to": "thuyluc1973@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a08a3bf37753529",
+    "to": "inbox.vienthonghanoi@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a08556982baed33",
+    "to": "thuanan.sales1@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a081a79b20c7fbc",
+    "to": "info@allisontecusa.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a08138d20436870",
+    "to": "sales@solimedia.net",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a080bf0f41d58a2",
+    "to": "amr_sha@hotmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a08075d070c32df",
+    "to": "gunjan@xexagon.co.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07fec7dd405d59",
+    "to": "support@sislinfotech.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07fb58f139416e",
+    "to": "sofyan@mutiara-teknologi.com.my",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07f2e0ee8e17c2",
+    "to": "desmond@multitradepac.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07c2c1996302a5",
+    "to": "businesswise1@hotmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07bbd534787f4c",
+    "to": "sales@rts.ua",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07b18861ffdac9",
+    "to": "sanjiv@aquakenya.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07ae282a6d4592",
+    "to": "support@solidcable.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a07aaaa8ce34b26",
+    "to": "info@globalconnectsynergy.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a07a5843eabee23",
+    "to": "info@baycom.com.tw",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a079b80d2048589",
+    "to": "sales@aibaotech.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a06ba5722292bab",
+    "to": "sales@cablenet.co.uk",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a06b530ca69031f",
+    "to": "mohamed.k2r2m@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a06a6fffaf4fbf3",
+    "to": "stephengala@yahoo.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a067dcd0eaeabe3",
+    "to": "flavioprogramado@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0673806b7c310d",
+    "to": "kairosmusique@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0665a7662f4ec9",
+    "to": "sokol@tssgroup.sk",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a0657ebcdd430b2",
+    "to": "syukronmakmun14@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a06548b94960c24",
+    "to": "cleanworldmanagement@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a061e4cc4892abf",
+    "to": "info@garmasl.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a0614002b01a0f4",
+    "to": "georgeross@kcs.org.za",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a05fe99a61be532",
+    "to": "alan_ftss@yahoo.com.sg",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a05caee1683faef",
+    "to": "j.zaczek@mbs-systems.pl",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a05bfb71364077f",
+    "to": "biuro@zintronic.pl",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a05a8a7b638d91b",
+    "to": "sales@ags-electronics.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a057bf756774b15",
+    "to": "INFO@sarcitalia.it",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a05742f104a4334",
+    "to": "danny@peila.co.il",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a056d5159d35ca3",
+    "to": "office@all4fiber.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a048f12be656fcc",
+    "to": "orders@premiertek.net",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a04798efe1a50d8",
+    "to": "office@ergate.cz",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a045b847fd024f7",
+    "to": "sales@fibresales.com.au",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0431bf17b5975b",
+    "to": "komerce@skss.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a042a98104e6196",
+    "to": "msk@nnz.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0423ba53810488",
+    "to": "S.Markin@mip-sb.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a03df102140ed72",
+    "to": "sales@bas-ip.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a03d832440f86d9",
+    "to": "sales@cmd-sec.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a03cf9d14adefe7",
+    "to": "sales@soyuzsp.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a038dcf48285ffc",
+    "to": "info@b2b-services.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0385cc8d836447",
+    "to": "moscow@stilsoft.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a037f37e9507255",
+    "to": "shop@idelectro.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0344bd58cd6f2d",
+    "to": "sales@nssi.net",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a0330152a9e3b87",
+    "to": "paul.such@avigilon.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a031b7bc76f4231",
+    "to": "admin@ionsecurity.com.au",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a028e9b46c9965b",
+    "to": "info@euromobile.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a028b2c713733ac",
+    "to": "export@schrack.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a027692fa49a039",
+    "to": "ashu.ent@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a024d42cad7311d",
+    "to": "info@alastor.com.ar",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a023557cf116242",
+    "to": "icecom@icecom.is",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a0224ce5c1ca421",
+    "to": "sales@sprintintercom.com.au",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a01fab10562d079",
+    "to": "vanessa.salas@prisa-solutions.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "1a01e5768ba94543",
+    "to": "info@smartsystems.jo",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a01d6edda8ab595",
+    "to": "info@rasatechbd.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a019368be177be6",
+    "to": "mail@techzoneme.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0189ae660c8ece",
+    "to": "alminiaco@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0188761ea260f1",
+    "to": "bandasonkelly@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a013fddf72d5ae1",
+    "to": "info@morion.ru",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a0133d9dac918f4",
+    "to": "info@golfautomation.co.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a01030ab6b2fbd1",
+    "to": "eletrotecnicasoares@bol.com.br",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a00ef2fa3edcf0c",
+    "to": "khmisti39@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "1a00e1740d3438ea",
+    "to": "mintusony@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fff12096e4d075",
+    "to": "sureshch1968@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ffea42cec36ad4",
+    "to": "panaji@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ffbad32315ee55",
+    "to": "kontakt@fabrimex-systems.ch",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "19ffb6888b465b84",
+    "to": "info@iotkomponenty.sk",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "19ffb43006420c22",
+    "to": "info@dasys.fi",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "19ffadf35e0679b0",
+    "to": "sales@unilinkcommunication.com",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "19ff9b4bf253e6a7",
+    "to": "info@dolphin.com.bd",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ff6489778e0195",
+    "to": "amin.aboud@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ff56a1da83b526",
+    "to": "jango.94.94@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ff472eac147a12",
+    "to": "mdakhtar943.phusro@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19ff11f7aa952525",
+    "to": "office@lightwin.ch",
+    "bcc_read": true
+   },
+   {
+    "msg_id": "19fef6807ae77bef",
+    "to": "kosovaku@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fec54ad5850372",
+    "to": "comex@cnca.com.ar",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fec425c8748a35",
+    "to": "indico-support@cern.ch",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fec300cb344126",
+    "to": "arsitec@arsitec.com.br",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fec1dbf6643b9d",
+    "to": "contato@ascenty.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fec0b6fa48d2cb",
+    "to": "comercial@fiberx.com.br",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19febf91edd8ba6c",
+    "to": "marketing@parks.com.br",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19febe6cfb8ee459",
+    "to": "info@etistel.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19febd481e3f857e",
+    "to": "eduardo.ken@precisionsolutions.com.br",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19febc230849b203",
+    "to": "idan@comcast-sa.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19febafe1389b6cc",
+    "to": "info@silicanetworks.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb9d90d8879c1",
+    "to": "muhammad@bridgetechnologies.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb8b435aef440",
+    "to": "amr.refaat@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb78f3c806184",
+    "to": "wale.olawoye@fob.ng",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb66a31eac470",
+    "to": "mohamed.taha@afro-group.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb54537643a63",
+    "to": "venustradekhulna@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb4b2bfc58cdc",
+    "to": "sales@smartnet.co.zm",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb420588f26da",
+    "to": "projexoninfo@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb38ddaf6a6d0",
+    "to": "info@msp-ict.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb2fb5fbd5d6f",
+    "to": "bhattaraijm@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb268cb26e0f1",
+    "to": "info@nextik.co.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb1d6590e1807",
+    "to": "unsar@redtag.com.pk",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb143cfac112c",
+    "to": "sales@echola.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb0b15dd79af8",
+    "to": "Info@baradinn.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feb01edb66c2c8",
+    "to": "cdotweb@cdot.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feaf8c6642af1c",
+    "to": "hadi@parman.ir",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feaef9eecfb85b",
+    "to": "info@inteltec.com.lb",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feae677954866c",
+    "to": "lamho@quanglam.com.vn",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feadd4eb01193a",
+    "to": "zalil72@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fead42655da7eb",
+    "to": "indiashinho@gmail.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feacafe8e220d0",
+    "to": "info@mganet.ir",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feac1d75c9d357",
+    "to": "subramanyam@crossmatrix.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feab8ae4b53a77",
+    "to": "mamun@dhakanetworksbd.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19feaaf89986d63f",
+    "to": "naman.gupta@goip.in",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea9d39ecf2bbf",
+    "to": "sales@aswindra.co.id",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea94111ba858a",
+    "to": "info@aratechbd.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea8ae9dce1a01",
+    "to": "info@pt-smi.co.id",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea7899c2e971b",
+    "to": "gunawan@pt-aag.co.id",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea6f707722be2",
+    "to": "office@wsc.com.bd",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea664aae3e848",
+    "to": "sales@flextreme-inside.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea5ef746ca294",
+    "to": "info@simafiber.com",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea53fad44ddff",
+    "to": "saleslni@leap-networks.id",
+    "bcc_read": false
+   },
+   {
+    "msg_id": "19fea41aa2df0230",
+    "to": "info@sejahteramandiri.com",
+    "bcc_read": false
+   }
+  ]
+ }
 }

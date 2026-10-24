@@ -128,14 +128,14 @@
  "email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复）",
+   "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）",
    "type": "匈牙利 IT 服务商（LAN Kft.）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
    "revive": "不动",
    "lane": "HU",
    "cadence": "不动",
-   "evidence": "k=d120e1aa64662a70"
+   "evidence": "k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -154,7 +154,16 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 jhegedus@lan.hu, lan.hu, wbea@lan.hu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

@@ -38,23 +38,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）
 - **第一问（只问一个）**：For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 S 邮箱 → dipol@skuatechnology.com 短信一问（email_hook）
+- **下一步**：2026-11 S 邮箱 → dipol@skuatechnology.com 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1178` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 dipol@skuatechnology.com；被打开主题「2.5G Unmanaged Switch、Industrial fiber switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：葡萄牙（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：MC FS SFP VC」；研究档 risks：采购可能由波兰总部统一；无具名联系人
+- **绑定等级：读而不回（S 邮箱 7 封 2024→2025，其中 3 封被打开，0 回；收件 dipol@skuatechnology.com；被打开主题「2.5G Unmanaged Switch、Industrial fiber switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：葡萄牙（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：MC FS SFP VC」；研究档 risks：采购可能由波兰总部统一；无具名联系人；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。
 - **对方真实需求（有据）**：CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。
 - **断点 / 为什么停在这里**：采购可能由波兰总部统一；无具名联系人
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter））——CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2026-11　S 邮箱 → dipol@skuatechnology.com　短信一问（email_hook）
+- **下一步（具体）**：2026-11　S 邮箱 → dipol@skuatechnology.com　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
   - 第一问（只问一个）：For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-01-17 | 去 | S 群发 | 2.5G Unmanaged Switch、Industrial fiber switch | 7 封 / 3 次打开 / 0 回｜首封 2024-07-02 → 末封 2025-01-17（7 去 / 0 来） | `gmail_digest` |
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 dipol.pt, office@dipol.pt）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC FS SFP VC | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

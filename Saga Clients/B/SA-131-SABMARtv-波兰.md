@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-131` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「（用户表字段）」）** ｜ 类型：视频/广电技术经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「（用户表字段）」）** ｜ 类型：视频/广电技术经销商 ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。
 - **对方真实需求（有据）**：终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购
 - **断点 / 为什么停在这里**：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机

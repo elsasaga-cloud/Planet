@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1207` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-09-04）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：UK 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：多塞特一家 Pro-AV / 连接件分销商，网络交换机货架基本是 PLANET（PoE 接入 + Long Reach PoE），服务 AV 集成商与机房项目。类型：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）。信号：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-262
 - **对方真实需求（有据）**：其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商
 - **断点 / 为什么停在这里**：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；交换机年量；是否要求 UKCA / 英式电源线

@@ -35,22 +35,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → office@tehnoelectric.ro（无具名 KP；公用地址） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → office@tehnoelectric.ro（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1255` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「POE injector 比较杂 啥都有」）** ｜ 类型：综合电子网店（罗马尼亚，平台型） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「POE injector 比较杂 啥都有」）** ｜ 类型：综合电子网店（罗马尼亚，平台型） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：罗马尼亚（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：罗马尼亚 Tehnoelectric（tehnoelectric.ro：销售平台型网店，「PoE injector 比较杂 啥都有」；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → office@tehnoelectric.ro（无具名 KP；公用地址）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → office@tehnoelectric.ro（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 office@tehnoelectric.ro, tehnoelectric.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | POE injector 比较杂 啥都有 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
