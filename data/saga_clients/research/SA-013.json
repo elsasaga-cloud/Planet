@@ -493,6 +493,22 @@
         "k": "gmail_s 2025-03-19/21/22 RE: Testing Feedback"
       },
       {
+        "date": "2025-03-21",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "does it support 2,5 or 5G BASE-T? You probably don't need a formal tester… use any of your 10G SFP+ switches (port fixed 10G), connect the media converter SFP+ to the switch and any standard 1G PC network card",
+        "why": "10G 媒体转换器多速率测试——客户在教 Saga 怎么测；Simon 03-22 答「暂无 5G BASE-T 测试条件」",
+        "k": "gmail_s 6f52709a41c57f28"
+      },
+      {
+        "date": "2025-03-22",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "Thank you for the report. Did you configure the switch ports to 10G fixed speed in this test?",
+        "why": "测试报告被追问方法——NYNEX 的技术严谨度",
+        "k": "gmail_s 9972645d4ea80155"
+      },
+      {
         "date": "2025-03-25",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -637,12 +653,28 @@
         "k": "eb14772778a52488"
       },
       {
+        "date": "2025-11-18",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "If it's based on RPM you could use the \"ENTITY-SENSOR-MIB\" standard MIB… Your custom working/not working and low/high speed logic is perfectly fine for us… simply add it to your NMS-SYS mib",
+        "why": "风扇监控 MIB 的实现建议（标准 MIB vs 私有 MIB）——固件 7.4.7 风扇/双电源监控的来源",
+        "k": "gmail_s 06568928a9445bc3"
+      },
+      {
         "date": "2025-12-10",
         "dir": "来",
         "who": "Frederik Kriewitz（NYNEX）",
         "quote": "We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/temperature)… (12-17) can you double check the firmware file you sent, while it has another checksum… it shows the same version/build date: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… Vendor OID is still 0",
         "why": "固件迭代中的回归（风扇出来了、CPU/内存/电源/温度没了；Vendor OID 仍为 0）——NYNEX 替 Saga 做了 QA；这种客户最忌「发错文件」，每次 BIN 要附 checksum + 变更说明",
         "k": "gmail_s 2025-12-10 RE: Marvell Alleycat5 Solution"
+      },
+      {
+        "date": "2025-12-17",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "can you double check the firmware file you sent, while it has another checksum… shows the same version/build date… Vendor OID is still 0: Software Version: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001",
+        "why": "固件包错发（同版本号不同校验和、Vendor OID 仍为 0）——12-18 重发后「OID updated, working as expected」",
+        "k": "gmail_s 68c59647de2f8f4a"
       },
       {
         "date": "2025-12-18",

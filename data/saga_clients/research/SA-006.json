@@ -384,6 +384,22 @@
         "k": "gmail_s 2024-09-04 Re: PO | SGP250051"
       },
       {
+        "date": "2024-09-05",
+        "dir": "来",
+        "who": "Au Wai Choon（Resonant Networks）",
+        "quote": "All good, except change this: Manufacturer: Resonant Networks (R ~Nets). Ok?… Yes! Pls proceed.",
+        "why": "PO SGP250051 样机标签：制造商栏写 Resonant Networks（R ~Nets）——OEM 标签口径先例",
+        "k": "gmail_s 1729cb59f0e8f3ef"
+      },
+      {
+        "date": "2024-09-06",
+        "dir": "来",
+        "who": "Bernard Song（Resonant Networks）",
+        "quote": "May I know if the unit will be ready to ship out tomorrow?… Kindly share the tracking number once shipment booked.",
+        "why": "采购/物流窗口第二人",
+        "k": "gmail_s 257652cf8dcedfc5"
+      },
+      {
         "date": "2024-09-09",
         "dir": "来",
         "who": "Au Wai Choon",
@@ -464,12 +480,28 @@
         "k": "a39c837e568b25c4"
       },
       {
+        "date": "2025-04-08",
+        "dir": "来",
+        "who": "Au Wai Choon（Resonant Networks）",
+        "quote": "We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first.",
+        "why": "「几千台」项目的前置条件：先买 IP 摄像头给终端客户测",
+        "k": "gmail_s 8e2b18b16fa080bf"
+      },
+      {
         "date": "2025-04-09",
         "dir": "去",
         "who": "Simon → Au Wai Choon",
         "quote": "Please let us know if we can help in any way. I mean, maybe something else, H3C switches, data center switches... Just like the IP cameras, we will see what we can do for you.",
         "why": "Saga 愿意为老客户代采 H3C/DC 交换机/IP 摄像头（「资源库」角色，同 Proposal 里对 Angora 的承诺）——这是真实存在的增值服务，但不写进外宣（Saga.md：不做贸易商叙事）",
         "k": "gmail_s 2025-04-09 Re: 10G MultiGig Price"
+      },
+      {
+        "date": "2025-07-08",
+        "dir": "来",
+        "who": "Hairomee（Resonant Networks）",
+        "quote": "Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this month. Till then please bear with us.",
+        "why": "项目拖期的正式说法；此后再无数量",
+        "k": "gmail_s ce309a03337e8ab8"
       },
       {
         "date": "2025-07-28",
@@ -502,6 +534,14 @@
         "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
         "why": "Saga 底线",
         "k": "b26aafe834fa3423"
+      },
+      {
+        "date": "2026-06-22",
+        "dir": "来",
+        "who": "Au Wai Choon（Resonant Networks）",
+        "quote": "Thank you for reaching out.（回 Simon 固件 7.5 发布通知）",
+        "why": "礼貌确认，无需求——关系还在",
+        "k": "gmail_s 8481f7580addd6d7"
       },
       {
         "date": "2026-09-21",

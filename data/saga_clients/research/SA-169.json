@@ -274,6 +274,14 @@
         "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
       },
       {
+        "date": "2026-08-06",
+        "dir": "来",
+        "who": "James Clendenan",
+        "quote": "Can you send me this again? I missed getting it before it expired.（AC5 固件 WeTransfer 链接过期）",
+        "why": "WeTransfer 7 天过期——给客户固件别只用临时链接",
+        "k": "gmail_s 9efe5d1b1132a14a"
+      },
+      {
         "date": "2026-08-26",
         "dir": "去",
         "who": "Simon",
@@ -296,6 +304,14 @@
         "quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
         "why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制。**AC5 线没有多千兆铜口**（DG 只是 2.5G 光口，规则 ⑰）；正对他四个条件的是 CENTEC VastLakes 表（2026/Q2）上的 STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G SFP28，双 CRPS + 热插拔风扇模块，机架）或 STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G）；商用 0–40℃；仓内无价、现货未知（Q-54/Q-56）——这是能正面回他的一句「有」，别再含糊",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "来",
+        "who": "James Clendenan",
+        "quote": "[image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」）",
+        "why": "付款凭证截图——12 × SW-3200-16GP-2SX @ $335 = $4,020 的那单",
+        "k": "gmail_s 3287d81fe10e8f5f"
       },
       {
         "date": "2026-09-07",

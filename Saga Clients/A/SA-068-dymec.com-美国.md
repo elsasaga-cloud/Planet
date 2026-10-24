@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-07-30 | 来 | sales@dymec.com | Very low poe budget. Nothing of interest | 第 1 次否定（24 口被动 PoE 300W） | `9963340096ada5bb` |
+| 2024-08-23 | 来 | Thomas（DYMEC，sales@dymec.com） | Thank you, I will let you know.（回 8 口 DIN 千兆群发） | 一句话礼貌回复，无下文 | `gmail_s 02f335a0d962ef1c` |
 | 2025-05-28 | 来 | Thom Sherer | need a better description please... | 对 Alert System 群发的追问 | `444cc4b308af1ab6` |
 | 2025-05-29 | 去 | Saga（Alan） | Hi, Thom, Please see attached datasheet(Data&Alarm info). You can also check this webpage(Planet) *https://www.planet.com.tw/en/product/igs-10020hpt-v3* <https://www.planet.com.tw/en/product/igs-10020hpt-v3> It is about the same feature.… | Saga 实质答复原文（主题「Re: Marvell Industrial Alert System」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d18e3fae85a4413d` |
 | 2025-09-22 | 来 | Thom Sherer | not our market...sorry | 企业 SFP 交换机 → 否定 | `1568af8ab7b7c8ba` |

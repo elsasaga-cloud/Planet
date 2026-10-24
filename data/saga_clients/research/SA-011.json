@@ -231,6 +231,22 @@
         "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
       },
       {
+        "date": "2024-04-17",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US… please send me the total invoice included shipping cost and PayPal payment account（附 Vilink Logo 2440.pdf）",
+        "why": "首单的起点：1 台样机、PayPal、带 logo——美国 OEM 复购客户的第一步",
+        "k": "gmail_s 4c859aea7c100a66"
+      },
+      {
+        "date": "2024-04-17",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "For the Marvell chip type OEM will you print our Logo on the front chassis and change the Logo in the management software?",
+        "why": "OEM 两件事：前面板丝印 + 管理软件 logo——后来每单都照此",
+        "k": "gmail_s cce072ccb2fc537f"
+      },
+      {
         "date": "2024-04-18",
         "dir": "去",
         "who": "Simon → Thu",
@@ -247,6 +263,14 @@
         "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
       },
       {
+        "date": "2024-04-19",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "With Visio file you can change the fonts to whatever you want. In this case the Vi-Link font is \"Arial\"… Yes, Option 2 is OK for now（附 Vi-Link Logo EN2440.pdf / Vi-Link Logo.vsd）",
+        "why": "logo 源文件只有 Visio/PDF，Simon 要 AI/PS——丝印文件格式问题从首单起就有，2026-09 又出现一次",
+        "k": "gmail_s 2e79f01cb18ff639"
+      },
+      {
         "date": "2024-04-20",
         "dir": "来",
         "who": "Thu（Vilink_Models.pdf，1st order）",
@@ -255,12 +279,36 @@
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
       },
       {
+        "date": "2024-04-25",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "It looks good. But I did not see any Vi-Link logo in the software? Shipping address: Thu Pham, 5160 Avenida De Despacio, Yorba Linda, CA 92887… We are re-building our website and will look for more products in the Data Center area",
+        "why": "出货前验收抓到软件 logo 没改；收货地（加州 Yorba Linda）；预告要看数据中心产品",
+        "k": "gmail_s 9c5a64c2246332a8"
+      },
+      {
         "date": "2024-05-14",
         "dir": "来",
         "who": "Thu Pham",
         "quote": "We received the Switch and did not see the Operation Software CD come with in. Don't we always provide the Software CD with the product?… We are using the old style CD. Can I download and create a CD somehow?",
         "why": "美国小品牌商的交付习惯：要随机光盘/下载包（Simon 给了 Google Drive 下载链接）；05-31「Our engineers are testing the product. We are kind of busy in the SFP modules project」→ Vi-Link 主业是 SFP 模块，交换机是副线",
         "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
+        "date": "2024-05-15",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "Yes. We are using the old style CD. Can I download and create a CD somehow?",
+        "why": "客户还在用光盘式资料——老派美国小公司",
+        "k": "gmail_s 202a39ac28c427b5"
+      },
+      {
+        "date": "2024-05-31",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "Our engineers are testing the product. We are kind of busy in the SFP modules project so it will take us sometimes to finish the testing",
+        "why": "首台 L3 光口机测试拖了很久；Vi-Link 主业是光模块",
+        "k": "gmail_s d0f2bc51cd5b6a4b"
       },
       {
         "date": "2024-06-01",
@@ -335,12 +383,36 @@
         "k": "pi_doc"
       },
       {
+        "date": "2024-12-04",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "They are OK, please send them（10G 媒体转换器 OEM 样品）",
+        "why": "第二单放行",
+        "k": "gmail_s ac63d6becafb0620"
+      },
+      {
         "date": "2025-05-09",
         "dir": "来",
         "who": "Thu Pham",
         "quote": "Can you send me the full price list of your products?",
         "why": "唯一一次主动要全价目表（Simon 05-17 回「Download Link.pdf」）；之后 2025-05 → 2026-07 Saga 发了 9 封群发无回，直到 2026-08 第三单 MC1000SC03",
         "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "I am changing our company logo. I want to check with you to see if you can print it on the new purchase order.（附新 logo）",
+        "why": "第三单起点：新 logo 丝印",
+        "k": "gmail_s 5b7a42c6815a9dcd"
+      },
+      {
+        "date": "2026-08-19",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "I am looking for 10 pcs of 10/100M Fast Ethernet SM SC connectors. Please see the attached information（MC100SC03.pdf）",
+        "why": "第三单需求原文：10 台百兆单模 SC 媒体转换器——后来按千兆款 MC1000SC03 成交",
+        "k": "gmail_s b3e051f99d40baba"
       },
       {
         "date": "2026-08-20",
@@ -351,12 +423,28 @@
         "k": "ef4bc37cb17aebbf"
       },
       {
+        "date": "2026-08-21",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
+        "why": "报价后技术追问（DIP）——下一封「My customer didn't like the DIP switches」的前因",
+        "k": "gmail_s f3802ab4ac196997"
+      },
+      {
         "date": "2026-09-01",
         "dir": "来",
         "who": "Thu Pham",
         "quote": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
         "why": "终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版",
         "k": "8422e68589333f40"
+      },
+      {
+        "date": "2026-09-02",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "Attached is the silkscreen for MC1000SC03. Can you send me the new PI",
+        "why": "丝印定稿 + 要新 PI → 09-03 付 T/T",
+        "k": "gmail_s d9d43c891cfc6622"
       },
       {
         "date": "2026-09-03",
@@ -383,12 +471,28 @@
         "k": "2b79994c6f5315f7"
       },
       {
+        "date": "2026-09-14",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = Segoe UL… 2. Can your converter auto-negotiate at 10/100/1000M speeds on the copper side?",
+        "why": "丝印字体规范（下次直接照用）+ 自协商确认（Simon 答 yes）",
+        "k": "gmail_s 70aed6db373006bd"
+      },
+      {
         "date": "2026-09-18",
         "dir": "去",
         "who": "Saga 内部（丝印需求_2026.09.18.docx，第三单 MC1000SC03）",
         "quote": "2个颜色，红色和白色…Vi-Link = Arial Black；Fiber Optic Communications / Fiber Optic Media Converter = Segoe UL Light；Model = Segoe UL…一定要注意大小写，千万不能错了；下方的字体的横线要稍微凸出来一些",
         "why": "第三单（P20260904-01 未税 ¥900，STSC-20260821-001）仍是逐字体核对的丝印活；利润薄但复购稳定（2024-04 / 2024-11 / 2026-08）；09-08 Thu「This does not look good. It will look like I use some one products」= 丝印稍有偏差她就拒收，这是她的底线",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
+      },
+      {
+        "date": "2026-09-21",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+        "quote": "Yes, it looks good. Thank you",
+        "why": "丝印样照确认 → 09-24 发货信息 → 09-27 DHL 8604097423",
+        "k": "gmail_s 473fef5b3fe4d820"
       },
       {
         "date": "2026-09-24",

@@ -3205,6 +3205,22 @@
 "k": "gmail_s 2024-09-04 Re: PO | SGP250051"
 },
 {
+"date": "2024-09-05",
+"dir": "来",
+"who": "Au Wai Choon（Resonant Networks）",
+"quote": "All good, except change this: Manufacturer: Resonant Networks (R ~Nets). Ok?… Yes! Pls proceed.",
+"why": "PO SGP250051 样机标签：制造商栏写 Resonant Networks（R ~Nets）——OEM 标签口径先例",
+"k": "gmail_s 1729cb59f0e8f3ef"
+},
+{
+"date": "2024-09-06",
+"dir": "来",
+"who": "Bernard Song（Resonant Networks）",
+"quote": "May I know if the unit will be ready to ship out tomorrow?… Kindly share the tracking number once shipment booked.",
+"why": "采购/物流窗口第二人",
+"k": "gmail_s 257652cf8dcedfc5"
+},
+{
 "date": "2024-09-09",
 "dir": "来",
 "who": "Au Wai Choon",
@@ -3285,12 +3301,28 @@
 "k": "a39c837e568b25c4"
 },
 {
+"date": "2025-04-08",
+"dir": "来",
+"who": "Au Wai Choon（Resonant Networks）",
+"quote": "We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first.",
+"why": "「几千台」项目的前置条件：先买 IP 摄像头给终端客户测",
+"k": "gmail_s 8e2b18b16fa080bf"
+},
+{
 "date": "2025-04-09",
 "dir": "去",
 "who": "Simon → Au Wai Choon",
 "quote": "Please let us know if we can help in any way. I mean, maybe something else, H3C switches, data center switches... Just like the IP cameras, we will see what we can do for you.",
 "why": "Saga 愿意为老客户代采 H3C/DC 交换机/IP 摄像头（「资源库」角色，同 Proposal 里对 Angora 的承诺）——这是真实存在的增值服务，但不写进外宣（Saga.md：不做贸易商叙事）",
 "k": "gmail_s 2025-04-09 Re: 10G MultiGig Price"
+},
+{
+"date": "2025-07-08",
+"dir": "来",
+"who": "Hairomee（Resonant Networks）",
+"quote": "Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this month. Till then please bear with us.",
+"why": "项目拖期的正式说法；此后再无数量",
+"k": "gmail_s ce309a03337e8ab8"
 },
 {
 "date": "2025-07-28",
@@ -3323,6 +3355,14 @@
 "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
 "why": "Saga 底线",
 "k": "b26aafe834fa3423"
+},
+{
+"date": "2026-06-22",
+"dir": "来",
+"who": "Au Wai Choon（Resonant Networks）",
+"quote": "Thank you for reaching out.（回 Simon 固件 7.5 发布通知）",
+"why": "礼貌确认，无需求——关系还在",
+"k": "gmail_s 8481f7580addd6d7"
 },
 {
 "date": "2026-09-21",
@@ -5887,6 +5927,22 @@
 "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
 },
 {
+"date": "2024-04-17",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US… please send me the total invoice included shipping cost and PayPal payment account（附 Vilink Logo 2440.pdf）",
+"why": "首单的起点：1 台样机、PayPal、带 logo——美国 OEM 复购客户的第一步",
+"k": "gmail_s 4c859aea7c100a66"
+},
+{
+"date": "2024-04-17",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "For the Marvell chip type OEM will you print our Logo on the front chassis and change the Logo in the management software?",
+"why": "OEM 两件事：前面板丝印 + 管理软件 logo——后来每单都照此",
+"k": "gmail_s cce072ccb2fc537f"
+},
+{
 "date": "2024-04-18",
 "dir": "去",
 "who": "Simon → Thu",
@@ -5903,6 +5959,14 @@
 "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
 },
 {
+"date": "2024-04-19",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "With Visio file you can change the fonts to whatever you want. In this case the Vi-Link font is \"Arial\"… Yes, Option 2 is OK for now（附 Vi-Link Logo EN2440.pdf / Vi-Link Logo.vsd）",
+"why": "logo 源文件只有 Visio/PDF，Simon 要 AI/PS——丝印文件格式问题从首单起就有，2026-09 又出现一次",
+"k": "gmail_s 2e79f01cb18ff639"
+},
+{
 "date": "2024-04-20",
 "dir": "来",
 "who": "Thu（Vilink_Models.pdf，1st order）",
@@ -5911,12 +5975,36 @@
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
 },
 {
+"date": "2024-04-25",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "It looks good. But I did not see any Vi-Link logo in the software? Shipping address: Thu Pham, 5160 Avenida De Despacio, Yorba Linda, CA 92887… We are re-building our website and will look for more products in the Data Center area",
+"why": "出货前验收抓到软件 logo 没改；收货地（加州 Yorba Linda）；预告要看数据中心产品",
+"k": "gmail_s 9c5a64c2246332a8"
+},
+{
 "date": "2024-05-14",
 "dir": "来",
 "who": "Thu Pham",
 "quote": "We received the Switch and did not see the Operation Software CD come with in. Don't we always provide the Software CD with the product?… We are using the old style CD. Can I download and create a CD somehow?",
 "why": "美国小品牌商的交付习惯：要随机光盘/下载包（Simon 给了 Google Drive 下载链接）；05-31「Our engineers are testing the product. We are kind of busy in the SFP modules project」→ Vi-Link 主业是 SFP 模块，交换机是副线",
 "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
+"date": "2024-05-15",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "Yes. We are using the old style CD. Can I download and create a CD somehow?",
+"why": "客户还在用光盘式资料——老派美国小公司",
+"k": "gmail_s 202a39ac28c427b5"
+},
+{
+"date": "2024-05-31",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "Our engineers are testing the product. We are kind of busy in the SFP modules project so it will take us sometimes to finish the testing",
+"why": "首台 L3 光口机测试拖了很久；Vi-Link 主业是光模块",
+"k": "gmail_s d0f2bc51cd5b6a4b"
 },
 {
 "date": "2024-06-01",
@@ -5991,12 +6079,36 @@
 "k": "pi_doc"
 },
 {
+"date": "2024-12-04",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "They are OK, please send them（10G 媒体转换器 OEM 样品）",
+"why": "第二单放行",
+"k": "gmail_s ac63d6becafb0620"
+},
+{
 "date": "2025-05-09",
 "dir": "来",
 "who": "Thu Pham",
 "quote": "Can you send me the full price list of your products?",
 "why": "唯一一次主动要全价目表（Simon 05-17 回「Download Link.pdf」）；之后 2025-05 → 2026-07 Saga 发了 9 封群发无回，直到 2026-08 第三单 MC1000SC03",
 "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
+"date": "2026-08-18",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "I am changing our company logo. I want to check with you to see if you can print it on the new purchase order.（附新 logo）",
+"why": "第三单起点：新 logo 丝印",
+"k": "gmail_s 5b7a42c6815a9dcd"
+},
+{
+"date": "2026-08-19",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "I am looking for 10 pcs of 10/100M Fast Ethernet SM SC connectors. Please see the attached information（MC100SC03.pdf）",
+"why": "第三单需求原文：10 台百兆单模 SC 媒体转换器——后来按千兆款 MC1000SC03 成交",
+"k": "gmail_s b3e051f99d40baba"
 },
 {
 "date": "2026-08-20",
@@ -6007,12 +6119,28 @@
 "k": "ef4bc37cb17aebbf"
 },
 {
+"date": "2026-08-21",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
+"why": "报价后技术追问（DIP）——下一封「My customer didn't like the DIP switches」的前因",
+"k": "gmail_s f3802ab4ac196997"
+},
+{
 "date": "2026-09-01",
 "dir": "来",
 "who": "Thu Pham",
 "quote": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
 "why": "终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版",
 "k": "8422e68589333f40"
+},
+{
+"date": "2026-09-02",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "Attached is the silkscreen for MC1000SC03. Can you send me the new PI",
+"why": "丝印定稿 + 要新 PI → 09-03 付 T/T",
+"k": "gmail_s d9d43c891cfc6622"
 },
 {
 "date": "2026-09-03",
@@ -6039,12 +6167,28 @@
 "k": "2b79994c6f5315f7"
 },
 {
+"date": "2026-09-14",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = Segoe UL… 2. Can your converter auto-negotiate at 10/100/1000M speeds on the copper side?",
+"why": "丝印字体规范（下次直接照用）+ 自协商确认（Simon 答 yes）",
+"k": "gmail_s 70aed6db373006bd"
+},
+{
 "date": "2026-09-18",
 "dir": "去",
 "who": "Saga 内部（丝印需求_2026.09.18.docx，第三单 MC1000SC03）",
 "quote": "2个颜色，红色和白色…Vi-Link = Arial Black；Fiber Optic Communications / Fiber Optic Media Converter = Segoe UL Light；Model = Segoe UL…一定要注意大小写，千万不能错了；下方的字体的横线要稍微凸出来一些",
 "why": "第三单（P20260904-01 未税 ¥900，STSC-20260821-001）仍是逐字体核对的丝印活；利润薄但复购稳定（2024-04 / 2024-11 / 2026-08）；09-08 Thu「This does not look good. It will look like I use some one products」= 丝印稍有偏差她就拒收，这是她的底线",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
+},
+{
+"date": "2026-09-21",
+"dir": "来",
+"who": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+"quote": "Yes, it looks good. Thank you",
+"why": "丝印样照确认 → 09-24 发货信息 → 09-27 DHL 8604097423",
+"k": "gmail_s 473fef5b3fe4d820"
 },
 {
 "date": "2026-09-24",
@@ -6560,6 +6704,14 @@
 "quote": "Thanks, we got it. Production will be arranged tomorrow. Just one small thing, do we use our model name on WEB GUI and label? We can use yours if you have one.",
 "why": "付款后次日排产；Saga 对单台客户也主动问「GUI/标签用谁的型号名」——贴牌零门槛的口径证据",
 "k": "gmail_a 98db755cf311be37"
+},
+{
+"date": "2025-08-25",
+"dir": "来",
+"who": "Chris（GoGreenIT）",
+"quote": "Great, thank you.… Yours will be fine, thank you!（答「do we use our model name on WEB GUI and label? We can use yours」）",
+"why": "GUI/标签用 Saga 自己的型号名——GoGreenIT 不要贴牌",
+"k": "gmail_a 2da9e4dfccd887f1"
 },
 {
 "date": "2025-09-01",
@@ -7419,6 +7571,22 @@
 "k": "gmail_s 2025-03-19/21/22 RE: Testing Feedback"
 },
 {
+"date": "2025-03-21",
+"dir": "来",
+"who": "Frederik Kriewitz（NYNEX）",
+"quote": "does it support 2,5 or 5G BASE-T? You probably don't need a formal tester… use any of your 10G SFP+ switches (port fixed 10G), connect the media converter SFP+ to the switch and any standard 1G PC network card",
+"why": "10G 媒体转换器多速率测试——客户在教 Saga 怎么测；Simon 03-22 答「暂无 5G BASE-T 测试条件」",
+"k": "gmail_s 6f52709a41c57f28"
+},
+{
+"date": "2025-03-22",
+"dir": "来",
+"who": "Frederik Kriewitz（NYNEX）",
+"quote": "Thank you for the report. Did you configure the switch ports to 10G fixed speed in this test?",
+"why": "测试报告被追问方法——NYNEX 的技术严谨度",
+"k": "gmail_s 9972645d4ea80155"
+},
+{
 "date": "2025-03-25",
 "dir": "去",
 "who": "Saga（Simon）",
@@ -7563,12 +7731,28 @@
 "k": "eb14772778a52488"
 },
 {
+"date": "2025-11-18",
+"dir": "来",
+"who": "Frederik Kriewitz（NYNEX）",
+"quote": "If it's based on RPM you could use the \"ENTITY-SENSOR-MIB\" standard MIB… Your custom working/not working and low/high speed logic is perfectly fine for us… simply add it to your NMS-SYS mib",
+"why": "风扇监控 MIB 的实现建议（标准 MIB vs 私有 MIB）——固件 7.4.7 风扇/双电源监控的来源",
+"k": "gmail_s 06568928a9445bc3"
+},
+{
 "date": "2025-12-10",
 "dir": "来",
 "who": "Frederik Kriewitz（NYNEX）",
 "quote": "We can see the fan data now but all other data from the sys tables are gone (cpu/memory/power state/temperature)… (12-17) can you double check the firmware file you sent, while it has another checksum… it shows the same version/build date: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… Vendor OID is still 0",
 "why": "固件迭代中的回归（风扇出来了、CPU/内存/电源/温度没了；Vendor OID 仍为 0）——NYNEX 替 Saga 做了 QA；这种客户最忌「发错文件」，每次 BIN 要附 checksum + 变更说明",
 "k": "gmail_s 2025-12-10 RE: Marvell Alleycat5 Solution"
+},
+{
+"date": "2025-12-17",
+"dir": "来",
+"who": "Frederik Kriewitz（NYNEX）",
+"quote": "can you double check the firmware file you sent, while it has another checksum… shows the same version/build date… Vendor OID is still 0: Software Version: hotfix/7.4.7 (r1540 af525c9) Release Date: 2025-12-11… PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001",
+"why": "固件包错发（同版本号不同校验和、Vendor OID 仍为 0）——12-18 重发后「OID updated, working as expected」",
+"k": "gmail_s 68c59647de2f8f4a"
 },
 {
 "date": "2025-12-18",
@@ -32838,6 +33022,14 @@
 "k": "9963340096ada5bb"
 },
 {
+"date": "2024-08-23",
+"dir": "来",
+"who": "Thomas（DYMEC，sales@dymec.com）",
+"quote": "Thank you, I will let you know.（回 8 口 DIN 千兆群发）",
+"why": "一句话礼貌回复，无下文",
+"k": "gmail_s 02f335a0d962ef1c"
+},
+{
 "date": "2025-05-28",
 "dir": "来",
 "who": "Thom Sherer",
@@ -35170,6 +35362,14 @@
 "k": "084d04e5ec702dc9"
 },
 {
+"date": "2026-05-21",
+"dir": "来",
+"who": "Berk（iotsistem，info@iotsistem.com）",
+"quote": "Could you tell me specail price?（24 口纯铜非管理）",
+"why": "每一轮的固定句式：先要 special price",
+"k": "gmail_a c06af195ab819939"
+},
+{
 "date": "2026-05-28",
 "dir": "来",
 "who": "Berk",
@@ -35274,12 +35474,36 @@
 "k": "c6123b252bbbe871"
 },
 {
+"date": "2026-08-21",
+"dir": "来",
+"who": "Berk（iotsistem，info@iotsistem.com）",
+"quote": "You are exactly right, Pls could you help to provide Reliable cheaper one?",
+"why": "接受「Marvell 贵」的解释，但要更便宜的可靠款——Alan 09-03 答「120USD 24 口非管理已是最好」",
+"k": "gmail_a 7703e6444b479a47"
+},
+{
+"date": "2026-09-02",
+"dir": "来",
+"who": "Berk（iotsistem，info@iotsistem.com）",
+"quote": "Is there any feed back? Do you have solution_?",
+"why": "催「更便宜的方案」；Alan 09-03 答复",
+"k": "gmail_a 86eb3067b4d8819b"
+},
+{
 "date": "2026-09-03",
 "dir": "去",
 "who": "Alan",
 "quote": "I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged",
 "why": "Saga 已到底线",
 "k": "faed82fe02dfeb95"
+},
+{
+"date": "2026-09-17",
+"dir": "来",
+"who": "Berk（iotsistem，info@iotsistem.com）",
+"quote": "Could you tell me to price and datasheet?（16 口 DIN PoE）",
+"why": "第三条线开口；Alan 09-18 按 RMB 报 1,100/台",
+"k": "gmail_a b1fd581f3292521f"
 },
 {
 "date": "2026-09-18",
@@ -74557,6 +74781,14 @@
 "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2026-08-06",
+"dir": "来",
+"who": "James Clendenan",
+"quote": "Can you send me this again? I missed getting it before it expired.（AC5 固件 WeTransfer 链接过期）",
+"why": "WeTransfer 7 天过期——给客户固件别只用临时链接",
+"k": "gmail_s 9efe5d1b1132a14a"
+},
+{
 "date": "2026-08-26",
 "dir": "去",
 "who": "Simon",
@@ -74579,6 +74811,14 @@
 "quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
 "why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制。**AC5 线没有多千兆铜口**（DG 只是 2.5G 光口，规则 ⑰）；正对他四个条件的是 CENTEC VastLakes 表（2026/Q2）上的 STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G SFP28，双 CRPS + 热插拔风扇模块，机架）或 STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G）；商用 0–40℃；仓内无价、现货未知（Q-54/Q-56）——这是能正面回他的一句「有」，别再含糊",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+},
+{
+"date": "2026-08-31",
+"dir": "来",
+"who": "James Clendenan",
+"quote": "[image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」）",
+"why": "付款凭证截图——12 × SW-3200-16GP-2SX @ $335 = $4,020 的那单",
+"k": "gmail_s 3287d81fe10e8f5f"
 },
 {
 "date": "2026-09-07",
@@ -446988,6 +447228,14 @@
 "k": "Drive Extra Info `Quotation__STA-20260323-001.xls`"
 },
 {
+"date": "2026-04-13",
+"dir": "来",
+"who": "Stan（ITM Systems）",
+"quote": "We have a meeting this week to move forward this project, it is still alive.",
+"why": "$107,675 报价后的第一次「还活着」——到 2026-08 仍未付款",
+"k": "gmail_a bb34c05fbe8c6f6e"
+},
+{
 "date": "2026-04-23",
 "dir": "来",
 "who": "info@itmsystems.net",
@@ -472260,6 +472508,14 @@
 "quote": "（06-11 / 06-18 / 06-23 三封同文）I'm following up to see if you have been able to successfully design the stacking switches discussed below. Please advise when you have a moment.（10-15）Any news on this?（10-30）What is the status of the stacking switches that we had been discussing?",
 "why": "一个月内三封同文催问 + 10 月两封——Versitron 这边是认真排了产品线的；Saga 的回复节奏（06 无回、10-31 坦白出问题）是这条线断掉的直接原因。对表信要先认这件事",
 "k": "gmail_s 2025-06-11/18/23, 10-15, 10-30"
+},
+{
+"date": "2025-08-27",
+"dir": "来",
+"who": "Greg Massott（Versitron）",
+"quote": "What is the price of this unit?（L3 管理 24 口 DIN PoE，370W）",
+"why": "Simon 08-28 答 $500/pc「expensive because we are doing Marvell chip」→ 无下文",
+"k": "gmail_s f6115f259e0a5e6b"
 },
 {
 "date": "2025-08-28",
