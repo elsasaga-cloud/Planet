@@ -323698,7 +323698,7 @@
 "saga_now": {
 "p1": "STH 系列或 10G 工业汇聚（新品类）",
 "tier": 25,
-"price": "按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
+"price": "2027-Q1 新品类锚价：STI-488XGGPM $171.9（25% 档）/ STH-2C24XF-HSI $1,500（CENTEC 群发价；第 72 批 2026-10-24）；按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
 "why": "品牌商直联",
 "repeat": [],
 "gaps": [
@@ -323710,7 +323710,7 @@
 "when": "2027-Q1",
 "channel": "A 邮箱 → andys@case.uk.com",
 "action": "只发它没有的品类",
-"one_question": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?"
+"one_question": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have? Reference: STI-488XGGPM at $171.9 / STH-2C24XF-HSI at $1,500 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -323771,7 +323771,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "10G / L3 aggregation gap in the Case industrial range — one question",
+"body": "Hi, Andy,\n\nIn February 2025 you told me plainly that the L3 DIN PoE unit at $500 was more than you pay elsewhere. Fair point, and I have not pushed PoE on you since.\n\nThis is about a different slot. Two things in our range today that Case does not list:\n\n- Industrial 10G uplink access: STI-488XGGPM, 8× GE PoE+ + 4× 10G SFP+, L2+ (Marvell), -40 to +75 °C, DIN-rail — $171.9 USD EXW, MOQ 1 pc, 15-day validity.\n- Full-L3 aggregation on our CENTEC line: STH-2C24XF-HSI, 24× 10G SFP+ + 2× 100G, OSPF/BGP/MPLS, dual hot-swap PSU — $1,500 USD EXW, built to order.\n\nBoth can carry the Case label (software logo from one unit; overlay and box from 300 / 200 pcs).\n\nOne question: is there a 10G-uplink or L3 aggregation gap in your industrial range where one of these would fill a hole rather than duplicate what you already buy? If not, I will leave it there.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -408123,11 +408126,11 @@
 "cadence": "一封",
 "evidence": "k=e0c4b6cd7947d58e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
-"situation": "—",
-"need": "—",
-"breakpoint": "—",
+"situation": "2026-03-23 Inus 只要「所有交换机的价格指示」→ Alan 发了整表（Product Link 2026Q2）→ 7 个月无回；自有品牌（Netshield）电源/网络商，PoE 交换机是否在其路线图上不明。",
+"need": "自有品牌 PoE 交换机（待证实；只有一次要价表）。",
+"breakpoint": "整表之后没有一个具体 SKU 的对话；价表 = 没有决策点。",
 "saga_now": {
-"p1": "—",
+"p1": "STC-28DGGPM（Netshield 贴牌）",
 "tier": 30,
 "price": "再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
@@ -408151,7 +408154,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One SKU under the Netshield label — a 2-unit sample?",
+"body": "Hi, Inus,\n\nIn March you asked for an indication of pricing across our switches and I sent the full list. Lists rarely turn into decisions, so one narrower question instead:\n\nIs there one SKU worth a 2-unit sample under the Netshield label? The one I would start with is STC-28DGGPM — 8× GE PoE+ + 2× 2.5G SFP, L2+ (Marvell), 120 W budget — at $87.4 USD EXW, MOQ 1 pc, 15-day validity, with your logo in the web GUI from the first unit.\n\nIf PoE switches are not on the Netshield roadmap, tell me and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
