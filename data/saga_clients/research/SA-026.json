@@ -164,6 +164,22 @@
     "as_of": "2026-10-24",
     "facts": [
       {
+        "date": "2023-11-22",
+        "dir": "去",
+        "who": "Simon→SmartByte（label_content.docx，首单标签改动）",
+        "quote": "以上次出货标签为基础：port Gigabit POE Managed Switch；STC-28GPM；8*10/100/1000M POE Ports + 2*Gigabit SFP Uplink, L2 Managed；S/N-10/1000M20231122001、…002",
+        "why": "首单 2 台 STC-28GPM 的标签就已按客户习惯改序列号格式（S/N-10/1000M+日期）——Andrey 从第一单起就是「要标签」的客户，第二单升级为 PRT- 自有品牌",
+        "k": "pi_doc"
+      },
+      {
+        "date": "2024-02-11",
+        "dir": "来",
+        "who": "Andrey（WhatsApp 截图，PI 包「售后问题_1/2.png」）",
+        "quote": "need New firmware for managed switch, 2/11/2024. Old one is not work correct with snmp… Loader 3.2.0.33 / Firmware 1.0.0.34 (Mar 09 2023)… Error: OID not increasing: iso.3.6.1.2.1.17.4.3.1.1.… (dot1dTpFdbTable)",
+        "why": "首单 STC-28GPM 的唯一售后：SNMP walk 在 FDB 表 OID 不递增（老固件 1.0.0.34）——和 NYNEX 2025-12 的 MIB/OID 问题同源；Andrey 2025-07 还是下了 130 台，说明当时解决了或没影响；若三款测试机再测 SNMP，先给 AC5 新固件",
+        "k": "pi_doc"
+      },
+      {
         "date": "2025-01-01",
         "dir": "去",
         "who": "Saga → HRUI（仨戛-注册商标使用授权书，2nd order 采购附件）",
