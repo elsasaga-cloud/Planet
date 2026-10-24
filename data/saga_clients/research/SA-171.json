@@ -157,6 +157,18 @@
         "why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
       }
-    ]
+    ],
+    "situation": "曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。",
+    "need": "CCTV/安防集成商的项目件：16 口工业 PoE（STI-21616GP）是主力，24 口工业 PoE 管理（STI-42424DGGPM）作汇聚，10G 桌面/MC 作辅件；节奏 3–6 个月一单、每单 1–5 台。",
+    "next_move": {
+      "when": "2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏）",
+      "channel": "WhatsApp（Elsa 开 PI）",
+      "action": "问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）",
+      "one_question": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
+    },
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
+    }
   }
 }

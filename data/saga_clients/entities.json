@@ -13327,14 +13327,14 @@
 },
 "mail_review": {
 "binding": {
-"level": "轻度（2 单 $6,038，2023-11 / 2025-07，货代走账；Simon 标「可发展」）",
+"level": "轻度→中度边缘（2 单 $6,038 中第二单 130 件 $5,165 为 Priorat 品牌批量 + 三款测试机；货代走账；Simon 标「可发展」）",
 "type": "俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目）",
 "sieve": "3（两单成交）但无邮件往来（WhatsApp）",
 "stop": "无停点；低频",
 "revive": "KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入",
 "lane": "RU 已通（货代付款）",
 "cadence": "最后 PI 2025-07-31；邮件 0 封",
-"evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照"
+"evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照；PI STSC20250731004 原文（PRT- 型号、100 台贴牌、3×10 测试机）+ 标签内容.docx + 商标授权书"
 },
 "as_of": "2026-10-24",
 "facts": [
@@ -13347,6 +13347,14 @@
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey 2nd_order"
 },
 {
+"date": "2025-07-31",
+"dir": "去",
+"who": "Saga PI STSC20250731004（Simon 开；Buyer: BitBook LLC, Andrey Tatarnikov, info@bitbuk.ru）",
+"quote": "STC-128GFP → PRT-SF-1110P ×100 @$22（With Priorat logo, no extra charge）；STC-4424GCPM → PRT-SG-1428PM ×10 @$130（neutral, testing）；STC-424GM → PRT-SG-1424M ×10 @$92（neutral, testing）；STI-288GPM → PRT-SG-1208PMI ×10 @$72（neutral, testing）；Bank $25；USD TOTAL 130 件 $5,165（汇率 7.18 → ¥37,084.7）；EXW；标签要求：型号写客户的 PRT-xxx，序列号 SN-20250804xxxx，Times New Roman",
+"why": "第二单不是小单：**100 台 Priorat 品牌（PRT-）百兆 PoE 接入 + 三款管理/工业机各 10 台「testing purpose」**——Priorat 是 Andrey 的自有品牌，三款测试机若过关就是下一批贴牌；档案原来的「2 单 $6,038 轻度」低估了这条线。下一问应围绕三款测试机的结论，而不是重复 STC-28GPM",
+"k": "data/pi_2026-10/text/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__STSC20250731004.xls + 标签内容_STSC20250731004.docx"
+},
+{
 "date": "2025-08-05",
 "dir": "去",
 "who": "Saga 内部备注（1309 挂耳费用 后续慢慢拿回来.docx）",
@@ -13354,7 +13362,19 @@
 "why": "为 Andrey 定制的挂耳模具/加工费 ¥1,309 由 Saga 先垫、分摊到后续 3 单每单 ≈¥440 收回——Saga 在给「可发展」客户垫小额定制成本换复购；复购若停，这笔就沉没",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey"
 }
-]
+],
+"situation": "Andrey Tatarnikov（BitBook LLC，info@bitbuk.ru；自有品牌 Priorat / PRT-）：WhatsApp + 货代走账客户，S/A 邮箱 0 封；Drive PI 两单：2023-11 STC-28GPM ×2 @$63 起步 → 2025-07-31 STSC20250731004 **130 件 $5,165**（100 台 PRT-SF-1110P 贴牌 + PRT-SG-1428PM / PRT-SG-1424M / PRT-SG-1208PMI 各 10 台测试机），含定制挂耳 ¥1,309 由 Saga 垫付拟分 3 单收回，HRUI 侧凭 Saga 出具的商标使用授权书（2025-01-01 → 2028-12-31）印 Priorat 标。Simon 标「可发展」。",
+"need": "Priorat 品牌全线贴牌：百兆 PoE 接入（已批量）+ 24 口 PoE 管理 / 24 口管理 / 工业 8 口 PoE 管理（测试中）；标签/序列号/字体按其规范；俄罗斯线付款走货代。",
+"next_move": {
+"when": "2026-11（第二单后 15 个月；三款测试机结论未知）",
+"channel": "WhatsApp",
+"action": "问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由",
+"one_question": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
+},
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
+}
 }
 }
 },
@@ -72388,8 +72408,8 @@
 "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单；S 邮箱 19 封（2024-06-27 → 2026-08-31，均为 LinkedIn 对话后的单据/固件邮件；jsonl client 字段为空，按域名重扫补入）"
 },
 "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
-"need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
-"breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
+"need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。 ⑤（2026-08-26《JCSL-Custom power pcb》）电源板改版：电源/告警接点改出板背（Molex MiniFit-JR / JST）、加 i2c 温度传感器、2 个 PWM/TAC 风扇头（Noctua 4-pin 5V）、板上再出 75W 12V DC 给其 PC 模块，高度不超现有板距，FCC Part 15 B / CE / RoHS；⑥（《长期需求》）2.5G/mGig PoE+ 管理型、双电源、机架、PWM 风扇控制。",
+"breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。 新增：电源板四项改版是 PCB 级 ODM——HRUI/SmartByte 侧是否愿为 12 台/单的量开板（Angora 的 PC0012 代工询问也停在同一处），要先问 Peter 的 MOQ 而不是先答应 James。",
 "saga_now": {
 "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
 "tier": 30,
@@ -72401,14 +72421,16 @@
 ],
 "gaps": [
 "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
-"MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
+"MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核",
+"电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James",
+"2.5G/mGig PoE+ 双电源机架型号：AC5 线有无对应（STC-2xx 2.5G 系列 + 双电源需核）"
 ]
 },
 "next_move": {
 "when": "2026-11 上旬（12 台到货后）",
 "channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
-"action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
-"one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+"action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT",
+"one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)"
 },
 "facts": [
 {
@@ -72506,7 +72528,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+"body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)"
 },
 "as_of": "2026-10-24"
 }
@@ -72870,7 +72892,19 @@
 "why": "2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问",
 "k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
 }
-]
+],
+"situation": "拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。",
+"need": "BNSC 线：8 口 PoE 管理（STC-28GPM）稳定补货 + 24 口 PoE（STC-424DGGPM）零星；Netstream 线：10G 上联 PoE 与 CENTEC 核心（ISP/园区骨干），2025-11 之后未再买；包装/说明书/箱标全按两套品牌模板。",
+"next_move": {
+"when": "2026-11（BNSC-28GPM 上次 08-30，按 1–2 个月节奏到期）",
+"channel": "WhatsApp（Elsa 开 PI）",
+"action": "补货问一句的同时，第一次主动问 Netstream 线：两台 STH-2C24XF-SFI 用得怎样、要不要 25G/100G 扩容或第二台 10G 上联 PoE；别只等他报 BNSC 数量",
+"one_question": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
+},
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
+}
 }
 }
 },
@@ -73163,7 +73197,19 @@
 "why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
 }
-]
+],
+"situation": "曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。",
+"need": "CCTV/安防集成商的项目件：16 口工业 PoE（STI-21616GP）是主力，24 口工业 PoE 管理（STI-42424DGGPM）作汇聚，10G 桌面/MC 作辅件；节奏 3–6 个月一单、每单 1–5 台。",
+"next_move": {
+"when": "2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏）",
+"channel": "WhatsApp（Elsa 开 PI）",
+"action": "问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）",
+"one_question": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
+},
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
+}
 }
 }
 },
@@ -115425,6 +115471,14 @@
 },
 "facts": [
 {
+"date": "2024-09-02",
+"dir": "来",
+"who": "Wadii Kherfani（TELTRONIX | BRITICOM，Northampton UK）",
+"quote": "What's the price of this switch?（回 Simon 群发「8 port poe switch」）",
+"why": "第一次人工来信比档案里记的 09-03 早一天、而且是问价——Simon 09-03 回 STI-288GP 60 USD/pc（工业 2 光 8 电 PoE 240W 非管理，DIP，无电源）= 本户最早的价格锚；随后 09-03 的 20 台 24 口 PoE + 双电源 + 4 SFP LH 项目 RFQ 被 Simon 一句「not available」挡回（其实 STC-424DGGPM 系列接近，缺的是双电源）",
+"k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
+},
+{
 "date": "2024-09-03",
 "dir": "来",
 "who": "Wadii",
@@ -115439,6 +115493,14 @@
 "quote": "sorry to tell you that this specification is not available on our product list.",
 "why": "一句放弃",
 "k": "9709506348c74b1f"
+},
+{
+"date": "2024-10-02",
+"dir": "来",
+"who": "Wadii Kherfani",
+"quote": "Can you show us a drawing of a network where this product will fit/install??（回「Power Converter」= DC 升压/PoE 配件推送）",
+"why": "客户要的是「这东西装在网络哪一层」的拓扑图而不是规格书——Simon 10-08 假期后回了附件；此后 10-24 / 11-20 / 12-11 Simon 连推 2+4 2.5G、8 口 PoE 管理、MINI DIN 三款（Re: 同一线程）无回。给 Wadii 的资料应配一页安装拓扑",
+"k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
 },
 {
 "date": "2025-07-06",

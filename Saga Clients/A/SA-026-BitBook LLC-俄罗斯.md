@@ -36,19 +36,24 @@ updated: 2026-10-24
 - **为什么是 A 级**：**调研后定级 A**（核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — ；
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11（第二单后 15 个月；三款测试机结论未知） WhatsApp 问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-026` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（2 单 $6,038，2023-11 / 2025-07，货代走账；Simon 标「可发展」）** ｜ 类型：俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目） ｜ 筛子：3（两单成交）但无邮件往来（WhatsApp） ｜ 停点：无停点；低频 ｜ 复活：KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入 ｜ 通路：RU 已通（货代付款） ｜ 节奏：最后 PI 2025-07-31；邮件 0 封 ｜ 证据：PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照
+- **绑定等级：轻度→中度边缘（2 单 $6,038 中第二单 130 件 $5,165 为 Priorat 品牌批量 + 三款测试机；货代走账；Simon 标「可发展」）** ｜ 类型：俄罗斯条码/自动化设备商兼分销（自有品牌在中国贴牌；网络 PoE 为配套类目） ｜ 筛子：3（两单成交）但无邮件往来（WhatsApp） ｜ 停点：无停点；低频 ｜ 复活：KP Андрей Татарников 2026-07-06 曾提 OEM/ODM（U18）→ 自有品牌贴牌切入 ｜ 通路：RU 已通（货代付款） ｜ 节奏：最后 PI 2025-07-31；邮件 0 封 ｜ 证据：PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照；PI STSC20250731004 原文（PRT- 型号、100 台贴牌、3×10 测试机）+ 标签内容.docx + 商标授权书
+- **现状一句话**：Andrey Tatarnikov（BitBook LLC，info@bitbuk.ru；自有品牌 Priorat / PRT-）：WhatsApp + 货代走账客户，S/A 邮箱 0 封；Drive PI 两单：2023-11 STC-28GPM ×2 @$63 起步 → 2025-07-31 STSC20250731004 **130 件 $5,165**（100 台 PRT-SF-1110P 贴牌 + PRT-SG-1428PM / PRT-SG-1424M / PRT-SG-1208PMI 各 10 台测试机），含定制挂耳 ¥1,309 由 Saga 垫付拟分 3 单收回，HRUI 侧凭 Saga 出具的商标使用授权书（2025-01-01 → 2028-12-31）印 Priorat 标。Simon 标「可发展」。
+- **对方真实需求（有据）**：Priorat 品牌全线贴牌：百兆 PoE 接入（已批量）+ 24 口 PoE 管理 / 24 口管理 / 工业 8 口 PoE 管理（测试中）；标签/序列号/字体按其规范；俄罗斯线付款走货代。
+- **下一步（具体）**：2026-11（第二单后 15 个月；三款测试机结论未知）　WhatsApp　问三款测试机（PRT-SG-1428PM / 1424M / 1208PMI）的测试结论和 PRT-SF-1110P 的库存消耗；告知管理型已切 AC5、挂耳模具在、授权书到 2028——给他一个「现在补货不加模具费、标签照旧」的理由
+  - 第一问（只问一个）：Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-01-01 | 去 | Saga → HRUI（仨戛-注册商标使用授权书，2nd order 采购附件） | 郑州仨戛通讯器材有限公司…同步公司目标客户的商标，同意授权 深圳市洪瑞光祥电子技术有限公司 在为郑州仨戛通讯器材有限公司生产（OEM）的所有产品上，免费且免责使用此商标…授权期限：2025年01月01日 至 2028年12月31日 | HRUI 给 Saga 客户贴牌要一张 Saga 出具的商标使用授权书（侵权责任全在 Saga）——Andrey 第二单（2025-08，HRUI 采购 ¥4,520 + Smartbyte 线）就是靠这张纸出的 OEM 标；这也是 Saga「代客户承担商标风险」的隐性服务，可写进 OEM 话术 | `Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey 2nd_order` |
+| 2025-07-31 | 去 | Saga PI STSC20250731004（Simon 开；Buyer: BitBook LLC, Andrey Tatarnikov, info@bitbuk.ru） | STC-128GFP → PRT-SF-1110P ×100 @$22（With Priorat logo, no extra charge）；STC-4424GCPM → PRT-SG-1428PM ×10 @$130（neutral, testing）；STC-424GM → PRT-SG-1424M ×10 @$92（neutral, testing）；STI-288GPM → PRT-SG-1208PMI ×10 @$72（neutral, testing）；Bank $25；USD TOTAL 130 件 $5,165（汇率 7.18 → ¥37,084.7）；EXW；标签要求：型号写客户的 PRT-xxx，序列号 SN-20250804xxxx，Times New Roman | 第二单不是小单：**100 台 Priorat 品牌（PRT-）百兆 PoE 接入 + 三款管理/工业机各 10 台「testing purpose」**——Priorat 是 Andrey 的自有品牌，三款测试机若过关就是下一批贴牌；档案原来的「2 单 $6,038 轻度」低估了这条线。下一问应围绕三款测试机的结论，而不是重复 STC-28GPM | `data/pi_2026-10/text/PI__PI__4_俄罗斯_Andrey_货代走账_可发展__2nd_order__STSC20250731004.xls + 标签内容_STSC20250731004.docx` |
 | 2025-08-05 | 去 | Saga 内部备注（1309 挂耳费用 后续慢慢拿回来.docx） | 1309 挂耳费用 后续慢慢拿回来；预计3个单子，这样一次大概是440元左右，不太多，基本能覆盖 | 为 Andrey 定制的挂耳模具/加工费 ¥1,309 由 Saga 先垫、分摊到后续 3 单每单 ≈¥440 收回——Saga 在给「可发展」客户垫小额定制成本换复购；复购若停，这笔就沉没 | `Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -272,21 +277,13 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Andrey,
-
-Picking up our earlier exchange about PoE / industrial switches. Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

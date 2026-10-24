@@ -151,8 +151,8 @@
       "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单；S 邮箱 19 封（2024-06-27 → 2026-08-31，均为 LinkedIn 对话后的单据/固件邮件；jsonl client 字段为空，按域名重扫补入）"
     },
     "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
-    "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
-    "breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
+    "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。 ⑤（2026-08-26《JCSL-Custom power pcb》）电源板改版：电源/告警接点改出板背（Molex MiniFit-JR / JST）、加 i2c 温度传感器、2 个 PWM/TAC 风扇头（Noctua 4-pin 5V）、板上再出 75W 12V DC 给其 PC 模块，高度不超现有板距，FCC Part 15 B / CE / RoHS；⑥（《长期需求》）2.5G/mGig PoE+ 管理型、双电源、机架、PWM 风扇控制。",
+    "breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。 新增：电源板四项改版是 PCB 级 ODM——HRUI/SmartByte 侧是否愿为 12 台/单的量开板（Angora 的 PC0012 代工询问也停在同一处），要先问 Peter 的 MOQ 而不是先答应 James。",
     "saga_now": {
       "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
       "tier": 30,
@@ -164,14 +164,16 @@
       ],
       "gaps": [
         "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
-        "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
+        "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核",
+        "电源板改版（4 项）的可行性/MOQ/NRE——先内部核再回 James",
+        "2.5G/mGig PoE+ 双电源机架型号：AC5 线有无对应（STC-2xx 2.5G 系列 + 双电源需核）"
       ]
     },
     "next_move": {
       "when": "2026-11 上旬（12 台到货后）",
       "channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
-      "action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
-      "one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+      "action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT",
+      "one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)"
     },
     "facts": [
       {
@@ -269,7 +271,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+      "body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)"
     },
     "as_of": "2026-10-24"
   }

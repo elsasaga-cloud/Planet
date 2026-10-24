@@ -55,8 +55,10 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-09-02 | 来 | Wadii Kherfani（TELTRONIX \| BRITICOM，Northampton UK） | What's the price of this switch?（回 Simon 群发「8 port poe switch」） | 第一次人工来信比档案里记的 09-03 早一天、而且是问价——Simon 09-03 回 STI-288GP 60 USD/pc（工业 2 光 8 电 PoE 240W 非管理，DIP，无电源）= 本户最早的价格锚；随后 09-03 的 20 台 24 口 PoE + 双电源 + 4 SFP LH 项目 RFQ 被 Simon 一句「not available」挡回（其实 STC-424DGGPM 系列接近，缺的是双电源） | `gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）` |
 | 2024-09-03 | 来 | Wadii | I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack wise cable | 20 台 RFQ | `47d30031bff4bebe` |
 | 2024-09-03 | 去 | Simon | sorry to tell you that this specification is not available on our product list. | 一句放弃 | `9709506348c74b1f` |
+| 2024-10-02 | 来 | Wadii Kherfani | Can you show us a drawing of a network where this product will fit/install??（回「Power Converter」= DC 升压/PoE 配件推送） | 客户要的是「这东西装在网络哪一层」的拓扑图而不是规格书——Simon 10-08 假期后回了附件；此后 10-24 / 11-20 / 12-11 Simon 连推 2+4 2.5G、8 口 PoE 管理、MINI DIN 三款（Re: 同一线程）无回。给 Wadii 的资料应配一页安装拓扑 | `gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）` |
 | 2025-07-06 | 来 | wadii@teltronix.net | Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX \| BRITICOM T.: +44 1604 434 186 [cid:im | 来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `193727c946660628` |
 | 2025-07-07 | 来 | Wadii | Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? | 做预算 | `8fa533b181f1ab4b` |
 | 2025-07-07 | 去 | Alan（Quotation_Copper Switch.pdf，Buyer TELTRONIX / Wadii Kherfani，EXW UK） | STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表） | 对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回 | `gmail_a att 2025-07-07` |

@@ -131,6 +131,14 @@
     },
     "facts": [
       {
+        "date": "2024-09-02",
+        "dir": "来",
+        "who": "Wadii Kherfani（TELTRONIX | BRITICOM，Northampton UK）",
+        "quote": "What's the price of this switch?（回 Simon 群发「8 port poe switch」）",
+        "why": "第一次人工来信比档案里记的 09-03 早一天、而且是问价——Simon 09-03 回 STI-288GP 60 USD/pc（工业 2 光 8 电 PoE 240W 非管理，DIP，无电源）= 本户最早的价格锚；随后 09-03 的 20 台 24 口 PoE + 双电源 + 4 SFP LH 项目 RFQ 被 Simon 一句「not available」挡回（其实 STC-424DGGPM 系列接近，缺的是双电源）",
+        "k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
+      },
+      {
         "date": "2024-09-03",
         "dir": "来",
         "who": "Wadii",
@@ -145,6 +153,14 @@
         "quote": "sorry to tell you that this specification is not available on our product list.",
         "why": "一句放弃",
         "k": "9709506348c74b1f"
+      },
+      {
+        "date": "2024-10-02",
+        "dir": "来",
+        "who": "Wadii Kherfani",
+        "quote": "Can you show us a drawing of a network where this product will fit/install??（回「Power Converter」= DC 升压/PoE 配件推送）",
+        "why": "客户要的是「这东西装在网络哪一层」的拓扑图而不是规格书——Simon 10-08 假期后回了附件；此后 10-24 / 11-20 / 12-11 Simon 连推 2+4 2.5G、8 口 PoE 管理、MINI DIN 三款（Re: 同一线程）无回。给 Wadii 的资料应配一页安装拓扑",
+        "k": "gmail_s（wadii@teltronix.net，jsonl client 字段为空，按域名重扫）"
       },
       {
         "date": "2025-07-06",

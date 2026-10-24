@@ -36,15 +36,19 @@ updated: 2026-10-24
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/尼日利亚；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — ；
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11（BNSC-28GPM 上次 08-30，按 1–2 个月节奏到期） WhatsApp（Elsa 开 PI） 补货问一句的同时，第一次主动问 Netstream 线：两台 STH-2C24XF-SFI 用得怎样、要不要 25G/100G 扩容或第二台 10G 上联 PoE；别只等他报 BNSC 数量
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-170` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料；WhatsApp 问 Netstream 线：100G 核心用得如何、25G/100G 扩容与 BNSC-28GPM 下一批一起走 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档；两个自有品牌 BNSC + Netstream（PI 原件），Netstream 线含 CENTEC STH-2C24XF-SFI ×2（2025-11）
+- **现状一句话**：拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。
+- **对方真实需求（有据）**：BNSC 线：8 口 PoE 管理（STC-28GPM）稳定补货 + 24 口 PoE（STC-424DGGPM）零星；Netstream 线：10G 上联 PoE 与 CENTEC 核心（ISP/园区骨干），2025-11 之后未再买；包装/说明书/箱标全按两套品牌模板。
+- **下一步（具体）**：2026-11（BNSC-28GPM 上次 08-30，按 1–2 个月节奏到期）　WhatsApp（Elsa 开 PI）　补货问一句的同时，第一次主动问 Netstream 线：两台 STH-2C24XF-SFI 用得怎样、要不要 25G/100G 扩容或第二台 10G 上联 PoE；别只等他报 BNSC 数量
+  - 第一问（只问一个）：Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -244,25 +248,13 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Valentine,
-
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the HRUI class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $181.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

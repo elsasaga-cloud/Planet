@@ -36,15 +36,19 @@ updated: 2026-10-24
 - **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 亚太/泰国；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — ；
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏） WhatsApp（Elsa 开 PI） 问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-171` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **绑定等级：轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）** ｜ 类型：泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流） ｜ 筛子：3（多次下单，WhatsApp 成交） ｜ 停点：无停点；小额高频，走国内货代与人民币 ｜ 复活：已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐） ｜ 通路：TH 已通（货代走账） ｜ 节奏：最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封） ｜ 证据：PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200
+- **现状一句话**：曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。
+- **对方真实需求（有据）**：CCTV/安防集成商的项目件：16 口工业 PoE（STI-21616GP）是主力，24 口工业 PoE 管理（STI-42424DGGPM）作汇聚，10G 桌面/MC 作辅件；节奏 3–6 个月一单、每单 1–5 台。
+- **下一步（具体）**：2026-11 下旬（上次 2026-07-06，按 3–6 个月节奏）　WhatsApp（Elsa 开 PI）　问下一批 STI-21616GP 数量；顺带告知 AC5 版本已替代 AC3（STI-21616GP 为非管理不受影响，但 STI-42424DGGPM 管理型走 AC5）
+  - 第一问（只问一个）：Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -220,25 +224,13 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Peeranun,
-
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $188.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
