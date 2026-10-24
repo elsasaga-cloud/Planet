@@ -1,0 +1,18 @@
+{
+ "id": "199b9c498e6e6315",
+ "thread_id": "199b4cde5b2ef9b8",
+ "message_id_header": "<SCZP152MB608902C3AF1D9A8451D88756CEE3A@SCZP152MB6089.LAMP152.PROD.OUTLOOK.COM>",
+ "from": "info -br <info-br@weg.net>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "None",
+ "subject": "RES: 10G Enterprise SFP Switch",
+ "date": "Mon, 6 Oct 2025 13:44:46 +0000",
+ "labels": "['IMPORTANT','CATEGORY_PERSONAL']",
+ "text": "Thank you for contacting us through WEG's Contact Us channel.\n\nOur supply/purchasing teams are located within our business units.\nPlease visit our website to find the location of the unit to which you would like to offer your products and services. We look forward to hearing from you.\n\nSincerely,\nCustomer Service Team\nWEG Equipamentos Elétricos S.A – Corporate",
+ "char_count": "1315",
+ "attachments": "[{'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 13159}]",
+ "note": "WEG（巴西）客服模板回复：采购在各事业部，请自行找 → 等于无门；Elsa 10-06 群发 STC-4168XGGCM $280",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:15Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "19c60846cee95e85",
+ "thread_id": "19c3c4e27ff31aff",
+ "message_id_header": "<DU4PR03MB11141BCAB9EAEA8F3735190ACD46FA@DU4PR03MB11141.eurprd03.prod.outlook.com>",
+ "from": "Ismail Mohamed <ismail@3lines.com.sa>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "Salman Abdul Samad <s.farees@3lines.com.sa>, Procurement <procurement@3lines.com.sa>",
+ "subject": "RE: RFQ-3L-NR-080226",
+ "date": "Sun, 15 Feb 2026 08:56:53 +0000",
+ "labels": "['IMPORTANT','CATEGORY_PERSONAL']",
+ "text": "Dear Team,\n\nIs there any update on our below RFQ.\n\nRegards,\nEng. Mohamed Ismail\nProcurement Department",
+ "char_count": "2761",
+ "attachments": "[]",
+ "note": "SB-580（C）：对 02-08 RFQ 的追问；Elsa 未回",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:15Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

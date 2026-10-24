@@ -1,0 +1,18 @@
+{
+ "id": "195c265c432159de",
+ "thread_id": "195740993ac2c996",
+ "message_id_header": "<CA+e5XSXjpOzpbvZwEf1Cq=gVtEibbKHOmBfQo_xSWHBQ2aLeaQ@mail.gmail.com>",
+ "from": "KELLY BANDASON <bandasonkelly@gmail.com>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "khmisti39@gmail.com",
+ "subject": "Re: Marvell Alleycat5 Solution",
+ "date": "Sun, 23 Mar 2025 11:46:30 +0200",
+ "labels": "['IMPORTANT','CATEGORY_PERSONAL']",
+ "text": "I am\n\nOn Sun, 23 Mar 2025, 11:00 Elsa from Saga Telecom, <e.sagatelecom@gmail.com> wrote:",
+ "char_count": "92",
+ "attachments": "[{'filename': 'Customization after log-in.jpg', 'mime_type': 'image/jpeg', 'size': 138179}]",
+ "note": "SC-2857（津巴布韦 gmail，C）回 Elsa 03-23「Marvell Alleycat5 Solution」群发两个字「I am」，抄 khmisti39@gmail.com（SC-2355 阿尔及利亚，C）；非 Replied → Elsa 未回；不动",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:17Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

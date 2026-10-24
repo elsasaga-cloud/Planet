@@ -1,0 +1,18 @@
+{
+ "id": "19c3c4e27ff31aff",
+ "thread_id": "19c3c4e27ff31aff",
+ "message_id_header": "<DU4PR03MB111416E39892337B39081214DD464A@DU4PR03MB11141.eurprd03.prod.outlook.com>",
+ "from": "Ismail Mohamed <ismail@3lines.com.sa>",
+ "to": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "cc": "Salman Abdul Samad <s.farees@3lines.com.sa>, Procurement <procurement@3lines.com.sa>",
+ "subject": "RFQ-3L-NR-080226",
+ "date": "Sun, 8 Feb 2026 08:11:15 +0000",
+ "labels": "['IMPORTANT','CATEGORY_PERSONAL']",
+ "text": "Hello Team,\n\nI would like to request a quotation for the attached items.\n\nRegards,\nEng. Mohamed Ismail\nProcurement Department\nTel: 011-2268022 Ext: 113  Mob: +966 569747353\nOffice 203, 2nd floor Building no 2148, King Abdullah Branch Road, King Faisal Dist. Riyadh 13215, Saudi Arabia",
+ "char_count": "2030",
+ "attachments": "[{'filename': 'RFQ-NR 080226.xlsx', 'mime_type': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'size': 15851}]",
+ "note": "SB-580（C）：附件已拉 → data/gmail_e/attachments/SB-580_RFQ-NR_080226_2026-02-08.xlsx = 整套 HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的项目 BOM（机场/指挥中心类），无 Saga 对应品；Elsa 未回；02-15 追问一次",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:15Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

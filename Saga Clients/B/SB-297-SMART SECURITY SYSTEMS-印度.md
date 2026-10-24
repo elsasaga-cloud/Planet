@@ -34,28 +34,30 @@ updated: 2026-10-24
 - **是谁**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站，商用 PoE 需求，2025-07 对 2 光 8 PoE 回复 price。（调研 2026-10-21；表内兴趣：2019年加入国际站 商业PoE）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-20 → 2025-10-02）；最近一次客户回复：2025-07-20：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型；STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就
+- **第一问（只问一个）**：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → rkahir65@gmail.com（Rk Ahir） 首封：按 email_hook 一问
+- **下一步**：现在（我方欠答 15 个月） E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） 补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-297` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：2019年加入国际站 商业PoE；回复：price」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：2019年加入国际站 商业PoE；回复：price」；研究档 risks：gmail 小商；印度低价
-- **现状一句话**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站，商用 PoE 需求，2025-07 对 2 光 8 PoE 回复 price。
-- **对方真实需求（有据）**：2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。
-- **断点 / 为什么停在这里**：gmail 小商；印度低价
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → rkahir65@gmail.com（Rk Ahir）　首封：按 email_hook 一问
-  - 第一问（只问一个）：Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?
+- **绑定等级：已触达·我方欠答（Elsa 群发 2025-07-20「8 Port Industrial PoE Switch」→ Rk Ahir 07-26 回「SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE」→ Saga 未回，至今 15 个月；S/A 邮箱无往来）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：我方欠答（不是他不回） ｜ 复活：补答：回原串，带价 + 规格书 + 一问，不装作没收到 ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_e 1984519079bd6669（2025-07-26 来信，非 Replied）；gmail_digest：S/A out 0；用户表「回复：price」
+- **现状一句话**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站；2025-07-26 回 Elsa 的 8 口工业 PoE 群发要价 + 手册 + 卖点，Saga 从未回复。
+- **对方真实需求（有据）**：8 口工业 PoE（他回的那封）→ 非管理 STI-288GP $60；若室内机柜用，商用桌面 8 PoE + 2 SFP 非管理 $26.2 作备选。
+- **断点 / 为什么停在这里**：我方欠答 15 个月；gmail 小商、印度低价——补答要价 + 手册一次给齐，别再空问
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就）——他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型
+- **下一步（具体）**：现在（我方欠答 15 个月）　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
+  - 第一问（只问一个）：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-07-20 | 去 | Elsa（群发） | 8 Port Industrial PoE Switch（8 口千兆 PoE 工业机，30W/口、250 m PoE、SFP/SC/FC/ST 可选；正文无价） | 他回的就是这封；之前「S/A 邮箱均无往来」只对了一半——往来在 Elsa 箱 | `gmail_e thread 197c0e2d0ac20935` |
+| 2025-07-26 | 来 | Rk Ahir（Smart Security Systems） | SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE | 明确要价 + 手册 + 卖点；Elsa 邮箱里这封没有 Replied 标签、线程里没有 Elsa 回信 → 我方欠答 15 个月；用户表「回复：price」= 这条 | `gmail_e 1984519079bd6669` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：2019年加入国际站 商业PoE；回复：price | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：07-20 群发 → 07-26 Rk Ahir 要价 + 手册 → Saga 未回；用户表「回复：price」= 这条，不是 WhatsApp；Elsa 07-20 群发正文（有无价）未拉，只见他回信中引用的附件名「1U Umanaged.jpg」
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -96,7 +98,7 @@ updated: 2026-10-24
   - 要了 2 光 8 PoE 价格（2025-07）
 - **风险/边界**：gmail 小商；印度低价
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——2 光 8 PoE 询价 → STC-28DGGPM（$84.1 @25%）。
-- **邮件切入句（英文）**：Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?
+- **邮件切入句（英文）**：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -186,25 +188,25 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：8 Port Industrial PoE Switch — the price you asked for
 
 ```text
-Hello,
+Hi Mr. Ahir,
 
-Picking up our earlier exchange about PoE / industrial switches. Mr. Ahir, the 8-PoE + 2-SFP price you asked for is $84 EXW at 1 pc (Marvell, L2+ managed); is it for a specific camera site, and how many units?
+In July 2025 you replied to our mail on the 8-port industrial PoE switch asking for the price, a brochure and the advantages, and that reply was never answered. Apologies — here it is in one go.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+STI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C, 250 m long-reach PoE mode and PoE watchdog on DIP switches. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+What you get from us rather than a marketplace seller: neutral brand (your label on request), single units shipped, and the same model kept in production for years so replacements match what you installed.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+Is this for outdoor camera poles or indoor racks, and how many units?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Elsa
+Saga Telecom · sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

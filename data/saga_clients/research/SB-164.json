@@ -67,7 +67,7 @@
  "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回",
+   "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回；补核（第 73 批）：08-23 第一问无人答，10-01 第二问只得照片 → 两次都没拿到型号/价",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
@@ -95,6 +95,22 @@
   },
   "facts": [
    {
+    "date": "2025-08-18",
+    "dir": "去",
+    "who": "Elsa（群发，发给 sales@unilinkcommunication.com）",
+    "quote": "I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/pc",
+    "why": "Tescom 第一次来信回的是这封——所以他看过的 24 SFP 汇聚机价 = $240（2025-08，老汇率），不是 10 月那轮",
+    "k": "gmail_e 198d7414a2738d97（引用）"
+   },
+   {
+    "date": "2025-08-23",
+    "dir": "来",
+    "who": "mmedad（samuisso@tescom.co.tz）",
+    "quote": "Hello thanks for your recomendation please what is the type of switch",
+    "why": "比 10-01 那封早 5 周的第一问；没有 Replied 标签、线程里无 Elsa 回信 → 这封没人答，他 10-01 又问一次「how many types」，Elsa 才回 5 张照片",
+    "k": "gmail_e 198d7414a2738d97"
+   },
+   {
     "date": "2025-10-01",
     "dir": "来",
     "who": "Samuisso（TESCOM，坦桑尼亚）",
@@ -120,7 +136,8 @@
    }
   ],
   "proof_gaps": [
-   "（已核 2026-10-24，第 73 批）Elsa 2025-10-01 回 5 张产品照片 + 「which type do you most need」，无型号无价，之后无回"
+   "（已核 2026-10-24，第 73 批）Elsa 2025-10-01 回 5 张产品照片 + 「which type do you most need」，无型号无价，之后无回",
+   "（已核 2026-10-24，第 73 批）Tescom 其实问过两次：08-23「what is the type of switch」（无人答）→ 10-01「how many types」（Elsa 回 5 张照片无型号）；他看过的 24 SFP 汇聚机价 = $240（2025-08-18 群发）"
   ],
   "draft_en": {
    "subject": "How many types of switch — TESCOM",
