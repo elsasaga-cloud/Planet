@@ -1,0 +1,15 @@
+# 修改本文件并推送 = 触发一次运行（workflow 的 paths 过滤只看 ingest/RUN）。每行 KEY=VALUE，# 开头为注释。
+# 来源三选一：
+#   SOURCE_IDS      Google Drive 文件 ID（逗号分隔）。文件须为「知道链接的任何人 · 查看者」（代理可用 Drive 连接器 make_public 设置，跑完 make_private）。
+#   SOURCE_RELEASE  本仓库 Release 的 tag：人工把 zip 上传到 Releases（单个资产 ≤2 GiB，大于就先 split），运行器用 gh release download 取——不碰 Drive、没有配额锁。
+#   LOCAL_FILES     本地调试用：逗号分隔的本地路径。
+SOURCE_IDS=1AbCdEfGhIjKlMnOpQrStUvWxYz0123456
+SOURCE_MD5=                      # 可选：Drive 的 md5Checksum（连接器 get_file 可见），下载后校验
+OUT_NAME=extra_info_2026-10      # 输出到 data/<OUT_NAME>/
+TITLE=Simon 补充资料 Extra Info.zip
+BACKUP=1                         # 1 = 原件上传到 Release files-<OUT_NAME>（私有仓库仅协作者可见；不进 Git 历史）
+OCR=1                            # 1 = 图片 / 无文字层 PDF 做 OCR（tesseract eng+chi_sim）
+OCR_MIN_KB=8                     # 小于此大小的图片不 OCR（图标/线条）
+WORKERS=2                        # 抽取并发；内存紧（大 Excel/PDF）就 2，普通 4
+CHECKPOINT_MIN=10                # 每隔几分钟把进度提交一次（防 6 h 超时 / OOM 白跑）
+MAX_CHARS=2000000                # 单文件保留的最大字符数
