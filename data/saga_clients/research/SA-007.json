@@ -252,6 +252,14 @@
         "k": "cost_sheet"
       },
       {
+        "date": "2024-07-17",
+        "dir": "内",
+        "who": "Saga 出口报关资料（PI 包「买单报关资料.xls」）",
+        "quote": "商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG",
+        "why": "第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线",
+        "k": "data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)"
+      },
+      {
         "date": "2024-11-18",
         "dir": "来",
         "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",

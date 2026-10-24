@@ -186,6 +186,14 @@
         "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
       },
       {
+        "date": "2024-06-27",
+        "dir": "内",
+        "who": "Saga 出口报关资料（PI 包，1st order）",
+        "quote": "货物情况说明表：工业交换机 STI-21616DGGPM × 4，8517622990，单价 215 / 总价 860 USD（FOB），品牌 Saga Telecom，生产厂家 Zhengzhou Saga Telecom Co., Ltd.，23×18×7 cm，240W，Metal",
+        "why": "第一单申报口径：品牌与厂家都填 Saga（郑州）——James 后来的两单改为「无品牌 + 他自己的型号名」",
+        "k": "data/pi_2026-10/text/…10_加拿大_James…1st_order_sample 买单报关资料.xls (0fbeaf83)"
+      },
+      {
         "date": "2024-06-28",
         "dir": "来",
         "who": "James Clendenan",
@@ -216,6 +224,14 @@
         "quote": "内部《成本统计.xlsx》：STSC20240627010：成本 6,238 / 收款 7,968 / 利润 1,729（21.7%） · STSC20241219010：成本 8,368 / 收款 11,840 / 利润 3,472（29.3%）",
         "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
         "k": "cost_sheet"
+      },
+      {
+        "date": "2024-12-19",
+        "dir": "内",
+        "who": "Saga 出口报关资料（PI 包，2nd order）",
+        "quote": "工业交换机 SW-3200-16GP-2SM × 4 @ 215 = 860 USD；SW-3200-8GP-4S+ × 2 @ 265 = 530 USD；158×115×54 mm；无品牌；申报总价值 1,625 USD，总毛重 8 kg，目的国加拿大",
+        "why": "从第二单起报关型号就用 James 的 SW-3200 系列名、品牌「无」——他的产品化从 2024 年底就开始了；$265 的 8GP-4S+ = 4+8 PoE 工业机（后来 2025-08 的 AC5 固件也只给这款）",
+        "k": "data/pi_2026-10/text/…10_加拿大_James…2nd_order_sample 发票_买单报关.xlsx (58299045)"
       },
       {
         "date": "2025-08-28",
@@ -280,6 +296,14 @@
         "quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
         "why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制。**AC5 线没有多千兆铜口**（DG 只是 2.5G 光口，规则 ⑰）；正对他四个条件的是 CENTEC VastLakes 表（2026/Q2）上的 STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G SFP28，双 CRPS + 热插拔风扇模块，机架）或 STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G）；商用 0–40℃；仓内无价、现货未知（Q-54/Q-56）——这是能正面回他的一句「有」，别再含糊",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+      },
+      {
+        "date": "2026-09-07",
+        "dir": "内",
+        "who": "Saga 出口报关资料（PI 包，买单_STSC20260830010.xlsx）",
+        "quote": "出口货物确认函：工业交换机 SW-3200-16GP-2SX × 12 台 @ 335 = 4,020 USD，1 纸箱，总毛重 20 kg，净重 14.4 kg，158×115×54 mm，Metal，无品牌，8517622990，一般贸易，目的国加拿大",
+        "why": "第四单（12 台，PI STSC20260830010）的实际发运口径：单台净重 1.2 kg、整单一箱 20 kg——报 DAP 运费时可直接用；「无品牌」= 他要的中性外观",
+        "k": "data/pi_2026-10/text/…10_加拿大_James…买单_STSC20260830010.xlsx (fccde3ae)"
       }
     ],
     "proof_gaps": [

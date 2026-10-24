@@ -571,6 +571,14 @@
         "k": "S 邮箱附件 `STSC20241017007.pdf`（k=aea2d199d7cd6571）"
       },
       {
+        "date": "2024-10-21",
+        "dir": "内",
+        "who": "Saga 出口报关资料（深圳联邦 UPS 报关表，2nd order）",
+        "quote": "商业交换机 ANW-2116-PG 440×180×44 mm × (5+2+1) 台 @ 252 USD（3/3.5 kg）；工业交换机 ANW-1108-V 158×115×54 mm × 2 @ 164.5 USD（1.5/2 kg）；品牌「无」；总毛重 32 KG；目的国土耳其",
+        "why": "第二单的报关单价：ANW-2116-PG $252、ANW-1108-V $164.5（= STI-280DGGM 工业 2 光 8 电管理）——比 176 台大单的 $240 高 5%；走深圳联邦（UPS）买单报关",
+        "k": "data/pi_2026-10/text/…7_土耳其_Levent…2nd_order…深圳联邦UPS…买单.xls (ce656a35)"
+      },
+      {
         "date": "2024-10-23",
         "dir": "来",
         "who": "Levent（批注在 Simon 的规则稿上）",
@@ -707,6 +715,14 @@
         "k": "gmail_s 2025-03-03 PI for New Order: 7 Units"
       },
       {
+        "date": "2025-03-07",
+        "dir": "内",
+        "who": "Saga 出口报关资料（3rd order 176 台 Shipment Info）",
+        "quote": "工业交换机 ANW-2116-PG：22 Carton（53.5×40×40.8 cm）净 444.4 / 毛 466.4 kg @ 240 USD = 42,240 USD + 1 Carton（37×31.5×20.5）4.5/5.5 kg @ 240 = 480 USD；总毛重 471.9 KG；Metal；「Connect LAN ports and then convert the signals for optical transmission」",
+        "why": "176 台大单的物流底数：23 箱 471.9 kg（每 8 台一箱 ≈ 21 kg）——Simon 成本表里这单运费 22,426 RMB，折合每台 ≈ 127 RMB ≈ $18，是毛利被压到 15.9% 的主因；下次同规模报价要把空运/海运差价单列",
+        "k": "data/pi_2026-10/text/…7_土耳其_Levent…3rd_order_176台…买单报关模板.xls (943f31ce)"
+      },
+      {
         "date": "2025-03-17",
         "dir": "来",
         "who": "Levent Kılıç",
@@ -777,6 +793,14 @@
         "quote": "Our big project for STI-288DGGPM is moving faster than we expected… We are expecting a contract for 5,000 pcs (yes that's right)… 1,000 pcs in 1 month by air freight and 4,000 in second month",
         "why": "Simon 05-10：备料（PCB/PoE 芯片/AC5）约 3 周、5K 一个月可以但物料远不够、建议 2 个月；05-20 Levent「we have already positioned AC4 for this project because of cost… initial order looks like 2,000 pcs in 60 days」——至今（2026-10）未见该合同 PI，6 台演示机（STSC20250619007）是唯一落地",
         "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2025-05-12",
+        "dir": "内",
+        "who": "Saga 出口报关资料（4th/5th/6th order）",
+        "quote": "STSC20250507007：STC-424XGGPM × 3 @ 180 + STC-448XGGPM × 2 @ 335（29.3 kg）；STSC20250526007：STC-424XGGPM × 10 @ 205 + STC-448XGGPM × 3 @ 335（54.6 kg）；STSC20250619007：STI-288DGGPM × 6 @ 125（8.5 kg）；品牌均「无」",
+        "why": "Angora 三单的报关单价 = PI 单价（424XGGPM 样机 $180 → 10G 光口版 ANW-2224-PX $205；448XGGPM $335；工业 2 光 8 PoE $125）——这就是 2026 年对 Angora 的价格锚；2026-10 Simon 新报 875 RMB/台 的工业机要对着 $125 这条解释",
+        "k": "data/pi_2026-10/text/…7_土耳其_Levent…4th/5th/6th order 买单报关 (2ea0d778 / d19e8238 / 197d10c0)"
       },
       {
         "date": "2025-05-26",

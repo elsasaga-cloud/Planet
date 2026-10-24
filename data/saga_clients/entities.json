@@ -3754,6 +3754,14 @@
 "k": "cost_sheet"
 },
 {
+"date": "2024-07-17",
+"dir": "内",
+"who": "Saga 出口报关资料（PI 包「买单报关资料.xls」）",
+"quote": "商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG",
+"why": "第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线",
+"k": "data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)"
+},
+{
 "date": "2024-11-18",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
@@ -73409,6 +73417,14 @@
 "k": "S 邮箱附件 `STSC20241017007.pdf`（k=aea2d199d7cd6571）"
 },
 {
+"date": "2024-10-21",
+"dir": "内",
+"who": "Saga 出口报关资料（深圳联邦 UPS 报关表，2nd order）",
+"quote": "商业交换机 ANW-2116-PG 440×180×44 mm × (5+2+1) 台 @ 252 USD（3/3.5 kg）；工业交换机 ANW-1108-V 158×115×54 mm × 2 @ 164.5 USD（1.5/2 kg）；品牌「无」；总毛重 32 KG；目的国土耳其",
+"why": "第二单的报关单价：ANW-2116-PG $252、ANW-1108-V $164.5（= STI-280DGGM 工业 2 光 8 电管理）——比 176 台大单的 $240 高 5%；走深圳联邦（UPS）买单报关",
+"k": "data/pi_2026-10/text/…7_土耳其_Levent…2nd_order…深圳联邦UPS…买单.xls (ce656a35)"
+},
+{
 "date": "2024-10-23",
 "dir": "来",
 "who": "Levent（批注在 Simon 的规则稿上）",
@@ -73545,6 +73561,14 @@
 "k": "gmail_s 2025-03-03 PI for New Order: 7 Units"
 },
 {
+"date": "2025-03-07",
+"dir": "内",
+"who": "Saga 出口报关资料（3rd order 176 台 Shipment Info）",
+"quote": "工业交换机 ANW-2116-PG：22 Carton（53.5×40×40.8 cm）净 444.4 / 毛 466.4 kg @ 240 USD = 42,240 USD + 1 Carton（37×31.5×20.5）4.5/5.5 kg @ 240 = 480 USD；总毛重 471.9 KG；Metal；「Connect LAN ports and then convert the signals for optical transmission」",
+"why": "176 台大单的物流底数：23 箱 471.9 kg（每 8 台一箱 ≈ 21 kg）——Simon 成本表里这单运费 22,426 RMB，折合每台 ≈ 127 RMB ≈ $18，是毛利被压到 15.9% 的主因；下次同规模报价要把空运/海运差价单列",
+"k": "data/pi_2026-10/text/…7_土耳其_Levent…3rd_order_176台…买单报关模板.xls (943f31ce)"
+},
+{
 "date": "2025-03-17",
 "dir": "来",
 "who": "Levent Kılıç",
@@ -73615,6 +73639,14 @@
 "quote": "Our big project for STI-288DGGPM is moving faster than we expected… We are expecting a contract for 5,000 pcs (yes that's right)… 1,000 pcs in 1 month by air freight and 4,000 in second month",
 "why": "Simon 05-10：备料（PCB/PoE 芯片/AC5）约 3 周、5K 一个月可以但物料远不够、建议 2 个月；05-20 Levent「we have already positioned AC4 for this project because of cost… initial order looks like 2,000 pcs in 60 days」——至今（2026-10）未见该合同 PI，6 台演示机（STSC20250619007）是唯一落地",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2025-05-12",
+"dir": "内",
+"who": "Saga 出口报关资料（4th/5th/6th order）",
+"quote": "STSC20250507007：STC-424XGGPM × 3 @ 180 + STC-448XGGPM × 2 @ 335（29.3 kg）；STSC20250526007：STC-424XGGPM × 10 @ 205 + STC-448XGGPM × 3 @ 335（54.6 kg）；STSC20250619007：STI-288DGGPM × 6 @ 125（8.5 kg）；品牌均「无」",
+"why": "Angora 三单的报关单价 = PI 单价（424XGGPM 样机 $180 → 10G 光口版 ANW-2224-PX $205；448XGGPM $335；工业 2 光 8 PoE $125）——这就是 2026 年对 Angora 的价格锚；2026-10 Simon 新报 875 RMB/台 的工业机要对着 $125 这条解释",
+"k": "data/pi_2026-10/text/…7_土耳其_Levent…4th/5th/6th order 买单报关 (2ea0d778 / d19e8238 / 197d10c0)"
 },
 {
 "date": "2025-05-26",
@@ -74148,6 +74180,14 @@
 "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-06-27",
+"dir": "内",
+"who": "Saga 出口报关资料（PI 包，1st order）",
+"quote": "货物情况说明表：工业交换机 STI-21616DGGPM × 4，8517622990，单价 215 / 总价 860 USD（FOB），品牌 Saga Telecom，生产厂家 Zhengzhou Saga Telecom Co., Ltd.，23×18×7 cm，240W，Metal",
+"why": "第一单申报口径：品牌与厂家都填 Saga（郑州）——James 后来的两单改为「无品牌 + 他自己的型号名」",
+"k": "data/pi_2026-10/text/…10_加拿大_James…1st_order_sample 买单报关资料.xls (0fbeaf83)"
+},
+{
 "date": "2024-06-28",
 "dir": "来",
 "who": "James Clendenan",
@@ -74178,6 +74218,14 @@
 "quote": "内部《成本统计.xlsx》：STSC20240627010：成本 6,238 / 收款 7,968 / 利润 1,729（21.7%） · STSC20241219010：成本 8,368 / 收款 11,840 / 利润 3,472（29.3%）",
 "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
 "k": "cost_sheet"
+},
+{
+"date": "2024-12-19",
+"dir": "内",
+"who": "Saga 出口报关资料（PI 包，2nd order）",
+"quote": "工业交换机 SW-3200-16GP-2SM × 4 @ 215 = 860 USD；SW-3200-8GP-4S+ × 2 @ 265 = 530 USD；158×115×54 mm；无品牌；申报总价值 1,625 USD，总毛重 8 kg，目的国加拿大",
+"why": "从第二单起报关型号就用 James 的 SW-3200 系列名、品牌「无」——他的产品化从 2024 年底就开始了；$265 的 8GP-4S+ = 4+8 PoE 工业机（后来 2025-08 的 AC5 固件也只给这款）",
+"k": "data/pi_2026-10/text/…10_加拿大_James…2nd_order_sample 发票_买单报关.xlsx (58299045)"
 },
 {
 "date": "2025-08-28",
@@ -74242,6 +74290,14 @@
 "quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
 "why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制。**AC5 线没有多千兆铜口**（DG 只是 2.5G 光口，规则 ⑰）；正对他四个条件的是 CENTEC VastLakes 表（2026/Q2）上的 STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G SFP28，双 CRPS + 热插拔风扇模块，机架）或 STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G）；商用 0–40℃；仓内无价、现货未知（Q-54/Q-56）——这是能正面回他的一句「有」，别再含糊",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+},
+{
+"date": "2026-09-07",
+"dir": "内",
+"who": "Saga 出口报关资料（PI 包，买单_STSC20260830010.xlsx）",
+"quote": "出口货物确认函：工业交换机 SW-3200-16GP-2SX × 12 台 @ 335 = 4,020 USD，1 纸箱，总毛重 20 kg，净重 14.4 kg，158×115×54 mm，Metal，无品牌，8517622990，一般贸易，目的国加拿大",
+"why": "第四单（12 台，PI STSC20260830010）的实际发运口径：单台净重 1.2 kg、整单一箱 20 kg——报 DAP 运费时可直接用；「无品牌」= 他要的中性外观",
+"k": "data/pi_2026-10/text/…10_加拿大_James…买单_STSC20260830010.xlsx (fccde3ae)"
 }
 ],
 "proof_gaps": [
