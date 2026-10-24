@@ -82,7 +82,7 @@ updated: 2026-10-24
 | 2026-08-03 | 去 | Alan | the 400G switches are ready to ship now | Saga 侧就绪时间 | `140d7d5efe818d7e` |
 | 2026-08-15 | 来 | Steve | I have update the Senior Manager about the availability of goods and will get back to you | 最后一封来信 | `87738057b3f134de` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱 2025-03~08 重跑后看 ITM 是否更早回过群发；ITM 终端客户是谁（邮件未提）——不去搜，等对方说
+- **还缺的证据（等 A 邮箱 / Extra Info）**：ITM 终端客户是谁（邮件未提）——不去搜，等对方说；（已核 2026-10-24，第 73 批）A 邮箱 20,521 封全入后复查：ITM 最早来信 = 2025-11-11 回「Booster PoE Switch」群发，之前 0 回——不存在更早回复
 
 ## 基本事实（事实/推断/假设分层）
 

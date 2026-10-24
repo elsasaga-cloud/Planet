@@ -82,7 +82,7 @@ updated: 2026-10-24
 | 2026-03-11 | 去 | Simon | Finally, our "stacking" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine. | 宣布可用；只收到 OOO | `3cab7e50e48fea36` |
 | 2026-03-11 | 来 | 自动回复 | 自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」 | Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址 | `4ac602505b7d8db3` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）；Saga 当天附的「stacking」资料是 AC5 还是 CENTEC——附件名未见
+- **还缺的证据（等 A 邮箱 / Extra Info）**：2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）；（已核 2026-10-24，第 73 批）2026-03-11 S 邮箱去信附件 = 「STH1G Series.pdf」+「Dual AC.jpg」→ 发的是 CENTEC STH1G 系列资料（不是 AC5），正文却写「stacking available on all models」——信稿已据此纠正：只有 STH 堆叠，Marvell 不堆叠
 
 ## 基本事实（事实/推断/假设分层）
 
