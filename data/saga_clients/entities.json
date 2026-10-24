@@ -72173,12 +72173,28 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-07-02",
+"dir": "来",
+"who": "Levent Kılıç",
+"quote": "We have a project to quote with the following RFP (PDF attached, «C TİPİ ETHERNET ANAHTAR»)… Can we use STI-288GPM in this project? Or do we need to go up to STI-288DGGPM? This is a reference RFP for Turkish police, so there are a lot of procurements for this type switch with the same RFP",
+"why": "土耳其警察「C 型以太网交换机」标准 RFP 早在 2024-07 就到了 Saga 手里（PDF 在 S 邮箱附件）——2026-03-05 的 Police RfP 是同一模板的后续；按这份 RFP 对 STI-288GPM / STI-288DGGPM 做逐条对照表，是对 Angora 最有复利的一份文件",
+"k": "gmail_s 2024-07-02 Angora - Industrial RFP Question"
+},
+{
 "date": "2024-07-10",
 "dir": "来",
 "who": "Taylan Esen",
 "quote": "We agreed with the customer on this deal. Important points are Acl, Sflow, https and sftp. The order would be more than 300… 8x1G Copper Non PoE and 2x2.5SFP",
 "why": "Saga 07-11/07-12 书面回复（Sftp reply_2024.7.11 / R&D period&cost_2024.7.12）：换另一颗 Marvell 芯片支持 HTTPS、SFTP 需排期、要定金——这就是 AC3→AC5 路线的最早触发",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-08-26",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "While waiting for Turk Telekom order… we got two more tenders consisting of 122×16 Port PoE switches and some data center grade switches… About 250 Industrial switches, we'll ask around 350… → Simon: 16-port managed「we do not have a ready model」, similar 2 fiber+16 Ethernet 190usd/pc; 48-port L3 = ANW-3148-PX higher budget",
+"why": "2024 年 Angora 手里的管线：Türk Telekom 工业机 250→350 台 + 122 台 16 口 PoE 招标 + DC 级交换机；Saga 当时 16 口管理型没有现成款（后来 STC-416DGGPM/ANW-2116-PG 补上并成交 7+8 台）——「缺一个口数就丢一个标」的教训",
+"k": "gmail_s 2024-08-26 Angora Demo Inventory Order"
 },
 {
 "date": "2024-09-16",
@@ -72229,6 +72245,14 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-11-08",
+"dir": "来",
+"who": "Angora 市场部群发（lkilic 转）",
+"quote": "Network dünyasında heyecan devam ediyor… Yıl sonuna özel avantajlı fiyatlar（Angora 年末促销 EDM，署名 Fatmanur）",
+"why": "Angora 有自己的市场部和 EDM 节奏（年末促销）——Saga 给 Angora 的材料会被二次包装进其 EDM；给 Angora 的产品图/文案要按「可直接转发」标准做",
+"k": "gmail_s 2024-11-08 Angora Networks - End of Year Offer"
+},
+{
 "date": "2024-11-23",
 "dir": "去",
 "who": "Simon → Levent/TronX（Quotation + Siparis Listesi）",
@@ -72245,6 +72269,38 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-12-10",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "We are working on a project at Turk Telekom. The devices we are going to offer are the industrials you send us last time (STI-280DGGM/ANW-1108-V)… partner can push the customer to publish an RFP in our favor. I am looking for some RFP items that will point our product and eliminate other. The order will be a big one, around 2000-3000 devices → Simon 12-11《Reply on RFP 2024.12.10.docx》",
+"why": "Türk Telekom 2,000–3,000 台工业 8 口机的「定制 RFP 条款」请求——Saga 第一次被客户要求写排他性招标参数；这是 Angora 线最大的单一机会（未成），也是 2025-06「1,000–2,000 units」与 2026-03 警察局项目的源头",
+"k": "gmail_s 2024-12-10 Industrial Switch RFP template"
+},
+{
+"date": "2025-01-30",
+"dir": "来",
+"who": "Levent Kılıç / Taylan Esen",
+"quote": "We have been invited for a test on February 3rd… STI-280DGGM… impress them by making an initial customization（Turk Telekom Logo 3.zip）→ 01-31 Taylan: change all Angora brands to Turk Telekom, SN would be DTM1108DEMOA15 and MAC from your address space → 02-06 Simon: TT-2208-TG.zip「ONLY about logo & model name」, SN/MAC 需 console + AnyDesk 远程写",
+"why": "4 天内出 Türk Telekom 品牌 Web 固件（春节期间工程师放假仍做了 logo/型号版）——Saga 对 Angora 的响应等级 = 过年也出活；SN/MAC 改写要串口 + 远程，这是 OEM 交付的固定工序，写进 PI 备注",
+"k": "gmail_s 2025-01-30 → 2025-02-07"
+},
+{
+"date": "2025-02-05",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "Attached are the functional specs Turk Telekom is looking for（Turk_Telekom_Test_Items.xlsx）… ACL/HTTPS/SFTP/SFLOW were the missing protocols… add some layer 3 functionality, mainly NAT and port forwarding → 02-10: I am going to push the customer with less L3 functionalities… HTTPS I'll consider it supported with AC5. We'll ship with AC5… SFTP 2025Q4 → 02-11 Simon: NAT, Cloud, TSN, MPLS, Stack and SD-WAN, we are NOT going to develop it in a quite long while",
+"why": "Türk Telekom 测试项清单 = 土耳其运营商对 8 口工业机的真实门槛（ACL/HTTPS/SFTP/sFlow/NAT）；Saga 书面划线「NAT/云管/TSN/MPLS/堆叠/SD-WAN 长期不做」——与 2026-03-11 对 Versitron 说「stacking available」矛盾，对外口径要统一（AC5 无硬件堆叠）",
+"k": "gmail_s 2025-02-05 → 2025-02-11 Industrial Switch RFP template"
+},
+{
+"date": "2025-03-03",
+"dir": "来",
+"who": "Taylan Esen / Levent Kılıç",
+"quote": "PI STSC20250228007_R3：3 × ANW-2248-PX（48-PoE）+ 4 × ANW-2224-PX（24-PoE），commercial L2+，2.5G fiber，Angora logo；SN 25032224A0104… / 25032248A0105…；MAC 98:06:37:A5:00:00 起；48 口标签写 440W；+4 片 2116-PG PVC 标签 → 03-11 ready, 03-12 上一单 UPS 卡在 non-UPS broker",
+"why": "Angora 的 OEM 交付规范已成型：客户自编 SN 段 + 自有 MAC OUI（98:06:37 = Angora 自有地址段）+ PVC 面膜 + 标签功率自定——任何新 OEM 客户（Netaş/Priorat/BNSC）都可照此模板；清关慢是土耳其侧常态",
+"k": "gmail_s 2025-03-03 PI for New Order: 7 Units"
+},
+{
 "date": "2025-03-17",
 "dir": "来",
 "who": "Levent Kılıç",
@@ -72253,12 +72309,28 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2025-03-23",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "We need to integrate new switches into our NMS product. Can you please share SNMP MIB files → 03-24 Simon: SWITCH-MIBS-release-7.3.0.docx + NMS-MIB.rar → 03-27: There is some wrong information… Those companies are our clients, sorry for this mistake… please provide yours and we will customize the SNMP OID for you. Btw: we do not show our own OID on the MIBS",
+"why": "Angora 自有 NMS 要接 Saga 机——与 NYNEX 同月（2025-03-26）要企业 OID 同一需求；Saga 发出的 MIB 包里泄露了其他客户名（Simon 自己承认）→ 以后发 MIB 前先清客户信息；「OID 按客户定制、不露 Saga 自己的 OID」是既定做法",
+"k": "gmail_s 2025-03-23 → 2025-03-27 SNMP MIB Files"
+},
+{
 "date": "2025-04-14",
 "dir": "来",
 "who": "Levent Kılıç（Confidential）",
 "quote": "We have finalized a new framework agreement with a partner for a new brand called TronX… 4 SFP modules (1G and 10G) and 3 switches: 2 access switches and 1 core switch… STC-424DGGPM-280W = TRX-AS-24TP4X, STC-448XGGPM = TRX-AS-48TP4X",
 "why": "TronX 框架协议落地；Taylan 04-16「We will handle the data center switches independently using our existing model」= 核心机不走 Saga（CENTEC 没拿到）；Saga 为 TronX 做了独立 PVC/手册（5th order TronX_Commercial_User_Manual）",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2025-04-14",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "We are going to use the latest 16ports industrial model, ANW-2116-PG for Turk Telekom tests. Can we rename the software to match Turk Telekom brand… Product ANW-2116-PG V1.1 Version hotfix/7.3.1 (r1262 f365514) → TT-2116-PG… We are starting this Friday, and we are completely ready for something big",
+"why": "Türk Telekom 测试从 8 口（TT-2208-TG）升级到 16 口工业（TT-2116-PG，固件 hotfix/7.3.1 r1262）——Angora 为 TT 项目做了专用品牌固件两次；Saga 的「客户品牌固件」能力是对 Angora 的硬绑定点",
+"k": "gmail_s 2025-04-14 Software renaming for Turk Telekom tests"
 },
 {
 "date": "2025-04-22",
@@ -72275,6 +72347,30 @@
 "quote": "Our big project for STI-288DGGPM is moving faster than we expected… We are expecting a contract for 5,000 pcs (yes that's right)… 1,000 pcs in 1 month by air freight and 4,000 in second month",
 "why": "Simon 05-10：备料（PCB/PoE 芯片/AC5）约 3 周、5K 一个月可以但物料远不够、建议 2 个月；05-20 Levent「we have already positioned AC4 for this project because of cost… initial order looks like 2,000 pcs in 60 days」——至今（2026-10）未见该合同 PI，6 台演示机（STSC20250619007）是唯一落地",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2025-05-26",
+"dir": "来",
+"who": "Levent Kılıç",
+"quote": "Another small order: 3 pcs ANW-2248-PX + 10 pcs ANW-2224-PX（10G fiber version）→ PI STSC20250526007 → R1 去掉 PVC 成本（「distribute all costs to equipment only」，PI 给银行）；05-28 付款；双品牌（Angora + TronX）两套面膜/软件/标签同 SN-MAC；05-29 Taylan: TronX 第二行写「ETHERNET SWITCHES」；AC5 同价升级 Taylan 签字同意；06-04 因假期要求压后到 06-12/13 发货避免海关仓储费；06-11 UPS 1ZB6001K6703297276",
+"why": "Angora 第 8 单（13 台 24/48 口 2.5G/10G 光口 PoE）全流程：PI 改版迁就其银行、PVC 成本挂账（PVCs.xlsx 记录 8 片 ANW-2116-PG 待扣）、双品牌同机、AC3→AC5 由 Taylan 技术拍板、发货日期配合清关——这是 Saga「客户要什么就改什么」的实操证据，也是 Levent 2026-07 说「foundational partner」的由来",
+"k": "gmail_s 2025-05-26 → 2025-06-11 Angora Networks - New Order"
+},
+{
+"date": "2025-05-30",
+"dir": "来",
+"who": "Levent Kılıç",
+"quote": "TronX logo in PSD format. One in black and one in white（White TRONX.psd / Black TRONX.psd）",
+"why": "TronX 品牌素材在 Saga 手里（PSD）——TronX 既是 Angora 的第二品牌也曾作为独立买方（TRONX BILISIM, Mustafa Calik, PI STSC20241129007 未付）；两条线用同一套面膜/标签模板",
+"k": "gmail_s 2025-05-30 Angora Networks - TronX logo"
+},
+{
+"date": "2025-06-19",
+"dir": "去",
+"who": "Simon → Levent",
+"quote": "PI STSC20250619007：6 pieces of STI-288DGGPM (L2+) demo for the Big Project… Previously TT-2208-TG was a Non-PoE model. This time, it is a PoE model, please let me know MAC & Serial & Logo & Label info",
+"why": "5,000 台大项目的 6 台 PoE 演示机（第 9 张 PI）——Angora 自掏腰包买 demo 是其投入的证据；TT 项目机型从非 PoE 8 口 → PoE 8 口 → 16 口工业三次切换，说明终端规格一直在动",
+"k": "gmail_s 2025-06-19 Demo Switches for Big Project"
 },
 {
 "date": "2025-06-25",
@@ -72307,6 +72403,14 @@
 "quote": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform",
 "why": "Saga 设备进入客户自研管理系统（J4 中度证据）",
 "k": "eb90a8d5a460add9"
+},
+{
+"date": "2025-07-24",
+"dir": "来",
+"who": "Taylan Esen",
+"quote": "We are working to fully integrate TT switches into the new management system. Can you please help me with SNMP v3 config. Also we need a full configuration guide to add into the management system page by page",
+"why": "Angora 自研管理系统（含 TT 项目门户）要 SNMPv3 配置 + 逐页配置指南——与 2025-03 MIB、2025-07-24「new management system spec」同一条线；Saga 若能给一份「Angora 版 CLI/Web 配置手册」就是长期复利（NYNEX 同样要 OID/MIB）",
+"k": "gmail_s 2025-07-24 TT switch administration guide"
 },
 {
 "date": "2025-07-29",
@@ -72378,7 +72482,8 @@
 "Turk Telekom 项目的现状（2025-09 之后邮件无更新）",
 "2026-07-31 报告与 2026-08-17 回复都只在 Drive（PI 文件夹），邮箱无原件 → 传递渠道（微信/会议）待 Simon 确认",
 "Turkey Client List（2024-11-05）给出后 Angora 是否实际跟进过名单中的公司——无任何记录；Q-51 定直发/让渡规则",
-"TRONX BILISIM（tronx.com.tr, Mustafa Calik）未单独建档：Saga 客户库无 TronX 实体，建议作为 SA-168 子实体而非新建 B 户"
+"TRONX BILISIM（tronx.com.tr, Mustafa Calik）未单独建档：Saga 客户库无 TronX 实体，建议作为 SA-168 子实体而非新建 B 户",
+"Türk Telekom 2,000–3,000 台 RFP（2024-12）最终有没有发标/谁中标：S 邮箱 2025-02-11 后无下文（只在 2025-06-26「1,000 to 2,000 units」与 2026-03 警察局项目里再现大数）——下次微信问 Levent 一句「TT 那个标后来怎样」"
 ],
 "draft_en": {
 "subject": "Re: SAGA Enterprise L3 Recommendation Report — next step (CENTEC test unit for Ankara depot)",
