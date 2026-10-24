@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 中东/科威特；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-07-24）；最近一次客户回复：2025-07-24：useful
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
+- **第一问（只问一个）**：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -50,7 +50,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：gmail 联系、主体不可核
 - **Saga 现在该推什么**：P1 **STI-21616GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch））——2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?
+  - 第一问（只问一个）：Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified ships within a week; want the EXW price for 1 pc and for 10 pcs?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
