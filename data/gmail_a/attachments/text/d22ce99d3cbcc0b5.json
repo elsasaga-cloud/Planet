@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d22ce99d3cbcc0b5",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 23979,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 452,
+  "height": 259,
+  "mode": "RGB",
+  "thumb_bytes": 14368
+ },
+ "warnings": [],
+ "chars": 234,
+ "text": "TAILORED MARVELL\nNETWORKING\nSOLUTIONS\n—@ Industrial loT (ilOT)\n@ Smart Grid & Energy Management\nIndustrial Automation &\nRemote Control Systems\n© Smart City Infrastructure\nSurveillance & Security Systems\nSMB & Enterprise-Level Networks",
+ "extracted_at": "2026-10-24T02:48:07Z"
+}

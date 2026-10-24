@@ -1,0 +1,21 @@
+{
+ "sha256_16": "b240f1197fd6a427",
+ "name": "15451.jpg",
+ "ext": ".jpg",
+ "bytes": 482094,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4286,
+  "height": 2018,
+  "mode": "RGB",
+  "datetime": "2025:04:09 17:06:29",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 10310
+ },
+ "warnings": [],
+ "chars": 375,
+ "text": "2.5G Ethernet Switch\n2.5G Ethernet Switch\neco\n02%\n10G Ethernet Switch\n5Gbps\n10/100/1000Mps\nport 7-10 ( © 10608\n25s\nort 1-16 £\n17-18 Port: 106/16\n¢ © 25Gbps sm\n\\@ 10/100/1000mbps\npon as.as 人 Top\nso\nPort 1-24\nr06/16\nsm\n25 Link/Act\nOFF\n2SGLink/Act = 10/100/1000M Link/Act\n*10/100/1000M Link ct\n106 inact\n(106)\n2.56 Ethernet Switch\n2.56 Ethemet Switch,\n106/16\nvu\n(1-22)\nOFF ow\n——",
+ "extracted_at": "2026-10-24T02:51:51Z"
+}

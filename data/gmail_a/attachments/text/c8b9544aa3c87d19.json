@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c8b9544aa3c87d19",
+ "name": "image002.jpg",
+ "ext": ".jpg",
+ "bytes": 29188,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 565,
+  "height": 376,
+  "mode": "RGB",
+  "thumb_bytes": 13017
+ },
+ "warnings": [],
+ "chars": 365,
+ "text": "Tailored Managed Networking Solutions\nA Scalable Path from Access to Core\nPhase 1 S aga Phase 2\nAccess Foundation Aggregation & Core Expansion\nArchitectural Continuity\nFAY x\ng@ai' 7\nwy Pe |\nSW Management & Stability ET |\nUnified Management ation & Core\n12+ /L3 Switches, PoE . Consistent Support 10G / 25G / 100G + CENTEC\nScalable - Coherent + Stable + Low-Friction",
+ "extracted_at": "2026-10-24T02:42:12Z"
+}

@@ -1,0 +1,20 @@
+{
+ "sha256_16": "7206d2a077cd5985",
+ "name": "DIN Rail Unmanaged.jpg",
+ "ext": ".jpg",
+ "bytes": 854738,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 2757,
+  "height": 919,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 8682
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:42:49Z"
+}

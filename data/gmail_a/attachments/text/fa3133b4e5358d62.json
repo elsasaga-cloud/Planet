@@ -1,0 +1,21 @@
+{
+ "sha256_16": "fa3133b4e5358d62",
+ "name": "Alarm.jpg",
+ "ext": ".jpg",
+ "bytes": 365773,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1362,
+  "height": 655,
+  "mode": "RGB",
+  "datetime": "2025:12:11 18:08:21",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 9902
+ },
+ "warnings": [],
+ "chars": 207,
+ "text": "Detect / Input Processing Action / Output\nvi,\nCorres\nRS485 Data DO / Relay\nTemp Sensor Control Alarm Light\nIndustrial\nSwitch\n(With RS485 & DIDO) ))\nDI Signal DO / Relay Buccs:\n0 Door Sensor (Trigger) Control",
+ "extracted_at": "2026-10-24T02:46:13Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "8e4c06319e317289",
+ "name": "arn-2025-award-winner-email-signature_f460e48b-84f2-4dab-8c7b-d3cc07e0c67f.jpg",
+ "ext": ".jpg",
+ "bytes": 36393,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 650,
+  "height": 150,
+  "mode": "RGB",
+  "thumb_bytes": 6487
+ },
+ "warnings": [],
+ "chars": 71,
+ "text": "CHANNELCHOICE no\nAWARDS 2025 2\nDISTRIBUTOR wile\nOF THE YEAR 2025 !Eap 品",
+ "extracted_at": "2026-10-24T02:44:15Z"
+}

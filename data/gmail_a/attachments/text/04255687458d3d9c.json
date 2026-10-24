@@ -1,0 +1,21 @@
+{
+ "sha256_16": "04255687458d3d9c",
+ "name": "L3 Managed.jpg",
+ "ext": ".jpg",
+ "bytes": 847528,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 6287,
+  "height": 3132,
+  "mode": "RGB",
+  "datetime": "2025:02:02 11:11:16",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 14333
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:53:00Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "4dd8a091743db033",
+ "name": "image001.gif",
+ "ext": ".gif",
+ "bytes": 14204,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "GIF",
+  "width": 181,
+  "height": 100,
+  "mode": "P",
+  "thumb_bytes": 3481
+ },
+ "warnings": [],
+ "chars": 16,
+ "text": "\\9SGE\nUhendislik",
+ "extracted_at": "2026-10-24T02:48:20Z"
+}

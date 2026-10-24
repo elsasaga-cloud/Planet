@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0752ffe9bda8eab2",
+ "name": "Roadmap.png",
+ "ext": ".png",
+ "bytes": 1638494,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1536,
+  "height": 1024,
+  "mode": "RGB",
+  "thumb_bytes": 12966
+ },
+ "warnings": [],
+ "chars": 407,
+ "text": "Tailored Managed Networking Solutions\nA Scalable Path from Access to Core\nPhase 1 S ag a Phase 2\nAccess Foundation Aggregation & Core Expansion\nArchitectural Continuity\nANARN yy\ngen 7\nWw {|\n“wy Management & Stability 四 一 |\nUnified Management Aggregation & Core\nL2+/1L3 Switches, PoE ——— __ Consistent Support __ ____ 10G / 25G / 100G + CENTEC —_\nLA MARVELL。 《CENTEC)\nScalable 。Coherent 。Stable 。Low-Eriction",
+ "extracted_at": "2026-10-24T02:41:13Z"
+}

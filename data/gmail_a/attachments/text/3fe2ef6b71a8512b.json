@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3fe2ef6b71a8512b",
+ "name": "2026-04-27_23-35.png",
+ "ext": ".png",
+ "bytes": 68835,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1902,
+  "height": 773,
+  "mode": "RGB",
+  "thumb_bytes": 3821
+ },
+ "warnings": [],
+ "chars": 340,
+ "text": "Battery Voltage - GreenHouse\n6oV\n59V\n58V\n57V\n56V\n55V\n54V\nSO\n52V\n51V\n49V\n48V\n47V\n46V\n45V\n44V\n04/26 00:00 04/26 03:00 04/26 06:00 04/26 09:00 04/26 12:00 04/26 15:00 04/26 18:00 04/26 21:00 04/27 00:00 04/27 03:00 04/27 06:00 04/27 08:00 04/27 12:00 04/27 15:00 04/27 18:00 04/27 21:00\n— Battery Voltage Last *:53.1V 一 Target Voltage Last*:0V",
+ "extracted_at": "2026-10-24T02:43:31Z"
+}

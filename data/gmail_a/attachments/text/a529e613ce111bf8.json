@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a529e613ce111bf8",
+ "name": "leader-expo-2026-e-mail-sig_b2b3e8fb-29f8-4630-a12d-284140d315ff.jpg",
+ "ext": ".jpg",
+ "bytes": 133647,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 650,
+  "height": 150,
+  "mode": "RGB",
+  "thumb_bytes": 9227
+ },
+ "warnings": [],
+ "chars": 193,
+ "text": "LEADEREXPO2026\nLBOURNE | SYDNEY | BRISBANE | PERTH | ADELAID!\nBE Microsoft. Uj usiquit: SS\nAAA\nSS\nWORLD’S LEADING VENDORS INCLUDING: AS\nk 、 SS\nAUSTRALIA'S LARGEST\nNY RESELLER EXPO\nAY VINNIE WAT",
+ "extracted_at": "2026-10-24T02:44:22Z"
+}

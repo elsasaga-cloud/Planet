@@ -1,0 +1,19 @@
+{
+ "sha256_16": "f2bd34de4f4dad30",
+ "name": "label.png",
+ "ext": ".png",
+ "bytes": 49510,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1032,
+  "height": 526,
+  "mode": "RGB",
+  "thumb_bytes": 13103
+ },
+ "warnings": [],
+ "chars": 243,
+ "text": "Industrial Switch\nModel: STI-488DGGPM-2BT\nPorts: 8*10/100/1000M RJ45 PoE + 4*1G/2.5G SFP\n1-2 ports PoE++\nPower input: DC 52-57V\nTe oS\nSN: 202601140001 S asd\nIP Address: 192.168.56.166 MAC: FC-CD-2K-D0-51-F0 的\n|\nUser name: admin Password: admin",
+ "extracted_at": "2026-10-24T02:41:46Z"
+}

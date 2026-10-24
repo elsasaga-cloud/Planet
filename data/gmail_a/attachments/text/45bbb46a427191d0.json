@@ -1,0 +1,16 @@
+{
+ "sha256_16": "45bbb46a427191d0",
+ "name": "Netas Info Filled_2025.12.03.rar",
+ "ext": ".rar",
+ "bytes": 1162712,
+ "method": "archive-extract",
+ "status": "meta",
+ "meta": {
+  "members": 7,
+  "extracted": true
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:48:11Z"
+}

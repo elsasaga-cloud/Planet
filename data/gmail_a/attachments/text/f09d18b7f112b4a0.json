@@ -1,0 +1,21 @@
+{
+ "sha256_16": "f09d18b7f112b4a0",
+ "name": "24-port LAN.jpg",
+ "ext": ".jpg",
+ "bytes": 354053,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 1740,
+  "height": 2494,
+  "mode": "RGB",
+  "datetime": "2025:10:25 16:13:21",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 14804
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:49:05Z"
+}

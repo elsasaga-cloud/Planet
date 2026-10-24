@@ -1,0 +1,19 @@
+{
+ "sha256_16": "5411323b6a504465",
+ "name": "24 port.png",
+ "ext": ".png",
+ "bytes": 342539,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 598,
+  "height": 761,
+  "mode": "RGBA",
+  "thumb_bytes": 18086
+ },
+ "warnings": [],
+ "chars": 25,
+ "text": "n\nyy\n國\n0\noO\n人\n回\n巧\nx\nLu\nco",
+ "extracted_at": "2026-10-24T02:43:31Z"
+}

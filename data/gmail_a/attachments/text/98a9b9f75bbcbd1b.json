@@ -1,0 +1,19 @@
+{
+ "sha256_16": "98a9b9f75bbcbd1b",
+ "name": "image.png",
+ "ext": ".png",
+ "bytes": 96313,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1040,
+  "height": 192,
+  "mode": "RGBA",
+  "thumb_bytes": 5566
+ },
+ "warnings": [],
+ "chars": 373,
+ "text": "I I SE E-ST_\n4*1G/2.SG/10G SFP+48*10/100/1000M RI45+1*Console Port\n[3 managed, AC input, Rack compatible\nEEE\nSTC-448XGGM L2+ managed, AC input, Rack compatible ne =\n4*1G/2.5G/10G SFP+24*10/100/1000M RJ45+1*Console Port =\n-42， ?\nSTC-424XGGM L3 managed, AC input, Rack compatible a\na 2. *10/ )M 同\nsre-asxcent 4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port S465 ears\nSS",
+ "extracted_at": "2026-10-24T02:44:33Z"
+}

@@ -1,0 +1,212 @@
+{
+ "sha256_16": "dd7bc600fbd3298a",
+ "name": "Requirements_2026.05.05.xlsx",
+ "ext": ".xlsx",
+ "bytes": 11959,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Requirements_2026.05.05"
+  ],
+  "embedded_images": 0,
+  "rows_total": 38
+ },
+ "warnings": [],
+ "chars": 2953,
+ "text": "--- Sheet: Requirements_2026.05.05 ---\n1\tCertification Information\tFCC, RoHS\n\t\tSaga: we have shared info about our ceritification\n2\t\tCan we obtain the necessary certifications for sale in Japan under our company name?\n\t\tSaga: yes, but the certification cost will be borne by your side\n3\tPackaging\tI understand the text on the label is in English. Is it possible to have it translated into Japanese for this order?\n\t\tSaga: yes, the Japanese translation should be provided by your side\n4\t\tPlease tell me the contents of the label. Please send me a PDF of the label currently attached to the product.\n\t\tSaga: OK\n5\t\tDoes the sample feature your company's logo?\n\t\tSaga: NO, neutral\n6\t\tIs your company's logo on the packaging?\n\t\tSaga: NO, neutral\n7\t\tWhen placing a formal order, will the logo be printed on the product, packaging, and our label?\n\t\tSaga: ONLY on the label. It can also be printed on the product and packaging, this involves extra cost.\n8\tPower Supply\tPlease list the compatible power supplies your company recommends. PSE-certified products are mandatory for sale in Japan.\n\t\tSaga: GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified\n9\tWarranty System\tDo you have an RMA warranty system?\n\t\tSaga: Yes\n10\t\tHow many years is the manufacturer’s warranty?\n\t\tSaga: 3 years, lifetime technical support\n11\t\tWhat is your policy regarding products whose warranty period has expired?\n\t\tSaga: only technical support\n12\t\tPlease describe your technical support system and the duration of support after purchasing your products. (Procedures for handling failures that occur within the warranty period, and selection of support personnel)\n\t\tSaga: it will be about technical support about usage and repair of our models, and carried out by the salesperson who takes care of this order\n13\tSales Track Record\tHave you sold your products in Japan before?\n\t\tSaga: No. As I explained before, our focus is on EU market\n14\tSales Track Record\tWhat is your sales track record to date?\n\t\tSaga: As I explained before, we foucs on managed networking solutions. For unmanaged models, not many, especially this model.\n15\tFailure Rate\tPlease provide the failure rate for this product.\n\t\tSaga: Never, it is not a managed model. For now, we have not received any negative feedback yet\n16\tAI WATCH DOG\tPlease tell me how to verify that this feature is functioning properly.\n\t\tSaga: Turn on DIP 4, PoE watchdog is activated. Power this model and connect a camera, then power off the camera, it will automatically restart it\n17\tExtension\tWhat is the transmission speed at a distance of 250 meters?\n\t\tSaga: 10Mb/s, this is the common practice on the market\n\tSaga Feedback\n\t1. Please read \"MUST KNOW\" folder, actually it includes almost ALL answers to your questions\n\thttps://drive.google.com/drive/folders/1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw?usp=drive_link\n\t2. About question 16/17, please get a piece for sample testing, it is easier to understand",
+ "sheets": {
+  "Requirements_2026.05.05": {
+   "state": "visible",
+   "rows": [
+    [
+     "1",
+     "Certification Information",
+     "FCC, RoHS"
+    ],
+    [
+     "",
+     "",
+     "Saga: we have shared info about our ceritification"
+    ],
+    [
+     "2",
+     "",
+     "Can we obtain the necessary certifications for sale in Japan under our company name?"
+    ],
+    [
+     "",
+     "",
+     "Saga: yes, but the certification cost will be borne by your side"
+    ],
+    [
+     "3",
+     "Packaging",
+     "I understand the text on the label is in English. Is it possible to have it translated into Japanese for this order?"
+    ],
+    [
+     "",
+     "",
+     "Saga: yes, the Japanese translation should be provided by your side"
+    ],
+    [
+     "4",
+     "",
+     "Please tell me the contents of the label. Please send me a PDF of the label currently attached to the product."
+    ],
+    [
+     "",
+     "",
+     "Saga: OK"
+    ],
+    [
+     "5",
+     "",
+     "Does the sample feature your company's logo?"
+    ],
+    [
+     "",
+     "",
+     "Saga: NO, neutral"
+    ],
+    [
+     "6",
+     "",
+     "Is your company's logo on the packaging?"
+    ],
+    [
+     "",
+     "",
+     "Saga: NO, neutral"
+    ],
+    [
+     "7",
+     "",
+     "When placing a formal order, will the logo be printed on the product, packaging, and our label?"
+    ],
+    [
+     "",
+     "",
+     "Saga: ONLY on the label. It can also be printed on the product and packaging, this involves extra cost."
+    ],
+    [
+     "8",
+     "Power Supply",
+     "Please list the compatible power supplies your company recommends. PSE-certified products are mandatory for sale in Japan."
+    ],
+    [
+     "",
+     "",
+     "Saga: GST120A48-P1M, GST240A48-P1M or GST280A48-P1M, MEANWELL original models, PSE-certified"
+    ],
+    [
+     "9",
+     "Warranty System",
+     "Do you have an RMA warranty system?"
+    ],
+    [
+     "",
+     "",
+     "Saga: Yes"
+    ],
+    [
+     "10",
+     "",
+     "How many years is the manufacturer’s warranty?"
+    ],
+    [
+     "",
+     "",
+     "Saga: 3 years, lifetime technical support"
+    ],
+    [
+     "11",
+     "",
+     "What is your policy regarding products whose warranty period has expired?"
+    ],
+    [
+     "",
+     "",
+     "Saga: only technical support"
+    ],
+    [
+     "12",
+     "",
+     "Please describe your technical support system and the duration of support after purchasing your products. (Procedures for handling failures that occur within the warranty period, and selection of support personnel)"
+    ],
+    [
+     "",
+     "",
+     "Saga: it will be about technical support about usage and repair of our models, and carried out by the salesperson who takes care of this order"
+    ],
+    [
+     "13",
+     "Sales Track Record",
+     "Have you sold your products in Japan before?"
+    ],
+    [
+     "",
+     "",
+     "Saga: No. As I explained before, our focus is on EU market"
+    ],
+    [
+     "14",
+     "Sales Track Record",
+     "What is your sales track record to date?"
+    ],
+    [
+     "",
+     "",
+     "Saga: As I explained before, we foucs on managed networking solutions. For unmanaged models, not many, especially this model."
+    ],
+    [
+     "15",
+     "Failure Rate",
+     "Please provide the failure rate for this product."
+    ],
+    [
+     "",
+     "",
+     "Saga: Never, it is not a managed model. For now, we have not received any negative feedback yet"
+    ],
+    [
+     "16",
+     "AI WATCH DOG",
+     "Please tell me how to verify that this feature is functioning properly."
+    ],
+    [
+     "",
+     "",
+     "Saga: Turn on DIP 4, PoE watchdog is activated. Power this model and connect a camera, then power off the camera, it will automatically restart it"
+    ],
+    [
+     "17",
+     "Extension",
+     "What is the transmission speed at a distance of 250 meters?"
+    ],
+    [
+     "",
+     "",
+     "Saga: 10Mb/s, this is the common practice on the market"
+    ],
+    [
+     "",
+     "Saga Feedback"
+    ],
+    [
+     "",
+     "1. Please read \"MUST KNOW\" folder, actually it includes almost ALL answers to your questions"
+    ],
+    [
+     "",
+     "https://drive.google.com/drive/folders/1mMMqbA3-kS697R-O5aehCLKrzL7b_Dpw?usp=drive_link"
+    ],
+    [
+     "",
+     "2. About question 16/17, please get a piece for sample testing, it is easier to understand"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:39:51Z"
+}

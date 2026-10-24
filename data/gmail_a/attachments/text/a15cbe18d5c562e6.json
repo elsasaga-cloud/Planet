@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a15cbe18d5c562e6",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 34787,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 700,
+  "height": 116,
+  "mode": "RGBA",
+  "thumb_bytes": 3898
+ },
+ "warnings": [],
+ "chars": 34,
+ "text": "TH\n©) sottber.com\n囤 圖\nbere\n回 |\ngof",
+ "extracted_at": "2026-10-24T02:42:32Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "6cbda37dd725274c",
+ "name": "logoemailbanner_798ca13e-7ce9-4b18-bebe-cf9d30ec27aa.png",
+ "ext": ".png",
+ "bytes": 9866,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 249,
+  "height": 75,
+  "mode": "RGBA",
+  "thumb_bytes": 3899
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:39:38Z"
+}

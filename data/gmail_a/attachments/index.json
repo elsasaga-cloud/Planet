@@ -1,0 +1,3187 @@
+{
+ "a4daa1688dcf12c3": {
+  "name": "L3 Managed.jpg",
+  "names": [
+   "L3 Managed.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 793959,
+  "n": 610,
+  "first_msg": "9ca8616708ba5ff0",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "a3a0311f04e7b02a": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2187,
+  "n": 4,
+  "first_msg": "6b53a96ff0db1065",
+  "x": "skip:image"
+ },
+ "3b897ab71e2fd4c2": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3910,
+  "n": 2,
+  "first_msg": "9957a2f43f524a47",
+  "x": "skip:image"
+ },
+ "b4e558114cbe2a99": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3637,
+  "n": 4,
+  "first_msg": "1cff39dd41d80337",
+  "x": "skip:image"
+ },
+ "e9b71751ca44015a": {
+  "name": "warning_triangle.png",
+  "names": [
+   "warning_triangle.png"
+  ],
+  "mime": "image/png",
+  "bytes": 466,
+  "n": 5,
+  "first_msg": "1cff39dd41d80337",
+  "x": "skip:image"
+ },
+ "6cbda37dd725274c": {
+  "name": "logoemailbanner_798ca13e-7ce9-4b18-bebe-cf9d30ec27aa.png",
+  "names": [
+   "logoemailbanner_798ca13e-7ce9-4b18-bebe-cf9d30ec27aa.png"
+  ],
+  "mime": "image/png",
+  "bytes": 9866,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "8e506e5afd0d25c1": {
+  "name": "icon-linkedin_191f7fb5-9be0-4791-9d27-d5bbc07d1537.png",
+  "names": [
+   "icon-linkedin_191f7fb5-9be0-4791-9d27-d5bbc07d1537.png"
+  ],
+  "mime": "image/png",
+  "bytes": 554,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "9d9e8ea27a9d355e": {
+  "name": "x_13b97625-fac4-4ef6-8a90-5d097acd51f7.png",
+  "names": [
+   "x_13b97625-fac4-4ef6-8a90-5d097acd51f7.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2702,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "53e56a8f17f993a6": {
+  "name": "icon-facebook_e6f8d856-cd1d-4bc7-a358-4472c097274c.png",
+  "names": [
+   "icon-facebook_e6f8d856-cd1d-4bc7-a358-4472c097274c.png"
+  ],
+  "mime": "image/png",
+  "bytes": 467,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "6519bb58774f7aae": {
+  "name": "icon-youtube_671ddf3e-e953-4442-9a77-f9e79e4a6678.png",
+  "names": [
+   "icon-youtube_671ddf3e-e953-4442-9a77-f9e79e4a6678.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1031,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "5da1e6684775a0be": {
+  "name": "instagram_9ad2e0f2-937a-4ef7-abd2-07998959eaec.png",
+  "names": [
+   "instagram_9ad2e0f2-937a-4ef7-abd2-07998959eaec.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2896,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "fb67895c184de646": {
+  "name": "tiktok_0dcec541-f062-4964-b18c-e55ccca0e9fe.png",
+  "names": [
+   "tiktok_0dcec541-f062-4964-b18c-e55ccca0e9fe.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2045,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "8b819ecd2b7c88eb": {
+  "name": "pinterest_48390d36-399e-45b8-a944-14a334b2181e.png",
+  "names": [
+   "pinterest_48390d36-399e-45b8-a944-14a334b2181e.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3176,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "1e7de9c18fa57d35": {
+  "name": "opennetworkingswitches-instockandreadytoship_ff7fc12a-4817-4d07-a115-46a11b0b4398.jpg",
+  "names": [
+   "opennetworkingswitches-instockandreadytoship_ff7fc12a-4817-4d07-a115-46a11b0b4398.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 74440,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "ok",
+  "chars": 95,
+  "method": "pillow+tesseract"
+ },
+ "1bba28a3deb6bd8a": {
+  "name": "icon-bsi-iso_cff98592-3447-404b-a958-946adbe9e83e.png",
+  "names": [
+   "icon-bsi-iso_cff98592-3447-404b-a958-946adbe9e83e.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4640,
+  "n": 1,
+  "first_msg": "988c84b55fd3dd07",
+  "x": "skip:image"
+ },
+ "eeaf408cbbc196a2": {
+  "name": "16 port PoE.png",
+  "names": [
+   "16 port PoE.png"
+  ],
+  "mime": "image/png",
+  "bytes": 368507,
+  "n": 511,
+  "first_msg": "746eaf6499e52cdc",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "bb3885ed8891b69a": {
+  "name": "24 port.png",
+  "names": [
+   "24 port.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 261078,
+  "n": 1025,
+  "first_msg": "d9329c305edcf3f5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0b86ce2013815e6c": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 202581,
+  "n": 2,
+  "first_msg": "48f91a073d0f4e97",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "01eb3f009a96f0ac": {
+  "name": "STI-21616GP.docx",
+  "names": [
+   "STI-21616GP.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1198616,
+  "n": 1,
+  "first_msg": "48f91a073d0f4e97",
+  "x": "ok",
+  "chars": 6190,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d6cdcc5fcd65b1c0": {
+  "name": "400GB Switch.png",
+  "names": [
+   "400GB Switch.png"
+  ],
+  "mime": "image/png",
+  "bytes": 693011,
+  "n": 238,
+  "first_msg": "0b7d537c94de77e1",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9da1c1d5333f495c": {
+  "name": "Marvell Series.jpg",
+  "names": [
+   "Marvell Series.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 588980,
+  "n": 820,
+  "first_msg": "18fcdc87f4ccf5a9",
+  "x": "ok",
+  "chars": 477,
+  "method": "pillow+tesseract"
+ },
+ "dd7bc600fbd3298a": {
+  "name": "Requirements_2026.05.05.xlsx",
+  "names": [
+   "Requirements_2026.05.05.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 11959,
+  "n": 1,
+  "first_msg": "060308a26a9998c0",
+  "x": "ok",
+  "chars": 2953,
+  "method": "openpyxl(values)"
+ },
+ "a709872826f9d80c": {
+  "name": "Requirements.xlsx",
+  "names": [
+   "Requirements.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 10146,
+  "n": 1,
+  "first_msg": "422b5322c81df9f6",
+  "x": "ok",
+  "chars": 1529,
+  "method": "openpyxl(values)"
+ },
+ "7c22871b206531ab": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 241754,
+  "n": 607,
+  "first_msg": "9016d7390bff035d",
+  "x": "ok",
+  "chars": 5965,
+  "method": "pdfplumber"
+ },
+ "e25769e66fa192b1": {
+  "name": "Quotation_2026.03.23.pdf",
+  "names": [
+   "Quotation_2026.03.23.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 286924,
+  "n": 1,
+  "first_msg": "b3d8b14d891a4f7d",
+  "x": "ok",
+  "chars": 2773,
+  "method": "pdfplumber"
+ },
+ "650ff1031028853c": {
+  "name": "Quotation_2026.03.20.pdf",
+  "names": [
+   "Quotation_2026.03.20.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 286766,
+  "n": 1,
+  "first_msg": "107e69875854fd35",
+  "x": "ok",
+  "chars": 2674,
+  "method": "pdfplumber"
+ },
+ "df56509a131b9bc1": {
+  "name": "Optical Bypass Switch.jpg",
+  "names": [
+   "Optical Bypass Switch.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 337801,
+  "n": 389,
+  "first_msg": "1bcac4039fcf5daf",
+  "x": "ok",
+  "chars": 19,
+  "method": "pillow+tesseract"
+ },
+ "345312d311f97d8c": {
+  "name": "price.png",
+  "names": [
+   "price.png"
+  ],
+  "mime": "image/png",
+  "bytes": 24602,
+  "n": 1,
+  "first_msg": "d88199ef36ad9a1d",
+  "x": "ok",
+  "chars": 454,
+  "method": "pillow+tesseract"
+ },
+ "3c6d9bddebb27885": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 49671,
+  "n": 2,
+  "first_msg": "baf68a6571bb2cc1",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "ae89bf7731156a5f": {
+  "name": "STI-42424XGGPM.docx",
+  "names": [
+   "STI-42424XGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2713033,
+  "n": 1,
+  "first_msg": "baf68a6571bb2cc1",
+  "x": "ok",
+  "chars": 11925,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "53f8dda136f73dc6": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1450,
+  "n": 6,
+  "first_msg": "0de6557f58082926",
+  "x": "skip:image"
+ },
+ "47011b55b17c1866": {
+  "name": "2.5G.png",
+  "names": [
+   "2.5G.png"
+  ],
+  "mime": "image/png",
+  "bytes": 368975,
+  "n": 211,
+  "first_msg": "5ed590a4961e52a0",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "babdb5493c98f11f": {
+  "name": "AC5 BIN.png",
+  "names": [
+   "AC5 BIN.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3176,
+  "n": 1,
+  "first_msg": "ca0722a4a04a665b",
+  "x": "skip:image"
+ },
+ "5f57a81db2c0abc6": {
+  "name": "image.png",
+  "names": [
+   "image.png"
+  ],
+  "mime": "image/png",
+  "bytes": 6327,
+  "n": 2,
+  "first_msg": "1ee7739060c5c57e",
+  "x": "skip:image"
+ },
+ "7cdb87f7cc6d07a0": {
+  "name": "image.png",
+  "names": [
+   "image.png"
+  ],
+  "mime": "image/png",
+  "bytes": 411725,
+  "n": 2,
+  "first_msg": "1ee7739060c5c57e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9454a8fb833cb7c0": {
+  "name": "STC-024GE-D.docx",
+  "names": [
+   "STC-024GE-D.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 863037,
+  "n": 1,
+  "first_msg": "8cd7e98463599356",
+  "x": "ok",
+  "chars": 3555,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "5ab4b0d2600e1deb": {
+  "name": "AT-GS910-24@ALLIED TEL.pdf",
+  "names": [
+   "AT-GS910-24@ALLIED TEL.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 321157,
+  "n": 1,
+  "first_msg": "e38d26c7ab40da80",
+  "x": "ok",
+  "chars": 5658,
+  "method": "pdfplumber"
+ },
+ "f8bd12adbbbd546e": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 138586,
+  "n": 2,
+  "first_msg": "5eacc9efe7146ba8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "b741b14c62070136": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 8642,
+  "n": 6,
+  "first_msg": "4faf64dafc69b9ed",
+  "x": "ok",
+  "chars": 13,
+  "method": "pillow+tesseract"
+ },
+ "d6cc05ec4a76677d": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 13832,
+  "n": 6,
+  "first_msg": "4faf64dafc69b9ed",
+  "x": "ok",
+  "chars": 20,
+  "method": "pillow+tesseract"
+ },
+ "c5534d9eb80ef0ee": {
+  "name": "A Letter from Chief Export Compliance Officer to Business Partners 2026Q2.pdf",
+  "names": [
+   "A Letter from Chief Export Compliance Officer to Business Partners 2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 59117,
+  "n": 2,
+  "first_msg": "4faf64dafc69b9ed",
+  "x": "ok",
+  "chars": 4640,
+  "method": "pdfplumber"
+ },
+ "1d31408fd8d08065": {
+  "name": "Baş İhracat Uyum Yöneticisinden Mektup İş Ortakları 2026Q2.pdf",
+  "names": [
+   "Baş İhracat Uyum Yöneticisinden Mektup İş Ortakları 2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 60753,
+  "n": 2,
+  "first_msg": "4faf64dafc69b9ed",
+  "x": "ok",
+  "chars": 5269,
+  "method": "pdfplumber"
+ },
+ "9e06999460cf701c": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 102622,
+  "n": 1,
+  "first_msg": "8f58c5f5654aaa52",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "fc4af099ca879595": {
+  "name": "Marvell.jpg",
+  "names": [
+   "Marvell.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 217205,
+  "n": 989,
+  "first_msg": "b94af61b8011e075",
+  "x": "ok",
+  "chars": 267,
+  "method": "pillow+tesseract"
+ },
+ "a7df80ee2059f964": {
+  "name": "Saga Feature List_7.5.x_L2+.xlsx",
+  "names": [
+   "Saga Feature List_7.5.x_L2+.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 101341,
+  "n": 386,
+  "first_msg": "9eda3dd94c5fb985",
+  "x": "ok",
+  "chars": 5590,
+  "method": "openpyxl(values)"
+ },
+ "d4526a933dbd5e8a": {
+  "name": "Roadmap.png",
+  "names": [
+   "Roadmap.png",
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 615661,
+  "n": 412,
+  "first_msg": "288f4f192d52eab3",
+  "x": "ok",
+  "chars": 366,
+  "method": "pillow+tesseract"
+ },
+ "f8c882ecc4b36d6f": {
+  "name": "10G Version.jpg",
+  "names": [
+   "10G Version.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 457880,
+  "n": 1,
+  "first_msg": "4d09c2041cf236e1",
+  "x": "ok",
+  "chars": 31,
+  "method": "pillow+tesseract"
+ },
+ "f270755132053cb4": {
+  "name": "STC-28DGGPM.docx",
+  "names": [
+   "STC-28DGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1107293,
+  "n": 1,
+  "first_msg": "4d09c2041cf236e1",
+  "x": "ok",
+  "chars": 9719,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d23ce69a6140643e": {
+  "name": "STC-424XGGPM-280W.docx",
+  "names": [
+   "STC-424XGGPM-280W.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1334991,
+  "n": 1,
+  "first_msg": "4d09c2041cf236e1",
+  "x": "ok",
+  "chars": 9470,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "cbbac66f606ceb8f": {
+  "name": "STI-42424XGGPM-U.docx",
+  "names": [
+   "STI-42424XGGPM-U.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2365105,
+  "n": 1,
+  "first_msg": "4d09c2041cf236e1",
+  "x": "ok",
+  "chars": 11609,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "1e95fc6463fac33d": {
+  "name": "STI-41616XGGPM.docx",
+  "names": [
+   "STI-41616XGGPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2688573,
+  "n": 1,
+  "first_msg": "4d09c2041cf236e1",
+  "x": "ok",
+  "chars": 11932,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8dc42ca96404d5b9": {
+  "name": "24 Port + 4 SFP  POE Switch.xlsx",
+  "names": [
+   "24 Port + 4 SFP  POE Switch.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 11298,
+  "n": 1,
+  "first_msg": "f8121c4c539be168",
+  "x": "ok",
+  "chars": 2272,
+  "method": "openpyxl(values)"
+ },
+ "d99f38c2bf1ecd4c": {
+  "name": "Switch 8 x Gig + 2x SFP RFP.xlsx",
+  "names": [
+   "Switch 8 x Gig + 2x SFP RFP.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 13167,
+  "n": 1,
+  "first_msg": "f8121c4c539be168",
+  "x": "ok",
+  "chars": 3002,
+  "method": "openpyxl(values)"
+ },
+ "5fde845c2dd75b99": {
+  "name": "Product Link_2026Q3.pdf",
+  "names": [
+   "Product Link_2026Q3.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 222007,
+  "n": 408,
+  "first_msg": "18402113894b7ebb",
+  "x": "ok",
+  "chars": 1973,
+  "method": "pdfplumber"
+ },
+ "5e00f833a72fb106": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg",
+   "8C48XF.png",
+   "image002.jpg",
+   "8C48XF(01-20-10-(01-20-14-33-37).png",
+   "8C48XF(01-20-10-(01-20-14-20-12).png",
+   "8C48XF(01-20-10-26-07).png"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 82281,
+  "n": 1220,
+  "first_msg": "2c088651a92dded8",
+  "x": "ok",
+  "chars": 36,
+  "method": "pillow+tesseract"
+ },
+ "0ba90bd55d12b353": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 44227,
+  "n": 5,
+  "first_msg": "a323d408b374a3d1",
+  "x": "ok",
+  "chars": 756,
+  "method": "pillow+tesseract"
+ },
+ "d0b368dda6d8a690": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2975966,
+  "n": 7,
+  "first_msg": "a323d408b374a3d1",
+  "x": "ok",
+  "chars": 131,
+  "method": "pillow+tesseract"
+ },
+ "785555717e91f791": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 6120,
+  "n": 40,
+  "first_msg": "a323d408b374a3d1",
+  "x": "skip:image"
+ },
+ "84f77c86bef5c585": {
+  "name": "Warranty Certificate_STAG20251224020.pdf",
+  "names": [
+   "Warranty Certificate_STAG20251224020.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 104379,
+  "n": 1,
+  "first_msg": "86c8bd8b1a70cc5d",
+  "x": "ok",
+  "chars": 1547,
+  "method": "pdfplumber"
+ },
+ "42c2eb7d971f8ff3": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 105398,
+  "n": 311,
+  "first_msg": "86c8bd8b1a70cc5d",
+  "x": "ok",
+  "chars": 5827,
+  "method": "pdfplumber"
+ },
+ "0752ffe9bda8eab2": {
+  "name": "Roadmap.png",
+  "names": [
+   "Roadmap.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1638494,
+  "n": 2,
+  "first_msg": "86c8bd8b1a70cc5d",
+  "x": "ok",
+  "chars": 407,
+  "method": "pillow+tesseract"
+ },
+ "c075bb7b7cd4a9d2": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 18665,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "dfb58be10ae683f1": {
+  "name": "image003.png",
+  "names": [
+   "image003.png",
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1527,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "skip:image"
+ },
+ "e50504be487e3979": {
+  "name": "image004.png",
+  "names": [
+   "image004.png",
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 934,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "skip:image"
+ },
+ "d8669135332dea55": {
+  "name": "image005.jpg",
+  "names": [
+   "image005.jpg",
+   "image004.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3164,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "skip:image"
+ },
+ "735473c54076d2e4": {
+  "name": "image006.jpg",
+  "names": [
+   "image006.jpg",
+   "image005.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3426,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "skip:image"
+ },
+ "6d9e18dea591de16": {
+  "name": "image007.png",
+  "names": [
+   "image007.png",
+   "image006.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1035,
+  "n": 37,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "skip:image"
+ },
+ "b8005b9360aa3251": {
+  "name": "ordino ekinde çıkan ft.pdf",
+  "names": [
+   "ordino ekinde çıkan ft.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 58532,
+  "n": 1,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "ok",
+  "chars": 1963,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "b7afee35fbd1828f": {
+  "name": "0550_001.pdf",
+  "names": [
+   "0550_001.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 112118,
+  "n": 1,
+  "first_msg": "2a8ead0c64c4f045",
+  "x": "ok",
+  "chars": 4202,
+  "method": "pdfplumber+OCR(3p)"
+ },
+ "64f5266f500db05b": {
+  "name": "CI.xls",
+  "names": [
+   "CI.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 5650944,
+  "n": 1,
+  "first_msg": "597889f2ab565fa7",
+  "x": "ok",
+  "chars": 3512,
+  "method": "xlrd"
+ },
+ "f2f51dd6b2fd41c3": {
+  "name": "AWB.pdf",
+  "names": [
+   "AWB.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2881438,
+  "n": 1,
+  "first_msg": "597889f2ab565fa7",
+  "x": "ok",
+  "chars": 406,
+  "method": "pdfplumber+OCR(1p)"
+ },
+ "392f03ead7106d5e": {
+  "name": "PL_STAG20251224020.xls",
+  "names": [
+   "PL_STAG20251224020.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 326144,
+  "n": 1,
+  "first_msg": "597889f2ab565fa7",
+  "x": "ok",
+  "chars": 842,
+  "method": "xlrd"
+ },
+ "44066da3e0f88a58": {
+  "name": "7.jpg",
+  "names": [
+   "7.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2465512,
+  "n": 1,
+  "first_msg": "597889f2ab565fa7",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4d0edb275c083e18": {
+  "name": "6.jpg",
+  "names": [
+   "6.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2692340,
+  "n": 1,
+  "first_msg": "597889f2ab565fa7",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "80c28ab5745156a8": {
+  "name": "log-in page.png",
+  "names": [
+   "log-in page.png"
+  ],
+  "mime": "image/png",
+  "bytes": 73225,
+  "n": 1,
+  "first_msg": "f3b5a5186d3d185c",
+  "x": "ok",
+  "chars": 227,
+  "method": "pillow+tesseract"
+ },
+ "f2bd34de4f4dad30": {
+  "name": "label.png",
+  "names": [
+   "label.png"
+  ],
+  "mime": "image/png",
+  "bytes": 49510,
+  "n": 1,
+  "first_msg": "f3b5a5186d3d185c",
+  "x": "ok",
+  "chars": 243,
+  "method": "pillow+tesseract"
+ },
+ "d42a1641fcd92a1c": {
+  "name": "UI page.png",
+  "names": [
+   "UI page.png"
+  ],
+  "mime": "image/png",
+  "bytes": 126269,
+  "n": 1,
+  "first_msg": "f3b5a5186d3d185c",
+  "x": "ok",
+  "chars": 687,
+  "method": "pillow+tesseract"
+ },
+ "56cc8fb063d9da7e": {
+  "name": "Dekont-2026-01-13-14.20.06.pdf",
+  "names": [
+   "Dekont-2026-01-13-14.20.06.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 68052,
+  "n": 1,
+  "first_msg": "c1778580f27190ae",
+  "x": "ok",
+  "chars": 1031,
+  "method": "pdfplumber"
+ },
+ "c78e630d6cb49945": {
+  "name": "Mail87007544-4398-47c8-b5ce-d3853209fc0f.pdf",
+  "names": [
+   "Mail87007544-4398-47c8-b5ce-d3853209fc0f.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 102399,
+  "n": 1,
+  "first_msg": "c1778580f27190ae",
+  "x": "ok",
+  "chars": 489,
+  "method": "pdfplumber"
+ },
+ "639f6132994f774d": {
+  "name": "STAG20251224020.pdf",
+  "names": [
+   "STAG20251224020.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 303269,
+  "n": 1,
+  "first_msg": "4a82debbbf6d25cc",
+  "x": "ok",
+  "chars": 3385,
+  "method": "pdfplumber"
+ },
+ "c099f6b074cddd65": {
+  "name": "2600011146_saga.pdf",
+  "names": [
+   "2600011146_saga.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 60767,
+  "n": 1,
+  "first_msg": "575f6cc1f5d1c75d",
+  "x": "ok",
+  "chars": 6809,
+  "method": "pdfplumber"
+ },
+ "74d604b4205dea20": {
+  "name": "Quotation_2025.12.09.pdf",
+  "names": [
+   "Quotation_2025.12.09.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 297808,
+  "n": 1,
+  "first_msg": "9ff1797bd12a3a73",
+  "x": "ok",
+  "chars": 2531,
+  "method": "pdfplumber"
+ },
+ "2eceeea5bc75dbbf": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123491,
+  "n": 1,
+  "first_msg": "4626e693e5a9a7f0",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "db63ad79df56ecee": {
+  "name": "10G Switch.png",
+  "names": [
+   "10G Switch.png",
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 800013,
+  "n": 809,
+  "first_msg": "32cac52a5b3ad668",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c8b9544aa3c87d19": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 29188,
+  "n": 2,
+  "first_msg": "8fd88a434d45cc8f",
+  "x": "ok",
+  "chars": 365,
+  "method": "pillow+tesseract"
+ },
+ "008923bb40004b10": {
+  "name": "unnamed.png",
+  "names": [
+   "unnamed.png"
+  ],
+  "mime": "image/png",
+  "bytes": 28084,
+  "n": 6,
+  "first_msg": "9386d851165248d5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "143a63f725225d3e": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 82502,
+  "n": 4,
+  "first_msg": "d526efc0de228beb",
+  "x": "ok",
+  "chars": 133,
+  "method": "pillow+tesseract"
+ },
+ "a15cbe18d5c562e6": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 34787,
+  "n": 4,
+  "first_msg": "5d26574728e757e2",
+  "x": "ok",
+  "chars": 34,
+  "method": "pillow+tesseract"
+ },
+ "ed5b37dd67d40626": {
+  "name": "DC Input Info.png",
+  "names": [
+   "DC Input Info.png"
+  ],
+  "mime": "image/png",
+  "bytes": 50475,
+  "n": 1,
+  "first_msg": "5d26574728e757e2",
+  "x": "ok",
+  "chars": 233,
+  "method": "pillow+tesseract"
+ },
+ "b07db6026b63a527": {
+  "name": "Saga Software Function List_EN_V2.4.pdf",
+  "names": [
+   "Saga Software Function List_EN_V2.4.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 246702,
+  "n": 2,
+  "first_msg": "fb4ac2e43c85e3c8",
+  "x": "ok",
+  "chars": 19025,
+  "method": "pdfplumber"
+ },
+ "f4474423d5b0f355": {
+  "name": "Performance of VastLakes Platform_EN_3.1.pdf",
+  "names": [
+   "Performance of VastLakes Platform_EN_3.1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 303970,
+  "n": 2,
+  "first_msg": "fb4ac2e43c85e3c8",
+  "x": "ok",
+  "chars": 16383,
+  "method": "pdfplumber"
+ },
+ "84e0c7f1c69c9eee": {
+  "name": "XLite Series.pdf",
+  "names": [
+   "XLite Series.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1258738,
+  "n": 2,
+  "first_msg": "fb4ac2e43c85e3c8",
+  "x": "ok",
+  "chars": 15354,
+  "method": "pdfplumber"
+ },
+ "a9bd4d7e21c65653": {
+  "name": "STI-288GPM.docx",
+  "names": [
+   "STI-288GPM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1539596,
+  "n": 1,
+  "first_msg": "d6ddd0cc83ac0a0b",
+  "x": "ok",
+  "chars": 6984,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "f46d942f72ee2415": {
+  "name": "Equal.png",
+  "names": [
+   "Equal.png"
+  ],
+  "mime": "image/png",
+  "bytes": 82759,
+  "n": 2,
+  "first_msg": "62ef6eb2735e86ae",
+  "x": "ok",
+  "chars": 98,
+  "method": "pillow+tesseract"
+ },
+ "ee9872a8a39a5d74": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17389,
+  "n": 3,
+  "first_msg": "e3d918bb5667a226",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "e42a93abcd0f3784": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17378,
+  "n": 2,
+  "first_msg": "4c0c7552fa458059",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "e66dad565a8d5104": {
+  "name": "STI-0240GE.docx",
+  "names": [
+   "STI-0240GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1344835,
+  "n": 1,
+  "first_msg": "4c0c7552fa458059",
+  "x": "ok",
+  "chars": 5051,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "ecf81f2d03fbb6f8": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17413,
+  "n": 2,
+  "first_msg": "6f4cb33cbbbfd6dd",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "bc4dd15c7ae8ca2d": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17444,
+  "n": 2,
+  "first_msg": "e1587cd133399b97",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "6ab41d72c5d2975b": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 17703,
+  "n": 2,
+  "first_msg": "e19d4573051439f3",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "628a39c5cae9740c": {
+  "name": "STI-488XGGGM.docx",
+  "names": [
+   "STI-488XGGGM.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2701756,
+  "n": 1,
+  "first_msg": "e19d4573051439f3",
+  "x": "ok",
+  "chars": 10995,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "d23e8a6b87839cfe": {
+  "name": "Dual AC.jpg",
+  "names": [
+   "Dual AC.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 435914,
+  "n": 1706,
+  "first_msg": "d1c04df8afdd0d19",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "302b04dc065471f6": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 14362,
+  "n": 2,
+  "first_msg": "c943d0ffd571332d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "7206d2a077cd5985": {
+  "name": "DIN Rail Unmanaged.jpg",
+  "names": [
+   "DIN Rail Unmanaged.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 854738,
+  "n": 972,
+  "first_msg": "dd64ec5b26b4bc1b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "384f27998488d3b1": {
+  "name": "Juniper.png",
+  "names": [
+   "Juniper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 73395,
+  "n": 1,
+  "first_msg": "6b53faaab0eef35f",
+  "x": "ok",
+  "chars": 503,
+  "method": "pillow+tesseract"
+ },
+ "3fe2ef6b71a8512b": {
+  "name": "2026-04-27_23-35.png",
+  "names": [
+   "2026-04-27_23-35.png"
+  ],
+  "mime": "image/png",
+  "bytes": 68835,
+  "n": 1,
+  "first_msg": "8fe45173752623d6",
+  "x": "ok",
+  "chars": 340,
+  "method": "pillow+tesseract"
+ },
+ "e0e9fcadb8c10037": {
+  "name": "backup-GreenhouseSwitch2-192.168.2.75-diag.tar.bz2",
+  "names": [
+   "backup-GreenhouseSwitch2-192.168.2.75-diag.tar.bz2"
+  ],
+  "mime": "application/x-bzip",
+  "bytes": 212029,
+  "n": 1,
+  "first_msg": "81bc7f06346f18b0",
+  "x": "skip:type"
+ },
+ "df96c6b724dd0408": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 98600,
+  "n": 5,
+  "first_msg": "6d9d38e0fac66ae0",
+  "x": "ok",
+  "chars": 3187,
+  "method": "pdfplumber"
+ },
+ "9382b85bd3e0bb4c": {
+  "name": "Booster PoE Switch.png",
+  "names": [
+   "Booster PoE Switch.png",
+   "image001.png",
+   "image003.png",
+   "image002.png",
+   "image006.png"
+  ],
+  "mime": "image/png",
+  "bytes": 477992,
+  "n": 1253,
+  "first_msg": "a9246a66430d1086",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "b811aefe603c8f37": {
+  "name": "Unmanaged PoE.png",
+  "names": [
+   "Unmanaged PoE.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2408111,
+  "n": 1,
+  "first_msg": "93430b471baec4b1",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "de3df56dbefc9f79": {
+  "name": "Google Drive Folder.png",
+  "names": [
+   "Google Drive Folder.png"
+  ],
+  "mime": "image/png",
+  "bytes": 35422,
+  "n": 1,
+  "first_msg": "9b4196ac919370f1",
+  "x": "ok",
+  "chars": 103,
+  "method": "pillow+tesseract"
+ },
+ "cf23f4ade843bbc6": {
+  "name": "1.jpg",
+  "names": [
+   "1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 241133,
+  "n": 1,
+  "first_msg": "9b4196ac919370f1",
+  "x": "ok",
+  "chars": 325,
+  "method": "pillow+tesseract"
+ },
+ "bb197700e3907adc": {
+  "name": "3.jpg",
+  "names": [
+   "3.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 186685,
+  "n": 1,
+  "first_msg": "9b4196ac919370f1",
+  "x": "ok",
+  "chars": 28,
+  "method": "pillow+tesseract"
+ },
+ "7a6af154a987918c": {
+  "name": "9.png",
+  "names": [
+   "9.png"
+  ],
+  "mime": "image/png",
+  "bytes": 148369,
+  "n": 1,
+  "first_msg": "9b4196ac919370f1",
+  "x": "ok",
+  "chars": 706,
+  "method": "pillow+tesseract"
+ },
+ "7b97488c5cdd2ba2": {
+  "name": "2.jpg",
+  "names": [
+   "2.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 331401,
+  "n": 1,
+  "first_msg": "9b4196ac919370f1",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "809ec699b44e652d": {
+  "name": "STAG20250823017_R1.pdf",
+  "names": [
+   "STAG20250823017_R1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 249560,
+  "n": 1,
+  "first_msg": "0d06e2d5ec1b6d56",
+  "x": "ok",
+  "chars": 2856,
+  "method": "pdfplumber"
+ },
+ "b16a35528fd6cd02": {
+  "name": "STAG20250823017.pdf",
+  "names": [
+   "STAG20250823017.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 248515,
+  "n": 1,
+  "first_msg": "ec4a1a80fa3fc2c4",
+  "x": "ok",
+  "chars": 2681,
+  "method": "pdfplumber"
+ },
+ "5411323b6a504465": {
+  "name": "24 port.png",
+  "names": [
+   "24 port.png"
+  ],
+  "mime": "image/png",
+  "bytes": 342539,
+  "n": 1,
+  "first_msg": "1ebe663694bef166",
+  "x": "ok",
+  "chars": 25,
+  "method": "pillow+tesseract"
+ },
+ "52e5c69348ae12cd": {
+  "name": "STI-41616XGGPM-4BT.pdf",
+  "names": [
+   "STI-41616XGGPM-4BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2474853,
+  "n": 1,
+  "first_msg": "1ebe663694bef166",
+  "x": "ok",
+  "chars": 39018,
+  "method": "pdfplumber"
+ },
+ "369f90a0f8be181a": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 410999,
+  "n": 1,
+  "first_msg": "b21772e37d499cf0",
+  "x": "ok",
+  "chars": 4134,
+  "method": "pdfplumber"
+ },
+ "39851584526a2b82": {
+  "name": "SWITCH-MIBS-release-7.3.0.docx",
+  "names": [
+   "SWITCH-MIBS-release-7.3.0.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 132056,
+  "n": 1,
+  "first_msg": "f5b7dffc467807bb",
+  "x": "ok",
+  "chars": 61650,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "8bd1baf0a3d40756": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108874,
+  "n": 1,
+  "first_msg": "87ea0c285a853cb8",
+  "x": "ok",
+  "chars": 1201,
+  "method": "pdfplumber"
+ },
+ "93de16e8c73dc7d8": {
+  "name": "Baş İhracat Uyum Yöneticisinden Mektup İş Ortakları 2026Q1.pdf",
+  "names": [
+   "Baş İhracat Uyum Yöneticisinden Mektup İş Ortakları 2026Q1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 143877,
+  "n": 2,
+  "first_msg": "5a03c24cbbeb8ee5",
+  "x": "ok",
+  "chars": 4006,
+  "method": "pdfplumber"
+ },
+ "3e66cb4c94576222": {
+  "name": "A Letter From Chief Export Compliance Officer Business Partners 2026Q1.pdf",
+  "names": [
+   "A Letter From Chief Export Compliance Officer Business Partners 2026Q1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 155657,
+  "n": 2,
+  "first_msg": "5a03c24cbbeb8ee5",
+  "x": "ok",
+  "chars": 3678,
+  "method": "pdfplumber"
+ },
+ "0e71b0dff1a5f3f9": {
+  "name": "leader-arn-winner_a69e1248-6518-429e-a84e-8090f13408fc.jpg",
+  "names": [
+   "leader-arn-winner_a69e1248-6518-429e-a84e-8090f13408fc.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 14970,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "ok",
+  "chars": 87,
+  "method": "pillow+tesseract"
+ },
+ "28ff13494c7926f4": {
+  "name": "Legendary_ca6b2e17-9b52-419a-b908-0016519e2682.png",
+  "names": [
+   "Legendary_ca6b2e17-9b52-419a-b908-0016519e2682.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2927,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "skip:image"
+ },
+ "b2c426c9e9d31f1a": {
+  "name": "Good_1e26d18f-3679-436f-9236-e5527212ba41.png",
+  "names": [
+   "Good_1e26d18f-3679-436f-9236-e5527212ba41.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2358,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "skip:image"
+ },
+ "80ff349cdf6f527e": {
+  "name": "Average_979c15aa-9f5c-4207-9b62-90df6f94bd80.png",
+  "names": [
+   "Average_979c15aa-9f5c-4207-9b62-90df6f94bd80.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2416,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "skip:image"
+ },
+ "34082f5753ac1b90": {
+  "name": "Poor_bf9d70b1-927e-4ab2-88bd-a39b076de34f.png",
+  "names": [
+   "Poor_bf9d70b1-927e-4ab2-88bd-a39b076de34f.png"
+  ],
+  "mime": "image/png",
+  "bytes": 2223,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "skip:image"
+ },
+ "8e4c06319e317289": {
+  "name": "arn-2025-award-winner-email-signature_f460e48b-84f2-4dab-8c7b-d3cc07e0c67f.jpg",
+  "names": [
+   "arn-2025-award-winner-email-signature_f460e48b-84f2-4dab-8c7b-d3cc07e0c67f.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 36393,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "ok",
+  "chars": 71,
+  "method": "pillow+tesseract"
+ },
+ "a529e613ce111bf8": {
+  "name": "leader-expo-2026-e-mail-sig_b2b3e8fb-29f8-4630-a12d-284140d315ff.jpg",
+  "names": [
+   "leader-expo-2026-e-mail-sig_b2b3e8fb-29f8-4630-a12d-284140d315ff.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 133647,
+  "n": 1,
+  "first_msg": "2ce1763daca2406a",
+  "x": "ok",
+  "chars": 193,
+  "method": "pillow+tesseract"
+ },
+ "4f211bad37e9eae1": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 7666,
+  "n": 5,
+  "first_msg": "ddab5b933723562b",
+  "x": "skip:image"
+ },
+ "b31fca61a417010c": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 157926,
+  "n": 1,
+  "first_msg": "ddab5b933723562b",
+  "x": "ok",
+  "chars": 14,
+  "method": "pillow+tesseract"
+ },
+ "a1b687f176fbae30": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 157905,
+  "n": 2,
+  "first_msg": "778b6acbd8047782",
+  "x": "ok",
+  "chars": 14,
+  "method": "pillow+tesseract"
+ },
+ "471294c5cedd8ae9": {
+  "name": "STI-288DGGPM.pdf",
+  "names": [
+   "STI-288DGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2822871,
+  "n": 2,
+  "first_msg": "0d09f0573445aee7",
+  "x": "ok",
+  "chars": 42532,
+  "method": "pdfplumber"
+ },
+ "3da975a77f0a34cf": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 157949,
+  "n": 2,
+  "first_msg": "e6d383fdab385b59",
+  "x": "ok",
+  "chars": 14,
+  "method": "pillow+tesseract"
+ },
+ "56f2c247e5411692": {
+  "name": "Alarm.png",
+  "names": [
+   "Alarm.png"
+  ],
+  "mime": "image/png",
+  "bytes": 693224,
+  "n": 49,
+  "first_msg": "42d9df342b73e83f",
+  "x": "ok",
+  "chars": 6,
+  "method": "pillow+tesseract"
+ },
+ "7abb7e2818471691": {
+  "name": "logo_avatar.png",
+  "names": [
+   "logo_avatar.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4424,
+  "n": 11,
+  "first_msg": "f0fca5051f786b75",
+  "x": "skip:image"
+ },
+ "98a9b9f75bbcbd1b": {
+  "name": "image.png",
+  "names": [
+   "image.png"
+  ],
+  "mime": "image/png",
+  "bytes": 96313,
+  "n": 2,
+  "first_msg": "0791d8cdf4661426",
+  "x": "ok",
+  "chars": 373,
+  "method": "pillow+tesseract"
+ },
+ "5351ad7ddfc3da8f": {
+  "name": "DSS Request.xlsx",
+  "names": [
+   "DSS Request.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 10936,
+  "n": 1,
+  "first_msg": "9a0731083f7863f0",
+  "x": "ok",
+  "chars": 279,
+  "method": "openpyxl(values)"
+ },
+ "df9670bdd28f51ac": {
+  "name": "STH1G Series.pdf",
+  "names": [
+   "STH1G Series.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 970698,
+  "n": 1,
+  "first_msg": "a800b32f5791ff41",
+  "x": "ok",
+  "chars": 13078,
+  "method": "pdfplumber"
+ },
+ "8b5010d917a6680a": {
+  "name": "Performance of PeakNetX Platform_EN_V3.1.pptx",
+  "names": [
+   "Performance of PeakNetX Platform_EN_V3.1.pptx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 99717,
+  "n": 4,
+  "first_msg": "7cc4bd1b427ec9fe",
+  "x": "ok",
+  "chars": 8390,
+  "method": "python-pptx"
+ },
+ "888b6edf50f569d7": {
+  "name": "STH25G Series.pptx",
+  "names": [
+   "STH25G Series.pptx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 712080,
+  "n": 4,
+  "first_msg": "7cc4bd1b427ec9fe",
+  "x": "ok",
+  "chars": 7039,
+  "method": "python-pptx"
+ },
+ "bfafe3d216f21997": {
+  "name": "Saga Software Function List_EN_V2.4.pptx",
+  "names": [
+   "Saga Software Function List_EN_V2.4.pptx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 153293,
+  "n": 5,
+  "first_msg": "7cc4bd1b427ec9fe",
+  "x": "ok",
+  "chars": 17514,
+  "method": "python-pptx"
+ },
+ "01ad2777b7704bcc": {
+  "name": "2025-2026 ZTE İhracat Kontrol Uyum Politikası ve Yönetim Taahhüdü.pdf",
+  "names": [
+   "2025-2026 ZTE İhracat Kontrol Uyum Politikası ve Yönetim Taahhüdü.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 381648,
+  "n": 1,
+  "first_msg": "b6f20f4139ffb488",
+  "x": "ok",
+  "chars": 30997,
+  "method": "pdfplumber+OCR(17p)"
+ },
+ "187454f57feccab6": {
+  "name": "2025-2026 ZTE Export Compliance Policy and Commitment Statement.pdf",
+  "names": [
+   "2025-2026 ZTE Export Compliance Policy and Commitment Statement.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 339395,
+  "n": 1,
+  "first_msg": "b6f20f4139ffb488",
+  "x": "ok",
+  "chars": 28082,
+  "method": "pdfplumber+OCR(15p)"
+ },
+ "9bc0351fa2130bac": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 15238,
+  "n": 3,
+  "first_msg": "415a25203cba4701",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "4d423ce1f78d33d8": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 15232,
+  "n": 1,
+  "first_msg": "de3f311cbf2fca6c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c8f67d8356a6cdf0": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1776199,
+  "n": 5,
+  "first_msg": "3a52e634757504a0",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "0c26f43cf8346447": {
+  "name": "Network products from Juniper.txt",
+  "names": [
+   "Network products from Juniper.txt"
+  ],
+  "mime": "text/plain",
+  "bytes": 547,
+  "n": 1,
+  "first_msg": "ae393cb715daa65a",
+  "x": "ok",
+  "chars": 547,
+  "method": "text"
+ },
+ "df357d7dca1f6828": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123493,
+  "n": 1,
+  "first_msg": "af965f4d4eb77c7a",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "8a81509e2f8ebd28": {
+  "name": "STI-488XGGPM2B-2BT.docx",
+  "names": [
+   "STI-488XGGPM2B-2BT.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 3138410,
+  "n": 1,
+  "first_msg": "ad3c414a423e33cb",
+  "x": "ok",
+  "chars": 15688,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "e6445ffa124a8593": {
+  "name": "Baş_İhracat_Uyum_Yöneticisinden_Mektup_İşOrtaklarıQ42025.pdf",
+  "names": [
+   "Baş_İhracat_Uyum_Yöneticisinden_Mektup_İşOrtaklarıQ42025.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 191386,
+  "n": 1,
+  "first_msg": "8ca6dda56bf5a251",
+  "x": "ok",
+  "chars": 4851,
+  "method": "pdfplumber"
+ },
+ "0af4afa23e4699f2": {
+  "name": "A_Letter_From_Chief_Export_Compliance_Officer_BusinessPartners_Q42025.pdf",
+  "names": [
+   "A_Letter_From_Chief_Export_Compliance_Officer_BusinessPartners_Q42025.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 138387,
+  "n": 1,
+  "first_msg": "8ca6dda56bf5a251",
+  "x": "ok",
+  "chars": 4293,
+  "method": "pdfplumber"
+ },
+ "3ffc6bbec4b223b9": {
+  "name": "Product Link_2026Q2.pdf",
+  "names": [
+   "Product Link_2026Q2.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 105402,
+  "n": 2,
+  "first_msg": "0bfabc9c35f19b68",
+  "x": "ok",
+  "chars": 5828,
+  "method": "pdfplumber"
+ },
+ "5cfb87dceea25a25": {
+  "name": "STI-488XGGBPM.pdf",
+  "names": [
+   "STI-488XGGBPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2342225,
+  "n": 2,
+  "first_msg": "90c5981a276812c1",
+  "x": "ok",
+  "chars": 47176,
+  "method": "pdfplumber"
+ },
+ "7cfc2ae2fade640d": {
+  "name": "STI-488XGGPM2B-2BT.pdf",
+  "names": [
+   "STI-488XGGPM2B-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2621985,
+  "n": 1,
+  "first_msg": "556759017765a703",
+  "x": "ok",
+  "chars": 48493,
+  "method": "pdfplumber"
+ },
+ "cf475c75df37f7c7": {
+  "name": "Bypass.png",
+  "names": [
+   "Bypass.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5223970,
+  "n": 1,
+  "first_msg": "556759017765a703",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "e3d34c8e4fa327f3": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 174161,
+  "n": 5,
+  "first_msg": "83397972ba8367d6",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "fa3133b4e5358d62": {
+  "name": "Alarm.jpg",
+  "names": [
+   "Alarm.jpg",
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 365773,
+  "n": 894,
+  "first_msg": "83397972ba8367d6",
+  "x": "ok",
+  "chars": 207,
+  "method": "pillow+tesseract"
+ },
+ "0420f94717f3d300": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123493,
+  "n": 1,
+  "first_msg": "26e3057cfa079fbf",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "3fd9cbaac566a5cc": {
+  "name": "Performance of BigFlow Platform_EN_V2.1.pptx",
+  "names": [
+   "Performance of BigFlow Platform_EN_V2.1.pptx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 100286,
+  "n": 1,
+  "first_msg": "98ca2068f3737796",
+  "x": "ok",
+  "chars": 9143,
+  "method": "python-pptx"
+ },
+ "f04534176cb9ff81": {
+  "name": "STH10G Series.pptx",
+  "names": [
+   "STH10G Series.pptx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 1318891,
+  "n": 1,
+  "first_msg": "98ca2068f3737796",
+  "x": "ok",
+  "chars": 9208,
+  "method": "python-pptx"
+ },
+ "639943c538c11e31": {
+  "name": "IMG_5366.JPG",
+  "names": [
+   "IMG_5366.JPG"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 67537,
+  "n": 33,
+  "first_msg": "231c410bdb6b62d3",
+  "x": "ok",
+  "chars": 134,
+  "method": "pillow+tesseract"
+ },
+ "fde8d768f05e0b8e": {
+  "name": "Price List_Marvell Industrial Unmanaged Switch.pdf",
+  "names": [
+   "Price List_Marvell Industrial Unmanaged Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 970047,
+  "n": 1,
+  "first_msg": "e972f525788b212d",
+  "x": "ok",
+  "chars": 10064,
+  "method": "pdfplumber"
+ },
+ "c397e1c4098d0b11": {
+  "name": "24 port Din.png",
+  "names": [
+   "24 port Din.png"
+  ],
+  "mime": "image/png",
+  "bytes": 311879,
+  "n": 50,
+  "first_msg": "18c624287c7c4aea",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "17193857289cda0d": {
+  "name": "52光.jpg",
+  "names": [
+   "52光.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 337083,
+  "n": 11,
+  "first_msg": "9458b314b99ccdd5",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d67ca7d8690656fa": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123505,
+  "n": 1,
+  "first_msg": "82fa26f3103cc6f2",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "63bd855c801b8dbf": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123505,
+  "n": 1,
+  "first_msg": "047f7e262a8e106a",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "90cb7ca6e2c948b3": {
+  "name": "1U Umanaged.jpg",
+  "names": [
+   "1U Umanaged.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 572425,
+  "n": 196,
+  "first_msg": "f177241c7be02f2d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "c0c8a23a819d5eda": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 174161,
+  "n": 4,
+  "first_msg": "1704546832652ac3",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "b20006c3af727afe": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123493,
+  "n": 1,
+  "first_msg": "d5a07aad76ff2c53",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "d22ce99d3cbcc0b5": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 23979,
+  "n": 1,
+  "first_msg": "6906e2c659c264bc",
+  "x": "ok",
+  "chars": 234,
+  "method": "pillow+tesseract"
+ },
+ "5a08cef03bf37367": {
+  "name": "Saga Telecom Ethernet Switch JAT24070502535EC-1 UKCA-EMC certification BS EN 55032.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch JAT24070502535EC-1 UKCA-EMC certification BS EN 55032.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 290655,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1810,
+  "method": "pdfplumber"
+ },
+ "8a2d5407c5367303": {
+  "name": "Saga Telecom Ethernet Switch JAT24070502534EC-1 CE-EMC certification EN 55032 EN 55035 EN 61000-3-2 EN 61000-3-3.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch JAT24070502534EC-1 CE-EMC certification EN 55032 EN 55035 EN 61000-3-2 EN 61000-3-3.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 546080,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1804,
+  "method": "pdfplumber"
+ },
+ "3295a0348da970eb": {
+  "name": "Saga Telecom Ethernet Switch JAT24070502534SC-1 EN 62368-1 LVD certification.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch JAT24070502534SC-1 EN 62368-1 LVD certification.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 548810,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1694,
+  "method": "pdfplumber"
+ },
+ "92a8b2ab04107453": {
+  "name": "Saga Telecom Ethernet Switch JAT24070502534RC-1 RoHS certification.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch JAT24070502534RC-1 RoHS certification.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 543372,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1790,
+  "method": "pdfplumber"
+ },
+ "3cdb5e0a56576e74": {
+  "name": "Saga Telecom Ethernet Switch JAT24070502535SC-1 UKCA-LVD certification BS EN 62368-1.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch JAT24070502535SC-1 UKCA-LVD certification BS EN 62368-1.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 288274,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1708,
+  "method": "pdfplumber"
+ },
+ "170f293a20055483": {
+  "name": "Saga Telecom Ethernet Switch NCT24028321X FCC certification.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch NCT24028321X FCC certification.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 295044,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 1913,
+  "method": "pdfplumber"
+ },
+ "e33c637c333f5093": {
+  "name": "Saga Telecom Ethernet Switch  JAT24070502534CR-1 REACH 240 testing report.pdf",
+  "names": [
+   "Saga Telecom Ethernet Switch  JAT24070502534CR-1 REACH 240 testing report.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 10572723,
+  "n": 1,
+  "first_msg": "a72460754524b4c8",
+  "x": "ok",
+  "chars": 66710,
+  "method": "pdfplumber"
+ },
+ "9919783bf1eb868e": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 903,
+  "n": 9,
+  "first_msg": "fb7593334cd823d2",
+  "x": "skip:image"
+ },
+ "59d8b9493580b98f": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 946,
+  "n": 9,
+  "first_msg": "fb7593334cd823d2",
+  "x": "skip:image"
+ },
+ "b4de11cd0b316d22": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 925,
+  "n": 9,
+  "first_msg": "fb7593334cd823d2",
+  "x": "skip:image"
+ },
+ "993ddf8138cac8fd": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 911,
+  "n": 9,
+  "first_msg": "fb7593334cd823d2",
+  "x": "skip:image"
+ },
+ "3cfafbb48c578e8a": {
+  "name": "image006.png",
+  "names": [
+   "image006.png"
+  ],
+  "mime": "image/png",
+  "bytes": 829,
+  "n": 9,
+  "first_msg": "fb7593334cd823d2",
+  "x": "skip:image"
+ },
+ "1f95854ee6328164": {
+  "name": "Supplier Entry Form(English)_signed.xlsx",
+  "names": [
+   "Supplier Entry Form(English)_signed.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 210996,
+  "n": 1,
+  "first_msg": "fb7593334cd823d2",
+  "x": "ok",
+  "chars": 931,
+  "method": "openpyxl(values)"
+ },
+ "208181edfe37bd6a": {
+  "name": "1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1)_signed.docx",
+  "names": [
+   "1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1)_signed.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 236303,
+  "n": 1,
+  "first_msg": "fb7593334cd823d2",
+  "x": "ok",
+  "chars": 2574,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "0d6ab516d95edc81": {
+  "name": "Supplier Entry Form(English).xlsx",
+  "names": [
+   "Supplier Entry Form(English).xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 14258,
+  "n": 1,
+  "first_msg": "f38e5f226ce4ce7c",
+  "x": "ok",
+  "chars": 931,
+  "method": "openpyxl(values)"
+ },
+ "03c80a60bb57ad6d": {
+  "name": "1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1).docx",
+  "names": [
+   "1400-T-002 Annex 5 Defense Business Partners Export Compliance Clauses (1).docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 48062,
+  "n": 2,
+  "first_msg": "f38e5f226ce4ce7c",
+  "x": "ok",
+  "chars": 2438,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "08a538539cf7bb52": {
+  "name": "PL.pdf",
+  "names": [
+   "PL.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 181230,
+  "n": 1,
+  "first_msg": "a65f831b52b30a69",
+  "x": "ok",
+  "chars": 687,
+  "method": "pdfplumber"
+ },
+ "45bbb46a427191d0": {
+  "name": "Netas Info Filled_2025.12.03.rar",
+  "names": [
+   "Netas Info Filled_2025.12.03.rar"
+  ],
+  "mime": "application/x-compressed",
+  "bytes": 1162712,
+  "n": 1,
+  "first_msg": "404b7f70ad0f1389",
+  "x": "meta",
+  "chars": 0,
+  "method": "archive-extract"
+ },
+ "4e1b795c47cbbb36": {
+  "name": "Annex 1 - Protection of Personal Data - Additional Protocol_NETAS.DOCX",
+  "names": [
+   "Annex 1 - Protection of Personal Data - Additional Protocol_NETAS.DOCX"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 23204,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 8015,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "4456dfb71aeccbf2": {
+  "name": "Bank-information-template.xlsx",
+  "names": [
+   "Bank-information-template.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 23445,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 361,
+  "method": "openpyxl(values)"
+ },
+ "65bd3e7059e9df08": {
+  "name": "NETAS-Standard-NDA.DOCX",
+  "names": [
+   "NETAS-Standard-NDA.DOCX"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 32564,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 12563,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "fd976f329b2a6c76": {
+  "name": "Supplier Entry Form(English).xlsx",
+  "names": [
+   "Supplier Entry Form(English).xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 14288,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 460,
+  "method": "openpyxl(values)"
+ },
+ "205f275ce32e9d6e": {
+  "name": "533-IY-003 SCM Ethical Principles Rules.docx",
+  "names": [
+   "533-IY-003 SCM Ethical Principles Rules.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 37782,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 5716,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "7511ea733c337df2": {
+  "name": "Netas - DRAFT Supplier Export Classification Request Form.rev1.docx",
+  "names": [
+   "Netas - DRAFT Supplier Export Classification Request Form.rev1.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 44020,
+  "n": 1,
+  "first_msg": "ff3d41beaad53936",
+  "x": "ok",
+  "chars": 1737,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "4dd8a091743db033": {
+  "name": "image001.gif",
+  "names": [
+   "image001.gif"
+  ],
+  "mime": "image/gif",
+  "bytes": 14204,
+  "n": 2,
+  "first_msg": "0c862411c12313aa",
+  "x": "ok",
+  "chars": 16,
+  "method": "pillow+tesseract"
+ },
+ "b4fc39f78c26b0c5": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 520,
+  "n": 2,
+  "first_msg": "0c862411c12313aa",
+  "x": "skip:image"
+ },
+ "3e31ced5aa176704": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 580,
+  "n": 2,
+  "first_msg": "0c862411c12313aa",
+  "x": "skip:image"
+ },
+ "803028734cfeb566": {
+  "name": "image004.jpg",
+  "names": [
+   "image004.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 576,
+  "n": 2,
+  "first_msg": "0c862411c12313aa",
+  "x": "skip:image"
+ },
+ "762b9edb34e0f198": {
+  "name": "image005.jpg",
+  "names": [
+   "image005.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 601,
+  "n": 2,
+  "first_msg": "0c862411c12313aa",
+  "x": "skip:image"
+ },
+ "68acf9634a61d5ad": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123493,
+  "n": 1,
+  "first_msg": "0c862411c12313aa",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "ef0b25bc35686f66": {
+  "name": "STAG20251127018.pdf",
+  "names": [
+   "STAG20251127018.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 331179,
+  "n": 2,
+  "first_msg": "0cc642cb3b5505fb",
+  "x": "ok",
+  "chars": 3021,
+  "method": "pdfplumber"
+ },
+ "39026e9f04db4579": {
+  "name": "Screenshot 2025-12-01 090050.png",
+  "names": [
+   "Screenshot 2025-12-01 090050.png"
+  ],
+  "mime": "image/png",
+  "bytes": 57925,
+  "n": 1,
+  "first_msg": "0cc642cb3b5505fb",
+  "x": "ok",
+  "chars": 101,
+  "method": "pillow+tesseract"
+ },
+ "8290e3da93389cc9": {
+  "name": "1XRJ45.png",
+  "names": [
+   "1XRJ45.png"
+  ],
+  "mime": "image/png",
+  "bytes": 374604,
+  "n": 1,
+  "first_msg": "b53baeddd2a29ecf",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9afe93d72184e4be": {
+  "name": "SC fiber.jpg",
+  "names": [
+   "SC fiber.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 948071,
+  "n": 1,
+  "first_msg": "64602c769ad83ca4",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f7e28ce755fc9f2f": {
+  "name": "STI-140GE.docx",
+  "names": [
+   "STI-140GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4506390,
+  "n": 1,
+  "first_msg": "ccb8973fe01fa794",
+  "x": "ok",
+  "chars": 28477,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "e1f0b12c8f923514": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123491,
+  "n": 1,
+  "first_msg": "7a1bb2c33aca001b",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "f09d18b7f112b4a0": {
+  "name": "24-port LAN.jpg",
+  "names": [
+   "24-port LAN.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 354053,
+  "n": 1,
+  "first_msg": "bf4d1606f4a31912",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "8767ba7958a3dfd5": {
+  "name": "image001.png",
+  "names": [
+   "image001.png",
+   "MINI.png"
+  ],
+  "mime": "image/png",
+  "bytes": 614238,
+  "n": 322,
+  "first_msg": "80cb5870cbbc80bb",
+  "x": "ok",
+  "chars": 17,
+  "method": "pillow+tesseract"
+ },
+ "2911376eb9e672ae": {
+  "name": "PROFILE_Saga Telecom.pdf",
+  "names": [
+   "PROFILE_Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2009181,
+  "n": 1,
+  "first_msg": "ef9a8a66b3b0347b",
+  "x": "ok",
+  "chars": 8780,
+  "method": "pdfplumber"
+ },
+ "c1edba6060a2d5d8": {
+  "name": "testing port 2.jpg",
+  "names": [
+   "testing port 2.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 415563,
+  "n": 1,
+  "first_msg": "98f70fb285a1e96c",
+  "x": "ok",
+  "chars": 1368,
+  "method": "pillow+tesseract"
+ },
+ "9b284f131ffcf0df": {
+  "name": "testing port 1.jpg",
+  "names": [
+   "testing port 1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 330759,
+  "n": 1,
+  "first_msg": "98f70fb285a1e96c",
+  "x": "ok",
+  "chars": 1467,
+  "method": "pillow+tesseract"
+ },
+ "a9b5d42fe2817d61": {
+  "name": "+75 degree.jpg",
+  "names": [
+   "+75 degree.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 179055,
+  "n": 1,
+  "first_msg": "98f70fb285a1e96c",
+  "x": "ok",
+  "chars": 26,
+  "method": "pillow+tesseract"
+ },
+ "3f0462a60af69954": {
+  "name": "-40 degree.jpg",
+  "names": [
+   "-40 degree.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 186374,
+  "n": 1,
+  "first_msg": "98f70fb285a1e96c",
+  "x": "ok",
+  "chars": 90,
+  "method": "pillow+tesseract"
+ },
+ "94764747798b4732": {
+  "name": "Outdoor Cabinet.png",
+  "names": [
+   "Outdoor Cabinet.png"
+  ],
+  "mime": "image/png",
+  "bytes": 247914,
+  "n": 1,
+  "first_msg": "98f70fb285a1e96c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "bfb8cce0cea6e971": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3909,
+  "n": 1,
+  "first_msg": "f22fe1c8ed3e3766",
+  "x": "skip:image"
+ },
+ "d99351fd6b91705f": {
+  "name": "16 port.png",
+  "names": [
+   "16 port.png",
+   "image001.jpg"
+  ],
+  "mime": "image/png",
+  "bytes": 51113,
+  "n": 113,
+  "first_msg": "8b1d778d3756a721",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "df8a7ded92fa91e1": {
+  "name": "Saga Software Function List_7.3, 7.4, 7.5 version.xlsx",
+  "names": [
+   "Saga Software Function List_7.3, 7.4, 7.5 version.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 125242,
+  "n": 23,
+  "first_msg": "7baacf14385344c0",
+  "x": "ok",
+  "chars": 26141,
+  "method": "openpyxl(values)"
+ },
+ "b4e961438a4a259c": {
+  "name": "10G.jpg",
+  "names": [
+   "10G.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 47888,
+  "n": 54,
+  "first_msg": "bf2e7e83752cc4ea",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "dcd334298071c7e2": {
+  "name": "STI-488XGGPM2B-2BT.pdf",
+  "names": [
+   "STI-488XGGPM2B-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2822445,
+  "n": 1,
+  "first_msg": "3805439280a84575",
+  "x": "ok",
+  "chars": 38682,
+  "method": "pdfplumber"
+ },
+ "c2fa4f290d06f99a": {
+  "name": "PCB.png",
+  "names": [
+   "PCB.png"
+  ],
+  "mime": "image/png",
+  "bytes": 374578,
+  "n": 6,
+  "first_msg": "acb60a9454205d8d",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "27d0b7deb887e254": {
+  "name": "16 Copper.png",
+  "names": [
+   "16 Copper.png"
+  ],
+  "mime": "image/png",
+  "bytes": 356174,
+  "n": 34,
+  "first_msg": "89dafe8bbd1a9808",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "b240f1197fd6a427": {
+  "name": "15451.jpg",
+  "names": [
+   "15451.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 482094,
+  "n": 10,
+  "first_msg": "20d476566e13b4db",
+  "x": "ok",
+  "chars": 375,
+  "method": "pillow+tesseract"
+ },
+ "0cd3dece062aa023": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 211648,
+  "n": 3,
+  "first_msg": "98f870e641fc26ff",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "9bcaf011440021f3": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 211658,
+  "n": 2,
+  "first_msg": "65768cdc35ca24a4",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "06ec82dbb4c58e45": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123256,
+  "n": 1,
+  "first_msg": "65768cdc35ca24a4",
+  "x": "ok",
+  "chars": 1372,
+  "method": "pdfplumber"
+ },
+ "e4c579fc2aef9acd": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 104060,
+  "n": 3,
+  "first_msg": "43168b7db932dd31",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "58a3012a9a658f1a": {
+  "name": "image003.jpg",
+  "names": [
+   "image003.jpg",
+   "markien_f45fa292-847a-4129-8649-996fdc82e15e.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 28954,
+  "n": 5,
+  "first_msg": "43168b7db932dd31",
+  "x": "ok",
+  "chars": 57,
+  "method": "pillow+tesseract"
+ },
+ "6ffc31dd5ebe77cb": {
+  "name": "image004.jpg",
+  "names": [
+   "image004.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 20016,
+  "n": 3,
+  "first_msg": "43168b7db932dd31",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "f4492dafeec55341": {
+  "name": "STC-110GE.docx",
+  "names": [
+   "STC-110GE.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4117624,
+  "n": 1,
+  "first_msg": "c220bcc3035956bf",
+  "x": "ok",
+  "chars": 24712,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "f578bd612eda92dc": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 20038,
+  "n": 2,
+  "first_msg": "06d7d26794647364",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "28049e44dc3c205c": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123491,
+  "n": 1,
+  "first_msg": "06d7d26794647364",
+  "x": "ok",
+  "chars": 1452,
+  "method": "pdfplumber"
+ },
+ "d5bab31d0489e98c": {
+  "name": "monitoring.png",
+  "names": [
+   "monitoring.png"
+  ],
+  "mime": "image/png",
+  "bytes": 62758,
+  "n": 4,
+  "first_msg": "06d7d26794647364",
+  "x": "ok",
+  "chars": 640,
+  "method": "pillow+tesseract"
+ },
+ "e179835107686862": {
+  "name": "123.jpg",
+  "names": [
+   "123.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 680344,
+  "n": 11,
+  "first_msg": "c96378854c179ae1",
+  "x": "ok",
+  "chars": 589,
+  "method": "pillow+tesseract"
+ },
+ "2c85235d0dd475e0": {
+  "name": "1.jpg",
+  "names": [
+   "1.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 138388,
+  "n": 3,
+  "first_msg": "dd4df8e1d09358d8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "e22b198e32d9b0b5": {
+  "name": "4.jpg",
+  "names": [
+   "4.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 107982,
+  "n": 3,
+  "first_msg": "dd4df8e1d09358d8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "12daec49270802b6": {
+  "name": "3.jpg",
+  "names": [
+   "3.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 2320559,
+  "n": 3,
+  "first_msg": "dd4df8e1d09358d8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "49ca48aeb4c0207a": {
+  "name": "2.jpg",
+  "names": [
+   "2.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 741982,
+  "n": 3,
+  "first_msg": "dd4df8e1d09358d8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "840a1e67353078a7": {
+  "name": "24 fiber.jpeg",
+  "names": [
+   "24 fiber.jpeg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 351728,
+  "n": 113,
+  "first_msg": "95bcfb9ad5acda39",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "93d5dae5506c6d70": {
+  "name": "1U Umanaged.jpg",
+  "names": [
+   "1U Umanaged.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 610571,
+  "n": 1,
+  "first_msg": "cfb62448a0ad2c6b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "04255687458d3d9c": {
+  "name": "L3 Managed.jpg",
+  "names": [
+   "L3 Managed.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 847528,
+  "n": 1,
+  "first_msg": "cfb62448a0ad2c6b",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "aff8883aa9be6146": {
+  "name": "STSC20250718016.pdf",
+  "names": [
+   "STSC20250718016.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 238082,
+  "n": 1,
+  "first_msg": "cc2d0a9b668bf0f8",
+  "x": "ok",
+  "chars": 2621,
+  "method": "pdfplumber"
+ },
+ "34c9d99bf043bab0": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2280080,
+  "n": 1,
+  "first_msg": "a935b9f6f635f141",
+  "x": "ok",
+  "chars": 35498,
+  "method": "pdfplumber"
+ },
+ "9fc826854a1cf71a": {
+  "name": "Xerox Scan_07102025162250.pdf",
+  "names": [
+   "Xerox Scan_07102025162250.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1225371,
+  "n": 1,
+  "first_msg": "3cce90c065ca8ce5",
+  "x": "ok",
+  "chars": 3677,
+  "method": "pdfplumber+OCR(4p)"
+ },
+ "bff47583e75052fa": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2113454,
+  "n": 1,
+  "first_msg": "2c55cbead61c8075",
+  "x": "ok",
+  "chars": 35454,
+  "method": "pdfplumber"
+ },
+ "caa9a6d8562d9c2e": {
+  "name": "DIN Managed.jpg",
+  "names": [
+   "DIN Managed.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 1820265,
+  "n": 1,
+  "first_msg": "5ed6cfdaf428d52c",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "ed4409b9d79b372c": {
+  "name": "icon.png",
+  "names": [
+   "icon.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5747,
+  "n": 1,
+  "first_msg": "83ecd8ecdef45141",
+  "x": "skip:image"
+ }
+}

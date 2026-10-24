@@ -1,0 +1,23 @@
+{
+ "sha256_16": "8bd1baf0a3d40756",
+ "name": "Download Link_Alan.pdf",
+ "ext": ".pdf",
+ "bytes": 108874,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "author": "Simon",
+  "creator": "WPS 文字",
+  "creationdate": "D:20250611091228+01'12'",
+  "moddate": "D:20250611091228+01'12'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 1201,
+ "text": "[p1]\nDownloadLink a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nMustKnow\nhttps://drive.google.com/drive/folders/13XV6vaQ6lvYGj0aVoKHj-_Rw6YKPVj3g?usp=drive_link\nDINPowerAdapter\nhttps://drive.google.com/drive/folders/1iYTNL9TGfijqiK2fHpeJl-zE8n3TzC9R?usp=drive_link\nRealtekBasedIndustrialSwitch\nhttps://drive.google.com/drive/folders/1i1ayRspClzc3ptbUrb2eUrEaLm8JBxi8?usp=drive_link\nRealtekBasedCommercialSwitch\nhttps://drive.google.com/drive/folders/1CEIsx5qow56zK_1FWmhvGyIrwgrbFgEC?usp=drive_link\nEthernetMediaConverter\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\nMarvellBasedIndustrialManagedSwitch\nhttps://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link\nMarvellBasedIndustrialUnmanagedSwitch\nhttps://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link\nMarvellBasedCommercialManagedSwitch\nhttps://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link\nCENTECBasedDataCenterSwitch\nhttps://drive.google.com/drive/folders/1o8mmt3amO05IO9IS2ryGDzvNsPztIPT9?usp=drive_link\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider",
+ "pages": [
+  "DownloadLink a.sagatelecom@gmail.com\nSagaTelecom\n2025/Q3 www.sagatelecom.com.cn\nMustKnow\nhttps://drive.google.com/drive/folders/13XV6vaQ6lvYGj0aVoKHj-_Rw6YKPVj3g?usp=drive_link\nDINPowerAdapter\nhttps://drive.google.com/drive/folders/1iYTNL9TGfijqiK2fHpeJl-zE8n3TzC9R?usp=drive_link\nRealtekBasedIndustrialSwitch\nhttps://drive.google.com/drive/folders/1i1ayRspClzc3ptbUrb2eUrEaLm8JBxi8?usp=drive_link\nRealtekBasedCommercialSwitch\nhttps://drive.google.com/drive/folders/1CEIsx5qow56zK_1FWmhvGyIrwgrbFgEC?usp=drive_link\nEthernetMediaConverter\nhttps://drive.google.com/drive/folders/1chVSOnPIH_7Y4eE4knwUNgwotdY6Zguk?usp=drive_link\nMarvellBasedIndustrialManagedSwitch\nhttps://drive.google.com/drive/folders/1agbuT_zU4gyWX2VpG7zlaTsAScMCYKbT?usp=drive_link\nMarvellBasedIndustrialUnmanagedSwitch\nhttps://drive.google.com/drive/folders/16-Puvcm-k78ohw452vHUthWWr51Fkg1Y?usp=drive_link\nMarvellBasedCommercialManagedSwitch\nhttps://drive.google.com/drive/folders/1514zri3WCqq_41jko8WBr-aOPYJNFwm0?usp=drive_link\nCENTECBasedDataCenterSwitch\nhttps://drive.google.com/drive/folders/1o8mmt3amO05IO9IS2ryGDzvNsPztIPT9?usp=drive_link\nConnecting,Converting,Creating\nTailoredMarvellManagedNetworkingSolutionsProvider"
+ ],
+ "extracted_at": "2026-10-24T02:43:34Z"
+}

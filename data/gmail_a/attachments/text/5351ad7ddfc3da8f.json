@@ -1,0 +1,54 @@
+{
+ "sha256_16": "5351ad7ddfc3da8f",
+ "name": "DSS Request.xlsx",
+ "ext": ".xlsx",
+ "bytes": 10936,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Лист1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 8
+ },
+ "warnings": [],
+ "chars": 279,
+ "text": "--- Sheet: Лист1 ---\nName\tQuality\tQuantity\nDSS Synology FS3410\t2\tNew and original\n1 x FlashStation FS3410\n25 x Synology SAT5221-1920G 2.5\" SSD\n4 x Ethernet SFP+ SR Optics (E10GSFPSR)\n4 x FOP-50-LC-LC-2m\n3 x DDR4 ECC Registered DIMM D4ER01-16G\n1 x 10GbE SFP+ Add-on Card E10G30-F2",
+ "sheets": {
+  "Лист1": {
+   "state": "visible",
+   "rows": [
+    [
+     "Name",
+     "Quality",
+     "Quantity"
+    ],
+    [
+     "DSS Synology FS3410",
+     "2",
+     "New and original"
+    ],
+    [
+     "1 x FlashStation FS3410"
+    ],
+    [
+     "25 x Synology SAT5221-1920G 2.5\" SSD"
+    ],
+    [
+     "4 x Ethernet SFP+ SR Optics (E10GSFPSR)"
+    ],
+    [
+     "4 x FOP-50-LC-LC-2m"
+    ],
+    [
+     "3 x DDR4 ECC Registered DIMM D4ER01-16G"
+    ],
+    [
+     "1 x 10GbE SFP+ Add-on Card E10G30-F2"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:44:37Z"
+}

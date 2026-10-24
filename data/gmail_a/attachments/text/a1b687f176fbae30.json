@@ -1,0 +1,19 @@
+{
+ "sha256_16": "a1b687f176fbae30",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 157905,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 565,
+  "height": 169,
+  "mode": "RGBA",
+  "thumb_bytes": 5848
+ },
+ "warnings": [],
+ "chars": 14,
+ "text": "DI Relay\nRS485",
+ "extracted_at": "2026-10-24T02:44:16Z"
+}

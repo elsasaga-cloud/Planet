@@ -1,3 +1,4 @@
 # Gmail(a) 入库运行状态
 
-- 2026-10-23T03:14:33Z **ABORT（exit 3）**：download failed 1x28oQvGH12hJJ3CbbLmKy8xkgThyD_JH: QUOTA_LOCKED: Drive「Too many users have viewed or downloaded this file recently」— 该文件 ID 的匿名下载配额已锁；等 ~24h 后用同一 ID 重跑，或用 copy_file 生成副本（新 ID）后重跑
+- 2026-10-24T02:55:46Z 批次 1：⏳ 运行中/阶段提交，偏移 9,233,086,774/13,371,933,112（69.0%），本批 14,270 封，开跑 2026-10-24T02:22:16Z，已用 33 min
+- 运行器磁盘（drive-ingest dispatcher）：开始时 /: 剩余 9.2 / 共 71.6 GB；/mnt: 剩余 9.2 / 共 71.6 GB（同一文件系统）；/tmp: 剩余 9.2 / 共 71.6 GB（同一文件系统）；/home/runner/work/Planet/Planet: 剩余 9.2 / 共 71.6 GB（同一文件系统）；清理预装大件腾出 33.9 GB；工作盘 /mnt（剩余 43.1 GB，RAW_DIR/ZIP_DIR/TMPDIR 均指向此处）；清理后 /: 剩余 43.1 / 共 71.6 GB；/mnt: 剩余 43.1 / 共 71.6 GB（同一文件系统）；/home/runner/work/Planet/Planet: 剩余 43.1 / 共 71.6 GB（同一文件系统）

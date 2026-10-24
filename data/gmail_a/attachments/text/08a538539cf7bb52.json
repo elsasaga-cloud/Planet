@@ -1,0 +1,23 @@
+{
+ "sha256_16": "08a538539cf7bb52",
+ "name": "PL.pdf",
+ "ext": ".pdf",
+ "bytes": 181230,
+ "method": "pdfplumber",
+ "status": "ok",
+ "meta": {
+  "pages": 1,
+  "author": "tz",
+  "creator": "WPS 表格",
+  "creationdate": "D:20251203202509+12'25'",
+  "moddate": "D:20251203202509+12'25'",
+  "ocr_pages": 0
+ },
+ "warnings": [],
+ "chars": 687,
+ "text": "[p1]\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking List\nDate 2025.12.03\nShip To Netaş Telekomünikasyon A.Ş.\nShipping Add.\nP/O No.\nP/I No.\nP/L No. PL20251203001\nC/No.: Model DESCRIPTION QTY/CTNQTY/PCS CTNS N.W/Kg G.W/Kg LENGTH/CMWIDTH/CM HEIGHT/CM V.W/Kg MEAS/CM³\n1 STI-488DGGPM-2BT Industrial Ethernet Switch 3 3 1 3.6 4.2 20.0 37.5 25.0 3.75 0.01875\nTOTAL 3 1 3.6 4.2 3.75 0.01875\nBillable Weight Whichever is greater between G.W/Kg and V.W/Kg\nCarton ONE(1)\nQUANTITY THREE PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by Alan",
+ "pages": [
+  "Zhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking List\nDate 2025.12.03\nShip To Netaş Telekomünikasyon A.Ş.\nShipping Add.\nP/O No.\nP/I No.\nP/L No. PL20251203001\nC/No.: Model DESCRIPTION QTY/CTNQTY/PCS CTNS N.W/Kg G.W/Kg LENGTH/CMWIDTH/CM HEIGHT/CM V.W/Kg MEAS/CM³\n1 STI-488DGGPM-2BT Industrial Ethernet Switch 3 3 1 3.6 4.2 20.0 37.5 25.0 3.75 0.01875\nTOTAL 3 1 3.6 4.2 3.75 0.01875\nBillable Weight Whichever is greater between G.W/Kg and V.W/Kg\nCarton ONE(1)\nQUANTITY THREE PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by Alan"
+ ],
+ "extracted_at": "2026-10-24T02:48:11Z"
+}

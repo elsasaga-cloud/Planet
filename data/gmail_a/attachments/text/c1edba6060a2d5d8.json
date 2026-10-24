@@ -1,0 +1,19 @@
+{
+ "sha256_16": "c1edba6060a2d5d8",
+ "name": "testing port 2.jpg",
+ "ext": ".jpg",
+ "bytes": 415563,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1279,
+  "height": 1706,
+  "mode": "RGB",
+  "thumb_bytes": 17289
+ },
+ "warnings": [],
+ "chars": 1368,
+ "text": "RU int bri\nType Status\nGiE0/2\nGiE0/3\nGiE0/4\nGiE07/5\nGiE0/6\nGiEO/7\nGiE0/8\nGiE0/9\nGiEO/10\n'GiEO/11\nGiEO/12\nH#show int count\nerface octets Rx\n1EO/1 3264388886144\n3264388886144\n3264388886144\n3264388886144\n3264 388886144\n3264388886144\n3264388886144\n3264388886144\n3264388886144\n若 3264388886144\n3304388886144\n: iP 64\n| I il\n88886144\nReason Speed\nPackets Rx\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\nDuplex\nOctets Tx\n3264388886144\n3264388886144\n3264 388886144\n3264388886144\n3264388886144\n3264 3888g6144\n3264388886144\n3264388886144\n3264388886144\n3264388886144\n3264388886144\n3264388886144\nFlowcontrol\n圖 an-id\nNOM - No operational members , PVID Port vl\nPackets Tx\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n51006076346\n21006076346\n51006076346\n51006076346\n51006076346\n5100607634\ni\n|\nAutoneg\nTX power\nee i) wadeaee) || ees \"dba | [dsm]\nTemp 站 [ma] 1 7\neal LN ALi st alee A et -5. 88 (OK\nLI 中 本 _51 9300k)\nie Gee EME 全 aa\nK l | aa\n74(0K) Z19C0K) 30139(6K) 6.11 €OK)\n76 (OK !\nte\nG - MLAG Aggrega\nLoopback , AGG - albert [alhvainey Ve) Mir tit | POF\nodes: ETH - Ethernet, me _tunnel, PBB - PBB netics Eee uk Unknow\ney yey ce Virtual Port, METH Vaated Down , NA - Not Applic\nCVP - Channe if tocol Down, ii\n站 PD - Pro\nED - ErrDisabled,\nErr\n©8°°90000CC000",
+ "extracted_at": "2026-10-24T02:51:16Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b811aefe603c8f37",
+ "name": "Unmanaged PoE.png",
+ "ext": ".png",
+ "bytes": 2408111,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 3324,
+  "height": 1164,
+  "mode": "RGBA",
+  "thumb_bytes": 7325
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:43:14Z"
+}

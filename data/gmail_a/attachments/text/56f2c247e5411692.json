@@ -1,0 +1,19 @@
+{
+ "sha256_16": "56f2c247e5411692",
+ "name": "Alarm.png",
+ "ext": ".png",
+ "bytes": 693224,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1260,
+  "height": 375,
+  "mode": "RGBA",
+  "thumb_bytes": 5738
+ },
+ "warnings": [],
+ "chars": 6,
+ "text": "USBALM",
+ "extracted_at": "2026-10-24T02:44:18Z"
+}

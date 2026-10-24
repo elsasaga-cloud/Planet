@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d42a1641fcd92a1c",
+ "name": "UI page.png",
+ "ext": ".png",
+ "bytes": 126269,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1680,
+  "height": 1050,
+  "mode": "RGB",
+  "thumb_bytes": 8406
+ },
+ "warnings": [],
+ "chars": 687,
+ "text": "Maintenan:\n& Overview - Switch\nx 十\nge ca 0 & 不 安全 http://192.168.56.166/#/monitor/dashboard\nOce-T MmiSn Oxsea OFERE ”人 @@ 京东 商城 ”人 RERT\n& Monitor Monitor\nSystem Information\nProduct ID : STI-488DGGPM-28T\nProduct SN : 202601140001\nMAC Address : FC-CD-2F-D0-51-FO\nHardware Version : V1.0\nSoftware Version : hotfix/7.4.7 (r1540 af525c9) 2025-12-11 17:09:22\nUptime : 00:01\n‘Temperature(°C) : 36\nSwitch Chip : Marvell ACS Series\n「] Selected\n4 2\n12\nAG Port PY trunk Port P] 13 Port (EBB) up [2] shutdown lf Ervor-down\n8 6\n11 10\nTraffic\ngigabitEthernet0/12\nPnmeow da J\nKbps\na2oge\nCPU\nMemory\n96.01%\n48.65%\n] Copper\nFiber\n~O- Ix Traffic\nRx Traffic\n» Configuration\nBa. zxars\n1808\nEn 5D\nAis ez\nA GWA",
+ "extracted_at": "2026-10-24T02:42:10Z"
+}

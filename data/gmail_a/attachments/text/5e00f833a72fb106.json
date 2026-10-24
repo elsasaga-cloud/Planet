@@ -1,0 +1,20 @@
+{
+ "sha256_16": "5e00f833a72fb106",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 82281,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1000,
+  "height": 300,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 6697
+ },
+ "warnings": [],
+ "chars": 36,
+ "text": "24*10G Fiber 8*40G/100G 24*10G Fiber",
+ "extracted_at": "2026-10-24T02:40:45Z"
+}

@@ -1,0 +1,122 @@
+{
+ "sha256_16": "fd976f329b2a6c76",
+ "name": "Supplier Entry Form(English).xlsx",
+ "ext": ".xlsx",
+ "bytes": 14288,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 25
+ },
+ "warnings": [],
+ "chars": 460,
+ "text": "--- Sheet: Sheet1 ---\nSUPPLIER INFORMATION FORM\nNEW SUPPLIER\tEXISTING SUPPLIER - REVISION\nSUPPLIER CODE ( NETS,PRBL,NETRD )\nSUPPLIER NAME\tX\nADDRESS\tX\nPOST CODE\tX\nCITY / COUNTRY\tX\nTAX NUMBER\tX\nTAX OFFICE\tX\nSALES REFERENCE\tX\nTELEPHONE\tX\nFAX\tX\nE-MAIL\tX\nCURRENCY\tX\nLANGUAGE\tX\nCONTACT (PURCHASE)-NETAŞ\tX\nTERMS OF PAYMENT\tX\nTERMS OF DELIVERY\tX\nPAYMENT METHOD\tX\nBANK NAME / BRANCH\tX\nZIP CODE & ADDRESS OF BANK\tX\nSWIFT CODE\tX\nACCOUNT NUMBER ( IBAN NO )\tX\nDATE\nAPPROVAL",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "SUPPLIER INFORMATION FORM"
+    ],
+    [
+     "NEW SUPPLIER",
+     "EXISTING SUPPLIER - REVISION"
+    ],
+    [
+     "SUPPLIER CODE ( NETS,PRBL,NETRD )"
+    ],
+    [
+     "SUPPLIER NAME",
+     "X"
+    ],
+    [
+     "ADDRESS",
+     "X"
+    ],
+    [
+     "POST CODE",
+     "X"
+    ],
+    [
+     "CITY / COUNTRY",
+     "X"
+    ],
+    [
+     "TAX NUMBER",
+     "X"
+    ],
+    [
+     "TAX OFFICE",
+     "X"
+    ],
+    [
+     "SALES REFERENCE",
+     "X"
+    ],
+    [
+     "TELEPHONE",
+     "X"
+    ],
+    [
+     "FAX",
+     "X"
+    ],
+    [
+     "E-MAIL",
+     "X"
+    ],
+    [
+     "CURRENCY",
+     "X"
+    ],
+    [
+     "LANGUAGE",
+     "X"
+    ],
+    [
+     "CONTACT (PURCHASE)-NETAŞ",
+     "X"
+    ],
+    [
+     "TERMS OF PAYMENT",
+     "X"
+    ],
+    [
+     "TERMS OF DELIVERY",
+     "X"
+    ],
+    [
+     "PAYMENT METHOD",
+     "X"
+    ],
+    [
+     "BANK NAME / BRANCH",
+     "X"
+    ],
+    [
+     "ZIP CODE & ADDRESS OF BANK",
+     "X"
+    ],
+    [
+     "SWIFT CODE",
+     "X"
+    ],
+    [
+     "ACCOUNT NUMBER ( IBAN NO )",
+     "X"
+    ],
+    [
+     "DATE"
+    ],
+    [
+     "APPROVAL"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:48:12Z"
+}

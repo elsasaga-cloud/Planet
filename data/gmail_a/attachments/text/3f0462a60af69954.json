@@ -1,0 +1,19 @@
+{
+ "sha256_16": "3f0462a60af69954",
+ "name": "-40 degree.jpg",
+ "ext": ".jpg",
+ "bytes": 186374,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1279,
+  "height": 1706,
+  "mode": "RGB",
+  "thumb_bytes": 12723
+ },
+ "warnings": [],
+ "chars": 90,
+ "text": "mre oo\nis 之 全\n控制 器\nCONTROLLER\n電源 指示 故障 報警\nPOWER LIGHT FAILURE\nPN\n全 Wo\nCo om — an sl sz “LT",
+ "extracted_at": "2026-10-24T02:51:21Z"
+}

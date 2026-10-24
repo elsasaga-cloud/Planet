@@ -1,0 +1,129 @@
+{
+ "sha256_16": "7511ea733c337df2",
+ "name": "Netas - DRAFT Supplier Export Classification Request Form.rev1.docx",
+ "ext": ".docx",
+ "bytes": 44020,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Export Classification Request Form",
+  "author": "John Anderson",
+  "last_modified_by": "Burak OZDEMIR",
+  "created": "2025-06-26T07:11:00+00:00",
+  "modified": "2025-09-30T09:05:00+00:00",
+  "paragraphs": 18,
+  "tables": 1,
+  "embedded_images": 1,
+  "ocr_images": 0
+ },
+ "warnings": [],
+ "chars": 1737,
+ "text": "Supplier Export Classification Request Form\nIn accordance with Netas’ Export Compliance Policy, we ask our suppliers to provide the export classification data of their products (hardware and software).\nPlease fill out the Product Classification Table below for all products provided to Netas. You may attach an Excel spreadsheet to this form if there are numerous items.\nProduct Classification Table\nSupplier Part Number\tProduct Name and Description\tExport Classification (e.g. ECCN, EU Dual-Use Code, USML Number)\tLicense Exception / EU GEA (e.g. NLR, ENC(b)(1))\tCCATS\tTariff / HTS Code / GTİP (in Turkish)\tCountry of Origin\nU.S. Export Controls Regulations\nExport Administration Regulations (EAR)\nFor dual-use or less sensitive military items – administered by the U.S. Department of Commerce, Bureau of Industry and Security (BIS). http://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn\nInternational Traffic in Arms Regulations (ITAR)\nFor sensitive military items – administered by the U.S. Department of State, Directorate of Defense Trade Controls (DDTC). https://www.pmddtc.state.gov/\nEU Export Controls Regulations\nEuropean Union Dual-Use Regulation (EC) No 428/2009 (2017 consolidated version) governs the EU's export control regime.\nIf your items are military, then please refer to the national military list of each member state.\nI hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ. that the information given above accurately represents the export classification for the parts listed above as of the signature date of this submission.\nSignature:_____________________________________________\nName:\nTitle:\nDate:\nPhone: \t\tEmail:",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supplier Export Classification Request Form"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "In accordance with Netas’ Export Compliance Policy, we ask our suppliers to provide the export classification data of their products (hardware and software)."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Please fill out the Product Classification Table below for all products provided to Netas. You may attach an Excel spreadsheet to this form if there are numerous items."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Product Classification Table"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Supplier Part Number",
+     "Product Name and Description",
+     "Export Classification (e.g. ECCN, EU Dual-Use Code, USML Number)",
+     "License Exception / EU GEA (e.g. NLR, ENC(b)(1))",
+     "CCATS",
+     "Tariff / HTS Code / GTİP (in Turkish)",
+     "Country of Origin"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "U.S. Export Controls Regulations"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Export Administration Regulations (EAR)"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "For dual-use or less sensitive military items – administered by the U.S. Department of Commerce, Bureau of Industry and Security (BIS). http://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "International Traffic in Arms Regulations (ITAR)"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "For sensitive military items – administered by the U.S. Department of State, Directorate of Defense Trade Controls (DDTC). https://www.pmddtc.state.gov/"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "EU Export Controls Regulations"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "European Union Dual-Use Regulation (EC) No 428/2009 (2017 consolidated version) governs the EU's export control regime."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "If your items are military, then please refer to the national military list of each member state."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "I hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ. that the information given above accurately represents the export classification for the parts listed above as of the signature date of this submission."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Signature:_____________________________________________"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Name:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Title:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Date:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Phone: \t\tEmail:"
+  }
+ ],
+ "extracted_at": "2026-10-24T02:48:12Z"
+}

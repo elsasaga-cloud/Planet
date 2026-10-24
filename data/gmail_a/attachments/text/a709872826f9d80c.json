@@ -1,0 +1,162 @@
+{
+ "sha256_16": "a709872826f9d80c",
+ "name": "Requirements.xlsx",
+ "ext": ".xlsx",
+ "bytes": 10146,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 17
+ },
+ "warnings": [],
+ "chars": 1529,
+ "text": "--- Sheet: Sheet1 ---\n\t\t\t1\tCertification Information\tFCC, RoHS\n\t\t\t2\t\tCan we obtain the necessary certifications for sale in Japan under our company name?\n\t\t\t3\tPackaging\tI understand the text on the label is in English. Is it possible to have it translated into Japanese for this order?\n\t\t\t4\t\tPlease tell me the contents of the label. Please send me a PDF of the label currently attached to the product.\n\t\t\t5\t\tDoes the sample feature your company's logo?\n\t\t\t6\t\tIs your company's logo on the packaging?\n\t\t\t7\t\tWhen placing a formal order, will the logo be printed on the product, packaging, and our label?\n\t\t\t8\tPower Supply\tPlease list the compatible power supplies your company recommends. PSE-certified products are mandatory for sale in Japan.\n\t\t\t9\tWarranty System\tDo you have an RMA warranty system?\n\t\t\t10\t\tHow many years is the manufacturer’s warranty?\n\t\t\t11\t\tWhat is your policy regarding products whose warranty period has expired?\n\t\t\t12\t\tPlease describe your technical support system and the duration of support after purchasing your products. (Procedures for handling failures that occur within the warranty period, and selection of support personnel)\n\t\t\t13\tSales Track Record\tHave you sold your products in Japan before?\n\t\t\t14\tSales Track Record\tWhat is your sales track record to date?\n\t\t\t15\tFailure Rate\tPlease provide the failure rate for this product.\n\t\t\t16\tAI WATCH DOG\tPlease tell me how to verify that this feature is functioning properly.\n\t\t\t17\tExtension\tWhat is the transmission speed at a distance of 250 meters?",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "",
+     "",
+     "",
+     "1",
+     "Certification Information",
+     "FCC, RoHS"
+    ],
+    [
+     "",
+     "",
+     "",
+     "2",
+     "",
+     "Can we obtain the necessary certifications for sale in Japan under our company name?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "3",
+     "Packaging",
+     "I understand the text on the label is in English. Is it possible to have it translated into Japanese for this order?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "4",
+     "",
+     "Please tell me the contents of the label. Please send me a PDF of the label currently attached to the product."
+    ],
+    [
+     "",
+     "",
+     "",
+     "5",
+     "",
+     "Does the sample feature your company's logo?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "6",
+     "",
+     "Is your company's logo on the packaging?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "7",
+     "",
+     "When placing a formal order, will the logo be printed on the product, packaging, and our label?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "8",
+     "Power Supply",
+     "Please list the compatible power supplies your company recommends. PSE-certified products are mandatory for sale in Japan."
+    ],
+    [
+     "",
+     "",
+     "",
+     "9",
+     "Warranty System",
+     "Do you have an RMA warranty system?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "10",
+     "",
+     "How many years is the manufacturer’s warranty?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "11",
+     "",
+     "What is your policy regarding products whose warranty period has expired?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "12",
+     "",
+     "Please describe your technical support system and the duration of support after purchasing your products. (Procedures for handling failures that occur within the warranty period, and selection of support personnel)"
+    ],
+    [
+     "",
+     "",
+     "",
+     "13",
+     "Sales Track Record",
+     "Have you sold your products in Japan before?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "14",
+     "Sales Track Record",
+     "What is your sales track record to date?"
+    ],
+    [
+     "",
+     "",
+     "",
+     "15",
+     "Failure Rate",
+     "Please provide the failure rate for this product."
+    ],
+    [
+     "",
+     "",
+     "",
+     "16",
+     "AI WATCH DOG",
+     "Please tell me how to verify that this feature is functioning properly."
+    ],
+    [
+     "",
+     "",
+     "",
+     "17",
+     "Extension",
+     "What is the transmission speed at a distance of 250 meters?"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:39:51Z"
+}

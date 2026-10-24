@@ -1,0 +1,19 @@
+{
+ "sha256_16": "b741b14c62070136",
+ "name": "image001.png",
+ "ext": ".png",
+ "bytes": 8642,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 324,
+  "height": 45,
+  "mode": "RGBA",
+  "thumb_bytes": 2462
+ },
+ "warnings": [],
+ "chars": 13,
+ "text": "Kurumsal Uyum",
+ "extracted_at": "2026-10-24T02:40:21Z"
+}

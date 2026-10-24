@@ -1,0 +1,20 @@
+{
+ "sha256_16": "90cb7ca6e2c948b3",
+ "name": "1U Umanaged.jpg",
+ "ext": ".jpg",
+ "bytes": 572425,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 5085,
+  "height": 2546,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 14414
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:47:41Z"
+}

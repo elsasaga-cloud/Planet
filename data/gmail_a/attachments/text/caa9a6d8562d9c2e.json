@@ -1,0 +1,21 @@
+{
+ "sha256_16": "caa9a6d8562d9c2e",
+ "name": "DIN Managed.jpg",
+ "ext": ".jpg",
+ "bytes": 1820265,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 6426,
+  "height": 3388,
+  "mode": "RGB",
+  "datetime": "2025:06:10 16:31:50",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 13913
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:53:51Z"
+}

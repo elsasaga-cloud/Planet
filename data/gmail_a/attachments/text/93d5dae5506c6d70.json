@@ -1,0 +1,21 @@
+{
+ "sha256_16": "93d5dae5506c6d70",
+ "name": "1U Umanaged.jpg",
+ "ext": ".jpg",
+ "bytes": 610571,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 5114,
+  "height": 2581,
+  "mode": "RGB",
+  "datetime": "2025:02:02 11:09:12",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 14309
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:53:00Z"
+}

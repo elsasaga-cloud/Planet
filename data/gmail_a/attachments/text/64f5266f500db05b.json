@@ -1,0 +1,252 @@
+{
+ "sha256_16": "64f5266f500db05b",
+ "name": "CI.xls",
+ "ext": ".xls",
+ "bytes": 5650944,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Commerical Invoice"
+  ],
+  "rows_total": 51
+ },
+ "warnings": [],
+ "chars": 3512,
+ "text": "--- Sheet: Commerical Invoice ---\nZhengzhou Saga Telecom Co., Ltd.\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nAddress: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009\nMob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com\n*********************************************************************************************************************\nCommerical Invoice\nPO No.\t2600011146\t\tInvoice No.:\tSTAG20251224020\nBuyer:\tNETAŞ Telekomünikasyon A.Ş.\t\tSeller:\tZhengzhou Saga Telecom Co., Ltd.\nTel:\t90 53486 02136\t\tIssued By:\tAlan\nEmail:\tbuozdemir@netas.com.tr\t\tInvoice Date:\t24th, Dec, 2025\nContact Person:\tBurak Ozdemir\t\tPayment Term:\tT/T in advance, DAP but without customs clearance\nShipping Address\tOrhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye\nModel\tSpecification\t\t\tQuantity \n(pcs)\tUnit Price\n(USD)\tAmount \n(USD)\tRemark\nSeller\nSTI-488DGGPM-2BT\n\nBuyer\n#\t\tIndustrial PoE Managed Switch\n\n4*1G/2.5G SFP+8*10/100/1000M RJ45/PoE +1*Console Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\nWithout Optical Module\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 75℃@240W PoE Output\t\t3\t150\t450\tMarvell Chip\n\tHS Code\t8517622990\n\tPacking Information\tDimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg\nFreight Cost\t70usd for about 5Kg volume weight to Turkey by UPS\nAir, door-to-door service\n4~6 calendar days to reach at local customs for clearance\t\t\t\t\t70\nBank Cost\tStandard Charge in EACH Order\t\t\t\t\t25\nTOTAL\t\t\t\t3\t\t545\nSAY TOTAL IN USD FIVE HUNDRED AND FORTY FIVE DOLLARS\nRemark\nPlease do make sure client side could handle import customs clearance\nIf there is any problem with the shipment or clearance\n1, please let us know ASAP\n2, please call DHL/FedEx/UPS official number for information\n1. Payment: Full payment to the below bank account before shipment\nBank Information\nSWIFT/BIC code\tCHASHKHH (CHASHKHHXXX * if 11 characters are required)\nAccount Number\t63003662406\nAccount Name\tZhengzhou Saga Telecom Co., Ltd.\nBank Name\tJPMorgan Chase Bank N.A., Hong Kong Branch\nBank Address\t18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG\nCountry/Region\tHong Kong\nType of Account\tBusiness Account\nBank Code\t007\nBranch Code\t863\n2. NOTE: Saga Telecom will not pay for any bank charge\nPlease make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice\n3. Production time: 5~7 working days(NOT including shipping time)\nPlease note that, according to our company policy, sample testing MUST last for 5 working days before shipment to ensure stable performance\nIncoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release\n4. Country of origin: China\n5. Non-brand packing, without Chinese letters or logo\nPacking list is available\n6. Warranty: 3 years, lifetime technical support\nPurchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery\nPlease refer to \"warranty policy\" for more information\nBuyer: NETAŞ Telekomünikasyon A.Ş.\t\t\tSeller: Zhengzhou Saga Telecom Co., Ltd.\nBurak Ozdemir\t\t\tAlan\nAuthorized Signature\t\t\tAuthorized Signature",
+ "sheets": {
+  "Commerical Invoice": {
+   "rows": [
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Tailored Managed Networking Solutions Provider"
+    ],
+    [
+     "Built to Last, Continuous Supply, Evolving Together"
+    ],
+    [
+     "Address: Room 316, 22nd Floor, Building 57, No.2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009"
+    ],
+    [
+     "Mob: 86 13048800964                                          www.sagatelecom.com.cn                                Email: a.sagatelecom@gmail.com"
+    ],
+    [
+     "*********************************************************************************************************************"
+    ],
+    [
+     "Commerical Invoice"
+    ],
+    [
+     "PO No.",
+     "2600011146",
+     "",
+     "Invoice No.:",
+     "STAG20251224020"
+    ],
+    [
+     "Buyer:",
+     "NETAŞ Telekomünikasyon A.Ş.",
+     "",
+     "Seller:",
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Tel:",
+     "90 53486 02136",
+     "",
+     "Issued By:",
+     "Alan"
+    ],
+    [
+     "Email:",
+     "buozdemir@netas.com.tr",
+     "",
+     "Invoice Date:",
+     "24th, Dec, 2025"
+    ],
+    [
+     "Contact Person:",
+     "Burak Ozdemir",
+     "",
+     "Payment Term:",
+     "T/T in advance, DAP but without customs clearance"
+    ],
+    [
+     "Shipping Address",
+     "Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye"
+    ],
+    [
+     "Model",
+     "Specification",
+     "",
+     "",
+     "Quantity \n(pcs)",
+     "Unit Price\n(USD)",
+     "Amount \n(USD)",
+     "Remark"
+    ],
+    [
+     "Seller\nSTI-488DGGPM-2BT\n\nBuyer\n#",
+     "",
+     "Industrial PoE Managed Switch\n\n4*1G/2.5G SFP+8*10/100/1000M RJ45/PoE +1*Console Port\n6*PoE af/at+2*PoE af/at/bt\n240W, L2+ Managed\nActive PoE, DC48V output\nDC44V~DC57V(Removable 4 PIN Industrial Terminal Block), Din Mounted\nWith Mounting Hanger, Without Power Supply\nWithout Optical Module\n\n1, Without DI/DO/RS485 Function\n2, -40℃~+ 75℃@240W PoE Output",
+     "",
+     "3",
+     "150",
+     "450",
+     "Marvell Chip"
+    ],
+    [
+     "",
+     "HS Code",
+     "8517622990"
+    ],
+    [
+     "",
+     "Packing Information",
+     "Dimension: 158*115*54mm\nNet Weight: 1.2Kg\nGross Weight: 1.4Kg"
+    ],
+    [
+     "Freight Cost",
+     "70usd for about 5Kg volume weight to Turkey by UPS\nAir, door-to-door service\n4~6 calendar days to reach at local customs for clearance",
+     "",
+     "",
+     "",
+     "",
+     "70"
+    ],
+    [
+     "Bank Cost",
+     "Standard Charge in EACH Order",
+     "",
+     "",
+     "",
+     "",
+     "25"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "",
+     "3",
+     "",
+     "545"
+    ],
+    [
+     "SAY TOTAL IN USD FIVE HUNDRED AND FORTY FIVE DOLLARS"
+    ],
+    [
+     "Remark"
+    ],
+    [
+     "Please do make sure client side could handle import customs clearance"
+    ],
+    [
+     "If there is any problem with the shipment or clearance"
+    ],
+    [
+     "1, please let us know ASAP"
+    ],
+    [
+     "2, please call DHL/FedEx/UPS official number for information"
+    ],
+    [
+     "1. Payment: Full payment to the below bank account before shipment"
+    ],
+    [
+     "Bank Information"
+    ],
+    [
+     "SWIFT/BIC code",
+     "CHASHKHH (CHASHKHHXXX * if 11 characters are required)"
+    ],
+    [
+     "Account Number",
+     "63003662406"
+    ],
+    [
+     "Account Name",
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Bank Name",
+     "JPMorgan Chase Bank N.A., Hong Kong Branch"
+    ],
+    [
+     "Bank Address",
+     "18/F, 20/F, 22-29/F, CHATER HOUSE, 8 CONNAUGHT ROAD CENTRAL, HONG KONG"
+    ],
+    [
+     "Country/Region",
+     "Hong Kong"
+    ],
+    [
+     "Type of Account",
+     "Business Account"
+    ],
+    [
+     "Bank Code",
+     "007"
+    ],
+    [
+     "Branch Code",
+     "863"
+    ],
+    [
+     "2. NOTE: Saga Telecom will not pay for any bank charge"
+    ],
+    [
+     "Please make sure the money arrives at our account BEFORE THE SHIPMENT and it must be exactly the amount shown in the invoice"
+    ],
+    [
+     "3. Production time: 5~7 working days(NOT including shipping time)"
+    ],
+    [
+     "Please note that, according to our company policy, sample testing MUST last for 5 working days before shipment to ensure stable performance"
+    ],
+    [
+     "Incoterms: DAP, excluding destination customs clearance & import duties, but including on-carriage delivery after customs release"
+    ],
+    [
+     "4. Country of origin: China"
+    ],
+    [
+     "5. Non-brand packing, without Chinese letters or logo"
+    ],
+    [
+     "Packing list is available"
+    ],
+    [
+     "6. Warranty: 3 years, lifetime technical support"
+    ],
+    [
+     "Purchased items are seen as standard or non-defective without negative feedback within 2 months from the date of delivery"
+    ],
+    [
+     "Please refer to \"warranty policy\" for more information"
+    ],
+    [
+     "Buyer: NETAŞ Telekomünikasyon A.Ş.",
+     "",
+     "",
+     "Seller: Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Burak Ozdemir",
+     "",
+     "",
+     "Alan"
+    ],
+    [
+     "Authorized Signature",
+     "",
+     "",
+     "Authorized Signature"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:41:06Z"
+}

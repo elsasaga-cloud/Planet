@@ -1,0 +1,20 @@
+{
+ "sha256_16": "840a1e67353078a7",
+ "name": "24 fiber.jpeg",
+ "ext": ".jpeg",
+ "bytes": 351728,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 3996,
+  "height": 871,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 4991
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:52:56Z"
+}

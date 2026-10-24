@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d6cdcc5fcd65b1c0",
+ "name": "400GB Switch.png",
+ "ext": ".png",
+ "bytes": 693011,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1397,
+  "height": 415,
+  "mode": "RGBA",
+  "thumb_bytes": 5193
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:39:49Z"
+}

@@ -1,0 +1,214 @@
+{
+ "sha256_16": "8dc42ca96404d5b9",
+ "name": "24 Port + 4 SFP  POE Switch.xlsx",
+ "ext": ".xlsx",
+ "bytes": 11298,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 38
+ },
+ "warnings": [],
+ "chars": 2272,
+ "text": "--- Sheet: Sheet1 ---\n\t24-port 10/100/1000Base-T with 4 × 1G/2.5G/10G SFP ports POE Switch\n\tFixed ports\t24*10/100/1000M RJ45 ports,4*1G/2.5G/10G SFP+ slots\n\tSwitching capacity\t128Gbps\n\tPacket forwarding rate\t95Mpps\n\tConsole port\t1\n\tFlash\t512M\n\tRAM\t512M\n\tMAC address table\t16K\n\tJumbo Frame\t10K\n\tBuffer Size\t12M bit\n\tTotal output BTU (1000BTU/H=293W)\t1445.84\n\tNoise@25°C(dBA)\t<35db\n\tMTBF(H)\t＞200,000\n\tFAN\tFan speed control\n\tDimension (WxDxH)mm\n\tWeight (KG)\t3.3 -5kg\n\tPower Supply\t220V AC input Rated voltage range:100-240V Frequency：50/60Hz / 48V DC\n\tPower Consumption No-Load\t≤30W\n\tPower Consumption Full-Load\t≤430W\n\tPOE Power Budget\t≤400W\n\tPOE (IEEE802.3af)/POE+ (IEEE802.3at)\tSupport\n\tOperating & Storage temperature\t0  ~50  & -20  ~75\n\tWorking & Storage relative humidity\t10%~90% & 5%~95%\n\tForwarding mode\tStore-forward\n\tPort aggregation\t10GE port aggregation\n2.5GE aggregation GE aggregation\nStatic aggregation Dynamic aggregation\n\tPort features\tIEEE802.3x flow control Interface counters Port isolation Storm control\nNetwork storm suppression based on port bandwidth\n\tMac-address table management\tStatic Mac-address management Dynamic Mac-address Management Filtering Mac-address,MAC limit based on port & VLAN MAC flapping based on port & VLAN\n\tVLAN\t4K, Access, trunk and hybrid mode\n\tVLAN Classification\tMac Based VLAN IP Based VLAN,Protocol Based VLAN\n\tGVRP\tNormal mode,Fixed mode Forbidden mode\n\tQinQ\tPort-based QinQ VLAN-based QinQ, Flow-based QinQ\n\tLLDP\tLLDP (Link Layer Discovery Protocol)\n\tDHCP\tDHCP Server DHCP client DHCP snooping trust port\nRemote-id/circuit-id configuration DHCP option-82\n\tACL\tIP Standard ACL MAC extend ACL\nIP extend ACL IPv6 ACL\n\tQoS\tQoS Class, remarking\nSP, WRR queue scheduling\nIngress port-based rate-limit Egress port-based rate-limit\n\tSecurity\tPort Security, Dot1x, port authentication, MAC authentication, RADIUS, TACACS, ARP Source Guard, IP Port/MAC  binding, ARP-check  and ARP  packet  filtering  for illegal users\n\tCentralised Cloud\tCloud Management System\n\tManagement and maintenance\tUser management and login authentication Console Telnet SSH\nWeb management, HTTP, HTTPS SNMPV1/V2C/V3 Syslog and alarm grading RMON\nNTP\nSflow\nTemperature monitoring Ping, Tracert Cable detection Dying gasp DDM TFTP\nDual partition management",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "",
+     "24-port 10/100/1000Base-T with 4 × 1G/2.5G/10G SFP ports POE Switch"
+    ],
+    [
+     "",
+     "Fixed ports",
+     "24*10/100/1000M RJ45 ports,4*1G/2.5G/10G SFP+ slots"
+    ],
+    [
+     "",
+     "Switching capacity",
+     "128Gbps"
+    ],
+    [
+     "",
+     "Packet forwarding rate",
+     "95Mpps"
+    ],
+    [
+     "",
+     "Console port",
+     "1"
+    ],
+    [
+     "",
+     "Flash",
+     "512M"
+    ],
+    [
+     "",
+     "RAM",
+     "512M"
+    ],
+    [
+     "",
+     "MAC address table",
+     "16K"
+    ],
+    [
+     "",
+     "Jumbo Frame",
+     "10K"
+    ],
+    [
+     "",
+     "Buffer Size",
+     "12M bit"
+    ],
+    [
+     "",
+     "Total output BTU (1000BTU/H=293W)",
+     "1445.84"
+    ],
+    [
+     "",
+     "Noise@25°C(dBA)",
+     "<35db"
+    ],
+    [
+     "",
+     "MTBF(H)",
+     "＞200,000"
+    ],
+    [
+     "",
+     "FAN",
+     "Fan speed control"
+    ],
+    [
+     "",
+     "Dimension (WxDxH)mm"
+    ],
+    [
+     "",
+     "Weight (KG)",
+     "3.3 -5kg"
+    ],
+    [
+     "",
+     "Power Supply",
+     "220V AC input Rated voltage range:100-240V Frequency：50/60Hz / 48V DC"
+    ],
+    [
+     "",
+     "Power Consumption No-Load",
+     "≤30W"
+    ],
+    [
+     "",
+     "Power Consumption Full-Load",
+     "≤430W"
+    ],
+    [
+     "",
+     "POE Power Budget",
+     "≤400W"
+    ],
+    [
+     "",
+     "POE (IEEE802.3af)/POE+ (IEEE802.3at)",
+     "Support"
+    ],
+    [
+     "",
+     "Operating & Storage temperature",
+     "0  ~50  & -20  ~75"
+    ],
+    [
+     "",
+     "Working & Storage relative humidity",
+     "10%~90% & 5%~95%"
+    ],
+    [
+     "",
+     "Forwarding mode",
+     "Store-forward"
+    ],
+    [
+     "",
+     "Port aggregation",
+     "10GE port aggregation\n2.5GE aggregation GE aggregation\nStatic aggregation Dynamic aggregation"
+    ],
+    [
+     "",
+     "Port features",
+     "IEEE802.3x flow control Interface counters Port isolation Storm control\nNetwork storm suppression based on port bandwidth"
+    ],
+    [
+     "",
+     "Mac-address table management",
+     "Static Mac-address management Dynamic Mac-address Management Filtering Mac-address,MAC limit based on port & VLAN MAC flapping based on port & VLAN"
+    ],
+    [
+     "",
+     "VLAN",
+     "4K, Access, trunk and hybrid mode"
+    ],
+    [
+     "",
+     "VLAN Classification",
+     "Mac Based VLAN IP Based VLAN,Protocol Based VLAN"
+    ],
+    [
+     "",
+     "GVRP",
+     "Normal mode,Fixed mode Forbidden mode"
+    ],
+    [
+     "",
+     "QinQ",
+     "Port-based QinQ VLAN-based QinQ, Flow-based QinQ"
+    ],
+    [
+     "",
+     "LLDP",
+     "LLDP (Link Layer Discovery Protocol)"
+    ],
+    [
+     "",
+     "DHCP",
+     "DHCP Server DHCP client DHCP snooping trust port\nRemote-id/circuit-id configuration DHCP option-82"
+    ],
+    [
+     "",
+     "ACL",
+     "IP Standard ACL MAC extend ACL\nIP extend ACL IPv6 ACL"
+    ],
+    [
+     "",
+     "QoS",
+     "QoS Class, remarking\nSP, WRR queue scheduling\nIngress port-based rate-limit Egress port-based rate-limit"
+    ],
+    [
+     "",
+     "Security",
+     "Port Security, Dot1x, port authentication, MAC authentication, RADIUS, TACACS, ARP Source Guard, IP Port/MAC  binding, ARP-check  and ARP  packet  filtering  for illegal users"
+    ],
+    [
+     "",
+     "Centralised Cloud",
+     "Cloud Management System"
+    ],
+    [
+     "",
+     "Management and maintenance",
+     "User management and login authentication Console Telnet SSH\nWeb management, HTTP, HTTPS SNMPV1/V2C/V3 Syslog and alarm grading RMON\nNTP\nSflow\nTemperature monitoring Ping, Tracert Cable detection Dying gasp DDM TFTP\nDual partition management"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:40:35Z"
+}

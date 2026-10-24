@@ -1,0 +1,21 @@
+{
+ "sha256_16": "9afe93d72184e4be",
+ "name": "SC fiber.jpg",
+ "ext": ".jpg",
+ "bytes": 948071,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 2065,
+  "height": 2797,
+  "mode": "RGB",
+  "datetime": "2025:11:25 16:29:29",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 8769
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:48:44Z"
+}

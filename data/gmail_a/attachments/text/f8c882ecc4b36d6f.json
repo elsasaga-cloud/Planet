@@ -1,0 +1,21 @@
+{
+ "sha256_16": "f8c882ecc4b36d6f",
+ "name": "10G Version.jpg",
+ "ext": ".jpg",
+ "bytes": 457880,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1508,
+  "height": 478,
+  "mode": "RGB",
+  "datetime": "2025:03:23 20:29:16",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 5048
+ },
+ "warnings": [],
+ "chars": 31,
+ "text": "Yellow:PoE/Speed Green:Lini/act",
+ "extracted_at": "2026-10-24T02:40:35Z"
+}

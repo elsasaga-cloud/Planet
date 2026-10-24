@@ -1,0 +1,133 @@
+{
+ "sha256_16": "392f03ead7106d5e",
+ "name": "PL_STAG20251224020.xls",
+ "ext": ".xls",
+ "bytes": 326144,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Packing List"
+  ],
+  "rows_total": 21
+ },
+ "warnings": [],
+ "chars": 842,
+ "text": "--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking List\nDate\t2026.01.22\nShip To\tNetaş Telekomünikasyon A.Ş.\nShipping Add.\tOrhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye\nP/O No.\t2600011146\nP/I No.\tSTAG20251224020\nP/L No.\tPL20260122001\nC/No.:\tModel\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tV.W/Kg\tMEAS/CM³\n1\tSTI-488DGGPM-2BT\tIndustrial Ethernet Switch\t3\t3\t1\t3.6\t4.2\t31\t23.5\t19\t2.7683\t0.013841\nTOTAL\t\t\t\t3\t1\t3.6\t4.2\t\t\t\t2.7683\t0.013841\nBillable Weight\tWhichever is greater between G.W/Kg and V.W/Kg\nCarton\tONE(1)\nQUANTITY\tTHREE PCS\nZhengzhou Saga Telecom Co., Ltd.\nIssued by\tAlan",
+ "sheets": {
+  "Packing List": {
+   "rows": [
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Tailored Managed Networking Solutions Provider"
+    ],
+    [
+     "Built to Last, Continuous Supply, Evolving Together"
+    ],
+    [
+     "Mob: 86 13048800964"
+    ],
+    [
+     "Web: www.sagatelecom.com.cn"
+    ],
+    [
+     "Email: a.sagatelecom@gmail.com"
+    ],
+    [
+     "Packing List"
+    ],
+    [
+     "Date",
+     "2026.01.22"
+    ],
+    [
+     "Ship To",
+     "Netaş Telekomünikasyon A.Ş."
+    ],
+    [
+     "Shipping Add.",
+     "Orhanlı Mahallesi, İrfanlı Caddesi No: 28, 34956 Orhanlı – Tuzla, Istanbul, Türkiye"
+    ],
+    [
+     "P/O No.",
+     "2600011146"
+    ],
+    [
+     "P/I No.",
+     "STAG20251224020"
+    ],
+    [
+     "P/L No.",
+     "PL20260122001"
+    ],
+    [
+     "C/No.:",
+     "Model",
+     "DESCRIPTION",
+     "QTY/CTN",
+     "QTY/PCS",
+     "CTNS",
+     "N.W/Kg",
+     "G.W/Kg",
+     "LENGTH/CM",
+     "WIDTH/CM",
+     "HEIGHT/CM",
+     "V.W/Kg",
+     "MEAS/CM³"
+    ],
+    [
+     "1",
+     "STI-488DGGPM-2BT",
+     "Industrial Ethernet Switch",
+     "3",
+     "3",
+     "1",
+     "3.6",
+     "4.2",
+     "31",
+     "23.5",
+     "19",
+     "2.7683",
+     "0.013841"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "",
+     "3",
+     "1",
+     "3.6",
+     "4.2",
+     "",
+     "",
+     "",
+     "2.7683",
+     "0.013841"
+    ],
+    [
+     "Billable Weight",
+     "Whichever is greater between G.W/Kg and V.W/Kg"
+    ],
+    [
+     "Carton",
+     "ONE(1)"
+    ],
+    [
+     "QUANTITY",
+     "THREE PCS"
+    ],
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Issued by",
+     "Alan"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:41:13Z"
+}

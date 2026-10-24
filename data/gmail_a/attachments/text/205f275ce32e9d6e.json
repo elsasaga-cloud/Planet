@@ -1,0 +1,220 @@
+{
+ "sha256_16": "205f275ce32e9d6e",
+ "name": "533-IY-003 SCM Ethical Principles Rules.docx",
+ "ext": ".docx",
+ "bytes": 37782,
+ "method": "python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "SCM Ethical Principles Rules",
+  "author": "Windows User",
+  "last_modified_by": "Yasemin  YAVUZ OZTOPRAK",
+  "created": "2021-04-27T09:40:00+00:00",
+  "modified": "2021-04-27T09:40:00+00:00",
+  "paragraphs": 39,
+  "tables": 0,
+  "embedded_images": 1,
+  "ocr_images": 0
+ },
+ "warnings": [],
+ "chars": 5716,
+ "text": "Ethical & Compliance Principles and Rules Applicable to Supply Chain Management\nNetaş is committed to perform its commercial activities with integrity and ethically and comply with laws and regulations in every country it operates. Thereunder, we also expect our suppliers to act according to the principles below on the basis of respect for human rights.\nLaws and Regulations\nWe expect our suppliers to comply with all applicable local, national and international laws and regulations in all processes during the provision of goods and services.\nElimination of Discrimination\nWe expect our suppliers not to discriminate in any manner based on race, religion, gender, nationality, age, social status, physical appearance, political view or marital status, to create equal opportunity for their employees, and to comply with the relevant local, national and international laws, regulations and legislations regarding discrimination and harassment.\nAny kind of discrimination based on the foregoing should not be tolerated in recruitment, compensation, training opportunity, promotion and retirement practices.\nFreedom of Association and Right to Collective Agreement\nOur suppliers must respect employees’ right to participate or not to participate in unions and/or to establish unions, and comply with all applicable local and national laws such as freedom of association and right to collective agreement.\nPrevention of Child Labor\nWe expect our suppliers to be sensitive about not employing children and employ persons pursuant to the age limit defined in the legal laws.\nPrevention of Forced Labor and Abuse\nWe expect our suppliers to prohibit any type of forced labor, and to comply with the relevant laws.\nWorking Hours and Wages\nWe expect our suppliers to ensure full compliance with laws, regulations and legislations related to working hours, overtime work and wages. Wages and social benefits must be compliant with legal standards or established industry criteria.\nSuppliers must give their employers their legal leave entitlements, and working hours must be compliant with the laws and regulations and should not exceed the limits.\nOccupational Health and Safety\nWe expect our suppliers to provide a healthy and safe work environment for their employees, comply with all of the relevant laws and mitigate accident risks through trainings and inspections as well as creating a safe environment.\nSuppliers must take measures to fight workplace accidents vigorously, and it is essential to ensure its compliance and monitoring at the workplace through emergency preparations, employees’ trainings on work environment-related risks and the use of proper protective equipment.\nEnvironment\nThe Supplier warrants that no substances were used in the provision of Goods or Services that are considered by applicable legislation as being harmful to humans, the environment or property.\nThe Supplier warrants that all Goods supplied have been packed and transported  in accordance with applicable legislation and/or prevailing sector agreements.\nOur suppliers must exercise due diligence for the environmental protection. It is essential for suppliers to comply with all local, national and international laws, regulations and legislations regarding the environment.\nIn addition to legal compliance, we expect our suppliers to provide necessary training to raise environmental awareness, take measures for the environmental protection, prevention of pollution, recycling and disposal of waste and protection of resources, and create a process for the purpose of monitoring compliance.\nAnti-Bribery and Anti-Corruption\nWe expect our suppliers to carry on their activities with integrity and not to engage in any behavior that may harm mutual trust in their business relationships with their stakeholders.\nOur suppliers must strictly not allow bribery or corruption involving public officials or individuals from the private sector.\nOur Suppliers  have  not,  and  will  not  at  any  time, directly or indirectly,  pay, offer, give or promise  to pay or give,  or  authorize  any  other  person  to  pay  or  give,  any money  or  any  other thing  of  value  to  any  government or private sector official, with the intent or purpose of influencing or inducing such officials to do, omit to do, delay or refrain from doing any act in violation of the lawful duty of such officials, in order to obtain or retain any business or secure any improper advantage in obtaining  or  retaining  business.\nExport Compliance\nOur suppliers shall not use real or legal persons residing in Cuba, Iran, North Korea, Syria or the Crimea region as an intermediary in the products or services they provide to Netaş.  Our suppliers shall not be involved in the supply of products or services provided to Netaş by export, re-export, transfer, borrowing or gift through a natural / legal person or region / state that has been declared a banned party by sanction laws and regulations.\nRecords\nOur suppliers must maintain transparent and up to date records to demonstrate compliance with applicable materials, services, governmental and industry regulations.\nIntellectual Property\nThe Supplier will accept any information received from Netaş or third parties under Netaş’s directive related to perform of the order/contract as confidential information and will use it solely and exclusively to fulfill its order/contractual obligations.\nWe hereby declare that we have read the above terms specified in document “Netaş Ethical & Compliance Principles and Rules Applicable to Supply Chain Management” and that we will continue our activities in accordance with these terms.\nCompany Name:\nDate:\nApproval of Company Official:\n(Stamp/Signature)",
+ "blocks": [
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Ethical & Compliance Principles and Rules Applicable to Supply Chain Management"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Netaş is committed to perform its commercial activities with integrity and ethically and comply with laws and regulations in every country it operates. Thereunder, we also expect our suppliers to act according to the principles below on the basis of respect for human rights."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Laws and Regulations"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to comply with all applicable local, national and international laws and regulations in all processes during the provision of goods and services."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Elimination of Discrimination"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers not to discriminate in any manner based on race, religion, gender, nationality, age, social status, physical appearance, political view or marital status, to create equal opportunity for their employees, and to comply with the relevant local, national and international laws, regulations and legislations regarding discrimination and harassment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Any kind of discrimination based on the foregoing should not be tolerated in recruitment, compensation, training opportunity, promotion and retirement practices."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Freedom of Association and Right to Collective Agreement"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our suppliers must respect employees’ right to participate or not to participate in unions and/or to establish unions, and comply with all applicable local and national laws such as freedom of association and right to collective agreement."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Prevention of Child Labor"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to be sensitive about not employing children and employ persons pursuant to the age limit defined in the legal laws."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Prevention of Forced Labor and Abuse"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to prohibit any type of forced labor, and to comply with the relevant laws."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Working Hours and Wages"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to ensure full compliance with laws, regulations and legislations related to working hours, overtime work and wages. Wages and social benefits must be compliant with legal standards or established industry criteria."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Suppliers must give their employers their legal leave entitlements, and working hours must be compliant with the laws and regulations and should not exceed the limits."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Occupational Health and Safety"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to provide a healthy and safe work environment for their employees, comply with all of the relevant laws and mitigate accident risks through trainings and inspections as well as creating a safe environment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Suppliers must take measures to fight workplace accidents vigorously, and it is essential to ensure its compliance and monitoring at the workplace through emergency preparations, employees’ trainings on work environment-related risks and the use of proper protective equipment."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Environment"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The Supplier warrants that no substances were used in the provision of Goods or Services that are considered by applicable legislation as being harmful to humans, the environment or property."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "The Supplier warrants that all Goods supplied have been packed and transported  in accordance with applicable legislation and/or prevailing sector agreements."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our suppliers must exercise due diligence for the environmental protection. It is essential for suppliers to comply with all local, national and international laws, regulations and legislations regarding the environment."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "In addition to legal compliance, we expect our suppliers to provide necessary training to raise environmental awareness, take measures for the environmental protection, prevention of pollution, recycling and disposal of waste and protection of resources, and create a process for the purpose of monitoring compliance."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Anti-Bribery and Anti-Corruption"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We expect our suppliers to carry on their activities with integrity and not to engage in any behavior that may harm mutual trust in their business relationships with their stakeholders."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Our suppliers must strictly not allow bribery or corruption involving public officials or individuals from the private sector."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Our Suppliers  have  not,  and  will  not  at  any  time, directly or indirectly,  pay, offer, give or promise  to pay or give,  or  authorize  any  other  person  to  pay  or  give,  any money  or  any  other thing  of  value  to  any  government or private sector official, with the intent or purpose of influencing or inducing such officials to do, omit to do, delay or refrain from doing any act in violation of the lawful duty of such officials, in order to obtain or retain any business or secure any improper advantage in obtaining  or  retaining  business."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Export Compliance"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our suppliers shall not use real or legal persons residing in Cuba, Iran, North Korea, Syria or the Crimea region as an intermediary in the products or services they provide to Netaş.  Our suppliers shall not be involved in the supply of products or services provided to Netaş by export, re-export, transfer, borrowing or gift through a natural / legal person or region / state that has been declared a banned party by sanction laws and regulations."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Records"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Our suppliers must maintain transparent and up to date records to demonstrate compliance with applicable materials, services, governmental and industry regulations."
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "Intellectual Property"
+  },
+  {
+   "t": "p",
+   "s": "List Paragraph",
+   "text": "The Supplier will accept any information received from Netaş or third parties under Netaş’s directive related to perform of the order/contract as confidential information and will use it solely and exclusively to fulfill its order/contractual obligations."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "We hereby declare that we have read the above terms specified in document “Netaş Ethical & Compliance Principles and Rules Applicable to Supply Chain Management” and that we will continue our activities in accordance with these terms."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Company Name:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Date:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Approval of Company Official:"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "(Stamp/Signature)"
+  }
+ ],
+ "extracted_at": "2026-10-24T02:48:12Z"
+}

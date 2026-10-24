@@ -1,0 +1,19 @@
+{
+ "sha256_16": "0e71b0dff1a5f3f9",
+ "name": "leader-arn-winner_a69e1248-6518-429e-a84e-8090f13408fc.jpg",
+ "ext": ".jpg",
+ "bytes": 14970,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 127,
+  "height": 167,
+  "mode": "RGB",
+  "thumb_bytes": 5769
+ },
+ "warnings": [],
+ "chars": 87,
+ "text": "LEADE3\nProudly Australian\nDISTRIBUTOR\nOF THE YEAR\n2025\n4Times Winner\nARN Channel Choice",
+ "extracted_at": "2026-10-24T02:44:12Z"
+}

@@ -1,0 +1,21 @@
+{
+ "sha256_16": "d23e8a6b87839cfe",
+ "name": "Dual AC.jpg",
+ "ext": ".jpg",
+ "bytes": 435914,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 3656,
+  "height": 1384,
+  "mode": "RGB",
+  "datetime": "2025:09:19 15:02:27",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 7160
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:42:51Z"
+}

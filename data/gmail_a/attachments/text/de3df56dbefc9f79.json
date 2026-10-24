@@ -1,0 +1,19 @@
+{
+ "sha256_16": "de3df56dbefc9f79",
+ "name": "Google Drive Folder.png",
+ "ext": ".png",
+ "bytes": 35422,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 673,
+  "height": 563,
+  "mode": "RGBA",
+  "thumb_bytes": 9149
+ },
+ "warnings": [],
+ "chars": 103,
+ "text": "Sorry you cannot share with\ninfo@gogreenit.net because they do not have\na Google Account.\nLearn more OK",
+ "extracted_at": "2026-10-24T02:43:16Z"
+}

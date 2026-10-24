@@ -1,0 +1,21 @@
+{
+ "sha256_16": "1e7de9c18fa57d35",
+ "name": "opennetworkingswitches-instockandreadytoship_ff7fc12a-4817-4d07-a115-46a11b0b4398.jpg",
+ "ext": ".jpg",
+ "bytes": 74440,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 600,
+  "height": 100,
+  "mode": "RGB",
+  "datetime": "2026:07:14 09:34:16",
+  "software": "Adobe Photoshop 27.8 (Windows)",
+  "thumb_bytes": 4612
+ },
+ "warnings": [],
+ "chars": 95,
+ "text": "Open Networking Switches =; CS\nIn Stock & Ready to Ship\n1G-400G - From our German warehouse =\ni",
+ "extracted_at": "2026-10-24T02:39:41Z"
+}

@@ -1,0 +1,20 @@
+{
+ "sha256_16": "9da1c1d5333f495c",
+ "name": "Marvell Series.jpg",
+ "ext": ".jpg",
+ "bytes": 588980,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 4433,
+  "height": 3260,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 17990
+ },
+ "warnings": [],
+ "chars": 477,
+ "text": "‘Yellow: PoE/Speed Groon:Link/act\nConsole\ne =\ni a\nai v2 a3 vs i\nMYalowiPoErepeed Groen:Lnk/act Yollow:Pe/Spe0d Groen: Link/act\n= |\n— Console 2 2 Console\n2 |\n9 | | RsT\naa 6 瑟\n26 x 28 Console\n字 Y v\nsys\ni pwR\n[Reset\n下 COEDS\nSed Coe\n還 |\n>\n4\n>\n|\n>\n>\n>\n©\nS\n8\nRel\nRe\nRe\nYellow-Speed Greentink/act\nHN) Console\n8\nL_ pwr\nUsB\nay av ay ay av av av av ay av av av av av av av\n1 2 3 4 5 6 7 8 910 1112 1314 1516 1718 1920 2122 2324 2526 2728 2930 3132\nConsole sys\n| | Reset\nNR\nPw\nConsole\nSvs",
+ "extracted_at": "2026-10-24T02:40:10Z"
+}

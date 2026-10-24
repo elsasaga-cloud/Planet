@@ -1,0 +1,13 @@
+{
+ "sha256_16": "0c26f43cf8346447",
+ "name": "Network products from Juniper.txt",
+ "ext": ".txt",
+ "bytes": 547,
+ "method": "text",
+ "status": "ok",
+ "meta": {},
+ "warnings": [],
+ "chars": 547,
+ "text": "1\r\nITEMS\t\t\t\t\tNotes\t\t\t\tQuantity \r\nQFX5200-32C-AFO\t\t\t\t\t\t\t4\r\nMX204-HW-BASE\t\t\t\t\t\t\t2\r\nS-MX-4C-A1-C1-P\t\t\t\t\t\t\t2\r\nQSFP-100G-ER4\t\t\t3rd \t\t\t\t\t12\r\nJNP-QSFP-100G-LR4\t\t\t\t\t\t\t3\r\nQSFP-100G-SR4\t\t\t\t\t\t\t\t4\r\nJNP-100G-DAC-1M\t\t\t\t\t\t\t4\r\nJNP-100G-DAC-3M\t\t\t\t\t\t\t2\r\nQFX5200-PWR-AC\t\t\t\t\t\t\t8\r\nMX204-PWR-AC\t\t\t\t\t\t\t\t4\r\nCAB-AC-EU\t\t\t\t\t\t\t\t\t14\r\nQFX5200-FAN\t\t\t\t\t\t\t\t8\r\nMX204-FAN\t\t\t\t\t\t\t\t\t2\r\nRACK-KIT-QFX\t\t\t\t\t\t\t\t4\r\nRACK-KIT-MX\t\t\t\t\t\t\t\t2\r\nCONSOLE-CABLE\t\t\t\t\t\t\t4\r\nQSFP-CLEAN-KIT\tNot 100% confirmed available - TBC\t\t\t\t\t\t1\r\nQFX5200-PWR-AC\t\t\t\t\t\t\t1\r\nMX204-PWR-AC\t\t\t\t\t\t\t\t1\r\n20 QSFP-100G-LR4\t\t\t\t\t\t\t1\r\n",
+ "extracted_at": "2026-10-24T02:44:59Z"
+}

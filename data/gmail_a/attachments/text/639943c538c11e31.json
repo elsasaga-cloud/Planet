@@ -1,0 +1,20 @@
+{
+ "sha256_16": "639943c538c11e31",
+ "name": "IMG_5366.JPG",
+ "ext": ".jpg",
+ "bytes": 67537,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 986,
+  "height": 531,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 7434
+ },
+ "warnings": [],
+ "chars": 134,
+ "text": "Given IP Address\nSystem Information\nGiven Information\n品 se 本 ww po Pow lle Bison ile\nMemory\nBoog 8000 8000\n0809 9909 Geee EE 品\nTraffic",
+ "extracted_at": "2026-10-24T02:46:30Z"
+}

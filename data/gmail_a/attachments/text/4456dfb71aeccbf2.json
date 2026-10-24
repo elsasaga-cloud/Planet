@@ -1,0 +1,76 @@
+{
+ "sha256_16": "4456dfb71aeccbf2",
+ "name": "Bank-information-template.xlsx",
+ "ext": ".xlsx",
+ "bytes": 23445,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 1,
+  "rows_total": 13
+ },
+ "warnings": [],
+ "chars": 361,
+ "text": "--- Sheet: Sheet1 ---\nSUPPLIER NAME (as registered officially)\nBANK NAME (official name, as registered to authorities)\nBRANCH\nBANK ADDRESS\tStreet Address 1\tStreet Address 2\tCity/Town\tState\tCountry\tZIP Code\nTRANSACTION CURRENCY\nSWIFT/BIC CODE\nACCOUNT NUMBER\nSORT CODE\nIBAN NUMBER\nABA ROUTING NUMBER\nEFT/ACH ROUTING NUMBER\nFILLED BY\nName\tPosition\t\tDate\t\tSignature",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "SUPPLIER NAME (as registered officially)"
+    ],
+    [
+     "BANK NAME (official name, as registered to authorities)"
+    ],
+    [
+     "BRANCH"
+    ],
+    [
+     "BANK ADDRESS",
+     "Street Address 1",
+     "Street Address 2",
+     "City/Town",
+     "State",
+     "Country",
+     "ZIP Code"
+    ],
+    [
+     "TRANSACTION CURRENCY"
+    ],
+    [
+     "SWIFT/BIC CODE"
+    ],
+    [
+     "ACCOUNT NUMBER"
+    ],
+    [
+     "SORT CODE"
+    ],
+    [
+     "IBAN NUMBER"
+    ],
+    [
+     "ABA ROUTING NUMBER"
+    ],
+    [
+     "EFT/ACH ROUTING NUMBER"
+    ],
+    [
+     "FILLED BY"
+    ],
+    [
+     "Name",
+     "Position",
+     "",
+     "Date",
+     "",
+     "Signature"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:48:11Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "bb3885ed8891b69a",
+ "name": "24 port.png",
+ "ext": ".png",
+ "bytes": 261078,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 1263,
+  "height": 368,
+  "mode": "RGBA",
+  "thumb_bytes": 4180
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:39:45Z"
+}

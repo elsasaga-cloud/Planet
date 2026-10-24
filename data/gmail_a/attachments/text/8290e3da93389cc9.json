@@ -1,0 +1,19 @@
+{
+ "sha256_16": "8290e3da93389cc9",
+ "name": "1XRJ45.png",
+ "ext": ".png",
+ "bytes": 374604,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 800,
+  "height": 800,
+  "mode": "RGB",
+  "thumb_bytes": 9810
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:48:39Z"
+}

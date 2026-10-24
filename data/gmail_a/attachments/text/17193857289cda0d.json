@@ -1,0 +1,20 @@
+{
+ "sha256_16": "17193857289cda0d",
+ "name": "52光.jpg",
+ "ext": ".jpg",
+ "bytes": 337083,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "JPEG",
+  "width": 4978,
+  "height": 1243,
+  "mode": "RGB",
+  "software": "Google",
+  "thumb_bytes": 4702
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:46:59Z"
+}

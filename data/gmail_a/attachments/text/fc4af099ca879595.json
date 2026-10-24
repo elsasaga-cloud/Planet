@@ -1,0 +1,21 @@
+{
+ "sha256_16": "fc4af099ca879595",
+ "name": "Marvell.jpg",
+ "ext": ".jpg",
+ "bytes": 217205,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1501,
+  "height": 859,
+  "mode": "RGB",
+  "datetime": "2025:11:03 11:37:50",
+  "software": "Adobe Photoshop CS6 (Windows)",
+  "thumb_bytes": 14225
+ },
+ "warnings": [],
+ "chars": 267,
+ "text": "TAILORED MARVELL\n| NETWORKING\n| SOLUTIONS\n—@ Industrial loT (ilOT)\n1 | —@ Smart Grid & Energy Management\neaacacea\nLEE E ris pe)\nf\nIndustrial Automation &\n5 Remote Control Systems\nSmart City Infrastructure\nSurveillance & Security Systems\nSMB& Enterprise-Level Networks",
+ "extracted_at": "2026-10-24T02:40:35Z"
+}

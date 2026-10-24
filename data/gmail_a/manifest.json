@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "account": "a",
+  "own_emails": [
+   "a.sagatelecom@gmail.com"
+  ],
+  "created": "2026-10-24T02:22:16Z",
+  "release_tag": "gmail-a-20261024"
+ },
+ "sources": [
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox",
+   "bytes": 13371933112,
+   "sha256": "bbd4816362fa85d9c35843a3996f99ce7326a5c5b3c28e6420dce1eec64e2813"
+  }
+ ],
+ "progress": {
+  "id": 1,
+  "files": [
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+  ],
+  "started": "2026-10-24T02:28:09Z",
+  "offset": 9233086774,
+  "messages": 14270,
+  "done": false,
+  "entries": 1,
+  "entry_names": [
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+  ],
+  "total_bytes": 13371933112,
+  "starts_with_separator": true
+ },
+ "shards": {
+  "messages/2026/2026-10.jsonl": 330413,
+  "messages/2026/2026-09.jsonl": 1079715,
+  "messages/2026/2026-06.jsonl": 1153006,
+  "messages/2026/2026-05.jsonl": 1264494,
+  "messages/2026/2026-04.jsonl": 1025031,
+  "messages/2026/2026-08.jsonl": 1014676,
+  "messages/2026/2026-07.jsonl": 1152407,
+  "messages/2026/2026-03.jsonl": 1721938,
+  "messages/2026/2026-01.jsonl": 2588146,
+  "messages/2026/2026-02.jsonl": 1465435,
+  "messages/2025/2025-12.jsonl": 2385039,
+  "messages/2025/2025-11.jsonl": 1468895,
+  "messages/2025/2025-10.jsonl": 1743246,
+  "messages/2025/2025-09.jsonl": 1484340,
+  "messages/2025/2025-08.jsonl": 394650,
+  "messages/2025/2025-06.jsonl": 24140,
+  "messages/2025/2025-07.jsonl": 154470,
+  "messages/2025/2025-04.jsonl": 3690,
+  "messages/2025/2025-03.jsonl": 3691,
+  "messages/2025/2025-05.jsonl": 5882
+ },
+ "backup": {
+  "All_mail_Including_Spam_and_Trash-002_1_.mbox": {
+   "done": true,
+   "at": "2026-10-24T02:37:08Z",
+   "bytes": 13371933112,
+   "sha256": "bbd4816362fa85d9c35843a3996f99ce7326a5c5b3c28e6420dce1eec64e2813",
+   "release": "gmail-a-20261024",
+   "parts": [
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+     "bytes": 1932735283,
+     "sha256": "c93d27789dd549df79fc584c66b4f36ab8a6b326db9e92389c2fb9ef45627686",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+     "bytes": 1932735283,
+     "sha256": "de220dd3ec80f24241339ec814b296a13dbcae587e26c7caae00e64981893058",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+     "bytes": 1932735283,
+     "sha256": "db33b230a0fec758fee7ffeaceb6a291f34eb6237242887cfab27c5eba0fd12c",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+     "bytes": 1932735283,
+     "sha256": "c05b4f4693fc49fbfc28d41dd22a7890efcc6ddef945263ae10a59b67a281414",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+     "bytes": 1932735283,
+     "sha256": "4304073a7eb3768ead55fb7cf46e86d4ab3391344657de57f501be6760c56035",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+     "bytes": 1932735283,
+     "sha256": "3285c18e91b689022bc5791855265b6b4715ba10cce563d65643b5157a60dfdc",
+     "ok": true
+    },
+    {
+     "asset": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07",
+     "bytes": 1775521414,
+     "sha256": "75b037ae0bf72c8fb0ddfbd50b2d9d1085fd01901926c303d8b2ebf09eca413e",
+     "ok": true
+    }
+   ]
+  }
+ },
+ "runs": [
+  {
+   "started": "2026-10-24T02:22:16Z",
+   "limit": 0,
+   "bulk_mode": "full",
+   "attach": true,
+   "ocr": true,
+   "more_batches": false
+  }
+ ],
+ "status": "partial",
+ "batches": [
+  {
+   "id": 1,
+   "files": [
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+   ],
+   "started": "2026-10-24T02:28:09Z",
+   "offset": 9233086774,
+   "messages": 14270,
+   "done": false,
+   "entries": 1,
+   "entry_names": [
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+   ],
+   "total_bytes": 13371933112,
+   "starts_with_separator": true
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "d6cc05ec4a76677d",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 13832,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 413,
+  "height": 45,
+  "mode": "RGBA",
+  "thumb_bytes": 2893
+ },
+ "warnings": [],
+ "chars": 20,
+ "text": "Corporate Compliance",
+ "extracted_at": "2026-10-24T02:40:21Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "eeaf408cbbc196a2",
+ "name": "16 port PoE.png",
+ "ext": ".png",
+ "bytes": 368507,
+ "method": "pillow+tesseract",
+ "status": "meta",
+ "meta": {
+  "format": "PNG",
+  "width": 481,
+  "height": 800,
+  "mode": "RGBA",
+  "thumb_bytes": 11219
+ },
+ "warnings": [],
+ "chars": 0,
+ "text": "",
+ "extracted_at": "2026-10-24T02:39:42Z"
+}

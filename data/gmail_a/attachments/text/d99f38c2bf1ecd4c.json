@@ -1,0 +1,464 @@
+{
+ "sha256_16": "d99f38c2bf1ecd4c",
+ "name": "Switch 8 x Gig + 2x SFP RFP.xlsx",
+ "ext": ".xlsx",
+ "bytes": 13167,
+ "method": "openpyxl(values)",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Sheet1"
+  ],
+  "embedded_images": 0,
+  "rows_total": 87
+ },
+ "warnings": [],
+ "chars": 3002,
+ "text": "--- Sheet: Sheet1 ---\n\tSpecifications\t\tCompliance\t\tRemarks\n\tModel\t\tYes\tNo\n\tChipset  Model & Part Code\t?\n\tFixed ports\t8*10/100/1000M RJ45 ports, 2*1G/2.5G/10G SFP+ slots\n\tSwitching capacity\t56Gbps\n\tPacket forwarding rate\t41.66Mpps\n\tConsole port\t1\n\tFlash\t512M\n\tRAM\t512M\n\tMAC address table\t16K\n\tJumbo Frame\t10K\n\tBuffer Size\t12M bit\n\tTotal output BTU (1000BTU/H=293W)\t460\n\tNoise@25°C(dBA)\tFan less\n\tMTBF(H)\t＞200,000\n\tFAN\tFan less, natural heat dissipation\n\tDimension (WxDxH)mm\t?\n\tWeight (KG)\t1 - 2 kg\n\tPower Supply\tDC: -32V~-78V\n\tPower Consumption No-Load\t≤10W\n\tPower Consumption Full-Load\t≤135W\n\tPOE Power Budget\t≤120W\n\tPOE (IEEE802.3af)/POE+ (IEEE802.3at)\tSupport\n\tOperating & Storage temperature\t0℃~50℃ & -20℃~75℃\n\tWorking & Storage relative humidity\t10%~90% & 5%~95%\n\tForwarding mode\tStore-forward\n\tPort aggregation\t10GE port aggregation\n\t\t2.5GE aggregation\n\t\tStatic aggregation Dynamic aggregation\n\tPort features\tIEEE802.3x flow control Interface counters\n\t\tPort isolation Storm control\n\t\tNetwork storm suppression based on port bandwidth percentage\n\tMac-address table management\tStatic Mac-address management\n\t\tDynamic Mac-address Management\n\t\tFiltering Mac-address\n\t\tMAC limit based on port and VLAN MAC flapping based on port and VLAN\n\tVLAN\t4K, Access, trunk and hybrid mode\n\tVLAN Classification\tMac Based VLAN IP Based VLAN\n\t\tProtocol Based VLAN\n\tGVRP\tNormal mode Fixed mode\n\t\tForbidden mode\n\tQinQ\tPort-based QinQ VLAN-based QinQ\n\t\tFlow-based QinQ\n\tLLDP\tLLDP (Link Layer Discovery Protocol)\n\tPort mirroring\tMany to one (Port Mirroring)\n\tLayer 2 ring network protocol\tSTP RSTP\n\t\tMSTP\n\tG.8032\tG.8032 ERPS protocol，single ring, sub-Ring and major ring\n\t\tRecovery time ≤20ms\n\tLoop Detect\tDetect based on ports\n\t\tDetect based on ports and VLAN\n\tMulticast\tIGMP snooping\n\t\tIGMP V1, V2, V3\n\tIP\tIPv4 Static Route\n\t\tARP Table Aging\n\tIPv6\tIPv6 Management IPv6 static routing\n\t\tICMPv6 and IPv6 Telnet IPv6 neighbour discovery Path MTU discovery\n\tDHCP\tDHCP Server DHCP client\n\t\tDHCP snooping trust port\n\t\tRemote-id/circuit-id configuration\n\t\tDHCP option-82\n\tACL\tIP Standard ACL MAC extend ACL\n\t\tIP extend ACL IPv6 ACL\n\tQoS\tQoS Class, remarking\n\t\tSP, WRR queue scheduling Ingress port-based rate-limit Egress port-based rate-limit\n\t\tPolicy-based QoS\n\tSecurity\tPort      Security,      Dot1x,      port      authentication,      MAC\n\t\tauthentication,   RADIUS,   TAKACS,   ARP   Source   Guard,   IP Port/MAC  binding,  ARP-check  and  ARP  packet  filtering  for Unauthorised Users.\n\tCentralized Managed\tManagement System is built for scale. Whether you're managing a few switches or a vast multi-site infrastructure, you can do it all from a single, centralized dashboard. Seamlessly integrate with the network\n\tManagement and maintenance\tUser management and login authentication\n\t\tConsole\n\t\tTelnet\n\t\tSSH\n\t\tWeb management, HTTP, HTTPS\n\t\tSNMPV1/V2C/V3\n\t\tSyslog and alarm grading\n\t\tRMON\n\t\tNTP\n\t\tSlow\n\t\tTemperature monitoring\n\t\tPing, Tracer\n\t\tCable detection\n\t\tDDM\n\t\tTFTP\n\t\tDual partition management\n\tMOQ\n\tPRICING",
+ "sheets": {
+  "Sheet1": {
+   "state": "visible",
+   "rows": [
+    [
+     "",
+     "Specifications",
+     "",
+     "Compliance",
+     "",
+     "Remarks"
+    ],
+    [
+     "",
+     "Model",
+     "",
+     "Yes",
+     "No"
+    ],
+    [
+     "",
+     "Chipset  Model & Part Code",
+     "?"
+    ],
+    [
+     "",
+     "Fixed ports",
+     "8*10/100/1000M RJ45 ports, 2*1G/2.5G/10G SFP+ slots"
+    ],
+    [
+     "",
+     "Switching capacity",
+     "56Gbps"
+    ],
+    [
+     "",
+     "Packet forwarding rate",
+     "41.66Mpps"
+    ],
+    [
+     "",
+     "Console port",
+     "1"
+    ],
+    [
+     "",
+     "Flash",
+     "512M"
+    ],
+    [
+     "",
+     "RAM",
+     "512M"
+    ],
+    [
+     "",
+     "MAC address table",
+     "16K"
+    ],
+    [
+     "",
+     "Jumbo Frame",
+     "10K"
+    ],
+    [
+     "",
+     "Buffer Size",
+     "12M bit"
+    ],
+    [
+     "",
+     "Total output BTU (1000BTU/H=293W)",
+     "460"
+    ],
+    [
+     "",
+     "Noise@25°C(dBA)",
+     "Fan less"
+    ],
+    [
+     "",
+     "MTBF(H)",
+     "＞200,000"
+    ],
+    [
+     "",
+     "FAN",
+     "Fan less, natural heat dissipation"
+    ],
+    [
+     "",
+     "Dimension (WxDxH)mm",
+     "?"
+    ],
+    [
+     "",
+     "Weight (KG)",
+     "1 - 2 kg"
+    ],
+    [
+     "",
+     "Power Supply",
+     "DC: -32V~-78V"
+    ],
+    [
+     "",
+     "Power Consumption No-Load",
+     "≤10W"
+    ],
+    [
+     "",
+     "Power Consumption Full-Load",
+     "≤135W"
+    ],
+    [
+     "",
+     "POE Power Budget",
+     "≤120W"
+    ],
+    [
+     "",
+     "POE (IEEE802.3af)/POE+ (IEEE802.3at)",
+     "Support"
+    ],
+    [
+     "",
+     "Operating & Storage temperature",
+     "0℃~50℃ & -20℃~75℃"
+    ],
+    [
+     "",
+     "Working & Storage relative humidity",
+     "10%~90% & 5%~95%"
+    ],
+    [
+     "",
+     "Forwarding mode",
+     "Store-forward"
+    ],
+    [
+     "",
+     "Port aggregation",
+     "10GE port aggregation"
+    ],
+    [
+     "",
+     "",
+     "2.5GE aggregation"
+    ],
+    [
+     "",
+     "",
+     "Static aggregation Dynamic aggregation"
+    ],
+    [
+     "",
+     "Port features",
+     "IEEE802.3x flow control Interface counters"
+    ],
+    [
+     "",
+     "",
+     "Port isolation Storm control"
+    ],
+    [
+     "",
+     "",
+     "Network storm suppression based on port bandwidth percentage"
+    ],
+    [
+     "",
+     "Mac-address table management",
+     "Static Mac-address management"
+    ],
+    [
+     "",
+     "",
+     "Dynamic Mac-address Management"
+    ],
+    [
+     "",
+     "",
+     "Filtering Mac-address"
+    ],
+    [
+     "",
+     "",
+     "MAC limit based on port and VLAN MAC flapping based on port and VLAN"
+    ],
+    [
+     "",
+     "VLAN",
+     "4K, Access, trunk and hybrid mode"
+    ],
+    [
+     "",
+     "VLAN Classification",
+     "Mac Based VLAN IP Based VLAN"
+    ],
+    [
+     "",
+     "",
+     "Protocol Based VLAN"
+    ],
+    [
+     "",
+     "GVRP",
+     "Normal mode Fixed mode"
+    ],
+    [
+     "",
+     "",
+     "Forbidden mode"
+    ],
+    [
+     "",
+     "QinQ",
+     "Port-based QinQ VLAN-based QinQ"
+    ],
+    [
+     "",
+     "",
+     "Flow-based QinQ"
+    ],
+    [
+     "",
+     "LLDP",
+     "LLDP (Link Layer Discovery Protocol)"
+    ],
+    [
+     "",
+     "Port mirroring",
+     "Many to one (Port Mirroring)"
+    ],
+    [
+     "",
+     "Layer 2 ring network protocol",
+     "STP RSTP"
+    ],
+    [
+     "",
+     "",
+     "MSTP"
+    ],
+    [
+     "",
+     "G.8032",
+     "G.8032 ERPS protocol，single ring, sub-Ring and major ring"
+    ],
+    [
+     "",
+     "",
+     "Recovery time ≤20ms"
+    ],
+    [
+     "",
+     "Loop Detect",
+     "Detect based on ports"
+    ],
+    [
+     "",
+     "",
+     "Detect based on ports and VLAN"
+    ],
+    [
+     "",
+     "Multicast",
+     "IGMP snooping"
+    ],
+    [
+     "",
+     "",
+     "IGMP V1, V2, V3"
+    ],
+    [
+     "",
+     "IP",
+     "IPv4 Static Route"
+    ],
+    [
+     "",
+     "",
+     "ARP Table Aging"
+    ],
+    [
+     "",
+     "IPv6",
+     "IPv6 Management IPv6 static routing"
+    ],
+    [
+     "",
+     "",
+     "ICMPv6 and IPv6 Telnet IPv6 neighbour discovery Path MTU discovery"
+    ],
+    [
+     "",
+     "DHCP",
+     "DHCP Server DHCP client"
+    ],
+    [
+     "",
+     "",
+     "DHCP snooping trust port"
+    ],
+    [
+     "",
+     "",
+     "Remote-id/circuit-id configuration"
+    ],
+    [
+     "",
+     "",
+     "DHCP option-82"
+    ],
+    [
+     "",
+     "ACL",
+     "IP Standard ACL MAC extend ACL"
+    ],
+    [
+     "",
+     "",
+     "IP extend ACL IPv6 ACL"
+    ],
+    [
+     "",
+     "QoS",
+     "QoS Class, remarking"
+    ],
+    [
+     "",
+     "",
+     "SP, WRR queue scheduling Ingress port-based rate-limit Egress port-based rate-limit"
+    ],
+    [
+     "",
+     "",
+     "Policy-based QoS"
+    ],
+    [
+     "",
+     "Security",
+     "Port      Security,      Dot1x,      port      authentication,      MAC"
+    ],
+    [
+     "",
+     "",
+     "authentication,   RADIUS,   TAKACS,   ARP   Source   Guard,   IP Port/MAC  binding,  ARP-check  and  ARP  packet  filtering  for Unauthorised Users."
+    ],
+    [
+     "",
+     "Centralized Managed",
+     "Management System is built for scale. Whether you're managing a few switches or a vast multi-site infrastructure, you can do it all from a single, centralized dashboard. Seamlessly integrate with the network"
+    ],
+    [
+     "",
+     "Management and maintenance",
+     "User management and login authentication"
+    ],
+    [
+     "",
+     "",
+     "Console"
+    ],
+    [
+     "",
+     "",
+     "Telnet"
+    ],
+    [
+     "",
+     "",
+     "SSH"
+    ],
+    [
+     "",
+     "",
+     "Web management, HTTP, HTTPS"
+    ],
+    [
+     "",
+     "",
+     "SNMPV1/V2C/V3"
+    ],
+    [
+     "",
+     "",
+     "Syslog and alarm grading"
+    ],
+    [
+     "",
+     "",
+     "RMON"
+    ],
+    [
+     "",
+     "",
+     "NTP"
+    ],
+    [
+     "",
+     "",
+     "Slow"
+    ],
+    [
+     "",
+     "",
+     "Temperature monitoring"
+    ],
+    [
+     "",
+     "",
+     "Ping, Tracer"
+    ],
+    [
+     "",
+     "",
+     "Cable detection"
+    ],
+    [
+     "",
+     "",
+     "DDM"
+    ],
+    [
+     "",
+     "",
+     "TFTP"
+    ],
+    [
+     "",
+     "",
+     "Dual partition management"
+    ],
+    [
+     "",
+     "MOQ"
+    ],
+    [
+     "",
+     "PRICING"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:40:35Z"
+}
