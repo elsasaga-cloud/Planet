@@ -290,25 +290,20 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：Re: industrial PoE for municipal / school sites
 
 ```text
-Hi Yoav,
+Yoav,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.
+You once mentioned roughly 150 industrial PoE units a year for municipal and school sites. One question only: is that requirement still live, and which spec did it settle on (8-port or 16-port, 1G or 2.5G uplinks)?
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as your （询价） IM-FS480GW（用户表型号） at a lower landed cost, and we can ship it with neutral packaging. Current price: $188.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) lists at USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan Yan
+Saga Telecom
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -1404,7 +1404,10 @@
 "proof_gaps": [
 "成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -7262,7 +7265,10 @@
 "proof_gaps": [
 "「100 台工业 FS 询盘」出处未见"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 2×SFP + 8×GE endüstriyel switch — 100 adetlik talep",
+"body": "Merhaba,\n\nDaha önce konuştuğumuz 100 adetlik endüstriyel fiber switch (2× SFP + 8× GE) talebi hâlâ açık mı?\n\nIM-FS280GW yerine önerimiz STI-288DGGPM: Marvell AC5, L2+ yönetilebilir, -40~75°C, 240 W PoE bütçesi (PoE'siz sürüm de var). Liste fiyatı USD 137.5 EXW (2026-10-17 anlık fiyat, 15 gün geçerli); 100 adette ayrıca konuşuruz.\n\nTek sorum: diğer tedarikçi hangi spesifikasyon/fiyatla kazandı? Bilirsek boşuna yazmayız.\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -11407,7 +11413,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -15464,7 +15473,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -16782,7 +16794,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -22821,7 +22836,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -23944,7 +23962,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: RF-GP2803PGM — a like-for-like Marvell unit, priced",
+"body": "Tomasz,\n\nOne line, since none of my earlier mails got a reply: your RF-GP2803PGM (8× GbE PoE + 2× SFP, industrial, managed) maps 1:1 to our STI-288DGGPM — Marvell AC5, L2+, -40~75°C, 240 W PoE budget, DIN-rail.\n\nList is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days); your own label and web UI are possible from small lots.\n\nOnly question: what landed cost and lead time does N-Net give you today? If we cannot beat both, I will stop writing.\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -27513,7 +27534,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -50961,7 +50985,10 @@
 "proof_gaps": [
 "「150 台/年」出处未见"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: industrial PoE for municipal / school sites",
+"body": "Yoav,\n\nYou once mentioned roughly 150 industrial PoE units a year for municipal and school sites. One question only: is that requirement still live, and which spec did it settle on (8-port or 16-port, 1G or 2.5G uplinks)?\n\nFor reference our 8× GbE PoE + 2× SFP industrial managed unit (STI-288DGGPM, Marvell AC5, -40~75°C) lists at USD 137.5 EXW (snapshot 2026-10-17, valid 15 days). A paid evaluation unit ships in 4–7 working days.\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -71988,7 +72015,10 @@
 "LinkedIn/WeChat 侧对话不在邮件里（Simon U28）",
 "UL PSU 承诺的后续"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -89727,7 +89757,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -98750,7 +98783,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -101676,7 +101712,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -106712,7 +106751,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir endüstriyel switch'i 1 adet numune olarak 105 USD'ye (fuar fiyatı) gönderebilirim, bypass'lı sürüm ayrı fiyatlandırılır; numune için Ankara adresi ve PayPal/havale tercihinizi yazar mısınız?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -108475,7 +108517,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+},
 "as_of": "2026-10-24"
 }
 },
@@ -113759,7 +113804,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m) or over single-mode fibre (up to 20 km)? I will quote the matching extender plus a $23.4 gigabit media converter if fibre."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -152162,7 +152210,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -155875,7 +155926,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch liste fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -166676,7 +166730,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Mehmet Bey, yapısal kablolama projelerinizin BOM'una ekleyebileceğiniz 8 port PoE+ + 2 SFP L2+ yönetilebilir switch EXW 80,7 USD, 24 port 280 W sürümü 134,5 USD; ilk projede kaç kabin var, kabin başına teklif hazırlayayım mı?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -169204,7 +169261,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -174608,7 +174668,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch liste fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -179926,7 +179989,10 @@
 "实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）",
 "Elsa 回复正文未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: your test-sample request — capacities priced",
+"body": "Vadim,\n\nThree CENTEC SKUs are priced today, all EXW (2026 Q2 list): 32× 100G USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. 10G models are quoted per project.\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -204072,7 +204138,7 @@
 "when": "2026-11",
 "channel": "S 邮箱 → hassancheema@litech.com.pk",
 "action": "一封",
-"one_question": ""
+"one_question": "Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?"
 },
 "facts": [
 {
@@ -204085,7 +204151,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: RFQ — access / aggregation switches (March 2024)",
+"body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nIf the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -215537,7 +215606,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -243049,7 +243121,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 145,7 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -246151,7 +246226,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -252340,7 +252418,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Василий, вы уже работаете с продукцией HRUI — наша линейка STC это те же платформы: 2 SFP + 8 PoE управляемый 62,2 USD, неуправляемый 30,8 USD, 24 PoE 93,5 USD EXW. Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -253503,7 +253584,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -284735,7 +284819,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -310330,7 +310417,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -314693,11 +314783,14 @@
 "when": "2026-11",
 "channel": "A 邮箱 → commerciale@eter.it",
 "action": "按其指引改发",
-"one_question": ""
+"one_question": "Do your biometric readers get PoE from the installer, or do you supply the switch as well?"
 },
 "facts": [],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Switch industriali per sistemi biometrici — breve presentazione",
+"body": "Buongiorno,\n\nscrivo a commerciale@ come indicato dalla vostra risposta automatica.\n\nSaga Telecom produce switch industriali gestiti su chip Marvell (8× GbE PoE + 2× SFP, -40~75°C, DIN) per installazioni di controllo accessi e biometria; etichetta neutra o vostra. Listino: USD 137.5 EXW (snapshot 2026-10-17, valido 15 giorni).\n\nUna sola domanda: i vostri lettori biometrici vengono alimentati in PoE dall'installatore, o fornite voi anche lo switch?\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -314902,7 +314995,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -316423,7 +316519,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -320187,7 +320286,10 @@
 "公司实体未核",
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: 48-port PoE — rear-facing ports",
+"body": "Michael,\n\nShort answer to your June question: none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -343585,11 +343687,14 @@
 "when": "2026-11",
 "channel": "A 邮箱 → sales@dmsimfg.com",
 "action": "换人",
-"one_question": ""
+"one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
 },
 "facts": [],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "For Randy Harris — 100G / 25G data-center switches, priced",
+"body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -362358,7 +362463,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -362884,7 +362992,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -366840,7 +366951,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -375433,7 +375547,7 @@
 "when": "2026-11",
 "channel": "A 邮箱",
 "action": "补价",
-"one_question": ""
+"one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
 },
 "facts": [
 {
@@ -375454,7 +375568,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: OEM Core Switching Solution — bypass pricing follow-up",
+"body": "Jinsoo-nim,\n\nIn February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:\n\n1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).\n2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -375939,11 +376056,14 @@
 "when": "2026-12",
 "channel": "A 邮箱 → ion@symanitron.ru",
 "action": "换人",
-"one_question": ""
+"one_question": "Do you consider third-party platforms for your line, or build everything in-house?"
 },
 "facts": [],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Промышленные управляемые коммутаторы Marvell — для Symanitron",
+"body": "Здравствуйте,\n\nПишу на этот адрес, так как прежние письма возвращались автоответами об отпуске.\n\nSaga Telecom поставляет промышленные управляемые коммутаторы на чипах Marvell AC5 (8× GbE PoE + 2× SFP, -40~75°C, DIN, L2+) под нейтральной или вашей маркой. Прайс: USD 137.5 EXW (снимок 2026-10-17, действителен 15 дней).\n\nОдин вопрос: вы рассматриваете сторонние платформы для своей линейки, или производите всё сами?\n\nAlan Yan\nSaga Telecom"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -408767,7 +408887,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -422650,7 +422773,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -423978,7 +424104,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -424671,7 +424800,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -425352,7 +425484,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -425574,7 +425709,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -428692,7 +428830,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -428916,7 +429057,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 145,7 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -452535,7 +452679,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -510746,7 +510893,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库；无邮件"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?"
+},
 "as_of": "2026-10-24"
 }
 }

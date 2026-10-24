@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-02 → 2025-10-28）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Do you resell switches alongside your DC hardware, or only source them for your own builds?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → sales@dmsimfg.com 换人
 
@@ -49,6 +49,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
   - 做不了 / 要先核的：新联系人
 - **下一步（具体）**：2026-11　A 邮箱 → sales@dmsimfg.com　换人
+  - 第一问（只问一个）：Do you resell switches alongside your DC hardware, or only source them for your own builds?
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -262,25 +263,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：For Randy Harris — 100G / 25G data-center switches, priced
 
 ```text
-Hi Randy,
+Hello DMSI team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?
+Earlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Three data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: do you resell switches alongside your DC hardware, or only source them for your own builds?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan Yan
+Saga Telecom
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

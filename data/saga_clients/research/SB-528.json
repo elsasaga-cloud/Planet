@@ -113,11 +113,14 @@
       "when": "2026-11",
       "channel": "A 邮箱 → sales@dmsimfg.com",
       "action": "换人",
-      "one_question": ""
+      "one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
     },
     "facts": [],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "For Randy Harris — 100G / 25G data-center switches, priced",
+      "body": "Hello DMSI team,\n\nEarlier mails went to a mailbox that now auto-replies as retired, so this is addressed to sales@ for Randy Harris (Data Center & Broadband Sales).\n\nThree data-center SKUs are priced today, all EXW (2026 Q2 list): 32× 100G QSFP28 USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. CENTEC silicon, SONiC-ready on request, neutral or your label.\n\nOne question: do you resell switches alongside your DC hardware, or only source them for your own builds?\n\nAlan Yan\nSaga Telecom"
+    },
     "as_of": "2026-10-24"
   }
 }

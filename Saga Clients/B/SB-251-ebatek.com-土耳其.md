@@ -222,25 +222,13 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi S.Coskun,
-
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

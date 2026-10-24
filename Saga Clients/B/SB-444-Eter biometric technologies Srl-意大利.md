@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-05-29 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → commerciale@eter.it 按其指引改发
 
@@ -48,6 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → commerciale@eter.it　按其指引改发
+  - 第一问（只问一个）：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -260,21 +261,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Switch industriali per sistemi biometrici — breve presentazione
 
 ```text
-Hi Andrea,
+Buongiorno,
 
-Picking up our earlier exchange about PoE / industrial switches. Andrea, following our note on the bypass wiring: we can supply an industrial managed PoE switch with hardware bypass (4 SFP + 8 GT PoE, −40~75 °C) and standard 8-PoE + 2 SFP managed units for access-control and fire-detection networks from single units, CE/RoHS, EXW USD — shall I send the bypass wiring diagram and a quotation for one evaluation unit?
+scrivo a commerciale@ come indicato dalla vostra risposta automatica.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+Saga Telecom produce switch industriali gestiti su chip Marvell (8× GbE PoE + 2× SFP, -40~75°C, DIN) per installazioni di controllo accessi e biometria; etichetta neutra o vostra. Listino: USD 137.5 EXW (snapshot 2026-10-17, valido 15 giorni).
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Una sola domanda: i vostri lettori biometrici vengono alimentati in PoE dall'installatore, o fornite voi anche lo switch?
+
+Alan Yan
+Saga Telecom
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

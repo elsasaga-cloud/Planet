@@ -282,25 +282,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Re: 2×SFP + 8×GE endüstriyel switch — 100 adetlik talep
 
 ```text
-Hi Akgin,
+Merhaba,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.
+Daha önce konuştuğumuz 100 adetlik endüstriyel fiber switch (2× SFP + 8× GE) talebi hâlâ açık mı?
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DCN IS2100D-2GFP8GT-P(R2) at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+IM-FS280GW yerine önerimiz STI-288DGGPM: Marvell AC5, L2+ yönetilebilir, -40~75°C, 240 W PoE bütçesi (PoE'siz sürüm de var). Liste fiyatı USD 137.5 EXW (2026-10-17 anlık fiyat, 15 gün geçerli); 100 adette ayrıca konuşuruz.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+Tek sorum: diğer tedarikçi hangi spesifikasyon/fiyatla kazandı? Bilirsek boşuna yazmayız.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan Yan
+Saga Telecom
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

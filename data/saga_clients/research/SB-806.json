@@ -1,103 +1,106 @@
 {
- "code": "SB-806",
- "name_official": "Uğur İmre（分销商，TR；无域名）",
- "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "ISAF：分销商；不需 OEM；$70 报价；Not bad；微信未通过",
-   "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Uğur İmre",
-   "role": "分销商（ISAF 记录）",
-   "email": "—",
-   "phone": "—（名片在 Ady 处）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（待核）",
-  "hq": "Türkiye（待核）",
-  "size": "分销商（规模待核）",
-  "other": "不需要 OEM；微信未通过"
- },
- "business_lines": [
-  "网络/安防分销（推测）"
- ],
- "channels": {
-  "线下": "ISAF 名片（Ady）；微信申请未通过"
- },
- "signals": [
-  "对 $70 报价回复 Not bad → 价格带接受；需从 Ady 名片补邮箱/电话再跟"
- ],
- "risks": [
-  "无联系渠道（微信未通过）；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-28GPM",
-  "tier": 20,
-  "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
- },
- "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过）」；研究档 risks：无联系渠道（微信未通过）；无后续跟进"
-  },
-  "situation": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
-  "need": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
-  "breakpoint": "无联系渠道（微信未通过）；无后续跟进",
-  "saga_now": {
-   "p1": "STC-28GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-806",
+  "name_official": "Uğur İmre（分销商，TR；无域名）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：分销商；不需 OEM；$70 报价；Not bad；微信未通过",
+      "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "Uğur İmre",
+      "role": "分销商（ISAF 记录）",
+      "email": "—",
+      "phone": "—（名片在 Ady 处）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（待核）",
+    "hq": "Türkiye（待核）",
+    "size": "分销商（规模待核）",
+    "other": "不需要 OEM；微信未通过"
+  },
+  "business_lines": [
+    "网络/安防分销（推测）"
+  ],
+  "channels": {
+    "线下": "ISAF 名片（Ady）；微信申请未通过"
+  },
+  "signals": [
+    "对 $70 报价回复 Not bad → 价格带接受；需从 Ady 名片补邮箱/电话再跟"
+  ],
+  "risks": [
+    "无联系渠道（微信未通过）；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-28GPM",
+    "tier": 20,
+    "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
+  },
+  "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过）」；研究档 risks：无联系渠道（微信未通过）；无后续跟进"
+    },
+    "situation": "ISAF 记录：Uğur İmre（Ady 客户；无邮箱/域名）——分销商，不需要 OEM；要工业级 PoE 交换机；现场报价「2 光 8 电瑞昱（Realtek）带 PoE 带网管 + 内置 DC48V 电源 $70」，回复 Not bad；微信没通过；无后续跟进。仅表内信息；分销 20%。报价映射：2 SFP + 8 GE PoE 管理型 Realtek 商用 = STC-28GPM（列表 $62.2）；若需工业 DIN 版 = STI-288GPM（$78.9@20%）。",
+    "need": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
+    "breakpoint": "无联系渠道（微信未通过）；无后续跟进",
+    "saga_now": {
+      "p1": "STC-28GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IMRE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

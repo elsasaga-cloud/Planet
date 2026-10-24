@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：光 bypass 管理型 — 已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1；按主表；历史报价（邮件原话，老汇率）：2026-02-06 
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：What volume would copper bypass need, and in which form — built-in or a separate 1U module?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 补价
 
@@ -49,6 +49,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **光 bypass 管理型**（25% 档，按主表；历史报价（邮件原话，老汇率）：2026-02-06 ）——已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1
   - 做不了 / 要先核的：光 bypass 报价是否已给
 - **下一步（具体）**：2026-11　A 邮箱　补价
+  - 第一问（只问一个）：What volume would copper bypass need, and in which form — built-in or a separate 1U module?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -228,21 +229,21 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: OEM Core Switching Solution — bypass pricing follow-up
 
 ```text
-Hi Jinsoo,
+Jinsoo-nim,
 
-Picking up our earlier exchange about PoE / industrial switches. Jinsoo, following your interest in bypass switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD; KC by your side — which ports need to be bypassed on power failure, copper or fibre?
+In February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).
+2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan Yan
+Saga Telecom
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

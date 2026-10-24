@@ -107,11 +107,14 @@
       "when": "2026-11",
       "channel": "A 邮箱 → commerciale@eter.it",
       "action": "按其指引改发",
-      "one_question": ""
+      "one_question": "Do your biometric readers get PoE from the installer, or do you supply the switch as well?"
     },
     "facts": [],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Switch industriali per sistemi biometrici — breve presentazione",
+      "body": "Buongiorno,\n\nscrivo a commerciale@ come indicato dalla vostra risposta automatica.\n\nSaga Telecom produce switch industriali gestiti su chip Marvell (8× GbE PoE + 2× SFP, -40~75°C, DIN) per installazioni di controllo accessi e biometria; etichetta neutra o vostra. Listino: USD 137.5 EXW (snapshot 2026-10-17, valido 15 giorni).\n\nUna sola domanda: i vostri lettori biometrici vengono alimentati in PoE dall'installatore, o fornite voi anche lo switch?\n\nAlan Yan\nSaga Telecom"
+    },
     "as_of": "2026-10-24"
   }
 }

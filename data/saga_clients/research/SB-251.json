@@ -1,121 +1,124 @@
 {
- "code": "SB-251",
- "name_official": "Ebatek Bilişim Teknolojileri（Gaziantep, TR；ebatek.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位与地址",
-   "quote": "Ebatek Bilişim Teknolojileri, 2005'te Gaziantep'te kurulmuş olup bilgisayar ve bilişim konusunda faaliyet gösterirken aynı zamanda kendi yazılım ürünleri, bilgisayar sarf malzemeleri danışmanlık ve eğitim hizmetleri … İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil / Gaziantep … Tel: +90 342 215 13 22 … info@ebatek.com",
-   "url": "https://www.ebatek.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "MIS 项目业务",
-   "quote": "önemli kamusal ve özel kuruluşların Yönetim Bilişim Sistemleri (MIS) projelerinde sistem çözümleme/tasarım ve uygulama yazılımı geliştirme uzmanlığını",
-   "url": "https://www.ebatek.com/page.asp?s=hakkimizda",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：拿彩页；要求 WhatsApp",
-   "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "S. Coşkun Balkış",
-   "role": "（ISAF 名片；负责人推测）",
-   "email": "scbalkis@ebatek.com（用户表）",
-   "phone": "—（要求用 WhatsApp 联系）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Ebatek Bilişim Teknolojileri",
-  "founded": "2005",
-  "hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com）",
-  "size": "小型（「genç, güçlü ve dinamik ekip」）",
-  "other": "软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界）"
- },
- "business_lines": [
-  "IT 硬件/耗材供应与技术服务",
-  "自有软件产品与 MIS 项目开发"
- ],
- "channels": {
-  "网站": "https://www.ebatek.com/",
-  "电话": "+90 342 215 13 22 / 35 66（公开）",
-  "邮箱（公开）": "info@ebatek.com"
- },
- "signals": [
-  "IT 项目商在 MIS/硬件项目里顺带供网络设备 → 8/24 口 L2 PoE；要求 WhatsApp 沟通"
- ],
- "risks": [
-  "需求未表达；公共项目守界按个案；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；研究档 risks：需求未表达；公共项目守界按个案；无后续跟进"
-  },
-  "situation": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
-  "need": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "需求未表达；公共项目守界按个案；无后续跟进",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-251",
+  "name_official": "Ebatek Bilişim Teknolojileri（Gaziantep, TR；ebatek.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位与地址",
+      "quote": "Ebatek Bilişim Teknolojileri, 2005'te Gaziantep'te kurulmuş olup bilgisayar ve bilişim konusunda faaliyet gösterirken aynı zamanda kendi yazılım ürünleri, bilgisayar sarf malzemeleri danışmanlık ve eğitim hizmetleri … İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil / Gaziantep … Tel: +90 342 215 13 22 … info@ebatek.com",
+      "url": "https://www.ebatek.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "MIS 项目业务",
+      "quote": "önemli kamusal ve özel kuruluşların Yönetim Bilişim Sistemleri (MIS) projelerinde sistem çözümleme/tasarım ve uygulama yazılımı geliştirme uzmanlığını",
+      "url": "https://www.ebatek.com/page.asp?s=hakkimizda",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：拿彩页；要求 WhatsApp",
+      "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "S. Coşkun Balkış",
+      "role": "（ISAF 名片；负责人推测）",
+      "email": "scbalkis@ebatek.com（用户表）",
+      "phone": "—（要求用 WhatsApp 联系）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "Ebatek Bilişim Teknolojileri",
+    "founded": "2005",
+    "hq": "İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（+90 342 215 13 22；info@ebatek.com）",
+    "size": "小型（「genç, güçlü ve dinamik ekip」）",
+    "other": "软件 + 硬件供应 + MIS 项目（公共机构项目按个案守界）"
+  },
+  "business_lines": [
+    "IT 硬件/耗材供应与技术服务",
+    "自有软件产品与 MIS 项目开发"
+  ],
+  "channels": {
+    "网站": "https://www.ebatek.com/",
+    "电话": "+90 342 215 13 22 / 35 66（公开）",
+    "邮箱（公开）": "info@ebatek.com"
+  },
+  "signals": [
+    "IT 项目商在 MIS/硬件项目里顺带供网络设备 → 8/24 口 L2 PoE；要求 WhatsApp 沟通"
+  ],
+  "risks": [
+    "需求未表达；公共项目守界按个案；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS」；研究档 risks：需求未表达；公共项目守界按个案；无后续跟进"
+    },
+    "situation": "加济安泰普的 IT 方案商 Ebatek Bilişim（2005 年成立；软件产品 + 电脑/耗材供应 + 咨询培训；为公共与私营机构做 MIS 项目的系统分析/设计/应用开发；İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B Şehitkamil；+90 342 215 13 22；info@ebatek.com）。ISAF 记录：S. Coşkun Balkış——没做过多交谈，拿了彩页，让用 WhatsApp 联系；无后续跟进。",
+    "need": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "需求未表达；公共项目守界按个案；无后续跟进",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "项目 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）作办公/CCTV 接入；24 口 STC-424DGGPM-280W（$140.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "没做过多交谈，拿了彩页 让用WhatsApp联系 / S.Coskun BALKIS",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Coşkun Bey, WhatsApp üzerinden kısaca: bilişim projeleriniz için 2 SFP + 8 port PoE+ L2+ yönetilebilir switch EXW 84,1 USD, 24 port 280 W sürümü 140,1 USD — yakın dönemde kamera veya ağ altyapısı içeren bir projeniz var mı?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

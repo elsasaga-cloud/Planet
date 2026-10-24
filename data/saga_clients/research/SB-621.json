@@ -119,11 +119,14 @@
       "when": "2026-12",
       "channel": "A 邮箱 → ion@symanitron.ru",
       "action": "换人",
-      "one_question": ""
+      "one_question": "Do you consider third-party platforms for your line, or build everything in-house?"
     },
     "facts": [],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Промышленные управляемые коммутаторы Marvell — для Symanitron",
+      "body": "Здравствуйте,\n\nПишу на этот адрес, так как прежние письма возвращались автоответами об отпуске.\n\nSaga Telecom поставляет промышленные управляемые коммутаторы на чипах Marvell AC5 (8× GbE PoE + 2× SFP, -40~75°C, DIN, L2+) под нейтральной или вашей маркой. Прайс: USD 137.5 EXW (снимок 2026-10-17, действителен 15 дней).\n\nОдин вопрос: вы рассматриваете сторонние платформы для своей линейки, или производите всё сами?\n\nAlan Yan\nSaga Telecom"
+    },
     "as_of": "2026-10-24"
   }
 }

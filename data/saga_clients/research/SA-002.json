@@ -212,7 +212,10 @@
     "proof_gaps": [
       "成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first."
+    },
     "as_of": "2026-10-24"
   }
 }

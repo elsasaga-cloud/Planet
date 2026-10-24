@@ -1,121 +1,124 @@
 {
- "code": "SB-740",
- "name_official": "Tek Nokta Destek Güvenlik Sistemleri（İnegöl/Bursa, TR；teknoktadestek.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线（含网店）",
- "summary": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与地址",
-   "quote": "Tek Nokta Destek Güvenlik Sistemleri … İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. … Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl / Bursa 0 224 719 0 800 … info@teknoktadestek.com",
-   "url": "https://teknoktadestek.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "GSM/WhatsApp 与用户表号码一致",
-   "quote": "GSM / WhatsApp 0532 315 7258 … E-posta info@teknoktadestek.com",
-   "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：拿彩页；WhatsApp 已加",
-   "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Rıfat Bende（官网社媒：Rıfat Yıldız，待核）",
-   "role": "业主（推测）",
-   "email": "info@teknoktadestek.com（公开）",
-   "phone": "+90 532 315 72 58（公开，WhatsApp 已加）",
-   "source": "https://teknoktadestek.com/index.php?route=information%2Fcontact"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
-  "hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com）",
-  "size": "小型（本地 + 网店）",
-  "other": "11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求）"
- },
- "business_lines": [
-  "CCTV / 报警 / 智能家居安装",
-  "网络设备与安防产品网店（全国供货）"
- ],
- "channels": {
-  "网站": "https://teknoktadestek.com/",
-  "电话": "+90 224 719 08 00（公开）",
-  "WhatsApp": "+90 532 315 72 58（公开）",
-  "邮箱（公开）": "info@teknoktadestek.com"
- },
- "signals": [
-  "网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会"
- ],
- "risks": [
-  "小型；ISAF 未表达需求；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 25,
-  "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
- },
- "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没说什么 / 90 53231 57258 已加」；研究档 risks：小型；ISAF 未表达需求；无后续跟进"
-  },
-  "situation": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
-  "need": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
-  "breakpoint": "小型；ISAF 未表达需求；无后续跟进",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-740",
+  "name_official": "Tek Nokta Destek Güvenlik Sistemleri（İnegöl/Bursa, TR；teknoktadestek.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（含网店）",
+  "summary": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与地址",
+      "quote": "Tek Nokta Destek Güvenlik Sistemleri … İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. … Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl / Bursa 0 224 719 0 800 … info@teknoktadestek.com",
+      "url": "https://teknoktadestek.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "GSM/WhatsApp 与用户表号码一致",
+      "quote": "GSM / WhatsApp 0532 315 7258 … E-posta info@teknoktadestek.com",
+      "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：拿彩页；WhatsApp 已加",
+      "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "Rıfat Bende（官网社媒：Rıfat Yıldız，待核）",
+      "role": "业主（推测）",
+      "email": "info@teknoktadestek.com（公开）",
+      "phone": "+90 532 315 72 58（公开，WhatsApp 已加）",
+      "source": "https://teknoktadestek.com/index.php?route=information%2Fcontact"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
+    "hq": "Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（+90 224 719 08 00；GSM +90 532 315 72 58；info@teknoktadestek.com）",
+    "size": "小型（本地 + 网店）",
+    "other": "11 个品牌、500+ 产品的网店；İnegöl = 家具产业城（工厂 CCTV 需求）"
+  },
+  "business_lines": [
+    "CCTV / 报警 / 智能家居安装",
+    "网络设备与安防产品网店（全国供货）"
+  ],
+  "channels": {
+    "网站": "https://teknoktadestek.com/",
+    "电话": "+90 224 719 08 00（公开）",
+    "WhatsApp": "+90 532 315 72 58（公开）",
+    "邮箱（公开）": "info@teknoktadestek.com"
+  },
+  "signals": [
+    "网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会"
+  ],
+  "risks": [
+    "小型；ISAF 未表达需求；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
+  },
+  "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「拿了彩页，没说什么 / 90 53231 57258 已加」；研究档 risks：小型；ISAF 未表达需求；无后续跟进"
+    },
+    "situation": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
+    "need": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
+    "breakpoint": "小型；ISAF 未表达需求；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

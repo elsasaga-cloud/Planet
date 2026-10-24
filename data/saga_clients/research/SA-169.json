@@ -1,217 +1,220 @@
 {
- "code": "SA-169",
- "name_official": "James Clendenan Systems Ltd.",
- "website_status": "",
- "summary": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json",
- "type": "系统集成/工程（北温哥华）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240627010（CI，2024-06-27）：STI-21616DGGPM 共 9 台，USD 1095.0；采购 SmartByte RMB 4908.0；Simon 成本表利润 RMB 1729.39",
-   "quote": "",
-   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/CI.xls",
-   "date": "2024-06-27"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241219010（PI，2024-12-19）：STC-424XGGM、STI-488XGGPM 共 6 台，USD 1625.0；采购 SmartByte RMB 7684.0；Simon 成本表利润 RMB 3472.13",
-   "quote": "",
-   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC20241219010.xls",
-   "date": "2024-12-19"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC-20260826-001（Quotation，2026-08-26）：STI-21616XGGPM、SW-3200-16GP-2SX 共 12 台，RMB 28975.0",
-   "quote": "",
-   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC-20260826-001.xlsx",
-   "date": "2026-08-26"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20260830010（CI，2026-09-07）：Industrial Switch 共 12 台，USD 4020.0；采购 SmartByte RMB 20160.0",
-   "quote": "",
-   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/发票_STSC20260830010.xlsx",
-   "date": "2026-09-07"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「加拿大 James 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 4 个，2024-06-27 → 2026-09-07，销售 USD 6740.0 / RMB 0，Simon 成本统计利润合计 RMB 5201.52",
-   "quote": "",
-   "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "S 邮箱原文",
-   "claim": "2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机",
-   "quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
-   "url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "Control Ready 官网：加拿大应急/活动响应技术方案，SCOUT（Smart Connection Operations United Toolkit）便携 Wi-Fi/电话/数据箱，BARK（Boundary Alert Response Kit）拖车传感告警，POST 应急数字标牌；均「Designed and Built in Canada with local components and suppliers」",
-   "quote": "SCOUT … Resilient, to-go Wi-Fi, phone, and data storage solutions for event management—all in convenient grab-and-go cases … Built in Canada with local canadian components and suppliers",
-   "url": "https://www.controlready.ca/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "Control Ready About：James Clendenan Systems Ltd. 2012-09 创立；James = Queen's 计算机工程，曾任职 Pixar Canada / Sophos / HootSuite / 奥运转播 OBS；专长 ISP 与中小企业网管",
-   "quote": "James Clendenan Systems Ltd. was launched by James Clendenan in September 2012 … His past experience include stints with Pixar Canada, Sophos, HootSuite, and the Olympic Broadcasting Service",
-   "url": "https://www.controlready.ca/about",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统",
-   "quote": "Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair",
-   "url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 口述",
-   "claim": "绑定等级：轻度绑定（基于沟通、订单和实际使用）；也是微信/领英渠道唯一的成单客户",
-   "quote": "Angora james这些都是轻度绑定，都是基于沟通，客户订单和实际使用等等角度来衡量的……这个主要就是指加拿大成单的James 其他的似乎没了",
-   "url": "docs/requirements/对话全记录.md § T29-U28",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级（文档）：轻度绑定——「前期客户投入了较大精力，产品也没啥问题」",
-   "quote": "加拿大 James　轻度绑定 = 前期客户投入了较大精力，产品也没啥问题",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
-  }
- ],
- "kp": [
-  {
-   "name": "James Clendenan",
-   "role": "单据联系人",
-   "email": "james@clendenan.ca",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": " ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
- "researched_at": "2026-10-22",
- "deal_pi": {
-  "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
-  "simon_label": "活跃",
-  "pay": "Xtransfer",
-  "bind": "轻度绑定",
-  "buyer": "James Clendenan Systems Ltd.",
-  "orders": 4,
-  "first": "2024-06-27",
-  "last": "2026-09-07",
-  "usd": 6740.0,
-  "rmb": 0.0,
-  "profit_rmb": 5201.52,
-  "models": "Industrial Switch、STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM、STI-488XGGPM、SW-3200-16GP-2SX"
- },
- "saga_fit": {
-  "p1": "",
-  "tier": 25,
-  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
- },
- "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
- "risks": [
-  "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
- ],
- "channels": {
-  "公开动态平台（监控中，T29-U18）": "新品牌 Control Ready（controlready.ca，Squarespace）：SCOUT 移动办公箱 / BARK 移动告警套件 / POST 应急数字标牌；Alignable 商家页；LinkedIn 个人页（James Clendenan）"
- },
- "signals": [
-  "2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）"
- ],
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-169",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "deep": {
-  "done_at": "2026-10-23",
-  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- },
- "binding_level": "轻度",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）",
- "mail_review": {
-  "binding": {
-   "level": "轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335",
-   "type": "加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件）",
-   "sieve": "3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论）",
-   "stop": "无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求）",
-   "revive": "已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选",
-   "lane": "CA 已通（Xtransfer、DHL/UPS DAP）",
-   "cadence": "最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28）",
-   "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单"
-  },
-  "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
-  "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
-  "breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
-  "saga_now": {
-   "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
-   "tier": 30,
-   "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
-   "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
-   "repeat": [
-    "STI-488XGGPM 12 台（2026-08-30）",
-    "STI-21616DGGPM/XGGPM（2024 两单）"
-   ],
-   "gaps": [
-    "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
-    "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11 上旬（12 台到货后）",
-   "channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
-   "action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
-   "one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
-  },
-  "facts": [
-   {
-    "date": "2024-06-28",
-    "dir": "来",
-    "who": "James Clendenan",
-    "quote": "Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware",
-    "why": "首单即技术绑定意图",
-    "k": "e248bc0c33c534e6"
-   },
-   {
-    "date": "2024-12-18",
-    "dir": "来",
-    "who": "James Clendenan",
-    "quote": "Working with my mech eng to confirm placement is still identical to what we have designed for",
-    "why": "客户机械设计围绕 Saga PCB（替换成本）",
-    "k": "51d9acb9ee095737"
-   },
-   {
-    "date": "2026-07-21",
-    "dir": "来",
-    "who": "James Clendenan",
-    "quote": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
-    "why": "AC5 迁移 + MQTT 对接在推进",
-    "k": "aa61c45fc8e5eb33"
-   },
-   {
-    "date": "2026-08-26",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
-    "why": "第 4 单前置",
-    "k": "ba36e2ca75bc3155"
-   }
+  "code": "SA-169",
+  "name_official": "James Clendenan Systems Ltd.",
+  "website_status": "",
+  "summary": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-169.json",
+  "type": "系统集成/工程（北温哥华）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240627010（CI，2024-06-27）：STI-21616DGGPM 共 9 台，USD 1095.0；采购 SmartByte RMB 4908.0；Simon 成本表利润 RMB 1729.39",
+      "quote": "",
+      "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/CI.xls",
+      "date": "2024-06-27"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241219010（PI，2024-12-19）：STC-424XGGM、STI-488XGGPM 共 6 台，USD 1625.0；采购 SmartByte RMB 7684.0；Simon 成本表利润 RMB 3472.13",
+      "quote": "",
+      "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC20241219010.xls",
+      "date": "2024-12-19"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC-20260826-001（Quotation，2026-08-26）：STI-21616XGGPM、SW-3200-16GP-2SX 共 12 台，RMB 28975.0",
+      "quote": "",
+      "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/STSC-20260826-001.xlsx",
+      "date": "2026-08-26"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20260830010（CI，2026-09-07）：Industrial Switch 共 12 台，USD 4020.0；采购 SmartByte RMB 20160.0",
+      "quote": "",
+      "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定/发票_STSC20260830010.xlsx",
+      "date": "2026-09-07"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「加拿大 James 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 4 个，2024-06-27 → 2026-09-07，销售 USD 6740.0 / RMB 0，Simon 成本统计利润合计 RMB 5201.52",
+      "quote": "",
+      "url": "PI.zip:10 加拿大 James 活跃 Xtransfer 轻度绑定",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "S 邮箱原文",
+      "claim": "2024-06-27 Simon 向 James 发 Invoice 并承诺「I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget」；James 2024-06-28 回复在 24–36 小时内付款；UL 需求只落在 PSU 配件，不在交换机",
+      "quote": "I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power budget. I will let you know if I have news.",
+      "url": "（S 邮箱 2024-06-27 07:25Z Simon→james@clendenan.ca 主题 Invoice，data/gmail_s/messages/2024/2024-06.jsonl）",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "Control Ready 官网：加拿大应急/活动响应技术方案，SCOUT（Smart Connection Operations United Toolkit）便携 Wi-Fi/电话/数据箱，BARK（Boundary Alert Response Kit）拖车传感告警，POST 应急数字标牌；均「Designed and Built in Canada with local components and suppliers」",
+      "quote": "SCOUT … Resilient, to-go Wi-Fi, phone, and data storage solutions for event management—all in convenient grab-and-go cases … Built in Canada with local canadian components and suppliers",
+      "url": "https://www.controlready.ca/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "Control Ready About：James Clendenan Systems Ltd. 2012-09 创立；James = Queen's 计算机工程，曾任职 Pixar Canada / Sophos / HootSuite / 奥运转播 OBS；专长 ISP 与中小企业网管",
+      "quote": "James Clendenan Systems Ltd. was launched by James Clendenan in September 2012 … His past experience include stints with Pixar Canada, Sophos, HootSuite, and the Olympic Broadcasting Service",
+      "url": "https://www.controlready.ca/about",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "Alignable 商家页：北温哥华，电信/计算机服务/ISP；托管网络起价 15$/设备/月；光纤熔接、固定无线、电话系统",
+      "quote": "Managed Networks Starting at 15$/device/month for monitoring and configuration services … Networking, Wi-Fi, Fixed Wireless, Fiber Optics splicing and repair",
+      "url": "https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 口述",
+      "claim": "绑定等级：轻度绑定（基于沟通、订单和实际使用）；也是微信/领英渠道唯一的成单客户",
+      "quote": "Angora james这些都是轻度绑定，都是基于沟通，客户订单和实际使用等等角度来衡量的……这个主要就是指加拿大成单的James 其他的似乎没了",
+      "url": "docs/requirements/对话全记录.md § T29-U28",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 文档",
+      "claim": "绑定等级（文档）：轻度绑定——「前期客户投入了较大精力，产品也没啥问题」",
+      "quote": "加拿大 James　轻度绑定 = 前期客户投入了较大精力，产品也没啥问题",
+      "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+      "date": "2026-10-22"
+    }
   ],
-  "proof_gaps": [
-   "LinkedIn/WeChat 侧对话不在邮件里（Simon U28）",
-   "UL PSU 承诺的后续"
+  "kp": [
+    {
+      "name": "James Clendenan",
+      "role": "单据联系人",
+      "email": "james@clendenan.ca",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "notes": " ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
+  "researched_at": "2026-10-22",
+  "deal_pi": {
+    "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
+    "simon_label": "活跃",
+    "pay": "Xtransfer",
+    "bind": "轻度绑定",
+    "buyer": "James Clendenan Systems Ltd.",
+    "orders": 4,
+    "first": "2024-06-27",
+    "last": "2026-09-07",
+    "usd": 6740.0,
+    "rmb": 0.0,
+    "profit_rmb": 5201.52,
+    "models": "Industrial Switch、STC-424XGGM、STI-21616DGGPM、STI-21616XGGPM、STI-488XGGPM、SW-3200-16GP-2SX"
+  },
+  "saga_fit": {
+    "p1": "",
+    "tier": 25,
+    "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
+  },
+  "grade_override": "A",
+  "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+  "risks": [
+    "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
+  ],
+  "channels": {
+    "公开动态平台（监控中，T29-U18）": "新品牌 Control Ready（controlready.ca，Squarespace）：SCOUT 移动办公箱 / BARK 移动告警套件 / POST 应急数字标牌；Alignable 商家页；LinkedIn 个人页（James Clendenan）"
+  },
+  "signals": [
+    "2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）"
+  ],
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-169",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
+  },
+  "deep": {
+    "done_at": "2026-10-23",
+    "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+  },
+  "binding_level": "轻度",
+  "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度（Simon U28 定级）——按 J4 证据为**中度偏深**：客户围绕 Saga 的 4+8 PCB 做自己的机械设计、要求固件定制、2026-07 测 AC5 更新并要做 MQTT 对接、第 4 单 2026-08-30 12 台 @ $335",
+      "type": "加拿大小型控制/集成公司（Control Ready / SCOUT 产品）（技术流，自研硬件 + 软件）",
+      "sieve": "3（4 单 $6,740、Xtransfer、PCB 布局确认、固件定制讨论）",
+      "stop": "无停点，节奏慢（项目制小批量）；唯一硬需求 UL 版 PSU（2024-06 Simon 承诺「working on the UL listed PSU 52~57VDC 250W~300W」，全库唯一 UL 需求）",
+      "revive": "已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选",
+      "lane": "CA 已通（Xtransfer、DHL/UPS DAP）",
+      "cadence": "最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28）",
+      "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单"
+    },
+    "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
+    "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
+    "breakpoint": "没有断点；风险是 MQTT 对接若需要 Saga 侧固件开发，会撞「不做 SDK/API」边界（E2）——MQTT 上报属固件功能而非 SDK，需 Simon 与 SmartByte 确认 7.5.x 是否已有（不由代理问 Peter）。",
+    "saga_now": {
+      "p1": "STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）",
+      "tier": 30,
+      "price": "第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用",
+      "why": "OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）",
+      "repeat": [
+        "STI-488XGGPM 12 台（2026-08-30）",
+        "STI-21616DGGPM/XGGPM（2024 两单）"
+      ],
+      "gaps": [
+        "UL 版 PSU：给 MEAN WELL UL 型号 + 价（交换机本体不承诺 UL）——Simon 2024-06 的承诺要有个结论",
+        "MQTT：7.5.x 是否支持 MQTT 上报，待 Simon 核"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11 上旬（12 台到货后）",
+      "channel": "LinkedIn/WeChat（Simon U28：James 只走这两个）",
+      "action": "到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte",
+      "one_question": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+    },
+    "facts": [
+      {
+        "date": "2024-06-28",
+        "dir": "来",
+        "who": "James Clendenan",
+        "quote": "Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware",
+        "why": "首单即技术绑定意图",
+        "k": "e248bc0c33c534e6"
+      },
+      {
+        "date": "2024-12-18",
+        "dir": "来",
+        "who": "James Clendenan",
+        "quote": "Working with my mech eng to confirm placement is still identical to what we have designed for",
+        "why": "客户机械设计围绕 Saga PCB（替换成本）",
+        "k": "51d9acb9ee095737"
+      },
+      {
+        "date": "2026-07-21",
+        "dir": "来",
+        "who": "James Clendenan",
+        "quote": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
+        "why": "AC5 迁移 + MQTT 对接在推进",
+        "k": "aa61c45fc8e5eb33"
+      },
+      {
+        "date": "2026-08-26",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
+        "why": "第 4 单前置",
+        "k": "ba36e2ca75bc3155"
+      }
+    ],
+    "proof_gaps": [
+      "LinkedIn/WeChat 侧对话不在邮件里（Simon U28）",
+      "UL PSU 承诺的后续"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

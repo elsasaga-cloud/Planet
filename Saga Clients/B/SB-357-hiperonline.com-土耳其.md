@@ -214,21 +214,13 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hello,
-
-Picking up our earlier exchange about PoE / industrial switches. Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
-
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

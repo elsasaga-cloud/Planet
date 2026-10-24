@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC/STH 按规格 — —；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → hassancheema@litech.com.pk 一封
 
@@ -51,6 +51,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STC/STH 按规格**（25% 档，—）———
   - 做不了 / 要先核的：是否在 WhatsApp 回过
 - **下一步（具体）**：2026-11　S 邮箱 → hassancheema@litech.com.pk　一封
+  - 第一问（只问一个）：Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -197,7 +198,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：Re: RFQ — access / aggregation switches (March 2024)
+
+```text
+Hassan,
+
+An overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.
+
+What we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.
+
+If the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).
+
+Alan Yan
+Saga Telecom
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

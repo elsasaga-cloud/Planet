@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-02 → 2025-10-31）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Do you consider third-party platforms for your line, or build everything in-house?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-12 A 邮箱 → ion@symanitron.ru 换人
 
@@ -49,6 +49,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：具名联系人
 - **下一步（具体）**：2026-12　A 邮箱 → ion@symanitron.ru　换人
+  - 第一问（只问一个）：Do you consider third-party platforms for your line, or build everything in-house?
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -280,21 +281,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Промышленные управляемые коммутаторы Marvell — для Symanitron
 
 ```text
-Hi Massov,
+Здравствуйте,
 
-Picking up our earlier exchange about PoE / industrial switches. For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?
+Пишу на этот адрес, так как прежние письма возвращались автоответами об отпуске.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+Saga Telecom поставляет промышленные управляемые коммутаторы на чипах Marvell AC5 (8× GbE PoE + 2× SFP, -40~75°C, DIN, L2+) под нейтральной или вашей маркой. Прайс: USD 137.5 EXW (снимок 2026-10-17, действителен 15 дней).
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Один вопрос: вы рассматриваете сторонние платформы для своей линейки, или производите всё сами?
+
+Alan Yan
+Saga Telecom
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

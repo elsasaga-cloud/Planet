@@ -177,7 +177,10 @@
       "实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）",
       "Elsa 回复正文未入库"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: your test-sample request — capacities priced",
+      "body": "Vadim,\n\nThree CENTEC SKUs are priced today, all EXW (2026 Q2 list): 32× 100G USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. 10G models are quoted per project.\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nAlan Yan\nSaga Telecom"
+    },
     "as_of": "2026-10-24"
   }
 }

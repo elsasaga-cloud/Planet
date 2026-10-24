@@ -1,104 +1,107 @@
 {
- "code": "SB-592",
- "name_official": "Marbim（marbim.com.tr，TR；官网未检索到）",
- "researched_at": "2026-10-21",
- "website_status": "未检索到（搜索仅返回无关 Marbim 基金/Ecevit 政治新闻）",
- "summary": "ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "ISAF：商用 PoE；升压 5 口；WA 已加",
-   "quote": "Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ecevit（姓氏待核）",
-   "role": "（ISAF 名片）",
-   "email": "—（无邮箱；WhatsApp）",
-   "phone": "—（Ady WhatsApp）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "官网未检索到 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Marbim（待核；「bim」常为 Bilişim 缩写）",
-  "hq": "Türkiye（待核）",
-  "size": "待核",
-  "other": "仅 WhatsApp 渠道"
- },
- "business_lines": [
-  "（待核）IT/安防"
- ],
- "channels": {
-  "网站": "http://marbim.com.tr/（未核）",
-  "WhatsApp": "Ady 已加（号码在 Ady 手机）"
- },
- "signals": [
-  "明确对 5 口升压 PoE 感兴趣 → 走量小机；WhatsApp 直达"
- ],
- "risks": [
-  "无邮箱；升压版是否在 HRUI 现货需核；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-114GP",
-  "tier": 25,
-  "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）"
- },
- "email_hook": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；研究档 risks：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进"
-  },
-  "situation": "ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。",
-  "need": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）",
-  "breakpoint": "无邮箱；升压版是否在 HRUI 现货需核；无后续跟进",
-  "saga_now": {
-   "p1": "STC-114GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-592",
+  "name_official": "Marbim（marbim.com.tr，TR；官网未检索到）",
+  "researched_at": "2026-10-21",
+  "website_status": "未检索到（搜索仅返回无关 Marbim 基金/Ecevit 政治新闻）",
+  "summary": "ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：商用 PoE；升压 5 口；WA 已加",
+      "quote": "Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "Ecevit（姓氏待核）",
+      "role": "（ISAF 名片）",
+      "email": "—（无邮箱；WhatsApp）",
+      "phone": "—（Ady WhatsApp）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "官网未检索到 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Marbim（待核；「bim」常为 Bilişim 缩写）",
+    "hq": "Türkiye（待核）",
+    "size": "待核",
+    "other": "仅 WhatsApp 渠道"
+  },
+  "business_lines": [
+    "（待核）IT/安防"
+  ],
+  "channels": {
+    "网站": "http://marbim.com.tr/（未核）",
+    "WhatsApp": "Ady 已加（号码在 Ady 手机）"
+  },
+  "signals": [
+    "明确对 5 口升压 PoE 感兴趣 → 走量小机；WhatsApp 直达"
+  ],
+  "risks": [
+    "无邮箱；升压版是否在 HRUI 现货需核；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-114GP",
+    "tier": 25,
+    "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）"
+  },
+  "email_hook": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；研究档 risks：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进"
+    },
+    "situation": "ISAF 记录：Ecevit（marbim.com.tr，无邮箱记录）——Ady 加了 WhatsApp；最主要要商业级 PoE，对「升压 5 口」感兴趣；无后续跟进。域名无搜索结果 → 仅表内信息。需求映射：5 口商用 PoE（4 PoE + 1 上联）= STC-114GP 类；「升压」（低压输入升至 48 V PoE）版本需向 HRUI 核实。",
+    "need": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）",
+    "breakpoint": "无邮箱；升压版是否在 HRUI 现货需核；无后续跟进",
+    "saga_now": {
+      "p1": "STC-114GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

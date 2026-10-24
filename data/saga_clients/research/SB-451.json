@@ -1,122 +1,125 @@
 {
- "code": "SB-451",
- "name_official": "Nortel İletişim（Antalya, TR；norteliletisim.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Avaya（电话系统）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与地址",
-   "quote": "Santral Sistemleri Telekomünikasyon sistemlerinde AVAYA IP Santraller … Network LAN … Data Pasif component çözümlerinde Cabling Systems ve Sistem Odası … Kamera Kapalı Devre Kamera Sistemleri … 0242 237 27 27 Varlık Mah. Piri Reis Cad. M.B.ngöl Apt. No:19/B Muratpaşa /ANTALYA … nortel@norteliletisim.com",
-   "url": "http://norteliletisim.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "服务与第二地址",
-   "quote": "Nortel İletişim Antalya – Fiber optik altyapı, telefon santrali kurulumu, güvenlik kamerası sistemleri, data kablolama, yangın algılama … Yükseliş Mahallesi 2116 Sokak 26/A Kepez /ANTALYA … Email: info@norteliletisim.com",
-   "url": "http://norteliletisim.com/Default/HizmetDetay/9",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：要目录；WhatsApp 已加",
-   "quote": "没说什么，要catalog / 90 53013 69407 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Bayram Tatlı",
-   "role": "Project Manager（用户表名片）",
-   "email": "bayram@norteliletisim.com（用户表）",
-   "phone": "+90 530 136 94 07（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Nortel İletişim",
-  "hq": "Varlık Mah. Piri Reis Cad. M.Bingöl Apt. No:19/B Muratpaşa / Antalya；Yükseliş Mah. 2116 Sk. 26/A Kepez / Antalya（+90 242 237 27 27；info@norteliletisim.com）",
-  "size": "小型集成商（人数待核）",
-  "other": "Avaya 电话系统 + 布线 + 光纤 + CCTV；守界：火灾探测主系统不供"
- },
- "business_lines": [
-  "电话交换机（Avaya IP PBX）与数据网络",
-  "结构化布线、光纤骨干、CCTV、广播"
- ],
- "channels": {
-  "网站": "http://norteliletisim.com/",
-  "电话": "+90 242 237 27 27（公开）",
-  "邮箱（公开）": "info@norteliletisim.com / nortel@norteliletisim.com"
- },
- "signals": [
-  "酒店/旅游区 IP 电话 + CCTV + 光纤骨干 → 24 口 PoE+ 与 2 光 8 电接入是标准 BOM；项目经理直达"
- ],
- "risks": [
-  "ISAF 只要了目录；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP"
- },
- "email_hook": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「没说什么，要catalog / 90 53013 69407 已加」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进"
-  },
-  "situation": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
-  "need": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
-  "breakpoint": "ISAF 只要了目录；无后续跟进",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "没说什么，要catalog / 90 53013 69407 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-451",
+  "name_official": "Nortel İletişim（Antalya, TR；norteliletisim.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Avaya（电话系统）"
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与地址",
+      "quote": "Santral Sistemleri Telekomünikasyon sistemlerinde AVAYA IP Santraller … Network LAN … Data Pasif component çözümlerinde Cabling Systems ve Sistem Odası … Kamera Kapalı Devre Kamera Sistemleri … 0242 237 27 27 Varlık Mah. Piri Reis Cad. M.B.ngöl Apt. No:19/B Muratpaşa /ANTALYA … nortel@norteliletisim.com",
+      "url": "http://norteliletisim.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "服务与第二地址",
+      "quote": "Nortel İletişim Antalya – Fiber optik altyapı, telefon santrali kurulumu, güvenlik kamerası sistemleri, data kablolama, yangın algılama … Yükseliş Mahallesi 2116 Sokak 26/A Kepez /ANTALYA … Email: info@norteliletisim.com",
+      "url": "http://norteliletisim.com/Default/HizmetDetay/9",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：要目录；WhatsApp 已加",
+      "quote": "没说什么，要catalog / 90 53013 69407 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Bayram Tatlı",
+      "role": "Project Manager（用户表名片）",
+      "email": "bayram@norteliletisim.com（用户表）",
+      "phone": "+90 530 136 94 07（用户表，WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "Nortel İletişim",
+    "hq": "Varlık Mah. Piri Reis Cad. M.Bingöl Apt. No:19/B Muratpaşa / Antalya；Yükseliş Mah. 2116 Sk. 26/A Kepez / Antalya（+90 242 237 27 27；info@norteliletisim.com）",
+    "size": "小型集成商（人数待核）",
+    "other": "Avaya 电话系统 + 布线 + 光纤 + CCTV；守界：火灾探测主系统不供"
+  },
+  "business_lines": [
+    "电话交换机（Avaya IP PBX）与数据网络",
+    "结构化布线、光纤骨干、CCTV、广播"
+  ],
+  "channels": {
+    "网站": "http://norteliletisim.com/",
+    "电话": "+90 242 237 27 27（公开）",
+    "邮箱（公开）": "info@norteliletisim.com / nortel@norteliletisim.com"
+  },
+  "signals": [
+    "酒店/旅游区 IP 电话 + CCTV + 光纤骨干 → 24 口 PoE+ 与 2 光 8 电接入是标准 BOM；项目经理直达"
+  ],
+  "risks": [
+    "ISAF 只要了目录；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP"
+  },
+  "email_hook": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「没说什么，要catalog / 90 53013 69407 已加」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「没说什么，要catalog / 90 53013 69407 已加」；研究档 risks：ISAF 只要了目录；无后续跟进"
+    },
+    "situation": "安塔利亚的通信/网络集成商 Nortel İletişim（与 Nortel Networks 无关；业务：Avaya IP 电话交换机、LAN、结构化布线与机房、光纤骨干与熔接、CCTV、火灾探测、紧急广播；7/24 支持；Varlık Mah. Piri Reis Cad. No:19/B Muratpaşa + Yükseliş Mah. 2116 Sk. 26/A Kepez；+90 242 237 27 27；info@/nortel@norteliletisim.com）。ISAF 记录：项目经理 Bayram Tatlı——没说什么、要 catalog；WhatsApp 已加（+90 530 136 94 07）；无后续跟进。安塔利亚酒店/旅游业弱电项目 → 25%。",
+    "need": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
+    "breakpoint": "ISAF 只要了目录；无后续跟进",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成商 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）给 IP 话机 + 摄像机混合接入；楼层 STC-28DGGPM（$84.1）；光纤骨干配 SFP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "没说什么，要catalog / 90 53013 69407 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Bayram Bey, istediğiniz kataloğun yanında: otel/işyeri projelerinizde IP telefon + kamera için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD, kat switch'i 2 SFP + 8 PoE 84,1 USD — yaklaşan projede toplam kaç port PoE gerekiyor?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

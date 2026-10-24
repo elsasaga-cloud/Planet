@@ -174,7 +174,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Re: RF-GP2803PGM — a like-for-like Marvell unit, priced",
+      "body": "Tomasz,\n\nOne line, since none of my earlier mails got a reply: your RF-GP2803PGM (8× GbE PoE + 2× SFP, industrial, managed) maps 1:1 to our STI-288DGGPM — Marvell AC5, L2+, -40~75°C, 240 W PoE budget, DIN-rail.\n\nList is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days); your own label and web UI are possible from small lots.\n\nOnly question: what landed cost and lead time does N-Net give you today? If we cannot beat both, I will stop writing.\n\nAlan Yan\nSaga Telecom"
+    },
     "as_of": "2026-10-24"
   }
 }

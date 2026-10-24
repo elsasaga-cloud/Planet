@@ -1,103 +1,106 @@
 {
- "code": "SB-794",
- "name_official": "Fadi（TR；无公司名/域名）",
- "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "ISAF 记录：Fadi（无公司/邮箱/域名）——Ady 加了 WhatsApp，问了收发器和交换机，英文不是很好；无后续跟进。仅 WhatsApp 线索；收发器（SFP）不在价格表 → 另询；交换机按商用 8 口报。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "ISAF：收发器和交换机；英文不好；WA 已加",
-   "quote": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Fadi（姓氏待核）",
-   "role": "（ISAF 名片）",
-   "email": "—",
-   "phone": "—（Ady WhatsApp）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（待核）",
-  "hq": "（待核；ISAF 记为土耳其）",
-  "size": "待核",
-  "other": "仅 WhatsApp"
- },
- "business_lines": [
-  "（待核）"
- ],
- "channels": {
-  "WhatsApp": "Ady 已加"
- },
- "signals": [
-  "收发器 + 交换机 → 光纤接入小组合（MC/2 SFP 小机 + SFP 另询）"
- ],
- "risks": [
-  "身份不明；SFP 未在价格表；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 25,
-  "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）"
- },
- "email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；研究档 risks：身份不明；SFP 未在价格表；无后续跟进"
-  },
-  "situation": "ISAF 记录：Fadi（无公司/邮箱/域名）——Ady 加了 WhatsApp，问了收发器和交换机，英文不是很好；无后续跟进。仅 WhatsApp 线索；收发器（SFP）不在价格表 → 另询；交换机按商用 8 口报。",
-  "need": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
-  "breakpoint": "身份不明；SFP 未在价格表；无后续跟进",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-794",
+  "name_official": "Fadi（TR；无公司名/域名）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "ISAF 记录：Fadi（无公司/邮箱/域名）——Ady 加了 WhatsApp，问了收发器和交换机，英文不是很好；无后续跟进。仅 WhatsApp 线索；收发器（SFP）不在价格表 → 另询；交换机按商用 8 口报。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：收发器和交换机；英文不好；WA 已加",
+      "quote": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "Fadi（姓氏待核）",
+      "role": "（ISAF 名片）",
+      "email": "—",
+      "phone": "—（Ady WhatsApp）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（待核）",
+    "hq": "（待核；ISAF 记为土耳其）",
+    "size": "待核",
+    "other": "仅 WhatsApp"
+  },
+  "business_lines": [
+    "（待核）"
+  ],
+  "channels": {
+    "WhatsApp": "Ady 已加"
+  },
+  "signals": [
+    "收发器 + 交换机 → 光纤接入小组合（MC/2 SFP 小机 + SFP 另询）"
+  ],
+  "risks": [
+    "身份不明；SFP 未在价格表；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）"
+  },
+  "email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；研究档 risks：身份不明；SFP 未在价格表；无后续跟进"
+    },
+    "situation": "ISAF 记录：Fadi（无公司/邮箱/域名）——Ady 加了 WhatsApp，问了收发器和交换机，英文不是很好；无后续跟进。仅 WhatsApp 线索；收发器（SFP）不在价格表 → 另询；交换机按商用 8 口报。",
+    "need": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
+    "breakpoint": "身份不明；SFP 未在价格表；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+    },
+    "as_of": "2026-10-24"
+  }
 }

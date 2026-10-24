@@ -1,104 +1,107 @@
 {
- "code": "SB-785",
- "name_official": "Düzgün Toptan Ticaret / Teksarf（teksarf.com，TR；官网未检索到；Gmail）",
- "researched_at": "2026-10-21",
- "website_status": "未检索到",
- "summary": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "ISAF：不会英文；商用 PoE；WA 已加",
-   "quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（Düzgün 家族业主，姓名待核）",
-   "role": "业主（推测）",
-   "email": "duzgun.toptan.ticaret@gmail.com（用户表）",
-   "phone": "—（Ady WhatsApp）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "官网未检索到 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Düzgün Toptan Ticaret（待核）",
-  "hq": "Türkiye（待核）",
-  "size": "小型批发商（推测）",
-  "other": "Gmail 联系；WhatsApp 已加"
- },
- "business_lines": [
-  "IT/安防耗材批发（推测）"
- ],
- "channels": {
-  "邮箱": "duzgun.toptan.ticaret@gmail.com（用户表）",
-  "WhatsApp": "Ady 已加"
- },
- "signals": [
-  "批发商要商用 PoE → 8/16/24 口非管理走量价"
- ],
- "risks": [
-  "无公开资料；语言；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 20,
-  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
- },
- "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；研究档 risks：无公开资料；语言；无后续跟进"
-  },
-  "situation": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
-  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
-  "breakpoint": "无公开资料；语言；无后续跟进",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-785",
+  "name_official": "Düzgün Toptan Ticaret / Teksarf（teksarf.com，TR；官网未检索到；Gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "未检索到",
+  "summary": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "ISAF：不会英文；商用 PoE；WA 已加",
+      "quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "（Düzgün 家族业主，姓名待核）",
+      "role": "业主（推测）",
+      "email": "duzgun.toptan.ticaret@gmail.com（用户表）",
+      "phone": "—（Ady WhatsApp）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "官网未检索到 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Düzgün Toptan Ticaret（待核）",
+    "hq": "Türkiye（待核）",
+    "size": "小型批发商（推测）",
+    "other": "Gmail 联系；WhatsApp 已加"
+  },
+  "business_lines": [
+    "IT/安防耗材批发（推测）"
+  ],
+  "channels": {
+    "邮箱": "duzgun.toptan.ticaret@gmail.com（用户表）",
+    "WhatsApp": "Ady 已加"
+  },
+  "signals": [
+    "批发商要商用 PoE → 8/16/24 口非管理走量价"
+  ],
+  "risks": [
+    "无公开资料；语言；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 20,
+    "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
+  },
+  "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；研究档 risks：无公开资料；语言；无后续跟进"
+    },
+    "situation": "ISAF 记录：Düzgün Toptan Ticaret（duzgun.toptan.ticaret@gmail.com；名片域 teksarf.com）——Ady 加了 WhatsApp，不会英文，要商业级 PoE 交换机；无后续跟进。teksarf.com 无搜索结果（「Toptan Ticaret」= 批发贸易，「Teksarf」疑为技术耗材批发）→ 仅表内信息；批发商 → 分销 20%。",
+    "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
+    "breakpoint": "无公开资料；语言；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,120 +1,123 @@
 {
- "code": "SB-111",
- "name_official": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.（İstanbul Kağıthane, TR；foline.com.tr）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务范围",
-   "quote": "FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, Konteyner Veri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir … CCTV Çözümleri … Telefon Santrali … Personel Takip Ve Geçiş Sistemleri … Acil Anons … Yangın Algılama",
-   "url": "https://foline.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址与联系方式",
-   "quote": "Telefon : 0 212 535 00 33 … info@foline.com.tr … Satış Ofisi: Premier Kampüs Kağıthane Gürsel, İmrahor Cd. No: 29, B Blok Kat 3/302 34400 Kağıthane/İstanbul",
-   "url": "https://foline.com.tr/iletisim/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：拿名片未交谈；WhatsApp 已加",
-   "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mahmut Cesur",
-   "role": "Genel Müdür（用户表名片）",
-   "email": "mahmut.cesur@foline.com.tr（用户表）",
-   "phone": "+90 507 225 27 28（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.",
-  "hq": "Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr）",
-  "size": "待核（中小型工程商）",
-  "other": "数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供"
- },
- "business_lines": [
-  "数据中心/集装箱数据中心工程",
-  "弱电系统（CCTV、门禁考勤、广播、电话交换机）与结构化布线"
- ],
- "channels": {
-  "网站": "https://foline.com.tr/",
-  "电话": "+90 212 535 00 33（公开）",
-  "邮箱（公开）": "info@foline.com.tr"
- },
- "signals": [
-  "数据中心/集装箱 DC 项目需机架式 24 口 + 10G 上联 L2/L3 与 PoE 接入（CCTV/门禁）→ 一次项目 BOM 即可成单；总经理直接可达（WhatsApp）"
- ],
- "risks": [
-  "ISAF 仅交换名片、需求未表达；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）"
- },
- "email_hook": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "土耳其 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进"
-  },
-  "situation": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
-  "need": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
-  "breakpoint": "ISAF 仅交换名片、需求未表达；无后续跟进",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-111",
+  "name_official": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.（İstanbul Kağıthane, TR；foline.com.tr）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务范围",
+      "quote": "FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, Konteyner Veri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir … CCTV Çözümleri … Telefon Santrali … Personel Takip Ve Geçiş Sistemleri … Acil Anons … Yangın Algılama",
+      "url": "https://foline.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址与联系方式",
+      "quote": "Telefon : 0 212 535 00 33 … info@foline.com.tr … Satış Ofisi: Premier Kampüs Kağıthane Gürsel, İmrahor Cd. No: 29, B Blok Kat 3/302 34400 Kağıthane/İstanbul",
+      "url": "https://foline.com.tr/iletisim/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：拿名片未交谈；WhatsApp 已加",
+      "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "kp": [
+    {
+      "name": "Mahmut Cesur",
+      "role": "Genel Müdür（用户表名片）",
+      "email": "mahmut.cesur@foline.com.tr（用户表）",
+      "phone": "+90 507 225 27 28（用户表，WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "Foline Bilişim Teknolojileri San. ve Tic. Ltd. Şti.",
+    "hq": "Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağıthane / İstanbul（+90 212 535 00 33；info@foline.com.tr）",
+    "size": "待核（中小型工程商）",
+    "other": "数据中心 + 集装箱数据中心 + 弱电 + 结构化布线；守界：火灾探测主系统不供"
+  },
+  "business_lines": [
+    "数据中心/集装箱数据中心工程",
+    "弱电系统（CCTV、门禁考勤、广播、电话交换机）与结构化布线"
+  ],
+  "channels": {
+    "网站": "https://foline.com.tr/",
+    "电话": "+90 212 535 00 33（公开）",
+    "邮箱（公开）": "info@foline.com.tr"
+  },
+  "signals": [
+    "数据中心/集装箱 DC 项目需机架式 24 口 + 10G 上联 L2/L3 与 PoE 接入（CCTV/门禁）→ 一次项目 BOM 即可成单；总经理直接可达（WhatsApp）"
+  ],
+  "risks": [
+    "ISAF 仅交换名片、需求未表达；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）"
+  },
+  "email_hook": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈， 拿了名片 / 90 50722 52728 已加」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "土耳其 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「没做交谈， 拿了名片 / 90 50722 52728 已加」；研究档 risks：ISAF 仅交换名片、需求未表达；无后续跟进"
+    },
+    "situation": "伊斯坦布尔 Kağıthane 的数据中心/弱电工程商 Foline Bilişim（业务：数据中心与集装箱数据中心、弱电系统、结构化布线的工程/咨询/实施；CCTV、电话交换机、考勤门禁、紧急广播、火灾探测、维保；销售办公室 Premier Kampüs Kağıthane İmrahor Cd. No:29 B Blok K3/302；0 212 535 00 33；info@foline.com.tr；总经理 Mahmut Cesur）。ISAF 记录：没做交谈、拿了名片；WhatsApp 已加（+90 507 225 27 28）；无后续跟进。",
+    "need": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
+    "breakpoint": "ISAF 仅交换名片、需求未表达；无后续跟进",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工程 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作弱电机柜标准接入；DC 汇聚 STC-424XGGM(L3)（24 GE + 4×10G，$280.3）；工业柜 STI-288GP（$59.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "没做交谈， 拿了名片 / 90 50722 52728 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Mahmut Bey, ISAF'ta kartvizit alışverişinden sonra: konteyner veri merkezi ve zayıf akım projeleriniz için 24 port PoE+ (280 W) + 4 SFP L2+ switch EXW 140,1 USD — önümüzdeki projede kaç adet erişim switch'i gerekiyor, BOM üzerinden fiyatlandırayım mı?"
+    },
+    "as_of": "2026-10-24"
+  }
 }

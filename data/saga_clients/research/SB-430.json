@@ -1,147 +1,150 @@
 {
- "code": "SB-430",
- "name_official": "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "D-Link",
-  "Fortinet"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "合作伙伴与业务",
-   "quote": "Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.",
-   "url": "https://comtech.net.pk/",
-   "date": "2026-09-23"
-  },
-  {
-   "kind": "官网",
-   "claim": "D-Link 分销伙伴",
-   "quote": "As a D-Link distributor partner in Pakistan, Comtech deploys D-Link switches, the D-Link Eagle Pro AI Wi-Fi range, and D-Link surveillance solutions",
-   "url": "https://comtech.net.pk/our-technology-partners/",
-   "date": "2025-10-17"
-  },
-  {
-   "kind": "官网",
-   "claim": "行业客户含工业/地产 CCTV",
-   "quote": "• Industrial & Real Estate – CCTV, IoT integration, and remote asset access",
-   "url": "https://comtech.net.pk/networking-support-services/",
-   "date": "2025-08-06"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与成立",
-   "quote": "Comtech Associate … Company size: 11-50 employees … Headquarters: karachi, sindh … Founded: 2010",
-   "url": "https://pk.linkedin.com/company/comtech-one-solution",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "电话 = 用户表 WA 号",
-   "quote": "Comtech's phone number is +92 3352876148",
-   "url": "https://www.zoominfo.com/c/comtech/470605669",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "闭路电视安全；40 次跟进；WA 已加",
-   "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（姓名未记录；WA 号 +92 335 287 6148）",
-   "role": "（待核）",
-   "email": "marketing@comtech.net.pk（官网公开）",
-   "phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
-   "source": "https://www.zoominfo.com/c/comtech/470605669"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
-  "founded": "2010（LinkedIn）",
-  "hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
-  "size": "11–50（LinkedIn）",
-  "other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
- },
- "business_lines": [
-  "网络基础设施集成（Cisco、D-Link）",
-  "网络安全（Fortinet、托管 SOC）",
-  "数据中心/云、托管 IT、软件"
- ],
- "channels": {
-  "网站": "https://comtech.net.pk/",
-  "电话": "+92 21 3440 4440（公开）；WhatsApp +92 335 287 6148（用户表，已加）",
-  "邮箱（公开）": "marketing@comtech.net.pk"
- },
- "signals": [
-  "D-Link 分销伙伴 + 工业/地产 CCTV/IoT 项目 → 无品牌 PoE 作「预算层」补位；40 次推送无回复 → 改 WhatsApp 短消息 + 单一问题"
- ],
- "risks": [
-  "Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）"
- },
- "email_hook": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；S/A 邮箱 0 封",
-   "type": "—",
-   "sieve": "3（已加 WhatsApp，表内有往来）",
-   "stop": "仓库只有用户表一行；往来在 Simon 手机",
-   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 0；用户表：「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；研究档 risks：Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
-  },
-  "situation": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
-  "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
-  "breakpoint": "Cisco 文化（品牌偏好）；南亚非主攻区；无回复",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11（Simon）",
-   "channel": "A 邮箱首封 + WhatsApp（Simon）",
-   "action": "首封 + 一句话",
-   "one_question": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-430",
+  "name_official": "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "D-Link",
+    "Fortinet"
   ],
-  "proof_gaps": [
-   "WhatsApp 往来未入库"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "合作伙伴与业务",
+      "quote": "Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.",
+      "url": "https://comtech.net.pk/",
+      "date": "2026-09-23"
+    },
+    {
+      "kind": "官网",
+      "claim": "D-Link 分销伙伴",
+      "quote": "As a D-Link distributor partner in Pakistan, Comtech deploys D-Link switches, the D-Link Eagle Pro AI Wi-Fi range, and D-Link surveillance solutions",
+      "url": "https://comtech.net.pk/our-technology-partners/",
+      "date": "2025-10-17"
+    },
+    {
+      "kind": "官网",
+      "claim": "行业客户含工业/地产 CCTV",
+      "quote": "• Industrial & Real Estate – CCTV, IoT integration, and remote asset access",
+      "url": "https://comtech.net.pk/networking-support-services/",
+      "date": "2025-08-06"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与成立",
+      "quote": "Comtech Associate … Company size: 11-50 employees … Headquarters: karachi, sindh … Founded: 2010",
+      "url": "https://pk.linkedin.com/company/comtech-one-solution",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "电话 = 用户表 WA 号",
+      "quote": "Comtech's phone number is +92 3352876148",
+      "url": "https://www.zoominfo.com/c/comtech/470605669",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "闭路电视安全；40 次跟进；WA 已加",
+      "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（姓名未记录；WA 号 +92 335 287 6148）",
+      "role": "（待核）",
+      "email": "marketing@comtech.net.pk（官网公开）",
+      "phone": "+92 335 287 6148（用户表 WA = ZoomInfo 公司电话）",
+      "source": "https://www.zoominfo.com/c/comtech/470605669"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Comtech Associates（Pvt.）Ltd.（全称待核）",
+    "founded": "2010（LinkedIn）",
+    "hq": "Office 53/3 Sheet 17 Khadim Avenue, Karachi；The Hive 3rd Floor, NASTP, Shahrah-e-Faisal（+92 21 3440 4440 / 4441；+92 331 114 4220；marketing@comtech.net.pk）",
+    "size": "11–50（LinkedIn）",
+    "other": "Cisco / Fortinet / D-Link 伙伴；24/7 SOC；四城办公"
+  },
+  "business_lines": [
+    "网络基础设施集成（Cisco、D-Link）",
+    "网络安全（Fortinet、托管 SOC）",
+    "数据中心/云、托管 IT、软件"
+  ],
+  "channels": {
+    "网站": "https://comtech.net.pk/",
+    "电话": "+92 21 3440 4440（公开）；WhatsApp +92 335 287 6148（用户表，已加）",
+    "邮箱（公开）": "marketing@comtech.net.pk"
+  },
+  "signals": [
+    "D-Link 分销伙伴 + 工业/地产 CCTV/IoT 项目 → 无品牌 PoE 作「预算层」补位；40 次推送无回复 → 改 WhatsApp 短消息 + 单一问题"
+  ],
+  "risks": [
+    "Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）"
+  },
+  "email_hook": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；S/A 邮箱 0 封",
+      "type": "—",
+      "sieve": "3（已加 WhatsApp，表内有往来）",
+      "stop": "仓库只有用户表一行；往来在 Simon 手机",
+      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+      "lane": "巴基斯坦 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 0；用户表：「闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦」；研究档 risks：Cisco 文化（品牌偏好）；南亚非主攻区；无回复"
+    },
+    "situation": "卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。",
+    "need": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
+    "breakpoint": "Cisco 文化（品牌偏好）；南亚非主攻区；无回复",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（Simon）",
+      "channel": "A 邮箱首封 + WhatsApp（Simon）",
+      "action": "首封 + 一句话",
+      "one_question": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "WhatsApp 往来未入库"
+    ],
+    "draft_en": {
+      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+      "body": "Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?"
+    },
+    "as_of": "2026-10-24"
+  }
 }
