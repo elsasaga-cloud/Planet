@@ -1,0 +1,22 @@
+{
+"id":"1Zdo-XfucKOSsiv-rDeFEvZW67jqr5hGC",
+"name":"Power supply.png",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-180FE/Power supply.png",
+"type":"图片",
+"bytes":297510,
+"sha256":"9e6f3d4d21956ab2f80f92c3a413673c150d61842f09571210dfec4b9b788d74",
+"extracted_at":"2026-10-24T03:26:06Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"PNG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"thumb_bytes":7374
+},
+"ocr":{
+"text":"十 一 +\nNonfPoEDC 12.58V; POEDC 44S7V",
+"conf":63.2
+},
+"text":"十 一 +\nNonfPoEDC 12.58V; POEDC 44S7V"
+}
