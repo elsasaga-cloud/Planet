@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+22 实质回复 1 次；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-01 → 2025-04-01）；最近一次客户回复：2025-04-01：XVLAN or MPLS?
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）
-- **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
+- **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串） 发 CENTEC 支持矩阵
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch））——美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：N；E；T；C；O；N；F；/；控；制；器； ；A；P；I； ；仓；库；无；证； ；→； ；信；里；只；写； ；C；L；I；/；S；N；M；P；；；1；0；G； ；汇；聚；型；号；无；价； ；→； ；不；写
 - **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵
-  - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
+  - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

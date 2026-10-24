@@ -115,7 +115,7 @@
       "when": "现在",
       "channel": "A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）",
       "action": "发 CENTEC 支持矩阵",
-      "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?"
+      "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?"
     },
     "facts": [
       {
