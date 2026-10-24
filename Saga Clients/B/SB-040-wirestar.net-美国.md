@@ -112,7 +112,7 @@ updated: 2026-10-24
   - MDU WiFi 部署 = 每栋楼多台 PoE 接入交换机供 AP + 10G 上联——与 STC-424DGGPM-280W / STC-424XGGPM-280W 口型完全一致；美国客户需在二封前问 UL（INH 规则）
 - **风险/边界**：US 运营商常要求 UL 列名与 TAA（其有 SAM 登记）——Saga 仅 FCC/CE；仅 1 次回复 + 1 次跟进，需重新激活
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（25% 档）——运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM
-- **邮件切入句（英文）**：For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?
+- **邮件切入句（英文）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

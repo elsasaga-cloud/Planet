@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 批发商要商用 PoE → 8/16/24 口非管理走量价
 - **风险/边界**：无公开资料；语言；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）
-- **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?
+- **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 33,2 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

@@ -54,7 +54,7 @@
     "tier": 25,
     "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
   },
-  "email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?",
+  "email_hook": "Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（2024-10-30 Chavan 问 Web 管理 10G 款「有没有 HTTPS、能不能装第三方证书」→ Simon「HTTPS is NOT on the function list」；无后续）",

@@ -103,7 +103,7 @@ updated: 2026-10-24
   - 站内已有「Yönetilebilir Layer 2 Gigabit Ethernet PoE Switch」品类 → 直接比价上架；电商对 8 口 PoE 价格敏感
 - **风险/边界**：档口电商、比价为主；ISAF 未交谈；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
-- **邮件切入句（英文）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
+- **邮件切入句（英文）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 

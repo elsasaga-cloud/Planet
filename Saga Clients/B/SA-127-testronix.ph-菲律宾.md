@@ -104,7 +104,7 @@ updated: 2026-10-24
   - 大量采购光模块 → SFP 需求（Q-32）；可搭 2 SFP 交换机/MC
 - **风险/边界**：SFP 不在价格表；亚太非主攻区；1 次跟进无回复
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
-- **邮件切入句（英文）**：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
+- **邮件切入句（英文）**：Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -243,7 +243,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
+Picking up our earlier exchange about PoE / industrial switches. Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

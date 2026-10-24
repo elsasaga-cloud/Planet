@@ -107,7 +107,7 @@ updated: 2026-10-24
   - POS/零售门店组网 → 5/8 口千兆与 8 口 PoE 小机为配套 SKU；有香港公司 → 熟悉中国采购、可走 HK 结算
 - **风险/边界**：主业 POS，交换机为边缘品类；ISAF 未交谈；无后续跟进
 - **Saga 对位结论**：P1 STC-028GP（20% 档）——配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）
-- **邮件切入句（英文）**：Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?
+- **邮件切入句（英文）**：Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

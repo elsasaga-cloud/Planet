@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 明确对 5 口升压 PoE 感兴趣 → 走量小机；WhatsApp 直达
 - **风险/边界**：无邮箱；升压版是否在 HRUI 现货需核；无后续跟进
 - **Saga 对位结论**：P1 STC-114GP（25% 档）——默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）
-- **邮件切入句（英文）**：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
+- **邮件切入句（英文）**：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 17,8 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 

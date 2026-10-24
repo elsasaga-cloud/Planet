@@ -135,7 +135,7 @@ updated: 2026-10-24
   - 自有品牌 + ODM 口型 → 第二 ODM 来源机会：STI-288DGGPM / STI-21616GP / STI-448XGGGPM 一一对位其 PIGE/PIXE 主力；1 次实质回复（用户表）
 - **风险/边界**：守界：客户市场含铁路与 M.O.D.——Saga 只供通用工业机，不做 EN50155/军规；UK 需 UKCA（Saga 有）；品牌商对固件/网管（自家 Open Management Platform）有整合要求，OEM 需 SNMP MIB 文档支持
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA
-- **邮件切入句（英文）**：For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?
+- **邮件切入句（英文）**：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

@@ -95,7 +95,7 @@ updated: 2026-10-24
   - 需求具体：1 SFP + 8 GE PoE 非管理工业机 → Saga STI-288GP（2 SFP + 8 PoE）最接近
 - **风险/边界**：WhatsApp 加不上；14 次跟进无果
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）
-- **邮件切入句（英文）**：For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?
+- **邮件切入句（英文）**：Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?
 
 ## 在卖/在用品牌 → Saga 对位
 

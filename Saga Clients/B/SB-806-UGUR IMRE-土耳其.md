@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 对 $70 报价回复 Not bad → 价格带接受；需从 Ady 名片补邮箱/电话再跟
 - **风险/边界**：无联系渠道（微信未通过）；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）
-- **邮件切入句（英文）**：Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?
+- **邮件切入句（英文）**：Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?
 
 ## 在卖/在用品牌 → Saga 对位
 

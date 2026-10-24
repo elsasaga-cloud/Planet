@@ -113,7 +113,7 @@ updated: 2026-10-24
   - 售价/成本比 4–5 倍 → 换源动机强；型号命名与 CTC Union 一致 → 对比表可直接给出
 - **风险/边界**：用户定级 B 低优先；22 次推送 0 回复；现有贴牌来源稳定
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12
-- **邮件切入句（英文）**：A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
+- **邮件切入句（英文）**：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -281,7 +281,7 @@ updated: 2026-10-24
 ```text
 Hi Zack,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Megatel IGS-803SM-8PH24 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

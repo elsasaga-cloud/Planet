@@ -128,7 +128,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
   },
-  "email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?",
+  "email_hook": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.",
   "deal_pi": {
     "folder": "4 俄罗斯 Andrey 货代走账 可发展",
     "simon_label": "可发展",

@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 要商用 PoE + catalog → 直接发目录与价目；先从新桥处的彩页补齐公司名/域名/国家
 - **风险/边界**：国家与主体待核；无邮箱；无后续跟进
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）
-- **邮件切入句（英文）**：Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?
+- **邮件切入句（英文）**：Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?
 
 ## 在卖/在用品牌 → Saga 对位
 

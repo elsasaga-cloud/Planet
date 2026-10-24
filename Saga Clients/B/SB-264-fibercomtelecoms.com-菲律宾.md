@@ -95,7 +95,7 @@ updated: 2026-10-24
   - 跳线/SFP 经销商 → 2 SFP PoE 交换机与 MC 是自然延伸品类
 - **风险/边界**：亚太非主攻区；1 次跟进无回复；配件商利润薄
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
-- **邮件切入句（英文）**：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
+- **邮件切入句（英文）**：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -232,7 +232,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
+Picking up our earlier exchange about PoE / industrial switches. Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

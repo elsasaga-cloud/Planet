@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 8 口交换机样品已成交 → 复购点是同口型批量价
 - **风险/边界**：非洲非主攻区；无公司资料；葡语市场
 - **Saga 对位结论**：P1 STC-08GE（25% 档）——默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
-- **邮件切入句（英文）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
+- **邮件切入句（英文）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?
 
 ## 在卖/在用品牌 → Saga 对位
 

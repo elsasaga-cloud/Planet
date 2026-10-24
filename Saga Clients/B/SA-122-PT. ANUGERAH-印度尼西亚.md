@@ -100,7 +100,7 @@ updated: 2026-10-24
   - 老客户（2011 延长器 12 台）→ 延长器类不在 Saga 现 SKU（Q-32），改推 PoE 交换机
 - **风险/边界**：延长器 SKU 缺口；亚太非主攻区；1 次跟进无回复
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
-- **邮件切入句（英文）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
+- **邮件切入句（英文）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
 
@@ -231,7 +231,7 @@ updated: 2026-10-24
 ```text
 Hi Nur,
 
-Picking up our earlier exchange about PoE / industrial switches. Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
+Picking up our earlier exchange about PoE / industrial switches. Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

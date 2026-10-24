@@ -75,7 +75,7 @@
     "tier": 20,
     "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）"
   },
-  "email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
+  "email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 sales@avicam-bg.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
@@ -93,7 +93,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-07-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+      "price": "STC-028GP $25.1（洪瑞 2026-09-30 进价 140 CNY +20%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-07-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
       "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）。已打开的主题（1/16 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
@@ -102,7 +102,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
+      "one_question": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
     },
     "facts": [
       {

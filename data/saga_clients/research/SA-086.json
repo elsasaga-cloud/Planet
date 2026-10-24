@@ -71,7 +71,7 @@
     "tier": 20,
     "why": "批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP"
   },
-  "email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?",
+  "email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jimmy@safe-tech.se；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",

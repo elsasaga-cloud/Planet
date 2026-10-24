@@ -55,7 +55,7 @@
     "tier": 25,
     "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）"
   },
-  "email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
+  "email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 34,6 USD, L2 yönetilebilir sürüm 74,0 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 boraerim@gmail.com；主题多为「Updated Ethernet Switches Links」）",

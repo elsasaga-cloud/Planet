@@ -127,7 +127,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X"
   },
-  "email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?",
+  "email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?",
   "mail_review": {
     "binding": {
       "level": "未触达（S 邮箱 6 封 2024→2025，无记录打开，0 回；收件 info@fibotelecom.ru；主题多为「PoE Switch、48 port managed switch」）",

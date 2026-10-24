@@ -110,7 +110,7 @@ updated: 2026-10-24
   - 大量进口光模块 + 运营商客户 → SFP（Q-32）与 2 SFP 接入交换机/MC 配套；副总具名可直达
 - **风险/边界**：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
-- **邮件切入句（英文）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+- **邮件切入句（英文）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -234,7 +234,7 @@ updated: 2026-10-24
 ```text
 Hi Cao,
 
-Picking up our earlier exchange about PoE / industrial switches. Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+Picking up our earlier exchange about PoE / industrial switches. Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

@@ -90,7 +90,7 @@
     "tier": 20,
     "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议"
   },
-  "email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
+  "email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
   "mail_review": {
     "binding": {
       "level": "未发信（S/A 邮箱均无往来；来源：用户表「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vit」）",

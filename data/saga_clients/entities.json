@@ -14456,7 +14456,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2；贴牌加价另议）对应「商业 2 光 8 管理 PoE」；非管理 STC-228GP（$30.8）；工业 STI-288GPM（$85.5）"
 },
-"email_hook": "Андрей, по вашему запросу «2 SFP + 8 PoE управляемый»: готовы поставлять под маркой БитБук — L2 управляемый 62,2 USD EXW, неуправляемый 30,8 USD, расчёт в CNY/USD, нейтральная или ваша упаковка. Какой первый тираж для вашей дилерской сети?",
+"email_hook": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.",
 "deal_pi": {
 "folder": "4 俄罗斯 Andrey 货代走账 可发展",
 "simon_label": "可发展",
@@ -18247,7 +18247,7 @@
 "tier": 25,
 "why": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核"
 },
-"email_hook": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?",
+"email_hook": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；S/A 邮箱 0 封",
@@ -40945,7 +40945,7 @@
 "tier": 20,
 "why": "批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP"
 },
-"email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?",
+"email_hook": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jimmy@safe-tech.se；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
@@ -41654,7 +41654,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X"
 },
-"email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?",
+"email_hook": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?",
 "mail_review": {
 "binding": {
 "level": "未触达（S 邮箱 6 封 2024→2025，无记录打开，0 回；收件 info@fibotelecom.ru；主题多为「PoE Switch、48 port managed switch」）",
@@ -49617,7 +49617,7 @@
 "tier": 25,
 "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W"
 },
-"email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?",
+"email_hook": "James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.",
 "mail_review": {
 "binding": {
 "level": "轻度触达·明确无需求（WhatsApp 活着：2023-12→2025-02 每次推送都有回，但 7 次「暂时没需求」+ 2024-10「还有库存」；A 邮箱 3 封 2026 无打开）",
@@ -53981,7 +53981,7 @@
 "tier": 25,
 "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
 },
-"email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?",
+"email_hook": "Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?",
 "mail_review": {
 "binding": {
 "level": "未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音）",
@@ -55801,7 +55801,7 @@
 "tier": 20,
 "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
 },
-"email_hook": "Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?",
+"email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）",
@@ -56961,7 +56961,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32"
 },
-"email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?",
+"email_hook": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?",
 "mail_review": {
 "binding": {
 "level": "未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 gunawan@pt-aag.co.id；主题多为「48 port managed switch、Industrial poe switch」）",
@@ -58664,7 +58664,7 @@
 "tier": 25,
 "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）"
 },
-"email_hook": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?",
+"email_hook": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 sales@testronix.com.ph；主题多为「24 Port Fiber Switch」）",
@@ -62335,7 +62335,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12"
 },
-"email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?",
+"email_hook": "Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?",
 "mail_review": {
 "binding": {
 "level": "未绑定（VP Sales 2024-11 要 10G MC 规格书 → 给了 → 无下文）",
@@ -64636,7 +64636,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32"
 },
-"email_hook": "Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?",
+"email_hook": "Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?",
 "mail_review": {
 "binding": {
 "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@comtec.com.vn；主题多为「10G Media Converter」）",
@@ -68406,7 +68406,7 @@
 "tier": 25,
 "why": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价"
 },
-"email_hook": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?",
+"email_hook": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
@@ -83844,7 +83844,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）"
 },
-"email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
+"email_hook": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 sales@avicam-bg.com；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
@@ -83862,7 +83862,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-07-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+"price": "STC-028GP $25.1（洪瑞 2026-09-30 进价 140 CNY +20%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-07-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
 "why": "分销 20% 档：STC-28DGGPM（$80.7）；AVICAM 标白牌用 Realtek 线 STC-028GP（$24.2）/ STC-024GP（$18.7）。已打开的主题（1/16 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
@@ -83871,7 +83871,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $24.2 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
+"one_question": "Alongside the RaySharp recorders you represent, an 8-port gigabit PoE switch under the AVICAM label is $25.1 EXW (managed with 2 SFP $80.7); would you like the label mock-up and a 5-unit trial price?"
 },
 "facts": [
 {
@@ -91008,7 +91008,7 @@
 "tier": 25,
 "why": "运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM"
 },
-"email_hook": "For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?",
+"email_hook": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）",
@@ -93151,7 +93151,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）"
 },
-"email_hook": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?",
+"email_hook": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；S/A 邮箱 0 封",
@@ -94906,7 +94906,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU"
 },
-"email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
+"email_hook": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 purchase@addon-tech.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
@@ -94924,7 +94924,7 @@
 "saga_now": {
 "p1": "STC-028GP",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+"price": "STC-028GP $27.2（洪瑞 2026-09-30 进价 140 CNY +30%，Q-47；Drive 旧表 $24.2 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
 "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
@@ -94933,7 +94933,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
+"one_question": "For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $27.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?"
 },
 "facts": [
 {
@@ -96813,7 +96813,7 @@
 "tier": 20,
 "why": "进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机"
 },
-"email_hook": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?",
+"email_hook": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $25.1 — shall I send a Bulgarian-language one-page spec for your web shop?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 akasabov@kassaba.bg, kkassabow@kassabasystems.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
@@ -97554,7 +97554,7 @@
 "tier": 20,
 "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议"
 },
-"email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
+"email_hook": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vit」）",
@@ -102185,7 +102185,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附"
 },
-"email_hook": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?",
+"email_hook": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣」；S/A 邮箱 0 封",
@@ -107672,7 +107672,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对"
 },
-"email_hook": "Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?",
+"email_hook": "Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（2025-03-17 Alan 对其 RFQ「MOH-TA-170325」出了 500 台报价：STI-288DGGPM-2BT ×400 + STI-42424XGGPM ×100，装箱单 42 箱 760 kg；对方 5 封实质回复：报价顺序质疑 → 「too expensive」→ 要差异说明 → 要户外版 → 2025-05-15「no news yet」；之后 Alan 11 封群发无回）",
@@ -111379,7 +111379,7 @@
 "tier": 20,
 "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
 },
-"email_hook": "Vinod, for the 24-PoE price you asked in June — $134.5 EXW at 1 pc (24 PoE + 4 uplinks, 280 W, Marvell); what carton quantity do you usually pull for CCTV jobs, 10 or 20?",
+"email_hook": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?",
 "mail_review": {
 "binding": {
 "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）",
@@ -112015,7 +112015,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）"
 },
-"email_hook": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?",
+"email_hook": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?",
 "country_fix": "塞尔维亚",
 "mail_review": {
 "binding": {
@@ -118373,7 +118373,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）"
 },
-"email_hook": "Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?",
+"email_hook": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）",
@@ -155240,7 +155240,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）"
 },
-"email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?",
+"email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 5 封 2024→2026，1 次记录打开，0 回；收件 dauren.boltaev@mail.ru, dboltaev@gmail.com；主题多为「10G L3 Managed Switch、Saga Q3 Product Links」）",
@@ -159666,7 +159666,7 @@
 "tier": 20,
 "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）"
 },
-"email_hook": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?",
+"email_hook": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 90 53226 48990 已加」；S/A 邮箱 0 封",
@@ -173049,7 +173049,7 @@
 "tier": 25,
 "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）"
 },
-"email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
+"email_hook": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页， 没说要什么产品 / 0542 744 9695 已加」；S/A 邮箱 0 封",
@@ -178466,7 +178466,7 @@
 "tier": 20,
 "why": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）"
 },
-"email_hook": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?",
+"email_hook": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「没做交谈，给了名片 / 054176 47863 已加」；S/A 邮箱 0 封",
@@ -209307,7 +209307,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）"
 },
-"email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?",
+"email_hook": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 d.bianco@elsikr.it, m.sciumbata@elsikr.it；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
@@ -254195,7 +254195,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）"
 },
-"email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?",
+"email_hook": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 2 封 2025，无记录打开，0 回；收件 inquiry@fibercomtelecoms.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）",
@@ -254688,7 +254688,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线"
 },
-"email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?",
+"email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）",
@@ -256579,7 +256579,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）"
 },
-"email_hook": "Василий, вы уже работаете с продукцией HRUI — наша линейка STC это те же платформы: 2 SFP + 8 PoE управляемый 62,2 USD, неуправляемый 30,8 USD, 24 PoE 93,5 USD EXW. Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен?",
+"email_hook": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「洪瑞产品 / 7 903 324-3333 已加 / 成单客户」；S/A 邮箱 0 封",
@@ -257747,7 +257747,7 @@
 "tier": 25,
 "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）"
 },
-"email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?",
+"email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 34,6 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yanginguvenliksistemleri@gmail.com 」；S/A 邮箱 0 封",
@@ -275981,7 +275981,7 @@
 "tier": 25,
 "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）"
 },
-"email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?",
+"email_hook": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?",
 "mail_review": {
 "binding": {
 "level": "读而不回（A/S 邮箱 28 封 2024→2026，其中 2 封被打开，0 回；收件 logan@longtek.co.uk；被打开主题「8 Port Industrial PoE Switch、Managed Optical Bypass Switch」）",
@@ -294232,7 +294232,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂无对应型号）"
 },
-"email_hook": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?",
+"email_hook": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 77,0 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站」）",
@@ -313166,7 +313166,7 @@
 "tier": 20,
 "why": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。"
 },
-"email_hook": "Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?",
+"email_hook": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?",
 "mail_review": {
 "binding": {
 "level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）",
@@ -319401,7 +319401,7 @@
 "tier": 25,
 "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
 },
-"email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?",
+"email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封",
@@ -323680,7 +323680,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA"
 },
-"email_hook": "For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?",
+"email_hook": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?",
 "mail_review": {
 "binding": {
 "level": "轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）",
@@ -331962,7 +331962,7 @@
 "tier": 25,
 "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）"
 },
-"email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
+"email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 34,6 USD, L2 yönetilebilir sürüm 74,0 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
 "mail_review": {
 "binding": {
 "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 boraerim@gmail.com；主题多为「Updated Ethernet Switches Links」）",
@@ -367144,7 +367144,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）"
 },
-"email_hook": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.",
+"email_hook": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「要PoE交换机 拿了彩页 / 90 538 985 9429 已加」；S/A 邮箱 0 封",
@@ -367673,7 +367673,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供"
 },
-"email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?",
+"email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封",
@@ -370685,7 +370685,7 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）"
 },
-"email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?",
+"email_hook": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「不会英文， 要catalog / 0(224) 364 1888 加不上」）",
@@ -371632,7 +371632,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）"
 },
-"email_hook": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?",
+"email_hook": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 17,8 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr」；S/A 邮箱 0 封",
@@ -381615,7 +381615,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）"
 },
-"email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?",
+"email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?",
 "mail_review": {
 "binding": {
 "level": "未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」）",
@@ -395043,7 +395043,7 @@
 "tier": 25,
 "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。"
 },
-"email_hook": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?",
+"email_hook": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 korino77@naver.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
@@ -413599,7 +413599,7 @@
 "tier": 25,
 "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
 },
-"email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
+"email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封",
@@ -416122,7 +416122,7 @@
 "tier": 25,
 "why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
 },
-"email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?",
+"email_hook": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）",
@@ -420095,7 +420095,7 @@
 "tier": 25,
 "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
 },
-"email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?",
+"email_hook": "Chavan — closing the loop on your Oct-2024 question: HTTPS web management is now standard on our AC5 units (firmware 7.5); third-party certificate upload I will confirm on the exact model before you order. Is the 10G web-managed switch still on your list?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（2024-10-30 Chavan 问 Web 管理 10G 款「有没有 HTTPS、能不能装第三方证书」→ Simon「HTTPS is NOT on the function list」；无后续）",
@@ -427514,7 +427514,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
 },
-"email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
+"email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 33,2 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；S/A 邮箱 0 封",
@@ -429558,7 +429558,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）"
 },
-"email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?",
+"email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD」；S/A 邮箱 0 封",
@@ -430242,7 +430242,7 @@
 "tier": 25,
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）"
 },
-"email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
+"email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封",
@@ -433652,7 +433652,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
 },
-"email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
+"email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
 "mail_review": {
 "binding": {
 "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封",
@@ -490321,7 +490321,7 @@
 "tier": 20,
 "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表"
 },
-"email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?",
+"email_hook": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?",
 "mail_review": {
 "binding": {
 "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@egemenelektronik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",

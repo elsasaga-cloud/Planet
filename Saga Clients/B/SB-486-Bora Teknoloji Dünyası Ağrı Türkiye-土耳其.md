@@ -99,7 +99,7 @@ updated: 2026-10-24
   - 10 台 2 光 8 PoE 商业机 = 可立即成交的小单；价格敏感地区
 - **风险/边界**：微型、无域名；运费占比高；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）
-- **邮件切入句（英文）**：Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
+- **邮件切入句（英文）**：Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 34,6 USD, L2 yönetilebilir sürüm 74,0 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,7 +202,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
+Picking up our earlier exchange about PoE / industrial switches. Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 34,6 USD, L2 yönetilebilir sürüm 74,0 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

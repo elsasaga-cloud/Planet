@@ -126,7 +126,7 @@ updated: 2026-10-24
   - 无源品牌向有源延伸的典型 OEM 场景：Briticom 标 PoE/10G 接入交换机与其机柜、光缆成套销售给分销商/安装商；UKCA 由 Saga 提供
 - **风险/边界**：有源产品需要其建立技术支持/RMA 能力——首单宜小批量；仅 1 次回复 + 1 次跟进；【2026-10-22 F16 补录】teltronix.net 域名此前不在档内（只有 briticom.net）→ 本轮并入；2024-09 的 20 台 RFQ 要「冗余电源 + 堆叠」，当年 Saga 没有、现在 STC-4168XGGCM 双 AC / CENTEC 堆叠已有 → 可拿这条旧 RFQ 重开（先问项目是否还在）
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）
-- **邮件切入句（英文）**：Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?
+- **邮件切入句（英文）**：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 

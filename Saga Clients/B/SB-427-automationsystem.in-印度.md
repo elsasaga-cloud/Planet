@@ -110,7 +110,7 @@ updated: 2026-10-24
   - 要了 2 光 4 PoE DS（2025-04）
 - **风险/边界**：ONV 价格基准低；印度 BIS
 - **Saga 对位结论**：P1 STI-244GP（20% 档）——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
-- **邮件切入句（英文）**：Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?
+- **邮件切入句（英文）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

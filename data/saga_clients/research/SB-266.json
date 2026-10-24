@@ -49,7 +49,7 @@
     "tier": 20,
     "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线"
   },
-  "email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?",
+  "email_hook": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）",

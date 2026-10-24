@@ -129,7 +129,7 @@ updated: 2026-10-24
   - 高增长（2023 +201%）、自有大楼 → 有库存采购能力
 - **风险/边界**：已有 Netgear 等品牌交换机；土耳其进口关税与汇率波动；2 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表
-- **邮件切入句（英文）**：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
+- **邮件切入句（英文）**：Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -279,7 +279,7 @@ updated: 2026-10-24
 ```text
 Hi Belkız,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

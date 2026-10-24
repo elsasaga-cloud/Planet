@@ -127,7 +127,7 @@ updated: 2026-10-24
   - 客户群含军方/VVIP 宫殿/政府 → 按个案守界，仅供民用安防网络层
 - **风险/边界**：守界（军方/政府项目）；伊拉克业务付款与物流；小团队
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）
-- **邮件切入句（英文）**：Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?
+- **邮件切入句（英文）**：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -324,7 +324,7 @@ updated: 2026-10-24
 ```text
 Hi Mohamad,
 
-Picking up our earlier exchange about PoE / industrial switches. Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?
+Picking up our earlier exchange about PoE / industrial switches. Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -55,7 +55,7 @@
     "tier": 25,
     "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）"
   },
-  "email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
+  "email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
   "mail_review": {
     "binding": {
       "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封",

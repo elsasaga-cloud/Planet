@@ -111,7 +111,7 @@ updated: 2026-10-24
   - SFP / 10G 品类深 → 10G 上联机型可配
 - **风险/边界**：蒙古物流（经二连浩特陆运）与小量；SFP 为其主品类（Saga 无模块）
 - **Saga 对位结论**：P1 STC-2216GPM（20% 档）——16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
-- **邮件切入句（英文）**：Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?
+- **邮件切入句（英文）**：Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

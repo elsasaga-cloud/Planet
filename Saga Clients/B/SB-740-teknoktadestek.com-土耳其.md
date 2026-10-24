@@ -102,7 +102,7 @@ updated: 2026-10-24
   - 网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会
 - **风险/边界**：小型；ISAF 未表达需求；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
-- **邮件切入句（英文）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+- **邮件切入句（英文）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

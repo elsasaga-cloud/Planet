@@ -106,7 +106,7 @@ updated: 2026-10-24
   - 海湾度假区住宅/商铺 CCTV → 8 口 PoE 非管理小机为主；价格敏感
 - **风险/边界**：微型、单量小；需求未表达；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）
-- **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+- **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

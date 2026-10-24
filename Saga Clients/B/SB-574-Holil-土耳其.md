@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 明确要 PoE 交换机 → WhatsApp 发 8 口 PoE 报价并问公司名
 - **风险/边界**：无邮箱/公司信息；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）
-- **邮件切入句（英文）**：Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.
+- **邮件切入句（英文）**：Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.
 
 ## 在卖/在用品牌 → Saga 对位
 

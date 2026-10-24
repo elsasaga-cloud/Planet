@@ -117,7 +117,7 @@ updated: 2026-10-24
   - 批发身份 + 展会主动到访 → 可按 20% 档谈小批量；营收下滑 → 对低价白牌 PoE 敏感
 - **风险/边界**：3 人、亏损；6 次推送 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP
-- **邮件切入句（英文）**：Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?
+- **邮件切入句（英文）**：Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hi Jimmy,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

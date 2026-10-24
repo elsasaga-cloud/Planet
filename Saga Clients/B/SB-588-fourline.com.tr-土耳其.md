@@ -107,7 +107,7 @@ updated: 2026-10-24
   - 已有自有品牌 + 经销网 → 4/8 口 PoE 贴 Fourline 牌是自然延伸；官网 GSM 0555 995 5442 可补加 WhatsApp
 - **风险/边界**：低价卫星/CCTV 市场极度比价；语言；无后续跟进
 - **Saga 对位结论**：P1 STC-028GP（30% 档）——OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
-- **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+- **邮件切入句（英文）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -222,7 +222,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+Picking up our earlier exchange about PoE / industrial switches. Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

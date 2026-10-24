@@ -91,7 +91,7 @@
     "tier": 20,
     "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
   },
-  "email_hook": "Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?",
+  "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）",

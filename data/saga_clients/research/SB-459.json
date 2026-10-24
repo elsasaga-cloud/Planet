@@ -133,7 +133,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STI-288DGGPM 对位 PIGE-8T-2S-G；STI-21616GP 对位 PIGE-16T-4S-G；STI-448XGGGPM 对位 PIXE-12T-4SX-G；Case 标 + UKCA"
   },
-  "email_hook": "For the PIGE-8T-2S-G slot, a Marvell-based DIN 8-PoE+ 2-SFP managed unit (−40 to +75 °C, dual DC, G.8032) in Case packing is $151.6 EXW with full SNMP MIBs; is a second ODM source something you evaluate this quarter?",
+  "email_hook": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?",
   "mail_review": {
     "binding": {
       "level": "轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）",

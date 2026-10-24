@@ -55,7 +55,7 @@
     "tier": 20,
     "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）"
   },
-  "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
+  "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封",

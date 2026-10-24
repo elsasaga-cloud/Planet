@@ -123,7 +123,7 @@ updated: 2026-10-24
   - 已有 Linxcom 标有源线（MC、管理交换机）→ 直接按型号对位补货/换源；关注 MC/SFP → STI-110GE/STI-111GP
 - **风险/边界**：已有中国供应链（远东仓、中国办公室）→ 价格比拼；1 次跟进后无回复
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——OEM 30% 档：STI-110GE 工业千兆 MC（$24.3）与 STC-28DGGPM 管理交换机（$87.4）贴 Linxcom 标；10G OEO 用 STC-424XGGM 核对
-- **邮件切入句（英文）**：Hussain, for the Linxcom active range: an industrial gigabit media converter (DIN, 12–58 V DC) is $24.3 EXW and the 8-port PoE+ managed switch with 2 SFP $87.4, both with your label and datasheet; which two SKUs sell most in your 60 markets?
+- **邮件切入句（英文）**：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

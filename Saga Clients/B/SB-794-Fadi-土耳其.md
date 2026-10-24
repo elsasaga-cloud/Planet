@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 收发器 + 交换机 → 光纤接入小组合（MC/2 SFP 小机 + SFP 另询）
 - **风险/边界**：身份不明；SFP 未在价格表；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）
-- **邮件切入句（英文）**：Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.
+- **邮件切入句（英文）**：Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.
 
 ## 在卖/在用品牌 → Saga 对位
 

@@ -95,7 +95,7 @@ updated: 2026-10-24
   - 已习惯从中国直采 → 价格敏感、决策快；CCTV 配套 PoE 8/16 口
 - **风险/边界**：亚太非主攻区；1 次跟进无回复；低价竞争
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
-- **邮件切入句（英文）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
+- **邮件切入句（英文）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -230,7 +230,7 @@ updated: 2026-10-24
 ```text
 Hi Cabling,
 
-Picking up our earlier exchange about PoE / industrial switches. Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
+Picking up our earlier exchange about PoE / industrial switches. Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

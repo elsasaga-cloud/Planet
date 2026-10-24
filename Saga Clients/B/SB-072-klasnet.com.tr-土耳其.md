@@ -103,7 +103,7 @@ updated: 2026-10-24
   - 主动问「如何成为分销商」→ 可给 Bursa 区域代理条件（起订量、价格档、不独家）；主业光纤布线 → MC + 2 光口交换机 + SFP 捆绑
 - **风险/边界**：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
-- **邮件切入句（英文）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+- **邮件切入句（英文）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

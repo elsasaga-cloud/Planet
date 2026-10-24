@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 电气/消防承包商的 CCTV 配套 → 8 口 PoE 入门
 - **风险/边界**：无域名、无法核实规模；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）
-- **邮件切入句（英文）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
+- **邮件切入句（英文）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 34,6 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
 
 ## 在卖/在用品牌 → Saga 对位
 

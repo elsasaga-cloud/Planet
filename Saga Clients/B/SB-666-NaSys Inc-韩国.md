@@ -110,7 +110,7 @@ updated: 2026-10-24
   - 明确两口型 + 量大 + 要报价单
 - **风险/边界**：韩国 KC；35 次跟进无回复
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
-- **邮件切入句（英文）**：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
+- **邮件切入句（英文）**：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -285,7 +285,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
+Picking up our earlier exchange about PoE / industrial switches. Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

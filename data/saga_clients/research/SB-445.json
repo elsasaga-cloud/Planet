@@ -55,7 +55,7 @@
     "tier": 25,
     "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）"
   },
-  "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?",
+  "email_hook": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?",
   "mail_review": {
     "binding": {
       "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「千兆SFP收发器 成样品单 有自己的货代 / Mr.Seydou Jah / 询盘 2019.3.13」；S/A 邮箱 0 封",

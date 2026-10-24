@@ -126,7 +126,7 @@ updated: 2026-10-24
   - 布线与电信实施项目 → 每项目机柜级接入/汇聚交换机采购；1 次回复说明邮箱有效
 - **风险/边界**：规模口径不一（可能仅数人）；14 次推送无回复
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
-- **邮件切入句（英文）**：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
+- **邮件切入句（英文）**：James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -270,7 +270,7 @@ updated: 2026-10-24
 ```text
 Hi James,
 
-Picking up our earlier exchange about PoE / industrial switches. For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
+Picking up our earlier exchange about PoE / industrial switches. James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

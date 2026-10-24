@@ -110,7 +110,7 @@ updated: 2026-10-24
   - Dahua + TP-Link/Ruijie 分销商 → CCTV 配套 PoE 交换机走量；可做「Anıl 自有标」低价线避免与 TP-Link 正面冲突
 - **风险/边界**：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
-- **邮件切入句（英文）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+- **邮件切入句（英文）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -236,7 +236,7 @@ updated: 2026-10-24
 ```text
 Hi Cumhur,
 
-Picking up our earlier exchange about PoE / industrial switches. Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+Picking up our earlier exchange about PoE / industrial switches. Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

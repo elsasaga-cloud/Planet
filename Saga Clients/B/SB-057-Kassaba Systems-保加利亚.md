@@ -122,7 +122,7 @@ updated: 2026-10-24
   - 进口商身份 + 对 VC（视频光端机）系列熟悉 → PoE 交换机与光端机打包分销；20% 档
 - **风险/边界**：语言障碍（CEO 英语一般）；保加利亚非主动开拓市场；15 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机
-- **邮件切入句（英文）**：Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?
+- **邮件切入句（英文）**：Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $25.1 — shall I send a Bulgarian-language one-page spec for your web shop?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -277,7 +277,7 @@ updated: 2026-10-24
 ```text
 Hi Krastyo,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $25.1 — shall I send a Bulgarian-language one-page spec for your web shop?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -108,7 +108,7 @@ updated: 2026-10-24
   - 安防分销商 + 布拉格母公司渠道 → 8 口 PoE 与工业机可进其目录；塞尔维亚非欧盟（清关/关税单独）
 - **风险/边界**：小国小公司（被动跟进）；母公司集中采购可能在布拉格；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）
-- **邮件切入句（英文）**：Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?
+- **邮件切入句（英文）**：Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

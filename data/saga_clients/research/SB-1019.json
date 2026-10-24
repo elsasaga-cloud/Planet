@@ -105,7 +105,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）"
   },
-  "email_hook": "Since the Briticom range stops at passive, an 8-port PoE+ managed switch with 2 SFP uplinks in Briticom packing ($87.4 EXW, UKCA/CE) would let your distributors buy the active part of a cabinet from you too; would a sample for your lab be useful?",
+  "email_hook": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?",
   "mail_review": {
     "binding": {
       "level": "轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）",

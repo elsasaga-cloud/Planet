@@ -111,7 +111,7 @@ updated: 2026-10-24
   - 客户面含政府/国防 → 守界：仅民用电信/能源项目
 - **风险/边界**：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
 - **Saga 对位结论**：P1 STC-28GPM（25% 档）——集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
-- **邮件切入句（英文）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
+- **邮件切入句（英文）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

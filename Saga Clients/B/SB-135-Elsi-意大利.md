@@ -119,7 +119,7 @@ updated: 2026-10-24
   - 区域安防分销商 + Uniview 摄像 → 白牌 PoE 作配套 SKU（20%）；曾索要商业 PoE 价目表
 - **风险/边界**：意向弱（「没太多意愿」）；14 次跟进 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）
-- **邮件切入句（英文）**：Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
+- **邮件切入句（英文）**：Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -277,7 +277,7 @@ updated: 2026-10-24
 ```text
 Hi Domenico,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

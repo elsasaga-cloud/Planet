@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 现场明确要 PoE 交换机；语言障碍 → 用土耳其语短消息 + 图片报价
 - **风险/边界**：不懂英文；规模小
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价
-- **邮件切入句（英文）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?
+- **邮件切入句（英文）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -221,7 +221,7 @@ updated: 2026-10-24
 ```text
 Hi Kenan,
 
-Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?
+Good to meet you at ISAF 2025 in Istanbul - this follows up on what we discussed at the booth. ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

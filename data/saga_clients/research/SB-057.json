@@ -75,7 +75,7 @@
     "tier": 20,
     "why": "进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机"
   },
-  "email_hook": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?",
+  "email_hook": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $25.1 — shall I send a Bulgarian-language one-page spec for your web shop?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 akasabov@kassaba.bg, kkassabow@kassabasystems.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",

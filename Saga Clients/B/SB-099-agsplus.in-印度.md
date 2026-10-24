@@ -106,7 +106,7 @@ updated: 2026-10-24
   - 2025-06 要 24 PoE 价格
 - **风险/边界**：新桥价格基准低；官网占位
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
-- **邮件切入句（英文）**：Vinod, for the 24-PoE price you asked in June — $134.5 EXW at 1 pc (24 PoE + 4 uplinks, 280 W, Marvell); what carton quantity do you usually pull for CCTV jobs, 10 or 20?
+- **邮件切入句（英文）**：Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
 
@@ -252,7 +252,7 @@ updated: 2026-10-24
 ```text
 Hi Vinod,
 
-Picking up our earlier exchange about PoE / industrial switches. Vinod, for the 24-PoE price you asked in June — $134.5 EXW at 1 pc (24 PoE + 4 uplinks, 280 W, Marvell); what carton quantity do you usually pull for CCTV jobs, 10 or 20?
+Picking up our earlier exchange about PoE / industrial switches. Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

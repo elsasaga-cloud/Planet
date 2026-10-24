@@ -94,7 +94,7 @@
     "tier": 25,
     "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
   },
-  "email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?",
+  "email_hook": "Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?",
   "mail_review": {
     "binding": {
       "level": "未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音）",

@@ -96,7 +96,7 @@ updated: 2026-10-24
   - SFP 样品已成交 + 自有货代 → 复购门槛低；法语市场
 - **风险/边界**：SFP 未在价格表（Q-32）；非洲非主攻区；2019 后无互动
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）
-- **邮件切入句（英文）**：Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?
+- **邮件切入句（英文）**：Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?
 
 ## 在卖/在用品牌 → Saga 对位
 

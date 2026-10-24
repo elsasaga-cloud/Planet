@@ -98,7 +98,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12"
   },
-  "email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?",
+  "email_hook": "Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?",
   "mail_review": {
     "binding": {
       "level": "未绑定（VP Sales 2024-11 要 10G MC 规格书 → 给了 → 无下文）",

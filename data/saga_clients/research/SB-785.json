@@ -56,7 +56,7 @@
     "tier": 20,
     "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）"
   },
-  "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
+  "email_hook": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 33,2 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com」；S/A 邮箱 0 封",

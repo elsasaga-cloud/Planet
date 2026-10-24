@@ -88,7 +88,7 @@
     "tier": 25,
     "why": "运营商自用 25% 档：STC-424XGGPM-280W（24 PoE+ 280W + 4×10G SFP+）为 MDU AP 接入机；小楼 STC-28DGGPM；非 PoE 汇聚 STC-424XGGM"
   },
-  "email_hook": "For the multifamily WiFi builds, a 24-port PoE+ switch with 280 W budget and 4×10G SFP+ uplinks is $188.7 EXW per unit; one question first: do your property deployments require UL listing on the switch, or is FCC sufficient?",
+  "email_hook": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）",

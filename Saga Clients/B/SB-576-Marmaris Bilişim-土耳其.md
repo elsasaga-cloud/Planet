@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 光纤到户/PON 场景 → 可推 MC 与 2 光 8 电小机；splitter/PON 不供
 - **风险/边界**：需求不在 Saga 主线；语言；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供
-- **邮件切入句（英文）**：Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?
+- **邮件切入句（英文）**：Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?
 
 ## 在卖/在用品牌 → Saga 对位
 

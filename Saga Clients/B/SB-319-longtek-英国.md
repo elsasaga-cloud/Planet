@@ -115,7 +115,7 @@ updated: 2026-10-24
   - 小型安装商，每项目 1 台 4/8 口 PoE；可作样品级试单
 - **风险/边界**：微型、采购量小；17 次推送 0 回复
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）
-- **邮件切入句（英文）**：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?
+- **邮件切入句（英文）**：For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

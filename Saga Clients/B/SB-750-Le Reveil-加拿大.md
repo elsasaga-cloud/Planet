@@ -97,7 +97,7 @@ updated: 2026-10-24
   - 需求具体（8/12×SFP+、工业温度）→ 若有 10G 光口密集机型可成单
 - **风险/边界**：Saga 工业线 SFP+ 最多 4 口；15 次跟进 0 回复
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号
-- **邮件切入句（英文）**：On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?
+- **邮件切入句（英文）**：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 
 ## 在卖/在用品牌 → Saga 对位
 
