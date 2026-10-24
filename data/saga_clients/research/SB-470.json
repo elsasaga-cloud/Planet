@@ -80,5 +80,38 @@
   "tier": 20,
   "why": "光纤方案配套 MC（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）；工业交换机位 STI-280GE（$46.6）"
  },
- "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?"
+ "email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复）",
+   "type": "北欧/英国光纤方案供应商（Melbye）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "NO/UK",
+   "cadence": "不动",
+   "evidence": "k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

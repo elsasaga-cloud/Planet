@@ -85,5 +85,38 @@
   "tier": 25,
   "why": "项目终端 25% 档：STI-288DGGPM（宽温 DIN，8 GE + 2 SFP 光口上联）适配 ROV 甲板单元；非 PoE 位 STI-280DGGM"
  },
- "email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?"
+ "email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回）",
+   "type": "英国工程/安防承包（Genrov Ltd）",
+   "sieve": "2",
+   "stop": "资料后无回",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=291792730fb79f70"
+  },
+  "situation": "—",
+  "need": "4 口工业 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

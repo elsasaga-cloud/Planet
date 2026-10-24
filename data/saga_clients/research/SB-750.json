@@ -47,5 +47,47 @@
   "tier": 25,
   "why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
  },
- "email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?"
+ "email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）",
+   "type": "加拿大小型网络/托管（Gmail 个人）",
+   "sieve": "2",
+   "stop": "规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有",
+   "revive": "若发，只发 CENTEC 半宽 10G/25G",
+   "lane": "CA",
+   "cadence": "一封",
+   "evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48"
+  },
+  "situation": "需求是数据中心 ToR 口径。",
+  "need": "全 SFP+，前后风道。",
+  "breakpoint": "产品线。",
+  "saga_now": {
+   "p1": "STH 系列半宽 10G",
+   "tier": 25,
+   "price": "按 CENTEC 价表",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱",
+   "action": "只发 CENTEC",
+   "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-24",
+    "dir": "来",
+    "who": "François Burton",
+    "quote": "Not really, looking for SFP+ ports with ventilation front to back.",
+    "why": "规格",
+    "k": "75e864d4417eab48"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -94,5 +94,38 @@
   "tier": 25,
   "why": "路侧机柜工业 PoE（现 EtherWAN）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）；NEMA TS2 认证 Saga 无（注明）"
  },
- "email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?"
+ "email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "加拿大 ITS/交通集成（Tacel；EtherWAN 在用）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "CA",
+   "cadence": "不动",
+   "evidence": "k=3f49bc512bb93c92"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

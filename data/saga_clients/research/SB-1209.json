@@ -74,5 +74,38 @@
   "tier": 20,
   "why": "CCTV 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）；SFP Saga 不供"
  },
- "email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?"
+ "email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "波兰安防网店",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "PL",
+   "cadence": "不动",
+   "evidence": "k=7d516fc6a1f3e02f"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -36,10 +36,21 @@ updated: 2026-10-24
 - **是谁**：蒙特利尔北郊的小型进口分销商，自称 PLANET 全线加拿大分销，给经销商/集成商供网络、监控与电话产品。类型：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）。信号：官网 PLANET 专区自述「Canadian Distributor of Planet Networking & Communication products … distributor of the entire product portfolio from Planet Technology」；Mikrotik 仓库 C-015 标「分销（PLANET 授权）」。Planet 渠道档案 PB-036 评级 B（需求：PLANET 全线分销自述 + 进口商 + 经销商渠道；触达：info@globall.ca 官网公开；Corinne Defay（Marketing Manager，Yeastar 新闻稿具名，用 Info@）；体量 2–10 人可赢；区域加拿大（一线）；B）。并档说明：Saga 表内本条 SC-545（加拿大）自动评 C（原因：；Saga 群发已推送 8 次无回复）。（调研 2026-10-21；表内兴趣：MC 机架 VC 主要是planet的）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-28 → 2025-10-17）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求：；$134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-545` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（1 封 2023-11 法语休假自动回复）** ｜ 类型：加拿大分销（Globall Distribution） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：CA ｜ 节奏：不动 ｜ 证据：k=29a04a217e252a0b
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

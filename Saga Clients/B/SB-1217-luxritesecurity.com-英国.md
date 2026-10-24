@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：英国 Luxrite Ltd（Trade CCTV 分销：HD/IP CCTV、入侵报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；在售 Ruijie RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P / RG-NBS5300、PoE 注入器；表内「主要是 CCTV，少量商业 PoE」「质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：主要是CCTV 少量商业POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：在售 Ruijie RG-ES210GS-P（8 PoE + 2 SFP）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；RG-NBS3100-24GT4SFP-P → STC-424DGGPM-280W（$134.5）；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1217` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）** ｜ 类型：英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团） ｜ 筛子：0 ｜ 停点：明确「not useful」 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=2300dd9d2d1f3408
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

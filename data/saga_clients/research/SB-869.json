@@ -89,5 +89,38 @@
   "tier": 30,
   "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
  },
- "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?"
+ "email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（唯一来信为 Chavan（SB-761）抄送 NovaCA 的误归属）",
+   "type": "美国工业光通信制造商（TC Communications）",
+   "sieve": "0",
+   "stop": "误归属；本户零回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=5a42faf06fd8915e（属 SB-761）"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

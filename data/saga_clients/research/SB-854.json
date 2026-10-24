@@ -84,5 +84,38 @@
   "tier": 30,
   "why": "Patton 工业线补 SKU → STI-288GPM（$85.5 @30%）贴 Patton 标；MC STI-110GE；UL 无需提前告知。"
  },
- "email_hook": "Gary, for the industrial Ethernet part of the Patton catalogue — Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC/RoHS; no UL listing) available as OEM from small lots; is UL a hard requirement for that line, or only for the carrier gateways?"
+ "email_hook": "Gary, for the industrial Ethernet part of the Patton catalogue — Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC/RoHS; no UL listing) available as OEM from small lots; is UL a hard requirement for that line, or only for the carrier gateways?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封 = 订阅确认 + DomSales 工单「我们最接近的型号是 FP2024E，不支持 DI/DO…」= 把 Saga 当成客户在推销）",
+   "type": "美国工业网络品牌商（Patton）",
+   "sieve": "0",
+   "stop": "对方销售把推销信当询价处理；无采购侧回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=366a3daa8f45f640"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

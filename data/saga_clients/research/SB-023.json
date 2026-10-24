@@ -123,5 +123,38 @@
   "tier": 30,
   "why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源"
  },
- "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?"
+ "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "德国 GRUNDIG Security 被许可人（Abetechs）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "DE",
+   "cadence": "不动",
+   "evidence": "k=244ba9abd5d05d58"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

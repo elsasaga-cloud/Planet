@@ -72,5 +72,38 @@
   "tier": 20,
   "why": "MaiWe 同价位带、Marvell 差异 → STI-288GPM（$78.9 @20%）；串口服务器不供。"
  },
- "email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?"
+ "email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封意语休假自动回复）",
+   "type": "维罗纳电子/安防（Protekna）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "IT",
+   "cadence": "不动",
+   "evidence": "k=3c025bf4466d42af"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

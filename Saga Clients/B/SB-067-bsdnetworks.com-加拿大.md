@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。（调研 2026-10-21；表内兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
-- **P1（下一步唯一主推）**：STI-288GP — 深挖对位：工业 FS 贴 BSD 标 → STI-288GP（$62.2 @30%）；MC STI-110GE；10G MC 另询。；$62.2 USD EXW（30% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM — 加拿大承包商 + 创始人直联；按主表
+- **第一问（只问一个）**：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → robert@bsdnetworks.com 问项目
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-067` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复）** ｜ 类型：加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份 ｜ 筛子：2（身份尽调） ｜ 停点：「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑） ｜ 复活：一句话问他在投的项目用什么交换机 ｜ 通路：CA 主攻 ｜ 节奏：一封 ｜ 证据：k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）
+- **现状一句话**：如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。
+- **对方真实需求（有据）**：承包项目用的接入/PoE。
+- **断点 / 为什么停在这里**：无闭环。
+- **Saga 现在该推什么**：P1 **STC-424XGGPM**（25% 档，按主表）——加拿大承包商 + 创始人直联
+  - 做不了 / 要先核的：Bid Invitation 真伪
+- **下一步（具体）**：2026-11　A 邮箱 → robert@bsdnetworks.com　问项目
+  - 第一问（只问一个）：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-03-30 | 来 | Robert | do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products. | 身份尽调 + 官网信息不足 | `4cb6b53615aaeed7` |
+| 2026-03-31 | 去 | Alan | Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side. | 如实 | `d63854cffb76b6d5` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -79,5 +79,55 @@
   "tier": 25,
   "why": "项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）"
  },
- "email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?"
+ "email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回）",
+   "type": "波兰网络集成商兼产品销售（IS Networks；Marek = 老板/技术）——CENTEC 核心/汇聚的对口买家",
+   "sieve": "2（要参数与价格）",
+   "stop": "Saga 没给价：仓库里有《2026Q2 Price List High-Speed Network Series》（STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 …，计价规则高价 20% 低价 25%）——U29：价表在库，不是没有",
+   "revive": "把 Q2 CENTEC 价表（MS license + HSI 推荐口径）发过去，一封",
+   "lane": "PL 次级（但 CENTEC 敲门砖优先）",
+   "cadence": "现在一封；之后季度",
+   "evidence": "k=8d7a04b9009bd3bb（Interesting item… prices）；3a9da0e0aa327b04（still finalizing）；价表：data/extra_info_2026-10/text/Extra_Info__STH__2026Q2_Price_List…"
+  },
+  "situation": "客户主动要 CENTEC 价格，Saga 说在定价中，然后 Q2 价表出来后没有回头补发。",
+  "need": "CENTEC 核心/汇聚（Cisco/Huawei 替代）。",
+  "breakpoint": "Saga 自己的断点。",
+  "saga_now": {
+   "p1": "STH-2C6QX-HSI / STH-2QX4XF48GP-HSI",
+   "tier": 25,
+   "price": "按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含）",
+   "why": "CENTEC 对口 + 主动要价",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）",
+   "action": "补发价表",
+   "one_question": "Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-09",
+    "dir": "来",
+    "who": "Marek Kubas",
+    "quote": "Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices).",
+    "why": "要价",
+    "k": "8d7a04b9009bd3bb"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "For CENTEC prices, we are still finalizing for 2026. Memory prices rise a lot!",
+    "why": "未给价",
+    "k": "3a9da0e0aa327b04"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -93,5 +93,66 @@
   "tier": 30,
   "why": "待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价"
  },
- "email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?"
+ "email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单）",
+   "type": "美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网）",
+   "sieve": "3（数据表 + 价格 + 手册，三次）",
+   "stop": "每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位",
+   "revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
+   "lane": "US 主攻；品牌商",
+   "cadence": "季度一封只含实质进展的信；不发 PoE 小品",
+   "evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）"
+  },
+  "situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
+  "need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
+  "breakpoint": "没有闭环问题。",
+  "saga_now": {
+   "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
+   "tier": 30,
+   "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档",
+   "why": "上市品牌商 + VP 直联 + 七次回复",
+   "repeat": [],
+   "gaps": [
+    "2025-10 规格书评审结果",
+    "Actelis 真正的补线缺口（它在找什么）"
+   ]
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）",
+   "action": "一句话问评审结论",
+   "one_question": "Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?"
+  },
+  "facts": [
+   {
+    "date": "2025-01-03",
+    "dir": "来",
+    "who": "Michal Winkler",
+    "quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
+    "why": "产品侧介入",
+    "k": "b591a174013b884b"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "来",
+    "who": "Casey Hurley",
+    "quote": "How much are they?",
+    "why": "问价",
+    "k": "5f74509fff9d6018"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "来",
+    "who": "Casey",
+    "quote": "Do you have a spec sheet on this unit and a user manual?",
+    "why": "三次索资料",
+    "k": "2818350b0dbd1e1a"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

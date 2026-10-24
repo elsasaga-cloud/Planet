@@ -35,10 +35,21 @@ updated: 2026-10-24
 - **是谁**：布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号。类型：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号。信号：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货。Planet 渠道档案 PB-093 评级 B（需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1214，匈牙利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS MC SFP TP-link的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/匈牙利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推）**：STI-280GM — 深挖对位：其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位；分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PB-093）；需求：；$68.2 USD EXW（20% 档，SmartByte LT-IS3210G-2GX8GT 380 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1214` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（1 封自动回复）** ｜ 类型：匈牙利 IT 服务商（LAN Kft.） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：HU ｜ 节奏：不动 ｜ 证据：k=d120e1aa64662a70
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

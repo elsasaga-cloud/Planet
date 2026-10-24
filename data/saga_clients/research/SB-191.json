@@ -125,5 +125,38 @@
   "tier": 20,
   "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
  },
- "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?"
+ "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "英国电气/网络分销（Switchtec）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=0fe645b425d2839a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

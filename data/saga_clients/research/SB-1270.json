@@ -74,5 +74,38 @@
   "tier": 20,
   "why": "Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线"
  },
- "email_hook": "Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?"
+ "email_hook": "Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复；PLANET 在售 → Q-33 口径）",
+   "type": "捷克智能家居/AV 分销",
+   "sieve": "0",
+   "stop": "Q-33",
+   "revive": "不动",
+   "lane": "CZ",
+   "cadence": "不动",
+   "evidence": "k=6fbdaed12902169c"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

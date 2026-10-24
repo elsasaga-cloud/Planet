@@ -71,5 +71,38 @@
   "tier": 20,
   "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
  },
- "email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?"
+ "email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "美国光纤组件制造商",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=4e38d41f74d93c9a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

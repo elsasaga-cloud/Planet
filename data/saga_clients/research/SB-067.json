@@ -67,5 +67,57 @@
   "tier": 30,
   "why": "工业 FS 贴 BSD 标 → STI-288GP（$62.2 @30%）；MC STI-110GE；10G MC 另询。"
  },
- "email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?"
+ "email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复）",
+   "type": "加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份",
+   "sieve": "2（身份尽调）",
+   "stop": "「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑）",
+   "revive": "一句话问他在投的项目用什么交换机",
+   "lane": "CA 主攻",
+   "cadence": "一封",
+   "evidence": "k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）"
+  },
+  "situation": "如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。",
+  "need": "承包项目用的接入/PoE。",
+  "breakpoint": "无闭环。",
+  "saga_now": {
+   "p1": "STC-424XGGPM",
+   "tier": 25,
+   "price": "按主表",
+   "why": "加拿大承包商 + 创始人直联",
+   "repeat": [],
+   "gaps": [
+    "Bid Invitation 真伪"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → robert@bsdnetworks.com",
+   "action": "问项目",
+   "one_question": "Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?"
+  },
+  "facts": [
+   {
+    "date": "2026-03-30",
+    "dir": "来",
+    "who": "Robert",
+    "quote": "do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products.",
+    "why": "身份尽调 + 官网信息不足",
+    "k": "4cb6b53615aaeed7"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side.",
+    "why": "如实",
+    "k": "d63854cffb76b6d5"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

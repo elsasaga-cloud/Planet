@@ -35,10 +35,21 @@ updated: 2026-10-24
 - **是谁**：德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：从UTEPO买商业级交换机，也去了EWIND摊位，推荐工业级POE产品就可以了）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-04）
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-023` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（1 封自动回复）** ｜ 类型：德国 GRUNDIG Security 被许可人（Abetechs） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：DE ｜ 节奏：不动 ｜ 证据：k=244ba9abd5d05d58
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

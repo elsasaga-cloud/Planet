@@ -125,5 +125,38 @@
   "tier": 20,
   "why": "其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位；分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PB-093）；需求："
  },
- "email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?"
+ "email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "匈牙利 IT 服务商（LAN Kft.）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "HU",
+   "cadence": "不动",
+   "evidence": "k=d120e1aa64662a70"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

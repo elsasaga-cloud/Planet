@@ -82,5 +82,38 @@
   "tier": 20,
   "why": "现售 HRUI/丰润达商用 PoE → 按 Q-33 口径不碰 HRUI 同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
  },
- "email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?"
+ "email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径）",
+   "type": "土耳其安防电商（Konak Güvenlik）",
+   "sieve": "2",
+   "stop": "Q-33 + 需求是 24 口百兆非 PoE 入门款",
+   "revive": "不动",
+   "lane": "TR 主攻但 Q-33",
+   "cadence": "不动",
+   "evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631"
+  },
+  "situation": "—",
+  "need": "AT-FS750-28 同类。",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -33,10 +33,27 @@ updated: 2026-10-24
 - **是谁**：波兰 IS Networks（计算机网络设计、组装与服务公司，兼售产品：工业以太网交换机、交换机、工业转换器、光纤、CCTV 43；表内「工业 FS / MC / SFP，用了 nnet 的」；KP Marek（marek@is-net.pl））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 用了nnet的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-31 → 2025-10-21）
-- **P1（下一步唯一主推）**：STI-288GPM — 深挖对位：项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）；$82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C6QX-HSI / STH-2QX4XF48GP-HSI — CENTEC 对口 + 主动要价；按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含）
+- **第一问（只问一个）**：Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串） 补发价表
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-181` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回）** ｜ 类型：波兰网络集成商兼产品销售（IS Networks；Marek = 老板/技术）——CENTEC 核心/汇聚的对口买家 ｜ 筛子：2（要参数与价格） ｜ 停点：Saga 没给价：仓库里有《2026Q2 Price List High-Speed Network Series》（STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 …，计价规则高价 20% 低价 25%）——U29：价表在库，不是没有 ｜ 复活：把 Q2 CENTEC 价表（MS license + HSI 推荐口径）发过去，一封 ｜ 通路：PL 次级（但 CENTEC 敲门砖优先） ｜ 节奏：现在一封；之后季度 ｜ 证据：k=8d7a04b9009bd3bb（Interesting item… prices）；3a9da0e0aa327b04（still finalizing）；价表：data/extra_info_2026-10/text/Extra_Info__STH__2026Q2_Price_List…
+- **现状一句话**：客户主动要 CENTEC 价格，Saga 说在定价中，然后 Q2 价表出来后没有回头补发。
+- **对方真实需求（有据）**：CENTEC 核心/汇聚（Cisco/Huawei 替代）。
+- **断点 / 为什么停在这里**：Saga 自己的断点。
+- **Saga 现在该推什么**：P1 **STH-2C6QX-HSI / STH-2QX4XF48GP-HSI**（25% 档，按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含））——CENTEC 对口 + 主动要价
+- **下一步（具体）**：现在　A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）　补发价表
+  - 第一问（只问一个）：Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-02-09 | 来 | Marek Kubas | Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). | 要价 | `8d7a04b9009bd3bb` |
+| 2026-02-09 | 去 | Alan | For CENTEC prices, we are still finalizing for 2026. Memory prices rise a lot! | 未给价 | `3a9da0e0aa327b04` |
 
 ## 基本事实（事实/推断/假设分层）
 

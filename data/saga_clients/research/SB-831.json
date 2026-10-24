@@ -78,5 +78,38 @@
   "tier": 20,
   "why": "有源配套（现台湾品牌）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ 工业 8 GE + 2 SFP STI-280GE（$46.6）；CWDM/SFP Saga 不供（Q-32）"
  },
- "email_hook": "Peter, alongside the Taiwanese media converters and switches you carry with your fibre infrastructure, we supply Marvell/Realtek-based industrial gigabit MCs and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which active product do your broadband customers order most?"
+ "email_hook": "Peter, alongside the Taiwanese media converters and switches you carry with your fibre infrastructure, we supply Marvell/Realtek-based industrial gigabit MCs and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which active product do your broadband customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封 GDPR 告知信）",
+   "type": "挪威/斯洛伐克光纤基础设施（FOSS）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "NO",
+   "cadence": "不动",
+   "evidence": "k=6d519848b7f9569a"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

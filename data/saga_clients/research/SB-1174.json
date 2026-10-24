@@ -65,5 +65,38 @@
   "tier": 30,
   "why": "布线品牌配套有源 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业千兆 MC STI-110GE（$24.3）贴 Connectix 标"
  },
- "email_hook": "Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?"
+ "email_hook": "Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "英国结构化布线品牌商",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=10e98607d4650e87"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

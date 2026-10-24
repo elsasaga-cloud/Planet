@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。（调研 2026-10-21；表内兴趣：fiber optic transmission information, live in milano）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 8 次（2024-02-04 → 2024-10-13）；最近一次客户回复：1120：欧元价格
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档；$140.1 USD EXW（25% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 意大利分销；€280（2024-11）
+- **第一问（只问一个）**：Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 S 邮箱 → eros.stefani@stsitalia.com 问用途
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-024` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2024-11-20 Eros 回「€..?」→ Simon「280 Euro」STC-448XGGPM；无后续；之后 17 封群发无回）** ｜ 类型：意大利网络/安防分销（STS Italia；Eros = 采购） ｜ 筛子：2（问价） ｜ 停点：€280 的 48 口 PoE 管理型没有下文；Simon 没问用途/数量 ｜ 复活：一封问当年项目 + 2026 价 ｜ 通路：IT ｜ 节奏：一封 ｜ 证据：k=31786de96cbb8b96 / b552ce1372ae1296
+- **现状一句话**：一个欧元符号的询价，一个数字的回答，然后两年群发。
+- **对方真实需求（有据）**：48 口 PoE 管理型机架。
+- **断点 / 为什么停在这里**：无对话。
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，€280（2024-11））——意大利分销
+- **下一步（具体）**：2026-11　S 邮箱 → eros.stefani@stsitalia.com　问用途
+  - 第一问（只问一个）：Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-11-20 | 来 | Eros Stefani | €..? | 问价 | `31786de96cbb8b96` |
 
 ## 基本事实（事实/推断/假设分层）
 

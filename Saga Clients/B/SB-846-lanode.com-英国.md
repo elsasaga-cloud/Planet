@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：英国 Lanode（lanode.co.uk：光通信/数据通信分销——MC、VC、串口、工业 FS、10G MC、大端口 FS、C/DWDM 复用器；Transition Networks 与 CTC Union 为主，bypass 用 CTC Union；KP Donal McDonnell；lanode.com 快照为个人天文摄影站（域名误判，待重抓））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：MC VC 串口 工业FS 10GMC 大口FS  Transition和CTCU的较多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-08 → 2025-11-05）
-- **P1（下一步唯一主推）**：STI-110GE — 深挖对位：MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供；$22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-846` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（1 封自动回复）** ｜ 类型：英国光/数据通信分销（Lanode；Transition/CTC Union） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=a647b42a1513993c
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -115,5 +115,38 @@
   "tier": 20,
   "why": "经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求："
  },
- "email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?"
+ "email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封 2023-11 法语休假自动回复）",
+   "type": "加拿大分销（Globall Distribution）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "CA",
+   "cadence": "不动",
+   "evidence": "k=29a04a217e252a0b"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

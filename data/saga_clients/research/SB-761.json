@@ -46,5 +46,49 @@
   "tier": 25,
   "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
  },
- "email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?"
+ "email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-10-30 Chavan 问 Web 管理 10G 款「有没有 HTTPS、能不能装第三方证书」→ Simon「HTTPS is NOT on the function list」；无后续）",
+   "type": "美国个人/小公司（Outlook 私箱，抄送 NovaCA）",
+   "sieve": "2",
+   "stop": "安全要求（HTTPS + 自有证书）当时不满足；固件 7.5 是否已加 HTTPS 需查固件说明再答",
+   "revive": "若固件说明确认 HTTPS 已加，回一句",
+   "lane": "US",
+   "cadence": "视固件",
+   "evidence": "k=5a42faf06fd8915e / becf0a5ee00f725f"
+  },
+  "situation": "—",
+  "need": "HTTPS 管理 + 第三方证书。",
+  "breakpoint": "功能缺口。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "固件 7.5 HTTPS 状态"
+   ]
+  },
+  "next_move": {
+   "when": "视固件",
+   "channel": "S 邮箱",
+   "action": "查后再答",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-10-30",
+    "dir": "来",
+    "who": "Chavan",
+    "quote": "Does it have the https… and can we store third party https certificates ?",
+    "why": "安全要求",
+    "k": "5a42faf06fd8915e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -63,5 +63,38 @@
   "tier": 20,
   "why": "工业 switch → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；工业电源 Saga 不供"
  },
- "email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?"
+ "email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "法国工业电源/网络经销（Uniformatic）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "FR",
+   "cadence": "不动",
+   "evidence": "k=d72f15c35fb5204c"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

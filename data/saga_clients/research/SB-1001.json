@@ -70,5 +70,38 @@
   "tier": 20,
   "why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$181.2）"
  },
- "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?"
+ "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "德/英开放网络分销（STORDIS；Marvell AC5 平台在售）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "DE/UK",
+   "cadence": "不动",
+   "evidence": "k=988c84b55fd3dd07"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

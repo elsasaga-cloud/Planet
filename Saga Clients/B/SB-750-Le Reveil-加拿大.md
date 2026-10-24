@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：加拿大（电话 +1 613，渥太华地区）个人/小型需求方 François Burton（Gmail）：明确需求「8/12 个 SFP+ 甚至更高规格光口、不要网管(或不要电口)、工业级温度」；WhatsApp 已加、以邮件跟进为主，15 次跟进 0 回复。Saga 工业线最多 4×10G SFP+（STI-488DGGGM：8×1G SFP + 4×10G SFP+ + 8 GE），无 8/12 口 SFP+ 工业机型——待核型。（调研 2026-10-21；表内兴趣：8/12个SFP+甚至更高规格的光 不要网  工业级温度!!）
 - **为什么是 B 级**：+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 15 次（2024-06-27 → 2025-10-17）；最近一次客户回复：2024-06-27：不需要网口 只需要光
-- **P1（下一步唯一主推）**：— — 深挖对位：待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列半宽 10G — —；按 CENTEC 价表
+- **第一问（只问一个）**：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 S 邮箱 只发 CENTEC
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-750` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）** ｜ 类型：加拿大小型网络/托管（Gmail 个人） ｜ 筛子：2 ｜ 停点：规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有 ｜ 复活：若发，只发 CENTEC 半宽 10G/25G ｜ 通路：CA ｜ 节奏：一封 ｜ 证据：k=2974def9d7ffbd3f / 75e864d4417eab48
+- **现状一句话**：需求是数据中心 ToR 口径。
+- **对方真实需求（有据）**：全 SFP+，前后风道。
+- **断点 / 为什么停在这里**：产品线。
+- **Saga 现在该推什么**：P1 **STH 系列半宽 10G**（25% 档，按 CENTEC 价表）———
+- **下一步（具体）**：2026-11　S 邮箱　只发 CENTEC
+  - 第一问（只问一个）：François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-24 | 来 | François Burton | Not really, looking for SFP+ ports with ventilation front to back. | 规格 | `75e864d4417eab48` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -68,5 +68,38 @@
   "tier": 30,
   "why": "工业管理 FS → STI-288GPM（$85.5 @30%）贴 Davantel 标；10G MC 按 SmartByte 型号另询注明。"
  },
- "email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?"
+ "email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复）",
+   "type": "巴塞罗那电信方案商（Davantel）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "ES",
+   "cadence": "不动",
+   "evidence": "k=3e83fe6bdfdeb580 / f3e06f468c9f4dc0"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

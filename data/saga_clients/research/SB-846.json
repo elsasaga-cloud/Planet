@@ -81,5 +81,38 @@
   "why": "MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供"
  },
  "email_hook": "Donal, alongside the Transition Networks and CTC Union lines you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based DIN-rail 8-GE + 2 SFP managed switches from single units, CE/RoHS/UKCA, EXW USD — is there a budget MC or industrial switch position your customers ask for below the branded lines?",
- "site_mismatch": true
+ "site_mismatch": true,
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "英国光/数据通信分销（Lanode；Transition/CTC Union）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=a647b42a1513993c"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

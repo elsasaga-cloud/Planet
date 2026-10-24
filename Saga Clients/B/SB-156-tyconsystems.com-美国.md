@@ -33,10 +33,21 @@ updated: 2026-10-24
 - **是谁**：美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。（调研 2026-10-21；表内兴趣：工业FS 一些PoE配件 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-03-19 → 2025-10-25）
-- **P1（下一步唯一主推）**：STI-054GP — 深挖对位：自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM；$33.8 USD EXW（30% 档，SmartByte LT-IS3005GP-5GT 174 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-156` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未触达（1 封自动回复；ImportYeti 海关提单已入研究档）** ｜ 类型：美国离网供电 + PoE 品牌商（Tycon Systems；自有 TP- 系列） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=7feaa342e0d73d83
+- **现状一句话**：来信全部为机器回复；无人读信或无人回信。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -72,5 +72,40 @@
   "tier": 20,
   "why": "自有标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、PoE++ 90 W 位 STC-28GPM（待核）作二供"
  },
- "email_hook": "Marcela, for the PoE switches sold under your own label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging, FCC/CE/RoHS, small lots acceptable — which PoE SKU runs the highest volume through your branches?"
+ "email_hook": "Marcela, for the PoE switches sold under your own label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging, FCC/CE/RoHS, small lots acceptable — which PoE SKU runs the highest volume through your branches?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封 Shawn 休假自动回复；收件人 Marcela 未回）",
+   "type": "美国大型安防分销（ENS Security；自有标 PoE 现 Ewind）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "改发采购/产品经理",
+   "lane": "US",
+   "cadence": "2026-12",
+   "evidence": "k=c5720148018ed954"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "具名联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）",
+   "action": "换人",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

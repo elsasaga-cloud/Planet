@@ -77,5 +77,38 @@
   "tier": 30,
   "why": "路由器配套工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）/ PoE 版 STI-288GPM（$85.5）贴 comtime 标；5 GE STI-050GE（$18.5）"
  },
- "email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?"
+ "email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封德语休假自动回复）",
+   "type": "德国工业路由器制造商（Comtime）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "DE",
+   "cadence": "不动",
+   "evidence": "k=039b5332d630ba22"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -99,5 +99,57 @@
   "tier": 30,
   "why": "若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）"
  },
- "email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?"
+ "email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回）",
+   "type": "法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型",
+   "sieve": "3（三档量询价）",
+   "stop": "他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本",
+   "revive": "重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清）",
+   "lane": "FR 主攻",
+   "cadence": "一封重报",
+   "evidence": "k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）"
+  },
+  "situation": "客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。",
+  "need": "DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。",
+  "breakpoint": "贸易条款与阶梯价。",
+  "saga_now": {
+   "p1": "STI-42424XGGPM 三档 DAP 价",
+   "tier": 30,
+   "price": "按主表 OEM 30% 档 + 百运网 DAP",
+   "why": "法国品牌商 + 真询价",
+   "repeat": [],
+   "gaps": [
+    "DAP 法国运费/关税估算"
+   ]
+  },
+  "next_move": {
+   "when": "现在",
+   "channel": "S 邮箱 → charles.chaussonnier@etictelecom.com",
+   "action": "重报三档 DAP",
+   "one_question": "Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-22",
+    "dir": "来",
+    "who": "Charles Chaussonnier",
+    "quote": "What is the price DDP for 10, 50, 100 units?",
+    "why": "三档量询价",
+    "k": "1e2c24b00883813d"
+   },
+   {
+    "date": "2024-05-22",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
+    "why": "条款错位",
+    "k": "320115425c459bcb"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

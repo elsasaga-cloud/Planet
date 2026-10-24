@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。（调研 2026-10-21；表内兴趣：工业FS 外壳比较统一）
 - **为什么是 B 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 22 次（2024-03-23 → 2025-12-29）；最近一次客户回复：2024-05-22：10 50 100个的价格
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-42424XGGPM 三档 DAP 价 — 法国品牌商 + 真询价；按主表 OEM 30% 档 + 百运网 DAP
+- **第一问（只问一个）**：Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：现在 S 邮箱 → charles.chaussonnier@etictelecom.com 重报三档 DAP
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1026` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回）** ｜ 类型：法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型 ｜ 筛子：3（三档量询价） ｜ 停点：他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本 ｜ 复活：重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清） ｜ 通路：FR 主攻 ｜ 节奏：一封重报 ｜ 证据：k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）
+- **现状一句话**：客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。
+- **对方真实需求（有据）**：DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。
+- **断点 / 为什么停在这里**：贸易条款与阶梯价。
+- **Saga 现在该推什么**：P1 **STI-42424XGGPM 三档 DAP 价**（30% 档，按主表 OEM 30% 档 + 百运网 DAP）——法国品牌商 + 真询价
+  - 做不了 / 要先核的：DAP 法国运费/关税估算
+- **下一步（具体）**：现在　S 邮箱 → charles.chaussonnier@etictelecom.com　重报三档 DAP
+  - 第一问（只问一个）：Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-22 | 来 | Charles Chaussonnier | What is the price DDP for 10, 50, 100 units? | 三档量询价 | `1e2c24b00883813d` |
+| 2024-05-22 | 去 | Simon | Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side. | 条款错位 | `320115425c459bcb` |
 
 ## 基本事实（事实/推断/假设分层）
 

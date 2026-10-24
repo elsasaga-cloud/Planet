@@ -84,5 +84,38 @@
   "tier": 20,
   "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
  },
- "email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
+ "email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封来信 = Annie 休假自动回复）",
+   "type": "美国/加拿大安防网店（Galaxy Security）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=a75806671f769c62 / e36165de77f85381"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

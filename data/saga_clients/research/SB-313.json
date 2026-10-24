@@ -81,5 +81,38 @@
   "tier": 30,
   "why": "自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）"
  },
- "email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?"
+ "email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封自动回复）",
+   "type": "北美 IoT/测试仪器目录供应商（GAO Tek）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "CA",
+   "cadence": "不动",
+   "evidence": "k=8765c2954f5ec178"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

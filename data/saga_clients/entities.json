@@ -72541,7 +72541,40 @@
 "tier": 20,
 "why": "现售 HRUI/丰润达商用 PoE → 按 Q-33 口径不碰 HRUI 同款，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）"
 },
-"email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?"
+"email_hook": "Erkut, alongside the budget PoE switches in your shop, we offer a Marvell-based L2+ tier (8-PoE + 2 SFP, 24-PoE + 4 SFP; VLAN/QoS/extend mode) from small lots, CE/RoHS, EXW USD — would a managed PoE option fit your installer customers?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径）",
+"type": "土耳其安防电商（Konak Güvenlik）",
+"sieve": "2",
+"stop": "Q-33 + 需求是 24 口百兆非 PoE 入门款",
+"revive": "不动",
+"lane": "TR 主攻但 Q-33",
+"cadence": "不动",
+"evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631"
+},
+"situation": "—",
+"need": "AT-FS750-28 同类。",
+"breakpoint": "Q-33。",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -76470,7 +76503,40 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$151.6）；8 口 STC-28DGGPM（$87.4）作第二来源"
 },
-"email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?"
+"email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "德国 GRUNDIG Security 被许可人（Abetechs）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "DE",
+"cadence": "不动",
+"evidence": "k=244ba9abd5d05d58"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -76815,7 +76881,49 @@
 "tier": 25,
 "why": "SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档"
 },
-"email_hook": "For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders."
+"email_hook": "For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-11-20 Eros 回「€..?」→ Simon「280 Euro」STC-448XGGPM；无后续；之后 17 封群发无回）",
+"type": "意大利网络/安防分销（STS Italia；Eros = 采购）",
+"sieve": "2（问价）",
+"stop": "€280 的 48 口 PoE 管理型没有下文；Simon 没问用途/数量",
+"revive": "一封问当年项目 + 2026 价",
+"lane": "IT",
+"cadence": "一封",
+"evidence": "k=31786de96cbb8b96 / b552ce1372ae1296"
+},
+"situation": "一个欧元符号的询价，一个数字的回答，然后两年群发。",
+"need": "48 口 PoE 管理型机架。",
+"breakpoint": "无对话。",
+"saga_now": {
+"p1": "STC-448XGGPM",
+"tier": 20,
+"price": "€280（2024-11）",
+"why": "意大利分销",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "S 邮箱 → eros.stefani@stsitalia.com",
+"action": "问用途",
+"one_question": "Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?"
+},
+"facts": [
+{
+"date": "2024-11-20",
+"dir": "来",
+"who": "Eros Stefani",
+"quote": "€..?",
+"why": "问价",
+"k": "31786de96cbb8b96"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -81741,7 +81849,40 @@
 "tier": 25,
 "why": "项目终端 25% 档：STI-288DGGPM（宽温 DIN，8 GE + 2 SFP 光口上联）适配 ROV 甲板单元；非 PoE 位 STI-280DGGM"
 },
-"email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?"
+"email_hook": "For ROV topside refits, the DIN-rail 8-port managed switch with 2 SFP fibre uplinks runs −40 to +75 °C on 12–58 V DC; is there a refit coming up where one unit would be useful?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回）",
+"type": "英国工程/安防承包（Genrov Ltd）",
+"sieve": "2",
+"stop": "资料后无回",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=291792730fb79f70"
+},
+"situation": "—",
+"need": "4 口工业 PoE。",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -89964,7 +90105,59 @@
 "tier": 30,
 "why": "工业 FS 贴 BSD 标 → STI-288GP（$62.2 @30%）；MC STI-110GE；10G MC 另询。"
 },
-"email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?"
+"email_hook": "Robert, for the BSD-branded industrial switches and media converters — one factory source for DIN 2-SFP + 8-PoE, gigabit MC and 10G SFP+/RJ45 MC, your label from small lots; which housing style do you want to standardise on?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复）",
+"type": "加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份",
+"sieve": "2（身份尽调）",
+"stop": "「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑）",
+"revive": "一句话问他在投的项目用什么交换机",
+"lane": "CA 主攻",
+"cadence": "一封",
+"evidence": "k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）"
+},
+"situation": "如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。",
+"need": "承包项目用的接入/PoE。",
+"breakpoint": "无闭环。",
+"saga_now": {
+"p1": "STC-424XGGPM",
+"tier": 25,
+"price": "按主表",
+"why": "加拿大承包商 + 创始人直联",
+"repeat": [],
+"gaps": [
+"Bid Invitation 真伪"
+]
+},
+"next_move": {
+"when": "2026-11",
+"channel": "A 邮箱 → robert@bsdnetworks.com",
+"action": "问项目",
+"one_question": "Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?"
+},
+"facts": [
+{
+"date": "2026-03-30",
+"dir": "来",
+"who": "Robert",
+"quote": "do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products.",
+"why": "身份尽调 + 官网信息不足",
+"k": "4cb6b53615aaeed7"
+},
+{
+"date": "2026-03-31",
+"dir": "去",
+"who": "Alan",
+"quote": "Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side.",
+"why": "如实",
+"k": "d63854cffb76b6d5"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -93642,7 +93835,40 @@
 "tier": 30,
 "why": "自有 logo MC（多外壳 + 12 槽机架）→ Saga 无 MC 机架/桌面 MC（Q-32）；工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 可贴标；光模块/DAC Saga 不供"
 },
-"email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?"
+"email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "英国网络配件品牌商（Wire.tech）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=54e501928ff8e36a"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -100633,7 +100859,40 @@
 "tier": 20,
 "why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$181.2）"
 },
-"email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?"
+"email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "德/英开放网络分销（STORDIS；Marvell AC5 平台在售）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "DE/UK",
+"cadence": "不动",
+"evidence": "k=988c84b55fd3dd07"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -108084,7 +108343,59 @@
 "tier": 30,
 "why": "若重启：以 OEM（Etic 标）补其产品线空白——STI-288DGGPM DIN 导轨 8 PoE+ + 2 SFP 管理机，与 IPL 路由器同柜；OEM 30% 档；默认不推进（用户判定不行）"
 },
-"email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?"
+"email_hook": "（用户已判定不行，默认不发；若重启）Alongside the IPL routers your water and energy customers deploy, a DIN-rail 8-port PoE+ managed switch in Etic packing would fill the one slot your range does not cover — would a sample for your lab be useful?",
+"mail_review": {
+"binding": {
+"level": "轻度绑定→未闭环（唯一一封来信 2024-05-22「What is the price DDP for 10, 50, 100 units?」= 三档量询价；Simon 当天给了 EXW 报价并声明不含清关；之后 Simon 两次追问无回，再 20+ 封群发无回）",
+"type": "法国工业路由器/远程访问制造商（Etic Telecom；Charles = 采购/产品）——第一档品牌商，问的是 DDP 三档价 = 真在做成本模型",
+"sieve": "3（三档量询价）",
+"stop": "他要 DDP，Saga 给 EXW + 「不含清关」——对法国品牌商这等于没报；没有 10/50/100 的阶梯也没有到门成本",
+"revive": "重报一次：按 10/50/100 三档 + 百运网 DAP 法国（DAP 不是 DDP，但把运费与大致关税写清）",
+"lane": "FR 主攻",
+"cadence": "一封重报",
+"evidence": "k=1e2c24b00883813d（DDP 10/50/100）；320115425c459bcb（EXW 报价 + NOT including customs）；096d6be144a97e35（追问 + Marvell 话术）"
+},
+"situation": "客户问了一个采购经理才会问的问题（三档量的到门价），Saga 回了一张不含清关的 EXW 报价单，然后用「Marvell 是最贵的方案」追问——方向反了。",
+"need": "DIN 24 口 L3 管理 PoE（10G 上联）作为其工业路由器的配套。",
+"breakpoint": "贸易条款与阶梯价。",
+"saga_now": {
+"p1": "STI-42424XGGPM 三档 DAP 价",
+"tier": 30,
+"price": "按主表 OEM 30% 档 + 百运网 DAP",
+"why": "法国品牌商 + 真询价",
+"repeat": [],
+"gaps": [
+"DAP 法国运费/关税估算"
+]
+},
+"next_move": {
+"when": "现在",
+"channel": "S 邮箱 → charles.chaussonnier@etictelecom.com",
+"action": "重报三档 DAP",
+"one_question": "Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?"
+},
+"facts": [
+{
+"date": "2024-05-22",
+"dir": "来",
+"who": "Charles Chaussonnier",
+"quote": "What is the price DDP for 10, 50, 100 units?",
+"why": "三档量询价",
+"k": "1e2c24b00883813d"
+},
+{
+"date": "2024-05-22",
+"dir": "去",
+"who": "Simon",
+"quote": "Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side.",
+"why": "条款错位",
+"k": "320115425c459bcb"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -155435,7 +155746,40 @@
 "tier": 30,
 "why": "布线品牌配套有源 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业千兆 MC STI-110GE（$24.3）贴 Connectix 标"
 },
-"email_hook": "Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?"
+"email_hook": "Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "英国结构化布线品牌商",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=10e98607d4650e87"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -157383,7 +157727,40 @@
 "tier": 30,
 "why": "IP 对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ELFON 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?"
+"email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封盘点通知群发）",
+"type": "波兰楼宇对讲制造商（Elfon）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "PL",
+"cadence": "不动",
+"evidence": "k=5d17b345298031ed"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -158518,7 +158895,40 @@
 "tier": 20,
 "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
 },
-"email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?"
+"email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "美国光纤组件制造商",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=4e38d41f74d93c9a"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -163292,7 +163702,40 @@
 "tier": 20,
 "why": "CCTV 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）；SFP Saga 不供"
 },
-"email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?"
+"email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "波兰安防网店",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "PL",
+"cadence": "不动",
+"evidence": "k=7d516fc6a1f3e02f"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -164663,7 +165106,40 @@
 "tier": 20,
 "why": "其在售 IGS-10020MT（工业 8×GE + 2×SFP 管理，120 140 Ft 净价 ≈ 300 €）→ Saga STI-280GM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理），20% 档 $68.2 USD EXW；IGS-801T / ISW-801T 由 STI-080GE / STI-080FE 第二封对位；分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PB-093）；需求："
 },
-"email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?"
+"email_hook": "Your aktív eszközök range lists PLANET industrial units under your own L-codes (IGS-10020MT at 120,140 Ft net) — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. For the industrial 8-port Gigabit + 2 SFP managed class (IGS-10020MT), do your installer customers mostly need the non-PoE unit, or has demand moved to PoE+ — so I send the right sample first?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "匈牙利 IT 服务商（LAN Kft.）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "HU",
+"cadence": "不动",
+"evidence": "k=d120e1aa64662a70"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -165209,7 +165685,40 @@
 "url": "https://www.luxritesecurity.com/",
 "date": "2026-10-21"
 }
-]
+],
+"mail_review": {
+"binding": {
+"level": "未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）",
+"type": "英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团）",
+"sieve": "0",
+"stop": "明确「not useful」",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=2300dd9d2d1f3408"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -169498,7 +170007,40 @@
 "why": "监控/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
 },
 "email_hook": "Amanda, for the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your Stockholm-area sites use most?",
-"country_fix": "瑞典"
+"country_fix": "瑞典",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封瑞典语休假/病假自动回复；out 0 = S 邮箱发件未入库）",
+"type": "瑞典安防安装商（Safeguard）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "SE",
+"cadence": "不动",
+"evidence": "k=a8cc7ad0b68dabb1 / 3cb8e082df2ef4dd"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 },
 "country_table": "波兰"
 },
@@ -176998,7 +177540,40 @@
 "tier": 20,
 "why": "Control4 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W（$134.5）作预算线"
 },
-"email_hook": "Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?"
+"email_hook": "Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复；PLANET 在售 → Q-33 口径）",
+"type": "捷克智能家居/AV 分销",
+"sieve": "0",
+"stop": "Q-33",
+"revive": "不动",
+"lane": "CZ",
+"cadence": "不动",
+"evidence": "k=6fbdaed12902169c"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -183881,50 +184456,48 @@
 "grade_override": "B",
 "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
 "mail_review": {
-"as_of": "2026-10-22",
-"situation": "德州 Fikes Media（业主 Christopher Fikes）2026-10-03 回群发：「This actually does have my interest. What levels of customization are offered? I would be interested if there was **api availability for controller integration**」；Simon 10-04 发完整 OEM 菜单 + 规格书 + MIB + CLI/Web 手册并反问 API 类型；10-19 追「arrange 2 samples?」无回应。",
-"need": "可贴牌的 24 口 PoE 交换机 + **能被自家控制器集成的 API**（他是小型媒体/IT 服务商，想做自有品牌的可控网络）。",
-"breakpoint": "Saga/SmartByte 线没有 REST API 和云控制器，只有 SNMP + CLI/SSH + Web；Simon 10-04 的回复把问题抛回去（REST / SNMP / NETCONF?），对方没接。真实答案应直接给：SNMP + SSH-CLI 可脚本化，无 REST。",
+"binding": {
+"level": "轻度触达（2026-10-03 一封实质来信：「This actually does have my interest. What levels of customization are offered? …api availability for controller integration」→ Simon 10-04 列出 OEM 定制清单；API 问题未直接回答）",
+"type": "美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API",
+"sieve": "2",
+"stop": "API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记）",
+"revive": "直说 SNMP + CLI 自动化可做、REST/云控不做",
+"lane": "US 主攻",
+"cadence": "一封",
+"evidence": "k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）"
+},
+"situation": "新线索（3 周前），技术诉求明确。",
+"need": "24 口 PoE + 10G 上联，可 API 集成。",
+"breakpoint": "API 期望。",
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
-"tier": 30,
-"price": "$196.3 USD EXW（CNY 1010 ×1.3；Simon 群发价 $180 可作首单价）",
-"why": "OEM 自有品牌 → 30% 档；控制器集成只能承诺 SNMP/CLI，先把这一点说死再谈样机",
+"tier": 25,
+"price": "$180（2026-10 对同类客户报价）",
+"why": "美国 + 主动",
 "repeat": [],
 "gaps": [
-"无 REST API / 无云控制器（Q-19 口径）；SNMP 私有 MIB 应在 Saga 自己的 PEN 下（Q-35）",
-"OEM 菜单里的「SNMP OID customization」措辞按 §9 改"
+"他的控制器是什么"
 ]
 },
 "next_move": {
-"when": "本周一封，之后不追",
-"channel": "S 邮箱同线程",
-"action": "直接回答 API 问题（有 SNMP v1/v2c/v3 + SSH CLI，可用脚本/Ansible 管理；无 REST / 云），附 MIB 文件已给；样机 2 台 $180 抵首单",
-"one_question": "Which controller or NMS do you plan to integrate with - would SNMP + SSH-CLI automation cover it, or is a REST API a must?"
+"when": "现在",
+"channel": "S 邮箱 → cfikes@fikesmedia.com",
+"action": "直说 API 边界",
+"one_question": "Christopher — integration today is SNMP v2/v3 + CLI (scriptable), no REST/cloud controller; which controller are you integrating with, so we can confirm what it can poll/set?"
 },
 "facts": [
 {
 "date": "2026-10-03",
 "dir": "来",
-"who": "Christopher Fikes, Owner",
+"who": "Christopher Fikes",
 "quote": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration.",
-"why": "唯一来信：OEM + API",
+"why": "API 诉求",
 "k": "af638fab0ab5ad29"
-},
-{
-"date": "2026-10-19",
-"dir": "去",
-"who": "Simon → Christopher",
-"quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
-"why": "追样无回",
-"k": "4575b20b172d85a4"
 }
 ],
 "proof_gaps": [],
-"draft_en": {
-"subject": "Re: 24 Port PoE Managed Switch - straight answer on API / controller integration",
-"body": "Hi Christopher,\n\nA straight answer to your API question, so you can decide quickly:\n\n- Available today: SNMP v1/v2c/v3 (full private MIB supplied), SSH CLI and Telnet for scripted automation (Ansible / Python work fine), syslog, and a Web GUI that can carry your logo and model name.\n- Not available: a REST API or a cloud controller. If your controller needs REST, we are not the right fit and I would rather say so now.\n\nIf SNMP + CLI is enough, two evaluation units of the STC-424XGGPM-280W at USD 180 each (credited to your first order) can ship within a week.\n\nOne question: which controller or NMS are you integrating with?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
-}
+"draft_en": null,
+"as_of": "2026-10-24"
 }
 }
 },
@@ -188551,7 +189124,40 @@
 "tier": 30,
 "why": "话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）"
 },
-"email_hook": "Juan Jose, for the DENWA-branded PoE switches that ship with your IP phone and UC deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, FCC/CE/RoHS — which size do your Latin-American partners order most?"
+"email_hook": "Juan Jose, for the DENWA-branded PoE switches that ship with your IP phone and UC deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) in your packaging from small lots, FCC/CE/RoHS — which size do your Latin-American partners order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封西语工单「caso 3204 resuelto」）",
+"type": "美国/拉美 IP 通信品牌商（Denwa）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=d93e288f5b2d3164"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -193629,7 +194235,40 @@
 "url": "https://www.tyconsystems.com/",
 "date": "2026-10-21"
 }
-]
+],
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复；ImportYeti 海关提单已入研究档）",
+"type": "美国离网供电 + PoE 品牌商（Tycon Systems；自有 TP- 系列）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=7feaa342e0d73d83"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -198929,7 +199568,40 @@
 "tier": 20,
 "why": "在售 Maiwe 工业交换机 → 同口型替换：工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、PoE 版 STI-288GP（$57.4）、管理型 STI-288GPM"
 },
-"email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?"
+"email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "意大利工业电源/工业 PC 分销（Digimax；在售 Maiwe）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "IT",
+"cadence": "不动",
+"evidence": "k=c1e244fa91a9d099"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -201523,7 +202195,57 @@
 "tier": 25,
 "why": "项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）"
 },
-"email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?"
+"email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?",
+"mail_review": {
+"binding": {
+"level": "轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回）",
+"type": "波兰网络集成商兼产品销售（IS Networks；Marek = 老板/技术）——CENTEC 核心/汇聚的对口买家",
+"sieve": "2（要参数与价格）",
+"stop": "Saga 没给价：仓库里有《2026Q2 Price List High-Speed Network Series》（STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 …，计价规则高价 20% 低价 25%）——U29：价表在库，不是没有",
+"revive": "把 Q2 CENTEC 价表（MS license + HSI 推荐口径）发过去，一封",
+"lane": "PL 次级（但 CENTEC 敲门砖优先）",
+"cadence": "现在一封；之后季度",
+"evidence": "k=8d7a04b9009bd3bb（Interesting item… prices）；3a9da0e0aa327b04（still finalizing）；价表：data/extra_info_2026-10/text/Extra_Info__STH__2026Q2_Price_List…"
+},
+"situation": "客户主动要 CENTEC 价格，Saga 说在定价中，然后 Q2 价表出来后没有回头补发。",
+"need": "CENTEC 核心/汇聚（Cisco/Huawei 替代）。",
+"breakpoint": "Saga 自己的断点。",
+"saga_now": {
+"p1": "STH-2C6QX-HSI / STH-2QX4XF48GP-HSI",
+"tier": 25,
+"price": "按 2026Q2 CENTEC 价表（高价 20% / 低价 25% 口径已含）",
+"why": "CENTEC 对口 + 主动要价",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "现在",
+"channel": "A 邮箱 → marek@is-net.pl（回到 OEM Core Switching Solution 串）",
+"action": "补发价表",
+"one_question": "Marek — the 2026 CENTEC price list is final now (attached, MS license + hot-swap PSU versions recommended); which scale are you sizing, 10G/25G aggregation or 100G spine?"
+},
+"facts": [
+{
+"date": "2026-02-09",
+"dir": "来",
+"who": "Marek Kubas",
+"quote": "Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices).",
+"why": "要价",
+"k": "8d7a04b9009bd3bb"
+},
+{
+"date": "2026-02-09",
+"dir": "去",
+"who": "Alan",
+"quote": "For CENTEC prices, we are still finalizing for 2026. Memory prices rise a lot!",
+"why": "未给价",
+"k": "3a9da0e0aa327b04"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -203989,7 +204711,40 @@
 "tier": 20,
 "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "Paul, for the PoE switches you deploy and sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your field crews install most?"
+"email_hook": "Paul, for the PoE switches you deploy and sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your field crews install most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "美国 CCTV 网店/安装商（Platinum CCTV）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=d15c53f56333d9f6"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -205217,7 +205972,40 @@
 "tier": 20,
 "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
 },
-"email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?"
+"email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "英国电气/网络分销（Switchtec）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=0fe645b425d2839a"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -214534,7 +215322,40 @@
 "tier": 20,
 "why": "多品牌分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位"
 },
-"email_hook": "Joan, alongside the brands you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?"
+"email_hook": "Joan, alongside the brands you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is there a budget PoE position your installer customers ask for below the branded lines?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "西班牙多品牌网络分销（Marlex Conexión）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "ES",
+"cadence": "不动",
+"evidence": "k=808dac70a8f6e2ed"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -241966,7 +242787,40 @@
 "tier": 30,
 "why": "自有 logo 光纤 MC 多外壳 → 工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 GAO 标；工业 FS 位 STI-080GE；商用桌面 MC Saga 价目无（HRUI 待核）"
 },
-"email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?"
+"email_hook": "Ashish, for the GAO-branded gigabit media converters and industrial switches in your fiber range, we can be a second ODM source on a Marvell platform (DIN-rail SFP/fixed-fiber converters, 5/8-port industrial switches) from small lots with FCC/CE/RoHS reports — which product family would you dual-source first?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "北美 IoT/测试仪器目录供应商（GAO Tek）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "CA",
+"cadence": "不动",
+"evidence": "k=8765c2954f5ec178"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -260032,7 +260886,40 @@
 "tier": 20,
 "why": "CCTV 配套 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?"
+"email_hook": "Jason, alongside the ONV PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your installer customers order most with CCTV kits?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封自动回复）",
+"type": "英国安防分销（PoE 现 ONV）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=c899d22bff81b409 / ce7192e0322a174b"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -270568,7 +271455,40 @@
 "tier": 20,
 "why": "MaiWe 同价位带、Marvell 差异 → STI-288GPM（$78.9 @20%）；串口服务器不供。"
 },
-"email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?"
+"email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封意语休假自动回复）",
+"type": "维罗纳电子/安防（Protekna）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "IT",
+"cadence": "不动",
+"evidence": "k=3c025bf4466d42af"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -271093,7 +272013,40 @@
 "tier": 20,
 "why": "D-Link 位预算替代 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
 },
-"email_hook": "Manu, alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?"
+"email_hook": "Manu, alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "西班牙网络网店（D-Link 为主）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "ES",
+"cadence": "不动",
+"evidence": "k=01ba0472179cec86"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -281876,7 +282829,40 @@
 "tier": 30,
 "why": "OEM 30% 档：STC-024GP（Saga Realtek 线，2 GE 上联 + 4 GE PoE 60W 桌面，列表 $18.7）贴 EMOS 标；8 口 STC-028GP（$24.2）；非 PoE STC-05GE（$6.1）"
 },
-"email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?"
+"email_hook": "For the compact commercial PoE switch you asked about at the show: 4 × gigabit PoE + 2 uplinks, 60 W, metal desktop case, EMOS retail box — list $18.7 EXW; what carton quantity does your Přerov warehouse prefer?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "捷克消费电子品牌（EMOS，Legrand 集团）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "CZ",
+"cadence": "不动",
+"evidence": "k=22e19b96edf97fa4"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -288844,7 +289830,40 @@
 "tier": 20,
 "why": "光纤方案配套 MC（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）；工业交换机位 STI-280GE（$46.6）"
 },
-"email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?"
+"email_hook": "Amber, alongside the media converters you supply with your fibre solutions, we offer Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which MC type do your network customers order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封自动回复）",
+"type": "北欧/英国光纤方案供应商（Melbye）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "NO/UK",
+"cadence": "不动",
+"evidence": "k=7270f98fb3ed81c7 / 78abe4ebb39c4ac1"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -304959,7 +305978,40 @@
 "tier": 30,
 "why": "自有 logo MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；工业 FS 位 STI-288GPM（$85.5）贴 Guilera 标；VC/SFP Saga 不供"
 },
-"email_hook": "For the media converters and switches sold under the Guilera label, we can be an ODM source on a Marvell/Realtek platform (industrial gigabit and PoE MCs, DIN-rail 8-PoE + 2 SFP managed; CE/RoHS) in your housing from small lots — which MC model do your Spanish integrators reorder most?"
+"email_hook": "For the media converters and switches sold under the Guilera label, we can be an ODM source on a Marvell/Realtek platform (industrial gigabit and PoE MCs, DIN-rail 8-PoE + 2 SFP managed; CE/RoHS) in your housing from small lots — which MC model do your Spanish integrators reorder most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "西班牙光纤传输品牌商（Adilec）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "ES",
+"cadence": "不动",
+"evidence": "k=4cebc7ea9764d9cf"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -308532,7 +309584,40 @@
 "url": "https://www.dynamode.co.uk/",
 "date": "2026-10-21"
 }
-]
+],
+"mail_review": {
+"binding": {
+"level": "未触达（2 封自动回复）",
+"type": "英国自有品牌网络配件商（Dynamode）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=38c9744f2d9b362b / 1796d3be871fec93"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -320553,7 +321638,40 @@
 "tier": 25,
 "why": "路侧机柜工业 PoE（现 EtherWAN）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）；NEMA TS2 认证 Saga 无（注明）"
 },
-"email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?"
+"email_hook": "Gabor, for the industrial switches in your roadside and intersection cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP and 8-GE + 2 SFP managed units (−40~75 °C, redundant input, FCC/CE/RoHS) from single units, EXW USD — which configuration do your ITS projects standardise on alongside EtherWAN?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "加拿大 ITS/交通集成（Tacel；EtherWAN 在用）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "CA",
+"cadence": "不动",
+"evidence": "k=3f49bc512bb93c92"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -322488,7 +323606,40 @@
 "tier": 20,
 "why": "工业 switch → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；工业电源 Saga 不供"
 },
-"email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?"
+"email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "法国工业电源/网络经销（Uniformatic）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "FR",
+"cadence": "不动",
+"evidence": "k=d72f15c35fb5204c"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -354730,7 +355881,40 @@
 "tier": 30,
 "why": "工业管理 FS → STI-288GPM（$85.5 @30%）贴 Davantel 标；10G MC 按 SmartByte 型号另询注明。"
 },
-"email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?"
+"email_hook": "Jose, for the industrial managed switches and 10G media converters you source — Marvell-based DIN 8-PoE + 2-SFP managed under your label from small lots, and 10G SFP+/RJ45 MCs on request; which of the two is up for re-sourcing first?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封自动回复）",
+"type": "巴塞罗那电信方案商（Davantel）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "ES",
+"cadence": "不动",
+"evidence": "k=3e83fe6bdfdeb580 / f3e06f468c9f4dc0"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -357584,7 +358768,40 @@
 "tier": 20,
 "why": "目录经销白牌契合低 → 入门位 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作价格补充；预期低"
 },
-"email_hook": "Alongside the Edgecore and Cisco lines in your catalogue, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots for budget requests — do you get asked for a lower-cost access switch often enough to list one?"
+"email_hook": "Alongside the Edgecore and Cisco lines in your catalogue, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots for budget requests — do you get asked for a lower-cost access switch often enough to list one?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "美国企业 IT 目录经销（Edgecore 等）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=1eb68c09068fca9e"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -367620,7 +368837,49 @@
 "tier": 25,
 "why": "待核型：最接近 STI-488DGGGM（8×1G SFP + 4×10G SFP+ + 8 GE，−40~+75 ℃，$332.6 @25%）或 STI-4168XGGCM-U（16×1G SFP + 8 Combo + 4×10G，$495.1）；纯 10G 多口需向 SmartByte 核 LT-IS65xx 系列是否有 8/12×SFP+ 型号"
 },
-"email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?"
+"email_hook": "On the 8–12 × SFP+ industrial switch you asked for: our closest stock unit is 4 × 10G SFP+ plus 8 × 1G SFP (−40 to +75 °C); if 4 × 10G is enough for the uplinks, I can quote it at $332.6 EXW — how many 10G links does the site need?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）",
+"type": "加拿大小型网络/托管（Gmail 个人）",
+"sieve": "2",
+"stop": "规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有",
+"revive": "若发，只发 CENTEC 半宽 10G/25G",
+"lane": "CA",
+"cadence": "一封",
+"evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48"
+},
+"situation": "需求是数据中心 ToR 口径。",
+"need": "全 SFP+，前后风道。",
+"breakpoint": "产品线。",
+"saga_now": {
+"p1": "STH 系列半宽 10G",
+"tier": 25,
+"price": "按 CENTEC 价表",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "2026-11",
+"channel": "S 邮箱",
+"action": "只发 CENTEC",
+"one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
+},
+"facts": [
+{
+"date": "2024-06-24",
+"dir": "来",
+"who": "François Burton",
+"quote": "Not really, looking for SFP+ ports with ventilation front to back.",
+"why": "规格",
+"k": "75e864d4417eab48"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -371188,7 +372447,51 @@
 "tier": 25,
 "why": "终端 25% 档：STI-288GP（DIN 8 GE PoE + 2 SFP 非管理，DC 44–57 V，$59.8）——比需求多 1 个 SFP；百兆版 STI-188FP（$40.2）"
 },
-"email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?"
+"email_hook": "For the '1 fibre + 8 PoE, plug-and-play, industrial' unit you asked about: the closest is 2 × SFP + 8 × gigabit PoE unmanaged, −40 to +75 °C, at $59.8 EXW — is the fibre link single-mode or multimode?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-10-30 Chavan 问 Web 管理 10G 款「有没有 HTTPS、能不能装第三方证书」→ Simon「HTTPS is NOT on the function list」；无后续）",
+"type": "美国个人/小公司（Outlook 私箱，抄送 NovaCA）",
+"sieve": "2",
+"stop": "安全要求（HTTPS + 自有证书）当时不满足；固件 7.5 是否已加 HTTPS 需查固件说明再答",
+"revive": "若固件说明确认 HTTPS 已加，回一句",
+"lane": "US",
+"cadence": "视固件",
+"evidence": "k=5a42faf06fd8915e / becf0a5ee00f725f"
+},
+"situation": "—",
+"need": "HTTPS 管理 + 第三方证书。",
+"breakpoint": "功能缺口。",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": [
+"固件 7.5 HTTPS 状态"
+]
+},
+"next_move": {
+"when": "视固件",
+"channel": "S 邮箱",
+"action": "查后再答",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2024-10-30",
+"dir": "来",
+"who": "Chavan",
+"quote": "Does it have the https… and can we store third party https certificates ?",
+"why": "安全要求",
+"k": "5a42faf06fd8915e"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -381345,7 +382648,49 @@
 "tier": 25,
 "why": "终端 25% 档：STI-110GE 千兆光电转换（$23.4）+ STC-28DGGPM（$84.1）组成入门包"
 },
-"email_hook": "Since fibre conversion is new ground for you: a pair of gigabit media converters is $46.8 EXW and an 8-port PoE+ switch with 2 SFP $84.1 — want a one-page starter kit with the SFP modules listed?"
+"email_hook": "Since fibre conversion is new ground for you: a pair of gigabit media converters is $46.8 EXW and an 8-port PoE+ switch with 2 SFP $84.1 — want a one-page starter kit with the SFP modules listed?",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）",
+"type": "加拿大小型电信承包（JTS；Hotmail）",
+"sieve": "2",
+"stop": "2025-11 明确「No」",
+"revive": "不动",
+"lane": "CA",
+"cadence": "不动",
+"evidence": "k=a7eeebbc9d6743fe / 3b06b00f028239e2"
+},
+"situation": "—",
+"need": "被动 PoE 24 口。",
+"breakpoint": "明确拒绝。",
+"saga_now": {
+"p1": "—",
+"tier": 25,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2025-11-21",
+"dir": "来",
+"who": "Joe",
+"quote": "No, but thank you.",
+"why": "拒绝",
+"k": "3b06b00f028239e2"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -388933,7 +390278,40 @@
 "tier": 20,
 "why": "电口需求（非 PoE）→ 8 GE + 2 SFP 管理 STC-28GM（HRUI 列表价 $50.6，注明）/ 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）"
 },
-"email_hook": "Iva, for the copper Ethernet switches you supply with lighting-control and building projects, we offer neutral-brand 8-GE + 2 SFP managed and DIN-rail industrial 8-GE models from small lots, CE/RoHS, EXW USD — which port count do your project customers ask for most?"
+"email_hook": "Iva, for the copper Ethernet switches you supply with lighting-control and building projects, we offer neutral-brand 8-GE + 2 SFP managed and DIN-rail industrial 8-GE models from small lots, CE/RoHS, EXW USD — which port count do your project customers ask for most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "捷克电气/照明分销",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "CZ",
+"cadence": "不动",
+"evidence": "k=e25fa84b6b9e3cb9"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -391008,7 +392386,40 @@
 "tier": 20,
 "why": "有源配套（现台湾品牌）→ 工业千兆 MC STI-110GE（$22.4 @20%）/ 工业 8 GE + 2 SFP STI-280GE（$46.6）；CWDM/SFP Saga 不供（Q-32）"
 },
-"email_hook": "Peter, alongside the Taiwanese media converters and switches you carry with your fibre infrastructure, we supply Marvell/Realtek-based industrial gigabit MCs and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which active product do your broadband customers order most?"
+"email_hook": "Peter, alongside the Taiwanese media converters and switches you carry with your fibre infrastructure, we supply Marvell/Realtek-based industrial gigabit MCs and DIN-rail 8-GE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which active product do your broadband customers order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封 GDPR 告知信）",
+"type": "挪威/斯洛伐克光纤基础设施（FOSS）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "NO",
+"cadence": "不动",
+"evidence": "k=6d519848b7f9569a"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -391900,7 +393311,40 @@
 "tier": 20,
 "why": "CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
 },
-"email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
+"email_hook": "Annie, for the PoE switches you sell with cameras and intercoms, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封来信 = Annie 休假自动回复）",
+"type": "美国/加拿大安防网店（Galaxy Security）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=a75806671f769c62 / e36165de77f85381"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -393663,7 +395107,40 @@
 "url": "https://www.ifotec.com/",
 "date": "2026-10-21"
 }
-]
+],
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "法国光纤传输制造商（自有 INET 系列）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "FR",
+"cadence": "不动",
+"evidence": "k=59bd3ff71678dfd8"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -396498,7 +397975,40 @@
 "why": "MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供"
 },
 "email_hook": "Donal, alongside the Transition Networks and CTC Union lines you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based DIN-rail 8-GE + 2 SFP managed switches from single units, CE/RoHS/UKCA, EXW USD — is there a budget MC or industrial switch position your customers ask for below the branded lines?",
-"site_mismatch": true
+"site_mismatch": true,
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "英国光/数据通信分销（Lanode；Transition/CTC Union）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "UK",
+"cadence": "不动",
+"evidence": "k=a647b42a1513993c"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -396888,7 +398398,49 @@
 "tier": 20,
 "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
 },
-"email_hook": "Samanta, para los proyectos CCTV — switch 24 PoE + 4 uplinks L2+ (Marvell, 280 W) a $135 EXW y 8 PoE + 2 SFP a $81; ¿envían a EE. UU. o a Latinoamérica? Así preparo la cotización correcta."
+"email_hook": "Samanta, para los proyectos CCTV — switch 24 PoE + 4 uplinks L2+ (Marvell, 280 W) a $135 EXW y 8 PoE + 2 SFP a $81; ¿envían a EE. UU. o a Latinoamérica? Así preparo la cotización correcta.",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2026-06-30 mercadeo@ 回「share price and… do you have router products and cloud management」→ Alan：无云管理，给链接；无后续）",
+"type": "拉美导向网络产品分销（Lanprosa；市场部回信）",
+"sieve": "2",
+"stop": "要路由器 + 云管理——Saga 都没有",
+"revive": "不动",
+"lane": "US/拉美",
+"cadence": "不动",
+"evidence": "k=4b89ec05a27b2ce4 / 3181580c3de4279b"
+},
+"situation": "需求不在 Saga 线上。",
+"need": "路由器 + 云管理。",
+"breakpoint": "产品线。",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [
+{
+"date": "2026-06-30",
+"dir": "来",
+"who": "Samanta Navarro",
+"quote": "Can you please share price and point of you have router products and cloud management",
+"why": "需求错位",
+"k": "4b89ec05a27b2ce4"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -399466,7 +401018,40 @@
 "tier": 30,
 "why": "Patton 工业线补 SKU → STI-288GPM（$85.5 @30%）贴 Patton 标；MC STI-110GE；UL 无需提前告知。"
 },
-"email_hook": "Gary, for the industrial Ethernet part of the Patton catalogue — Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC/RoHS; no UL listing) available as OEM from small lots; is UL a hard requirement for that line, or only for the carrier gateways?"
+"email_hook": "Gary, for the industrial Ethernet part of the Patton catalogue — Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC/RoHS; no UL listing) available as OEM from small lots; is UL a hard requirement for that line, or only for the carrier gateways?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封 = 订阅确认 + DomSales 工单「我们最接近的型号是 FP2024E，不支持 DI/DO…」= 把 Saga 当成客户在推销）",
+"type": "美国工业网络品牌商（Patton）",
+"sieve": "0",
+"stop": "对方销售把推销信当询价处理；无采购侧回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=366a3daa8f45f640"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -404919,7 +406504,40 @@
 "tier": 30,
 "why": "自研高端复用器为主，DIN 入门工业交换机可外采 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 TC 标；MC 位 STI-110GE；仅报非关键节点（公用事业/公共安全/轨道守界）"
 },
-"email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?"
+"email_hook": "Steve, for the entry DIN-rail Ethernet switch positions below your JumboSwitch line, we build Marvell-based 8-port managed PoE and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS/FCC) — is there an entry model you would rather source than design?",
+"mail_review": {
+"binding": {
+"level": "未触达（唯一来信为 Chavan（SB-761）抄送 NovaCA 的误归属）",
+"type": "美国工业光通信制造商（TC Communications）",
+"sieve": "0",
+"stop": "误归属；本户零回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=5a42faf06fd8915e（属 SB-761）"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -406969,7 +408587,40 @@
 "tier": 30,
 "why": "自有 Weltron 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；24 口位 STC-424DGGPM-280W；MC 位 STI-110GE"
 },
-"email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?"
+"email_hook": "For the Weltron-branded PoE switches and media converters in your catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your distributors reorder most?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封自动回复）",
+"type": "美国网络基础设施自有品牌商（Weltron）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=9270e602f2e97c34"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -412335,7 +413986,42 @@
 "tier": 20,
 "why": "自有标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）、PoE++ 90 W 位 STC-28GPM（待核）作二供"
 },
-"email_hook": "Marcela, for the PoE switches sold under your own label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging, FCC/CE/RoHS, small lots acceptable — which PoE SKU runs the highest volume through your branches?"
+"email_hook": "Marcela, for the PoE switches sold under your own label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging, FCC/CE/RoHS, small lots acceptable — which PoE SKU runs the highest volume through your branches?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封 Shawn 休假自动回复；收件人 Marcela 未回）",
+"type": "美国大型安防分销（ENS Security；自有标 PoE 现 Ewind）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "改发采购/产品经理",
+"lane": "US",
+"cadence": "2026-12",
+"evidence": "k=c5720148018ed954"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": [
+"具名联系人"
+]
+},
+"next_move": {
+"when": "2026-12",
+"channel": "A 邮箱 → george.g@enssecurity.com（自动回复指明的代理人）",
+"action": "换人",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -420426,7 +422112,68 @@
 "tier": 30,
 "why": "待核型：唯一路径是面向其非政府商业/海外（如印度运营商）项目的 OEM 标准 L2 光纤汇聚交换机（STI-480XGGM / STC-424XGGM 口型，OEM 30% 档）；在对方明确非 TAA 用途前不报价"
 },
-"email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?"
+"email_hook": "For the non-federal and overseas carrier projects where TAA does not apply, we can supply standard L2+ fibre aggregation switches (8×GE + 4×10G SFP+, −40 to +75 °C) under the Actelis label; is there such a programme where a second source would help?",
+"mail_review": {
+"binding": {
+"level": "轻度绑定（7 封实质来信、两年：2024-09 Casey「Maybe…」→ 2025-01 Michal 要数据表 + Casey「Let us review」→ 2025-04「How much are they?」→ $500 → 2025-08「keep you in mind」→ 2025-10 要规格书与手册 → 2026-03「Thank you…」；无样品无单）",
+"type": "美国上市宽带接入设备商（Actelis；Casey = VP Sales Strategic Accounts，Michal = 产品）——第一档品牌商，接入侧（铜/光宽带 + 工业以太网）",
+"sieve": "3（数据表 + 价格 + 手册，三次）",
+"stop": "每次对话都停在 Saga 发完资料之后：Casey 从不说「不」，只说「review / keep in mind」；Saga 从不问「评审结论是什么」——C10 一句话缺位",
+"revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
+"lane": "US 主攻；品牌商",
+"cadence": "季度一封只含实质进展的信；不发 PoE 小品",
+"evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）"
+},
+"situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
+"need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
+"breakpoint": "没有闭环问题。",
+"saga_now": {
+"p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
+"tier": 30,
+"price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档",
+"why": "上市品牌商 + VP 直联 + 七次回复",
+"repeat": [],
+"gaps": [
+"2025-10 规格书评审结果",
+"Actelis 真正的补线缺口（它在找什么）"
+]
+},
+"next_move": {
+"when": "现在",
+"channel": "S 邮箱 → pchurley@actelis.com（回到 10G Enterprise SFP Switch 串）",
+"action": "一句话问评审结论",
+"one_question": "Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?"
+},
+"facts": [
+{
+"date": "2025-01-03",
+"dir": "来",
+"who": "Michal Winkler",
+"quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
+"why": "产品侧介入",
+"k": "b591a174013b884b"
+},
+{
+"date": "2025-04-28",
+"dir": "来",
+"who": "Casey Hurley",
+"quote": "How much are they?",
+"why": "问价",
+"k": "5f74509fff9d6018"
+},
+{
+"date": "2025-10-29",
+"dir": "来",
+"who": "Casey",
+"quote": "Do you have a spec sheet on this unit and a user manual?",
+"why": "三次索资料",
+"k": "2818350b0dbd1e1a"
+}
+],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -420985,7 +422732,40 @@
 "tier": 30,
 "why": "路由器配套工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）/ PoE 版 STI-288GPM（$85.5）贴 comtime 标；5 GE STI-050GE（$18.5）"
 },
-"email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?"
+"email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封德语休假自动回复）",
+"type": "德国工业路由器制造商（Comtime）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "DE",
+"cadence": "不动",
+"evidence": "k=039b5332d630ba22"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 30,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -421980,7 +423760,40 @@
 "tier": 20,
 "why": "有源组件分类 MC → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；商用桌面 MC 以 HRUI 列表价（注明）；SFP Saga 不供"
 },
-"email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?"
+"email_hook": "For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?",
+"mail_review": {
+"binding": {
+"level": "未触达（2 封自动回复）",
+"type": "美国光纤材料网店（Fiber Optic Supply）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "US",
+"cadence": "不动",
+"evidence": "k=5fe850467aa7251b / f88a1716b68677f2"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -809348,7 +811161,40 @@
 "tier": 20,
 "why": "经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求："
 },
-"email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?"
+"email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?",
+"mail_review": {
+"binding": {
+"level": "未触达（1 封 2023-11 法语休假自动回复）",
+"type": "加拿大分销（Globall Distribution）",
+"sieve": "0",
+"stop": "自动回复/机器人，无人工回复",
+"revive": "不动",
+"lane": "CA",
+"cadence": "不动",
+"evidence": "k=29a04a217e252a0b"
+},
+"situation": "来信全部为机器回复；无人读信或无人回信。",
+"need": "—",
+"breakpoint": "—",
+"saga_now": {
+"p1": "—",
+"tier": 20,
+"price": "—",
+"why": "—",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"facts": [],
+"proof_gaps": [],
+"draft_en": null,
+"as_of": "2026-10-24"
+}
 }
 },
 {
