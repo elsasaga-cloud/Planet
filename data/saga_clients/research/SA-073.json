@@ -1,207 +1,210 @@
 {
- "code": "SA-073",
- "name_official": "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）",
- "website_status": "在线",
- "summary": "沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。",
- "type": "系统集成商+电商分销",
- "size": "中型（承包+集成+电商，具体人数未披露）",
- "brands_seen": [
-  "Vivotek",
-  "TP-Link Omada",
-  "Huawei eKit",
-  "Dahua",
-  "Legrand",
-  "OTS（用户记录：工业FS在用）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户",
-   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market",
-   "url": "https://www.ekhalas.com/about-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "eKhalas 为集成商/客户/厂商的 B2B 市场平台，品类含 Routers and Switches",
-   "quote": "‘eKhalas’ a marketspace platform for our system integrators, customers & Vendors all across Saudi Arabia… Routers and Switches, UPS and invertors, Satellite, Safety and Security",
-   "url": "https://www.ekhalas.com/about-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "运营主体 Al Rajhi Telecom Company，利雅得地址与电话",
-   "quote": "Al Rajhi Telecom Company… 7687 King Fahad Branch Road, Al Murabba Dist… +966114221089",
-   "url": "https://www.ekhalas.com/contact-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "平台在售 Vivotek PoE 交换机",
-   "quote": "VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT",
-   "url": "https://www.ekhalas.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "成立、母公司、业务范围",
-   "quote": "Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions, software development, cybersecurity, telecommunications, and data center and power services",
-   "url": "https://www.alrajhitel.com/",
-   "date": "2025-08-17"
-  },
-  {
-   "kind": "官网",
-   "claim": "2024 成立 Al Rajhi Distribution、第三家展厅",
-   "quote": "2024 We have expanded our presence in the Eastern Province by opening our third showroom in Jubail. Additionally, we have successfully established a new entity called Al Rajhi Distribution, allowing us to enter the distribution business",
-   "url": "https://alrajhitel.odoo.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "关联公司官网",
-   "claim": "Silkroad：2005 起、3,000+ 客户、自有品牌零售",
-   "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers … to introducing our own brands into the retail market",
-   "url": "https://www.ekhalas.com/about-us/",
-   "date": "2026-08-08"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与专长",
-   "quote": "Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners",
-   "url": "https://www.linkedin.com/company/alrajhitel/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Inam",
-   "role": "（用户记录联系人）",
-   "email": "info@ekhalas.com",
-   "phone": "+966 11 4221089",
-   "source": "用户 Clients 表 + 官网联系页"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + LinkedIn + 关联公司核对）"
- },
- "company_facts": {
-  "legal_name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
-  "founded": "2014（官网时间线；LinkedIn 2013）",
-  "hq": "7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
-  "other": "业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director of Group Sales Mohamed W Telfah、Sales Director Mohamad Hejazi、GM Mohammed Naser Al Sultan（ContactOut 名录）",
-  "staff": "501–1,000（LinkedIn，3,078 followers）"
- },
- "business_lines": [
-  "电信承包 / ICT 集成",
-  "B2B 电商分销（多品牌）",
-  "自有品牌零售",
-  "ICT / ELV 系统集成（政府、商业、工业、电信）",
-  "电信 OSP/ISP 承包（STC、Mobily、Tahakom 等项目）",
-  "数据中心（Mobi Egypt 合资）",
-  "Al Rajhi Distribution 分销 + ekhalas.com 电商 + Silkroad 自有品牌零售"
- ],
- "products_seen": [
-  {
-   "brand": "Vivotek / TP-Link Omada / Huawei eKit（在售）",
-   "model": "商用 PoE 交换机",
-   "spec": "电商平台",
-   "url": "https://ekhalas.com/",
-   "date": "2026-10（首轮调研）",
-   "saga": "STC-424DGGPM-280W"
-  },
-  {
-   "brand": "OTS（现工业来源）",
-   "model": "工业 FS",
-   "spec": "用户表",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM"
-  }
- ],
- "channels": {
-  "网站": "https://www.alrajhitel.com/ / https://www.ekhalas.com/",
-  "直邮": "info@ekhalas.com（用户表）",
-  "LinkedIn": "https://www.linkedin.com/company/alrajhitel/"
- },
- "signals": [
-  "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成",
-  "2024 新设 Al Rajhi Distribution + Silkroad「自有品牌进零售」——白牌 PoE 交换机走分销/自有品牌线比走集成项目更对口（2026-10-21）"
- ],
- "risks": [
-  "沙特 SASO/SABER 认证由进口方办理；电商价带低",
-  "规模 501–1,000 人、消防/主时钟/公共部门项目多——按 INH「too big」与公共部门守界，只做其分销 / 自有品牌零售线，不做政府集成项目配套"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）"
- },
- "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（唯一一次人工来信 = 要样品，止于付样规则）",
-   "type": "沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager）",
-   "sieve": "2（主动要样）→ 付样门槛停",
-   "stop": "2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@",
-   "revive": "中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品",
-   "lane": "SA：PayPal/T/T 可",
-   "cadence": "2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22）",
-   "evidence": "k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7"
-  },
-  "situation": "利雅得 Al Rajhi Telecom 的数据中心部经理 Inam 在 2024-10-22 回「送个样品测试」，Simon 按规则答「不免费，36 USD/台 STI-154GP」，对方静默。之后两年 Saga 的 21 封群发全部寄到 ekhalas 电商平台的 info@，收回 10 封「Thank you for contacting us」机器人信，研究档里的「1 次实质回复」就是那次要样。",
-  "need": "4 口工业 PoE（当时）；其平台在售 Vivotek PoE / TP-Link Omada / 华为 eKit / Dahua。",
-  "breakpoint": "付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。",
-  "saga_now": {
-   "p1": "STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报",
-   "tier": 25,
-   "price": "按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`",
-   "why": "一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加",
-   "repeat": [],
-   "gaps": [
-    "36 USD 的 STI-154GP 当年属于哪条线（Marvell 非管理？）——核 `价格主表` 后再报",
-    "用户表「工业 FS 在用 OTS」出处（邮件无）"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11（一次）",
-   "channel": "A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）",
-   "action": "一句话问 2024 的样品需求是否仍在、口数是否变了",
-   "one_question": "Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?"
-  },
-  "facts": [
-   {
-    "date": "2024-10-22",
-    "dir": "来",
-    "who": "Inam Ahmed（Data Center Division Manager）",
-    "quote": "Please send me a sample to test",
-    "why": "唯一人工来信",
-    "k": "2291cc97643c8854"
-   },
-   {
-    "date": "2024-10-22",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "It is NOT free samples. 36usd/pc STI-154GP… Please let me know if you are ready to order.",
-    "why": "付样规则生效",
-    "k": "775f9ed585dd20d5"
-   },
-   {
-    "date": "2026-09-22",
-    "dir": "来",
-    "who": "info@ekhalas.com（机器人）",
-    "quote": "Thank you for reaching out to us regarding your query…",
-    "why": "第 10 封机器人回复——两年群发都寄错了收件人",
-    "k": "3b9a30d69e46d2e7"
-   }
+  "code": "SA-073",
+  "name_official": "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）",
+  "website_status": "在线",
+  "summary": "沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。",
+  "type": "系统集成商+电商分销",
+  "size": "中型（承包+集成+电商，具体人数未披露）",
+  "brands_seen": [
+    "Vivotek",
+    "TP-Link Omada",
+    "Huawei eKit",
+    "Dahua",
+    "Legrand",
+    "OTS（用户记录：工业FS在用）"
   ],
-  "proof_gaps": [
-   "用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户",
+      "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market",
+      "url": "https://www.ekhalas.com/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "eKhalas 为集成商/客户/厂商的 B2B 市场平台，品类含 Routers and Switches",
+      "quote": "‘eKhalas’ a marketspace platform for our system integrators, customers & Vendors all across Saudi Arabia… Routers and Switches, UPS and invertors, Satellite, Safety and Security",
+      "url": "https://www.ekhalas.com/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "运营主体 Al Rajhi Telecom Company，利雅得地址与电话",
+      "quote": "Al Rajhi Telecom Company… 7687 King Fahad Branch Road, Al Murabba Dist… +966114221089",
+      "url": "https://www.ekhalas.com/contact-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "平台在售 Vivotek PoE 交换机",
+      "quote": "VIVOTEK – POE-SWITCH AW-GEL-105A-110 EU… 705.00 + VAT",
+      "url": "https://www.ekhalas.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "成立、母公司、业务范围",
+      "quote": "Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions, software development, cybersecurity, telecommunications, and data center and power services",
+      "url": "https://www.alrajhitel.com/",
+      "date": "2025-08-17"
+    },
+    {
+      "kind": "官网",
+      "claim": "2024 成立 Al Rajhi Distribution、第三家展厅",
+      "quote": "2024 We have expanded our presence in the Eastern Province by opening our third showroom in Jubail. Additionally, we have successfully established a new entity called Al Rajhi Distribution, allowing us to enter the distribution business",
+      "url": "https://alrajhitel.odoo.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "关联公司官网",
+      "claim": "Silkroad：2005 起、3,000+ 客户、自有品牌零售",
+      "quote": "Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers … to introducing our own brands into the retail market",
+      "url": "https://www.ekhalas.com/about-us/",
+      "date": "2026-08-08"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与专长",
+      "quote": "Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners",
+      "url": "https://www.linkedin.com/company/alrajhitel/",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Inam",
+      "role": "（用户记录联系人）",
+      "email": "info@ekhalas.com",
+      "phone": "+966 11 4221089",
+      "source": "用户 Clients 表 + 官网联系页"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + LinkedIn + 关联公司核对）"
+  },
+  "company_facts": {
+    "legal_name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
+    "founded": "2014（官网时间线；LinkedIn 2013）",
+    "hq": "7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+    "other": "业务：ICT 基础设施、MEP、ELV（CCTV/门禁/PA/IPTV/消防/主时钟）、软件、网络安全、电信 OSP/ISP、数据中心与电源；Cisco Premium Partner；展厅 Riyadh / Al Khobar / Jeddah / Jubail（2024 第三家）；**2024 成立 Al Rajhi Distribution 进入分销**；电商 ekhalas.com；2024-07 与 Mobi Egypt 成立数据中心合资；Silkroad 自述「3,000+ 客户」并「向零售市场推出自有品牌」；高管：CEO Mohammed Abdul Majid、Director of Group Sales Mohamed W Telfah、Sales Director Mohamad Hejazi、GM Mohammed Naser Al Sultan（ContactOut 名录）",
+    "staff": "501–1,000（LinkedIn，3,078 followers）"
+  },
+  "business_lines": [
+    "电信承包 / ICT 集成",
+    "B2B 电商分销（多品牌）",
+    "自有品牌零售",
+    "ICT / ELV 系统集成（政府、商业、工业、电信）",
+    "电信 OSP/ISP 承包（STC、Mobily、Tahakom 等项目）",
+    "数据中心（Mobi Egypt 合资）",
+    "Al Rajhi Distribution 分销 + ekhalas.com 电商 + Silkroad 自有品牌零售"
+  ],
+  "products_seen": [
+    {
+      "brand": "Vivotek / TP-Link Omada / Huawei eKit（在售）",
+      "model": "商用 PoE 交换机",
+      "spec": "电商平台",
+      "url": "https://ekhalas.com/",
+      "date": "2026-10（首轮调研）",
+      "saga": "STC-424DGGPM-280W"
+    },
+    {
+      "brand": "OTS（现工业来源）",
+      "model": "工业 FS",
+      "spec": "用户表",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-288DGGPM"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.alrajhitel.com/ / https://www.ekhalas.com/",
+    "直邮": "info@ekhalas.com（用户表）",
+    "LinkedIn": "https://www.linkedin.com/company/alrajhitel/"
+  },
+  "signals": [
+    "有自有品牌 + 电商 + 3,000 客户——白牌切入渠道现成",
+    "2024 新设 Al Rajhi Distribution + Silkroad「自有品牌进零售」——白牌 PoE 交换机走分销/自有品牌线比走集成项目更对口（2026-10-21）"
+  ],
+  "risks": [
+    "沙特 SASO/SABER 认证由进口方办理；电商价带低",
+    "规模 501–1,000 人、消防/主时钟/公共部门项目多——按 INH「too big」与公共部门守界，只做其分销 / 自有品牌零售线，不做政府集成项目配套"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "走 Al Rajhi Distribution / ekhalas 自有品牌线：STC-424DGGPM-280W 与 STC-28DGGPM 为零售主力口型，自有品牌包装；分销 20% 档（若按自有品牌 OEM 则 30%）"
+  },
+  "email_hook": "With Al Rajhi Distribution and the ekhalas own-brand range now live, the Marvell-based 8- and 24-port PoE+ managed switches in your packing at EXW cost are the two SKUs I would start with; I can send the spec sheets and MOQ-1 samples.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（唯一一次人工来信 = 要样品，止于付样规则）",
+      "type": "沙特电信承包 + ICT 集成 + 自营 B2B 电商（ekhalas）；Inam Ahmed（Data Center Division Manager）",
+      "sieve": "2（主动要样）→ 付样门槛停",
+      "stop": "2024-10-22 Inam「Please send me a sample to test」→ Simon 同日「It is NOT free samples. 36usd/pc STI-154GP」→ 无下文；此后 21 封去信全部发到 info@ekhalas.com（电商机器人自动回复 10 次），再没有发给 inam@",
+      "revive": "中东非主攻；若要复活，成本只是把收件人改回 inam@alrajhitel.com 并一句话问样品",
+      "lane": "SA：PayPal/T/T 可",
+      "cadence": "2024-06 → 2026-09 去信 26 封；人工来信 1 封（2024-10-22）",
+      "evidence": "k=2291cc97643c8854 / 775f9ed585dd20d5 / 3b9a30d69e46d2e7"
+    },
+    "situation": "利雅得 Al Rajhi Telecom 的数据中心部经理 Inam 在 2024-10-22 回「送个样品测试」，Simon 按规则答「不免费，36 USD/台 STI-154GP」，对方静默。之后两年 Saga 的 21 封群发全部寄到 ekhalas 电商平台的 info@，收回 10 封「Thank you for contacting us」机器人信，研究档里的「1 次实质回复」就是那次要样。",
+    "need": "4 口工业 PoE（当时）；其平台在售 Vivotek PoE / TP-Link Omada / 华为 eKit / Dahua。",
+    "breakpoint": "付样规则本身是筛子（C 层不改），但收件人错了两年——投入都花在机器人身上。",
+    "saga_now": {
+      "p1": "STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报",
+      "tier": 25,
+      "price": "按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`",
+      "why": "一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加",
+      "repeat": [],
+      "gaps": [
+        "36 USD 的 STI-154GP 当年属于哪条线（Marvell 非管理？）——核 `价格主表` 后再报",
+        "用户表「工业 FS 在用 OTS」出处（邮件无）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11（一次）",
+      "channel": "A 邮箱 → inam@alrajhitel.com（不再发 info@ekhalas.com）",
+      "action": "一句话问 2024 的样品需求是否仍在、口数是否变了",
+      "one_question": "Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?"
+    },
+    "facts": [
+      {
+        "date": "2024-10-22",
+        "dir": "来",
+        "who": "Inam Ahmed（Data Center Division Manager）",
+        "quote": "Please send me a sample to test",
+        "why": "唯一人工来信",
+        "k": "2291cc97643c8854"
+      },
+      {
+        "date": "2024-10-22",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "It is NOT free samples. 36usd/pc STI-154GP… Please let me know if you are ready to order.",
+        "why": "付样规则生效",
+        "k": "775f9ed585dd20d5"
+      },
+      {
+        "date": "2026-09-22",
+        "dir": "来",
+        "who": "info@ekhalas.com（机器人）",
+        "quote": "Thank you for reaching out to us regarding your query…",
+        "why": "第 10 封机器人回复——两年群发都寄错了收件人",
+        "k": "3b9a30d69e46d2e7"
+      }
+    ],
+    "proof_gaps": [
+      "用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据"
+    ],
+    "draft_en": {
+      "subject": "Re: 4-port industrial PoE sample — still relevant?",
+      "body": "Hi, Inam,\n\nIn October 2024 you asked for a sample of the 4-port industrial PoE (STI-154GP) and we answered with the 36 USD price and the paid-sample rule. Nothing since, and our later mails went to a general mailbox, so this is the first one addressed to you.\n\nCurrent price: STI-154GP — $51.7 USD EXW list (2026-10 price table, valid 15 days from this mail); samples are paid, credited against the first order.\n\nOne question: is a 4-port industrial PoE still relevant for a current site, or has the need moved to 8/16 ports?\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

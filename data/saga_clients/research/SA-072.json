@@ -1,189 +1,192 @@
 {
- "code": "SA-072",
- "name_official": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.（Istanbul, Türkiye）",
- "website_status": "在线（含 shop.sge.com.tr 网店）",
- "summary": "伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。",
- "type": "工程分销商/集成（能源自动化；工业交换机转售）",
- "size": "16 人（EMIS 2025）",
- "brands_seen": [
-  "Sprecher Automation",
-  "Elspec",
-  "迈威(Maiwe)",
-  "CIEN",
-  "CISCOM"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位与分销区域",
-   "quote": "SGE Mühendislik; 2007 yılında, elektrik mühendisliği alanında hizmet vermek için kurulmuş profesyonel bir mühendislik şirketidir … Distribütörü olduğumuz bu ürünleri Türkiye, Orta Doğu, Rusya, Türki Cumhuriyetler, Afrika ülkelerine satıyor",
-   "url": "https://www.sge.com.tr/kurumsal-hakkimizda-16.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "网店",
-   "claim": "在售进口工业 PoE 交换机（5 周交期 = 中国直采）",
-   "quote": "CIEN3206GP-2GF-4GTPOE-DC48 … 2xGbit SFP, 4xGbit PoE Switch Bu ürünün teslim süresi 5 haftadır. 14.159,62 TL … -40 ila 75°C çalışma sıcaklığı aralığı Endüstriyel donanımı sayesinde ürün 5 yıl garanti",
-   "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（EMIS）",
-   "claim": "规模",
-   "quote": "Sge Muhendislik Elektrik Otomasyon Bilgi Islem San. Ve Tic. Ltd. Sti. … was incorporated on November 28, 2007. 16 (2025) employees",
-   "url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网网店",
-   "claim": "CIEN3206GP-2GF-4GTPOE-DC48 规格、价格、交期",
-   "quote": "CIEN3206GP-2GF-4GTPOE-DC48 … 2xGbit SFP, 4xGbit PoE Switch Bu ürünün teslim süresi 5 haftadır. | 14.159,62 TL | - 2 x 1G SFP Portu, 4 x 1G PoE RJ45 Portu … toplam 120W bütçe - DC48V~52V yedekli güç girişleri … -40 ila 75°C",
-   "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业 PoE 类目型号列表（CISCOM7212GP/7210GP、CIEN3205GP/3206GP/3210GP/5206GP）",
-   "quote": "CISCOM7212GP, 4xGbit SFP, 8xGbit POE Layer2 Managed Switch … CISCOM7210GP-2xGbit SFP-8xGbit RJ45 POE Managed Switch … CIEN3205GP-1xGbit SFP, 4xGbit RJ45 PoE Unmanaged Switch … CIEN3210GP-2xGbit SFP, 8xGbit PoE Unmanaged PoE Switch",
-   "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Murat Gül",
-   "role": "Electrical Engineer（用户表）",
-   "email": "muratg@sge.com.tr",
-   "phone": "",
-   "source": "Clients/A Replied 09.04.xlsx"
-  },
-  {
-   "name": "Okan S.",
-   "role": "联系人（用户表）",
-   "email": "okans@sge.com.tr",
-   "phone": "",
-   "source": "Clients/A Replied 09.04.xlsx"
-  }
- ],
- "notes": "A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.",
-  "founded": "2007",
-  "hq": "İstanbul, Türkiye",
-  "staff": "16",
-  "other": "能源自动化工程分销商（Sprecher Automation、Elspec），网店 shop.sge.com.tr「工业网络产品」类目在售 CIEN/CISCOM 品牌工业交换机（标注交期 5 周、TL 含税价）"
- },
- "business_lines": [
-  "电力测量/保护/自动化产品分销（中东/俄/突厥语国家/非洲）",
-  "工业网络产品网店：CIEN DIN 非管理（百兆/千兆）、CIEN PoE、CISCOM 管理型 PoE"
- ],
- "products_seen": [
-  {
-   "brand": "CIEN",
-   "model": "CIEN3206GP-2GF-4GTPOE-DC48",
-   "spec": "工业 4×GE PoE + 2 SFP，120W，48–52VDC 冗余，IP40，-40~75℃；14,159.62 TL 含税，交期 5 周",
-   "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "CIEN",
-   "model": "CIEN3210GP（2 SFP + 8 GE PoE 非管理）/ CIEN3205GP（1 SFP + 4 GE PoE）",
-   "spec": "工业 PoE 非管理",
-   "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM / STI-144GP"
-  },
-  {
-   "brand": "CISCOM",
-   "model": "CISCOM7212GP（4 SFP + 8 GE PoE L2 管理）/ CISCOM7210GP（2 SFP + 8 GE PoE 管理）",
-   "spec": "工业管理型 PoE",
-   "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "CIEN",
-   "model": "CIEN2205（5×FE DIN，9–60VDC）",
-   "spec": "5,246.39 TL 含税，交期 5 周",
-   "url": "https://shop.sge.com.tr/urundetay-cien2205-5x100m-rj45-switch-295-2875.html",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（千兆 PoE 升级位）"
-  },
-  {
-   "brand": "CIES",
-   "model": "CIES305G（5×GE DIN，9–60VDC/AC24V）",
-   "spec": "工业千兆非管理 5 口",
-   "url": "https://www.sge.com.tr/urundetay-cies305g-5-port-gigabit-endustriyel-ethernet-switch-295-3063.html",
-   "date": "2026-10-21",
-   "saga": "—（非 PoE 5 口待核）"
-  }
- ],
- "channels": {
-  "网站/网店": "https://sge.com.tr/ · https://shop.sge.com.tr/",
-  "直邮": "muratg@sge.com.tr / okans@sge.com.tr（用户表）"
- },
- "signals": [
-  "网店所有 CIEN 机型标注「交期 5 周」——Saga 10–15 天交期是直接卖点（2026-10-21）",
-  "用户表：工业控制，迈威的（现有来源）"
- ],
- "risks": [
-  "能源/电力自动化客户常要 IEC 61850-3/IEEE 1613——Saga 工业机不具备，只供一般工业/楼宇位",
-  "土耳其 TL 波动；USD EXW 报价"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "网店主力 CIEN3206GP-2GF-4GTPOE（4 GE PoE + 2 SFP，≈$340 含税）对位 STI-144GP/（2 SFP 版核价）；CIEN3210GP/CISCOM7210GP 对位 STI-288DGGPM；分销 20% 档"
- },
- "email_hook": "Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2025-12 电气工程师要价表 → 给链接 → 无）",
-   "type": "伊斯坦布尔能源自动化工程分销（网店在售中国工业 PoE，转销中东/中亚）；Murat Gül——土耳其主攻区",
-   "sieve": "1",
-   "stop": "价表链接后无回；9 封去信里 8 封是群发",
-   "revive": "TR 主攻：值得一封针对性信（对位其网店在售 CIEN3206GP）",
-   "lane": "TR",
-   "cadence": "2025-09 → 2026-09 去信 9 封；最后来信 2025-12-01",
-   "evidence": "k=d6656fb30ed9002e / 0c862411c12313aa"
-  },
-  "situation": "Murat 2025-12-01 要价表，Alan 次日给下载链接。无回。SGE 网店在卖中国工业 PoE（研究档），交期 5 周——Saga 10–15 天是可讲的差异。",
-  "need": "工业 PoE（转售）。",
-  "breakpoint": "价表链接式回复；土耳其主攻区却只投了 9 封。",
-  "saga_now": {
-   "p1": "STI-244GP / STI-288DGGPM 对位 CIEN3206GP",
-   "tier": 25,
-   "price": "按 25%",
-   "why": "TR 主攻 + 已回复 = 写第二封",
-   "repeat": [],
-   "gaps": [
-    "其 CIEN3206GP 网店售价（研究档有线索，报前核）"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → muratg@sge.com.tr",
-   "action": "对位表（2 款）+ 交期 10–15 天 + 一句话",
-   "one_question": "For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?"
-  },
-  "facts": [
-   {
-    "date": "2025-12-01",
-    "dir": "来",
-    "who": "Murat Gül（Electrical Engineer）",
-    "quote": "Can you send to me the price list of your products?",
-    "why": "要价表",
-    "k": "d6656fb30ed9002e"
-   }
+  "code": "SA-072",
+  "name_official": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.（Istanbul, Türkiye）",
+  "website_status": "在线（含 shop.sge.com.tr 网店）",
+  "summary": "伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。",
+  "type": "工程分销商/集成（能源自动化；工业交换机转售）",
+  "size": "16 人（EMIS 2025）",
+  "brands_seen": [
+    "Sprecher Automation",
+    "Elspec",
+    "迈威(Maiwe)",
+    "CIEN",
+    "CISCOM"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位与分销区域",
+      "quote": "SGE Mühendislik; 2007 yılında, elektrik mühendisliği alanında hizmet vermek için kurulmuş profesyonel bir mühendislik şirketidir … Distribütörü olduğumuz bu ürünleri Türkiye, Orta Doğu, Rusya, Türki Cumhuriyetler, Afrika ülkelerine satıyor",
+      "url": "https://www.sge.com.tr/kurumsal-hakkimizda-16.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "网店",
+      "claim": "在售进口工业 PoE 交换机（5 周交期 = 中国直采）",
+      "quote": "CIEN3206GP-2GF-4GTPOE-DC48 … 2xGbit SFP, 4xGbit PoE Switch Bu ürünün teslim süresi 5 haftadır. 14.159,62 TL … -40 ila 75°C çalışma sıcaklığı aralığı Endüstriyel donanımı sayesinde ürün 5 yıl garanti",
+      "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（EMIS）",
+      "claim": "规模",
+      "quote": "Sge Muhendislik Elektrik Otomasyon Bilgi Islem San. Ve Tic. Ltd. Sti. … was incorporated on November 28, 2007. 16 (2025) employees",
+      "url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网网店",
+      "claim": "CIEN3206GP-2GF-4GTPOE-DC48 规格、价格、交期",
+      "quote": "CIEN3206GP-2GF-4GTPOE-DC48 … 2xGbit SFP, 4xGbit PoE Switch Bu ürünün teslim süresi 5 haftadır. | 14.159,62 TL | - 2 x 1G SFP Portu, 4 x 1G PoE RJ45 Portu … toplam 120W bütçe - DC48V~52V yedekli güç girişleri … -40 ila 75°C",
+      "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业 PoE 类目型号列表（CISCOM7212GP/7210GP、CIEN3205GP/3206GP/3210GP/5206GP）",
+      "quote": "CISCOM7212GP, 4xGbit SFP, 8xGbit POE Layer2 Managed Switch … CISCOM7210GP-2xGbit SFP-8xGbit RJ45 POE Managed Switch … CIEN3205GP-1xGbit SFP, 4xGbit RJ45 PoE Unmanaged Switch … CIEN3210GP-2xGbit SFP, 8xGbit PoE Unmanaged PoE Switch",
+      "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Murat Gül",
+      "role": "Electrical Engineer（用户表）",
+      "email": "muratg@sge.com.tr",
+      "phone": "",
+      "source": "Clients/A Replied 09.04.xlsx"
+    },
+    {
+      "name": "Okan S.",
+      "role": "联系人（用户表）",
+      "email": "okans@sge.com.tr",
+      "phone": "",
+      "source": "Clients/A Replied 09.04.xlsx"
+    }
+  ],
+  "notes": "A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.",
+    "founded": "2007",
+    "hq": "İstanbul, Türkiye",
+    "staff": "16",
+    "other": "能源自动化工程分销商（Sprecher Automation、Elspec），网店 shop.sge.com.tr「工业网络产品」类目在售 CIEN/CISCOM 品牌工业交换机（标注交期 5 周、TL 含税价）"
+  },
+  "business_lines": [
+    "电力测量/保护/自动化产品分销（中东/俄/突厥语国家/非洲）",
+    "工业网络产品网店：CIEN DIN 非管理（百兆/千兆）、CIEN PoE、CISCOM 管理型 PoE"
+  ],
+  "products_seen": [
+    {
+      "brand": "CIEN",
+      "model": "CIEN3206GP-2GF-4GTPOE-DC48",
+      "spec": "工业 4×GE PoE + 2 SFP，120W，48–52VDC 冗余，IP40，-40~75℃；14,159.62 TL 含税，交期 5 周",
+      "url": "https://shop.sge.com.tr/urundetay-2xgbit-sfp-4xgbit-poe-switch-297-2892.html",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "CIEN",
+      "model": "CIEN3210GP（2 SFP + 8 GE PoE 非管理）/ CIEN3205GP（1 SFP + 4 GE PoE）",
+      "spec": "工业 PoE 非管理",
+      "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM / STI-144GP"
+    },
+    {
+      "brand": "CISCOM",
+      "model": "CISCOM7212GP（4 SFP + 8 GE PoE L2 管理）/ CISCOM7210GP（2 SFP + 8 GE PoE 管理）",
+      "spec": "工业管理型 PoE",
+      "url": "https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "CIEN",
+      "model": "CIEN2205（5×FE DIN，9–60VDC）",
+      "spec": "5,246.39 TL 含税，交期 5 周",
+      "url": "https://shop.sge.com.tr/urundetay-cien2205-5x100m-rj45-switch-295-2875.html",
+      "date": "2026-10-21",
+      "saga": "STI-144GP（千兆 PoE 升级位）"
+    },
+    {
+      "brand": "CIES",
+      "model": "CIES305G（5×GE DIN，9–60VDC/AC24V）",
+      "spec": "工业千兆非管理 5 口",
+      "url": "https://www.sge.com.tr/urundetay-cies305g-5-port-gigabit-endustriyel-ethernet-switch-295-3063.html",
+      "date": "2026-10-21",
+      "saga": "—（非 PoE 5 口待核）"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://sge.com.tr/ · https://shop.sge.com.tr/",
+    "直邮": "muratg@sge.com.tr / okans@sge.com.tr（用户表）"
+  },
+  "signals": [
+    "网店所有 CIEN 机型标注「交期 5 周」——Saga 10–15 天交期是直接卖点（2026-10-21）",
+    "用户表：工业控制，迈威的（现有来源）"
+  ],
+  "risks": [
+    "能源/电力自动化客户常要 IEC 61850-3/IEEE 1613——Saga 工业机不具备，只供一般工业/楼宇位",
+    "土耳其 TL 波动；USD EXW 报价"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 20,
+    "why": "网店主力 CIEN3206GP-2GF-4GTPOE（4 GE PoE + 2 SFP，≈$340 含税）对位 STI-144GP/（2 SFP 版核价）；CIEN3210GP/CISCOM7210GP 对位 STI-288DGGPM；分销 20% 档"
+  },
+  "email_hook": "Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（2025-12 电气工程师要价表 → 给链接 → 无）",
+      "type": "伊斯坦布尔能源自动化工程分销（网店在售中国工业 PoE，转销中东/中亚）；Murat Gül——土耳其主攻区",
+      "sieve": "1",
+      "stop": "价表链接后无回；9 封去信里 8 封是群发",
+      "revive": "TR 主攻：值得一封针对性信（对位其网店在售 CIEN3206GP）",
+      "lane": "TR",
+      "cadence": "2025-09 → 2026-09 去信 9 封；最后来信 2025-12-01",
+      "evidence": "k=d6656fb30ed9002e / 0c862411c12313aa"
+    },
+    "situation": "Murat 2025-12-01 要价表，Alan 次日给下载链接。无回。SGE 网店在卖中国工业 PoE（研究档），交期 5 周——Saga 10–15 天是可讲的差异。",
+    "need": "工业 PoE（转售）。",
+    "breakpoint": "价表链接式回复；土耳其主攻区却只投了 9 封。",
+    "saga_now": {
+      "p1": "STI-244GP / STI-288DGGPM 对位 CIEN3206GP",
+      "tier": 25,
+      "price": "按 25%",
+      "why": "TR 主攻 + 已回复 = 写第二封",
+      "repeat": [],
+      "gaps": [
+        "其 CIEN3206GP 网店售价（研究档有线索，报前核）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → muratg@sge.com.tr",
+      "action": "对位表（2 款）+ 交期 10–15 天 + 一句话",
+      "one_question": "For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?"
+    },
+    "facts": [
+      {
+        "date": "2025-12-01",
+        "dir": "来",
+        "who": "Murat Gül（Electrical Engineer）",
+        "quote": "Can you send to me the price list of your products?",
+        "why": "要价表",
+        "k": "d6656fb30ed9002e"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: price list — industrial PoE for resale",
+      "body": "Hi, Murat,\n\nYou asked for our price list in December and got a link; here is the part that matters for an industrial-PoE reseller, in the body:\n\n- STI-244GP: 4x GbE PoE + 2x SFP, unmanaged, DIN — $49.5 USD EXW\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN — $137.5 USD EXW\n- STI-21616DGGPM: 16x GbE PoE + 2x SFP, L2+ managed — $242 USD EXW\n(2026-10 price table, valid 15 days from this mail)\nAll -40 to +75 C, CE/RoHS/FCC; 4-7 working days ex-works, i.e. 10-15 days to Istanbul by air.\n\nOne question: for the industrial PoE units you resell today, is that lead time (vs ~5 weeks from your current source) worth a paid sample on one SKU?\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

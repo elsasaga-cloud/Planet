@@ -257,21 +257,24 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: detailed spec and price — Booster PoE managed
 
 ```text
-Hi Rex,
+Hi, Rex,
 
-Picking up our earlier exchange about PoE / industrial switches. Rex, for the industrial PoE switches you bundle with panel PCs — if you send the UniPoE part number you use most, I'll quote the like-for-like Marvell-based unit under the Winsonic label, 1-pc sample first.
+Your November request for spec and prices — here is the concrete answer:
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+- STI-488XGGBPM: 8x GbE PoE + 4x 1G/2.5G/10G SFP+, L2+ managed, internal power booster — $215 USD EXW in OEM lots (2026-10 price table, valid 15 days from this mail)
+- Platforms we build on: Marvell AC5 (managed) and Realtek (entry); no Qualcomm/MTK.
+- OEM: logo, model name, GUI, packaging from 50 pcs.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: is the booster-PoE managed unit for your own catalogue, or a project where I should quote a specific quantity?
+
+Thank you.
+Alan
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

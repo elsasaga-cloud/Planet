@@ -289,21 +289,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: PoE not powering on battery — did 7.5 change anything?
 
 ```text
-Hi Chris,
+Hi, Chris,
 
-Picking up our earlier exchange about PoE / industrial switches. Thank you for the write-up on the STI-42424XGGPM-4BT; I have passed the two points (line-count memory in the UI and SFP speed auto-detect) to our firmware team, and would like to ask whether we may quote your review when talking to other UK customers.
+Two loose ends from March that we never closed, sorry about that.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+1. PoE not coming up after the switch sat on low battery for a couple of months — did the ports come back after the firmware 7.5 update, or is it still reproducible? If it is, send me the diagnostics package again and I will sit with engineering on it until we have an answer, not a "please check".
+2. SSH terminal type (xterm-256color) — still not configurable on this build; I will tell you honestly when it changes rather than promise a date.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: on battery power, what is the DC input voltage at the switch when PoE fails to come up? That decides whether this is a PoE budget rule or a bug.
+
+Thank you.
+Alan
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

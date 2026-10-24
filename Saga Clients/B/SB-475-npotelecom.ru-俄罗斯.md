@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-06-05：芯片是啥
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口；按 CENTEC 价表
-- **第一问（只问一个）**：Mikhail — the CENTEC line (STH-2QX4XF48GP / 8C48DX, VXLAN/EVPN/MPLS) is attached with the 2026 list; which platform are you evaluating for your own range?
+- **第一问（只问一个）**：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → afonin@npotelecom.ru CENTEC 表 + 身份说明
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：身份回答。
 - **Saga 现在该推什么**：P1 **STH 系列**（30% 档，按 CENTEC 价表）——用户标重要 + CENTEC 对口
 - **下一步（具体）**：2026-11　A 邮箱 → afonin@npotelecom.ru　CENTEC 表 + 身份说明
-  - 第一问（只问一个）：Mikhail — the CENTEC line (STH-2QX4XF48GP / 8C48DX, VXLAN/EVPN/MPLS) is attached with the 2026 list; which platform are you evaluating for your own range?
+  - 第一问（只问一个）：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -261,25 +261,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Re: where we build, and which platforms
 
 ```text
-Hi Mikhail,
+Hi, Mikhail,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mikhail, following your reply on switches: we can supply Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail 8-GE + 2 SFP managed models in your packaging from small lots, CE/RoHS; EAC by your side — which configuration and quantity should I quote first?
+Your May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+CENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+One question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

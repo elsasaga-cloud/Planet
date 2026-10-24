@@ -1,388 +1,391 @@
 {
- "code": "SA-013",
- "name_official": "fiberONE（NYNEX satellite OHG, Darmstadt）",
- "website_status": "在线",
- "summary": "德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。",
- "type": "运营商/ISP（终端 + 自有 logo 贴牌需求）",
- "size": "11–50 人（LinkedIn）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "法人与品牌关系",
-   "quote": "fiberONE — a brand of NYNEX satellite OHG … Robert-Bosch-Straße 20 64293 Darmstadt … Email: info@fiberone.de",
-   "url": "https://fiberone.de/impressum/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网（新闻）",
-   "claim": "规模：数千套住宅接入，最大项目 1,100 套，自建 AON 网络",
-   "quote": "Jüngster Meilenstein: die Wohnstadt Asemwald in Stuttgart, mit über 1.100 Wohnungen das bislang größte Projekt im Netz … 10 Gbit/s symmetrisch",
-   "url": "https://fiberone.de/presse/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "11–50 人，2015 年",
-   "quote": "Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015",
-   "url": "https://de.linkedin.com/company/nynexfiberone",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "注册/RIPE",
-   "claim": "Frederik Kriewitz = NYNEX satellite OHG 的 RIPE 联系人，地址与电话公开",
-   "quote": "person: Frederik Kriewitz address: NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Germany phone: +49 6151 50074-009 e-mail: f.kriewitz@nynex.de nic-hdl: NX123",
-   "url": "https://ipinfo.io/AS200519/178.17.236.0/23",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司 2000 年创立、运营商 + 集成商、自有 AS62023",
-   "quote": "NYNEX satellite OHG ist ein inhabergeführter Netzbetreiber und Systemintegrator aus Darmstadt, gegründet im Oktober 2000 von Andreas Buxbaum und Gunter Frank … in einem eigenen Netz mit eigenem autonomem System (AS62023)",
-   "url": "https://nynex.de/leistungen.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "2026 年 26 周年并上线 nynex.ai；fiberONE 光纤自 2015 年",
-   "quote": "Chronik der NYNEX satellite OHG, Darmstadt: VSAT-Netze seit 2000, Glasfaser mit fiberONE seit 2015, KI-Infrastruktur mit nynex.ai seit 2026",
-   "url": "https://nynex.de/geschichte.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "公开文件",
-   "claim": "Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）",
-   "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
-   "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
-   "date": "2025-08-31"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls",
-   "date": "2024-11-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls",
-   "date": "2025-09-15"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx",
-   "date": "2026-09-29"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx",
-   "date": "2026-09-30"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx",
-   "date": "2026-10-06"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83",
-   "quote": "",
-   "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区",
-   "quote": "The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?",
-   "url": "data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）",
-   "date": "2025-03-27"
-  },
-  {
-   "kind": "S 邮箱原文",
-   "claim": "2026-09-29 NYNEX 询价 20 × STC-4168XGGCM（双 AC 电源，同上次订单）含运到德国；Simon 当日答材料涨价（PCB / RAM）、汇率 6.71、可 EUR 结算",
-   "quote": "can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.",
-   "url": "（S 邮箱 key afced0c9af361141，2026-09-29T13:36Z；回信 key 38d19aa9fadaae82）",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "S 邮箱原文",
-   "claim": "2026-09-30 Simon 报最终价：2,015 RMB/台 = 300 USD（1:6.71）= 265.2 EUR（1:7.6）；交期 3 周 / 15 个工作日（下单后起算）；客户称因涨价需再找 3 家比价",
-   "quote": "Best offer is 2015RMB/PC USD offer: 300USD/PC … EUR offer: 265.2EUR/PC … Production time: 3 weeks, it is 15 working days. AFTER the order is confirmed!",
-   "url": "（S 邮箱 key 074a700ad4b10bf7，2026-09-30T05:50Z）",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "S 邮箱原文",
-   "claim": "2026-10-06 NYNEX 要欧元账户 → Simon 发 invoice + 银行确认（同一账户收 USD / EUR）；2026-10-15 NYNEX 付款并要求成品用 SmartByte 原始产品名 / ID 与 SmartByte SNMP 厂商 OID；Simon 同意「let's do SmartByte information」；2026-10-17 确认收款、投产",
-   "quote": "payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.",
-   "url": "（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "GitHub 公开仓库",
-   "claim": "Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此",
-   "quote": "@copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)",
-   "url": "https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "GitHub 公开仓库",
-   "claim": "Kriewitz 还向 Oxidized（开源配置备份）提交了 smartbyte 模型（2026-01-23 合并，测试数据同为 STC-4168XGGCM 7.4.7）→ NYNEX 用 LibreNMS + Oxidized 两套工具把 Saga 交换机当长期在网设备运维",
-   "quote": "smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
-   "url": "https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "S 邮箱原文 + GitHub 对齐",
-   "claim": "LibreNMS 支持的来龙去脉：2025-02-11 测试反馈（无 PSU/风扇/温度监控、SNMP 基础、缺 LLDP-V2-MIB/DDM，选 BDCOM S2900）→ 2025-12-10 指出固件企业号=0、旧固件为 57430（Fuzhou Dockeer）→ 2025-12-17 Simon 发修复固件 hotfix/7.4.7 r1540（OID=56166）→ 12-18 确认生效 → 12-19 Frederik 开 LibreNMS PR #18681（2026-01-11 合并，26.1.0 发布）。show version 显示 System MAC fc:cd:2f:d0:4f:db（SmartByte MA-M 块内）、PID STC-4168XGGCM V1.1、SN 202509160001",
-   "quote": "Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.",
-   "url": "data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "S 邮箱原文（三方线程）",
-   "claim": "Peter（SmartByte）2025-03-26 书面向 NYNEX 说明关系：SmartByte 是 OEM/ODM 工厂，Saga 是其欧洲市场的代表伙伴，今后要买 SmartByte 产品「contact Simon directly」；Frederik 2025-03-25 称要向 compliance department 报备；2025-03-27 NYNEX 自有 PEN 44770 但选择用 SmartByte PEN 并要求用 SmartByte 标准型号",
-   "quote": "Saga Telecom is our partner who represent SmartByte to promote SmartByte's products all over the Europe market. If you are interests in SmartByte's products in future, you can contact Simon directly.",
-   "url": "data/gmail_s/messages/2025/2025-03.jsonl（peter@smartbyte.com.cn 2025-03-26；f.kriewitz@nynex.de 2025-03-25/27）",
-   "date": "2025-03-26"
-  },
-  {
-   "kind": "微信 OCR（Simon↔Peter 2024-11-15）",
-   "claim": "NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB",
-   "quote": "We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.",
-   "url": "data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt",
-   "date": "2024-11-15"
-  },
-  {
-   "kind": "Simon 口述",
-   "claim": "绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高",
-   "quote": "尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定",
-   "url": "docs/requirements/对话全记录.md § T29-U28",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）",
-   "quote": "德国 Frederik　轻度绑定 = Smartbyte也背书了",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
-  }
- ],
- "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
- "researched_at": "2026-10-22",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "NYNEX satellite OHG（品牌 fiberONE）",
-  "founded": "2000-10（Andreas Buxbaum 与 Gunter Frank 创立）；fiberONE 光纤业务 2015 年起",
-  "hq": "Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
-  "staff": "11–50（LinkedIn）",
-  "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
-  "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
-  "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
- },
- "business_lines": [
-  "VSAT 卫星网络（Ku/Ka）",
-  "fiberONE：法兰克福/莱茵美因 FTTB/FTTH 自建网，楼宇千兆/10G 对称接入",
-  "B2B 专线、波长、楼宇网络",
-  "IP 中转/自有 AS",
-  "nynex.ai（2026 起）"
- ],
- "products_seen": [
-  {
-   "brand": "fiberONE（自有 logo 需求）",
-   "model": "楼宇接入侧 SFP / MC / 接入交换机",
-   "spec": "用户表：兴趣 SFP、MC 及周边并要「自己的 logo」；FTTB 楼宇侧需要带 SFP 上联的小口数 PoE/非 PoE 接入机",
-   "url": "https://fiberone.de/",
-   "date": "用户表 + 2026-10-21",
-   "saga": "STC-28DGGPM"
-  }
- ],
- "channels": {
-  "直邮": "f.kriewitz@nynex.de（RIPE 公开，成单联系人）/ m.kopp@nynex.de / s.valaei@nynex.de（用户表）",
-  "电话": "+49 6151 50074-009（RIPE 公开）",
-  "网站": "https://fiberone.de/ · https://nynex.de/",
-  "LinkedIn": "https://de.linkedin.com/company/nynexfiberone"
- },
- "signals": [
-  "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
-  "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
-  "用户表：已成单（Frederik Kriewitz），要自有 logo",
-  "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec",
-  "2026-10-22 GitHub 全量盘点（data/github_watch/）：freddy36 共 89 个 PR / 17 个 issue；网管相关 PR 揭示 NYNEX 在用/测过的设备：BDCOM（2024-04→2026-01，含 FS 贴牌 BDCOM）、FS 贴牌 Centec（LibreNMS #16175 2024-07）、Centec CNOS（Oxidized #2023 2020-01、#3892「CNOS: improve support」2026-08-19 合并 2026-09-22 → 2026 年仍在部署 Centec 设备）、Fiberstore S3900（2019/2024）、Edge-Core EdgeCOS（2019→2026-01）、GCOM BNPS（2017）、Mellanox（2020）、NUT/APC UPS、Checkmk（自有仓库 check_mk_extensions ★12）。SmartByte 相关：LibreNMS #18681（2025-12-19→2026-01-11）、#18856 fix opticalVoltage（2026-01-23）、Oxidized #3734（2026-01-23→02-13）。",
-  "2026-10-22：他在 LibreNMS #18955（FS S3410 = FS 贴牌 Ruijie，2026-01-30→02-24）里以审阅者身份指导别人 → 他是 LibreNMS 社区里 FS.com（Fiberstore）贴牌设备的权威；NYNEX 大量采购 FS.com（欧洲仓、现货）—— 2026-01「230 台因交期给了现有供应商」的现有供应商很可能就是 FS.com 系。",
-  "2026-10-22：GitHub star/following 画像：2024-09 star krusic22/SFP-Transceiver-Flashing（改写 SFP EEPROM/厂商锁 → 他们自己刷光模块兼容码，Saga 供 SFP 时要给可编码/不锁码的）；2026-03 star denog/denog-wg-access（DENOG 德国运营商社区成员）；star rtbrick/bngblaster、inex/IXP-Manager、snabb、trex；following bisdn（白盒 NOS 厂商）。近 90 天公开事件仅 1 条（2026-09-22 Oxidized PR 合并）。",
-  "Simon 2026-10-22（T29-U16）决定：CENTEC 线自己想办法；备货与 Peter 私下谈；7.5 固件出货前确认；备件 OK；授权书不主动提（客户提再说）；「欧洲代理」只是说辞，Saga 体量不是总代。"
- ],
- "risks": [
-  "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
-  "自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探",
-  "【2026-10-22 第二遍复盘 F11】第 6 单（20 × STC-4168XGGCM，2026-10-15 付款、10-17 投产）成交单价 2,015 RMB/台，**低于《价格主表》该型号 SmartByte 未税 CNY 2,100**（即三档公式的基数）；PI 包 5 单合计利润 7,081 RMB / USD 19,634 ≈ 5% —— 与「+20/25/30%」规则冲突，两者都保留：要么 SmartByte 对 Saga 的实际进价低于 2024-05 价目表，要么 Saga 对老客让利到贴本。客户最终选择 SmartByte 原名 + SmartByte OID（放弃 Saga 贴牌），对「Saga 品牌」定位是一个真实反馈。"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货"
- },
- "email_hook": "For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.",
- "kp": [
-  {
-   "name": "Frederik Kriewitz",
-   "role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
-   "email": "f.kriewitz@nynex.de",
-   "phone": "+49 6151 50074-009",
-   "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"
-  },
-  {
-   "name": "Gunter Frank",
-   "role": "创始人/合伙人（1999/2000 创立）",
-   "email": "",
-   "phone": "",
-   "source": "https://nynex.de/company/"
-  }
- ],
- "deal_pi": {
-  "folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
-  "simon_label": "活跃",
-  "pay": "Xtransfer",
-  "bind": "",
-  "buyer": "NYNEX satellite OHG",
-  "orders": 5,
-  "first": "2024-11-21",
-  "last": "2026-10-06",
-  "usd": 19634.0,
-  "rmb": 0.0,
-  "profit_rmb": 7081.83,
-  "models": "STC-4168XGGCM、STC-424XGGM",
-  "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
- },
- "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃 → A",
- "next_steps": [
-  "本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
-  "补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
-  "专属备货协议（dual-AC 常备 N 台 + 价格锁 6 个月）",
-  "7.5 固件 MIB 包 + LLDP-V2-MIB 状态 + snmprec",
-  "备件：PSU / 风扇模块",
-  "让 Peter 出盖章授权函（compliance）"
- ],
- "binding_level": "较深",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）",
- "mail_review": {
-  "binding": {
-   "level": "较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名）",
-   "type": "德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接）",
-   "sieve": "3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈）",
-   "stop": "无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373）",
-   "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
-   "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
-   "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
-   "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
-  },
-  "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
-  "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
-  "breakpoint": "无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。",
-  "saga_now": {
-   "p1": "STC-4168XGGCM（在产第 6 单）",
-   "tier": 30,
-   "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）",
-   "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
-   "repeat": [
-    "STC-4168XGGCM 双 AC（第 5、6 单）",
-    "2025-09 AC5 样机 1 台"
-   ],
-   "gaps": [
-    "媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
-    "交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
-    "PEN/OID 维持 SmartByte（Q-45 默认不动）"
-   ]
-  },
-  "next_move": {
-   "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
-   "channel": "S 邮箱（Simon 主线）",
-   "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
-   "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
-  },
-  "facts": [
-   {
-    "date": "2025-03-26",
-    "dir": "来",
-    "who": "Frederik Kriewitz（NYNEX）",
-    "quote": "Can you please request your own SmartByte SNMP enterprise OID at iana.org… and move the various custom enterprise OIDs to this OID tree",
-    "why": "客户推动 OID 规范化 = 把 Saga/SmartByte 写进自己运维体系",
-    "k": "c921dc47fd9370bb"
-   },
-   {
-    "date": "2025-03-27",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "we've PEN no. 44770 registered with IANA but for now we would prefer that you use your SmartByte PEN… Please use your standard Model Numbers",
-    "why": "坚持 SmartByte 原名/OID 的起点（Q-45）",
-    "k": "8f79a607c3cc831e"
-   },
-   {
-    "date": "2025-09-10",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
-    "why": "大项目需求 + 硬件监控要求",
-    "k": "3c32c9ad46e6235d"
-   },
-   {
-    "date": "2025-10-21",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
-    "why": "未接住的年量需求（媒体转换器）",
-    "k": "61065505a331e5fd"
-   },
-   {
-    "date": "2025-12-18",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "with this data update the OID was updated, working as expected now",
-    "why": "固件/MIB 迭代闭环",
-    "k": "e2c8e6b4f49f56e3"
-   },
-   {
-    "date": "2026-01-20",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "For the 230pcs project we used our existing supply because you initially quoted a long lead time",
-    "why": "交期丢单的原话",
-    "k": "c24584352bd15931"
-   },
-   {
-    "date": "2026-09-29",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
-    "why": "第 6 单 + 价格敏感度上升",
-    "k": "afced0c9af361141"
-   },
-   {
-    "date": "2026-10-15",
-    "dir": "来",
-    "who": "Frederik Kriewitz",
-    "quote": "payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used",
-    "why": "较深绑定的最新证据",
-    "k": "60ac95de9259a792"
-   }
+  "code": "SA-013",
+  "name_official": "fiberONE（NYNEX satellite OHG, Darmstadt）",
+  "website_status": "在线",
+  "summary": "德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。",
+  "type": "运营商/ISP（终端 + 自有 logo 贴牌需求）",
+  "size": "11–50 人（LinkedIn）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "法人与品牌关系",
+      "quote": "fiberONE — a brand of NYNEX satellite OHG … Robert-Bosch-Straße 20 64293 Darmstadt … Email: info@fiberone.de",
+      "url": "https://fiberone.de/impressum/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网（新闻）",
+      "claim": "规模：数千套住宅接入，最大项目 1,100 套，自建 AON 网络",
+      "quote": "Jüngster Meilenstein: die Wohnstadt Asemwald in Stuttgart, mit über 1.100 Wohnungen das bislang größte Projekt im Netz … 10 Gbit/s symmetrisch",
+      "url": "https://fiberone.de/presse/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（LinkedIn）",
+      "claim": "11–50 人，2015 年",
+      "quote": "Branche: Telekommunikation · Größe: 11–50 Beschäftigte · Hauptsitz: Darmstadt · Gegründet: 2015",
+      "url": "https://de.linkedin.com/company/nynexfiberone",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "注册/RIPE",
+      "claim": "Frederik Kriewitz = NYNEX satellite OHG 的 RIPE 联系人，地址与电话公开",
+      "quote": "person: Frederik Kriewitz address: NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Germany phone: +49 6151 50074-009 e-mail: f.kriewitz@nynex.de nic-hdl: NX123",
+      "url": "https://ipinfo.io/AS200519/178.17.236.0/23",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司 2000 年创立、运营商 + 集成商、自有 AS62023",
+      "quote": "NYNEX satellite OHG ist ein inhabergeführter Netzbetreiber und Systemintegrator aus Darmstadt, gegründet im Oktober 2000 von Andreas Buxbaum und Gunter Frank … in einem eigenen Netz mit eigenem autonomem System (AS62023)",
+      "url": "https://nynex.de/leistungen.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "2026 年 26 周年并上线 nynex.ai；fiberONE 光纤自 2015 年",
+      "quote": "Chronik der NYNEX satellite OHG, Darmstadt: VSAT-Netze seit 2000, Glasfaser mit fiberONE seit 2015, KI-Infrastruktur mit nynex.ai seit 2026",
+      "url": "https://nynex.de/geschichte.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "公开文件",
+      "claim": "Kriewitz 与 Frank 代表 NYNEX/fiberONE 署名政策意见书（决策层）",
+      "quote": "Mit freundlichen Grüßen aus Darmstadt, Frederik Kriewitz/Gunter Frank NYNEX satellite OHG/fiberONE Darmstadt, 31. August 2025",
+      "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf",
+      "date": "2025-08-31"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241121015（PI，2024-11-21）：STC-4168XGGCM、STC-424XGGM 共 2 台，USD 600.0；采购 SmartByte RMB 2350.0；Simon 成本表利润 RMB 1284.06",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20241121015.xls",
+      "date": "2024-11-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250915015（PI，2025-09-15）：STC-4168XGGCM 共 1 台，USD 420.0；采购 SmartByte RMB 1600.0；Simon 成本表利润 RMB 797.77",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20250915015.xls",
+      "date": "2025-09-15"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC-20260929-001（PI，2026-09-29）：STC-4168XGGCM 共 20 台，USD 6725.0",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260929-001.xlsx",
+      "date": "2026-09-29"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC-20260930-001（PI，2026-09-30）：STC-4168XGGCM 共 20 台，USD 5944.5",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC-20260930-001.xlsx",
+      "date": "2026-09-30"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20261006015（PI，2026-10-06）：STC-4168XGGCM 共 20 台，USD 5944.5；采购 SmartByte RMB 34000.0；Simon 成本表利润 RMB 5000",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展/STSC20261006015.xlsx",
+      "date": "2026-10-06"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「德国 Frederik 活跃 Xtransfer 可发展」：Simon 标签 活跃，收款 Xtransfer；单号 5 个，2024-11-21 → 2026-10-06，销售 USD 19634.0 / RMB 0，Simon 成本统计利润合计 RMB 7081.83",
+      "quote": "",
+      "url": "PI.zip:15 德国 Frederik 活跃 Xtransfer 可发展",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "合规审查：NYNEX 测试 LT-S8328XG 时发现 SmartByte 通用 MIB 内含 3 家其他 OEM 客户/品牌的企业 OID（.57430 Dongguan Huarong、.56813 Fuzhou Dockeer、.171 D-Link），要求说明 Saga 与 SmartByte 关系以报备合规部门；SmartByte 承认「忘了删其他 OEM 客户的 OID」，并提出按客户自有 OID 定制固件；NYNEX 自有 IANA PEN 44770，但要求 SmartByte 先申请自己的 PEN 并把私有 OID 迁到自己的树下，还追问 OEM 数据（产品 ID / PEN 前缀 / logo）是写死在固件还是独立 OEM 配置分区",
+      "quote": "The MIB enterprise IDs (.1.3.6.1.4.1.57430.* and .1.3.6.1.4.1.56813.* and .1.3.6.1.4.1.171.*) are registered to two other companies … How is smart bytes/saga telecom related to these companies? … Can you please request your own SmartByte SNMP enterprise OID at https://www.iana.org/assignments/enterprise-numbers/ … Is the OEM data like the product ID, SNMP PEN prefix, company logo, etc. hardcoded in the firmware (separate firmware file for each OEM)?",
+      "url": "data/gmail_s/messages/2025/2025-03.jsonl（主题 RE: Testing Feedback，f.kriewitz@nynex.de ↔ peter@smartbyte.com.cn，抄 S 邮箱）",
+      "date": "2025-03-27"
+    },
+    {
+      "kind": "S 邮箱原文",
+      "claim": "2026-09-29 NYNEX 询价 20 × STC-4168XGGCM（双 AC 电源，同上次订单）含运到德国；Simon 当日答材料涨价（PCB / RAM）、汇率 6.71、可 EUR 结算",
+      "quote": "can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.",
+      "url": "（S 邮箱 key afced0c9af361141，2026-09-29T13:36Z；回信 key 38d19aa9fadaae82）",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "S 邮箱原文",
+      "claim": "2026-09-30 Simon 报最终价：2,015 RMB/台 = 300 USD（1:6.71）= 265.2 EUR（1:7.6）；交期 3 周 / 15 个工作日（下单后起算）；客户称因涨价需再找 3 家比价",
+      "quote": "Best offer is 2015RMB/PC USD offer: 300USD/PC … EUR offer: 265.2EUR/PC … Production time: 3 weeks, it is 15 working days. AFTER the order is confirmed!",
+      "url": "（S 邮箱 key 074a700ad4b10bf7，2026-09-30T05:50Z）",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "S 邮箱原文",
+      "claim": "2026-10-06 NYNEX 要欧元账户 → Simon 发 invoice + 银行确认（同一账户收 USD / EUR）；2026-10-15 NYNEX 付款并要求成品用 SmartByte 原始产品名 / ID 与 SmartByte SNMP 厂商 OID；Simon 同意「let's do SmartByte information」；2026-10-17 确认收款、投产",
+      "quote": "payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used.",
+      "url": "（S 邮箱 key 60ac95de9259a792 / 81f8fe275f461480 / 95b7153bc20857f6，2026-10-15～17）",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "GitHub 公开仓库",
+      "claim": "Frederik Kriewitz 本人是 LibreNMS 贡献者：PR #18681「Add support for SmartByte OS」2026-01-11 合并，sysObjectID .1.3.6.1.4.1.56166，测试夹具用 Saga 的 STC-4168XGGCM V1.1（序列号 202509160001 = 2025-09 那单）→ NYNEX 用 LibreNMS 纳管 Saga 交换机，并替 Saga/SmartByte 做了上游适配；其 2026-10-15「必须用 SmartByte OID」的技术原因即在此",
+      "quote": "@copyright 2025 Frederik Kriewitz / @author Frederik Kriewitz <frederik@kriewitz.eu> … sysDescr: Product STC-4168XGGCM V1.1 Version hotfix/7.4.7 (r1540 af525c9)",
+      "url": "https://github.com/librenms/librenms/pull/18681 ；LibreNMS/OS/Smartbyte.php；tests/data/smartbyte_stc-4168xggcm.json",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "GitHub 公开仓库",
+      "claim": "Kriewitz 还向 Oxidized（开源配置备份）提交了 smartbyte 模型（2026-01-23 合并，测试数据同为 STC-4168XGGCM 7.4.7）→ NYNEX 用 LibreNMS + Oxidized 两套工具把 Saga 交换机当长期在网设备运维",
+      "quote": "smartbyte: new model for SmartByte switches — Frderik Kriewitz, 2026-01-23；spec/model/data/smartbyte#STC-4168XGGCM_7.4.7#output.txt",
+      "url": "https://github.com/ytti/oxidized/blob/master/lib/oxidized/model/smartbyte.rb",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "S 邮箱原文 + GitHub 对齐",
+      "claim": "LibreNMS 支持的来龙去脉：2025-02-11 测试反馈（无 PSU/风扇/温度监控、SNMP 基础、缺 LLDP-V2-MIB/DDM，选 BDCOM S2900）→ 2025-12-10 指出固件企业号=0、旧固件为 57430（Fuzhou Dockeer）→ 2025-12-17 Simon 发修复固件 hotfix/7.4.7 r1540（OID=56166）→ 12-18 确认生效 → 12-19 Frederik 开 LibreNMS PR #18681（2026-01-11 合并，26.1.0 发布）。show version 显示 System MAC fc:cd:2f:d0:4f:db（SmartByte MA-M 块内）、PID STC-4168XGGCM V1.1、SN 202509160001",
+      "quote": "Vendor OID is still 0 … System MAC Address: fc:cd:2f:d0:4f:db PID: STC-4168XGGCM, Hardware Version: V1.1, Serial Number: 202509160001 … Thank you, with this data update the OID was updated, working as expected now.",
+      "url": "data/gmail_s/messages/2025/2025-12.jsonl（f.kriewitz@nynex.de 2025-12-10 / 12-17 / 12-18）+ https://github.com/librenms/librenms/pull/18681",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "S 邮箱原文（三方线程）",
+      "claim": "Peter（SmartByte）2025-03-26 书面向 NYNEX 说明关系：SmartByte 是 OEM/ODM 工厂，Saga 是其欧洲市场的代表伙伴，今后要买 SmartByte 产品「contact Simon directly」；Frederik 2025-03-25 称要向 compliance department 报备；2025-03-27 NYNEX 自有 PEN 44770 但选择用 SmartByte PEN 并要求用 SmartByte 标准型号",
+      "quote": "Saga Telecom is our partner who represent SmartByte to promote SmartByte's products all over the Europe market. If you are interests in SmartByte's products in future, you can contact Simon directly.",
+      "url": "data/gmail_s/messages/2025/2025-03.jsonl（peter@smartbyte.com.cn 2025-03-26；f.kriewitz@nynex.de 2025-03-25/27）",
+      "date": "2025-03-26"
+    },
+    {
+      "kind": "微信 OCR（Simon↔Peter 2024-11-15）",
+      "claim": "NYNEX 首次询问时自述有 SONiC 移植经验（Broadcom），问 Marvell 芯片/CPU/内存与软件是否自研；Peter 答平台 Marvell 98DX336S / Flash 512M / DRAM 512M / ARM v7 800M、软件自研；100G 为 Aldrin2/Falcon 但系他客户 NDA 定制不卖；双 AC 样品机壳 +200 RMB",
+      "quote": "We've some experience with porting the open source SONiC network operation system to Broadcom devices. As there's some basic marvel support it might be easy to add support for your hardware.",
+      "url": "data/wechat_smartbyte_ocr/Weixin Image_2026-10-20_140337_791.txt",
+      "date": "2024-11-15"
+    },
+    {
+      "kind": "Simon 口述",
+      "claim": "绑定等级：较深绑定——客户把 SmartByte/Saga 设备写进了自己的运维工具链（freddy36 向 LibreNMS / Oxidized 提交 SmartByte 支持），切换成本高",
+      "quote": "尤其是德国那个 我让你爬了它的github 它提交了很多信息 这就是比较深一些的绑定了。客户很难换或者换了成本极高 这就是较深绑定",
+      "url": "docs/requirements/对话全记录.md § T29-U28",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 文档",
+      "claim": "绑定等级（文档当时）：轻度绑定——「SmartByte 也背书了」；2026-10-23 Simon 口述升为较深（GitHub 提交 LibreNMS/Oxidized 支持）",
+      "quote": "德国 Frederik　轻度绑定 = Smartbyte也背书了",
+      "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+      "date": "2026-10-22"
+    }
   ],
-  "proof_gaps": [
-   "A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
+  "notes": "A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。\n【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md",
+  "researched_at": "2026-10-22",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "NYNEX satellite OHG（品牌 fiberONE）",
+    "founded": "2000-10（Andreas Buxbaum 与 Gunter Frank 创立）；fiberONE 光纤业务 2015 年起",
+    "hq": "Robert-Bosch-Str. 20, 64293 Darmstadt, Germany",
+    "staff": "11–50（LinkedIn）",
+    "registry": "RIPE：AS62023（NYNEX），IP 段 NYNEX-fiberONE；联系人句柄 NX123 = Frederik Kriewitz",
+    "ownership": "自有网络运营商 + 系统集成商（VSAT、光纤、IP 中转）；2026 年新增 nynex.ai 自建 AI 基础设施",
+    "other": "2025-08-31 以 NYNEX/fiberONE 名义向德国联邦数字部提交 TKG 修法意见书（Kriewitz/Frank 署名）"
+  },
+  "business_lines": [
+    "VSAT 卫星网络（Ku/Ka）",
+    "fiberONE：法兰克福/莱茵美因 FTTB/FTTH 自建网，楼宇千兆/10G 对称接入",
+    "B2B 专线、波长、楼宇网络",
+    "IP 中转/自有 AS",
+    "nynex.ai（2026 起）"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "products_seen": [
+    {
+      "brand": "fiberONE（自有 logo 需求）",
+      "model": "楼宇接入侧 SFP / MC / 接入交换机",
+      "spec": "用户表：兴趣 SFP、MC 及周边并要「自己的 logo」；FTTB 楼宇侧需要带 SFP 上联的小口数 PoE/非 PoE 接入机",
+      "url": "https://fiberone.de/",
+      "date": "用户表 + 2026-10-21",
+      "saga": "STC-28DGGPM"
+    }
+  ],
+  "channels": {
+    "直邮": "f.kriewitz@nynex.de（RIPE 公开，成单联系人）/ m.kopp@nynex.de / s.valaei@nynex.de（用户表）",
+    "电话": "+49 6151 50074-009（RIPE 公开）",
+    "网站": "https://fiberone.de/ · https://nynex.de/",
+    "LinkedIn": "https://de.linkedin.com/company/nynexfiberone"
+  },
+  "signals": [
+    "2025-08-31：Kriewitz/Frank 署名提交 TKG 修法意见书——Kriewitz 为公司决策层之一（https://bmds.bund.de/…/NYNEX_Stellungnahme_Eckpunktepapier_fiberONE_BMDS_31-August-2025.pdf）",
+    "2026-10：公司 26 周年，上线 nynex.ai 自建 AI 基础设施，品牌族 nynex.de/fiberONE/nynex.ai 完整（https://nynex.de/geschichte.html）",
+    "用户表：已成单（Frederik Kriewitz），要自有 logo",
+    "2026-01-11：Frederik Kriewitz 向 LibreNMS 提交并合并 SmartByte OS 支持（PR #18681），测试机为 Saga STC-4168XGGCM —— 客户在为供应商做上游生态适配，是深度绑定信号；跟进时可致谢并提供 MIB 更新 / 新机型 snmprec",
+    "2026-10-22 GitHub 全量盘点（data/github_watch/）：freddy36 共 89 个 PR / 17 个 issue；网管相关 PR 揭示 NYNEX 在用/测过的设备：BDCOM（2024-04→2026-01，含 FS 贴牌 BDCOM）、FS 贴牌 Centec（LibreNMS #16175 2024-07）、Centec CNOS（Oxidized #2023 2020-01、#3892「CNOS: improve support」2026-08-19 合并 2026-09-22 → 2026 年仍在部署 Centec 设备）、Fiberstore S3900（2019/2024）、Edge-Core EdgeCOS（2019→2026-01）、GCOM BNPS（2017）、Mellanox（2020）、NUT/APC UPS、Checkmk（自有仓库 check_mk_extensions ★12）。SmartByte 相关：LibreNMS #18681（2025-12-19→2026-01-11）、#18856 fix opticalVoltage（2026-01-23）、Oxidized #3734（2026-01-23→02-13）。",
+    "2026-10-22：他在 LibreNMS #18955（FS S3410 = FS 贴牌 Ruijie，2026-01-30→02-24）里以审阅者身份指导别人 → 他是 LibreNMS 社区里 FS.com（Fiberstore）贴牌设备的权威；NYNEX 大量采购 FS.com（欧洲仓、现货）—— 2026-01「230 台因交期给了现有供应商」的现有供应商很可能就是 FS.com 系。",
+    "2026-10-22：GitHub star/following 画像：2024-09 star krusic22/SFP-Transceiver-Flashing（改写 SFP EEPROM/厂商锁 → 他们自己刷光模块兼容码，Saga 供 SFP 时要给可编码/不锁码的）；2026-03 star denog/denog-wg-access（DENOG 德国运营商社区成员）；star rtbrick/bngblaster、inex/IXP-Manager、snabb、trex；following bisdn（白盒 NOS 厂商）。近 90 天公开事件仅 1 条（2026-09-22 Oxidized PR 合并）。",
+    "Simon 2026-10-22（T29-U16）决定：CENTEC 线自己想办法；备货与 Peter 私下谈；7.5 固件出货前确认；备件 OK；授权书不主动提（客户提再说）；「欧洲代理」只是说辞，Saga 体量不是总代。"
+  ],
+  "risks": [
+    "运营商自建网 → 对设备稳定性与固件（VLAN/QinQ/IGMP）要求高，需提供管理型固件说明",
+    "自有 logo = OEM 30% 档，但 ISP 采购对价格敏感，首单可按 25% 项目档试探",
+    "【2026-10-22 第二遍复盘 F11】第 6 单（20 × STC-4168XGGCM，2026-10-15 付款、10-17 投产）成交单价 2,015 RMB/台，**低于《价格主表》该型号 SmartByte 未税 CNY 2,100**（即三档公式的基数）；PI 包 5 单合计利润 7,081 RMB / USD 19,634 ≈ 5% —— 与「+20/25/30%」规则冲突，两者都保留：要么 SmartByte 对 Saga 的实际进价低于 2024-05 价目表，要么 Saga 对老客让利到贴本。客户最终选择 SmartByte 原名 + SmartByte OID（放弃 Saga 贴牌），对「Saga 品牌」定位是一个真实反馈。"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "FTTB 楼宇接入：8 口千兆 + 2 SFP 管理型（可贴 fiberONE logo）是楼层/地下室接入的标准位；配 STI-110GE 千兆 MC 作单户光电转换；SFP 由 Saga 配套供货"
+  },
+  "email_hook": "For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.",
+  "kp": [
+    {
+      "name": "Frederik Kriewitz",
+      "role": "Systems Engineer / 网络负责人（RIPE 联系人、政策文件署名人；成单联系人）",
+      "email": "f.kriewitz@nynex.de",
+      "phone": "+49 6151 50074-009",
+      "source": "https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表"
+    },
+    {
+      "name": "Gunter Frank",
+      "role": "创始人/合伙人（1999/2000 创立）",
+      "email": "",
+      "phone": "",
+      "source": "https://nynex.de/company/"
+    }
+  ],
+  "deal_pi": {
+    "folder": "15 德国 Frederik 活跃 Xtransfer 可发展",
+    "simon_label": "活跃",
+    "pay": "Xtransfer",
+    "bind": "",
+    "buyer": "NYNEX satellite OHG",
+    "orders": 5,
+    "first": "2024-11-21",
+    "last": "2026-10-06",
+    "usd": 19634.0,
+    "rmb": 0.0,
+    "profit_rmb": 7081.83,
+    "models": "STC-4168XGGCM、STC-424XGGM",
+    "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
+  },
+  "grade_override": "A",
+  "override_reason": "PI 包成单客户，Simon 标签 活跃 → A",
+  "next_steps": [
+    "本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
+    "补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
+    "专属备货协议（dual-AC 常备 N 台 + 价格锁 6 个月）",
+    "7.5 固件 MIB 包 + LLDP-V2-MIB 状态 + snmprec",
+    "备件：PSU / 风扇模块",
+    "让 Peter 出盖章授权函（compliance）"
+  ],
+  "binding_level": "较深",
+  "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+  "mail_review": {
+    "binding": {
+      "level": "较深（6 单复购 + LibreNMS 提交 SmartByte OID + 客户系统依赖 MIB/固件 + 坚持 SmartByte 原名）",
+      "type": "德国 ISP/FTTH 运营商 NYNEX satellite OHG（fiberONE）（技术流，工程师 Frederik Kriewitz 直接对接）",
+      "sieve": "3（多次 PI/T/T、EUR 付款、固件/MIB 迭代、工程反馈）",
+      "stop": "无明显停点；但两次更大机会流失：230 台项目（2026-01-20「we used our existing supply because you initially quoted a long lead time」）与 1,000+2,000/年 低成本 2×10G+4×2.5G 媒体转换器（2025-10-21，Marvell 无合适芯片替代 RTL8373）",
+      "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
+      "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
+      "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
+      "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
+    },
+    "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
+    "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
+    "breakpoint": "无停点；真正的瓶颈是**交期与价格基数**（2026-09-29「Due to the price increase I'll have to get 3 more comparison quotes」）以及 Saga 没有接住媒体转换器那条 1,000+2,000/年 的线（Marvell 无对应芯片；Realtek RTL8373 正是他点名的方案——这是 HRUI 线可能的切入点，但要 Simon 判断是否违背「Marvell 口号筛子」）。",
+    "saga_now": {
+      "p1": "STC-4168XGGCM（在产第 6 单）",
+      "tier": 30,
+      "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）",
+      "why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
+      "repeat": [
+        "STC-4168XGGCM 双 AC（第 5、6 单）",
+        "2025-09 AC5 样机 1 台"
+      ],
+      "gaps": [
+        "媒体转换器 2×10G+4×2.5G：Marvell 无合适低成本芯片，Realtek RTL8373 方案是否走 HRUI 线——Simon 决定（不违背 U29：价在 `价格主表_HRUI.csv`）",
+        "交期：SmartByte 机箱/批次交期是丢 230 台的原因，下一单前要先给出可承诺交期",
+        "PEN/OID 维持 SmartByte（Q-45 默认不动）"
+      ]
+    },
+    "next_move": {
+      "when": "第 6 单交付后 1 周（预计 2026-11 上旬）",
+      "channel": "S 邮箱（Simon 主线）",
+      "action": "交付回访 + 一句话重提媒体转换器需求是否仍在（1,000/2,000 年量），附 HRUI 线可行与否的结论",
+      "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
+    },
+    "facts": [
+      {
+        "date": "2025-03-26",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "Can you please request your own SmartByte SNMP enterprise OID at iana.org… and move the various custom enterprise OIDs to this OID tree",
+        "why": "客户推动 OID 规范化 = 把 Saga/SmartByte 写进自己运维体系",
+        "k": "c921dc47fd9370bb"
+      },
+      {
+        "date": "2025-03-27",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "we've PEN no. 44770 registered with IANA but for now we would prefer that you use your SmartByte PEN… Please use your standard Model Numbers",
+        "why": "坚持 SmartByte 原名/OID 的起点（Q-45）",
+        "k": "8f79a607c3cc831e"
+      },
+      {
+        "date": "2025-09-10",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "we've a larger project where we need 230 Switches (1G SFP downlink, 10G uplinks)… Your old models didn't support fan monitoring/dual PSU status monitoring",
+        "why": "大项目需求 + 硬件监控要求",
+        "k": "3c32c9ad46e6235d"
+      },
+      {
+        "date": "2025-10-21",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "Demand: initial order 1000 units, after that 2000 units per year. It needs to be lite managed (only basic L2 features like vlans, etc.)",
+        "why": "未接住的年量需求（媒体转换器）",
+        "k": "61065505a331e5fd"
+      },
+      {
+        "date": "2025-12-18",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "with this data update the OID was updated, working as expected now",
+        "why": "固件/MIB 迭代闭环",
+        "k": "e2c8e6b4f49f56e3"
+      },
+      {
+        "date": "2026-01-20",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "For the 230pcs project we used our existing supply because you initially quoted a long lead time",
+        "why": "交期丢单的原话",
+        "k": "c24584352bd15931"
+      },
+      {
+        "date": "2026-09-29",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order)… Due to the price increase I'll have to get 3 more comparison quotes",
+        "why": "第 6 单 + 价格敏感度上升",
+        "k": "afced0c9af361141"
+      },
+      {
+        "date": "2026-10-15",
+        "dir": "来",
+        "who": "Frederik Kriewitz",
+        "quote": "payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used",
+        "why": "较深绑定的最新证据",
+        "k": "60ac95de9259a792"
+      }
+    ],
+    "proof_gaps": [
+      "A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建"
+    ],
+    "draft_en": {
+      "subject": "Re: 2x10G + 4x2.5G media converter — is 1,000/2,000 pcs still on the 2027 roadmap?",
+      "body": "Hi, Frederik,\n\nThank you for the 6th order; the 20 units ship with original SmartByte names and SNMP strings as you asked.\n\nOn the FTTH 1G-to-10G upgrade: the 2x10G + 4x2.5G lite-managed unit is not a Marvell AC5 product, so we cannot derive it from the switch line. It is doable as a Realtek-based design (the RTL8373 class you mentioned), but only worth opening against a real volume.\n\nOne question: if we bring you a sample at a unit price in the range you had in mind, is 1,000 pcs for the first batch and ~2,000 per year still real for 2027, and what is the ceiling price per unit for your business case?\n\nThank you.\nSimon"
+    },
+    "as_of": "2026-10-24"
+  }
 }

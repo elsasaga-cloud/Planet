@@ -362,25 +362,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Re: 2x10G + 4x2.5G media converter — is 1,000/2,000 pcs still on the 2027 roadmap?
 
 ```text
-Hi Frederik,
+Hi, Frederik,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the FTTB building side the 8-port gigabit unit with two SFP uplinks is the one we already ship under customer logos, so I am quoting it in fiberONE neutral packing together with the gigabit media converter you took before.
+Thank you for the 6th order; the 20 units ship with original SmartByte names and SNMP strings as you asked.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your fiberONE（自有 logo 需求） 楼宇接入侧 SFP / MC / 接入交换机 at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+On the FTTH 1G-to-10G upgrade: the 2x10G + 4x2.5G lite-managed unit is not a Marvell AC5 product, so we cannot derive it from the switch line. It is doable as a Realtek-based design (the RTL8373 class you mentioned), but only worth opening against a real volume.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: if we bring you a sample at a unit price in the range you had in mind, is 1,000 pcs for the first batch and ~2,000 per year still real for 2027, and what is the ceiling price per unit for your business case?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Simon
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

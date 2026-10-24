@@ -314,25 +314,27 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Re: bypass switch 4x4 / 2x2 — updated prices
 
 ```text
-Hi Roadman,
+Hi, Mr. Kim,
 
-Picking up our earlier exchange about PoE / industrial switches. Your POE9628GDT and NEXT-POE8022GDT sit on the same 8-port gigabit PoE + 2 SFP industrial footprint we build on a Marvell core, so I am quoting that in NEXTU packing with the 16-port 240W model as the second SKU.
+Last May you asked for bypass industrial switches (4x4 and 2x2). The $280 figure then was a placeholder; here are the actual numbers:
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your NEXTU NEXT-POE8022GDT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- 8x GbE + 4x SFP industrial managed, 1 fibre bypass pair (2x2) — $225.4 USD EXW
+- same unit, 2 fibre bypass pairs (4x4) — $283.7 USD EXW
+- 16x GbE PoE (>=300 W) + 2x SFP industrial L2+ — $242 USD EXW (list)
+(2026-10 price table, valid 15 days from this mail)
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+Standalone bypass boxes are still not in the range. NEXTU label, model name and GUI can be applied from 50 pcs.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: did the 2x2 bypass requirement from May 2025 turn into a project, and is a Marvell-based unit acceptable on the NEXTU industrial line?
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

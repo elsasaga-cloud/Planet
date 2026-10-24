@@ -1,188 +1,191 @@
 {
- "code": "SB-842",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（itmsystems.co.uk，快照 2026-10-21）",
- "summary": "英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。",
- "type": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "ITM CORE SERVICES；WHY YOU CAN CHOOSE US；Request a Call back TODAY......+44 1733 567 259",
-   "url": "https://www.itmsystems.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Utepo的工业FS；info@itmsystems.net 这个邮箱回复的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ITM 定位",
-   "quote": "ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design ; ITM CORE SERVICES",
-   "url": "https://www.itmsystems.co.uk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo 工业 FS；深度沟通中",
-   "quote": "Utepo的工业FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Steve",
-   "title": "（职务待核）",
-   "email": "info@itmsystems.net",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络安全 / 视频监控 / IT 基础设施（英国）"
- ],
- "channels": {
-  "role": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
-  "region": "英国",
-  "contact": "info@itmsystems.co.uk、info@itmsystems.net"
- },
- "signals": [
-  "官网：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ… ; ITM CORE SERVICES；kw camera 15 / access control 10 / surveillance 8",
-  "表内：Utepo 的工业 FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的"
- ],
- "risks": [
-  "有回复/深度沟通中——沟通内容在 Gmail 待核，续谈勿重复首触；现供 Utepo 价格基准低"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）"
- },
- "email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
- "mail_review": {
-  "binding": {
-   "level": "轻度（已报价、对方高层批准、未付款）",
-   "type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
-   "sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
-   "stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
-   "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
-   "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
-   "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-   "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de"
-  },
-  "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
-  "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
-  "breakpoint": "双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。",
-  "saga_now": {
-   "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
-   "tier": 25,
-   "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用",
-   "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
-   "repeat": [],
-   "gaps": [
-    "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
-    "800G：无，不许诺",
-    "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11 上旬（9-07 追问满 2 个月）",
-   "channel": "A 邮箱",
-   "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界",
-   "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
-  },
-  "facts": [
-   {
-    "date": "2025-11-11",
-    "dir": "来",
-    "who": "Steve（ITM）",
-    "quote": "You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom",
-    "why": "OEM 意向开端",
-    "k": "8a0346334ec9c3de"
-   },
-   {
-    "date": "2025-11-25",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
-    "why": "SDK/API 需求 = 边界信号",
-    "k": "68cb354a84c7aa86"
-   },
-   {
-    "date": "2026-02-05",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
-    "why": "内部审批阶段",
-    "k": "d4ad954f1fff2bea"
-   },
-   {
-    "date": "2026-03-20",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
-    "why": "正式 RFQ（$107,675）",
-    "k": "4093fbb543ef9f90"
-   },
-   {
-    "date": "2026-05-11",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "We will delay the customer from paying us as they will expect the products within 30 days of payment",
-    "why": "对方当时的紧迫度 vs Saga 7 月才有货",
-    "k": "66dba977aaf68e50"
-   },
-   {
-    "date": "2026-05-19",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
-    "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
-    "k": "77fc79297576e203"
-   },
-   {
-    "date": "2026-08-03",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "the 400G switches are ready to ship now",
-    "why": "Saga 侧就绪时间",
-    "k": "140d7d5efe818d7e"
-   },
-   {
-    "date": "2026-08-15",
-    "dir": "来",
-    "who": "Steve",
-    "quote": "I have update the Senior Manager about the availability of goods and will get back to you",
-    "why": "最后一封来信",
-    "k": "87738057b3f134de"
-   }
+  "code": "SB-842",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（itmsystems.co.uk，快照 2026-10-21）",
+  "summary": "英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。",
+  "type": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [
-   "A 邮箱 2025-03~08 重跑后看 ITM 是否更早回过群发",
-   "ITM 终端客户是谁（邮件未提）——不去搜，等对方说"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+      "quote": "ITM CORE SERVICES；WHY YOU CAN CHOOSE US；Request a Call back TODAY......+44 1733 567 259",
+      "url": "https://www.itmsystems.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Utepo的工业FS；info@itmsystems.net 这个邮箱回复的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ITM 定位",
+      "quote": "ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design ; ITM CORE SERVICES",
+      "url": "https://www.itmsystems.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Utepo 工业 FS；深度沟通中",
+      "quote": "Utepo的工业FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Steve",
+      "title": "（职务待核）",
+      "email": "info@itmsystems.net",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 itmsystems.co.uk，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "网络安全 / 视频监控 / IT 基础设施（英国）"
+  ],
+  "channels": {
+    "role": "安防/IT 集成商（英国，有回复，工业 FS 现 Utepo）",
+    "region": "英国",
+    "contact": "info@itmsystems.co.uk、info@itmsystems.net"
+  },
+  "signals": [
+    "官网：ITM Systems|Cyber Security|Video Surveillance & Analytics|IT Infrastructure Design| Networ… ; ITM CORE SERVICES；kw camera 15 / access control 10 / surveillance 8",
+    "表内：Utepo 的工业 FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的"
+  ],
+  "risks": [
+    "有回复/深度沟通中——沟通内容在 Gmail 待核，续谈勿重复首触；现供 Utepo 价格基准低"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）"
+  },
+  "email_hook": "Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度（已报价、对方高层批准、未付款）",
+      "type": "英国 MSP/网络安全集成商（技术流 + 要 OEM 协议）",
+      "sieve": "2→3 之间（反复索要规格/价格、CEO 审批中；无 PI、无付款）",
+      "stop": "对方内部：CEO 审批 + 终端客户验证；Saga 侧曾因 CENTEC 400G 批次没货拖到 2026-08 才「ready to ship」",
+      "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
+      "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
+      "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
+      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de"
+    },
+    "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
+    "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
+    "breakpoint": "双向时间差：3–5 月对方急（客户 30 天付款），Saga 400G 批次要等 Hohunet 7–8 月；8 月 Saga 有货时对方节奏已松。另有结构性问题：SDK/API 不是 Saga 路线（C4/E2），对方「叠加安全工具」的设想迟早撞边界。",
+    "saga_now": {
+      "p1": "CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变）",
+      "tier": 25,
+      "price": "已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用",
+      "why": "集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤",
+      "repeat": [],
+      "gaps": [
+        "SDK/API：不提供（只 SNMP/CLI/标准 MIB），下次回信直接说清",
+        "800G：无，不许诺",
+        "400G 现货是否仍在（8-03「ready to ship」的 6 台是否已被他人买走）——由 Simon 向 Hohunet 核，代理不问"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11 上旬（9-07 追问满 2 个月）",
+      "channel": "A 邮箱",
+      "action": "一句话问项目是否还在 + 告知 400G 批次现状（有/无），不再催付款；若对方提 SDK/API，直接给 SNMP/CLI 边界",
+      "one_question": "Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?"
+    },
+    "facts": [
+      {
+        "date": "2025-11-11",
+        "dir": "来",
+        "who": "Steve（ITM）",
+        "quote": "You have a great offering; I will recommend our company to have an OEM agreement with Saga telecom",
+        "why": "OEM 意向开端",
+        "k": "8a0346334ec9c3de"
+      },
+      {
+        "date": "2025-11-25",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
+        "why": "SDK/API 需求 = 边界信号",
+        "k": "68cb354a84c7aa86"
+      },
+      {
+        "date": "2026-02-05",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "I have secured the approval of all Senior Management and now just waiting for the CEO approval… do the new switches support BGP/OSPF v2/IS-IS protocol?",
+        "why": "内部审批阶段",
+        "k": "d4ad954f1fff2bea"
+      },
+      {
+        "date": "2026-03-20",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
+        "why": "正式 RFQ（$107,675）",
+        "k": "4093fbb543ef9f90"
+      },
+      {
+        "date": "2026-05-11",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "We will delay the customer from paying us as they will expect the products within 30 days of payment",
+        "why": "对方当时的紧迫度 vs Saga 7 月才有货",
+        "k": "66dba977aaf68e50"
+      },
+      {
+        "date": "2026-05-19",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
+        "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
+        "k": "77fc79297576e203"
+      },
+      {
+        "date": "2026-08-03",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "the 400G switches are ready to ship now",
+        "why": "Saga 侧就绪时间",
+        "k": "140d7d5efe818d7e"
+      },
+      {
+        "date": "2026-08-15",
+        "dir": "来",
+        "who": "Steve",
+        "quote": "I have update the Senior Manager about the availability of goods and will get back to you",
+        "why": "最后一封来信",
+        "k": "87738057b3f134de"
+      }
+    ],
+    "proof_gaps": [
+      "A 邮箱 2025-03~08 重跑后看 ITM 是否更早回过群发",
+      "ITM 终端客户是谁（邮件未提）——不去搜，等对方说"
+    ],
+    "draft_en": {
+      "subject": "Re: 400G switches — still on the 2026 plan?",
+      "body": "Hi, Steve,\n\nIn August the six 400G units with QSFP112 modules were ready to ship, and you were updating your senior manager. Since then no news, which usually means the customer's budget moved.\n\nThe March price ($107,675 for 6 units + modules) was tied to that production batch; a new order is re-quoted on the current batch, so please do not plan on the old number.\n\nOne question: is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

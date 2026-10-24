@@ -1,209 +1,212 @@
 {
- "code": "SA-048",
- "name_official": "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）",
- "website_status": "在线（truongsonsolutions.vn / switchcongnghiep.com）",
- "summary": "胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。",
- "type": "分销商/电商（工业交换机垂直）",
- "size": "5 人（dauthau.asia 登记）",
- "brands_seen": [
-  "ONV",
-  "Advantech",
-  "GTWave",
-  "Sambo",
-  "HUNT",
-  "PLANET",
-  "3Onedata"
- ],
- "evidence": [
-  {
-   "kind": "官网（博客）",
-   "claim": "分销 ONV 工业 PoE 交换机",
-   "quote": "Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007",
-   "url": "https://truongsonsolutions.wordpress.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "同时引入韩国 GTWave Non-China 线（说明客户有非中国产线需求）",
-   "quote": "Switch công nghiệp có quản lý 8 cổng GTWave Non-China đạt NDAA GTW-D08M2",
-   "url": "https://truongsonsolutions.vn/thuong-hieu/gtwave/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（dauthau.asia）",
-   "claim": "注册信息与规模",
-   "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
-   "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "ONV-IPS33054PF 规格",
-   "quote": "ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at",
-   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-   "date": "2020-06-13"
-  },
-  {
-   "kind": "官网",
-   "claim": "ONV-IPS31004PF 售价",
-   "quote": "IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC",
-   "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
-   "date": "2020-06-23"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机/销售（官网）",
-   "email": "info@truongsonsolutions.com",
-   "phone": "+84 909 490 007",
-   "source": "https://truongsonsolutions.vn/lien-he/"
-  }
- ],
- "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
-  "founded": "2019 注册",
-  "hq": "Ho Chi Minh City（另河内办公室）",
-  "staff": "5（登记）",
-  "other": "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
- },
- "business_lines": [
-  "ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）",
-  "PLANET / 3Onedata / Advantech / GTWave 工业网络",
-  "韩国/台湾摄像机"
- ],
- "products_seen": [
-  {
-   "brand": "ONV",
-   "model": "ONV-IPS33054PF",
-   "spec": "工业非管理 4×GE PoE + 1 SFP",
-   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-   "date": "2020-06-13",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "ONV",
-   "model": "ONV-IPS31004PF",
-   "spec": "工业 4×FE PoE + 1 SC，4,159,500 VND",
-   "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
-   "date": "2020-06-23",
-   "saga": "STI-144GP（千兆升级）"
-  },
-  {
-   "brand": "ONV",
-   "model": "ONV-IPS33168PFM",
-   "spec": "工业管理 8 GE PoE（+SFP）",
-   "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
-   "date": "2020-06",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "ONV",
-   "model": "ONV-IPS36368PFM",
-   "spec": "工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+）",
-   "url": "https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/",
-   "date": "2020-09-20",
-   "saga": "—"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGUP-1205AT",
-   "spec": "工业 2 SFP → 1 bt 95W MC",
-   "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/",
-   "date": "2020-10-28",
-   "saga": "—"
-  },
-  {
-   "brand": "3Onedata",
-   "model": "IES5028G-8GC-4GS",
-   "spec": "工业 16 GE + 8 combo + 4 SFP",
-   "url": "https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/",
-   "date": "2020-09-22",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站": "https://truongsonsolutions.vn/ · https://switchcongnghiep.com/",
-  "直邮": "info@truongsonsolutions.com（用户表）",
-  "电话": "0916.799.345（官网公开）"
- },
- "signals": [
-  "多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe",
-  "GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖"
- ],
- "risks": [
-  "ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 20,
-  "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
- },
- "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）",
-   "type": "胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档",
-   "sieve": "2",
-   "stop": "2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接",
-   "revive": "其数据中心项目落地；VN 非主攻",
-   "lane": "VN",
-   "cadence": "2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15",
-   "evidence": "k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52"
-  },
-  "situation": "2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。",
-  "need": "CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。",
-  "breakpoint": "报价后项目窗口关闭；发去的后续全是无关 PoE。",
-  "saga_now": {
-   "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
-   "tier": 25,
-   "price": "按 CENTEC ≥35% 底线复核",
-   "why": "J5：只问项目，不发 PoE",
-   "repeat": [],
-   "gaps": [
-    "STH-8C24XF-HSI 现货状态（Alan 说无货）"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@truongsonsolutions.com",
-   "action": "一句话问 7 月 RFQ 的项目结果",
-   "one_question": "Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?"
-  },
-  "facts": [
-   {
-    "date": "2025-12-19",
-    "dir": "来",
-    "who": "Truong Son",
-    "quote": "Pls share me your price list for OEM/ODM.",
-    "why": "价表请求",
-    "k": "cf6dcab93221d2af"
-   },
-   {
-    "date": "2026-07-15",
-    "dir": "来",
-    "who": "Truong Son",
-    "quote": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28",
-    "why": "RFQ",
-    "k": "43477f95c8d2e436"
-   },
-   {
-    "date": "2026-07-15",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC",
-    "why": "报价",
-    "k": "8ef6fe719128cb52"
-   }
+  "code": "SA-048",
+  "name_official": "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）",
+  "website_status": "在线（truongsonsolutions.vn / switchcongnghiep.com）",
+  "summary": "胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。",
+  "type": "分销商/电商（工业交换机垂直）",
+  "size": "5 人（dauthau.asia 登记）",
+  "brands_seen": [
+    "ONV",
+    "Advantech",
+    "GTWave",
+    "Sambo",
+    "HUNT",
+    "PLANET",
+    "3Onedata"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网（博客）",
+      "claim": "分销 ONV 工业 PoE 交换机",
+      "quote": "Truong Son Solutions Co.,Ltd là đơn vị phân phối Switch PoE công nghiệp ONV, Camera Sambo Hàn Quốc, Camera HUNT Taiwan … Email : info@truongsonsolutions.com 090949007",
+      "url": "https://truongsonsolutions.wordpress.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "同时引入韩国 GTWave Non-China 线（说明客户有非中国产线需求）",
+      "quote": "Switch công nghiệp có quản lý 8 cổng GTWave Non-China đạt NDAA GTW-D08M2",
+      "url": "https://truongsonsolutions.vn/thuong-hieu/gtwave/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（dauthau.asia）",
+      "claim": "注册信息与规模",
+      "quote": "TRUONG SON SOLUTIONS AND CONTRUCTIONS COMPANY LIMITED, tax code 0315784421 … Company Establishment Date 12/07/2019 · The number of workers 5",
+      "url": "https://dauthau.asia/en/businesslistings/detail/TRUONG-SON-SOLUTIONS-AND-CONTRUCTIONS-COMPANY-LIMITED-137944/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "ONV-IPS33054PF 规格",
+      "quote": "ONV-IPS33054PF series là dòng sản phẩm Switch PoE công nghiệp unmanaged tốc độ gigabit … 4×10/100/1000M RJ45 và 1x1000M SFP, Port 1->4 (PoE) hổ trợ chuẩn PoE IEEE802.3af/at",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06-13"
+    },
+    {
+      "kind": "官网",
+      "claim": "ONV-IPS31004PF 售价",
+      "quote": "IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC",
+      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+      "date": "2020-06-23"
+    }
+  ],
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机/销售（官网）",
+      "email": "info@truongsonsolutions.com",
+      "phone": "+84 909 490 007",
+      "source": "https://truongsonsolutions.vn/lien-he/"
+    }
+  ],
+  "notes": "A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.）",
+    "founded": "2019 注册",
+    "hq": "Ho Chi Minh City（另河内办公室）",
+    "staff": "5（登记）",
+    "other": "工业交换机垂直分销：ONV 工业 PoE 全线、PLANET（IGUP-1205AT）、3Onedata（IES5028G）、Advantech EKI、GTWave（Non-China/NDAA 卖点）、Sambo/HUNT 摄像机；站点 truongsonsolutions.vn + switchcongnghiep.com + wordpress；热线 0916.799.345"
+  },
+  "business_lines": [
+    "ONV 工业 PoE 交换机分销（IPS31004PF、IPS33054PF、IPS31064PF、IPS33168PFM、IPS36368PFM…）",
+    "PLANET / 3Onedata / Advantech / GTWave 工业网络",
+    "韩国/台湾摄像机"
+  ],
+  "products_seen": [
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS33054PF",
+      "spec": "工业非管理 4×GE PoE + 1 SFP",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06-13",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS31004PF",
+      "spec": "工业 4×FE PoE + 1 SC，4,159,500 VND",
+      "url": "https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/",
+      "date": "2020-06-23",
+      "saga": "STI-144GP（千兆升级）"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS33168PFM",
+      "spec": "工业管理 8 GE PoE（+SFP）",
+      "url": "https://truongsonsolutions.vn/san-pham/switch-poe-cong-nghiep-4-port-ips33054pf/",
+      "date": "2020-06",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "ONV",
+      "model": "ONV-IPS36368PFM",
+      "spec": "工业 L2+ 10G 上联 36 口（8 GE + 24 SFP + 4 SFP+）",
+      "url": "https://truongsonsolutions.vn/san-pham/10g-uplink-36-port-l2-managed-industrial-poe-switch/",
+      "date": "2020-09-20",
+      "saga": "—"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGUP-1205AT",
+      "spec": "工业 2 SFP → 1 bt 95W MC",
+      "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igup-1205at/",
+      "date": "2020-10-28",
+      "saga": "—"
+    },
+    {
+      "brand": "3Onedata",
+      "model": "IES5028G-8GC-4GS",
+      "spec": "工业 16 GE + 8 combo + 4 SFP",
+      "url": "https://switchcongnghiep.com/san-pham/ies5028g-8gc-4gs/",
+      "date": "2020-09-22",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://truongsonsolutions.vn/ · https://switchcongnghiep.com/",
+    "直邮": "info@truongsonsolutions.com（用户表）",
+    "电话": "0916.799.345（官网公开）"
+  },
+  "signals": [
+    "多品牌工业交换机垂直分销——有现成客户群与品类知识；用户表：OEM/ODM、ONV 全线引进、MaiWe",
+    "GTWave 分销主打 Non-China/NDAA——同时经营中国 ONV，说明按客户分层卖"
+  ],
+  "risks": [
+    "ONV 全线在手，Saga 为同类替代；越南不在主攻区；5 人小公司"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 20,
+    "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
+  },
+  "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）",
+      "type": "胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档",
+      "sieve": "2",
+      "stop": "2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接",
+      "revive": "其数据中心项目落地；VN 非主攻",
+      "lane": "VN",
+      "cadence": "2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15",
+      "evidence": "k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52"
+    },
+    "situation": "2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。",
+    "need": "CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。",
+    "breakpoint": "报价后项目窗口关闭；发去的后续全是无关 PoE。",
+    "saga_now": {
+      "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
+      "tier": 25,
+      "price": "按 CENTEC ≥35% 底线复核",
+      "why": "J5：只问项目，不发 PoE",
+      "repeat": [],
+      "gaps": [
+        "STH-8C24XF-HSI 现货状态（Alan 说无货）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@truongsonsolutions.com",
+      "action": "一句话问 7 月 RFQ 的项目结果",
+      "one_question": "Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?"
+    },
+    "facts": [
+      {
+        "date": "2025-12-19",
+        "dir": "来",
+        "who": "Truong Son",
+        "quote": "Pls share me your price list for OEM/ODM.",
+        "why": "价表请求",
+        "k": "cf6dcab93221d2af"
+      },
+      {
+        "date": "2026-07-15",
+        "dir": "来",
+        "who": "Truong Son",
+        "quote": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28",
+        "why": "RFQ",
+        "k": "43477f95c8d2e436"
+      },
+      {
+        "date": "2026-07-15",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC",
+        "why": "报价",
+        "k": "8ef6fe719128cb52"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: STH-8C24DX-HSI / STH-2C24XE-HSI — July RFQ",
+      "body": "Hi,\n\nIn July we quoted STH-8C24DX-HSI (24x25G + 8x100G) at $2,200 USD and STH-2C24XE-HSI (24x10GBASE-T + 2x100G) at $1,700 USD, both ex-stock. We then sent you general PoE mail, which was not what you asked for; apologies.\n\nBoth prices are re-confirmed for 15 days from this mail, MA license pre-installed, hot-swap PSU.\n\nOne question: did the July RFQ (2 + 2 units) close with another vendor, or is it still open? If closed, which price did it close at — that helps us set the OEM/ODM list you asked for in December.\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。
 - **断点 / 为什么停在这里**：合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件**（20% 档，按 20% 分销档）——J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着
-  - 做不了 / 要先核的：CE DoC（EMC/LVD）文件是否在仓库可外发——Alan 2025-11-12「see attached info」附件未入库；EU CRA（2027-12 起）对交换机的要求——SmartByte 侧有无计划
+  - 做不了 / 要先核的：I；S；O； ；9；0；0；1；/；1；4；0；0；1； ；=； ；S；m；a；r；t；B；y；t；e； ；官；网；自；述；（；d；o；c；s；/；s；m；a；r；t；b；y；t；e；/；新；闻；与；固；件；说；明；）；，；证；书；文；件；仓；库；无； ；→； ；信；里；写； ；c；o；p；y； ；o；n； ；r；e；q；u；e；s；t；；；R；E；D；/；E；N； ；1；8；0；3；1； ；不；适；用；于；无；线；电；以；外；设；备；为；法；规；事；实
 - **下一步（具体）**：2026-11　A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）　附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
   - 第一问（只问一个）：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
 
@@ -270,25 +270,24 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Re: EN 18031 / supplier documents — wired switches are outside RED scope
 
 ```text
-Hi Anders,
+Hi, Mats, hi Anders,
 
-Picking up our earlier exchange about PoE / industrial switches. Your Direktronik Pro 8x PoE + 2 SFP managed DIN switch is the unit where a Marvell-based second source in Direktronik packing is easiest to slot in, so I am quoting that first, with the Connect-class 4+1 PoE model as the second line.
+Your document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Direktronik Pro Managerad switch för DIN-skena, 8× 1 GbE POE, 2x SFP（Best.nr 系列） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached
+- FCC, UKCA — attached
+- ISO 9001 / ISO 14001: held by the manufacturing partner (SmartByte, Shenzhen); copy on request
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

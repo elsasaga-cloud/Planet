@@ -287,21 +287,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
+**主题**：Re: 400G switches — still on the 2026 plan?
 
 ```text
-Hi Steve,
+Hi, Steve,
 
-Picking up our earlier exchange about PoE / industrial switches. Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?
+In August the six 400G units with QSFP112 modules were ready to ship, and you were updating your senior manager. Since then no news, which usually means the customer's budget moved.
 
-One question: is the port mix fixed by the design, or can we propose an equivalent layout?
+The March price ($107,675 for 6 units + modules) was tied to that production batch; a new order is re-quoted on the current batch, so please do not plan on the old number.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+One question: is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
+
+Thank you.
+Alan
 ```
 
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

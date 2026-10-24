@@ -1,201 +1,204 @@
 {
- "code": "SA-093",
- "name_official": "FiberX LLC / FIBERX Inc.（Guaynabo & Caguas，波多黎各，美国属地）",
- "website_status": "在线",
- "summary": "波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。",
- "type": "ISP/运营商（终端用户）",
- "size": "小型（11–50 人，≈$5.6M）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "8+ 年经验的波多黎各宽带运营商，自有无线+光纤网络连接波多黎各/哥伦比亚/美国；提供 Metro Ethernet、FTTH/FTTB、托管",
-   "quote": "we are one of the largest and most complete broadband service providers in Puerto Rico… own wireless and fiber network that connects Puerto Rico, Colombia and the United States… Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB",
-   "url": "https://gofiberx.com/about-us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "2016 年创立，11–50 人，总部 Bayamon PR",
-   "quote": "Company size: 11-50 employees… Headquarters: Bayamon, PR… Founded: 2016",
-   "url": "https://www.linkedin.com/company/gofiberx",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "RocketReach",
-   "claim": "营收 ≈$5.6M，34 人，CEO Ivan Rivera",
-   "quote": "Revenue · $5.6 million Employees · 34… Ivan Rivera is the CEO of FiberX",
-   "url": "https://rocketreach.co/fiberx-profile_b75b8759c53e592d",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "PeeringDB",
-   "claim": "AS6208，NSP，50–100Gbps 流量",
-   "quote": "ASN 6208… Network Types NSP… Traffic Levels 50-100Gbps",
-   "url": "https://www.peeringdb.com/asn/6208",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务与总部",
-   "quote": "We are a leading company and local fiber optic operator with headquarters located in Guaynabo & Caguas-Puerto Rico … We offer Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB, voice over IP, managed services and fixed fiber optic solutions.",
-   "url": "https://gofiberx.com/about-us/",
-   "date": "2025-04-08"
-  },
-  {
-   "kind": "官网",
-   "claim": "办公室 / 仓库 / 数据中心地址",
-   "quote": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968 … Warehouse Plaza Rio Cañas Carr. #1 Km. 27.8, Caguas, PR 00725 … Data Center Metro Office Park Street #1 Lot 6, B01, Guaynabo, PR 00968",
-   "url": "https://gofiberx.com/contact-us/",
-   "date": "2025-04-02"
-  },
-  {
-   "kind": "目录",
-   "claim": "覆盖与速率",
-   "quote": "Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet",
-   "url": "https://ispreports.org/internet-service-providers/fiber-x-availability/",
-   "date": "2026-09-03"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+1 787-705-6999",
-   "source": "用户 Clients 表 + Crunchbase/Facebook"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + PeeringDB 核对）"
- },
- "company_facts": {
-  "legal_name": "FiberX（gofiberx.com）",
-  "founded": "2016",
-  "hq": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB）",
-  "staff": "11–50",
-  "revenue": "约 $5.6M",
-  "registry": "AS6208",
-  "other": "本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施）"
- },
- "business_lines": [
-  "FTTH/FTTB 接入",
-  "Metro Ethernet 专线",
-  "机房托管",
-  "FTTH/FTTB 接入（1 Gbps 对称）",
-  "Metro Ethernet MPLS/VPLS、Dark fiber",
-  "数据中心托管（FXDC-MOP6）"
- ],
- "products_seen": [
-  {
-   "brand": "（运营商自用）",
-   "model": "bypass 2 光 10 电工业交换机（用户记录：帖子下询价）",
-   "spec": "bypass 光口 + 10 电口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM（无 bypass；bypass 需 SmartByte 核）"
-  }
- ],
- "channels": {
-  "网站": "https://gofiberx.com/（注意：官网域名 gofiberx.com，用户表邮箱域 fiberx.net）",
-  "直邮": "irivera@fiberx.net / info@fiberx.net（用户表）",
-  "LinkedIn": "https://www.linkedin.com/company/gofiberx",
-  "PeeringDB": "https://www.peeringdb.com/fac/14857"
- },
- "signals": [
-  "用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣",
-  "自有数据中心 + FTTB 楼宇接入——机柜/楼道交换机用量稳定；官网 2025-04 更新"
- ],
- "risks": [
-  "bypass 光口机型不在 Saga 标准型谱",
-  "运营商采购要求固件（VLAN/QinQ/IGMP）与长期支持"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 25,
-  "why": "FTTB 楼宇/机柜接入：STI-288DGGPM（8 GE PoE + 2 SFP 管理，环网冗余替代 bypass 需求）与 STC-28DGGPM；项目 25% 档；bypass 版本另询 SmartByte"
- },
- "email_hook": "On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（询问阶段，但 2026-06 有一次带型号的真实询价）",
-   "type": "波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价",
-   "sieve": "2（指定 STH-2C24XFSFI + DC + MA license）",
-   "stop": "2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书",
-   "revive": "其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给",
-   "lane": "US 属地（PR），关税同美国",
-   "cadence": "2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08",
-   "evidence": "k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2"
-  },
-  "situation": "Ivan 两次都问到点上：2025-01 要 8 SFP+ + 8 GE 的小尺寸 48V 机架机并问 OS；2026-06-05 对 CENTEC 10G 群发回「Support MPLS with H3C?」，Alan 答 MA 许可可做，他 06-08 直接要 STH-2C24XFSFI 的 DC 版 + MA 许可价，Alan 答 SFI 无 DC、HSI 1,250 USD 含 MA。此后 4 封群发无回。",
-  "need": "24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。",
-  "breakpoint": "ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。",
-  "saga_now": {
-   "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
-   "tier": 25,
-   "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）",
-   "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）",
-   "repeat": [],
-   "gaps": [
-    "MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核",
-    "H3C MPLS 互通无实测"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11（一次）",
-   "channel": "A 邮箱 → irivera@ + emorillo@",
-   "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
-   "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
-  },
-  "facts": [
-   {
-    "date": "2025-01-03",
-    "dir": "来",
-    "who": "Ivan Rivera",
-    "quote": "Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v?",
-    "why": "第一轮需求",
-    "k": "55521ad734b4480a"
-   },
-   {
-    "date": "2025-01-03",
-    "dir": "来",
-    "who": "Ivan",
-    "quote": "You don't have that one rackmount? Not din rail? What it's the OS?",
-    "why": "形态 + OS",
-    "k": "aa33fba00ea6c8ff"
-   },
-   {
-    "date": "2026-06-05",
-    "dir": "来",
-    "who": "Ivan",
-    "quote": "Support MPLS with H3C?",
-    "why": "互通问题",
-    "k": "553ba9ad1fef0430"
-   },
-   {
-    "date": "2026-06-08",
-    "dir": "来",
-    "who": "Ivan",
-    "quote": "Price for this one STH-2C24XFSFI Needs to be DC And with the MA License.",
-    "why": "指定型号询价",
-    "k": "894de4474cf06741"
-   },
-   {
-    "date": "2026-06-08",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules.",
-    "why": "报价",
-    "k": "5d26574728e757e2"
-   }
+  "code": "SA-093",
+  "name_official": "FiberX LLC / FIBERX Inc.（Guaynabo & Caguas，波多黎各，美国属地）",
+  "website_status": "在线",
+  "summary": "波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。",
+  "type": "ISP/运营商（终端用户）",
+  "size": "小型（11–50 人，≈$5.6M）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "8+ 年经验的波多黎各宽带运营商，自有无线+光纤网络连接波多黎各/哥伦比亚/美国；提供 Metro Ethernet、FTTH/FTTB、托管",
+      "quote": "we are one of the largest and most complete broadband service providers in Puerto Rico… own wireless and fiber network that connects Puerto Rico, Colombia and the United States… Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB",
+      "url": "https://gofiberx.com/about-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "2016 年创立，11–50 人，总部 Bayamon PR",
+      "quote": "Company size: 11-50 employees… Headquarters: Bayamon, PR… Founded: 2016",
+      "url": "https://www.linkedin.com/company/gofiberx",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "RocketReach",
+      "claim": "营收 ≈$5.6M，34 人，CEO Ivan Rivera",
+      "quote": "Revenue · $5.6 million Employees · 34… Ivan Rivera is the CEO of FiberX",
+      "url": "https://rocketreach.co/fiberx-profile_b75b8759c53e592d",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "PeeringDB",
+      "claim": "AS6208，NSP，50–100Gbps 流量",
+      "quote": "ASN 6208… Network Types NSP… Traffic Levels 50-100Gbps",
+      "url": "https://www.peeringdb.com/asn/6208",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务与总部",
+      "quote": "We are a leading company and local fiber optic operator with headquarters located in Guaynabo & Caguas-Puerto Rico … We offer Internet, Metro Ethernet (MPLS/VPLS), cloud connectivity, colocation, FTTH/FTTB, voice over IP, managed services and fixed fiber optic solutions.",
+      "url": "https://gofiberx.com/about-us/",
+      "date": "2025-04-08"
+    },
+    {
+      "kind": "官网",
+      "claim": "办公室 / 仓库 / 数据中心地址",
+      "quote": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968 … Warehouse Plaza Rio Cañas Carr. #1 Km. 27.8, Caguas, PR 00725 … Data Center Metro Office Park Street #1 Lot 6, B01, Guaynabo, PR 00968",
+      "url": "https://gofiberx.com/contact-us/",
+      "date": "2025-04-02"
+    },
+    {
+      "kind": "目录",
+      "claim": "覆盖与速率",
+      "quote": "Fiber X is available in 21 cities … San Juan, PR - Availability: 79.75% - Avg. Download Speed: 1,000 Mbps … 100.00% of Fiber X customers can subscribe to fiber internet",
+      "url": "https://ispreports.org/internet-service-providers/fiber-x-availability/",
+      "date": "2026-09-03"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+1 787-705-6999",
+      "source": "用户 Clients 表 + Crunchbase/Facebook"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + PeeringDB 核对）"
+  },
+  "company_facts": {
+    "legal_name": "FiberX（gofiberx.com）",
+    "founded": "2016",
+    "hq": "Metro Office Park Street #1 Lot 6, Suite 104, Guaynabo, PR 00968；Warehouse Plaza Rio Cañas Carr. #1 Km 27.8, Caguas PR 00725；Data Center B01（FXDC-MOP6，PeeringDB）",
+    "staff": "11–50",
+    "revenue": "约 $5.6M",
+    "registry": "AS6208",
+    "other": "本地光纤运营商：Internet、Metro Ethernet（MPLS/VPLS）、云连接、机房托管、FTTH/FTTB、VoIP、Dark fiber；覆盖 21 城（San Juan 79.75%，Guaynabo 74.9%），1 Gbps 对称；自有数据中心（PeeringDB 设施）"
+  },
+  "business_lines": [
+    "FTTH/FTTB 接入",
+    "Metro Ethernet 专线",
+    "机房托管",
+    "FTTH/FTTB 接入（1 Gbps 对称）",
+    "Metro Ethernet MPLS/VPLS、Dark fiber",
+    "数据中心托管（FXDC-MOP6）"
+  ],
+  "products_seen": [
+    {
+      "brand": "（运营商自用）",
+      "model": "bypass 2 光 10 电工业交换机（用户记录：帖子下询价）",
+      "spec": "bypass 光口 + 10 电口",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-288DGGPM（无 bypass；bypass 需 SmartByte 核）"
+    }
+  ],
+  "channels": {
+    "网站": "https://gofiberx.com/（注意：官网域名 gofiberx.com，用户表邮箱域 fiberx.net）",
+    "直邮": "irivera@fiberx.net / info@fiberx.net（用户表）",
+    "LinkedIn": "https://www.linkedin.com/company/gofiberx",
+    "PeeringDB": "https://www.peeringdb.com/fac/14857"
+  },
+  "signals": [
+    "用户表：1 次回复、20 次跟进；对 bypass 机型有具体兴趣",
+    "自有数据中心 + FTTB 楼宇接入——机柜/楼道交换机用量稳定；官网 2025-04 更新"
+  ],
+  "risks": [
+    "bypass 光口机型不在 Saga 标准型谱",
+    "运营商采购要求固件（VLAN/QinQ/IGMP）与长期支持"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 25,
+    "why": "FTTB 楼宇/机柜接入：STI-288DGGPM（8 GE PoE + 2 SFP 管理，环网冗余替代 bypass 需求）与 STC-28DGGPM；项目 25% 档；bypass 版本另询 SmartByte"
+  },
+  "email_hook": "On the 2-fibre 10-copper bypass unit you asked about, the closest standard platform is the 8-port gigabit PoE managed DIN switch with two SFP uplinks and ring redundancy, so I am quoting that now and checking the hardware-bypass variant separately.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（询问阶段，但 2026-06 有一次带型号的真实询价）",
+      "type": "波多黎各光纤 ISP（AS6208，终端用户）；Ivan Rivera——目标序列末档，但 CENTEC 10G 真实询价",
+      "sieve": "2（指定 STH-2C24XFSFI + DC + MA license）",
+      "stop": "2026-06-08 Alan 报 HSI 版 1,250 USD（DC，含 MA 许可，不含光模块）后无回音；2025-01「小尺寸 8 SFP+ + 8 GE、48V DC、机架、什么 OS」也止于规格书",
+      "revive": "其 MPLS/H3C 互通项目重启；Saga 无 H3C 互通实测可给",
+      "lane": "US 属地（PR），关税同美国",
+      "cadence": "2024-06 → 2026-09 去信 36 封；最后来信 2026-06-08",
+      "evidence": "k=55521ad734b4480a / aa33fba00ea6c8ff / 553ba9ad1fef0430 / fb4ac2e43c85e3c8 / 894de4474cf06741 / 5d26574728e757e2"
+    },
+    "situation": "Ivan 两次都问到点上：2025-01 要 8 SFP+ + 8 GE 的小尺寸 48V 机架机并问 OS；2026-06-05 对 CENTEC 10G 群发回「Support MPLS with H3C?」，Alan 答 MA 许可可做，他 06-08 直接要 STH-2C24XFSFI 的 DC 版 + MA 许可价，Alan 答 SFI 无 DC、HSI 1,250 USD 含 MA。此后 4 封群发无回。",
+    "need": "24×10G + 100G 上联、DC 供电、MPLS（与 H3C 互通）的汇聚/核心机；小尺寸 8 SFP+ 接入机。",
+    "breakpoint": "ISP 采购按项目窗口走，一次报价后窗口关了；再追规格无意义，只问项目。",
+    "saga_now": {
+      "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
+      "tier": 25,
+      "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）",
+      "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）",
+      "repeat": [],
+      "gaps": [
+        "MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核",
+        "H3C MPLS 互通无实测"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11（一次）",
+      "channel": "A 邮箱 → irivera@ + emorillo@",
+      "action": "一句话问 6 月报价是否进了项目、测试窗口是否还在",
+      "one_question": "Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?"
+    },
+    "facts": [
+      {
+        "date": "2025-01-03",
+        "dir": "来",
+        "who": "Ivan Rivera",
+        "quote": "Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v?",
+        "why": "第一轮需求",
+        "k": "55521ad734b4480a"
+      },
+      {
+        "date": "2025-01-03",
+        "dir": "来",
+        "who": "Ivan",
+        "quote": "You don't have that one rackmount? Not din rail? What it's the OS?",
+        "why": "形态 + OS",
+        "k": "aa33fba00ea6c8ff"
+      },
+      {
+        "date": "2026-06-05",
+        "dir": "来",
+        "who": "Ivan",
+        "quote": "Support MPLS with H3C?",
+        "why": "互通问题",
+        "k": "553ba9ad1fef0430"
+      },
+      {
+        "date": "2026-06-08",
+        "dir": "来",
+        "who": "Ivan",
+        "quote": "Price for this one STH-2C24XFSFI Needs to be DC And with the MA License.",
+        "why": "指定型号询价",
+        "k": "894de4474cf06741"
+      },
+      {
+        "date": "2026-06-08",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules.",
+        "why": "报价",
+        "k": "5d26574728e757e2"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "Re: STH-2C24XF-HSI DC + MA license — did the H3C project move?",
+      "body": "Hi, Ivan,\n\nIn June we quoted the CENTEC 24x10G + 2x100G L3 unit, HSI version (DC input), MA license included, at $1,250 USD EXW excluding optics, for the project that needs MPLS interop with H3C.\n\nThe price is re-confirmed for 15 days from this mail. Copying Emil.\n\nOne question: did that quote reach the H3C MPLS project, and is a test slot still open this year?\n\nThank you.\nAlan"
+    },
+    "as_of": "2026-10-24"
+  }
 }

@@ -301,25 +301,22 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (Marvell-based, neutral label)
+**主题**：Re: the two 8-port industrial PoE samples — did they land anywhere?
 
 ```text
-Hi Uzair,
+Hi, John,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the media-converter category on 52networks.com the gigabit RJ45-to-SFP unit is the SKU where the EXW gap versus Transition or Perle is widest, so I am quoting it first with an 8-port PoE switch as the hardware-category add-on.
+In July 2025 you bought two 8-port industrial PoE samples and asked twice "how soon". We shipped, and then sent you only generic new-product mail, which was not fair to you.
 
-We supply a Marvell-based industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your 52Networks 店内（C2G/Tripp Lite/Transition/Perle/StarTech 代理） Media Converters 类目 27 款 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+One question: did the two units end up in a project or in your GSA catalog — and if not, what was missing (spec, PSU, TAA, price)?
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+If the fit is right, the same unit in 20-50 pcs is quoted on request with the power supplies included, 4-7 working days ex-works.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

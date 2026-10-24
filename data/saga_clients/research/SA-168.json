@@ -1,528 +1,531 @@
 {
- "code": "SA-168",
- "name_official": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（安卡拉）",
- "website_status": "在线（angoranetworks.com；未抓取，本档案全部来自 S 邮箱一手往来）",
- "summary": "土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（2×STC-424XGGPM + 2×STC-28DGGPM 贴 ANW 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。",
- "type": "系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型",
- "size": "未核（本档案不含网页调研）；按订单规模与项目体量判断为中型集成商",
- "brands_seen": [
-  "Angora ANW-",
-  "TronX",
-  "Turk Telekom（客户品牌）",
-  "Centec（Saga 侧数据中心方案）",
-  "nemengine（1G-LX 光模块供应商）"
- ],
- "country_fix": "Turkey",
- "grade_override": "A",
- "override_reason": "成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。",
- "evidence": [
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "首触即回：2024-04-28 Simon 冷邮件当天 Levent 回复索要 Marvell 产品组合；04-30 要 PI 买样并要求贴 Angora 标与 ANW 型号名",
-   "quote": "Can you please send us a Proforma Invoice for the following equipment : 2 pcs STC-424XGGPM 2 pcs STC-28DGGPM … Vendor Name : Angora Networks Model Names: STC-424XGGPM : ANW-2224-PX",
-   "url": "gmail:s.sagatelecom thread 1797555182457944562",
-   "date": "2024-04-30"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "样品单已付款并发运（FedEx 776387684390，2024-05-15）；首付曾因银行要股东信息延误",
-   "quote": "We have got your payment and are working on the production. It is expected to be ready for ship on 13th.",
-   "url": "gmail:s.sagatelecom thread 1797555182457944562",
-   "date": "2024-05-09"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "RFP 常见功能清单：双电源/热插拔/PIM/VRF-Lite/4096 VLAN/宽温/BFD/NAT/Netflow/Y.1731/TWAMP/路由追踪——Saga 仅支持 1、2、5、6、9、12 项",
-   "quote": "After confirmation, sorry to tell you that most protocols are not available in our models. Support 1, 2, 5, 6, 9, 12",
-   "url": "gmail:s.sagatelecom thread 1797555182457944562",
-   "date": "2024-05-09"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "250+250 台 STI-280DGGM（无 PoE 无串口）项目：2024-09-17 按 385 台 × $105 开 PI、25% 订金 $10,106；09-20 客户端出问题停滞",
-   "quote": "10K for the deposit is fine, 105*385*0.25=10106.25usd. … we have some issues with the customer about this order.",
-   "url": "gmail:s.sagatelecom thread 1801836929263134890",
-   "date": "2024-09-20"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "土耳其警察工业交换机参考 RFP：Angora 以最低毛利报 STI-288DGGPM，起量 15 台、全年多次采购",
-   "quote": "We will propose STI-288DGGPM for this project at minimum margin. This is a standard business at Turkish Police with minimum margin. … This project is for 15 units to start with however during the year they procure many times.",
-   "url": "gmail:s.sagatelecom thread 1803445845631148479",
-   "date": "2024-07-02"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "第二单 7 台（STSC20241021007）：5×ANW-2116-PG = STC-424DGGPM-280W 24 口机箱配 16 口 PVC 面板、软件改 16 口（$200，后续抵扣）+ 2×ANW-1108-V（STI-280DGGM）；PVC 面板 100 片 × $2.3；用 Angora MAC 段；2% RMA 规则",
-   "quote": "1, Add your logo and product code on the front panel … 100pcs: 2.3usd/pc … there is 2% RMA for Saga models, that is 2 free units for every 100 pieces",
-   "url": "gmail:s.sagatelecom thread 1813343518515726632",
-   "date": "2024-10-21"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "TronX 品牌目录（2024-11-04）：TRX-CS-48Y8C（48×25G+8×100G）、TRX-CS-24X2Q（24×10G+2×40G）、TRX-AS-24T4X/48T4X/24TP4X（L3 软件）；Saga 以 CENTEC 24×10G+2×100G 对位，Levent 认可 Centec 需样机",
-   "quote": "The core switches with Centec processors (chipset) is okay. We need to get s sample unit to test and play before we promote to customers.",
-   "url": "gmail:s.sagatelecom thread 1811183931123586149",
-   "date": "2024-11-06"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "堆叠需求（24/48 口 + 4×10G，用 10G 口堆叠）——Saga Marvell 线无堆叠、2 年内无计划；Simon 建议可从 DCN 拿可堆叠机",
-   "quote": "We ll definitely need stacking support at some point.",
-   "url": "gmail:s.sagatelecom thread 1814975491642662855",
-   "date": "2024-11-08"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "大单 2116-PG：176 台 ANW-2116-PG（含 2% 备机），单价 $150 + $1 console 线，50/50 付款，付 50% 后 4 周生产；12-11 终端因现场温度改要工业版（STI-21616DGGPM L2+ 240W）并要求交换机+电源同箱（$2.5/套）",
-   "quote": "1, 24 port enclosure with 16 port PVC mask, the same as last order. … 5, 50%-50% payment … 6, 176 pieces(2% RMA …) … Unit price: 150usd(device)+1usd(console cable)=151usd/pc",
-   "url": "gmail:s.sagatelecom thread 1816883350830672034",
-   "date": "2024-11-28"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "大单执行：2025-01-07 客户 PO 到手、要求 8 周内交付；01-16 收首付 $10,000；02-12 要求中期 20% $10K；03-03 尾款 $37,174；03-07 发运（178 套交换机+电源）",
-   "quote": "*The balance amount is 37174 USD.* … The information here is, your order is now in transit.",
-   "url": "gmail:s.sagatelecom thread 1816883350830672034",
-   "date": "2025-03-07"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "Turk Telekom 项目：2024-12 要 RFP 条款模板（2,000–3,000 台）；2025-01-30 要求把样机软件改为 Turk Telekom 标（ANW-1108-V → TT 品牌，SN DTM1108DEMOA15）；2025-04-15 升级为「智能站点」（传感器/门禁/摄像头）",
-   "quote": "The order will be a big one, around 2000-3000 devices … We have been working with Turk Telekom through a partner and they have welcomed our idea of a “customized Turk Telekom” switch",
-   "url": "gmail:s.sagatelecom thread 1818055416604684588",
-   "date": "2025-01-30"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "7 台商用 L2+（3×48-PoE + 4×24-PoE，2.5G 光口；PI STSC20250228007）：2025-03-03 下单，付款拖到 05-08，05-14 UPS 1Z144AW70427368491 发运；序列号 2503…、MAC 98:06:37:A5:…",
-   "quote": "This is our fimr order, please arrange for production. … We got your payment, thanks.",
-   "url": "gmail:s.sagatelecom thread 1825570530185872145",
-   "date": "2025-05-08"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "16 口工业机报价（2025-03-12）：2×1G/2.5G 光 $100（DC 版 $90）；4×1G/2.5G 光 $105（DC 版 $93）",
-   "quote": "Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc) Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",
-   "url": "gmail:s.sagatelecom thread 1825570530185872145",
-   "date": "2025-03-12"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "数据中心 ODM 机会：48×25G SFP28 + 8×100G QSFP28（CTC8180）报 $4,600/台，客户预期 <$4,000；要求 Saga 维护 OS",
-   "quote": "The best we can do is 4600USD/pc for now. … The customer is expecting less than $4,000.",
-   "url": "gmail:s.sagatelecom thread 1826873245545893547",
-   "date": "2025-03-19"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "TronX 框架协议（2025-04-14）：4 月起常规订单、首单 10 台起步；目录 3 款含 48×25G 数据中心机（自行处理）；只需改 SN/型号/品牌，暂用 Saga MAC",
-   "quote": "We have finalized a new framework agreement with a partner for a new brand called TronX. … we plan for regular orders for this brand starting in April.",
-   "url": "gmail:s.sagatelecom thread 1829356985958069648",
-   "date": "2025-04-14"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "「Big Project」：预计 5 月底签 5,000 台 STI-288DGGPM 合同（1,000 空运 + 4,000 海运）；Saga 要求 ≥25% 订金、备料 3 周；05-20 客户预算变化，首批约 2,000 台/60 天，且已按 AC4 定位",
-   "quote": "We are expecting a contract for 5,000 pcs (yes that's right). … The initial order looks like 2,000 pcs in 60 days.",
-   "url": "gmail:s.sagatelecom thread 1831639576611676264",
-   "date": "2025-05-20"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "2025-05-26 新单 3×ANW-2248-PX + 10×ANW-2224-PX，05-28 收款，06-11 发运（应客户要求延至假期后）",
-   "quote": "Another small order coming your way. Can you please share the PI for 3 pcs - ANW-2248-PX 10 pcs - ANW-2224-PX",
-   "url": "gmail:s.sagatelecom thread 1833178692897996775",
-   "date": "2025-05-26"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "IoT 控制卡代工询问：6 层板、2,000 片起、要 BoM 采购 + 贴装，随大项目一起交付并与交换机同箱",
-   "quote": "1- We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board ( a 6-layer board) 3- We need a manufacturing factory to procure the components in the BoM",
-   "url": "gmail:s.sagatelecom thread 1833473805157129167",
-   "date": "2025-06-26"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "大项目演示机 6×STI-288DGGPM（L2+）2025-06-19 开票、06-27 发运；07-11 提示空运费因国际形势大涨、可开 TRY 发票",
-   "quote": "please see attached invoice for 6 pieces of STI-288DGGPM(L2+)",
-   "url": "gmail:s.sagatelecom thread 1835373474339304852",
-   "date": "2025-06-19"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "售后：16 口工业机部分站点异常（已部署 60 台、70+ 台正常），2026-07 用更新固件解决；该批为 AC3 芯片；MACsec 不支持",
-   "quote": "As you remember we had some issues on 16 port industrials, and we solved it … updated version. … About the MACSec feature, it is NOT available.",
-   "url": "gmail:s.sagatelecom thread 1870090772187737871",
-   "date": "2026-07-08"
-  },
-  {
-   "kind": "Gmail 往来（S 邮箱）",
-   "claim": "2026 土耳其警察 RfP：年度最大标之一，今年 3 份 RfP，价格极敏感，要最低成本机型（附英文交换机章节 PDF）",
-   "quote": "This is one of the biggest RfPs in 2026. It is Turkish Police … This is a very price sensitive, cut throat competition RfP. … We need to go with lowest cost model possib",
-   "url": "gmail:s.sagatelecom thread 1858856758970013255",
-   "date": "2026-03-05"
-  },
-  {
-   "kind": "附件（S 邮箱）",
-   "claim": "法定名称/地址：Commercial Invoice STSC20250117007 买方 ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.，税务所 Yenimahalle VD，电话 90 (312) 241 77 47，联系人 Levent Kilic，付款条件 T/T in advance",
-   "quote": "Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S. … Office: YeniMahalle Vd … Invoice No.: STSC20250117007 … Payment Term: T/T in advance",
-   "url": "data/gmail_s/attachments/text/4fc777b174f43135.json",
-   "date": "2025-01-17"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240508007（CI，2024-05-08）：STC-28DGGPM、STC-424XGGPM、STC-448XGGPM 共 4 台，USD 1265.0；采购 SmartByte RMB 6000.0；Simon 成本表利润 RMB 2158.96",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
-   "date": "2024-05-08"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241021007（CI，2024-10-21）：STC-416DGGPM、STI-280DGGM 共 10 台，USD 2345.0；采购 SmartByte RMB 4994.0",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
-   "date": "2024-10-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241028007（PI，2024-10-28）：STC-416DGGPM 共 1 台，USD 200.0",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241028007.xls",
-   "date": "2024-10-28"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241105007（PI，2024-11-05）：STC-416DGGPM 共 3 台，USD 600.0；采购 SmartByte RMB 2250.0",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241105007.xls",
-   "date": "2024-11-05"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241129007（PI，2024-11-29）：TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR 共 41 台，USD 1755.0",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241129007.xls",
-   "date": "2024-11-29"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250117007（CI，2025-01-17）：STI-21616DGGPM 共 178 台，USD 47174.0；采购 SmartByte RMB 0.0；Simon 成本表利润 RMB 54296.26",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Commercial Invoice_R1.xls",
-   "date": "2025-01-17"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250228007（PI，2025-02-28）：STC-424XGGPM、STC-448XGGPM 共 7 台，USD 2130.0；采购 SmartByte RMB 9110.0",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20250228007_R3.xls",
-   "date": "2025-02-28"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250507007（CI，2025-05-12）：Commercial Switch 共 3 台，USD 1545.0；采购 SmartByte RMB 8190.0；Simon 成本表利润 RMB 2227.08",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/普通快递发票_STSC20250507007.xlsx",
-   "date": "2025-05-12"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250526007（CI，2025-05-26）：ANW-2248-PX、STC-424XGGPM、STC-448XGGPM 共 13 台，USD 3755.0；采购 SmartByte RMB 14630.0；Simon 成本表利润 RMB 9250.8",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
-   "date": "2025-05-26"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250619007（CI，2025-06-19）：STI-288DGGPM 共 6 台，USD 900.0；采购 SmartByte RMB 4272.0；Simon 成本表利润 RMB 2102.12",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
-   "date": "2025-06-19"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「土耳其 Levent 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 10 个，2024-05-08 → 2025-06-19，销售 USD 61669.0 / RMB 0，Simon 成本统计利润合计 RMB 75789.12",
-   "quote": "",
-   "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "LinkedIn 公司页：Ankara，11-50 人，2016 创立，Specialties = IT Network / Network Switch / Network Management；产品 Verge Switch Family + 网管软件",
-   "quote": "Angora Networks | 2,110 followers on LinkedIn … Specialties: IT Network, Network Switch, and Network Management … Verge Switch Family",
-   "url": "https://www.linkedin.com/company/angora-networks",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "官网沿革：2016 成立 → 2017 咨询/维保/研发 → 2018 首款 24 口 PoE/非 PoE 交换机 → 2019 COTS 产品销售渠道 → 2020 新一代产品与海外运营；81 城经销与服务网络",
-   "quote": "2018 First Product 24-Port Switch (PoE ve no-PoE) … 2020 New Generation Products Growth, Overseas Operation",
-   "url": "https://www.angoranetworks.com/angora-networks-_en/?lang=en",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "GitHub 组织 anwHub = Angora Networks Open Repository（Ankara，contact@angoranetworks.com，blog support.angoranetworks.com）；唯一仓库 3rdPartyConfigs（2020-01-16）= 让 Angora 交换机 802.1X 工作所需的 FreeRADIUS 配置",
-   "quote": "3rd party product configuration needed to make an Angora switch function works. freeRadiusConfigs/clients.conf, eap, radiusd.conf",
-   "url": "https://github.com/anwHub/3rdPartyConfigs",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15",
-   "quote": "Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı",
-   "url": "https://www.angoranetworks.com/feed/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 口述",
-   "claim": "绑定等级：轻度绑定，且「卡在门槛」——Taylan 要把 Saga 管理型接入其 NMS（2025-03-23 要 MIB），但订单少、官网迟迟不用 Saga 产品图片（已委婉对 Levent 提过几次）",
-   "quote": "Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出",
-   "url": "docs/requirements/对话全记录.md § T29-U28",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级（文档）：轻度绑定——「SmartByte 也背书了」；同文档记录 Larch（NOS/BSP/SONiC）与 Angora 有合作并主动联系 Saga，「Marvell 生态 → Larch → Angora → Saga」三方协同的可能",
-   "quote": "土耳其 Angora　轻度绑定 = Smartbyte也背书了……Angora 跟 Larch 有合作，你又和 Angora 深度合作，Larch 又主动联系你",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
-  }
- ],
- "kp": [
-  {
-   "name": "Levent Kılıç",
-   "role": "负责人/商务（付款、合同、项目）",
-   "email": "lkilic@angoranetworks.com",
-   "phone": "+90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）",
-   "source": "gmail:s.sagatelecom thread 1797555182457944562"
-  },
-  {
-   "name": "Taylan Esen",
-   "role": "技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS）",
-   "email": "tesen@angoranetworks.com",
-   "phone": "",
-   "source": "gmail:s.sagatelecom thread 1797555182457944562"
-  },
-  {
-   "name": "Levent Kilic",
-   "role": "单据联系人",
-   "email": "levent.kilic@angoranetworks.com; lkilic@angoranetworks.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  },
-  {
-   "name": "Mr. Mustafa Calik",
-   "role": "单据联系人",
-   "email": "mustafa.calik@tronx.com.tr",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。",
- "researched_at": "2026-10-22",
- "deep": {
-  "done_at": "2026-10-22",
-  "level": "S 邮箱一手往来 v1（PI 明细待补）"
- },
- "company_facts": {
-  "legal_name": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.",
-  "founded": "",
-  "hq": "安卡拉（Yenimahalle 税务所），土耳其",
-  "staff": "",
-  "revenue": "",
-  "other": "自有品牌 ANW-（Angora）与 TronX（2025-04 框架协议）；通过合作方向 Turk Telekom 供货；常年参与土耳其警察 RfP"
- },
- "business_lines": [
-  "公共部门/运营商网络集成与投标（土耳其警察、Turk Telekom 智能站点）",
-  "自有品牌交换机（ANW-2116-PG / 2224-PX / 2248-PX / 1108-V；TronX TRX-AS/CS 系列）",
-  "数据中心交换机 ODM 转售（48×25G+8×100G）",
-  "IoT 控制卡（自研 6 层板，寻找代工）"
- ],
- "products_seen": [
-  {
-   "brand": "Angora ANW-2116-PG",
-   "model": "STC-424DGGPM-280W 定制 16 口",
-   "spec": "24 口机箱 + 16 口 PVC 面板，L2+，2.5G 光上联，软件改 16 口；大单改工业版 STI-21616DGGPM",
-   "url": "gmail:s.sagatelecom thread 1816883350830672034",
-   "date": "2025-03-07",
-   "saga": "STC-424DGGPM-280W / STI-21616DGGPM"
-  },
-  {
-   "brand": "Angora ANW-2224-PX / ANW-2248-PX",
-   "model": "STC-424XGGPM / STC-448XGGPM",
-   "spec": "24/48 口 PoE L2+，4×10G SFP+",
-   "url": "gmail:s.sagatelecom thread 1833178692897996775",
-   "date": "2025-05-26",
-   "saga": "STC-424XGGPM-280W / STC-448XGGPM"
-  },
-  {
-   "brand": "Angora ANW-1108-V / Turk Telekom TT-2208",
-   "model": "STI-280DGGM / STI-288DGGPM",
-   "spec": "8 口工业 L2+（无 PoE 版用于 385 台项目；PoE 版用于 TT 大项目与警察 RFP）",
-   "url": "gmail:s.sagatelecom thread 1831639576611676264",
-   "date": "2025-06-19",
-   "saga": "STI-280DGGM / STI-288DGGPM"
-  },
-  {
-   "brand": "TronX TRX-CS-24X2Q / TRX-CS-48Y8C",
-   "model": "CENTEC 24×10G+2×100G / 48×25G+8×100G",
-   "spec": "数据中心核心，L3，定制 OS 品牌；报 $4,600（48×25G）",
-   "url": "gmail:s.sagatelecom thread 1826873245545893547",
-   "date": "2025-03-19",
-   "saga": "STH（Hohunet/CENTEC 线，按项目报价）"
-  }
- ],
- "channels": {
-  "直邮": "lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）",
-  "即时通讯": "WeChat/WhatsApp +90 532 476 1428（Levent）",
-  "文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）",
-  "公开动态平台（监控中，T29-U18）": "官网 RSS angoranetworks.com/feed/（末篇 2023-12-06）；YouTube 频道 UCCAG46dVy-wxXtO-_b7fTPA；GitHub 组织 anwHub（2020-01，3rdPartyConfigs=FreeRADIUS 配置）；support.angoranetworks.com 文档门户（2026-10-23 522）；LinkedIn 公司页 2,110 followers；X @AngoraNetworks；Instagram angora_networks"
- },
- "signals": [
-  "2026-10-23 公开平台核查：官网新闻自 2023-12-06（数据二极管 ModBUS/OPC）后无新文；VERGE 交换机族页为产品入口；LinkedIn 2,110 followers、11-50 人、2016 年创立、2018 首款 24 口交换机、2020「海外运营」——已纳入 data/customer_watch 监控",
-  "2026-07-08 最近一次往来（16 口固件问题已解决，要固件文件）",
-  "2026-03-05 土耳其警察 RfP 2026 求最低价机型——待跟进结果",
-  "2025-05 TT 大项目首批 2,000 台/60 天口径后无成交记录——需确认项目状态",
-  "TronX 常规订单自 2025-04 起承诺、S 邮箱仅见 2025-05 的 13 台"
- ],
- "risks": [
-  "终端为公共部门/运营商（警察、Turk Telekom、NATO 询价）——守界：只对 Angora 供货、不直接触达公共部门",
-  "RFP 功能缺口：堆叠、PIM、VRF-Lite、BFD、NAT、Netflow、Y.1731、TWAMP、MACsec 均不支持；HTTPS 曾是问题（AC5 支持）",
-  "土耳其海关对单独进口电源敏感——交换机+电源需同箱成套；空运费波动大",
-  "付款常拖（7 台单从 03-03 拖到 05-08；大单分三笔）——坚持款到发货"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "TT 智能站点与警察 RFP 都落在 8 口工业 PoE L2+（STI-288DGGPM，AC5）；商用线 STC-424DGGPM-280W/424XGGPM/448XGGPM 已成单；OEM 贴牌按 30% 档，但历史成交价 $105–151 远低于主表 +20%（$134.5），复购需按量谈"
- },
- "email_hook": "For the 2026 Police RfP switch section you sent, the lowest-cost fully compliant unit is the AC5-based 8-port industrial PoE L2+ (STI-288DGGPM) in Angora packing, and I can hold a project price for 100+ pieces, so that is what I am quoting first.",
- "deal_pi": {
-  "folder": "7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
-  "simon_label": "活跃",
-  "pay": "Xtransfer",
-  "bind": "轻度绑定",
-  "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
-  "orders": 10,
-  "first": "2024-05-08",
-  "last": "2025-06-19",
-  "usd": 61669.0,
-  "rmb": 0.0,
-  "profit_rmb": 75789.12,
-  "models": "ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR"
- },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [
-   "anwHub"
+  "code": "SA-168",
+  "name_official": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（安卡拉）",
+  "website_status": "在线（angoranetworks.com；未抓取，本档案全部来自 S 邮箱一手往来）",
+  "summary": "土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（2×STC-424XGGPM + 2×STC-28DGGPM 贴 ANW 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。",
+  "type": "系统集成商 + 自有品牌贴牌（OEM）——公共部门/运营商投标型",
+  "size": "未核（本档案不含网页调研）；按订单规模与项目体量判断为中型集成商",
+  "brands_seen": [
+    "Angora ANW-",
+    "TronX",
+    "Turk Telekom（客户品牌）",
+    "Centec（Saga 侧数据中心方案）",
+    "nemengine（1G-LX 光模块供应商）"
   ],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-168",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "binding_level": "轻度（卡门槛）",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）",
- "mail_review": {
-  "binding": {
-   "level": "轻度（Simon U28 定级）——按 J4 证据梯度实为**中度**：自有品牌 ANW/TronX 批量 176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 写的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 PCB",
-   "type": "OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标）",
-   "sieve": "3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享）",
-   "stop": "大项目节奏在对方（Turk Telekom 智能站点、Turkish Police RfP「cut throat」价格战）；技术侧停在 AC3→AC5 切换（2026-07 客户安全团队要「更新版本」，而 AC3 已停产）",
-   "revive": "AC5 版 16 口工业机 BIN/样机给 Taylan 验证通过 → 同客户换代订单；PCB 代工（1,000–2,000 台）随 TT 项目定；Turkish Police RfP 看 Simon 是否愿意按 20% 分销底线参与",
-   "lane": "TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线）",
-   "cadence": "最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态",
-   "evidence": "S 邮箱 k=7504c277f2473030 / eb90a8d5a460add9 / 14e8b46bf6477893 / c6da478f3e47457d / 397660b870629deb；PI 包 10 单"
-  },
-  "situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术）是 PI 包第一大客（10 单 $61,669）：2024-05 样品 → 2024-10 7 台 → 2025-03 176 台 ANW-2116-PG → 2025-05/06 商用 + 演示机；2025-06 要 Saga 代工其自研 6 层板（1,000–2,000 台，Gerber+BoM 已给）；2025-07 把 16 口工业机接入为 Turk Telekom 写的管理平台（SNMP v3 配置排错）；2025-10/11 现场 60+ 站点出现端口掉包，Simon 远程支持后「not a hardware issue」；2026-03 Levent 保密分享 Turkish Police 三份 RfP 交换机部分（「very price sensitive, cut throat」）；2026-07 同一客户安全团队要 16 口工业机「更新版本」，Simon 答 AC3 停产、全线转 AC5、BIN 已微信发 Levent。**S 邮箱主线，微信为辅；没有 A 邮箱往来。**",
-  "need": "① 16 口工业 PoE（ANW-2116-PG）换代到 AC5 并通过其安全团队；② Turk Telekom 智能站点（曾谈 5,000 台 → 首批 2,000 台）——取决于 TT 立项；③ 自研 PCB 代工（6 层板、可替代料）；④ Turkish Police 年度 RfP 的交换机段（价格战）；⑤ 零星：NATO 项目媒体转换器（2025-07 已被其伙伴否决）、工业级 SFP。",
-  "breakpoint": "不是 Saga 的问题，是对方项目节奏 + 两个 Simon 需要定的事：(a) 代工 PCB 是否接（偏离「接口层」C1，但 Levent 明说「reassuring to know it can be done with your support」）；(b) Police RfP 这种价格战要不要参与（C6：不打价格战）。技术侧唯一待办：AC5 版 16 口工业机给 Taylan 验证。",
-  "saga_now": {
-   "p1": "STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代）",
-   "tier": 20,
-   "price": "176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准）",
-   "why": "已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）",
-   "repeat": [
-    "ANW-2116-PG / STI-21616DGGPM 16 口工业 PoE（176 台批）",
-    "STI-288DGGPM 演示机",
-    "TronX 光模块系列（TRX-SFP/QSFP）"
-   ],
-   "gaps": [
-    "PCB 代工：Simon 决定（供应商关系 + 产能，不是代理能答的）",
-    "Police RfP：按 C6 默认不参与价格战，除非 Simon 另定",
-    "AC5 版 16 口工业机的样机/BIN 验证结果（Taylan 未反馈）"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11 上旬（7-08 之后满 4 个月）",
-   "channel": "S 邮箱 + Levent 微信（Simon 主线）",
-   "action": "只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期",
-   "one_question": "Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?"
-  },
-  "facts": [
-   {
-    "date": "2025-06-26",
-    "dir": "来",
-    "who": "Levent Kılıç（CEO）",
-    "quote": "We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board (a 6-layer board) 3- We need a manufacturing factory",
-    "why": "代工请求 = 超出接口层的绑定机会/风险（C1）",
-    "k": "7504c277f2473030"
-   },
-   {
-    "date": "2025-07-24",
-    "dir": "来",
-    "who": "Taylan Esen（技术）",
-    "quote": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform",
-    "why": "Saga 设备进入客户自研管理系统（J4 中度证据）",
-    "k": "eb90a8d5a460add9"
-   },
-   {
-    "date": "2025-10-31",
-    "dir": "来",
-    "who": "Taylan Esen",
-    "quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
-    "why": "部署规模 + 售后进入循环",
-    "k": "14e8b46bf6477893"
-   },
-   {
-    "date": "2025-11-07",
-    "dir": "来",
-    "who": "Taylan Esen",
-    "quote": "big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue",
-    "why": "售后闭环，信任加深",
-    "k": "d948115bd556b921"
-   },
-   {
-    "date": "2026-03-05",
-    "dir": "来",
-    "who": "Levent Kılıç",
-    "quote": "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat",
-    "why": "保密级信息共享 = 关系深度；但属价格战（C6）",
-    "k": "c6da478f3e47457d"
-   },
-   {
-    "date": "2026-07-07",
-    "dir": "来",
-    "who": "Taylan Esen",
-    "quote": "the same customer would like to have an updated version… This comes from their security assurance team",
-    "why": "当前唯一技术待办（AC5 换代）",
-    "k": "397660b870629deb"
-   },
-   {
-    "date": "2026-07-08",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat",
-    "why": "Saga 侧状态",
-    "k": "1ecdcf634c06d0fa"
-   }
+  "country_fix": "Turkey",
+  "grade_override": "A",
+  "override_reason": "成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。",
+  "evidence": [
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "首触即回：2024-04-28 Simon 冷邮件当天 Levent 回复索要 Marvell 产品组合；04-30 要 PI 买样并要求贴 Angora 标与 ANW 型号名",
+      "quote": "Can you please send us a Proforma Invoice for the following equipment : 2 pcs STC-424XGGPM 2 pcs STC-28DGGPM … Vendor Name : Angora Networks Model Names: STC-424XGGPM : ANW-2224-PX",
+      "url": "gmail:s.sagatelecom thread 1797555182457944562",
+      "date": "2024-04-30"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "样品单已付款并发运（FedEx 776387684390，2024-05-15）；首付曾因银行要股东信息延误",
+      "quote": "We have got your payment and are working on the production. It is expected to be ready for ship on 13th.",
+      "url": "gmail:s.sagatelecom thread 1797555182457944562",
+      "date": "2024-05-09"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "RFP 常见功能清单：双电源/热插拔/PIM/VRF-Lite/4096 VLAN/宽温/BFD/NAT/Netflow/Y.1731/TWAMP/路由追踪——Saga 仅支持 1、2、5、6、9、12 项",
+      "quote": "After confirmation, sorry to tell you that most protocols are not available in our models. Support 1, 2, 5, 6, 9, 12",
+      "url": "gmail:s.sagatelecom thread 1797555182457944562",
+      "date": "2024-05-09"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "250+250 台 STI-280DGGM（无 PoE 无串口）项目：2024-09-17 按 385 台 × $105 开 PI、25% 订金 $10,106；09-20 客户端出问题停滞",
+      "quote": "10K for the deposit is fine, 105*385*0.25=10106.25usd. … we have some issues with the customer about this order.",
+      "url": "gmail:s.sagatelecom thread 1801836929263134890",
+      "date": "2024-09-20"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "土耳其警察工业交换机参考 RFP：Angora 以最低毛利报 STI-288DGGPM，起量 15 台、全年多次采购",
+      "quote": "We will propose STI-288DGGPM for this project at minimum margin. This is a standard business at Turkish Police with minimum margin. … This project is for 15 units to start with however during the year they procure many times.",
+      "url": "gmail:s.sagatelecom thread 1803445845631148479",
+      "date": "2024-07-02"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "第二单 7 台（STSC20241021007）：5×ANW-2116-PG = STC-424DGGPM-280W 24 口机箱配 16 口 PVC 面板、软件改 16 口（$200，后续抵扣）+ 2×ANW-1108-V（STI-280DGGM）；PVC 面板 100 片 × $2.3；用 Angora MAC 段；2% RMA 规则",
+      "quote": "1, Add your logo and product code on the front panel … 100pcs: 2.3usd/pc … there is 2% RMA for Saga models, that is 2 free units for every 100 pieces",
+      "url": "gmail:s.sagatelecom thread 1813343518515726632",
+      "date": "2024-10-21"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "TronX 品牌目录（2024-11-04）：TRX-CS-48Y8C（48×25G+8×100G）、TRX-CS-24X2Q（24×10G+2×40G）、TRX-AS-24T4X/48T4X/24TP4X（L3 软件）；Saga 以 CENTEC 24×10G+2×100G 对位，Levent 认可 Centec 需样机",
+      "quote": "The core switches with Centec processors (chipset) is okay. We need to get s sample unit to test and play before we promote to customers.",
+      "url": "gmail:s.sagatelecom thread 1811183931123586149",
+      "date": "2024-11-06"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "堆叠需求（24/48 口 + 4×10G，用 10G 口堆叠）——Saga Marvell 线无堆叠、2 年内无计划；Simon 建议可从 DCN 拿可堆叠机",
+      "quote": "We ll definitely need stacking support at some point.",
+      "url": "gmail:s.sagatelecom thread 1814975491642662855",
+      "date": "2024-11-08"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "大单 2116-PG：176 台 ANW-2116-PG（含 2% 备机），单价 $150 + $1 console 线，50/50 付款，付 50% 后 4 周生产；12-11 终端因现场温度改要工业版（STI-21616DGGPM L2+ 240W）并要求交换机+电源同箱（$2.5/套）",
+      "quote": "1, 24 port enclosure with 16 port PVC mask, the same as last order. … 5, 50%-50% payment … 6, 176 pieces(2% RMA …) … Unit price: 150usd(device)+1usd(console cable)=151usd/pc",
+      "url": "gmail:s.sagatelecom thread 1816883350830672034",
+      "date": "2024-11-28"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "大单执行：2025-01-07 客户 PO 到手、要求 8 周内交付；01-16 收首付 $10,000；02-12 要求中期 20% $10K；03-03 尾款 $37,174；03-07 发运（178 套交换机+电源）",
+      "quote": "*The balance amount is 37174 USD.* … The information here is, your order is now in transit.",
+      "url": "gmail:s.sagatelecom thread 1816883350830672034",
+      "date": "2025-03-07"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "Turk Telekom 项目：2024-12 要 RFP 条款模板（2,000–3,000 台）；2025-01-30 要求把样机软件改为 Turk Telekom 标（ANW-1108-V → TT 品牌，SN DTM1108DEMOA15）；2025-04-15 升级为「智能站点」（传感器/门禁/摄像头）",
+      "quote": "The order will be a big one, around 2000-3000 devices … We have been working with Turk Telekom through a partner and they have welcomed our idea of a “customized Turk Telekom” switch",
+      "url": "gmail:s.sagatelecom thread 1818055416604684588",
+      "date": "2025-01-30"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "7 台商用 L2+（3×48-PoE + 4×24-PoE，2.5G 光口；PI STSC20250228007）：2025-03-03 下单，付款拖到 05-08，05-14 UPS 1Z144AW70427368491 发运；序列号 2503…、MAC 98:06:37:A5:…",
+      "quote": "This is our fimr order, please arrange for production. … We got your payment, thanks.",
+      "url": "gmail:s.sagatelecom thread 1825570530185872145",
+      "date": "2025-05-08"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "16 口工业机报价（2025-03-12）：2×1G/2.5G 光 $100（DC 版 $90）；4×1G/2.5G 光 $105（DC 版 $93）",
+      "quote": "Price for 2*1G/2.5G: 100usd/pc(DC type, 90usd/pc) Price for 4*1G/2.5G: 105usd/pc(DC type, 93usd/pc)",
+      "url": "gmail:s.sagatelecom thread 1825570530185872145",
+      "date": "2025-03-12"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "数据中心 ODM 机会：48×25G SFP28 + 8×100G QSFP28（CTC8180）报 $4,600/台，客户预期 <$4,000；要求 Saga 维护 OS",
+      "quote": "The best we can do is 4600USD/pc for now. … The customer is expecting less than $4,000.",
+      "url": "gmail:s.sagatelecom thread 1826873245545893547",
+      "date": "2025-03-19"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "TronX 框架协议（2025-04-14）：4 月起常规订单、首单 10 台起步；目录 3 款含 48×25G 数据中心机（自行处理）；只需改 SN/型号/品牌，暂用 Saga MAC",
+      "quote": "We have finalized a new framework agreement with a partner for a new brand called TronX. … we plan for regular orders for this brand starting in April.",
+      "url": "gmail:s.sagatelecom thread 1829356985958069648",
+      "date": "2025-04-14"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "「Big Project」：预计 5 月底签 5,000 台 STI-288DGGPM 合同（1,000 空运 + 4,000 海运）；Saga 要求 ≥25% 订金、备料 3 周；05-20 客户预算变化，首批约 2,000 台/60 天，且已按 AC4 定位",
+      "quote": "We are expecting a contract for 5,000 pcs (yes that's right). … The initial order looks like 2,000 pcs in 60 days.",
+      "url": "gmail:s.sagatelecom thread 1831639576611676264",
+      "date": "2025-05-20"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "2025-05-26 新单 3×ANW-2248-PX + 10×ANW-2224-PX，05-28 收款，06-11 发运（应客户要求延至假期后）",
+      "quote": "Another small order coming your way. Can you please share the PI for 3 pcs - ANW-2248-PX 10 pcs - ANW-2224-PX",
+      "url": "gmail:s.sagatelecom thread 1833178692897996775",
+      "date": "2025-05-26"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "IoT 控制卡代工询问：6 层板、2,000 片起、要 BoM 采购 + 贴装，随大项目一起交付并与交换机同箱",
+      "quote": "1- We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board ( a 6-layer board) 3- We need a manufacturing factory to procure the components in the BoM",
+      "url": "gmail:s.sagatelecom thread 1833473805157129167",
+      "date": "2025-06-26"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "大项目演示机 6×STI-288DGGPM（L2+）2025-06-19 开票、06-27 发运；07-11 提示空运费因国际形势大涨、可开 TRY 发票",
+      "quote": "please see attached invoice for 6 pieces of STI-288DGGPM(L2+)",
+      "url": "gmail:s.sagatelecom thread 1835373474339304852",
+      "date": "2025-06-19"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "售后：16 口工业机部分站点异常（已部署 60 台、70+ 台正常），2026-07 用更新固件解决；该批为 AC3 芯片；MACsec 不支持",
+      "quote": "As you remember we had some issues on 16 port industrials, and we solved it … updated version. … About the MACSec feature, it is NOT available.",
+      "url": "gmail:s.sagatelecom thread 1870090772187737871",
+      "date": "2026-07-08"
+    },
+    {
+      "kind": "Gmail 往来（S 邮箱）",
+      "claim": "2026 土耳其警察 RfP：年度最大标之一，今年 3 份 RfP，价格极敏感，要最低成本机型（附英文交换机章节 PDF）",
+      "quote": "This is one of the biggest RfPs in 2026. It is Turkish Police … This is a very price sensitive, cut throat competition RfP. … We need to go with lowest cost model possib",
+      "url": "gmail:s.sagatelecom thread 1858856758970013255",
+      "date": "2026-03-05"
+    },
+    {
+      "kind": "附件（S 邮箱）",
+      "claim": "法定名称/地址：Commercial Invoice STSC20250117007 买方 ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.，税务所 Yenimahalle VD，电话 90 (312) 241 77 47，联系人 Levent Kilic，付款条件 T/T in advance",
+      "quote": "Buyer: ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S. … Office: YeniMahalle Vd … Invoice No.: STSC20250117007 … Payment Term: T/T in advance",
+      "url": "data/gmail_s/attachments/text/4fc777b174f43135.json",
+      "date": "2025-01-17"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240508007（CI，2024-05-08）：STC-28DGGPM、STC-424XGGPM、STC-448XGGPM 共 4 台，USD 1265.0；采购 SmartByte RMB 6000.0；Simon 成本表利润 RMB 2158.96",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+      "date": "2024-05-08"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241021007（CI，2024-10-21）：STC-416DGGPM、STI-280DGGM 共 10 台，USD 2345.0；采购 SmartByte RMB 4994.0",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+      "date": "2024-10-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241028007（PI，2024-10-28）：STC-416DGGPM 共 1 台，USD 200.0",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241028007.xls",
+      "date": "2024-10-28"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241105007（PI，2024-11-05）：STC-416DGGPM 共 3 台，USD 600.0；采购 SmartByte RMB 2250.0",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241105007.xls",
+      "date": "2024-11-05"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241129007（PI，2024-11-29）：TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR 共 41 台，USD 1755.0",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20241129007.xls",
+      "date": "2024-11-29"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250117007（CI，2025-01-17）：STI-21616DGGPM 共 178 台，USD 47174.0；采购 SmartByte RMB 0.0；Simon 成本表利润 RMB 54296.26",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/Commercial Invoice_R1.xls",
+      "date": "2025-01-17"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250228007（PI，2025-02-28）：STC-424XGGPM、STC-448XGGPM 共 7 台，USD 2130.0；采购 SmartByte RMB 9110.0",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/STSC20250228007_R3.xls",
+      "date": "2025-02-28"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250507007（CI，2025-05-12）：Commercial Switch 共 3 台，USD 1545.0；采购 SmartByte RMB 8190.0；Simon 成本表利润 RMB 2227.08",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/普通快递发票_STSC20250507007.xlsx",
+      "date": "2025-05-12"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250526007（CI，2025-05-26）：ANW-2248-PX、STC-424XGGPM、STC-448XGGPM 共 13 台，USD 3755.0；采购 SmartByte RMB 14630.0；Simon 成本表利润 RMB 9250.8",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+      "date": "2025-05-26"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250619007（CI，2025-06-19）：STI-288DGGPM 共 6 台，USD 900.0；采购 SmartByte RMB 4272.0；Simon 成本表利润 RMB 2102.12",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定/CI.xls",
+      "date": "2025-06-19"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「土耳其 Levent 活跃 Xtransfer 轻度绑定」：Simon 标签 活跃，收款 Xtransfer，轻度绑定；单号 10 个，2024-05-08 → 2025-06-19，销售 USD 61669.0 / RMB 0，Simon 成本统计利润合计 RMB 75789.12",
+      "quote": "",
+      "url": "PI.zip:7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "LinkedIn 公司页：Ankara，11-50 人，2016 创立，Specialties = IT Network / Network Switch / Network Management；产品 Verge Switch Family + 网管软件",
+      "quote": "Angora Networks | 2,110 followers on LinkedIn … Specialties: IT Network, Network Switch, and Network Management … Verge Switch Family",
+      "url": "https://www.linkedin.com/company/angora-networks",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "官网沿革：2016 成立 → 2017 咨询/维保/研发 → 2018 首款 24 口 PoE/非 PoE 交换机 → 2019 COTS 产品销售渠道 → 2020 新一代产品与海外运营；81 城经销与服务网络",
+      "quote": "2018 First Product 24-Port Switch (PoE ve no-PoE) … 2020 New Generation Products Growth, Overseas Operation",
+      "url": "https://www.angoranetworks.com/angora-networks-_en/?lang=en",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "GitHub 组织 anwHub = Angora Networks Open Repository（Ankara，contact@angoranetworks.com，blog support.angoranetworks.com）；唯一仓库 3rdPartyConfigs（2020-01-16）= 让 Angora 交换机 802.1X 工作所需的 FreeRADIUS 配置",
+      "quote": "3rd party product configuration needed to make an Angora switch function works. freeRadiusConfigs/clients.conf, eap, radiusd.conf",
+      "url": "https://github.com/anwHub/3rdPartyConfigs",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "官网 RSS 可用，最后一篇 2023-12-06《Veri Diyotu … ModBUS ve OPC》，此前 2022-10-02《Packet Broker》；feed lastBuild 2026-06-15",
+      "quote": "Wed, 06 Dec 2023 11:27:03 +0000 … Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı",
+      "url": "https://www.angoranetworks.com/feed/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 口述",
+      "claim": "绑定等级：轻度绑定，且「卡在门槛」——Taylan 要把 Saga 管理型接入其 NMS（2025-03-23 要 MIB），但订单少、官网迟迟不用 Saga 产品图片（已委婉对 Levent 提过几次）",
+      "quote": "Angora james这些都是轻度绑定……angora其实严格来说没到这个地步。你看gmail上taylan说把我们管理接入它的NMS，但他们订单少，官网迟迟不用我们的产品图片啥的即使我已经委婉地给levent说过几次了等等。就是类似卡在门槛那了 不进不出",
+      "url": "docs/requirements/对话全记录.md § T29-U28",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 文档",
+      "claim": "绑定等级（文档）：轻度绑定——「SmartByte 也背书了」；同文档记录 Larch（NOS/BSP/SONiC）与 Angora 有合作并主动联系 Saga，「Marvell 生态 → Larch → Angora → Saga」三方协同的可能",
+      "quote": "土耳其 Angora　轻度绑定 = Smartbyte也背书了……Angora 跟 Larch 有合作，你又和 Angora 深度合作，Larch 又主动联系你",
+      "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+      "date": "2026-10-22"
+    }
   ],
-  "proof_gaps": [
-   "微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里",
-   "Turk Telekom 项目的现状（2025-09 之后邮件无更新）"
+  "kp": [
+    {
+      "name": "Levent Kılıç",
+      "role": "负责人/商务（付款、合同、项目）",
+      "email": "lkilic@angoranetworks.com",
+      "phone": "+90 532 476 1428（WeChat/WhatsApp，2024-05-02 本人提供）",
+      "source": "gmail:s.sagatelecom thread 1797555182457944562"
+    },
+    {
+      "name": "Taylan Esen",
+      "role": "技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS）",
+      "email": "tesen@angoranetworks.com",
+      "phone": "",
+      "source": "gmail:s.sagatelecom thread 1797555182457944562"
+    },
+    {
+      "name": "Levent Kilic",
+      "role": "单据联系人",
+      "email": "levent.kilic@angoranetworks.com; lkilic@angoranetworks.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    },
+    {
+      "name": "Mr. Mustafa Calik",
+      "role": "单据联系人",
+      "email": "mustafa.calik@tronx.com.tr",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "notes": "A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。",
+  "researched_at": "2026-10-22",
+  "deep": {
+    "done_at": "2026-10-22",
+    "level": "S 邮箱一手往来 v1（PI 明细待补）"
+  },
+  "company_facts": {
+    "legal_name": "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.",
+    "founded": "",
+    "hq": "安卡拉（Yenimahalle 税务所），土耳其",
+    "staff": "",
+    "revenue": "",
+    "other": "自有品牌 ANW-（Angora）与 TronX（2025-04 框架协议）；通过合作方向 Turk Telekom 供货；常年参与土耳其警察 RfP"
+  },
+  "business_lines": [
+    "公共部门/运营商网络集成与投标（土耳其警察、Turk Telekom 智能站点）",
+    "自有品牌交换机（ANW-2116-PG / 2224-PX / 2248-PX / 1108-V；TronX TRX-AS/CS 系列）",
+    "数据中心交换机 ODM 转售（48×25G+8×100G）",
+    "IoT 控制卡（自研 6 层板，寻找代工）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Angora ANW-2116-PG",
+      "model": "STC-424DGGPM-280W 定制 16 口",
+      "spec": "24 口机箱 + 16 口 PVC 面板，L2+，2.5G 光上联，软件改 16 口；大单改工业版 STI-21616DGGPM",
+      "url": "gmail:s.sagatelecom thread 1816883350830672034",
+      "date": "2025-03-07",
+      "saga": "STC-424DGGPM-280W / STI-21616DGGPM"
+    },
+    {
+      "brand": "Angora ANW-2224-PX / ANW-2248-PX",
+      "model": "STC-424XGGPM / STC-448XGGPM",
+      "spec": "24/48 口 PoE L2+，4×10G SFP+",
+      "url": "gmail:s.sagatelecom thread 1833178692897996775",
+      "date": "2025-05-26",
+      "saga": "STC-424XGGPM-280W / STC-448XGGPM"
+    },
+    {
+      "brand": "Angora ANW-1108-V / Turk Telekom TT-2208",
+      "model": "STI-280DGGM / STI-288DGGPM",
+      "spec": "8 口工业 L2+（无 PoE 版用于 385 台项目；PoE 版用于 TT 大项目与警察 RFP）",
+      "url": "gmail:s.sagatelecom thread 1831639576611676264",
+      "date": "2025-06-19",
+      "saga": "STI-280DGGM / STI-288DGGPM"
+    },
+    {
+      "brand": "TronX TRX-CS-24X2Q / TRX-CS-48Y8C",
+      "model": "CENTEC 24×10G+2×100G / 48×25G+8×100G",
+      "spec": "数据中心核心，L3，定制 OS 品牌；报 $4,600（48×25G）",
+      "url": "gmail:s.sagatelecom thread 1826873245545893547",
+      "date": "2025-03-19",
+      "saga": "STH（Hohunet/CENTEC 线，按项目报价）"
+    }
+  ],
+  "channels": {
+    "直邮": "lkilic@angoranetworks.com（Levent）/ tesen@angoranetworks.com（Taylan）",
+    "即时通讯": "WeChat/WhatsApp +90 532 476 1428（Levent）",
+    "文件": "Google Drive 订单资料夹（Simon 每单上传 MAC/SN/照片/保修证书）",
+    "公开动态平台（监控中，T29-U18）": "官网 RSS angoranetworks.com/feed/（末篇 2023-12-06）；YouTube 频道 UCCAG46dVy-wxXtO-_b7fTPA；GitHub 组织 anwHub（2020-01，3rdPartyConfigs=FreeRADIUS 配置）；support.angoranetworks.com 文档门户（2026-10-23 522）；LinkedIn 公司页 2,110 followers；X @AngoraNetworks；Instagram angora_networks"
+  },
+  "signals": [
+    "2026-10-23 公开平台核查：官网新闻自 2023-12-06（数据二极管 ModBUS/OPC）后无新文；VERGE 交换机族页为产品入口；LinkedIn 2,110 followers、11-50 人、2016 年创立、2018 首款 24 口交换机、2020「海外运营」——已纳入 data/customer_watch 监控",
+    "2026-07-08 最近一次往来（16 口固件问题已解决，要固件文件）",
+    "2026-03-05 土耳其警察 RfP 2026 求最低价机型——待跟进结果",
+    "2025-05 TT 大项目首批 2,000 台/60 天口径后无成交记录——需确认项目状态",
+    "TronX 常规订单自 2025-04 起承诺、S 邮箱仅见 2025-05 的 13 台"
+  ],
+  "risks": [
+    "终端为公共部门/运营商（警察、Turk Telekom、NATO 询价）——守界：只对 Angora 供货、不直接触达公共部门",
+    "RFP 功能缺口：堆叠、PIM、VRF-Lite、BFD、NAT、Netflow、Y.1731、TWAMP、MACsec 均不支持；HTTPS 曾是问题（AC5 支持）",
+    "土耳其海关对单独进口电源敏感——交换机+电源需同箱成套；空运费波动大",
+    "付款常拖（7 台单从 03-03 拖到 05-08；大单分三笔）——坚持款到发货"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "TT 智能站点与警察 RFP 都落在 8 口工业 PoE L2+（STI-288DGGPM，AC5）；商用线 STC-424DGGPM-280W/424XGGPM/448XGGPM 已成单；OEM 贴牌按 30% 档，但历史成交价 $105–151 远低于主表 +20%（$134.5），复购需按量谈"
+  },
+  "email_hook": "For the 2026 Police RfP switch section you sent, the lowest-cost fully compliant unit is the AC5-based 8-port industrial PoE L2+ (STI-288DGGPM) in Angora packing, and I can hold a project price for 100+ pieces, so that is what I am quoting first.",
+  "deal_pi": {
+    "folder": "7 土耳其 Levent 活跃 Xtransfer 轻度绑定",
+    "simon_label": "活跃",
+    "pay": "Xtransfer",
+    "bind": "轻度绑定",
+    "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+    "orders": 10,
+    "first": "2024-05-08",
+    "last": "2025-06-19",
+    "usd": 61669.0,
+    "rmb": 0.0,
+    "profit_rmb": 75789.12,
+    "models": "ANW-2248-PX、Commercial Switch、STC-28DGGPM、STC-416DGGPM、STC-424XGGPM、STC-448XGGPM、STI-21616DGGPM、STI-280DGGM、STI-288DGGPM、TRX-AP-612T、TRX-AS-24TP4X、TRX-AS-48TP4X、TRX-IS-8TP2G、TRX-QSFP-40G-SR4、TRX-QSFP28-100G-SR4、TRX-SFP-10G-LR、TRX-SFP-10G-SR、TRX-SFP-1G-LX、TRX-SFP-1G-SX、TRX-SFP28-25G-SR"
+  },
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [
+      "anwHub"
+    ],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-168",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
+  },
+  "binding_level": "轻度（卡门槛）",
+  "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度（Simon U28 定级）——按 J4 证据梯度实为**中度**：自有品牌 ANW/TronX 批量 176 台已部署 60+ 站点、写进 Angora 为 Turk Telekom 写的管理系统（SNMP v3）、要求 Saga 代工其自研 6 层 PCB",
+      "type": "OEM 品牌商 + 运营商/公共部门集成商（技术流；价格敏感的是其终端招标）",
+      "sieve": "3（10 个单号 $61,669、Xtransfer、演示机、售后排障、保密 RfP 共享）",
+      "stop": "大项目节奏在对方（Turk Telekom 智能站点、Turkish Police RfP「cut throat」价格战）；技术侧停在 AC3→AC5 切换（2026-07 客户安全团队要「更新版本」，而 AC3 已停产）",
+      "revive": "AC5 版 16 口工业机 BIN/样机给 Taylan 验证通过 → 同客户换代订单；PCB 代工（1,000–2,000 台）随 TT 项目定；Turkish Police RfP 看 Simon 是否愿意按 20% 分销底线参与",
+      "lane": "TR 已通（Xtransfer/TRY、DAP、Levent 微信 + 邮件双线）",
+      "cadence": "最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态",
+      "evidence": "S 邮箱 k=7504c277f2473030 / eb90a8d5a460add9 / 14e8b46bf6477893 / c6da478f3e47457d / 397660b870629deb；PI 包 10 单"
+    },
+    "situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术）是 PI 包第一大客（10 单 $61,669）：2024-05 样品 → 2024-10 7 台 → 2025-03 176 台 ANW-2116-PG → 2025-05/06 商用 + 演示机；2025-06 要 Saga 代工其自研 6 层板（1,000–2,000 台，Gerber+BoM 已给）；2025-07 把 16 口工业机接入为 Turk Telekom 写的管理平台（SNMP v3 配置排错）；2025-10/11 现场 60+ 站点出现端口掉包，Simon 远程支持后「not a hardware issue」；2026-03 Levent 保密分享 Turkish Police 三份 RfP 交换机部分（「very price sensitive, cut throat」）；2026-07 同一客户安全团队要 16 口工业机「更新版本」，Simon 答 AC3 停产、全线转 AC5、BIN 已微信发 Levent。**S 邮箱主线，微信为辅；没有 A 邮箱往来。**",
+    "need": "① 16 口工业 PoE（ANW-2116-PG）换代到 AC5 并通过其安全团队；② Turk Telekom 智能站点（曾谈 5,000 台 → 首批 2,000 台）——取决于 TT 立项；③ 自研 PCB 代工（6 层板、可替代料）；④ Turkish Police 年度 RfP 的交换机段（价格战）；⑤ 零星：NATO 项目媒体转换器（2025-07 已被其伙伴否决）、工业级 SFP。",
+    "breakpoint": "不是 Saga 的问题，是对方项目节奏 + 两个 Simon 需要定的事：(a) 代工 PCB 是否接（偏离「接口层」C1，但 Levent 明说「reassuring to know it can be done with your support」）；(b) Police RfP 这种价格战要不要参与（C6：不打价格战）。技术侧唯一待办：AC5 版 16 口工业机给 Taylan 验证。",
+    "saga_now": {
+      "p1": "STI-21616DGGPM（AC5 版，= ANW-2116-PG 换代）",
+      "tier": 20,
+      "price": "176 台那批的单价见 PI 包；换代报价按 SmartByte AC5 当期价 ×1.2 ÷ 汇率快照——分销/集成商 20% 档（Simon 既往对 Angora 的实际加价以 PI 为准）",
+      "why": "已部署 60+ 站点的同款换代是最顺手的复购（C3）；每多一个 AC5 站点，Angora 管理系统对 Saga 固件的依赖就深一层（C4）",
+      "repeat": [
+        "ANW-2116-PG / STI-21616DGGPM 16 口工业 PoE（176 台批）",
+        "STI-288DGGPM 演示机",
+        "TronX 光模块系列（TRX-SFP/QSFP）"
+      ],
+      "gaps": [
+        "PCB 代工：Simon 决定（供应商关系 + 产能，不是代理能答的）",
+        "Police RfP：按 C6 默认不参与价格战，除非 Simon 另定",
+        "AC5 版 16 口工业机的样机/BIN 验证结果（Taylan 未反馈）"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11 上旬（7-08 之后满 4 个月）",
+      "channel": "S 邮箱 + Levent 微信（Simon 主线）",
+      "action": "只问一件事：AC5 版 16 口工业机 Taylan 验证得如何、安全团队要的「更新版本」能否以 AC5 交付；顺带给 AC5 换代的交期",
+      "one_question": "Has Taylan been able to validate the AC5 build of the 16-port industrial unit, so we can quote the replacement batch for the same customer?"
+    },
+    "facts": [
+      {
+        "date": "2025-06-26",
+        "dir": "来",
+        "who": "Levent Kılıç（CEO）",
+        "quote": "We will probably need 1,000 to 2,000 units to be manufactured. 2- We plan to provide the PCB board (a 6-layer board) 3- We need a manufacturing factory",
+        "why": "代工请求 = 超出接口层的绑定机会/风险（C1）",
+        "k": "7504c277f2473030"
+      },
+      {
+        "date": "2025-07-24",
+        "dir": "来",
+        "who": "Taylan Esen（技术）",
+        "quote": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management platform",
+        "why": "Saga 设备进入客户自研管理系统（J4 中度证据）",
+        "k": "eb90a8d5a460add9"
+      },
+      {
+        "date": "2025-10-31",
+        "dir": "来",
+        "who": "Taylan Esen",
+        "quote": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
+        "why": "部署规模 + 售后进入循环",
+        "k": "14e8b46bf6477893"
+      },
+      {
+        "date": "2025-11-07",
+        "dir": "来",
+        "who": "Taylan Esen",
+        "quote": "big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue",
+        "why": "售后闭环，信任加深",
+        "k": "d948115bd556b921"
+      },
+      {
+        "date": "2026-03-05",
+        "dir": "来",
+        "who": "Levent Kılıç",
+        "quote": "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat",
+        "why": "保密级信息共享 = 关系深度；但属价格战（C6）",
+        "k": "c6da478f3e47457d"
+      },
+      {
+        "date": "2026-07-07",
+        "dir": "来",
+        "who": "Taylan Esen",
+        "quote": "the same customer would like to have an updated version… This comes from their security assurance team",
+        "why": "当前唯一技术待办（AC5 换代）",
+        "k": "397660b870629deb"
+      },
+      {
+        "date": "2026-07-08",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat",
+        "why": "Saga 侧状态",
+        "k": "1ecdcf634c06d0fa"
+      }
+    ],
+    "proof_gaps": [
+      "微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里",
+      "Turk Telekom 项目的现状（2025-09 之后邮件无更新）"
+    ],
+    "draft_en": {
+      "subject": "STI-21616DGGPM AC5 build — validation status (for the record)",
+      "body": "Hi, Levent, hi Taylan,\n\nFor the record on email, following our WeChat exchange: the 16-port industrial PoE for the same customer is now the Marvell AC5 build (the AC3 version is end of life), and the security assurance team needs to validate it before we quote the replacement batch.\n\nOne question: has Taylan been able to validate the AC5 unit, and if not, what does the assurance team need from us (test report, firmware notes, a unit)?\n\nThank you.\nSimon"
+    },
+    "as_of": "2026-10-24"
+  }
 }

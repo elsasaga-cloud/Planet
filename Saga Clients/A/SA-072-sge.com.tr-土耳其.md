@@ -268,25 +268,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (Marvell-based, neutral label)
+**主题**：Re: price list — industrial PoE for resale
 
 ```text
-Hi Murat,
+Hi, Murat,
 
-Picking up our earlier exchange about PoE / industrial switches. Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent.
+You asked for our price list in December and got a link; here is the part that matters for an industrial-PoE reseller, in the body:
 
-We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your CIEN CIEN3206GP-2GF-4GTPOE-DC48 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- STI-244GP: 4x GbE PoE + 2x SFP, unmanaged, DIN — $49.5 USD EXW
+- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN — $137.5 USD EXW
+- STI-21616DGGPM: 16x GbE PoE + 2x SFP, L2+ managed — $242 USD EXW
+(2026-10 price table, valid 15 days from this mail)
+All -40 to +75 C, CE/RoHS/FCC; 4-7 working days ex-works, i.e. 10-15 days to Istanbul by air.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: for the industrial PoE units you resell today, is that lead time (vs ~5 weeks from your current source) worth a paid sample on one SKU?
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

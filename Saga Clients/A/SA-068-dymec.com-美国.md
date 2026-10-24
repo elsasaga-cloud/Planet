@@ -276,25 +276,26 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Re: operating temperature — the industrial unit, not the commercial one
 
 ```text
-Hi Thom,
+Hi,
 
-Picking up our earlier exchange about PoE / industrial switches. For the Economy line, a Marvell-based 8-port gigabit PoE managed DIN unit under a KY- part number is where we can add value without touching your TAA models, so that is the SKU I am quoting first.
+In June we answered "0 to 40 C" to your temperature question, which was the commercial unit — the wrong product for DYMEC. The industrial line is -40 to +75 C:
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your DYMEC Economy 8 口 PoE（Broadcom） at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- STI-480XGGM: 8x GbE + 4x 1G/2.5G/10G SFP+, L2+, DIN-rail, dual DC 12-58 V — $163.2 USD EXW
+- 24x GbE PoE + 4x 10G SFP+, L3, industrial — $517 USD EXW
+(2026-10 price table, valid 15 days from this mail)
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+Copying Thom so this reaches the BlueWarrior side as well.
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: for your ITS economy line (where Vitesse sits today), is TAA a must, or only for the federal SKUs? That decides whether we talk at all.
 
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Thank you.
+Alan
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
