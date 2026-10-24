@@ -262,7 +262,7 @@ Hi Akis,
 
 In May you wrote "you got our attention, tell us more" and I replied with a folder of links. That was not an answer, so here it is in one paragraph.
 
-The half-width switch is STH-2C24XF-HSI: 24 x 10G SFP+ plus 2 x 100G uplinks, 1U half-width, hot-swappable fans, full L3 (VXLAN/EVPN, stacking; MPLS via licence), CENTEC silicon, white-label possible. Price $1,500 USD EXW per unit, optics quoted separately by type and quantity, 15-day validity, 3-year warranty.
+The half-width switch is STH-2C24XF-HSI: 24 x 10G SFP+ plus 2 x 100G uplinks, 1U half-width, hot-swappable fans, full L3 (VXLAN/EVPN, stacking; MPLS via licence), CENTEC silicon, white-label possible. Price $1,500 USD EXW per unit, optics quoted separately by type and quantity, 15-day validity, 1-year warranty with lifetime technical support and 2 free spare units per 100 pcs.
 
 If your day-to-day is camera sites, the fit there is our 24-port PoE+ L2+ switch with 10G uplinks at $180 USD EXW.
 

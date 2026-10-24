@@ -277,7 +277,7 @@ updated: 2026-10-24
 | [old_site](https://www.vilinknet.com/) | html | HTTP 403 | 2026-10-23T02:54:23Z | 老站 |
 | [auto_sitemap](https://vilink.us/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 
-- **人工定期看（登录墙，不自动抓）**：ZoomInfo：11-50 人，450 Goddard, Irvine CA 92618；sales@vilinknet.com / 714-312-0654（MC12 规格书页脚）
+- **人工定期看（登录墙，不自动抓）**：ZoomInfo：11-50 人，450 Goddard, Irvine CA 92618；sales@vilinknet.com / 714-312-0654（MC12 规格书页脚）；2026-08-18 Thu「I am changing our company logo」（S 邮箱 k=5b7a42c6815a9dcd，附新 logo）——网店换标即为信号；下次 OEM 丝印用新 logo，字体规范见 2026-09-14 来信（Vi-Link = Arial-B / 其余「Segoe UL Light」（原文，疑为 Segoe UI））；收货地（2024-04 首单）：Thu Pham, 5160 Avenida De Despacio, Yorba Linda, CA 92887, 714-471-9712（与 ZoomInfo 的 Irvine 地址不同——发货前再确认）
 
 ## 联系方式（已有 · 原值照录）
 

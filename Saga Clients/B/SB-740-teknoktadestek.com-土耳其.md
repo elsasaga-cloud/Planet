@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+- **第一问（只问一个）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：小型；ISAF 未表达需求；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+  - 第一问（只问一个）：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@ updated: 2026-10-24
   - 网店 + 安装双渠道 → 8 口 PoE 与 2 光 8 电可同时上架与自用；İnegöl 家具工厂监控 → 工业 PoE 机会
 - **风险/边界**：小型；ISAF 未表达需求；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）
-- **邮件切入句（英文）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+- **邮件切入句（英文）**：Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -223,7 +223,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
+Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

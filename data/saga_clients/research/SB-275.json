@@ -56,7 +56,7 @@
     "tier": 25,
     "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）"
   },
-  "email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?",
+  "email_hook": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「说了Switch, 交换了名片 / dn.elektrikmuhendislik@gmail.com, dn.yanginguvenliksistemleri@gmail.com 」；S/A 邮箱 0 封",
@@ -83,7 +83,7 @@
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
       "action": "首封 + 一句话",
-      "one_question": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+      "one_question": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
     },
     "facts": [
       {
@@ -100,7 +100,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+      "body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
     },
     "as_of": "2026-10-24"
   }

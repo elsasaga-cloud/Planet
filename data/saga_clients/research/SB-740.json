@@ -73,7 +73,7 @@
     "tier": 25,
     "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）"
   },
-  "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
+  "email_hook": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?",
   "mail_review": {
     "binding": {
       "level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「拿了彩页，没说什么 / 90 53231 57258 已加」；S/A 邮箱 0 封",
@@ -100,7 +100,7 @@
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
       "action": "首封 + 一句话",
-      "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+      "one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
     },
     "facts": [
       {
@@ -117,7 +117,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch liste fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+      "body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
     },
     "as_of": "2026-10-24"
   }

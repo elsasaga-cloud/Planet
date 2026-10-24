@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+- **第一问（只问一个）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：北塞小市场、零售规模；价格敏感；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+  - 第一问（只问一个）：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@ updated: 2026-10-24
   - 对 $90 的 Vitesse 2 光 8 PoE 管理机嫌贵 → 用 Saga Realtek 线 STC-28GPM（2 SFP + 8 PoE L2 管理，列表 $62.2）重报；收发器多模可一并报
 - **风险/边界**：北塞小市场、零售规模；价格敏感；无后续跟进
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
-- **邮件切入句（英文）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+- **邮件切入句（英文）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -227,7 +227,7 @@ updated: 2026-10-24
 ```text
 Hi Muhammad,
 
-Picking up our earlier exchange about PoE / industrial switches. Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü liste fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+Picking up our earlier exchange about PoE / industrial switches. Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

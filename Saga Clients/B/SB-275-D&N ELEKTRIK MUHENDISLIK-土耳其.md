@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
+- **第一问（只问一个）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：无域名、无法核实规模；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
+  - 第一问（只问一个）：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 电气/消防承包商的 CCTV 配套 → 8 口 PoE 入门
 - **风险/边界**：无域名、无法核实规模；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）
-- **邮件切入句（英文）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
+- **邮件切入句（英文）**：Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,7 +190,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) liste fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
+Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

@@ -290,7 +290,7 @@ Merhaba,
 
 Daha önce konuştuğumuz 100 adetlik endüstriyel fiber switch (2× SFP + 8× GE) talebi hâlâ açık mı?
 
-IM-FS280GW yerine önerimiz STI-288DGGPM: Marvell AC5, L2+ yönetilebilir, -40~75°C, 240 W PoE bütçesi (PoE'siz sürüm de var). Liste fiyatı USD 137.5 EXW (2026-10-17 anlık fiyat, 15 gün geçerli); 100 adette ayrıca konuşuruz.
+IM-FS280GW yerine önerimiz STI-288DGGPM: Marvell AC5, L2+ yönetilebilir, -40~75°C, 240 W PoE bütçesi (PoE'siz sürüm de var). Fiyatı USD 137.5 EXW (2026-10-17 anlık fiyat, 15 gün geçerli); 100 adette ayrıca konuşuruz.
 
 Tek sorum: diğer tedarikçi hangi spesifikasyon/fiyatla kazandı? Bilirsek boşuna yazmayız.
 

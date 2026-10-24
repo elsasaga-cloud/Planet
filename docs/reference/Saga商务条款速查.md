@@ -125,4 +125,4 @@
 | 固件版本口径 | AC3 终版 **lite-hotfix-7.3.13**（只维护不更新）；AC5 线 2026-08 给客户的是 ac5-hotfix-7.4.2，7.5 为 AC5 Lite（98DX2515/2518）发布版——写信前看该户机型是哪一代 | SA-169 2026-08-07 `gmail_s 3e84bddd5a4fd519` |
 | 2024-11 的「六个不做」 | NAT / 堆叠 / SD-WAN / TSN / MPLS / 云管理（AC3 时代原话；MPLS 现在 CENTEC 线有，其余仍不做）；当时还主动说「同芯片 98DX226S 的第三方能做，可代采」 | SA-168 2024-11-07 `gmail_s f4e695a067e95cd9` |
 | 客户资料夹 | 成单客户一户一个 Google Drive 订单文件夹（Angora / Vi-Link / James / Netaş 都有），把对方指定人加为编辑，请其上传测试报告 | SA-011 2024-04-29 · SB-473 2026-01-24 |
-
+| 借样（唯一例外） | 样品一律付费（§2），但 2026-04-24 Alan 对日本 UNEAX 说「I talked with Simon, he thinks testing is important… **lending a piece is OK**」，条件是对方给中国货代地址并寄回；对方未接。此后对 UNEAX 不要改口成「付费样品」；对其他户仍按付费 | SB-093 2026-04-24 `gmail_a 91a2b01ba897536b` |

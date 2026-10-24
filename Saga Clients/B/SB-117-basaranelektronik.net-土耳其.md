@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+- **第一问（只问一个）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：微型、单量小；需求未表达；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-228GP**（25% 档，按主表（研究档 saga_fit））——安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+  - 第一问（只问一个）：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@ updated: 2026-10-24
   - 海湾度假区住宅/商铺 CCTV → 8 口 PoE 非管理小机为主；价格敏感
 - **风险/边界**：微型、单量小；需求未表达；无后续跟进
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）
-- **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+- **邮件切入句（英文）**：Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -229,7 +229,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) liste fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
+Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim.
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

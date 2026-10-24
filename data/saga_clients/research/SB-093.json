@@ -44,7 +44,22 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Ryosuke Osako（大迫）",
+      "role": "首位联系人（2026-04-22 来问看门狗 PoE、要样；签名 UNEAX株式会社 大迫）",
+      "email": "ryosuke.osako@unea-x.com",
+      "phone": "",
+      "source": "A 邮箱签名 k=01650dadfc0d13bc / 044e800de1232d47"
+    },
+    {
+      "name": "Mari Inoue（井上）",
+      "role": "技术/合规对接（2026-05-01 起 17 问、PSE 电源、Alibaba 采购问题；大迫 04-28「discuss this with Inoue at CC」）",
+      "email": "inoue.mari@unea-x.com",
+      "phone": "",
+      "source": "A 邮箱签名（2026-05-01 → 05-08 来信 6 封）"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -79,7 +94,7 @@
   "email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未绑定（询问阶段；未付样）",
+      "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）",
       "type": "日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性）",
       "sieve": "2（细读规格、提问清单；未进 Template）",
       "stop": "日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」",
@@ -105,8 +120,8 @@
     "next_move": {
       "when": "2026-11 中（若无回音，季度一问）",
       "channel": "A 邮箱",
-      "action": "一句话问看门狗项目是否选定，并重申「样品付费 + 认证自担 + PSE 电源可配」三条",
-      "one_question": "Has your watchdog PoE project selected a supplier yet, or is a paid sample (English neutral label, MEAN WELL PSE adapter) still useful for your evaluation?"
+      "action": "一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」",
+      "one_question": "Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?"
     },
     "facts": [
       {
@@ -265,7 +280,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: PoE watchdog project — one question",
-      "body": "Hi Inoue-san,\n\nIn May we answered your 17 questions (certification at your cost, Japanese label text from your side, MEAN WELL GST-series PSE adapters, 3-year warranty, DIP 4 for the watchdog, 10 Mb/s at 250 m). Since then we have not heard whether the watchdog PoE project selected a supplier.\n\nOne question: is a paid sample (neutral English label, MEAN WELL PSE adapter) still useful for your evaluation, or has the project gone to the partner who proposed it originally? Either answer is fine — I would rather know than keep sending product mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Inoue-san,\n\nIn May we answered your 17 questions (certification at your cost, Japanese label text from your side, MEAN WELL GST-series PSE adapters, 3-year warranty, DIP 4 for the watchdog, 10 Mb/s at 250 m). Since then we have not heard whether the watchdog PoE project selected a supplier.\n\nOne question: is the test unit we offered to lend in April (STI-054GP, neutral English label, MEAN WELL GST PSE adapter — returned after your test) still useful for your evaluation, or has the project gone to the partner who proposed it originally? Either answer is fine — I would rather know than keep sending product mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }
