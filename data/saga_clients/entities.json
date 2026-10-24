@@ -72125,14 +72125,14 @@
 "cadence": "最后 2026-07-08 Simon 回 AC5 过渡（Levent 微信收 BIN）；实质往来 2024-05 → 2026-07 持续，来 144 封；监控 2026-10 官网/feed 无新动态",
 "evidence": "S 邮箱 312 封 / 32 线程（2024-04-28 → 2026-07-08）+ Drive 10 单 PI $61,669 + Proposal（2024-09-25）+ Key Points 2024.10.31 + Turkey Client List（2024-11-05，64 家）+ TronX PI STSC20241129007（未付）+ PC0012 Gerber/BOM + L3 Recommendation Report（2026-07-31）+ Reply（2026-08-17）+ 加深关系绑定.docx + 运费一览表"
 },
-"situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术、硬件总工 Mehmet；第二品牌 TronX = TRONX BILISIM, Mustafa Calik）是 PI 包第一大客（10 单 $61,669）。S 邮箱 312 封（2024-04-28 → 2026-07-08，32 个线程）+ 微信主线。轨迹：2024-04 Saga 群发→Levent 追问 Marvell 全线可贴牌→05 月样品 STC-424XGGPM/28DGGPM→06–09 月 Turk Telekom 工业机 250→385 台项目（HTTPS/SFTP/ACL/sFlow 需求触发 AC3→AC5）→09-20 客户端出问题搁置→09-25 Saga 主动提《Proposal》请 Angora 做欧盟分销/代理（11-05 附 64 家土耳其客户名单）→10-31 微信会议定付款底线（小单全款、大单 30/70、寄售不接受）→2024-10/11 7 台 ANW 商用机→2025-03 176 台 ANW-2116-PG（TT 项目，已部署 60+ 站点）→2025-03 ODM 数据中心机 48×25G+8×100G 报 CENTEC $4,600 被嫌贵（客户预算 <$4,000）→2025-04 TronX 框架协议（24/48 口走 Saga，核心机不走）→2025-05 「5,000 台 STI-288DGGPM」大项目（后缩 2,000/60 天，至今无 PI）+ IoT 板 PC0012 代工询问（Gerber/BOM 已给）→2025-06 6 台 AC5 演示机→2025-07 SNMPv3 对接 TT 管理系统、nemengine SFP 测试、NATO MC 询价（partner 否决）→2025-10/11 Gaziantep 60+ 站点掉包排障（「not a hardware issue」）→2026-03 Turkish Police 三份 RfP（保密）→2026-07 TT 安全团队要 16 口工业机更新版（AC3 停产）→**2026-07-31 Levent 6 页《SAGA Enterprise L3 Recommendation Report》正式要求企业级 L3（堆叠/USB/OOB/双电源 + OSPF/BGP/VRF）+ 长期战略伙伴条款 → 2026-08-17 Simon 书面婉拒 Marvell L3 投入、给 CENTEC L3 选项**。没有 A 邮箱往来。",
+"situation": "安卡拉 Angora Networks（Levent Kılıç CEO、Taylan Esen 技术、硬件总工 Mehmet；第二品牌 TronX = TRONX BILISIM, Mustafa Calik）是 PI 包第一大客（10 单 $61,669）。S 邮箱 312 封（2024-04-28 → 2026-07-08，32 个线程）+ 微信主线。轨迹：2024-04 Saga 群发→Levent 追问 Marvell 全线可贴牌→05 月样品 STC-424XGGPM/28DGGPM→06–09 月 Turk Telekom 工业机 250→385 台项目（HTTPS/SFTP/ACL/sFlow 需求触发 AC3→AC5）→09-20 客户端出问题搁置→09-25 Saga 主动提《Proposal》请 Angora 做欧盟分销/代理（11-05 附 64 家土耳其客户名单）→10-31 微信会议定付款底线（小单全款、大单 30/70、寄售不接受）→2024-10/11 7 台 ANW 商用机→2025-03 176 台 ANW-2116-PG（TT 项目，已部署 60+ 站点）→2025-03 ODM 数据中心机 48×25G+8×100G 报 CENTEC $4,600 被嫌贵（客户预算 <$4,000）→2025-04 TronX 框架协议（24/48 口走 Saga，核心机不走）→2025-05 「5,000 台 STI-288DGGPM」大项目（后缩 2,000/60 天，至今无 PI）+ IoT 板 PC0012 代工询问（Gerber/BOM 已给）→2025-06 6 台 AC5 演示机→2025-07 SNMPv3 对接 TT 管理系统、nemengine SFP 测试、NATO MC 询价（partner 否决）→2025-10/11 Gaziantep 60+ 站点掉包排障（「not a hardware issue」）→2026-03 Turkish Police 三份 RfP（保密）→2026-07 TT 安全团队要 16 口工业机更新版（AC3 停产）→**2026-07-31 Levent 6 页《SAGA Enterprise L3 Recommendation Report》正式要求企业级 L3（堆叠/USB/OOB/双电源 + OSPF/BGP/VRF）+ 长期战略伙伴条款 → 2026-08-17 Simon 书面婉拒 Marvell L3 投入、给 CENTEC L3 选项**。没有 A 邮箱往来。｜2026-10-02 微信：Levent 预告 88 台 L2+ 工业 8 口 + 48V 电源订单，Simon 次日报 875 RMB + 250 RMB（明纬 240W），Levent「Great」；截至 10-24 PI 文件夹里还没有第 7 单。",
 "need": "Angora 需要的是「能投标的土耳其本地品牌全线」：L2+ 接入（已有）+ 企业级 L3 汇聚（堆叠/OOB/双电源/BGP/VRF，Saga Marvell 线不做）+ 数据中心核心（CENTEC，价格差 $600+）+ 工业机大批量（TT 5K 项目悬着）+ IoT 板代工。痛点：Turk Telekom/警察局等公共采购的技术打分表、客户预算（<$4,000 核心机）、清关时间长、AC3 停产后 TT 客户要求「更新版本」。",
 "breakpoint": "① 2026-08-17 之后邮件沉默：Simon 的三条反方案（测 AC5 / 看 L3 feature list / 评估 CENTEC）Angora 有没有回应，仓库和邮箱都没有记录——很可能在微信。② 5K/2K 台 STI-288DGGPM 大项目 + IoT 板代工自 2025-06 后无 PI。③ 数据中心机 CENTEC $4,600 vs 预算 $4,000 没谈拢，TronX 核心机已另选。④ Saga 2024-11 交给 Angora 的 64 家土耳其名单里 43 家 A/B 账号 Saga 自己也在直发——Angora 若自视为 Saga 土耳其代理，这是潜在摩擦（Q-51）。",
 "saga_now": {
 "p1": "STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项",
 "tier": 20,
-"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）",
-"why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口",
+"price": "历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37",
+"why": "Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价",
 "repeat": "10 单（2024-05 → 2025-07），复购间隔 1–3 个月，2025-07 后 15 个月无新 PI（排障/RfP/路线图讨论持续）",
 "gaps": [
 "2026-08-17 回复之后 Angora 的回应（微信）",
@@ -72143,9 +72143,9 @@
 },
 "next_move": {
 "when": "现在（微信）",
-"channel": "WeChat Levent + 邮件 Taylan",
-"action": "不再讨论 Marvell 堆叠。用一句话把 08-17 的第 3 条落地：提出寄一台 CENTEC L3（STH-2C6QX-HSI $1,200 级或 STH-8C48DX-HSI）给 Angora 测试仓做 TT 2026 技术打分，并问 Turkish Police RfP 结果和 2K 台工业机项目是否还活着。",
-"one_question": "Levent, following my Aug-17 reply: shall we put one CENTEC L3 unit (stacking/OOB/dual-PSU/BGP/VRF ready) in your Ankara test depot before the Turk Telekom 2026 cycle — and is the 2,000-pc STI-288DGGPM project still alive?"
+"channel": "WeChat Levent",
+"action": "只问一件事：88 台 STI-288DGGPM + 240W 电源的 PO/预付款什么时候到（10-03 报价已 3 周）——到账即锁产能、用 10-23 定稿的 ANW 标签规则直接生产，不再重问细节。CENTEC L3 测试机与 TT/警察局标的事，放在这单 PI 发出之后再提一句。",
+"one_question": "Levent, quick one on the 88 × STI-288DGGPM + 240W Meanwell PSU (quoted Oct 3, 875 + 250 RMB): when do you expect the PO and deposit? I will block the production slot the day it lands — same ANW label format and packing box as the last order, no questions needed."
 },
 "facts": [
 {
@@ -72165,12 +72165,36 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-05-09",
+"dir": "内",
+"who": "Simon→SmartByte 内部备忘《RFP_2024.5.9》",
+"quote": "TT 追问 12 项：Dual power / Hot swappable / PIM / VRF Lite / 4096 VLAN / -40~+70 on non-industrial / BFD / NAT / Netflow / Y.1731 / TWAMP / Route Tracking → 答复：双电源、热插拔、4096 VLAN、Route Tracking 支持；sFlow 管理型支持；PIM、VRF、BFD、NAT、Y.1731、TWAMP 不支持；商用壳装工业板不做",
+"why": "TT 项目最早的功能边界清单——后来对 Netaş、Angora 的「不做」口径都从这里来",
+"k": "pi_doc"
+},
+{
+"date": "2024-05-27",
+"dir": "内",
+"who": "备忘《RFP_2024.5.27》+ 需求表 xlsx",
+"quote": "客户大概处理了接近 1 年…3 年期项目共约 2,000 台，2024 年预计采购 500 台…对标 LT-S8528XG-4XS24GT，功能至少同等或更好…这种比较复杂的询价一般怎么处理？有没有流程能简化一下",
+"why": "TT 项目的量级与节奏首次落字（2,000 台/3 年）；Simon 当时就在向上游要「复杂 RFQ 的简化流程」",
+"k": "pi_doc"
+},
+{
 "date": "2024-06-14",
 "dir": "来",
 "who": "Levent Kılıç",
 "quote": "we have a project where 250 pieces are needed in phase I and potentially another 250 pieces in 6 months… SDI-280DDGM without Serial Port (NO PoE version)… software feature requirements in the RFP (TT-RFP-EN.docx)",
 "why": "Turk Telekom 工业机项目的开端；Simon 06-15 逐条对表：无测试报告（只有证书）、不产 SFP、不支持 SFTP、土耳其语 GUI 等不合规点",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-06-15",
+"dir": "内",
+"who": "备忘《RFP_2024.6.15》",
+"quote": "LT-IS6310G-2GX8GT（= STI-280DGGM）不要 PoE 不要串口…共 500 台分 2 批，第一批 250 台下单后一周发货…主要需求 sFlow / IP-Port-MAC ACL / SNMP MIB / SFTP（客户已自行 workaround）…不支持土耳其语界面；EN 55032 证书未列 IS6310 系列",
+"why": "250 台「一周发货」是 Saga 拿不下的交期；MIB 文件与 ACL 成为后续一年反复出现的两项",
+"k": "pi_doc"
 },
 {
 "date": "2024-07-02",
@@ -72187,6 +72211,22 @@
 "quote": "We agreed with the customer on this deal. Important points are Acl, Sflow, https and sftp. The order would be more than 300… 8x1G Copper Non PoE and 2x2.5SFP",
 "why": "Saga 07-11/07-12 书面回复（Sftp reply_2024.7.11 / R&D period&cost_2024.7.12）：换另一颗 Marvell 芯片支持 HTTPS、SFTP 需排期、要定金——这就是 AC3→AC5 路线的最早触发",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-07-11",
+"dir": "去",
+"who": "Simon→Taylan《Sftp_reply》",
+"quote": "ACL and sFlow are OK. HTTPS will be realized by another Marvell chip (AC5)… We need to understand EXACTLY your application scenarios (config import/export, syslog export, version upgrade) to know the workload of R&D… if this order is CONFIRMED and a deposit is done, it will be easier to prioritize SFTP",
+"why": "Saga 对定制研发的标准姿势：先要场景、再要订金、再排优先级",
+"k": "pi_doc"
+},
+{
+"date": "2024-07-12",
+"dir": "去",
+"who": "Simon→Taylan《R&D period & cost》",
+"quote": "OK to develop only software upgrade via SFTP… Leadtime 8~10 weeks incl. production and R&D. Unit price 110usd/pc, bulk 105usd/pc. No R&D cost, but 8K USD deposit (25% × 300 pcs) deducted in the bulk order invoice… Solution 1 production first/upgrade later (not suggested) vs Solution 2 ready solution… roughly 35K USD",
+"why": "这是 Saga 唯一一次把「研发订金 = 订单额 25%，抵扣货款」写成报价条款——可复用的定制模板",
+"k": "pi_doc"
 },
 {
 "date": "2024-08-26",
@@ -72211,6 +72251,14 @@
 "quote": "We are inviting you to be our distributor/agent in EU… Bluntly, we would like to use your strength to help increase sales in EU countries… ONE TEAM: We help you with Chinese market issues… You help us with increase sales volume in EU countries",
 "why": "Saga 主动提出「Angora 做 Saga 的欧盟分销/代理」（备货热门型号、覆盖欧盟±UK、开网店、测试仓）；Levent 09-26「very flattering proposal… 10 years of presence in the Turkish market as a local brand… we can easily OEM Saga products for European market」。注意：这与 U16「不能把 Saga 说成欧洲总代」不冲突——这里是 Angora 当 Saga 的代理",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2024-10-23",
+"dir": "来",
+"who": "Levent（批注在 Simon 的规则稿上）",
+"quote": "Serial number start with ANW… Helvetica or Arial… manual: only change the brand to ANGORA NETWORKS… certificate of warranty is OK… MAC 98:06:37:A0:57:00 ~ A0:58:80 (this order), a large block for future… remove \"made in China\"… Power cable EU… Local import is on us… photos only for first-time models is OK",
+"why": "Angora 的贴牌规则在 2024-10 就已全部定稿（标签/字体/序列号/手册/保修证/MAC/照片/清关），后续订单不必再问",
+"k": "pi_doc"
 },
 {
 "date": "2024-10-31",
@@ -72277,6 +72325,14 @@
 "k": "gmail_s 2024-12-10 Industrial Switch RFP template"
 },
 {
+"date": "2024-12-11",
+"dir": "内",
+"who": "备忘《RFP_2024.12.11》（2024-12-10 客户反馈汇总）",
+"quote": "385 台 LT-IS6310G：still pending, paperwork internally… TronX 4 台+2 AP：sample order pending payment from partner… 48 口 L2+/L3 与 Maipu 竞标：我价格报得稍高、客户目标价非常低、不抱希望… 75 台 16 口：pending advance payment（→ 2025-03 成为 176 台）… 客户要 stackable：Joey 的 CENTEC 方案（明年年初）或 DCN 同芯片方案，考虑买一台 DCN 寄给你们对比测试、费用我出",
+"why": "2024 年底 Angora 四条线的真实状态；Simon 当时已为「堆叠」主动找 CENTEC/DCN 替代——不是被动等上游",
+"k": "pi_doc"
+},
+{
 "date": "2025-01-30",
 "dir": "来",
 "who": "Levent Kılıç / Taylan Esen",
@@ -72291,6 +72347,14 @@
 "quote": "Attached are the functional specs Turk Telekom is looking for（Turk_Telekom_Test_Items.xlsx）… ACL/HTTPS/SFTP/SFLOW were the missing protocols… add some layer 3 functionality, mainly NAT and port forwarding → 02-10: I am going to push the customer with less L3 functionalities… HTTPS I'll consider it supported with AC5. We'll ship with AC5… SFTP 2025Q4 → 02-11 Simon: NAT, Cloud, TSN, MPLS, Stack and SD-WAN, we are NOT going to develop it in a quite long while",
 "why": "Türk Telekom 测试项清单 = 土耳其运营商对 8 口工业机的真实门槛（ACL/HTTPS/SFTP/sFlow/NAT）；Saga 书面划线「NAT/云管/TSN/MPLS/堆叠/SD-WAN 长期不做」——与 2026-03-11 对 Versitron 说「stacking available」矛盾，对外口径要统一（AC5 无硬件堆叠）",
 "k": "gmail_s 2025-02-05 → 2025-02-11 Industrial Switch RFP template"
+},
+{
+"date": "2025-02-05",
+"dir": "来",
+"who": "Taylan《Turk_Telekom_Test_Items.xlsx》MSY 项目项（第二部分）",
+"quote": "Power 42-60V · -40~+75 · 8×10/100/1000 copper + min 2×1/2.5G SFP · 1-4096 VLAN · Factory Reset PIN · 8K MAC · 512MB RAM/32MB Flash · IP40 · Ring 20ms · Jumbo 9K · DAI/DHCP Snooping · L2/L3/L4 ACL+IPSG · SNMPv3/HTTPS/SSHv2/sFTP/sFlow · Port Forwarding · SFTP firmware upgrade · TACACS/Radius · Management Platform · PoE · L3 Routing · NAT/Port Forwarding；第一部分 29 项通用测试含 Stacking、VRRP、Dynamic Routing",
+"why": "TT 的硬门槛清单——AC5 7.5 已覆盖 SNMPv3/HTTPS/SSHv2/SFTP/sFlow/ACL/IPSG/环网 20ms；仍缺 NAT/Port Forwarding、动态路由、堆叠、VRRP、管理平台",
+"k": "pi_doc"
 },
 {
 "date": "2025-03-03",
@@ -72373,6 +72437,14 @@
 "k": "gmail_s 2025-06-19 Demo Switches for Big Project"
 },
 {
+"date": "2025-06-19",
+"dir": "内",
+"who": "《TRY.xls》= STSC20250619007 的里拉版 PI",
+"quote": "Proforma Invoice… Tax ID 069 052 0220, Office Yenimahalle VD… Seller STI-288DGGPM / Buyer TT-2208-PG… Unit Price (TRY)… Payment Term: T/T in advance, DAP",
+"why": "Saga 为 Angora 本地报关/付款准备过里拉计价 PI 模板——「接受土耳其客户里拉付款」有实物",
+"k": "pi_doc"
+},
+{
 "date": "2025-06-25",
 "dir": "去",
 "who": "Simon → Levent（New Proposal / Agenda 2025）",
@@ -72395,6 +72467,14 @@
 "quote": "Saga is our manufacturer for the industrial switches for our project… we will include 1 1G-LX module in each switch during shipment",
 "why": "Angora 自选 SFP 供应商 nemengine（Karen Lee）寄样到惠州工厂测试；Simon 09-04 出 -40/+75℃ 测试报告、建议工业级模块；Levent 07-15「In the project we will go with regular SFP modules」",
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2025-07-23",
+"dir": "来",
+"who": "Levent 起草《Connexite-Amazon-Biz-Plan-DRAFT.pdf》（作者字段 Levent KILIÇ）",
+"quote": "Connexite (connexite.co.uk) is a UK-based tech startup… CNX-2208-PG / CNX-2224-PG / CNX-2248-PG L2+ PoE+ managed switches + CNX-1G-LX / CNX-10G-SR… Amazon UK FBA… RRP £99.99 / £199.99 / £349.99… COGS ~£50 / £100 / £150… target 25–30% margin… Pan-European FBA for EU",
+"why": "Levent 的第三个品牌 = 英国亚马逊渠道，产品就是 ANW-2208/2224/2248 换壳；但他假设的进货价（£50/£100/£150）只有 Saga 现价（$125/$180/$335）的一半——这个计划若重启，价格谈判从这里开始；也是 Saga 进入英国零售的一条现成通道",
+"k": "pi_doc"
 },
 {
 "date": "2025-07-24",
@@ -72437,6 +72517,14 @@
 "k": "d948115bd556b921"
 },
 {
+"date": "2025-12-17",
+"dir": "去",
+"who": "Simon→Angora《INFO》资料包（微信/Drive，邮箱无件）",
+"quote": "对 Angora 的《ANW-DC-RFP-EN》：Type-1 48×1/10/25G + 6×40/100G，≥3.6 Tbps，MLAG + 100G peer-link，≥294K MAC，双电源；Type-2 48×1G + 4×10G，堆叠 ≥40G/8 台单 IP，MACsec，OSPF/PBR/VRRP/802.1X → Saga 发出 STH-8C48DX 实拍、PeakNetX/VastLakes 性能、STH1G/25G 规格、CLI/Web/User 手册、Saga Software Function List",
+"why": "Angora 2025-12 的数据中心标 = CENTEC 线的具体用武之地（Type-1 对 STH-8C48DX，Type-2 需要堆叠+MACsec → CENTEC 也要核）；之后 2026-03 警察局标、07-31 报告都在这条线上",
+"k": "pi_doc"
+},
+{
 "date": "2026-03-05",
 "dir": "来",
 "who": "Levent Kılıç",
@@ -72475,15 +72563,24 @@
 "quote": "our Marvell solutions have fully shifted from AC3 series to AC5 series… lite-hotfix-7.3.13 is the last version… Our positioning is clearly on Marvell L2+ solutions… we basically adopt a \"let it be\" attitude for most L3 models due to ROI… soaring prices of RAM/DDR and PCB boards… Counter-Solution: 1 quick test and promotion about our AC5 ready models 2 Review our updated L3 feature list 3 Evaluate if CENTEC solution is acceptable: all features above are readily available… Saga has already fixed its chipset solutions on Marvell L2+ and CENTEC L3, this is a strategic move",
 "why": "Saga 书面婉拒 Marvell 企业级 L3 投入，给出 CENTEC L3 作为唯一桥；Angora 要的堆叠/OOB/双电源在 CENTEC 系列现成。此后邮件无回复（S 邮箱最后一封 2026-07-08）→ 需要在微信确认 Angora 是否测 AC5 / 评估 CENTEC",
 "k": "Drive PI 文件夹 7_土耳其_Levent"
+},
+{
+"date": "2026-10-03",
+"dir": "来",
+"who": "Levent（微信，10-02 19:56）→ Simon（10-03 00:19）",
+"quote": "Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same box → Simon: STI-288DGGPM 875RMB/PC; Power supply 240W Meanwell original brand 250RMB/PC; for the switch itself we keep the price low, basically the same as last order; we will handle the material costs here; will use same packing box → Levent: Thanks Simon. Great.",
+"why": "最新一单正在路上：88 台 STI-288DGGPM + 240W 明纬电源，人民币计价（875+250），同包装；10-03 至今无 PI 文件夹 → 现在要做的是催 PO/预付款，而不是谈 CENTEC",
+"k": "wechat_ocr"
 }
 ],
 "proof_gaps": [
-"微信侧（Levent）2026-07 之后的 AC5 验证进展——不在邮件里",
+"微信侧 2026-09-23 的 25 张聊天截图（Drive→PI 包）缩略图仅 58×360 px、OCR 为空——内容不可读；只有 2026-10-06 那张（10-02/03 的 88 台报价）可读。2026-10-21 截图同样不可读 → 88 台单的 PO 是否已到，仓内无证",
 "Turk Telekom 项目的现状（2025-09 之后邮件无更新）",
 "2026-07-31 报告与 2026-08-17 回复都只在 Drive（PI 文件夹），邮箱无原件 → 传递渠道（微信/会议）待 Simon 确认",
 "Turkey Client List（2024-11-05）给出后 Angora 是否实际跟进过名单中的公司——无任何记录；Q-51 定直发/让渡规则",
 "TRONX BILISIM（tronx.com.tr, Mustafa Calik）未单独建档：Saga 客户库无 TronX 实体，建议作为 SA-168 子实体而非新建 B 户",
-"Türk Telekom 2,000–3,000 台 RFP（2024-12）最终有没有发标/谁中标：S 邮箱 2025-02-11 后无下文（只在 2025-06-26「1,000 to 2,000 units」与 2026-03 警察局项目里再现大数）——下次微信问 Levent 一句「TT 那个标后来怎样」"
+"Türk Telekom 2,000–3,000 台 RFP（2024-12）最终有没有发标/谁中标：S 邮箱 2025-02-11 后无下文（只在 2025-06-26「1,000 to 2,000 units」与 2026-03 警察局项目里再现大数）——下次微信问 Levent 一句「TT 那个标后来怎样」",
+"Connexite（connexite.co.uk，2025-07-23 草案）后来有没有上线——网站/亚马逊未爬；若 Simon 想做英国零售，这是现成的问法"
 ],
 "draft_en": {
 "subject": "Re: SAGA Enterprise L3 Recommendation Report — next step (CENTEC test unit for Ankara depot)",
