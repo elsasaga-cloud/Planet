@@ -73826,6 +73826,14 @@
 "k": "gmail_s（angoranetworks.com/tronx.com.tr 312 封，jsonl client 字段为空，按域名重扫）"
 },
 {
+"date": "2024-05-08",
+"dir": "来",
+"who": "Taylan Esen（Angora）",
+"quote": "technical items we recently saw in the RFPs… 1. Dual power supply 2. Hot swappable power units 3. Multicast PIM 4. VRF Lite 5. 4096 VLAN 6. Extended temperatures (-40 +70) on non-industrial models 7. BFD 8. NAT 9. Netflow 10. Y1731 11. TWAMP 12. Route Tracking",
+"why": "土耳其运营商 RFP 的 12 条硬指标清单——AC5 L2+ 只覆盖 PIM-SM/4096 VLAN/宽温；VRF/BFD/NAT/Netflow/Y.1731/TWAMP 都不在 7.5 里，是 Angora 后来「push the customer with less L3」的根源",
+"k": "gmail_s 3be8ad7d190bce7c"
+},
+{
 "date": "2024-05-09",
 "dir": "内",
 "who": "Simon→SmartByte 内部备忘《RFP_2024.5.9》",
@@ -73848,6 +73856,14 @@
 "quote": "客户大概处理了接近 1 年…3 年期项目共约 2,000 台，2024 年预计采购 500 台…对标 LT-S8528XG-4XS24GT，功能至少同等或更好…这种比较复杂的询价一般怎么处理？有没有流程能简化一下",
 "why": "TT 项目的量级与节奏首次落字（2,000 台/3 年）；Simon 当时就在向上游要「复杂 RFQ 的简化流程」",
 "k": "pi_doc"
+},
+{
+"date": "2024-05-30",
+"dir": "来",
+"who": "Taylan Esen（Angora）",
+"quote": "we need an 8x10G uplink switch with 24port 1G PoE. Do you have a similar model? Downlinks may be different but we definitely need 8x10G SFP ports",
+"why": "Marvell 主表没有 8×10G 上联的 24 口 PoE 机（最多 4×SFP+）——这类口型只能看 CENTEC 线",
+"k": "gmail_s dad90e7fb83924c7"
 },
 {
 "date": "2024-06-14",
@@ -73896,6 +73912,14 @@
 "quote": "OK to develop only software upgrade via SFTP… Leadtime 8~10 weeks incl. production and R&D. Unit price 110usd/pc, bulk 105usd/pc. No R&D cost, but 8K USD deposit (25% × 300 pcs) deducted in the bulk order invoice… Solution 1 production first/upgrade later (not suggested) vs Solution 2 ready solution… roughly 35K USD",
 "why": "这是 Saga 唯一一次把「研发订金 = 订单额 25%，抵扣货款」写成报价条款——可复用的定制模板",
 "k": "pi_doc"
+},
+{
+"date": "2024-07-23",
+"dir": "来",
+"who": "Taylan Esen（Angora）",
+"quote": "Is it possible to read and show the input voltage of switch from power supply?… This is to check if the incoming voltage is ok. They will use these devices in remote locations… Not a deal breaker, but good to have",
+"why": "远端站点要「读输入电压」——Simon 答非 PoE 管理机做不到；AC5 7.4.7 后来做了双电源状态/风扇监控，输入电压仍没有",
+"k": "gmail_s e4833fd0939a866f"
 },
 {
 "date": "2024-08-26",
@@ -74138,6 +74162,14 @@
 "k": "gmail_s 2025-04-14 Software renaming for Turk Telekom tests"
 },
 {
+"date": "2025-04-16",
+"dir": "来",
+"who": "Taylan Esen（Angora）",
+"quote": "the TronX catalog includes three products: 24 Port L2+ POE+ with 10G uplinks / 48 Port L2+ POE+ with 10G uplinks / 48x25G Data Center switches with 100G uplinks. We will handle the data center switches independently… 24 Port = TRX-AS-24TP4X, 48 Port = TRX-AS-48TP4X; SN TRX2404PA25xxxxx / TRX4804PA25xxxxx",
+"why": "TronX 第二品牌的型号与序列号规则（生产时直接照抄）；数据中心机明确不走 Saga",
+"k": "gmail_s b2d80367a13c286e"
+},
+{
 "date": "2025-04-22",
 "dir": "来",
 "who": "Levent Kılıç",
@@ -74160,6 +74192,14 @@
 "quote": "STSC20250507007：STC-424XGGPM × 3 @ 180 + STC-448XGGPM × 2 @ 335（29.3 kg）；STSC20250526007：STC-424XGGPM × 10 @ 205 + STC-448XGGPM × 3 @ 335（54.6 kg）；STSC20250619007：STI-288DGGPM × 6 @ 125（8.5 kg）；品牌均「无」",
 "why": "Angora 三单的报关单价 = PI 单价（424XGGPM 样机 $180 → 10G 光口版 ANW-2224-PX $205；448XGGPM $335；工业 2 光 8 PoE $125）——这就是 2026 年对 Angora 的价格锚；2026-10 Simon 新报 875 RMB/台 的工业机要对着 $125 这条解释",
 "k": "data/pi_2026-10/text/…7_土耳其_Levent…4th/5th/6th order 买单报关 (2ea0d778 / d19e8238 / 197d10c0)"
+},
+{
+"date": "2025-05-20",
+"dir": "来",
+"who": "Levent Kılıç（Angora）",
+"quote": "We can plan for AC5 samples soon. However we have already positioned AC4 for this project because of cost and technical features… there seems to be a change in their budgeting. The initial order looks like 2,000 pcs in 60 days.",
+"why": "「5,000 台」大项目的两个关键事实：定在 AC4（成本）、首批缩成 2,000/60 天——此后再无 PI",
+"k": "gmail_s 30097518fd06f1cc"
 },
 {
 "date": "2025-05-26",
