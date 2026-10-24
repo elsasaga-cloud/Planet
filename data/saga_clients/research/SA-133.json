@@ -31,13 +31,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Александр Гречкин (Alexander Grechkin)",
       "title": "（表内联系人）",
       "email": "ag@bargas.ru",

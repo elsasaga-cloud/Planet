@@ -99,7 +99,6 @@ updated: 2026-10-24
 - **【官网】在售 Extreme Networks / HP ProCurve 千兆交换机**
   > Extreme Networks Gigabit Switch HP ProCurve Gigabit Switch Service Design and Installation
   > 来源：https://www.alphanetcom.com/san-antonio-structured-cabling.html（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +1 210-654-0653〔用户 Clients 表 + 官网〕
 - **KP**：Nathan "Nate" Cline（President）nate.cline@alphanetcom.com +1 210-654-0653〔https://www.alphanetcom.com/（Contact 区块）〕
 - 备注：美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。
 

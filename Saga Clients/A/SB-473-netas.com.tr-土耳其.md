@@ -151,8 +151,10 @@ updated: 2026-10-24
 - **【Simon 文档】绑定等级：轻度绑定——「SmartByte 也背书了」**
   > 土耳其 Netas　轻度绑定 = Smartbyte也背书了
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
-- **KP**：Ender Bulut（（自建站询盘人；职务待核））ebulut@netas.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ender Bulut（（自建站询盘人；职务待核））ebulut@netas.com.tr（本人来信 15 封 2025-10→2026-03）；endearbulut@gmail.com（2026-01-23 他主动给的私人邮箱） —〔A 邮箱来信表头 + 用户表〕
 - **KP**：Burak Ozdemir（单据联系人）buozdemir@netas.com.tr 〔PI.zip 单据〕
+- **KP**：Özlem Şahin (Uçak)（Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核））ozlem.ucak@netas.com.tr 〔A 邮箱 2026-01 来信表头〕
+- **KP**：Netaş Compliance（合规部）（2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购））compliance@netas.com.tr 〔A 邮箱 2026-02-09→08-12 来信表头〕
 - **调研后定级**：A（原自动 A）——规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -236,8 +238,10 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ender Bulut | （自建站询盘人；职务待核） | ebulut@netas.com.tr（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ender Bulut | （自建站询盘人；职务待核） | ebulut@netas.com.tr（本人来信 15 封 2025-10→2026-03）；endearbulut@gmail.com（2026-01-23 他主动给的私人邮箱） / — | 调研核实（公开页） | A 邮箱来信表头 + 用户表 |
 | Burak Ozdemir | 单据联系人 | buozdemir@netas.com.tr | 调研核实（公开页） | PI.zip 单据 |
+| Özlem Şahin (Uçak) | Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核） | ozlem.ucak@netas.com.tr | 调研核实（公开页） | A 邮箱 2026-01 来信表头 |
+| Netaş Compliance（合规部） | 2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购） | compliance@netas.com.tr | 调研核实（公开页） | A 邮箱 2026-02-09→08-12 来信表头 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

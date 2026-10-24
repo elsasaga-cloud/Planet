@@ -94,7 +94,6 @@ updated: 2026-10-24
 - **【用户表】压缩 HDMI 光端机成样品单；WhatsApp 已加**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +48 501 776 652（WA）〔用户 Clients 表〕
 - **KP**：Marcin Wypiór（Owner（官网/媒体公开））biuro@sabmar.tv（公司公开） +48 501 776 652〔http://www.sabmar.tv/〕
 - **调研后定级**：B（原自动 B）——成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。
 - 备注：若其视频项目需 PoE 交换机再报；不主动投入。

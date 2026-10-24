@@ -88,6 +88,7 @@ updated: 2026-10-24
 - **【用户表】S 重点；之前谈了工业 FS；CEO；WA 加不上**
   > 之前谈了工业FS / Sergey Khodun CEO / tel: 38(044)59 37976 加不上 / germany24.com.ua / planet.kiev.ua
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Sergiy Khodun（Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表））sergiy.khodun@gmail.com 〔S 邮箱 2024 来信表头 + 附件 DI order #1.xls〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；乌克兰守界））
@@ -206,8 +207,8 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Sergiy Khodun | Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表） | sergiy.khodun@gmail.com | 调研核实（公开页） | S 邮箱 2024 来信表头 + 附件 DI order #1.xls |
 | Sergey Khodun | CEO | info@germany24.com.ua / sergiy.khodun@gmail.com / +380445937976 | 用户表原值 | Clients/ 表 |
-| Sergiy Khodun | CEO | info@germany24.com.ua / sergiy.khodun@gmail.com / +380445937976 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

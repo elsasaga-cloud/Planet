@@ -89,8 +89,7 @@ updated: 2026-10-24
 - **【用户表】5 电口 需要具体的产品信息；2025-03 28PoE→Interested**
   > 兴趣：5电口 需要具体的产品信息；回复：Interested
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +66 62 217 9229（WA 未加上）〔用户 Clients 表〕
-- **KP**：Peter (Ponganan Ruenboon)（）tjcomputer2003@gmail.com +66 62 217 9229〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Peter (Ponganan Ruenboon)（）tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com 08-0069-1918 / 06-2217-9229（2025-05-14 签名）〔A 邮箱来信表头 + 签名〕
 - **调研后定级**：B（原自动 A）——微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。
 - 备注：邮件一次性给 STI-244GP/5 口型号资料即可。
 
@@ -176,7 +175,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter (Ponganan Ruenboon) | — | tjcomputer2003@gmail.com / +66 62 217 9229 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Peter (Ponganan Ruenboon) | — | tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com / 08-0069-1918 / 06-2217-9229（2025-05-14 签名） | 调研核实（公开页） | A 邮箱来信表头 + 签名 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

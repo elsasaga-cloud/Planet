@@ -103,7 +103,6 @@ updated: 2026-10-24
 - **【用户表】老说价格高、了解中国市场价、与中国供应商长期合作；2025-04 Bypass→用常见的几个型号**
   > 兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作；回复：用常见的几个型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +971 50 559 4409（WA）〔用户 Clients 表〕
 - **KP**：Saurabh（）saurabh@onnettechnologies.com +971 50 559 4409〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
 - **调研后定级**：B（原自动 A）——纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。

@@ -52,13 +52,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Samuel Kanoyangwa / Blessing Murondiwa",
       "role": "（用户表联系人；职务待核）",
       "email": "info@securico.co.zw（用户表）",

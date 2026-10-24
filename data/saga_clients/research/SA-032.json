@@ -101,5 +101,14 @@
       "body": "Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?"
     },
     "as_of": "2026-10-24"
-  }
+  },
+  "kp": [
+    {
+      "name": "Shaji（邮箱前缀；全名待核）",
+      "role": "用户表联系人（WhatsApp 为主通道）",
+      "email": "shaji@greentechme.net",
+      "phone": "",
+      "source": "用户表 / entities 邮箱"
+    }
+  ]
 }

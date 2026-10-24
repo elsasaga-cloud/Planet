@@ -101,7 +101,6 @@ updated: 2026-10-24
 - **【官网网店】在售 Dahua 摄像机（PoE+）**
   > DAHUA SD29204T-GN-W €339.78 … Netzteil · AC 24 V, PoE+ (802.3at)
   > 来源：https://falke-security.de/produkt/dahua-sd29204t-gn-w/（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（）info@falke-security.de（公开） +49 172 90 54 200〔用户 Clients 表 + 官网〕
 - **KP**：Nuri Sahin（Inhaber（业主，Creditreform 登记名））info@falke-security.de（公开） +49 172 90 54 200（官网）〔https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY〕
 - 备注：德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。
 

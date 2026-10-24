@@ -101,7 +101,6 @@ updated: 2026-10-24
 - **【用户表】只看 M12；6 次推送 0 回复**
   > 看了M12交换机，没做其他沟通，拿了彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Arno Freudenreich（Associé-gérant（商业登记公开））afcn@sitis.ch（用户表） +41 22 510 21 51〔https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431〕
 - **调研后定级**：B（原自动 A）——兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。
 - 备注：不主动投入。

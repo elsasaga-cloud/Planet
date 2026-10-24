@@ -93,7 +93,6 @@ updated: 2026-10-24
 - **【名录】WTC 亚松森地址（CAGE）**
   > Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890
   > 来源：https://www.nsnlookup.com/cage/py（抓取 2026-10-16）
-- **KP**：（见 Clients 表联系人）（） +595 985 748 567（WA）〔用户 Clients 表〕
 - **KP**：Ruslan Osorio Guerra（股东 / 负责人（政府采购登记；FIRST 2024 演讲人））—（未公开） —〔https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html〕
 - 备注：规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
 

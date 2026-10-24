@@ -102,7 +102,6 @@ updated: 2026-10-24
 - **【伙伴名录】公开联系人邮箱**
   > Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id
   > 来源：https://trimaxindo.co.id/local-partners/（抓取 2025-11-13）
-- **KP**：（见 Clients 表联系人）（）info@ras-otomasi.id（公开） +62 813-1042-5123（WA）/ +62 21 5081-2002〔用户 Clients 表 + 官网〕
 - **KP**：Sudarso（姓氏/职务未公开）（Trimaxindo 本地伙伴名录联系人）sudarso@ras-otomasi.id +62 21 2784-6419（公司）〔https://trimaxindo.co.id/local-partners/〕
 - 备注：6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 

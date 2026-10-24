@@ -81,6 +81,8 @@ updated: 2026-10-24
 - **【用户表】商业 PoE 自己的 logo**
   > 商业POE 自己的logo；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Karen Kwek（收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com））karen_kwek@prolink2u.com 〔S 邮箱 2024-11 自动回复表头〕
+- **KP**：Shijie Leong（收件人（2025-01-21 陪产假自动回复；无人工回复））shijie_leong@prolink2u.com 〔S 邮箱 2025-01 自动回复表头〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -159,7 +161,8 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@prolink2u.com | 用户表原值 | Clients/ 表 |
+| Karen Kwek | 收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com） | karen_kwek@prolink2u.com | 调研核实（公开页） | S 邮箱 2024-11 自动回复表头 |
+| Shijie Leong | 收件人（2025-01-21 陪产假自动回复；无人工回复） | shijie_leong@prolink2u.com | 调研核实（公开页） | S 邮箱 2025-01 自动回复表头 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -226,7 +229,7 @@ updated: 2026-10-24
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Karen,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE and unmanaged switches sold under the Prolink label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, budget 5/8/16-port units) in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your Singapore and regional dealers?
 

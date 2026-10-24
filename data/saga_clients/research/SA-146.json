@@ -49,13 +49,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Mark Delapaz",
       "role": "（NKS 员工，ZoomInfo 公开；职务待核）",
       "email": "—",

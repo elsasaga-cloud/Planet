@@ -109,7 +109,7 @@ updated: 2026-10-24
 - **【官网】自称英国最大交换机库存之一；高层住宅消防探测网络用其交换产品**
   > we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems
   > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
-- **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited〕
+- **KP**：Jeffrey Allan Ferrier（Founder/Director（Companies House））jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头〕
 - 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -239,7 +239,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jeffrey Allan Ferrier | Founder/Director（Companies House） | sales@parallaxdigital.co.uk / +44 1670 202001 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited |
+| Jeffrey Allan Ferrier | Founder/Director（Companies House） | jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk / +44 1670 202001 | 调研核实（公开页） | https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头 |
 | Jeff Ferrier | — | jeff.ferrier@parallaxdigital.co.uk / networkops@parallaxdigital.co.uk | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

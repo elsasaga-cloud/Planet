@@ -101,7 +101,7 @@ updated: 2026-10-24
 - **【官网】DataMover 交换机型号与规格（MS-5、MS-5GS、MSG-8E4S）**
   > DATAMOVER MS-5GS - Hardened Gigabit Managed Switch Supported by SIMREX CRMS NMS … Five 10/100/1000 Mbit/s … DATAMOVER MSG-8E4S - Hardened Gigabit Managed Switch … Eight 10/100/1000 Mbit/s … Supports 802.3af/at devices if the 48-57VDC input is used. Max current 450mA per port
   > 来源：https://www.simrex.com/site/apps/traffic.htm（抓取 2026-10-21）
-- **KP**：Frank Neuperger（General Manager（RocketReach 口径））frank@simrex.com（cage.report 公开记录） +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573〕
+- **KP**：Frank Neuperger（General Manager（RocketReach 口径））frank@simrex.com +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封〕
 - 备注：A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -210,7 +210,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Frank Neuperger | General Manager（RocketReach 口径） | frank@simrex.com（cage.report 公开记录） / +1 716-206-0174（总机） | 调研核实（公开页） | https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573 |
+| Frank Neuperger | General Manager（RocketReach 口径） | frank@simrex.com / +1 716-206-0174（总机） | 调研核实（公开页） | https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封 |
 
 - **通道建议**：企业邮箱可直发
 

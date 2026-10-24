@@ -91,7 +91,6 @@ updated: 2026-10-24
 - **【用户表】兴趣：需要 Cisco model；2024-07 passive poe 手册→OK；2025-12 mini→hi**
   > 兴趣：需要Cisco model；回复：OK；hi
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +973 3617 0186（WA）〔用户 Clients 表〕
 - **KP**：Nasir（）info@marvelitcs.com +973 3617 0186〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。
 - 备注：WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。

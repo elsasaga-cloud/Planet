@@ -89,7 +89,6 @@ updated: 2026-10-24
 - **【用户表】兴趣 send price of optical product；回复 all info and price / ok / 有用暂时没需求 ×2 / thanks**
   > 兴趣：send price of optical product；回复：all info and price；有用 暂时没需求；thanks
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +91 94260 60606（WA）〔用户 Clients 表〕
 - **KP**：Subodh（）info@advancedigital.co.in +91 94260 60606〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。
 - 备注：WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。

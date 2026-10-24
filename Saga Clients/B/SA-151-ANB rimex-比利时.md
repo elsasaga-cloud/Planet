@@ -108,7 +108,6 @@ updated: 2026-10-24
 - **【用户表】IP67、小体积、PoE 为主；6 次推送 0 回复**
   > IP67网口 小体积 PoE为主 拿了很多同行的彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +32 496 34 18 97 / +32 4229 3797〔用户 Clients 表〕
 - **KP**：Ibrahim Tiryaki（Product Manager CCTV（用户表））it@anb-rimex.be（用户表） +32 496 34 18 97（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。
 - 备注：只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。

@@ -101,7 +101,6 @@ updated: 2026-10-24
 - **【用户表】需求与回复**
   > Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +971 55 964 5463（WA）〔用户 Clients 表〕
 - **KP**：Mr. Ari（采购（表内））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
 - **KP**：Mohsen Tavakoli Zaniani（Director / PSC） 〔Companies House（经 Endole）〕
 - **调研后定级**：B（原自动 A）——需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。

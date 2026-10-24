@@ -100,7 +100,6 @@ updated: 2026-10-24
 - **【用户表】需求与回复**
   > Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +91 98250 95206（WA）〔用户 Clients 表〕
 - **KP**：Manan Bhavsar（CEO）manan@a-ites.com +91 98250 95206（WA 已加）〔用户 Clients 表〕
 - **KP**：Chirag Shah（Manager）chirag.s@a-ites.com 〔用户 Clients 表〕
 - **KP**：Manish Meghwal（Manager）manish.m@a-ites.com 〔用户 Clients 表〕

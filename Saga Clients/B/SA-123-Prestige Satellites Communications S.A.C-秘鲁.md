@@ -93,7 +93,6 @@ updated: 2026-10-24
 - **【用户表】买了 MC PoE；记为秘鲁 S.A.C.**
   > 买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Rob（姓待核）（（用户表邮箱前缀；疑负责人））rob@prestigevsat.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。
 - 备注：老客户回访一封（STI-110GE + STC-28DGGPM）。

@@ -1,98 +1,91 @@
 {
- "code": "SA-160",
- "name_official": "Ar Telecom – Acessos e Redes de Telecomunicações, S.A.（Lisboa, PT；artelecom.pt；Aire Networks 集团）",
- "website_status": "在线",
- "summary": "里斯本的 B2B 电信与云服务运营商 Ar Telecom（1999 年起 Jazztel Portugal → 2005 Ar Telecom；总部 Edifício Diogo Cão, Doca de Alcântara Norte；51–200 人；2021 年并入西班牙 Aire Networks 集团，2026 年起品牌改为「Ar」；业务：数据中心/云、连接、语音；客户含政府与大企业；ISO 9001/27001）。阿里 RFQ（2026-01）：400G DWDM 与高速交换机（DC 线索）；联系人 Nuno Esteves；无跟进互动。需求规格超出 Saga 产品线 → C（资料保留；若其企业客户接入层有 PoE/工业需求可重开）。",
- "type": "电信运营商（终端用户）",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "阿里 RFQ：400G DWDM / 高速交换机；地址 Lisboa doca de Alcântara",
-   "quote": "2011年使用国际站 PT , Lisboa… doca de Alcântara / 400G DWDM / from: 阿里巴巴RFQ / 高速交换机（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SA-160",
+  "name_official": "Ar Telecom – Acessos e Redes de Telecomunicações, S.A.（Lisboa, PT；artelecom.pt；Aire Networks 集团）",
+  "website_status": "在线",
+  "summary": "里斯本的 B2B 电信与云服务运营商 Ar Telecom（1999 年起 Jazztel Portugal → 2005 Ar Telecom；总部 Edifício Diogo Cão, Doca de Alcântara Norte；51–200 人；2021 年并入西班牙 Aire Networks 集团，2026 年起品牌改为「Ar」；业务：数据中心/云、连接、语音；客户含政府与大企业；ISO 9001/27001）。阿里 RFQ（2026-01）：400G DWDM 与高速交换机（DC 线索）；联系人 Nuno Esteves；无跟进互动。需求规格超出 Saga 产品线 → C（资料保留；若其企业客户接入层有 PoE/工业需求可重开）。",
+  "type": "电信运营商（终端用户）",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "阿里 RFQ：400G DWDM / 高速交换机；地址 Lisboa doca de Alcântara",
+      "quote": "2011年使用国际站 PT , Lisboa… doca de Alcântara / 400G DWDM / from: 阿里巴巴RFQ / 高速交换机（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "百科",
+      "claim": "集团归属与品牌",
+      "quote": "A Ar Telecom, conhecida desde 2026 apenas como Ar, é uma empresa portuguesa de comunicações e tecnologias de TI. Desde 2021 que é uma empresa do grupo Aire, o quarto maior operador de telecomunicações grossita em Espanha.",
+      "url": "https://pt.wikipedia.org/wiki/AR_Telecom",
+      "date": "2026-03-11"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与业务",
+      "quote": "A Ar Telecom é um operador de telecomunicações nacional, presente no mercado português, desde a liberalização do setor em 1999 … Company size: 51-200 employees Headquarters: Lisboa … Specialties: datacenter, cloud, managed services, conectividade, voz, VoIP",
+      "url": "https://www.linkedin.com/company/ar-telecom/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "Sede: Edifício Diogo Cão Doca de Alcântara Norte 1350-352 Lisboa … Corporativo Email: artelecom@artelecom.pt Telefone: 21 030 10 30",
+      "url": "https://www.artelecom.pt/contactos/",
+      "date": "2025-06-05"
+    },
+    {
+      "kind": "用户表",
+      "claim": "阿里 RFQ：400G DWDM / 高速交换机；无跟进",
+      "quote": "400G DWDM / from: 阿里巴巴RFQ … 高速交换机 / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Nuno Esteves",
+      "role": "（阿里 RFQ 联系人；职务待核）",
+      "email": "nuno.esteves@artelecom.pt（用户表）",
+      "phone": "—",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": "C",
+  "override_reason": "规格外 + 规模大：葡萄牙 B2B 电信运营商（51–200 人），2021 年起属西班牙 Aire Networks 集团；阿里 RFQ 为 400G DWDM 与数据中心高速交换机——超出 Saga 接入层产品线（最高 4×10G SFP+/L3 48 口），运营商集团采购亦非 Saga 可赢规模",
+  "notes": "若 Hohunet 10G/25G L3 机型能切其接入/汇聚层，一次性报价（STC-448XGGM(L3) 类，项目 25%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 百科核对 → 规格外降 C）"
   },
-  {
-   "kind": "百科",
-   "claim": "集团归属与品牌",
-   "quote": "A Ar Telecom, conhecida desde 2026 apenas como Ar, é uma empresa portuguesa de comunicações e tecnologias de TI. Desde 2021 que é uma empresa do grupo Aire, o quarto maior operador de telecomunicações grossita em Espanha.",
-   "url": "https://pt.wikipedia.org/wiki/AR_Telecom",
-   "date": "2026-03-11"
+  "company_facts": {
+    "legal_name": "Ar Telecom – Acessos e Redes de Telecomunicações, S.A.",
+    "founded": "1999（Jazztel PT）/ 2005（Ar Telecom）",
+    "hq": "Edifício Diogo Cão, Doca de Alcântara Norte, 1350-352 Lisboa, Portugal（+351 21 030 10 30；artelecom@artelecom.pt）",
+    "size": "51–200（LinkedIn）；Aire Networks 集团成员",
+    "other": "数据中心/云 + 连接 + 语音；客户含公共部门；ANACOM 登记运营商"
   },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与业务",
-   "quote": "A Ar Telecom é um operador de telecomunicações nacional, presente no mercado português, desde a liberalização do setor em 1999 … Company size: 51-200 employees Headquarters: Lisboa … Specialties: datacenter, cloud, managed services, conectividade, voz, VoIP",
-   "url": "https://www.linkedin.com/company/ar-telecom/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "B2B 电信连接与语音",
+    "数据中心、私有云、备份/DR"
+  ],
+  "channels": {
+    "网站": "https://www.artelecom.pt/",
+    "电话": "+351 21 030 10 30（公开）",
+    "邮箱（公开）": "artelecom@artelecom.pt"
   },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "Sede: Edifício Diogo Cão Doca de Alcântara Norte 1350-352 Lisboa … Corporativo Email: artelecom@artelecom.pt Telefone: 21 030 10 30",
-   "url": "https://www.artelecom.pt/contactos/",
-   "date": "2025-06-05"
+  "signals": [
+    "仅 DC/传输层需求（400G DWDM）——Saga 无此品类"
+  ],
+  "risks": [
+    "规格外 + 运营商集团 → C"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "不推进（规格外：400G DWDM / DC 高速交换机）；如重开可报 STC-448XGGM(L3)（48 GE + 4×10G L3，$485.8）作企业客户接入"
   },
-  {
-   "kind": "用户表",
-   "claim": "阿里 RFQ：400G DWDM / 高速交换机；无跟进",
-   "quote": "400G DWDM / from: 阿里巴巴RFQ … 高速交换机 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表（阿里 RFQ）"
-  },
-  {
-   "name": "Nuno Esteves",
-   "role": "（阿里 RFQ 联系人；职务待核）",
-   "email": "nuno.esteves@artelecom.pt（用户表）",
-   "phone": "—",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": "C",
- "override_reason": "规格外 + 规模大：葡萄牙 B2B 电信运营商（51–200 人），2021 年起属西班牙 Aire Networks 集团；阿里 RFQ 为 400G DWDM 与数据中心高速交换机——超出 Saga 接入层产品线（最高 4×10G SFP+/L3 48 口），运营商集团采购亦非 Saga 可赢规模",
- "notes": "若 Hohunet 10G/25G L3 机型能切其接入/汇聚层，一次性报价（STC-448XGGM(L3) 类，项目 25%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 百科核对 → 规格外降 C）"
- },
- "company_facts": {
-  "legal_name": "Ar Telecom – Acessos e Redes de Telecomunicações, S.A.",
-  "founded": "1999（Jazztel PT）/ 2005（Ar Telecom）",
-  "hq": "Edifício Diogo Cão, Doca de Alcântara Norte, 1350-352 Lisboa, Portugal（+351 21 030 10 30；artelecom@artelecom.pt）",
-  "size": "51–200（LinkedIn）；Aire Networks 集团成员",
-  "other": "数据中心/云 + 连接 + 语音；客户含公共部门；ANACOM 登记运营商"
- },
- "business_lines": [
-  "B2B 电信连接与语音",
-  "数据中心、私有云、备份/DR"
- ],
- "channels": {
-  "网站": "https://www.artelecom.pt/",
-  "电话": "+351 21 030 10 30（公开）",
-  "邮箱（公开）": "artelecom@artelecom.pt"
- },
- "signals": [
-  "仅 DC/传输层需求（400G DWDM）——Saga 无此品类"
- ],
- "risks": [
-  "规格外 + 运营商集团 → C"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "不推进（规格外：400G DWDM / DC 高速交换机）；如重开可报 STC-448XGGM(L3)（48 GE + 4×10G L3，$485.8）作企业客户接入"
- },
- "email_hook": "（不主动发送）"
+  "email_hook": "（不主动发送）"
 }

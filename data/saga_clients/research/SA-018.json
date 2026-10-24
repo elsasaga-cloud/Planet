@@ -16,7 +16,15 @@
       "date": "2026-10-21"
     }
   ],
-  "kp": [],
+  "kp": [
+    {
+      "name": "Sergiy Khodun",
+      "role": "Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表）",
+      "email": "sergiy.khodun@gmail.com",
+      "phone": "",
+      "source": "S 邮箱 2024 来信表头 + 附件 DI order #1.xls"
+    }
+  ],
   "grade_override": null,
   "override_reason": "",
   "notes": "（无首轮调研；由 deepen.py 建档）",

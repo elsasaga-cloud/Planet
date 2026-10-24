@@ -49,13 +49,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
       "role": "Генеральный директор / 唯一股东（注册信息）",
       "email": "sales@born-spb.ru（公司公开）",

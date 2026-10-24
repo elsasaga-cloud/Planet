@@ -94,7 +94,6 @@ updated: 2026-10-24
 - **【协会名录】董事与公开邮箱**
   > ALMAKS Security Systems d.o.o. | Slobodan Maksimović vlasnik i direktor | Beograd | Gospodara Vučića 129 | 011/2852606 | almaks@almaks.rs smaksimovic@almaks.rs
   > 来源：https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Slobodan Maksimović（创始人 / 所有人兼董事）smaksimovic@almaks.rs（PKS 协会公开名录） +381 11 2852 606〔https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc〕
 - **调研后定级**：B（原自动 A）——历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。
 - 备注：一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。

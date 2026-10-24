@@ -88,6 +88,7 @@ updated: 2026-10-24
   > POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Angus Tseng（）angus@ilucoltd.com 〔用户表〕
+- **KP**：Styven Tseng（2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里））styven@ilucoltd.com 〔S 邮箱 2024-10-25 来信表头 + 签名〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -174,6 +175,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Angus Tseng | — | angus@ilucoltd.com | 调研核实（公开页） | 用户表 |
+| Styven Tseng | 2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里） | styven@ilucoltd.com | 调研核实（公开页） | S 邮箱 2024-10-25 来信表头 + 签名 |
 
 - **通道建议**：企业邮箱可直发
 

@@ -90,7 +90,7 @@ updated: 2026-10-24
 - **【用户表】1 次实质回复；16 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Michael Dickinson（Director / 唯一股东）info@genrov.com（公司公开；个人邮箱未公开） +44 191 543 8953〔https://uk.globaldatabase.com/company/genrov-ltd〕
+- **KP**：Michael Dickinson（Director / 唯一股东）mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） +44 191 543 8953〔https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
@@ -191,7 +191,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michael Dickinson | Director / 唯一股东 | info@genrov.com（公司公开；个人邮箱未公开） / +44 191 543 8953 | 调研核实（公开页） | https://uk.globaldatabase.com/company/genrov-ltd |
+| Michael Dickinson | Director / 唯一股东 | mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） / +44 191 543 8953 | 调研核实（公开页） | https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头 |
 
 - **通道建议**：企业邮箱可直发
 

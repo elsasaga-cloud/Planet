@@ -108,7 +108,7 @@ updated: 2026-10-24
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Akshat Pandey（）akshat.pandey@goip.in +91 89202 45569〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Naman Gupta（）naman.gupta@goip.in +91 98702 95096〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Pankaj Sodhi（） 〔https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer〕
+- **KP**：Pankaj Sodhi（）pankaj.sodhi@goip.in WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi〔S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选））
@@ -227,7 +227,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | Akshat Pandey | — | akshat.pandey@goip.in / +91 89202 45569 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Naman Gupta | — | naman.gupta@goip.in / +91 98702 95096 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Pankaj Sodhi | — | — | 调研核实（公开页） | https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer |
+| Pankaj Sodhi | — | pankaj.sodhi@goip.in / WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi | 调研核实（公开页） | S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

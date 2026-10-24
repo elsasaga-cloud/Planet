@@ -96,7 +96,6 @@ updated: 2026-10-24
 - **【用户表】工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested**
   > 兴趣：工商业FS 好多家的 销售平台；回复：interested
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Александр Гречкин (Alexander Grechkin)（）ag@bargas.ru 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。
 - 备注：一封邮件给上架用 SKU 清单（分销 20%）。

@@ -88,7 +88,6 @@ updated: 2026-10-24
 - **【官网快照】域名状态**
   > site_snapshot 2026-10-21：cyber-tec.net unreachable（DNS/连接失败）；web 搜索无该域收录
   > 来源：（data/saga_clients/site_snapshots/SA-163.json）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +964 773 610 4911（WA）〔用户 Clients 表〕
 - **KP**：Sarmad Alwakil（（职位未核））sarmad@cyber-tec.net / sarmad.karbala@yahoo.com +964 773 610 4911（WA 已加）〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。
 - 备注：WA 季度触达。

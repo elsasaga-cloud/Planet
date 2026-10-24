@@ -109,7 +109,6 @@ updated: 2026-10-24
 - **【LinkedIn】规模**
   > LivEye … Größe: 51–200 Beschäftigte Hauptsitz: Föhren, Rheinland-Pfalz … Gegründet: 2018
   > 来源：https://de.linkedin.com/company/liveye-gmbh（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +49 173 516 7073（WA）/ +49 6502 403 4722〔用户 Clients 表〕
 - **KP**：Carsten Simons（Geschäftsführer（行业媒体公开））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
 - **KP**：Markus Diederichs（Geschäftsführer（2025-10 起；行业媒体公开））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
 - **调研后定级**：B（原自动 A）——无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。

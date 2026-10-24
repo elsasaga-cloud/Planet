@@ -38,13 +38,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Arno Freudenreich",
       "role": "Associé-gérant（商业登记公开）",
       "email": "afcn@sitis.ch（用户表）",

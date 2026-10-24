@@ -76,9 +76,9 @@
     {
       "name": "Ender Bulut",
       "role": "（自建站询盘人；职务待核）",
-      "email": "ebulut@netas.com.tr（用户表）",
+      "email": "ebulut@netas.com.tr（本人来信 15 封 2025-10→2026-03）；endearbulut@gmail.com（2026-01-23 他主动给的私人邮箱）",
       "phone": "—",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
+      "source": "A 邮箱来信表头 + 用户表"
     },
     {
       "name": "Burak Ozdemir",
@@ -86,6 +86,20 @@
       "email": "buozdemir@netas.com.tr",
       "phone": "",
       "source": "PI.zip 单据"
+    },
+    {
+      "name": "Özlem Şahin (Uçak)",
+      "role": "Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核）",
+      "email": "ozlem.ucak@netas.com.tr",
+      "phone": "",
+      "source": "A 邮箱 2026-01 来信表头"
+    },
+    {
+      "name": "Netaş Compliance（合规部）",
+      "role": "2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购）",
+      "email": "compliance@netas.com.tr",
+      "phone": "",
+      "source": "A 邮箱 2026-02-09→08-12 来信表头"
     }
   ],
   "grade_override": "A",

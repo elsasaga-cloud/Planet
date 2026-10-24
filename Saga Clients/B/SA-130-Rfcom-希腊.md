@@ -112,7 +112,6 @@ updated: 2026-10-24
 - **【名录】行业类别**
   > ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ "RFCOM" Εμπόριο (Εξοπλισμός Ασφαλείας) … Λαγκαδά 301, 56430, Σταυρούπολη , Θεσσαλονίκη
   > 来源：https://www.findbiz.gr/el/company-page/param/name/11002358-xygkakis-konstantinos-rfcom（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +30 2310 257337 / +30 697 255 2502（WA）〔用户 Clients 表〕
 - **KP**：Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）（业主（Ο.Ε. 合伙企业））info@rfcom.gr（公司公开） +30 2310 257337〔https://www.vres.gr/rfcom-connecting-the-future〕
 - **调研后定级**：B（原自动 A）——2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。
 - 备注：WA 季度触达。

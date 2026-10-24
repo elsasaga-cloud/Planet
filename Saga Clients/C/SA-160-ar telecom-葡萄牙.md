@@ -76,7 +76,6 @@ updated: 2026-10-24
 - **【用户表】阿里 RFQ：400G DWDM / 高速交换机；无跟进**
   > 400G DWDM / from: 阿里巴巴RFQ … 高速交换机 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表（阿里 RFQ）〕
 - **KP**：Nuno Esteves（（阿里 RFQ 联系人；职务待核））nuno.esteves@artelecom.pt（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：C（原自动 A）——规格外 + 规模大：葡萄牙 B2B 电信运营商（51–200 人），2021 年起属西班牙 Aire Networks 集团；阿里 RFQ 为 400G DWDM 与数据中心高速交换机——超出 Saga 接入层产品线（最高 4×10G SFP+/L3 48 口），运营商集团采购亦非 Saga 可赢规模
 - 备注：若 Hohunet 10G/25G L3 机型能切其接入/汇聚层，一次性报价（STC-448XGGM(L3) 类，项目 25%）。

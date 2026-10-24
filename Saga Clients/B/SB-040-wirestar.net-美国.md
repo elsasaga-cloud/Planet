@@ -94,7 +94,7 @@ updated: 2026-10-24
 - **【用户表】1 次实质回复；1 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kyle Leissner（Founder（官网 Our Story））—（未公开） 979-721-9000（公司）〔https://wirestar.net/about/〕
+- **KP**：Kyle Leissner（Founder（官网 Our Story））kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） 979-721-9000（公司）〔https://wirestar.net/about/；S 邮箱来信表头〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -175,7 +175,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kyle Leissner | Founder（官网 Our Story） | —（未公开） / 979-721-9000（公司） | 调研核实（公开页） | https://wirestar.net/about/ |
+| Kyle Leissner | Founder（官网 Our Story） | kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） / 979-721-9000（公司） | 调研核实（公开页） | https://wirestar.net/about/；S 邮箱来信表头 |
 
 - **通道建议**：企业邮箱可直发
 

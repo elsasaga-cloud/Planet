@@ -59,13 +59,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "+1 787-705-6999",
-      "source": "用户 Clients 表 + Crunchbase/Facebook"
-    },
-    {
       "name": "Ivan Rivera",
       "role": "来信署名人（职务未在邮件署名里出现）",
       "email": "irivera@fiberx.net",

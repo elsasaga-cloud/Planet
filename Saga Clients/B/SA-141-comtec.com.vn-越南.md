@@ -91,7 +91,6 @@ updated: 2026-10-24
 - **【用户表】富通天下：从 BTON 买了很多；SFP 模块**
   > SFP模块 / 从BTON买了很多 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Cao Bá Duy（Phó Giám Đốc（副总经理；黄页公开））caobaduy@comtec.com.vn（黄页公开） +84 989 339 983（黄页公开）〔https://www.trangvangvietnam.com/listings/720336/cong-ty-tnhh-cong-nghe-truyen-thong-comtec.html〕
 - **调研后定级**：B（原自动 A）——品类为光模块（非主线）、无互动、越南非主攻区 → B。
 - 备注：首触邮件带 SFP 光口交换机。

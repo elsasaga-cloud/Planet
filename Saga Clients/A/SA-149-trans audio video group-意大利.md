@@ -109,7 +109,6 @@ updated: 2026-10-24
 - **【用户表】采购历史与需求；14 次推送 0 回复**
   > 采购过多次交换机（少量工业级，主要是商业级）希望与我们合作 问了工业电源（朱姐说可以替他们采购） 要详细报价单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +39 335 737 4068〔用户 Clients 表〕
 - **KP**：Francesco Brighel（General Manager（用户表；家族企业第二代））f.brighel@transaudiovideo.com（用户表） +39 335 7374068（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Salvatore Brighel（创始人（官网公开））— —〔https://test.transaudiovideo.com/group/〕
 - **调研后定级**：A（原自动 A）——A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。

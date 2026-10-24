@@ -96,7 +96,6 @@ updated: 2026-10-24
 - **【用户表】需求与回复**
   > 客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +51 989 144 163（WA）〔用户 Clients 表〕
 - **KP**：Clyver Ore M.（Sales Manager）clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
 - **KP**：Joel Ore（CFO） 〔connectamericas.com〕
 - **调研后定级**：B（原自动 A）——南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。

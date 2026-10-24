@@ -38,13 +38,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "+31 6 4685 3228（WA）",
-      "source": "用户 Clients 表"
-    },
-    {
       "name": "Jacco Slob",
       "role": "来信署名人（职务未在邮件署名里出现）",
       "email": "j.slob@dios-industries.com",

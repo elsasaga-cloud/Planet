@@ -94,7 +94,6 @@ updated: 2026-10-24
 - **【名录】CIF 与经理**
   > La empresa Domoticalia con CIF B86690344 Está ubicada en 28850 Torrejon de Ardoz (Madrid) … Gerente: Rafael Torrico
   > 来源：https://www.anuarioguia.com/empresa/domoticalia（抓取 2023-10-25）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Rafael Torrico（Gerente（公开企业名录））info@domoticalia.es（公司公开） +34 91 005 26 51〔https://www.anuarioguia.com/empresa/domoticalia〕
 - **调研后定级**：B（原自动 A）——0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。
 - 备注：一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。

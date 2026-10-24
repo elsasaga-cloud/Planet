@@ -89,7 +89,6 @@ updated: 2026-10-24
 - **【官网】IMC-1000MS-PHE12 管理型千兆 PoE 介质转换器售 $345**
   > IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00
   > 来源：https://www.megatelindustries.com/imc1000100012.html（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表（S 重点）〕
 - **KP**：Zack Yu（来信署名人（职务未在邮件署名里出现））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $151.6 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 

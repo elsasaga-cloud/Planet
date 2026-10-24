@@ -47,13 +47,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "info@falke-security.de（公开）",
-      "phone": "+49 172 90 54 200",
-      "source": "用户 Clients 表 + 官网"
-    },
-    {
       "name": "Nuri Sahin",
       "role": "Inhaber（业主，Creditreform 登记名）",
       "email": "info@falke-security.de（公开）",

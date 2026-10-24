@@ -79,6 +79,7 @@ updated: 2026-10-24
 - **【用户表】OM4301 网络延长器 1 对成样品单（成交）**
   > OM4301网络延长器 1对 成样品单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：J.-Y. Guibreteau（邮箱推断；全名待核）（用户表联系人（WhatsApp 为主通道））jyguibreteau@gmail.com 〔用户表 / entities 邮箱〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息（已成交））
@@ -114,6 +115,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| J.-Y. Guibreteau（邮箱推断；全名待核） | 用户表联系人（WhatsApp 为主通道） | jyguibreteau@gmail.com | 调研核实（公开页） | 用户表 / entities 邮箱 |
 | Mr.Guibreteau | — | jyguibreteau@gmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

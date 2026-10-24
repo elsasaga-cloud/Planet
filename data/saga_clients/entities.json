@@ -1252,9 +1252,9 @@
 {
 "name": "Frank Neuperger",
 "role": "General Manager（RocketReach 口径）",
-"email": "frank@simrex.com（cage.report 公开记录）",
+"email": "frank@simrex.com",
 "phone": "+1 716-206-0174（总机）",
-"source": "https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573"
+"source": "https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封"
 }
 ],
 "notes": "A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。",
@@ -2910,9 +2910,9 @@
 {
 "name": "Au Wai Choon",
 "role": "单据联系人",
-"email": "sales-inf@resonantnetworks.com",
+"email": "auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com",
 "phone": "",
-"source": "PI.zip 单据"
+"source": "PI.zip 单据；S/A 邮箱来信表头"
 },
 {
 "name": "Andrea Chew",
@@ -10401,7 +10401,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Sergiy Khodun",
+"role": "Deutsche Import 负责人 / 唯一来信人（2024-11 发 DI order #1 样品单，NSI- 贴牌型号表）",
+"email": "sergiy.khodun@gmail.com",
+"phone": "",
+"source": "S 邮箱 2024 来信表头 + 附件 DI order #1.xls"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -14907,9 +14915,9 @@
 {
 "name": "Jeffrey Allan Ferrier",
 "role": "Founder/Director（Companies House）",
-"email": "sales@parallaxdigital.co.uk",
+"email": "jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk",
 "phone": "+44 1670 202001",
-"source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited"
+"source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头"
 }
 ],
 "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
@@ -16899,7 +16907,16 @@
 "body": "Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail PoE switches with 44–57 V DC input (8× PoE+ + 2× SFP at $59.8 EXW, 4-port at $35.5) — which PoE accessories were you looking for, injectors or splitters, and for what camera count?"
 },
 "as_of": "2026-10-24"
+},
+"kp": [
+{
+"name": "Shaji（邮箱前缀；全名待核）",
+"role": "用户表联系人（WhatsApp 为主通道）",
+"email": "shaji@greentechme.net",
+"phone": "",
+"source": "用户表 / entities 邮箱"
 }
+]
 }
 },
 {
@@ -20635,9 +20652,9 @@
 {
 "name": "Mark Schulting",
 "role": "来信署名人（职务未在邮件署名里出现）",
-"email": "mark@expresssupply.net",
+"email": "mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址）",
 "phone": "",
-"source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）"
+"source": "S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头"
 }
 ]
 }
@@ -42270,13 +42287,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
-{
 "name": "Федотов Сергей Иванович（Sergey I. Fedotov）",
 "role": "Генеральный директор / 唯一股东（注册信息）",
 "email": "sales@born-spb.ru（公司公开）",
@@ -43141,13 +43151,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+1 210-654-0653",
-"source": "用户 Clients 表 + 官网"
-},
 {
 "name": "Nathan \"Nate\" Cline",
 "role": "President",
@@ -44255,13 +44258,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+1 787-705-6999",
-"source": "用户 Clients 表 + Crunchbase/Facebook"
-},
 {
 "name": "Ivan Rivera",
 "role": "来信署名人（职务未在邮件署名里出现）",
@@ -45433,13 +45429,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+51 989 144 163（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Clyver Ore M.",
 "role": "Sales Manager",
 "email": "clyver.ore@om-telecom.com",
@@ -46454,13 +46443,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+595 985 748 567（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Ruslan Osorio Guerra",
 "role": "股东 / 负责人（政府采购登记；FIRST 2024 演讲人）",
 "email": "—（未公开）",
@@ -46901,13 +46883,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+973 3617 0186（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Nasir",
 "title": "（表内联系人）",
 "email": "info@marvelitcs.com",
@@ -47163,18 +47138,11 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+66 62 217 9229（WA 未加上）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Peter (Ponganan Ruenboon)",
 "title": "（经营者）",
-"email": "tjcomputer2003@gmail.com",
-"phone": "+66 62 217 9229",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"email": "tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com",
+"phone": "08-0069-1918 / 06-2217-9229（2025-05-14 签名）",
+"source": "A 邮箱来信表头 + 签名"
 }
 ],
 "grade_override": "B",
@@ -47658,13 +47626,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+975 17 113 202（WA；首轮误记 +974，已更正）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Sonam Rinchen",
 "role": "（职位未核；表内联系人）",
@@ -50529,13 +50490,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+971 55 964 5463（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Mr. Ari",
 "role": "采购（表内）",
@@ -54297,13 +54251,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+91 98199 91960（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Harvinder Luthra",
 "title": "（负责人）",
 "email": "luthra@win-alliance.com",
@@ -54717,13 +54664,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+91 94260 60606（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Subodh",
 "title": "（表内联系人）",
@@ -55450,13 +55390,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
-{
 "name": "Rafael Torrico",
 "role": "Gerente（公开企业名录）",
 "email": "info@domoticalia.es（公司公开）",
@@ -55991,13 +55924,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
-{
 "name": "Slobodan Maksimović",
 "role": "创始人 / 所有人兼董事",
 "email": "smaksimovic@almaks.rs（PKS 协会公开名录）",
@@ -56302,13 +56228,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+998 90 976 7748",
-"source": "用户 Clients 表（自建站询盘）"
-},
 {
 "name": "Пак Максим（Maksim Pak）",
 "role": "CEO LATMEDIA（官网 About）",
@@ -56669,13 +56588,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
 {
 "name": "Samuel Kanoyangwa / Blessing Murondiwa",
 "role": "（用户表联系人；职务待核）",
@@ -57150,13 +57062,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
 {
 "name": "Rob（姓待核）",
 "role": "（用户表邮箱前缀；疑负责人）",
@@ -57639,13 +57544,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "info@ras-otomasi.id（公开）",
-"phone": "+62 813-1042-5123（WA）/ +62 21 5081-2002",
-"source": "用户 Clients 表 + 官网"
-},
-{
 "name": "Sudarso（姓氏/职务未公开）",
 "role": "Trimaxindo 本地伙伴名录联系人",
 "email": "sudarso@ras-otomasi.id",
@@ -58084,13 +57982,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+60 14-398 5644（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Wan Rohizal",
 "title": "（表内联系人）",
 "email": "wanrohizal501@gmail.com",
@@ -58351,13 +58242,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+971 50 559 4409（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Saurabh",
 "title": "（采购 / 技术，表内联系人）",
@@ -59118,13 +59002,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+31 6 4685 3228（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Jacco Slob",
 "role": "来信署名人（职务未在邮件署名里出现）",
@@ -60165,13 +60042,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+30 2310 257337 / +30 697 255 2502（WA）",
-"source": "用户 Clients 表"
-},
-{
 "name": "Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）",
 "role": "业主（Ο.Ε. 合伙企业）",
 "email": "info@rfcom.gr（公司公开）",
@@ -60416,13 +60286,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+48 501 776 652（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Marcin Wypiór",
 "role": "Owner（官网/媒体公开）",
@@ -61215,13 +61078,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
 {
 "name": "Александр Гречкин (Alexander Grechkin)",
 "title": "（表内联系人）",
@@ -62325,13 +62181,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表（S 重点）"
-},
-{
 "name": "Zack Yu",
 "role": "来信署名人（职务未在邮件署名里出现）",
 "email": "zack@megatelindustries.com",
@@ -62856,13 +62705,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+91 98250 95206（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Manan Bhavsar",
 "role": "CEO",
@@ -63914,13 +63756,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+39 095 471449",
-"source": "用户 Clients 表"
-},
-{
 "name": "Alfredo Timpanaro",
 "role": "Direttore Commerciale（官网公开）",
 "email": "alfredo.timpanaro@topsicurezza.com（官网公开）",
@@ -64669,13 +64504,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
-{
 "name": "Cao Bá Duy",
 "role": "Phó Giám Đốc（副总经理；黄页公开）",
 "email": "caobaduy@comtec.com.vn（黄页公开）",
@@ -65175,13 +65003,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
 {
 "name": "Muhammad Waleed",
 "role": "CEO（官网公开）",
@@ -66319,13 +66140,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
-{
 "name": "Mark Delapaz",
 "role": "（NKS 员工，ZoomInfo 公开；职务待核）",
 "email": "—",
@@ -67333,13 +67147,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+39 335 737 4068",
-"source": "用户 Clients 表"
-},
-{
 "name": "Francesco Brighel",
 "role": "General Manager（用户表；家族企业第二代）",
 "email": "f.brighel@transaudiovideo.com（用户表）",
@@ -68211,13 +68018,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+32 496 34 18 97 / +32 4229 3797",
-"source": "用户 Clients 表"
-},
 {
 "name": "Ibrahim Tiryaki",
 "role": "Product Manager CCTV（用户表）",
@@ -69140,13 +68940,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "info@falke-security.de（公开）",
-"phone": "+49 172 90 54 200",
-"source": "用户 Clients 表 + 官网"
-},
-{
 "name": "Nuri Sahin",
 "role": "Inhaber（业主，Creditreform 登记名）",
 "email": "info@falke-security.de（公开）",
@@ -69513,13 +69306,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+30 694 720 5247",
-"source": "用户 Clients 表"
-},
 {
 "name": "Christos Karydis",
 "role": "GM（用户表）",
@@ -70364,13 +70150,6 @@
 ],
 "kp": [
 {
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+49 173 516 7073（WA）/ +49 6502 403 4722",
-"source": "用户 Clients 表"
-},
-{
 "name": "Carsten Simons",
 "role": "Geschäftsführer（行业媒体公开）",
 "email": "info@liveye.com（公司公开）",
@@ -70735,13 +70514,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表"
-},
 {
 "name": "Arno Freudenreich",
 "role": "Associé-gérant（商业登记公开）",
@@ -71351,13 +71123,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "",
-"source": "用户 Clients 表（阿里 RFQ）"
-},
 {
 "name": "Nuno Esteves",
 "role": "（阿里 RFQ 联系人；职务待核）",
@@ -72264,13 +72029,6 @@
 }
 ],
 "kp": [
-{
-"name": "（见 Clients 表联系人）",
-"role": "",
-"email": "",
-"phone": "+964 773 610 4911（WA）",
-"source": "用户 Clients 表"
-},
 {
 "name": "Sarmad Alwakil",
 "role": "（职位未核）",
@@ -90847,9 +90605,9 @@
 {
 "name": "Michael Dickinson",
 "role": "Director / 唯一股东",
-"email": "info@genrov.com（公司公开；个人邮箱未公开）",
+"email": "mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」）",
 "phone": "+44 191 543 8953",
-"source": "https://uk.globaldatabase.com/company/genrov-ltd"
+"source": "https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头"
 }
 ],
 "grade_override": null,
@@ -91103,9 +90861,9 @@
 {
 "name": "Kyle Leissner",
 "role": "Founder（官网 Our Story）",
-"email": "—（未公开）",
+"email": "kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100）",
 "phone": "979-721-9000（公司）",
-"source": "https://wirestar.net/about/"
+"source": "https://wirestar.net/about/；S 邮箱来信表头"
 }
 ],
 "grade_override": null,
@@ -105228,7 +104986,15 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "J.-Y. Guibreteau（邮箱推断；全名待核）",
+"role": "用户表联系人（WhatsApp 为主通道）",
+"email": "jyguibreteau@gmail.com",
+"phone": "",
+"source": "用户表 / entities 邮箱"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -127420,9 +127186,9 @@
 {
 "name": "Mohammad Yaacoub",
 "title": "Projects Manager",
-"email": "",
+"email": "mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07）",
 "phone": "",
-"source": "用户表"
+"source": "S 邮箱来信表头"
 }
 ],
 "grade_override": null,
@@ -127790,6 +127556,13 @@
 "email": "sjyeo@miraesignal.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "윤지봉（Yoon Ji-bong）차장",
+"role": "2025-03-06 发 SECON 2025 展会邀请（네트워크 스위치 / Bypass / 무선 브리지 参展）——对方的市场/销售联系人，不是回复",
+"email": "jbyoon@miraesignal.com",
+"phone": "",
+"source": "S 邮箱 2025-03-06 来信表头"
 }
 ],
 "grade_override": null,
@@ -327796,9 +327569,9 @@
 {
 "name": "Ender Bulut",
 "role": "（自建站询盘人；职务待核）",
-"email": "ebulut@netas.com.tr（用户表）",
+"email": "ebulut@netas.com.tr（本人来信 15 封 2025-10→2026-03）；endearbulut@gmail.com（2026-01-23 他主动给的私人邮箱）",
 "phone": "—",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "A 邮箱来信表头 + 用户表"
 },
 {
 "name": "Burak Ozdemir",
@@ -327806,6 +327579,20 @@
 "email": "buozdemir@netas.com.tr",
 "phone": "",
 "source": "PI.zip 单据"
+},
+{
+"name": "Özlem Şahin (Uçak)",
+"role": "Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核）",
+"email": "ozlem.ucak@netas.com.tr",
+"phone": "",
+"source": "A 邮箱 2026-01 来信表头"
+},
+{
+"name": "Netaş Compliance（合规部）",
+"role": "2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购）",
+"email": "compliance@netas.com.tr",
+"phone": "",
+"source": "A 邮箱 2026-02-09→08-12 来信表头"
 }
 ],
 "grade_override": "A",
@@ -452393,7 +452180,22 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Karen Kwek",
+"role": "收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com）",
+"email": "karen_kwek@prolink2u.com",
+"phone": "",
+"source": "S 邮箱 2024-11 自动回复表头"
+},
+{
+"name": "Shijie Leong",
+"role": "收件人（2025-01-21 陪产假自动回复；无人工回复）",
+"email": "shijie_leong@prolink2u.com",
+"phone": "",
+"source": "S 邮箱 2025-01 自动回复表头"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -473915,9 +473717,9 @@
 {
 "name": "Pankaj Sodhi",
 "title": "CEO（2026-04 起；表内「有回复了」）",
-"email": "",
-"phone": "",
-"source": "https://www.syrotech.com/post/goip-global-services-syrotech-networks-appoints-pankaj-sodhi-as-chief-executive-officer"
+"email": "pankaj.sodhi@goip.in",
+"phone": "WhatsApp +91-98189 89801（2024-10-24 他自己给的）；Skype pankaj.sodhi",
+"source": "S 邮箱 2024-10-24 来信「Kindly share Price… I am on WhatsApp at +91-9818989801」"
 }
 ],
 "grade_override": null,
@@ -479242,6 +479044,13 @@
 "email": "angus@ilucoltd.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "Styven Tseng",
+"role": "2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里）",
+"email": "styven@ilucoltd.com",
+"phone": "",
+"source": "S 邮箱 2024-10-25 来信表头 + 签名"
 }
 ],
 "grade_override": null,

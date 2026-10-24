@@ -103,7 +103,6 @@ updated: 2026-10-24
 - **【用户表】在采 ONV；问 12 光 12 电；14 次推送 0 回复**
   > 从ONV买，质量比较满意，但是价格有时觉得高 问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） +39 095 471449〔用户 Clients 表〕
 - **KP**：Alfredo Timpanaro（Direttore Commerciale（官网公开））alfredo.timpanaro@topsicurezza.com（官网公开） +39 328 3654214（官网公开）〔https://www.videostar.it/it/chi-siamo.html〕
 - **KP**：Tommaso Daniele（Responsabile Import（官网公开））import@topsicurezza.com（官网公开） +39 095 471449 int. 222〔https://www.videostar.it/it/chi-siamo.html〕
 - **KP**：Ing. Giovanni Girone（Responsabile Tecnico（官网公开））ufficiotecnico@topsicurezza.com —〔https://www.videostar.it/it/chi-siamo.html〕

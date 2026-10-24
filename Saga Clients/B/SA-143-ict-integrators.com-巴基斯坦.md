@@ -94,7 +94,6 @@ updated: 2026-10-24
 - **【用户表】富通天下：买了飞宇的；switch PoE 等**
   > switch POE等 / 买了飞宇的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Muhammad Waleed（CEO（官网公开））apac@ict-integrators.com（公司） +92 42 3595 1406（公司）〔https://www.ict-integrators.com/integrators/〕
 - **KP**：Ihsan Ullah（Director Commercial（官网公开））— —〔https://www.ict-integrators.com/integrators/〕
 - **调研后定级**：B（原自动 A）——仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。

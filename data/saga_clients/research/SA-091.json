@@ -53,13 +53,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "+1 210-654-0653",
-      "source": "用户 Clients 表 + 官网"
-    },
-    {
       "name": "Nathan \"Nate\" Cline",
       "role": "President",
       "email": "nate.cline@alphanetcom.com",

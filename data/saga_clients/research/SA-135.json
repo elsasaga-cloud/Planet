@@ -34,13 +34,6 @@
   ],
   "kp": [
     {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表（S 重点）"
-    },
-    {
       "name": "Zack Yu",
       "role": "来信署名人（职务未在邮件署名里出现）",
       "email": "zack@megatelindustries.com",
