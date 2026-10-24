@@ -317179,7 +317179,7 @@
 }
 ],
 "proof_gaps": [
-"用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+"（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -332493,8 +332493,7 @@
 }
 ],
 "proof_gaps": [
-"无邮件往来",
-"用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+"（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -398242,7 +398241,7 @@
 "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）",
+"level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）；补核（第 73 批）：Ravi 12-08 的问题是线程最后一封，Elsa 未回 → 我方欠答 10 个月，信稿按补答写",
 "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
 "sieve": "3（问价 + 规格）",
 "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
@@ -398263,9 +398262,9 @@
 "gaps": []
 },
 "next_move": {
-"when": "2026-11（顺手）",
+"when": "现在（我方欠答 10 个月；顺手）",
 "channel": "Elsa 邮箱回原线程",
-"action": "补答",
+"action": "补答；回原串（Elsa 邮箱 thread，邮件客户端自动带 Re:），开头承认 12 月的问题没人答",
 "one_question": "Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?"
 },
 "facts": [
@@ -398335,11 +398334,11 @@
 }
 ],
 "proof_gaps": [
-"Elsa 回复未入库"
+"（已核 2026-10-24，第 73 批）线程 2025-12-08 以 Ravi 的「How about Console port and management ports」收尾，Elsa 没有回信可入库 → 不是「未入库」，是我方欠答 10 个月"
 ],
 "draft_en": {
-"subject": "Re: 24V/48V PoE Switch",
-"body": "Hi Ravi,\n\nPicking up your note of 2025-12-08 (\"How about Console port and management ports…\"). Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"subject": "Console and management ports — the answer you asked for",
+"body": "Hi Ravi,\n\nYour note of 2025-12-08 (\"How about Console port and management ports…\") went unanswered on our side — apologies. Instead of another catalog mail, one question:\n\nThe booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }

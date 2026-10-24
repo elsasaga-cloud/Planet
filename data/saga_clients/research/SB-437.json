@@ -1,154 +1,154 @@
 {
-  "code": "SB-437",
-  "name_official": "PT Panca Kumala Jaya（雅加达）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（pancakumala.co.id，快照 2026-10-21）",
-  "summary": "雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "DCN",
-    "Hanwha Wisenet",
-    "Koovik"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "三大方案：SMATV & IPTV、安防门禁、3play；品牌 Feeder / Koovik / Wisenet / Garech / Sensofire；DCN 交换机品类（PoE / 模块化工业 / DIN 工业）；型号 S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G-28M；Ruko Golden Green No.8 Jl. Panjang, Jakarta Barat；021-5643366",
-      "quote": "3 Solutions from Panca Kumala: SMATV & IPTV, Security and Access Solutions, 3play Solution… /product-category/dcn/switch/poe… din-rail… models S5750E-28X-P-EI, IS2100D-4GF10GT-P, IS5600G-28M… Hunting: 021-5643366",
-      "url": "https://www.pancakumala.co.id/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "基本都是 DCN 的；2025-10 dac→回复没啥内容 但是有联系方式",
-      "quote": "兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（客服）",
-      "title": "Customer Service",
-      "email": "customerservice.pkj@gmail.com",
-      "phone": "+62 21 564 3366",
-      "source": "https://www.pancakumala.co.id/"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对：DCN 渠道）"
+ "code": "SB-437",
+ "name_official": "PT Panca Kumala Jaya（雅加达）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（pancakumala.co.id，快照 2026-10-21）",
+ "summary": "雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "DCN",
+  "Hanwha Wisenet",
+  "Koovik"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "三大方案：SMATV & IPTV、安防门禁、3play；品牌 Feeder / Koovik / Wisenet / Garech / Sensofire；DCN 交换机品类（PoE / 模块化工业 / DIN 工业）；型号 S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G-28M；Ruko Golden Green No.8 Jl. Panjang, Jakarta Barat；021-5643366",
+   "quote": "3 Solutions from Panca Kumala: SMATV & IPTV, Security and Access Solutions, 3play Solution… /product-category/dcn/switch/poe… din-rail… models S5750E-28X-P-EI, IS2100D-4GF10GT-P, IS5600G-28M… Hunting: 021-5643366",
+   "url": "https://www.pancakumala.co.id/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "PT Panca Kumala Jaya",
-    "founded": "（待核）",
-    "hq": "Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520",
-    "size": "中小型方案分销商",
-    "other": "DCN 印尼渠道"
-  },
-  "business_lines": [
-    "SMATV / IPTV 头端",
-    "安防 / 门禁（Hanwha）",
-    "DCN 交换机（PoE、工业 DIN、模块化）"
-  ],
-  "products_seen": [
-    {
-      "brand": "DCN",
-      "model": "IS2100D-4GF10GT-P",
-      "spec": "工业 DIN 4 SFP + 10 GE PoE",
-      "saga": "Saga STI-4168…/ STI-288DGGPM 对位（缺 4+10 口型）",
-      "url": "https://www.pancakumala.co.id/product-category/dcn/switch/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "DCN",
-      "model": "S5750E-28X-P-EI",
-      "spec": "24 GE PoE + 4×10G L3",
-      "saga": "Saga STC-424XGGPM-280W（$181.2/188.7/196.3）",
-      "url": "https://www.pancakumala.co.id/product-category/dcn/switch/",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "role": "方案分销商（DCN 渠道）",
-    "region": "印度尼西亚"
-  },
-  "signals": [
-    "整条 DCN 交换机线（含工业 DIN）→ Saga 可作 DCN 之下的低价 / 白牌补充",
-    "回复带联系方式（2025-10）"
-  ],
-  "risks": [
-    "DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU",
-    "印尼 SNI / 进口许可（Postel）"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGPM-280W",
-    "tier": 20,
-    "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。"
-  },
-  "email_hook": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1",
-      "lane": "印度尼西亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。",
-    "need": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
-    "breakpoint": "DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU",
-    "saga_now": {
-      "p1": "STC-424XGGPM-280W",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）",
-      "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1",
-      "channel": "A 邮箱 → customerservice.pkj@gmail.com",
-      "action": "季度",
-      "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
-    },
-    "facts": [
-      {
-        "date": "2025-05-01",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、24 Port Fiber Switch",
-        "why": "3 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2025-05-01（3 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-10-07",
-        "dir": "来",
-        "who": "Dian for Johandi Halim（PT PKJ，雅加达）",
-        "quote": "（仅签名档，无正文）",
-        "why": "空回复，不计实质",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "基本都是 DCN 的；2025-10 dac→回复没啥内容 但是有联系方式",
+   "quote": "兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（客服）",
+   "title": "Customer Service",
+   "email": "customerservice.pkj@gmail.com",
+   "phone": "+62 21 564 3366",
+   "source": "https://www.pancakumala.co.id/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：DCN 渠道）"
+ },
+ "company_facts": {
+  "legal_name": "PT Panca Kumala Jaya",
+  "founded": "（待核）",
+  "hq": "Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520",
+  "size": "中小型方案分销商",
+  "other": "DCN 印尼渠道"
+ },
+ "business_lines": [
+  "SMATV / IPTV 头端",
+  "安防 / 门禁（Hanwha）",
+  "DCN 交换机（PoE、工业 DIN、模块化）"
+ ],
+ "products_seen": [
+  {
+   "brand": "DCN",
+   "model": "IS2100D-4GF10GT-P",
+   "spec": "工业 DIN 4 SFP + 10 GE PoE",
+   "saga": "Saga STI-4168…/ STI-288DGGPM 对位（缺 4+10 口型）",
+   "url": "https://www.pancakumala.co.id/product-category/dcn/switch/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "DCN",
+   "model": "S5750E-28X-P-EI",
+   "spec": "24 GE PoE + 4×10G L3",
+   "saga": "Saga STC-424XGGPM-280W（$181.2/188.7/196.3）",
+   "url": "https://www.pancakumala.co.id/product-category/dcn/switch/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "方案分销商（DCN 渠道）",
+  "region": "印度尼西亚"
+ },
+ "signals": [
+  "整条 DCN 交换机线（含工业 DIN）→ Saga 可作 DCN 之下的低价 / 白牌补充",
+  "回复带联系方式（2025-10）"
+ ],
+ "risks": [
+  "DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU",
+  "印尼 SNI / 进口许可（Postel）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 20,
+  "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。"
+ },
+ "email_hook": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1",
+   "lane": "印度尼西亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。",
+  "need": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
+  "breakpoint": "DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU",
+  "saga_now": {
+   "p1": "STC-424XGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）",
+   "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → customerservice.pkj@gmail.com",
+   "action": "季度",
+   "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
+  },
+  "facts": [
+   {
+    "date": "2025-05-01",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、24 Port Fiber Switch",
+    "why": "3 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2025-05-01（3 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-10-07",
+    "dir": "来",
+    "who": "Dian for Johandi Halim（PT PKJ，雅加达）",
+    "quote": "（仅签名档，无正文）",
+    "why": "空回复，不计实质",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

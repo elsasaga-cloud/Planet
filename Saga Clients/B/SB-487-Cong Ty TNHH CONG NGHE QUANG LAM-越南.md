@@ -55,7 +55,7 @@ updated: 2026-10-24
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品 | 表内备注 | `用户表` |
 | 2026-02-13 | 来 | Lam Ho（Quang Lam，越南） | （Gmail emoji reaction 💖，无正文） | 非实质 | `gmail_e` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复
 
 ## 基本事实（事实/推断/假设分层）
 

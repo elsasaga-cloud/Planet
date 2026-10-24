@@ -58,7 +58,7 @@ updated: 2026-10-24
 | 2025-10-07 | 来 | Dian for Johandi Halim（PT PKJ，雅加达） | （仅签名档，无正文） | 空回复，不计实质 | `gmail_e` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机
 
 ## 基本事实（事实/推断/假设分层）
 
