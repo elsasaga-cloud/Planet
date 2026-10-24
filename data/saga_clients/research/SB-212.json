@@ -86,7 +86,7 @@
     "saga_now": {
       "p1": "STC-228GP / STC-28GP",
       "tier": 25,
-      "price": "历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+      "price": "复述 2025-07-07 自报价（㉕①）：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5；现按 HRUI 2026-09-30 进价 +25% 为 $21.5 / $25.2 / $26.2 / $34.6——除 228GP 外都比旧报价高，是否对老询价户提价是 Simon 的事（Q-47 默认不主动提价）；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
       "why": "已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -95,7 +95,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → amyhoi@bio-cognitive.com",
       "action": "一句话",
-      "one_question": "Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?"
+      "one_question": "Amy — did the July quote (4-PoE + 1 uplink $19 / 2-SFP + 4-PoE $21 / 8-PoE + 2 uplink $24.5 / 8-PoE + 2 SFP $36.5 USD EXW, 2025 snapshot) fit the access-control job, or did the count change? If live, I re-confirm the same day."
     },
     "facts": [
       {
@@ -118,7 +118,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: Commercial PoE Switch",
-      "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July fit the access-control job, or did the count change?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July (4-PoE + 1 uplink $19, 2-SFP + 4-PoE $21, 8-PoE + 2 uplink $24.5, 8-PoE + 2 SFP $36.5 USD EXW) fit the access-control job, or did the count change? Those were a 2025 snapshot; if the job is live I will re-confirm them the same day.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

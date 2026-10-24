@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。（调研 2026-10-21；表内兴趣：Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：布尔萨 Nilüfer 的网络与弱电交钥匙工程商 Klasnet İletişim ve Güvenlik（2021 年起商业运营、团队 14 年行业经验；自述 10+ 专业人员、1,400+ 完成项目、700+ 客户；业务：光纤布线、CCTV、网络、门禁、火灾报警、IPTV/SMATV、公共广播、停车系统；Üçevler Mah. Dumlupınar Cad. 120 A；+90 224 443 55 27；info@klasnet.com.tr）。ISAF 记录：Evelyn 加了 WhatsApp，客户问怎么成为分销商，对 MC、交换机、跳线感兴趣；联系人 mustafa@klasnet.com.tr；无后续跟进。
 - **对方真实需求（有据）**：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
 - **断点 / 为什么停在这里**：年轻公司、资金有限；土耳其分销需本地库存；无后续跟进
-- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
+- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit））——分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+  - 第一问（只问一个）：Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
+Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

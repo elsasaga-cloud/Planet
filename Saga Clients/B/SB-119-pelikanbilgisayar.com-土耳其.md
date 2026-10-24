@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。（调研 2026-10-21；表内兴趣：没做交谈，给了名片）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11（Simon） A 邮箱首封 + WhatsApp（Simon） 首封 + 一句话
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：伊斯坦布尔 Perpa 商贸中心的 IT 硬件电商/批发商 Pelikan Bilgisayar（Perpa Ticaret Merkezi A Blok K:4 No:271 Şişli；+90 541 764 78 63；站内品类含 Digitus 布线/光纤配件、管理型 L2 千兆 PoE 交换机、Metro Ethernet 交换机、KVM、HDMI 延长器、笔记本等；主打「DIGITUS 品质」；联系人 Ahmet Karcı）。ISAF 记录：没做交谈、给了名片；WhatsApp 已加；无后续跟进。电商 → 20%，Realtek 线 L2 PoE 入门。
 - **对方真实需求（有据）**：电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：档口电商、比价为主；ISAF 未交谈；无后续跟进
-- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
+- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit））——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
 - **下一步（具体）**：2026-11（Simon）　A 邮箱首封 + WhatsApp（Simon）　首封 + 一句话
-  - 第一问（只问一个）：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
+  - 第一问（只问一个）：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
+Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

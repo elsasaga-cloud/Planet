@@ -73,7 +73,7 @@
     "saga_now": {
       "p1": "STC-08GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
       "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
       "repeat": [],
       "gaps": []
@@ -82,7 +82,7 @@
       "when": "现在（Simon）",
       "channel": "WhatsApp（Simon）",
       "action": "一句话",
-      "one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+      "one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
     },
     "facts": [
       {
@@ -99,7 +99,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+      "body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
     },
     "as_of": "2026-10-24"
   }

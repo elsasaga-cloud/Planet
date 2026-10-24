@@ -73,7 +73,7 @@
     "saga_now": {
       "p1": "STC-228GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
       "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
       "repeat": [],
       "gaps": []
@@ -82,7 +82,7 @@
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
       "action": "首封 + 一句话",
-      "one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+      "one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
     },
     "facts": [
       {
@@ -99,7 +99,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+      "body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
     },
     "as_of": "2026-10-24"
   }

@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。（调研 2026-10-21；表内兴趣：问MC Dual Fiber FE/GE 25km SM；8口网管交换机，只要PCB板子   成样品单）
 - **为什么是 B 级**：**调研后定级 B**（样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-22 → 2025-06-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在（Simon） WhatsApp（Simon） 一句话
 
@@ -48,9 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。
 - **对方真实需求（有据）**：集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
 - **断点 / 为什么停在这里**：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
-- **Saga 现在该推什么**：P1 **STC-28GPM**（25% 档，按主表（研究档 saga_fit））——集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
+- **Saga 现在该推什么**：P1 **STC-28GPM**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit））——集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
 - **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
-  - 第一问（只问一个）：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
+  - 第一问（只问一个）：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
+Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

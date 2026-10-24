@@ -101,7 +101,7 @@
     "saga_now": {
       "p1": "STC-28GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
       "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
       "repeat": [],
       "gaps": []
@@ -110,7 +110,7 @@
       "when": "2026-11（Simon）",
       "channel": "A 邮箱首封 + WhatsApp（Simon）",
       "action": "首封 + 一句话",
-      "one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+      "one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
     },
     "facts": [
       {
@@ -127,7 +127,7 @@
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+      "body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
     },
     "as_of": "2026-10-24"
   }

@@ -18127,7 +18127,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）",
 "why": "集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核",
 "repeat": [],
 "gaps": []
@@ -18136,7 +18136,7 @@
 "when": "现在（Simon）",
 "channel": "WhatsApp（Simon）",
 "action": "一句话",
-"one_question": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
+"one_question": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
 },
 "facts": [
 {
@@ -18153,7 +18153,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $62.2 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
+"body": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
 },
 "as_of": "2026-10-24"
 }
@@ -40747,7 +40747,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
 "why": "批发 20% 档：STC-28DGGPM（$80.7）与 Realtek 线 STC-028GP（$24.2）作瑞典 CCTV 批发白牌；16 口 STI-21616GP。已打开的主题（1/16 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-19) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -40756,7 +40756,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $24.2 — shall I send a 5+5 starter carton to Markaryd?"
+"one_question": "Jimmy, from the catalogue you took at ISAF: the 8-port gigabit PoE+ managed switch is $80.7 EXW at the wholesale tier and the unmanaged 8-port PoE $25.1 — shall I send a 5+5 starter carton to Markaryd?"
 },
 "facts": [
 {
@@ -41456,7 +41456,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-21 $240（24 Port Fiber Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-21 $240（24 Port Fiber Switch）",
 "why": "OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X",
 "repeat": [],
 "gaps": []
@@ -41465,7 +41465,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 62,2 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?"
+"one_question": "Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?"
 },
 "facts": [
 {
@@ -55673,7 +55673,7 @@
 "saga_now": {
 "p1": "STC-2216GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）",
 "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
 "repeat": [],
 "gaps": []
@@ -55682,7 +55682,7 @@
 "when": "2026-11",
 "channel": "Elsa 或 A 邮箱 → info@topica.mn",
 "action": "补答 + 一问",
-"one_question": "Bayar — current EXW prices attached (MOQ 1 pc, warranty 1 yr commercial / 3 yrs industrial, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
+"one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
 },
 "facts": [
 {
@@ -55707,7 +55707,7 @@
 ],
 "draft_en": {
 "subject": "Re: price list, MOQ, warranty — Topica",
-"body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, current EXW prices attached (USD EXW, 2026-10-17 snapshot, valid 15 days). For the 16-port PoE you mentioned, the commercial managed unit is STC-2216GPM.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -56847,7 +56847,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter）",
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32",
 "repeat": [],
 "gaps": []
@@ -56856,7 +56856,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $30.8 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
+"one_question": "Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?"
 },
 "facts": [
 {
@@ -58578,7 +58578,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $240（24 Port Fiber Switch）",
 "why": "待核型：光模块不在价格表（Q-32）；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）",
 "repeat": [],
 "gaps": []
@@ -58587,7 +58587,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?"
+"one_question": "Hello Testronix team, alongside the optical modules you import: 2× SFP + 8× PoE switches at $34.6 EXW and industrial gigabit media converters at $23.4 — which SFP types (1G/10G, distance) do you move most, so I can pair a quote?"
 },
 "facts": [
 {
@@ -63382,7 +63382,7 @@
 "saga_now": {
 "p1": "STC-2024GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-12 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
 "why": "分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈。已打开的主题（1/27 封有打开记录）：「8 Port Industrial PoE Switch」(2025-02-03) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -63391,7 +63391,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $24.2; shall I send the HA-coded label mock-up with the quote?"
+"one_question": "For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?"
 },
 "facts": [
 {
@@ -64592,7 +64592,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter）",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32",
 "repeat": [],
 "gaps": []
@@ -64601,7 +64601,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?"
+"one_question": "Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?"
 },
 "facts": [
 {
@@ -68390,7 +68390,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
 "why": "安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价",
 "repeat": [],
 "gaps": []
@@ -68399,7 +68399,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?"
+"one_question": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?"
 },
 "facts": [],
 "proof_gaps": [
@@ -93152,7 +93152,7 @@
 "saga_now": {
 "p1": "STC-08GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -93161,7 +93161,7 @@
 "when": "现在（Simon）",
 "channel": "WhatsApp（Simon）",
 "action": "一句话",
-"one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+"one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
 },
 "facts": [
 {
@@ -93178,7 +93178,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?"
+"body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
 },
 "as_of": "2026-10-24"
 }
@@ -96814,7 +96814,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $220（48 port managed switch）、2024-09-03 $65（10G media converter）、2025-01-13 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $220（48 port managed switch）、2024-09-03 $65（10G media converter）、2025-01-13 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
 "why": "进口分销 20% 档：STC-28DGGPM（$80.7）+ Realtek 线 STC-028GP（$24.2）作保加利亚白牌 PoE；配 VC 光端机",
 "repeat": [],
 "gaps": []
@@ -96823,7 +96823,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $24.2 — shall I send a Bulgarian-language one-page spec for your web shop?"
+"one_question": "Following our talk about the VC video-over-fibre range: for the same CCTV projects the 8-port gigabit PoE+ managed switch is $80.7 EXW at the importer tier and the unmanaged 8-port $25.1 — shall I send a Bulgarian-language one-page spec for your web shop?"
 },
 "facts": [
 {
@@ -97555,7 +97555,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议",
 "repeat": [],
 "gaps": []
@@ -97564,7 +97564,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
+"one_question": "Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?"
 },
 "facts": [
 {
@@ -102186,7 +102186,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）+ STI-110GE 工业 MC（$22.4）+ SFP 作布线工程商起步 SKU；代理条件另附",
 "repeat": [],
 "gaps": []
@@ -102195,7 +102195,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
+"one_question": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
 },
 "facts": [
 {
@@ -102212,7 +102212,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 62,2 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
+"body": "Mustafa Bey, bayilik sorunuz için: Bursa bölgesi için ilk sipariş 20 adet switch/medya çevirici ile başlıyor, 2 SFP + 8 port PoE yönetilebilir switch bayi fiyatı EXW 71,0 USD ve endüstriyel gigabit medya çevirici 22,4 USD — bayilik şartlarını PDF olarak WhatsApp'tan göndereyim mi?"
 },
 "as_of": "2026-10-24"
 }
@@ -112001,7 +112001,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4）",
 "repeat": [],
 "gaps": []
@@ -112010,7 +112010,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+"one_question": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
 },
 "facts": [
 {
@@ -112027,7 +112027,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $62.2 list EXW (unmanaged $30.8), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
+"body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
 },
 "as_of": "2026-10-24"
 }
@@ -155209,7 +155209,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）。已打开的主题（1/5 封有打开记录）：「Industrial fiber switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -155218,7 +155218,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 30,8 USD EXW (управляемый 62,2 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
+"one_question": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
 },
 "facts": [
 {
@@ -159624,7 +159624,7 @@
 "saga_now": {
 "p1": "STC-028GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；按主表（研究档 saga_fit）",
 "why": "配套/分销 20% 档：STC-028GP（Saga Realtek 线 8 GE PoE + 2 上联非管理，列表 $24.2）与 STC-08GE（8 GE 桌面，$10.5）作 POS 门店配套；管理型 STC-28DGGPM（$80.7）",
 "repeat": [],
 "gaps": []
@@ -159633,7 +159633,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+"one_question": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
 },
 "facts": [
 {
@@ -159650,7 +159650,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 24,2 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
+"body": "Hulusi Bey, POS ve yazarkasa kurulumlarınızın yanında satabileceğiniz 8 port gigabit PoE + 2 uplink masaüstü switch fiyatı 25,1 USD EXW, 8 port gigabit 10,5 USD; Hong Kong şirketiniz üzerinden faturalandırma mümkün — ilk deneme partisi için 20 adet yeterli mi?"
 },
 "as_of": "2026-10-24"
 }
@@ -173007,7 +173007,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "安装商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）/ STC-028GP（$24.2）作 CCTV 标配；需管理再上 STC-28GPM（$62.2）",
 "repeat": [],
 "gaps": []
@@ -173016,7 +173016,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+"one_question": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
 },
 "facts": [
 {
@@ -173033,7 +173033,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 30,8 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
+"body": "Emrah Bey, kamera kurulumlarınız için 8 port gigabit PoE + 2 SFP switch (yönetilmeyen) fiyatı 34,6 USD EXW; ayda ortalama kaç kamera projesi yapıyorsunuz — ona göre küçük parti fiyatı vereyim."
 },
 "as_of": "2026-10-24"
 }
@@ -178424,7 +178424,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-028GP $24.2→$25.1；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -178433,7 +178433,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+"one_question": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
 },
 "facts": [
 {
@@ -178450,7 +178450,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 62,2 USD EXW, yönetilmeyen 8 PoE + 2 uplink 24,2 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
+"body": "Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?"
 },
 "as_of": "2026-10-24"
 }
@@ -209255,7 +209255,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2025-07-08 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2025-07-08 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
 "why": "分销 20% 档：STC-28DGGPM（$80.7）配 Uniview；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）。已打开的主题（1/23 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -209264,7 +209264,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $24.2 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?"
+"one_question": "Per gli impianti Uniview che distribuite in Calabria: switch PoE+ 8 porte gigabit gestito con 2 SFP a $80.7 EXW, versione non gestita $25.1 — vi invio il listino commerciale PoE in italiano che avevate chiesto in fiera?"
 },
 "facts": [
 {
@@ -237643,7 +237643,7 @@
 "saga_now": {
 "p1": "STC-228GP / STC-28GP",
 "tier": 25,
-"price": "历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+"price": "复述 2025-07-07 自报价（㉕①）：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5；现按 HRUI 2026-09-30 进价 +25% 为 $21.5 / $25.2 / $26.2 / $34.6——除 228GP 外都比旧报价高，是否对老询价户提价是 Simon 的事（Q-47 默认不主动提价）；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -237652,7 +237652,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → amyhoi@bio-cognitive.com",
 "action": "一句话",
-"one_question": "Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?"
+"one_question": "Amy — did the July quote (4-PoE + 1 uplink $19 / 2-SFP + 4-PoE $21 / 8-PoE + 2 uplink $24.5 / 8-PoE + 2 SFP $36.5 USD EXW, 2025 snapshot) fit the access-control job, or did the count change? If live, I re-confirm the same day."
 },
 "facts": [
 {
@@ -237675,7 +237675,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: Commercial PoE Switch",
-"body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July fit the access-control job, or did the count change?\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July (4-PoE + 1 uplink $19, 2-SFP + 4-PoE $21, 8-PoE + 2 uplink $24.5, 8-PoE + 2 SFP $36.5 USD EXW) fit the access-control job, or did the count change? Those were a 2025 snapshot; if the job is live I will re-confirm them the same day.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -252255,7 +252255,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-23 $300（48 Port PoE Managed Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$141.7；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-23 $300（48 Port PoE Managed Switch）",
 "why": "安防分销配套 8 PoE 管理机（$80.7 @20%）。已打开的主题（1/7 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -252264,7 +252264,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?"
+"one_question": "Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $141.7, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?"
 },
 "facts": [
 {
@@ -254136,7 +254136,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）",
 "repeat": [],
 "gaps": []
@@ -254145,7 +254145,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
+"one_question": "Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?"
 },
 "facts": [
 {
@@ -254629,7 +254629,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线",
 "repeat": [],
 "gaps": []
@@ -254638,7 +254638,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $30.8 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?"
+"one_question": "Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?"
 },
 "facts": [
 {
@@ -256520,7 +256520,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，HRUI 同源，列表 $62.2）；STC-228GP（$30.8）；24 口 STC-2024GP（$93.5）",
 "repeat": [],
 "gaps": [
@@ -256531,7 +256531,7 @@
 "when": "现在（Simon）",
 "channel": "WhatsApp（Simon）",
 "action": "一句话",
-"one_question": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 62,2 USD EXW, неуправляемый — 30,8 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
+"one_question": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
 },
 "facts": [
 {
@@ -256548,7 +256548,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 62,2 USD EXW, неуправляемый — 30,8 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
+"body": "Василий, по вашей линейке PoE: 2 SFP + 8 PoE управляемый — 71,0 USD EXW, неуправляемый — 33,2 USD EXW, 24 PoE — 93,5 USD EXW (цены на 2026-10, действительны 15 дней). Какие модели сейчас берёте, чтобы я сделал прямое сравнение цен по тем же позициям?"
 },
 "as_of": "2026-10-24"
 }
@@ -257688,7 +257688,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "承包商 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）作 CCTV 配套；工业柜 STI-288GP（$59.8）",
 "repeat": [],
 "gaps": []
@@ -257697,7 +257697,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+"one_question": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 34,6 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
 },
 "facts": [
 {
@@ -257714,7 +257714,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 30,8 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
+"body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 34,6 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
 },
 "as_of": "2026-10-24"
 }
@@ -275915,7 +275915,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2025-02-03 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2025-02-03 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
 "why": "安装商 25% 档：STC-28DGGPM 8 PoE+ 2 SFP（$84.1）；低价位用 Realtek 线 STC-028GP（$24.2）。已打开的主题（2/28 封有打开记录）：「10G media converter」(2024-09-03)、「24 Port Fiber Switch」(2025-02-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -275924,7 +275924,7 @@
 "when": "2026-11",
 "channel": "A 邮箱 → logan@longtek.co.uk",
 "action": "短信一问（email_hook）",
-"one_question": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?"
+"one_question": "For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?"
 },
 "facts": [
 {
@@ -275947,7 +275947,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — 8 Port Industrial PoE Switch",
-"body": "Hi Logan,\n\nYou opened our mail on \"8 Port Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $24.2; shall I send one of each for your next install?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi Logan,\n\nYou opened our mail on \"8 Port Industrial PoE Switch\" (and \"Managed Optical Bypass Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -294162,7 +294162,7 @@
 "saga_now": {
 "p1": "STI-240GM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）",
 "why": "OEM 30% 档：STI-240GM（DIN 2 SFP + 4 GE L2 管理，$62.2）与 STI-220GE（2 SFP + 2 GE，$30.1）对应「2 光 4 电 / 2 光 2 电」；10G 用 STI-480XGGM（4×10G SFP+ + 8 GE，$163.2）；bypass 版 SmartByte LT-IS6312G-4GX8GT-FBP（$186.5，Saga 暂",
 "repeat": [],
 "gaps": []
@@ -294171,7 +294171,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 62,2 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
+"one_question": "Ufuk Bey, hazırladığımız ürün görsellerinin devamı olarak: 2 SFP + 4 port L2 yönetilebilir endüstriyel switch geMaxx/SFPTÜRKİYE etiketiyle EXW 77,0 USD, 2 SFP + 2 port 30,1 USD — mağazanız için ilk parti kaç adet olsun?"
 },
 "facts": [
 {
@@ -319331,7 +319331,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "待核型：千兆 SFP 收发器不在价格表（Q-32）；可搭 MC STI-110GE（$23.4）/ STC-228GP（$30.8）",
 "repeat": [],
 "gaps": []
@@ -319340,7 +319340,7 @@
 "when": "现在（Simon）",
 "channel": "WhatsApp（Simon）",
 "action": "一句话",
-"one_question": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+"one_question": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
 },
 "facts": [
 {
@@ -319357,7 +319357,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $30.8 EXW — what quantities and distances are you working with now?"
+"body": "Seydou, following your gigabit SFP sample order: we can quote 1G SFP again by type (SM/MM, 10/20 km) together with a 2× SFP + 8-port switch at $34.6 EXW — what quantities and distances are you working with now?"
 },
 "as_of": "2026-10-24"
 }
@@ -331867,7 +331867,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）",
 "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）",
 "repeat": [],
 "gaps": []
@@ -331876,7 +331876,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?"
+"one_question": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 34,6 USD, L2 yönetilebilir sürüm 74,0 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?"
 },
 "facts": [
 {
@@ -367049,7 +367049,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）；管理型 STC-28GPM（$62.2）",
 "repeat": [],
 "gaps": []
@@ -367058,7 +367058,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+"one_question": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
 },
 "facts": [
 {
@@ -367075,7 +367075,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 30,8 USD, yönetilebilir sürüm 62,2 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
+"body": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım."
 },
 "as_of": "2026-10-24"
 }
@@ -367578,7 +367578,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供",
 "repeat": [],
 "gaps": []
@@ -367587,7 +367587,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+"one_question": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
 },
 "facts": [
 {
@@ -367604,7 +367604,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 30,8 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
+"body": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
 },
 "as_of": "2026-10-24"
 }
@@ -370590,7 +370590,7 @@
 "saga_now": {
 "p1": "STC-028GP",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-114GP $16.5→$18.5；STC-208GP $24.2→$27.2；按主表（研究档 saga_fit）",
 "why": "OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）",
 "repeat": [],
 "gaps": []
@@ -370599,7 +370599,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
+"one_question": "Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?"
 },
 "facts": [
 {
@@ -371537,7 +371537,7 @@
 "saga_now": {
 "p1": "STC-114GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-114GP $16.5→$17.8；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -371546,7 +371546,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+"one_question": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 17,8 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
 },
 "facts": [
 {
@@ -371563,7 +371563,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 16,5 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
+"body": "Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 17,8 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?"
 },
 "as_of": "2026-10-24"
 }
@@ -381520,7 +381520,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
 "repeat": [],
 "gaps": []
@@ -381529,7 +381529,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
+"one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
 },
 "facts": [
 {
@@ -394948,7 +394948,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
 "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。",
 "repeat": [],
 "gaps": []
@@ -394957,7 +394957,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?"
+"one_question": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?"
 },
 "facts": [
 {
@@ -413501,7 +413501,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "安装商 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，列表 $30.8）作网店/自装主力；工厂车间用 STI-288GP（$59.8）",
 "repeat": [],
 "gaps": []
@@ -413510,7 +413510,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+"one_question": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
 },
 "facts": [
 {
@@ -413527,7 +413527,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 30,8 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
+"body": "Rıfat Bey, mağazanız ve kurulumlarınız için 2 SFP + 8 port gigabit PoE switch fiyatı 34,6 USD EXW, İnegöl'deki fabrika sahaları için DIN ray endüstriyel 8 PoE sürümü 59,8 USD — 10'ar adetlik ilk parti için teklif göndereyim mi?"
 },
 "as_of": "2026-10-24"
 }
@@ -423265,7 +423265,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM（Marvell）；Realtek 线 STC-18XGDGPW $66 / STC-624XGDGPM $396（`data/hrui_STC对照表.csv`）；CENTEC STH-8DX24VP-HSI（无价）",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
 "why": "自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）",
 "repeat": [],
 "gaps": [
@@ -423276,7 +423276,7 @@
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
 "action": "换收件人再发一封",
-"one_question": "For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $396, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?"
+"one_question": "For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $466.4, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?"
 },
 "facts": [
 {
@@ -427400,7 +427400,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；16 口 STC-2016GP（$88.0）；24 口 STC-2024GP（$93.5）",
 "repeat": [],
 "gaps": []
@@ -427409,7 +427409,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+"one_question": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 33,2 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
 },
 "facts": [
 {
@@ -427426,7 +427426,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 30,8 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
+"body": "Merhaba, ISAF'ta istediğiniz ticari PoE switch toptan fiyatları: 2 SFP + 8 PoE 33,2 USD, 16 PoE 88,0 USD, 24 PoE 93,5 USD (EXW, nötr kutu) — ilk sipariş için hangi model ve adet?"
 },
 "as_of": "2026-10-24"
 }
@@ -429444,7 +429444,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+ 管理，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）",
 "repeat": [],
 "gaps": []
@@ -429453,7 +429453,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+"one_question": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
 },
 "facts": [
 {
@@ -429470,7 +429470,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $30.8, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
+"body": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?"
 },
 "as_of": "2026-10-24"
 }
@@ -430128,7 +430128,7 @@
 "saga_now": {
 "p1": "STC-228GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）+ SFP 模块（向 SmartByte/HRUI 另询）；MC STI-110GE（$23.4）",
 "repeat": [],
 "gaps": []
@@ -430137,7 +430137,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+"one_question": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
 },
 "facts": [
 {
@@ -430154,7 +430154,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $30.8 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
+"body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
 },
 "as_of": "2026-10-24"
 }
@@ -433530,7 +433530,7 @@
 "saga_now": {
 "p1": "STC-28GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）",
 "why": "分销 20% 档：STC-28GPM（Realtek 2 SFP + 8 GE PoE L2 管理，内置电源，列表 $62.2；ISAF 现场报 $70 含 DC48V 内置电源版）；工业 DIN 版 STI-288GPM（$78.9）/ 非管理 STI-288GP（$57.4）",
 "repeat": [],
 "gaps": []
@@ -433539,7 +433539,7 @@
 "when": "2026-11（Simon）",
 "channel": "A 邮箱首封 + WhatsApp（Simon）",
 "action": "首封 + 一句话",
-"one_question": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+"one_question": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
 },
 "facts": [
 {
@@ -433556,7 +433556,7 @@
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-"body": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 62,2 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
+"body": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?"
 },
 "as_of": "2026-10-24"
 }
@@ -490162,7 +490162,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-27 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$25.1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-27 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
 "why": "分销 20% 档：STC-28DGGPM（8 PoE+ 2 SFP 管理，$80.7）配 Uniview NVR；低价位 Realtek 线 STC-028GP（$24.2）/ STC-2024GP（24 PoE，$93.5）进价目表。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2026-01-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -490171,7 +490171,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 24,2 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
+"one_question": "Belkız Hanım, Uniview ve Hikvision NVR'larınızla eşleşen 8 port gigabit PoE+ yönetilebilir switch (2 SFP) EXW 80,7 USD, yönetilemeyen 8 port PoE 25,1 USD; fiyat listenize eklemek için 10 adetlik deneme fiyatı göndereyim mi?"
 },
 "facts": [
 {
@@ -840298,7 +840298,7 @@
 "saga_now": {
 "p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；Realtek 商用线有（STC-18XGDGE/-PW、STC-624XGDGM 等，有价）；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句",
 "tier": "OEM 30%（品牌商定制）",
-"price": "STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
 "why": "对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
 "repeat": "品牌商若立项为定制，才有复购",
 "gaps": "他的具体应用（为什么要 SFP+ 跑 2.5G）；Technetix 供应商准入要求；REST 是否仍是硬条件；Simon《STH计划》：1G/2.5G/5G 铜口 CENTEC 机「暂不宣传、信息备好」→ 信稿只答「on request / not on published list」，不主推；估算带见 CENTEC 锚表 §5.3，对客户仍 price on request"
@@ -840366,7 +840366,7 @@
 ],
 "draft_en": {
 "subject": "Re: OEM Core Switching Solution — closing two loops from January",
-"body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G; if the requirement is multi-gig copper, we have two ways: the commercial Realtek line (8 x 2.5G PoE + 10G SFP web-managed at $66 USD EXW, 24 x 2.5G PoE++ L3 at $396 USD EXW, single PSU) or, on request and not on our published list, CENTEC-based 24/48 x 2.5G/5G/10G Base-T units with PoE++ and dual PSU.\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan"
+"body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G; if the requirement is multi-gig copper, we have two ways: the commercial Realtek line (8 x 2.5G PoE + 10G SFP web-managed at $66 USD EXW, 24 x 2.5G PoE++ L3 at $466.4 USD EXW, single PSU) or, on request and not on our published list, CENTEC-based 24/48 x 2.5G/5G/10G Base-T units with PoE++ and dual PSU.\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan"
 }
 }
 }

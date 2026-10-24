@@ -36,8 +36,8 @@ updated: 2026-10-24
 - **是谁**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。（调研 2026-10-21；表内兴趣：SFP模块）
 - **为什么是 B 级**：**调研后定级 B**（品类为光模块（非主线）、无互动、越南非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter）
-- **第一问（只问一个）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter）
+- **第一问（只问一个）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -49,9 +49,9 @@ updated: 2026-10-24
 - **现状一句话**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
 - **断点 / 为什么停在这里**：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
-- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $30.8 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+  - 第一问（只问一个）：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

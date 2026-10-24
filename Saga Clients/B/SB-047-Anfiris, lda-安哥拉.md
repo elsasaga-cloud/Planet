@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。（调研 2026-10-21；表内兴趣：8口network switch   成样品单）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/安哥拉
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：现在（Simon） WhatsApp（Simon） 一句话
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。
 - **对方真实需求（有据）**：默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：非洲非主攻区；无公司资料；葡语市场
-- **Saga 现在该推什么**：P1 **STC-08GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
+- **Saga 现在该推什么**：P1 **STC-08GE**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit））——默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）
 - **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　一句话
-  - 第一问（只问一个）：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
+  - 第一问（只问一个）：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@ updated: 2026-10-24
 **主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $24.2 — how many would your next project in Angola need?
+Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

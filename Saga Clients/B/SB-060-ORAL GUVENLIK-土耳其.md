@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。（调研 2026-10-21；表内兴趣：问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格   说后面加WhatsApp发）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：北塞浦路斯（KKTC）尼科西亚的安防系统零售/安装商 Oral Güvenlik Sistemleri（Oral Companies 旗下，2008 年设立；约 6 人；业主 Metin Oral；经理 Muhammad Azeem；网店销售 Hikvision NVR/摄像机、Ttec 机柜等；+90 392 228 33 30；info@oralguvenlik.com）。ISAF 记录：Muhammad Azeem Ullah——问工业级 PoE 带网管、bypass；问 12 光 12 电带 PoE 网管报价 $150；2 光 8 电带 PoE 管理（Vitesse）报价 $90 觉得贵（备注：后面可报瑞昱方案价格）；问多模收发器价格；无后续跟进。按 T06 规则北塞计入土耳其。
 - **对方真实需求（有据）**：零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
 - **断点 / 为什么停在这里**：北塞小市场、零售规模；价格敏感；无后续跟进
-- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，按主表（研究档 saga_fit））——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
+- **Saga 现在该推什么**：P1 **STC-28GPM**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit））——零售/分销 20% 档：STC-28GPM（Saga Realtek 线，2 SFP + 8 GE PoE L2 管理，列表 $62.2）替代被嫌贵的 $90 Vitesse 机；非管理 STC-228GP（$30.8）；工业 bypass 版另议
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 62,2 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
+  - 第一问（只问一个）：Azeem Bey, ISAF'ta 90 USD'yi pahalı bulduğunuz 2 SFP + 8 port PoE yönetilebilir switch'in Realtek tabanlı sürümü fiyatıyla 71,0 USD EXW; yanına multimode SFP fiyatını da ekleyeyim mi?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

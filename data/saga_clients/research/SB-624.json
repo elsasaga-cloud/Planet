@@ -1,145 +1,145 @@
 {
- "code": "SB-624",
- "name_official": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（İstanbul Perpa, TR；aniltelekom.com；安防/通信总分销）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理，2022 至今；此前 Karel 区域销售经理 1990–2017）。分销商已有 TP-Link/Ruijie 线 → Saga 作「无品牌/贴牌低价线」补位 → 分销 20%。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "TP-Link",
-  "Ruijie",
-  "Karel",
-  "Yealink",
-  "Ajax",
-  "Paradox"
- ],
- "evidence": [
-  {
-   "kind": "名录",
-   "claim": "KP 职务与履历；规模",
-   "quote": "Cumhur Ölmez is a Pazarlama Ve Satış Yöneticisi at Anıl Telekom based in Okmeydani, Istanbul. Previously, Cumhur was a Bölge Satış Yöneticisi at Karel Electronics. … 1990-2017 … Anıl Telekom 2022-present … Number of Employees 11-50",
-   "url": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Instagram",
-   "claim": "分销品牌",
-   "quote": "Ana Dağıtıcı 📷 Dahua 📱 Gigaset,Karel,Yealink,Panasonic 🌎 TpLink,Ruijie,Lande 🚨 Ajax,Paradox 🔈Westa,Decon 📞0212 292 90 90 aniltelekom@aniltelekom.com",
-   "url": "https://www.instagram.com/aniltelekomunikasyon/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "总部地址",
-   "quote": "Head Office PERPA TİC. MERKEZİ A BLOK NO:1440-1442-1575-1577-1579 KAT:10-11-12 ŞİŞLİ / İSTANBUL",
-   "url": "https://www.aniltelekom.com/en/iletisim",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "YouTube",
-   "claim": "成立年份",
-   "quote": "Telefon: 0212 292 90 90 … E-Posta: info@aniltelekom.com Temelleri 2002 yılında at…",
-   "url": "https://www.youtube.com/@aniltelekom",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ISAF：给了名片",
-   "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Cumhur Ölmez",
-   "role": "Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开）",
-   "email": "cumhur@aniltelekom.com（用户表）",
-   "phone": "+90 212 292 90 90（公司）",
-   "source": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri Sanayi Ticaret Limited Şirketi",
-  "founded": "2002",
-  "hq": "Perpa Ticaret Merkezi A Blok No:1440-1442-1575-1577-1579 Kat:10-11-12, Şişli / İstanbul（0212 292 90 90；aniltelekom@aniltelekom.com / info@aniltelekom.com）",
-  "size": "11–50（ZoomInfo）",
-  "other": "总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon"
- },
- "business_lines": [
-  "安防（Dahua、Ajax、Paradox）分销",
-  "通信（Karel、Yealink、Gigaset、Panasonic）分销",
-  "网络（TP-Link、Ruijie、Lande 机柜）分销"
- ],
- "channels": {
-  "网站": "https://www.aniltelekom.com/",
-  "电话": "+90 212 292 90 90（公开）",
-  "邮箱（公开）": "aniltelekom@aniltelekom.com / info@aniltelekom.com",
-  "Instagram": "https://www.instagram.com/aniltelekomunikasyon/"
- },
- "signals": [
-  "Dahua + TP-Link/Ruijie 分销商 → CCTV 配套 PoE 交换机走量；可做「Anıl 自有标」低价线避免与 TP-Link 正面冲突"
- ],
- "risks": [
-  "已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 20,
-  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）"
- },
- "email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；研究档 risks：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
-  },
-  "situation": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理",
-  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
-  "breakpoint": "已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-624",
+  "name_official": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（İstanbul Perpa, TR；aniltelekom.com；安防/通信总分销）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理，2022 至今；此前 Karel 区域销售经理 1990–2017）。分销商已有 TP-Link/Ruijie 线 → Saga 作「无品牌/贴牌低价线」补位 → 分销 20%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "TP-Link",
+    "Ruijie",
+    "Karel",
+    "Yealink",
+    "Ajax",
+    "Paradox"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "名录",
+      "claim": "KP 职务与履历；规模",
+      "quote": "Cumhur Ölmez is a Pazarlama Ve Satış Yöneticisi at Anıl Telekom based in Okmeydani, Istanbul. Previously, Cumhur was a Bölge Satış Yöneticisi at Karel Electronics. … 1990-2017 … Anıl Telekom 2022-present … Number of Employees 11-50",
+      "url": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Instagram",
+      "claim": "分销品牌",
+      "quote": "Ana Dağıtıcı 📷 Dahua 📱 Gigaset,Karel,Yealink,Panasonic 🌎 TpLink,Ruijie,Lande 🚨 Ajax,Paradox 🔈Westa,Decon 📞0212 292 90 90 aniltelekom@aniltelekom.com",
+      "url": "https://www.instagram.com/aniltelekomunikasyon/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "总部地址",
+      "quote": "Head Office PERPA TİC. MERKEZİ A BLOK NO:1440-1442-1575-1577-1579 KAT:10-11-12 ŞİŞLİ / İSTANBUL",
+      "url": "https://www.aniltelekom.com/en/iletisim",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "YouTube",
+      "claim": "成立年份",
+      "quote": "Telefon: 0212 292 90 90 … E-Posta: info@aniltelekom.com Temelleri 2002 yılında at…",
+      "url": "https://www.youtube.com/@aniltelekom",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ISAF：给了名片",
+      "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Cumhur Ölmez",
+      "role": "Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开）",
+      "email": "cumhur@aniltelekom.com（用户表）",
+      "phone": "+90 212 292 90 90（公司）",
+      "source": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri Sanayi Ticaret Limited Şirketi",
+    "founded": "2002",
+    "hq": "Perpa Ticaret Merkezi A Blok No:1440-1442-1575-1577-1579 Kat:10-11-12, Şişli / İstanbul（0212 292 90 90；aniltelekom@aniltelekom.com / info@aniltelekom.com）",
+    "size": "11–50（ZoomInfo）",
+    "other": "总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon"
+  },
+  "business_lines": [
+    "安防（Dahua、Ajax、Paradox）分销",
+    "通信（Karel、Yealink、Gigaset、Panasonic）分销",
+    "网络（TP-Link、Ruijie、Lande 机柜）分销"
+  ],
+  "channels": {
+    "网站": "https://www.aniltelekom.com/",
+    "电话": "+90 212 292 90 90（公开）",
+    "邮箱（公开）": "aniltelekom@aniltelekom.com / info@aniltelekom.com",
+    "Instagram": "https://www.instagram.com/aniltelekomunikasyon/"
+  },
+  "signals": [
+    "Dahua + TP-Link/Ruijie 分销商 → CCTV 配套 PoE 交换机走量；可做「Anıl 自有标」低价线避免与 TP-Link 正面冲突"
+  ],
+  "risks": [
+    "已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 20,
+    "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）"
+  },
+  "email_hook": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL」；研究档 risks：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进"
+    },
+    "situation": "伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理",
+    "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
+    "breakpoint": "已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 20,
+      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）",
+      "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

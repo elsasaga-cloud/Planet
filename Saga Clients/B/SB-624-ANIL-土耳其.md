@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理，2022 至今；此前 Karel 区域销售经理 1990–2017）。分销商已有 TP-Link/Ruijie 线 → Saga 作「无品牌/贴牌低价线」补位 → 分销 20%。（调研 2026-10-21；表内兴趣：应该是老板 没说什么， 给了名片）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
 - **断点 / 为什么停在这里**：已有 TP-Link/Ruijie 主力线（价格战）；ISAF 未表达需求；无后续跟进
-- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
+- **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，Saga Realtek 线列表 $30.8）配 Dahua 摄像走量；管理型 STC-28GPM（$62.2）；24 口 STC-2024GP（$93.5）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 30,8 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
+  - 第一问（只问一个）：Cumhur Bey, ISAF'ta kartvizitinizi aldım; Dahua kamera satışlarınızın yanına TP-Link ile çakışmayan nötr/özel etiketli bir PoE hattı: 2 SFP + 8 port PoE 33,2 USD, 24 port 93,5 USD (EXW, distribütör fiyatı) — ilk denemede 50 adetlik parti için özel etiket ister misiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

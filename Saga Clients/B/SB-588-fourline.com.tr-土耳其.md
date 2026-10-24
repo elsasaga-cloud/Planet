@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。（调研 2026-10-21；表内兴趣：不会英文， 要catalog）
 - **为什么是 B 级**：+12 ISAF 2025 展会面对面名片；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-114GP $16.5→$18.5；STC-208GP $24.2→$27.2；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：布尔萨 Yıldırım 的天线/卫星与 CCTV/报警批发零售商 Özel Elektronik（2007 年注册「FOURLINE」品牌；自有品牌产品：Fourline 卫星接收机、楼宇对讲主机、FRL 系列摄像机、电源适配器；经销商登录体系；参考工程为住宅楼卫星/摄像系统；Şükraniye Mah. Ankara Cad. No:242 Yıldırım/Bursa；0224 364 1888 / 0555 995 5442；info@fourline.com.tr）。ISAF 记录：不会英文，要 catalog；WhatsApp 加不上（0224 座机）；无后续跟进。自有品牌批发商 → 交换机可贴 Fourline 牌 → OEM 30%（低价非管理 PoE 为主）。
 - **对方真实需求（有据）**：OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
 - **断点 / 为什么停在这里**：低价卫星/CCTV 市场极度比价；语言；无后续跟进
-- **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，按主表（研究档 saga_fit））——OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
+- **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-114GP $16.5→$18.5；STC-208GP $24.2→$27.2；按主表（研究档 saga_fit））——OEM 30% 档：STC-028GP（8 GE PoE + 2 GE 上联非管理，Saga Realtek 线列表 $24.2）/ STC-114GP（4 PoE + SFP，$16.5）贴 Fourline 牌走经销网；管理型 STC-28DGGPM（$87.4）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 24,2 USD) ve 4 port PoE (16,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
+  - 第一问（只问一个）：Merhaba, ISAF'ta istediğiniz katalog ektedir; Fourline markanızla 8 port PoE + 2 uplink switch (EXW 27,2 USD) ve 4 port PoE (18,5 USD) üretebiliyoruz, logo baskı MOQ'suz — bayilerinize hangi port sayısı daha çok soruluyor?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

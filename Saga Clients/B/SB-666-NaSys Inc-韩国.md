@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。（调研 2026-10-21；表内兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-22 推送 35 次无任何回复（聋名单）
 - **历史互动**：推送 35 次（2024-06-26 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
+- **第一问（只问一个）**：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,9 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。
 - **对方真实需求（有据）**：工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
 - **断点 / 为什么停在这里**：韩国 KC；35 次跟进无回复
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch））——工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch））——工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $137.5 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
+  - 第一问（只问一个）：Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
