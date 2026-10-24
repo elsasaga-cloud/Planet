@@ -273,7 +273,7 @@ updated: 2026-10-24
 ```text
 Hi Ken,
 
-You opened our mail on "Marvell Industrial Alert System" (and "8 Port Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?
 

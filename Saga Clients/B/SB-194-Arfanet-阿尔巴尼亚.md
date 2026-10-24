@@ -269,7 +269,7 @@ updated: 2026-10-24
 ```text
 Hi Fatjon,
 
-You opened our mail on "90W PoE Managed Switch" (and "Mini Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "90W PoE Managed Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 On the fibre bypass switch you asked about: we can supply an industrial 4-SFP + 8-GE PoE unit with optical bypass on the fibre ring, plus standard DIN-rail 8-PoE + 2 SFP managed models (−40~75 °C, CE/RoHS) from small lots — how many ring nodes does the project need?
 

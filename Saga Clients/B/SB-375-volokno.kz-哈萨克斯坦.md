@@ -287,7 +287,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "Marvell Alleycat5 Solution") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?
 

@@ -243,7 +243,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Industrial PoE Switch" (and "48 port managed switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?
 

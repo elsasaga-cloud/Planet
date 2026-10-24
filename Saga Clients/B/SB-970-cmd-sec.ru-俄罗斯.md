@@ -229,7 +229,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Passive PoE Switch" (and "Mini industrial switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Passive PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?
 

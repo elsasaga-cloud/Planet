@@ -37,7 +37,7 @@ updated: 2026-10-24
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-06-06 → 2025-10-18）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：You opened our June note on the 24-port PoE — is there a line it would fit?
+- **第一问（只问一个）**：Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → norm@nsidistribution.com 一句话
 
@@ -51,7 +51,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → norm@nsidistribution.com　一句话
-  - 第一问（只问一个）：You opened our June note on the 24-port PoE — is there a line it would fit?
+  - 第一问（只问一个）：Our June note on the 24-port PoE / 10G unit — is there a line in the NSI catalogue it would fit, and who decides on new vendors?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@ updated: 2026-10-24
 ```text
 Hi, Norm,
 
-Someone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:
+We have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:
 
 Is there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?
 

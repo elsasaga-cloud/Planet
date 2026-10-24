@@ -289,7 +289,7 @@ updated: 2026-10-24
 ```text
 Hi George,
 
-You opened our mail on "Marvell Industrial Alert System" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful?
 

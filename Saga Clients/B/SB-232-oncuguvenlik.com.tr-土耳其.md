@@ -284,7 +284,7 @@ updated: 2026-10-24
 ```text
 Hi Ibrahim,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial PoE switches you sell next to Utepo and BDCOM — and under your Sec-on label — we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and 8/16-PoE commercial models from small lots in your housing, CE/RoHS, EXW USD — which model would you brand first?
 

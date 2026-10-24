@@ -281,7 +281,7 @@ updated: 2026-10-24
 ```text
 Hi Dimitrios,
 
-You opened our mail on "Mini Industrial PoE Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Mini Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
 

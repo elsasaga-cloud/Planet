@@ -281,7 +281,7 @@ updated: 2026-10-24
 ```text
 Hi Denise,
 
-You opened our mail on "Marvell Industrial Alert System" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
 

@@ -290,7 +290,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Industrial PoE Switch" (and "10G L3 Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the VSS PoE switch range (W04POE2 / W08POE2G / W08GPOE2), we can supply the same port layouts under your label from small lots with a choice of housings, plus a Marvell-based gigabit L2+ 8-PoE step-up model — which VSS model do you reorder most often?
 

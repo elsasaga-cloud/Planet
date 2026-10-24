@@ -279,7 +279,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Industrial PoE Switch" (and "24 Port PoE Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?
 

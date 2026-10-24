@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 Alongside the Lantech industrial switches in your Endüstriyel Network line, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which Lantech port count do your factory projects use most?
 

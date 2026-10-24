@@ -267,7 +267,7 @@ updated: 2026-10-24
 ```text
 Hi Nabidky,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "48 Port PoE Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?
 

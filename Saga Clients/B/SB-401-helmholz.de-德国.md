@@ -272,7 +272,7 @@ updated: 2026-10-24
 ```text
 Hi Carsten,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "16 Port Ethernet Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?
 

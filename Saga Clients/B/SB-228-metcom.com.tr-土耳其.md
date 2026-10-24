@@ -275,7 +275,7 @@ updated: 2026-10-24
 ```text
 Hi Ankara,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches at your LPR and parking-barrier sites, we supply Marvell-based 8-PoE + 2 SFP L2+ units and DIN-rail industrial 4/8-PoE models for outdoor cabinets (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which do your installers use more, indoor rack or cabinet-mounted?
 

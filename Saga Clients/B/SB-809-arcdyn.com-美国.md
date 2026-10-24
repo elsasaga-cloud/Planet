@@ -275,7 +275,7 @@ updated: 2026-10-24
 ```text
 Hi Justin,
 
-You opened our mail on "Industrial PoE Switch" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?
 

@@ -273,7 +273,7 @@ updated: 2026-10-24
 ```text
 Hi Anton,
 
-You opened our mail on "Marvell Alleycat5 Solution" (and "Mini Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Alleycat5 Solution" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?
 

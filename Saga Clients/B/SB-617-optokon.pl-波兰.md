@@ -306,7 +306,7 @@ updated: 2026-10-24
 ```text
 Hi Abiel,
 
-You opened our mail on "24 Port Fiber Switch" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "24 Port Fiber Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the civilian LMSW managed switch range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-GE + 4×10G, DIN-rail industrial 8-PoE) from small lots in your packaging, CE/RoHS — which LMSW model do you reorder most often?
 

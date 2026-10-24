@@ -279,7 +279,7 @@ updated: 2026-10-24
 ```text
 Hi Intant,
 
-You opened our mail on "10G Enterprise SFP Switch" (and "48 Port PoE Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G Enterprise SFP Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the Utepo-type industrial PoE positions in your Hikvision installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from small lots, CE/RoHS; EAC by your side — which configuration do your projects use most?
 

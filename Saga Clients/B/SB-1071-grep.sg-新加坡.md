@@ -264,7 +264,7 @@ updated: 2026-10-24
 ```text
 Hi Robin,
 
-You opened our mail on "Industrial PoE Switch" (and "10G L3 Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most?
 

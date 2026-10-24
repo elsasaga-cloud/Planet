@@ -288,7 +288,7 @@ updated: 2026-10-24
 ```text
 Hi Pete,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "Marvell Industrial Alert System") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?
 

@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Marvell Industrial Alert System" (and "90W PoE Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?
 

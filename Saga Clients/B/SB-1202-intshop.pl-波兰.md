@@ -227,7 +227,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "10G fiber media converter" (and "Passive poe switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "10G fiber media converter" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?
 

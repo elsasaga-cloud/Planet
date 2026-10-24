@@ -278,7 +278,7 @@ updated: 2026-10-24
 ```text
 Hi Augustin,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switch section of your catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots (FCC/CE/RoHS) — which band moves more for your reseller and installer accounts?
 

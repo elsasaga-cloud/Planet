@@ -295,7 +295,7 @@ updated: 2026-10-24
 ```text
 Hi Stephane,
 
-You opened our mail on "Mini Industrial PoE Switch" (and "Marvell Industrial Alert System") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Mini Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 Alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?
 

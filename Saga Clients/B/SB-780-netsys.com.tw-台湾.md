@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "8 Port Industrial PoE Switch" (and "16 Port Ethernet Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "8 Port Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the Netsys industrial range, we can serve as a second source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS) — is there a port count your OEM customers ask for that you do not build in-house?
 

@@ -288,7 +288,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "Marvell Industrial Alert System") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the JDK-POE-4P12 and your other industrial PoE models, we can be a second ODM source on a Marvell platform (DIN-rail 4-PoE + 1 GE, 8-PoE + 2 SFP managed; −40~75 °C, CE/RoHS) from small lots in your housing — which model do you reorder most often?
 

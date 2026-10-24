@@ -225,7 +225,7 @@ updated: 2026-10-24
 ```text
 Hi Usman,
 
-You opened our mail on "Information" but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Information" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need?
 

@@ -306,7 +306,7 @@ updated: 2026-10-24
 ```text
 Hi Philip,
 
-You opened our mail on "Industrial PoE Switch" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial switches and media converters under the Yamasaki label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS; RCM by your side) in your packaging from small lots — which model do your Australian resellers reorder most?
 

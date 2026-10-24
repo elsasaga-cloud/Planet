@@ -271,7 +271,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Industrial PoE Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches you list with cameras and NVRs, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8/16-PoE unmanaged) from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your installer customers buy most?
 

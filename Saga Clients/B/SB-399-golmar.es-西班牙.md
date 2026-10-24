@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hi Golmar,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "48 Port PoE Managed Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?
 

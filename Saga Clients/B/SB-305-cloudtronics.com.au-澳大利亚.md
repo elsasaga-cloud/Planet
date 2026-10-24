@@ -295,7 +295,7 @@ updated: 2026-10-24
 ```text
 Hi Robert,
 
-You opened our mail on "Marvell Alleycat5 Solution" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Alleycat5 Solution" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the CLD-8POE-2SFP-IND industrial PoE switch, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged or managed, −40~75 °C, CE/RoHS) from small lots in your housing — would a managed variant be useful for your IoT deployments?
 

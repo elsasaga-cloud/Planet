@@ -295,7 +295,7 @@ updated: 2026-10-24
 ```text
 Hi Harry,
 
-You opened our mail on "Managed Optical Bypass Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Managed Optical Bypass Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the ELPRO-branded industrial Ethernet switches that accompany your wireless I/O range, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units in your white housing and label from small lots (−40~75 °C, CE/RoHS; RCM by your side) — which configuration do your remote-site kits use most?
 

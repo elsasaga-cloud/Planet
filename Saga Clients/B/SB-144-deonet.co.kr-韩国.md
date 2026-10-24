@@ -275,7 +275,7 @@ updated: 2026-10-24
 ```text
 Hi Chris,
 
-You opened our mail on "Marvell Alleycat5 Solution" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Alleycat5 Solution" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 You asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.
 

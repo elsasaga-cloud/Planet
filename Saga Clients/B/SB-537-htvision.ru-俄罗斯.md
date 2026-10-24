@@ -261,7 +261,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "48 Port PoE Managed Switch" (and "Mini Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "48 Port PoE Managed Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
 

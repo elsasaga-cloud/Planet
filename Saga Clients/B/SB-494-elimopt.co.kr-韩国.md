@@ -289,7 +289,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "Industrial PoE Switch" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often?
 

@@ -280,7 +280,7 @@ updated: 2026-10-24
 ```text
 Hi Logan,
 
-You opened our mail on "8 Port Industrial PoE Switch" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "8 Port Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the small CCTV and access-control jobs you run around Enfield, an 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and the unmanaged 8-port PoE $26.2; shall I send one of each for your next install?
 

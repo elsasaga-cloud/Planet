@@ -245,7 +245,7 @@ updated: 2026-10-24
 ```text
 Hi Dipol,
 
-You opened our mail on "2.5G Unmanaged Switch" (and "Industrial fiber switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "2.5G Unmanaged Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
 

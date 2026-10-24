@@ -283,7 +283,7 @@ updated: 2026-10-24
 ```text
 Hi Steve,
 
-You opened our mail on "Marvell Industrial Alert System" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most?
 

@@ -254,7 +254,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-You opened our mail on "16 Port Ethernet Switch" (and "Managed Optical Bypass Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "16 Port Ethernet Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?
 

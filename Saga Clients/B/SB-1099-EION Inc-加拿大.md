@@ -253,7 +253,7 @@ updated: 2026-10-24
 ```text
 Hi Harshul,
 
-You opened our mail on "Mini Industrial PoE Switch" (and "Commercial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Mini Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
 

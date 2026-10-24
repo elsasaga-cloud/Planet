@@ -271,7 +271,7 @@ updated: 2026-10-24
 ```text
 Hi Nick,
 
-You opened our mail on "Optional Marvell Chipset Solutions" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Optional Marvell Chipset Solutions" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the entry models in the OSD industrial PoE range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE + 4 SFP) from small lots under your label, CE/RoHS — which model would you consider dual-sourcing first?
 

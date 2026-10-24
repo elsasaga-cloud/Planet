@@ -283,7 +283,7 @@ updated: 2026-10-24
 ```text
 Hi Tcsong,
 
-You opened our mail on "Marvell Industrial Alert System" (and "Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Marvell Industrial Alert System" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the CMS-series switches that ship with your optical repeater and camera systems, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and gigabit MC units under the Cominet label from small lots, CE/RoHS; KC by your side — which configuration do your projects use most?
 

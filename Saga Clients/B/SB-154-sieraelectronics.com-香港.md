@@ -277,7 +277,7 @@ updated: 2026-10-24
 ```text
 Hi Mauro,
 
-You opened our mail on "Industrial PoE Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the Siera-branded PoE switches you ship with Sieco camera kits to Latin America, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE) in your packaging from small lots, FCC/CE/RoHS — which port count do your distributors order most?
 

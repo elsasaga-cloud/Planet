@@ -274,7 +274,7 @@ updated: 2026-10-24
 ```text
 Hi Daniel,
 
-You opened our mail on "Industrial PoE Switch" (and "Marvell Industrial Alert System") but had no reason to answer — fair enough. No brochure this time, just one question:
+We have sent you a few mails on "Industrial PoE Switch" and you never had a reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches behind your CCTV and intercom category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your trade customers buy most?
 
