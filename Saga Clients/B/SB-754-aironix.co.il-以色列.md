@@ -98,7 +98,7 @@ updated: 2026-10-24
 - **【用户表】工业 FS ORing**
   > 工业FS O-ring的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Yair Turjeman（）yair@aironix.co.il 〔用户表〕
+- **KP**：Yair Turjeman（）yair@aironix.co.il WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）〔用户表〕
 - **KP**：Eytan Birenzwige（）info@aironix.co.il 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -191,7 +191,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yair Turjeman | — | yair@aironix.co.il | 调研核实（公开页） | 用户表 |
+| Yair Turjeman | — | yair@aironix.co.il / WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」） | 调研核实（公开页） | 用户表 |
 | Eytan Birenzwige | — | info@aironix.co.il | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

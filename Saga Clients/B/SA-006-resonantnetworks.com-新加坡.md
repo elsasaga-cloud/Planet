@@ -159,8 +159,8 @@ updated: 2026-10-24
   > Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor
   > 来源：https://resonantnetworks.com/contact-us/（抓取 2026-10-23）
 - **KP**：—（销售邮箱（Crunchbase 公开））sales@resonantnetworks.com +65 6871 4128〔https://www.crunchbase.com/organization/resonant-networks〕
-- **KP**：Au Wai Choon（单据联系人）auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com 〔PI.zip 单据；S/A 邮箱来信表头〕
-- **KP**：Andrea Chew（来信署名人（职务未在邮件署名里出现））andreachewyy@resonantnetworks.com 〔S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Au Wai Choon（单据联系人）auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com +65 9734 0606（2024-07-02 签名 M:）〔PI.zip 单据；S/A 邮箱来信表头〕
+- **KP**：Andrea Chew（来信署名人（职务未在邮件署名里出现））andreachewyy@resonantnetworks.com +65 9188 0860（2024-08 签名 M:）〔S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Bernard Song（来信署名人（职务未在邮件署名里出现））bernardsongyw@resonantnetworks.com 〔S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Hairomee（来信署名人（职务未在邮件署名里出现））hairomee@resonantnetworks.com 〔S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）〕
 - 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
@@ -289,8 +289,8 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 销售邮箱（Crunchbase 公开） | sales@resonantnetworks.com / +65 6871 4128 | 调研核实（公开页） | https://www.crunchbase.com/organization/resonant-networks |
-| Au Wai Choon | 单据联系人 | auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com | 调研核实（公开页） | PI.zip 单据；S/A 邮箱来信表头 |
-| Andrea Chew | 来信署名人（职务未在邮件署名里出现） | andreachewyy@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补） |
+| Au Wai Choon | 单据联系人 | auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com / +65 9734 0606（2024-07-02 签名 M:） | 调研核实（公开页） | PI.zip 单据；S/A 邮箱来信表头 |
+| Andrea Chew | 来信署名人（职务未在邮件署名里出现） | andreachewyy@resonantnetworks.com / +65 9188 0860（2024-08 签名 M:） | 调研核实（公开页） | S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补） |
 | Bernard Song | 来信署名人（职务未在邮件署名里出现） | bernardsongyw@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补） |
 | Hairomee | 来信署名人（职务未在邮件署名里出现） | hairomee@resonantnetworks.com | 调研核实（公开页） | S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补） |
 | Trevor Loi | — | sales@resonantnetworks.com / trevorloijt@resonantnetworks.com | 用户表原值 | Clients/ 表 |

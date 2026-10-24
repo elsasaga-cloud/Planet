@@ -97,7 +97,7 @@ updated: 2026-10-24
 - **【用户表】S 重点；1 次实质回复；15 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Casey Hurley（来信署名人（职务未在邮件署名里出现））pchurley@actelis.com 〔S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）〕
+- **KP**：Casey Hurley（VP Sales - Strategic Accounts（邮件签名））pchurley@actelis.com 〔S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）〕
 - **KP**：Michal Winkler（来信署名人（职务未在邮件署名里出现））michalw@actelis.com 〔S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -220,7 +220,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Casey Hurley | 来信署名人（职务未在邮件署名里出现） | pchurley@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补） |
+| Casey Hurley | VP Sales - Strategic Accounts（邮件签名） | pchurley@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补） |
 | Michal Winkler | 来信署名人（职务未在邮件署名里出现） | michalw@actelis.com | 调研核实（公开页） | S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补） |
 
 - **通道建议**：企业邮箱可直发

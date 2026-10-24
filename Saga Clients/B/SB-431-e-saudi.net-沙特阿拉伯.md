@@ -92,7 +92,7 @@ updated: 2026-10-24
 - **【用户表】Catalog 有回复**
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Saeed Mohammed（）saeed@e-saudi.net 〔用户表〕
+- **KP**：Saeed Mohammed（）saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -176,7 +176,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Saeed Mohammed | — | saeed@e-saudi.net | 调研核实（公开页） | 用户表 |
+| Saeed Mohammed | — | saeed@e-saudi.net / +966 55 068 6619（2024-02→06 签名 Mobile） | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

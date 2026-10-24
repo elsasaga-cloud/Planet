@@ -82,7 +82,7 @@ updated: 2026-10-24
 - **【用户表】兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息**
   > 兴趣：2光6电非管理非POE SC 20km 没成
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lee（）hydraulics@vnn.vn +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ly Thanh Ha (Lee Thanh Ha)（；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com））hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业外））
@@ -178,7 +178,8 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lee | — | hydraulics@vnn.vn / +84 912 336 758 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ly Thanh Ha (Lee Thanh Ha) | ；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com） | hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） / +84 912 336 758 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Lee | — | chuyengiathuykhi@gmail.com / hydraulics@vnn.vn / +84912336758 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

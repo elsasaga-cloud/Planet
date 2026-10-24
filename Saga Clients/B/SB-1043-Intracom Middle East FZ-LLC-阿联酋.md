@@ -101,7 +101,7 @@ updated: 2026-10-24
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Roberto Grassi（）rgrassi@intracom-telecom.com 〔用户表〕
 - **KP**：Sergio Kodama（）skodama@intracom-telecom.com 〔用户表〕
-- **KP**：Mohammad Yaacoub（）mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） 〔S 邮箱来信表头〕
+- **KP**：Mohammad Yaacoub（）mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） +971 50 654 5766（2024-10-09 签名 m:）〔S 邮箱来信表头〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -198,7 +198,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | Roberto Grassi | — | rgrassi@intracom-telecom.com | 调研核实（公开页） | 用户表 |
 | Sergio Kodama | — | skodama@intracom-telecom.com | 调研核实（公开页） | 用户表 |
-| Mohammad Yaacoub | — | mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） | 调研核实（公开页） | S 邮箱来信表头 |
+| Mohammad Yaacoub | — | mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） / +971 50 654 5766（2024-10-09 签名 m:） | 调研核实（公开页） | S 邮箱来信表头 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

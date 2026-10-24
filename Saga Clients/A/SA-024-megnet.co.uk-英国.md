@@ -103,7 +103,7 @@ updated: 2026-10-24
   > we offer a lifetime warranty on all Chimera Networking products
   > 来源：https://megnet.co.uk/warranty/（抓取 2026-07-02）
 - **KP**：—（报价热线） +44 845 130 1585〔https://dev.megnet.co.uk/〕
-- **KP**：Jitendra Sain（来信署名人（职务未在邮件署名里出现））jitendra@megnet.co.uk 〔S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）〕
+- **KP**：Jitendra Sain（Assistant Manager - Operations（邮件签名））jitendra@megnet.co.uk 〔S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Nasim Chaudhari（来信署名人（职务未在邮件署名里出现））nasim@megnet.co.uk 〔S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）〕
 - 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
@@ -227,7 +227,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 报价热线 | +44 845 130 1585 | 调研核实（公开页） | https://dev.megnet.co.uk/ |
-| Jitendra Sain | 来信署名人（职务未在邮件署名里出现） | jitendra@megnet.co.uk | 调研核实（公开页） | S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补） |
+| Jitendra Sain | Assistant Manager - Operations（邮件签名） | jitendra@megnet.co.uk | 调研核实（公开页） | S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补） |
 | Nasim Chaudhari | 来信署名人（职务未在邮件署名里出现） | nasim@megnet.co.uk | 调研核实（公开页） | S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补） |
 | Rajiv | — | rajiv@megnet.co.uk / purchasing@megnet.co.uk | 用户表原值 | Clients/ 表 |
 

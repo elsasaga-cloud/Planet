@@ -2911,14 +2911,14 @@
 "name": "Au Wai Choon",
 "role": "单据联系人",
 "email": "auwc@resonantnetworks.com（本人来信地址，30 封 2024-07→2026-06）；sales-inf@resonantnetworks.com",
-"phone": "",
+"phone": "+65 9734 0606（2024-07-02 签名 M:）",
 "source": "PI.zip 单据；S/A 邮箱来信表头"
 },
 {
 "name": "Andrea Chew",
 "role": "来信署名人（职务未在邮件署名里出现）",
 "email": "andreachewyy@resonantnetworks.com",
-"phone": "",
+"phone": "+65 9188 0860（2024-08 签名 M:）",
 "source": "S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）"
 },
 {
@@ -13426,7 +13426,7 @@
 },
 {
 "name": "Jitendra Sain",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "Assistant Manager - Operations（邮件签名）",
 "email": "jitendra@megnet.co.uk",
 "phone": "",
 "source": "S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）"
@@ -20881,7 +20881,7 @@
 "name": "Reyann Salazar Brosoto",
 "role": "来信署名人（职务未在邮件署名里出现）",
 "email": "reyann@alsalami.com",
-"phone": "",
+"phone": "+971 52 905 6975（2025-06-16 签名 Mob）",
 "source": "S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）"
 }
 ],
@@ -56237,7 +56237,7 @@
 },
 {
 "name": "Vladimir Xe",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "Co-founder, Latmedia（邮件签名）",
 "email": "vladimir.xe@latmedia.uz",
 "phone": "",
 "source": "S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）"
@@ -59004,9 +59004,9 @@
 "kp": [
 {
 "name": "Jacco Slob",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "CEO（2025-03 邮件签名）",
 "email": "j.slob@dios-industries.com",
-"phone": "",
+"phone": "+31 6 4685 3228（2025-03-05 签名 m 06-46853228）",
 "source": "S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）"
 }
 ],
@@ -107524,7 +107524,7 @@
 "kp": [
 {
 "name": "Hussain Alqahtani",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "Purchasing and Product Development Manager（邮件签名）",
 "email": "hussain.alqahtani@linx-com.com",
 "phone": "",
 "source": "S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）"
@@ -127187,7 +127187,7 @@
 "name": "Mohammad Yaacoub",
 "title": "Projects Manager",
 "email": "mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07）",
-"phone": "",
+"phone": "+971 50 654 5766（2024-10-09 签名 m:）",
 "source": "S 邮箱来信表头"
 }
 ],
@@ -130239,7 +130239,7 @@
 "name": "Wasi Akthar",
 "title": "（E&I / Telecom lead）",
 "email": "ei-telcomlead@aamindustrial.com",
-"phone": "",
+"phone": "0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
@@ -278872,11 +278872,12 @@
 ],
 "kp": [
 {
-"name": "Lee",
+"name": "Ly Thanh Ha (Lee Thanh Ha)",
 "title": "（表内联系人）",
-"email": "hydraulics@vnn.vn",
+"email": "hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址）",
 "phone": "+84 912 336 758",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com）"
 }
 ],
 "grade_override": null,
@@ -314883,7 +314884,7 @@
 "name": "Saeed Mohammed",
 "title": "（职务待核）",
 "email": "saeed@e-saudi.net",
-"phone": "",
+"phone": "+966 55 068 6619（2024-02→06 签名 Mobile）",
 "source": "用户表"
 }
 ],
@@ -416892,7 +416893,7 @@
 "name": "Yair Turjeman",
 "title": "Chief Executive Officer",
 "email": "yair@aironix.co.il",
-"phone": "",
+"phone": "WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）",
 "source": "用户表"
 },
 {
@@ -475668,7 +475669,7 @@
 "kp": [
 {
 "name": "Casey Hurley",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "VP Sales - Strategic Accounts（邮件签名）",
 "email": "pchurley@actelis.com",
 "phone": "",
 "source": "S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）"
@@ -479049,7 +479050,7 @@
 "name": "Styven Tseng",
 "role": "2024-10-25 来信「Do you have flat Gigabit 8-p PoE web smart or L2?」（私人邮箱 styvent@gmail.com 在签名里）",
 "email": "styven@ilucoltd.com",
-"phone": "",
+"phone": "WhatsApp +886 933 819 962（2024-10-25 签名）",
 "source": "S 邮箱 2024-10-25 来信表头 + 签名"
 }
 ],

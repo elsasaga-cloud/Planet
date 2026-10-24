@@ -93,7 +93,7 @@ updated: 2026-10-24
   > 兴趣：做项目的 问了几个产品；回复：有用但现在没需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Prabhu Manickam（）prabhu@mbtc.com.sa +966 57 201 2594〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Wasi Akthar（）ei-telcomlead@aamindustrial.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Wasi Akthar（）ei-telcomlead@aamindustrial.com 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
@@ -197,7 +197,7 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Prabhu Manickam | — | prabhu@mbtc.com.sa / +966 57 201 2594 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Wasi Akthar | — | ei-telcomlead@aamindustrial.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Wasi Akthar | — | ei-telcomlead@aamindustrial.com / 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 24 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

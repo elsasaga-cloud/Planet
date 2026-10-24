@@ -108,7 +108,7 @@ updated: 2026-10-24
 - **【注册名录】V.O.F. 注册与规模**
   > De vennootschap onder firma Dios Industries is gevestigd op Rugstraat 64 te ST. WILLEBRORD … kvk nummer 76083926 … Bij Dios Industries zijn tussen de 2 en 5 personen werkzaam.
   > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
-- **KP**：Jacco Slob（来信署名人（职务未在邮件署名里出现））j.slob@dios-industries.com 〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
+- **KP**：Jacco Slob（CEO（2025-03 邮件签名））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。
 - 备注：WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
@@ -209,7 +209,7 @@ updated: 2026-10-24
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jacco Slob | 来信署名人（职务未在邮件署名里出现） | j.slob@dios-industries.com | 调研核实（公开页） | S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补） |
+| Jacco Slob | CEO（2025-03 邮件签名） | j.slob@dios-industries.com / +31 6 4685 3228（2025-03-05 签名 m 06-46853228） | 调研核实（公开页） | S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补） |
 | ing. Jacco Slob | — | j.slob@dios-industries.com / +310646853228 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
