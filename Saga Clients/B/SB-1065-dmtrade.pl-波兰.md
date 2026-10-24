@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1065` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 5 封 2024，无记录打开，0 回；收件 sklep@dmtrade.pl；主题多为「10G managed switch、industrial fiber switch」）** ｜ 类型：电子产品电商（波兰，多品类） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,1826」；研究档 risks：多品类电商（电动桌/翻译机等）：网络设备非主业，量小
+- **绑定等级：未触达（S 邮箱 5 封 2024，无记录打开，0 回；收件 sklep@dmtrade.pl；主题多为「10G managed switch、industrial fiber switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）** ｜ 类型：电子产品电商（波兰，多品类） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,1826」；研究档 risks：多品类电商（电动桌/翻译机等）：网络设备非主业，量小；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：波兰 DMTrade.pl（电子产品网店：TV-SAT / CCTV 监控 / 智能家居 / Spacetronik 电动桌 / 办公设备；表内「宇航的工业 FS，买的 Cudy 的牌子」= 现卖 Cudy 与深圳白牌）；表内无跟进记录。
 - **对方真实需求（有据）**：网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE
 - **断点 / 为什么停在这里**：多品类电商（电动桌/翻译机等）：网络设备非主业，量小
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-27 | 去 | S 群发 | 10G managed switch、industrial fiber switch | 5 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2024-11-27（5 去 / 0 来） | `gmail_digest` |
+| 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 dmtrade.pl, sklep@dmtrade.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,182629,182960,182961,393686,700325,702859,18 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

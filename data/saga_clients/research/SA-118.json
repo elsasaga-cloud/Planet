@@ -91,7 +91,7 @@
   "tier": 20,
   "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
  },
- "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
+ "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
  "mail_review": {
   "binding": {
    "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回",
@@ -109,7 +109,7 @@
   "saga_now": {
    "p1": "STC-2216GPM",
    "tier": 20,
-   "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）",
+   "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率",
    "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
    "repeat": [],
    "gaps": []
@@ -118,7 +118,7 @@
    "when": "2026-11",
    "channel": "Elsa 或 A 邮箱 → info@topica.mn",
    "action": "补答 + 一问",
-   "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW. Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
+   "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
   },
   "facts": [
    {
@@ -138,6 +138,51 @@
     "k": "gmail_e 19a38c06fc7947d2"
    },
    {
+    "date": "2025-12-29",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Marvell Industrial Alert System",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19b6955f73ed4dab"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19cae26ba74987b4"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Industrial PoE Switch",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19d51688f37521e1"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "10G Enterprise SFP Switch",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19e15ccbc917f627"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "24 Port PoE Managed Switch — Price: 170USD/PC",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19fcb6dd212d4d23"
+   },
+   {
     "date": "2026-10-21",
     "dir": "用户表",
     "who": "Simon",
@@ -151,7 +196,7 @@
   ],
   "draft_en": {
    "subject": "Price list, MOQ, warranty — Topica",
-   "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; Elsa sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+   "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; Elsa sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — Elsa's mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
   },
   "as_of": "2026-10-24"
  }

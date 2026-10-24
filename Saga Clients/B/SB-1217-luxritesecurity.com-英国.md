@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1217` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）** ｜ 类型：英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团） ｜ 筛子：0 ｜ 停点：明确「not useful」 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=2300dd9d2d1f3408
+- **绑定等级：未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）** ｜ 类型：英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团） ｜ 筛子：0 ｜ 停点：明确「not useful」 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=2300dd9d2d1f3408；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：英国 Trade 安防分销（Luxrite Security 的 sales@ 直接进 4Gon Solutions / Cadmus Distribution Group 的 Zendesk 工单台——三者同一集团；4Gon 另有档 SC-406）。Simon 2025-01-26 发 16 口 PoE L2+ 群发 → 次日工单台真人回「not an item we would find useful」——明确婉拒。2026-10-07 Simon 又把 $180 的 24 口 PoE 群发发到 info@4gon.co.uk（SC-406 的地址），同一集团再被打一次；不动。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -52,6 +52,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-01-27 | 来 | 4Gon Solutions 工单台（support@4gon.zendesk.com，代 Luxrite sales@） | Hi Simon, thank you. This is not an item we would find useful, sorry. We appreciate your enquiry. 4Gon Solutions | 真人婉拒（不是自动回复）；Luxrite 的销售邮箱由 4Gon 工单台接管，说明同一集团 | `gmail_s 2300dd9d2d1f3408` |
+| 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 luxritesecurity.com, sales@luxritesecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-07 | 去 | Saga（Simon，群发） | 24 Port PoE Managed Switch… Price: 180USD/PC（发 info@4gon.co.uk = SC-406） | 同一集团 21 个月后再被群发一次；他们已明确说过不需要——4Gon/Luxrite 应从群发名单剔除 | `gmail_s（thr 1878262953979638412）` |
 
 ## 基本事实（事实/推断/假设分层）

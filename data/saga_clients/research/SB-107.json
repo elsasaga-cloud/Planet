@@ -1,122 +1,130 @@
 {
-  "code": "SB-107",
-  "name_official": "EC System / Eltcrac System（波兰）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（sklep-ecsystem.pl，快照 2026-10-21，波兰语）",
-  "summary": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Hasivo",
-    "Hikvision",
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "安防系统网店：报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；+48 792 580 660",
-      "quote": "Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B.",
-      "url": "https://sklep-ecsystem.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "hasivo 的商业级；商业 PoE Hasivo 的",
-      "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（网店）",
-      "title": "e-sklep",
-      "email": "esklep@ecsystem.pl",
-      "phone": "+48 792 580 660",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-107",
+ "name_official": "EC System / Eltcrac System（波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sklep-ecsystem.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hasivo",
+  "Hikvision",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "安防系统网店：报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；+48 792 580 660",
+   "quote": "Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B.",
+   "url": "https://sklep-ecsystem.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Eltcrac System（待核）",
-    "founded": "",
-    "hq": "Poland",
-    "size": "中小型安防网店（B2B）",
-    "other": "已售 Hasivo（中国同行）"
-  },
-  "business_lines": [
-    "安防网店（B2B）"
-  ],
-  "channels": {
-    "role": "网店 / 分销（已售中国同行）",
-    "region": "波兰"
-  },
-  "signals": [
-    "已售 Hasivo → 同类替换（Marvell 管理型差异）"
-  ],
-  "risks": [
-    "4 次群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
-  },
-  "email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 esklep@ecsystem.pl；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 19；用户表：「兴趣：hasivo的商业级;商业PoE Hasivo的」；研究档 risks：4 次群发无回复"
-    },
-    "situation": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
-    "need": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-    "breakpoint": "4 次群发无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-12 $220（48 port managed switch）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
-      "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
-        "why": "19 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-25（19 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "hasivo 的商业级；商业 PoE Hasivo 的",
+   "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（网店）",
+   "title": "e-sklep",
+   "email": "esklep@ecsystem.pl",
+   "phone": "+48 792 580 660",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Eltcrac System（待核）",
+  "founded": "",
+  "hq": "Poland",
+  "size": "中小型安防网店（B2B）",
+  "other": "已售 Hasivo（中国同行）"
+ },
+ "business_lines": [
+  "安防网店（B2B）"
+ ],
+ "channels": {
+  "role": "网店 / 分销（已售中国同行）",
+  "region": "波兰"
+ },
+ "signals": [
+  "已售 Hasivo → 同类替换（Marvell 管理型差异）"
+ ],
+ "risks": [
+  "4 次群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。"
+ },
+ "email_hook": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 19 封 2024→2026，无记录打开，0 回；收件 esklep@ecsystem.pl；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 19；用户表：「兴趣：hasivo的商业级;商业PoE Hasivo的」；研究档 risks：4 次群发无回复；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "波兰安防系统网店（SSWiN 报警、CCTV、对讲、LAN/WLAN；B2B 批发折扣；Hikvision、Dahua；poe 641 / switch 293 / sfp 113；+48 792 580 660），esklep@；表内「商用 PoE，Hasivo 的」；群发 4 次无回复。",
+  "need": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+  "breakpoint": "4 次群发无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-12 $220（48 port managed switch）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "对位 Hasivo 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；24 PoE STC-424DGGPM-280W。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Dzień dobry — beside the Hasivo switches you list, Marvell L2+ 8-PoE + 2-SFP at $81 and 24-PoE at $135 EXW, 1-year warranty (commercial line), EU files; 2 trial units for the B2B shop?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 ecsystem.pl, esklep@ecsystem.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、16 Port Ethernet Switch",
+    "why": "19 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-25（19 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：hasivo的商业级;商业PoE Hasivo的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,130 +1,138 @@
 {
-  "code": "SB-1234",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（reweb.it，快照 2026-10-21）",
-  "summary": "意大利 REweb S.r.l.（1983 年起 IT 集成「Integration beyond technology」：M2M SIM 多运营商 IoT 连接、Advantech（ADAM / ICR 路由器）、Opengear 赞助商、工业交换机栏目（PoE / 以太网 / 9 口）；表内「MC 工业 FS 在卖 Perle 的产品」「质量一般」；邮箱 cuse@、m.colli@）；表内未跟进。",
-  "type": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
-  "size": "",
-  "brands_seen": [
-    "Advantech",
-    "Perle",
-    "Opengear"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：REweb S.r.l.；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-      "quote": "Integration beyond technology Innovazione tecnologica dal 1983 Contattaci Le nostre soluzioni Di cosa ci occupiamo quotidianamente Sim M2M Connettività IoT multioperatore, adatta ad ogni dispositivo per le esigenze di connettività delle app",
-      "url": "https://www.reweb.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC 工业FS 在卖Perle的产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "REweb 定位",
-      "quote": "Home | REweb S.r.l. ; Integration beyond technology Innovazione tecnologica dal 1983 ; Sim M2M Connettività IoT multioperatore ; /switch-industriali-poe/",
-      "url": "https://www.reweb.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC 工业 FS 在卖 Perle",
-      "quote": "MC 工业FS 在卖Perle的产品；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（m.colli，姓名待核）",
-      "title": "（职务待核）",
-      "email": "m.colli@reweb.it",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1234",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（reweb.it，快照 2026-10-21）",
+ "summary": "意大利 REweb S.r.l.（1983 年起 IT 集成「Integration beyond technology」：M2M SIM 多运营商 IoT 连接、Advantech（ADAM / ICR 路由器）、Opengear 赞助商、工业交换机栏目（PoE / 以太网 / 9 口）；表内「MC 工业 FS 在卖 Perle 的产品」「质量一般」；邮箱 cuse@、m.colli@）；表内未跟进。",
+ "type": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
+ "size": "",
+ "brands_seen": [
+  "Advantech",
+  "Perle",
+  "Opengear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：REweb S.r.l.；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+   "quote": "Integration beyond technology Innovazione tecnologica dal 1983 Contattaci Le nostre soluzioni Di cosa ci occupiamo quotidianamente Sim M2M Connettività IoT multioperatore, adatta ad ogni dispositivo per le esigenze di connettività delle app",
+   "url": "https://www.reweb.it/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC 工业FS 在卖Perle的产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT / IoT 集成（M2M SIM、Advantech、Opengear）",
-    "工业交换机 / MC 分销（Perle）"
-  ],
-  "channels": {
-    "role": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
-    "region": "意大利",
-    "contact": "cuse@reweb.it、m.colli@reweb.it"
+  {
+   "kind": "官网快照",
+   "claim": "REweb 定位",
+   "quote": "Home | REweb S.r.l. ; Integration beyond technology Innovazione tecnologica dal 1983 ; Sim M2M Connettività IoT multioperatore ; /switch-industriali-poe/",
+   "url": "https://www.reweb.it/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /switch-industriali-poe/、/switch-industriali/、/gli-switch-industriali-9-porte/；站内 ICR-1745 / ADAM-6000；首页 Reweb e Opengear saranno sponsor",
-    "官网：Integration beyond technology Innovazione tecnologica dal 1983 ; Sim M2M Connettività IoT multioperatore"
-  ],
-  "risks": [
-    "Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle"
-  },
-  "email_hook": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 在卖Perle的产品」）",
-      "type": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「MC 工业FS 在卖Perle的产品」；研究档 risks：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过"
-    },
-    "situation": "意大利 REweb S.r.l.（1983 年起 IT 集成「Integration beyond technology」：M2M SIM 多运营商 IoT 连接、Advantech（ADAM / ICR 路由器）、Opengear 赞助商、工业交换机栏目（PoE / 以太网 / 9 口）；表内「MC 工业 FS 在卖 Perle 的产品」「质量一般」；邮箱 cuse@、m.colli@）；表内未跟进。",
-    "need": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle",
-    "breakpoint": "Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → m.colli@reweb.it",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC 工业FS 在卖Perle的产品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC 工业 FS 在卖 Perle",
+   "quote": "MC 工业FS 在卖Perle的产品；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（m.colli，姓名待核）",
+   "title": "（职务待核）",
+   "email": "m.colli@reweb.it",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "IT / IoT 集成（M2M SIM、Advantech、Opengear）",
+  "工业交换机 / MC 分销（Perle）"
+ ],
+ "channels": {
+  "role": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
+  "region": "意大利",
+  "contact": "cuse@reweb.it、m.colli@reweb.it"
+ },
+ "signals": [
+  "页面 /switch-industriali-poe/、/switch-industriali/、/gli-switch-industriali-9-porte/；站内 ICR-1745 / ADAM-6000；首页 Reweb e Opengear saranno sponsor",
+  "官网：Integration beyond technology Innovazione tecnologica dal 1983 ; Sim M2M Connettività IoT multioperatore"
+ ],
+ "risks": [
+  "Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle"
+ },
+ "email_hook": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业FS 在卖Perle的产品」）",
+   "type": "IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「MC 工业FS 在卖Perle的产品」；研究档 risks：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "意大利 REweb S.r.l.（1983 年起 IT 集成「Integration beyond technology」：M2M SIM 多运营商 IoT 连接、Advantech（ADAM / ICR 路由器）、Opengear 赞助商、工业交换机栏目（PoE / 以太网 / 9 口）；表内「MC 工业 FS 在卖 Perle 的产品」「质量一般」；邮箱 cuse@、m.colli@）；表内未跟进。",
+  "need": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle",
+  "breakpoint": "Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → m.colli@reweb.it",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+   "one_question": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cuse@reweb.it, m.colli@reweb.it, reweb.it, simweb@reweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC 工业FS 在卖Perle的产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

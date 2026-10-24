@@ -35,22 +35,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1205` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「CVI POE 工业FS SDI 主要是围绕着CCTV来的」）** ｜ 类型：瑞士 CCTV 与对讲方案商/分销 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：瑞士（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；研究档 risks：ePoE 长距（250 m）需求：需核 SmartByte 型号支持
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CVI POE 工业FS SDI 主要是围绕着CCTV来的」）** ｜ 类型：瑞士 CCTV 与对讲方案商/分销 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：瑞士（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CVI POE 工业FS SDI 主要是围绕着CCTV来的」；研究档 risks：ePoE 长距（250 m）需求：需核 SmartByte 型号支持；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：瑞士 IP CCTV GmbH（专业 HD/4K 视频监控与视频分析、对讲/可视对讲；网络监控与 HD-CVI、CVBS/AHD；站内 ePoE / PoE+ 交换机页；表内「CVI / PoE / 工业 FS / SDI，主要围绕 CCTV」）；表内无跟进记录。
 - **对方真实需求（有据）**：CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）
 - **断点 / 为什么停在这里**：ePoE 长距（250 m）需求：需核 SmartByte 型号支持
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@ipcctv.ch（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@ipcctv.ch, ipcctv.ch）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | CVI POE 工业FS SDI 主要是围绕着CCTV来的 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

@@ -35,22 +35,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle；首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → m.colli@reweb.it 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → m.colli@reweb.it 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1234` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 在卖Perle的产品」）** ｜ 类型：IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业FS 在卖Perle的产品」；研究档 risks：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 工业FS 在卖Perle的产品」）** ｜ 类型：IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业FS 在卖Perle的产品」；研究档 risks：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：意大利 REweb S.r.l.（1983 年起 IT 集成「Integration beyond technology」：M2M SIM 多运营商 IoT 连接、Advantech（ADAM / ICR 路由器）、Opengear 赞助商、工业交换机栏目（PoE / 以太网 / 9 口）；表内「MC 工业 FS 在卖 Perle 的产品」「质量一般」；邮箱 cuse@、m.colli@）；表内未跟进。
 - **对方真实需求（有据）**：在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle
 - **断点 / 为什么停在这里**：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.colli@reweb.it　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.colli@reweb.it　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-31 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 cuse@reweb.it, m.colli@reweb.it, reweb.it, simweb@reweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 工业FS 在卖Perle的产品 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

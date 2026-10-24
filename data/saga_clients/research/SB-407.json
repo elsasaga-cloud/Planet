@@ -1,109 +1,118 @@
 {
-  "code": "SB-407",
-  "name_official": "Protekna S.r.l.（维罗纳）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（protekna.it，快照 2026-10-21，意语）",
-  "summary": "意大利维罗纳（+39 045 861 8777）工业自动化分销商（Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex 意大利分销；switch 116 / poe 128 / sfp 106 / media converter 52），Owner Stefano Turrina；表内「MaiWe；工业 FS MC 串口 SFP 很多牌子，销售平台」；群发 1 次。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Moxa",
-    "Mitsubishi Electric",
-    "Murrelektronik",
-    "Hilscher",
-    "Molex",
-    "MaiWe"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业自动化分销：Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex；+39 045 86 18 777",
-      "quote": "Protekna SRL, esperienza pluriennale nell'automazione industriale. Distributore italiano di mitsubishi electric moxa murrelektronik hilscher grafos molex",
-      "url": "https://protekna.it/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MaiWe；工业 FS MC 串口 SFP 很多牌子；销售平台",
-      "quote": "兴趣：MaiWe;工业FS MC 串口 SFP 很多牌子 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Stefano Turrina",
-      "title": "Owner",
-      "email": "stefano.turrina@protekna.it",
-      "phone": "+39 045 861 8777",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-407",
+ "name_official": "Protekna S.r.l.（维罗纳）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（protekna.it，快照 2026-10-21，意语）",
+ "summary": "意大利维罗纳（+39 045 861 8777）工业自动化分销商（Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex 意大利分销；switch 116 / poe 128 / sfp 106 / media converter 52），Owner Stefano Turrina；表内「MaiWe；工业 FS MC 串口 SFP 很多牌子，销售平台」；群发 1 次。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Mitsubishi Electric",
+  "Murrelektronik",
+  "Hilscher",
+  "Molex",
+  "MaiWe"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业自动化分销：Mitsubishi Electric、Moxa、Murrelektronik、Hilscher、Grafos、Molex；+39 045 86 18 777",
+   "quote": "Protekna SRL, esperienza pluriennale nell'automazione industriale. Distributore italiano di mitsubishi electric moxa murrelektronik hilscher grafos molex",
+   "url": "https://protekna.it/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Protekna S.r.l.",
-    "founded": "",
-    "hq": "Verona, Italy",
-    "size": "中小型工业自动化分销",
-    "other": "已接触中国同行 MaiWe（迈威）"
-  },
-  "business_lines": [
-    "工业自动化元器件与工业网络分销"
-  ],
-  "channels": {
-    "role": "工业分销商",
-    "region": "意大利"
-  },
-  "signals": [
-    "已接触 MaiWe → 对中国工业交换机接受度高",
-    "Owner 具名"
-  ],
-  "risks": [
-    "Moxa 主线；比价 MaiWe"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "MaiWe 同价位带、Marvell 差异 → STI-288GPM（$78.9 @20%）；串口服务器不供。"
-  },
-  "email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封意语休假自动回复）",
-      "type": "维罗纳电子/安防（Protekna）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "IT",
-      "cadence": "不动",
-      "evidence": "k=3c025bf4466d42af"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MaiWe；工业 FS MC 串口 SFP 很多牌子；销售平台",
+   "quote": "兴趣：MaiWe;工业FS MC 串口 SFP 很多牌子 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Stefano Turrina",
+   "title": "Owner",
+   "email": "stefano.turrina@protekna.it",
+   "phone": "+39 045 861 8777",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Protekna S.r.l.",
+  "founded": "",
+  "hq": "Verona, Italy",
+  "size": "中小型工业自动化分销",
+  "other": "已接触中国同行 MaiWe（迈威）"
+ },
+ "business_lines": [
+  "工业自动化元器件与工业网络分销"
+ ],
+ "channels": {
+  "role": "工业分销商",
+  "region": "意大利"
+ },
+ "signals": [
+  "已接触 MaiWe → 对中国工业交换机接受度高",
+  "Owner 具名"
+ ],
+ "risks": [
+  "Moxa 主线；比价 MaiWe"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "MaiWe 同价位带、Marvell 差异 → STI-288GPM（$78.9 @20%）；串口服务器不供。"
+ },
+ "email_hook": "Stefano, beside the MaiWe units you've looked at — our DIN managed 8-PoE + 2-SFP is Marvell-based (ERPS <20 ms, −40~75 ℃, CE/RoHS) at $79 EXW; one sample to Verona for a side-by-side?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封意语休假自动回复）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
+   "type": "维罗纳电子/安防（Protekna）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "IT",
+   "cadence": "不动",
+   "evidence": "k=3c025bf4466d42af；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 protekna.it, protekna@protekna.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

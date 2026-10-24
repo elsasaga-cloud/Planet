@@ -37,22 +37,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → gina.c@amplicon.com（Gina C.） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → gina.c@amplicon.com（Gina C.） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1152` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业FS 很多牌子的 销售平台 有case communication的」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：工业FS 很多牌子的 销售平台 有case communication的」；研究档 risks：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：工业FS 很多牌子的 销售平台 有case communication的」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：工业FS 很多牌子的 销售平台 有case communication的」；研究档 risks：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。
 - **对方真实需求（有据）**：Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gina.c@amplicon.com（Gina C.）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gina.c@amplicon.com（Gina C.）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 amplicon.com, gina.c@amplicon.com, sales@amplicon.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS 很多牌子的 销售平台 有case communication的 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

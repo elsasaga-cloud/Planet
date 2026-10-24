@@ -69,14 +69,14 @@
  "email_hook": "Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：做项目的 让发介绍资料；回复：read」）",
+   "level": "Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：做项目的 让发介绍资料；回复：read」）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（非主攻区；J5：有证据再动）",
    "lane": "沙特阿拉伯 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
   "need": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
@@ -96,6 +96,14 @@
    "one_question": ""
   },
   "facts": [
+   {
+    "date": "2026-05-12",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+    "quote": "10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里）",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",

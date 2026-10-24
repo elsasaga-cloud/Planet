@@ -1,112 +1,120 @@
 {
-  "code": "SB-1175",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（cratsol.ae，快照 2026-10-21）",
-  "summary": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
-  "type": "IT 贸易商（英国/阿联酋，DAC 询盘）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：cratsol.ae",
-      "quote": "",
-      "url": "https://cratsol.ae/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "10G DAC 3米 300个单价",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "10G DAC ×300 询盘",
-      "quote": "10G DAC 3米 300个单价；Issac Grant Skype人名 Amir Zahirshah 质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1175",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cratsol.ae，快照 2026-10-21）",
+ "summary": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
+ "type": "IT 贸易商（英国/阿联酋，DAC 询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：cratsol.ae",
+   "quote": "",
+   "url": "https://cratsol.ae/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 cratsol.ae，语言 ?，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "10G DAC 3米 300个单价",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 产品贸易（英国 / 阿联酋）"
-  ],
-  "channels": {
-    "role": "IT 贸易商（英国/阿联酋，DAC 询盘）",
-    "region": "英国",
-    "contact": "sales@cratsol.co.uk"
-  },
-  "signals": [
-    "表内：10G DAC 3 米 300 个单价；Issac Grant Skype 人名 Amir Zahirshah；质量一般",
-    "快照：内容为空（cratsol.ae / cratsol.co.uk）"
-  ],
-  "risks": [
-    "询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 20,
-    "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位"
-  },
-  "email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「10G DAC 3米 300个单价」）",
-      "type": "IT 贸易商（英国/阿联酋，DAC 询盘）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "UK 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「10G DAC 3米 300个单价」；研究档 risks：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@"
-    },
-    "situation": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
-    "need": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
-    "breakpoint": "询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 20,
-      "price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
-      "repeat": [],
-      "gaps": [
-        "10G DAC 3 m ×300 单卖：Saga 光模块价目表（Extra Info `Price/Optical Module.xlsx`）没有 DAC/AOC，口径「随整机报、随整机发」——这条询盘本身不是 Saga 的生意；首封只能问他有没有整机（10G 接入/汇聚）需求，不报线缆价"
-      ]
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "10G DAC 3米 300个单价",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "10G DAC ×300 询盘",
+   "quote": "10G DAC 3米 300个单价；Issac Grant Skype人名 Amir Zahirshah 质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 cratsol.ae，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "IT 产品贸易（英国 / 阿联酋）"
+ ],
+ "channels": {
+  "role": "IT 贸易商（英国/阿联酋，DAC 询盘）",
+  "region": "英国",
+  "contact": "sales@cratsol.co.uk"
+ },
+ "signals": [
+  "表内：10G DAC 3 米 300 个单价；Issac Grant Skype 人名 Amir Zahirshah；质量一般",
+  "快照：内容为空（cratsol.ae / cratsol.co.uk）"
+ ],
+ "risks": [
+  "询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位"
+ },
+ "email_hook": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「10G DAC 3米 300个单价」）",
+   "type": "IT 贸易商（英国/阿联酋，DAC 询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "UK 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「10G DAC 3米 300个单价」；研究档 risks：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。",
+  "need": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
+  "breakpoint": "询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
+   "repeat": [],
+   "gaps": [
+    "10G DAC 3 m ×300 单卖：Saga 光模块价目表（Extra Info `Price/Optical Module.xlsx`）没有 DAC/AOC，口径「随整机报、随整机发」——这条询盘本身不是 Saga 的生意；首封只能问他有没有整机（10G 接入/汇聚）需求，不报线缆价"
+   ]
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+   "one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cratsol.co.uk, sales@cratsol.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "10G DAC 3米 300个单价",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

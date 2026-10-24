@@ -124,14 +124,14 @@
  "email_hook": "Your CCTV systems team lists PLANET IGS-10020HPT / IGS-20160HPT for industrial camera networks — a neutral-packed Marvell-based DIN-rail PoE+ managed line at EXW gives the same slot a second source for your project BOMs. In your industrial camera projects, is the 8-port PoE+ DIN unit (IGS-10020HPT class) still the standard pick, or have you moved to 16-port — so I send the right sample first?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "芬兰（欧洲全域主攻）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册"
+   "evidence": "gmail_digest：out 0；研究档 risks：CCTV Systems 事业部负责人 / 采购人；PLANET 页面是否仍在售（2018–2021 年页面）；年量；是否要求芬兰语文档 / 集团供应商注册；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "KLINGER 集团的芬兰公司，工业阀门 / 密封之外有 CCTV 系统事业部，用 PLANET 工业 PoE 交换机配工业 IP 摄像机。类型：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目。信号：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、P",
   "need": "其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第",
@@ -150,7 +150,16 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

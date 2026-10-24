@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1257` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@tipteh.com；主题多为「24 port poe switch」）** ｜ 类型：工业自动化分销集团（Hirschmann 等） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：斯洛文尼亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「工业FS 好几个牌子的」；研究档 risks：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@tipteh.com；主题多为「24 port poe switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）** ｜ 类型：工业自动化分销集团（Hirschmann 等） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：斯洛文尼亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「工业FS 好几个牌子的」；研究档 risks：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。
 - **对方真实需求（有据）**：代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」
 - **断点 / 为什么停在这里**：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低
@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-09-01 | 去 | S 群发 | 24 port poe switch | 1 封 / 0 次打开 / 0 回｜首封 2024-09-01 → 末封 2024-09-01（1 去 / 0 来） | `gmail_digest` |
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@tipteh.com, tipteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 好几个牌子的 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

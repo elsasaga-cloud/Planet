@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-865` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（4 封来信全部自动回复）** ｜ 类型：波兰 BCS 安防品牌电商（sklep-bcs.pl） ｜ 筛子：0 ｜ 停点：自动回复 ｜ 复活：不动 ｜ 通路：PL 次级 ｜ 节奏：不动 ｜ 证据：k=7352f766ebbc37d8 等
+- **绑定等级：未触达（4 封来信全部自动回复）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）** ｜ 类型：波兰 BCS 安防品牌电商（sklep-bcs.pl） ｜ 筛子：0 ｜ 停点：自动回复 ｜ 复活：不动 ｜ 通路：PL 次级 ｜ 节奏：不动 ｜ 证据：k=7352f766ebbc37d8 等；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-01 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ j.zaczek@mbs-systems.pl（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 bcscctv.pl, info@bcscctv.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

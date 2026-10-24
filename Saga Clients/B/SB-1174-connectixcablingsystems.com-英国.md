@@ -42,12 +42,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1174` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封自动回复）** ｜ 类型：英国结构化布线品牌商 ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=10e98607d4650e87
+- **绑定等级：未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）** ｜ 类型：英国结构化布线品牌商 ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=10e98607d4650e87；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch））———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 connectix.co.uk, paul.farrelly@connectix.co.uk, sales@connectix.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

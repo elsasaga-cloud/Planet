@@ -196,14 +196,14 @@
  "email_hook": "Your switch shelf is PLANET GS-4210 / FGSD PoE units — a neutral-packed Marvell-based L2+ PoE line at EXW gives the same slots a second source without changing your AV-integrator pitch. Which PoE switch size moves most with your AV-integrator customers — the 24-port PoE+ rack unit (GS-4210-24PL4C class) or the 8-port desktop (FGSD-1022VHP class) — so I quote the right one first?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "level": "Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "UK 主攻（四主）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）"
+   "evidence": "gmail_digest：out 0；研究档 risks：Neil Stratford / Philip Savill 的职务与采购权；PLANET 进货渠道（PLANET UK 直供 or Exertis/其他分销）；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "多塞特一家 Pro-AV / 连接件分销商，网络交换机货架基本是 PLANET（PoE 接入 + Long Reach PoE），服务 AV 集成商与机房项目。类型：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）。信号：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-262",
   "need": "其在售 GS-4210-16UP4C / GS-4210-24PL4C（24×GE PoE+ + 4 combo，440W）与 GSW-2620HP 均为 24 口 PoE 机架位 → Saga 24×GE PoE+ + 4×1G/2.5G SFP L2+（280W，$134.5 EXW）同口型；8 口位由 STC-28DGGPM（对位 FGSD-1022VHP £190.41）第二封跟进；分销商",
@@ -222,7 +222,16 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 itm-components.co.uk, sales@itm-components.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],

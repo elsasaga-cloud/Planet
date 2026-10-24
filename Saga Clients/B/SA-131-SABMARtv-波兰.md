@@ -38,22 +38,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → biuro@sabmar.tv（Marcin Wypiór） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → biuro@sabmar.tv（Marcin Wypiór） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-131` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「（用户表字段）」）** ｜ 类型：视频/广电技术经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「（用户表字段）」）** ｜ 类型：视频/广电技术经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：PL 次级重点 ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。
 - **对方真实需求（有据）**：终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购
 - **断点 / 为什么停在这里**：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 studio.sabmar@poczta.fm）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

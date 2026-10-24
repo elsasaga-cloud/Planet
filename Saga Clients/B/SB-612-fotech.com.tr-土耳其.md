@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-612` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ssahin@fotech.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）** ｜ 类型：IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「台湾CTS的工业品 黑盒的MC」；研究档 risks：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ssahin@fotech.com.tr；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）** ｜ 类型：IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「台湾CTS的工业品 黑盒的MC」；研究档 risks：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
 - **断点 / 为什么停在这里**：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-03-11 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来） | `gmail_digest` |
+| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 fotech.com.tr, info@fotech.com.tr, oadmin@fotech.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 台湾CTS的工业品 黑盒的MC | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

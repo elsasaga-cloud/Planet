@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-547` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 sales@makonetworks.com, toddv@makonetworks.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「管理FS(大口的) 他们自己的logo」；研究档 risks：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+
+- **绑定等级：未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 sales@makonetworks.com, toddv@makonetworks.com；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购） ｜ 筛子：1~2（1 次打开） ｜ 停点：23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「管理FS(大口的) 他们自己的logo」；研究档 risks：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+；Elsa 箱 to/bcc:makonetworks.com = 0（第 73 批(o) 连接器核对，含 spam/trash）→ 「群发里他已看到的价」只来自 S/A 箱
 - **现状一句话**：美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。
 - **对方真实需求（有据）**：自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配
 - **断点 / 为什么停在这里**：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+

@@ -43,12 +43,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1261` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16
 - **对方真实需求（有据）**：其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿
 - **断点 / 为什么停在这里**：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-31 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 unifibre.it, uniteam@unifibre.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

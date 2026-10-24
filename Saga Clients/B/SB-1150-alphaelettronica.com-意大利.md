@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 info@alphaelettronica.com；主题多为「10G Media Converter」）** ｜ 类型：电子产品与配件分销商（意大利） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小
+- **绑定等级：未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 info@alphaelettronica.com；主题多为「10G Media Converter」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）** ｜ 类型：电子产品与配件分销商（意大利） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。
 - **对方真实需求（有据）**：分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-01 | 去 | S 群发 | 10G Media Converter | 1 封 / 1 次打开 / 0 回｜首封 2024-12-01 → 末封 2024-12-01（1 去 / 0 来） | `gmail_digest` |
+| 2026-08-31 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 alphaelettronica.com, info@alphaelettronica.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 商业POE为主 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

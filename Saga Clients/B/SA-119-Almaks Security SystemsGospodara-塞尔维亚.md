@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-119` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 almaks@almaks.rs；主题多为「Commercial poe switch、24 port poe switch」）** ｜ 类型：安防集成/经销商 ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：塞尔维亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；研究档 risks：塞尔维亚非主动挖掘国家（INH 规则）——仅就现有成交关系慢跟；消防/灭火线守界不供
+- **绑定等级：未触达（S 邮箱 4 封 2024，无记录打开，0 回；收件 almaks@almaks.rs；主题多为「Commercial poe switch、24 port poe switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）** ｜ 类型：安防集成/经销商 ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：塞尔维亚（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；研究档 risks：塞尔维亚非主动挖掘国家（INH 规则）——仅就现有成交关系慢跟；消防/灭火线守界不供；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：塞尔维亚安防公司，2012 年 3 月成交 20 对 1V1D（视频光端机），此后无任何跟进记录。
 - **对方真实需求（有据）**：分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM
 - **断点 / 为什么停在这里**：塞尔维亚非主动挖掘国家（INH 规则）——仅就现有成交关系慢跟；消防/灭火线守界不供
@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-10-23 | 去 | S 群发 | Commercial poe switch、24 port poe switch | 4 封 / 0 次打开 / 0 回｜首封 2024-07-16 → 末封 2024-10-23（4 去 / 0 来） | `gmail_digest` |
+| 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 almaks.rs, almaks@almaks.rs）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

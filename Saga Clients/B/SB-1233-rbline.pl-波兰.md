@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1233` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 biuro@rbline.pl；主题多为「2.5G Ethernet Switch、Industrial power supply」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：工商Switch」；研究档 risks：多品牌网店比价；仅 biuro@
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 biuro@rbline.pl；主题多为「2.5G Ethernet Switch、Industrial power supply」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：工商Switch」；研究档 risks：多品牌网店比价；仅 biuro@；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：波兰网络组件 / UPS / IP 摄像机网店（D-Link、Teltonika、Hikvision、Dahua、Uniview、TRENDnet、Pulsar；switch 381 / poe 41；+48 77 555 91 30），仅 biuro@；表内工商 switch；无跟进。
 - **对方真实需求（有据）**：网店走量 24 GE + 4×10G L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424DGGPM-280W。
 - **断点 / 为什么停在这里**：多品牌网店比价；仅 biuro@
@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-05 | 去 | S 群发 | 2.5G Ethernet Switch、Industrial power supply | 6 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2024-12-05（6 去 / 0 来） | `gmail_digest` |
+| 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 biuro@rbline.pl, rbline.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工商Switch | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

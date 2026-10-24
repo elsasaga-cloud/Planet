@@ -27,3 +27,10 @@
 ## 字段
 `id / thread_id / message_id_header / from / to / cc / subject / date / labels / text / text_source / char_count / attachments[{filename,mime_type,size}] / note / fetched / method`
 （`labels` 里 `Replied` = `Label_308850763726262064`；索引行 labels 缩写 S=SENT P=PERSONAL U=UPDATES I=IMPORTANT R=Replied D=Daily T=TRASH STAR=STARRED）
+
+## Elsa 群发的 BCC 结构（第 73 批(o)，2026-10-24 16:35Z）
+
+- Elsa 每封群发 = 1 个 To + 15–40 个 **Bcc**（`get_message(metadata)` 核对 `19bd4c1a8a5c8f66` 印度批 Bcc 34、`1a05bfb71364077f` PL 批 28、`1a06ba5722292bab` UK 批 38、`1a057bf756774b15` IT 批 25、`19ff11f7aa952525` CH/US 批 15、`19ffb43006420c22` 北欧 批 31、`19e1b893e9c06378` 杂批 31）。Sent 3,224 封 ≈ 10 万人次触达；最近一轮「24 Port PoE Managed Switch」（2026-08-03→09-10）317 封，正文「Price: 170USD/PC」。
+- 连接器 `list_messages` 的 `to:` / `bcc:` 都能命中 Bcc 收件人，但结果只显示 To 首收件人 → 多域 OR 查询无法判定是哪个域命中；逐户单域查询可判（0 = complete:true）。
+- 本轮读到的 6 个 Bcc 头落在 `bcc_batches_2026.json`，与客户库比对命中 150 户（B 51 / C 99）→ 51 户研究档已改绑定 + 事实（`k: elsa_bcc`）。
+- 抽样结论：土耳其 11 户 0/11、美国 4 户 0/4（S/A 的地盘）；欧洲（PL/UK/IT/BE/NL/北欧/CH）6/6 命中。全量重建 = 317 封逐封读 Bcc（Q-60）。

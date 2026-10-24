@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-137` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：贸易商/分销 ｜ 筛子：1~2（1 次打开） ｜ 停点：27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；研究档 risks：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供
+- **绑定等级：未触达（A/S 邮箱 27 封 2024→2026，1 次记录打开，0 回；收件 hamid@avestatek.co.uk；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）** ｜ 类型：贸易商/分销 ｜ 筛子：1~2（1 次打开） ｜ 停点：27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：UK 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 27，Opened 标签 1（Simon 群发追踪）；研究档 risks：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：曼彻斯特的安防设备批发商/网店（64 Waterloo Road, Manchester；+44 333 344 0789；sales@avestatek.co.uk）：HiLook 英国授权分销商，在售 Hikvision/HiLook 摄像机、录像机、报警、门铃、PoE 交换机与线缆；已有自有编码的白牌 PoE 交换机（HA-POES806：4 PoE + 2 上联 60W，£19 ex VAT）及 HiLook NS-0109P-60（8 FE PoE + 1 GE + 1 SFP，60W）、HiLook 4 口 PoE £28。用户记录：只对非管理商用 PoE 有兴趣、问 2 光 24 电（混速/全千兆、extend 250 m、可 OEM）、计划来深圳；之后 17 次推送 0 回复。
 - **对方真实需求（有据）**：分销 20% 档：STC-2024GP（Saga Realtek 线，2×SFP + 24×GE PoE 非管理 300W，extend 模式，列表 $93.5）正对「2 光 24 电非管理」；8 口 STC-028GP $24.2；4 口 STC-024GP $18.7；OEM 贴 Avesta/HA 编码另谈
 - **断点 / 为什么停在这里**：价位极低（4 口 £19）、与 Hikvision 原厂 PoE 竞争；17 次推送 0 回复；UKCA 需提供
@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-21 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-21（27 去 / 0 来） | `gmail_digest` |
+| 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 avestatek.co.uk, sales@avestatek.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

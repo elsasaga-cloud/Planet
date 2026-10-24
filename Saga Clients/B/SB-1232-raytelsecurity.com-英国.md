@@ -35,22 +35,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1232` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）** ｜ 类型：门禁/CCTV 分销商（英国） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）** ｜ 类型：门禁/CCTV 分销商（英国） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：UK 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）
 - **断点 / 为什么停在这里**：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@raytelsecurity.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@raytelsecurity.com, raytelsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 主要是CCTV 少量商业POE | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
