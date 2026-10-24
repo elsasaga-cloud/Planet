@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）",
       "tier": "OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
-      "price": "仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
+      "price": "他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
       "why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）",
       "repeat": "若成，终端客户项目制；方案商可带下一个项目",
       "gaps": "国别/公司实体；终端客户是否已定；数量；STH1G 价"
@@ -114,6 +114,22 @@
       "one_question": "Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet."
     },
     "facts": [
+      {
+        "date": "2024-11-23",
+        "dir": "来",
+        "who": "Arnoldo（arnoldomohr@gmail.com，S 邮箱）",
+        "quote": "「Yes I need some samples for testing, can you send to me?」（回 11-15 的 24 口被动 PoE 群发）",
+        "why": "与 Alan 2026 年的 CENTEC/堆叠对话是同一个人——他从 2024-11 就在 S 邮箱里要样品；两年两条线都停在「要东西 → 给条件 → 无回」",
+        "k": "k=2725966d7f583826（S 邮箱 2024-11-23 17:47Z Re: 24 Port Passive PoE Switch）"
+      },
+      {
+        "date": "2024-11-24",
+        "dir": "去",
+        "who": "Simon（附 Passive PoE.pdf）",
+        "quote": "「Its not free samples, we do not do free samples. **90usd/pc, STC-2224GFP-24V** 2×1G SFP + 2×GE 上联 + 24×100M PoE 下联，非管理，被动 PoE 300W，AC，1U，含电源线。Please let me know if you decide to proceed」+ 被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%",
+        "why": "样品价 $90 给了就无回——这位的模式是「免费样品 / 高端项目」两头问，没有付费动作；2026-03 的 8 台堆叠需求也无回。下一步只回不追",
+        "k": "k=c9057ef48518bc9c（S 邮箱 2024-11-24 01:46Z）；附件 sha=052eecb9f79ac4d7"
+      },
       {
         "date": "2026-01-15",
         "dir": "来",

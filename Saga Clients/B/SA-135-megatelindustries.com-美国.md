@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：美国工业以太网产品网店/品牌商：自有 logo 的 IFS/IGS/IMC/ITP/IPSW/FMC 系列（工业管理型 PoE 交换机、工业介质转换器、IP40 非管理交换机），用户记录其大多为 CTCU（CTC Union）贴牌、亦有 ONV 设备；标价高（8 口千兆管理 PoE 标 $1,800 售 $699；6 口非管理 PoE 售 $145）；S 重点名单，22 次推送 0 回复。（调研 2026-10-21；表内兴趣：有自己的logo 大多数还是CTCU的  工业FS MC POE SFP）
 - **为什么是 B 级**：**人工定级 B**（T27 用户原话「这个客户不用咋管 慢慢来」→ B 慢慢跟进；22 封 0 回复的 S 重点 OEM 买家，不再主动投入，对方有动静再升）；自动分级 A：+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）；+5 跟进表最近平台标记 S
 - **历史互动**：推送 22 次（2024-01-03 → 2025-11-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW） — 一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW） — 一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）
 - **第一问（只问一个）**：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 S 邮箱 → zack@ 对位表 + 一句话
@@ -49,13 +49,14 @@ updated: 2026-10-24
 - **现状一句话**：Zack 要 10G MC 规格书，Simon 给了。此后无回。
 - **对方真实需求（有据）**：MC / 工业 PoE 全品类贴牌。
 - **断点 / 为什么停在这里**：触达层：VP 回了一次，之后群发无效。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter））——一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）**（30% 档，他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter））——一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　S 邮箱 → zack@　对位表 + 一句话
   - 第一问（只问一个）：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-26 | 来 | Zack Yu（VP Sales） | Do you have a data sheet for this converter? | 唯一来信 | `29bcaf9898361cae` |
+| 2024-11-26 | 去 | Simon → Zack Yu（Re: 10G Media Converter；附 STC-110XGE.docx） | 「Please see attached datasheet and let me know」（Zack 15:05Z 问 datasheet，Simon 15:29Z 回——24 分钟）；群发原文价 **65usd/pc**（1×10G SFP+ + 1×100M/1G/2.5G/10G RJ45，非管理，DC5~12V，含电源）；12-11 再推 90W PoE 管理机 → 无回。 | Megatel（PA，美国；Zack = VP Sales）唯一一次真人回应就是要 10G MC 的 datasheet——他们自己卖光端机/MC，$65 的 10G MC 是可比价；之后 24 封群发无回。重启时只谈 10G MC（阶梯 $75/$70@100/$65@500，见 SA-013 2024-12-12 报价单） | `k=23ff8e2e29b53c84（S 邮箱 2024-11-26 15:29Z）` |
 
 ## 基本事实（事实/推断/假设分层）
 

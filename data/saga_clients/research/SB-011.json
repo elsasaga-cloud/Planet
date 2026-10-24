@@ -100,7 +100,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+      "price": "口径修正：他要 AT-FS750/28 等价（24 FE + 2 GE Combo + 2 SFP WebSmart 非 PoE），不是 4424GCPM；群发已见 STC-448XGGM $220（2024-06-14）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
       "why": "已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
@@ -119,6 +119,14 @@
         "quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
         "why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "f2187e6f5c356bda"
+      },
+      {
+        "date": "2024-06-26",
+        "dir": "去",
+        "who": "Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf）",
+        "quote": "对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。",
+        "why": "Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14）",
+        "k": "k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）"
       },
       {
         "date": "2024-11-05",

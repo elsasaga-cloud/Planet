@@ -103,7 +103,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 25,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+      "price": "他没见过价；唯一型号 STI-244GP（锚 $45，2024-10 SA-033 报价单同款）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
       "why": "已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -122,6 +122,14 @@
         "quote": "Hi Simon You could email the data sheet/manual Regards Mike",
         "why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "291792730fb79f70"
+      },
+      {
+        "date": "2024-06-16",
+        "dir": "去",
+        "who": "Simon → Mike（Re: Industrial PoE Switch；附 STI-244GP.pdf）",
+        "quote": "「Thanks for your interest. Please see attached datasheet and lets discuss samples/queries」（Mike 12:33Z 要 datasheet/manual，Simon 12:47Z 回）；06-24 追「Did you check the datasheet? samples?」；07-17 推 2.5G → 无回。",
+        "why": "Genrov（英国）唯一真人回应 = 要 4 口 PoE 工业机（STI-244GP）的资料；后续 20+ 封群发无回。重启只谈 STI-244GP（$45 锚）一款，问「还在做 DIN PoE 吗」一句话",
+        "k": "k=063870521f2854ef / f46195e8df082b49（S 邮箱 2024-06-16 12:47Z / 06-24）"
       }
     ],
     "proof_gaps": [],

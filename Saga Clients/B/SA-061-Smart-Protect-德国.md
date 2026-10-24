@@ -57,6 +57,7 @@ updated: 2026-10-24
 | 2025-05-13 | 来 | Andrew Walker（CEO） | We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem. | 免费样请求 | `7136278ff3be94f4` |
 | 2025-05-13 | 去 | Alan | We do not do FREE samples. | 付样规则 | `444284f57e12d0d2` |
 | 2025-06-10 | 来 | Andrew | Are the switches manageable ? | 最后一问 | `f66547fc66c47b76` |
+| 2025-06-10 | 去 | Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg） | 「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。 | Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款 | `k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）` |
 
 ## 基本事实（事实/推断/假设分层）
 

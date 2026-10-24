@@ -116,7 +116,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）",
       "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）",
+      "price": "他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）",
       "why": "一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -135,6 +135,14 @@
         "quote": "Do you have a data sheet for this converter?",
         "why": "唯一来信",
         "k": "29bcaf9898361cae"
+      },
+      {
+        "date": "2024-11-26",
+        "dir": "去",
+        "who": "Simon → Zack Yu（Re: 10G Media Converter；附 STC-110XGE.docx）",
+        "quote": "「Please see attached datasheet and let me know」（Zack 15:05Z 问 datasheet，Simon 15:29Z 回——24 分钟）；群发原文价 **65usd/pc**（1×10G SFP+ + 1×100M/1G/2.5G/10G RJ45，非管理，DC5~12V，含电源）；12-11 再推 90W PoE 管理机 → 无回。",
+        "why": "Megatel（PA，美国；Zack = VP Sales）唯一一次真人回应就是要 10G MC 的 datasheet——他们自己卖光端机/MC，$65 的 10G MC 是可比价；之后 24 封群发无回。重启时只谈 10G MC（阶梯 $75/$70@100/$65@500，见 SA-013 2024-12-12 报价单）",
+        "k": "k=23ff8e2e29b53c84（S 邮箱 2024-11-26 15:29Z）"
       }
     ],
     "proof_gaps": [],

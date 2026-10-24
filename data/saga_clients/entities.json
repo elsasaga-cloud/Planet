@@ -29105,6 +29105,14 @@
 "quote": "Are the switches manageable ?",
 "why": "最后一问",
 "k": "f66547fc66c47b76"
+},
+{
+"date": "2025-06-10",
+"dir": "去",
+"who": "Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg）",
+"quote": "「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。",
+"why": "Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款",
+"k": "k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）"
 }
 ],
 "proof_gaps": [],
@@ -60912,7 +60920,7 @@
 "saga_now": {
 "p1": "STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）",
 "tier": 30,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）",
+"price": "他见过的实价：10G MC STC-110XGE $65（2024-11-26 群发原文）；阶梯 $75 / $70@100 / $65@500（NYNEX 同期报价单）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-29 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）",
 "why": "一次对位表。已打开的主题（1/24 封有打开记录）：「Re: 10G Media Converter」(2024-11-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -60931,6 +60939,14 @@
 "quote": "Do you have a data sheet for this converter?",
 "why": "唯一来信",
 "k": "29bcaf9898361cae"
+},
+{
+"date": "2024-11-26",
+"dir": "去",
+"who": "Simon → Zack Yu（Re: 10G Media Converter；附 STC-110XGE.docx）",
+"quote": "「Please see attached datasheet and let me know」（Zack 15:05Z 问 datasheet，Simon 15:29Z 回——24 分钟）；群发原文价 **65usd/pc**（1×10G SFP+ + 1×100M/1G/2.5G/10G RJ45，非管理，DC5~12V，含电源）；12-11 再推 90W PoE 管理机 → 无回。",
+"why": "Megatel（PA，美国；Zack = VP Sales）唯一一次真人回应就是要 10G MC 的 datasheet——他们自己卖光端机/MC，$65 的 10G MC 是可比价；之后 24 封群发无回。重启时只谈 10G MC（阶梯 $75/$70@100/$65@500，见 SA-013 2024-12-12 报价单）",
+"k": "k=23ff8e2e29b53c84（S 邮箱 2024-11-26 15:29Z）"
 }
 ],
 "proof_gaps": [],
@@ -78567,7 +78583,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+"price": "口径修正：他要 AT-FS750/28 等价（24 FE + 2 GE Combo + 2 SFP WebSmart 非 PoE），不是 4424GCPM；群发已见 STC-448XGGM $220（2024-06-14）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
 "why": "已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）",
 "repeat": [],
 "gaps": []
@@ -78586,6 +78602,14 @@
 "quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
 "why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "f2187e6f5c356bda"
+},
+{
+"date": "2024-06-26",
+"dir": "去",
+"who": "Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf）",
+"quote": "对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。",
+"why": "Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14）",
+"k": "k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）"
 },
 {
 "date": "2024-11-05",
@@ -89031,7 +89055,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 25,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+"price": "他没见过价；唯一型号 STI-244GP（锚 $45，2024-10 SA-033 报价单同款）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -89050,6 +89074,14 @@
 "quote": "Hi Simon You could email the data sheet/manual Regards Mike",
 "why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "291792730fb79f70"
+},
+{
+"date": "2024-06-16",
+"dir": "去",
+"who": "Simon → Mike（Re: Industrial PoE Switch；附 STI-244GP.pdf）",
+"quote": "「Thanks for your interest. Please see attached datasheet and lets discuss samples/queries」（Mike 12:33Z 要 datasheet/manual，Simon 12:47Z 回）；06-24 追「Did you check the datasheet? samples?」；07-17 推 2.5G → 无回。",
+"why": "Genrov（英国）唯一真人回应 = 要 4 口 PoE 工业机（STI-244GP）的资料；后续 20+ 封群发无回。重启只谈 STI-244GP（$45 锚）一款，问「还在做 DIN PoE 吗」一句话",
+"k": "k=063870521f2854ef / f46195e8df082b49（S 邮箱 2024-06-16 12:47Z / 06-24）"
 }
 ],
 "proof_gaps": [],
@@ -321228,6 +321260,14 @@
 "k": "4e64486e83ba3f88"
 },
 {
+"date": "2024-08-22",
+"dir": "去",
+"who": "Simon → Andy（Passive PoE Switch；附 Passive PoE.pdf）",
+"quote": "24 口被动 PoE 推送 + 整本手册（被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%）→ 无回。",
+"why": "Andy 2024-05 已说「we already have such a switch」；被动 PoE 不是 Case 的需求，这封属无效推送；他真正的问题是 2025-02 的 L3 DIN PoE 单价（$500 → 嫌贵）",
+"k": "S 邮箱 2024-08-22 14:20Z；附件 sha=022bf78f9c734904"
+},
+{
 "date": "2025-02-07",
 "dir": "来",
 "who": "Andy",
@@ -429092,7 +429132,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 25,
-"price": "—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
+"price": "他见过的实价（2024-07-31 手册）：STC-2224GP-24V $92 / 2024GP-24V $90 / 028GP-24V $31；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
 "why": "已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -429111,6 +429151,14 @@
 "quote": "Hi Yea I’m interested Could you send me a quote ________________________________",
 "why": "来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "a7eeebbc9d6743fe"
+},
+{
+"date": "2024-07-31",
+"dir": "去",
+"who": "Simon → Joy Tann（Re: Passive poe switch；附 Passive PoE.pdf）",
+"quote": "「Please see attached file with more similar models and prices」——被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%。08-01 追问「Any interested model in the brochure? samples?」→ 无回。",
+"why": "Joy 07-30 说「Yea I'm interested, could you send me a quote」，得到的是整本手册而不是一行报价——加拿大小集成商要的是单价 + 运费，这一步丢了；2025-11-21 Booster 群发他回「No, but thank you」= 明确不要",
+"k": "k=6f17b39724999299 / 3e9a5984fdd973a9；附件 sha=022bf78f9c734904"
 },
 {
 "date": "2025-11-21",
@@ -690034,7 +690082,7 @@
 "saga_now": {
 "p1": "STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源）",
 "tier": "OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行",
-"price": "仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
+"price": "他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）",
 "why": "对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）",
 "repeat": "若成，终端客户项目制；方案商可带下一个项目",
 "gaps": "国别/公司实体；终端客户是否已定；数量；STH1G 价"
@@ -690046,6 +690094,22 @@
 "one_question": "Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet."
 },
 "facts": [
+{
+"date": "2024-11-23",
+"dir": "来",
+"who": "Arnoldo（arnoldomohr@gmail.com，S 邮箱）",
+"quote": "「Yes I need some samples for testing, can you send to me?」（回 11-15 的 24 口被动 PoE 群发）",
+"why": "与 Alan 2026 年的 CENTEC/堆叠对话是同一个人——他从 2024-11 就在 S 邮箱里要样品；两年两条线都停在「要东西 → 给条件 → 无回」",
+"k": "k=2725966d7f583826（S 邮箱 2024-11-23 17:47Z Re: 24 Port Passive PoE Switch）"
+},
+{
+"date": "2024-11-24",
+"dir": "去",
+"who": "Simon（附 Passive PoE.pdf）",
+"quote": "「Its not free samples, we do not do free samples. **90usd/pc, STC-2224GFP-24V** 2×1G SFP + 2×GE 上联 + 24×100M PoE 下联，非管理，被动 PoE 300W，AC，1U，含电源线。Please let me know if you decide to proceed」+ 被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%",
+"why": "样品价 $90 给了就无回——这位的模式是「免费样品 / 高端项目」两头问，没有付费动作；2026-03 的 8 台堆叠需求也无回。下一步只回不追",
+"k": "k=c9057ef48518bc9c（S 邮箱 2024-11-24 01:46Z）；附件 sha=052eecb9f79ac4d7"
+},
 {
 "date": "2026-01-15",
 "dir": "来",

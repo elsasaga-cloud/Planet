@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国东北部的一人 ROV（水下遥控机器人）技术服务公司（2009-05 成立，公司号 06899120，董事/唯一股东 Michael Dickinson）：ROV 监督/技师派遣、定制工装、系统排故与审计、翻新升级、培训。交换机需求源于 ROV 系统（甲板/水下电子舱的工业以太网/光纤链路），属项目型一次性采购。用户表：1 次实质回复，16 次跟进。（调研 2026-10-21；表内兴趣：SFP）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 16 次（2024-06-16 → 2025-10-29）；最近一次客户回复：2024-06-16：DS  24号问feedback无回复
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；他没见过价；唯一型号 STI-244GP（锚 $45，2024-10 SA-033 报价单同款）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,12 +48,13 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：4 口工业 PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，他没见过价；唯一型号 STI-244GP（锚 $45，2024-10 SA-033 报价单同款）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch））——已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-16 | 来 | mike@genrov.com | Hi Simon You could email the data sheet/manual Regards Mike | 来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `291792730fb79f70` |
+| 2024-06-16 | 去 | Simon → Mike（Re: Industrial PoE Switch；附 STI-244GP.pdf） | 「Thanks for your interest. Please see attached datasheet and lets discuss samples/queries」（Mike 12:33Z 要 datasheet/manual，Simon 12:47Z 回）；06-24 追「Did you check the datasheet? samples?」；07-17 推 2.5G → 无回。 | Genrov（英国）唯一真人回应 = 要 4 口 PoE 工业机（STI-244GP）的资料；后续 20+ 封群发无回。重启只谈 STI-244GP（$45 锚）一款，问「还在做 DIN PoE 吗」一句话 | `k=063870521f2854ef / f46195e8df082b49（S 邮箱 2024-06-16 12:47Z / 06-24）` |
 
 ## 基本事实（事实/推断/假设分层）
 

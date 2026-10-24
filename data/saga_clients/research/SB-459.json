@@ -175,6 +175,14 @@
         "k": "4e64486e83ba3f88"
       },
       {
+        "date": "2024-08-22",
+        "dir": "去",
+        "who": "Simon → Andy（Passive PoE Switch；附 Passive PoE.pdf）",
+        "quote": "24 口被动 PoE 推送 + 整本手册（被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%）→ 无回。",
+        "why": "Andy 2024-05 已说「we already have such a switch」；被动 PoE 不是 Case 的需求，这封属无效推送；他真正的问题是 2025-02 的 L3 DIN PoE 单价（$500 → 嫌贵）",
+        "k": "S 邮箱 2024-08-22 14:20Z；附件 sha=022bf78f9c734904"
+      },
+      {
         "date": "2025-02-07",
         "dir": "来",
         "who": "Andy",

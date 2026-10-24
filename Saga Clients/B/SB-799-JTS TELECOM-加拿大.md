@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加拿大小型电信承包/个体 JTS Telecom（Hotmail 邮箱）：用户记录「VC（视频/光纤转换）对他是新领域，想进入」；1 次回复后 15 次跟进无果。身份不可核。（调研 2026-10-21；表内兴趣：VC is new to him, wanna enter into this new field）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-06-06 → 2025-10-17）；最近一次客户回复：2024-07-31：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；他见过的实价（2024-07-31 手册）：STC-2224GP-24V $92 / 2024GP-24V $90 / 028GP-24V $31；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
@@ -48,12 +48,13 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：被动 PoE 24 口。
 - **断点 / 为什么停在这里**：明确拒绝。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，他见过的实价（2024-07-31 手册）：STC-2224GP-24V $92 / 2024GP-24V $90 / 028GP-24V $31；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-23 $65（10G Media Converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（4/28 封有打开记录）：「Passive poe switch」(2024-07-30)、「Re: Passive poe switch」(2024-07-31)、「Re: Passive poe switch」(2024-08-01)、「Booster PoE Switch」(2025-11-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-07-30 | 来 | joejts@hotmail.com | Hi Yea I’m interested Could you send me a quote ________________________________ | 来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a7eeebbc9d6743fe` |
+| 2024-07-31 | 去 | Simon → Joy Tann（Re: Passive poe switch；附 Passive PoE.pdf） | 「Please see attached file with more similar models and prices」——被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%。08-01 追问「Any interested model in the brochure? samples?」→ 无回。 | Joy 07-30 说「Yea I'm interested, could you send me a quote」，得到的是整本手册而不是一行报价——加拿大小集成商要的是单价 + 运费，这一步丢了；2025-11-21 Booster 群发他回「No, but thank you」= 明确不要 | `k=6f17b39724999299 / 3e9a5984fdd973a9；附件 sha=022bf78f9c734904` |
 | 2025-11-21 | 来 | Joe | No, but thank you. | 拒绝 | `3b06b00f028239e2` |
 
 ## 基本事实（事实/推断/假设分层）
