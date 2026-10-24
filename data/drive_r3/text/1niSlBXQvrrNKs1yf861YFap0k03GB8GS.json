@@ -1,0 +1,24 @@
+{
+"id":"1niSlBXQvrrNKs1yf861YFap0k03GB8GS",
+"name":"5.jpg",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-240GE/5.jpg",
+"type":"图片",
+"bytes":192854,
+"sha256":"88a0b21be359c525b492950f378eed1fb7b0dd0baf93f346fa4479fa2ae209f0",
+"extracted_at":"2026-10-24T03:26:28Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":800,
+"height":800,
+"mode":"RGB",
+"datetime":"2024:01:10 20:45:01",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":8614
+},
+"ocr":{
+"text":"PwR1 PWR2",
+"conf":63.7
+},
+"text":"PwR1 PWR2"
+}

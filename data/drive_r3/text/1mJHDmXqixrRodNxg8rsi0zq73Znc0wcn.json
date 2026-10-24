@@ -1,0 +1,24 @@
+{
+"id":"1mJHDmXqixrRodNxg8rsi0zq73Znc0wcn",
+"name":"24V.jpg",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-PA-120W-UP/24V.jpg",
+"type":"图片",
+"bytes":264015,
+"sha256":"5a41ca4b09da9b48cadb8e8b6afef5ae0018847dfabc9badfebeecc31fece62b",
+"extracted_at":"2026-10-24T03:26:55Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1883,
+"height":728,
+"mode":"RGB",
+"datetime":"2024:08:29 19:35:55",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":5914
+},
+"ocr":{
+"text":"Input DC24V and output IEEE802.3af/at 30W POE, popular in IP intercom, access control and wireless transmission systems\nSTI-PA-120W- UE\nDC 24V Input\nSTI-O54GP",
+"conf":93.9
+},
+"text":"Input DC24V and output IEEE802.3af/at 30W POE, popular in IP intercom, access control and wireless transmission systems\nSTI-PA-120W- UE\nDC 24V Input\nSTI-O54GP"
+}

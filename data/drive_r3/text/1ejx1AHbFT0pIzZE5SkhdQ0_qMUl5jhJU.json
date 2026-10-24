@@ -1,0 +1,22 @@
+{
+"id":"1ejx1AHbFT0pIzZE5SkhdQ0_qMUl5jhJU",
+"name":"1.jpg",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-PA-120W-UP/actual photos/1.jpg",
+"type":"图片",
+"bytes":2259819,
+"sha256":"7bb063535ce251bec98574bd52340cb11ae381bd3a38141c2aaf253d739e7d15",
+"extracted_at":"2026-10-24T03:27:01Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":3072,
+"height":4096,
+"mode":"RGB",
+"thumb_bytes":4790
+},
+"ocr":{
+"text":"上\n3\n文\n3\n5\nQ\na)\n由\n局\na\n<\n“zs 3g 3nGINo Zum\nAt",
+"conf":48.8
+},
+"text":"上\n3\n文\n3\n5\nQ\na)\n由\n局\na\n<\n“zs 3g 3nGINo Zum\nAt"
+}

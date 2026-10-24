@@ -1,0 +1,24 @@
+{
+"id":"1igCvMGw3G2ReSsTlK-0DYBeZYj77k8u0",
+"name":"12V_2.jpg",
+"path":"Drive第三轮/Marvell Based Industrial Unmanaged Switch/STI-PA-120W-UP/12V_2.jpg",
+"type":"图片",
+"bytes":189253,
+"sha256":"06844a48c1e8252f7edd2530b1b56a32b86c0a8f7ce6604dc444794f14bad687",
+"extracted_at":"2026-10-24T03:26:54Z",
+"method":"pillow+tesseract",
+"meta":{
+"format":"JPEG",
+"width":1347,
+"height":673,
+"mode":"RGB",
+"datetime":"2024:08:29 19:41:47",
+"software":"Adobe Photoshop CS6 (Windows)",
+"thumb_bytes":9391
+},
+"ocr":{
+"text":"Input DC12V and output IEEE802.3af/at 30W POE\nssf 吧\nPower Supply for Vehicle POE Devices DC T2V-Inpit\nSTI-O54GP\nSTI-PA-120W-UP",
+"conf":83.6
+},
+"text":"Input DC12V and output IEEE802.3af/at 30W POE\nssf 吧\nPower Supply for Vehicle POE Devices DC T2V-Inpit\nSTI-O54GP\nSTI-PA-120W-UP"
+}
