@@ -54,9 +54,10 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-11-05 | 去 | Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx | 名单行：「Commercial PoE info@coptek.com.tr http://www.coptek.com.tr/end%C3%BCstriyelethernet.html」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2025-10-28 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `04dd529092533295` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见
+- **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
 ## 基本事实（事实/推断/假设分层）
 

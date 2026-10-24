@@ -1,143 +1,153 @@
 {
- "code": "SB-015",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（lansan.com.tr，快照 2026-10-21）",
- "summary": "土耳其 LANSAN（网络连接设备与光纤配线架制造商：自有 LNS 系列 8 口 PoE LNS-1310P、24 口 PoE LNS-1324P、6 口百兆 PoE LNS-1306-P、PoE 测试仪、MC、SFP；表内「MC / switch，自己的 logo」）；群发 2 次无回复。",
- "type": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Network Bağlantı Ekipmanları - LANSAN；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Network Ekipmanları, Fiberoptik Patch Panel üreticisi , 6 port patch panel",
-   "url": "https://www.lansan.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC switch 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "LANSAN 网络设备与光纤配线架制造",
-   "quote": "Network Bağlantı Ekipmanları - LANSAN ; Network Ekipmanları, Fiberoptik Patch Panel üreticisi , 6 port patch panel",
-   "url": "https://www.lansan.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC switch 自己的 logo",
-   "quote": "MC switch 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络连接设备 / 光纤配线架（自有品牌 LANSAN）",
-  "PoE 交换机 / MC / SFP（自有 LNS 系列）"
- ],
- "channels": {
-  "role": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
-  "region": "土耳其",
-  "contact": "info@lansan.com.tr"
- },
- "signals": [
-  "页面 /8-port-poe-switch-lns-1310p、/24-port-poe-switch-lns-1324p、/6-port-10-100-mbps-poe-switch-lns-1306-p、/poe-tester-lns-1103",
-  "官网：Network Ekipmanları, Fiberoptik Patch Panel üreticisi；kw sfp 58 / fiber 52 / switch 41"
- ],
- "risks": [
-  "土耳其：汇率敏感，报 EXW 美元",
-  "现代工深圳价格基准低；无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE"
- },
- "email_hook": "For the LNS-1310P / LNS-1324P PoE switches under the LANSAN label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, CE/RoHS, EXW USD — which LNS model do you reorder most often?",
- "products_seen": [
-  {
-   "brand": "LANSAN（自有）",
-   "model": "LNS-1310P",
-   "spec": "8 口 PoE 交换机",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.lansan.com.tr/8-port-poe-switch-lns-1310p",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "LANSAN（自有）",
-   "model": "LNS-1324P",
-   "spec": "24 口 PoE 交换机",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.lansan.com.tr/24-port-poe-switch-lns-1324p",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@lansan.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「MC switch 自己的logo」；研究档 risks：土耳其：汇率敏感，报 EXW 美元"
-  },
-  "situation": "土耳其 LANSAN（网络连接设备与光纤配线架制造商：自有 LNS 系列 8 口 PoE LNS-1310P、24 口 PoE LNS-1324P、6 口百兆 PoE LNS-1306-P、PoE 测试仪、MC、SFP；表内「MC / switch，自己的 logo」）；群发 2 次无回复。",
-  "need": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE",
-  "breakpoint": "土耳其：汇率敏感，报 EXW 美元",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the LNS-1310P / LNS-1324P PoE switches under the LANSAN label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, CE/RoHS, EXW USD — which LNS model do you reorder most often?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC switch 自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-015",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lansan.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 LANSAN（网络连接设备与光纤配线架制造商：自有 LNS 系列 8 口 PoE LNS-1310P、24 口 PoE LNS-1324P、6 口百兆 PoE LNS-1306-P、PoE 测试仪、MC、SFP；表内「MC / switch，自己的 logo」）；群发 2 次无回复。",
+  "type": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Network Bağlantı Ekipmanları - LANSAN；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Network Ekipmanları, Fiberoptik Patch Panel üreticisi , 6 port patch panel",
+      "url": "https://www.lansan.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC switch 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "LANSAN 网络设备与光纤配线架制造",
+      "quote": "Network Bağlantı Ekipmanları - LANSAN ; Network Ekipmanları, Fiberoptik Patch Panel üreticisi , 6 port patch panel",
+      "url": "https://www.lansan.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC switch 自己的 logo",
+      "quote": "MC switch 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 lansan.com.tr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络连接设备 / 光纤配线架（自有品牌 LANSAN）",
+    "PoE 交换机 / MC / SFP（自有 LNS 系列）"
+  ],
+  "channels": {
+    "role": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
+    "region": "土耳其",
+    "contact": "info@lansan.com.tr"
+  },
+  "signals": [
+    "页面 /8-port-poe-switch-lns-1310p、/24-port-poe-switch-lns-1324p、/6-port-10-100-mbps-poe-switch-lns-1306-p、/poe-tester-lns-1103",
+    "官网：Network Ekipmanları, Fiberoptik Patch Panel üreticisi；kw sfp 58 / fiber 52 / switch 41"
+  ],
+  "risks": [
+    "土耳其：汇率敏感，报 EXW 美元",
+    "现代工深圳价格基准低；无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE"
+  },
+  "email_hook": "For the LNS-1310P / LNS-1324P PoE switches under the LANSAN label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, CE/RoHS, EXW USD — which LNS model do you reorder most often?",
+  "products_seen": [
+    {
+      "brand": "LANSAN（自有）",
+      "model": "LNS-1310P",
+      "spec": "8 口 PoE 交换机",
+      "saga": "STC-28DGGPM",
+      "url": "https://www.lansan.com.tr/8-port-poe-switch-lns-1310p",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "LANSAN（自有）",
+      "model": "LNS-1324P",
+      "spec": "24 口 PoE 交换机",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://www.lansan.com.tr/24-port-poe-switch-lns-1324p",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@lansan.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「MC switch 自己的logo」；研究档 risks：土耳其：汇率敏感，报 EXW 美元"
+    },
+    "situation": "土耳其 LANSAN（网络连接设备与光纤配线架制造商：自有 LNS 系列 8 口 PoE LNS-1310P、24 口 PoE LNS-1324P、6 口百兆 PoE LNS-1306-P、PoE 测试仪、MC、SFP；表内「MC / switch，自己的 logo」）；群发 2 次无回复。",
+    "need": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE",
+    "breakpoint": "土耳其：汇率敏感，报 EXW 美元",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 LNS-1310P（8 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 LANSAN 标；LNS-1324P → STC-424DGGPM-280W（$145.7）；LNS-1306-P 位 HRUI STC-204GP（$20.4）；MC 位 STI-110GE",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the LNS-1310P / LNS-1324P PoE switches under the LANSAN label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing, CE/RoHS, EXW USD — which LNS model do you reorder most often?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「switch info@lansan.com.tr https://www.lansan.com.tr/switch-ve-aktif-urunler/media-converter」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "18 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC switch 自己的logo",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

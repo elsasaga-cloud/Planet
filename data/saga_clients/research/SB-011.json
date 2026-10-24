@@ -119,9 +119,19 @@
         "quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
         "why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "f2187e6f5c356bda"
+      },
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
     "draft_en": null,
     "as_of": "2026-10-24"
   }

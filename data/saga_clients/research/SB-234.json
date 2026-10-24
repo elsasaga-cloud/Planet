@@ -1,129 +1,139 @@
 {
- "code": "SB-234",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（rfteknoloji.com.tr，快照 2026-10-21）",
- "summary": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
- "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
- "size": "",
- "brands_seen": [
-  "3onedata",
-  "CalAmp"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：RF Radyo Data Modem, 3G/4G Endüstriyel Router Modem, RF Haberleşme Sistemleri, Kablosuz-Te；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi, Telsiz Haberleşme, RF Veri Haberleşmesi, R...",
-   "url": "https://rfteknoloji.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业交换机 3旺的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "RF 数据电台、3G/4G 工业路由、无线数传",
-   "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi",
-   "url": "https://rfteknoloji.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业交换机 3onedata 的",
-   "quote": "工业交换机 3旺的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "RF 数据电台 / 工业蜂窝路由（CalAmp）",
-  "工业交换机分销"
- ],
- "channels": {
-  "role": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
-  "region": "土耳其",
-  "contact": "info@rfteknoloji.com.tr"
- },
- "signals": [
-  "官网栏目：3G/4G/5G Endüstriyel GSM Router Modem / RF Data Modemler / RFbox / Endüstriyel Switchler",
-  "站内 kw：switch 379 / ethernet 337 / poe 142 / fiber 66"
- ],
- "risks": [
-  "现货源 3onedata（深圳）价格基准低",
-  "SCADA/数传客户多为公用事业：守界按单核",
-  "无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP"
- },
- "email_hook": "For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@rfteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「工业交换机 3旺的」；研究档 risks：现货源 3onedata（深圳）价格基准低"
-  },
-  "situation": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
-  "need": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
-  "breakpoint": "现货源 3onedata（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业交换机 3旺的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-234",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（rfteknoloji.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
+  "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
+  "size": "",
+  "brands_seen": [
+    "3onedata",
+    "CalAmp"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：RF Radyo Data Modem, 3G/4G Endüstriyel Router Modem, RF Haberleşme Sistemleri, Kablosuz-Te；品类词 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi, Telsiz Haberleşme, RF Veri Haberleşmesi, R...",
+      "url": "https://rfteknoloji.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业交换机 3旺的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "RF 数据电台、3G/4G 工业路由、无线数传",
+      "quote": "CalAmp RF Data Modem, Radio Modem, Radyo Modem, 3G/4G Endüstriyel Router/Modem, Kablosuz Veri Haberleşmesi",
+      "url": "https://rfteknoloji.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业交换机 3onedata 的",
+      "quote": "工业交换机 3旺的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 rfteknoloji.com.tr，语言 tr-tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "RF 数据电台 / 工业蜂窝路由（CalAmp）",
+    "工业交换机分销"
+  ],
+  "channels": {
+    "role": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
+    "region": "土耳其",
+    "contact": "info@rfteknoloji.com.tr"
+  },
+  "signals": [
+    "官网栏目：3G/4G/5G Endüstriyel GSM Router Modem / RF Data Modemler / RFbox / Endüstriyel Switchler",
+    "站内 kw：switch 379 / ethernet 337 / poe 142 / fiber 66"
+  ],
+  "risks": [
+    "现货源 3onedata（深圳）价格基准低",
+    "SCADA/数传客户多为公用事业：守界按单核",
+    "无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP"
+  },
+  "email_hook": "For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@rfteknoloji.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "工业无线与数传方案分销（在售 3onedata 工业交换机）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「工业交换机 3旺的」；研究档 risks：现货源 3onedata（深圳）价格基准低"
+    },
+    "situation": "土耳其 RF Teknoloji（RF 数据电台 / 3G-4G-5G 工业路由（CalAmp 等）/ 无线数传 / RFbox，站内「Endüstriyel Switchler」品类；表内「工业交换机，三旺（3onedata）的」）；群发 2 次无回复。",
+    "need": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
+    "breakpoint": "现货源 3onedata（深圳）价格基准低",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「industrial network info@rfteknoloji.com.tr https://www.rfteknoloji.com.tr/end%C3%BCstriyel-switchler/poe-endustriyel-switch/yonetilemez-poe-」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "18 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业交换机 3旺的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

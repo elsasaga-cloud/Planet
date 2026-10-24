@@ -1,147 +1,157 @@
 {
- "code": "SB-231",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nfsteknoloji.com，快照 2026-10-21）",
- "summary": "土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。",
- "type": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
- "size": "",
- "brands_seen": [
-  "Hanwha",
-  "Utepo",
-  "Pelco",
-  "SURENIX"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：NFS Teknoloji | Güvenlik Kamerası | Kamera Sistemleri；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "güvenlik kamerası,kamera sistemleri,samsung kamera,güvenlik kamerası seti,güvenlik sistemleri,güvenlik kamera sistemleri,dome kamera,kayıt cihazı,ip kamera,cctv kamera,dvr kayıt cihazı,kamera kayıt cihazı,box kamera,2 mp güvenlik kamerası,3",
-   "url": "http://nfsteknoloji.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE配件 Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "NFS Teknoloji 首页",
-   "quote": "TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ! ; Sistem Entegratörü Proje Firmaları NFS Teknoloji ile Yol Alıyor... ; HANWHA TECHWIN Güvenlik Kameraları ; PELCO CCTV Sistemleri ; SURENIX",
-   "url": "http://nfsteknoloji.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE 配件 Utepo 的",
-   "quote": "POE配件 Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Hasan Başarır",
-   "title": "Teknik Sorumlu（技术负责人）",
-   "email": "hasan.basarir@nfsteknoloji.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防产品分销（Hanwha / Pelco / ONIONE / SURENIX）"
- ],
- "channels": {
-  "role": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
-  "region": "土耳其",
-  "contact": "info@nfsteknoloji.com、hasan.basarir@nfsteknoloji.com"
- },
- "signals": [
-  "页面 /products/497/profesyonel-switchler/111/16-port-poe-network-switch.html、/guvenliksistemleri/510/8-port-poe-network-switch.html、/products/223/profesyonel-switchler/10/sfp-modul.html；站内 SRX-4GS24PP",
-  "首页：TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ! ; Sistem Entegratörü Proje Firmaları NFS Teknoloji ile Yol Alıyor ; HANWHA TECHWIN ; PELCO ; OINONE ; SURENIX"
- ],
- "risks": [
-  "土耳其：汇率敏感；现 Utepo/深圳代工价格基准低",
-  "2 次跟进无回复 → 改向技术负责人具名首触；SURENIX 是否自有标待核"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 30,
-  "why": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）"
- },
- "email_hook": "Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?",
- "products_seen": [
-  {
-   "brand": "SURENIX",
-   "model": "SRX-4GS24PP",
-   "spec": "24 口 PoE + 4 上联",
-   "saga": "STC-424DGGPM-280W",
-   "url": "http://nfsteknoloji.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 hasan.basarir@nfsteknoloji.com, info@nfsteknoloji.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
-   "sieve": "1（只收到群发）",
-   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「POE配件 Utepo的」；研究档 risks：土耳其：汇率敏感；现 Utepo/深圳代工价格基准低"
-  },
-  "situation": "土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。",
-  "need": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）",
-  "breakpoint": "土耳其：汇率敏感；现 Utepo/深圳代工价格基准低",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "POE配件 Utepo的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-231",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nfsteknoloji.com，快照 2026-10-21）",
+  "summary": "土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。",
+  "type": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Hanwha",
+    "Utepo",
+    "Pelco",
+    "SURENIX"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：NFS Teknoloji | Güvenlik Kamerası | Kamera Sistemleri；品类词 安防监控（CCTV / 门禁） / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "güvenlik kamerası,kamera sistemleri,samsung kamera,güvenlik kamerası seti,güvenlik sistemleri,güvenlik kamera sistemleri,dome kamera,kayıt cihazı,ip kamera,cctv kamera,dvr kayıt cihazı,kamera kayıt cihazı,box kamera,2 mp güvenlik kamerası,3",
+      "url": "http://nfsteknoloji.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "POE配件 Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "NFS Teknoloji 首页",
+      "quote": "TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ! ; Sistem Entegratörü Proje Firmaları NFS Teknoloji ile Yol Alıyor... ; HANWHA TECHWIN Güvenlik Kameraları ; PELCO CCTV Sistemleri ; SURENIX",
+      "url": "http://nfsteknoloji.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 配件 Utepo 的",
+      "quote": "POE配件 Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Hasan Başarır",
+      "title": "Teknik Sorumlu（技术负责人）",
+      "email": "hasan.basarir@nfsteknoloji.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 nfsteknoloji.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防产品分销（Hanwha / Pelco / ONIONE / SURENIX）"
+  ],
+  "channels": {
+    "role": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
+    "region": "土耳其",
+    "contact": "info@nfsteknoloji.com、hasan.basarir@nfsteknoloji.com"
+  },
+  "signals": [
+    "页面 /products/497/profesyonel-switchler/111/16-port-poe-network-switch.html、/guvenliksistemleri/510/8-port-poe-network-switch.html、/products/223/profesyonel-switchler/10/sfp-modul.html；站内 SRX-4GS24PP",
+    "首页：TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ! ; Sistem Entegratörü Proje Firmaları NFS Teknoloji ile Yol Alıyor ; HANWHA TECHWIN ; PELCO ; OINONE ; SURENIX"
+  ],
+  "risks": [
+    "土耳其：汇率敏感；现 Utepo/深圳代工价格基准低",
+    "2 次跟进无回复 → 改向技术负责人具名首触；SURENIX 是否自有标待核"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 30,
+    "why": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）"
+  },
+  "email_hook": "Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?",
+  "products_seen": [
+    {
+      "brand": "SURENIX",
+      "model": "SRX-4GS24PP",
+      "spec": "24 口 PoE + 4 上联",
+      "saga": "STC-424DGGPM-280W",
+      "url": "http://nfsteknoloji.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 hasan.basarir@nfsteknoloji.com, info@nfsteknoloji.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）",
+      "sieve": "1（只收到群发）",
+      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「POE配件 Utepo的」；研究档 risks：土耳其：汇率敏感；现 Utepo/深圳代工价格基准低"
+    },
+    "situation": "土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。",
+    "need": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）",
+    "breakpoint": "土耳其：汇率敏感；现 Utepo/深圳代工价格基准低",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「PoE info@nfsteknoloji.com http://www.nfsteknoloji.com/guvenliksistemleri/532/8-ports-industrial-full-gigabit-poe-managed-switch.html」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "POE配件 Utepo的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -403,6 +403,14 @@
         "k": "f2e1b29e2a1ebeae"
       },
       {
+        "date": "2024-12-12",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "did you get the payment? It was wired on 28.11.2024 (protocol attached: INVOICE STSC20241121015 Protokoll.pdf)… 10G only on the fiber side is something we probably could live with. What marvel IC does it use? What about the pricing (assuming a 100 to 500 units order)?… Other demand is mostly limited to 24 or 48 x 10g/25g SFP+/28 + 4-8 100G ports switches and 12/24/36 100G switches. And maybe you can check if marvell has a suitable chip for 10G media converters for SFP+ to BASE-T conversion… run on different speeds on the two interfaces",
+        "why": "首单 STSC20241121015 付款凭证（2024-11-28 汇出）；同一天 Frederik 已经在问 100–500 台的价格、Marvell 芯片型号、25G/100G 需求和「两侧不同速率」的 10G 光电——NYNEX 从第一单就是按产品线评估 Saga，不是买一台试试",
+        "k": "gmail_s 2024-12-12 RE: 48 Port PoE Managed Switch"
+      },
+      {
         "date": "2025-03-07",
         "dir": "去",
         "who": "Saga（Simon）",
@@ -449,6 +457,14 @@
         "quote": "Hi, Frederik, 1, it is the same price as before, 265usd/pc. It is just an upgrade, and thanks for your feedback. 2, technically, there is no manual for it, it is just readily available, no need for extra configuration. Thank you. On Mon, Sep 15, 2025 at 7:27 P",
         "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：265usd",
         "k": "6683b4837e2e4d62"
+      },
+      {
+        "date": "2025-09-30",
+        "dir": "来",
+        "who": "Frederik Kriewitz（NYNEX）",
+        "quote": "Money has been sent. Attached you find the bank note (Money-transfer[102833].pdf)… Can you clarify if this model is just an updated PCB with added fan and PSU monitoring or is it using a complete new marvel chip? Which chip is used?",
+        "why": "AC5 方案订单付款凭证；客户在付款当天追问是「换板加风扇/电源监控」还是「全新 Marvell 芯片」——NYNEX 对芯片代际敏感（后来 LibreNMS 以 sysObjectID 识别 SmartByte OS）",
+        "k": "gmail_s 2025-09-30 Re: Marvell Alleycat5 Solution"
       },
       {
         "date": "2025-10-21",

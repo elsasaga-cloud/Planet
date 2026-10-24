@@ -1,125 +1,135 @@
 {
- "code": "SB-379",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（4sltd.com.tr，快照 2026-10-21）",
- "summary": "土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。",
- "type": "电气/工业网络分销商（土耳其，Red Lion 代理）",
- "size": "",
- "brands_seen": [
-  "Red Lion"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：4S Elektrik Elektronik || Telekominikasyon || İleri Teknoloji Ar & Ge Ltd. Şti.",
-   "quote": "İzmir ve Türkiye'de Elektrik ve Elektronik Malzeme Satış, Thorguard Türkiye Satış, Secty Türkiye Satış, Dinnteco Türkiye Satış, Redlion Türkiye Satış",
-   "url": "https://4sltd.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业交换机 主要是redlion的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "4S 定位",
-   "quote": "4S Elektrik Elektronik || Telekominikasyon || İleri Teknoloji Ar & Ge Ltd. Şti. ; Redlion Türkiye Satış",
-   "url": "https://4sltd.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业交换机 Red Lion",
-   "quote": "工业交换机 主要是redlion的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电气 / 电子材料销售与代理（土耳其）"
- ],
- "channels": {
-  "role": "电气/工业网络分销商（土耳其，Red Lion 代理）",
-  "region": "土耳其",
-  "contact": "info@4sltd.com.tr、4steknolojiltd@gmail.com"
- },
- "signals": [
-  "官网：İzmir ve Türkiye’de Elektrik ve Elektronik Malzeme Satış, Thorguard Türkiye Satış, Secty Türkiye Satış, Dinnteco Türkiye Satış, Redlion Türkiye Satış",
-  "表内：工业交换机 主要是 redlion 的"
- ],
- "risks": [
-  "Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
- },
- "email_hook": "Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 4steknolojiltd@gmail.com, info@4sltd.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "电气/工业网络分销商（土耳其，Red Lion 代理）",
-   "sieve": "1（只收到群发）",
-   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 12；用户表：「工业交换机 主要是redlion的」；研究档 risks：Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail"
-  },
-  "situation": "土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。",
-  "need": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
-  "breakpoint": "Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业交换机 主要是redlion的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-379",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（4sltd.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。",
+  "type": "电气/工业网络分销商（土耳其，Red Lion 代理）",
+  "size": "",
+  "brands_seen": [
+    "Red Lion"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：4S Elektrik Elektronik || Telekominikasyon || İleri Teknoloji Ar & Ge Ltd. Şti.",
+      "quote": "İzmir ve Türkiye'de Elektrik ve Elektronik Malzeme Satış, Thorguard Türkiye Satış, Secty Türkiye Satış, Dinnteco Türkiye Satış, Redlion Türkiye Satış",
+      "url": "https://4sltd.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业交换机 主要是redlion的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "4S 定位",
+      "quote": "4S Elektrik Elektronik || Telekominikasyon || İleri Teknoloji Ar & Ge Ltd. Şti. ; Redlion Türkiye Satış",
+      "url": "https://4sltd.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业交换机 Red Lion",
+      "quote": "工业交换机 主要是redlion的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 4sltd.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "电气 / 电子材料销售与代理（土耳其）"
+  ],
+  "channels": {
+    "role": "电气/工业网络分销商（土耳其，Red Lion 代理）",
+    "region": "土耳其",
+    "contact": "info@4sltd.com.tr、4steknolojiltd@gmail.com"
+  },
+  "signals": [
+    "官网：İzmir ve Türkiye’de Elektrik ve Elektronik Malzeme Satış, Thorguard Türkiye Satış, Secty Türkiye Satış, Dinnteco Türkiye Satış, Redlion Türkiye Satış",
+    "表内：工业交换机 主要是 redlion 的"
+  ],
+  "risks": [
+    "Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
+  },
+  "email_hook": "Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 4steknolojiltd@gmail.com, info@4sltd.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "电气/工业网络分销商（土耳其，Red Lion 代理）",
+      "sieve": "1（只收到群发）",
+      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 12；用户表：「工业交换机 主要是redlion的」；研究档 risks：Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail"
+    },
+    "situation": "土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。",
+    "need": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+    "breakpoint": "Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「industrial network info@4sltd.com.tr」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "12 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业交换机 主要是redlion的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

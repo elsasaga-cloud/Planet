@@ -1,119 +1,129 @@
 {
- "code": "SB-025",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
- "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
- "size": "",
- "brands_seen": [
-  "Ewind"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE switch 工业 FS Ewind；CCTV 主要",
-   "quote": "POE switch 工业FS E-wind的 CCTV产品还是主要的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Rifat Baydemir",
-   "title": "General Manager",
-   "email": "rifat@cenova.com.tr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表"
- },
- "business_lines": [
-  "CCTV / PoE 分销（土耳其）"
- ],
- "channels": {
-  "role": "CCTV 分销商（土耳其，PoE 现 Ewind）",
-  "region": "土耳其",
-  "contact": "info@cenova.com.tr、rifat@cenova.com.tr"
- },
- "signals": [
-  "表内：POE switch 工业 FS E-wind 的 CCTV 产品还是主要的；KP Rifat Baydemir / General Manager",
-  "快照：http_error"
- ],
- "risks": [
-  "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）"
- },
- "email_hook": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@cenova.com.tr, rifat@cenova.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
-   "sieve": "1（只收到群发）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的」；研究档 risks：现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
-  },
-  "situation": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
-  "need": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
-  "breakpoint": "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-025",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
+  "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+  "size": "",
+  "brands_seen": [
+    "Ewind"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE switch 工业 FS Ewind；CCTV 主要",
+      "quote": "POE switch 工业FS E-wind的 CCTV产品还是主要的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Rifat Baydemir",
+      "title": "General Manager",
+      "email": "rifat@cenova.com.tr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 cenova.com.tr，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "CCTV / PoE 分销（土耳其）"
+  ],
+  "channels": {
+    "role": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+    "region": "土耳其",
+    "contact": "info@cenova.com.tr、rifat@cenova.com.tr"
+  },
+  "signals": [
+    "表内：POE switch 工业 FS E-wind 的 CCTV 产品还是主要的；KP Rifat Baydemir / General Manager",
+    "快照：http_error"
+  ],
+  "risks": [
+    "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）"
+  },
+  "email_hook": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@cenova.com.tr, rifat@cenova.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "CCTV 分销商（土耳其，PoE 现 Ewind）",
+      "sieve": "1（只收到群发）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的」；研究档 risks：现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触"
+    },
+    "situation": "土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。",
+    "need": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
+    "breakpoint": "现供 Ewind 价格基准低；官网 http_error（待核）；土耳其汇率敏感；2 次无回复 → 改向 GM 具名首触",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「POE switch industrial network info@cenova.com.tr https://www.cenova.com.tr/dl-end3308pfg」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "18 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

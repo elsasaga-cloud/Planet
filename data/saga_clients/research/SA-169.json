@@ -148,7 +148,7 @@
       "revive": "已在复购；下一级 = MQTT 对接落地（他的 SCOUT 平台直接读 Saga 交换机）→ 深绑定候选",
       "lane": "CA 已通（Xtransfer、DHL/UPS DAP）",
       "cadence": "最后 2026-08-31 James 回执（PI USD 版）；2026-09-07 PI 包最后单；实质往来 2024-06 → 2026-08，来 6 封（主要在 LinkedIn/WeChat，Simon U28）",
-      "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单"
+      "evidence": "S 邮箱 k=e248bc0c33c534e6 / 51d9acb9ee095737 / aa61c45fc8e5eb33 / ba36e2ca75bc3155；PI 包 4 单；S 邮箱 19 封（2024-06-27 → 2026-08-31，均为 LinkedIn 对话后的单据/固件邮件；jsonl client 字段为空，按域名重扫补入）"
     },
     "situation": "加拿大 James Clendenan Systems（James，controlready.ca / SCOUT）2024-06 首单即问「what kind of software customizations we can do… I'll likely want to do a few changes to the firmware」；2024-12 确认 4+8 PCB 布局与自己的机械设计一致；2026-07 测 AC5 更新后「then we can work on the mqtt setup」；2026-08-26 Simon 给 AC5 BIN + 新料号报价，08-30 PI STSC20260830010（12 台 @ $335），USD 版 08-31。**全库最像「深绑定」路径的小客户：把 Saga 板子装进自己的产品，软件对接在推进。**",
     "need": "① STI/STC 工业系列板级/整机（4+8 口 PoE）装入自有机箱；② 固件定制 + MQTT 上报（接 SCOUT 平台）；③ UL listed PSU 52–57 VDC 250–300 W（2024-06 起）；④ AC5 BIN 持续更新。",
@@ -175,6 +175,14 @@
     },
     "facts": [
       {
+        "date": "2024-06-27",
+        "dir": "去",
+        "who": "Simon → James（Invoice.pdf）",
+        "quote": "Thanks for your information on LinkedIn. Please see attached invoice… I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power",
+        "why": "首单（2024-06-28 James「Wire sent to bank」）：LinkedIn 谈、邮件只发单据；James 从第一单就要 UL 电源 + 「a few changes to the firmware along the way」",
+        "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
         "date": "2024-06-28",
         "dir": "来",
         "who": "James Clendenan",
@@ -191,12 +199,44 @@
         "k": "51d9acb9ee095737"
       },
       {
+        "date": "2024-12-18",
+        "dir": "去",
+        "who": "Simon → James（4+8 PCB layout.dxf）",
+        "quote": "please check attached a copy of 4+8 model PCB layout. Mounting holes&positioning will be EXACTLY the same for old and new versions… you can think of this as a c[ompatible replacement]",
+        "why": "James 12-18「Working with my mech eng to confirm placement is still identical to what we have designed for」→ 客户机械结构围绕 Saga 4+8 板设计 = 换供应商要重开模；12-19 PI STSC20241219010",
+        "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2025-08-28",
+        "dir": "去",
+        "who": "Simon → James",
+        "quote": "Please download the newest firmware from below WeTransfer link… It is ONLY for SW-3200-8GP-4S+(AC5 chip). For AC3 mo[dels…]",
+        "why": "客户自有型号名 SW-3200-8GP-4S+（= Saga 4+8 PoE 工业机 AC5 版）；固件按客户型号单独打包——软件层绑定",
+        "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
+        "date": "2025-11-19",
+        "dir": "去",
+        "who": "Simon → James（NMS-MIB.rar + SWITCH-MIBS-release-7.3.0.docx）",
+        "quote": "Based on our conversation on LinkedIn, please see attached MIBs information. Let's talk again after your review.",
+        "why": "James 要把设备接进自己的 NMS（后来 2026-07 要做 MQTT）——与 Angora 一样走「OID/管理系统接入」这条绑定路径",
+        "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+      },
+      {
         "date": "2026-07-21",
         "dir": "来",
         "who": "James Clendenan",
         "quote": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
         "why": "AC5 迁移 + MQTT 对接在推进",
         "k": "aa61c45fc8e5eb33"
+      },
+      {
+        "date": "2026-07-21",
+        "dir": "去",
+        "who": "Simon → James",
+        "quote": "1. AC3 models are almost out of stock now, we are fully transitioning to AC5 models. The WEB UI an[d…]",
+        "why": "AC3→AC5 切换通知；08-07 补发两个 BIN（AC3 lite-hotfix-7.3.13「final, there will not be any updates」+ AC5）；08-26 新料号报价 STSC-20260826-001 → 08-30 PI STSC20260830010（USD 版 08-31）",
+        "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
       },
       {
         "date": "2026-08-26",

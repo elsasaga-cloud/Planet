@@ -116,12 +116,12 @@
     },
     "facts": [
       {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业物联网 工业FS 自己的标 看着比较专业",
-        "why": "表内备注",
-        "k": "用户表"
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「Gizem KIZILTAN industrial network info@pavotek.com.tr」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
       },
       {
         "date": "2026",
@@ -130,9 +130,19 @@
         "quote": "Industrial PoE Switch、Booster PoE Switch",
         "why": "17 封 / 3 次打开 / 0 回",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业物联网 工业FS 自己的标 看着比较专业",
+        "why": "表内备注",
+        "k": "用户表"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
       "body": "Hi Serkan,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Booster PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches offered under the Pavotek label in your IIoT solutions, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, redundant power, CE/RoHS) in your housing from small lots — which configuration do your industrial projects use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"

@@ -1,125 +1,135 @@
 {
- "code": "SB-483",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（teleone.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
- "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Teleone: Think bigger, make better – Video Surveillance Solution Provider",
-   "quote": "Think bigger, make better",
-   "url": "https://www.teleone.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Utepo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Teleone 定位",
-   "quote": "Teleone: Think bigger, make better – Video Surveillance Solution Provider",
-   "url": "https://www.teleone.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo",
-   "quote": "Utepo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "视频监控方案（土耳其）"
- ],
- "channels": {
-  "role": "视频监控方案商（土耳其，PoE 现 Utepo）",
-  "region": "土耳其",
-  "contact": "info@teleone.com.tr"
- },
- "signals": [
-  "官网：Teleone: Think bigger, make better – Video Surveillance Solution Provider ; Termal Kamera ile Hassas Vücut Isısı Ölçüm Çözümleri ; Müşteri Öyküleri ; Referanslarımız",
-  "表内：Utepo"
- ],
- "risks": [
-  "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）"
- },
- "email_hook": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@teleone.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 17；用户表：「Utepo」；研究档 risks：现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
-  },
-  "situation": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
-  "need": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
-  "breakpoint": "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Utepo",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-483",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（teleone.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
+  "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Teleone: Think bigger, make better – Video Surveillance Solution Provider",
+      "quote": "Think bigger, make better",
+      "url": "https://www.teleone.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Utepo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Teleone 定位",
+      "quote": "Teleone: Think bigger, make better – Video Surveillance Solution Provider",
+      "url": "https://www.teleone.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Utepo",
+      "quote": "Utepo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 teleone.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "视频监控方案（土耳其）"
+  ],
+  "channels": {
+    "role": "视频监控方案商（土耳其，PoE 现 Utepo）",
+    "region": "土耳其",
+    "contact": "info@teleone.com.tr"
+  },
+  "signals": [
+    "官网：Teleone: Think bigger, make better – Video Surveillance Solution Provider ; Termal Kamera ile Hassas Vücut Isısı Ölçüm Çözümleri ; Müşteri Öyküleri ; Referanslarımız",
+    "表内：Utepo"
+  ],
+  "risks": [
+    "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）"
+  },
+  "email_hook": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 17 封 2024→2026，无记录打开，0 回；收件 info@teleone.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "视频监控方案商（土耳其，PoE 现 Utepo）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 17；用户表：「Utepo」；研究档 risks：现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@"
+    },
+    "situation": "土耳其 Teleone（「Think bigger, make better」视频监控方案商：热成像体温测量方案、客户案例；表内「Utepo」）；表内 2 次跟进无回复。",
+    "need": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+    "breakpoint": "现供 Utepo 价格基准低；土耳其汇率敏感；2 次无回复，仅 info@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；工业 8 PoE + 2 SFP STI-288GP（$59.8）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switches in your video-surveillance projects, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ plus DIN-rail industrial 8-PoE units from single units, CE/RoHS, EXW USD — which PoE port count do your projects use most alongside Utepo?"
+    },
+    "facts": [
+      {
+        "date": "2024-11-05",
+        "dir": "去",
+        "who": "Simon → Angora Networks（SA-168）附件 Turkey Client List.xlsx",
+        "quote": "名单行：「switch info@teleone.com.tr http://urunler.teleone.com.tr/」",
+        "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
+        "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "17 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Utepo",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }
