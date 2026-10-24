@@ -224,6 +224,14 @@
         "k": "cost_sheet"
       },
       {
+        "date": "2024-04-20",
+        "dir": "内",
+        "who": "Saga 给客户的进口须知（PI 包「客户进口信息/shipment_related_information.docx」）",
+        "quote": "Company Name UNITED CONTROL ENGINEERS INDIA PVT. LTD. · GSTIN/UIN 09AACCU4195M1ZP · FedEx 273802216228 · After getting the tracking number log in https://kyc.fedex.com, upload GSTIN code and KYC (Proof of identity and address recognized by the Government of India), upload POA information (customs clearance power of attorney)",
+        "why": "印度小单的清关门槛：收货人要自己在 FedEx 做 KYC（GSTIN + 身份地址证明 + 清关授权），不是 Saga 这边能代办的——给印度客户发样前先把这段话发过去，省一次卡关",
+        "k": "data/pi_2026-10/text/…5_印度_Rajesh_gg…shipment_related_information.docx"
+      },
+      {
         "date": "2024-05-27",
         "dir": "来",
         "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",

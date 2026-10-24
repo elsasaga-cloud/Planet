@@ -8878,6 +8878,14 @@
 "k": "cost_sheet"
 },
 {
+"date": "2024-04-20",
+"dir": "内",
+"who": "Saga 给客户的进口须知（PI 包「客户进口信息/shipment_related_information.docx」）",
+"quote": "Company Name UNITED CONTROL ENGINEERS INDIA PVT. LTD. · GSTIN/UIN 09AACCU4195M1ZP · FedEx 273802216228 · After getting the tracking number log in https://kyc.fedex.com, upload GSTIN code and KYC (Proof of identity and address recognized by the Government of India), upload POA information (customs clearance power of attorney)",
+"why": "印度小单的清关门槛：收货人要自己在 FedEx 做 KYC（GSTIN + 身份地址证明 + 清关授权），不是 Saga 这边能代办的——给印度客户发样前先把这段话发过去，省一次卡关",
+"k": "data/pi_2026-10/text/…5_印度_Rajesh_gg…shipment_related_information.docx"
+},
+{
 "date": "2024-05-27",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
@@ -74661,6 +74669,14 @@
 "quote": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
 "why": "Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
+},
+{
+"date": "2025-01-15",
+"dir": "内",
+"who": "Saga 发货信息单（PI 包 3rd/4th/10th/11th order「发货信息_Hrui.docx」）",
+"quote": "3rd 单：申娟 15811851420，广州市越秀区广园西路83号宇航通讯大厦负二楼227档（添越中心），7 台 12 kg；4th 单：Tony Uhutex 13119574676，广州市越秀区瑶台西街89号（美泰城）A2038 档，5 台 8.1 kg；10th/11th 单与「14 台」：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库，7 台 12 kg / 2 台 3 kg / 14 台 20 kg；每单都写「商业交换机 Commercial Ethernet Switch · HS 8517622990 · 品牌 无 · 没有内置电池，普货，不带电不带磁」；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325",
+"why": "Mbata 的货从来不出 Saga 的报关线——三个不同的广州货代仓（越秀两处、花都一处）由客户指定，Saga 只送到仓、写发货信息单；这是「客户自带货代」这条物流线最完整的样本（也说明他在广州有稳定的拼箱渠道，换供应商成本低）",
+"k": "data/pi_2026-10/text/…12_尼日利亚_Mbata…发货信息_Hrui*.docx / Shipping_Mark_STEC20260618012.docx"
 },
 {
 "date": "2025-03-06",

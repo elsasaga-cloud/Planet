@@ -94,3 +94,17 @@
 
 **对外一句话（客户问「你们和 SmartByte 什么关系」时）**：
 "SmartByte is our Marvell-platform manufacturing partner; Saga owns the product definition, firmware branding (including the private MIB under our own enterprise number) and after-sales. The firmware you receive is built for Saga and does not carry third-party OEM identifiers."
+
+## 10. 物流与清关实务（PI 包出货资料归纳，2026-10-24 第 70 批）
+
+> 来源：Drive PI 包 20 个成单户文件夹里的「买单报关 / 发货信息 / 装箱单 / 入仓标签」（`data/pi_2026-10/text/`）。只记实际发生过的做法。
+
+| 项目 | 实际做法（证据） |
+|---|---|
+| 两条物流线 | ① **客户自己的广州货代**（Mbata 尼日利亚：3rd 单 申娟·越秀宇航通讯大厦；4th 单 Tony Uhutex·瑶台西街美泰城；10th/11th/14 台 陈静怡 Serena·花都东湖村仓；末端收货人 VALENTINE, Lagos）——Saga 只负责送到广州仓，发货信息单写「品名 / 数量 / 重量 / HS 8517622990 / 品牌 无 / 不带电不带磁」。② **Saga 自己的深圳买单报关线**（James 加拿大、Angora 土耳其、Sugito 马来西亚、NYNEX 德国、Rishi 印度…）：填「出口货物确认函 / 货物情况说明表」→ 深圳联邦（UPS/FedEx/DHL）入仓标签 `WE0xxxxxxxxx_国家_入仓标签.PDF` → 运单；PI 写 **DAP but without customs clearance**（SA-012 英国）。 |
+| HS 编码 | 交换机 **8517622990**；光模块 8517795000（Pythias 赞比亚单）；光纤清洁笔 8517799000（Rishi 印度单）。 |
+| 品牌栏 | OEM/贴牌客户一律「**无品牌**」（James 2nd 单起、Angora 全部、Mbata 全部）；自有品牌出货写「Saga Telecom · 境内自主品牌 · 生产厂家 Zhengzhou Saga Telecom Co., Ltd.」（James 1st 单、Pythias、Sugito）。两种都发生过，按客户要的外观定。 |
+| 单台重量/尺寸（报 DAP 直接用） | STI-21616DGGPM/XGGPM（James SW-3200-16GP）**158×115×54 mm，净 1.2 kg**，12 台一箱 20 kg；STI-288DGGPM 1.2 kg；STC-424XGGPM ≈3.4–3.5 kg，440×180/205×44 mm；STC-448XGGPM ≈5.6 kg；ANW-2116-PG（STC-424DGGPM-280W 16 口版）8 台一箱 21 kg（53.5×40×40.8 cm）；STC-2224GFP-24V 2.9/3.6 kg，440×290×45 mm；SmartByte 原箱：8 PoE+2 SFP 两台一箱 3 kg（31×23.5×18.5 cm），24/48 口机 10.6 kg（53.5×20.5×40.8 cm）。 |
+| 大单运费的分量 | Angora 176 台 = 23 箱 471.9 kg，运费 22,426 RMB ≈ 127 RMB/台（≈$18），把毛利从 ~24% 压到 15.9%——同规模报价时运费单列、空运/海运分开报。 |
+| 印度清关 | FedEx 需要收货人先在 kyc.fedex.com 上传 **GSTIN + 身份/地址证明 + 清关授权书（POA）**，拿到运单号后才能办（SA-016 United Control Engineers 2024-04，GSTIN 09AACCU4195M1ZP）；没做 KYC 货会卡在海关。 |
+| 装箱单 | 工厂（SmartByte）出 PACKING LIST 给 Zhengzhou Saga Telecom（Consignee），再由 Saga 转出口——**工厂单据上出现的是 Saga 的郑州抬头，不是客户**；客户看到的只有 Saga 的 CI/PL。 |
