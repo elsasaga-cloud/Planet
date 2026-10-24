@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>理解与方向 V1 · 深度串联（2026-10-24）</title>
+<style>
+  :root{--ink:#1d2430;--mute:#6b7380;--line:#e3e6ea;--bg:#f7f8f9;--acc:#0b5fa5;--warn:#9a5b00;--ok:#1b7f3b;--bad:#a12a2a}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",Helvetica,Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.65;font-size:15px}
+  header{background:var(--ink);color:#fff;padding:28px 40px}
+  header h1{margin:0 0 6px;font-size:24px;font-weight:600}
+  header p{margin:0;color:#c7ccd4;font-size:13px}
+  main{max-width:1180px;margin:0 auto;padding:24px 40px 60px}
+  nav{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:12px 18px;font-size:13px;margin-bottom:22px}
+  nav a{color:var(--acc);text-decoration:none;margin-right:14px;white-space:nowrap}
+  h2{font-size:19px;margin:38px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--ink)}
+  h3{font-size:15.5px;margin:22px 0 8px;color:var(--acc)}
+  p{margin:8px 0}
+  table{border-collapse:collapse;width:100%;margin:10px 0 14px;font-size:13.5px}
+  th,td{border:1px solid var(--line);padding:6px 9px;vertical-align:top;text-align:left}
+  th{background:var(--bg);font-weight:600}
+  .src{color:var(--mute);font-size:12px}
+  .src code{font-size:11.5px;background:#f1f3f5;padding:0 4px;border-radius:3px}
+  .box{border:1px solid var(--line);border-left:4px solid var(--acc);background:var(--bg);padding:12px 16px;border-radius:6px;margin:12px 0}
+  .box.warn{border-left-color:var(--warn)}
+  .box.bad{border-left-color:var(--bad)}
+  .box.ok{border-left-color:var(--ok)}
+  .kv{display:grid;grid-template-columns:150px 1fr;gap:4px 12px;font-size:14px}
+  .kv b{color:var(--mute);font-weight:500}
+  .tag{display:inline-block;font-size:11.5px;padding:1px 7px;border-radius:10px;border:1px solid var(--line);background:#fff;color:var(--mute);margin-left:4px}
+  .q{font-style:normal;color:#333;background:#fbfbfb;border-left:3px solid #cfd4da;padding:6px 12px;margin:6px 0;font-size:13.5px}
+  ol,ul{margin:6px 0 6px 22px;padding:0}
+  li{margin:3px 0}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:800px){.grid2{grid-template-columns:1fr}.kv{grid-template-columns:1fr}}
+  footer{color:var(--mute);font-size:12px;margin-top:40px;border-top:1px solid var(--line);padding-top:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>理解与方向 V1 · 深度串联</h1>
+  <p>2026-10-24 04:18Z 完成 · 在 Drive 三轮 1,461 件、Gmail S/A/E 三邮箱、Extra Info、PI、HRUI、SmartByte 站点、Simon 对话原话全部入库之后写成 · V0（2026-10-22）原样保留，勘误见 <code>docs/理解与方向_V0反馈勘误_2026-10-23.md</code> · 每条事实后标出处 〔…〕，无出处的句子都是推断并已标明</p>
+</header>
+<main>
+<nav>
+  <a href="#s0">0 读法与变化</a><a href="#s1">1 四行总纲</a><a href="#s2">2 身份</a><a href="#s3">3 三条产品线</a><a href="#s4">4 市场版图</a><a href="#s5">5 客户与绑定</a><a href="#s6">6 三邮箱机器</a><a href="#s7">7 供应链与运行层</a><a href="#s8">8 资料与对外足迹</a><a href="#s9">9 口径时间轴</a><a href="#s10">10 矛盾与疑惑</a><a href="#s11">11 方向</a><a href="#s12">12 信息源与覆盖</a>
+</nav>
+
+<h2 id="s0">0. 读法，以及 V0 → V1 改了什么</h2>
+<p>V1 的骨架不是我发明的：直接用《Saga公司背景信息.docx》（2026-10-19）压成的四句总纲做脊柱〔摘读 D12〕，身份用品牌站的最后一版措辞〔摘读 D13〕，市场用 Simon 2026-10 的口头版〔T29-U28〕，所有分歧点集中放在第 10 节（§E1–E26）。A 邮箱与 Drive 第三轮余下 850 件是本版新增的证据层：它们没有推翻任何一条已有理解，但把「少客户、技术流绑定、慢成单」从理念变成了可数的漏斗（第 5、6 节）。</p>
+<div class="box warn">
+<b>V0 中被勘误、V1 已改正的点</b>〔<code>docs/理解与方向_V0反馈勘误_2026-10-23.md</code>；T29-U28〕
+<ol>
+<li>主战场不是「土耳其/中东/东南亚/非洲」，而是 <b>美国/加拿大 + 整个欧洲 + 土耳其</b>，其余「适当来就行」；Planet 美加渠道挖掘只是暂停，不是放弃。</li>
+<li>s./a./e. 三个邮箱 = 一个人（Simon）；对外是三个名字，内部不存在分工问题。</li>
+<li>物流是两条线：客户自己的广州货代（EXW）vs Saga 用的深圳百运网（陈佩珍，DAP/FOB）。</li>
+<li>群发减少是战略取舍，不是能力衰退；低价群发报价用的是旧汇率，「先有回复了再说」。</li>
+<li>CENTEC 是敲门砖，Peter（SmartByte）的产品优先；微信/LinkedIn 只有 James 一位客户在用，WhatsApp 客户不写代号。</li>
+<li>绑定等级现状：轻度 = PBA / Angora / James / Netaş / Mbata；较深 = NYNEX；「深」= 目前没有。gg 客户 = 难复购，B 级客户照常。</li>
+</ol>
+</div>
+
+<h2 id="s1">1. 四行总纲（脊柱）</h2>
+<p class="src">〔《Saga公司背景信息.docx》2026-10-19，主目录；摘读 A27 / D12〕</p>
+<table>
+<tr><th style="width:120px">句</th><th>原意（压缩）</th><th>其余材料如何挂上来</th></tr>
+<tr><td><b>① 两层三供应商</b></td><td>Saga 是一个人的贸易商（SOHO）；上层是三家供应商：SmartByte（Marvell，核心）+ HRUI（Realtek，补充）+ Hohunet（CENTEC，高速）。</td><td>第 3 节产品三条线、第 7 节供应链；A 邮箱里 Alan 对 Larch 的自述「Marvell 只做 1G/10G L2+/L3，高速走 CENTEC」〔<code>data/gmail_a</code> 2026-05-25/06-05〕。</td></tr>
+<tr><td><b>② 优势 / 劣势</b></td><td>优势 = 功能、定制深度、供货连续；劣势 = 贸易商身份、价格被动、认证只到 CE 级（无 UL/E-mark/KC）。</td><td>优势在 Netaş 走完 NDA/ECCN/供应商表全套后仍愿留样〔A 邮箱 2025-10 → 2026-02〕；劣势在 iotsistem「extremely expensive」、UNEA-X「日本认证费用对方承担」〔A 邮箱 2026-08 / 2026-05〕。</td></tr>
+<tr><td><b>③ 客户四类</b></td><td>OEM 品牌商最优先 &gt; 有进口经验者 &gt; 分销商 &gt; 小项目集成商；「给我 100 最多卖 130」= 30% 封顶。</td><td>第 5 节：成单客户几乎都是②③④类小单，①类（OEM 品牌商）只有 NYNEX 接近、BitBook 在谈〔摘读 D3〕；Larch 8,000 台是①类机会但被 Saga 自己停止〔A 邮箱 2026-03-31〕。</td></tr>
+<tr><td><b>④ 策略</b></td><td>不追快单；「1 次不行就 10 次，10 次不行就 2 年 5 年」；轨交主营客户 PASS。</td><td>第 6 节群发日历（两年 18 轮主题）、Alan 对 Netaş 停滞 4 个月后仍以 AC5 特性表再触达〔A 邮箱 2026-07-17〕；Netaş 的车载 -40~+71℃ 需求正是「轨交/车载 PASS」的实例。</td></tr>
+</table>
+
+<h2 id="s2">2. 身份：一个人、三个名字、一句定位</h2>
+<div class="grid2">
+<div class="box">
+<div class="kv">
+<b>法律主体</b><span>Zhengzhou Saga Telecom Co., Ltd.，郑州地址（PI/报价抬头）〔<code>data/gmail_a</code> 附件 STAG20251224020 / Quotation_2026.03.23〕；实际在深圳一人运营〔摘读 D7〕</span>
+<b>对外名字</b><span>Simon（s.）/ Alan（a.，销售与报价、LinkedIn）/ Elsa（e.，产品站与首触）〔摘读 D10；T29-U28〕；交接句式「My friend Simon sent you some info… I will take over」「my colleague Elsa talked with you before」〔A 邮箱 UNEA-X / Impakt 线程〕</span>
+<b>定位措辞</b><span><b>「Engineering-led trade &amp; customization」</b>（品牌站 sagatele.com）；页脚「An Engineering &amp; Supply-Chain-First Telecom Partner」；「Built to Last, Continuous Supply, Evolving Together」永不改〔Saga.md 2026-08；摘读 D11/D13〕</span>
+<b>永不写的词</b><span>内部文档不称 Saga 为「工厂」也不为「贸易商」写文案；对外文案由 Simon 定口径〔摘读 §C-19 / E13〕</span>
+<b>We Don't</b><span>云管理、EN50155 轨交、IP67、消费级〔sagatele.com 2026-10-22 抓取〕；不做 UL/E-mark/KC 行业〔《背景信息》〕</span>
+<b>主职与副业</b><span>主职 Olycom（simon@olycom.com.cn），Saga 是现金流引擎「只做顺手单不做拼命单」，固定成本 2–3k/年，不压货〔摘读 A20 / D7；S 邮箱〕</span>
+</div>
+</div>
+<div class="box">
+<b>三次换皮，事实没变</b>〔摘读 D13；A 邮箱附件抬头〕
+<ol>
+<li>2025：PI 抬头「Connecting, Converting, Creating / Tailored <b>Marvell</b> Managed Networking Solutions Provider」，PROFILE 2025Q4「manufacturer and trader，惠州生产基地，USA and EU」。</li>
+<li>2026-03：报价单抬头「Saga Telecom, <b>OEM Factory</b> / Tailored Managed Networking Solutions Provider」，PROFILE 2026Q2 主打欧洲。</li>
+<li>2026-08 起：「Engineering &amp; Supply-Chain-First」，Resource Library 的 Roadmap.pdf / STOS 特性表已换新页脚〔<code>data/drive_r3</code> Resource Library〕；品牌站「Engineering-led trade &amp; customization」。</li>
+</ol>
+<p>每一版包装的都是同一家惠州工厂（凌特华盛，7,000 m²，3K 台/月）和同一套三芯片线〔摘读 A29；SmartByte 站点〕。变的只是「离工厂多近」和「点哪些国家」。</p>
+</div>
+</div>
+
+<h2 id="s3">3. 三条产品线 = 三类客户 = 三个利润底线 = 三家供应商</h2>
+<table>
+<tr><th>线</th><th>供应商</th><th>产品与状态（2026-10）</th><th>客户类型</th><th>利润底线</th><th>边界 / 不做</th></tr>
+<tr><td><b>Marvell</b>（核心）</td><td>SmartByte / Peter（凌特华盛 + 进为时代）</td><td>STC 商用 8/24/48 口 L2+/L3；STI 工业 4/8/16/24 口非管理 + 管理；<b>AC3→AC5 全线切换基本完成</b>：商用全部 AC5 量产，工业全部有 AC5 样机，4/8 口量产，16/24 口在清 AC3 库存〔A 邮箱 2026-05-27〕；固件 7.5.x L2+（98DX2515/2518 AC5 Lite）〔<code>data/drive_r3</code> Saga Feature List_7.5.x〕；新卖点 DI/DO/RS485〔A 邮箱 2026-10 群发〕</td><td>OEM/ODM 品牌商、技术型集成商；「比台湾更值、比白牌更稳」〔摘读 D2〕</td><td>≥25 点（可压 20）〔《计划》〕；仓库口径 OEM 30 / 集成 25 / 分销 20〔T04〕</td><td>不做 SFP28、不做高速 Marvell（「技术资源与 ROI」）〔A 邮箱 2026-05-25〕；L3 只到特性表范围，无 PIM-SM/DM、RIPng/PBR、IP SLA〔Netaş 线程 2026-02/03〕；不做工业 2.5G/10G 电口（推断，E5）</td></tr>
+<tr><td><b>CENTEC</b>（高速/核心）</td><td>Hohunet（通过朋友 Joey）</td><td>STH 系列 10G/25G/100G/400G；操作系统 <b>STOS</b> V3.0.22，许可 EB/MS/MA/ST〔Resource Library STOS V2.4，2025-12-12〕；平台 PeakNetX / SerdesX / BigFlow / VastLakes〔A 邮箱附件〕；<b>价格锚</b>：STH-32QC-HSI 32×400G $16,000、STH-32C-HSI 100G $6,000、400G-SR4 $300，交期 12–15 周，1 年保修〔Quotation_2026.03.23 给 ITM〕</td><td>SI / ISP / 园区·医疗·政府项目；DC 交换机客户优先〔T05/T06；《CENTEC客户指引》〕</td><td>≥35 点，可到 50+〔《计划》〕</td><td>CENTEC 是敲门砖，Peter 产品优先〔T29-U28〕；商用温度 0–40℃，不满足车载〔Netaş 2026-03-02〕；库存与批次在 Hohunet（「另一客户买走 8 台」「50 台批次也供国内」）〔A 邮箱 2026-03〕</td></tr>
+<tr><td><b>Realtek</b>（补充）</td><td>HRUI</td><td>非管理/轻管理商用与 CCTV 接入；Drive 固定 USD 价表 2026 Q3（61 款）；HRUI 成本月变 4–5 次、7 天有效〔<code>data/hrui_*</code>；Q-47〕</td><td>分销/电商/价格敏感</td><td>≥20 点（可压 15）〔《计划》〕</td><td>只作补充；Realtek 客户从芯片源头被「Marvell 管理型」口号筛掉〔摘读 A15 / D1〕</td></tr>
+</table>
+<div class="box">
+<b>产品线之外的「被动响应」项</b>：光模块/DAC/AOC（Saxa 命名已定、供应商为空）、STT/DWDM（已命名未推广）、PoE 配件与 DIN 电源（Meanwell 原装，PSE 型号 GST120/240/280A48-P1M）〔A 邮箱 UNEA-X 2026-05〕、<b>Brand Materials Channel</b>（Cisco/Huawei/HPE/…/Hikvision「original sources」，即 Sava 纯贸易线；客户确有来问 Synology DSS、Cisco IP 电话）〔<code>Product Link_2026Q3.pdf</code>；A 邮箱 trgr.ru / Telexcell〕。V1 的处理：全部列为「有人问就接、不主动推」（E9/E10/E24）。
+</div>
+
+<h2 id="s4">4. 市场版图：口头版为准，自述版作注</h2>
+<p><b>口头版（2026-10，T29-U28）：美国/加拿大 + 整个欧洲 + 土耳其；「其他的适当来就行」。</b> 文档版：土耳其/美国/英国/德国四主（美国「重要做」），波兰次级；2026-08-02「欧洲 美国这 2 个是绝对大头 然后一些俄罗斯 印度 韩国客户」〔摘读 A9 / D3 / E3〕。对外 PROFILE 2026Q3 写的是 DE/UK/TR/IT/PL + MENA、不提美国——这是 E19/E20 的分歧，V1 按口头版写。</p>
+<table>
+<tr><th>区域</th><th>成单 / 在谈证据（客户代码）</th><th>收款与物流方式</th><th>A 邮箱新增证据（2026-10-24）</th></tr>
+<tr><td><b>土耳其</b></td><td>Angora（SA-168，Levent：2024-05 样 → 2024-10 7 台 → 2025-03 176 台）；Netaş（SB-473，3 台样机 2025-12，期望数百台/年，停滞）；iotsistem（SA-074，价格拒）〔摘读 D3；A 邮箱〕</td><td>收 TRY（HK 账户）、小批量多批次、WhatsApp；Netaş 走 T/T + UPS DAP〔摘读 D3；STAG20251224020〕</td><td>.tr 是真实来信最多的国家（31 封，全部 Netaş）；Netaş 供应商合规包（NDA、ECCN 表、ZTE 出口合规政策）完整留档</td></tr>
+<tr><td><b>美国 / 加拿大</b></td><td>52 Networks（SA-064，VA，2 台样机 2025-07）；James（SA-169，CA，STSC20240627010）；Supermicro（SC-005，户外机柜 -34~74℃ 询问）；Alphanet / Infinite 询价；dymec「not our market」〔A 邮箱；摘读 D3〕</td><td>PayPal / DHL；James 用 Saga 货代〔摘读 D3〕</td><td>美国有真实成单与询盘，但对外 PROFILE 自 2026Q2 起不提美国（E19）</td></tr>
+<tr><td><b>英国</b></td><td>PBA（SA-171）；Go Green IT（SA-012，1 台 L3 2025-08，PoE 不稳反馈、写博客）；ITM Systems（SB-842，400G $107,675 报价待拍板）；case.uk 价格拒〔A 邮箱〕</td><td>PayPal；DAP 英国（ITM 报价含 DHL $850）</td><td>Alan 2025-11-26 自述「good clients in Turkey, Germany, Russia and USA, so far not in the UK」——英国在 A 邮箱里是样品 + 大额在谈，不是批量</td></tr>
+<tr><td><b>德国 / 欧洲其他</b></td><td>NYNEX（SA-013，DE，STC-4168XGGCM，LibreNMS 提交，较深绑定）；walker-security.systems（DE，一问）；Direktronik（SE，CE 合规问询）；Landatel（ES）〔摘读 D3；A 邮箱〕</td><td>NYNEX 由 Saga 推 SmartByte、Peter 处理技术〔T29-U15〕</td><td>A 邮箱无 NYNEX 往来（在 S 邮箱）；意大利只有 eter.it 自动回复与 aruba.it 营销，「Established presence in Italy」无证据（E20）</td></tr>
+<tr><td><b>维持 / 被动</b></td><td>俄罗斯：Igor（SB-1335，gg）、BitBook/Andrey（SA-026，OEM/ODM 在谈）、svn-video / nag.ru / comtinu 问价；以色列：Larch（SB-318，8,000 台停止 → SONiC 合作婉拒）、Aironix（SB-754，目标 $150）；UAE：ASTEL（SA-001，成单）、IPNS（SA-103）；尼日利亚：Mbata（SA-170，WhatsApp only）；乌兹别克：Latmedia（SA-120，要 SDK 转介）；日本：UNEA-X（SB-093，寄样测试）；韩国：eznet66 报价 2025-02〔A 邮箱；摘读 D3〕</td><td>货代付款不走公账（RU）；ASTEL EXW 广州货代</td><td>E3/E4/E14：印/韩/俄/中东全部「被动响应」，不投群发预算</td></tr>
+</table>
+
+<h2 id="s5">5. 客户与绑定：漏斗已经可数</h2>
+<div class="box ok">
+<b>漏斗（A 邮箱，2025-01 → 2026-10）</b>〔<code>data/gmail_a</code>；摘读 D14〕：群发 14,500 封 → Opened 1,011（7%）→ 真实来信 208 封 / 91 条线程 → 深谈 ≈10 家（Netaş、ITM、Larch、Go Green IT、52 Networks、ASTEL、iotsistem、UNEA-X、Latmedia、Telexcell）→ <b>成单 4 家、合计 ≈ $1,300、全部样品级、全部预付</b>。S 邮箱同期：13,583 封（发 10,966 / 收 2,617 / 系统 1,821），77 轮战役〔<code>docs/gmail/00-Gmail盘点与使用方案.md</code>〕。客户库 4,647 户（A 91 / B 1,128 / C 3,428）〔<code>data/saga_clients</code>〕。
+</div>
+<h3>5.1 成单客户与绑定等级（U28 定级，不改）</h3>
+<table>
+<tr><th>客户</th><th>国家</th><th>成交内容（出处）</th><th>绑定等级</th><th>绑定证据 / 缺口</th></tr>
+<tr><td>NYNEX（SA-013）</td><td>DE</td><td>STC-4168XGGCM；LibreNMS 提交；坚持 SmartByte OID〔摘读 E21；T29-U15〕</td><td><b>较深</b></td><td>技术流绑定的唯一样本：自研集成、要统一 UI；Peter 直接处理技术</td></tr>
+<tr><td>Angora（SA-168）</td><td>TR</td><td>7 台 → 176 台（2024-10 → 2025-03）〔摘读 D3〕</td><td>轻度</td><td>备货未谈成；Q3 停摆；GitHub anwHub 休眠〔U18 研究档〕</td></tr>
+<tr><td>James（SA-169）</td><td>CA</td><td>STSC20240627010〔摘读 D3〕</td><td>轻度</td><td>唯一用微信/LinkedIn 的客户〔T29-U28〕</td></tr>
+<tr><td>PBA（SA-171）</td><td>UK</td><td>成单（S 邮箱）〔摘读 D3〕</td><td>轻度</td><td>—</td></tr>
+<tr><td>Mbata（SA-170）</td><td>NG</td><td>客户货代，20 点底线〔摘读 D3〕</td><td>轻度</td><td>info@ 不安全，仅 WhatsApp〔U18〕</td></tr>
+<tr><td>Netaş（SB-473）</td><td>TR</td><td>3 × STI-488DGGPM-2BT $150，PO 2600011146〔A 邮箱 2025-12-24〕</td><td>轻度</td><td>停在 L3 组播 + 温度；1 台样机留在终端客户；供应商资格流程已走完（这本身是沉没成本）</td></tr>
+<tr><td>Go Green IT（SA-012）</td><td>UK</td><td>1 × STI-42424XGGPM-4BT L3 $500〔STAG20250823017〕</td><td>—（U28 未列）</td><td>实测反馈最详细的客户：SSH xterm-256color、SFP 速率手动、PoE 不稳；写了博客〔A 邮箱 2025-09 → 2026-04〕</td></tr>
+<tr><td>52 Networks（SA-064）</td><td>US</td><td>2 × STI-288GP $58〔STSC20250718016〕</td><td>—</td><td>线缆公司，样机后无动作；GSA MAS 到 2027-07〔U18〕</td></tr>
+<tr><td>ASTEL Digicom（SA-001）</td><td>UAE</td><td>STI-110GE / 140GE 样机〔STAG20251127018〕</td><td>—</td><td>转微信跟 Simon；E4 的「UAE 新客户」即此</td></tr>
+</table>
+<h3>5.2 失单与停滞的原因都是具体条目</h3>
+<table>
+<tr><th>原因类</th><th>实例（出处）</th><th>对应的 Saga 边界</th></tr>
+<tr><td>功能上限</td><td>Netaş：PIM-SM/DM、RIPng/PBR、IP SLA「Marvell 固件无」〔A 邮箱 2026-02-27〕；Latmedia：要 SDK/源码〔2025-02〕；Telexcell 等要云管理</td><td>Marvell 线 = L2+/轻 L3；不卖 SDK（E2）；We Don't 云管理</td></tr>
+<tr><td>温度 / 认证</td><td>Netaş 车载 -40~+71℃ vs CENTEC 0–40℃；Supermicro -34~74℃ 户外机柜；UNEA-X 日本 PSE/认证费用由对方承担〔A 邮箱〕</td><td>轨交/车载 PASS；认证只到 CE 级</td></tr>
+<tr><td>价格</td><td>iotsistem $120 / $340「extremely expensive」；Larch 目标 $250 vs 「内存涨价」；Aironix 目标 $150；case.uk、elitteamsecurity〔A 邮箱〕</td><td>30% 封顶、不打价格战；Realtek 客户不是目标</td></tr>
+<tr><td>Saga 自己的边界</td><td>Larch 8,000 台：「与我们一个国内客户冲突，内部决定」〔2026-03-31〕；Larch SONiC / 10 片 DX1518 芯片：婉拒〔2026-05/06〕</td><td>不抢供应商国内项目（E23，待 Simon 确认）；不做高速 Marvell</td></tr>
+<tr><td>对方不需要</td><td>dymec「not our market」、drosibai.lv 要求停发、Sparkle 投诉〔A 邮箱〕</td><td>群发的正常损耗</td></tr>
+</table>
+<p><b>串联结论（推断）：</b>「少客户」不是群发效果差的结果，而是口号 + Drive 自助资料 + Template 规则三道筛子的设计结果〔摘读 D1 / D8〕。两年里 A 邮箱真正进入 Template 流程的只有 ≈10 家，这与《背景信息》「十次不行就五年」的节奏一致。对加厚与监控的含义：首批只需覆盖 A 91 户里这类「走过流程」的对象，再到 B 级的欧美土，而不是 4,647 户平铺〔T29-U28 顺序〕。</p>
+
+<h2 id="s6">6. 三邮箱机器：谁发、发什么、为什么减少</h2>
+<table>
+<tr><th>邮箱</th><th>角色</th><th>体量</th><th>关键事实</th></tr>
+<tr><td>s.sagatelecom（Simon）</td><td>早期主发件人；PayPal 收款账号；签名 2026-08 起由「OEM Factory」改为「An Engineering &amp; Supply-Chain-First Telecom Partner」〔S 邮箱〕</td><td>13,583 封，77 轮战役；现行「24 Port PoE Managed Switch」$180〔<code>docs/gmail/S邮箱报价史vs价格主表_2026-10.md</code>〕</td><td>NYNEX、Angora、James、PBA、Mbata 等成单在此；simon@olycom.com.cn 是主职</td></tr>
+<tr><td>a.sagatelecom（Alan）</td><td>2025 起的群发主力 + 报价/PI 出口；LinkedIn 人设</td><td>14,847 封；18 轮月度主题；Opened 1,011 / Replied 486〔<code>docs/gmail/A邮箱_总览_2026-10-24.md</code>〕</td><td>4 单样品级；ITM 400G、Larch 8,000 台两个大额机会都在此</td></tr>
+<tr><td>e.sagatelecom（Elsa）</td><td>产品站 sagatelecom.com.cn 负责人；首触邮箱（首触规则未定 → 不发）〔T13–T16〕</td><td>小（332 KB）；来询 67 封全部已读；3 条未回 RFQ（SB-325 TH、ZSCOM.RU、SB-746 Anda IN）〔<code>docs/gmail/Elsa邮箱_来询未回清单_2026-10.md</code>〕</td><td>e. 与 a. 是对外唯一保留的联系邮箱〔Saga.md〕</td></tr>
+</table>
+<p><b>群发的节奏与取舍：</b>A 邮箱 2025-09 → 2026-09 每月 800–1,340 封，2026-10 降到 178 封〔总览 §2〕；减少是战略取舍（U28），因为群发的唯一任务是把人引到 Drive 五个文件夹（Product Link PDF 被引用 1,300+ 次），再由 Template 条款筛人〔摘读 D8〕。低价群发报价（如 $180）用的是旧汇率，「先有回复了再说」〔U28〕——所以群发价不能直接当作价格主表的校验基准（<code>S邮箱报价史</code> 已按此标注）。</p>
+
+<h2 id="s7">7. 供应链与运行层</h2>
+<div class="grid2">
+<div class="box">
+<b>供应商</b>〔供应商.xmind；摘读 D9；SmartByte 站点 2026-09〕
+<ul>
+<li><b>SmartByte / Peter</b>：Marvell 管理与工业全线主推；母体凌特华盛（Marvell）+ 进为时代（MTK）；惠州 7,000 m²，3K 台/月；芯片库存在供应商（E12）。NYNEX 安排：Saga 推 SmartByte、NYNEX 经 Saga 下单、Peter 处理技术〔T29-U15〕。PEN 56166 / SmartByte 名称保留。</li>
+<li><b>HRUI</b>：Realtek 非管理；价格月变（Q-47 默认按新成本 ≥20% 报）；规格书已入库〔<code>data/hrui_specs_2026-10</code>〕。</li>
+<li><b>Hohunet（朋友 Joey）</b>：CENTEC 核心与 STOS；有国内批次出货；Latmedia 类 SDK 需求直接转介〔A 邮箱〕。CENTEC 跟进、备货、固件 7.5 排期都是 Simon 自己的动作，不代问价〔T29-U16/U29〕。</li>
+<li>其他：Hasivo（Passive PoE）、DCN（堆叠/1U）、光派（STT）、鹰峤（工业电源）、Kuwfi（AP）；光模块/高 IP 仍为空〔摘读 D9〕。</li>
+</ul>
+</div>
+<div class="box">
+<b>交易条款（以 Template 为准）</b>〔Template 文件夹；A 邮箱 PI；T29-U28〕
+<ul>
+<li>付款：全预付——PayPal（+5%）或 T/T（行费 $25）；50/50 只在 FAQ 出现、无实例（E8）。</li>
+<li>MOQ 1；交期 10–15 天（Marvell）/ 12–15 周（CENTEC 400G，随 Hohunet 批次）。</li>
+<li>保修：商用/CENTEC 1 年、工业 3 年（推断，E26）；2 个月验收条款写在报价单第 2 页〔Quotation_2026.03.23〕。</li>
+<li>中性：无品牌包装、无中文、报关「Manufacturer: Zhengzhou Saga Telecom」；logo 只印标签，印机身/包装另计〔UNEA-X 问答〕。</li>
+<li>物流两条线：客户广州货代（EXW，ASTEL）vs Saga 的深圳百运网 陈佩珍（DAP/FOB，Netaş UPS、ITM DHL）。</li>
+<li>编号：STSC（s.）/ STAG（a.）/ STEC（e.）+ 日期 + 序号〔摘读 D4〕。</li>
+</ul>
+</div>
+</div>
+
+<h2 id="s8">8. 资料与对外足迹（筛子本身）</h2>
+<table>
+<tr><th>载体</th><th>内容 / 状态</th><th>角色</th></tr>
+<tr><td>Google Drive 五个产品文件夹</td><td>MUST KNOW（工厂信息 + 商业模式）、Marvell Commercial Managed（23 份 STC 规格书 + 价表 + 用户手册）、Marvell Industrial Unmanaged（48 份 STI 规格书 + 价表 + 手册）、Marvell Industrial Managed、Realtek Commercial、CENTEC High-Speed；Resource Library（Roadmap / STOS / 7.5.x 特性表）——全部已入库〔<code>data/drive_r3</code>、<code>data/smartbyte_drive</code>、<code>data/suppliers_drive</code>〕</td><td>第二道筛：不愿读的不合作〔摘读 A15〕；也是群发的唯一附件</td></tr>
+<tr><td>品牌站 sagatele.com</td><td>6 款展示产品（STI-488XGGPM2B-2BT、STC-424XGGPM-280W、STH-2C12XF12XE-HSI、STI-21616GP、STC-448XGGM、STH-8C48DX-HSI）；Marvell · CENTEC · Realtek；We Do / We Don't；Insights；联系 alan@sagatele.com〔2026-10-22 抓取〕</td><td>定性（a. 负责）；E18：网站已建成，不再是劣势项</td></tr>
+<tr><td>产品站 sagatelecom.com.cn</td><td>规划中，9 款 STI/STC/STH；旧域名仍印在 2026Q1 模板与 PI 抬头〔摘读 D10/E6〕</td><td>定量（e. 负责）</td></tr>
+<tr><td>B2B / 社媒</td><td>Global Sources 100 款、Made-in-China 20、EC21 15、FindLight 10；LinkedIn（Alan）必须；YouTube/FB/X/付费广告 PASS〔摘读 D10/E15〕</td><td>对外只留 WhatsApp 跳转 + e./a. 邮箱；无电话</td></tr>
+<tr><td>Template 规则</td><td>Must-Read、A Word（只服务少数忠诚耐心专业的客户）、Order Procedure/Misc Fee、Customization、Warranty、Easy and Transparent（每客户一个 Drive 文件夹）〔摘读 A22 / D8〕</td><td>第三道筛 + 绑定的沉没成本</td></tr>
+</table>
+
+<h2 id="s9">9. 口径的时间轴（V1 以晚期为准）</h2>
+<table>
+<tr><th>时期</th><th>口径</th><th>证据</th></tr>
+<tr><td>2024 – 2025 上半年（早期）</td><td>API/REST/Ansible/SDK 当差异化；国家散（印度/沙特/印尼/巴西/波兰/法国）；Saxa/Sala/Safa/Sava 矩阵；「Connecting, Converting, Creating」</td><td>《计划.docx》《本地制造》；2025 PI 抬头〔摘读 D6；A 邮箱附件〕</td></tr>
+<tr><td>2025 下半年（中期）</td><td>小而美 + 口号过滤 + 隐身 SmartByte 背后；Not-to-Do 成文；A 邮箱开始月度战役（10G SFP → Booster PoE → Industrial Alert）</td><td>《俄罗斯地推反思》《客户绑定情况分析》；A 邮箱 2025-09 → 12〔摘读 D6；总览 §2〕</td></tr>
+<tr><td>2026 上半年</td><td>放弃 API/SDK 伪绑定；四国收敛 TR/US/UK/DE；「OEM Factory」抬头；AC3→AC5 切换；400G DC 与 Firmware 7.5 战役；Larch 项目主动停止</td><td>《技术绑定路线》《客户国家选择》；A 邮箱 2026-03/05/06〔摘读 D6；A33/A37〕</td></tr>
+<tr><td>2026-08 至今（晚期）</td><td>「Engineering &amp; Supply-Chain-First」；品牌站上线；群发降频；「欧洲 美国绝对大头」；10-19《背景信息》四句总纲；10-23 口头版 US/CA + 欧洲 + 土耳其</td><td>Saga.md 2026-08；S 邮箱签名；《背景信息》；T29-U28〔摘读 D11/D12〕</td></tr>
+</table>
+
+<h2 id="s10">10. 矛盾与疑惑（§E1–E26，全部待 Simon 一句话定，默认按「V1 处理」执行）</h2>
+<p class="src">完整表与证据在 <code>docs/Saga理念摘读_2026-10-23.md</code> §E；这里只列结论。标 ★ 的是 2026-10-24 由 A 邮箱新增或补证。</p>
+<table>
+<tr><th style="width:52px">编号</th><th>问题</th><th>V1 处理</th></tr>
+<tr><td>E1</td><td>利润底线：芯片线/账户版（R≥20 / M≥25 / C≥35）vs 客户类型版 20/25/30</td><td>两套并列，报价表照旧三档</td></tr>
+<tr><td>E2 ★</td><td>API/SDK 是否对外承诺</td><td>不卖；Latmedia 要 SDK 已被直接转介，实务一致</td></tr>
+<tr><td>E3</td><td>印度 / 韩国地位</td><td>被动响应</td></tr>
+<tr><td>E4 ★</td><td>CENTEC 线地理与「UAE 新客户」</td><td>UAE 新客户 = ASTEL（Marvell 工业机）与 IPNS 询价，与 CENTEC 无关；CENTEC 分线叙述</td></tr>
+<tr><td>E5</td><td>Not-to-Do「Industrial 2.5G PoE / 10GE」边界</td><td>推断 = 不做电口，光口上联不在此列</td></tr>
+<tr><td>E6</td><td>Template 换版时间</td><td>条款以模板为准，页脚不重要</td></tr>
+<tr><td>E7 ★</td><td>三个名字</td><td>对外三人、内部一人；交接句式已在 A 邮箱证实</td></tr>
+<tr><td>E8 ★</td><td>2% RMA 备件与 50/50</td><td>四张 PI 全预付，50/50 无实例；FAQ 两条待确认</td></tr>
+<tr><td>E9 / E10</td><td>STT/DWDM、SaXa 矩阵</td><td>已命名未推广 / 远期</td></tr>
+<tr><td>E11</td><td>巴西（OPTA 授权信）</td><td>只给 EXW/FOB 授权</td></tr>
+<tr><td>E12 ★</td><td>strategic inventory 实体</td><td>库存在供应商；CENTEC「8 台被买走」「50 台批次」证实批次在 Hohunet</td></tr>
+<tr><td>E13</td><td>对外自述 vs 事实（工厂/贸易商）</td><td>内部写供应商工厂；对外口径 Simon 定</td></tr>
+<tr><td>E14</td><td>俄罗斯级别</td><td>一个客户 + 机会单</td></tr>
+<tr><td>E15</td><td>视频</td><td>不建议</td></tr>
+<tr><td>E16</td><td>Realtek 价表 vs HRUI 月变价</td><td>按新成本 ≥20%（Q-47）</td></tr>
+<tr><td>E17</td><td>分销商 vs 集成商优先</td><td>价值排序 OEM &gt; 进口经验者 &gt; 分销/集成；命中率上集成商更高；档位不变</td></tr>
+<tr><td>E18</td><td>「官网不行」</td><td>已建成，待产品站</td></tr>
+<tr><td>E19 ★</td><td>美国在对外自述里消失</td><td>仍按 US/CA 主攻；A 邮箱有美国成单/询盘；是否补进 PROFILE 由 Simon 定</td></tr>
+<tr><td>E20 ★</td><td>意大利 / 波兰 / MENA</td><td>自述中的扩展区；A 邮箱无意大利证据</td></tr>
+<tr><td>E21 ★</td><td>Case 1 德国客户 = NYNEX？</td><td>A 邮箱无 NYNEX 往来，待 S 邮箱印证</td></tr>
+<tr><td>E22 ★</td><td>Marvell 线 L3 组播/路由上限</td><td>L2+/轻 L3；组播路由转 CENTEC 或放弃；排期是 Simon 与 SmartByte 的事</td></tr>
+<tr><td>E23 ★</td><td>「国内客户冲突」边界</td><td>推断为不抢 SmartByte 国内项目；待确认</td></tr>
+<tr><td>E24 ★</td><td>Brand Materials Channel 算不算业务</td><td>= Sava 线，被动响应</td></tr>
+<tr><td>E25 ★</td><td>CENTEC 库存与国内出货</td><td>交期 12–15 周，随供应商批次</td></tr>
+<tr><td>E26 ★</td><td>保修年限口径</td><td>商用/CENTEC 1 年、工业 3 年（推断）</td></tr>
+</table>
+
+<h2 id="s11">11. 方向：只过两道门（省 Simon 的时间；有没有长期复利）</h2>
+<p class="src">〔两道门出自摘读 D7 / T29-U29；以下每条都标明它是「仓库要做的」还是「Simon 自己的动作」，仓库不代替 Simon 问价、不替 Simon 决定对外口径〕</p>
+<table>
+<tr><th>#</th><th>方向</th><th>依据</th><th>谁做 / 何时</th></tr>
+<tr><td>1</td><td><b>加厚从「走过流程的 ≈10 家」开始</b>：Netaş、ITM、Go Green IT、52 Networks、ASTEL、Larch、UNEA-X、iotsistem、Latmedia、Telexcell（A 邮箱）+ S 邮箱同级对象（NYNEX、Angora、James、PBA、Mbata、BitBook），每户写「绑定等级 + 停在哪一条 + 复活条件」，不做模板化</td><td>第 5 节漏斗；U28 顺序 A 91 → B 欧美土 → 其他 B；U11「针对性、proof-based」</td><td>仓库，V1 之后立即（PR-02-32）</td></tr>
+<tr><td>2</td><td><b>Netaş 的复活条件是明确的两条</b>：Marvell 固件补 L3 组播（PIM-SM/DM、PBR）或 CENTEC 工业温度机型；没有这两条，继续按「十次不行就五年」节奏触达即可</td><td>A 邮箱 2026-02-27 / 03-02；E22</td><td>Simon 与 SmartByte/Hohunet；仓库只记录与监控 Netaş（订单 +96% 的 H1 财报已在监控）</td></tr>
+<tr><td>3</td><td><b>ITM 400G 是仓库里唯一的六位数在谈</b>：$107,675，停在客户 CEO/终端；CENTEC 交期随 Hohunet 批次</td><td>Quotation_2026.03.23；A 邮箱 2026-09</td><td>Simon 跟进节奏；仓库把 STH 400G/100G 价格锚写入价格主表旁注</td></tr>
+<tr><td>4</td><td><b>群发保持低频，但附件与对象对齐口头版市场</b>：Product Link 2026Q3 覆盖五文件夹是对的；对象名单里美加是否继续发、PROFILE 要不要重新提美国，是 E19 的决定</td><td>第 6 节；E19</td><td>Simon 定；仓库不改群发</td></tr>
+<tr><td>5</td><td><b>Planet 美加渠道挖掘按 README 35 的 W23 计划待命</b>，恢复时以「集成商 &gt; 分销商」的命中率排序，不改报价档位</td><td>T22 / U28 暂停；E17</td><td>仓库，等 Simon 说恢复</td></tr>
+<tr><td>6</td><td><b>资料与网站</b>：产品站补齐 9 款即可；Template/PI 抬头仍是旧域名旧口号属未换版，不影响条款</td><td>E6 / E18</td><td>Simon（e. 账号）；仓库不写对外文案</td></tr>
+<tr><td>7</td><td><b>监控已就位，不加新的</b>：1,128 户 / 2,709 源日巡、成单客户活跃平台、freddy36 GitHub 持续、Netaş/Angora/52 Networks 平台 URL 已在 targets</td><td><code>scripts/web_watch</code>；U16/U18</td><td>仓库，常态</td></tr>
+<tr><td>8</td><td><b>不做的</b>：不代问价、不写「工厂/贸易商」、不建议视频、不碰 reseller 客户（Q-33）、不恢复 Mikrotik、不改 V0</td><td>U29 / §C-19 / E15 / Q-33 / U9</td><td>—</td></tr>
+</table>
+
+<h2 id="s12">12. 信息源与覆盖（本版基于什么）</h2>
+<table>
+<tr><th>来源</th><th>体量</th><th>消化状态</th><th>落点</th></tr>
+<tr><td>Drive 第一、二轮（SmartByte 文件夹 + 供应商文件夹 + Simon 理念文档）</td><td><code>data/smartbyte_drive</code> 41 MB、<code>data/suppliers_drive</code> 15 MB</td><td>已读，摘读 A1–A32 / §C / §D</td><td>第 1–3、7–9 节</td></tr>
+<tr><td>Drive 第三轮（MUST KNOW、Realtek、CENTEC、产品文件夹、Resource Library、Anda）</td><td>1,461 件，<code>data/drive_r3</code>（2026-10-24 03:34Z 完成）</td><td>理念类已读；余下 850 件 = 规格书/图片/价表/手册，抽样读价表、手册、Roadmap、STOS（A38）</td><td>第 3、8 节</td></tr>
+<tr><td>Gmail S</td><td>13,583 封，<code>data/gmail_s</code></td><td>盘点 + 往来方核对 + 报价史三份文档</td><td>第 5、6 节</td></tr>
+<tr><td>Gmail A</td><td>14,847 封，<code>data/gmail_a</code>（2026-10-24 03:00Z 完成）</td><td>91 条真实线程逐封摘录 + 总览；附件 PI/报价/合规包已读（A33–A37）</td><td>第 2–7 节主要新证据</td></tr>
+<tr><td>Gmail E</td><td>来询 67 封</td><td>全部已读，3 条未回 RFQ 列出</td><td>第 6 节</td></tr>
+<tr><td>Extra Info / PI / HRUI 规格 / 微信 OCR / SmartByte 站点 / 外网再爬</td><td><code>data/extra_info_2026-10</code> 40 MB 等</td><td>已读并入摘读与审计〔<code>docs/信息源全覆盖核对_2026-10-23.md</code>〕</td><td>第 3、7 节</td></tr>
+<tr><td>Simon 对话原话（T01–T29-U39）</td><td><code>docs/requirements/对话全记录.md</code></td><td>逐条入宪法与约束表</td><td>第 0、4、11 节</td></tr>
+</table>
+<p><b>尚未逐字读完的部分（不影响结论）：</b>A 邮箱 91 条线程中约 30 条单句回复类线程只读了首句；ITM 线程 Juniper 对比的全文；Drive 第三轮 71 份规格书只按文件名与价表核对，未逐份读规格表格。这些都在 <code>data/</code> 内，加厚时按户取用。</p>
+
+<footer>
+V1 · 2026-10-24 04:18Z · 文件：<code>docs/理解与方向_V1_深度串联_2026-10-24.html</code> · 配套：<code>docs/Saga理念摘读_2026-10-23.md</code>（A1–A38、§C、D1–D14、E1–E26）、<code>docs/gmail/A邮箱_总览_2026-10-24.md</code>、<code>docs/gmail/A邮箱_真实往来线程_2026-10-24.md</code>、<code>docs/理解与方向_V0反馈勘误_2026-10-23.md</code> · V0 原件 <code>docs/理解与方向_答卷_2026-10-22.html</code> 未改动
+</footer>
+</main>
+</body>
+</html>
