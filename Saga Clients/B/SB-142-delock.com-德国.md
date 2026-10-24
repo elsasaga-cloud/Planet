@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：自己的logo MC FS SFP 工业品少 很多是周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-24 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Delock（Tragant 旗下配件品牌：MC、交换机、SFP、PoE 设备等自有 logo 周边产品，工业品少；表内「自己的 logo MC / FS / SFP，工业品少，很多是周边产品」「可以着重跟一下」；备注 URL 为芬兰经销商 triosoft.fi 的 Delock MC 页——官网快照亦落在 triosoft.fi（站点不符，待重抓 delock.com））；群发 8 次无回复。
 - **对方真实需求（有据）**：自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE
 - **断点 / 为什么停在这里**：快照站点不符：抓到芬兰经销商 triosoft.fi，delock.com 待重抓（site_mismatch）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch））——自有 Delock 标 PoE/MC 周边 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；桌面 MC（100Base-FX SC）Saga 列表无，以 SmartByte/HRUI 型号注明；工业位 STI-110GE。已打开的主题（1/16 封有打开记录）：「90W PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the Delock PoE switches and media converters, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 4/8-port PoE, gigabit MC) from small lots in your retail packaging, CE/RoHS — which Delock PoE SKU do you reorder most often?
 

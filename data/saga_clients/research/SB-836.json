@@ -104,7 +104,7 @@
     "saga_now": {
       "p1": "STI-054GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

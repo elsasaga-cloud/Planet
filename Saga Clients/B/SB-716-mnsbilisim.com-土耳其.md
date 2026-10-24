@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
 - **断点 / 为什么停在这里**：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch））——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 

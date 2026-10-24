@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。（调研 2026-10-21；表内兴趣：Elink的）
 - **为什么是 B 级**：**调研后定级 B**（小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-03-12 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。
 - **对方真实需求（有据）**：X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
 - **断点 / 为什么停在这里**：无回复
-- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
+- **Saga 现在该推什么**：P1 **STI-144GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——X- 自有标 OEM：STI-144GP（4 PoE + 1 上联，宽压 DIN）= 其 X-IMC005GP / X-104GP-SFP 同口型；8 口位 STI-288DGGPM；OEM 30% 档
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the X-104GP-SFP slot in your shop, the Marvell-based 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 

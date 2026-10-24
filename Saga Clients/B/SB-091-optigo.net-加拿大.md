@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS 自己的品牌）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-18）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 Optigo Networks（智能楼宇 OT 网络监控与管理软件 Optigo Visual Networks；早期自有 OT 网络硬件；表内「工业 FS 自己的品牌」「质量高」）；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核
 - **断点 / 为什么停在这里**：官网现以 OT 监控软件为主（硬件线存疑，需求待核）；3 次无回复，仅 info@
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch））——若仍有自有标 OT 交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；官网现以软件为主，需求待核
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?
 

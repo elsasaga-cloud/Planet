@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS 几个台湾牌子的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Contradata（工业计算/嵌入式/工业网络分销商；表内「工业 FS 几个台湾牌子的」；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；官网快照空）；表内 4 次跟进无回复。
 - **对方真实需求（有据）**：台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：品牌经销导向（台湾品牌，白牌契合度待核）；4 次无回复 → 改向 GM/Sales Engineer 具名首触；官网快照空
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch））——台湾工业 FS 品牌经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP 管理 STI-288GPM（$78.9）作白牌预算位；工业千兆 MC STI-110GE（$22.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alessandro, alongside the Taiwanese industrial switch brands you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your integrator customers ask for below the branded lines?
 

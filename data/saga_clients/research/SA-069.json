@@ -161,7 +161,7 @@
     "saga_now": {
       "p1": "STI-154GP",
       "tier": 25,
-      "price": "历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）",
+      "price": "历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）",
       "why": "不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：法国科西嘉阿雅克肖 40 年安防公司（人身财产安全系统：报警、监控、门禁），Olivier Donadio（+33 4 95 20 95 94），需求 3 个工业 PoE 配件（小量）；5 次跟进无实质回复。欧洲主攻区小型安装商。（调研 2026-10-21；表内兴趣：3个工业PoE配件）
 - **为什么是 B 级**：**调研后定级 B**（已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。）；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-06-04 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-03 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Bonjour Olivier, pour les 3 switches PoE industriels : 1 SFP + 4 PoE sur rail DIN à 35,5 $ pièce EXW (ou 2 SFP + 8 PoE à 60 $), expédition DHL vers Ajaccio en 5–7 jours ; de combien de ports PoE avez-vous besoin par site ?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：法国科西嘉阿雅克肖 40 年安防公司（人身财产安全系统：报警、监控、门禁），Olivier Donadio（+33 4 95 20 95 94），需求 3 个工业 PoE 配件（小量）；5 次跟进无实质回复。欧洲主攻区小型安装商。
 - **对方真实需求（有据）**：小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。
 - **断点 / 为什么停在这里**：小量、运费占比高（EXW → DAP 需报运费）
-- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。
+- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-03 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——小型工业 PoE（3 件）→ STI-144GP（1 SFP + 4 PoE，$35.5 @25%）；8 口 STI-288GP。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Bonjour Olivier, pour les 3 switches PoE industriels : 1 SFP + 4 PoE sur rail DIN à 35,5 $ pièce EXW (ou 2 SFP + 8 PoE à 60 $), expédition DHL vers Ajaccio en 5–7 jours ; de combien de ports PoE avez-vous besoin par site ?
 

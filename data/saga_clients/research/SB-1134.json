@@ -101,7 +101,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）",
       "why": "分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明",
       "repeat": [],
       "gaps": []

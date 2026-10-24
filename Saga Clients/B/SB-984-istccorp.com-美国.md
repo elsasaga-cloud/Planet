@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：全线产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：推送 1 次（? → ?）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供
 - **断点 / 为什么停在这里**：BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch））——BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?
 

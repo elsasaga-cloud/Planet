@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。（调研 2026-10-21；表内兴趣：买了2个模块+1个MC 50Euros）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+8 区域 欧洲/波兰；-10 来源为 2010–2015 年展会且无后续记录
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。
 - **对方真实需求（有据）**：工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）
 - **断点 / 为什么停在这里**：单量小；WhatsApp 加不上；0 次跟进记录
-- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit））——工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）
+- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch））——工业终端 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，$130.8）用于车间/机柜；非管理 STI-240GE（$29.1）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?
 

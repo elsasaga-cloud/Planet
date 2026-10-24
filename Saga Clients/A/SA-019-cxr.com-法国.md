@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。
 - **对方真实需求（有据）**：10G MC（当时）。
 - **断点 / 为什么停在这里**：MC 价格流 + 层级错配。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM / STI-488XGGPM（工业 L2+）**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch））——保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM / STI-488XGGPM（工业 L2+）**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch））——保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围
   - 第一问（只问一个）：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。（调研 2026-10-21；表内兴趣：VC多功能 光猫 机架 工业FS；Switch MC 串口为主）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2025-02-25 → 2026-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。
 - **对方真实需求（有据）**：以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供
 - **断点 / 为什么停在这里**：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch））——以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most?
 

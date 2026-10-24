@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 CERTECH（结构化布线 / 服务器机柜 / 网络连接方案供应商，1300 免费电话 + 网店；在售 Edimax 工业交换机 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P；表内「Edimax 的，工业 FS 周边产品」；KP Thomas Boer（Senior Network Solutions Specialist，thomasb@）、Sophia Wong（Product & Brands Program Manager））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：Edimax的；工业FS 周边产品 在用edimax的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-06 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Sophia, alongside the Edimax industrial switches you carry, we can add a Marvell-based neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚 CERTECH（结构化布线 / 服务器机柜 / 网络连接方案供应商，1300 免费电话 + 网店；在售 Edimax 工业交换机 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P；表内「Edimax 的，工业 FS 周边产品」；KP Thomas Boer（Senior Network Solutions Specialist，thomasb@）、Sophia Wong（Product & Brands Program Manager））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 合规由客户申报
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Sophia, alongside the Edimax industrial switches you carry, we can add a Marvell-based neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
 

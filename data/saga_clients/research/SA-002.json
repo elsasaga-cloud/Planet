@@ -129,7 +129,7 @@
     "saga_now": {
       "p1": "Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-424XGGM.docx + Saga Feature List 7.5.x + Dual AC.jpg，即 STC-424XGGM 24 GE + 4×10G SFP+ L2+，对标 CRS326-24G-2S+RM）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）",
       "tier": 30,
-      "price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）",
+      "price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）",
       "why": "J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价｜已发资料（勿重发）：A copy of reply(2024-12-06)、L3 PoE(2024-12-13)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)、STC-424XGGM(2026-07-21)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [

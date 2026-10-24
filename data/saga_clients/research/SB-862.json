@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM-2BT",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-07 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
       "why": "Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$171.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供。已打开的主题（2/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-28)、「Optional Marvell Chipset Solutions」(2025-11-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

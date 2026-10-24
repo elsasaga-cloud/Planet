@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Weltron® / Winston Electronics（1968 年起网络基础设施制造商：线缆（词频 182）、光纤、MC、PoE 交换机、工业；表内「商业 PoE」；邮箱 robwinston@ / awinston@winstonele.com、info@weltron.us）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：商业PoE）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-03 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 —；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-15 $220（10G managed switch）、2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch））——已打开的主题（2/34 封有打开记录）：「industrial poe switch」(2024-06-26)、「24 Port Passive PoE Switch」(2024-10-30) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—；备用具名邮箱 → gelliott@winstonele.com, jkhicks@winstonele.com, sj@winstonele.com　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

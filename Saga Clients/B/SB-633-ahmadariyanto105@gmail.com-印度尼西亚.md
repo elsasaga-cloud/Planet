@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。（调研 2026-10-21；表内兴趣：价格表等各种信息）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了48口
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确口型；入门 8 PoE 管理型。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确口型；入门 8 PoE 管理型。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2024-11-20 $65（10G Media Converter）
 - **第一问（只问一个）**：Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。
 - **对方真实需求（有据）**：无明确口型；入门 8 PoE 管理型。
 - **断点 / 为什么停在这里**：身份不明；泛要价目
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——无明确口型；入门 8 PoE 管理型。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2024-11-20 $65（10G Media Converter））——无明确口型；入门 8 PoE 管理型。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
 

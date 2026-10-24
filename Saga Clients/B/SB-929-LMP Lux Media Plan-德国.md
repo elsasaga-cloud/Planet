@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 LMP Lux Media Plan（广播/影视光纤传输盒与设备设计商：CERBERUS 4K、UHD 1204、HD1200；KP Friedel Lux；表内「多功能」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：多功能）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-14 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-27 $65（10G Media Converter）、2025-06-04 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Friedel, for the Ethernet switching and gigabit fibre links inside your broadcast transmission boxes and OB setups, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which link configuration do your boxes use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 LMP Lux Media Plan（广播/影视光纤传输盒与设备设计商：CERBERUS 4K、UHD 1204、HD1200；KP Friedel Lux；表内「多功能」）；群发 8 次无回复。
 - **对方真实需求（有据）**：广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标
 - **断点 / 为什么停在这里**：广播品类边缘（交换机为自制设备配套，量小）；8 次无回复
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-27 $65（10G Media Converter）、2025-06-04 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch））——广播现场网络配套 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）；可贴 LMP 标
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Friedel, for the Ethernet switching and gigabit fibre links inside your broadcast transmission boxes and OB setups, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which link configuration do your boxes use most?
 

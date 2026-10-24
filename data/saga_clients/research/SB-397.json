@@ -100,7 +100,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-22 $280（10G Enterprise SFP Switch）",
       "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线。已打开的主题（1/5 封有打开记录）：「Industrial PoE Switch」(2025-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

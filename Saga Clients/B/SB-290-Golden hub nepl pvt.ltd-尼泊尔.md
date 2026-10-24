@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。（调研 2026-10-21；表内兴趣：2光10电）
 - **为什么是 B 级**：+22 实质回复 1 次；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 南亚/尼泊尔；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-06-26）；最近一次客户回复：2024-11-19：1120email发了10gmc
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter）
 - **第一问（只问一个）**：Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：尼泊尔网络商 Golden Hub（Chhatra Puri），需求 2 光 10 电；2025-11 收 10G MC 邮件；无域名。
 - **对方真实需求（有据）**：2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。
 - **断点 / 为什么停在这里**：尼泊尔进口小量、付款 T/T 预付
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $65（10G Media Converter））——2 光 10 电 ≈ 8 电 + 2 combo → Saga STC-28DGGPM（8 GE + 2 SFP）；非 PoE 版 STC-28GM。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Chhatra, for the 2-fibre + 10-copper requirement, do the copper ports need PoE (for cameras/APs) or not? I'll quote the matching 8+2 model either way, from 1 pc.
 

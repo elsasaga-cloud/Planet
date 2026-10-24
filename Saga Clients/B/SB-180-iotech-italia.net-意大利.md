@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。（调研 2026-10-21；表内兴趣：工业FS 和Scodeno有合作）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 13 次（2024-05-08 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：米兰 San Donato 的工业 IoT/M2M 元器件**分销与技术代表**（个体企业，1 人，2019 年成立、自述 30 年经验；原 L2-Consulting di Luca Sivori 同址）：产品线含 Modbus 数据记录仪、I/O 模块、4G/5G 工业路由器（Wlink）、RFID（Inveo）、串口-以太网转换器、PDU、能量表、**工业以太网交换机**等，代理 egnite、DLM、Infinite 等品牌；「不是电商，是顾问与技术商务支持」。用户表：WhatsApp 已加，13 次跟进 0 回复。
 - **对方真实需求（有据）**：分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **断点 / 为什么停在这里**：一人公司，量小；13 次跟进 0 回复——需以「代理 STI 工业系列」而非单台报价切入
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter））——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-10-16 $280（10G Enterprise SFP Switch））——分销/代表 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃）入其工业交换机类目；非 PoE STI-280DGGM；4 口 STI-144GP
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $139.9 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?
 

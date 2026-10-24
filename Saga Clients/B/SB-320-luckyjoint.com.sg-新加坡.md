@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 Lucky Joint Construction Pte Ltd（独立电信网络设计、建设与维护公司；表内「PoE switch / PoE 网口能传 250m 吗」「可以多跟进一下」；KP Kee Ching Hai、Jackson Ho（Senior Manager (Network Engineering)））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：POE switch POE网口能传250m吗）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 —；备用具名邮箱 → hxng@luckyjoint.com.sg —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——已打开的主题（2/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-05)、「24 Port Fiber Switch」(2025-08-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—；备用具名邮箱 → hxng@luckyjoint.com.sg　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Egesan Teknoloji（安防系统/火灾探测/报警/摄像机批发：Hikvision 110、Ruijie RG-ES08G-L / RG-ES05F、Extreme、Huawei；KP Gokhan（gokhan@））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Ruijie RG-ES 非管理 → 上位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Ruijie RG-ES 非管理 → 上位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Gokhan, alongside the Ruijie RG-ES switches you wholesale with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 8-port unmanaged models from small lots, CE/RoHS, EXW USD — which band do your dealers order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Egesan Teknoloji（安防系统/火灾探测/报警/摄像机批发：Hikvision 110、Ruijie RG-ES08G-L / RG-ES05F、Extreme、Huawei；KP Gokhan（gokhan@））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Ruijie RG-ES 非管理 → 上位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：Hikvision 为主的批发：PoE 多随套装走；Ruijie 价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 Ruijie RG-ES 非管理 → 上位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch））——在售 Ruijie RG-ES 非管理 → 上位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-08GE（$10.5）/ STC-028GP（$24.2）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Gokhan, alongside the Ruijie RG-ES switches you wholesale with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 8-port unmanaged models from small lots, CE/RoHS, EXW USD — which band do your dealers order most?
 

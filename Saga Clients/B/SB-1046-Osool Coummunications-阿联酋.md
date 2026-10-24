@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。（调研 2026-10-21；表内兴趣：2光8电工业级网管千兆POE FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。
 - **对方真实需求（有据）**：2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。
 - **断点 / 为什么停在这里**：WA 无回复；小型项目量
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch））——2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hossam, the exact unit you specified — 2 SFP + 8 gigabit PoE, L2 managed, industrial −40~75 ℃ — is $82 EXW at 1 pc; is it for an outdoor camera cabinet (then I'd add the surge-rated version)?
 

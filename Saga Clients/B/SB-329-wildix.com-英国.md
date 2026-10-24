@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：Wildix（AI 云 VoIP / UCaaS 厂商：PBX、视频会议、WebRTC；自有标商用 PoE 与周边产品；表内「商业 PoE 自己的 logo 周边产品」「很大的一个公司」「可以尝试多跟进一下」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的logo 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：Wildix（AI 云 VoIP / UCaaS 厂商：PBX、视频会议、WebRTC；自有标商用 PoE 与周边产品；表内「商业 PoE 自己的 logo 周边产品」「很大的一个公司」「可以尝试多跟进一下」）；群发 10 次无回复。
 - **对方真实需求（有据）**：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
 - **断点 / 为什么停在这里**：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS — which size do your partners order most with new PBX rollouts?
 

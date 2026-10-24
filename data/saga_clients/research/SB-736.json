@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）",
       "why": "需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
       "repeat": [],
       "gaps": []

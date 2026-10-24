@@ -103,7 +103,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-23 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "CCTV 线配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 EL.MO. 标；24 口位 STC-424DGGPM-280W；入侵/报警回路不涉",
       "repeat": [],
       "gaps": []

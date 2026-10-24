@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 bm-switch.com（「All about bare metal switches」：裸金属交换机 1G/100G/400G、网络软件、光模块、电源配件网店，PayPal/电汇；表内「高速交换机 Marvell 的」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：高速交换机 marvell的）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-05-26 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 bm-switch.com（「All about bare metal switches」：裸金属交换机 1G/100G/400G、网络软件、光模块、电源配件网店，PayPal/电汇；表内「高速交换机 Marvell 的」）；群发 6 次无回复。
 - **对方真实需求（有据）**：1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属
 - **断点 / 为什么停在这里**：品类错位：客户群要 ONIE/SONiC 裸金属，Saga 为专有固件 L2+ 接入；非主攻区（T5，台湾）
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——1G 裸金属栏目补位 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作园区接入；注意：Saga 为专有固件 L2+，非 ONIE/SONiC 裸金属
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the 1G category of your bare-metal store, we can add a Marvell-based 24-GE + 4×10G L2+ campus access switch (fixed firmware, SNMP/CLI) from small lots, CE/RoHS, EXW USD — do your buyers also ask for conventional managed access switches next to ONIE boxes?
 

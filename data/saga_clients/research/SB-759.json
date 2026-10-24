@@ -114,7 +114,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
       "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-05 $300（48 Port PoE Managed Switch）、2025-08-05 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
       "why": "自有方案配套工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非 PoE STI-280GE（$50.5）贴 SkyWare 标。已打开的主题（1/19 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-07) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

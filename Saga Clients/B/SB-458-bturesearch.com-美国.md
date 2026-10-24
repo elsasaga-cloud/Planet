@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：户外安防 感觉比较专业）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-09-04 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 BTU Research / Intepo（现以 INTEPO「Sovereign Infrastructure」AI 物理基础设施平台为定位——工厂集成、现场就绪的边缘基础设施；表内「户外安防 感觉比较专业」；KP Michael Kanarellis（Chief Executive））；表内 4 次跟进无回复。
 - **对方真实需求（有据）**：户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核
 - **断点 / 为什么停在这里**：公司定位转型（户外安防 → AI 边缘基础设施），需求待核；4 次无回复 → 改向 CEO 具名首触
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch））——户外/边缘节点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）；原户外安防方向待核
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Michael, for the networking inside your field-ready edge infrastructure units, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 4-PoE + 1 SFP industrial switches (−40~75 °C, 12–57 V, FCC/CE/RoHS) from small lots, EXW USD — which port and PoE budget do your integrated cabinets need?
 

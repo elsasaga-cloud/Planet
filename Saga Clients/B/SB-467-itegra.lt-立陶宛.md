@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-23 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：立陶宛 ITEGRA（设计与安装安防系统：视频监控摄像机、报警、消防系统与智能家居；表内国别「意大利」有误（.lt 域名、立陶宛业务）；表内「有 Utepo 的」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动开拓区）；国别已更正（表内误填意大利）；安装商（单项目量小）；现供 Utepo 价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——监控配套 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业 8 PoE + 2 SFP STI-288GP（$59.8）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE switches in your camera and alarm installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE + 2 SFP industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your Lithuanian sites use most alongside Utepo?
 

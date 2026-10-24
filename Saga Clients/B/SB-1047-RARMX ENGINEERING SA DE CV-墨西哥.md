@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：墨西哥 RARMX Engineering SA de CV（水处理工程服务；站内工业控制产品页；阿里巴巴 RTS 订单「5 电口」；KP Marisol Mendoza；可加 WhatsApp 52-8119924840）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：5电口 网站有工业控制产品）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-15 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：墨西哥 RARMX Engineering SA de CV（水处理工程服务；站内工业控制产品页；阿里巴巴 RTS 订单「5 电口」；KP Marisol Mendoza；可加 WhatsApp 52-8119924840）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
 - **断点 / 为什么停在这里**：非主攻区（T5，墨西哥）；工程公司配套（量随项目）；1 次无回复；WhatsApp 可加
-- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit））——RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch））——RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 

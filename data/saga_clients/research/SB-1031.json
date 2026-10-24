@@ -127,7 +127,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-19 $240（24 Port Fiber Switch）、2026-05-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
       "why": "CORNUS-82P（工业 8 PoE + 2 SFP 管理）与从 Raisecom 外采的事实 → Saga 作 ODM 二供：STI-288GPM（$85.5 @30%）/ L2+ STI-288DGGPM；可谈 SKD 以满足「Made in India」。已打开的主题（1/14 封有打开记录）：「24 Port Fiber Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

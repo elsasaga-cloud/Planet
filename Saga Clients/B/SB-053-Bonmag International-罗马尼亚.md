@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。（调研 2026-10-21；表内兴趣：TA310-GE/850nm 视频监控 DVR NVR 无线报警等）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 21 次（2023-02-07 → 2025-10-06）；最近一次客户回复：92：可能有用 price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。
 - **对方真实需求（有据）**：安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
 - **断点 / 为什么停在这里**：规模小（村镇注册、2017 年成立），单次量以 2–10 台计；罗马尼亚不在主动挖掘国家（INH 规则）但已是回复客户，按现有线索慢跟
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-15 $16000（32 Port 400GB DC Switch））——安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
 

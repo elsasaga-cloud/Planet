@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：波兰 DMTrade.pl（电子产品网店：TV-SAT / CCTV 监控 / 智能家居 / Spacetronik 电动桌 / 办公设备；表内「宇航的工业 FS，买的 Cudy 的牌子」= 现卖 Cudy 与深圳白牌）；表内无跟进记录。（调研 2026-10-21；表内兴趣：宇航的工业FS 买的Cudy的牌子）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（10G managed switch）
 - **第一问（只问一个）**：Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰 DMTrade.pl（电子产品网店：TV-SAT / CCTV 监控 / 智能家居 / Spacetronik 电动桌 / 办公设备；表内「宇航的工业 FS，买的 Cudy 的牌子」= 现卖 Cudy 与深圳白牌）；表内无跟进记录。
 - **对方真实需求（有据）**：网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE
 - **断点 / 为什么停在这里**：多品类电商（电动桌/翻译机等）：网络设备非主业，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（10G managed switch））——网店在卖 Cudy 等低价网络品牌 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 CCTV 监控配套；工业位 STI-280GE
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Next to the Cudy networking range on DMTrade, we can supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and a DIN-rail 8-port industrial model from small lots, CE/RoHS — would a PoE switch SKU under your CCTV category be worth a listing test?
 

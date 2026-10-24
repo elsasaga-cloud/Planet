@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。（调研 2026-10-21；表内兴趣：工业FS SFP 1U机架工业  工业串口 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-02 → 2025-10-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。
 - **对方真实需求（有据）**：工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。
 - **断点 / 为什么停在这里**：台系品牌口径；16 次群发无回复
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port switch））——工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

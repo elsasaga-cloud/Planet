@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Edgecore等牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。
 - **对方真实需求（有据）**：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
 - **断点 / 为什么停在这里**：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线
-- **Saga 现在该推什么**：P1 **STC-448XGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch））——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 

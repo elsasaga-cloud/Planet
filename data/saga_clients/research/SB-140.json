@@ -92,7 +92,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
       "why": "5/8 电口工业非管理 → STI-080GE（$34.0 @30%）/ STI-050GE（$18.5 @30%）贴 Brainboxes 标。",
       "repeat": [],
       "gaps": []

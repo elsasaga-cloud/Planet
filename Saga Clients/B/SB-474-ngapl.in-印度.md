@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度 NextGen Automation（NGAPL，「Solutions Simplified」工业自动化方案商：合作 MRA、VAHLE、Ouster、Kymati、Siemens；SCADA/自动化；阿里巴巴询盘「EHG6408 8 电口」（Atop 型号）；KP Rajendra Khamkar（Operation Head））；表内未跟进。（调研 2026-10-21；表内兴趣：EHG6408 8电口）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply Marvell-based DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：印度 NextGen Automation（NGAPL，「Solutions Simplified」工业自动化方案商：合作 MRA、VAHLE、Ouster、Kymati、Siemens；SCADA/自动化；阿里巴巴询盘「EHG6408 8 电口」（Atop 型号）；KP Rajendra Khamkar（Operation Head））；表内未跟进。
 - **对方真实需求（有据）**：询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理
 - **断点 / 为什么停在这里**：非主攻区（T5，印度）：BIS 认证由客户侧办理；阿里巴巴询盘有效性待核；Siemens/Phoenix 生态价格基准高
-- **Saga 现在该推什么**：P1 **STI-080GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理
+- **Saga 现在该推什么**：P1 **STI-080GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch））——询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply Marvell-based DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
 

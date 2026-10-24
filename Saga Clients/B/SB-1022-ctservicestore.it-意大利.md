@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：商业PoE ONV的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-05-13 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Techlu di CT Service（Cerino Gianluca 个体安防商店/网店：防盗报警 / 自动化 / 监控套装 / 网络 / 工具 / 可视对讲；Ajax 目录；在售 PoE 交换机 SW8FE2FE-100W、SW4GE1GE-65W、PoE 分离器、Safire DIN PoE；表内「商业 PoE，ONV 的」；联系邮箱为 gmail）；群发 13 次无回复。
 - **对方真实需求（有据）**：在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）
 - **断点 / 为什么停在这里**：个体商户（gmail 联系），采购量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-10 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch））——在售 ONV 百兆/千兆小 PoE → 千兆 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位 HRUI STC-028GFP（$17.6）、4 口位 HRUI STC-204GP（$20.4）。已打开的主题（1/21 封有打开记录）：「OEM Core Switching Solution」(2026-01-28) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the PoE switches you list with your camera kits (the 8-FE and 4-GE models), we supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model plus budget 4/8-port PoE units from small lots, CE/RoHS — which size sells most for you?
 

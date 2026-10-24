@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Altelix（设计制造防水设备机箱与天线，面向应急通信、快速部署与无线通信；站内 PoE 关键词；KP Ryan Sheehan（Technical Sales Specialist）、Kenneth Burgner（Product Marketing Manager））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Altelix（设计制造防水设备机箱与天线，面向应急通信、快速部署与无线通信；站内 PoE 关键词；KP Ryan Sheehan（Technical Sales Specialist）、Kenneth Burgner（Product Marketing Manager））；表内未跟进。
 - **对方真实需求（有据）**：户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM
 - **断点 / 为什么停在这里**：交换机为机箱配套（量取决于捆绑 SKU）；未跟进过 → 向 Product Marketing Manager 具名首触
-- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-07 $280（10G Enterprise SFP Switch））——户外机箱内配套 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 4 PoE STI-154GP（$40.8）贴 Altelix 标；管理版 STI-288GPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Kenneth, for the PoE switches installed inside your weatherproof enclosures, we can supply Marvell-based DIN-rail 4-PoE and 8-PoE + 2 SFP units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Altelix label from small lots — would a pre-bundled enclosure + PoE switch SKU fit your range?
 

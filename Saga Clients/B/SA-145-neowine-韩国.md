@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。（调研 2026-10-21；表内兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品）
 - **为什么是 B 级**：**调研后定级 B**（非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 27 次（2025-02-14 → 2025-11-05）；最近一次客户回复：1.31：sample
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2025-01-31 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-20 $65（10G Media Converter）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：John 回「ok i need sample」，Simon 推荐 24 口 PoE L2+ 150 USD 并说明非免费样、Marvell 芯片；之后追问两次无回。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：免费样期待 + 非本行业。
-- **Saga 现在该推什么**：P1 **无**（25% 档，—）——不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **无**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-01-31 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-20 $65（10G Media Converter））——不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

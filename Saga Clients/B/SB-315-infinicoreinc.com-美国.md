@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：高速交换机）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-28 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。
 - **对方真实需求（有据）**：终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
 - **断点 / 为什么停在这里**：产品方向不同类；政府级客户（守界/TAA）；8 次跟进 0 回复 → 低优先
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch））——终端实验室 25% 档：STC-424XGGM（24 GE + 4×10G SFP+）作测试台互联；非渠道，期望值低
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
 

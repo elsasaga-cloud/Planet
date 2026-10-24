@@ -95,7 +95,7 @@
     "saga_now": {
       "p1": "STI-050GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
       "why": "5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）",
       "repeat": [],
       "gaps": []

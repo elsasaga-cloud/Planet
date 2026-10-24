@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Portel Teknoloji A.Ş.（半导体与网络部件分销，目标进入领先行列的年轻公司；industrialnetworkcenter.com；行业：电商、能源、海事、铁路网络与控制；表内「fiber networking，买 3 旺（三旺）的」；KP Okay Yücedağ（Sales Manager））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：fiber networking；fiber networking 买3旺的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Okay, alongside the 3onedata lines you carry, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which fibre-networking SKU do your energy and maritime customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Portel Teknoloji A.Ş.（半导体与网络部件分销，目标进入领先行列的年轻公司；industrialnetworkcenter.com；行业：电商、能源、海事、铁路网络与控制；表内「fiber networking，买 3 旺（三旺）的」；KP Okay Yücedağ（Sales Manager））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）
 - **断点 / 为什么停在这里**：现供三旺（深圳）价格基准低；守界备注：铁路为其行业之一——只供民用通用工业交换机
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch））——工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Okay, alongside the 3onedata lines you carry, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which fibre-networking SKU do your energy and maritime customers order most?
 

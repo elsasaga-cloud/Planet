@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。（调研 2026-10-21；表内兴趣：Cisco Switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/赞比亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-05 → 2025-10-05）；最近一次客户回复：2025-10-05：price info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
 - **第一问（只问一个）**：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。
 - **对方真实需求（有据）**：Cisco / DAC 需求不在 Saga 线。
 - **断点 / 为什么停在这里**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
-- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答
   - 第一问（只问一个）：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
 

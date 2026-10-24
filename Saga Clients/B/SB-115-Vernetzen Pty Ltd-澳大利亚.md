@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。（调研 2026-10-21；表内兴趣：4光8电 4光16电 10G光带BT）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-41616XGGPM-4BT — 「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-41616XGGPM-4BT — 「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-05-05 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。
 - **对方真实需求（有据）**：「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。
 - **断点 / 为什么停在这里**：澳洲 RCM 认证（CE 基础可申报，需客户自认证）
-- **Saga 现在该推什么**：P1 **STI-41616XGGPM-4BT**（25% 档，按主表（研究档 saga_fit））——「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。
+- **Saga 现在该推什么**：P1 **STI-41616XGGPM-4BT**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-05-05 $280（10G Enterprise SFP Switch））——「10G 光带 BT」= STI-41616XGGPM-4BT（16 PoE 含 4×90W BT + 4×10G SFP+，L3，$506.4 @25%）；4 光 8 电 → STI-488GP（$112.1）；4 光 16 电 → STI-4168… / STI-21616GP 变体待核。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?
 

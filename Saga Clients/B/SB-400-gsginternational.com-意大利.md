@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：几个知名牌子的工业FS；工业FS　VC   很多牌子 经销商 KBC Barox等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 GSG International（安防技术分销：视频监控、门禁、入侵、人脸识别与视频分析；品牌 barox / ComNet / Lantech（2018 目录）、自有 Euklis NVR（KLIS 32 路 16 PoE）、Nettosecurity 奥特莱斯；表内「几个知名牌子的工业 FS / VC 很多牌子；经销商 KBC、barox 等」「质量一般」；KP Ludovico Fontana（CEO，ludovico.paveri@））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM
 - **断点 / 为什么停在这里**：barox/ComNet/Lantech 既定品牌线：白牌为预算补充；表内「质量一般」
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch））——在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Ludovico, alongside the barox, ComNet and Lantech industrial switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8-PoE + 2 SFP L2+ models (also under your Euklis label) from small lots, CE/RoHS, EXW USD — which port count do your integrators order most?
 

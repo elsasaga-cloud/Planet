@@ -96,7 +96,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
       "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（3/12 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08)、「Booster PoE Switch」(2025-11-13)、「Managed Optical Bypass Switch」(2026-02-09) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

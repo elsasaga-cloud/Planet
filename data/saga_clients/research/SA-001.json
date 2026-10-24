@@ -190,7 +190,7 @@
     "saga_now": {
       "p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
       "tier": 20,
-      "price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）",
+      "price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）",
       "why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计",
       "repeat": [
         "2025-11-27 样品单（唯一）"

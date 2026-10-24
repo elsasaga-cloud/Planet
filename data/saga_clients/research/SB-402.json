@@ -84,7 +84,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-04 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）",
       "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。已打开的主题（1/11 封有打开记录）：「Industrial poe switch」(2024-08-05) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
       "repeat": [],
       "gaps": []

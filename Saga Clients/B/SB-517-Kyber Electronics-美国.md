@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：5电口）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-14 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Kyber Electronics（「Innovative engineering kits and tools」工程套件与工具；表内「5 电口」；KP Justin Hansen）；群发 8 次无回复。
 - **对方真实需求（有据）**：5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：小厂配套（量小）；8 次无回复
-- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）；桌面 5 口用 HRUI（列表价，注明）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Justin, for the 5-port switch bundled with your engineering kits, we supply compact 5-GE unmanaged units (DIN-rail industrial or desktop, FCC/CE/RoHS) neutral-brand or under your label from small lots, EXW USD — what quantity per kit run do you plan?
 

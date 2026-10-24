@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。（调研 2026-10-21；表内兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-25 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。
 - **对方真实需求（有据）**：工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。
 - **断点 / 为什么停在这里**：有深圳办事处 → 可能直接对接原厂，贸易商空间有限
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch））——工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
 

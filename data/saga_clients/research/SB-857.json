@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STI-054GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
       "why": "GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做",
       "repeat": [],
       "gaps": []

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。（调研 2026-10-21；表内兴趣：工业FS；工业FS 这个公司处理很多其他找的公司 Atop    Westermo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-06-27 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-14 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → anton@throughput.co.za 短信一问（email_hook）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：南非工业网络方案商 / 分销（面向系统集成商与工业组织：铁路轨旁、公用事业含核电、矿业、制造、智慧城市、消防安防、ITS；**Westermo**，表内另有 Atop；提供冗余 / 诊断方案），Sales Manager Anton van der Westhuizen（Bob Petrie 邮箱退信）；需求工业 FS；WA 4 次无实质回复。守界：铁路 / 核电 / 消防用途不供。
 - **对方真实需求（有据）**：Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-14 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → anton@throughput.co.za　短信一问（email_hook）
   - 第一问（只问一个）：Anton, for mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?
 

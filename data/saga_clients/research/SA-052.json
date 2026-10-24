@@ -136,7 +136,7 @@
     "saga_now": {
       "p1": "不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定",
       "tier": 20,
-      "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
+      "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD；群发里他已看到的价（续，第 66 批全量复核）：2026-05-11 $280（10G Enterprise SFP Switch）",
       "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
       "repeat": [],
       "gaps": [

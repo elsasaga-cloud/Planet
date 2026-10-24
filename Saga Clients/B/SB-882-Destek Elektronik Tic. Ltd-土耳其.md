@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Destek Elektronik Tic. Ltd.（安防电子系统分销：CCTV、火灾/入侵/气体探测、门禁、电源；品牌 Hanwha Vision / Aritech / Kilsen / CQR；PoE 产品栏目、16 路 PoE NVR、以太网 PoE 网桥，站内 STX2405-E / STX2402-C；表内备注「加不上」（WhatsApp））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Hanwha 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；PoE NVR/网桥 Saga 不做；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Hanwha 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；PoE NVR/网桥 Saga 不做；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-16 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches you supply with Hanwha Vision cameras and PoE NVRs, we offer a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your installers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Destek Elektronik Tic. Ltd.（安防电子系统分销：CCTV、火灾/入侵/气体探测、门禁、电源；品牌 Hanwha Vision / Aritech / Kilsen / CQR；PoE 产品栏目、16 路 PoE NVR、以太网 PoE 网桥，站内 STX2405-E / STX2402-C；表内备注「加不上」（WhatsApp））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：Hanwha 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；PoE NVR/网桥 Saga 不做
 - **断点 / 为什么停在这里**：土耳其：汇率敏感；Hanwha/Aritech 既定品牌线
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——Hanwha 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；PoE NVR/网桥 Saga 不做
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-16 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch））——Hanwha 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；PoE NVR/网桥 Saga 不做
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE switches you supply with Hanwha Vision cameras and PoE NVRs, we offer a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your installers order most?
 

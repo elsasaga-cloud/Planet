@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。（调研 2026-10-21；表内兴趣：Networking）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-09-17 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-17 $300（48 Port PoE Managed Switch）、2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 BMA Networks / dierckgroup（企业 IT 系统集成：云、网络安全、托管服务、楼宇技术；案例 Extreme Fabric 网络设计、DEUTZ AG 工业以太网、FTTH 建设、医院 IT、模块化数据中心；表内「Networking」；KP Mats Hansen（Technical Lead，mats.hansen@））；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替
 - **断点 / 为什么停在这里**：Extreme Fabric / Fortinet 生态：白牌仅 OT 接入补位
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-17 $300（48 Port PoE Managed Switch）、2025-10-14 $280（10G Enterprise SFP Switch））——工业以太网案例（DEUTZ）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作车间接入补位；园区位 STC-424XGGPM-280W；Extreme Fabric 核心不可替
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mats, for industrial-Ethernet projects like the DEUTZ AG case, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed switches (−40~75 °C, SNMP/CLI, CE/RoHS, neutral packing) from small lots as shop-floor access behind an Extreme core — is there a port count your OT projects keep needing?
 

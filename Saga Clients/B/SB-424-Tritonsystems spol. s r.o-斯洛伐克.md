@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：2光8PoE管理Vitesse）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/斯洛伐克；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-25 → 2025-03-25）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：斯洛伐克 Tritonsystems spol. s r.o.（ParkIS 智能停车与缴费系统（含监控中心）开发商；阿里巴巴询盘「2 光 8 PoE 管理 Vitesse」；KP Stanislav Lupták、Michal Chvála）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）
 - **断点 / 为什么停在这里**：询盘指定 Vitesse 平台（需说明 Marvell 等效）；系统配套量随项目；6 次无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch））——询盘 2 光 8 PoE 管理（Vitesse 平台）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%，Marvell 平台）贴 ParkIS 标；室外柜用工业 STI-288GPM（$85.5）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Stanislav, following your enquiry for a managed 8-PoE + 2 SFP switch: we supply that configuration on a Marvell L2+ platform (VLAN/QoS, 802.3at, web/SNMP) and a DIN-rail industrial version for outdoor cabinets, under your label from small lots, CE/RoHS — how many units per car park installation?
 

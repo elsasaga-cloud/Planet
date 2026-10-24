@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 IPCOMM（变电站/能源自动化通信：IEC 61850 / IEC 60870-5-101 协议网关与 SCADA 通信产品，工作坊；表内「商业 PoE 工业 FS 等 比较专业」「可以着重跟一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业POE 工业FS等 比较专业）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-24 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 IPCOMM（变电站/能源自动化通信：IEC 61850 / IEC 60870-5-101 协议网关与 SCADA 通信产品，工作坊；表内「商业 PoE 工业 FS 等 比较专业」「可以着重跟一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）
 - **断点 / 为什么停在这里**：守界备注：电力/变电站场景——只供民用通用工业交换机；IEC 61850-3 / IEEE 1613 认证 Saga 无
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch））——变电站/SCADA 机柜配套工业交换机 → 工业 8 GE + 2 SFP 管理（非 PoE）位 STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；IEC 61850-3 认证 Saga 无（注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?
 

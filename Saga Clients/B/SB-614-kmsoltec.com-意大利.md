@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：卖德国Delock公司的；switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 KM Soltec Srl（定制工业 PC「Made in Italy」、工业触控设备、Asus 迷你 PC 认证经销；表内「卖德国 Delock 公司的；switch」「质量一般」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）
 - **断点 / 为什么停在这里**：交换机为配套品类（Delock 配件级），量小
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——工业 PC 配套 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；Delock 桌面交换机位 HRUI STC-08GE（$10.5）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the switches you bundle with your industrial PCs and Delock accessories, we supply Marvell-based DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?
 

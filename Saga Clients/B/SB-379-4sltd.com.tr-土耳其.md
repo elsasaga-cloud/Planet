@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：工业交换机 主要是redlion的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 4S Elektrik Elektronik（伊兹密尔电气/电子材料销售与研发公司：Thorguard、Secty、Dinnteco、Red Lion 土耳其销售；表内「工业交换机 主要是 Red Lion 的」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位
 - **断点 / 为什么停在这里**：Red Lion 代理（品牌粘性）；土耳其汇率敏感；2 次无回复，仅 info@/gmail
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch））——Red Lion 工业交换机代理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Red Lion industrial switches you represent, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget industrial position your İzmir customers ask for?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 IT 硬件网店 Server Blink（PC / 服务器配件与网络设备，全美发货；站内 Zyxel XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP 等多千兆与 10G 型号，PLANET、MikroTik、Ubiquiti、TP-Link、Cisco；表内「卖几个牌子的，有 Marvell 方案」）；群发 5 次无回复。（调研 2026-10-21；表内兴趣：卖几个牌子的 有marvell方案）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-06-19 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-18 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 IT 硬件网店 Server Blink（PC / 服务器配件与网络设备，全美发货；站内 Zyxel XGS2220-30F / XGS2220-30HP / XS3800-28 / XMG-105HP 等多千兆与 10G 型号，PLANET、MikroTik、Ubiquiti、TP-Link、Cisco；表内「卖几个牌子的，有 Marvell 方案」）；群发 5 次无回复。
 - **对方真实需求（有据）**：在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型
 - **断点 / 为什么停在这里**：IT 硬件电商：以正品品牌为卖点（genuine products），白牌需单独品类
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-18 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch））——在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

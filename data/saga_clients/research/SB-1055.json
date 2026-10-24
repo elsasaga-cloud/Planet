@@ -121,7 +121,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
       "why": "自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE",
       "repeat": [],
       "gaps": []

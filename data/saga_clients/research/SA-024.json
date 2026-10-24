@@ -144,7 +144,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）",
       "tier": 20,
-      "price": "按 20% 分销档（若贴 Chimera 标 → 30%）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（他 2026-09-08 收到的群发是 $170，信里点明）；STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（他没收过 $300 那轮群发）。$170 若 Simon 愿意兑现，毛利只剩 12.6%",
+      "price": "按 20% 分销档（若贴 Chimera 标 → 30%）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（他 2026-09-08 收到的群发是 $170，信里点明）；STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（第 66 批全量复核发现他其实收过 2025-01-16 的 $300 轮——信里已加一句「老汇率」说明；Simon 愿意的话可按 $300 兑现，毛利 7%）。$170 若 Simon 愿意兑现，毛利只剩 12.6%；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）",
       "why": "J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2025-01-18)、Marvell Based CLI Manual(2025-01-18)、Marvell Based Web Manual(2025-01-18)、Saga Software Function List-release 7.(2025-03-19)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [
@@ -196,7 +196,7 @@
     ],
     "draft_en": {
       "subject": "Re: L2 PoE+ access switch tender — Voice VLAN is now in firmware",
-      "body": "Hi, Jitendra,\n\nIn January 2025 your tender needed Voice VLAN, SNMPv3, SSHv2 and IPv6 on 24/48-port PoE+ access switches, and we had to say \"Voice VLAN under development\". It has been in firmware since 7.4 (now 7.5) on the Marvell AC5 24/48-port PoE+ models with 10G uplinks.\n\n- 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+ — $180 USD EXW (our 8 September mail said $170; that batch is gone, $180 is the current one)\n- 48x GbE PoE+ 440 W + 4x 10G SFP+, L2+ — $335 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n\nSeparately, Nasim: the 60 W PoE++ injector test unit (15 USD) from December — did it pass at the customer, and is the bulk requirement still there?\n\nOne question: is that tender, or a similar one, still open?\n\nThank you.\nSimon"
+      "body": "Hi, Jitendra,\n\nIn January 2025 your tender needed Voice VLAN, SNMPv3, SSHv2 and IPv6 on 24/48-port PoE+ access switches, and we had to say \"Voice VLAN under development\". It has been in firmware since 7.4 (now 7.5) on the Marvell AC5 24/48-port PoE+ models with 10G uplinks.\n\n- 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+ — $180 USD EXW (our 8 September mail said $170; that batch is gone, $180 is the current one)\n- 48x GbE PoE+ 440 W + 4x 10G SFP+, L2+ — $335 USD EXW (the $300 in our 2024/25 mails was at the old exchange rate)\n(2026-10 price table, valid 15 days from this mail)\n\nSeparately, Nasim: the 60 W PoE++ injector test unit (15 USD) from December — did it pass at the customer, and is the bulk requirement still there?\n\nOne question: is that tender, or a similar one, still open?\n\nThank you.\nSimon"
     },
     "as_of": "2026-10-24"
   }

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 reichelt elektronik（15 万+ 技术/电子产品的大型目录电商（家族企业）；表内「工业 FS 有宇航的」「可以着重跟一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS 有宇航的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-24 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 reichelt elektronik（15 万+ 技术/电子产品的大型目录电商（家族企业）；表内「工业 FS 有宇航的」「可以着重跟一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位
 - **断点 / 为什么停在这里**：体量：大型目录电商（供应商准入与上架流程长）——用户标「可以着重跟一下」，保留 B；8 次无回复，仅 info@
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-11 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——工业 FS 分类 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 5 GE STI-050GE（$17.0）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）作自有/中性标预算位
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial Ethernet switch category at reichelt, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP managed and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS) neutral-brand or private-label from small lots, EXW USD — who handles listing new industrial networking suppliers?
 

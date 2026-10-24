@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。（调研 2026-10-21；表内兴趣：SFP, MC, switch, router）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-17 → 2025-10-02）；最近一次客户回复：2025-06-17：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）
 - **第一问（只问一个）**：The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答 + 一问
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。
 - **对方真实需求（有据）**：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **断点 / 为什么停在这里**：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch））——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答 + 一问
   - 第一问（只问一个）：The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?
 

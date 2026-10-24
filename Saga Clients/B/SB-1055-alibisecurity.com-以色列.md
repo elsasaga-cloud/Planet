@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-27 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：Alibi Security（安防品牌：摄像机、门禁、VMS，Alibi Partner Program；品牌页含 D-Link / TP-Link PoE 交换机（DGS-1210-10P/28P、TL-SG1428PE）、Vigitron 注入器；表内「主要是 CCTV，有不同品牌的 FS，PoE injector，有 Vigitron 的」；KP Billy Grumbles（billy.grumbles@）；表内国别「以色列」存疑——站点英文/美国品牌生态，待核）；群发 8 次无回复。
 - **对方真实需求（有据）**：自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE
 - **断点 / 为什么停在这里**：国别待核：表内「以色列」，站点为英文美国品牌生态（待证）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——自有 Alibi 品牌可贴 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）对位 D-Link DGS-1210-10P；24 口位 STC-424DGGPM-280W 对位 DGS-1210-28P / TL-SG1428PE
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Billy, next to the D-Link and TP-Link PoE switches in your partner catalogue, we can supply Alibi-branded Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, FCC/CE/RoHS — which size do your partners order most, so we quote its equivalent first?
 

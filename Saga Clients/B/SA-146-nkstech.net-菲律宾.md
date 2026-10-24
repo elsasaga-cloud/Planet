@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：**调研后定级 B**（同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：研究档的「来信」为误归属（Steven Fu 的回复抄送了 NKS）。NKS 本身零回复。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：误归属更正。
-- **Saga 现在该推什么**：P1 **无**（25% 档，—）——不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **无**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch））——不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

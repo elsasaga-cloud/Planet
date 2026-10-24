@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 VIPA ControlsAmerica（YASKAWA 旗下德国 VIPA 控制自动化产品美国分销：PLC / I/O / HMI / PROFIBUS 连接器，「Genuine VIPA Products」；站内 Siemens 兼容；表内「工业 FS 自己的 logo」）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：工业FS 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-30 → 2025-10-25）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply Marvell-based DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 VIPA ControlsAmerica（YASKAWA 旗下德国 VIPA 控制自动化产品美国分销：PLC / I/O / HMI / PROFIBUS 连接器，「Genuine VIPA Products」；站内 Siemens 兼容；表内「工业 FS 自己的 logo」）；群发 18 次无回复。
 - **对方真实需求（有据）**：VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充
 - **断点 / 为什么停在这里**：品牌方（VIPA/Yaskawa）体系内分销：自有标交换机由集团供货，白牌切入点弱
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-10-03 $280（10G Enterprise SFP Switch））——VIPA 标工业交换机为配套线（由其品牌方供货）→ 白牌切入点弱；入门位工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Alongside the VIPA-branded industrial switches in your PLC accessories, we can supply Marvell-based DIN-rail 5/8-port gigabit units in neutral packing from small lots (−40~75 °C, FCC/CE/RoHS) for price-sensitive panels — do your integrator customers ask for a lower-cost switch option?
 

@@ -117,7 +117,7 @@
     "saga_now": {
       "p1": "STI-154GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "在用 ICP DAS NSM-205GP（5 口含 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）/ 5 GE STI-050GE（$17.8）同口型替换",
       "repeat": [],
       "gaps": []

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：捷克 Escad Trade（安防摄像机/CCTV 网店与分销：Milesight、Hikvision、Dahua、Axis、Planet、TP-Link；站内 PoE 交换机与非 PoE 交换机分类（/poe-switche-c1073/、Milesight MS-S0204-EL 页）；表内「卖几个有名牌子的 MILESIGHT」「可以尝试多跟进一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：卖几个有名牌子的 MILESIGHT）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-13 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：捷克 Escad Trade（安防摄像机/CCTV 网店与分销：Milesight、Hikvision、Dahua、Axis、Planet、TP-Link；站内 PoE 交换机与非 PoE 交换机分类（/poe-switche-c1073/、Milesight MS-S0204-EL 页）；表内「卖几个有名牌子的 MILESIGHT」「可以尝试多跟进一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：多品牌网店（白牌契合度待核）；8 次无回复，仅 obchod@
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——PoE 交换机分类（现 Milesight/Planet/TP-Link）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）作白牌预算位；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

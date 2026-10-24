@@ -122,7 +122,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-05 $65（10g fiber media converter）、2025-09-26 $280（10G Enterprise SFP Switch）",
       "why": "自有标 Sec-on 可贴 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）对位 Utepo IES200；商用 BDCOM S1500-16P2ES 位 HRUI STC-2016GP（$88.0）；注入器/分离器 Saga 无（Q-32）。已打开的主题（3/17 封有打开记录）：「10G fiber media converter」(2024-08-05)、「10G Enterprise SFP Switch」(2025-09-26)、「Industrial PoE Switch」(2025-10-27) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：DIN Power Adapter(2024-08-22)、Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

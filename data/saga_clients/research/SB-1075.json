@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）",
       "why": "自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

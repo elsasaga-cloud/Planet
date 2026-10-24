@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-17 $300（48 Port PoE Managed Switch）、2025-09-04 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
       "why": "询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）。已打开的主题（2/16 封有打开记录）：「90W PoE Managed Switch」(2025-03-20)、「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

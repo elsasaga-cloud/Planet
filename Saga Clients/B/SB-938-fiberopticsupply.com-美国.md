@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：SFP MC 周边产品；卖别人的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 —；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch））———
 - **下一步（具体）**：不动　—；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

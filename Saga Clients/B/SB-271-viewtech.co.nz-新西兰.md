@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新西兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-23 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：新西兰基督城 Viewtech（安全与安防技术供应商：车辆/车队安全系统设计供应 + 安防批发分销；品牌 Milesight / Dahua / Teltonika / Utepo（表内）；站内 Dahua CS4006-4ET-60、PFT1200；KP Darren Jenkinson（Managing Director）、Matthew Peacey（Commercial Manager，matthew@））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）
 - **断点 / 为什么停在这里**：车辆/车队安全线：Saga 无 E-mark、不做车载 → 只报固定安装场景
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——在售 Utepo / Dahua CS4006（非管理 4 PoE）→ 对价 HRUI STC-204GP（$20.4）；管理位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；车载场景不报（Saga 无 E-mark）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Matthew, next to the Utepo and Dahua PoE switches you wholesale, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and a budget 4/8-port unmanaged PoE line in neutral packing from small lots — which price band do your installers buy most?
 

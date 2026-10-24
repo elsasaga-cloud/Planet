@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Başarı Mühendislik（能源监测与能源自动化、工业 IoT、SCADA & RTU、通信系统、保护与控制；站内工业千兆 PoE / 可管理与非管理工业 PoE 交换机栏目；品牌 Korenix / Milesight / Siemens；KP Hakan Öztürk）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Başarı Mühendislik（能源监测与能源自动化、工业 IoT、SCADA & RTU、通信系统、保护与控制；站内工业千兆 PoE / 可管理与非管理工业 PoE 交换机栏目；品牌 Korenix / Milesight / Siemens；KP Hakan Öztürk）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）
 - **断点 / 为什么停在这里**：守界备注：能源/电力场景——只供民用通用工业交换机；IEC 61850-3 认证 Saga 无
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch））——工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?
 

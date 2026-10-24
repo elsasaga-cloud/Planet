@@ -75,7 +75,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-03 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-03 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $65（10g fiber media converter）、2025-02-20 $240（24 Port Fiber Switch）、2025-09-18 $65（10G Media Converter）、2025-10-09 $280（10G Enterprise SFP Switch）",
       "why": "工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）",
       "repeat": [],
       "gaps": []

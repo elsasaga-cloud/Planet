@@ -1,128 +1,128 @@
 {
- "code": "SB-268",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（swl.co.nz，快照 2026-10-21）",
- "summary": "新西兰 SWL Security Wholesale（100% 新西兰本土安防批发：Provision-ISR CCTV 官方分销、Ajax、DSC 报警、Kantech 门禁；表内「有 Utepo 的」；KP Andrew Jones（Managing Director）、Jabe Hura（Technical Sales Representative，jabe@））；表内 1 次跟进无回复。",
- "type": "安防批发分销商（新西兰，Provision-ISR / Utepo）",
- "size": "",
- "brands_seen": [
-  "Utepo",
-  "Provision-ISR",
-  "Ajax",
-  "DSC",
-  "Kantech"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Home Page SWL；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "SWL Security Wholesale NZ is the official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control Security Wholesale is your Security Technology partner 100% NZ Owned and operated.",
-   "url": "https://www.swl.co.nz/",
-   "date": "2026-10-21"
+  "code": "SB-268",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（swl.co.nz，快照 2026-10-21）",
+  "summary": "新西兰 SWL Security Wholesale（100% 新西兰本土安防批发：Provision-ISR CCTV 官方分销、Ajax、DSC 报警、Kantech 门禁；表内「有 Utepo 的」；KP Andrew Jones（Managing Director）、Jabe Hura（Technical Sales Representative，jabe@））；表内 1 次跟进无回复。",
+  "type": "安防批发分销商（新西兰，Provision-ISR / Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Utepo",
+    "Provision-ISR",
+    "Ajax",
+    "DSC",
+    "Kantech"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Home Page SWL；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "SWL Security Wholesale NZ is the official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control Security Wholesale is your Security Technology partner 100% NZ Owned and operated.",
+      "url": "https://www.swl.co.nz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "新西兰安防批发，Provision-ISR 官方分销",
+      "quote": "SWL Security Wholesale NZ is the official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control",
+      "url": "https://www.swl.co.nz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有 Utepo 的",
+      "quote": "有Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jabe Hura",
+      "title": "Technical Sales Representative",
+      "email": "jabe@swl.co.nz",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Andrew Jones",
+      "title": "Managing Director",
+      "email": "trade@swl.co.nz",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "新西兰",
+    "other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "新西兰安防批发，Provision-ISR 官方分销",
-   "quote": "SWL Security Wholesale NZ is the official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control",
-   "url": "https://www.swl.co.nz/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "安防批发（CCTV / 报警 / 门禁）"
+  ],
+  "channels": {
+    "role": "安防批发分销商（新西兰，Provision-ISR / Utepo）",
+    "region": "新西兰",
+    "contact": "trade@swl.co.nz、jabe@swl.co.nz"
   },
-  {
-   "kind": "用户表",
-   "claim": "有 Utepo 的",
-   "quote": "有Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control … 100% NZ Owned",
+    "KP：Andrew Jones / Managing Director；Jabe Hura / Technical Sales Representative（表内）"
+  ],
+  "risks": [
+    "非主攻区（T5）；RCM 合规由客户申报",
+    "现卖 Utepo（深圳）价格基准低；1 次跟进无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）"
+  },
+  "email_hook": "Jabe, alongside the Utepo PoE switches you stock for Provision-ISR installs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which Utepo model turns fastest for you, so we quote its equivalent first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "新西兰安防批发（SWL；Provision-ISR/Utepo）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "NZ",
+      "cadence": "不动",
+      "evidence": "k=757c37ba09d77f9c"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Jabe Hura",
-   "title": "Technical Sales Representative",
-   "email": "jabe@swl.co.nz",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Andrew Jones",
-   "title": "Managing Director",
-   "email": "trade@swl.co.nz",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新西兰",
-  "other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防批发（CCTV / 报警 / 门禁）"
- ],
- "channels": {
-  "role": "安防批发分销商（新西兰，Provision-ISR / Utepo）",
-  "region": "新西兰",
-  "contact": "trade@swl.co.nz、jabe@swl.co.nz"
- },
- "signals": [
-  "官网：official distributor of Provision ISR CCTV products in NZ, Ajax, DSC alarms Kantech Access Control … 100% NZ Owned",
-  "KP：Andrew Jones / Managing Director；Jabe Hura / Technical Sales Representative（表内）"
- ],
- "risks": [
-  "非主攻区（T5）；RCM 合规由客户申报",
-  "现卖 Utepo（深圳）价格基准低；1 次跟进无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）"
- },
- "email_hook": "Jabe, alongside the Utepo PoE switches you stock for Provision-ISR installs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which Utepo model turns fastest for you, so we quote its equivalent first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "新西兰安防批发（SWL；Provision-ISR/Utepo）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "NZ",
-   "cadence": "不动",
-   "evidence": "k=757c37ba09d77f9c"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

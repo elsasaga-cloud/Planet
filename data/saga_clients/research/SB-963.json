@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-110FE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2025-02-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
       "why": "询盘 2 台 24 V 百兆工业 MC（FC/SC）→ 工业 FE MC STI-110FE（$20.6 @25%，SFP/SC 口——FC 口型待核，注明）；千兆版 STI-110GE（$23.4）。已打开的主题（1/27 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

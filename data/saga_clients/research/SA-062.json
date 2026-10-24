@@ -88,7 +88,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM-2BT",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
       "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
       "repeat": [],
       "gaps": []

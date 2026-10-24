@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：布拉格的楼宇自动化软件/网关小公司 Inthouse Systems s.r.o.（IČO 05405947；Grafická 769/9 Praha 5；2013 年起、创始人 Matej Snoha；约 4 人；产品：Inthouse App/Studio/Cloud + Inthouse Hub 云网关，用于 Siemens Climatix PLC（暖通/热泵设备）远程控制，面向 64 家设备制造商伙伴、14 国、1 万台连接设备）。阿里 RFQ：升压 5 口 PoE；联系人 Andrej Hraško；6 次跟进 0 回复。用户 AI 评估曾判 C（核心业务未确认）——核实为 OEM 伙伴型 IoT 方案商，PoE 小交换机属其配套件，保留 B。（调研 2026-10-21；表内兴趣：升压5口）
 - **为什么是 B 级**：**调研后定级 B**（0 回复 / 6 次推送，核心业务未确认，用户 AI 评估亦为 B→C 区间；RFQ 历史说明需求曾真实 → 不降 C，B 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-25 → 2025-03-25）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：布拉格的楼宇自动化软件/网关小公司 Inthouse Systems s.r.o.（IČO 05405947；Grafická 769/9 Praha 5；2013 年起、创始人 Matej Snoha；约 4 人；产品：Inthouse App/Studio/Cloud + Inthouse Hub 云网关，用于 Siemens Climatix PLC（暖通/热泵设备）远程控制，面向 64 家设备制造商伙伴、14 国、1 万台连接设备）。阿里 RFQ：升压 5 口 PoE；联系人 Andrej Hraško；6 次跟进 0 回复。用户 AI 评估曾判 C（核心业务未确认）——核实为 OEM 伙伴型 IoT 方案商，PoE 小交换机属其配套件，保留 B。
 - **对方真实需求（有据）**：配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）
 - **断点 / 为什么停在这里**：规模极小（4 人）、单量小；6 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）
+- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-22 $16000（32 Port 400GB DC Switch））——配套 25% 档：STI-144GP（DIN 4 PoE + 1 SFP，$35.5）或 STI-154GP（4 PoE + 1 GE 上联，$40.8@30）放 PLC 柜为 Hub/触摸屏供电；非 PoE STI-050GE（$17.8）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Andrej, for the Climatix panels your partners ship with an Inthouse Hub: a DIN-rail 4-port gigabit PoE switch with one uplink (44–57 V DC, −40 to +75 °C) is $35.5 EXW — how many panels a month would need one?
 

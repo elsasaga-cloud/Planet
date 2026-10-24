@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。（调研 2026-10-21；表内兴趣：Digitus 还有几个外壳的工业FS Linkcreative的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-01-31 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利电子元件供应商 / 网店（Hikvision、Dahua；switch 78 / poe 49 / camera 22），info@；表内「Digitus 还有几个外壳的工业 FS；Linkcreative 的 MC；可多跟进」；群发 6 次无回复。
 - **对方真实需求（有据）**：对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：无具名；6 次群发无回复
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））——对位 Digitus 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Buongiorno — beside the Digitus industrial switches and the MCs you list: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW with photos / CE files for listing; shall I send the sheet?
 

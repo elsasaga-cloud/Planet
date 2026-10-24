@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业FS 大口 SFP PoE配件）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。
 - **对方真实需求（有据）**：台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件
 - **断点 / 为什么停在这里**：台湾品牌（自有 ODM）：白牌切入点弱，仅二供
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，按主表（研究档 saga_fit））——台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch））——台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?
 

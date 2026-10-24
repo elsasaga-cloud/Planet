@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/约旦；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
 - **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
 - **断点 / 为什么停在这里**：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit））——RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch））——RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
 

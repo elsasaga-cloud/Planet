@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：莫斯科光纤传输系统分销商：向俄罗斯及独联体供应全球光纤系统与信号处理产品（含杭州华泰 Huatai 视频光端机目录），提供方案设计与到门交付；用户记录'可能是公司之前的合作商'，WA 在线，22 次跟进中 5 次回复。（调研 2026-10-21；表内兴趣：可能是公司之前的合作商）
 - **为什么是 A 级**：+30 实质回复 5 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 5 次；WhatsApp 已加；推送 22 次（2023-12-09 → 2025-10-31）；最近一次客户回复：2024-04-16：ok
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2026-05-12 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.
 - **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：邮件无互动。
 - **对方真实需求（有据）**：MC → IP/PoE 迁移。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）———
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-17 $300（48 Port PoE Managed Switch）、2026-05-12 $280（10G Enterprise SFP Switch））———
 - **下一步（具体）**：按 WA 节奏　WhatsApp　WA（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：Alongside the optical transmission lines you distribute, the gigabit SFP media converter and the 8-port industrial PoE + 2 SFP managed switch are the two EXW prices I am sending for your catalogue.
 

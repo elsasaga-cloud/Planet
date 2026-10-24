@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-27 $300（48 Port PoE Managed Switch）、2025-09-11 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

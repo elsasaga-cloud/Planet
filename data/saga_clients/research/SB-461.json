@@ -65,7 +65,7 @@
     "saga_now": {
       "p1": "STI-054GP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
       "why": "工业终端 25% 档：STI-054GP（DIN 4 GE PoE + 1 GE 上联，非管理，$32.5）替代单口注入器；需 SFP 上联用 STI-144GP（$35.5）。已打开的主题（1/30 封有打开记录）：「24 Port Fiber Switch」(2025-01-31) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

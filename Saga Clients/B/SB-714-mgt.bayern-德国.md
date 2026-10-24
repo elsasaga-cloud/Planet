@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Münchner Glasfaser-Technik GmbH（慕尼黑：信息技术、电信与电气技术专业公司；表内「Networking」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Networking）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-17 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Münchner Glasfaser-Technik GmbH（慕尼黑：信息技术、电信与电气技术专业公司；表内「Networking」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：安装商（单项目量小）；2 次无回复，仅 info@
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch））——楼宇网络安装配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业千兆 MC STI-110GE（$23.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the access switches and media converters in your fibre and building-network installations, we supply Marvell-based 8-PoE + 2 SFP L2+, 24-PoE + 4 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which switch position do your Munich projects use most?
 

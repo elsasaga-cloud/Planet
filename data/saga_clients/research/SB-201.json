@@ -95,7 +95,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）",
       "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）",
       "repeat": [],
       "gaps": []

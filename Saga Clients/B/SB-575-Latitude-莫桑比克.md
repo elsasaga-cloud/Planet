@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。（调研 2026-10-21；表内兴趣：WDM Switch）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/莫桑比克；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。
 - **对方真实需求（有据）**：「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
 - **断点 / 为什么停在这里**：需求含糊；莫桑比克付款 T/T 预付
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch））——「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?
 

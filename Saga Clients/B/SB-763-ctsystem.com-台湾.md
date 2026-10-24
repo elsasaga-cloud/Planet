@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：MC SFP FS POE  自己的牌子）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-21 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-10-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 Connection Technology Systems Inc.（CTS，1998 年成立，光通信产品自研自产，瑞典/奥地利办事处；新品：10 口工业 PoE 管理（IPS-3110）、6 口工业 PoE、28 口 180W PoE；站内型号 SRS-3106-4BT / EPS-5112-8BT / EPS-3128；表内「MC / SFP / FS / PoE，自己的牌子」，已加微信；KP Koichi Ito）；群发 8 次无回复。
 - **对方真实需求（有据）**：自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息
 - **断点 / 为什么停在这里**：台湾自研自产厂商：外采意愿低，仅二供/补缺
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）、2025-10-23 $280（10G Enterprise SFP Switch））——自产工业 PoE 线完整 → 仅作二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、BT 版 STI-288DGGPM-2BT（$171.0）；已加微信 → 用微信短消息
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Koichi, for the IPS/EPS industrial PoE families, we can act as a second source on a Marvell platform (8-PoE + 2 SFP managed, BT 90 W option, −40~75 °C) from small lots — is there a model in the range you would rather dual-source than keep on one line?
 

@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STC-424XGGPM-280W",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）",
       "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
       "repeat": [],
       "gaps": []

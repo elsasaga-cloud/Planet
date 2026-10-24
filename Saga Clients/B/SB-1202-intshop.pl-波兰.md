@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS MC SFP 周边产品 销售平台）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter）
 - **第一问（只问一个）**：For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → info@noning.pl 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter））——工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　S 邮箱 → info@noning.pl　短信一问（email_hook）
   - 第一问（只问一个）：For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：葡萄牙 Virtware（电信集成方案分销：结构化布线系统、交换机、路由器及电信材料；站内 TP-Link TL-SG5428 / TL-SL5428E / TL-SL3452、ATEN CS74U；表内「很多知名小品牌的」；KP Augusto Oliveira（Owner，augusto@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：很多知名小品牌的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/葡萄牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Augusto, alongside the TP-Link TL-SG5428 / TL-SL5428E managed switches you distribute, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which managed model do your cabling installers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：葡萄牙 Virtware（电信集成方案分销：结构化布线系统、交换机、路由器及电信材料；站内 TP-Link TL-SG5428 / TL-SL5428E / TL-SL3452、ATEN CS74U；表内「很多知名小品牌的」；KP Augusto Oliveira（Owner，augusto@））；表内无跟进记录。
 - **对方真实需求（有据）**：在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM
 - **断点 / 为什么停在这里**：TP-Link 品牌货为主：白牌需靠价差
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch））——在售 TP-Link TL-SG5428（24 GE + 4 SFP 管理）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；PoE 位 STC-424DGGPM-280W / STC-28DGGPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Augusto, alongside the TP-Link TL-SG5428 / TL-SL5428E managed switches you distribute, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE+ option) and 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which managed model do your cabling installers order most?
 

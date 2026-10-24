@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-05 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Yacht Gurus, inc（船艇与游艇用品网店；站内少量交换机/无线产品；表内「工业 FS」「细分特种行业公司」）；群发 10 次无回复。
 - **对方真实需求（有据）**：船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）
 - **断点 / 为什么停在这里**：品类边缘：船艇用品网店（网络为少量品类）；船级/海事认证 Saga 无；10 次无回复
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-05 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——船用网络位 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）；船级认证 Saga 无（注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the onboard network switches you list for boat and yacht owners, we supply compact DIN-rail 5-GE and 8-GE industrial units (−40~75 °C, 12–57 V DC input, FCC/CE/RoHS) neutral-brand from single units, EXW USD — which port count do your marine customers ask for most?
 

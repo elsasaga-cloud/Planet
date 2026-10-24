@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
       "why": "在售 barox/ComNet/Lantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）作预算线；Euklis 自有 NVR 配套 PoE 可贴标 STC-28DGGPM",
       "repeat": [],
       "gaps": []

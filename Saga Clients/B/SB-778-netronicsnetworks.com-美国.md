@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Netronics Networks（无线宽带/点对点微波与监控传输方案品牌，10G 无线、FIPS-197；表内「推 PoE」）；表内未跟进。（调研 2026-10-21；表内兴趣：推PoE）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Netronics Networks（无线宽带/点对点微波与监控传输方案品牌，10G 无线、FIPS-197；表内「推 PoE」）；表内未跟进。
 - **对方真实需求（有据）**：无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）
 - **断点 / 为什么停在这里**：PoE 为无线方案配套（量随项目）；未跟进过，仅 info@
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-08 $280（10G Enterprise SFP Switch））——无线回传站点配套 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、4 PoE + 1 SFP STI-154GP（$40.8）贴 Netronics 标；室内 STC-28DGGPM（$87.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the PoE switches that aggregate your radios and cameras at remote sites, we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under the Netronics label from small lots — which port count do your wireless-surveillance kits need most?
 

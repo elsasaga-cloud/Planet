@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 也有tplink的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：英国天线 / 卫星行业配件分销商（30+ 年；监控、音频、线缆、CCTV、安装设备；Dahua、Ajax、TP-Link、Ubiquiti、Ruijie；switch 126 / poe 49），Director Shaun Guard（Oxford Aerials）；表内「商业 PoE，也有 TP-Link 的；可多跟进」；群发 10 次无回复。
 - **对方真实需求（有据）**：安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。
 - **断点 / 为什么停在这里**：10 次群发无回复；UKCA
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch））——安装商渠道 8 PoE 管理 → STC-28DGGPM（$80.7 @20%，CE/UKCA）；非管理 STC-028GP。已打开的主题（1/21 封有打开记录）：「Industrial PoE Switch」(2025-08-13) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Shaun, for the installer trade beside TP-Link — Marvell L2+ 8-PoE + 2-SFP at $81 and unmanaged 8-PoE at $24 EXW, UKCA/CE marked; would a 5-pc trial carton suit the ACE price list?
 

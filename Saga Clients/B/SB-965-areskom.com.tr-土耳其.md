@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。（调研 2026-10-21；表内兴趣：很多有名的牌子 工业MC FS  工业控制）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其工业通信 / 控制分销商（2004 年起；Westermo、Teltonika；switch 326 / poe 266 / automation 21；+90 216 428 78 78），仅 info@；表内「很多有名的牌子；工业 MC FS 工业控制」；群发 2 次。
 - **对方真实需求（有据）**：Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：仅 info@
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch））——Westermo 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Merhaba — under the Westermo price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 and gigabit MC at $22 EXW (CE/RoHS, −40~75 ℃); who is the product manager for industrial Ethernet at Areskom?
 

@@ -147,7 +147,7 @@
     "saga_now": {
       "p1": "HRUI 同源 8 口 PoE（`hrui_STC对照表`）",
       "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）",
       "why": "一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1",
       "repeat": [],
       "gaps": []

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：电口）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-02-25 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做。已打开的主题（2/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-06-06)、「8 Port Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做。已打开的主题（2/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-06-06)、「8 Port Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → shop@murrelektronik.de 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Murrelektronik（50 年分布式电气自动化技术先驱；产品组合含工业交换机（IP20 导轨 / IP67 现场 Xelity / 工业无线）；表内「电口」「可以着重跟一下」；邮箱 shop@）；群发 7 次无回复。
 - **对方真实需求（有据）**：自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做
 - **断点 / 为什么停在这里**：体量大（Murrelektronik，全球自动化集团）：供应链既定、准入长；IP67 线 Saga 不做
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做。已打开的主题（2/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-06-06)、「8 Port Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-06 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——自有工业交换机线（IP20 非管理/管理）→ 工业 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 管理 PoE STI-288GPM（$85.5）作二供；IP67 Saga 不做。已打开的主题（2/10 封有打开记录）：「48 Port PoE Managed Switch」(2025-06-06)、「8 Port Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → shop@murrelektronik.de　短信一问（email_hook）
   - 第一问（只问一个）：For the IP20 DIN-rail unmanaged and managed switches in your industrial-switch portfolio, we can serve as a second ODM source on a Marvell platform (8-GE + 2 SFP, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) from small lots in your housing — which configuration do your automation customers order most?
 

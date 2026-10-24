@@ -81,7 +81,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）",
       "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
       "repeat": [],
       "gaps": []

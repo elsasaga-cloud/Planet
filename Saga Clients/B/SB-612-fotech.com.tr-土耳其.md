@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：台湾CTS的工业品 黑盒的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
 - **断点 / 为什么停在这里**：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch））——在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
 

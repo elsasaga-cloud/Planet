@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。
 - **对方真实需求（有据）**：5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格
 - **断点 / 为什么停在这里**：报价后无回；C 级未再跟
-- **Saga 现在该推什么**：P1 **STI-054GP / STI-088GP 级（HRUI 对照表列表价）**（20% 档，历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`）——分销商 20% 档
+- **Saga 现在该推什么**：P1 **STI-054GP / STI-088GP 级（HRUI 对照表列表价）**（20% 档，历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——分销商 20% 档
 - **下一步（具体）**：不动（C）；Simon 复核后再定　A 邮箱　—
   - 第一问（只问一个）：Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?
 

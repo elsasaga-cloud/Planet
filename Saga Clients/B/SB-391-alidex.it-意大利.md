@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。（调研 2026-10-21；表内兴趣：几个台湾牌子；MC SFP 光猫 工业FS 啥都卖 很多牌子的 台湾的比较多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For ALIDEX Italy and Spain — a Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW as the value tier under your Taiwanese lines; who runs product selection across the two countries?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利工业网络 / IoT / OT 安全分销商（工业交换机与路由、光纤转换器、串口、Network TAP；ORing；industrial 84 / switch 112 / sfp 43），仅 info@；表内「几个台湾牌子，MC SFP 光猫 工业 FS 啥都卖」；西班牙站 alidex.es（SB-934）为同一公司；群发 1 次。
 - **对方真实需求（有据）**：台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。
 - **断点 / 为什么停在这里**：仅 info@；台系品牌忠诚
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch））——台系工业管理 PoE 之下 → STI-288GPM（$78.9 @20%）。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For ALIDEX Italy and Spain — a Marvell-based DIN managed 8-PoE + 2-SFP at $79 EXW as the value tier under your Taiwanese lines; who runs product selection across the two countries?
 

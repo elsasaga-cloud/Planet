@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：IM-FP888GW）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-03-25 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280DGGM — 终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：德国萨克森-安哈尔特州的开关柜/配电柜制造商（HRB 19446 Stendal；USt-ID DE289406638；24 人、营收 ≤€10M 口径；总经理 Marco Bohne）：低压/中压开关柜定制、能源管理、故障/熔断/差流/温度监控、PV 直流汇流与消防急停、公用事业户外配电柜、住宅配电；另做网络分析、电池与保护继电器测试。柜内能源管理与监控需要 DIN 导轨工业以太网交换机——与 STI 系列直接相关。用户表：WhatsApp 已加，7 次跟进 0 回复。
 - **对方真实需求（有据）**：终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
 - **断点 / 为什么停在这里**：德国柜体厂对 EN/IEC 认证与 24 V DC 供电有要求（Saga STI 12–58 V DC 覆盖）；7 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
+- **Saga 现在该推什么**：P1 **STI-280DGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）、2026-04-30 $280（10G Enterprise SFP Switch））——终端/OEM 配套 25% 档：STI-280DGGM（DIN 8 GE + 2 SFP，12–58 V DC，−40~+75 ℃，L2+）柜内标配；需 PoE 时 STI-288DGGPM；4 口小柜 STI-240DGGM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the energy-management and monitoring cabinets you build, a DIN-rail 8-port gigabit managed switch with 2 SFP (12–58 V DC, −40 to +75 °C) is $130.8 EXW; which DC rail voltage do you standardise on, 24 V or 48 V?
 

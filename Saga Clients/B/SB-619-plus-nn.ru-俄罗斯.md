@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。（调研 2026-10-21；表内兴趣：有国内好几家商业POE 也有洪瑞的；用的洪瑞的 商业PoE 自己的型号）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-15 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $65（10G Media Converter）、2024-12-26 $300（48 Port PoE Managed Switch）、2025-01-20 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 plus-nn.ru（域名未绑定站点；表内「有国内好几家商业 PoE，也有洪瑞的 / 用的洪瑞的；商业 PoE 自己的型号」；联系邮箱 yandex；电话 +7 903 848 22 27（Viber/WhatsApp））；群发 18 次无回复。
 - **对方真实需求（有据）**：现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望
 - **断点 / 为什么停在这里**：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $65（10G Media Converter）、2024-12-26 $300（48 Port PoE Managed Switch）、2025-01-20 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——现用多家国内商用 PoE 含 HRUI → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；低期望
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

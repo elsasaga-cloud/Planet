@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：ACT/Intronics 三次用同一段模板回：请发 purchase@intronics.nl，不给个人邮箱。之后 Saga 继续向 info@/sales@/个人（s.parrilla@）发了 30 多封群发，无任何人工回复。
 - **对方真实需求（有据）**：以无源为主，少量 switch/MC（用户记录）。
 - **断点 / 为什么停在这里**：对方流程明确，Saga 没有按流程走（purchase@）。按 Simon 口径不投入。
-- **Saga 现在该推什么**：P1 **无**（20% 档，—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——Simon 口径
+- **Saga 现在该推什么**：P1 **无**（20% 档，—；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-24 $65（10G Media Converter）、2024-11-26 $300（48 Port PoE Managed Switch）、2025-01-17 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——Simon 口径
 - **下一步（具体）**：不动；最多每半年 1 封到 purchase@intronics.nl　A 邮箱　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

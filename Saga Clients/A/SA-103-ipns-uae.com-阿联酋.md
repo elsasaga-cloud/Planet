@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：阿布扎比 ISO 9001:2015 系统集成商（2010 年成立，ADMCC 认证 CCTV 集成商），业务覆盖 CCTV、光纤网络、门禁、无线、PBX、结构化布线、智能家居；ISAF 2025 参展商，现场介绍 2 光 10 电，其工业交换机采自 N-Net、商业级从深圳采购并刷自有 logo（用户记录）；邮件 0 回复 / 11 次，有 WA 号码。（调研 2026-10-21；表内兴趣：参展商，去了他们展位给了catalog，邀请他们来展位，来了介绍了2光10电，他着重问了alarm,说平常的交换机也带 工业他们是从N-Net买的能看出来，商业级基本也是从深圳买的需要调查一下，刷的他们自己的logo）
 - **为什么是 A 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2024-11-12 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：2026-08-12 Jomini（Sales Coordinator）问「你们是在找 BORN 商用 24 口管理交换机吗？」——把 Alan 的推广邮件读成了采购需求。说明邮件进了对方销售台，没进采购。
 - **对方真实需求（有据）**：工业 PoE（在用 N-Net，研究档）。
 - **断点 / 为什么停在这里**：渠道错位：销售台 vs 采购。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch））——WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 

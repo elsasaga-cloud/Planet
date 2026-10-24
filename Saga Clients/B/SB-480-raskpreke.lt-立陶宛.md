@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-09-23 → 2025-09-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：立陶宛 Rask Prekę（raskpreke.lt：安防系统与电工产品网店——摄像机、传感器、报警主机；Ubiquiti（31）/ Hikvision / Dahua / Ajax，PoE 适配器/注入器与交换设备栏目；表内「有 Utepo 的」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动挖掘范围）：量小；国别已更正（表内误填意大利）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——在售 Utepo 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Utepo and Ubiquiti PoE switches in your network category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your camera-kit buyers choose most?
 

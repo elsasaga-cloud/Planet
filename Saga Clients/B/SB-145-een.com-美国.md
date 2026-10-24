@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：自己的logo 商业FS CCTV 一些周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-21 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Eagle Eye Networks（AI 云视频监控 VMS 厂商，24/7 支持；自有标交换机 SW05M / SW26M；表内「自己的 logo 商业 FS；CCTV 一些周边产品」「可以尝试多跟进一下」；KP Jaime Becker（Director of Partner，jaime@alludolearning.com 关联域）、Steve Roskowski（CTO））；群发 10 次无回复。
 - **对方真实需求（有据）**：自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP
 - **断点 / 为什么停在这里**：体量较大（全球云 VMS 厂商）：交换机为周边品类，供应链既定
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——自有 SW05M（5 口）/ SW26M（24 PoE + 2）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W（$145.7）贴 Eagle Eye 标；5 口位 HRUI STC-114GP
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Jaime, for the Eagle Eye-branded PoE switches (SW05M / SW26M) that ship with your Bridges and cameras, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size do your partners order most?
 

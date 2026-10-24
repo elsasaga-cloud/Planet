@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。（调研 2026-10-21；表内兴趣：很多牌子的switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-21 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：迪拜安防 / 医疗 / 消防设备网店 Shieldify（官网：Dubai’s trusted store for CCTV, biometric readers, smart door locks, fire safety & medical equipment；站内 Hikvision / Dahua / Ubiquiti / D-Link / TP-Link / Teltonika / Hanwha / ZKTeco，交换机页面 Dahua PFS3005-4ET-60、Hikvision DS-3E0105P-E；表内「很多牌子的 switch」）；群发 3 次无回复。
 - **对方真实需求（有据）**：网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款
 - **断点 / 为什么停在这里**：综合网店（安防 + 医疗 + 消防）：交换机为配套品类，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-27 $280（10G Enterprise SFP Switch））——网店在卖 Dahua/Hik 5 口非管理 PoE（$20–30 价带）→ Saga 对价位 HRUI STC-204GP（$20.4 列表价）/ STC-028GP（$24.2）；管理位 STC-28DGGPM（$80.7 @20%）作升级款
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Next to the Dahua PFS and Hikvision DS-3E PoE switches on your store, we can list a neutral-brand 8-port PoE+ L2+ managed switch (2 SFP) plus a budget 4/8-port unmanaged PoE line, shipped from small lots — which price band moves more for you, unmanaged or managed?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。（调研 2026-10-21；表内兴趣：Switch）
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-04-29 → 2025-09-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。
 - **对方真实需求（有据）**：自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供/补缺
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-17 $300（48 Port PoE Managed Switch））——自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the Cobra-series industrial PoE switches, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, BT option, −40~75 °C) from small lots — is there a model in the series you would consider dual-sourcing?
 

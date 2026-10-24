@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：公司：涉及很多领域 看着比较杂    买的MC MC板子   次数比较多）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-15 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 Northern Light Technologies（NLT：矿用帽灯（Polaris）、充电柜、照明、井下网络/摄像头、呼吸面罩；表内「涉及很多领域，买的 MC / MC 板子 次数比较多」「可以多跟进一下」；KP Spanton、Marlon Noveloso）；群发 8 次无回复。
 - **对方真实需求（有据）**：重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）
 - **断点 / 为什么停在这里**：MC 板子（PCBA）供货方式待核（Saga 列表为整机）；井下/防爆场景 Saga 无认证；8 次无回复 → 改向具名 KP 首触
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch））——重复采购 MC/MC 板 → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）贴 NLT 标；MC 板（PCBA）供货待核；井下 PoE 位 STI-154GP（$40.8）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Marlon, for the media converters you buy repeatedly for your underground network and camera products, we can supply gigabit and PoE media converters (−40~75 °C, 12–57 V, CE/RoHS) under the NLT label from small lots — do you need finished units or board-level modules?
 

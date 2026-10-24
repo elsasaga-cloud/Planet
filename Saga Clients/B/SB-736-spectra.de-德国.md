@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。（调研 2026-10-21；表内兴趣：icpdas的工业FS；bypass  Oring的；工业5 8电口 基本都是Oring的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：推送 3 次（2025-08-26 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。
 - **对方真实需求（有据）**：需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch））——需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Juergen, alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply Marvell-based DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 

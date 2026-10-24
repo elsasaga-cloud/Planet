@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Eter Biometric Technologies Srl（门禁、考勤、火灾探测（Hochiki）、HR 系统集成（Suprema 终端）；表内「介绍了 bypass 和接线图，大概懂，让邮件发给他信息」；KP Ing. Andrea Giacobazzi（CEO and founder））；表内 5 次跟进无回复。（调研 2026-10-21；表内兴趣：介绍了bypass和接线图，大概懂，让邮件发给他信息）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 5 次（2025-05-29 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → commerciale@eter.it 按其指引改发
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—）——已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-07-08 $300（48 Port PoE Managed Switch）、2025-10-16 $280（10G Enterprise SFP Switch））——已打开的主题（3/12 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-29)、「48 Port PoE Managed Switch」(2025-07-08)、「WiFi 7 Ready Access Switch」(2026-08-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → commerciale@eter.it　按其指引改发
   - 第一问（只问一个）：Do your biometric readers get PoE from the installer, or do you supply the switch as well?
 

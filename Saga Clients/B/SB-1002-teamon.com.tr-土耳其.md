@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-29 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。
 - **对方真实需求（有据）**：对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。
 - **断点 / 为什么停在这里**：仅 info@；品牌偏好
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-25 $65（10G media converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-29 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch））——对位 PLANET IGS-5225-8P2S 工业 → STI-288GP（$57.4 @20%）；商用对 GS-4210-8P2S → STC-28DGGPM。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

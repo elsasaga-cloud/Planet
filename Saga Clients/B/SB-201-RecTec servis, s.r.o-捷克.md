@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：BIDI千兆光模块）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-25 → 2025-09-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：捷克 RecTec servis, s.r.o.（回收生产线（破碎/热解/精炼/清洗）与工业自动化供应商；2023 年阿里巴巴 RFQ「BIDI 千兆光模块」；KP Viktor Fojt）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）
 - **断点 / 为什么停在这里**：RFQ 品类（BiDi 光模块）Saga 不供；机器制造商自用（量取决于项目）；6 次无回复
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-04 $300（48 Port PoE Managed Switch））——RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?
 

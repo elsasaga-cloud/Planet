@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）（调研 2026-10-21；表内兴趣：做布线 PoE 让发海报上的产品信息）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-20 → 2025-10-20）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：新加坡结构化布线 / 光纤配线分销商（+65 6353 3679；Schneider；telecom 19 / poe 12 / industrial 9），Director Jimmy Wee：做布线与 PoE，让发海报上的产品信息；7 次跟进无实质回复。（与深圳易飞扬 Gigalight 无关。）
 - **对方真实需求（有据）**：布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：布线商硬件量小；无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-16 $16000（32 Port 400GB DC Switch））——布线配套 PoE → STC-28DGGPM（$80.7 @20%）；MC STI-110GE。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Jimmy, the poster products you asked about: 8-PoE + 2-SFP managed $81, 24-PoE $135, gigabit fibre MC $22 — all EXW, 1-pc; which one goes into your cabling BOMs most?
 

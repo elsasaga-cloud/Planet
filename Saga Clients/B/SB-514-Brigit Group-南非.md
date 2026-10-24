@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。（调研 2026-10-21；表内兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog 给他说了2本catalog的异同）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-03-26 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无口型；通用 8 PoE 管理机入口。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无口型；通用 8 PoE 管理机入口。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。
 - **对方真实需求（有据）**：无口型；通用 8 PoE 管理机入口。
 - **断点 / 为什么停在这里**：无具体需求；WA 无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——无口型；通用 8 PoE 管理机入口。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch））——无口型；通用 8 PoE 管理机入口。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Deon, you took both catalogues at the show — the commercial one (Marvell PoE switches) and the industrial one; which of the two matches the projects Lyle is pricing now? I'll send 1-pc EXW prices for that line only.
 

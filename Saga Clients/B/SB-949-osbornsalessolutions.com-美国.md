@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：Industrial Networking Communications  Security）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-20 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand Marvell-based industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP managed, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Osborn Sales Solutions（制造商销售代表公司：工业网络、通信、安防；表内「网站上没啥东西 sales 公司」「可以尝试多跟进一下」；KP Kyle Desouza（Managing Partner）、William O（President））；群发 10 次无回复。
 - **对方真实需求（有据）**：代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：代理性质（佣金制，非采购方；合作模式待定）；10 次无回复 → 改向 Managing Partner 具名首触
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch））——代表公司（非直接采购）→ 以代理合作切入：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、商用 STC-28DGGPM（$84.1）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Kyle, as a rep firm covering industrial networking and security, would you consider adding a neutral-brand Marvell-based industrial PoE switch line (DIN-rail 8-GE/8-PoE + 2 SFP managed, −40~75 °C, FCC/CE/RoHS, small-lot EXW USD) to your bag — and which territories do you cover?
 

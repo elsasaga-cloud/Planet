@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：VC MC（POE/10G) 14机架 简单VC   POE设备  没工业级的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-05-05) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-05-05) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。
 - **对方真实需求（有据）**：需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做
 - **断点 / 为什么停在这里**：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-05-05) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-29 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-05-05) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?
 

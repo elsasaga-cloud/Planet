@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：10台升压5口）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-12 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：德国 Goetz Ing. Büro für Automation（机器与工业设备自动化工程师事务所：设计、项目规划、PLC 编程、可视化、驱动技术；2008 年阿里巴巴 RFQ「10 台升压 5 口」；KP Peter Goetz；「可以着重跟一下」；电话加不上）；群发 8 次无回复。
 - **对方真实需求（有据）**：5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
 - **断点 / 为什么停在这里**：RFQ 为 2008 年（陈旧）；升压 PoE 输入范围在 Saga 列表中待核；小型事务所（量小）；8 次无回复、电话不通——用户标「可以着重跟一下」保留 B
-- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit））——5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-06-03 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch））——5 口（升压 PoE 需求待核）→ 工业 5 GE 非管理 STI-050GE（$17.8 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，低压升压输入待核）；8 GE + 2 SFP 管理 STI-280GE（$48.6）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Peter, for the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 Borer Data Systems（borer.co.uk / fingerprint-access-control.com：门禁/指纹门禁制造商，PoE 供电门禁体系；表内「有 Utepo 的；工业 FS 比较少；像丰润达/Utepo 的」）；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：有Utepo的；工业FS 比较少  像丰润达/upeto的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 4 次（2025-08-05 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：英国 Borer Data Systems（borer.co.uk / fingerprint-access-control.com：门禁/指纹门禁制造商，PoE 供电门禁体系；表内「有 Utepo 的；工业 FS 比较少；像丰润达/Utepo 的」）；表内 4 次跟进无回复。
 - **对方真实需求（有据）**：门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：现供 Utepo/丰润达系（价格基准低）；工业 FS 用量少；4 次无回复，仅 info@；官网快照空
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——门禁配套 PoE（现 Utepo/丰润达系）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Borer 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

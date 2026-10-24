@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。（调研 2026-10-21；表内兴趣：2011年买过2次收发器）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+3 区域 中东/巴林；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）
 - **第一问（只问一个）**：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。
 - **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：中东非主攻区；Gmail；2011 后无互动
-- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1
+- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch））——默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 

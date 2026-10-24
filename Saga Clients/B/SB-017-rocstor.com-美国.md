@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Rocstor（存储与 IT 配件品牌：RAID 存储、机柜（SolidRack）、扩展坞、充电车、支架；表内「一部分贴牌的商业 PoE，其他周边产品」；KP David Ghadoushi（President，david@））；群发 5 次无回复。（调研 2026-10-21；表内兴趣：一部分贴牌的商业PoE 其他周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 5 次（2025-06-20 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：David, for the PoE switches you offer under the Rocstor label alongside SolidRack enclosures, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size moves more with your racks?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Rocstor（存储与 IT 配件品牌：RAID 存储、机柜（SolidRack）、扩展坞、充电车、支架；表内「一部分贴牌的商业 PoE，其他周边产品」；KP David Ghadoushi（President，david@））；群发 5 次无回复。
 - **对方真实需求（有据）**：贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：存储/配件为主业：PoE 为副线，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——贴标商用 PoE 为副线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Rocstor 标；机柜配套 24 口位 STC-424DGGPM-280W
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：David, for the PoE switches you offer under the Rocstor label alongside SolidRack enclosures, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, FCC/CE/RoHS — which size moves more with your racks?
 

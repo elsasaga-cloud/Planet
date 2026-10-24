@@ -122,7 +122,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-18 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
       "why": "在售 Zyxel XGS2220（24 GE + 4×10G）类 → 同口型 STC-424XGGM（$127.4 @20%）；PoE 位 STC-424XGGPM-280W / STC-28DGGPM；2.5G XMG-105 位 Saga 无标准型。已打开的主题（1/10 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-20) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

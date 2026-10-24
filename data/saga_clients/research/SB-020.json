@@ -1,157 +1,157 @@
 {
- "code": "SB-020",
- "name_official": "4Power S.r.l.",
- "researched_at": "2026-10-21",
- "website_status": "在线（4power.it；并档 Planet 渠道档案 PA-001）",
- "summary": "那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "公司自述",
-   "claim": "4Power 是 PLANET 意大利官方分销商，服务 system integrator 与安装商",
-   "quote": "4Power è distributore ufficiale PLANET Technology in Italia: switch PoE, industriali, WiFi, media converter e transceiver con supporto tecnico B2B … supportato da un team tecnico italiano che conosce bene le esigenze di system integrator e installatori.",
-   "url": "https://www.4power.it/planet-soluzioni-networking-avanzate/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述（结构化数据）",
-   "claim": "自有品牌 4Net / Eurogroup；B2B 分销 UPS、网络、布线、机柜",
-   "quote": "4Power S.R.L. è un'azienda italiana specializzata nella distribuzione B2B di gruppi di continuità UPS, soluzioni per il networking, cablaggio strutturato e armadi rack. Attraverso i marchi Eurogroup e 4Net ed in qualità di distributore ufficiale Planet Technology…",
-   "url": "http://www.4power.it/contatti/",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方（LinkedIn 公司页摘要）",
-   "claim": "规模 11–50 人，2003 年成立，Casandrino (Napoli)",
-   "quote": "Settore: Vendita all'ingrosso · Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Casandrino, Napoli · Data di fondazione: 2003",
-   "url": "https://it.linkedin.com/company/4power-srl",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "行业媒体",
-   "claim": "定位「专业分销商而非多品牌分销」，B2B 间接渠道",
-   "quote": "4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul \"business to business\"",
-   "url": "https://www.snewsonline.com/aziende/4power/",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [
-  {
-   "name": "Pasquale Pirozzi",
-   "title": "Management（第三方名录 cylex 口径，待官网/工商核实）；第三方名录级·待核",
-   "email": "",
-   "phone": "+39 081 8193441",
-   "source": "https://www.cylex-italia.it/casandrino/4power-srl-10110617.html"
-  }
- ],
- "grade_override": "A",
- "override_reason": "Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "4Power S.r.l.",
-  "founded": "",
-  "hq": "Casandrino (NA), 意大利",
+  "code": "SB-020",
+  "name_official": "4Power S.r.l.",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（4power.it；并档 Planet 渠道档案 PA-001）",
+  "summary": "那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）"
- },
- "business_lines": [
-  "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-24P4C",
-   "spec": "24×GE PoE+ + 4 上联；PLANET 为 4 Combo，Saga 为 4×1G/2.5G SFP",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://4power.it",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GS-5220-16S8CR",
-   "spec": "16×SFP + 8 Combo L2+；Saga 为 L3 档 $413 列表，报价按公式",
-   "saga": "STC-4168XGGCM",
-   "url": "https://4power.it",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-514PT",
-   "spec": "工业 4 PoE + 1 上联非管理，近似",
-   "saga": "STI-054GP",
-   "url": "https://4power.it",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "LRP-111U-KIT",
-   "spec": "Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无",
-   "saga": "—",
-   "url": "https://4power.it",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销",
-  "region": "意大利"
- },
- "signals": [
-  "自有品牌 4Net 已在做网络产品 → 贴牌/ODM 第二货源切入；PLANET 分销身份说明其接受台系价位与亚洲供货",
-  "4Net 贴牌试探（第二货源）：4Net 自有品牌 + PLANET 分销：同口数同 PoE 预算的 Marvell L2+ 机，中性包装贴 4Net 型号，价格低于 PLANET 进货价",
-  "样机并行测试：寄一台到 Casandrino 做 30 天并行测试（VLAN/ERPS/PoE 看门狗）"
- ],
- "risks": [
-  "4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 6 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）"
- },
- "email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 17 封 0 回、Opened 0；由 deepen.py 建档，无首轮调研）",
-   "type": "意大利 4Power S.r.l.（3 个收件人）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "—",
-   "lane": "IT/EU",
-   "cadence": "不主动",
-   "evidence": "邮件：去信 17 封（2025-01-29 → 2026-10-08），来信 0；Opened 标签 0 次；收件人 direzione@4power.it, g.chiaese@4power.it, info@4power.it"
-  },
-  "situation": "17 封 0 打开。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "—",
-   "channel": "—",
-   "action": "不主动",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "brands_seen": [
+    "PLANET"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "公司自述",
+      "claim": "4Power 是 PLANET 意大利官方分销商，服务 system integrator 与安装商",
+      "quote": "4Power è distributore ufficiale PLANET Technology in Italia: switch PoE, industriali, WiFi, media converter e transceiver con supporto tecnico B2B … supportato da un team tecnico italiano che conosce bene le esigenze di system integrator e installatori.",
+      "url": "https://www.4power.it/planet-soluzioni-networking-avanzate/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述（结构化数据）",
+      "claim": "自有品牌 4Net / Eurogroup；B2B 分销 UPS、网络、布线、机柜",
+      "quote": "4Power S.R.L. è un'azienda italiana specializzata nella distribuzione B2B di gruppi di continuità UPS, soluzioni per il networking, cablaggio strutturato e armadi rack. Attraverso i marchi Eurogroup e 4Net ed in qualità di distributore ufficiale Planet Technology…",
+      "url": "http://www.4power.it/contatti/",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方（LinkedIn 公司页摘要）",
+      "claim": "规模 11–50 人，2003 年成立，Casandrino (Napoli)",
+      "quote": "Settore: Vendita all'ingrosso · Dimensioni dell'azienda: 11-50 dipendenti · Sede principale: Casandrino, Napoli · Data di fondazione: 2003",
+      "url": "https://it.linkedin.com/company/4power-srl",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "行业媒体",
+      "claim": "定位「专业分销商而非多品牌分销」，B2B 间接渠道",
+      "quote": "4Power nasce nel 2003 fondata da un gruppo di tecnici, progettisti e commerciali … puntando sul ruolo di distributore specialista e non distributore multimarca. L'offerta 4Power è centrata sul \"business to business\"",
+      "url": "https://www.snewsonline.com/aziende/4power/",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Pasquale Pirozzi",
+      "title": "Management（第三方名录 cylex 口径，待官网/工商核实）；第三方名录级·待核",
+      "email": "",
+      "phone": "+39 081 8193441",
+      "source": "https://www.cylex-italia.it/casandrino/4power-srl-10110617.html"
+    }
+  ],
+  "grade_override": "A",
+  "override_reason": "Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "4Power S.r.l.",
+    "founded": "",
+    "hq": "Casandrino (NA), 意大利",
+    "size": "",
+    "other": "Planet 渠道档案 PA-001（2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json）；自有品牌：是（4Net 网络产品、Eurogroup UPS、4Net Cabling）；最大未知：4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）"
+  },
+  "business_lines": [
+    "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-24P4C",
+      "spec": "24×GE PoE+ + 4 上联；PLANET 为 4 Combo，Saga 为 4×1G/2.5G SFP",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://4power.it",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-5220-16S8CR",
+      "spec": "16×SFP + 8 Combo L2+；Saga 为 L3 档 $413 列表，报价按公式",
+      "saga": "STC-4168XGGCM",
+      "url": "https://4power.it",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-514PT",
+      "spec": "工业 4 PoE + 1 上联非管理，近似",
+      "saga": "STI-054GP",
+      "url": "https://4power.it",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "LRP-111U-KIT",
+      "spec": "Long Reach PoE 延长器：Saga 暂无对应，SmartByte 亦无",
+      "saga": "—",
+      "url": "https://4power.it",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销",
+    "region": "意大利"
+  },
+  "signals": [
+    "自有品牌 4Net 已在做网络产品 → 贴牌/ODM 第二货源切入；PLANET 分销身份说明其接受台系价位与亚洲供货",
+    "4Net 贴牌试探（第二货源）：4Net 自有品牌 + PLANET 分销：同口数同 PoE 预算的 Marvell L2+ 机，中性包装贴 4Net 型号，价格低于 PLANET 进货价",
+    "样机并行测试：寄一台到 Casandrino 做 30 天并行测试（VLAN/ERPS/PoE 看门狗）"
+  ],
+  "risks": [
+    "4Net 网络产品目前由谁贴牌（是否已有大陆供应商）；采购/产品负责人是谁（Pirozzi 身份待核）",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 6 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "对位其 PLANET 走量款 GS-4210-24P4C（24×GE PoE+ + 4 上联）；4Net 自有品牌最可能先贴 24 口 PoE 标品；分销 + 自有品牌双重身份：首触按集成/方案 25%；进入 4Net 贴牌与 UI 定制后再按 30% 议（沿用 Planet 档案 PA-001）；需求：24 口 PoE 标品走量（安装商）、8 口 PoE 小接入、工业 DIN PoE（IGS 系列同位）"
+  },
+  "email_hook": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 17 封 0 回、Opened 0；由 deepen.py 建档，无首轮调研）",
+      "type": "意大利 4Power S.r.l.（3 个收件人）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "—",
+      "lane": "IT/EU",
+      "cadence": "不主动",
+      "evidence": "邮件：去信 17 封（2025-01-29 → 2026-10-08），来信 0；Opened 标签 0 次；收件人 direzione@4power.it, g.chiaese@4power.it, info@4power.it"
+    },
+    "situation": "17 封 0 打开。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "—",
+      "channel": "—",
+      "action": "不主动",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

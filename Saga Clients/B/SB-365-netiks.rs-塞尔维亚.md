@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：塞尔维亚 Netiks（计算机网络与通信商店：光纤 361、自有「NT」光模块 SFP/SFP+/XFP/QSFP+/GPON、TP-Link Omada、MikroTik、Grandstream、PoE 设备页；表内「有 DCN 的」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：有DCN的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞尔维亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Next to the DCN and TP-Link switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch (pairs with your own NT SFP modules) from small lots, CE/RoHS — would a budget L2+ PoE model fit your range?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：塞尔维亚 Netiks（计算机网络与通信商店：光纤 361、自有「NT」光模块 SFP/SFP+/XFP/QSFP+/GPON、TP-Link Omada、MikroTik、Grandstream、PoE 设备页；表内「有 DCN 的」）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）
 - **断点 / 为什么停在这里**：小国（RS）非主动开发区；小商店量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2026-06-18 $16000（32 Port 400GB DC Switch））——在售 DCN / TP-Link → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；自有 NT 光模块可配 Saga SFP 口（Saga 不供模块，Q-32）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Next to the DCN and TP-Link switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch (pairs with your own NT SFP modules) from small lots, CE/RoHS — would a budget L2+ PoE model fit your range?
 
