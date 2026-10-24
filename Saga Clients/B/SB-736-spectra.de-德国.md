@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-736` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@spectra.de, juergen.rauscher@spectra.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）** ｜ 类型：工业 PC 制造商 + 自动化分销（德国，ORing 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；研究档 risks：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@spectra.de, juergen.rauscher@spectra.de；主题多为「10G Enterprise SFP Switch、16 Port Ethernet Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）** ｜ 类型：工业 PC 制造商 + 自动化分销（德国，ORing 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的」；研究档 risks：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：德国 Spectra GmbH（工业 PC 与自动化：面板 PC / Box PC / 19" 机架系统 / 工业板卡自产；在售 ORing 工业交换机 RGPS-R9244GP / IGPS-9084GP-LA / IGS-P9812GP-LV / IGS-9168GP、ICP DAS；表内「ICP DAS 的工业 FS；bypass ORing 的；工业 5/8 电口基本都是 ORing 的」；KP Juergen Rauscher（Managing Director，juergen.rauscher@））；群发 3 次无回复。
 - **对方真实需求（有据）**：需求为工业 5/8 电口（现 ORing）→ 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）、PoE STI-288GP；bypass 位 SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：现有 ORing / ICP DAS（台湾）供货稳定：需以价格/交期切入
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@spectra.de, spectra.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-23 | 去 | A/S 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 18 封 / 0 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-23（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | icpdas的工业FS；bypass Oring的；工业5 8电口 基本都是Oring的 | 表内备注 | `用户表` |
 

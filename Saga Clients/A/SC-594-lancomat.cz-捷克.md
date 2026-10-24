@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-594` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）** ｜ 类型：布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开） ｜ 筛子：— ｜ 停点：Q-33：Planet 渠道客户不碰 ｜ 复活：Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表 ｜ 通路：CZ/EU ｜ 节奏：不动 ｜ 证据：无邮件；研究档官网证据 + Planet 渠道档案 PA-018
+- **绑定等级：未触达（A/S 邮箱 0 封；来源为 Planet 渠道反查 PA-018——Q-33「不碰，标记」：PLANET 在售经销商）；Elsa 群发 BCC 已触达 2026-08-28「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，CZ 批次 To office@ergate.cz，0 回（第 73 批(o) Bcc 头核对 msg 1a04798efe1a50d8）** ｜ 类型：布拉格结构化布线/光纤/机柜分销（LANCOMAT；在售 7 款 PLANET 工业/PoE 交换机；总经理 Tomáš Jahoda 邮箱公开） ｜ 筛子：— ｜ 停点：Q-33：Planet 渠道客户不碰 ｜ 复活：Simon 解除 Q-33 后：以 PLANET 工业款对位 STI 系列的一页表 ｜ 通路：CZ/EU ｜ 节奏：不动 ｜ 证据：无邮件；研究档官网证据 + Planet 渠道档案 PA-018；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。
 - **对方真实需求（有据）**：PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。
 - **断点 / 为什么停在这里**：Q-33。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 PLANET IGS 系列（备用）**（20% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-08-28 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

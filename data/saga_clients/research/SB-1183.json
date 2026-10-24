@@ -1,108 +1,117 @@
 {
-  "code": "SB-1183",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（epygi.com，快照 2026-10-21）",
-  "summary": "美国 Epygi Technologies（VoIP 厂商：设计制造并全球分销 IP PBX（QX 系列）、VoIP 网关、SIP 会议服务器；辅助生活方案 EVIA；表内「工业 FS」）；表内未跟进。",
-  "type": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Axis"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Epygi Home - Epygi；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
-      "quote": "Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers.",
-      "url": "https://www.epygi.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Epygi 定位",
-      "quote": "Epygi Home - Epygi ; Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers",
-      "url": "https://www.epygi.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1183",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（epygi.com，快照 2026-10-21）",
+ "summary": "美国 Epygi Technologies（VoIP 厂商：设计制造并全球分销 IP PBX（QX 系列）、VoIP 网关、SIP 会议服务器；辅助生活方案 EVIA；表内「工业 FS」）；表内未跟进。",
+ "type": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Axis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Epygi Home - Epygi；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers.",
+   "url": "https://www.epygi.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 epygi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IP PBX / VoIP 网关（自有品牌 Epygi）"
-  ],
-  "channels": {
-    "role": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
-    "region": "美国",
-    "contact": "sales@epygi.com"
+  {
+   "kind": "官网快照",
+   "claim": "Epygi 定位",
+   "quote": "Epygi Home - Epygi ; Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers",
+   "url": "https://www.epygi.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers；站内 QX100 / QX200 / QX3000；kw integrator 7 / distributor 4 / oem 3",
-    "表内：工业 FS"
-  ],
-  "risks": [
-    "交换机非其品类（PBX 厂商），需求待核（表内仅「工业 FS」）；仅 sales@，未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "PBX 部署配套 PoE（可贴 Epygi 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM"
-  },
-  "email_hook": "For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（6 封来信 = 4 封自动回复 + 2 封 Simrex Frank（SA-002）抄送 sales@epygi.com 的误归属）",
-      "type": "美国 IP PBX 厂商（Epygi）",
-      "sieve": "0",
-      "stop": "误归属：真实回复人是 SA-002 Frank Neuperger",
-      "revive": "不动",
-      "lane": "US",
-      "cadence": "不动",
-      "evidence": "k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—",
-      "why": "已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 epygi.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "IP PBX / VoIP 网关（自有品牌 Epygi）"
+ ],
+ "channels": {
+  "role": "IP PBX 厂商（美国，配套交换机 OEM 采购）",
+  "region": "美国",
+  "contact": "sales@epygi.com"
+ },
+ "signals": [
+  "官网：Epygi Technologies is a VOIP company which designs, manufactures and globally distributes feature-rich IP PBXs, VOIP gateways and cost-saving SIP conference servers；站内 QX100 / QX200 / QX3000；kw integrator 7 / distributor 4 / oem 3",
+  "表内：工业 FS"
+ ],
+ "risks": [
+  "交换机非其品类（PBX 厂商），需求待核（表内仅「工业 FS」）；仅 sales@，未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "PBX 部署配套 PoE（可贴 Epygi 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口 STC-424DGGPM-280W（$145.7）；工业位 STI-288GPM"
+ },
+ "email_hook": "For the PoE switches your dealers deploy with QX PBXs and IP phones, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option) under the Epygi label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your dealer price list?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（6 封来信 = 4 封自动回复 + 2 封 Simrex Frank（SA-002）抄送 sales@epygi.com 的误归属）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）",
+   "type": "美国 IP PBX 厂商（Epygi）",
+   "sieve": "0",
+   "stop": "误归属：真实回复人是 SA-002 Frank Neuperger",
+   "revive": "不动",
+   "lane": "US",
+   "cadence": "不动",
+   "evidence": "k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—",
+   "why": "已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 epygi.com, sales@epygi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -42,12 +42,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1183` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（6 封来信 = 4 封自动回复 + 2 封 Simrex Frank（SA-002）抄送 sales@epygi.com 的误归属）** ｜ 类型：美国 IP PBX 厂商（Epygi） ｜ 筛子：0 ｜ 停点：误归属：真实回复人是 SA-002 Frank Neuperger ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）
+- **绑定等级：未触达（6 封来信 = 4 封自动回复 + 2 封 Simrex Frank（SA-002）抄送 sales@epygi.com 的误归属）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）** ｜ 类型：美国 IP PBX 厂商（Epygi） ｜ 筛子：0 ｜ 停点：误归属：真实回复人是 SA-002 Frank Neuperger ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=95d30a86d792cc0d / beb1989d2b8314a0（Frank，属 SA-002）；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-09-08 | 去 | Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 epygi.com, sales@epygi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -81,14 +81,14 @@
  "country_fix": "瑞典",
  "mail_review": {
   "binding": {
-   "level": "未触达（2 封瑞典语休假/病假自动回复；out 0 = S 邮箱发件未入库）",
+   "level": "未触达（2 封瑞典语休假/病假自动回复；out 0 = S 邮箱发件未入库）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
    "type": "瑞典安防安装商（Safeguard）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
    "revive": "不动",
    "lane": "SE",
    "cadence": "不动",
-   "evidence": "k=a8cc7ad0b68dabb1 / 3cb8e082df2ef4dd"
+   "evidence": "k=a8cc7ad0b68dabb1 / 3cb8e082df2ef4dd；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -107,7 +107,16 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@safeguard.se, safeguard.se, sara@safeguard.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"

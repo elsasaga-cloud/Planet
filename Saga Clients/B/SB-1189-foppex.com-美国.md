@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1189` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 跳线 SFP等 有planet的工业FS」）** ｜ 类型：光网络产品经销商（美国，Planet 工业 FS 在售） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：US 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「MC 跳线 SFP等 有planet的工业FS」；研究档 risks：官网快照空（经营状态待核）；仅 info@，未跟进过；SFP/跳线 Saga 不供
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 跳线 SFP等 有planet的工业FS」）** ｜ 类型：光网络产品经销商（美国，Planet 工业 FS 在售） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：US 主攻（四主） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「MC 跳线 SFP等 有planet的工业FS」；研究档 risks：官网快照空（经营状态待核）；仅 info@，未跟进过；SFP/跳线 Saga 不供；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：美国 Foppex（MC、跳线、SFP 等光网络产品商；表内「有 Planet 的工业 FS」；官网快照空）；表内未跟进。
 - **对方真实需求（有据）**：Planet 工业 FS 在售 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）作白牌预算位；SFP/跳线 Saga 不供
 - **断点 / 为什么停在这里**：官网快照空（经营状态待核）；仅 info@，未跟进过；SFP/跳线 Saga 不供
@@ -50,6 +50,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-08 | 去 | Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 foppex.com, info@foppex.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 跳线 SFP等 有planet的工业FS | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

@@ -1,127 +1,135 @@
 {
-  "code": "SB-394",
-  "name_official": "CDR Sp. z o.o.（cdr.pl，波兰）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（cdr.pl，快照 2026-10-21，波兰语）",
-  "summary": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "MikroTik",
-    "Ubiquiti",
-    "D-Link",
-    "Huawei",
-    "Teltonika",
-    "Cisco",
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "ISP 运营商设备分销商；品牌 MikroTik / Ubiquiti / D-Link / Huawei / Teltonika / Cisco / Dahua；biuro@cdr.pl / biuro@atte.pl",
-      "quote": "CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych… brands MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua",
-      "url": "https://cdr.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "有一些 switch；销售平台；质量一般",
-      "quote": "兴趣：有一些switch;销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Magdalena Milej",
-      "title": "（表内联系人）",
-      "email": "magdalena@cdr.pl",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-394",
+ "name_official": "CDR Sp. z o.o.（cdr.pl，波兰）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（cdr.pl，快照 2026-10-21，波兰语）",
+ "summary": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Ubiquiti",
+  "D-Link",
+  "Huawei",
+  "Teltonika",
+  "Cisco",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "ISP 运营商设备分销商；品牌 MikroTik / Ubiquiti / D-Link / Huawei / Teltonika / Cisco / Dahua；biuro@cdr.pl / biuro@atte.pl",
+   "quote": "CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych… brands MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua",
+   "url": "https://cdr.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "CDR Sp. z o.o.（待核）",
-    "founded": "",
-    "hq": "Poland",
-    "size": "中小型 ISP 渠道分销 / 网店",
-    "other": "关联 ATTE（atte.pl，波兰 PoE 配件品牌）"
-  },
-  "business_lines": [
-    "ISP 网络设备分销 / 网店"
-  ],
-  "channels": {
-    "role": "ISP 渠道分销商",
-    "region": "波兰"
-  },
-  "signals": [
-    "ISP 渠道 → 2 SFP / 4×10G 上联交换机走量",
-    "关联 ATTE 自有 PoE 配件品牌 → 贴牌习惯"
-  ],
-  "risks": [
-    "多品牌网店价格透明；群发无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 20,
-    "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。"
-  },
-  "email_hook": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 magdalena@cdr.pl, sales@cdr.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "PL 次级重点",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 15；用户表：「兴趣：有一些switch;销售平台」；研究档 risks：多品牌网店价格透明；群发无回复"
-    },
-    "situation": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
-    "need": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
-    "breakpoint": "多品牌网店价格透明；群发无回复",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）",
-      "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-        "why": "15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-06（15 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：有一些switch;销售平台",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "有一些 switch；销售平台；质量一般",
+   "quote": "兴趣：有一些switch;销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Magdalena Milej",
+   "title": "（表内联系人）",
+   "email": "magdalena@cdr.pl",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "CDR Sp. z o.o.（待核）",
+  "founded": "",
+  "hq": "Poland",
+  "size": "中小型 ISP 渠道分销 / 网店",
+  "other": "关联 ATTE（atte.pl，波兰 PoE 配件品牌）"
+ },
+ "business_lines": [
+  "ISP 网络设备分销 / 网店"
+ ],
+ "channels": {
+  "role": "ISP 渠道分销商",
+  "region": "波兰"
+ },
+ "signals": [
+  "ISP 渠道 → 2 SFP / 4×10G 上联交换机走量",
+  "关联 ATTE 自有 PoE 配件品牌 → 贴牌习惯"
+ ],
+ "risks": [
+  "多品牌网店价格透明；群发无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。"
+ },
+ "email_hook": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 15 封 2025→2026，无记录打开，0 回；收件 magdalena@cdr.pl, sales@cdr.pl；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "PL 次级重点",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 15；用户表：「兴趣：有一些switch;销售平台」；研究档 risks：多品牌网店价格透明；群发无回复；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。",
+  "need": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
+  "breakpoint": "多品牌网店价格透明；群发无回复",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "ISP 汇聚 24 GE + 4×10G SFP+ L2+ → STC-424XGGM（$127.4 @20%）；PoE 版 STC-424XGGPM-280W。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Magdalena, for your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@cdr.pl, cdr.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+    "why": "15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-06（15 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：有一些switch;销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

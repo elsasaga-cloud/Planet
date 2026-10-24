@@ -1,151 +1,159 @@
 {
-  "code": "SB-586",
-  "name_official": "UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线",
-  "summary": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 B 25%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "公司定位与规模",
-      "quote": "ENERGUS is one of Lithuania's largest engineering systems companies, specializing in electrical, low-current, process control, and automation systems. … Our team comprises over 150 skilled professionals.",
-      "url": "http://energus.eu/en/apie-mus/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记名录",
-      "claim": "法人、营收、员工",
-      "quote": "ENERGUS GROUP, UAB – Savanorių pr. 176C, LT-02301 Vilnius. Activity: indoor security systems. Company code 304419130, founded in 2016 In 2025, the sales revenue of ENERGUS GROUP, UAB amounted to 12 954 561 Eur … the number of employees in the company is 109.",
-      "url": "https://rekvizitai.vz.lt/en/company/energus_group/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "集团规模与成立",
-      "quote": "ENERGUS GROUP … Company size: 51-200 employees … Headquarters: Vilnius … Founded: 2010 … Specialties: Electrical Engineering, Automatization, Electrical Installations, Intelligent Energy Solutions",
-      "url": "https://www.linkedin.com/company/uab-energus",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "联系方式",
-      "quote": "Savanorių pr. 176C, LT-03154 Vilnius Tel.: +370 626 99994 Mail: uzklausos@energus.eu",
-      "url": "https://energysupport.lt/en/",
-      "date": "2022-10-10"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "KP 职务",
-      "quote": "Daniel Šuškevič — Projektų vadovas, E, PVA, ER, GSS, AS sistemų",
-      "url": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe",
-      "date": "2022-01-19"
-    },
-    {
-      "kind": "登记名录",
-      "claim": "KP 现任新公司董事（可能已离职）",
-      "quote": "Daniel Šuškevič, Direktorius — Smartion … Įmonės amžius: 1 m. 10 mėn.",
-      "url": "https://rekvizitai.vz.lt/imone/smartion/daniel_suskevic_direktorius/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "展会：switch，拿彩页",
-      "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Daniel Šuškevič",
-      "role": "Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职）",
-      "email": "info@energus.eu（用户表，通用箱）",
-      "phone": "—",
-      "source": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT）"
+ "code": "SB-586",
+ "name_official": "UAB Energus Group（Vilnius, 立陶宛；energus.eu / energus.lt；工程系统总包）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线",
+ "summary": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "公司定位与规模",
+   "quote": "ENERGUS is one of Lithuania's largest engineering systems companies, specializing in electrical, low-current, process control, and automation systems. … Our team comprises over 150 skilled professionals.",
+   "url": "http://energus.eu/en/apie-mus/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "UAB „Energus Group“（公司代码 304419130；VAT LT100011259419）",
-    "founded": "2016-11-02（集团）/ Energus 2010",
-    "hq": "Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu）",
-    "size": "150+ 专业人员（集团）；109 员工（Sodra，Energus Group UAB）；2025 营收 1,295 万欧元",
-    "other": "LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目"
+  {
+   "kind": "登记名录",
+   "claim": "法人、营收、员工",
+   "quote": "ENERGUS GROUP, UAB – Savanorių pr. 176C, LT-02301 Vilnius. Activity: indoor security systems. Company code 304419130, founded in 2016 In 2025, the sales revenue of ENERGUS GROUP, UAB amounted to 12 954 561 Eur … the number of employees in the company is 109.",
+   "url": "https://rekvizitai.vz.lt/en/company/energus_group/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电气与自动化工程总包（零售中心、工业）",
-    "弱电/安防/火灾报警系统（守界：火警主系统不供）",
-    "能效与 IoT 能源管理平台"
-  ],
-  "channels": {
-    "网站": "http://energus.eu/en/apie-mus/ · https://energus.lt/",
-    "电话": "+370 626 99994（公开）",
-    "邮箱（公开）": "uzklausos@energus.eu；info@energus.eu（用户表）"
+  {
+   "kind": "LinkedIn",
+   "claim": "集团规模与成立",
+   "quote": "ENERGUS GROUP … Company size: 51-200 employees … Headquarters: Vilnius … Founded: 2010 … Specialties: Electrical Engineering, Automatization, Electrical Installations, Intelligent Energy Solutions",
+   "url": "https://www.linkedin.com/company/uab-energus",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "工业自动化总包 → DIN 工业管理型交换机（环网）与 PoE 接入是项目标配；大集团但采购经理级可触达"
-  ],
-  "risks": [
-    "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
+  {
+   "kind": "官网",
+   "claim": "联系方式",
+   "quote": "Savanorių pr. 176C, LT-03154 Vilnius Tel.: +370 626 99994 Mail: uzklausos@energus.eu",
+   "url": "https://energysupport.lt/en/",
+   "date": "2022-10-10"
   },
-  "email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?",
-  "country_fix": "立陶宛",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "立陶宛（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」；研究档 risks：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进"
-    },
-    "situation": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 ",
-    "need": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
-    "breakpoint": "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → info@energus.eu（Daniel Šuškevič）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "LinkedIn",
+   "claim": "KP 职务",
+   "quote": "Daniel Šuškevič — Projektų vadovas, E, PVA, ER, GSS, AS sistemų",
+   "url": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe",
+   "date": "2022-01-19"
+  },
+  {
+   "kind": "登记名录",
+   "claim": "KP 现任新公司董事（可能已离职）",
+   "quote": "Daniel Šuškevič, Direktorius — Smartion … Įmonės amžius: 1 m. 10 mėn.",
+   "url": "https://rekvizitai.vz.lt/imone/smartion/daniel_suskevic_direktorius/",
+   "date": "2026-10-21"
+  },
+  {
+   "kind": "用户表",
+   "claim": "展会：switch，拿彩页",
+   "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Daniel Šuškevič",
+   "role": "Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职）",
+   "email": "info@energus.eu（用户表，通用箱）",
+   "phone": "—",
+   "source": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT）"
+ },
+ "company_facts": {
+  "legal_name": "UAB „Energus Group“（公司代码 304419130；VAT LT100011259419）",
+  "founded": "2016-11-02（集团）/ Energus 2010",
+  "hq": "Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu）",
+  "size": "150+ 专业人员（集团）；109 员工（Sodra，Energus Group UAB）；2025 营收 1,295 万欧元",
+  "other": "LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目"
+ },
+ "business_lines": [
+  "电气与自动化工程总包（零售中心、工业）",
+  "弱电/安防/火灾报警系统（守界：火警主系统不供）",
+  "能效与 IoT 能源管理平台"
+ ],
+ "channels": {
+  "网站": "http://energus.eu/en/apie-mus/ · https://energus.lt/",
+  "电话": "+370 626 99994（公开）",
+  "邮箱（公开）": "uzklausos@energus.eu；info@energus.eu（用户表）"
+ },
+ "signals": [
+  "工业自动化总包 → DIN 工业管理型交换机（环网）与 PoE 接入是项目标配；大集团但采购经理级可触达"
+ ],
+ "risks": [
+  "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）"
+ },
+ "email_hook": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?",
+ "country_fix": "立陶宛",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "立陶宛（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/」；研究档 risks：KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "立陶宛最大的工程系统承包集团之一 Energus Group（电气、弱电、过程控制与自动化；150+ 专业人员；Energus Group UAB 2016 年注册（Energus 2010 起），2025 营收 1,295 万欧元、Sodra 员工 109；Savanorių pr. 176C Vilnius；+370 626 99994；uzklausos@energus.eu；零售中心/工业设施电气与自动化、能效）。用户表（PL 群发表）记录：Daniel Suskevic——展会「switch，拿了彩页」；无跟进。国家更正：实为立陶宛（LinkedIn：Daniel Šuškevič，Energus 项目经理（电气/火灾报警/安防报警等系统）；名录显示其现为新公司 Smartion UAB 董事 → 可能已离开 Energus）。立陶宛属不主动开发的小国，但已有接触 → 被动跟进 ",
+  "need": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+  "breakpoint": "KP 可能已离开（Smartion）；小国不主动开发；大型总包偏品牌（Moxa/Hirschmann/Phoenix）；无后续跟进",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "工程 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ ERPS，$145.7）作自动化现场环网；非 PoE STI-280GM（$71.0）；楼宇 PoE STC-424DGGPM-280W（$140.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → info@energus.eu（Daniel Šuškevič）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+   "one_question": "Following up on the switch brochure you picked up at the fair: for your electrical/automation projects, a DIN-rail 8× GbE PoE+ + 2× SFP L2+ switch with ERPS ring, −40/+75 °C, at $145.7 EXW — is Daniel Šuškevič still the right contact for low-current projects, or should I write to a colleague?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 energus.eu, info@energus.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

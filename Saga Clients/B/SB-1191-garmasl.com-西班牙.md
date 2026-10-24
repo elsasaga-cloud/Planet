@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1191` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名
+- **绑定等级：未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）；Elsa 群发 BCC 已触达 2026-09-02「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，ES 批次 To info@garmasl.com，0 回（第 73 批(o) Bcc 头核对 msg 1a061e4cc4892abf）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：西班牙（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。
 - **对方真实需求（有据）**：Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。
 - **断点 / 为什么停在这里**：I/O 模块不供；无具名
@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-01-18 | 去 | S 群发 | Passive PoE Switch、Mini Industrial Switch | 7 封 / 1 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-01-18（7 去 / 0 来） | `gmail_digest` |
 | 2026-09-02 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ info@garmasl.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-02 | 去 | Elsa 群发（BCC；To info@garmasl.com，ES 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 garmasl.com, info@garmasl.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：redlion Switch I/O module | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

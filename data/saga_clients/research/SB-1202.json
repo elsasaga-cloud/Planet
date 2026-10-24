@@ -1,119 +1,127 @@
 {
-  "code": "SB-1202",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（intshop.pl，快照 2026-10-21）",
-  "summary": "波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。",
-  "type": "网络产品网店（波兰，站点建设中）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Site en construction",
-      "quote": "Site en construction",
-      "url": "http://www.noning.pl",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS MC SFP 周边产品 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS MC SFP 销售平台",
-      "quote": "工业FS MC SFP 周边产品 销售平台；质量一般",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1202",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（intshop.pl，快照 2026-10-21）",
+ "summary": "波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。",
+ "type": "网络产品网店（波兰，站点建设中）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Site en construction",
+   "quote": "Site en construction",
+   "url": "http://www.noning.pl",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS MC SFP 周边产品 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络产品网店 / 销售平台（波兰）"
-  ],
-  "channels": {
-    "role": "网络产品网店（波兰，站点建设中）",
-    "region": "波兰",
-    "contact": "info@noning.pl"
-  },
-  "signals": [
-    "快照：Site en construction（fr-FR）",
-    "表内：工业 FS MC SFP 周边产品 销售平台；质量一般"
-  ],
-  "risks": [
-    "官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供"
-  },
-  "email_hook": "For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（S 邮箱 5 封 2024，其中 2 封被打开，0 回；收件 info@noning.pl；被打开主题「10G fiber media converter、Passive poe switch」）",
-      "type": "网络产品网店（波兰，站点建设中）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "PL 次级重点",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@"
-    },
-    "situation": "波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。",
-    "need": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
-    "breakpoint": "官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter）",
-      "why": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "S 邮箱 → info@noning.pl",
-      "action": "短信一问（email_hook）",
-      "one_question": "For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-11-04",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "10G fiber media converter、Passive poe switch",
-        "why": "5 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-11-04（5 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS MC SFP 周边产品 销售平台",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — 10G fiber media converter",
-      "body": "Hello,\n\nWe have sent you a few mails on \"10G fiber media converter\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS MC SFP 销售平台",
+   "quote": "工业FS MC SFP 周边产品 销售平台；质量一般",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "波兰",
+  "other": "官网 intshop.pl，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络产品网店 / 销售平台（波兰）"
+ ],
+ "channels": {
+  "role": "网络产品网店（波兰，站点建设中）",
+  "region": "波兰",
+  "contact": "info@noning.pl"
+ },
+ "signals": [
+  "快照：Site en construction（fr-FR）",
+  "表内：工业 FS MC SFP 周边产品 销售平台；质量一般"
+ ],
+ "risks": [
+  "官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供"
+ },
+ "email_hook": "For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（S 邮箱 5 封 2024，其中 2 封被打开，0 回；收件 info@noning.pl；被打开主题「10G fiber media converter、Passive poe switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
+   "type": "网络产品网店（波兰，站点建设中）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "PL 次级重点",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 5，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 周边产品 销售平台」；研究档 risks：官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "波兰 intshop.pl / noning.pl（销售平台型网店：工业 FS、MC、SFP、周边产品；快照「Site en construction」；表内「质量一般」）；表内未跟进。",
+  "need": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
+  "breakpoint": "官网「Site en construction」（经营状态待核）；平台型卖家（低粘性）；表内「质量一般」；仅 info@",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-20 $65（10g fiber media converter）",
+   "why": "工业 FS/MC 位 → 工业 8 GE + 2 SFP STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供。已打开的主题（2/5 封有打开记录）：「10G fiber media converter」(2024-06-20)、「Passive poe switch」(2024-07-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → info@noning.pl",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+   "one_question": "For the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2024-11-04",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "10G fiber media converter、Passive poe switch",
+    "why": "5 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-11-04（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@noning.pl, noning.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS MC SFP 周边产品 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — 10G fiber media converter",
+   "body": "Hello,\n\nWe have sent you a few mails on \"10G fiber media converter\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — which industrial SKU do your customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

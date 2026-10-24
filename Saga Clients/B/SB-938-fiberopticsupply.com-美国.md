@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-938` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封自动回复）** ｜ 类型：美国光纤材料网店（Fiber Optic Supply） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过） ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=5fe850467aa7251b / f88a1716b68677f2
+- **绑定等级：未触达（2 封自动回复）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）** ｜ 类型：美国光纤材料网店（Fiber Optic Supply） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动；备用具名邮箱：bhogan@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过）；bturner@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2024-09-27，k=f88a1716b68677f2；从未发过）；gcharlton@fiberopticsupply.com（自动回复中出现的同司具名邮箱，2023-12-20，k=5fe850467aa7251b；从未发过） ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=5fe850467aa7251b / f88a1716b68677f2；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 2023-12-20 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 bhogan@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `5fe850467aa7251b` |
 | 2023-12-20 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `5fe850467aa7251b` |
 | 2024-09-27 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `f88a1716b68677f2` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

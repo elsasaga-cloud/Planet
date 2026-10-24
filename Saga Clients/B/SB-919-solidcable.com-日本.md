@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-919` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）** ｜ 类型：通信工程材料电商/批发（日本，MC 现 ONV） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：日本 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的MC 一些周边通讯设备 产品较少」；研究档 risks：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US+南亚/中东杂 批次 To support@solidcable.com，0 回（第 73 批(o) Bcc 头核对 msg 1a07ae282a6d4592）** ｜ 类型：通信工程材料电商/批发（日本，MC 现 ONV） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：日本 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的MC 一些周边通讯设备 产品较少」；研究档 risks：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-07 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ support@solidcable.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-07 | 去 | Elsa 群发（BCC；To support@solidcable.com，US+南亚/中东杂 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 solidcable.com, support@solidcable.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-01 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Mini Industrial PoE Switch | 21 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-10-01（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | ONV的MC 一些周边通讯设备 产品较少 | 表内备注 | `用户表` |
 

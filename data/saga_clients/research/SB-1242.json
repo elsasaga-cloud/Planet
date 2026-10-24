@@ -1,103 +1,111 @@
 {
-  "code": "SB-1242",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。",
-  "type": "安防分销商（美国，PoE 分销）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "CCTV相关的都卖 POE分销",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "CCTV 相关都卖 PoE 分销",
-      "quote": "CCTV相关的都卖 POE分销",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1242",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。",
+ "type": "安防分销商（美国，PoE 分销）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "CCTV相关的都卖 POE分销",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 silmarelectronics.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "CCTV / 安防产品分销（美国）"
-  ],
-  "channels": {
-    "role": "安防分销商（美国，PoE 分销）",
-    "region": "美国",
-    "contact": "marketing@silmarelectronics.com"
-  },
-  "signals": [
-    "表内：CCTV 相关的都卖 POE 分销",
-    "快照：http_error"
-  ],
-  "risks": [
-    "官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
-  },
-  "email_hook": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「CCTV相关的都卖 POE分销」）",
-      "type": "安防分销商（美国，PoE 分销）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "US 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「CCTV相关的都卖 POE分销」；研究档 risks：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）"
-    },
-    "situation": "美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。",
-    "need": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-    "breakpoint": "官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "CCTV相关的都卖 POE分销",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "CCTV 相关都卖 PoE 分销",
+   "quote": "CCTV相关的都卖 POE分销",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 silmarelectronics.com，语言 ?，快照状态 http_error；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "CCTV / 安防产品分销（美国）"
+ ],
+ "channels": {
+  "role": "安防分销商（美国，PoE 分销）",
+  "region": "美国",
+  "contact": "marketing@silmarelectronics.com"
+ },
+ "signals": [
+  "表内：CCTV 相关的都卖 POE 分销",
+  "快照：http_error"
+ ],
+ "risks": [
+  "官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「CCTV相关的都卖 POE分销」）",
+   "type": "安防分销商（美国，PoE 分销）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「CCTV相关的都卖 POE分销」；研究档 risks：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。",
+  "need": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+   "one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 marketing@silmarelectronics.com, silmarelectronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "CCTV相关的都卖 POE分销",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

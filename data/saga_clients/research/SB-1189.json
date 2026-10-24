@@ -67,14 +67,14 @@
  "email_hook": "Alongside the PLANET industrial switches you list, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters from single units, FCC/CE/RoHS, EXW USD — is there a budget industrial position your customers ask for below the branded lines?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 跳线 SFP等 有planet的工业FS」）",
+   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 跳线 SFP等 有planet的工业FS」）",
    "type": "光网络产品经销商（美国，Planet 工业 FS 在售）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "US 主攻（四主）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「MC 跳线 SFP等 有planet的工业FS」；研究档 risks：官网快照空（经营状态待核）；仅 info@，未跟进过；SFP/跳线 Saga 不供"
+   "evidence": "gmail_digest：out 0；用户表：「MC 跳线 SFP等 有planet的工业FS」；研究档 risks：官网快照空（经营状态待核）；仅 info@，未跟进过；SFP/跳线 Saga 不供；data/gmail_e/bcc_batches_2026.json"
   },
   "situation": "美国 Foppex（MC、跳线、SFP 等光网络产品商；表内「有 Planet 的工业 FS」；官网快照空）；表内未跟进。",
   "need": "Planet 工业 FS 在售 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）作白牌预算位；SFP/跳线 Saga 不供",
@@ -94,6 +94,14 @@
    "one_question": ""
   },
   "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 foppex.com, info@foppex.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-10-21",
     "dir": "用户表",
