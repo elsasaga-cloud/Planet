@@ -107,7 +107,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → sales@comtrol.co.uk",
+      "channel": "A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）",
       "action": "短信一问（email_hook）",
       "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },

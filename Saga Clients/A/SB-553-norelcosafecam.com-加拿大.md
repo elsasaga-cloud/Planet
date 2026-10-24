@@ -292,7 +292,7 @@ updated: 2026-10-24
 **主题**：One question — 24-port PoE / 10G L3
 
 ```text
-Hello,
+Hi, Norm,
 
 Someone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:
 

@@ -33322,7 +33322,7 @@
 ],
 "draft_en": {
 "subject": "Operating temperature — the industrial unit, not the commercial one",
-"body": "Hi,\n\nIn June we answered \"0 to 40 C\" to your temperature question, which was the commercial unit — the wrong product for DYMEC. The industrial line is -40 to +75 C:\n\n- STI-480XGGM: 8x GbE + 4x 1G/2.5G/10G SFP+, L2+, DIN-rail, dual DC 12-58 V — $163.2 USD EXW\n- 24x GbE PoE + 4x 10G SFP+, L3, industrial — $517 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n\nCopying Thom so this reaches the BlueWarrior side as well.\n\nOne question: for your ITS economy line (where Vitesse sits today), is TAA a must, or only for the federal SKUs? That decides whether we talk at all.\n\nThank you.\nAlan"
+"body": "Hi, Thom,\n\nIn June we answered \"0 to 40 C\" to your temperature question, which was the commercial unit — the wrong product for DYMEC. The industrial line is -40 to +75 C:\n\n- STI-480XGGM: 8x GbE + 4x 1G/2.5G/10G SFP+, L2+, DIN-rail, dual DC 12-58 V — $163.2 USD EXW\n- 24x GbE PoE + 4x 10G SFP+, L3, industrial — $517 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n\nCopying Thom so this reaches the BlueWarrior side as well.\n\nOne question: for your ITS economy line (where Vitesse sits today), is TAA a must, or only for the federal SKUs? That decides whether we talk at all.\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }
@@ -80739,7 +80739,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → sales@maxcomcorp.com",
+"channel": "A 邮箱 → steve.bradley@maxcomcorp.com（Steve Bradley；sales@ 与他并发 25 封都没回，这次只发他一人，不抄 sales@）",
 "action": "短信一问（email_hook）",
 "one_question": "Steve, for the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -139646,7 +139646,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → info@grep.sg",
+"channel": "A 邮箱 → robin@grep.sg（Robin Luo；只发他，不抄 info@）",
 "action": "短信一问（email_hook）",
 "one_question": "Robin, for the industrial switches in your projects, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -319229,7 +319229,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → commerciale@eter.it",
+"channel": "A 邮箱 → a.giacobazzi@eter.it（Andrea Giacobazzi；commerciale@ 是自动转办箱，按其自动回复指引直发 Andrea）",
 "action": "按其指引改发",
 "one_question": "Do your biometric readers get PoE from the installer, or do you supply the switch as well?"
 },
@@ -348322,7 +348322,7 @@
 {
 "name": "Randy Harris",
 "title": "Director, Data Center & Broadband Sales",
-"email": "dustin@dmsimfg.com",
+"email": "（用户表把 dustin@ 记在他名下——同址属 Dustin Hall，Randy 本人地址待核）",
 "phone": "",
 "source": "用户表"
 },
@@ -348399,7 +348399,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → sales@dmsimfg.com",
+"channel": "A 邮箱 → dustin@dmsimfg.com（Dustin Hall；Kelly 已退休，sales@ 只回自动信；evan@dmsimfg.com 备用）",
 "action": "换人",
 "one_question": "Do you resell switches alongside your DC hardware, or only source them for your own builds?"
 },
@@ -358801,7 +358801,7 @@
 ],
 "draft_en": {
 "subject": "One question — 24-port PoE / 10G L3",
-"body": "Hello,\n\nSomeone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hi, Norm,\n\nSomeone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -392266,7 +392266,7 @@
 ],
 "draft_en": {
 "subject": "Re: 10G media converter — price",
-"body": "Hello,\n\nYou asked \"Price pls\" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.\n\nOne question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+"body": "Hi, Sarwar,\n\nYou asked \"Price pls\" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.\n\nOne question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -437587,7 +437587,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → sales@comtrol.co.uk",
+"channel": "A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）",
 "action": "短信一问（email_hook）",
 "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
@@ -455143,7 +455143,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "One question — Marvell Industrial Alert System",
-"body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nReference price: DIN-rail 8-PoE (2 × bt 90 W) + 2 × 2.5G SFP L2+ managed industrial switch (STI-288DGGPM-2BT) $154 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+"body": "Hello Mr. DiPrima,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nReference price: DIN-rail 8-PoE (2 × bt 90 W) + 2 × 2.5G SFP L2+ managed industrial switch (STI-288DGGPM-2BT) $154 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -456912,7 +456912,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → info@smartsystems.jo",
+"channel": "A 邮箱 → motaz@smartsystems.jo（Motaz Alsharif；只发他，不抄 info@）",
 "action": "短信一问（email_hook）",
 "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity)."
 },

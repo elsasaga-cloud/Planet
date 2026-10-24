@@ -237,7 +237,7 @@ updated: 2026-10-24
 **主题**：Re: 10G media converter — price
 
 ```text
-Hello,
+Hi, Sarwar,
 
 You asked "Price pls" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.
 

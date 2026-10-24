@@ -284,7 +284,7 @@ updated: 2026-10-24
 **主题**：Operating temperature — the industrial unit, not the commercial one
 
 ```text
-Hi,
+Hi, Thom,
 
 In June we answered "0 to 40 C" to your temperature question, which was the commercial unit — the wrong product for DYMEC. The industrial line is -40 to +75 C:
 

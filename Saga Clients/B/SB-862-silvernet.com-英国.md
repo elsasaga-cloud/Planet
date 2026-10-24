@@ -270,7 +270,7 @@ updated: 2026-10-24
 **主题**：One question — Marvell Industrial Alert System
 
 ```text
-Hello,
+Hello Mr. DiPrima,
 
 You opened our mail on "Marvell Industrial Alert System" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 

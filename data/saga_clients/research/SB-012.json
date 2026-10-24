@@ -114,7 +114,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → sales@maxcomcorp.com",
+      "channel": "A 邮箱 → steve.bradley@maxcomcorp.com（Steve Bradley；sales@ 与他并发 25 封都没回，这次只发他一人，不抄 sales@）",
       "action": "短信一问（email_hook）",
       "one_question": "Steve, for the industrial switches and media converters you sell under the Maxcom label next to your fibre transport range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do you reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },

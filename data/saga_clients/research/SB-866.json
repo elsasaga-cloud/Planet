@@ -90,7 +90,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → info@smartsystems.jo",
+      "channel": "A 邮箱 → motaz@smartsystems.jo（Motaz Alsharif；只发他，不抄 info@）",
       "action": "短信一问（email_hook）",
       "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity)."
     },

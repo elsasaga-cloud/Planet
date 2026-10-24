@@ -105,7 +105,7 @@
     },
     "next_move": {
       "when": "2026-11",
-      "channel": "A 邮箱 → commerciale@eter.it",
+      "channel": "A 邮箱 → a.giacobazzi@eter.it（Andrea Giacobazzi；commerciale@ 是自动转办箱，按其自动回复指引直发 Andrea）",
       "action": "按其指引改发",
       "one_question": "Do your biometric readers get PoE from the installer, or do you supply the switch as well?"
     },
