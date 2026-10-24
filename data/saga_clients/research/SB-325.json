@@ -80,10 +80,10 @@
   "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达→拒（2024-07-29「sorry, no need」）",
+      "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）",
       "type": "马来西亚 IT 租赁商（TH-IT）",
       "sieve": "1",
-      "stop": "明确不需要",
+      "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
       "revive": "不动",
       "lane": "MY",
       "cadence": "不动",
@@ -130,6 +130,14 @@
         "quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
         "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
         "k": "8ceb773d69d13c9f"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "来",
+        "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
+        "quote": "Thanks, we don't need this currently.",
+        "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
+        "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
       }
     ],
     "proof_gaps": [],

@@ -1,115 +1,123 @@
 {
- "code": "SB-1139",
- "name_official": "Tubal Egypt（开罗；联系人 Daniel Adel Harvey，董事）",
- "researched_at": "2026-10-21",
- "website_status": "在线（tubal-egypt.com = 铝管制造商官网；网络业务未见于站点）",
- "summary": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "站点为埃及铝管公司（可折叠铝管），地址 18 Ashmoun St., Heliopolis, Cairo",
-   "quote": "We are Egyptian Aluminum Tubes Company 'Tubal Egypt', in the production of collapsible Aluminium Tubes… 18 Ashmoun St., Heliopolis, Cairo",
-   "url": "https://tubal-egypt.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要处理 POE；对 2 光 10 电详细讲解比较懂；问 alarm port 能外接 EMS 吗；SKD 可以吗，外壳和板子分开提供，回复可以，客户说容易清关；Board member good",
-   "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Daniel Adel Harvey",
-   "title": "Board Member",
-   "email": "info@tubal-egypt.com",
-   "phone": "+20 122 787 9183",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：主体待核 + SKD 意向）"
- },
- "company_facts": {
-  "legal_name": "Tubal Egypt（Egyptian Aluminum Tubes Co.）",
-  "founded": "（待核）",
-  "hq": "18 Ashmoun St., Heliopolis, Cairo 11341, Egypt",
-  "size": "中型制造（铝管）；网络业务规模待核",
-  "other": "SKD 进口意向（清关）"
- },
- "business_lines": [
-  "铝管制造（主业）",
-  "PoE 网络设备进口 / 组装（新业务，待核）"
- ],
- "channels": {
-  "role": "进口 / SKD 组装（OEM 口径）",
-  "region": "埃及"
- },
- "signals": [
-  "SKD 分开供货意向 + 懂产品 + 董事级联系人 → OEM 30% 可成",
-  "问告警口接 EMS → 工业管理型需求"
- ],
- "risks": [
-  "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
-  "网络业务主体待核（官网为铝管）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。"
- },
- "email_hook": "Daniel, on your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "埃及 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证"
-  },
-  "situation": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
-  "need": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
-  "breakpoint": "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1139",
+  "name_official": "Tubal Egypt（开罗；联系人 Daniel Adel Harvey，董事）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tubal-egypt.com = 铝管制造商官网；网络业务未见于站点）",
+  "summary": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "站点为埃及铝管公司（可折叠铝管），地址 18 Ashmoun St., Heliopolis, Cairo",
+      "quote": "We are Egyptian Aluminum Tubes Company 'Tubal Egypt', in the production of collapsible Aluminium Tubes… 18 Ashmoun St., Heliopolis, Cairo",
+      "url": "https://tubal-egypt.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要处理 POE；对 2 光 10 电详细讲解比较懂；问 alarm port 能外接 EMS 吗；SKD 可以吗，外壳和板子分开提供，回复可以，客户说容易清关；Board member good",
+      "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Daniel Adel Harvey",
+      "title": "Board Member",
+      "email": "info@tubal-egypt.com",
+      "phone": "+20 122 787 9183",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照：主体待核 + SKD 意向）"
+  },
+  "company_facts": {
+    "legal_name": "Tubal Egypt（Egyptian Aluminum Tubes Co.）",
+    "founded": "（待核）",
+    "hq": "18 Ashmoun St., Heliopolis, Cairo 11341, Egypt",
+    "size": "中型制造（铝管）；网络业务规模待核",
+    "other": "SKD 进口意向（清关）"
+  },
+  "business_lines": [
+    "铝管制造（主业）",
+    "PoE 网络设备进口 / 组装（新业务，待核）"
+  ],
+  "channels": {
+    "role": "进口 / SKD 组装（OEM 口径）",
+    "region": "埃及"
+  },
+  "signals": [
+    "SKD 分开供货意向 + 懂产品 + 董事级联系人 → OEM 30% 可成",
+    "问告警口接 EMS → 工业管理型需求"
+  ],
+  "risks": [
+    "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
+    "网络业务主体待核（官网为铝管）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。"
+  },
+  "email_hook": "Daniel, on your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）；但 Elsa 邮箱 2026-08/09 已群发 1 封（无回）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "埃及 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证"
+    },
+    "situation": "埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。",
+    "need": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
+    "breakpoint": "埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@tubal-egypt.com（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

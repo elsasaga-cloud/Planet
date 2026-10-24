@@ -1,126 +1,134 @@
 {
- "code": "SB-1089",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（steren.com.mx，快照 2026-10-21）",
- "summary": "墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。",
- "type": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
- "size": "",
- "brands_seen": [
-  "HRUI"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Steren La Mejor Tienda de Electrónica en México；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Compra en línea Lo Mejor en Electrónica | Compras Seguras | Envío Rápido y Seguro | Envíos Gratis a Partir de $499",
-   "url": "https://www.steren.com.mx/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "用的洪瑞的 商业POE 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Steren 首页",
-   "quote": "Steren La Mejor Tienda de Electrónica en México ; Seguridad 2026 ; Cuida tu hogar desde cualquier lugar ; CCTV-305",
-   "url": "https://www.steren.com.mx/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "用 HRUI 的；商业 PoE 自己的型号",
-   "quote": "用的洪瑞的 商业POE 自己的型号",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "墨西哥",
-  "other": "官网 steren.com.mx，语言 es，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "电子产品零售连锁（自有品牌 Steren）"
- ],
- "channels": {
-  "role": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
-  "region": "墨西哥",
-  "contact": "info@steren.com.mx"
- },
- "signals": [
-  "官网：Steren La Mejor Tienda de Electrónica en México；首页 Seguridad 2026 ; Cuida tu hogar desde cualquier lugar；站内 CCTV-305 / CCTV-318；kw cable 537 / cctv 161",
-  "表内：用的洪瑞的；商业 PoE 自己的型号"
- ],
- "risks": [
-  "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "体量大（连锁零售，集中采购 + NOM 认证）；非主攻区（T5）；1 次跟进无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位"
- },
- "email_hook": "For the Steren-branded PoE switch range, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, FCC/CE/RoHS — would a managed step-up fit your CCTV category for small-business customers?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 12 封 2024→2025，无记录打开，0 回；收件 info@steren.com.mx；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
-   "type": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "墨西哥 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 12；用户表：「用的洪瑞的 商业POE 自己的型号」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
-  },
-  "situation": "墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。",
-  "need": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位",
-  "breakpoint": "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "用的洪瑞的 商业POE 自己的型号",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-    "why": "12 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1089",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（steren.com.mx，快照 2026-10-21）",
+  "summary": "墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。",
+  "type": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
+  "size": "",
+  "brands_seen": [
+    "HRUI"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Steren La Mejor Tienda de Electrónica en México；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Compra en línea Lo Mejor en Electrónica | Compras Seguras | Envío Rápido y Seguro | Envíos Gratis a Partir de $499",
+      "url": "https://www.steren.com.mx/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "用的洪瑞的 商业POE 自己的型号",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Steren 首页",
+      "quote": "Steren La Mejor Tienda de Electrónica en México ; Seguridad 2026 ; Cuida tu hogar desde cualquier lugar ; CCTV-305",
+      "url": "https://www.steren.com.mx/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "用 HRUI 的；商业 PoE 自己的型号",
+      "quote": "用的洪瑞的 商业POE 自己的型号",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "墨西哥",
+    "other": "官网 steren.com.mx，语言 es，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "电子产品零售连锁（自有品牌 Steren）"
+  ],
+  "channels": {
+    "role": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
+    "region": "墨西哥",
+    "contact": "info@steren.com.mx"
+  },
+  "signals": [
+    "官网：Steren La Mejor Tienda de Electrónica en México；首页 Seguridad 2026 ; Cuida tu hogar desde cualquier lugar；站内 CCTV-305 / CCTV-318；kw cable 537 / cctv 161",
+    "表内：用的洪瑞的；商业 PoE 自己的型号"
+  ],
+  "risks": [
+    "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "体量大（连锁零售，集中采购 + NOM 认证）；非主攻区（T5）；1 次跟进无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位"
+  },
+  "email_hook": "For the Steren-branded PoE switch range, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, FCC/CE/RoHS — would a managed step-up fit your CCTV category for small-business customers?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 12 封 2024→2025，无记录打开，0 回；收件 info@steren.com.mx；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
+      "type": "墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "墨西哥 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 12；用户表：「用的洪瑞的 商业POE 自己的型号」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+    },
+    "situation": "墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。",
+    "need": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位",
+    "breakpoint": "现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、90W PoE Managed Switch",
+        "why": "12 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-09-15",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@steren.com.mx（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "用的洪瑞的 商业POE 自己的型号",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

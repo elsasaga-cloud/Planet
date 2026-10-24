@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1275` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）；gmail_e 2025-02-28 回信 + Elsa 2025-04-08 再回
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -55,6 +55,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-05-24 | 来 | powerlogic1965@gmail.com | hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `53639b11bc8d96b5` |
 | 2024-05-25 | 去 | Saga（Simon） | Hi, Waseem, Please see below link. *https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link* <https://drive.google.com/drive/folders/10pI-PIGftC6UVEngjg_cLlC8-X14fA9A?usp=drive_link> In the *PROFILE*, there are some download links(on page 13). It contains FULL informa… | Saga 实质答复原文（主题「Re: Industrial Ethernet Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `e8ccb44bae99d13f` |
+| 2025-02-28 | 来 | Wasim Zafar / Waseem Shah（FM Electric Company，巴基斯坦；powerlogic1965@gmail.com） | Right now no need sample. We requested to you if you want we promote your product in Pakistan it's owned for us. First of all please guide us your product function and how to used it. Then we introduced your product to our clients | Elsa 邮箱 2025-02-28「Mini Industrial PoE Switch」群发的回信：不是买家，是想做巴基斯坦推广/代理、要先学产品；Elsa 04-08 再回（正文未入库）。与 2024-05「send me your website」一致 = 两次都停在「给我资料」。用户表「有回复·跟进中」的来源就是这两封；没有任何询价/数量 → 维持不动，除非他报出一个具体项目 | `gmail_e index_replied 2025-02-28 / 2025-04-08` |
 
 ## 基本事实（事实/推断/假设分层）
 

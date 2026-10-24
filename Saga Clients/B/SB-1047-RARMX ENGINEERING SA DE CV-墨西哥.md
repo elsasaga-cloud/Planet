@@ -52,8 +52,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单 | 表内备注 | `用户表` |
 | 2025 | 去 | A 群发 | 16 Port Ethernet Switch、Marvell Alleycat5 Solution | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2026-09-15 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@rarmx.com.mx（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-10-21 | 用户表 | Simon | 5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
 

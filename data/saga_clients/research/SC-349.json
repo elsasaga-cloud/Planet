@@ -1,137 +1,145 @@
 {
- "code": "SC-349",
- "name_official": "Obmac Systems",
- "website_status": "",
- "summary": "",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240117003（CI，2024-01-17）：STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC 共 265 台，USD 9350.0；采购 HRUI、SmartByte RMB 33800.0；Simon 成本表利润 RMB 23118.35",
-   "quote": "",
-   "url": "PI.zip:3  赞比亚 Pythias gg/CI.xls",
-   "date": "2024-01-17"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35",
-   "quote": "",
-   "url": "PI.zip:3  赞比亚 Pythias gg",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "官网：2007-02-13 成立，多学科公司，电信/电气/机械项目与采购，从概念设计到交付；客户 Chicken Inn、Pizza Inn、Anfield International、Zambia Breweries、Pizza Hut、Kazungula Boarder Post",
-   "quote": "The company was founded on February 13th 2007. Obmac Systems multi- disciplinary company … Chicken Inn Pizza Inn Anfield International Zambia Breweries Pizza Hut Kazungula Boarder Post",
-   "url": "http://obmacsystems.com/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "LinkedIn Francis Chamyolo（OBMAC Systems，Lusaka，1K followers）：与 Valinor Investment Limited 合作、SANY International (Zambia) 施工的 11 MWp（10 MWac）光伏电站，年发电 22 GWh",
-   "quote": "We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)",
-   "url": "https://www.linkedin.com/in/francis-chamyolo-3903ba8b/",
-   "date": "2026-10-23"
-  }
- ],
- "kp": [
-  {
-   "name": "Pythias Kachepa",
-   "role": "单据联系人",
-   "email": "pythiask@gmail.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "",
- "researched_at": "2026-10-22",
- "deal_pi": {
-  "folder": "3  赞比亚 Pythias gg",
-  "simon_label": "gg",
-  "pay": "",
-  "bind": "",
-  "buyer": "Obmac Systems",
-  "orders": 1,
-  "first": "2024-01-17",
-  "last": "2024-01-17",
-  "usd": 9350.0,
-  "rmb": 0.0,
-  "profit_rmb": 23118.35,
-  "models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
- },
- "grade_override": "B",
- "override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B",
- "channels": {
-  "公开动态平台（监控中，T29-U18）": "官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061"
- },
- "signals": [
-  "2026-10-23 核查：Obmac Systems（2007-02-13 成立）= 卢萨卡 ICT+机电工程承包（客户 Chicken Inn / Pizza Inn / Zambia Breweries / Kazungula 口岸），2026 起与 Valinor Investment 做 11 MWp 光伏电站——重心转向能源 EPC；网络设备为项目配套、低频；gg 维持，只跟 LinkedIn"
- ],
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SC-349",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "deep": {
-  "done_at": "2026-10-23",
-  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- },
- "mail_review": {
-  "binding": {
-   "level": "轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）",
-   "type": "卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套",
-   "sieve": "5（T/T 全款，FedEx 空运 120kg 到赞比亚）",
-   "stop": "项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回",
-   "revive": "其下一个 ICT 项目；只跟 LinkedIn（研究档）",
-   "lane": "ZM 非主攻",
-   "cadence": "半年一句话；不群发",
-   "evidence": "PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回"
-  },
-  "situation": "2024-01 一张 265 件的项目单——15 台 L3 24 光口汇聚（HRUI 线 STC-4248XGGCM）+ 50 台 4 口工业 PoE + 200 只工业 SFP——是 PI 包里件数最多、利润额最高的一单（利润 RMB 23,118）。之后两年没有第二单，Simon 标「gg」。2025 年 Alan 对其私人 Gmail 发了 9 封群发，零互动。研究档查到公司重心转向光伏 EPC。",
-  "need": "项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。",
-  "breakpoint": "项目型客户没有项目；群发对私人 Gmail 无效。",
-  "saga_now": {
-   "p1": "不推；若其 ICT 项目再来，按 2024 清单复购",
-   "tier": 25,
-   "price": "按主表",
-   "why": "已成交一单大单",
-   "repeat": [],
-   "gaps": [
-    "2024 设备运行反馈（从未问）"
-   ]
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "LinkedIn / WhatsApp（若有）",
-   "action": "一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机",
-   "one_question": "Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?"
-  },
-  "facts": [
-   {
-    "date": "2024-01-17",
-    "dir": "PI",
-    "who": "Simon → Pythias Kachepa",
-    "quote": "STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance",
-    "why": "成交",
-    "k": "PI STSC20240117003"
-   },
-   {
-    "date": "2025-10-10",
-    "dir": "去",
-    "who": "Alan（群发）",
-    "quote": "10G Enterprise SFP Switch…",
-    "why": "9 封群发的最后一封，0 回",
-    "k": "ec7dd11fac1e257c"
-   }
+  "code": "SC-349",
+  "name_official": "Obmac Systems",
+  "website_status": "",
+  "summary": "",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240117003（CI，2024-01-17）：STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC 共 265 台，USD 9350.0；采购 HRUI、SmartByte RMB 33800.0；Simon 成本表利润 RMB 23118.35",
+      "quote": "",
+      "url": "PI.zip:3  赞比亚 Pythias gg/CI.xls",
+      "date": "2024-01-17"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「赞比亚 Pythias gg」：Simon 标签 gg；单号 1 个，2024-01-17 → 2024-01-17，销售 USD 9350.0 / RMB 0，Simon 成本统计利润合计 RMB 23118.35",
+      "quote": "",
+      "url": "PI.zip:3  赞比亚 Pythias gg",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "官网：2007-02-13 成立，多学科公司，电信/电气/机械项目与采购，从概念设计到交付；客户 Chicken Inn、Pizza Inn、Anfield International、Zambia Breweries、Pizza Hut、Kazungula Boarder Post",
+      "quote": "The company was founded on February 13th 2007. Obmac Systems multi- disciplinary company … Chicken Inn Pizza Inn Anfield International Zambia Breweries Pizza Hut Kazungula Boarder Post",
+      "url": "http://obmacsystems.com/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "LinkedIn Francis Chamyolo（OBMAC Systems，Lusaka，1K followers）：与 Valinor Investment Limited 合作、SANY International (Zambia) 施工的 11 MWp（10 MWac）光伏电站，年发电 22 GWh",
+      "quote": "We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)",
+      "url": "https://www.linkedin.com/in/francis-chamyolo-3903ba8b/",
+      "date": "2026-10-23"
+    }
   ],
-  "proof_gaps": [
-   "成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp"
+  "kp": [
+    {
+      "name": "Pythias Kachepa",
+      "role": "单据联系人",
+      "email": "pythiask@gmail.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "notes": "",
+  "researched_at": "2026-10-22",
+  "deal_pi": {
+    "folder": "3  赞比亚 Pythias gg",
+    "simon_label": "gg",
+    "pay": "",
+    "bind": "",
+    "buyer": "Obmac Systems",
+    "orders": 1,
+    "first": "2024-01-17",
+    "last": "2024-01-17",
+    "usd": 9350.0,
+    "rmb": 0.0,
+    "profit_rmb": 23118.35,
+    "models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
+  },
+  "grade_override": "B",
+  "override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B",
+  "channels": {
+    "公开动态平台（监控中，T29-U18）": "官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061"
+  },
+  "signals": [
+    "2026-10-23 核查：Obmac Systems（2007-02-13 成立）= 卢萨卡 ICT+机电工程承包（客户 Chicken Inn / Pizza Inn / Zambia Breweries / Kazungula 口岸），2026 起与 Valinor Investment 做 11 MWp 光伏电站——重心转向能源 EPC；网络设备为项目配套、低频；gg 维持，只跟 LinkedIn"
+  ],
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [],
+    "web_watch_targets": "scripts/web_watch/targets.json#SC-349",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
+  },
+  "deep": {
+    "done_at": "2026-10-23",
+    "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+  },
+  "mail_review": {
+    "binding": {
+      "level": "轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）",
+      "type": "卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套",
+      "sieve": "5（T/T 全款，FedEx 空运 120kg 到赞比亚）",
+      "stop": "项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回",
+      "revive": "其下一个 ICT 项目；只跟 LinkedIn（研究档）",
+      "lane": "ZM 非主攻",
+      "cadence": "半年一句话；不群发",
+      "evidence": "PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回"
+    },
+    "situation": "2024-01 一张 265 件的项目单——15 台 L3 24 光口汇聚（HRUI 线 STC-4248XGGCM）+ 50 台 4 口工业 PoE + 200 只工业 SFP——是 PI 包里件数最多、利润额最高的一单（利润 RMB 23,118）。之后两年没有第二单，Simon 标「gg」。2025 年 Alan 对其私人 Gmail 发了 9 封群发，零互动。研究档查到公司重心转向光伏 EPC。",
+    "need": "项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。",
+    "breakpoint": "项目型客户没有项目；群发对私人 Gmail 无效。",
+    "saga_now": {
+      "p1": "不推；若其 ICT 项目再来，按 2024 清单复购",
+      "tier": 25,
+      "price": "按主表",
+      "why": "已成交一单大单",
+      "repeat": [],
+      "gaps": [
+        "2024 设备运行反馈（从未问）"
+      ]
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "LinkedIn / WhatsApp（若有）",
+      "action": "一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机",
+      "one_question": "Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?"
+    },
+    "facts": [
+      {
+        "date": "2024-01-17",
+        "dir": "PI",
+        "who": "Simon → Pythias Kachepa",
+        "quote": "STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance",
+        "why": "成交",
+        "k": "PI STSC20240117003"
+      },
+      {
+        "date": "2025-10-10",
+        "dir": "去",
+        "who": "Alan（群发）",
+        "quote": "10G Enterprise SFP Switch…",
+        "why": "9 封群发的最后一封，0 回",
+        "k": "ec7dd11fac1e257c"
+      },
+      {
+        "date": "2026-09-14",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ pythiask@gmail.com（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      }
+    ],
+    "proof_gaps": [
+      "成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

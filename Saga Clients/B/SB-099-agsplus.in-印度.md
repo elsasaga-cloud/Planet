@@ -54,9 +54,10 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price | 表内备注 | `用户表` |
 | 2024 | 去 | S 群发 | 10G media converter、48 Port PoE Managed Switch | 12 封 / 3 次打开 / 0 回 | `gmail_digest` |
 | 2025-06-04 | 来 | Vinod Tyagi（AGS Plus） | Share the price. What's App.. Number +91 98105 61477 | 要价 + 给 WhatsApp = 想谈；但本户标 Q-33（供应商渠道） | `gmail_e` |
+| 2026-09-08 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ gunjan@xexagon.co.in（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Q-33 标记依据待核（供应商渠道客户不碰）；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「读而不回→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

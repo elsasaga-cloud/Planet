@@ -58,6 +58,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-01-17 | PI | Simon → Pythias Kachepa | STC-4248XGGCM 15×295 = 4,425；STI-244GP 50×36 = 1,800；STI-SFP1G-SMD20-1310LC 200×7.5 = 1,500；Bank 25；Freight 1,600 (FedEx Air ~120kg)；TOTAL 265 / 9,350 USD；T/T in advance | 成交 | `PI STSC20240117003` |
 | 2025-10-10 | 去 | Alan（群发） | 10G Enterprise SFP Switch… | 9 封群发的最后一封，0 回 | `ec7dd11fac1e257c` |
+| 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ pythiask@gmail.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp
 
