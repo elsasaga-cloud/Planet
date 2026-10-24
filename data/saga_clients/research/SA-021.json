@@ -107,5 +107,55 @@
   "tier": 30,
   "why": "APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档"
  },
- "email_hook": "Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint."
+ "email_hook": "Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2024-08 要公司资料与 2.5G 机型报价 → 50 / 65 USD → 无下文；2025-07 一句「Thanks」）",
+   "type": "台系无线网络品牌（PoE/2.5G 交换机外采）——OEM 买家而非同业（INH 台湾厂商条款的例外说明已在档）",
+   "sieve": "2",
+   "stop": "2024-08-15 报 STC-18XGDGE 50 USD / STC-108XGDGP 65 USD（HRUI/Realtek 线 2.5G）后无回；Johnson 要「company information」—— 身份核验",
+   "revive": "其 2.5G 产品线补 SKU；台湾客户非主攻",
+   "lane": "TW",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15",
+   "evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647"
+  },
+  "situation": "Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。",
+  "need": "2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。",
+  "breakpoint": "身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。",
+  "saga_now": {
+   "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
+   "tier": 30,
+   "price": "按 30% 自有标档复核对外价",
+   "why": "只保活",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → johnson@",
+   "action": "一句话问 2.5G 线是否仍外采",
+   "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?"
+  },
+  "facts": [
+   {
+    "date": "2024-08-15",
+    "dir": "来",
+    "who": "Johnson（ALFA Network）",
+    "quote": "Please provide your company information. And what's the price for non-PoE and PoE model.",
+    "why": "核验 + 询价",
+    "k": "a3c986b6ffa372aa"
+   },
+   {
+    "date": "2024-08-15",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile",
+    "why": "报价",
+    "k": "1d7b74c6c5e4034f"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

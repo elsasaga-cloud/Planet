@@ -87,5 +87,55 @@
   "tier": 20,
   "why": "其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。"
  },
- "email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage."
+ "email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（「ok i need sample」→ Simon 说明付样 + 报 STC-424DGGPM-280W 150 USD → 无下文）",
+   "type": "韩国半导体安全芯片公司（非本行业）——研究档：不再主动",
+   "sieve": "2",
+   "stop": "付样说明后无回",
+   "revive": "对方主动",
+   "lane": "KR",
+   "cadence": "2025-01 → 2026-03 去信 21 封；最后来信 2025-01-31",
+   "evidence": "k=dbbc88f80c3a7bee / c4891b91d7179df8"
+  },
+  "situation": "John 回「ok i need sample」，Simon 推荐 24 口 PoE L2+ 150 USD 并说明非免费样、Marvell 芯片；之后追问两次无回。",
+  "need": "—",
+  "breakpoint": "免费样期待 + 非本行业。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 25,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-01-31",
+    "dir": "来",
+    "who": "John（Neowine）",
+    "quote": "ok i need sample",
+    "why": "要样",
+    "k": "dbbc88f80c3a7bee"
+   },
+   {
+    "date": "2025-02-01",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "STC-424DGGPM-280W 150usd/pc… 1, Its not free samples. 2, Its Marvell chip",
+    "why": "付样说明",
+    "k": "c4891b91d7179df8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

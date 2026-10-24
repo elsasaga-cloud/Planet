@@ -20,5 +20,47 @@
  "grade_override": "C",
  "override_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
  "notes": "c_sub=同行/中资贸易商。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（同行：一次「share your price list」→ 给链接 → 无）",
+   "type": "中资同行（制造 + 分销，HK/深圳/迪拜）——c_sub 同行",
+   "sieve": "1",
+   "stop": "价表给后无回；同行比价",
+   "revive": "不投入",
+   "lane": "—",
+   "cadence": "2024-07 → 2026-09 去信 32 封；最后来信 2025-07-22",
+   "evidence": "k=586559b1a8001973 / 0c4f75da78fd280b"
+  },
+  "situation": "Ank 2025-07-22 要价表，Alan 给下载链接。同行索价表 = 比价，不是采购。",
+  "need": "—",
+  "breakpoint": "同行；按 Simon 规则不投入且应从群发名单剔除（32 封去信是浪费）。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—",
+   "why": "剔除群发",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；建议移出群发",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-07-22",
+    "dir": "来",
+    "who": "Ank（intelligent.hk）",
+    "quote": "Kindly share your price list",
+    "why": "同行索价",
+    "k": "586559b1a8001973"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

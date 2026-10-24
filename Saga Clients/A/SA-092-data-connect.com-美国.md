@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。（调研 2026-10-21；表内兴趣：工业FS MC 串口  卖很多牌子的产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 16 次（2024-08-24 → 2025-10-31）；最近一次客户回复：2024-08-24：price 有兴趣
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE MC 对位表 — 换渠道；—
+- **第一问（只问一个）**：Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 LinkedIn / 官网表单 一次对位表
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-092` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（0 回复：档案里的 1 封「来信」是 Alpha Net 的 Nate 回群发时抄送 bpatton@data-connect.com，非 DCE 回复）** ｜ 类型：美国自有品牌 DCE（MC/工业线 ODM 来源）——第一档类型 ｜ 筛子：0 ｜ 停点：27 封去信零回复（Bob Patton） ｜ 复活：换触达角度（官网表单/LinkedIn），不再加频 ｜ 通路：US ｜ 节奏：2024-08 → 2026-10 去信 27 封；0 回复 ｜ 证据：k=6350a98e7dcd08eb（实为 SA-091 来信）
+- **现状一句话**：研究档「1 次回复」是误判：那封信来自 Nate Cline（Alpha Net），只是抄送了 DCE 的 Bob Patton。DCE 两年零回复。
+- **对方真实需求（有据）**：DCE 的 MC/工业交换机 ODM 补源。
+- **断点 / 为什么停在这里**：触达问题，不是需求问题；频率无用。
+- **Saga 现在该推什么**：P1 **STI-110GE MC 对位表**（30% 档，—）——换渠道
+  - 做不了 / 要先核的：DCE 产品经理联系人
+- **下一步（具体）**：2027-Q1　LinkedIn / 官网表单　一次对位表
+  - 第一问（只问一个）：Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-08-24 | 来 | Nate Cline（Alpha Net，抄送 DCE） | Yes, I would like to learn more about your 10G media converter… | 误归属说明 | `6350a98e7dcd08eb` |
 
 ## 基本事实（事实/推断/假设分层）
 

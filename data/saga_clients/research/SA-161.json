@@ -45,5 +45,55 @@
  "grade_override": "C",
  "override_reason": "公司账目为休眠（无实际经营），产品站为国产白牌工业交换机型号目录，更像同行品牌的英国壳/前台而非渠道买家；1 次回复（2024）后无后续。c_sub=疑似同行/休眠公司。",
  "notes": "不投入；若对方以采购身份主动来再核实经营实体。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（两问 48 口 10G / 机箱堆叠 → Saga 均「开发中」）；研究档判为国产品牌英国前台",
+   "type": "疑似休眠壳公司（公司号 12222108）——不投入",
+   "sieve": "1",
+   "stop": "2024-11「48 Port 10G switches?」→ 无；2025-05「chassis and stackable?」→ 无",
+   "revive": "对方以真实采购身份再来",
+   "lane": "UK",
+   "cadence": "2024-07 → 2026-08 去信 20 封；最后来信 2025-05-18",
+   "evidence": "k=eb5765933f3cba4d / 12ebdab48d371a59 / 06813c60a4154b0e"
+  },
+  "situation": "两次来信都问 Saga 没有的高端品（48×10G、机箱/堆叠），Simon/Alan 都答「开发中」。",
+  "need": "高端数据中心（CENTEC 线现已覆盖 48×10G：STH 系列）。",
+  "breakpoint": "身份存疑 + 当时无货；现在 CENTEC 有 48×10G，但不主动。",
+  "saga_now": {
+   "p1": "STH 系列 48×10G（若对方再来）",
+   "tier": 20,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-17",
+    "dir": "来",
+    "who": "info@bornelectronics.com",
+    "quote": "Do u have 48 Port 10G switches ?",
+    "why": "问 48×10G",
+    "k": "eb5765933f3cba4d"
+   },
+   {
+    "date": "2025-05-18",
+    "dir": "来",
+    "who": "info@bornelectronics.com",
+    "quote": "Do you have chaise and stackable switches??",
+    "why": "问机箱/堆叠",
+    "k": "12ebdab48d371a59"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

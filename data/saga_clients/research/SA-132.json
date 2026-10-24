@@ -83,5 +83,57 @@
   "tier": 20,
   "why": "工业管理 PoE 交换机 → Saga STI-288GPM（$78.9/82.2/85.5）作 Red Lion 价位下的第二品牌；10G MC 按 SmartByte 另询。"
  },
- "email_hook": "Steven, below the N-Tron price points — would a Marvell-based DIN-rail managed PoE switch (8 PoE + 2 SFP, −40~75 ℃, CE/FCC) fill a gap in your industrial range? 1-pc sample, neutral packing."
+ "email_hook": "Steven, below the N-Tron price points — would a Marvell-based DIN-rail managed PoE switch (8 PoE + 2 SFP, −40~75 ℃, CE/FCC) fill a gap in your industrial range? 1-pc sample, neutral packing.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（要 10G MC 规格书 → 问是否工业级 → Simon「商用级，工业只有 100M/1G」→ 停）",
+   "type": "新加坡工业产品经销（Red Lion 等）；Steven Fu——第三档，SG 非主攻",
+   "sieve": "1–2",
+   "stop": "2024-11-06 工业级 10G MC 无货（Saga 只有商用 10G MC）",
+   "revive": "SmartByte/HRUI 出工业级 10G MC 时",
+   "lane": "SG",
+   "cadence": "2024-11 → 2026-09 去信 23 封；最后来信 2024-11-06",
+   "evidence": "k=d691da1b4d887acd / 61302fdfc9680bba / 039877a1efae067a"
+  },
+  "situation": "Steven 当天两问：要规格书、是否工业级。Simon 答「商用级；工业级只有 100M/1G 款」。产品缺口明确，此后群发无回。",
+  "need": "工业级 10G MC。",
+  "breakpoint": "产品缺口（工业 10G MC）。",
+  "saga_now": {
+   "p1": "无（缺口）",
+   "tier": 20,
+   "price": "—",
+   "why": "有货再说",
+   "repeat": [],
+   "gaps": [
+    "SmartByte 是否有工业级 10G MC——查产品索引后再说"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "A 邮箱",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-06",
+    "dir": "来",
+    "who": "Steven Fu",
+    "quote": "Pls confirm it is industrial grade?",
+    "why": "关键问题",
+    "k": "61302fdfc9680bba"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Its commercial grade 10G based. For industrial grade, we just have 100M or 1G models, without 10G models.",
+    "why": "缺口",
+    "k": "039877a1efae067a"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

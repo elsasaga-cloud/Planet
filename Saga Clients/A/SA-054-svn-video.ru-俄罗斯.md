@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自有标 SVN-POE812（8 FE PoE）千兆管理升级 = STC-28DGGPM，按 SVN 命名 OEM 30%；SVN-POE1612 位 = STI-21616GP；价位不接受则改 HRUI 源 Realtek 商用款（需标注非 Saga 主线）；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量；—
+- **第一问（只问一个）**：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 A 邮箱 → zakaz@ 问付款通道 + 首批 SKU
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-054` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2026-01-04 要 PoE 交换机 + 配件价表 → 给价表 → 无下文）** ｜ 类型：卡卢加 CCTV 网店/安装商（自有型号，已用 HRUI 商用 PoE）；zakaz@ ｜ 筛子：2 ｜ 停点：2026-01-05 价表后无回 ｜ 复活：其自有型号补 SKU（STH/HRUI 同源） ｜ 通路：RU ｜ 节奏：2024-06 → 2026-09 去信 22 封；最后来信 2026-01-04 ｜ 证据：k=e5396399dcef3822 / e972f525788b212d
+- **现状一句话**：2026-01-04 网店销售部要 PoE 交换机与配件价表，Alan 给价表并问「配件指光模块和电源？」，无回。
+- **对方真实需求（有据）**：PoE 交换机 + 光模块/电源（网店 SKU）。
+- **断点 / 为什么停在这里**：价表式回复无后续问题；RU 收款通道未谈。
+- **Saga 现在该推什么**：P1 **HRUI 同源 8 口 PoE（`hrui_STC对照表`）**（20% 档，—）——一句话问收款方式与首批量
+- **下一步（具体）**：2027-Q1　A 邮箱 → zakaz@　问付款通道 + 首批 SKU
+  - 第一问（只问一个）：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-01-04 | 来 | SVN 销售部 | send me please your pricelists with POE switches and accessories | 要价表 | `e5396399dcef3822` |
 
 ## 基本事实（事实/推断/假设分层）
 

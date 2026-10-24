@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
 - **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：电商分销工业 PoE（InfrateQ 自有标，HR600- 系列）：STI-288DGGPM 为 Marvell 升级位，STC-28DGGPM 商用位；分销 20% 档；$139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / HRUI 工业款（研究档 P1） — 以 WeChat 为准；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：按 Simon WeChat 节奏 WeChat —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-079` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2024-07 CEO 要求转 WeChat/WA 并要目录价表——此后邮件无往来，若有进展在 WeChat）** ｜ 类型：雅加达集成 + 电商（VoIP/安防/工业网络）；CEO Ismed 直联（WeChat ismedsitepu，WA +62 852 8940 4589）——研究档称「6 次回复」在 WA ｜ 筛子：2 ｜ 停点：邮件层 2024-07-04 后无；其邮箱收不到 Google Drive 链接 ｜ 复活：WeChat/WA 层（不在仓库） ｜ 通路：ID 非主攻 ｜ 节奏：邮件仅 2 封去信（2024-07-03/04） ｜ 证据：k=6f6c394625650200 / 7648ab2452628580 / ad13f76074d6ed39
+- **现状一句话**：Ismed 2024-07-04 回：加我 WeChat/WA，目录和价表发到 ismed@；Simon 加了 WeChat 并指出其邮箱收不到 Drive 链接，对方给了备用邮箱。邮件到此为止——后续若有，全在 WeChat。
+- **对方真实需求（有据）**：离网/太阳能 CCTV 用工业 DC PoE（研究档）。
+- **断点 / 为什么停在这里**：渠道转到 WeChat 后仓库失明；评级应以 WeChat 记录为准（Simon 手上）。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM / HRUI 工业款（研究档 P1）**（25% 档，—）——以 WeChat 为准
+  - 做不了 / 要先核的：WeChat 往来内容未入库
+- **下一步（具体）**：按 Simon WeChat 节奏　WeChat　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-04 | 来 | Ismed S（CEO） | Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list | 转 WeChat | `6f6c394625650200` |
+| 2024-07-04 | 去 | Simon | Just sent an invitation on WeChat… It seems that your email IDs cannot receive external google drive information? | 渠道切换 | `ad13f76074d6ed39` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,29 @@ updated: 2026-10-24
 - **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。（调研 2026-10-21；表内兴趣：OEM/ODM；MC FS 机架 工业FS 很多牌子的 销售平台；商业POE 工业FS等；ONV产品的全线引进；MaiWe）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）；最近一次客户回复：2025-12-15：INFO
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD） — J5：只问项目，不发 PoE；按 CENTEC ≥35% 底线复核
+- **第一问（只问一个）**：Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → info@truongsonsolutions.com 一句话问 7 月 RFQ 的项目结果
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-048` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）** ｜ 类型：胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档 ｜ 筛子：2 ｜ 停点：2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接 ｜ 复活：其数据中心项目落地；VN 非主攻 ｜ 通路：VN ｜ 节奏：2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15 ｜ 证据：k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52
+- **现状一句话**：2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。
+- **对方真实需求（有据）**：CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。
+- **断点 / 为什么停在这里**：报价后项目窗口关闭；发去的后续全是无关 PoE。
+- **Saga 现在该推什么**：P1 **STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）**（25% 档，按 CENTEC ≥35% 底线复核）——J5：只问项目，不发 PoE
+  - 做不了 / 要先核的：STH-8C24XF-HSI 现货状态（Alan 说无货）
+- **下一步（具体）**：2026-11　A 邮箱 → info@truongsonsolutions.com　一句话问 7 月 RFQ 的项目结果
+  - 第一问（只问一个）：Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-12-19 | 来 | Truong Son | Pls share me your price list for OEM/ODM. | 价表请求 | `cf6dcab93221d2af` |
+| 2026-07-15 | 来 | Truong Son | Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 | RFQ | `43477f95c8d2e436` |
+| 2026-07-15 | 去 | Alan | STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC | 报价 | `8ef6fe719128cb52` |
 
 ## 基本事实（事实/推断/假设分层）
 

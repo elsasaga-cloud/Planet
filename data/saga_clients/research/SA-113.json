@@ -94,5 +94,63 @@
   "tier": 25,
   "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）"
  },
- "email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?"
+ "email_hook": "Mohamad, following the material you asked for: for your CCTV/access-control sites, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port 280 W at $140.1, neutral packing — which commercial (non-government) project could take a first 10-unit lot?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音）",
+   "type": "阿布扎比/迪拜安防集成商（NetOn Technologies 域名在同一实体档案内；Chandra）——第四档，中东非主攻",
+   "sieve": "1–2",
+   "stop": "2024-08-14 报 STI-154GP 38 USD 后静默；2024-07 10G MC 规格书后也无下文",
+   "revive": "其项目出现；WA 季度一句话",
+   "lane": "AE 非主攻",
+   "cadence": "2024-06 → 2026-09 去信 36 封；最后来信 2024-08-14",
+   "evidence": "k=98852d1abcd4b4a6 / 68986281c27a13e8 / 71f84f290da90e77"
+  },
+  "situation": "Chandra 2024-07 对 10G MC 回「Yes, interested」，2024-08 对工业 PoE 回「Whats the pricing」，Simon 报 STI-154GP 38 USD（-40~75℃，DIN，不含光模块/电源）后再无来信；此后 Saga 群发 30+ 封。",
+  "need": "10G MC、4 口工业 PoE（CCTV 项目配套）。",
+  "breakpoint": "两次都在价格/规格书之后停——项目型客户没有项目就没有下文；中东非主攻，不追。",
+  "saga_now": {
+   "p1": "STI-154GP（按现价重算）",
+   "tier": 25,
+   "price": "按 25% 集成档",
+   "why": "WA 季度一句话即可",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "季度",
+   "channel": "WhatsApp",
+   "action": "一句话问是否有在手项目",
+   "one_question": "Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?"
+  },
+  "facts": [
+   {
+    "date": "2024-07-07",
+    "dir": "来",
+    "who": "Chandra（NetOn）",
+    "quote": "Yes, interested",
+    "why": "10G MC",
+    "k": "98852d1abcd4b4a6"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "来",
+    "who": "Chandra",
+    "quote": "hi Whats the pricing.",
+    "why": "询价",
+    "k": "68986281c27a13e8"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply",
+    "why": "报价后停",
+    "k": "71f84f290da90e77"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -122,5 +122,55 @@
   "tier": 30,
   "why": "ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。"
  },
- "email_hook": "Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?"
+ "email_hook": "Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无）",
+   "type": "韩国自有 ETK 系列品牌 + 分销；代表 우성영",
+   "sieve": "1",
+   "stop": "可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线）",
+   "revive": "用 sagatele.com 重新触达一次",
+   "lane": "KR",
+   "cadence": "2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30",
+   "evidence": "k=1e09231d59bc6afc / f7147947b4499bda"
+  },
+  "situation": "代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。",
+  "need": "ETK 系列 ODM 来源（研究档）。",
+  "breakpoint": "可信度门槛（网站）；现已有解。",
+  "saga_now": {
+   "p1": "HRUI STH 工业 2.5G/10G L3（研究档）",
+   "tier": 30,
+   "price": "—",
+   "why": "一封：sagatele.com + 一句话",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → woosy777@naver.com",
+   "action": "给网站 + 问 ETK 外采 SKU",
+   "one_question": "Our site is now at sagatele.com — which ETK SKU is sourced externally today?"
+  },
+  "facts": [
+   {
+    "date": "2025-06-30",
+    "dir": "来",
+    "who": "우성영（代表）",
+    "quote": "Can I see your web site?",
+    "why": "可信度",
+    "k": "1e09231d59bc6afc"
+   },
+   {
+    "date": "2025-06-30",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "There is not much info on our website.",
+    "why": "当时无网站",
+    "k": "f7147947b4499bda"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

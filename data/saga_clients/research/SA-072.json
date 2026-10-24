@@ -141,5 +141,49 @@
   "tier": 20,
   "why": "网店主力 CIEN3206GP-2GF-4GTPOE（4 GE PoE + 2 SFP，≈$340 含税）对位 STI-144GP/（2 SFP 版核价）；CIEN3210GP/CISCOM7210GP 对位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent."
+ "email_hook": "Your CIEN3206GP-2GF-4GTPOE lists with a five-week lead time, and the matching 4-port gigabit PoE + 2 SFP DIN unit we build ships in 10–15 days at EXW, so I am quoting that with the 8-port managed CISCOM7210GP equivalent.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-12 电气工程师要价表 → 给链接 → 无）",
+   "type": "伊斯坦布尔能源自动化工程分销（网店在售中国工业 PoE，转销中东/中亚）；Murat Gül——土耳其主攻区",
+   "sieve": "1",
+   "stop": "价表链接后无回；9 封去信里 8 封是群发",
+   "revive": "TR 主攻：值得一封针对性信（对位其网店在售 CIEN3206GP）",
+   "lane": "TR",
+   "cadence": "2025-09 → 2026-09 去信 9 封；最后来信 2025-12-01",
+   "evidence": "k=d6656fb30ed9002e / 0c862411c12313aa"
+  },
+  "situation": "Murat 2025-12-01 要价表，Alan 次日给下载链接。无回。SGE 网店在卖中国工业 PoE（研究档），交期 5 周——Saga 10–15 天是可讲的差异。",
+  "need": "工业 PoE（转售）。",
+  "breakpoint": "价表链接式回复；土耳其主攻区却只投了 9 封。",
+  "saga_now": {
+   "p1": "STI-244GP / STI-288DGGPM 对位 CIEN3206GP",
+   "tier": 25,
+   "price": "按 25%",
+   "why": "TR 主攻 + 已回复 = 写第二封",
+   "repeat": [],
+   "gaps": [
+    "其 CIEN3206GP 网店售价（研究档有线索，报前核）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → muratg@sge.com.tr",
+   "action": "对位表（2 款）+ 交期 10–15 天 + 一句话",
+   "one_question": "For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?"
+  },
+  "facts": [
+   {
+    "date": "2025-12-01",
+    "dir": "来",
+    "who": "Murat Gül（Electrical Engineer）",
+    "quote": "Can you send to me the price list of your products?",
+    "why": "要价表",
+    "k": "d6656fb30ed9002e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

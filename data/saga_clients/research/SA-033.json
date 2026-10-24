@@ -157,5 +157,65 @@
   "tier": 30,
   "why": "OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档"
  },
- "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125."
+ "email_hook": "Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）",
+   "type": "美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent）",
+   "sieve": "2",
+   "stop": "2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回",
+   "revive": "其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29",
+   "evidence": "k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad"
+  },
+  "situation": "Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。",
+  "need": "4/8 口工业 PoE（CCTV 批发 SKU）。",
+  "breakpoint": "采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。",
+  "saga_now": {
+   "p1": "STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）",
+   "tier": 30,
+   "price": "按 30% 自有标档",
+   "why": "J2：补一封三件套",
+   "repeat": [],
+   "gaps": [
+    "2024-10-30 附件是否含价格"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → silvia.flores@ + purchasing@",
+   "action": "三件套一页：4 口 / 8 口价格、交期、FCC",
+   "one_question": "For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?"
+  },
+  "facts": [
+   {
+    "date": "2024-10-29",
+    "dir": "来",
+    "who": "Silvia Flores（Purchasing Agent）",
+    "quote": "Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions?",
+    "why": "规格",
+    "k": "3967a837c3bedff6"
+   },
+   {
+    "date": "2024-10-29",
+    "dir": "来",
+    "who": "Silvia",
+    "quote": "Also, provide us with the prices for both models",
+    "why": "价格",
+    "k": "7f7e16f255ec5fae"
+   },
+   {
+    "date": "2024-10-30",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Please see attached information and let me know.",
+    "why": "回复后停",
+    "k": "54932716b5166fad"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

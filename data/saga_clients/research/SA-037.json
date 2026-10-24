@@ -123,5 +123,55 @@
   "tier": 20,
   "why": "其网店主销 TL-SG2428P（24 PoE+ 4 SFP）与 TL-SG2210MP（8 PoE+ 2 SFP）→ Saga 同位 STC-424DGGPM-280W / STC-28DGGPM 可贴 FCNET 标；分销 20% 档"
  },
- "email_hook": "Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting."
+ "email_hook": "Against the TL-SG2428P and TL-SG2210MP price points on fcnet.pl, a Marvell-based 24-port PoE+ with 4 SFP and the matching 8-port unit under your own label leave a workable margin at EXW, so those are the two I am quoting.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（价格流：10G MC 65 USD →「much better price from different supplier」）",
+   "type": "波兰进口分销（自有 logo 意向，用户表）——第三档；波兰次重点",
+   "sieve": "1",
+   "stop": "2025-04-22「We have much better price for this product from different supplier.」",
+   "revive": "非 MC 品类（管理型 PoE）上再试一次；MC 不再报",
+   "lane": "PL/EU",
+   "cadence": "2025-02 → 2026-09 去信 24 封；最后来信 2025-04-22",
+   "evidence": "k=5f2f240aad79e90d / 9e557e84dc8bdbf1 / 34b75cab2668542d"
+  },
+  "situation": "FCNET 2025-04-18 问 10G MC 价格，Alan 报 65 USD（Marvell 芯片），04-22 回「别家价格好得多」。A 邮箱补齐后的新增线程里 FCNET 也只有这一段。",
+  "need": "10G MC（价格导向）。",
+  "breakpoint": "MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W（管理型 PoE，差异品）",
+   "tier": 20,
+   "price": "按 20% 分销档",
+   "why": "换品类问一次",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → info@fcnet.pl",
+   "action": "一句话问管理型 PoE 的来源",
+   "one_question": "For managed PoE switches (not MC), who is your current source and what is the gap you would switch for?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-18",
+    "dir": "来",
+    "who": "FCNET",
+    "quote": "And the price is ?",
+    "why": "询价",
+    "k": "5f2f240aad79e90d"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "来",
+    "who": "FCNET",
+    "quote": "We have much better price for this product from different supplier.",
+    "why": "价格流停点",
+    "k": "34b75cab2668542d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

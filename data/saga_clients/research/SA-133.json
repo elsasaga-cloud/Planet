@@ -80,5 +80,47 @@
   "tier": 20,
   "why": "其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。"
  },
- "email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?"
+ "email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）",
+   "type": "俄罗斯网店",
+   "sieve": "1",
+   "stop": "付样 + 价后无回",
+   "revive": "—",
+   "lane": "RU",
+   "cadence": "2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18",
+   "evidence": "k=d5f6464213d5a032 / 347a1cb99eeabbb1"
+  },
+  "situation": "对方回了一句俄式赞叹，Simon 说明非免费样并报 STI-222GP 33 USD。无回。",
+  "need": "迷你工业 PoE。",
+  "breakpoint": "付样筛子。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-12-18",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "it is not free samples… Price: 33usd/pc, STI-222GP",
+    "why": "付样说明",
+    "k": "347a1cb99eeabbb1"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

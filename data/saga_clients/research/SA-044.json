@@ -120,5 +120,47 @@
   "tier": 30,
   "why": "iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档"
  },
- "email_hook": "Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line."
+ "email_hook": "Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-04 要公司名与目录 → 给了 → 无下文）",
+   "type": "韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park",
+   "sieve": "1",
+   "stop": "2025-04-16 目录后无回",
+   "revive": "其 PoE 交换机换源",
+   "lane": "KR",
+   "cadence": "2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15",
+   "evidence": "k=2cc027d0b96713b6 / e7ae897881e06df3"
+  },
+  "situation": "Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。",
+  "need": "自有品牌 PoE 交换机。",
+  "breakpoint": "身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "—",
+   "why": "保活",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱",
+   "action": "一句话问 PoE 线外采情况",
+   "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-15",
+    "dir": "来",
+    "who": "Moonsoo Park",
+    "quote": "Let me know your company name and send me catalogue.",
+    "why": "「你是谁」",
+    "k": "2cc027d0b96713b6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

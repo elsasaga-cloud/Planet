@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活；—
+- **第一问（只问一个）**：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-019` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（COO 2024-05-30 要 10G MC 规格书 → 65 USD → 无下文）** ｜ 类型：法国自有品牌工业网络厂商（含国防终端市场——只 ODM 供货）；Marco Di Valerio（COO） ｜ 筛子：2 ｜ 停点：65 USD 10G MC 报价后无回；此后 25 封群发无回 ｜ 复活：其工业线补 SKU（非 MC） ｜ 通路：FR/EU ｜ 节奏：2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30 ｜ 证据：k=afbdeb9d5505018c / 696d6a213ad761ca
+- **现状一句话**：COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。
+- **对方真实需求（有据）**：10G MC（当时）。
+- **断点 / 为什么停在这里**：MC 价格流 + 层级错配。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM / STI-488XGGPM（工业 L2+）**（30% 档，—）——保活
+- **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围
+  - 第一问（只问一个）：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-30 | 来 | Marco Di Valerio（COO） | please could you send data sheet please | 要规格书 | `afbdeb9d5505018c` |
+| 2024-05-30 | 去 | Simon | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged | 报价后停 | `696d6a213ad761ca` |
 
 ## 基本事实（事实/推断/假设分层）
 

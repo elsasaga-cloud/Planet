@@ -35,10 +35,32 @@ updated: 2026-10-24
 - **是谁**：波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。（调研 2026-10-21；表内兴趣：一个定制品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 8 次（2025-04-04 → 2025-10-21）；最近一次客户回复：2025-09-16：INFO
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表 — J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）
+- **第一问（只问一个）**：Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → lukasz.gasiewicz@（主收件人），抄 Bartosz 一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-076` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）** ｜ 类型：波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话） ｜ 筛子：2 ｜ 停点：2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz） ｜ 复活：Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表 ｜ 通路：PL/EU（CE 有） ｜ 节奏：2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03 ｜ 证据：k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31
+- **现状一句话**：Impakt 的产品开发经理 Łukasz Gąsiewicz 2025-09-29 主动转发同事 Bartosz 收到的群发并要「actual offer」，10-03 贴图说「We looking for devices like this with CE power supply. Prices? MOQ?」——是 1G SFP 媒体转换器。Alan 报 13 USD/pc、MOQ 1、附规格书，10-15 追问后无回。之后的群发全部发回 Bartosz，Łukasz 再没收到针对性内容。
+- **对方真实需求（有据）**：Lanberg 品牌的 MC（CE 电源）与小型交换机补 SKU；价格敏感（自有品牌比价）。
+- **断点 / 为什么停在这里**：决策人找对了、产品找对了、价格给了，停在「没有第二封针对性的信」——群发名单没有把 Łukasz 设为主收件人。
+- **Saga 现在该推什么**：P1 **STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表**（30% 档，按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算））——J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户
+  - 做不了 / 要先核的：Lanberg 现有 MC 型号与售价（官网可查，未做）；13 USD MC 属于哪条线（Realtek/HRUI？）——报前核
+- **下一步（具体）**：2026-11　A 邮箱 → lukasz.gasiewicz@（主收件人），抄 Bartosz　一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划
+  - 第一问（只问一个）：Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-09-29 | 来 | Łukasz Gąsiewicz（Product Development Manager） | I cooworking with Bartosz pls send me you actual offer | 决策人出现 | `93d83062626fac30` |
+| 2025-10-03 | 来 | Łukasz | We looking for devices like this 😉 with CE power supply Prices ? MOQ ? | 需求（1G SFP MC） | `897f6d9873002938` |
+| 2025-10-03 | 去 | Alan | MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input | 报价 | `c220bcc3035956bf` |
+| 2025-10-15 | 去 | Alan | Any news about the 1G media converter? Need to order or something? | 追问无回 | `43168b7db932dd31` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 与 Łukasz 的早先往来在 E 邮箱（189 封）中未单独核对
 
 ## 基本事实（事实/推断/假设分层）
 

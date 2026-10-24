@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。（调研 2026-10-21；表内兴趣：5电口 需要具体的产品信息）
 - **为什么是 B 级**：**调研后定级 B**（微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-03-18 → 2025-03-18）；最近一次客户回复：2025-03-18：Interested
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / 5 口非管理（一次给齐） — 不主动；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 A 邮箱 来信时一次给 STI-244GP 资料
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-100` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）** ｜ 类型：泰国小经销（Peter）——第四档；TH 非主攻 ｜ 筛子：2 ｜ 停点：2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回 ｜ 复活：不主动 ｜ 通路：TH ｜ 节奏：2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14 ｜ 证据：k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816
+- **现状一句话**：Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。
+- **对方真实需求（有据）**：8 口工业 PoE；bypass。
+- **断点 / 为什么停在这里**：泰国小经销的价格段与 Marvell 不匹配。
+- **Saga 现在该推什么**：P1 **STI-244GP / 5 口非管理（一次给齐）**（25% 档，—）——不主动
+- **下一步（具体）**：不动　A 邮箱　来信时一次给 STI-244GP 资料
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-05-14 | 来 | Peter（TJ Computer） | ราคาเท่าไหร่?（多少钱？） | bypass 询价 | `02da3feea2aac332` |
+| 2025-05-15 | 去 | Alan | 300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip | 报价后停 | `60215e5a3bb8a816` |
 
 ## 基本事实（事实/推断/假设分层）
 

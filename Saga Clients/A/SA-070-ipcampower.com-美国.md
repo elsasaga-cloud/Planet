@@ -35,10 +35,25 @@ updated: 2026-10-24
 - **是谁**：俄克拉荷马的自有品牌 PoE 产品商（2015 年由 Sean Nelson 创立，17 人，营收约 $3.9M；其前一家公司 Nelly's Security 为 CCTV 分销商，2023 年出售），专注面向 IP 摄像机安装商的非网管 PoE 交换机（如 IPCP-8G4G-AT1 8 PoE + 4 上联、extend mode）、注入器、延长器、PoE 监测器。用户表：A 已回复，联系人 Sean Nelson（Owner）；「主做 PoE，ONV 的」。（调研 2026-10-21；表内兴趣：主做PoE ONV的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-22 → 2025-08-22）；最近一次客户回复：2025-08-22：需要UL和TTA listed switches
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：IPCP-8G4G-AT1（8 GE PoE + 4 上联）对位 STC-28DGGPM（管理型，EXW $80.7 @20%）作为「managed」新 SKU；24 口千兆位 STC-424DGGPM-280W（EXW $134.5）；电商 20% 档；不承诺 UL/TAA；$80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 移出群发；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：不动；移出群发 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-070` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-08「We require TAA Compliant and UL Listed switches」）** ｜ 类型：美国自有品牌 PoE 网店（现供 ONV）；Sean Nelson ｜ 筛子：1 ｜ 停点：TAA + UL（INH 红线） ｜ 复活：无 ｜ 通路：US ｜ 节奏：2024-07 → 2026-09 去信 17 封；最后来信 2025-08-21 ｜ 证据：k=465526f0a93e971c
+- **现状一句话**：Sean 一句话划线：要 TAA 合规 + UL 认证。Saga 两者皆无。
+- **对方真实需求（有据）**：TAA/UL PoE 交换机。
+- **断点 / 为什么停在这里**：TAA/UL 边界。
+- **Saga 现在该推什么**：P1 **无**（30% 档，—）——移出群发
+- **下一步（具体）**：不动；移出群发　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-08-21 | 来 | Sean Nelson | We require TAA Compliant and UL Listed switches. If you have this, please let me know. | 边界原话 | `465526f0a93e971c` |
 
 ## 基本事实（事实/推断/假设分层）
 

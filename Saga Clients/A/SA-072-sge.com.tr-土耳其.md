@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。（调研 2026-10-21；表内兴趣：工业控制  迈威的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-12-01 → 2025-12-01）；最近一次客户回复：2025-12-01：INFO
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：网店主力 CIEN3206GP-2GF-4GTPOE（4 GE PoE + 2 SFP，≈$340 含税）对位 STI-144GP/（2 SFP 版核价）；CIEN3210GP/CISCOM7210GP 对位 STI-288DGGPM；分销 20% 档；$34.1 USD EXW（20% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-288DGGPM 对位 CIEN3206GP — TR 主攻 + 已回复 = 写第二封；按 25%
+- **第一问（只问一个）**：For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 A 邮箱 → muratg@sge.com.tr 对位表（2 款）+ 交期 10–15 天 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-072` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-12 电气工程师要价表 → 给链接 → 无）** ｜ 类型：伊斯坦布尔能源自动化工程分销（网店在售中国工业 PoE，转销中东/中亚）；Murat Gül——土耳其主攻区 ｜ 筛子：1 ｜ 停点：价表链接后无回；9 封去信里 8 封是群发 ｜ 复活：TR 主攻：值得一封针对性信（对位其网店在售 CIEN3206GP） ｜ 通路：TR ｜ 节奏：2025-09 → 2026-09 去信 9 封；最后来信 2025-12-01 ｜ 证据：k=d6656fb30ed9002e / 0c862411c12313aa
+- **现状一句话**：Murat 2025-12-01 要价表，Alan 次日给下载链接。无回。SGE 网店在卖中国工业 PoE（研究档），交期 5 周——Saga 10–15 天是可讲的差异。
+- **对方真实需求（有据）**：工业 PoE（转售）。
+- **断点 / 为什么停在这里**：价表链接式回复；土耳其主攻区却只投了 9 封。
+- **Saga 现在该推什么**：P1 **STI-244GP / STI-288DGGPM 对位 CIEN3206GP**（25% 档，按 25%）——TR 主攻 + 已回复 = 写第二封
+  - 做不了 / 要先核的：其 CIEN3206GP 网店售价（研究档有线索，报前核）
+- **下一步（具体）**：2026-11　A 邮箱 → muratg@sge.com.tr　对位表（2 款）+ 交期 10–15 天 + 一句话
+  - 第一问（只问一个）：For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-12-01 | 来 | Murat Gül（Electrical Engineer） | Can you send to me the price list of your products? | 要价表 | `d6656fb30ed9002e` |
 
 ## 基本事实（事实/推断/假设分层）
 

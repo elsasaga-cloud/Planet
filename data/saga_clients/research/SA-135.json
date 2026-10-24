@@ -98,5 +98,47 @@
   "tier": 30,
   "why": "OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12"
  },
- "email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?"
+ "email_hook": "A like-for-like of your IGS-803SM-8PH24 (8 × PoE+ managed, SFP uplinks, −40 to +75 °C) with the Megatel label is $151.6 EXW at the OEM tier — want the three-model cross-reference sheet against your IGS/IPSW/IMC codes?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（VP Sales 2024-11 要 10G MC 规格书 → 给了 → 无下文）",
+   "type": "美国自有 logo 工业以太网网店/品牌——第一档类型；Zack Yu（VP Sales）",
+   "sieve": "1",
+   "stop": "规格书后无回；24 封群发无回",
+   "revive": "换触达角度（研究档：网店客服/LinkedIn）",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 24 封；最后来信 2024-11-26",
+   "evidence": "k=29bcaf9898361cae / 23ff8e2e29b53c84"
+  },
+  "situation": "Zack 要 10G MC 规格书，Simon 给了。此后无回。",
+  "need": "MC / 工业 PoE 全品类贴牌。",
+  "breakpoint": "触达层：VP 回了一次，之后群发无效。",
+  "saga_now": {
+   "p1": "STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）",
+   "tier": 30,
+   "price": "—",
+   "why": "一次对位表",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → zack@",
+   "action": "对位表 + 一句话",
+   "one_question": "Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?"
+  },
+  "facts": [
+   {
+    "date": "2024-11-26",
+    "dir": "来",
+    "who": "Zack Yu（VP Sales）",
+    "quote": "Do you have a data sheet for this converter?",
+    "why": "唯一来信",
+    "k": "29bcaf9898361cae"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

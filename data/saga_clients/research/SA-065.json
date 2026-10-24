@@ -66,5 +66,55 @@
   "tier": 30,
   "why": "OEM 30% 档（仅限补线）：STI-110GE 工业光电转换（$24.3）与 STI-140GE 非管理（$29.1）作 Loop 低端补充；管理型不供（与其自研线竞争）"
  },
- "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?"
+ "email_hook": "If Loop needs an entry-level industrial media converter and 5-port unmanaged switch to sit below the IP68xx range in EMEA, our DIN units start at $24.3 EXW with your label; is a low-end complement on the 2026 roadmap?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（EMEA 销售 VP 2025-11 问 Booster 原理并要手册，12-04「No need now, just for information」）",
+   "type": "台湾上市电信设备商（MPLS-TP/工业以太网自研）——Saga 只可能是其低端 OEM 来源；Eric Piaget（VP EMEA & India）",
+   "sieve": "1",
+   "stop": "2025-12-04「No need now, just for information」",
+   "revive": "对方主动",
+   "lane": "FR/TW",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2025-12-04",
+   "evidence": "k=d90350574a564aa4 / fbde4352065d43fb"
+  },
+  "situation": "Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。",
+  "need": "信息收集；无采购。",
+  "breakpoint": "同业信息收集，不是采购。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-11-28",
+    "dir": "来",
+    "who": "Eric Piaget（VP Marketing Sales EMEA & India）",
+    "quote": "Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure.",
+    "why": "技术好奇",
+    "k": "d90350574a564aa4"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "来",
+    "who": "Eric",
+    "quote": "No need now, just for information.",
+    "why": "停点",
+    "k": "fbde4352065d43fb"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：**调研后定级 B**（韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-06-19 → 2025-10-29）；最近一次客户回复：2025-06-30：INFO
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI STH 工业 2.5G/10G L3（研究档） — 一封：sagatele.com + 一句话；—
+- **第一问（只问一个）**：Our site is now at sagatele.com — which ETK SKU is sourced externally today?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → woosy777@naver.com 给网站 + 问 ETK 外采 SKU
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-094` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无）** ｜ 类型：韩国自有 ETK 系列品牌 + 分销；代表 우성영 ｜ 筛子：1 ｜ 停点：可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线） ｜ 复活：用 sagatele.com 重新触达一次 ｜ 通路：KR ｜ 节奏：2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30 ｜ 证据：k=1e09231d59bc6afc / f7147947b4499bda
+- **现状一句话**：代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。
+- **对方真实需求（有据）**：ETK 系列 ODM 来源（研究档）。
+- **断点 / 为什么停在这里**：可信度门槛（网站）；现已有解。
+- **Saga 现在该推什么**：P1 **HRUI STH 工业 2.5G/10G L3（研究档）**（30% 档，—）——一封：sagatele.com + 一句话
+- **下一步（具体）**：2026-11　A 邮箱 → woosy777@naver.com　给网站 + 问 ETK 外采 SKU
+  - 第一问（只问一个）：Our site is now at sagatele.com — which ETK SKU is sourced externally today?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-30 | 来 | 우성영（代表） | Can I see your web site? | 可信度 | `1e09231d59bc6afc` |
+| 2025-06-30 | 去 | Alan | There is not much info on our website. | 当时无网站 | `f7147947b4499bda` |
 
 ## 基本事实（事实/推断/假设分层）
 

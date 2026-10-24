@@ -128,5 +128,63 @@
   "tier": 30,
   "why": "自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）"
  },
- "email_hook": "Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up."
+ "email_hook": "Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本）",
+   "type": "英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier",
+   "sieve": "1",
+   "stop": "2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」",
+   "revive": "其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理",
+   "lane": "UK",
+   "cadence": "2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24",
+   "evidence": "k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d"
+  },
+  "situation": "Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。",
+  "need": "消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。",
+  "breakpoint": "客户已经说清楚了什么不要；Saga 继续发的是同类。",
+  "saga_now": {
+   "p1": "STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）",
+   "tier": 30,
+   "price": "按 30% 自有标档",
+   "why": "只在 DIN 非管理这一条线上发一次",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → jeff.ferrier@",
+   "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）",
+   "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
+  },
+  "facts": [
+   {
+    "date": "2024-06-03",
+    "dir": "来",
+    "who": "Jeff Ferrier（Director）",
+    "quote": "I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now",
+    "why": "价格基准",
+    "k": "f38bda5c25315e89"
+   },
+   {
+    "date": "2024-10-24",
+    "dir": "来",
+    "who": "Jeff",
+    "quote": "Customers usually want one or the other and not a combo We sell desktop and rack for both",
+    "why": "24V/48V 组合款被否",
+    "k": "c935ae4f928d5620"
+   },
+   {
+    "date": "2024-10-30",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Its actually a selling point(auto voltage output)",
+    "why": "Saga 坚持",
+    "k": "d86526863f22737d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

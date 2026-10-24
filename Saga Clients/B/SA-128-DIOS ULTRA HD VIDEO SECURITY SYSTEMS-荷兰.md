@@ -36,10 +36,28 @@ updated: 2026-10-24
 - **是谁**：荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。（调研 2026-10-21；表内兴趣：公司业务：Ultra HD Video）
 - **为什么是 B 级**：**调研后定级 B**（欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表；按 25% 集成档
+- **第一问（只问一个）**：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2026-11 A 邮箱 → j.slob@ 问价表里哪一款进过选型、输在哪
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-128` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（CEO 2025-03-05 两封要价表 → 当天给两份价表 → 无下文）** ｜ 类型：荷兰 HD 视频安防集成/经销（CEO Jacco Slob 直联）——第四档；荷兰在欧洲主攻区内 ｜ 筛子：2 ｜ 停点：2025-03-05 拿到两份价表后静默 19 个月；之后 15 封群发无回 ｜ 复活：其项目需要工业 PoE；一句话问价表里哪款进了选型 ｜ 通路：NL/EU ｜ 节奏：2024-07 → 2026-09 去信 26 封；最后来信 2025-03-05 ｜ 证据：k=217f8105eb7fd892 / a25eb7d3ab45c05e / 955016f874e9ee64
+- **现状一句话**：Jacco（CEO）2025-03-05 上午要价表，Alan 给了两个 Google Drive 链接并强调「we are focusing on Marvell」，Jacco 下午问「where can i find prices?」，Alan 再发两份价表附件。此后无回。
+- **对方真实需求（有据）**：8 口工业 PoE（户外摄像机）价格。
+- **断点 / 为什么停在这里**：价表给了就结束——价表式回复没有带一个问题；A 邮箱 2026-10-24 新增线程里 DIOS 也只出现这一次。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM / STI-288DGGPM**（25% 档，按 25% 集成档）——一句话带问题，不再发价表
+- **下一步（具体）**：2026-11　A 邮箱 → j.slob@　问价表里哪一款进过选型、输在哪
+  - 第一问（只问一个）：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-03-05 | 来 | Jacco Slob（CEO） | please sent me pricelist. | 要价表 | `217f8105eb7fd892` |
+| 2025-03-05 | 来 | Jacco | thank u, where can i find prices? | 链接里找不到价 | `a25eb7d3ab45c05e` |
+| 2025-03-05 | 去 | Alan | Please see attached 2 price lists. | 给价表后停 | `955016f874e9ee64` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo POE配件 有人在卖他们的 自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-08-15：price   company info
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档；$87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP — 只保活；按 30% 自有标档复核对外价
+- **第一问（只问一个）**：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 S 邮箱 → johnson@ 一句话问 2.5G 线是否仍外采
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-021` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2024-08 要公司资料与 2.5G 机型报价 → 50 / 65 USD → 无下文；2025-07 一句「Thanks」）** ｜ 类型：台系无线网络品牌（PoE/2.5G 交换机外采）——OEM 买家而非同业（INH 台湾厂商条款的例外说明已在档） ｜ 筛子：2 ｜ 停点：2024-08-15 报 STC-18XGDGE 50 USD / STC-108XGDGP 65 USD（HRUI/Realtek 线 2.5G）后无回；Johnson 要「company information」—— 身份核验 ｜ 复活：其 2.5G 产品线补 SKU；台湾客户非主攻 ｜ 通路：TW ｜ 节奏：2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15 ｜ 证据：k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647
+- **现状一句话**：Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。
+- **对方真实需求（有据）**：2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。
+- **断点 / 为什么停在这里**：身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。
+- **Saga 现在该推什么**：P1 **STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP**（30% 档，按 30% 自有标档复核对外价）——只保活
+- **下一步（具体）**：2027-Q1　S 邮箱 → johnson@　一句话问 2.5G 线是否仍外采
+  - 第一问（只问一个）：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-08-15 | 来 | Johnson（ALFA Network） | Please provide your company information. And what's the price for non-PoE and PoE model. | 核验 + 询价 | `a3c986b6ffa372aa` |
+| 2024-08-15 | 去 | Simon | non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile | 报价 | `1d7b74c6c5e4034f` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -36,10 +36,28 @@ updated: 2026-10-24
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。（调研 2026-10-21；表内兴趣：资料）
 - **为什么是 B 级**：**调研后定级 B**（41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。）；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 41 次（2024-01-24 → 2025-12-30）；最近一次客户回复：2024-08-14：interested
-- **P1（下一步唯一主推）**：STC-28DGGPM — 深挖对位：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）；工业 STI-288GP（$59.8）；$84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（按现价重算） — WA 季度一句话即可；按 25% 集成档
+- **第一问（只问一个）**：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：季度 WhatsApp 一句话问是否有在手项目
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-113` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音）** ｜ 类型：阿布扎比/迪拜安防集成商（NetOn Technologies 域名在同一实体档案内；Chandra）——第四档，中东非主攻 ｜ 筛子：1–2 ｜ 停点：2024-08-14 报 STI-154GP 38 USD 后静默；2024-07 10G MC 规格书后也无下文 ｜ 复活：其项目出现；WA 季度一句话 ｜ 通路：AE 非主攻 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2024-08-14 ｜ 证据：k=98852d1abcd4b4a6 / 68986281c27a13e8 / 71f84f290da90e77
+- **现状一句话**：Chandra 2024-07 对 10G MC 回「Yes, interested」，2024-08 对工业 PoE 回「Whats the pricing」，Simon 报 STI-154GP 38 USD（-40~75℃，DIN，不含光模块/电源）后再无来信；此后 Saga 群发 30+ 封。
+- **对方真实需求（有据）**：10G MC、4 口工业 PoE（CCTV 项目配套）。
+- **断点 / 为什么停在这里**：两次都在价格/规格书之后停——项目型客户没有项目就没有下文；中东非主攻，不追。
+- **Saga 现在该推什么**：P1 **STI-154GP（按现价重算）**（25% 档，按 25% 集成档）——WA 季度一句话即可
+- **下一步（具体）**：季度　WhatsApp　一句话问是否有在手项目
+  - 第一问（只问一个）：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-07-07 | 来 | Chandra（NetOn） | Yes, interested | 10G MC | `98852d1abcd4b4a6` |
+| 2024-08-14 | 来 | Chandra | hi Whats the pricing. | 询价 | `68986281c27a13e8` |
+| 2024-08-14 | 去 | Simon | 38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply | 报价后停 | `71f84f290da90e77` |
 
 ## 基本事实（事实/推断/假设分层）
 

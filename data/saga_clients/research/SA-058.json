@@ -149,5 +149,47 @@
   "tier": 20,
   "why": "Utepo/Wi-Tek 位的商用 24 口 PoE 管理 = STC-424DGGPM-280W；工业位 STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line."
+ "email_hook": "Alongside the Utepo and Wi-Tek units you carry, the Marvell-based 24-port PoE+ managed switch and the 8-port industrial PoE DIN model are the two I can quote EXW as a neutral-packing line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（一句「Thanks for information」；Q-33 标注：可能是 SmartByte/Utepo 渠道客户）",
+   "type": "曼谷多品牌分销/集成（已卖同源产品）",
+   "sieve": "1",
+   "stop": "Q-33「不碰，标记」",
+   "revive": "—",
+   "lane": "TH",
+   "cadence": "2024-07 → 2026-10 去信 21 封",
+   "evidence": "k=e0f000957aae1a7a"
+  },
+  "situation": "唯一来信是礼貌性「Thanks for information」。Q-33 已标注渠道冲突风险。",
+  "need": "—",
+  "breakpoint": "Q-33。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 20,
+   "price": "—",
+   "why": "不碰",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-09-12",
+    "dir": "来",
+    "who": "Success Network",
+    "quote": "Thanks for information",
+    "why": "礼貌回复",
+    "k": "e0f000957aae1a7a"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

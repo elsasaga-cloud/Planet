@@ -112,5 +112,47 @@
   "tier": 30,
   "why": "OEM 二供：其 24E/4SFP L2 管理机（24 PoE+ + 4×10G）对位 STC-424XGGPM-280W；MX-6p 价位（$753+）对位 STI-144GP/STI-110GE 成本优势巨大；仅限非 TAA 商业线；OEM 30% 档"
  },
- "email_hook": "For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?"
+ "email_hook": "For the non-TAA commercial side of the AFI line, a 24-port PoE+ switch with 4×10G SFP+ uplinks in AFI packing lands far below your current sourced cost; one question: is UL listing required on that SKU, or FCC alone?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2024-11 问 PoE++ 版 + 两款价格 → 给资料 → 无；研究档：TAA/UL 冲突户）",
+   "type": "美国品牌商（本土制造 + TAA 外采线）；Tim Orselli",
+   "sieve": "2",
+   "stop": "TAA/UL 要求（INH 红线）",
+   "revive": "不承诺 TAA/UL → 无复活路径",
+   "lane": "US",
+   "cadence": "2024-06 → 2026-09 去信 25 封；最后来信 2024-11-22",
+   "evidence": "k=1b4ccb2f0365c41d / 0bff4caab85195a3"
+  },
+  "situation": "Tim 问「Do you have it in PoE++ as well? Send pricing for both」，Simon 发资料；无回。AFI 的外采线要 TAA。",
+  "need": "8 口工业 PoE/PoE++（TAA）。",
+  "breakpoint": "TAA 边界。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；建议移出群发",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-22",
+    "dir": "来",
+    "who": "Tim Orselli",
+    "quote": "Do you have it in PoE++ as well? Send pricing for both.",
+    "why": "唯一来信",
+    "k": "1b4ccb2f0365c41d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

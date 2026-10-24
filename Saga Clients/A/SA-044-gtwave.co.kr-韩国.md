@@ -35,10 +35,26 @@ updated: 2026-10-24
 - **是谁**：韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。（调研 2026-10-21；表内兴趣：自己的logo 工业FS FS PoE 海思的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）；最近一次客户回复：2025-04-15：Company Info
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 保活；—
+- **第一问（只问一个）**：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 A 邮箱 一句话问 PoE 线外采情况
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-044` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-04 要公司名与目录 → 给了 → 无下文）** ｜ 类型：韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park ｜ 筛子：1 ｜ 停点：2025-04-16 目录后无回 ｜ 复活：其 PoE 交换机换源 ｜ 通路：KR ｜ 节奏：2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15 ｜ 证据：k=2cc027d0b96713b6 / e7ae897881e06df3
+- **现状一句话**：Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。
+- **对方真实需求（有据）**：自有品牌 PoE 交换机。
+- **断点 / 为什么停在这里**：身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—）——保活
+- **下一步（具体）**：2027-Q1　A 邮箱　一句话问 PoE 线外采情况
+  - 第一问（只问一个）：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-15 | 来 | Moonsoo Park | Let me know your company name and send me catalogue. | 「你是谁」 | `2cc027d0b96713b6` |
 
 ## 基本事实（事实/推断/假设分层）
 

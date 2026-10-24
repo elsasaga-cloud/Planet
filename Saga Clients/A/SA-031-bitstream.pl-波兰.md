@@ -35,10 +35,27 @@ updated: 2026-10-24
 - **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。（调研 2026-10-21；表内兴趣：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）；最近一次客户回复：2025-01-30：INFO
-- **P1（下一步唯一主推）**：STC-424XGGPM-280W — 深挖对位：Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档；$196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次；按 30%
+- **第一问（只问一个）**：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-031` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文）** ｜ 类型：波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU ｜ 筛子：2 ｜ 停点：140 USD 报价后无回；2026-08 群发只收到休假自动回复 ｜ 复活：其非核心 SKU（非管理工业/MC）补源 ｜ 通路：PL/EU ｜ 节奏：2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30 ｜ 证据：k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc
+- **现状一句话**：Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。
+- **对方真实需求（有据）**：工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。
+- **断点 / 为什么停在这里**：同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。
+- **Saga 现在该推什么**：P1 **STI-244GP / STI-110GE（非管理工业 / MC）**（30% 档，按 30%）——换到非核心 SKU 问一次
+- **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU
+  - 第一问（只问一个）：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-01-30 | 来 | Katarzyna Surowiec | What is the price? | 询价 | `ab20a2586535bf26` |
+| 2025-01-30 | 去 | Alan | 140usd/pc STI-288DGGPM-2BT… L3 managed version si also available | 报价后停 | `627139dd3ba20af7` |
 
 ## 基本事实（事实/推断/假设分层）
 

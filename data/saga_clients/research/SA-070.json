@@ -126,5 +126,47 @@
   "tier": 20,
   "why": "IPCP-8G4G-AT1（8 GE PoE + 4 上联）对位 STC-28DGGPM（管理型，EXW $80.7 @20%）作为「managed」新 SKU；24 口千兆位 STC-424DGGPM-280W（EXW $134.5）；电商 20% 档；不承诺 UL/TAA"
  },
- "email_hook": "Next to the IPCP-8G4G-AT1, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP at EXW cost gives you a managed tier without UL or TAA claims, and the 24-port gigabit 4-uplink unit you currently list as sold out is the second one I am pricing."
+ "email_hook": "Next to the IPCP-8G4G-AT1, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP at EXW cost gives you a managed tier without UL or TAA claims, and the 24-port gigabit 4-uplink unit you currently list as sold out is the second one I am pricing.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-08「We require TAA Compliant and UL Listed switches」）",
+   "type": "美国自有品牌 PoE 网店（现供 ONV）；Sean Nelson",
+   "sieve": "1",
+   "stop": "TAA + UL（INH 红线）",
+   "revive": "无",
+   "lane": "US",
+   "cadence": "2024-07 → 2026-09 去信 17 封；最后来信 2025-08-21",
+   "evidence": "k=465526f0a93e971c"
+  },
+  "situation": "Sean 一句话划线：要 TAA 合规 + UL 认证。Saga 两者皆无。",
+  "need": "TAA/UL PoE 交换机。",
+  "breakpoint": "TAA/UL 边界。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—",
+   "why": "移出群发",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；移出群发",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-08-21",
+    "dir": "来",
+    "who": "Sean Nelson",
+    "quote": "We require TAA Compliant and UL Listed switches. If you have this, please let me know.",
+    "why": "边界原话",
+    "k": "465526f0a93e971c"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

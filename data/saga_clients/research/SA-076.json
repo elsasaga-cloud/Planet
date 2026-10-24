@@ -135,5 +135,76 @@
   "tier": 30,
   "why": "Lanberg RSGE-24P 系列（24 PoE+ + 2 GE + 2 SFP）→ STC-424DGGPM-280W（管理型升级）；8 口位 STC-28DGGPM；贴 Lanberg 标 30% 档，体量可 25%"
  },
- "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line."
+ "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）",
+   "type": "波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话）",
+   "sieve": "2",
+   "stop": "2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz）",
+   "revive": "Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表",
+   "lane": "PL/EU（CE 有）",
+   "cadence": "2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03",
+   "evidence": "k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31"
+  },
+  "situation": "Impakt 的产品开发经理 Łukasz Gąsiewicz 2025-09-29 主动转发同事 Bartosz 收到的群发并要「actual offer」，10-03 贴图说「We looking for devices like this with CE power supply. Prices? MOQ?」——是 1G SFP 媒体转换器。Alan 报 13 USD/pc、MOQ 1、附规格书，10-15 追问后无回。之后的群发全部发回 Bartosz，Łukasz 再没收到针对性内容。",
+  "need": "Lanberg 品牌的 MC（CE 电源）与小型交换机补 SKU；价格敏感（自有品牌比价）。",
+  "breakpoint": "决策人找对了、产品找对了、价格给了，停在「没有第二封针对性的信」——群发名单没有把 Łukasz 设为主收件人。",
+  "saga_now": {
+   "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
+   "tier": 30,
+   "price": "按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）",
+   "why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户",
+   "repeat": [],
+   "gaps": [
+    "Lanberg 现有 MC 型号与售价（官网可查，未做）",
+    "13 USD MC 属于哪条线（Realtek/HRUI？）——报前核"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → lukasz.gasiewicz@（主收件人），抄 Bartosz",
+   "action": "一张对位表 + 一句话问 Lanberg 2027 年 SKU 计划",
+   "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
+  },
+  "facts": [
+   {
+    "date": "2025-09-29",
+    "dir": "来",
+    "who": "Łukasz Gąsiewicz（Product Development Manager）",
+    "quote": "I cooworking with Bartosz pls send me you actual offer",
+    "why": "决策人出现",
+    "k": "93d83062626fac30"
+   },
+   {
+    "date": "2025-10-03",
+    "dir": "来",
+    "who": "Łukasz",
+    "quote": "We looking for devices like this 😉 with CE power supply Prices ? MOQ ?",
+    "why": "需求（1G SFP MC）",
+    "k": "897f6d9873002938"
+   },
+   {
+    "date": "2025-10-03",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input",
+    "why": "报价",
+    "k": "c220bcc3035956bf"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Any news about the 1G media converter? Need to order or something?",
+    "why": "追问无回",
+    "k": "43168b7db932dd31"
+   }
+  ],
+  "proof_gaps": [
+   "Elsa 与 Łukasz 的早先往来在 E 邮箱（189 封）中未单独核对"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

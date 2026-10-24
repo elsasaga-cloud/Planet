@@ -145,5 +145,65 @@
   "tier": 20,
   "why": "其最走量型 IPS33054PF/IPS31004PF（4 PoE + 1 光）= STI-144GP；IPS33168PFM = STI-288DGGPM；分销 20% 档"
  },
- "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label."
+ "email_hook": "Against your ONV-IPS33054PF and IPS33168PFM listings, the Marvell-based 4+1 and 8+2 industrial PoE units are the two I can quote at EXW today as an alternative line under your own label.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（询问阶段，但 2026-07-15 有带型号的 CENTEC 询价：STH-8C24XF-HSI ×2 + 24×10G Base-T/2×100G ×2）",
+   "type": "胡志明市工业交换机垂直分销/电商（5 人），同时推 Non-China 线——第三档",
+   "sieve": "2",
+   "stop": "2026-07-15 Alan 报 STH-8C24DX-HSI 2,200 USD（24×25G 可配 10G，有现货）/ STH-2C24XE-HSI 1,700 USD 后无回音；2025-12 要「OEM/ODM price list」只给了链接",
+   "revive": "其数据中心项目落地；VN 非主攻",
+   "lane": "VN",
+   "cadence": "2024-07 → 2026-09 去信 29 封；最后来信 2026-07-15",
+   "evidence": "k=cf6dcab93221d2af / 43477f95c8d2e436 / 8ef6fe719128cb52"
+  },
+  "situation": "2025-12-19 对 Alert System 群发回「Pls share me your price list for OEM/ODM」，2026-07-15 对 Q3 链接回具体 RFQ（2 台 STH-8C24XF-HSI + 2 台 24×10G Base-T/2×100G），Alan 同日报 2,200 / 1,700 USD。此后 5 封 PoE 群发无回。",
+  "need": "CENTEC 10G/25G 数据中心交换机 2+2 台（项目）；OEM/ODM 价表。",
+  "breakpoint": "报价后项目窗口关闭；发去的后续全是无关 PoE。",
+  "saga_now": {
+   "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
+   "tier": 25,
+   "price": "按 CENTEC ≥35% 底线复核",
+   "why": "J5：只问项目，不发 PoE",
+   "repeat": [],
+   "gaps": [
+    "STH-8C24XF-HSI 现货状态（Alan 说无货）"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → info@truongsonsolutions.com",
+   "action": "一句话问 7 月 RFQ 的项目结果",
+   "one_question": "Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?"
+  },
+  "facts": [
+   {
+    "date": "2025-12-19",
+    "dir": "来",
+    "who": "Truong Son",
+    "quote": "Pls share me your price list for OEM/ODM.",
+    "why": "价表请求",
+    "k": "cf6dcab93221d2af"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "来",
+    "who": "Truong Son",
+    "quote": "Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28",
+    "why": "RFQ",
+    "k": "43477f95c8d2e436"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "STH-8C24XF-HSI (2pcs) No stock We recommend STH-8C24DX-HSI (ready in stock)… Price: 2200USD/PC 2. STH-2C24XE-HSI (2pcs) Ready in stock Price: 1700USD/PC",
+    "why": "报价",
+    "k": "8ef6fe719128cb52"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

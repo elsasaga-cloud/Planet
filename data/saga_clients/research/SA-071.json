@@ -36,5 +36,47 @@
  "grade_override": "C",
  "override_reason": "INH 巨头/品牌厂商规则：集团 3,200+ 人、自有 PoE 交换机线且要求 UL/MIL 认证，Saga（无 UL、SOHO 体量）不匹配；工程师回复属技术询问而非采购意向。若对方再来询，按 B 处理。",
  "notes": "c_sub=体量过大/品牌厂商。",
- "researched_at": "2026-10-21"
+ "researched_at": "2026-10-21",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（渠道总监反向推销：「I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?」）",
+   "type": "德国 Murrelektronik 美国子公司（自有交换机线）——c_sub 体量过大",
+   "sieve": "1",
+   "stop": "对方是卖方；Alan 回附件后无",
+   "revive": "无",
+   "lane": "US",
+   "cadence": "2025-04 → 2026-09 去信 15 封；最后来信 2025-06-02",
+   "evidence": "k=268d43fb3ab8fa30"
+  },
+  "situation": "Dave Weinberg（Director of Channel Development）用玩笑回了群发并反过来推销自家全线。Alan 回了个附件。",
+  "need": "—",
+  "breakpoint": "巨头 + 反向推销；移出群发。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 30,
+   "price": "—",
+   "why": "移出群发",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动；移出群发",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-06-02",
+    "dir": "来",
+    "who": "Dave Weinberg（Director of Channel Development）",
+    "quote": "I see your 16 port Gigabit switch and I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?",
+    "why": "反向推销",
+    "k": "268d43fb3ab8fa30"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -36,10 +36,26 @@ updated: 2026-10-24
 - **是谁**：美国工业以太网产品网店/品牌商：自有 logo 的 IFS/IGS/IMC/ITP/IPSW/FMC 系列（工业管理型 PoE 交换机、工业介质转换器、IP40 非管理交换机），用户记录其大多为 CTCU（CTC Union）贴牌、亦有 ONV 设备；标价高（8 口千兆管理 PoE 标 $1,800 售 $699；6 口非管理 PoE 售 $145）；S 重点名单，22 次推送 0 回复。（调研 2026-10-21；表内兴趣：有自己的logo 大多数还是CTCU的  工业FS MC POE SFP）
 - **为什么是 B 级**：**人工定级 B**（T27 用户原话「这个客户不用咋管 慢慢来」→ B 慢慢跟进；22 封 0 回复的 S 重点 OEM 买家，不再主动投入，对方有动静再升）；自动分级 A：+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）；+5 跟进表最近平台标记 S
 - **历史互动**：推送 22 次（2024-01-03 → 2025-11-28）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：OEM 30% 档：STI-288DGGPM（$151.6）对位 IGS-803SM-8PH24；STI-154GP（$40.8）对位 IPSW-G04-1GE1SFP；STI-111GP（$30.1）对位 IMC-1000MS-PHE12；$151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW） — 一次对位表；—
+- **第一问（只问一个）**：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：2027-Q1 S 邮箱 → zack@ 对位表 + 一句话
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-135` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（VP Sales 2024-11 要 10G MC 规格书 → 给了 → 无下文）** ｜ 类型：美国自有 logo 工业以太网网店/品牌——第一档类型；Zack Yu（VP Sales） ｜ 筛子：1 ｜ 停点：规格书后无回；24 封群发无回 ｜ 复活：换触达角度（研究档：网店客服/LinkedIn） ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 24 封；最后来信 2024-11-26 ｜ 证据：k=29bcaf9898361cae / 23ff8e2e29b53c84
+- **现状一句话**：Zack 要 10G MC 规格书，Simon 给了。此后无回。
+- **对方真实需求（有据）**：MC / 工业 PoE 全品类贴牌。
+- **断点 / 为什么停在这里**：触达层：VP 回了一次，之后群发无效。
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 IGS-803SM（研究档 $151.6 EXW）**（30% 档，—）——一次对位表
+- **下一步（具体）**：2027-Q1　S 邮箱 → zack@　对位表 + 一句话
+  - 第一问（只问一个）：Which of your IGS-series SKUs would you dual-source first if a Marvell L2+ unit landed 20% under your current cost?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-11-26 | 来 | Zack Yu（VP Sales） | Do you have a data sheet for this converter? | 唯一来信 | `29bcaf9898361cae` |
 
 ## 基本事实（事实/推断/假设分层）
 

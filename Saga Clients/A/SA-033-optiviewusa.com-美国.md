@@ -35,10 +35,29 @@ updated: 2026-10-24
 - **是谁**：美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。（调研 2026-10-21；表内兴趣：VC HDMI FS 商业POE 光模块）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
-- **P1（下一步唯一主推）**：STC-424DGGPM-280W — 深挖对位：OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档；$145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套；按 30% 自有标档
+- **第一问（只问一个）**：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2026-11 S 邮箱 → silvia.flores@ + purchasing@ 三件套一页：4 口 / 8 口价格、交期、FCC
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-033` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（采购员 2024-10-29 要 4/8 口工业 PoE 规格书 + 价格 → 给了资料 → 无下文）** ｜ 类型：美国 CCTV 批发商 + 自有品牌——第一档类型；Silvia Flores（Purchasing Agent） ｜ 筛子：2 ｜ 停点：2024-10-30 Simon「Please see attached information」后无回；此后 20 封群发（含 US 关税期）无回 ｜ 复活：其 PoE 交换机 SKU 换源；NDAA 不涉交换机但要说清芯片 ｜ 通路：US ｜ 节奏：2024-06 → 2026-09 去信 24 封；最后来信 2024-10-29 ｜ 证据：k=3967a837c3bedff6 / 7f7e16f255ec5fae / 54932716b5166fad
+- **现状一句话**：Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。
+- **对方真实需求（有据）**：4/8 口工业 PoE（CCTV 批发 SKU）。
+- **断点 / 为什么停在这里**：采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。
+- **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档）——J2：补一封三件套
+  - 做不了 / 要先核的：2024-10-30 附件是否含价格
+- **下一步（具体）**：2026-11　S 邮箱 → silvia.flores@ + purchasing@　三件套一页：4 口 / 8 口价格、交期、FCC
+  - 第一问（只问一个）：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-10-29 | 来 | Silvia Flores（Purchasing Agent） | Could you please send me the specifications (data sheet) for both the 4-port and 8-port versions? | 规格 | `3967a837c3bedff6` |
+| 2024-10-29 | 来 | Silvia | Also, provide us with the prices for both models | 价格 | `7f7e16f255ec5fae` |
+| 2024-10-30 | 去 | Simon | Please see attached information and let me know. | 回复后停 | `54932716b5166fad` |
 
 ## 基本事实（事实/推断/假设分层）
 

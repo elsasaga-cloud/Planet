@@ -148,5 +148,57 @@
   "tier": 30,
   "why": "自有标 ETN 贴牌进口商：STI-288DGGPM ↔ ETN9075-4GX8PGT 位；STI-144GP ↔ ETN9065-1FX4TX-mini 位；STI-21616GP ↔ 2XG16PGT 位（10G 上联需核）；按 ETN 命名 OEM，30% 档"
  },
- "email_hook": "Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source."
+ "email_hook": "Your ETN9075-4GX8PGT and the 1FX4TX mini sit exactly where our Marvell-based 8-port PoE+ 2-SFP managed DIN switch and the 4+1 compact unit do, so I am quoting both in ETN packing, EXW, as a second source.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-06 要 24 口 + 2 SFP 非管理、48VDC 机架 → Saga 只有 AC 版 → 无下文）",
+   "type": "曼谷进口分销（自有 logo）；Janejira",
+   "sieve": "2",
+   "stop": "产品缺口：48 VDC 输入的 24 口商用非管理机架机",
+   "revive": "SmartByte/HRUI 有 DC 输入商用款时",
+   "lane": "TH",
+   "cadence": "2024-07 → 2026-09 去信 21 封；最后来信 2025-06-16",
+   "evidence": "k=da8a7bcd11691b0e / ed149581e201dace"
+  },
+  "situation": "Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。",
+  "need": "48 VDC 商用 24 口非管理。",
+  "breakpoint": "电源规格缺口（DC 输入商用机）。",
+  "saga_now": {
+   "p1": "无（缺口）",
+   "tier": 20,
+   "price": "—",
+   "why": "有货再说",
+   "repeat": [],
+   "gaps": [
+    "HRUI 是否有 DC48V 输入 24 口商用非管理——查索引"
+   ]
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-06-16",
+    "dir": "来",
+    "who": "Janejira N.",
+    "quote": "Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches… Rack mount switch. Input 48 VDC",
+    "why": "精确需求",
+    "k": "da8a7bcd11691b0e"
+   },
+   {
+    "date": "2025-06-16",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "We only have AC input model",
+    "why": "缺口",
+    "k": "ed149581e201dace"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

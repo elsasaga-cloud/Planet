@@ -35,10 +35,28 @@ updated: 2026-10-24
 - **是谁**：英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。（调研 2026-10-21；表内兴趣：工业FS 也有E-link的5电口）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 16 次（2024-05-07 → 2025-10-14）；最近一次客户回复：78：A
-- **P1（下一步唯一主推）**：STI-144GP — 深挖对位：自有 PDT-NSU-7104-MP-SF-I（4 GE PoE + 1 SFP 超小 DIN）与 STI-144GP 同位；8 口位→STI-288DGGPM；贴 PDT 标 30% 档（量小可 25%）；$36.9 USD EXW（30% 档，SmartByte LT-IS3005GP-1GX4GT 190 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位） — 只在 DIN 非管理这一条线上发一次；按 30% 自有标档
+- **第一问（只问一个）**：For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?
 - **最大未知**：年走量与现供应商
-- **下一步**：按下文「跟进建议」第 1 次执行；回复后更新 research JSON 并重渲染
+- **下一步**：2027-Q1 S 邮箱 → jeff.ferrier@ 一封只讲 DIN 5/8 口非管理工业款（对位 E-link）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-027` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（两次回复都是「不需要」：有 $124 的 Cisco 52 口库存；客户只要 24V 或 48V 单一版本）** ｜ 类型：英国 1 人 OEM/ODM 品牌商（消防探测网络用工业交换机，已买中国 E-link）；Jeff Ferrier ｜ 筛子：1 ｜ 停点：2024-06-03「I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each」；2024-10-24「Customers usually want one or the other and not a combo」 ｜ 复活：其 E-link 供货出问题；或消防网络项目要 DIN 工业非管理 ｜ 通路：UK ｜ 节奏：2024-06 → 2026-09 去信 26 封；最后来信 2024-10-24 ｜ 证据：k=f38bda5c25315e89 / c935ae4f928d5620 / d86526863f22737d
+- **现状一句话**：Jeff 两次回复都给出了真实市场信息：二手/库存 Cisco 52 口 L3 只要 $124（Saga 的 300 USD 新机没有位置）；PoE 客户要么 24V 要么 48V，不要自动切换的组合款（Simon 坚持「这是卖点」）。此后 20 封群发无回。
+- **对方真实需求（有据）**：消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。
+- **断点 / 为什么停在这里**：客户已经说清楚了什么不要；Saga 继续发的是同类。
+- **Saga 现在该推什么**：P1 **STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）**（30% 档，按 30% 自有标档）——只在 DIN 非管理这一条线上发一次
+- **下一步（具体）**：2027-Q1　S 邮箱 → jeff.ferrier@　一封只讲 DIN 5/8 口非管理工业款（对位 E-link）
+  - 第一问（只问一个）：For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-03 | 来 | Jeff Ferrier（Director） | I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now | 价格基准 | `f38bda5c25315e89` |
+| 2024-10-24 | 来 | Jeff | Customers usually want one or the other and not a combo We sell desktop and rack for both | 24V/48V 组合款被否 | `c935ae4f928d5620` |
+| 2024-10-30 | 去 | Simon | Its actually a selling point(auto voltage output) | Saga 坚持 | `d86526863f22737d` |
 
 ## 基本事实（事实/推断/假设分层）
 

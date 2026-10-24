@@ -125,5 +125,55 @@
   "tier": 30,
   "why": "Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档"
  },
- "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first."
+ "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文）",
+   "type": "波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU",
+   "sieve": "2",
+   "stop": "140 USD 报价后无回；2026-08 群发只收到休假自动回复",
+   "revive": "其非核心 SKU（非管理工业/MC）补源",
+   "lane": "PL/EU",
+   "cadence": "2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30",
+   "evidence": "k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc"
+  },
+  "situation": "Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。",
+  "need": "工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。",
+  "breakpoint": "同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。",
+  "saga_now": {
+   "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
+   "tier": 30,
+   "price": "按 30%",
+   "why": "换到非核心 SKU 问一次",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → tjargielo@ / ahyz@",
+   "action": "一句话问其外采的非核心 SKU",
+   "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?"
+  },
+  "facts": [
+   {
+    "date": "2025-01-30",
+    "dir": "来",
+    "who": "Katarzyna Surowiec",
+    "quote": "What is the price?",
+    "why": "询价",
+    "k": "ab20a2586535bf26"
+   },
+   {
+    "date": "2025-01-30",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
+    "why": "报价后停",
+    "k": "627139dd3ba20af7"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -138,5 +138,55 @@
   "tier": 30,
   "why": "SWMD-H-8TGPS-2GSF（8 GE PoE + 2 SFP DIN 240W）与 STI-288DGGPM 同规格同位；4 口版→STI-144GP；16 口→STI-21616GP；贴 CXR 标 30% 档"
  },
- "email_hook": "Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU."
+ "email_hook": "Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（COO 2024-05-30 要 10G MC 规格书 → 65 USD → 无下文）",
+   "type": "法国自有品牌工业网络厂商（含国防终端市场——只 ODM 供货）；Marco Di Valerio（COO）",
+   "sieve": "2",
+   "stop": "65 USD 10G MC 报价后无回；此后 25 封群发无回",
+   "revive": "其工业线补 SKU（非 MC）",
+   "lane": "FR/EU",
+   "cadence": "2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30",
+   "evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca"
+  },
+  "situation": "COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。",
+  "need": "10G MC（当时）。",
+  "breakpoint": "MC 价格流 + 层级错配。",
+  "saga_now": {
+   "p1": "STI-288DGGPM / STI-488XGGPM（工业 L2+）",
+   "tier": 30,
+   "price": "—",
+   "why": "保活",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "S 邮箱 → marco.divalerio@cxr.fr",
+   "action": "一句话问外采范围",
+   "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered?"
+  },
+  "facts": [
+   {
+    "date": "2024-05-30",
+    "dir": "来",
+    "who": "Marco Di Valerio（COO）",
+    "quote": "please could you send data sheet please",
+    "why": "要规格书",
+    "k": "afbdeb9d5505018c"
+   },
+   {
+    "date": "2024-05-30",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged",
+    "why": "报价后停",
+    "k": "696d6a213ad761ca"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

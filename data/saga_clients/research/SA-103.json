@@ -125,5 +125,47 @@
   "tier": 25,
   "why": "2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档"
  },
- "email_hook": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
+ "email_hook": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（唯一来信 2026-08-12 是对方销售协调员把 Saga 的群发误当成采购询价来「确认需求」）",
+   "type": "阿布扎比集成商（已从深圳采购并刷自有 logo，面对面接触过——研究档）；George",
+   "sieve": "0（邮件层）",
+   "stop": "邮件层无人工对话；研究档建议走 WA",
+   "revive": "WA 层",
+   "lane": "AE 非主攻",
+   "cadence": "2025-03 → 2026-09 去信 20 封；来信 1 封（误读）",
+   "evidence": "k=75714cbe9fd11aa2"
+  },
+  "situation": "2026-08-12 Jomini（Sales Coordinator）问「你们是在找 BORN 商用 24 口管理交换机吗？」——把 Alan 的推广邮件读成了采购需求。说明邮件进了对方销售台，没进采购。",
+  "need": "工业 PoE（在用 N-Net，研究档）。",
+  "breakpoint": "渠道错位：销售台 vs 采购。",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "—",
+   "why": "WA",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 Simon WA 节奏",
+   "channel": "WhatsApp",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-12",
+    "dir": "来",
+    "who": "Jomini Midhun（Sales Coordinator）",
+    "quote": "Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch?",
+    "why": "误读为采购",
+    "k": "75714cbe9fd11aa2"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

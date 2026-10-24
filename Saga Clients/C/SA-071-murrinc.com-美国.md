@@ -38,7 +38,22 @@ updated: 2026-10-24
 - **历史互动**：实质回复 1 次；推送 1 次（2025-06-02 → 2025-06-02）；最近一次客户回复：2025-06-02：INFO
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动；移出群发 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-071` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（渠道总监反向推销：「I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?」）** ｜ 类型：德国 Murrelektronik 美国子公司（自有交换机线）——c_sub 体量过大 ｜ 筛子：1 ｜ 停点：对方是卖方；Alan 回附件后无 ｜ 复活：无 ｜ 通路：US ｜ 节奏：2025-04 → 2026-09 去信 15 封；最后来信 2025-06-02 ｜ 证据：k=268d43fb3ab8fa30
+- **现状一句话**：Dave Weinberg（Director of Channel Development）用玩笑回了群发并反过来推销自家全线。Alan 回了个附件。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：巨头 + 反向推销；移出群发。
+- **Saga 现在该推什么**：P1 **无**（30% 档，—）——移出群发
+- **下一步（具体）**：不动；移出群发　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-02 | 来 | Dave Weinberg（Director of Channel Development） | I see your 16 port Gigabit switch and I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga? | 反向推销 | `268d43fb3ab8fa30` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -36,10 +36,27 @@ updated: 2026-10-24
 - **是谁**：韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。（调研 2026-10-21；表内兴趣：想要realtek高端系列的芯片）
 - **为什么是 B 级**：**调研后定级 B**（品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 24 次（2024-05-01 → 2025-10-29）；最近一次客户回复：2025-02-18：让加微信谈
-- **P1（下一步唯一主推）**：STC-424XGGM(L3) — 深挖对位：24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。；$291.5 USD EXW（30% 档，SmartByte LT-S8528XG-4XS24GT 1500 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 整机 ODM（研究档） — 若 WeChat 已加则在 WeChat；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 WeChat —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-097` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（2025-02「Could we talk via WeChat?」→ Alan 先问 Marvell 是否可接受 → 无下文）** ｜ 类型：韩国自研交换机厂商（PIOLINK）——潜在 ODM 买家；Jayden Lee ｜ 筛子：1 ｜ 停点：Alan 2025-02-18 以芯片问题回复了「加 WeChat」的请求；对方没再回 ｜ 复活：WeChat 层（若 Simon 已加） ｜ 通路：KR ｜ 节奏：2024-07 → 2026-09 去信 24 封；最后来信 2025-02-18 ｜ 证据：k=ba64fb062e5e9604 / 1048e9cbd52c2199
+- **现状一句话**：Jayden 要求转 WeChat（jayden092），Alan 回「我们是 Marvell，你接受吗？附 GPT 写的三种芯片差异」。对方消失。
+- **对方真实需求（有据）**：24 口光聚合（当时）。
+- **断点 / 为什么停在这里**：对方要换渠道，Saga 用筛子问题回应——顺序颠倒。
+- **Saga 现在该推什么**：P1 **HRUI/Realtek 整机 ODM（研究档）**（30% 档，—）——若 WeChat 已加则在 WeChat
+  - 做不了 / 要先核的：WeChat 是否已加
+- **下一步（具体）**：不动　WeChat　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-02-18 | 来 | Jayden（PIOLINK） | Could we talk via WeChat? My WeChat account is "jayden092" | 渠道请求 | `ba64fb062e5e9604` |
+| 2025-02-18 | 去 | Alan | Our products are Marvell chipset based. Is this fine with you?… Please see attached info from GPT | 以筛子回应 | `1048e9cbd52c2199` |
 
 ## 基本事实（事实/推断/假设分层）
 

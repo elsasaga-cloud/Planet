@@ -145,5 +145,49 @@
   "tier": 30,
   "why": "DCE ANS208（8×FE 工业）→ 千兆 PoE 升级 STI-288DGGPM；ANS205CR → STI-144GP；GMC/DFT → STI-110GE；贴 DCE 标 30% 档"
  },
- "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series."
+ "email_hook": "Your DCE ANS208 and ANS205CR are still 10/100 non-PoE, so a Marvell-based gigabit PoE DIN switch in 8+2 SFP and 4+1 formats under the DCE label is the natural refresh, and I am quoting both with the gigabit SFP media converter that matches your GMC series.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（0 回复：档案里的 1 封「来信」是 Alpha Net 的 Nate 回群发时抄送 bpatton@data-connect.com，非 DCE 回复）",
+   "type": "美国自有品牌 DCE（MC/工业线 ODM 来源）——第一档类型",
+   "sieve": "0",
+   "stop": "27 封去信零回复（Bob Patton）",
+   "revive": "换触达角度（官网表单/LinkedIn），不再加频",
+   "lane": "US",
+   "cadence": "2024-08 → 2026-10 去信 27 封；0 回复",
+   "evidence": "k=6350a98e7dcd08eb（实为 SA-091 来信）"
+  },
+  "situation": "研究档「1 次回复」是误判：那封信来自 Nate Cline（Alpha Net），只是抄送了 DCE 的 Bob Patton。DCE 两年零回复。",
+  "need": "DCE 的 MC/工业交换机 ODM 补源。",
+  "breakpoint": "触达问题，不是需求问题；频率无用。",
+  "saga_now": {
+   "p1": "STI-110GE MC 对位表",
+   "tier": 30,
+   "price": "—",
+   "why": "换渠道",
+   "repeat": [],
+   "gaps": [
+    "DCE 产品经理联系人"
+   ]
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "LinkedIn / 官网表单",
+   "action": "一次对位表",
+   "one_question": "Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match?"
+  },
+  "facts": [
+   {
+    "date": "2024-08-24",
+    "dir": "来",
+    "who": "Nate Cline（Alpha Net，抄送 DCE）",
+    "quote": "Yes, I would like to learn more about your 10G media converter…",
+    "why": "误归属说明",
+    "k": "6350a98e7dcd08eb"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

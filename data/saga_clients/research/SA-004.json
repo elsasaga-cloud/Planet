@@ -68,5 +68,47 @@
   "tier": 25,
   "why": "不推进（军用守界）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（CEO 一句「8 POE 130 W ?」→ 答 240W → 无）",
+   "type": "以色列系统集成（SILVUS 代理，战术通信/安全城市）——守界：只供硬件，项目不碰",
+   "sieve": "1",
+   "stop": "一问一答后无",
+   "revive": "对方主动",
+   "lane": "IL",
+   "cadence": "2024-09 → 2026-09 去信 18 封；最后来信 2024-09-09",
+   "evidence": "k=858ecff34f2f4f6e / 6040430bbbdcc302"
+  },
+  "situation": "CEO Shimon 问 8 口 PoE 预算是否 130W，Simon 答 240W 附规格书。无回。",
+  "need": "8 口 PoE（车载/战术？）。",
+  "breakpoint": "守界 + 单问。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 25,
+   "price": "—",
+   "why": "不投入",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-09-09",
+    "dir": "来",
+    "who": "Shimon Lazarovitch（CEO）",
+    "quote": "8 POE 130 W ?",
+    "why": "唯一来信",
+    "k": "858ecff34f2f4f6e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

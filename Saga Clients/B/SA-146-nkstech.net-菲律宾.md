@@ -36,10 +36,25 @@ updated: 2026-10-24
 - **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：**调研后定级 B**（同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推）**：STI-288DGGPM — 深挖对位：集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）；$145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：放入慢跟队列（4–6 周一次）；有回复即重评
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-146` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（0 回复：档案里的 1 封「来信」是 Avanca 的 Steven 回群发时抄送 info@nkstech.net）** ｜ 类型：菲律宾电力 SCADA 集成商 ｜ 筛子：0 ｜ 停点：4 封去信零回复 ｜ 复活：— ｜ 通路：PH ｜ 节奏：2024-11 → 2025-03 去信 4 封 ｜ 证据：k=d691da1b4d887acd（实为 SA-132 来信）
+- **现状一句话**：研究档的「来信」为误归属（Steven Fu 的回复抄送了 NKS）。NKS 本身零回复。
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：误归属更正。
+- **Saga 现在该推什么**：P1 **无**（25% 档，—）——不投入
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-11-06 | 来 | Steven Fu（Avanca，抄送 NKS） | Could you send me datasheet ? | 误归属说明 | `d691da1b4d887acd` |
 
 ## 基本事实（事实/推断/假设分层）
 
