@@ -1,0 +1,19 @@
+{
+ "sha256_16": "35a4e8e720c7745d",
+ "name": "Customization after log-in.jpg",
+ "ext": ".jpg",
+ "bytes": 138179,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 1920,
+  "height": 1035,
+  "mode": "RGB",
+  "thumb_bytes": 7257
+ },
+ "warnings": [],
+ "chars": 503,
+ "text": "的 )\nos | _ Given IP Address sons\n0 ®& 192.168.56.166/#/monitor/dashboard ww\n= Monitor O Q\nciate System Information CPU Memory\nProduct ID\nroe: |Given Information\nMAC Address\n63 81.5996\nHardware Version : V1.4\nSoftware Version : release/7.1.0 (r957\nUptime : 00:01\n7Y selected [TY AG Port P7Y trunk Port PY 13 Port fl Ue [EY shutdown fll éror-down ER Eine:\n1 3 = 7 9 11 13 «15 17 19 21 23\n2 4 6 8 10 12 14 16 18 20 22 24 25 26 27 28\nTraffic gigabitEthernet0/1 Kbps\n-Or Ix Traffic Rx Traffic\nkbps\n03\n0.25\n02",
+ "extracted_at": "2026-10-24T02:59:39Z"
+}

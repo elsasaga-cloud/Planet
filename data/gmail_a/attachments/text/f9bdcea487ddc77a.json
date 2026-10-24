@@ -1,0 +1,3536 @@
+{
+ "sha256_16": "f9bdcea487ddc77a",
+ "name": "Industrial Switch.doc",
+ "ext": ".doc",
+ "bytes": 1432064,
+ "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Word Document",
+  "author": "",
+  "last_modified_by": "python-docx",
+  "created": "",
+  "modified": "2026-10-24T02:59:18+00:00",
+  "paragraphs": 20,
+  "tables": 3,
+  "embedded_images": 5,
+  "ocr_images": 0
+ },
+ "warnings": [],
+ "chars": 25388,
+ "text": "Overview\nis a 10-port full gigabit industrial managed PoE switch that supports up to 8*10/100/1000M PoE downlink ports, 2* 1000M SFP ports. 8*10/100/1000M ports support PoE+, conforming to IEEE 802.3af/at standard, support 2 port PoE power each up to 90W, 6 port PoE power each up to 30W.\nIt supports L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management and PoE management.\nIt supports 6KV surge protection, 8KV contact/15KV air ESD protection.\nIt supports wall hanging, desktop and Din-rail installation, reliable and durable, and can be used in security network video monitoring, network engineering and other occasions.\nPicture\nFeatures\nWith 8*10/100/1000M PoE downlink ports, 2*1000M SFP ports, with L2 network management.\nSupport 2 port PoE power each up to 90W,6 port PoE power each up to 30W.\nSupport L2 management, such as QoS, VLAN, MSTP, Multi-broadcast, ports management and PoE management.\n6KV surge protection, 8KV contact /15KV air ESD protection.\nSupport working temperature -40℃～75℃.\nSpecifications\nParameter\tSpecifications\nProtection Levl\tIP40\nPower supply\tPowered by power adaptor\nRange of voltage\tDC 48~57V\nConsumption\tSelf-consumption<20W\nDownlink ports\tPorts 1~2 10/100/1000Base-T 90W PoE RJ45(IEEE802.3bt, also support IEEE 802.3af/at) / 3~8 10/100/1000Base-T 30W PoE RJ45(IEEE 802.3af/at)\nUplink ports\tPorts 9~10 1000M SFP slots\nCable and distance\tUse cat5e/6,100m max\nStandard\tIEEE802.3, IEEE802.3u, IEEE802.3z\nSwitch fabric\t20Gbps\nThough put\t14.88Mpps\nBuffer\t1M\nMAC address table\t8K\nIndicator\tPower: 2 *red ; / Uplink 9~10: green LEDs indicate Link/Act / Downlink 1~8: On RJ45 green LEDs indicate Link/Act, yellow LEDs indicate PoE\nProtection\tSurge: 6KV, standard: IEC61000-4-5 / ESD: 8KV: contact/15KV: air, standard:IEC61000-4-2\nWorking temperature\t-40℃~75℃\nStorage temperature\t-40℃~85℃\nHumidity\t0~95%(No condensation)\nDimension(L×W×H)\t165 mm×115 mm×50mm\nMaterial\tAluminum\nColour\tBlack\nNet-weight\t1kg\nSoftware：\nITEM\t\t\t\tWeb\tCLI\nSystem configuration\tSystem date time\tSNTP\tEnable/Disable\tYes\tYes\nSystem configuration\tUser Management\t\\\tApply/Delete\tYes\tYes\nSystem configuration\tSafe Management\thttp\tEnable/Disable\tYes\tYes\nSystem configuration\tSafe Management\tSNMP\tEnable/Disable\tYes\tYes\nSystem configuration\tSafe Management\ttelnet\tEnable/Disable\t\tYes\nSystem configuration\tSafe Management\tSSH\tEnable/Disable\t\tYes\nSystem configuration\tConfiguration file\t\\\tUpload/Download\tYes\tYes\nSystem configuration\tConfiguration file\t\\\tSave/Delete\tYes\tYes\nSystem configuration\tFirmware file\t\\\tUpload\tYes\tYes\nSystem configuration\tSystem\t\\\tReboot/Reboot Factory\tYes\tYes\nPort configuration\tCommon\tAdmin Status\tUp/Down\tYes\tYes\nPort configuration\tCommon\tSpeed\tAuto\tYes\tYes\nPort configuration\tCommon\tSpeed\tFull-1000 Mbps\tYes\tYes\nPort configuration\tCommon\tSpeed\tFull-100 Mbps\tYes\tYes\nPort configuration\tCommon\tSpeed\tHalf-100 Mbps\tYes\tYes\nPort configuration\tCommon\tSpeed\tFull-10 Mbps\tYes\tYes\nPort configuration\tCommon\tSpeed\tHalf-10 Mbps\tYes\tYes\nPort configuration\tFlow control\t\\\tOn/Off\tYes\tYes\nPort configuration\tStorm constrain\tAction\tBlock\t\tYes\nPort configuration\tStorm constrain\tAction\tShutdown\t\tYes\nPort configuration\tStorm constrain\tBroadcast\tMin-rate | Max-rate / 1~1488100pps\t\tYes\nPort configuration\tStorm constrain\tEnable\tLog\t\tYes\nPort configuration\tStorm constrain\tEnable\tTrap\t\tYes\nPort configuration\tStorm constrain\tInterval\t6~180s\t\tYes\nPort configuration\tStorm constrain\tMulticast\tMin-rate | Max-rate / 1~1488100pps\t\tYes\nPort configuration\tStorm constrain\tUnicast\tMin-rate | Max-rate / 1~1488100pps\t\tYes\nPort configuration\tStrom control\tBroadcast(1~1024000kbps)\tOn/Off\tYes\tYes\nPort configuration\t\tMulticast(1~1024000kbps)\tOn/Off\tYes\tYes\nPort configuration\t\tDLF(1~1024000kbps)\tOn/Off\tYes\tYes\nPort configuration\tRate limit\tTX\t1~1024000kbps/Off\tYes\tYes\nPort configuration\t\tRX\t1~1024000kbps/Off\tYes\tYes\nPort configuration\tProtected Port\t/\tYes/No\tYes\tYes\nPort configuration\tLearn Limit\tMAC Address\t0~8191\tYes\tYes\nPort configuration\tPort trunk\tTrunk Group\tCreate/Delete\tYes\tYes\nPort configuration\tPort trunk\tMember Port\tAdd/Delete\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tSrc-mac\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tDst-mac\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tSrc-dst-mac\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tSrc-ip\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tDst-ip\tYes\tYes\nPort configuration\tPort trunk\tTrunk Method\tSrc-dst-ip\tYes\tYes\nPort configuration\tPort Mirror\tMirror Port\t/\tYes\tYes\nPort configuration\tPort Mirror\tMirrored Port\t/\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tReceive\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tTransmit\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tBoth\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tNot_receive\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tNot_transmit\tYes\tYes\nPort configuration\tPort Mirror\tMirror Direction\tNeither\tYes\tYes\nPort configuration\tDHCP\tDHCP client\tEnable\t\tYes\nPort configuration\tDHCP\t\tRelease\t\tYes\nPort configuration\tDHCP\t\tRenew\t\tYes\nPort configuration\tDHCP\tDHCP Snooping\t/\t\tYes\nPort configuration\tIP\tIGMP Snooping\tMrouter / VLAN(1~4094)\t\tYes\nPort configuration\tIP\tMAC-bind\tIP Address / MAC Address\t\tYes\nPort configuration\tIP-subnet-vlan\tIP Address | Mask\tVLAN 1~4094\tYes\tYes\nPort configuration\tLACP\tPort Priority\t1~65535\t\tYes\nPort configuration\tLACP\tTimeout\tLong\t\tYes\nPort configuration\tLACP\tTimeout\tShort\t\tYes\nPort configuration\tLLDP\tAdmin Status\tDisable\t\tYes\nPort configuration\tLLDP\tAdmin Status\tTX\t\tYes\nPort configuration\tLLDP\tAdmin Status\tRX\t\tYes\nPort configuration\tLLDP\tAdmin Status\tTXRX\t\tYes\nPort configuration\tLLDP\tEnable\t/\t\tYes\nPort configuration\tLLDP\tCheck-change-interval\t1~30\t\tYes\nPort configuration\tLLDP\tManagement Address\tIP Address\t\tYes\nPort configuration\tLLDP\tTlv-enable\tDot1-tlv\t\tYes\nPort configuration\tLLDP\tTlv-enable\tDot3-tlv\t\tYes\nPort configuration\tLLDP\tTlv-enable\tMed-tlv\t\tYes\nPort configuration\tLoopback / detection\tEnable\t/\t\tYes\nPort configuration\tLoopback / detection\tResume\t/\t\tYes\nPort configuration\tLoopback / detection\tResume Mode\tAutomation\t\tYes\nPort configuration\tLoopback / detection\t\tManual\t\tYes\nPort configuration\tLoopback / detection\tShutdown Mode\tNo Shutdown\t\tYes\nPort configuration\tLoopback / detection\t\tShutdown\t\tYes\nPort configuration\tMAC VLAN\tMAC Address\tVLAN 1~4094\t\tYes\nPort configuration\tVLAN-mapping\tVLAN(1~4094)\tMap-vlan(1~4094)\t\tYes\nPort configuration\tVoice VLAN\tVLAN ID(1~4094)\tEnable/Disable\t\tYes\nPort configuration\tVoice VLAN\tQos Map-queue(0~7)\tRemark-dscp(0~63)\t\tYes\nPort configuration\tMvr-interface\tEnable/Disable\t/\t\tYes\nPort configuration\tOAM\tEnable\t/\t\tYes\nPort configuration\tOAM\tLoopback\t/\t\tYes\nPort configuration\tOAM\tMode\tActive\t\tYes\nPort configuration\tOAM\tMode\tPassive\t\tYes\nPort configuration\tQinQ\tCustomer\t/\t\tYes\nPort configuration\tQinQ\tOuter-vid(1~4094)\tInner-vid(VLAN ID)\t\tYes\nPort configuration\tQinQ\tTpid\t/\t\tYes\nPort configuration\tQinQ\tUplink\t/\t\tYes\nPort configuration\tUdld\tAggressive\t/\t\tYes\nPort configuration\tUdld\tPort\t/\t\tYes\nPort configuration\tJumbo Frame\t\t1523~16383bytes\t\tYes\nPort configuration\tDDM Information\t/\t/\tYes\tYes\nMAC\tMAC Binding\t\tSelect-all/Apply/Delete\tYes\tYes\nMAC\tMAC Auto Binding\t\tSelect-all/Apply\tYes\tYes\nMAC\tMAC Filter\t\tSelect-all/Apply/Delete\tYes\tYes\nMAC\tMAC Auto Filter\t\tSelect-all/Apply\tYes\tYes\nMAC\tBridge\tAcquire\t/\t\tYes\nMAC\tBridge\tAddress\tMAC(HHHH.HHHH.HHHH) Discard/Forward\t\tYes\nMAC\tBridge\tAgeing-time\t10~1000000s\t\tYes\nMAC\tBridge\tUnregistered\tMulticast Discard/Forward\t\tYes\nVLAN configuration\tVLAN\t2~4094\tApply/Delete\tYes\tYes\nVLAN configuration\tVLAN Port\tMode\tAccess\tYes\tYes\nVLAN configuration\tVLAN Port\tMode\tTrunk\tYes\tYes\nVLAN configuration\tVLAN Port\tMode\tHybrid\tYes\tYes\nVLAN configuration\tVLAN Port\tPort Members\tDefault VLAN(p)\tYes\tYes\nVLAN configuration\tVLAN Port\tPort Members\tTagged Member(t)\tYes\tYes\nVLAN configuration\tVLAN Port\tPort Members\tUntagged Member(u)\tYes\tYes\nVLAN configuration\tVLAN Port\tPort Members\tUnMember\tYes\tYes\nSNMP configuration\tSNMP community\tCommunity Name\tApply/Delete\tYes\tYes\nSNMP configuration\tSNMP community\tRead Only\tApply/Delete\tYes\tYes\nSNMP configuration\tSNMP community\tRead Write\tApply/Delete\tYes\tYes\nSNMP configuration\tTRAP Target\tSNMP Version\tV1\tYes\tYes\nSNMP configuration\tTRAP Target\tSNMP Version\tV2C\tYes\tYes\nSNMP configuration\tTRAP Target\tSNMP Version\tV3\tYes\tYes\nSNMP configuration\tTRAP Target\tItem\tApply/Delete\tYes\tYes\nACL configuration\tStandard IP\tGroup Number\t1~99 1300~1999 Select-all/Add/Delete\tYes\tYes\nACL configuration\tStandard IP\tSource IP\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tStandard IP\tSource Wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tStandard IP\tMath Data Packets\tDeny/Permit\tYes\tYes\nACL configuration\tExtended IP\tGroup Number\t100~199 2000~2699 / Select-all/Add/Delete\tYes\tYes\nACL configuration\tExtended IP\tSource IP\tAdd/Delete\tYes\tYes\nACL configuration\tExtended IP\tSource Wildcard\t/\tYes\tYes\nACL configuration\tExtended IP\tDestination IP\t/\tYes\tYes\nACL configuration\tExtended IP\tDestination Wildcard\t/\tYes\tYes\nACL configuration\tExtended IP\tProtocol Type\tIP/TCP/UDP\tYes\tYes\nACL configuration\tExtended IP\tSource Port\tFtp(TCP) Ftp-Data(TCP) / Pop3(TCP) / Smtp(TCP) / Telnet(TCP) / WWW(TCP) / Rip(UDP) / Snmp(UDP) / Snmp-Trap(UDP) / Tftp(UDP)\tYes\tYes\nACL configuration\tExtended IP\tDestination Port\tFtp(TCP) Ftp-Data(TCP) / Pop3(TCP) / Smtp(TCP) / Telnet(TCP) / WWW(TCP) / Rip(UDP) / Snmp(UDP) / Snmp-Trap(UDP) / Tftp(UDP)\tYes\tYes\nACL configuration\tExtended IP\tTCP Control Flag\tFin / Sys / Rst / Psh / Ack / Urg\tYes\tYes\nACL configuration\tExtended IP\tMath Data Packets\tDeny/Permit\tYes\tYes\nACL configuration\tMAC IP\tGroup Number\t700~799 / Select-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tSource MAC\tAdd/Delete\tYes\tYes\nACL configuration\tMAC IP\tSource MAC wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tSource IP\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tSource Wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tDestination IP\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tDestination Wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tVLAN ID\t0~4094 / Select-all/Add/Delete\tYes\tYes\nACL configuration\tMAC IP\tMath Data Packets\tDeny/Permit\tYes\tYes\nACL configuration\tMAC ARP\tGroup Number\t1100~1199 / Select-all/Add/Delete\tYes\tYes\nACL configuration\tMAC ARP\tSender MAC\tAdd/Delete\tYes\tYes\nACL configuration\tMAC ARP\tSender MAC wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC ARP\tSender IP\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC ARP\tSender IP wildcard\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tMAC ARP\tMath Data Packets\tDeny/Permit\tYes\tYes\nACL configuration\tACL Reference\tPorts\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tACL Reference\tAll ACL Group\tSelect-all/Add/Delete\tYes\tYes\nACL configuration\tTime-range\tName\t1<=S<=31\t\tYes\nACL configuration\tTime-range\tCycle-time\tDays(0~6 week days) / From(0~23hour)\t\tYes\nACL configuration\tTime-range\tUtter-time\tFrom(2000~2100year)\t\tYes\nQoS configuration\tQoS apply\tPort\tSelect\tYes\tYes\nQoS configuration\tQoS apply\tQoS Type\tNO QoS\tYes\tYes\nQoS configuration\tQoS apply\tQoS Type\tCOS-based\tYes\tYes\nQoS configuration\tQoS apply\tQoS Type\tDSCP-based\tYes\tYes\nQoS configuration\tQoS apply\tQoS Type\tDSCP COS-based\tYes\tYes\nQoS configuration\tQoS apply\tUser Priority\t0~7\tYes\tYes\nQoS configuration\tQoS schedule\tPort\tSelect\tYes\tYes\nQoS configuration\tQoS schedule\tQoS schedule mode\tWRR / SP / WFQ\tYes\tYes\nQoS configuration\tQoS schedule\tQoS schedule mode\tWRR / SP / WFQ\tYes\tYes\nQoS configuration\tQoS schedule\tQueue\t0~7\tYes\tYes\nQoS configuration\tQoS schedule\tWeight of queue\t1~127\tYes\tYes\nQoS configuration\tIP Address\tVIAN ID(VID)\t1~4094 Create/Delete\tYes\tYes\nQoS configuration\tIP Address\tIP Address\tSet/Delete\tYes\tYes\nQoS configuration\tIP Address\tDHCP Client\tEnable/Disable\tYes\tYes\nQoS configuration\tARP\tStatic ARP\tIP address  add\tYes\tYes\nQoS configuration\tARP\tStatic ARP\tMAC address add\tYes\tYes\nQoS configuration\tARP\tARP Item\tA.B.C.D   delete\tYes\tYes\nQoS configuration\tARP\tARP Item\tA.B.C.D/M delete\tYes\tYes\nQoS configuration\tARP\tARP Item\tAll  delete\tYes\tYes\nQoS configuration\tARP\tARP Item\tDynamic  delete\tYes\tYes\nQoS configuration\tARP\tARP Item\tStatic  delete\tYes\tYes\nQoS configuration\tARP\tChange Dynamic ARP into Static ARP\tA.B.C.D/M\tYes\tYes\nQoS configuration\tARP\tChange Dynamic ARP into Static ARP\tAll\tYes\tYes\nQoS configuration\tARP\tAging time\t1~65535min\t\tYes\nQoS configuration\tHost Static Route\tTarget Address/Subnet perfix\tApply/Delete\tYes\tYes\nQoS configuration\tHost Static Route\tNext Hop\tApply/Delete\tYes\tYes\nAAA Configuration\tTacacs+\tTaccas+\tEnable/Disable\tYes\tYes\nAAA Configuration\tTacacs+\tServer IP\tA.B.C.D\tYes\tYes\nAAA Configuration\tTacacs+\tAuthentication Type\tpap\tYes\tYes\nAAA Configuration\tTacacs+\t\tchap\tYes\tYes\nAAA Configuration\tTacacs+\tShared Secret\tS<30\tYes\tYes\nAAA Configuration\tRadius\tPrimary Server\tA.B.C.D\tYes\tYes\nAAA Configuration\tRadius\tOption Server\tA.B.C.D\tYes\tYes\nAAA Configuration\tRadius\tUDP Port\t1~65535\tYes\tYes\nAAA Configuration\tRadius\tAccounting\tEnable/Disable\tYes\tYes\nAAA Configuration\tRadius\tShared Key\tS<30\tYes\tYes\nAAA Configuration\tRadius\tVendor\tS<24\tYes\tYes\nAAA Configuration\tRadius\tNAS Port\t1~65535\tYes\tYes\nAAA Configuration\tRadius\tNAS Port Type\t1~65535\tYes\tYes\nAAA Configuration\tRadius\tNAS Service Type\t1~65535\tYes\tYes\nAAA Configuration\tRadius\tRoaming\tEnable/Disable\tYes\tYes\n\t802.1x\t802.1x\tEnable/Disable\tYes\tYes\n\t802.1x\tReauthentication\tEnable/Disable\tYes\tYes\n\t802.1x\tReauthentication Period\t1~2147483647s\tYes\tYes\n\t802.1x\tQuiet Period\t1~2147483647s\tYes\tYes\n\t802.1x\tTx-Period\t1~2147483647s\tYes\tYes\n\t802.1x\tServer Timeout\t1~2147483647s\tYes\tYes\n\t802.1x\tSupplicant Timeout\t1~2147483647s\tYes\tYes\n\t802.1x\tMax Request\t1~2147483647\tYes\tYes\n\t802.1x\tReauth Max\tMax Request\tYes\tYes\n\t802.1x\tClient Version\t0.0~255.255\tYes\tYes\n\t802.1x\tCheck Client\tEnable/Disable\tYes\tYes\n\t802.1x\tCheck Version\tOpen/Close\t\tYes\n\t802.1x Port\tPort Number\tSelect\tYes\tYes\n\t802.1x Port\tPort Mode\tN/A\tYes\tYes\n\t802.1x Port\tPort Mode\tForce-Unauth\tYes\tYes\n\t802.1x Port\tPort Mode\tAuto\tYes\tYes\n\t802.1x Port\tPort Mode\tForce-Auth\tYes\tYes\n\t802.1x Port\tSupport Host Number\t1~256\tYes\tYes\n\t802.1x Port\tGuest VLAN\t1~4094\t\tYes\n\t802.1x Port\tTransmit Port\tEnable/Diaable\t\tYes\n\t802.1x User Auth-Info\tport\tSelect\tYes\tYes\nSTP Configuration\tMSTP\tMSTP\tEnable/Disable\tYes\tYes\nSTP Configuration\tMSTP\tPriority\t0~61440(icrements of 4096)\tYes\tYes\nSTP Configuration\tMSTP\tPortfast Bpdu-Filter\tEnable/Disable\tYes\tYes\nSTP Configuration\tMSTP\tPortfast Bpdu-Guard\tEnable/Disable\tYes\tYes\nSTP Configuration\tMSTP\tForward-Time\t4~30(2*(ForwardTime-1)>=MaxAge)\tYes\tYes\nSTP Configuration\tMSTP\tHello-Time\t1~10(2*(HelloTime+1)<=MaxAge)\tYes\tYes\nSTP Configuration\tMSTP\tErrdisable-Timeout\tEnable/Disable\tYes\tYes\nSTP Configuration\tMSTP\tErrdisable-Timeout Interval\t10~1000000s(10,100000can't update)\tYes\tYes\nSTP Configuration\tMSTP\tMax-Age\t6~40s\tYes\tYes\nSTP Configuration\tMSTP\tMax-Hops\t1~40\tYes\tYes\nSTP Configuration\tMSTP\tCisco-Interopeability\tEnable/Disable\tYes\tYes\nSTP Configuration\tSTP Port\tPort\tSelect\tYes\tYes\nSTP Configuration\tSTP Port\tPortfast\tEnable/Disable\tYes\tYes\nSTP Configuration\tSTP Port\tPortfast bpdu-filter\tEnable/Disable/default\tYes\tYes\nSTP Configuration\tSTP Port\tPortfast bpdu-guard\tEnable/Disable/default\tYes\tYes\nSTP Configuration\tSTP Port\tRoot Guard\tEnable/Disable\tYes\tYes\nSTP Configuration\tSTP Port\tLink-Type\tShared\tYes\tYes\nSTP Configuration\tSTP Port\tLink-Type\tPoint-to-Point\tYes\tYes\nSTP Configuration\tSTP Port\tPriority\t0~240(increments of 16)\tYes\tYes\nSTP Configuration\tSTP Port\tPath-Cost\t1~200000000\tYes\tYes\nSTP Configuration\tSTP Port\tForce-Version\tSTP(0)\tYes\tYes\nSTP Configuration\tSTP Port\tForce-Version\tRSTP(2)\tYes\tYes\nSTP Configuration\tSTP Port\tForce-Version\tMSTP(3)\tYes\tYes\nSTP Configuration\tSTP Port\tForce-Version\tNot-supported(1)\tYes\tYes\nSTP Configuration\tSTP Port\tInstance\t1~15\t\tYes\nIGMP Snooping Configuration\tIGMP Snooping\tIGMP Snooping\tEnable/Disable\tYes\tYes\nGMRP Configuration\tGMRP Global\tGlobal GMRP\tEnable/Disable\tYes\tYes\nGMRP Configuration\tGMRP Ports\tPort\tSelect\tYes\tYes\nGMRP Configuration\tGMRP Ports\tGMRP Status\tEnable/Disable\tYes\tYes\nGMRP Configuration\tGMRP Registration\tFixed\tIF_Name\t\tYes\nGMRP Configuration\tGMRP Registration\tForbidden\t\t\tYes\nGMRP Configuration\tGMRP Registration\tNormal\t\t\tYes\nEAPS Configuration\tEAPS\tEAPS Ring ID\t1~16\tYes\tYes\nEAPS Configuration\tEAPS\tMode\tNone\tYes\tYes\nEAPS Configuration\tEAPS\tMode\tMaster\tYes\tYes\nEAPS Configuration\tEAPS\tMode\tTransit\tYes\tYes\nEAPS Configuration\tEAPS\tPrimary Port\t/\tYes\tYes\nEAPS Configuration\tEAPS\tSecondary Port\t/\tYes\tYes\nEAPS Configuration\tEAPS\tControl VLAN\t2~4094\tYes\tYes\nEAPS Configuration\tEAPS\tProtected VLANs\t1~4094\tYes\tYes\nEAPS Configuration\tEAPS\tHello Time Interval\t1~65535<Fail Time\tYes\tYes\nEAPS Configuration\tEAPS\tFail Time\t2~65535>Hello Time\tYes\tYes\nEAPS Configuration\tEAPS\tData Span\tEnable/Disable\tYes\tYes\nEAPS Configuration\tEAPS\tExtreme Interoperability\tEnable/Disable\tYes\tYes\nEAPS Configuration\tEAPS\tEnable Status\tEnable/Disable\tYes\tYes\nRMON Configuration\tStatistics\tPort\tSelect\tYes\tYes\nRMON Configuration\tStatistics\tIndex\t1~100\tYes\tYes\nRMON Configuration\tStatistics\tOwner\t/\tYes\tYes\nRMON Configuration\tHistory\tPort\tSelect\tYes\tYes\nRMON Configuration\tHistory\tIndex\t1~100\tYes\tYes\nRMON Configuration\tHistory\tInterval\t1~3600\tYes\tYes\nRMON Configuration\tHistory\tRequest Buckets\t1~100\tYes\tYes\nRMON Configuration\tHistory\tOwner\t/\tYes\tYes\nRMON Configuration\tHistory\tHistory Data\tFirst\tYes\tYes\nRMON Configuration\tHistory\tHistory Data\tPrev\tYes\tYes\nRMON Configuration\tHistory\tHistory Data\tNext\tYes\tYes\nRMON Configuration\tHistory\tHistory Data\tLast\tYes\tYes\nRMON Configuration\tAlarm\tIndex\t1~60\tYes\tYes\nRMON Configuration\tAlarm\tInterval\t1~3600\tYes\tYes\nRMON Configuration\tAlarm\tVariable\tMonitor Object's Oid\tYes\tYes\nRMON Configuration\tAlarm\tSample Type\tAbsolute\tYes\tYes\nRMON Configuration\tAlarm\tSample Type\tDelta\tYes\tYes\nRMON Configuration\tAlarm\tRising Threshold\t1~2147483647\tYes\tYes\nRMON Configuration\tAlarm\tFailing Threshold\t1~2147483647\tYes\tYes\nRMON Configuration\tAlarm\tRising Event Index\t1~60\tYes\tYes\nRMON Configuration\tAlarm\tFailing Event Index\t1~60\tYes\tYes\nRMON Configuration\tAlarm\tOwner\t/\tYes\tYes\nRMON Configuration\tEvent\tIndex\t1~60\tYes\tYes\nRMON Configuration\tEvent\tDescription\t/\tYes\tYes\nRMON Configuration\tEvent\tType\tNone\tYes\tYes\nRMON Configuration\tEvent\tType\tLog\tYes\tYes\nRMON Configuration\tEvent\tType\tSnmp-Trap\tYes\tYes\nRMON Configuration\tEvent\tType\tLog-and-Trap\tYes\tYes\nRMON Configuration\tEvent\tCommunity\t/\tYes\tYes\nRMON Configuration\tEvent\tOwner\t/\tYes\tYes\nCluster Management\tNDP\tPort\tSelect\tYes\tYes\nCluster Management\tNDP\tPort Enable\tEnable/Disable\tYes\tYes\nCluster Management\tNDP\tGlobal Enable\tEnable/Disable\tYes\tYes\nCluster Management\tNDP\tHello-Time\t1~4096\tYes\tYes\nCluster Management\tNDP\tAging-Time\t1~4096\tYes\tYes\nCluster Management\tNTDP\tPort\tSelect\tYes\tYes\nCluster Management\tNTDP\tPort Enable\tEnable/Disable\tYes\tYes\nCluster Management\tNTDP\tGlobal Enable\tEnable/Disable\tYes\tYes\nCluster Management\tNTDP\tHops\t1~6\tYes\tYes\nCluster Management\tNTDP\tInterval-Time\t0~65535min\tYes\tYes\nCluster Management\tNTDP\tHop-Delay\t1~1000milsec\tYes\tYes\nCluster Management\tNTDP\tPort-Delay\t1~100milsec\tYes\tYes\nCluster Management\tCluster\tCluster Enable\tEnable/Disable\tYes\tYes\nCluster Management\tCluster\tManagement-VLAN\t1~4094\tYes\tYes\nCluster Management\tCluster\tIP-Pool\tA.B.C.D/M\tYes\tYes\nCluster Management\tCluster\tHandshake Time\t1~255sec\tYes\tYes\nCluster Management\tCluster\tHandshake Hold-time\t1~255sec\tYes\tYes\nCluster Management\tCluster\tCluster Name\t/\tYes\tYes\nCluster Management\tCluster\tType\tAutobuild\tYes\tYes\nCluster Management\tCluster\tType\tManual\tYes\tYes\nLog Information\tLog\tLog Priority\tCritical\tYes\tYes\nLog Information\tLog\tLog Priority\tWarning\tYes\tYes\nLog Information\tLog\tLog Priority\tInformational\tYes\tYes\nLog Information\tLog\tLog Priority\tDebugging\tYes\tYes\nLog Information\tLog\tLog Priority\tAll\tYes\tYes\nLog Information\tSyslog\tOpen/Close\t/\t\tYes\nPOE Power Control\tPOE\tType\t802.3af\t\tYes\nPOE Power Control\tPOE\tType\t802.3at\tYes\tYes\nPOE Power Control\tPOE\tType\t802.3bt\tYes\tYes\nPOE Power Control\tPOE\tAdmin Status\tEnable/Disable\tYes\tYes\nPOE Power Control\tPOE\tTotal Power\t20~2500/0\t\tYes\nPOE Power Control\tPOE\tPOE Policy\tPOE Port\tYes\tYes\nPOE Power Control\tPOE\tPOE Policy\tWeek Days\tYes\tYes\nPOE Power Control\tPOE\tPOE Policy\tClock\tYes\tYes\nPOE Power Control\tPD Query\tPOE Port\tSelect\tYes\tYes\nPOE Power Control\tPD Query\tPOE Watchdog\tEnable/Disable\tYes\tYes\nPOE Power Control\tPD Query\tPD IP Address\tA.B.C.D\tYes\tYes\nPOE Power Control\tPD Query\tPD Query Interval\t5~300sec\tYes\tYes\nPOE Power Control\tPD Query\tPD Timeout Number\t2~10\tYes\tYes\nPOE Power Control\tPD Query\tPD Boot Time\t30~600sec\tYes\tYes\nDHCP\tDHCP snooping\tIP Address\tUpload\t\tYes\nDHCP\tDHCP snooping\tIP Address\tAuto-upload\t\tYes\nDHCP\tDHCP snooping\tIP Address\tDownload\t\tYes\nDHCP\tDHCP snooping\tIP Address\tReset-download\t\tYes\nDHCP\tDHCP snooping\tMAC Address\tDelete\t\tYes\nERPS Configuration\tERPS\tDomain ID\t1~8\tYes\tYes\nERPS Configuration\tERPS\tNode-role\tinterconnection\tYes\tYes\nERPS Configuration\tERPS\tNode-role\tnone-interconnection\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tEnable/Disable\t/\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tForce Switch\tAdd/Clear\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tManual Switch\t\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tGuard Time\t10~2000\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tNode Mode\tRing-node\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tNode Mode\tRpl-neighbor-node\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tNode Mode\tRpl-owner-node\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tHold-off-time\t0~10000\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRaps-send-time\t1~10\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRaps-VLAN\t2~4094\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRevertive-behaviour\tNon-revertive\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRevertive-behaviour\tRevertive\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRing Mode\tMajor-ring\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRing Mode\tSub-ring\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRl-port\tSelect\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tRpl-port\tSelect\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tTraffic VLAN\t1~4094\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tWtb Time\t1~10\tYes\tYes\nERPS Configuration\tERPS Ring ID(1~32)\tWtr Time\t1~12\tYes\tYes\nLACP Configuration\tLACP\tMax-active-link-number\t1~8\t\tYes\n\t\tSystem-priority\t1~65535\t\tYes\nLINE\tLine\tVty\t/\t\tYes\nLLDP\tLLDP\tGlobal\tEnable\t\tYes\nLLDP\tLLDP\tHold-multiplier\t2~10\t\tYes\nLLDP\tLLDP\tTimer\tReinit-delay\t\tYes\nLLDP\tLLDP\tTimer\tTx-delay\t\tYes\nLLDP\tLLDP\tTimer\tTx-interval\t\tYes\nLoop-detection\tLoopback-detection\tDetection-Time\t(1~65535)*2<Resume-Time\t\tYes\nLoop-detection\tLoopback-detection\tProtocol-safety\t/\t\tYes\nLoop-detection\tLoopback-detection\tRespond-packets\t2~100\t\tYes\nLoop-detection\tLoopback-detection\tResume-Time\t10~65535\t\tYes\nMVR\tMVR\tEnable/Disable\t/\t\tYes\nMVR\tMVR\tGroup\tIP Address\t\tYes\nMVR\tMVR\tVLAN\t1~4094\t\tYes\nOAM\tOAM\tErrored-frame\tPeriod\t\tYes\nOAM\tOAM\tErrored-frame\tThreshold\t\tYes\nOAM\tOAM\tErrored-frame-period\tPeriod\t\tYes\nOAM\tOAM\tErrored-frame-period\tThreshold\t\tYes\nOAM\tOAM\tErrored-frame-seconds\tPeriod\t\tYes\nOAM\tOAM\tErrored-frame-seconds\tThreshold\t\tYes\nRedundant-Port\tRedundant-port(1~8)\tForce-switch\t/\t\tYes\nRedundant-Port\tRedundant-port(1~8)\tPrimary-port\tSecondary-port\t\tYes\nUDLD\tUDLD\tEnable\t/\t\tYes\nUDLD\tUDLD\tTime\t7~90\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\t0~65535\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tARP\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tAtalkaarp\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tAtalkddp\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tAtmmulti\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tAtmtransport\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDec\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDeccustom\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDecdiagnostics\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDecdnadumpload\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDecdnaremoteconsole\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDecdnarouting\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDeclat\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tDecsyscomm\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tG8bpqx25\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tIEEEaddrtrans\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tIEEEpup\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tIP\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tIPX\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tPPPdiscovery\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tPPPsession\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tRarp\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tX25\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tXeroxaddrtrans\t\tYes\nProtocol VLAN\tProtocol VLAN\tEther-type\tXeroxpup\t\tYes\nCFM\tCFM\tCC\tinterval(3~7) | Service-instance(1~32767)\t\tYes\nCFM\tCFM\tEnable\t/\t\tYes\nCFM\tCFM\tLinktrace\tAuto-detection\t\tYes\nCFM\tCFM\tMA\tMD\t\tYes\nCFM\tCFM\tMD\tLevel(0~7)\t\tYes\nCFM\tCFM\tMip-rule\tDefault | Service-instance(1~32767)\t\tYes\nCFM\tCFM\tMip-rule\tExplicit | Service-instance(1~32767)\t\tYes\nCFM\tCFM\tService-instance(1~32767)\tMA\t\tYes\nPanel diagram\nFront Panel\nBack Panel\nApplication\nDimensions\nOrder information\nModel\tDescription\nNIE8082PGM\t8*10/100/1000M PoE ports, 2*1000M SFP ports, / 1~2 support 90W, 3~8 port support 30W; / 2*48~57V DC; / Support L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management and PoE management; / 6KV surge protection, 8KV contact /15KV air ESD protection.\nNIE8082GM\t8*10/100/1000M ports, 2*1000M SFP ports; / 2*12~60VDC; / Support L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management; / 6KV surge protection, 8KV contact /15KV air ESD protection.",
+ "blocks": [
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "is a 10-port full gigabit industrial managed PoE switch that supports up to 8*10/100/1000M PoE downlink ports, 2* 1000M SFP ports. 8*10/100/1000M ports support PoE+, conforming to IEEE 802.3af/at standard, support 2 port PoE power each up to 90W, 6 port PoE power each up to 30W."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It supports L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management and PoE management."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It supports 6KV surge protection, 8KV contact/15KV air ESD protection."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "It supports wall hanging, desktop and Din-rail installation, reliable and durable, and can be used in security network video monitoring, network engineering and other occasions."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Picture"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "With 8*10/100/1000M PoE downlink ports, 2*1000M SFP ports, with L2 network management."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support 2 port PoE power each up to 90W,6 port PoE power each up to 30W."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support L2 management, such as QoS, VLAN, MSTP, Multi-broadcast, ports management and PoE management."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "6KV surge protection, 8KV contact /15KV air ESD protection."
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Support working temperature -40℃～75℃."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Specifications"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Parameter",
+     "Specifications"
+    ],
+    [
+     "Protection Levl",
+     "IP40"
+    ],
+    [
+     "Power supply",
+     "Powered by power adaptor"
+    ],
+    [
+     "Range of voltage",
+     "DC 48~57V"
+    ],
+    [
+     "Consumption",
+     "Self-consumption<20W"
+    ],
+    [
+     "Downlink ports",
+     "Ports 1~2 10/100/1000Base-T 90W PoE RJ45(IEEE802.3bt, also support IEEE 802.3af/at) / 3~8 10/100/1000Base-T 30W PoE RJ45(IEEE 802.3af/at)"
+    ],
+    [
+     "Uplink ports",
+     "Ports 9~10 1000M SFP slots"
+    ],
+    [
+     "Cable and distance",
+     "Use cat5e/6,100m max"
+    ],
+    [
+     "Standard",
+     "IEEE802.3, IEEE802.3u, IEEE802.3z"
+    ],
+    [
+     "Switch fabric",
+     "20Gbps"
+    ],
+    [
+     "Though put",
+     "14.88Mpps"
+    ],
+    [
+     "Buffer",
+     "1M"
+    ],
+    [
+     "MAC address table",
+     "8K"
+    ],
+    [
+     "Indicator",
+     "Power: 2 *red ; / Uplink 9~10: green LEDs indicate Link/Act / Downlink 1~8: On RJ45 green LEDs indicate Link/Act, yellow LEDs indicate PoE"
+    ],
+    [
+     "Protection",
+     "Surge: 6KV, standard: IEC61000-4-5 / ESD: 8KV: contact/15KV: air, standard:IEC61000-4-2"
+    ],
+    [
+     "Working temperature",
+     "-40℃~75℃"
+    ],
+    [
+     "Storage temperature",
+     "-40℃~85℃"
+    ],
+    [
+     "Humidity",
+     "0~95%(No condensation)"
+    ],
+    [
+     "Dimension(L×W×H)",
+     "165 mm×115 mm×50mm"
+    ],
+    [
+     "Material",
+     "Aluminum"
+    ],
+    [
+     "Colour",
+     "Black"
+    ],
+    [
+     "Net-weight",
+     "1kg"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Software："
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "ITEM",
+     "",
+     "",
+     "",
+     "Web",
+     "CLI"
+    ],
+    [
+     "System configuration",
+     "System date time",
+     "SNTP",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "User Management",
+     "\\",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "http",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "SNMP",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "telnet",
+     "Enable/Disable",
+     "",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "SSH",
+     "Enable/Disable",
+     "",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Configuration file",
+     "\\",
+     "Upload/Download",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Configuration file",
+     "\\",
+     "Save/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "Firmware file",
+     "\\",
+     "Upload",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "System configuration",
+     "System",
+     "\\",
+     "Reboot/Reboot Factory",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Admin Status",
+     "Up/Down",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Auto",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Full-1000 Mbps",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Full-100 Mbps",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Half-100 Mbps",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Full-10 Mbps",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed",
+     "Half-10 Mbps",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Flow control",
+     "\\",
+     "On/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Action",
+     "Block",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Action",
+     "Shutdown",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Broadcast",
+     "Min-rate | Max-rate / 1~1488100pps",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Enable",
+     "Log",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Enable",
+     "Trap",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Interval",
+     "6~180s",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Multicast",
+     "Min-rate | Max-rate / 1~1488100pps",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Unicast",
+     "Min-rate | Max-rate / 1~1488100pps",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Strom control",
+     "Broadcast(1~1024000kbps)",
+     "On/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "",
+     "Multicast(1~1024000kbps)",
+     "On/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "",
+     "DLF(1~1024000kbps)",
+     "On/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Rate limit",
+     "TX",
+     "1~1024000kbps/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "",
+     "RX",
+     "1~1024000kbps/Off",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Protected Port",
+     "/",
+     "Yes/No",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Learn Limit",
+     "MAC Address",
+     "0~8191",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Group",
+     "Create/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Member Port",
+     "Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Src-mac",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Dst-mac",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Src-dst-mac",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Src-ip",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Dst-ip",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method",
+     "Src-dst-ip",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Port",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirrored Port",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Receive",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Transmit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Both",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Not_receive",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Not_transmit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction",
+     "Neither",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "DHCP client",
+     "Enable",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "",
+     "Release",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "",
+     "Renew",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "DHCP Snooping",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "IP",
+     "IGMP Snooping",
+     "Mrouter / VLAN(1~4094)",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "IP",
+     "MAC-bind",
+     "IP Address / MAC Address",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "IP-subnet-vlan",
+     "IP Address | Mask",
+     "VLAN 1~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LACP",
+     "Port Priority",
+     "1~65535",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LACP",
+     "Timeout",
+     "Long",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LACP",
+     "Timeout",
+     "Short",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Admin Status",
+     "Disable",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Admin Status",
+     "TX",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Admin Status",
+     "RX",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Admin Status",
+     "TXRX",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Enable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Check-change-interval",
+     "1~30",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Management Address",
+     "IP Address",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Tlv-enable",
+     "Dot1-tlv",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Tlv-enable",
+     "Dot3-tlv",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Tlv-enable",
+     "Med-tlv",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "Enable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "Resume",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "Resume Mode",
+     "Automation",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "",
+     "Manual",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "Shutdown Mode",
+     "No Shutdown",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Loopback / detection",
+     "",
+     "Shutdown",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "MAC VLAN",
+     "MAC Address",
+     "VLAN 1~4094",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "VLAN-mapping",
+     "VLAN(1~4094)",
+     "Map-vlan(1~4094)",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Voice VLAN",
+     "VLAN ID(1~4094)",
+     "Enable/Disable",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Voice VLAN",
+     "Qos Map-queue(0~7)",
+     "Remark-dscp(0~63)",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Mvr-interface",
+     "Enable/Disable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Enable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Loopback",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Mode",
+     "Active",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Mode",
+     "Passive",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Customer",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Outer-vid(1~4094)",
+     "Inner-vid(VLAN ID)",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Tpid",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Uplink",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Udld",
+     "Aggressive",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Udld",
+     "Port",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "Jumbo Frame",
+     "",
+     "1523~16383bytes",
+     "",
+     "Yes"
+    ],
+    [
+     "Port configuration",
+     "DDM Information",
+     "/",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "MAC Binding",
+     "",
+     "Select-all/Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "MAC Auto Binding",
+     "",
+     "Select-all/Apply",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "MAC Filter",
+     "",
+     "Select-all/Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "MAC Auto Filter",
+     "",
+     "Select-all/Apply",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Acquire",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Address",
+     "MAC(HHHH.HHHH.HHHH) Discard/Forward",
+     "",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Ageing-time",
+     "10~1000000s",
+     "",
+     "Yes"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Unregistered",
+     "Multicast Discard/Forward",
+     "",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN",
+     "2~4094",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Mode",
+     "Access",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Mode",
+     "Trunk",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Mode",
+     "Hybrid",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Port Members",
+     "Default VLAN(p)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Port Members",
+     "Tagged Member(t)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Port Members",
+     "Untagged Member(u)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Port Members",
+     "UnMember",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Community Name",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Read Only",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Read Write",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "SNMP Version",
+     "V1",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "SNMP Version",
+     "V2C",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "SNMP Version",
+     "V3",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "Item",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Group Number",
+     "1~99 1300~1999 Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Source IP",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Source Wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Math Data Packets",
+     "Deny/Permit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Group Number",
+     "100~199 2000~2699 / Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source IP",
+     "Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source Wildcard",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination IP",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination Wildcard",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Protocol Type",
+     "IP/TCP/UDP",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source Port",
+     "Ftp(TCP) Ftp-Data(TCP) / Pop3(TCP) / Smtp(TCP) / Telnet(TCP) / WWW(TCP) / Rip(UDP) / Snmp(UDP) / Snmp-Trap(UDP) / Tftp(UDP)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination Port",
+     "Ftp(TCP) Ftp-Data(TCP) / Pop3(TCP) / Smtp(TCP) / Telnet(TCP) / WWW(TCP) / Rip(UDP) / Snmp(UDP) / Snmp-Trap(UDP) / Tftp(UDP)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "TCP Control Flag",
+     "Fin / Sys / Rst / Psh / Ack / Urg",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Math Data Packets",
+     "Deny/Permit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Group Number",
+     "700~799 / Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source MAC",
+     "Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source MAC wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source IP",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source Wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Destination IP",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Destination Wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "VLAN ID",
+     "0~4094 / Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Math Data Packets",
+     "Deny/Permit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Group Number",
+     "1100~1199 / Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender MAC",
+     "Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender MAC wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender IP",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender IP wildcard",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Math Data Packets",
+     "Deny/Permit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "ACL Reference",
+     "Ports",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "ACL Reference",
+     "All ACL Group",
+     "Select-all/Add/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Name",
+     "1<=S<=31",
+     "",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Cycle-time",
+     "Days(0~6 week days) / From(0~23hour)",
+     "",
+     "Yes"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Utter-time",
+     "From(2000~2100year)",
+     "",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "QoS Type",
+     "NO QoS",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "QoS Type",
+     "COS-based",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "QoS Type",
+     "DSCP-based",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "QoS Type",
+     "DSCP COS-based",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "User Priority",
+     "0~7",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "QoS schedule mode",
+     "WRR / SP / WFQ",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "QoS schedule mode",
+     "WRR / SP / WFQ",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Queue",
+     "0~7",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Weight of queue",
+     "1~127",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "VIAN ID(VID)",
+     "1~4094 Create/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "IP Address",
+     "Set/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "DHCP Client",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Static ARP",
+     "IP address  add",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Static ARP",
+     "MAC address add",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item",
+     "A.B.C.D   delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item",
+     "A.B.C.D/M delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item",
+     "All  delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item",
+     "Dynamic  delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item",
+     "Static  delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Change Dynamic ARP into Static ARP",
+     "A.B.C.D/M",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Change Dynamic ARP into Static ARP",
+     "All",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Aging time",
+     "1~65535min",
+     "",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "Host Static Route",
+     "Target Address/Subnet perfix",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "QoS configuration",
+     "Host Static Route",
+     "Next Hop",
+     "Apply/Delete",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Taccas+",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Server IP",
+     "A.B.C.D",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Authentication Type",
+     "pap",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "",
+     "chap",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Shared Secret",
+     "S<30",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Primary Server",
+     "A.B.C.D",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Option Server",
+     "A.B.C.D",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "UDP Port",
+     "1~65535",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Accounting",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Shared Key",
+     "S<30",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Vendor",
+     "S<24",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Port",
+     "1~65535",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Port Type",
+     "1~65535",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Service Type",
+     "1~65535",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Roaming",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "802.1x",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Reauthentication",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Reauthentication Period",
+     "1~2147483647s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Quiet Period",
+     "1~2147483647s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Tx-Period",
+     "1~2147483647s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Server Timeout",
+     "1~2147483647s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Supplicant Timeout",
+     "1~2147483647s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Max Request",
+     "1~2147483647",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Reauth Max",
+     "Max Request",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Client Version",
+     "0.0~255.255",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Check Client",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x",
+     "Check Version",
+     "Open/Close",
+     "",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Port Number",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Port Mode",
+     "N/A",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Port Mode",
+     "Force-Unauth",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Port Mode",
+     "Auto",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Port Mode",
+     "Force-Auth",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Support Host Number",
+     "1~256",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Guest VLAN",
+     "1~4094",
+     "",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x Port",
+     "Transmit Port",
+     "Enable/Diaable",
+     "",
+     "Yes"
+    ],
+    [
+     "",
+     "802.1x User Auth-Info",
+     "port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "MSTP",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Priority",
+     "0~61440(icrements of 4096)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Portfast Bpdu-Filter",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Portfast Bpdu-Guard",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Forward-Time",
+     "4~30(2*(ForwardTime-1)>=MaxAge)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Hello-Time",
+     "1~10(2*(HelloTime+1)<=MaxAge)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Errdisable-Timeout",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Errdisable-Timeout Interval",
+     "10~1000000s(10,100000can't update)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Max-Age",
+     "6~40s",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Max-Hops",
+     "1~40",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Cisco-Interopeability",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast bpdu-filter",
+     "Enable/Disable/default",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast bpdu-guard",
+     "Enable/Disable/default",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Root Guard",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Link-Type",
+     "Shared",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Link-Type",
+     "Point-to-Point",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Priority",
+     "0~240(increments of 16)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Path-Cost",
+     "1~200000000",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Force-Version",
+     "STP(0)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Force-Version",
+     "RSTP(2)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Force-Version",
+     "MSTP(3)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Force-Version",
+     "Not-supported(1)",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Instance",
+     "1~15",
+     "",
+     "Yes"
+    ],
+    [
+     "IGMP Snooping Configuration",
+     "IGMP Snooping",
+     "IGMP Snooping",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Global",
+     "Global GMRP",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Ports",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Ports",
+     "GMRP Status",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Fixed",
+     "IF_Name",
+     "",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Forbidden",
+     "",
+     "",
+     "Yes"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Normal",
+     "",
+     "",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "EAPS Ring ID",
+     "1~16",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Mode",
+     "None",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Mode",
+     "Master",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Mode",
+     "Transit",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Primary Port",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Secondary Port",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Control VLAN",
+     "2~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Protected VLANs",
+     "1~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Hello Time Interval",
+     "1~65535<Fail Time",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Fail Time",
+     "2~65535>Hello Time",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Data Span",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Extreme Interoperability",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Enable Status",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Index",
+     "1~100",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Owner",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Index",
+     "1~100",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Interval",
+     "1~3600",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Request Buckets",
+     "1~100",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Owner",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "History Data",
+     "First",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "History Data",
+     "Prev",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "History Data",
+     "Next",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "History Data",
+     "Last",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Index",
+     "1~60",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Interval",
+     "1~3600",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Variable",
+     "Monitor Object's Oid",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Sample Type",
+     "Absolute",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Sample Type",
+     "Delta",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Rising Threshold",
+     "1~2147483647",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Failing Threshold",
+     "1~2147483647",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Rising Event Index",
+     "1~60",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Failing Event Index",
+     "1~60",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Owner",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Index",
+     "1~60",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Description",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Type",
+     "None",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Type",
+     "Log",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Type",
+     "Snmp-Trap",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Type",
+     "Log-and-Trap",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Community",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Owner",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Port Enable",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Global Enable",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Hello-Time",
+     "1~4096",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Aging-Time",
+     "1~4096",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port Enable",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Global Enable",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Hops",
+     "1~6",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Interval-Time",
+     "0~65535min",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Hop-Delay",
+     "1~1000milsec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port-Delay",
+     "1~100milsec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Cluster Enable",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Management-VLAN",
+     "1~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "IP-Pool",
+     "A.B.C.D/M",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Handshake Time",
+     "1~255sec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Handshake Hold-time",
+     "1~255sec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Cluster Name",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Type",
+     "Autobuild",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Type",
+     "Manual",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Log",
+     "Log Priority",
+     "Critical",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Log",
+     "Log Priority",
+     "Warning",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Log",
+     "Log Priority",
+     "Informational",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Log",
+     "Log Priority",
+     "Debugging",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Log",
+     "Log Priority",
+     "All",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "Log Information",
+     "Syslog",
+     "Open/Close",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "Type",
+     "802.3af",
+     "",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "Type",
+     "802.3at",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "Type",
+     "802.3bt",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "Admin Status",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "Total Power",
+     "20~2500/0",
+     "",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "POE Policy",
+     "POE Port",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "POE Policy",
+     "Week Days",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "POE",
+     "POE Policy",
+     "Clock",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "POE Port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "POE Watchdog",
+     "Enable/Disable",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "PD IP Address",
+     "A.B.C.D",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "PD Query Interval",
+     "5~300sec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "PD Timeout Number",
+     "2~10",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "POE Power Control",
+     "PD Query",
+     "PD Boot Time",
+     "30~600sec",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address",
+     "Upload",
+     "",
+     "Yes"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address",
+     "Auto-upload",
+     "",
+     "Yes"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address",
+     "Download",
+     "",
+     "Yes"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address",
+     "Reset-download",
+     "",
+     "Yes"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "MAC Address",
+     "Delete",
+     "",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS",
+     "Domain ID",
+     "1~8",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS",
+     "Node-role",
+     "interconnection",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS",
+     "Node-role",
+     "none-interconnection",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Enable/Disable",
+     "/",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Force Switch",
+     "Add/Clear",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Manual Switch",
+     "",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Guard Time",
+     "10~2000",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Node Mode",
+     "Ring-node",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Node Mode",
+     "Rpl-neighbor-node",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Node Mode",
+     "Rpl-owner-node",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Hold-off-time",
+     "0~10000",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Raps-send-time",
+     "1~10",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Raps-VLAN",
+     "2~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Revertive-behaviour",
+     "Non-revertive",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Revertive-behaviour",
+     "Revertive",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Ring Mode",
+     "Major-ring",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Ring Mode",
+     "Sub-ring",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Rl-port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Rpl-port",
+     "Select",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Traffic VLAN",
+     "1~4094",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Wtb Time",
+     "1~10",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Wtr Time",
+     "1~12",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "LACP Configuration",
+     "LACP",
+     "Max-active-link-number",
+     "1~8",
+     "",
+     "Yes"
+    ],
+    [
+     "",
+     "",
+     "System-priority",
+     "1~65535",
+     "",
+     "Yes"
+    ],
+    [
+     "LINE",
+     "Line",
+     "Vty",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Global",
+     "Enable",
+     "",
+     "Yes"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Hold-multiplier",
+     "2~10",
+     "",
+     "Yes"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Timer",
+     "Reinit-delay",
+     "",
+     "Yes"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Timer",
+     "Tx-delay",
+     "",
+     "Yes"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Timer",
+     "Tx-interval",
+     "",
+     "Yes"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Detection-Time",
+     "(1~65535)*2<Resume-Time",
+     "",
+     "Yes"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Protocol-safety",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Respond-packets",
+     "2~100",
+     "",
+     "Yes"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Resume-Time",
+     "10~65535",
+     "",
+     "Yes"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "Enable/Disable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "Group",
+     "IP Address",
+     "",
+     "Yes"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "VLAN",
+     "1~4094",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame",
+     "Period",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame",
+     "Threshold",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-period",
+     "Period",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-period",
+     "Threshold",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-seconds",
+     "Period",
+     "",
+     "Yes"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-seconds",
+     "Threshold",
+     "",
+     "Yes"
+    ],
+    [
+     "Redundant-Port",
+     "Redundant-port(1~8)",
+     "Force-switch",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "Redundant-Port",
+     "Redundant-port(1~8)",
+     "Primary-port",
+     "Secondary-port",
+     "",
+     "Yes"
+    ],
+    [
+     "UDLD",
+     "UDLD",
+     "Enable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "UDLD",
+     "UDLD",
+     "Time",
+     "7~90",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "0~65535",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "ARP",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Atalkaarp",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Atalkddp",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Atmmulti",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Atmtransport",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Dec",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Deccustom",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Decdiagnostics",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Decdnadumpload",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Decdnaremoteconsole",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Decdnarouting",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Declat",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Decsyscomm",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "G8bpqx25",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "IEEEaddrtrans",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "IEEEpup",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "IP",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "IPX",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "PPPdiscovery",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "PPPsession",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Rarp",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "X25",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Xeroxaddrtrans",
+     "",
+     "Yes"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type",
+     "Xeroxpup",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "CC",
+     "interval(3~7) | Service-instance(1~32767)",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Enable",
+     "/",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Linktrace",
+     "Auto-detection",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "MA",
+     "MD",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "MD",
+     "Level(0~7)",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Mip-rule",
+     "Default | Service-instance(1~32767)",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Mip-rule",
+     "Explicit | Service-instance(1~32767)",
+     "",
+     "Yes"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Service-instance(1~32767)",
+     "MA",
+     "",
+     "Yes"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Panel diagram"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Front Panel"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Back Panel"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Application"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Dimensions"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Order information"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Model",
+     "Description"
+    ],
+    [
+     "NIE8082PGM",
+     "8*10/100/1000M PoE ports, 2*1000M SFP ports, / 1~2 support 90W, 3~8 port support 30W; / 2*48~57V DC; / Support L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management and PoE management; / 6KV surge protection, 8KV contact /15KV air ESD protection."
+    ],
+    [
+     "NIE8082GM",
+     "8*10/100/1000M ports, 2*1000M SFP ports; / 2*12~60VDC; / Support L2 management, such as QoS, VLAN, MSTP, Multi-brocast, ports management; / 6KV surge protection, 8KV contact /15KV air ESD protection."
+    ]
+   ]
+  }
+ ],
+ "extracted_at": "2026-10-24T02:59:18Z"
+}

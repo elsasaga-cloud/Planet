@@ -1,0 +1,21 @@
+{
+ "sha256_16": "b78d7d4c298c72d2",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 121547,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 472,
+  "height": 531,
+  "mode": "RGB",
+  "datetime": "2024:01:11 15:12:00",
+  "software": "Adobe Photoshop CS5.1 Windows",
+  "thumb_bytes": 17276
+ },
+ "warnings": [],
+ "chars": 414,
+ "text": "Unit 12E\nNorths Estate\nOld Oxford Rd\nPiddington\nHigh Wycombe\nBucks HP14 3BE\nWww.casecomms.com\nE.Mail: andys@case.uk.com\nSkype: andy.soulis\nTel: +44(0) 1494 880 240\nMob: +44 (0) 7887 527800\ncommunications S8A\nCertificate No 164582009 SS\nA winner is someone who is able to hold firm onto the\nprinciples of life even when the darkest moment strikes\n© Citation so Certification\nQuokty Iso\nmMonogemont 9001: 2015\nce\n&\n=",
+ "extracted_at": "2026-10-24T03:00:31Z"
+}

@@ -7,7 +7,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 793959,
-  "n": 610,
+  "n": 932,
   "first_msg": "9ca8616708ba5ff0",
   "x": "meta",
   "chars": 0,
@@ -20,7 +20,7 @@
   ],
   "mime": "image/png",
   "bytes": 2187,
-  "n": 4,
+  "n": 6,
   "first_msg": "6b53a96ff0db1065",
   "x": "skip:image"
  },
@@ -31,7 +31,7 @@
   ],
   "mime": "image/png",
   "bytes": 3910,
-  "n": 2,
+  "n": 21,
   "first_msg": "9957a2f43f524a47",
   "x": "skip:image"
  },
@@ -53,7 +53,7 @@
   ],
   "mime": "image/png",
   "bytes": 466,
-  "n": 5,
+  "n": 14,
   "first_msg": "1cff39dd41d80337",
   "x": "skip:image"
  },
@@ -241,11 +241,12 @@
   "name": "Marvell Series.jpg",
   "names": [
    "Marvell Series.jpg",
-   "image001.jpg"
+   "image001.jpg",
+   "image006.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 588980,
-  "n": 820,
+  "n": 1246,
   "first_msg": "18fcdc87f4ccf5a9",
   "x": "ok",
   "chars": 477,
@@ -319,11 +320,12 @@
  "df56509a131b9bc1": {
   "name": "Optical Bypass Switch.jpg",
   "names": [
-   "Optical Bypass Switch.jpg"
+   "Optical Bypass Switch.jpg",
+   "image004.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 337801,
-  "n": 389,
+  "n": 1131,
   "first_msg": "1bcac4039fcf5daf",
   "x": "ok",
   "chars": 19,
@@ -375,7 +377,7 @@
   ],
   "mime": "image/png",
   "bytes": 1450,
-  "n": 6,
+  "n": 62,
   "first_msg": "0de6557f58082926",
   "x": "skip:image"
  },
@@ -687,7 +689,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 82281,
-  "n": 1220,
+  "n": 1229,
   "first_msg": "2c088651a92dded8",
   "x": "ok",
   "chars": 36,
@@ -1304,11 +1306,12 @@
  "302b04dc065471f6": {
   "name": "image001.jpg",
   "names": [
-   "image001.jpg"
+   "image001.jpg",
+   "image002.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 14362,
-  "n": 2,
+  "n": 5,
   "first_msg": "c943d0ffd571332d",
   "x": "meta",
   "chars": 0,
@@ -1317,11 +1320,12 @@
  "7206d2a077cd5985": {
   "name": "DIN Rail Unmanaged.jpg",
   "names": [
-   "DIN Rail Unmanaged.jpg"
+   "DIN Rail Unmanaged.jpg",
+   "image001.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 854738,
-  "n": 972,
+  "n": 1463,
   "first_msg": "dd64ec5b26b4bc1b",
   "x": "meta",
   "chars": 0,
@@ -1742,7 +1746,7 @@
   ],
   "mime": "image/png",
   "bytes": 693224,
-  "n": 49,
+  "n": 522,
   "first_msg": "42d9df342b73e83f",
   "x": "ok",
   "chars": 6,
@@ -2088,11 +2092,12 @@
  "639943c538c11e31": {
   "name": "IMG_5366.JPG",
   "names": [
-   "IMG_5366.JPG"
+   "IMG_5366.JPG",
+   "image001.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 67537,
-  "n": 33,
+  "n": 901,
   "first_msg": "231c410bdb6b62d3",
   "x": "ok",
   "chars": 134,
@@ -2114,11 +2119,12 @@
  "c397e1c4098d0b11": {
   "name": "24 port Din.png",
   "names": [
-   "24 port Din.png"
+   "24 port Din.png",
+   "image002.png"
   ],
   "mime": "image/png",
   "bytes": 311879,
-  "n": 50,
+  "n": 172,
   "first_msg": "18c624287c7c4aea",
   "x": "meta",
   "chars": 0,
@@ -2131,7 +2137,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 337083,
-  "n": 11,
+  "n": 36,
   "first_msg": "9458b314b99ccdd5",
   "x": "meta",
   "chars": 0,
@@ -2170,7 +2176,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 572425,
-  "n": 196,
+  "n": 553,
   "first_msg": "f177241c7be02f2d",
   "x": "meta",
   "chars": 0,
@@ -2686,7 +2692,7 @@
   ],
   "mime": "image/png",
   "bytes": 614238,
-  "n": 322,
+  "n": 712,
   "first_msg": "80cb5870cbbc80bb",
   "x": "ok",
   "chars": 17,
@@ -2777,7 +2783,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 3909,
-  "n": 1,
+  "n": 5,
   "first_msg": "f22fe1c8ed3e3766",
   "x": "skip:image"
  },
@@ -2789,7 +2795,7 @@
   ],
   "mime": "image/png",
   "bytes": 51113,
-  "n": 113,
+  "n": 254,
   "first_msg": "8b1d778d3756a721",
   "x": "meta",
   "chars": 0,
@@ -2802,7 +2808,7 @@
   ],
   "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "bytes": 125242,
-  "n": 23,
+  "n": 32,
   "first_msg": "7baacf14385344c0",
   "x": "ok",
   "chars": 26141,
@@ -2815,7 +2821,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 47888,
-  "n": 54,
+  "n": 104,
   "first_msg": "bf2e7e83752cc4ea",
   "x": "meta",
   "chars": 0,
@@ -2841,7 +2847,7 @@
   ],
   "mime": "image/png",
   "bytes": 374578,
-  "n": 6,
+  "n": 44,
   "first_msg": "acb60a9454205d8d",
   "x": "meta",
   "chars": 0,
@@ -2850,11 +2856,16 @@
  "27d0b7deb887e254": {
   "name": "16 Copper.png",
   "names": [
-   "16 Copper.png"
+   "16 Copper.png",
+   "1.png",
+   "image001.png",
+   "image002.png",
+   "image003.png",
+   "image010.png"
   ],
   "mime": "image/png",
   "bytes": 356174,
-  "n": 34,
+  "n": 904,
   "first_msg": "89dafe8bbd1a9808",
   "x": "meta",
   "chars": 0,
@@ -2867,7 +2878,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 482094,
-  "n": 10,
+  "n": 186,
   "first_msg": "20d476566e13b4db",
   "x": "ok",
   "chars": 375,
@@ -3007,11 +3018,13 @@
  "e179835107686862": {
   "name": "123.jpg",
   "names": [
-   "123.jpg"
+   "123.jpg",
+   "image002.jpg",
+   "image001.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 680344,
-  "n": 11,
+  "n": 300,
   "first_msg": "c96378854c179ae1",
   "x": "ok",
   "chars": 589,
@@ -3072,11 +3085,12 @@
  "840a1e67353078a7": {
   "name": "24 fiber.jpeg",
   "names": [
-   "24 fiber.jpeg"
+   "24 fiber.jpeg",
+   "image001.jpg"
   ],
   "mime": "image/jpeg",
   "bytes": 351728,
-  "n": 113,
+  "n": 273,
   "first_msg": "95bcfb9ad5acda39",
   "x": "meta",
   "chars": 0,
@@ -3180,8 +3194,1138 @@
   ],
   "mime": "image/png",
   "bytes": 5747,
-  "n": 1,
+  "n": 18,
   "first_msg": "83ecd8ecdef45141",
   "x": "skip:image"
+ },
+ "70dea51660c9ee64": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2473238,
+  "n": 1,
+  "first_msg": "b9a76e92cd84f2bd",
+  "x": "ok",
+  "chars": 370207,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "da0bc7b882e289eb": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4650622,
+  "n": 1,
+  "first_msg": "b9a76e92cd84f2bd",
+  "x": "ok",
+  "chars": 147613,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "ed0eb5c1b698d800": {
+  "name": "L3.pdf",
+  "names": [
+   "L3.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2569676,
+  "n": 1,
+  "first_msg": "7533abba594ebc6d",
+  "x": "ok",
+  "chars": 39339,
+  "method": "pdfplumber"
+ },
+ "ca92397fb7457e6b": {
+  "name": "L2+.pdf",
+  "names": [
+   "L2+.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2596832,
+  "n": 1,
+  "first_msg": "7533abba594ebc6d",
+  "x": "ok",
+  "chars": 39208,
+  "method": "pdfplumber"
+ },
+ "2abfe03b8d79da15": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 8908,
+  "n": 5,
+  "first_msg": "f66064b1b1e4e590",
+  "x": "ok",
+  "chars": 75,
+  "method": "pillow+tesseract"
+ },
+ "384eb183e3e02729": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 317414,
+  "n": 1,
+  "first_msg": "2cd8f7648aaf3ba2",
+  "x": "ok",
+  "chars": 2837,
+  "method": "pdfplumber"
+ },
+ "6b1cca563501eb2d": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123256,
+  "n": 1,
+  "first_msg": "a03d325cd72aad7c",
+  "x": "ok",
+  "chars": 1372,
+  "method": "pdfplumber"
+ },
+ "f6fe8755774cd96e": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 123256,
+  "n": 1,
+  "first_msg": "0c4f75da78fd280b",
+  "x": "ok",
+  "chars": 1372,
+  "method": "pdfplumber"
+ },
+ "d4d6e83c302134bd": {
+  "name": "MAPL_PPT_2025_03_05.pdf",
+  "names": [
+   "MAPL_PPT_2025_03_05.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2487779,
+  "n": 1,
+  "first_msg": "03ca5109d195e7e9",
+  "x": "ok",
+  "chars": 12851,
+  "method": "pdfplumber"
+ },
+ "a4c98199ed17020e": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108874,
+  "n": 1,
+  "first_msg": "1ac6cb596346a3a9",
+  "x": "ok",
+  "chars": 1201,
+  "method": "pdfplumber"
+ },
+ "d83d22d26f6af9f6": {
+  "name": "Bypass.png",
+  "names": [
+   "Bypass.png"
+  ],
+  "mime": "image/png",
+  "bytes": 448667,
+  "n": 1,
+  "first_msg": "c330cf97fe35378f",
+  "x": "ok",
+  "chars": 3,
+  "method": "pillow+tesseract"
+ },
+ "7dbff67f8af364b6": {
+  "name": "alarm.png",
+  "names": [
+   "alarm.png"
+  ],
+  "mime": "image/png",
+  "bytes": 339447,
+  "n": 1,
+  "first_msg": "c330cf97fe35378f",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "036352492d085817": {
+  "name": "Quotation_Copper Switch.pdf",
+  "names": [
+   "Quotation_Copper Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 483027,
+  "n": 1,
+  "first_msg": "91be42ffcd4eb096",
+  "x": "ok",
+  "chars": 5032,
+  "method": "pdfplumber"
+ },
+ "479388dc868af28d": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 3537,
+  "n": 3,
+  "first_msg": "fc1996c5626c5c37",
+  "x": "skip:image"
+ },
+ "d3b9412b398e597f": {
+  "name": "STI-244GP.pdf",
+  "names": [
+   "STI-244GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2113454,
+  "n": 1,
+  "first_msg": "10ae2338468afc5d",
+  "x": "ok",
+  "chars": 35454,
+  "method": "pdfplumber"
+ },
+ "b73ea9614a6b62bf": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 113710,
+  "n": 1,
+  "first_msg": "f7147947b4499bda",
+  "x": "ok",
+  "chars": 1372,
+  "method": "pdfplumber"
+ },
+ "9ffabb9a4b4a3787": {
+  "name": "Quotation_Copper Switch.pdf",
+  "names": [
+   "Quotation_Copper Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 505119,
+  "n": 1,
+  "first_msg": "869ab8494c880aed",
+  "x": "ok",
+  "chars": 5051,
+  "method": "pdfplumber"
+ },
+ "1747d86a2dfc8f59": {
+  "name": "STI-0160GE.pdf",
+  "names": [
+   "STI-0160GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1998199,
+  "n": 1,
+  "first_msg": "869ab8494c880aed",
+  "x": "ok",
+  "chars": 32684,
+  "method": "pdfplumber"
+ },
+ "eed1dd939ab420ad": {
+  "name": "STI-488XGGPM2B-2BT.pdf",
+  "names": [
+   "STI-488XGGPM2B-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2822448,
+  "n": 2,
+  "first_msg": "17ae176ed17cd48d",
+  "x": "ok",
+  "chars": 38682,
+  "method": "pdfplumber"
+ },
+ "c98c6f120d943faf": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 5900,
+  "n": 2,
+  "first_msg": "3e42178379c6a6e0",
+  "x": "skip:image"
+ },
+ "56a54fec5c035289": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 88432,
+  "n": 2,
+  "first_msg": "3e42178379c6a6e0",
+  "x": "ok",
+  "chars": 85,
+  "method": "pillow+tesseract"
+ },
+ "bf350864276fab37": {
+  "name": "Download Link_Alan.pdf",
+  "names": [
+   "Download Link_Alan.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108874,
+  "n": 1,
+  "first_msg": "3e42178379c6a6e0",
+  "x": "ok",
+  "chars": 1201,
+  "method": "pdfplumber"
+ },
+ "46d2810719f3af2e": {
+  "name": "Murrelektronik Network Technology.pdf",
+  "names": [
+   "Murrelektronik Network Technology.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 5856474,
+  "n": 1,
+  "first_msg": "268d43fb3ab8fa30",
+  "x": "ok",
+  "chars": 40821,
+  "method": "pdfplumber"
+ },
+ "981f1c86dc6742a6": {
+  "name": "STI-0160GE.pdf",
+  "names": [
+   "STI-0160GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1998199,
+  "n": 1,
+  "first_msg": "a9a1ec4092100a22",
+  "x": "ok",
+  "chars": 32684,
+  "method": "pdfplumber"
+ },
+ "7af6c30affd8644e": {
+  "name": "Saga Software Function List-release 7.3.0.xlsx",
+  "names": [
+   "Saga Software Function List-release 7.3.0.xlsx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 23619,
+  "n": 83,
+  "first_msg": "2586251843872365",
+  "x": "ok",
+  "chars": 5589,
+  "method": "openpyxl(values)"
+ },
+ "ce4aca806c97935f": {
+  "name": "STI-488XGGPM2B-2BT.pdf",
+  "names": [
+   "STI-488XGGPM2B-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2822448,
+  "n": 1,
+  "first_msg": "6b7ea5b03a91b1ef",
+  "x": "ok",
+  "chars": 38682,
+  "method": "pdfplumber"
+ },
+ "2bd14a071612092e": {
+  "name": "1747849363721003_1742157308.png",
+  "names": [
+   "1747849363721003_1742157308.png"
+  ],
+  "mime": "image/png",
+  "bytes": 189349,
+  "n": 1,
+  "first_msg": "1eb68c09068fca9e",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "65dceb8108e708ac": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 754,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "69a1341b07adf525": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 792,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "5ba3c9035130bfbc": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 764,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "36d29ec2354a07a9": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 764,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "a31549dea66dca11": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 812,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "31eb52e6c42d5b5c": {
+  "name": "image006.gif",
+  "names": [
+   "image006.gif"
+  ],
+  "mime": "image/gif",
+  "bytes": 116088,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "3aeadc2b77d9ca04": {
+  "name": "image007.png",
+  "names": [
+   "image007.png"
+  ],
+  "mime": "image/png",
+  "bytes": 472,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "3e169fcc8eb920f3": {
+  "name": "image008.png",
+  "names": [
+   "image008.png"
+  ],
+  "mime": "image/png",
+  "bytes": 400,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "0f416f6a6c3aa28d": {
+  "name": "image009.png",
+  "names": [
+   "image009.png"
+  ],
+  "mime": "image/png",
+  "bytes": 608,
+  "n": 10,
+  "first_msg": "d385ca588de7d060",
+  "x": "skip:image"
+ },
+ "095b153ec6719dd6": {
+  "name": "STI-42424XGGPM.pdf",
+  "names": [
+   "STI-42424XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2509795,
+  "n": 1,
+  "first_msg": "365aa3e5b9a0605e",
+  "x": "ok",
+  "chars": 38899,
+  "method": "pdfplumber"
+ },
+ "32075a333557ac74": {
+  "name": "STI-288DGGPM-2BT.pdf",
+  "names": [
+   "STI-288DGGPM-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2632377,
+  "n": 1,
+  "first_msg": "365aa3e5b9a0605e",
+  "x": "ok",
+  "chars": 38543,
+  "method": "pdfplumber"
+ },
+ "c1673584473b5de6": {
+  "name": "28 ports with  uplink 10G  L3 managed PoE switch.doc",
+  "names": [
+   "28 ports with  uplink 10G  L3 managed PoE switch.doc"
+  ],
+  "mime": "application/msword",
+  "bytes": 1148416,
+  "n": 1,
+  "first_msg": "d91fcb4809f3db04",
+  "x": "ok",
+  "chars": 15295,
+  "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "f9bdcea487ddc77a": {
+  "name": "Industrial Switch.doc",
+  "names": [
+   "Industrial Switch.doc"
+  ],
+  "mime": "application/msword",
+  "bytes": 1432064,
+  "n": 1,
+  "first_msg": "d91fcb4809f3db04",
+  "x": "ok",
+  "chars": 25388,
+  "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "bcf2a8212a9ba90d": {
+  "name": "Info from GPT.png",
+  "names": [
+   "Info from GPT.png"
+  ],
+  "mime": "image/png",
+  "bytes": 69416,
+  "n": 1,
+  "first_msg": "2f38e52e0a8ab212",
+  "x": "ok",
+  "chars": 1166,
+  "method": "pillow+tesseract"
+ },
+ "f5e7f76ea84835e6": {
+  "name": "PL.xls",
+  "names": [
+   "PL.xls"
+  ],
+  "mime": "application/vnd.ms-excel",
+  "bytes": 327680,
+  "n": 1,
+  "first_msg": "c9837fd061da8de5",
+  "x": "ok",
+  "chars": 828,
+  "method": "xlrd"
+ },
+ "8330efc1e97c3962": {
+  "name": "STI-42424XGGPM.pdf",
+  "names": [
+   "STI-42424XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1129283,
+  "n": 1,
+  "first_msg": "c9837fd061da8de5",
+  "x": "ok",
+  "chars": 31452,
+  "method": "pdfplumber"
+ },
+ "f5d3a25f6deb1a08": {
+  "name": "STI-288DGGPM-2BT.pdf",
+  "names": [
+   "STI-288DGGPM-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1251714,
+  "n": 1,
+  "first_msg": "c9837fd061da8de5",
+  "x": "ok",
+  "chars": 31046,
+  "method": "pdfplumber"
+ },
+ "5f8ef862bea889b3": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 400593,
+  "n": 1,
+  "first_msg": "c9837fd061da8de5",
+  "x": "ok",
+  "chars": 2437,
+  "method": "pdfplumber"
+ },
+ "17f56f06aba8ad41": {
+  "name": "STI-488XGGPM2B-2BT.pdf",
+  "names": [
+   "STI-488XGGPM2B-2BT.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2866179,
+  "n": 1,
+  "first_msg": "60215e5a3bb8a816",
+  "x": "ok",
+  "chars": 39785,
+  "method": "pdfplumber"
+ },
+ "f5c8ada4d69d0a43": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 21845,
+  "n": 2,
+  "first_msg": "444284f57e12d0d2",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "052c15958828b10d": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 174,
+  "n": 2,
+  "first_msg": "444284f57e12d0d2",
+  "x": "skip:image"
+ },
+ "9683123a7c81e3dc": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 170,
+  "n": 2,
+  "first_msg": "444284f57e12d0d2",
+  "x": "skip:image"
+ },
+ "fb7222277b5838a5": {
+  "name": "image004.png",
+  "names": [
+   "image004.png"
+  ],
+  "mime": "image/png",
+  "bytes": 214,
+  "n": 2,
+  "first_msg": "444284f57e12d0d2",
+  "x": "skip:image"
+ },
+ "f07b823667a4f5c1": {
+  "name": "image005.png",
+  "names": [
+   "image005.png"
+  ],
+  "mime": "image/png",
+  "bytes": 346,
+  "n": 2,
+  "first_msg": "444284f57e12d0d2",
+  "x": "skip:image"
+ },
+ "fc36c2f94bc5c732": {
+  "name": "STC-424DGGPM-280W.pdf",
+  "names": [
+   "STC-424DGGPM-280W.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2468853,
+  "n": 1,
+  "first_msg": "444284f57e12d0d2",
+  "x": "ok",
+  "chars": 39390,
+  "method": "pdfplumber"
+ },
+ "f613b8faef407054": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 30095,
+  "n": 1,
+  "first_msg": "b1ea294adc9a9165",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "8d7f4bb8f5c20727": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 30157,
+  "n": 2,
+  "first_msg": "6168ab4df565d1b8",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "5c3a811e56585094": {
+  "name": "STI-488XGGPM.pdf",
+  "names": [
+   "STI-488XGGPM.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 3363962,
+  "n": 2,
+  "first_msg": "6168ab4df565d1b8",
+  "x": "ok",
+  "chars": 39304,
+  "method": "pdfplumber"
+ },
+ "fc098e4370abf8ff": {
+  "name": "INFO from GPT.png",
+  "names": [
+   "INFO from GPT.png"
+  ],
+  "mime": "image/png",
+  "bytes": 88329,
+  "n": 1,
+  "first_msg": "1048e9cbd52c2199",
+  "x": "ok",
+  "chars": 876,
+  "method": "pillow+tesseract"
+ },
+ "3b1ac12007e54c53": {
+  "name": "ginahsu-3f3f10d3c54b1eae5a77ca72c37482cc.png",
+  "names": [
+   "ginahsu-3f3f10d3c54b1eae5a77ca72c37482cc.png"
+  ],
+  "mime": "image/png",
+  "bytes": 63050,
+  "n": 4,
+  "first_msg": "5aec0209df31bf80",
+  "x": "meta",
+  "chars": 0,
+  "method": "pillow+tesseract"
+ },
+ "d42afdcfadc158d9": {
+  "name": "Price List_Realtek Commercial Switch.pdf",
+  "names": [
+   "Price List_Realtek Commercial Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1745181,
+  "n": 1,
+  "first_msg": "e46305c9a960c1f2",
+  "x": "ok",
+  "chars": 7648,
+  "method": "pdfplumber"
+ },
+ "2f4af20e7d076b21": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 59815,
+  "n": 2,
+  "first_msg": "ad51f98fe29adb67",
+  "x": "ok",
+  "chars": 45,
+  "method": "pillow+tesseract"
+ },
+ "ef1955ae757c8b96": {
+  "name": "image002.gif",
+  "names": [
+   "image002.gif"
+  ],
+  "mime": "image/gif",
+  "bytes": 42,
+  "n": 2,
+  "first_msg": "ad51f98fe29adb67",
+  "x": "skip:image"
+ },
+ "89e344fdb98002d9": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 84,
+  "n": 1,
+  "first_msg": "6f1d4c36bb4b763d",
+  "x": "skip:image"
+ },
+ "53b016139ad81fa8": {
+  "name": "(unnamed multipart/related)",
+  "names": [
+   "(unnamed multipart/related)"
+  ],
+  "mime": "multipart/related",
+  "bytes": 31,
+  "n": 42,
+  "first_msg": "59fe6d02513fd6b0",
+  "x": "skip:type"
+ },
+ "66bf99e3a0e189d0": {
+  "name": "STC-110XGE.pdf",
+  "names": [
+   "STC-110XGE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2096754,
+  "n": 1,
+  "first_msg": "9e557e84dc8bdbf1",
+  "x": "ok",
+  "chars": 28510,
+  "method": "pdfplumber"
+ },
+ "7f35fa502efd4307": {
+  "name": "STI-288DGGPM-2BT.docx",
+  "names": [
+   "STI-288DGGPM-2BT.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 1923899,
+  "n": 1,
+  "first_msg": "627139dd3ba20af7",
+  "x": "ok",
+  "chars": 21632,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "35a4e8e720c7745d": {
+  "name": "Customization after log-in.jpg",
+  "names": [
+   "Customization after log-in.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 138179,
+  "n": 1,
+  "first_msg": "627139dd3ba20af7",
+  "x": "ok",
+  "chars": 503,
+  "method": "pillow+tesseract"
+ },
+ "c75a12aea5e4579c": {
+  "name": "Customization before log-in.jpg",
+  "names": [
+   "Customization before log-in.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 63925,
+  "n": 1,
+  "first_msg": "627139dd3ba20af7",
+  "x": "ok",
+  "chars": 144,
+  "method": "pillow+tesseract"
+ },
+ "ed167a601051e4e9": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2472183,
+  "n": 1,
+  "first_msg": "627139dd3ba20af7",
+  "x": "ok",
+  "chars": 370107,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "261cdb44571907ec": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4650706,
+  "n": 1,
+  "first_msg": "627139dd3ba20af7",
+  "x": "ok",
+  "chars": 147513,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "89b5f9129020b4bc": {
+  "name": "PROFILE_Saga Telecom.pdf",
+  "names": [
+   "PROFILE_Saga Telecom.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 2009153,
+  "n": 1,
+  "first_msg": "e7ae897881e06df3",
+  "x": "ok",
+  "chars": 8768,
+  "method": "pdfplumber"
+ },
+ "b6104c0aca465a12": {
+  "name": "Download Link.pdf",
+  "names": [
+   "Download Link.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 108874,
+  "n": 1,
+  "first_msg": "e7ae897881e06df3",
+  "x": "ok",
+  "chars": 1201,
+  "method": "pdfplumber"
+ },
+ "cbabfb5a6da43303": {
+  "name": "1.png",
+  "names": [
+   "1.png"
+  ],
+  "mime": "image/png",
+  "bytes": 467880,
+  "n": 1,
+  "first_msg": "7a23a71b55abbff5",
+  "x": "ok",
+  "chars": 119,
+  "method": "pillow+tesseract"
+ },
+ "966bfb013acd40d2": {
+  "name": "2.png",
+  "names": [
+   "2.png"
+  ],
+  "mime": "image/png",
+  "bytes": 257712,
+  "n": 1,
+  "first_msg": "7a23a71b55abbff5",
+  "x": "ok",
+  "chars": 96,
+  "method": "pillow+tesseract"
+ },
+ "90459a84193f237e": {
+  "name": "3.png",
+  "names": [
+   "3.png"
+  ],
+  "mime": "image/png",
+  "bytes": 1028794,
+  "n": 1,
+  "first_msg": "7a23a71b55abbff5",
+  "x": "ok",
+  "chars": 81,
+  "method": "pillow+tesseract"
+ },
+ "e711c5b50d658802": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 292414,
+  "n": 1,
+  "first_msg": "b2aac207e14b9abc",
+  "x": "ok",
+  "chars": 2159,
+  "method": "pdfplumber"
+ },
+ "e95312baa097a233": {
+  "name": "STI-0160GE.pdf",
+  "names": [
+   "STI-0160GE.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1003432,
+  "n": 1,
+  "first_msg": "b2aac207e14b9abc",
+  "x": "ok",
+  "chars": 30328,
+  "method": "pdfplumber"
+ },
+ "390e4126b8d3e3c2": {
+  "name": "STI-21616GP.pdf",
+  "names": [
+   "STI-21616GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1179026,
+  "n": 1,
+  "first_msg": "b2aac207e14b9abc",
+  "x": "ok",
+  "chars": 33364,
+  "method": "pdfplumber"
+ },
+ "dffbe9e5c5ff4110": {
+  "name": "GPT reply.png",
+  "names": [
+   "GPT reply.png"
+  ],
+  "mime": "image/png",
+  "bytes": 69179,
+  "n": 1,
+  "first_msg": "a444eeb97758ba35",
+  "x": "ok",
+  "chars": 992,
+  "method": "pillow+tesseract"
+ },
+ "f772914a3af9407f": {
+  "name": "Quotation.pdf",
+  "names": [
+   "Quotation.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 236608,
+  "n": 1,
+  "first_msg": "fe7b169be63ad84d",
+  "x": "ok",
+  "chars": 1869,
+  "method": "pdfplumber"
+ },
+ "8f43cfc67e526e73": {
+  "name": "STI-288GP.pdf",
+  "names": [
+   "STI-288GP.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1797142,
+  "n": 1,
+  "first_msg": "fe7b169be63ad84d",
+  "x": "ok",
+  "chars": 33107,
+  "method": "pdfplumber"
+ },
+ "04cc8887c608c670": {
+  "name": "image002.jpg",
+  "names": [
+   "image002.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 12674,
+  "n": 1,
+  "first_msg": "6a176ba292b92e65",
+  "x": "ok",
+  "chars": 34,
+  "method": "pillow+tesseract"
+ },
+ "c629772d842f21d7": {
+  "name": "Price List_Marvell Industrial Unmanaged Switch.pdf",
+  "names": [
+   "Price List_Marvell Industrial Unmanaged Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 970397,
+  "n": 1,
+  "first_msg": "955016f874e9ee64",
+  "x": "ok",
+  "chars": 10025,
+  "method": "pdfplumber"
+ },
+ "7e837532e16832ee": {
+  "name": "Price List_Marvell Industrial Managed Switch.pdf",
+  "names": [
+   "Price List_Marvell Industrial Managed Switch.pdf"
+  ],
+  "mime": "application/pdf",
+  "bytes": 1741262,
+  "n": 1,
+  "first_msg": "955016f874e9ee64",
+  "x": "ok",
+  "chars": 12757,
+  "method": "pdfplumber"
+ },
+ "b78d7d4c298c72d2": {
+  "name": "image001.jpg",
+  "names": [
+   "image001.jpg"
+  ],
+  "mime": "image/jpeg",
+  "bytes": 121547,
+  "n": 6,
+  "first_msg": "71f5f62ff6785f81",
+  "x": "ok",
+  "chars": 414,
+  "method": "pillow+tesseract"
+ },
+ "d84c915e24269751": {
+  "name": "STI-42424XGGPM-4BT.docx",
+  "names": [
+   "STI-42424XGGPM-4BT.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 3951062,
+  "n": 1,
+  "first_msg": "aee9616b96315f19",
+  "x": "ok",
+  "chars": 29721,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "52ca5e7018fffb97": {
+  "name": "Marvell Based CLI Manual.docx",
+  "names": [
+   "Marvell Based CLI Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 2473356,
+  "n": 1,
+  "first_msg": "aee9616b96315f19",
+  "x": "ok",
+  "chars": 370131,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "69dcdcf7d9e82654": {
+  "name": "Marvell Based Web Manual.docx",
+  "names": [
+   "Marvell Based Web Manual.docx"
+  ],
+  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "bytes": 4650717,
+  "n": 1,
+  "first_msg": "aee9616b96315f19",
+  "x": "ok",
+  "chars": 147537,
+  "method": "python-docx(段落+表格+文本框+页眉页脚)"
+ },
+ "c405c6c95e848f15": {
+  "name": "image001.png",
+  "names": [
+   "image001.png"
+  ],
+  "mime": "image/png",
+  "bytes": 4316,
+  "n": 1,
+  "first_msg": "3ea5825b970a19f4",
+  "x": "skip:image"
+ },
+ "52acb0b333f9caf4": {
+  "name": "image002.png",
+  "names": [
+   "image002.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3225,
+  "n": 1,
+  "first_msg": "3ea5825b970a19f4",
+  "x": "skip:image"
+ },
+ "a03437874eb37a60": {
+  "name": "image003.png",
+  "names": [
+   "image003.png"
+  ],
+  "mime": "image/png",
+  "bytes": 3449,
+  "n": 1,
+  "first_msg": "3ea5825b970a19f4",
+  "x": "skip:image"
+ },
+ "5eb392068a32fb7f": {
+  "name": "Unrestricted Country Menu Link.png",
+  "names": [
+   "Unrestricted Country Menu Link.png"
+  ],
+  "mime": "image/png",
+  "bytes": 95315,
+  "n": 1,
+  "first_msg": "ab13c2fe0ff1b50e",
+  "x": "ok",
+  "chars": 374,
+  "method": "pillow+tesseract"
  }
 }

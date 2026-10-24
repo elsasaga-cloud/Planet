@@ -1,0 +1,19 @@
+{
+ "sha256_16": "04cc8887c608c670",
+ "name": "image002.jpg",
+ "ext": ".jpg",
+ "bytes": 12674,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 453,
+  "height": 244,
+  "mode": "RGB",
+  "thumb_bytes": 7375
+ },
+ "warnings": [],
+ "chars": 34,
+ "text": "Given IP Address\nGiven Information",
+ "extracted_at": "2026-10-24T03:00:13Z"
+}

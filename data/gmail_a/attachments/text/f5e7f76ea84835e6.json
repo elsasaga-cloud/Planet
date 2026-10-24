@@ -1,0 +1,167 @@
+{
+ "sha256_16": "f5e7f76ea84835e6",
+ "name": "PL.xls",
+ "ext": ".xls",
+ "bytes": 327680,
+ "method": "xlrd",
+ "status": "ok",
+ "meta": {
+  "sheets": [
+   "Packing List"
+  ],
+  "rows_total": 20
+ },
+ "warnings": [],
+ "chars": 828,
+ "text": "--- Sheet: Packing List ---\nZhengzhou Saga Telecom Co., Ltd.\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nMob: 86 13048800964\nWeb: www.sagatelecom.com.cn\nEmail: a.sagatelecom@gmail.com\nPacking  List\nDate\t2024.03.17\t\t\t\t\t\t\t\tP/O No.\nShip To\tLinxcom\t\t\t\t\t\t\t\tP/I No.\nShipping Add.\tLinxcom Ltd | 3 Oakland road | Leicester | LE2 6AN\t\t\t\t\t\t\t\tP/L No.\nC/No.:\tDESCRIPTION\tQTY/CTN\tQTY/PCS\tCTNS\tN.W/Kg\tG.W/Kg\tLENGTH/CM\tWIDTH/CM\tHEIGHT/CM\tMEAS/CM³\n1~33\tSTI-288DGGPM-2BT\t12\t396\t33\t475.2\t554.4\t44\t37.5\t25\t1.36125\n34~41\tSTI-42424XGGPM\t12\t96\t8\t172.8\t192\t47.5\t46.5\t38\t0.67146\n42\tSTI-288DGGPM-2BT\t4\t4\t1\t4.8\t5.6\t44\t37.5\t20\t0.033\n\tSTI-42424XGGPM\t4\t4\t\t7.2\t8\nTOTAL\t\t\t500\t42\t660\t760\t\t\t\t2.06571\nSAY TOTAL: FORTY TWO(42)CARTONS ONLY\nQUANTITY: FIVE HUNDRED PCS ONLY\nIssued by: Zhengzhou Saga Telecom Co., Ltd.\nAlan",
+ "sheets": {
+  "Packing List": {
+   "rows": [
+    [
+     "Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Connecting, Converting, Creating"
+    ],
+    [
+     "Tailored Marvell Managed Networking Solutions Provider"
+    ],
+    [
+     "Mob: 86 13048800964"
+    ],
+    [
+     "Web: www.sagatelecom.com.cn"
+    ],
+    [
+     "Email: a.sagatelecom@gmail.com"
+    ],
+    [
+     "Packing  List"
+    ],
+    [
+     "Date",
+     "2024.03.17",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/O No."
+    ],
+    [
+     "Ship To",
+     "Linxcom",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/I No."
+    ],
+    [
+     "Shipping Add.",
+     "Linxcom Ltd | 3 Oakland road | Leicester | LE2 6AN",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "P/L No."
+    ],
+    [
+     "C/No.:",
+     "DESCRIPTION",
+     "QTY/CTN",
+     "QTY/PCS",
+     "CTNS",
+     "N.W/Kg",
+     "G.W/Kg",
+     "LENGTH/CM",
+     "WIDTH/CM",
+     "HEIGHT/CM",
+     "MEAS/CM³"
+    ],
+    [
+     "1~33",
+     "STI-288DGGPM-2BT",
+     "12",
+     "396",
+     "33",
+     "475.2",
+     "554.4",
+     "44",
+     "37.5",
+     "25",
+     "1.36125"
+    ],
+    [
+     "34~41",
+     "STI-42424XGGPM",
+     "12",
+     "96",
+     "8",
+     "172.8",
+     "192",
+     "47.5",
+     "46.5",
+     "38",
+     "0.67146"
+    ],
+    [
+     "42",
+     "STI-288DGGPM-2BT",
+     "4",
+     "4",
+     "1",
+     "4.8",
+     "5.6",
+     "44",
+     "37.5",
+     "20",
+     "0.033"
+    ],
+    [
+     "",
+     "STI-42424XGGPM",
+     "4",
+     "4",
+     "",
+     "7.2",
+     "8"
+    ],
+    [
+     "TOTAL",
+     "",
+     "",
+     "500",
+     "42",
+     "660",
+     "760",
+     "",
+     "",
+     "",
+     "2.06571"
+    ],
+    [
+     "SAY TOTAL: FORTY TWO(42)CARTONS ONLY"
+    ],
+    [
+     "QUANTITY: FIVE HUNDRED PCS ONLY"
+    ],
+    [
+     "Issued by: Zhengzhou Saga Telecom Co., Ltd."
+    ],
+    [
+     "Alan"
+    ]
+   ]
+  }
+ },
+ "extracted_at": "2026-10-24T02:58:33Z"
+}

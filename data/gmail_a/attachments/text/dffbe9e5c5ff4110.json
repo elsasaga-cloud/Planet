@@ -1,0 +1,19 @@
+{
+ "sha256_16": "dffbe9e5c5ff4110",
+ "name": "GPT reply.png",
+ "ext": ".png",
+ "bytes": 69179,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 812,
+  "height": 663,
+  "mode": "RGBA",
+  "thumb_bytes": 21104
+ },
+ "warnings": [],
+ "chars": 992,
+ "text": "Support for XLVAN and MPLS in Marvell AC5 Series Chips\n1. XLVAN (eXtended VLAN)\n+ ACS series does not natively support XLVAN, but similar functionality can be achieved\nusing QinQ (802.1ad) or VLAN Stacking.\n‧ Models such as 98DX226S / 98DX336S support dual VLAN tagging (QinQ), which allows\nVLAN extension.\n2. MPLS (Multi-Protocol Label Switching)\n‧ MPLS is not supported in the ACS series.\n。 Marvell's switching chips generally do not provide native MPLS support. If MPLS is required,\nit typically needs to be handled by an external routing processor (such as an ARM core)\nor a separate PE router for encapsulation/decapsulation.\nConclusion:\n@ XLVAN functionality can be implemented using QinQ / VLAN Stacking, which is supported\nby AC5 chips.\nX MPLS requires additional software or hardware support, as it is not natively supported in\nthe ACS series.\nFor MPLS VPN or MPLS-TP, you may need a higher-end switching chip, such as Marvell\nACS5X / Prestera CX series or Broadcom StrataDNX series.",
+ "extracted_at": "2026-10-24T03:00:21Z"
+}

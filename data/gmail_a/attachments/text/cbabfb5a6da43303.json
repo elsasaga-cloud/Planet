@@ -1,0 +1,19 @@
+{
+ "sha256_16": "cbabfb5a6da43303",
+ "name": "1.png",
+ "ext": ".png",
+ "bytes": 467880,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 860,
+  "height": 604,
+  "mode": "RGBA",
+  "thumb_bytes": 15005
+ },
+ "warnings": [],
+ "chars": 119,
+ "text": "{ Tf mw /\nee C7\nUnpainted at the combination of the upper and lower covers of\nthe chassis to increase the conductivity.",
+ "extracted_at": "2026-10-24T02:59:48Z"
+}

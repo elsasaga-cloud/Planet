@@ -1,0 +1,19 @@
+{
+ "sha256_16": "5eb392068a32fb7f",
+ "name": "Unrestricted Country Menu Link.png",
+ "ext": ".png",
+ "bytes": 95315,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 448,
+  "height": 640,
+  "mode": "RGBA",
+  "thumb_bytes": 10599
+ },
+ "warnings": [],
+ "chars": 374,
+ "text": "Hello, FindLight\nMy Account ¥\nMy Records\nMy Leads\nMy Inquiries\nMy Orders\nDeleted Items\nMy Portfolio\nMy Listings\nMy Favorite Products\nMy Analytics Dashboard\n‘nabled\nMy Account Settings\nMy Profile\nChange Password\nContact Preferences\nLead Preferences\nRestricted Countries\nClose Account\nFor Buyers\nInsights and Guides (Tech Blog)\nProduct Categories\nManage Your Inquiries\nSign In",
+ "extracted_at": "2026-10-24T03:00:40Z"
+}

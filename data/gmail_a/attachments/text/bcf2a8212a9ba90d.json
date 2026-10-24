@@ -1,0 +1,19 @@
+{
+ "sha256_16": "bcf2a8212a9ba90d",
+ "name": "Info from GPT.png",
+ "ext": ".png",
+ "bytes": 69416,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 1080,
+  "height": 644,
+  "mode": "RGBA",
+  "thumb_bytes": 16796
+ },
+ "warnings": [],
+ "chars": 1166,
+ "text": "BTW: Its suggested to use Chatgptto get information about the popular chipsets/specifications on the market\nFeature Marvell Realtek Broadcom\n98DX225S RTL83xx BCMS6150\n98DX226S RTL93x6 BCMS6160\n98DX336S RTL93xx BCM356340\nTarget Market SMBs SMBs Enterprise Network\nEnterprise Network Small Enterprise Networks | Industrial Ethernet\nIndustrial Ethernet\nPerformance High Throughput Basic Throughput High Throughput\nLow Latency Low Latency Low Latency\nStrong Network Security | Basic Security Features Strong Security\nEMI/EMC Compatibility EMI/EMC Compatibility\n‘Network Security | Advanced Encryption Basic security features Advanced Security Features\nand Security Protocols Encryption, Traffic Control\nEMI/EMC Optimized Average Optimized\nCompatibility Suitable for Industrial Suitable for Home and Suitable for Industrial Environments\nEnvironments Small Office Environments\nPower Low Power Design Low Power Higher Power Consumption\nConsumption Suitable for High-load Environments\nProgrammability | Programmable ASIC No Programmability Programmable, but Focused on\nFramework Enterprise-level Applications\nCost Mid to High Low Cost High Cost\nSuitable for High-end Markets",
+ "extracted_at": "2026-10-24T02:58:39Z"
+}

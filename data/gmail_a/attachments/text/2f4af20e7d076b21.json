@@ -1,0 +1,19 @@
+{
+ "sha256_16": "2f4af20e7d076b21",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 59815,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 500,
+  "height": 100,
+  "mode": "RGB",
+  "thumb_bytes": 5596
+ },
+ "warnings": [],
+ "chars": 45,
+ "text": "<= April 23-24, Manchester, UK\nconcn etna aah",
+ "extracted_at": "2026-10-24T02:59:23Z"
+}

@@ -1,0 +1,19 @@
+{
+ "sha256_16": "56a54fec5c035289",
+ "name": "image002.png",
+ "ext": ".png",
+ "bytes": 88432,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "PNG",
+  "width": 926,
+  "height": 200,
+  "mode": "RGB",
+  "thumb_bytes": 4934
+ },
+ "warnings": [],
+ "chars": 85,
+ "text": "Join us on Linked 图 FVYYMURR\nmA ds ELEKTRONIK\nClick here to follow us!\nstay connected",
+ "extracted_at": "2026-10-24T02:57:29Z"
+}

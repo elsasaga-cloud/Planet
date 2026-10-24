@@ -1,0 +1,1783 @@
+{
+ "sha256_16": "c1673584473b5de6",
+ "name": "28 ports with  uplink 10G  L3 managed PoE switch.doc",
+ "ext": ".doc",
+ "bytes": 1148416,
+ "method": "soffice→docx→python-docx(段落+表格+文本框+页眉页脚)",
+ "status": "ok",
+ "meta": {
+  "title": "Word Document",
+  "author": "",
+  "last_modified_by": "python-docx",
+  "created": "",
+  "modified": "2026-10-24T02:58:33+00:00",
+  "paragraphs": 13,
+  "tables": 3,
+  "embedded_images": 2,
+  "ocr_images": 0
+ },
+ "warnings": [],
+ "chars": 15295,
+ "text": "Overview\nThis series of products are the industrial L3 lite Ethernet switch products independently developed by N-net® for the industrial application scenarios with harsh use environment and high reliability requirements. The products adopt industrial-level high-reliability components and industrial-level hardware structure design. The software is developed based on the mature and reliable software platform with independent intellectual property rights, providing a set of highly reliable industrial Ethernet communication solutions for flexible industrial-level application scenarios. The products meet a wide range of industrial Ethernet standards, and can be widely used in industrial automation, urban rail transit, railway, public transportation, electric power, energy and chemical industry, intelligent buildings and other industrial application scenarios.\nThis series of products have a variety of product forms including 24*10/100/1000BASE-T PoE+ 4 *10G SFP+, 16 *10/100/1000BASE-T PoE+ 4 *10G SFP+ models, all models can be selected to support PoE+.\nPicture\n244TPGM3                                        64TPGM3\nFeatures\nSupports L3 routing protocol such as RIP,OSPF;VRRP\n6KV surge protection, 6KV contact / 8KV air ESD protection;\nSupports working temperature-40℃~75℃;\nSupports wall hanging and desktop installation.\nSpecifications\nModel\t244PGM\t164PGM\nI/F\tDownlink\t24*10/100/1000Base-T\t16*10/100/1000Base-T\nI/F\tUplink\t4*10G SFP+\nI/F\tCONSOLE\t*1\nI/F\tReset\t*1\nI/F\tDI/DO\t1* relay output, pure resistive load: 1 A @ 30 VDC\nPoE\tPoE Port / (802.3af/at）\t24\t16\nPoE\tPoE Pinout\tV+, V+, V-, V- for pins 1, 2, 3, 6 (Endspan, MDI, Mode A)\nPoE\tPoE Budget\t372W Max.\nEthernet performance\tPacket forwarding / Rate\t95.23Mpps\nEthernet performance\tSwitching capacity\t128Gbps\nEthernet performance\tJumbo Frame\t12KB\nEthernet performance\tMAC table\t16K\nEthernet performance\tPacket buffer\t12Mb\nPower\tInput\t12 / 24 / 48 VDC (11.8 to 57 VDC Max.) redundant power input (PoE model requires voltage input above 48V)\nPower\tProtection\tSupport polar reverse connection protection and over-current protection\nLED\tPower\t2*Green\nLED\tRelay output\t1*Yellow\nLED\tDownlink\t1*Green/Port\nPhysical\tMaterial\tAluminum alloy + galvanized steel plate\nPhysical\tLxWxH mm\t175*135*88\nPhysical\tInstallation\tDin-rail / wall mounted\nMTBF\t>400K Hr Telcordia SR332\nWork environment\tNoise\tNone\nWork environment\tworking temperature\t-40℃~75℃, altitude of 1800~5000m: for each elevation of 220m, the maximum temperature specification decreases by 1℃.\nWork environment\tWorking humidity\t10% ~ 90% RH\nWork environment\tStorage temperature\t-40~85℃\nWork environment\tStore humidity\t5% ~ 95% RH\nWork environment\tWork altitude\t-500~5000m (220m elevation, 1℃ decrease in maximum temperature specification)\nWork environment\tDust / waterproof\tIP40\nWork environment\tVibrate\t4.9 N/ m2 (50 Hz to 200 Hz)\nCertification\tEnvironmental requirements\tRoHS\nCertification\tSafety\tCE,UL\nCertification\tEMI\tFCC CFR47 Part 15,EN55022/CISPR22,Class A\nCertification\tEMS\tIEC 61000-4-2 ESD: Contact: 8 kV; Air: 15 kV / IEC 61000-4-3 RS: 80 MHz to 1 GHz: 10 V/m / IEC 61000-4-4 EFT: Power: 4 kV; Signal: 4 kV / IEC 61000-4-5 Surge: Power: 4 kV; Signal: 6 kV / IEC 61000-4-6 CS: 10 V / IEC 61000-4-8 PFMF\nStandard\tEthernet\tIEEE 802.3 for 10BaseT / IEEE 802.3u for 100BaseT(X) and 100BaseFX / IEEE 802.3ab for 1000BaseT(X) / IEEE 802.3z for 1000BaseSX/LX/LHX/ZX / IEEE 802.3x for flow control / IEEE 802.1D-2004 for Spanning Tree Protocol / IEEE 802.1w for Rapid Spanning Tree Protocol / IEEE 802.1s for Multiple Spanning Tree Protocol / IEEE 802.1p for Class of Service / IEEE 802.1Q for VLAN Tagging / IEEE 802.1X for authentication / IEEE 802.3ad for Port Trunk with LACP\nSoftware：\nSystem configuration\tSystem date time\tNTP\nSystem configuration\tUser Management\tUser Management\nSystem configuration\tSafe Management\thttp\nSystem configuration\tSafe Management\tSNMP\nSystem configuration\tSafe Management\ttelnet\nSystem configuration\tSafe Management\tSSH\nSystem configuration\tFirmware file\tFirmware file\nPort configuration\tCommon\tAdmin Status\nPort configuration\tCommon\tSpeed\nPort configuration\tFlow control\tFlow control\nPort configuration\tStorm constrain\tAction\nPort configuration\tStorm constrain\tBroadcast\nPort configuration\tStorm constrain\tEnable\nPort configuration\tStorm constrain\tInterval\nPort configuration\tStorm constrain\tMulticast\nPort configuration\tStorm constrain\tUnicast\nPort configuration\tStrom control\tBroadcast(1~1024000kbps)\nPort configuration\tStrom control\tMulticast(1~1024000kbps)\nPort configuration\tStrom control\tDLF(1~1024000kbps)\nPort configuration\tRate limit\tT/R\nPort configuration\tProtected Port\tProtected Port\nPort configuration\tLearn Limit\tMAC Address\nPort configuration\tPort trunk\tTrunk Group\nPort configuration\tPort trunk\tMember Port\nPort configuration\tPort trunk\tTrunk Method\nPort configuration\tPort Mirror\tMirror Port\nPort configuration\tPort Mirror\tMirrored Port\nPort configuration\tPort Mirror\tMirror Direction\nPort configuration\tDHCP\tDHCP client\nPort configuration\tDHCP\tDHCP Snooping\nPort configuration\tIP\tIGMP Snooping\nPort configuration\tIP\tMAC-bind\nPort configuration\tIP-subnet-vlan\tIP Address | Mask\nPort configuration\tLACP\tPort Priority\nPort configuration\tLACP\tTimeout\nPort configuration\tLLDP\tAdmin Status\nPort configuration\tLLDP\tEnable\nPort configuration\tLLDP\tCheck-change-interval\nPort configuration\tLLDP\tManagement Address\nPort configuration\tLLDP\tTlv-enable\nPort configuration\tLoopback\tEnable\nPort configuration\tdetection\tResume\nPort configuration\t\tResume Mode\nPort configuration\t\tShutdown Mode\nPort configuration\tMAC VLAN\tMAC Address\nPort configuration\tVLAN-mapping\tVLAN(1~4094)\nPort configuration\tVoice VLAN\tVLAN ID(1~4094)\nPort configuration\tVoice VLAN\tQos Map-queue(0~7)\nPort configuration\tMvr-interface\tEnable/Disable\nPort configuration\tOAM\tEnable\nPort configuration\tOAM\tLoopback\nPort configuration\tOAM\tMode\nPort configuration\tQinQ\tCustomer\nPort configuration\tQinQ\tOuter-vid(1~4094)\nPort configuration\tQinQ\tTpid\nPort configuration\tQinQ\tUplink\nPort configuration\tUdld\tAggressive\nPort configuration\tUdld\tPort\nMAC\tMAC Binding\tMAC Binding\nMAC\tMAC Auto Binding\tMAC Auto Binding\nMAC\tMAC Filter\tMAC Filter\nMAC\tMAC Auto Filter\tMAC Auto Filter\nMAC\tBridge\tAcquire\nMAC\tBridge\tAddress\nMAC\tBridge\tAgeing-time\nMAC\tBridge\tUnregistered\nVLAN configuration\tVLAN\t4096\nVLAN configuration\tVLAN Port\tMode\nVLAN configuration\tVLAN Port\tPort Members\nSNMP configuration\tSNMP community\tCommunity Name\nSNMP configuration\tSNMP community\tRead Only\nSNMP configuration\tSNMP community\tRead Write\nSNMP configuration\tTRAP Target\tSNMP Version\nSNMP configuration\tTRAP Target\tItem\nACL configuration\tStandard IP\tGroup Number\nACL configuration\tStandard IP\tSource IP\nACL configuration\tStandard IP\tSource Wildcard\nACL configuration\tStandard IP\tMath Data Packets\nACL configuration\tExtended IP\tGroup Number\nACL configuration\tExtended IP\tSource IP\nACL configuration\tExtended IP\tSource Wildcard\nACL configuration\tExtended IP\tDestination IP\nACL configuration\tExtended IP\tDestination Wildcard\nACL configuration\tExtended IP\tProtocol Type\nACL configuration\tExtended IP\tSource Port\nACL configuration\tExtended IP\tDestination Port\nACL configuration\tExtended IP\tTCP Control Flag\nACL configuration\tExtended IP\tMath Data Packets\nACL configuration\tMAC IP\tGroup Number\nACL configuration\tMAC IP\tSource MAC\nACL configuration\tMAC IP\tSource MAC wildcard\nACL configuration\tMAC IP\tSource IP\nACL configuration\tMAC IP\tSource Wildcard\nACL configuration\tMAC IP\tDestination IP\nACL configuration\tMAC IP\tDestination Wildcard\nACL configuration\tMAC IP\tVLAN ID\nACL configuration\tMAC IP\tMath Data Packets\nACL configuration\tMAC ARP\tGroup Number\nACL configuration\tMAC ARP\tSender MAC\nACL configuration\tMAC ARP\tSender MAC wildcard\nACL configuration\tMAC ARP\tSender IP\nACL configuration\tMAC ARP\tSender IP wildcard\nACL configuration\tMAC ARP\tMath Data Packets\nACL configuration\tACL Reference\tPorts\nACL configuration\tACL Reference\tAll ACL Group\nACL configuration\tTime-range\tName\nACL configuration\tTime-range\tCycle-time\nACL configuration\tTime-range\tUtter-time\nQoS configuration\tQoS apply\tPort\nQoS configuration\tQoS apply\tQoS Type\nQoS configuration\tQoS apply\tUser Priority\nQoS configuration\tQoS schedule\tPort\nQoS configuration\tQoS schedule\tQoS schedule mode\nQoS configuration\tQoS schedule\tQueue\nQoS configuration\tQoS schedule\tWeight of queue\nQoS configuration\tIP Address\tVIAN ID(VID)\nQoS configuration\tIP Address\tIP Address\nQoS configuration\tIP Address\tDHCP Client\nQoS configuration\tARP\tStatic ARP\nQoS configuration\tARP\tARP Item\nQoS configuration\tARP\tChange Dynamic ARP into Static ARP\nQoS configuration\tARP\tChange Dynamic ARP into Static ARP\nQoS configuration\tARP\tAging time\nQoS configuration\tHost Static Route\tTarget Address/Subnet perfix\nQoS configuration\tHost Static Route\tNext Hop\nAAA Configuration\tTacacs+\tTaccas+\nAAA Configuration\tTacacs+\tServer IP\nAAA Configuration\tTacacs+\tAuthentication Type\nAAA Configuration\tTacacs+\tShared Secret\nAAA Configuration\tRadius\tPrimary Server\nAAA Configuration\tRadius\tOption Server\nAAA Configuration\tRadius\tUDP Port\nAAA Configuration\tRadius\tAccounting\nAAA Configuration\tRadius\tShared Key\nAAA Configuration\tRadius\tVendor\nAAA Configuration\tRadius\tNAS Port\nAAA Configuration\tRadius\tNAS Port Type\nAAA Configuration\tRadius\tNAS Service Type\nAAA Configuration\tRadius\tRoaming\n802.1x\t802.1x\t802.1x\n802.1x\t802.1x\tReauthentication\n802.1x\t802.1x\tReauthentication Period\n802.1x\t802.1x\tQuiet Period\n802.1x\t802.1x\tTx-Period\n802.1x\t802.1x\tServer Timeout\n802.1x\t802.1x\tSupplicant Timeout\n802.1x\t802.1x\tMax Request\n802.1x\t802.1x\tReauth Max\n802.1x\t802.1x\tClient Version\n802.1x\t802.1x\tCheck Client\n802.1x\t802.1x\tCheck Version\n802.1x\t802.1x Port\tPort Number\n802.1x\t802.1x Port\tPort Mode\n802.1x\t802.1x Port\tSupport Host Number\n802.1x\t802.1x Port\tGuest VLAN\n802.1x\t802.1x Port\tTransmit Port\n802.1x\t802.1x User Auth-Info\tport\nSTP Configuration\tMSTP\tMSTP\nSTP Configuration\tMSTP\tPriority\nSTP Configuration\tMSTP\tPortfast Bpdu-Filter\nSTP Configuration\tMSTP\tPortfast Bpdu-Guard\nSTP Configuration\tMSTP\tForward-Time\nSTP Configuration\tMSTP\tHello-Time\nSTP Configuration\tMSTP\tErrdisable-Timeout\nSTP Configuration\tMSTP\tErrdisable-Timeout Interval\nSTP Configuration\tMSTP\tMax-Age\nSTP Configuration\tMSTP\tMax-Hops\nSTP Configuration\tMSTP\tCisco-Interopeability\nSTP Configuration\tSTP Port\tPort\nSTP Configuration\tSTP Port\tPortfast\nSTP Configuration\tSTP Port\tPortfast bpdu-filter\nSTP Configuration\tSTP Port\tPortfast bpdu-guard\nSTP Configuration\tSTP Port\tRoot Guard\nSTP Configuration\tSTP Port\tLink-Type\nSTP Configuration\tSTP Port\tPriority\nSTP Configuration\tSTP Port\tPath-Cost\nSTP Configuration\tSTP Port\tForce-Version\nSTP Configuration\tSTP Port\tInstance\nRouting protocol\tStatic routing\tStatic routing\nRouting protocol\tDynamic routing\tRIP v1/v2、OSPF,VRRP\nIGMP Snooping Configuration\tIGMP Snooping\tIGMP Snooping\nGMRP Configuration\tGMRP Global\tGlobal GMRP\nGMRP Configuration\tGMRP Ports\tPort\nGMRP Configuration\tGMRP Ports\tGMRP Status\nGMRP Configuration\tGMRP Registration\tFixed\nGMRP Configuration\tGMRP Registration\tForbidden\nGMRP Configuration\tGMRP Registration\tNormal\nEAPS Configuration\tEAPS\tEAPS Ring ID\nEAPS Configuration\tEAPS\tMode\nEAPS Configuration\tEAPS\tPrimary Port\nEAPS Configuration\tEAPS\tSecondary Port\nEAPS Configuration\tEAPS\tControl VLAN\nEAPS Configuration\tEAPS\tProtected VLANs\nEAPS Configuration\tEAPS\tHello Time Interval\nEAPS Configuration\tEAPS\tFail Time\nEAPS Configuration\tEAPS\tData Span\nEAPS Configuration\tEAPS\tExtreme Interoperability\nEAPS Configuration\tEAPS\tEnable Status\nRMON Configuration\tStatistics\tPort\nRMON Configuration\tStatistics\tIndex\nRMON Configuration\tStatistics\tOwner\nRMON Configuration\tHistory\tPort\nRMON Configuration\tHistory\tIndex\nRMON Configuration\tHistory\tInterval\nRMON Configuration\tHistory\tRequest Buckets\nRMON Configuration\tHistory\tOwner\nRMON Configuration\tHistory\tHistory Data\nRMON Configuration\tAlarm\tIndex\nRMON Configuration\tAlarm\tInterval\nRMON Configuration\tAlarm\tVariable\nRMON Configuration\tAlarm\tSample Type\nRMON Configuration\tAlarm\tRising Threshold\nRMON Configuration\tAlarm\tFailing Threshold\nRMON Configuration\tAlarm\tRising Event Index\nRMON Configuration\tAlarm\tFailing Event Index\nRMON Configuration\tAlarm\tOwner\nRMON Configuration\tEvent\tIndex\nRMON Configuration\tEvent\tDescription\nRMON Configuration\tEvent\tType\nRMON Configuration\tEvent\tCommunity\nRMON Configuration\tEvent\tOwner\nCluster Management\tNDP\tPort\nCluster Management\tNDP\tPort Enable\nCluster Management\tNDP\tGlobal Enable\nCluster Management\tNDP\tHello-Time\nCluster Management\tNDP\tAging-Time\nCluster Management\tNTDP\tPort\nCluster Management\tNTDP\tPort Enable\nCluster Management\tNTDP\tGlobal Enable\nCluster Management\tNTDP\tHops\nCluster Management\tNTDP\tInterval-Time\nCluster Management\tNTDP\tHop-Delay\nCluster Management\tNTDP\tPort-Delay\nCluster Management\tCluster\tCluster Enable\nCluster Management\tCluster\tManagement-VLAN\nCluster Management\tCluster\tIP-Pool\nCluster Management\tCluster\tHandshake Time\nCluster Management\tCluster\tHandshake Hold-time\nCluster Management\tCluster\tCluster Name\nCluster Management\tCluster\tType\nLog Information\tLog system\tLog Priority\nLog Information\tLog system\tOpen/Close\nLog Information\tPD Query\tPOE Port\nLog Information\tPD Query\tPOE Watchdog\nLog Information\tPD Query\tPD IP Address\nLog Information\tPD Query\tPD Query Interval\nLog Information\tPD Query\tPD Timeout Number\nLog Information\tPD Query\tPD Boot Time\nDHCP\tDHCP snooping\tIP Address\nDHCP\tDHCP snooping\tIP Address\nDHCP\tDHCP snooping\tMAC Address\nERPS Configuration\tERPS\tDomain ID\nERPS Configuration\tERPS\tNode-role\nERPS Configuration\tERPS Ring ID(1~32)\tEnable/Disable\nERPS Configuration\tERPS Ring ID(1~32)\tForce Switch\nERPS Configuration\tERPS Ring ID(1~32)\tManual Switch\nERPS Configuration\tERPS Ring ID(1~32)\tGuard Time\nERPS Configuration\tERPS Ring ID(1~32)\tNode Mode\nERPS Configuration\tERPS Ring ID(1~32)\tHold-off-time\nERPS Configuration\tERPS Ring ID(1~32)\tRaps-send-time\nERPS Configuration\tERPS Ring ID(1~32)\tRaps-VLAN\nERPS Configuration\tERPS Ring ID(1~32)\tRevertive-behaviour\nERPS Configuration\tERPS Ring ID(1~32)\tRevertive-behaviour\nERPS Configuration\tERPS Ring ID(1~32)\tRing Mode\nERPS Configuration\tERPS Ring ID(1~32)\tRl-port\nERPS Configuration\tERPS Ring ID(1~32)\tRpl-port\nERPS Configuration\tERPS Ring ID(1~32)\tTraffic VLAN\nERPS Configuration\tERPS Ring ID(1~32)\tWtb Time\nERPS Configuration\tERPS Ring ID(1~32)\tWtr Time\nLACP Configuration\tLACP\tMax-active-link-number\n\t\tSystem-priority\nLINE\tLine\tVty\nLLDP\tLLDP\tGlobal\nLLDP\tLLDP\tHold-multiplier\nLLDP\tLLDP\tTimer\nLoop-detection\tLoopback-detection\tDetection-Time\nLoop-detection\tLoopback-detection\tProtocol-safety\nLoop-detection\tLoopback-detection\tRespond-packets\nLoop-detection\tLoopback-detection\tResume-Time\nMVR\tMVR\tEnable/Disable\nMVR\tMVR\tGroup\nMVR\tMVR\tVLAN\nOAM\tOAM\tErrored-frame\nOAM\tOAM\tErrored-frame-period\nOAM\tOAM\tErrored-frame-seconds\nRedundant-Port\tRedundant-port(1~8)\tForce-switch\nRedundant-Port\tRedundant-port(1~8)\tPrimary-port\nUDLD\tUDLD\tEnable\nUDLD\tUDLD\tTime\nProtocol VLAN\tProtocol VLAN\tEther-type\nCFM\tCFM\tCC\nCFM\tCFM\tEnable\nCFM\tCFM\tLinktrace\nCFM\tCFM\tMA\nCFM\tCFM\tMD\nCFM\tCFM\tMip-rule\nCFM\tCFM\tService-instance(1~32767)\nOrder information\nModel\tDescription\n244TPGM3\tWith 24*10/100/1000M PoE downlink ports, 4*10G SFP+ uplink ports; / Supports L3 lite management,Din-Rail, 372W max PoE output.\n164TPGM3\tWith 16*10/100/1000M PoE downlink ports, 4*10G SFP+ uplink ports; / Supports L3 lite management,Din-Rail, 372W max PoE output.",
+ "blocks": [
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Overview"
+  },
+  {
+   "t": "p",
+   "s": "Normal Indent",
+   "text": "This series of products are the industrial L3 lite Ethernet switch products independently developed by N-net® for the industrial application scenarios with harsh use environment and high reliability requirements. The products adopt industrial-level high-reliability components and industrial-level hardware structure design. The software is developed based on the mature and reliable software platform with independent intellectual property rights, providing a set of highly reliable industrial Ethernet communication solutions for flexible industrial-level application scenarios. The products meet a wide range of industrial Ethernet standards, and can be widely used in industrial automation, urban rail transit, railway, public transportation, electric power, energy and chemical industry, intelligent buildings and other industrial application scenarios."
+  },
+  {
+   "t": "p",
+   "s": "Normal Indent",
+   "text": "This series of products have a variety of product forms including 24*10/100/1000BASE-T PoE+ 4 *10G SFP+, 16 *10/100/1000BASE-T PoE+ 4 *10G SFP+ models, all models can be selected to support PoE+."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Picture"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "244TPGM3                                        64TPGM3"
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Features"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supports L3 routing protocol such as RIP,OSPF;VRRP"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "6KV surge protection, 6KV contact / 8KV air ESD protection;"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supports working temperature-40℃~75℃;"
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Supports wall hanging and desktop installation."
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Specifications"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Model",
+     "244PGM",
+     "164PGM"
+    ],
+    [
+     "I/F",
+     "Downlink",
+     "24*10/100/1000Base-T",
+     "16*10/100/1000Base-T"
+    ],
+    [
+     "I/F",
+     "Uplink",
+     "4*10G SFP+"
+    ],
+    [
+     "I/F",
+     "CONSOLE",
+     "*1"
+    ],
+    [
+     "I/F",
+     "Reset",
+     "*1"
+    ],
+    [
+     "I/F",
+     "DI/DO",
+     "1* relay output, pure resistive load: 1 A @ 30 VDC"
+    ],
+    [
+     "PoE",
+     "PoE Port / (802.3af/at）",
+     "24",
+     "16"
+    ],
+    [
+     "PoE",
+     "PoE Pinout",
+     "V+, V+, V-, V- for pins 1, 2, 3, 6 (Endspan, MDI, Mode A)"
+    ],
+    [
+     "PoE",
+     "PoE Budget",
+     "372W Max."
+    ],
+    [
+     "Ethernet performance",
+     "Packet forwarding / Rate",
+     "95.23Mpps"
+    ],
+    [
+     "Ethernet performance",
+     "Switching capacity",
+     "128Gbps"
+    ],
+    [
+     "Ethernet performance",
+     "Jumbo Frame",
+     "12KB"
+    ],
+    [
+     "Ethernet performance",
+     "MAC table",
+     "16K"
+    ],
+    [
+     "Ethernet performance",
+     "Packet buffer",
+     "12Mb"
+    ],
+    [
+     "Power",
+     "Input",
+     "12 / 24 / 48 VDC (11.8 to 57 VDC Max.) redundant power input (PoE model requires voltage input above 48V)"
+    ],
+    [
+     "Power",
+     "Protection",
+     "Support polar reverse connection protection and over-current protection"
+    ],
+    [
+     "LED",
+     "Power",
+     "2*Green"
+    ],
+    [
+     "LED",
+     "Relay output",
+     "1*Yellow"
+    ],
+    [
+     "LED",
+     "Downlink",
+     "1*Green/Port"
+    ],
+    [
+     "Physical",
+     "Material",
+     "Aluminum alloy + galvanized steel plate"
+    ],
+    [
+     "Physical",
+     "LxWxH mm",
+     "175*135*88"
+    ],
+    [
+     "Physical",
+     "Installation",
+     "Din-rail / wall mounted"
+    ],
+    [
+     "MTBF",
+     ">400K Hr Telcordia SR332"
+    ],
+    [
+     "Work environment",
+     "Noise",
+     "None"
+    ],
+    [
+     "Work environment",
+     "working temperature",
+     "-40℃~75℃, altitude of 1800~5000m: for each elevation of 220m, the maximum temperature specification decreases by 1℃."
+    ],
+    [
+     "Work environment",
+     "Working humidity",
+     "10% ~ 90% RH"
+    ],
+    [
+     "Work environment",
+     "Storage temperature",
+     "-40~85℃"
+    ],
+    [
+     "Work environment",
+     "Store humidity",
+     "5% ~ 95% RH"
+    ],
+    [
+     "Work environment",
+     "Work altitude",
+     "-500~5000m (220m elevation, 1℃ decrease in maximum temperature specification)"
+    ],
+    [
+     "Work environment",
+     "Dust / waterproof",
+     "IP40"
+    ],
+    [
+     "Work environment",
+     "Vibrate",
+     "4.9 N/ m2 (50 Hz to 200 Hz)"
+    ],
+    [
+     "Certification",
+     "Environmental requirements",
+     "RoHS"
+    ],
+    [
+     "Certification",
+     "Safety",
+     "CE,UL"
+    ],
+    [
+     "Certification",
+     "EMI",
+     "FCC CFR47 Part 15,EN55022/CISPR22,Class A"
+    ],
+    [
+     "Certification",
+     "EMS",
+     "IEC 61000-4-2 ESD: Contact: 8 kV; Air: 15 kV / IEC 61000-4-3 RS: 80 MHz to 1 GHz: 10 V/m / IEC 61000-4-4 EFT: Power: 4 kV; Signal: 4 kV / IEC 61000-4-5 Surge: Power: 4 kV; Signal: 6 kV / IEC 61000-4-6 CS: 10 V / IEC 61000-4-8 PFMF"
+    ],
+    [
+     "Standard",
+     "Ethernet",
+     "IEEE 802.3 for 10BaseT / IEEE 802.3u for 100BaseT(X) and 100BaseFX / IEEE 802.3ab for 1000BaseT(X) / IEEE 802.3z for 1000BaseSX/LX/LHX/ZX / IEEE 802.3x for flow control / IEEE 802.1D-2004 for Spanning Tree Protocol / IEEE 802.1w for Rapid Spanning Tree Protocol / IEEE 802.1s for Multiple Spanning Tree Protocol / IEEE 802.1p for Class of Service / IEEE 802.1Q for VLAN Tagging / IEEE 802.1X for authentication / IEEE 802.3ad for Port Trunk with LACP"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "s": "Normal",
+   "text": "Software："
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "System configuration",
+     "System date time",
+     "NTP"
+    ],
+    [
+     "System configuration",
+     "User Management",
+     "User Management"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "http"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "SNMP"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "telnet"
+    ],
+    [
+     "System configuration",
+     "Safe Management",
+     "SSH"
+    ],
+    [
+     "System configuration",
+     "Firmware file",
+     "Firmware file"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Admin Status"
+    ],
+    [
+     "Port configuration",
+     "Common",
+     "Speed"
+    ],
+    [
+     "Port configuration",
+     "Flow control",
+     "Flow control"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Action"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Broadcast"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Enable"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Interval"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Multicast"
+    ],
+    [
+     "Port configuration",
+     "Storm constrain",
+     "Unicast"
+    ],
+    [
+     "Port configuration",
+     "Strom control",
+     "Broadcast(1~1024000kbps)"
+    ],
+    [
+     "Port configuration",
+     "Strom control",
+     "Multicast(1~1024000kbps)"
+    ],
+    [
+     "Port configuration",
+     "Strom control",
+     "DLF(1~1024000kbps)"
+    ],
+    [
+     "Port configuration",
+     "Rate limit",
+     "T/R"
+    ],
+    [
+     "Port configuration",
+     "Protected Port",
+     "Protected Port"
+    ],
+    [
+     "Port configuration",
+     "Learn Limit",
+     "MAC Address"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Group"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Member Port"
+    ],
+    [
+     "Port configuration",
+     "Port trunk",
+     "Trunk Method"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Port"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirrored Port"
+    ],
+    [
+     "Port configuration",
+     "Port Mirror",
+     "Mirror Direction"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "DHCP client"
+    ],
+    [
+     "Port configuration",
+     "DHCP",
+     "DHCP Snooping"
+    ],
+    [
+     "Port configuration",
+     "IP",
+     "IGMP Snooping"
+    ],
+    [
+     "Port configuration",
+     "IP",
+     "MAC-bind"
+    ],
+    [
+     "Port configuration",
+     "IP-subnet-vlan",
+     "IP Address | Mask"
+    ],
+    [
+     "Port configuration",
+     "LACP",
+     "Port Priority"
+    ],
+    [
+     "Port configuration",
+     "LACP",
+     "Timeout"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Admin Status"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Enable"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Check-change-interval"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Management Address"
+    ],
+    [
+     "Port configuration",
+     "LLDP",
+     "Tlv-enable"
+    ],
+    [
+     "Port configuration",
+     "Loopback",
+     "Enable"
+    ],
+    [
+     "Port configuration",
+     "detection",
+     "Resume"
+    ],
+    [
+     "Port configuration",
+     "",
+     "Resume Mode"
+    ],
+    [
+     "Port configuration",
+     "",
+     "Shutdown Mode"
+    ],
+    [
+     "Port configuration",
+     "MAC VLAN",
+     "MAC Address"
+    ],
+    [
+     "Port configuration",
+     "VLAN-mapping",
+     "VLAN(1~4094)"
+    ],
+    [
+     "Port configuration",
+     "Voice VLAN",
+     "VLAN ID(1~4094)"
+    ],
+    [
+     "Port configuration",
+     "Voice VLAN",
+     "Qos Map-queue(0~7)"
+    ],
+    [
+     "Port configuration",
+     "Mvr-interface",
+     "Enable/Disable"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Enable"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Loopback"
+    ],
+    [
+     "Port configuration",
+     "OAM",
+     "Mode"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Customer"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Outer-vid(1~4094)"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Tpid"
+    ],
+    [
+     "Port configuration",
+     "QinQ",
+     "Uplink"
+    ],
+    [
+     "Port configuration",
+     "Udld",
+     "Aggressive"
+    ],
+    [
+     "Port configuration",
+     "Udld",
+     "Port"
+    ],
+    [
+     "MAC",
+     "MAC Binding",
+     "MAC Binding"
+    ],
+    [
+     "MAC",
+     "MAC Auto Binding",
+     "MAC Auto Binding"
+    ],
+    [
+     "MAC",
+     "MAC Filter",
+     "MAC Filter"
+    ],
+    [
+     "MAC",
+     "MAC Auto Filter",
+     "MAC Auto Filter"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Acquire"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Address"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Ageing-time"
+    ],
+    [
+     "MAC",
+     "Bridge",
+     "Unregistered"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN",
+     "4096"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Mode"
+    ],
+    [
+     "VLAN configuration",
+     "VLAN Port",
+     "Port Members"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Community Name"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Read Only"
+    ],
+    [
+     "SNMP configuration",
+     "SNMP community",
+     "Read Write"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "SNMP Version"
+    ],
+    [
+     "SNMP configuration",
+     "TRAP Target",
+     "Item"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Group Number"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Source IP"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Source Wildcard"
+    ],
+    [
+     "ACL configuration",
+     "Standard IP",
+     "Math Data Packets"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Group Number"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source IP"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source Wildcard"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination IP"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination Wildcard"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Protocol Type"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Source Port"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Destination Port"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "TCP Control Flag"
+    ],
+    [
+     "ACL configuration",
+     "Extended IP",
+     "Math Data Packets"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Group Number"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source MAC"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source MAC wildcard"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source IP"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Source Wildcard"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Destination IP"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Destination Wildcard"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "VLAN ID"
+    ],
+    [
+     "ACL configuration",
+     "MAC IP",
+     "Math Data Packets"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Group Number"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender MAC"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender MAC wildcard"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender IP"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Sender IP wildcard"
+    ],
+    [
+     "ACL configuration",
+     "MAC ARP",
+     "Math Data Packets"
+    ],
+    [
+     "ACL configuration",
+     "ACL Reference",
+     "Ports"
+    ],
+    [
+     "ACL configuration",
+     "ACL Reference",
+     "All ACL Group"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Name"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Cycle-time"
+    ],
+    [
+     "ACL configuration",
+     "Time-range",
+     "Utter-time"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "Port"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "QoS Type"
+    ],
+    [
+     "QoS configuration",
+     "QoS apply",
+     "User Priority"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Port"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "QoS schedule mode"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Queue"
+    ],
+    [
+     "QoS configuration",
+     "QoS schedule",
+     "Weight of queue"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "VIAN ID(VID)"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "IP Address"
+    ],
+    [
+     "QoS configuration",
+     "IP Address",
+     "DHCP Client"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Static ARP"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "ARP Item"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Change Dynamic ARP into Static ARP"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Change Dynamic ARP into Static ARP"
+    ],
+    [
+     "QoS configuration",
+     "ARP",
+     "Aging time"
+    ],
+    [
+     "QoS configuration",
+     "Host Static Route",
+     "Target Address/Subnet perfix"
+    ],
+    [
+     "QoS configuration",
+     "Host Static Route",
+     "Next Hop"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Taccas+"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Server IP"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Authentication Type"
+    ],
+    [
+     "AAA Configuration",
+     "Tacacs+",
+     "Shared Secret"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Primary Server"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Option Server"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "UDP Port"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Accounting"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Shared Key"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Vendor"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Port"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Port Type"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "NAS Service Type"
+    ],
+    [
+     "AAA Configuration",
+     "Radius",
+     "Roaming"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "802.1x"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Reauthentication"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Reauthentication Period"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Quiet Period"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Tx-Period"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Server Timeout"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Supplicant Timeout"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Max Request"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Reauth Max"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Client Version"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Check Client"
+    ],
+    [
+     "802.1x",
+     "802.1x",
+     "Check Version"
+    ],
+    [
+     "802.1x",
+     "802.1x Port",
+     "Port Number"
+    ],
+    [
+     "802.1x",
+     "802.1x Port",
+     "Port Mode"
+    ],
+    [
+     "802.1x",
+     "802.1x Port",
+     "Support Host Number"
+    ],
+    [
+     "802.1x",
+     "802.1x Port",
+     "Guest VLAN"
+    ],
+    [
+     "802.1x",
+     "802.1x Port",
+     "Transmit Port"
+    ],
+    [
+     "802.1x",
+     "802.1x User Auth-Info",
+     "port"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "MSTP"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Priority"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Portfast Bpdu-Filter"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Portfast Bpdu-Guard"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Forward-Time"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Hello-Time"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Errdisable-Timeout"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Errdisable-Timeout Interval"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Max-Age"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Max-Hops"
+    ],
+    [
+     "STP Configuration",
+     "MSTP",
+     "Cisco-Interopeability"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Port"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast bpdu-filter"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Portfast bpdu-guard"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Root Guard"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Link-Type"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Priority"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Path-Cost"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Force-Version"
+    ],
+    [
+     "STP Configuration",
+     "STP Port",
+     "Instance"
+    ],
+    [
+     "Routing protocol",
+     "Static routing",
+     "Static routing"
+    ],
+    [
+     "Routing protocol",
+     "Dynamic routing",
+     "RIP v1/v2、OSPF,VRRP"
+    ],
+    [
+     "IGMP Snooping Configuration",
+     "IGMP Snooping",
+     "IGMP Snooping"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Global",
+     "Global GMRP"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Ports",
+     "Port"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Ports",
+     "GMRP Status"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Fixed"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Forbidden"
+    ],
+    [
+     "GMRP Configuration",
+     "GMRP Registration",
+     "Normal"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "EAPS Ring ID"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Mode"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Primary Port"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Secondary Port"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Control VLAN"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Protected VLANs"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Hello Time Interval"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Fail Time"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Data Span"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Extreme Interoperability"
+    ],
+    [
+     "EAPS Configuration",
+     "EAPS",
+     "Enable Status"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Port"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Index"
+    ],
+    [
+     "RMON Configuration",
+     "Statistics",
+     "Owner"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Port"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Index"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Interval"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Request Buckets"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "Owner"
+    ],
+    [
+     "RMON Configuration",
+     "History",
+     "History Data"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Index"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Interval"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Variable"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Sample Type"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Rising Threshold"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Failing Threshold"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Rising Event Index"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Failing Event Index"
+    ],
+    [
+     "RMON Configuration",
+     "Alarm",
+     "Owner"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Index"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Description"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Type"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Community"
+    ],
+    [
+     "RMON Configuration",
+     "Event",
+     "Owner"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Port"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Port Enable"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Global Enable"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Hello-Time"
+    ],
+    [
+     "Cluster Management",
+     "NDP",
+     "Aging-Time"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port Enable"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Global Enable"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Hops"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Interval-Time"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Hop-Delay"
+    ],
+    [
+     "Cluster Management",
+     "NTDP",
+     "Port-Delay"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Cluster Enable"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Management-VLAN"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "IP-Pool"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Handshake Time"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Handshake Hold-time"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Cluster Name"
+    ],
+    [
+     "Cluster Management",
+     "Cluster",
+     "Type"
+    ],
+    [
+     "Log Information",
+     "Log system",
+     "Log Priority"
+    ],
+    [
+     "Log Information",
+     "Log system",
+     "Open/Close"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "POE Port"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "POE Watchdog"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "PD IP Address"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "PD Query Interval"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "PD Timeout Number"
+    ],
+    [
+     "Log Information",
+     "PD Query",
+     "PD Boot Time"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "IP Address"
+    ],
+    [
+     "DHCP",
+     "DHCP snooping",
+     "MAC Address"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS",
+     "Domain ID"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS",
+     "Node-role"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Enable/Disable"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Force Switch"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Manual Switch"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Guard Time"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Node Mode"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Hold-off-time"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Raps-send-time"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Raps-VLAN"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Revertive-behaviour"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Revertive-behaviour"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Ring Mode"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Rl-port"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Rpl-port"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Traffic VLAN"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Wtb Time"
+    ],
+    [
+     "ERPS Configuration",
+     "ERPS Ring ID(1~32)",
+     "Wtr Time"
+    ],
+    [
+     "LACP Configuration",
+     "LACP",
+     "Max-active-link-number"
+    ],
+    [
+     "",
+     "",
+     "System-priority"
+    ],
+    [
+     "LINE",
+     "Line",
+     "Vty"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Global"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Hold-multiplier"
+    ],
+    [
+     "LLDP",
+     "LLDP",
+     "Timer"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Detection-Time"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Protocol-safety"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Respond-packets"
+    ],
+    [
+     "Loop-detection",
+     "Loopback-detection",
+     "Resume-Time"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "Enable/Disable"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "Group"
+    ],
+    [
+     "MVR",
+     "MVR",
+     "VLAN"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-period"
+    ],
+    [
+     "OAM",
+     "OAM",
+     "Errored-frame-seconds"
+    ],
+    [
+     "Redundant-Port",
+     "Redundant-port(1~8)",
+     "Force-switch"
+    ],
+    [
+     "Redundant-Port",
+     "Redundant-port(1~8)",
+     "Primary-port"
+    ],
+    [
+     "UDLD",
+     "UDLD",
+     "Enable"
+    ],
+    [
+     "UDLD",
+     "UDLD",
+     "Time"
+    ],
+    [
+     "Protocol VLAN",
+     "Protocol VLAN",
+     "Ether-type"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "CC"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Enable"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Linktrace"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "MA"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "MD"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Mip-rule"
+    ],
+    [
+     "CFM",
+     "CFM",
+     "Service-instance(1~32767)"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "s": "Heading 3",
+   "text": "Order information"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Model",
+     "Description"
+    ],
+    [
+     "244TPGM3",
+     "With 24*10/100/1000M PoE downlink ports, 4*10G SFP+ uplink ports; / Supports L3 lite management,Din-Rail, 372W max PoE output."
+    ],
+    [
+     "164TPGM3",
+     "With 16*10/100/1000M PoE downlink ports, 4*10G SFP+ uplink ports; / Supports L3 lite management,Din-Rail, 372W max PoE output."
+    ]
+   ]
+  }
+ ],
+ "extracted_at": "2026-10-24T02:58:33Z"
+}

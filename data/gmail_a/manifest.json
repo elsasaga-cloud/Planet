@@ -21,15 +21,16 @@
    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
   ],
   "started": "2026-10-24T02:28:09Z",
-  "offset": 9233086774,
-  "messages": 14270,
-  "done": false,
+  "offset": 13371933112,
+  "messages": 20521,
+  "done": true,
   "entries": 1,
   "entry_names": [
    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
   ],
   "total_bytes": 13371933112,
-  "starts_with_separator": true
+  "starts_with_separator": true,
+  "ended": "2026-10-24T03:00:44Z"
  },
  "shards": {
   "messages/2026/2026-10.jsonl": 330413,
@@ -46,12 +47,14 @@
   "messages/2025/2025-11.jsonl": 1468895,
   "messages/2025/2025-10.jsonl": 1743246,
   "messages/2025/2025-09.jsonl": 1484340,
-  "messages/2025/2025-08.jsonl": 394650,
-  "messages/2025/2025-06.jsonl": 24140,
-  "messages/2025/2025-07.jsonl": 154470,
-  "messages/2025/2025-04.jsonl": 3690,
-  "messages/2025/2025-03.jsonl": 3691,
-  "messages/2025/2025-05.jsonl": 5882
+  "messages/2025/2025-08.jsonl": 998623,
+  "messages/2025/2025-06.jsonl": 1252696,
+  "messages/2025/2025-07.jsonl": 1537193,
+  "messages/2025/2025-04.jsonl": 1181206,
+  "messages/2025/2025-03.jsonl": 1057612,
+  "messages/2025/2025-05.jsonl": 1384839,
+  "messages/2025/2025-02.jsonl": 513160,
+  "messages/2025/2025-01.jsonl": 105768
  },
  "backup": {
   "All_mail_Including_Spam_and_Trash-002_1_.mbox": {
@@ -113,10 +116,13 @@
    "bulk_mode": "full",
    "attach": true,
    "ocr": true,
-   "more_batches": false
+   "more_batches": false,
+   "ended": "2026-10-24T03:00:45Z",
+   "messages_this_run": 20521,
+   "stopped_early": false
   }
  ],
- "status": "partial",
+ "status": "done",
  "batches": [
   {
    "id": 1,
@@ -124,15 +130,34 @@
     "All_mail_Including_Spam_and_Trash-002_1_.mbox"
    ],
    "started": "2026-10-24T02:28:09Z",
-   "offset": 9233086774,
-   "messages": 14270,
-   "done": false,
+   "offset": 13371933112,
+   "messages": 20521,
+   "done": true,
    "entries": 1,
    "entry_names": [
     "All_mail_Including_Spam_and_Trash-002_1_.mbox"
    ],
    "total_bytes": 13371933112,
-   "starts_with_separator": true
+   "starts_with_separator": true,
+   "ended": "2026-10-24T03:00:44Z"
   }
- ]
+ ],
+ "stats": {
+  "messages": 14847,
+  "full": 14847,
+  "snippet": 0,
+  "out": 14500,
+  "in": 347,
+  "bulk": 139,
+  "with_client": 14692,
+  "parse_err": 0,
+  "attachments": 16017,
+  "text_chars": 10615196,
+  "att_unique": 339,
+  "att_ok": 215,
+  "att_fail": 0,
+  "att_skip": 59,
+  "att_chars": 3406210,
+  "clients": 1510
+ }
 }

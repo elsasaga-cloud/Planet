@@ -1,0 +1,19 @@
+{
+ "sha256_16": "2abfe03b8d79da15",
+ "name": "image001.jpg",
+ "ext": ".jpg",
+ "bytes": 8908,
+ "method": "pillow+tesseract",
+ "status": "ok",
+ "meta": {
+  "format": "JPEG",
+  "width": 467,
+  "height": 109,
+  "mode": "RGB",
+  "thumb_bytes": 5854
+ },
+ "warnings": [],
+ "chars": 75,
+ "text": "biocognitive\nPict bhdabe ;\nSPF Licensed Security Systoma Consultant biSKFE,",
+ "extracted_at": "2026-10-24T02:56:14Z"
+}
