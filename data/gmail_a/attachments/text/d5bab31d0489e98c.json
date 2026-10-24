@@ -15,5 +15,5 @@
  "warnings": [],
  "chars": 640,
  "text": "SWITCH#en\nSWITCH#show power\nTypeCAC/DC/Battery) State\nActive\nActive\nSWITCH#\nSWITCH#show fan\nCurrent temperature: 44.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 <\nFan ID Fan Speed Fan Status\n1 low Normal\n2 low Normal\nSWITCH#\nSWITCH#*1970 Jan 01 00:00:43 SWITCH %HAL-6: AC 2 power supply powered off.\n*1970 Jan 01 00:00:49 SWITCH %HAL-6: AC 2 power supply powered on.\n*1970 Jan 01 00:00:58 SWITCH %HAL-6: AC 1 power supply powered off.\nSWITCH#show fan\nCurrent temperature: 45.0 C\nHigh ctrl level:\nTrigger: 90.0 C\nClear : 85.0 C\nFan ID Fan Speed Fan Status\n1 low Normal\n2 low Normal\nSWITCH#show power\nType (AC/DC/Battery)\nInactive\nActive",
- "extracted_at": "2026-10-24T02:52:21Z"
+ "extracted_at": "2026-10-24T04:51:04Z"
 }

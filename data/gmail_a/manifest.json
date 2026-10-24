@@ -4,8 +4,9 @@
   "own_emails": [
    "a.sagatelecom@gmail.com"
   ],
-  "created": "2026-10-24T02:22:16Z",
-  "release_tag": "gmail-a-20261024"
+  "created": "2026-10-24T04:38:02Z",
+  "release_tag": "gmail-a-20261024",
+  "force_rebuilt_at": "2026-10-24T04:38:02Z"
  },
  "sources": [
   {
@@ -13,48 +14,101 @@
    "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox",
    "bytes": 13371933112,
    "sha256": "bbd4816362fa85d9c35843a3996f99ce7326a5c5b3c28e6420dce1eec64e2813"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+   "bytes": 1932735283,
+   "sha256": "c93d27789dd549df79fc584c66b4f36ab8a6b326db9e92389c2fb9ef45627686"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+   "bytes": 1932735283,
+   "sha256": "de220dd3ec80f24241339ec814b296a13dbcae587e26c7caae00e64981893058"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+   "bytes": 1932735283,
+   "sha256": "db33b230a0fec758fee7ffeaceb6a291f34eb6237242887cfab27c5eba0fd12c"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+   "bytes": 1932735283,
+   "sha256": "c05b4f4693fc49fbfc28d41dd22a7890efcc6ddef945263ae10a59b67a281414"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+   "bytes": 1932735283,
+   "sha256": "4304073a7eb3768ead55fb7cf46e86d4ab3391344657de57f501be6760c56035"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+   "bytes": 1932735283,
+   "sha256": "3285c18e91b689022bc5791855265b6b4715ba10cce563d65643b5157a60dfdc"
+  },
+  {
+   "label": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07",
+   "file": "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07",
+   "bytes": 1775521414,
+   "sha256": "75b037ae0bf72c8fb0ddfbd50b2d9d1085fd01901926c303d8b2ebf09eca413e"
   }
  ],
  "progress": {
   "id": 1,
   "files": [
-   "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07"
   ],
-  "started": "2026-10-24T02:28:09Z",
-  "offset": 13371933112,
-  "messages": 20521,
-  "done": true,
-  "entries": 1,
+  "started": "2026-10-24T04:41:40Z",
+  "offset": 13026277472,
+  "messages": 20000,
+  "done": false,
+  "entries": 7,
   "entry_names": [
-   "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+   "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07"
   ],
   "total_bytes": 13371933112,
-  "starts_with_separator": true,
-  "ended": "2026-10-24T03:00:44Z"
+  "starts_with_separator": true
  },
  "shards": {
-  "messages/2026/2026-10.jsonl": 330413,
-  "messages/2026/2026-09.jsonl": 1079715,
+  "messages/2026/2026-10.jsonl": 330428,
+  "messages/2026/2026-09.jsonl": 1079724,
   "messages/2026/2026-06.jsonl": 1153006,
   "messages/2026/2026-05.jsonl": 1264494,
   "messages/2026/2026-04.jsonl": 1025031,
-  "messages/2026/2026-08.jsonl": 1014676,
-  "messages/2026/2026-07.jsonl": 1152407,
+  "messages/2026/2026-08.jsonl": 1014673,
+  "messages/2026/2026-07.jsonl": 1152522,
   "messages/2026/2026-03.jsonl": 1721938,
   "messages/2026/2026-01.jsonl": 2588146,
-  "messages/2026/2026-02.jsonl": 1465435,
-  "messages/2025/2025-12.jsonl": 2385039,
+  "messages/2026/2026-02.jsonl": 1465430,
+  "messages/2025/2025-12.jsonl": 2385018,
   "messages/2025/2025-11.jsonl": 1468895,
-  "messages/2025/2025-10.jsonl": 1743246,
-  "messages/2025/2025-09.jsonl": 1484340,
+  "messages/2025/2025-10.jsonl": 1743294,
+  "messages/2025/2025-09.jsonl": 1484346,
   "messages/2025/2025-08.jsonl": 998623,
   "messages/2025/2025-06.jsonl": 1252696,
   "messages/2025/2025-07.jsonl": 1537193,
-  "messages/2025/2025-04.jsonl": 1181206,
-  "messages/2025/2025-03.jsonl": 1057612,
-  "messages/2025/2025-05.jsonl": 1384839,
-  "messages/2025/2025-02.jsonl": 513160,
-  "messages/2025/2025-01.jsonl": 105768
+  "messages/2025/2025-04.jsonl": 1181201,
+  "messages/2025/2025-03.jsonl": 1052268,
+  "messages/2025/2025-05.jsonl": 1384834,
+  "messages/2025/2025-02.jsonl": 71021,
+  "messages/2025/2025-01.jsonl": 5783
  },
  "backup": {
   "All_mail_Including_Spam_and_Trash-002_1_.mbox": {
@@ -120,44 +174,45 @@
    "ended": "2026-10-24T03:00:45Z",
    "messages_this_run": 20521,
    "stopped_early": false
+  },
+  {
+   "started": "2026-10-24T04:38:02Z",
+   "limit": 0,
+   "bulk_mode": "full",
+   "attach": true,
+   "ocr": true,
+   "more_batches": false
   }
  ],
- "status": "done",
+ "status": "partial",
  "batches": [
   {
    "id": 1,
    "files": [
-    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07"
    ],
-   "started": "2026-10-24T02:28:09Z",
-   "offset": 13371933112,
-   "messages": 20521,
-   "done": true,
-   "entries": 1,
+   "started": "2026-10-24T04:41:40Z",
+   "offset": 13026277472,
+   "messages": 20000,
+   "done": false,
+   "entries": 7,
    "entry_names": [
-    "All_mail_Including_Spam_and_Trash-002_1_.mbox"
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part01",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part02",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part03",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part04",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part05",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part06",
+    "All_mail_Including_Spam_and_Trash-002_1_.mbox.part07"
    ],
    "total_bytes": 13371933112,
-   "starts_with_separator": true,
-   "ended": "2026-10-24T03:00:44Z"
+   "starts_with_separator": true
   }
- ],
- "stats": {
-  "messages": 14847,
-  "full": 14847,
-  "snippet": 0,
-  "out": 14500,
-  "in": 347,
-  "bulk": 139,
-  "with_client": 14692,
-  "parse_err": 0,
-  "attachments": 16017,
-  "text_chars": 10615196,
-  "att_unique": 339,
-  "att_ok": 215,
-  "att_fail": 0,
-  "att_skip": 59,
-  "att_chars": 3406210,
-  "clients": 1510
- }
+ ]
 }

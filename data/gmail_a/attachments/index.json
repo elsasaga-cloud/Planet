@@ -7,7 +7,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 793959,
-  "n": 932,
+  "n": 893,
   "first_msg": "9ca8616708ba5ff0",
   "x": "meta",
   "chars": 0,
@@ -20,7 +20,7 @@
   ],
   "mime": "image/png",
   "bytes": 2187,
-  "n": 6,
+  "n": 5,
   "first_msg": "6b53a96ff0db1065",
   "x": "skip:image"
  },
@@ -31,7 +31,7 @@
   ],
   "mime": "image/png",
   "bytes": 3910,
-  "n": 21,
+  "n": 19,
   "first_msg": "9957a2f43f524a47",
   "x": "skip:image"
  },
@@ -246,7 +246,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 588980,
-  "n": 1246,
+  "n": 1219,
   "first_msg": "18fcdc87f4ccf5a9",
   "x": "ok",
   "chars": 477,
@@ -377,7 +377,7 @@
   ],
   "mime": "image/png",
   "bytes": 1450,
-  "n": 62,
+  "n": 56,
   "first_msg": "0de6557f58082926",
   "x": "skip:image"
  },
@@ -689,7 +689,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 82281,
-  "n": 1229,
+  "n": 1226,
   "first_msg": "2c088651a92dded8",
   "x": "ok",
   "chars": 36,
@@ -1325,7 +1325,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 854738,
-  "n": 1463,
+  "n": 1389,
   "first_msg": "dd64ec5b26b4bc1b",
   "x": "meta",
   "chars": 0,
@@ -2097,7 +2097,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 67537,
-  "n": 901,
+  "n": 899,
   "first_msg": "231c410bdb6b62d3",
   "x": "ok",
   "chars": 134,
@@ -2124,7 +2124,7 @@
   ],
   "mime": "image/png",
   "bytes": 311879,
-  "n": 172,
+  "n": 145,
   "first_msg": "18c624287c7c4aea",
   "x": "meta",
   "chars": 0,
@@ -2137,7 +2137,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 337083,
-  "n": 36,
+  "n": 18,
   "first_msg": "9458b314b99ccdd5",
   "x": "meta",
   "chars": 0,
@@ -2176,7 +2176,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 572425,
-  "n": 553,
+  "n": 466,
   "first_msg": "f177241c7be02f2d",
   "x": "meta",
   "chars": 0,
@@ -2692,7 +2692,7 @@
   ],
   "mime": "image/png",
   "bytes": 614238,
-  "n": 712,
+  "n": 655,
   "first_msg": "80cb5870cbbc80bb",
   "x": "ok",
   "chars": 17,
@@ -2795,7 +2795,7 @@
   ],
   "mime": "image/png",
   "bytes": 51113,
-  "n": 254,
+  "n": 204,
   "first_msg": "8b1d778d3756a721",
   "x": "meta",
   "chars": 0,
@@ -2821,7 +2821,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 47888,
-  "n": 104,
+  "n": 88,
   "first_msg": "bf2e7e83752cc4ea",
   "x": "meta",
   "chars": 0,
@@ -2865,7 +2865,7 @@
   ],
   "mime": "image/png",
   "bytes": 356174,
-  "n": 904,
+  "n": 857,
   "first_msg": "89dafe8bbd1a9808",
   "x": "meta",
   "chars": 0,
@@ -3090,7 +3090,7 @@
   ],
   "mime": "image/jpeg",
   "bytes": 351728,
-  "n": 273,
+  "n": 249,
   "first_msg": "95bcfb9ad5acda39",
   "x": "meta",
   "chars": 0,
@@ -3966,7 +3966,7 @@
   ],
   "mime": "multipart/related",
   "bytes": 31,
-  "n": 42,
+  "n": 34,
   "first_msg": "59fe6d02513fd6b0",
   "x": "skip:type"
  },
@@ -4237,95 +4237,10 @@
   ],
   "mime": "image/jpeg",
   "bytes": 121547,
-  "n": 6,
+  "n": 4,
   "first_msg": "71f5f62ff6785f81",
   "x": "ok",
   "chars": 414,
-  "method": "pillow+tesseract"
- },
- "d84c915e24269751": {
-  "name": "STI-42424XGGPM-4BT.docx",
-  "names": [
-   "STI-42424XGGPM-4BT.docx"
-  ],
-  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-  "bytes": 3951062,
-  "n": 1,
-  "first_msg": "aee9616b96315f19",
-  "x": "ok",
-  "chars": 29721,
-  "method": "python-docx(段落+表格+文本框+页眉页脚)"
- },
- "52ca5e7018fffb97": {
-  "name": "Marvell Based CLI Manual.docx",
-  "names": [
-   "Marvell Based CLI Manual.docx"
-  ],
-  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-  "bytes": 2473356,
-  "n": 1,
-  "first_msg": "aee9616b96315f19",
-  "x": "ok",
-  "chars": 370131,
-  "method": "python-docx(段落+表格+文本框+页眉页脚)"
- },
- "69dcdcf7d9e82654": {
-  "name": "Marvell Based Web Manual.docx",
-  "names": [
-   "Marvell Based Web Manual.docx"
-  ],
-  "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-  "bytes": 4650717,
-  "n": 1,
-  "first_msg": "aee9616b96315f19",
-  "x": "ok",
-  "chars": 147537,
-  "method": "python-docx(段落+表格+文本框+页眉页脚)"
- },
- "c405c6c95e848f15": {
-  "name": "image001.png",
-  "names": [
-   "image001.png"
-  ],
-  "mime": "image/png",
-  "bytes": 4316,
-  "n": 1,
-  "first_msg": "3ea5825b970a19f4",
-  "x": "skip:image"
- },
- "52acb0b333f9caf4": {
-  "name": "image002.png",
-  "names": [
-   "image002.png"
-  ],
-  "mime": "image/png",
-  "bytes": 3225,
-  "n": 1,
-  "first_msg": "3ea5825b970a19f4",
-  "x": "skip:image"
- },
- "a03437874eb37a60": {
-  "name": "image003.png",
-  "names": [
-   "image003.png"
-  ],
-  "mime": "image/png",
-  "bytes": 3449,
-  "n": 1,
-  "first_msg": "3ea5825b970a19f4",
-  "x": "skip:image"
- },
- "5eb392068a32fb7f": {
-  "name": "Unrestricted Country Menu Link.png",
-  "names": [
-   "Unrestricted Country Menu Link.png"
-  ],
-  "mime": "image/png",
-  "bytes": 95315,
-  "n": 1,
-  "first_msg": "ab13c2fe0ff1b50e",
-  "x": "ok",
-  "chars": 374,
   "method": "pillow+tesseract"
  }
 }
