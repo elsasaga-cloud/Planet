@@ -46,6 +46,10 @@ updated: 2026-10-24
 
 - **绑定等级：轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）** ｜ 类型：尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放） ｜ 筛子：3（12 单、自有品牌贴 BNSC 前缀） ｜ 停点：无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461） ｜ 复活：已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料 ｜ 通路：NG 已通（客户货代 + 货代走账） ｜ 节奏：最后 PI 2026-08-30；邮件 0 封 ｜ 证据：PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档
 
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-09-09 | 去 | Saga 内部（Design.docx，1st order 包装盒设计） | 一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认 | Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据 | `Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata` |
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |

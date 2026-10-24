@@ -245,6 +245,22 @@
         "quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
         "why": "第 4 单前置",
         "k": "ba36e2ca75bc3155"
+      },
+      {
+        "date": "2026-08-26",
+        "dir": "来",
+        "who": "James（JCSL-Custom_power_pcb.docx）",
+        "quote": "Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST for alarm. Request 2: Add thermal sensor (i2c/i3c) to Power board… if facilities exist in the marvell software. Request 3: Add 2 pcs of fan headers… 40mm PC fan using PWM and TAC support in OS (Noctua 4-pin 5V). Request 4: additional DC-DC buck convertor to provide 75w of 12v DC… to power the PC… Must meet FCC Part 15 Class B, CE, RoHS",
+        "why": "James 的产品是「Saga 4+8 板 + 自家 PC 模块」的一体机：要求电源板改连接器方向、加温度传感器、PWM 风扇头、12V/75W 给 PC 供电——这是 PCB 级 ODM 需求，不是贴牌；第 4 单（P20260831-03 未税 ¥20,160，12 台 @ $335）之后，这张需求单就是下一单的入口",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+      },
+      {
+        "date": "2026-08-26",
+        "dir": "来",
+        "who": "James（长期需求.docx）",
+        "quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
+        "why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制；Saga AC5 线有 2.5G 型号（STI-2xx/STC-2xx 2.5G 系列），双电源/风扇监控已在 NYNEX 第二单做过（双电源风扇监控.docx）——把这两件事合起来回 James，就是「省他时间 + 长期复利」",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
       }
     ],
     "proof_gaps": [

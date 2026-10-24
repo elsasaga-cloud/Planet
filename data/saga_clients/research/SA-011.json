@@ -211,7 +211,8 @@
       ],
       "gaps": [
         "外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认",
-        "Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注"
+        "Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注",
+        "Vi-Link 主业是 SFP 模块（2024-05-31 自述）——交换机/MC 是其副线，复购节奏取决于其美国客户项目"
       ]
     },
     "next_move": {
@@ -222,6 +223,14 @@
     },
     "facts": [
       {
+        "date": "2024-04-16",
+        "dir": "来",
+        "who": "Thu Pham（Vi-Link, Yorba Linda CA）",
+        "quote": "Do you provide OEM Private label for this product? If yes, What is the cost of sample unit with our Logo and shipping to California? And can you accept PayPal payment?",
+        "why": "第一封回信就是三件事：OEM 贴牌、样机到加州的成本、PayPal——Vi-Link 从一开始就是「自有品牌 + 小单 + PayPal」画像；04-17「For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US」",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
         "date": "2024-04-18",
         "dir": "去",
         "who": "Simon → Thu",
@@ -230,12 +239,52 @@
         "k": "c99c94abd0c7eed6"
       },
       {
+        "date": "2024-04-18",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "For the Logo on the front panel I would need you to print the Logo and model number on the panel not using the label or sticker. I will send you the payment now",
+        "why": "贴牌要求是「面板印刷不是贴纸」（Visio 源文件、Arial 字体、6 轮确认）；04-25「I did not see any Vi-Link logo in the software?」→ Web GUI 也要换 logo；04-25「We are re-building our website and will look for more products in the Data Center area」",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
+        "date": "2024-04-20",
+        "dir": "来",
+        "who": "Thu（Vilink_Models.pdf，1st order）",
+        "quote": "VL Vi-Link / Fiber Optic Communications / Model MC100 · MC100SFP · MC1000 · MC10G / Fiber Optic Media Converter / Ethernet 10/100M Base-TX To Ethernet 100M SC Conversion…",
+        "why": "Vi-Link 自有型号体系（MC100/MC100SFP/MC1000/MC10G/MC1000SC03）与丝印版式从首单就定稿，Saga 手里有 Visio/XPS/DWG 源文件——换供应商要重做全部丝印文件",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
+      },
+      {
+        "date": "2024-05-14",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "We received the Switch and did not see the Operation Software CD come with in. Don't we always provide the Software CD with the product?… We are using the old style CD. Can I download and create a CD somehow?",
+        "why": "美国小品牌商的交付习惯：要随机光盘/下载包（Simon 给了 Google Drive 下载链接）；05-31「Our engineers are testing the product. We are kind of busy in the SFP modules project」→ Vi-Link 主业是 SFP 模块，交换机是副线",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
+        "date": "2024-11-13",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "Can you send me the details information of this 10G Media Converter and the 14 Slot rack Plus rack cards. Questions the Rack cards: I have 16 slots Web-managed rack for 100M and 1000M MC Rack cards. Why do you use 14 Slots rack chassis instead of 16 slots chassis?",
+        "why": "第二单（STSC20241119006：4 台 10G MC + 1 机架）由 Simon 群发「10G Media Converter」触发；客户已有 16 槽网管机架 → 14 槽是 Saga 的产品差异点要解释",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
         "date": "2024-11-14",
         "dir": "去",
         "who": "Saga（Simon）",
         "quote": "Hi, Thu, Thanks for your information. 1, please see attached datasheets. 2, for this 14-slot rack, it is housing the standalone units, not cards. Pros: Easier to insert or plug out for other purposes(directly use it elsewhere, while cards are not that easy), a",
         "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
         "k": "aa5bd145269a4a45"
+      },
+      {
+        "date": "2024-11-15",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "I will need to do Silkscreen on the equipment… I also increase the resolution of the logos so you can do Laser print (another technique)… It does not look right. Can you just use the top part and… add the \"Ethernet 10G Base-TX to Ethernet 10G SFP Conversion\" with the same Font… and a line between them",
+        "why": "丝印细节反复 4 轮（11-14 两版 logo、11-18、11-19、11-21 Visio 定稿、12-03「It looks good」）——每单都要走一遍丝印确认，是 Vi-Link 的固定成本，也是绑定点（模板已在 Saga 手里）",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
       },
       {
         "date": "2024-11-16",
@@ -254,12 +303,28 @@
         "k": "5421b6cec88fe6fc"
       },
       {
+        "date": "2024-11-19",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "It is a lot of better for me to pay if you have PayPal account… The payment by wire transfer is done.",
+        "why": "两次要求 PayPal（2024-04-16 / 2024-11-19），最终仍电汇；PayPal 5% 规则对这类小单客户是真实摩擦",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+      },
+      {
         "date": "2024-11-21",
         "dir": "去",
         "who": "Saga（Simon）",
         "quote": "Hi, Thu, Please see attached photos for labels. Is this format OK? As you said, add the \" Ethernet 10GBase-TX to Ethernet 10G SFP Conversion\" with the same Font with your \" 10G Ethernet Media Converter\" and a line between them. It will be Arial then. *Is there a source file for both logos?(PS/AI/Vis…",
         "why": "Saga 实质答复原文（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
         "k": "c42b730eadf0bfa6"
+      },
+      {
+        "date": "2025-05-09",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "Can you send me the full price list of your products?",
+        "why": "唯一一次主动要全价目表（Simon 05-17 回「Download Link.pdf」）；之后 2025-05 → 2026-07 Saga 发了 9 封群发无回，直到 2026-08 第三单 MC1000SC03",
+        "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
       },
       {
         "date": "2026-08-20",
@@ -292,6 +357,14 @@
         "quote": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
         "why": "OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决",
         "k": "2b79994c6f5315f7"
+      },
+      {
+        "date": "2026-09-18",
+        "dir": "去",
+        "who": "Saga 内部（丝印需求_2026.09.18.docx，第三单 MC1000SC03）",
+        "quote": "2个颜色，红色和白色…Vi-Link = Arial Black；Fiber Optic Communications / Fiber Optic Media Converter = Segoe UL Light；Model = Segoe UL…一定要注意大小写，千万不能错了；下方的字体的横线要稍微凸出来一些",
+        "why": "第三单（P20260904-01 未税 ¥900，STSC-20260821-001）仍是逐字体核对的丝印活；利润薄但复购稳定（2024-04 / 2024-11 / 2026-08）；09-08 Thu「This does not look good. It will look like I use some one products」= 丝印稍有偏差她就拒收，这是她的底线",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
       },
       {
         "date": "2026-09-24",
@@ -334,7 +407,7 @@
       "revive": "补 USD 报价 + 样机（草稿已备）",
       "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
       "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
-      "evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
+      "evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）；S 邮箱 2024-04 → 2024-12 Thu 的 27 封回信（顶部引用格式）已补读：OEM 面板印刷 + GUI logo + 随机光盘 + PayPal 诉求"
     }
   },
   "watch": {

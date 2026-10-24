@@ -302,6 +302,22 @@
         "k": "gmail_a att 0550_001.pdf"
       },
       {
+        "date": "2025-12-24",
+        "dir": "去",
+        "who": "Saga 内部（NETAS绑定.docx）",
+        "quote": "你不是从 0 开始绑定，他们已经被动绑定了一大半：NDA / 清关 / 样品测试排期 / 内部评审流程…基于你 PCBA 做测试…CC 多人，你是\"这个型号的来源\"。主动再加：Configuration Control（BOM 冻结、PCB Layout 冻结、SN 规则、固件版本留档、Web UI 截图留档）；和供应商再确认「这个型号已经进了海外大型通信/准军工客户测试流程，Form/Fit/Function 改动提前同步」；MIB / SNMP 是「对，但必须等」——等他们主动问…你绑定 Netas 靠的是\"风险缓冲\"",
+        "why": "Saga 对 Netaş 的绑定策略已成文：配置控制 + 供应商侧锁定 + 不主动推 MIB + 把自己定位成缓冲层。等级「中度」与此一致；下一步动作（2027-01 质保/复购一问）不要违背「不 push 功能」",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
+      },
+      {
+        "date": "2025-12-24",
+        "dir": "去",
+        "who": "Saga 内部（基于Netas的推广计划.docx）",
+        "quote": "第一梯队：Krontech（主攻 CENTEC 高速，「We can provide a testing sample of our 10G/40G switches, already evaluated by a Tier-1 Turkish integrator」）、Karel（老牌军工通信，PoE 大户，「你推了 3 轮，他们已经熟悉你」，低频强存在）；第二梯队：KocSistem、Teknoser、NGN、Tellcom、Berqnet、Probil、Biznet、Havelsan 下游",
+        "why": "Netaş 成单的复利用法 = 土耳其同级集成商背书名单；计划里的 Krontech/Karel/KocSistem 等在客户库里要逐个核对是否建档（多数未建档或在 C）——这是 2027 土耳其线的现成清单，但「already evaluated by a Tier-1 Turkish integrator」不能点名 Netaş（NDA）",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
+      },
+      {
         "date": "2026-01-13",
         "dir": "来",
         "who": "Burak Özdemir",
@@ -424,7 +440,8 @@
     ],
     "proof_gaps": [
       "A 邮箱 2025-03~08 分片重跑后核对 Simon 最初转介 Netaş 的 S 侧邮件是否有更早接触",
-      "留在客户处那台样机的测试结论（对方未反馈）"
+      "留在客户处那台样机的测试结论（对方未反馈）",
+      "《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）"
     ],
     "draft_en": {
       "subject": "Re: vehicle network L3 requirement — PIM-SM now in firmware 7.5",

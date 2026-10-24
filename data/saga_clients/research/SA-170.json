@@ -1,194 +1,204 @@
 {
- "code": "SA-170",
- "name_official": "Biz - Ethics Ltd.",
- "website_status": "",
- "summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json",
- "type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/CI.xls",
-   "date": "2024-09-08"
+  "code": "SA-170",
+  "name_official": "Biz - Ethics Ltd.",
+  "website_status": "",
+  "summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-170.json",
+  "type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/CI.xls",
+      "date": "2024-09-08"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241201012（PI，2024-12-01）：STC-424DGGPM 共 5 台，RMB 8650.0；采购 SmartByte RMB 3750.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STSC20241201012.xls",
+      "date": "2024-12-01"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20250302012（PI，2025-03-02）：STC-28GPM、STC-424DGGPM 共 13 台，RMB 7725.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250302012_R2.xls",
+      "date": "2025-03-02"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20250609012（PI，2025-06-09）：STC-28GPM、STC-424DGGPM 共 7 台，RMB 5645.0；采购 SmartByte RMB 3175.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250609012.xls",
+      "date": "2025-06-09"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20250917012（PI，2025-09-17）：STC-28GPM 共 15 台，RMB 5775.0；采购 HRUI RMB 5025.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250917012.xls",
+      "date": "2025-09-17"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20250930012（PI，2025-09-30）：STC-4168XGGCM、STC-424XGGM 共 4 台，RMB 7700.0；采购 SmartByte RMB 6440.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250930012.xls",
+      "date": "2025-09-30"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20251016012（PI，2025-10-16）：BNSC-424DGDPM、STC-424DGGPM 共 1 台，RMB 860.0；采购 SmartByte RMB 760.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251016012.xls",
+      "date": "2025-10-16"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20251121012（PI，2025-11-21）：BNSC-28GPM、STC-28GPM 共 13 台，RMB 5005.0；采购 HRUI RMB 4355.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251121012.xls",
+      "date": "2025-11-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20251123012（PI，2025-11-23）：BNSC-4168XGGCM、STC-4168XGGCM、STC-424XGGPM-280W、STH-2C24XF-SFI 共 11 台，RMB 26050.0；采购 Hohunet、SmartByte RMB 17770.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251123012.xls",
+      "date": "2025-11-23"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20260618012（PI，2026-06-18）：BNSC-28GPM、STC-28GPM 共 5 台，RMB 2040.0；采购 HRUI RMB 1775.5",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260618012.xls",
+      "date": "2026-06-18"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20260718012（PI，2026-07-18）：BNSC-28GPM、STC-28GPM 共 2 台，RMB 816.0；采购 HRUI RMB 710.2",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260718012.xls",
+      "date": "2026-07-18"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STEC20260830012（PI，2026-08-30）：BNSC-28GPM、BNSC-424DGDPM、STC-28GPM、STC-424DGGPM 共 13 台，RMB 5842.0；采购 SmartByte RMB 765.0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
+      "date": "2026-08-30"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0",
+      "quote": "",
+      "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "belnetworks.com 现为域名停放页（1st Domains，新西兰注册商），不是 Biz-Ethics 的网站",
+      "quote": "You have reached the future website of belnetworks.com. This domain is currently parked with 1st Domains and does not yet have a website",
+      "url": "https://belnetworks.com/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "RDAP：belnetworks.com 注册 2024-08-16（即被人重新注册），到期 2027-08-16，last changed 2026-07-19，注册商 eNom，NS ns1/ns2.1stdomains.net.nz；GitHub 上多份过期域名日志（2021/2023/2024）也列有该域 → 原主多次脱手",
+      "quote": "\"registration\",\"eventDate\":\"2024-08-16T06:09:14Z\" … \"expiration\",\"eventDate\":\"2027-08-16T06:09:14Z\" … NS1.1STDOMAINS.NET.NZ",
+      "url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备",
+      "quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
+      "url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 文档",
+      "claim": "绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）",
+      "quote": "尼日利亚 Mbata　轻度绑定=转账啥的都OK",
+      "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+      "date": "2026-10-22"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Valentine Mbata",
+      "role": "单据联系人",
+      "email": "info@belnetworks.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
+  ],
+  "notes": "",
+  "researched_at": "2026-10-22",
+  "deal_pi": {
+    "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
+    "simon_label": "活跃",
+    "pay": "货代走账",
+    "bind": "轻度绑定",
+    "buyer": "Biz - Ethics Ltd.",
+    "orders": 12,
+    "first": "2024-09-08",
+    "last": "2026-08-30",
+    "usd": 0.0,
+    "rmb": 101353.0,
+    "profit_rmb": 0.0,
+    "models": "BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241201012（PI，2024-12-01）：STC-424DGGPM 共 5 台，RMB 8650.0；采购 SmartByte RMB 3750.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STSC20241201012.xls",
-   "date": "2024-12-01"
+  "saga_fit": {
+    "p1": "",
+    "tier": 20,
+    "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20250302012（PI，2025-03-02）：STC-28GPM、STC-424DGGPM 共 13 台，RMB 7725.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250302012_R2.xls",
-   "date": "2025-03-02"
+  "grade_override": "A",
+  "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+  "channels": {
+    "公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20250609012（PI，2025-06-09）：STC-28GPM、STC-424DGGPM 共 7 台，RMB 5645.0；采购 SmartByte RMB 3175.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250609012.xls",
-   "date": "2025-06-09"
+  "signals": [
+    "⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址"
+  ],
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-170",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20250917012（PI，2025-09-17）：STC-28GPM 共 15 台，RMB 5775.0；采购 HRUI RMB 5025.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250917012.xls",
-   "date": "2025-09-17"
+  "deep": {
+    "done_at": "2026-10-23",
+    "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20250930012（PI，2025-09-30）：STC-4168XGGCM、STC-424XGGM 共 4 台，RMB 7700.0；采购 SmartByte RMB 6440.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20250930012.xls",
-   "date": "2025-09-30"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20251016012（PI，2025-10-16）：BNSC-424DGDPM、STC-424DGGPM 共 1 台，RMB 860.0；采购 SmartByte RMB 760.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251016012.xls",
-   "date": "2025-10-16"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20251121012（PI，2025-11-21）：BNSC-28GPM、STC-28GPM 共 13 台，RMB 5005.0；采购 HRUI RMB 4355.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251121012.xls",
-   "date": "2025-11-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20251123012（PI，2025-11-23）：BNSC-4168XGGCM、STC-4168XGGCM、STC-424XGGPM-280W、STH-2C24XF-SFI 共 11 台，RMB 26050.0；采购 Hohunet、SmartByte RMB 17770.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20251123012.xls",
-   "date": "2025-11-23"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20260618012（PI，2026-06-18）：BNSC-28GPM、STC-28GPM 共 5 台，RMB 2040.0；采购 HRUI RMB 1775.5",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260618012.xls",
-   "date": "2026-06-18"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20260718012（PI，2026-07-18）：BNSC-28GPM、STC-28GPM 共 2 台，RMB 816.0；采购 HRUI RMB 710.2",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260718012.xls",
-   "date": "2026-07-18"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STEC20260830012（PI，2026-08-30）：BNSC-28GPM、BNSC-424DGDPM、STC-28GPM、STC-424DGGPM 共 13 台，RMB 5842.0；采购 SmartByte RMB 765.0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定/STEC20260830012.xls",
-   "date": "2026-08-30"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「尼日利亚 Mbata 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 12 个，2024-09-08 → 2026-08-30，销售 USD 0 / RMB 101353.0，Simon 成本统计利润合计 RMB 0",
-   "quote": "",
-   "url": "PI.zip:12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "belnetworks.com 现为域名停放页（1st Domains，新西兰注册商），不是 Biz-Ethics 的网站",
-   "quote": "You have reached the future website of belnetworks.com. This domain is currently parked with 1st Domains and does not yet have a website",
-   "url": "https://belnetworks.com/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "RDAP：belnetworks.com 注册 2024-08-16（即被人重新注册），到期 2027-08-16，last changed 2026-07-19，注册商 eNom，NS ns1/ns2.1stdomains.net.nz；GitHub 上多份过期域名日志（2021/2023/2024）也列有该域 → 原主多次脱手",
-   "quote": "\"registration\",\"eventDate\":\"2024-08-16T06:09:14Z\" … \"expiration\",\"eventDate\":\"2027-08-16T06:09:14Z\" … NS1.1STDOMAINS.NET.NZ",
-   "url": "https://rdap.verisign.com/com/v1/domain/belnetworks.com",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "尼日利亚黄页目录条目：BIZ-ETHICS LTD. 经营计算机、有线/无线网络设备、监控与门禁、电源调节设备",
-   "quote": "BIZ-ETHICS LTD. Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment",
-   "url": "http://www.ngcontacts.com/directory/computer-and-infotech/computer-networking/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级：轻度绑定——「转账啥的都 OK」（货代走账通道顺畅）",
-   "quote": "尼日利亚 Mbata　轻度绑定=转账啥的都OK",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
+  "binding_level": "轻度",
+  "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）",
+      "type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
+      "sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
+      "stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
+      "revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料",
+      "lane": "NG 已通（客户货代 + 货代走账）",
+      "cadence": "最后 PI 2026-08-30；邮件 0 封",
+      "evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
+    },
+    "as_of": "2026-10-24",
+    "facts": [
+      {
+        "date": "2024-09-09",
+        "dir": "去",
+        "who": "Saga 内部（Design.docx，1st order 包装盒设计）",
+        "quote": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
+        "why": "Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
+      }
+    ]
   }
- ],
- "kp": [
-  {
-   "name": "Valentine Mbata",
-   "role": "单据联系人",
-   "email": "info@belnetworks.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "",
- "researched_at": "2026-10-22",
- "deal_pi": {
-  "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
-  "simon_label": "活跃",
-  "pay": "货代走账",
-  "bind": "轻度绑定",
-  "buyer": "Biz - Ethics Ltd.",
-  "orders": 12,
-  "first": "2024-09-08",
-  "last": "2026-08-30",
-  "usd": 0.0,
-  "rmb": 101353.0,
-  "profit_rmb": 0.0,
-  "models": "BNSC-28GPM、BNSC-4168XGGCM、BNSC-424DGDPM、STC-228GP、STC-28GPM、STC-4168XGGCM、STC-424DGGPM、STC-424XGGM、STC-424XGGPM-280W、STH-2C24XF-SFI"
- },
- "saga_fit": {
-  "p1": "",
-  "tier": 20,
-  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
- },
- "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
- "channels": {
-  "公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
- },
- "signals": [
-  "⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址"
- ],
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-170",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "deep": {
-  "done_at": "2026-10-23",
-  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- },
- "binding_level": "轻度",
- "binding_src": "Simon《客户绑定情况分析.docx》（Extra Info，2026-10-22 入库）",
- "mail_review": {
-  "binding": {
-   "level": "轻度（Simon U28 定级；12 单 RMB ≈101k，2024-09 → 2026-08，三家供应商线都买过）",
-   "type": "尼日利亚系统集成/转售（BEL Networks 品牌 BNSC-；WhatsApp only，域名停放）",
-   "sieve": "3（12 单、自有品牌贴 BNSC 前缀）",
-   "stop": "无停点；渠道脆弱（belnetworks.com 停放、info@ 不安全、仅 WhatsApp +234 702 918 6461）",
-   "revive": "已在复购；下一级 = 其自有品牌 BNSC 系列把 Saga 规格写进销售资料",
-   "lane": "NG 已通（客户货代 + 货代走账）",
-   "cadence": "最后 PI 2026-08-30；邮件 0 封",
-   "evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
-  },
-  "as_of": "2026-10-24"
- }
 }

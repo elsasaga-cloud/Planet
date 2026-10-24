@@ -54,7 +54,10 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-09-20 | 来 | Rishi Bansal | Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range… Please share the authorised distributorship certificate on saga telecom letterhead | 授权诉求 | `edee4186a39f51b9` |
+| 2023-09-20 | 去 | Saga → Fastball（Fastball_Price.xls，Saga 抬头价目表） | STC-05GE $6 / STC-08GE $10 / STC-016GE $33 / STC-024GE-U $50 / STC-15XGDGE $38 / STC-028GFP $20 / STC-1216GFP $40 / STC-1224GFP $55 / STC-024GP $18 / STC-228GP $78 / STC-2024GP $84 / STC-28GM $45 / STC-424XGGM $111 / STC-448XGGM $223 / STC-28GPM $55 / STC-4424GCPM $140 / STC-448XGGPM $350 / STI-014FE $12 / STI-114GE $21 / STI-118GFP $24 / STI-208GP $54 | Saga 为 Fastball 专门做过一份全线价目表（2023 老汇率、未加三档），说明当时是认真考虑过印度分销的；Rishi 要的「authorised distributorship certificate」没签，但价表给了。2023 价 vs 价格主表 2026（STC-424XGGM $143、STC-28DGGPM $99）可见涨幅 | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi Fastball_Price.xls` |
 | 2023-10-09 | PI | Simon → Fastball | Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD | 唯一成交（耗材） | `PI STSC20231009002` |
+| 2023-10-09 | 来 | Rishi（FTTH需求.docx） | Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power meters / FTTH tool kit / Fiber cleaning cassettes and pens / PoE extenders / injectors / adapters / Joint enclosures | Rishi 的主业是 FTTH 无源件（清洁笔那单就是这个清单的一项）；交换机只是顺带。Fastball FBC-204GP = STC-204GP 只是其网站列品。复活只能从「光纤清洁/FTTH 配件 + 一款 PoE」切入，不是管理型交换机 | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi FTTH需求.docx` |
+| 2023-12-13 | 去 | Saga 内部（List_2023.12.13.xlsx / New_List.xlsx / Bypass_client_list.xlsx，存于 Rishi 文件夹） | 印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar… | Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi` |
 
 ## 基本事实（事实/推断/假设分层）
 

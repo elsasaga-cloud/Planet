@@ -240,6 +240,14 @@
         "k": "9b4196ac919370f1"
       },
       {
+        "date": "2025-09-01",
+        "dir": "来",
+        "who": "Chris Clemson（GOGREENIT, Derby UK）",
+        "quote": "I don't have a google account (on purpose!)… It is for my home office, where I am trying to power as much as possible from my Solar PV system. I bought a similar switch by a different company last year, and it has many frustrating bugs. This device will hopefully replace that, and if it is good, I may need sim[ilar…]",
+        "why": "买家画像：太阳能供电的家庭办公室、被 LinoVision 的固件 bug 伤过（06-11「it was the bugginess of the implementation by LinoVision. L2+ will be enough, I don't need routing」）；拒用 Google 账号 → 资料走附件不走 Drive 链接",
+        "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+      },
+      {
         "date": "2025-09-08",
         "dir": "来",
         "who": "Chris",
@@ -272,6 +280,14 @@
         "k": "ec7356b7a39c28e7"
       },
       {
+        "date": "2026-01-25",
+        "dir": "来",
+        "who": "Chris Clemson",
+        "quote": "It seems stable, but is out of action at the moment due to the lack of solar power - we've had some pretty cloudy days over the last month, so the battery it is connected to hasn't got much charge… I don't need anything like that at the moment",
+        "why": "设备稳定但因日照不足停机；明确「暂时不需要别的」→ 复购只会来自他的 IT 客户，不会来自家庭办公室",
+        "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+      },
+      {
         "date": "2026-03-13",
         "dir": "来",
         "who": "Chris",
@@ -294,6 +310,14 @@
         "quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
         "why": "未闭环的技术问题（附诊断包）",
         "k": "81bc7f06346f18b0"
+      },
+      {
+        "date": "2026-04-27",
+        "dir": "来",
+        "who": "Chris Clemson",
+        "quote": "No, the voltage is never lower than 53V recently (see attached output from Grafana for the last 48h). The last reboot of one of the attached devices (when the power was lost), was 2026-04-26 11:55:02. Before that date uptime was 3 days.",
+        "why": "Alan 怀疑是 DC 输入欠压，Chris 用 Grafana 数据反证 53V 稳定 → 掉电重启来自电池侧而非交换机；这类有监控数据的用户是 AC5 固件的好测试员",
+        "k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
       },
       {
         "date": "2026-07-10",

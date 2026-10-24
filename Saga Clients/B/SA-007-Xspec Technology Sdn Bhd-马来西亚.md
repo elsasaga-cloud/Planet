@@ -60,6 +60,8 @@ updated: 2026-10-24
 | 2024-06-18 | 来 | Sugito | Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd | 样品单 | `10fca04e1dcc0437` |
 | 2024-06-18 | 来 | Sugito | Can we pay via Bank TT, as we dont do paypal payment here. | T/T | `ca8ed8495f53d8b5` |
 | 2024-06-18 | 去 | Saga（Simon） | Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c… | Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `3c88bfd8760e162d` |
+| 2024-06-18 | 去 | Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文件夹） | 马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（Lantech）、soulcomm（在用北京 HCSTCOM）… | Saga 的马来西亚线索表放在 XSPec 文件夹 = 曾设想让 XSPec（医疗科技集成商）当马来西亚落地伙伴，「待决定」至今未决；与 Angora/Fastball 同一套「成单客户 → 区域分销」的构想，三次都没落地（Q-51 的根） | `Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito` |
+| 2024-07-05 | 来 | XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf） | LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary | XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用 | `Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito` |
 
 ## 基本事实（事实/推断/假设分层）
 

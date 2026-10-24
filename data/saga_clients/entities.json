@@ -3607,6 +3607,22 @@
 "quote": "Hi, Sugito, Sure, bank T/T is OK. The reason for PayPal is 1, its easier 2, bank T/T SOMETIMES requires payer information(like payer's company registration information). We are not sure when or which order the bank will ask for this, its about the foreign currency regulation here. Lets see. Please c…",
 "why": "Saga 实质答复原文（主题「Re: Re: PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
 "k": "3c88bfd8760e162d"
+},
+{
+"date": "2024-06-18",
+"dir": "去",
+"who": "Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文件夹）",
+"quote": "马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（Lantech）、soulcomm（在用北京 HCSTCOM）…",
+"why": "Saga 的马来西亚线索表放在 XSPec 文件夹 = 曾设想让 XSPec（医疗科技集成商）当马来西亚落地伙伴，「待决定」至今未决；与 Angora/Fastball 同一套「成单客户 → 区域分销」的构想，三次都没落地（Q-51 的根）",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+},
+{
+"date": "2024-07-05",
+"dir": "来",
+"who": "XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf）",
+"quote": "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized Person(s) to act on our behalf… registering account, registering beneficiary",
+"why": "XSPec 付 Saga 用的是马来西亚第三方汇款公司 Easy Pay Transfers（需出具授权书）——小额跨境付款通路本身就是摩擦；下次报价时主动给 PayPal/西联之外的本地汇款选项说明，比降价更有用",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
 }
 ],
 "proof_gaps": [],
@@ -5501,7 +5517,8 @@
 ],
 "gaps": [
 "外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认",
-"Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注"
+"Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注",
+"Vi-Link 主业是 SFP 模块（2024-05-31 自述）——交换机/MC 是其副线，复购节奏取决于其美国客户项目"
 ]
 },
 "next_move": {
@@ -5512,6 +5529,14 @@
 },
 "facts": [
 {
+"date": "2024-04-16",
+"dir": "来",
+"who": "Thu Pham（Vi-Link, Yorba Linda CA）",
+"quote": "Do you provide OEM Private label for this product? If yes, What is the cost of sample unit with our Logo and shipping to California? And can you accept PayPal payment?",
+"why": "第一封回信就是三件事：OEM 贴牌、样机到加州的成本、PayPal——Vi-Link 从一开始就是「自有品牌 + 小单 + PayPal」画像；04-17「For the sample and evaluation I just need 1 unit. I will introduce this product to our customers and see if we can sell it in the US」",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
 "date": "2024-04-18",
 "dir": "去",
 "who": "Simon → Thu",
@@ -5520,12 +5545,52 @@
 "k": "c99c94abd0c7eed6"
 },
 {
+"date": "2024-04-18",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "For the Logo on the front panel I would need you to print the Logo and model number on the panel not using the label or sticker. I will send you the payment now",
+"why": "贴牌要求是「面板印刷不是贴纸」（Visio 源文件、Arial 字体、6 轮确认）；04-25「I did not see any Vi-Link logo in the software?」→ Web GUI 也要换 logo；04-25「We are re-building our website and will look for more products in the Data Center area」",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
+"date": "2024-04-20",
+"dir": "来",
+"who": "Thu（Vilink_Models.pdf，1st order）",
+"quote": "VL Vi-Link / Fiber Optic Communications / Model MC100 · MC100SFP · MC1000 · MC10G / Fiber Optic Media Converter / Ethernet 10/100M Base-TX To Ethernet 100M SC Conversion…",
+"why": "Vi-Link 自有型号体系（MC100/MC100SFP/MC1000/MC10G/MC1000SC03）与丝印版式从首单就定稿，Saga 手里有 Visio/XPS/DWG 源文件——换供应商要重做全部丝印文件",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
+},
+{
+"date": "2024-05-14",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "We received the Switch and did not see the Operation Software CD come with in. Don't we always provide the Software CD with the product?… We are using the old style CD. Can I download and create a CD somehow?",
+"why": "美国小品牌商的交付习惯：要随机光盘/下载包（Simon 给了 Google Drive 下载链接）；05-31「Our engineers are testing the product. We are kind of busy in the SFP modules project」→ Vi-Link 主业是 SFP 模块，交换机是副线",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
+"date": "2024-11-13",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "Can you send me the details information of this 10G Media Converter and the 14 Slot rack Plus rack cards. Questions the Rack cards: I have 16 slots Web-managed rack for 100M and 1000M MC Rack cards. Why do you use 14 Slots rack chassis instead of 16 slots chassis?",
+"why": "第二单（STSC20241119006：4 台 10G MC + 1 机架）由 Simon 群发「10G Media Converter」触发；客户已有 16 槽网管机架 → 14 槽是 Saga 的产品差异点要解释",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
 "date": "2024-11-14",
 "dir": "去",
 "who": "Saga（Simon）",
 "quote": "Hi, Thu, Thanks for your information. 1, please see attached datasheets. 2, for this 14-slot rack, it is housing the standalone units, not cards. Pros: Easier to insert or plug out for other purposes(directly use it elsewhere, while cards are not that easy), a",
 "why": "历史报价点（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）：",
 "k": "aa5bd145269a4a45"
+},
+{
+"date": "2024-11-15",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "I will need to do Silkscreen on the equipment… I also increase the resolution of the logos so you can do Laser print (another technique)… It does not look right. Can you just use the top part and… add the \"Ethernet 10G Base-TX to Ethernet 10G SFP Conversion\" with the same Font… and a line between them",
+"why": "丝印细节反复 4 轮（11-14 两版 logo、11-18、11-19、11-21 Visio 定稿、12-03「It looks good」）——每单都要走一遍丝印确认，是 Vi-Link 的固定成本，也是绑定点（模板已在 Saga 手里）",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
 },
 {
 "date": "2024-11-16",
@@ -5544,12 +5609,28 @@
 "k": "5421b6cec88fe6fc"
 },
 {
+"date": "2024-11-19",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "It is a lot of better for me to pay if you have PayPal account… The payment by wire transfer is done.",
+"why": "两次要求 PayPal（2024-04-16 / 2024-11-19），最终仍电汇；PayPal 5% 规则对这类小单客户是真实摩擦",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
+},
+{
 "date": "2024-11-21",
 "dir": "去",
 "who": "Saga（Simon）",
 "quote": "Hi, Thu, Please see attached photos for labels. Is this format OK? As you said, add the \" Ethernet 10GBase-TX to Ethernet 10G SFP Conversion\" with the same Font with your \" 10G Ethernet Media Converter\" and a line between them. It will be Arial then. *Is there a source file for both logos?(PS/AI/Vis…",
 "why": "Saga 实质答复原文（主题「Re: 10G Media Converter」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
 "k": "c42b730eadf0bfa6"
+},
+{
+"date": "2025-05-09",
+"dir": "来",
+"who": "Thu Pham",
+"quote": "Can you send me the full price list of your products?",
+"why": "唯一一次主动要全价目表（Simon 05-17 回「Download Link.pdf」）；之后 2025-05 → 2026-07 Saga 发了 9 封群发无回，直到 2026-08 第三单 MC1000SC03",
+"k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
 },
 {
 "date": "2026-08-20",
@@ -5582,6 +5663,14 @@
 "quote": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
 "why": "OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决",
 "k": "2b79994c6f5315f7"
+},
+{
+"date": "2026-09-18",
+"dir": "去",
+"who": "Saga 内部（丝印需求_2026.09.18.docx，第三单 MC1000SC03）",
+"quote": "2个颜色，红色和白色…Vi-Link = Arial Black；Fiber Optic Communications / Fiber Optic Media Converter = Segoe UL Light；Model = Segoe UL…一定要注意大小写，千万不能错了；下方的字体的横线要稍微凸出来一些",
+"why": "第三单（P20260904-01 未税 ¥900，STSC-20260821-001）仍是逐字体核对的丝印活；利润薄但复购稳定（2024-04 / 2024-11 / 2026-08）；09-08 Thu「This does not look good. It will look like I use some one products」= 丝印稍有偏差她就拒收，这是她的底线",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 6_Thu"
 },
 {
 "date": "2026-09-24",
@@ -5624,7 +5713,7 @@
 "revive": "补 USD 报价 + 样机（草稿已备）",
 "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
 "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
-"evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
+"evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）；S 邮箱 2024-04 → 2024-12 Thu 的 27 封回信（顶部引用格式）已补读：OEM 面板印刷 + GUI logo + 随机光盘 + PayPal 诉求"
 }
 },
 "watch": {
@@ -6075,6 +6164,14 @@
 "k": "9b4196ac919370f1"
 },
 {
+"date": "2025-09-01",
+"dir": "来",
+"who": "Chris Clemson（GOGREENIT, Derby UK）",
+"quote": "I don't have a google account (on purpose!)… It is for my home office, where I am trying to power as much as possible from my Solar PV system. I bought a similar switch by a different company last year, and it has many frustrating bugs. This device will hopefully replace that, and if it is good, I may need sim[ilar…]",
+"why": "买家画像：太阳能供电的家庭办公室、被 LinoVision 的固件 bug 伤过（06-11「it was the bugginess of the implementation by LinoVision. L2+ will be enough, I don't need routing」）；拒用 Google 账号 → 资料走附件不走 Drive 链接",
+"k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+},
+{
 "date": "2025-09-08",
 "dir": "来",
 "who": "Chris",
@@ -6107,6 +6204,14 @@
 "k": "ec7356b7a39c28e7"
 },
 {
+"date": "2026-01-25",
+"dir": "来",
+"who": "Chris Clemson",
+"quote": "It seems stable, but is out of action at the moment due to the lack of solar power - we've had some pretty cloudy days over the last month, so the battery it is connected to hasn't got much charge… I don't need anything like that at the moment",
+"why": "设备稳定但因日照不足停机；明确「暂时不需要别的」→ 复购只会来自他的 IT 客户，不会来自家庭办公室",
+"k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
+},
+{
 "date": "2026-03-13",
 "dir": "来",
 "who": "Chris",
@@ -6129,6 +6234,14 @@
 "quote": "Last year PoE was working fine for all devices. The switch has been off for a couple of months due to low battery power. Now the battery is regularly full… but anything [PoE]…",
 "why": "未闭环的技术问题（附诊断包）",
 "k": "81bc7f06346f18b0"
+},
+{
+"date": "2026-04-27",
+"dir": "来",
+"who": "Chris Clemson",
+"quote": "No, the voltage is never lower than 53V recently (see attached output from Grafana for the last 48h). The last reboot of one of the attached devices (when the power was lost), was 2026-04-26 11:55:02. Before that date uptime was 3 days.",
+"why": "Alan 怀疑是 DC 输入欠压，Chris 用 Grafana 数据反证 53V 稳定 → 掉电重启来自电池侧而非交换机；这类有监控数据的用户是 AC5 固件的好测试员",
+"k": "gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）"
 },
 {
 "date": "2026-07-10",
@@ -6802,6 +6915,14 @@
 "k": "8f79a607c3cc831e"
 },
 {
+"date": "2025-04-01",
+"dir": "去",
+"who": "Saga → Frederik（mib问题处理.docx / New MIBs Info 2025.4.1，SWITCH-MIBS-release-7.3.3）",
+"quote": "Q: the switch returns a few extra SNMP values which do not resolve with the provided MIB files: enterprises.56813.5.25.31…, enterprises.171.12.58…, NMS-SYS-MIB::sys.4.1.1 / sys.4.1.2. Reply: The 1.3.6.1.4.1.56813* and 1.3.6.1.4.1.171* SNMP values have been removed. Updated NMS-SYS-MIB to provide definitions for sys.4.1.1 and sys.4.1.2",
+"why": "NYNEX 逐条验 MIB，Saga 工程侧为其清理残留企业 OID（56813 = 别家 PEN、171 = D-Link）并补 MIB 定义——固件级响应，是「较深」的核心证据；后续 7.4.7 OID 0（2025-12-10/17）继续迭代",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 15_Frederik 2nd_order"
+},
+{
 "date": "2025-09-10",
 "dir": "来",
 "who": "Frederik Kriewitz",
@@ -6816,6 +6937,14 @@
 "quote": "Hi, Frederik, 1, it is the same price as before, 265usd/pc. It is just an upgrade, and thanks for your feedback. 2, technically, there is no manual for it, it is just readily available, no need for extra configuration. Thank you. On Mon, Sep 15, 2025 at 7:27 P",
 "why": "历史报价点（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_s 回补）：265usd",
 "k": "6683b4837e2e4d62"
+},
+{
+"date": "2025-09-23",
+"dir": "去",
+"who": "Saga 内部（双电源风扇监控.docx，2nd order）",
+"quote": "fan monitoring / dual PSU status monitoring —— 是一个真实的卖点…把功能 → 可观测性 → 告警/联动 → 商业价值串起来…Web UI / REST / SNMP 展示 PSU 状态、风扇转速、温度、告警历史；SNMP traps / Syslog / webhook 推到 Zabbix / PRTG / Prometheus",
+"why": "NYNEX 第二单（STC-4168XGGCM 双电源）促使 Saga 把「双电源 + 风扇监控」整理成卖点文档；同一能力 James（SA-169）2026-08 的长期需求里也点名要——可复用",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 15_Frederik 2nd_order"
 },
 {
 "date": "2025-09-30",
@@ -8184,6 +8313,14 @@
 "quote": "STI-050FE 2×23 = 46；STI-080FE 2×37 = 74；… TOTAL 4 / 178.5 USD；Sample Units",
 "why": "样机单",
 "k": "PI STSC20240416005"
+},
+{
+"date": "2024-04-16",
+"dir": "去",
+"who": "Saga 内部（订单要求.docx，STSC20240416005）",
+"quote": "使用发的说明书并作相应折叠；放置挂耳；产品标签请使用下述样式；箱标…需要贴2张，另外一张是STI-080FE，相当于是一个小箱子混装了2个型号4个设备",
+"why": "$178.5 样机单也走了完整的贴标/箱标/说明书流程（2 型号 4 台混装一箱）——Saga 对印度小样机的交付细节不打折；客户进口资料（GST RC、IEC 证书、AWB）齐全 = 有进口资质的买家（U28 目标画像第二档）",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 5_Rajesh"
 }
 ],
 "proof_gaps": [
@@ -13191,7 +13328,25 @@
 "cadence": "最后 PI 2025-07-31；邮件 0 封",
 "evidence": "PI 包 2 单；`data/saga_clients/research/SA-026.json` U18 BitBook 博客/目录快照"
 },
-"as_of": "2026-10-24"
+"as_of": "2026-10-24",
+"facts": [
+{
+"date": "2025-01-01",
+"dir": "去",
+"who": "Saga → HRUI（仨戛-注册商标使用授权书，2nd order 采购附件）",
+"quote": "郑州仨戛通讯器材有限公司…同步公司目标客户的商标，同意授权 深圳市洪瑞光祥电子技术有限公司 在为郑州仨戛通讯器材有限公司生产（OEM）的所有产品上，免费且免责使用此商标…授权期限：2025年01月01日 至 2028年12月31日",
+"why": "HRUI 给 Saga 客户贴牌要一张 Saga 出具的商标使用授权书（侵权责任全在 Saga）——Andrey 第二单（2025-08，HRUI 采购 ¥4,520 + Smartbyte 线）就是靠这张纸出的 OEM 标；这也是 Saga「代客户承担商标风险」的隐性服务，可写进 OEM 话术",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey 2nd_order"
+},
+{
+"date": "2025-08-05",
+"dir": "去",
+"who": "Saga 内部备注（1309 挂耳费用 后续慢慢拿回来.docx）",
+"quote": "1309 挂耳费用 后续慢慢拿回来；预计3个单子，这样一次大概是440元左右，不太多，基本能覆盖",
+"why": "为 Andrey 定制的挂耳模具/加工费 ¥1,309 由 Saga 先垫、分摊到后续 3 单每单 ≈¥440 收回——Saga 在给「可发展」客户垫小额定制成本换复购；复购若停，这笔就沉没",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 4_Andrey"
+}
+]
 }
 }
 },
@@ -72287,6 +72442,22 @@
 "quote": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
 "why": "第 4 单前置",
 "k": "ba36e2ca75bc3155"
+},
+{
+"date": "2026-08-26",
+"dir": "来",
+"who": "James（JCSL-Custom_power_pcb.docx）",
+"quote": "Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST for alarm. Request 2: Add thermal sensor (i2c/i3c) to Power board… if facilities exist in the marvell software. Request 3: Add 2 pcs of fan headers… 40mm PC fan using PWM and TAC support in OS (Noctua 4-pin 5V). Request 4: additional DC-DC buck convertor to provide 75w of 12v DC… to power the PC… Must meet FCC Part 15 Class B, CE, RoHS",
+"why": "James 的产品是「Saga 4+8 板 + 自家 PC 模块」的一体机：要求电源板改连接器方向、加温度传感器、PWM 风扇头、12V/75W 给 PC 供电——这是 PCB 级 ODM 需求，不是贴牌；第 4 单（P20260831-03 未税 ¥20,160，12 台 @ $335）之后，这张需求单就是下一单的入口",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+},
+{
+"date": "2026-08-26",
+"dir": "来",
+"who": "James（长期需求.docx）",
+"quote": "Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual power would be great as well. I see it also in broadcast and outdoor cameras. Rack mount more common. But needs pwm fan control too",
+"why": "长期需求 = 2.5G/mGig PoE+ 管理型 + 双电源 + 机架 + PWM 风扇控制；Saga AC5 线有 2.5G 型号（STI-2xx/STC-2xx 2.5G 系列），双电源/风扇监控已在 NYNEX 第二单做过（双电源风扇监控.docx）——把这两件事合起来回 James，就是「省他时间 + 长期复利」",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
 }
 ],
 "proof_gaps": [
@@ -72633,7 +72804,17 @@
 "cadence": "最后 PI 2026-08-30；邮件 0 封",
 "evidence": "PI 包 12 单（BNSC-28GPM / BNSC-4168XGGCM / STH-2C24XF-SFI 等）；U18 研究档"
 },
-"as_of": "2026-10-24"
+"as_of": "2026-10-24",
+"facts": [
+{
+"date": "2024-09-09",
+"dir": "去",
+"who": "Saga 内部（Design.docx，1st order 包装盒设计）",
+"quote": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
+"why": "Mbata（拉各斯）从首单起就是 BNSC 自有品牌三款盒型 + 商业管理说明书 + 箱标（HRUI 线与 Smartbyte 线各一套箱标）；12 单 ≈¥101k 全是贴牌复购——「WhatsApp 客户没有邮箱码」但 Drive 里的包装/说明书文件就是绑定证据",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
+}
+]
 }
 }
 },
@@ -72916,7 +73097,17 @@
 "cadence": "最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封）",
 "evidence": "PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200"
 },
-"as_of": "2026-10-24"
+"as_of": "2026-10-24",
+"facts": [
+{
+"date": "2024-10-14",
+"dir": "去",
+"who": "HRUI → Saga（交期价格确认_2024.10.14.xlsx，1st order 成本表）",
+"quote": "ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×3 ¥240 / ZX900-AFG-SWTG018ANS ×2 ¥345 / ZX510S-5T ×2 ¥750（25 天）/ ZX-SWTGW2C80N ¥1,040 / ZX-SWTGW2216AS ¥1,020 / ZX-SWTGW2224AS ¥1,140 / ZX-AFGW-SWTG218ANS-100 ¥350；合计 21 台 ¥7,885；交期多为下单后 5 天",
+"why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
+}
+]
 }
 }
 },
@@ -203571,12 +203762,36 @@
 "k": "edee4186a39f51b9"
 },
 {
+"date": "2023-09-20",
+"dir": "去",
+"who": "Saga → Fastball（Fastball_Price.xls，Saga 抬头价目表）",
+"quote": "STC-05GE $6 / STC-08GE $10 / STC-016GE $33 / STC-024GE-U $50 / STC-15XGDGE $38 / STC-028GFP $20 / STC-1216GFP $40 / STC-1224GFP $55 / STC-024GP $18 / STC-228GP $78 / STC-2024GP $84 / STC-28GM $45 / STC-424XGGM $111 / STC-448XGGM $223 / STC-28GPM $55 / STC-4424GCPM $140 / STC-448XGGPM $350 / STI-014FE $12 / STI-114GE $21 / STI-118GFP $24 / STI-208GP $54",
+"why": "Saga 为 Fastball 专门做过一份全线价目表（2023 老汇率、未加三档），说明当时是认真考虑过印度分销的；Rishi 要的「authorised distributorship certificate」没签，但价表给了。2023 价 vs 价格主表 2026（STC-424XGGM $143、STC-28DGGPM $99）可见涨幅",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi Fastball_Price.xls"
+},
+{
 "date": "2023-10-09",
 "dir": "PI",
 "who": "Simon → Fastball",
 "quote": "Cleaner Pen 1.25mm LC ×40 @2.6；2.5mm SC ×40 @2.6；Freight 52；TOTAL 260 USD",
 "why": "唯一成交（耗材）",
 "k": "PI STSC20231009002"
+},
+{
+"date": "2023-10-09",
+"dir": "来",
+"who": "Rishi（FTTH需求.docx）",
+"quote": "Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power meters / FTTH tool kit / Fiber cleaning cassettes and pens / PoE extenders / injectors / adapters / Joint enclosures",
+"why": "Rishi 的主业是 FTTH 无源件（清洁笔那单就是这个清单的一项）；交换机只是顺带。Fastball FBC-204GP = STC-204GP 只是其网站列品。复活只能从「光纤清洁/FTTH 配件 + 一款 PoE」切入，不是管理型交换机",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi FTTH需求.docx"
+},
+{
+"date": "2023-12-13",
+"dir": "去",
+"who": "Saga 内部（List_2023.12.13.xlsx / New_List.xlsx / Bypass_client_list.xlsx，存于 Rishi 文件夹）",
+"quote": "印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar…",
+"why": "Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi"
 }
 ],
 "proof_gaps": [],
@@ -278680,6 +278895,22 @@
 "k": "PI STSC20230724001"
 },
 {
+"date": "2023-07-24",
+"dir": "来",
+"who": "George（需求.docx / requirement_solution.docx）",
+"quote": "8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、后面板大改",
+"why": "$100 样机单背后是一个 2,500 台的定制项目（PoE 看门狗 + 24→48V 升压 + DIN + 后面板重做）；样品 4 台 = 2 带看门狗 + 2 不带 × （标准 AC-DC / 升压器）各一台让客户对比。项目没有下文——「PoE 来源是新桥、价格一半」是结果，不是原因：原因是要改后面板/电源的 2,500 台 ODM 在 HRUI 百兆线上成本和风险都不划算",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+},
+{
+"date": "2023-07-25",
+"dir": "去",
+"who": "Saga（销售订单 7.25 已签章 + 货代信息.docx）",
+"quote": "货代：GT32937 DELTA CONSULTING LLC，广州市荔湾区站前路34号711库房，MARK GT32937",
+"why": "客户自己的广州货代（客户集货线，非 Saga 百运网线）——符合 U28 的两条物流线判断；下次若复活，先问他的广州仓还在不在",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+},
+{
 "date": "2026-09-01",
 "dir": "去",
 "who": "Alan（群发）",
@@ -323905,6 +324136,22 @@
 "k": "gmail_a att 0550_001.pdf"
 },
 {
+"date": "2025-12-24",
+"dir": "去",
+"who": "Saga 内部（NETAS绑定.docx）",
+"quote": "你不是从 0 开始绑定，他们已经被动绑定了一大半：NDA / 清关 / 样品测试排期 / 内部评审流程…基于你 PCBA 做测试…CC 多人，你是\"这个型号的来源\"。主动再加：Configuration Control（BOM 冻结、PCB Layout 冻结、SN 规则、固件版本留档、Web UI 截图留档）；和供应商再确认「这个型号已经进了海外大型通信/准军工客户测试流程，Form/Fit/Function 改动提前同步」；MIB / SNMP 是「对，但必须等」——等他们主动问…你绑定 Netas 靠的是\"风险缓冲\"",
+"why": "Saga 对 Netaş 的绑定策略已成文：配置控制 + 供应商侧锁定 + 不主动推 MIB + 把自己定位成缓冲层。等级「中度」与此一致；下一步动作（2027-01 质保/复购一问）不要违背「不 push 功能」",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
+},
+{
+"date": "2025-12-24",
+"dir": "去",
+"who": "Saga 内部（基于Netas的推广计划.docx）",
+"quote": "第一梯队：Krontech（主攻 CENTEC 高速，「We can provide a testing sample of our 10G/40G switches, already evaluated by a Tier-1 Turkish integrator」）、Karel（老牌军工通信，PoE 大户，「你推了 3 轮，他们已经熟悉你」，低频强存在）；第二梯队：KocSistem、Teknoser、NGN、Tellcom、Berqnet、Probil、Biznet、Havelsan 下游",
+"why": "Netaş 成单的复利用法 = 土耳其同级集成商背书名单；计划里的 Krontech/Karel/KocSistem 等在客户库里要逐个核对是否建档（多数未建档或在 C）——这是 2027 土耳其线的现成清单，但「already evaluated by a Tier-1 Turkish integrator」不能点名 Netaş（NDA）",
+"k": "Drive PI 文件夹（data/pi_2026-10/text） 20_Burak"
+},
+{
 "date": "2026-01-13",
 "dir": "来",
 "who": "Burak Özdemir",
@@ -324027,7 +324274,8 @@
 ],
 "proof_gaps": [
 "A 邮箱 2025-03~08 分片重跑后核对 Simon 最初转介 Netaş 的 S 侧邮件是否有更早接触",
-"留在客户处那台样机的测试结论（对方未反馈）"
+"留在客户处那台样机的测试结论（对方未反馈）",
+"《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2557，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）"
 ],
 "draft_en": {
 "subject": "Re: vehicle network L3 requirement — PIM-SM now in firmware 7.5",

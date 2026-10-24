@@ -1,152 +1,162 @@
 {
- "code": "SA-171",
- "name_official": "PBA Forever Technology CO., LTD.",
- "website_status": "",
- "summary": "已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json",
- "type": "系统集成/工程",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241014013（PI，2024-10-14）：STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO 共 21 台，RMB 13083.0；采购 HRUI RMB 10850.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20241014013.xls",
-   "date": "2024-10-14"
+  "code": "SA-171",
+  "name_official": "PBA Forever Technology CO., LTD.",
+  "website_status": "",
+  "summary": "已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-171.json",
+  "type": "系统集成/工程",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241014013（PI，2024-10-14）：STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO 共 21 台，RMB 13083.0；采购 HRUI RMB 10850.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20241014013.xls",
+      "date": "2024-10-14"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250116013（PI，2025-01-16）：STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U 共 6 台，RMB 9620.0；采购 SmartByte RMB 8460.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250116013.xls",
+      "date": "2025-01-16"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250827013（PI，2025-08-27）：STI-21616GP 共 2 台，RMB 2100.0；采购 SmartByte RMB 1904.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250827013.xls",
+      "date": "2025-08-27"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20250924013（PI，2025-09-24）：STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO 共 18 台，RMB 7336.0；采购 HRUI RMB 6025.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250924013.xls",
+      "date": "2025-09-24"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20251212013（PI，2025-12-12）：STI-42424DGGPM 共 1 台，RMB 2200.0；采购 SmartByte RMB 1912.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20251212013.xls",
+      "date": "2025-12-12"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20260706013（PI，2026-07-06）：STI-21616GP 共 3 台，RMB 3150.0；采购 SmartByte RMB 2856.0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls",
+      "date": "2026-07-06"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0",
+      "quote": "",
+      "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com",
+      "quote": "บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com",
+      "url": "https://www.pbacctv.com/home/product/?id=139",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS",
+      "quote": "โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿",
+      "url": "https://www.pbacctv.com/",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 口述",
+      "claim": "绑定等级：轻度绑定——客户官网宣传了 Saga 的型号",
+      "quote": "轻度：代表没那么死，如果客户官网宣传了我的型号 比如那个泰国客户，他网站是有我型号的，这就算轻度绑定了",
+      "url": "docs/requirements/对话全记录.md § T29-U28",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "Simon 文档",
+      "claim": "绑定等级（文档）：轻度绑定——「网站已经宣传 Saga 型号比较久了」",
+      "quote": "泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了",
+      "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
+      "date": "2026-10-22"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Peeranun Ratannabuajan",
+      "role": "CEO",
+      "email": "pomnong9@gmail.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
+  ],
+  "notes": "",
+  "researched_at": "2026-10-22",
+  "deal_pi": {
+    "folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
+    "simon_label": "活跃",
+    "pay": "货代走账",
+    "bind": "轻度绑定",
+    "buyer": "PBA Forever Technology CO., LTD.",
+    "orders": 6,
+    "first": "2024-10-14",
+    "last": "2026-07-06",
+    "usd": 0.0,
+    "rmb": 37489.0,
+    "profit_rmb": 0.0,
+    "models": "STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO、STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250116013（PI，2025-01-16）：STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U 共 6 台，RMB 9620.0；采购 SmartByte RMB 8460.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250116013.xls",
-   "date": "2025-01-16"
+  "saga_fit": {
+    "p1": "",
+    "tier": 25,
+    "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250827013（PI，2025-08-27）：STI-21616GP 共 2 台，RMB 2100.0；采购 SmartByte RMB 1904.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250827013.xls",
-   "date": "2025-08-27"
+  "grade_override": "A",
+  "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+  "channels": {
+    "公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20250924013（PI，2025-09-24）：STC-108XGDGP、STC-15XGDGE、STC-18XGDGPW、STC-80XGO 共 18 台，RMB 7336.0；采购 HRUI RMB 6025.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20250924013.xls",
-   "date": "2025-09-24"
+  "signals": [
+    "2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套"
+  ],
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-171",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20251212013（PI，2025-12-12）：STI-42424DGGPM 共 1 台，RMB 2200.0；采购 SmartByte RMB 1912.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20251212013.xls",
-   "date": "2025-12-12"
+  "deep": {
+    "done_at": "2026-10-23",
+    "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
   },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20260706013（PI，2026-07-06）：STI-21616GP 共 3 台，RMB 3150.0；采购 SmartByte RMB 2856.0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定/STSC20260706013.xls",
-   "date": "2026-07-06"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「泰国 Peeranun 活跃 货代走账 轻度绑定」：Simon 标签 活跃，收款 货代走账，轻度绑定；单号 6 个，2024-10-14 → 2026-07-06，销售 USD 0 / RMB 37489.0，Simon 成本统计利润合计 RMB 0",
-   "quote": "",
-   "url": "PI.zip:13 泰国 Peeranun 活跃 货代走账 轻度绑定",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "pbacctv.com 页脚：บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด（PBA Forever Technology Co., Ltd.）电话 098-265-6972 / 086-544-2684，办公 02-050-0699，LINE peeranun8336，Email pomnong9@gmail.com",
-   "quote": "บริษัทพีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยีจำกัด เบอร์โทร 098-265-6972 , 086-544-2684 สำนักงาน : 02-050-0699 … Line : peeranun8336 Email : pomnong9@gmail.com",
-   "url": "https://www.pbacctv.com/home/product/?id=139",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "业务：全套 CCTV 安装（住宅/宿舍/公寓/商铺/办公），Hikvision Color Vu 套餐 2 路 13,900฿ … 8 路 26,900฿；另卖 CCTV 电源箱与 UPS",
-   "quote": "โปรพิเศษ ลดราคาทุกชุด Hikvision Audio Camera 8 ตัวพร้อมติดตั้ง … ลดเหลือเพียง 26,900฿",
-   "url": "https://www.pbacctv.com/",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 口述",
-   "claim": "绑定等级：轻度绑定——客户官网宣传了 Saga 的型号",
-   "quote": "轻度：代表没那么死，如果客户官网宣传了我的型号 比如那个泰国客户，他网站是有我型号的，这就算轻度绑定了",
-   "url": "docs/requirements/对话全记录.md § T29-U28",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "Simon 文档",
-   "claim": "绑定等级（文档）：轻度绑定——「网站已经宣传 Saga 型号比较久了」",
-   "quote": "泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了",
-   "url": "Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）",
-   "date": "2026-10-22"
+  "binding_level": "轻度",
+  "binding_src": "Simon 口述 2026-10-23（T29-U28）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）",
+      "type": "泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流）",
+      "sieve": "3（多次下单，WhatsApp 成交）",
+      "stop": "无停点；小额高频，走国内货代与人民币",
+      "revive": "已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐）",
+      "lane": "TH 已通（货代走账）",
+      "cadence": "最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封）",
+      "evidence": "PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200"
+    },
+    "as_of": "2026-10-24",
+    "facts": [
+      {
+        "date": "2024-10-14",
+        "dir": "去",
+        "who": "HRUI → Saga（交期价格确认_2024.10.14.xlsx，1st order 成本表）",
+        "quote": "ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×3 ¥240 / ZX900-AFG-SWTG018ANS ×2 ¥345 / ZX510S-5T ×2 ¥750（25 天）/ ZX-SWTGW2C80N ¥1,040 / ZX-SWTGW2216AS ¥1,020 / ZX-SWTGW2224AS ¥1,140 / ZX-AFGW-SWTG218ANS-100 ¥350；合计 21 台 ¥7,885；交期多为下单后 5 天",
+        "why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
+        "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
+      }
+    ]
   }
- ],
- "kp": [
-  {
-   "name": "Peeranun Ratannabuajan",
-   "role": "CEO",
-   "email": "pomnong9@gmail.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "",
- "researched_at": "2026-10-22",
- "deal_pi": {
-  "folder": "13 泰国 Peeranun 活跃 货代走账 轻度绑定",
-  "simon_label": "活跃",
-  "pay": "货代走账",
-  "bind": "轻度绑定",
-  "buyer": "PBA Forever Technology CO., LTD.",
-  "orders": 6,
-  "first": "2024-10-14",
-  "last": "2026-07-06",
-  "usd": 0.0,
-  "rmb": 37489.0,
-  "profit_rmb": 0.0,
-  "models": "STC-05XGWE、STC-08XGWE、STC-108XGDGP、STC-114XGDGP、STC-15XGDGE、STC-18XGDGE、STC-18XGDGPW、STC-216XGDGE、STC-216XGDGWE、STC-224XGDGE、STC-224XGDGWE、STC-80XGO、STI-21616DGGPM、STI-21616GP、STI-42424DGGPM、STI-42424DGGPM-U"
- },
- "saga_fit": {
-  "p1": "",
-  "tier": 25,
-  "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
- },
- "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
- "channels": {
-  "公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
- },
- "signals": [
-  "2026-10-23 核查：公司网站为 pbacctv.com（此前只知 Gmail）——北榄府 Bang Phli 的 CCTV/门禁/网络安装商，主卖 Hikvision 套餐（2 路 13,900฿、6 路 24,900฿、8 路 26,900฿）+ 电源/UPS（CHUPHOTIC）；对口 = 4/8/16 口 PoE 交换机配套"
- ],
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-171",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "deep": {
-  "done_at": "2026-10-23",
-  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
- },
- "binding_level": "轻度",
- "binding_src": "Simon 口述 2026-10-23（T29-U28）",
- "mail_review": {
-  "binding": {
-   "level": "轻度（Simon U28 定级；6 单 RMB ≈37k，2024-10 → 2026-07，货代走账）",
-   "type": "泰国 CCTV 安防集成/零售（pbacctv.com；价格 + 现货流）",
-   "sieve": "3（多次下单，WhatsApp 成交）",
-   "stop": "无停点；小额高频，走国内货代与人民币",
-   "revive": "已在复购；下一级 = 让其官网/套餐页出现 Saga 型号（监控快照 pbacctv.com 目前为自有套餐）",
-   "lane": "TH 已通（货代走账）",
-   "cadence": "最后 PI 2026-07-06；WhatsApp 往来不在邮件（0 封）",
-   "evidence": "PI 包 6 单；监控 `data/customer_watch` SA-171 三源 HTTP 200"
-  },
-  "as_of": "2026-10-24"
- }
 }
