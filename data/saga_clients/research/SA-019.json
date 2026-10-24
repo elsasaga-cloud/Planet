@@ -2,7 +2,7 @@
   "code": "SA-019",
   "name_official": "CXR Networks（CXR Anderson Jacobson, Abondant, France）",
   "website_status": "在线",
-  "summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。",
+  "summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 SB-1340：补录时按 cxr.fr 另建的重复档）",
   "type": "品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌",
   "size": "未见人数；历史悠久的中型设备商",
   "brands_seen": [
@@ -148,7 +148,7 @@
       "revive": "其工业线补 SKU（非 MC）",
       "lane": "FR/EU",
       "cadence": "2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30",
-      "evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca"
+      "evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca；曾用编号 SB-1340（cxr.fr 补录重复档）2026-10-24 并入"
     },
     "situation": "COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。",
     "need": "10G MC（当时）。",

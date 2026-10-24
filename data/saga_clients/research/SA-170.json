@@ -216,12 +216,52 @@
         "k": "pi_doc"
       },
       {
+        "date": "2026-06-18",
+        "dir": "去",
+        "who": "Saga PI STEC20260618012（第 10 单，Elsa 开）",
+        "quote": "STC-28GPM → BNSC-28GPM ×5 @¥408 = ¥2,040，\"Netstream Brand Customized Packing Box\"；Production Time 1 Month；Warranty 1 year；收货地址 广州市越秀区瑶台西街89号(美泰城)A2038档 亨瑞 13503077498。",
+        "why": "2026 年的 BNSC-28GPM 补货节奏：06-18 ×5 → 07-18 ×2 → 08-30 ×12；单价 ¥408 三单不变",
+        "k": "PI 包 `12_尼日利亚_Mbata/10th order/STEC20260618012.xls`"
+      },
+      {
+        "date": "2026-06-22",
+        "dir": "内",
+        "who": "Saga 采购合同 → 深圳洪瑞光祥（HRUI，刘长桂）",
+        "quote": "ZX-AFGM-82NS（2×GE SFP + 8×GE PoE af/at 120W，L2 管理，PoE 看门狗，英规电源）×5 @¥355.1 = ¥1,775.5；备注：中性标签写客户型号、用买方提供的说明书双面打印、不放保修卡、中性 PVC 膜、定制包装盒（寄给厂）、管理界面型号改为 BNSC-28GPM 不得出现卖方型号、不加 logo；工厂直发 款到生产 包邮。",
+        "why": "**BNSC-28GPM 的真身是 HRUI（Realtek 线）ZX-AFGM-82NS，不是 Marvell**：卖 ¥408 / 进 ¥355.1 → 毛利 ¥52.9 = **13.0%**，低于 Realtek 20% 底线——这条主力补货 SKU 一直在亏底线卖（绑定价，Simon 定）；定制项 7 条是他每单固定要求，照抄即可",
+        "k": "PI 包 `10th order/采购合同_STEC20260618012.xls`"
+      },
+      {
+        "date": "2026-07-18",
+        "dir": "去",
+        "who": "Saga PI STEC20260718012（第 11 单）+ 采购合同（HRUI）",
+        "quote": "BNSC-28GPM ×2 @¥408 = ¥816；采购 ZX-AFGM-82NS ×2 @¥355.1 = ¥710.2（同 7 条定制备注）。",
+        "why": "2 台也开单、也走工厂直发——他的补货是「项目来一个买一批」，不是囤货",
+        "k": "PI 包 `11th order/STEC20260718012.xls` + `采购合同_STEC20260718012.xls`"
+      },
+      {
         "date": "2026-08-30",
         "dir": "去",
         "who": "Saga PI STEC20260830012（第 12 单）",
         "quote": "STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full",
         "why": "2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问",
         "k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "内",
+        "who": "Saga 采购合同 → 深圳凌特华盛（SmartByte，Peter Hu）+ 供方销售合同 P20260831-02",
+        "quote": "LT-S8328GP-4GX24GT-S（AC5 爆款，L2+，24×GE PoE + 4×1G/2.5G SFP，280W）→ 买方型号 BNSC-424DGGPM ×1 @¥765（未税）；交货 2026.9.2；发货地址「经双方协商后，直接发给货代处理」；付款 2026-09-07 ¥765 转 罗辉。",
+        "why": "第 12 单里那台 24 口：卖 ¥946 / 进 ¥765 → 毛利 ¥181 = **19.1%**（Marvell 底线 25% 也没到）；两条供应线（HRUI 8 口 / SmartByte 24 口）同时给同一客户贴 Netstream/BNSC 标",
+        "k": "PI 包 `采购合同_STEC20260830012.xls` + `郑州仨戛…P20260831-02_未税765RMB.doc` + `货款支付记录.png`"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "内",
+        "who": "发货信息（Hrui 14 台 / Smartbyte 1 台）+ 加运美面单 JYM800114534793",
+        "quote": "收件：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库；品名 商业交换机，14 台/20 kg（HRUI）+ 1 台/4 kg（SmartByte），海关编码 8517622990，品牌 无；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325；2026-09-08 13:07 广州签收。",
+        "why": "他的广州集运点 2026 年换成花都 Serena 仓（PI 抬头仍写越秀美泰城亨瑞）——U28「客户自己的广州货代」线；Saga 只负责国内段，两家工厂各自直发到同一仓",
+        "k": "PI 包 `发货信息_Hrui_14台.docx` / `发货信息_Smartbyte_STEC20260830012.docx` / `14pcs_shipping_info.png`（OCR）"
       }
     ],
     "situation": "拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。",
@@ -235,6 +275,23 @@
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
       "body": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
-    }
+    },
+    "saga_now": {
+      "p1": "BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购",
+      "tier": "RMB 货代走账（不走 USD 三档）",
+      "price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提",
+      "why": "12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳",
+      "repeat": [
+        "BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）"
+      ],
+      "gaps": [
+        "主力 SKU 毛利 13.0% < Realtek 底线 20%（Q：是否下批调价——Simon 定，默认不动）",
+        "Netstream 线（10G 上联 PoE + CENTEC 核心）2025-11 后未复购，没问过使用情况",
+        "没有 Simon 的《成本统计.xlsx》，毛利按采购合同反推"
+      ]
+    },
+    "proof_gaps": [
+      "邮件 0 封，全部证据来自 Drive PI 包（PI + 采购合同 + 发货信息）；WhatsApp 聊天记录不在库"
+    ]
   }
 }

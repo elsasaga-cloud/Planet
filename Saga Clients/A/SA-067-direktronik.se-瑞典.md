@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。
 - **断点 / 为什么停在这里**：合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件**（20% 档，按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch））——J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-  - 做不了 / 要先核的：I；S；O； ；9；0；0；1；/；1；4；0；0；1； ；=； ；S；m；a；r；t；B；y；t；e； ；官；网；自；述；（；d；o；c；s；/；s；m；a；r；t；b；y；t；e；/；新；闻；与；固；件；说；明；）；，；证；书；文；件；仓；库；无； ；→； ；信；里；写； ；c；o；p；y； ；o；n； ；r；e；q；u；e；s；t；；；R；E；D；/；E；N； ；1；8；0；3；1； ；不；适；用；于；无；线；电；以；外；设；备；为；法；规；事；实
+  - 做不了 / 要先核的：ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实；信稿里不点名 SmartByte：S/A 两箱出站只对 NYNEX（nynex.de）提过 SmartByte 这个名字，其余客户从未点名——ISO 证书复印件给出去时厂名自然可见，但信里不先说
 - **下一步（具体）**：2026-11　A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）　附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
   - 第一问（只问一个）：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
 
@@ -280,7 +280,7 @@ Your document request from November: EN 18031 is the harmonised standard under t
 
 - CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached
 - FCC, UKCA — attached
-- ISO 9001 / ISO 14001: held by the manufacturing partner (SmartByte, Shenzhen); copy on request
+- ISO 9001 / ISO 14001: held by our manufacturing partner (the certificate carries the factory's legal name); copy on request
 
 One question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?
 

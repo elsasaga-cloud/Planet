@@ -1,9 +1,9 @@
-# cxr.com
+# CXR
 **官方名称（调研核实）**：CXR Networks（CXR Anderson Jacobson, Abondant, France）
 
 > **评级 A**　|　法国　|　档案编号 `SA-019`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）　|　**所在清单**：S重点、补录、S邮箱人工往来、法国、品牌商　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-019
@@ -15,7 +15,7 @@ country: 法国
 region: 欧洲
 website: cxr.com
 type: 品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌
-tier_tags: ["S重点"]
+tier_tags: ["S重点", "补录", "S邮箱人工往来", "法国", "品牌商"]
 deal: no
 replies: 1
 followups: 21
@@ -26,13 +26,13 @@ p1: STI-288DGGPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
-sources: 1
+sources: 2
 updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子）
+- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 SB-1340：补录时按 cxr.fr 另建的重复档）（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子；10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-019` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（COO 2024-05-30 要 10G MC 规格书 → 65 USD → 无下文）** ｜ 类型：法国自有品牌工业网络厂商（含国防终端市场——只 ODM 供货）；Marco Di Valerio（COO） ｜ 筛子：2 ｜ 停点：65 USD 10G MC 报价后无回；此后 25 封群发无回 ｜ 复活：其工业线补 SKU（非 MC） ｜ 通路：FR/EU ｜ 节奏：2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30 ｜ 证据：k=afbdeb9d5505018c / 696d6a213ad761ca
+- **绑定等级：未绑定（COO 2024-05-30 要 10G MC 规格书 → 65 USD → 无下文）** ｜ 类型：法国自有品牌工业网络厂商（含国防终端市场——只 ODM 供货）；Marco Di Valerio（COO） ｜ 筛子：2 ｜ 停点：65 USD 10G MC 报价后无回；此后 25 封群发无回 ｜ 复活：其工业线补 SKU（非 MC） ｜ 通路：FR/EU ｜ 节奏：2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30 ｜ 证据：k=afbdeb9d5505018c / 696d6a213ad761ca；曾用编号 SB-1340（cxr.fr 补录重复档）2026-10-24 并入
 - **现状一句话**：COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。
 - **对方真实需求（有据）**：10G MC（当时）。
 - **断点 / 为什么停在这里**：MC 价格流 + 层级错配。
@@ -62,21 +62,22 @@ updated: 2026-10-24
 
 | 项 | 内容 | 层级 |
 |---|---|---|
-| 名称 | cxr.com（取自域名，公司全名待核） | 推断 |
+| 名称 | CXR | 事实（用户表） |
 | 国家 | 法国 | 事实（用户表）|
-| 网站/域名 | cxr.com | 事实（用户表 URL/邮箱域名） |
+| 网站/域名 | cxr.com / cxr.fr | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌 | 推断（据兴趣/备注关键词） |
-| 联系人 | Marco | 事实（用户表） |
-| 来源（From） | 谷歌 | 事实（用户表） |
-| 兴趣（Interested in） | MC 机架 工业FS（很多设备）<br>周边产品  自己的牌子 | 事实（用户表） |
-| 用户备注（Remark） | — | 事实（用户表） |
-| 所在清单 | S重点 | 事实（文件路径） |
+| 联系人 | Marco / Marco Di Valerio | 事实（用户表） |
+| 来源（From） | 谷歌 / 补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16） | 事实（用户表） |
+| 兴趣（Interested in） | MC 机架 工业FS（很多设备）<br>周边产品  自己的牌子 / 10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器） | 事实（用户表） |
+| 用户备注（Remark） | COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。 | 事实（用户表） |
+| 用户分档（Category） | 电信设备制造商 / 品牌商（cxr.fr） | 事实（用户表） |
+| 所在清单 | S重点、补录、S邮箱人工往来、法国、品牌商 | 事实（文件路径） |
 | 在卖/在用品牌（备注所见） | FS | 事实（用户备注）/ 推断 |
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
-- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。
+- **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 SB-1340：补录时按 cxr.fr 另建的重复档）
 - **类型**：品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌
 - **规模**：未见人数；历史悠久的中型设备商
 - **在卖/在用品牌**：CXR
@@ -202,7 +203,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T07:26:33Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-019/`；本节随档案重渲染刷新，实时看日志。
 
@@ -213,6 +214,7 @@ updated: 2026-10-24
 | [news_1](https://www.cxr.com/en/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7110 字符；首行：News - CXR |
 | [news_2](https://www.cxr.com/en/pages/news-63.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2999 字符；首行：News - CXR |
 | [youtube](https://www.youtube.com/@cxrnetworks) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-06T13:59:37+00:00 CXR SWMD-H : La Puissance du 10G au Cœur de vos Réseaux  |
+| [home](https://cxr.fr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3195 字符；首行：CXR - Smart Solutions for Smart Networks |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/cxr.networks；LinkedIn: http://www.linkedin.com/company/cxr-anderson-jacobson；X/Twitter: https://twitter.com/CxrNetworks；Facebook: http://www.facebook.com/CXRNetworks/
 
@@ -220,8 +222,12 @@ updated: 2026-10-24
 
 - 邮箱：`contact@cxr.com`〔企业邮箱；来源：用户表原值〕
 - 邮箱：`marco.divalerio@cxr.com`〔企业邮箱；来源：用户表原值〕
+- 邮箱：`marco.divalerio@cxr.fr`〔企业邮箱；来源：用户表原值〕
 - 联系人（原值）：Marco
+- 联系人（原值）：Marco Di Valerio
+- 职位（原值）：COO
 - 网站/域名：cxr.com
+- 网站/域名：cxr.fr
 - **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
 
 ## 关键人（KP）与触达通道
@@ -229,17 +235,20 @@ updated: 2026-10-24
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | — | 总机 | contact@cxr.com / +33 2 37 62 88 00 | 调研核实（公开页） | https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation |
-| Marco | — | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
+| Marco | COO | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
+| Marco Di Valerio | COO | contact@cxr.com / marco.divalerio@cxr.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
 
 ## 来源与归并（不漏 · 原始行定位）
 
-本客户只有 1 行原始记录。
+本客户由 **2 行**原始记录归并而成；归并键：`m:SA-019+SB-1340`。
+曾用编号：SB-1340
 
 | 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
 |---|---|---|---|---|---|---|---|---|---|
 | S 09.08.xlsx#总表:19 | 18 | https://www.cxr.com/en/pages/send-an-email-80.html | 法国 | Marco | 谷歌 | MC 机架 工业FS（很多设备）<br>周边产品  自己的牌子 | contact@cxr.com<br>marco.divalerio@cxr.com |  | 21 条 |
+| 补录客户.jsonl#(补录):13 | S-补录-2026-10-22-02 | CXR | 法国 | Marco Di Valerio | 补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16） | 10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器） | marco.divalerio@cxr.fr https://www.cxr.fr | COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。 COO | — |
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -327,7 +336,7 @@ https://sagatele.com/
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 100）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 100）
 
 ---
 

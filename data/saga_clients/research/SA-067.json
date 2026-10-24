@@ -155,7 +155,10 @@
       "price": "按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
       "why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
-      "gaps": "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实"
+      "gaps": [
+        "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实",
+        "信稿里不点名 SmartByte：S/A 两箱出站只对 NYNEX（nynex.de）提过 SmartByte 这个名字，其余客户从未点名——ISO 证书复印件给出去时厂名自然可见，但信里不先说"
+      ]
     },
     "next_move": {
       "when": "2026-11",
@@ -202,7 +205,7 @@
     ],
     "draft_en": {
       "subject": "Re: EN 18031 / supplier documents — wired switches are outside RED scope",
-      "body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by the manufacturing partner (SmartByte, Shenzhen); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan"
+      "body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by our manufacturing partner (the certificate carries the factory's legal name); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
   }

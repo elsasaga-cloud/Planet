@@ -2,7 +2,7 @@
   "code": "SA-008",
   "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
   "website_status": "在线",
-  "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。",
+  "summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 SB-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
   "type": "分销商/经销商（工业自动化）",
   "size": "未见人数；地区性大型供应商（自述）",
   "brands_seen": [
@@ -120,7 +120,7 @@
       "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
       "lane": "RU",
       "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
-      "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包"
+      "evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 SB-1335（rio-popov@mail.ru）2026-10-24 并入"
     },
     "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
     "need": "工业 DIN 非管理小口数（自动化分销）。",
@@ -143,6 +143,14 @@
     },
     "facts": [
       {
+        "date": "2024-05-22",
+        "dir": "去",
+        "who": "Simon → Igor Popov（Quotation，EXW Russia）",
+        "quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
+        "why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
+        "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
+      },
+      {
         "date": "2024-05-23",
         "dir": "PI",
         "who": "Simon → Igor Popov",
@@ -157,6 +165,22 @@
         "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
         "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
         "k": "cost_sheet"
+      },
+      {
+        "date": "2024-05-23",
+        "dir": "PI",
+        "who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
+        "quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
+        "why": "这张 PI 是 RMB 不是 USD（SB-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
+        "k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
+      },
+      {
+        "date": "2024-05-25",
+        "dir": "内",
+        "who": "出货记录（PI 包《运费.jpg》京东快递面单）",
+        "quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
+        "why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
+        "k": "PI 包 `运费.jpg`（OCR）"
       }
     ],
     "proof_gaps": [

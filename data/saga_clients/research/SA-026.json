@@ -225,7 +225,21 @@
       "body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
     },
     "saga_now": {
-      "why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项"
-    }
+      "why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项",
+      "p1": "PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量",
+      "tier": "OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）",
+      "price": "2025-07-31 PI STSC20250731004 成交价：PRT-SF-1110P $22 ×100（含 Priorat logo 不加价）、PRT-SG-1428PM $130、PRT-SG-1424M $92、PRT-SG-1208PMI $72（各 ×10，中性测试）；该单毛利 14.2%（含挂耳返工 ¥1,309 + 运费）。下一批同型号按原价不动（Simon U28 绑定价）；管理型已切 AC5——STC-4424GCPM 的 AC5 对应款按主表重核再报，别沿用 $130 当默认",
+      "repeat": [
+        "2023-11 首单 STC-28GPM 小批（$898 收款）→ 2025-07 130 台（$5,165）；间隔 20 个月"
+      ],
+      "gaps": [
+        "三款测试机结论未知（WhatsApp）",
+        "PRT-SF-1110P（STC-128GFP）在 Marvell 价格主表里没有，但 HRUI 对照表有对应（$22.6）——补货仍走 HRUI 线，按 `docs/reference/价格表_HRUI_三档加价_USD.md` 重核再报",
+        "挂耳费用 ¥1,309「后续慢慢拿回来」：下单时把挂耳/包装写成 PI 单项"
+      ]
+    },
+    "proof_gaps": [
+      "邮件 0 封（WhatsApp 客户）；证据全部来自 Drive PI 包（PI、label_content、售后截图、成本统计、授权书）"
+    ]
   }
 }

@@ -26,6 +26,7 @@ L.append('|---|---|---|---|---|---|---|---|---|---|')
 for r in rows:
     n=num(r['客户文件夹']); code=r['客户名单编号'] or manual.get(n,'') or '**未在名单**'
     if r['客户名单编号'] in ('SA-169','SA-170','SA-171','SB-1334','SB-1335'): code=r['客户名单编号']+'（本轮补录）'
+    if r['客户名单编号']=='SB-1335': code='SA-008（补录档 SB-1335 已于 2026-10-24 并入）'
     usd=float(r['累计销售USD(单号去重)'] or 0); rmb=float(r['累计销售RMB(货代走账单)'] or 0); pf=float(r['Simon成本统计:利润RMB合计'] or 0)
     L.append('| %s | %s | %s | %s | %s | %s → %s | %s | %s | %s | %s |' % (n, label(r['客户文件夹']), r['买方名称'] or '—', code, r['单号数(CI/PI)'], r['首单'] or '?', r['末单'] or '?', f'{usd:,.0f}', f'{rmb:,.0f}', f'{pf:,.0f}', r['Saga型号集合'][:80]))
 L.append('')

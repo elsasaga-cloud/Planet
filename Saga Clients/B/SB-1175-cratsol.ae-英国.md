@@ -46,6 +46,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
 - **断点 / 为什么停在这里**：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
+  - 做不了 / 要先核的：10G DAC 3 m ×300 单卖：Saga 光模块价目表（Extra Info `Price/Optical Module.xlsx`）没有 DAC/AOC，口径「随整机报、随整机发」——这条询盘本身不是 Saga 的生意；首封只能问他有没有整机（10G 接入/汇聚）需求，不报线缆价
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
   - 第一问（只问一个）：Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?
 

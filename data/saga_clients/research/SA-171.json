@@ -156,6 +156,70 @@
         "quote": "ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×3 ¥240 / ZX900-AFG-SWTG018ANS ×2 ¥345 / ZX510S-5T ×2 ¥750（25 天）/ ZX-SWTGW2C80N ¥1,040 / ZX-SWTGW2216AS ¥1,020 / ZX-SWTGW2224AS ¥1,140 / ZX-AFGW-SWTG218ANS-100 ¥350；合计 21 台 ¥7,885；交期多为下单后 5 天",
         "why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
+      },
+      {
+        "date": "2024-10-14",
+        "dir": "去",
+        "who": "Saga PI STSC20241014013（第 1 单，Simon 开，RMB）",
+        "quote": "21 台 ¥13,083，全部 \"Sample Testing\"：STC-15XGDGE ×3 @¥238、STC-18XGDGE ×3 @¥322、STC-216XGDGE ×1 @¥1,176、STC-224XGDGE ×1 @¥1,330、STC-80XGO ×2 @¥539、STC-114XGDGP ×3 @¥287、STC-108XGDGP ×2 @¥413、STC-05XGWE/08XGWE 等（Realtek 10G 桌面/MC 线）。",
+        "why": "首单就是 10G 桌面/光纤小机全系样机（HRUI Realtek 线），人民币结算、货代走账",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/STSC20241014013.xls`"
+      },
+      {
+        "date": "2024-10-14",
+        "dir": "内",
+        "who": "Saga 采购合同 → HRUI（第 1 单）",
+        "quote": "ZX-SWTG015AS ×3 @¥200、ZX-SWTG018AS ×3 @¥270、ZX-SWTG1216AS @¥980、ZX-SWTG1224AS @¥1,100、ZX-SWTG1C8F ×2 @¥450、ZX900-AFG-SWTG015ANS ×3 @¥240、ZX900-AFG-SWTG018ANS ×2 @¥345、ZX510S-5T ×2 @¥750；备注「标签写左边型号（HRUI ZX 型号）、美规插头、说明书 Ethernet/PoE/Managed Switch_STSC20241014013」。",
+        "why": "首单毛利 ≈16–17%（¥238/¥200、¥322/¥270、¥1,176/¥980、¥539/¥450…）——低于 Realtek 20% 底线；**标签印的是 HRUI 的 ZX 型号**而非 STC（样机阶段）",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/采购合同.xls` + `交期价格确认_2024.10.14.xlsx`"
+      },
+      {
+        "date": "2025-01-16",
+        "dir": "去",
+        "who": "Saga PI STSC20250116013（第 2 单）+ 凌特销售合同 P20250220-01",
+        "quote": "STI-21616GP ×2 @¥1,050（Unmanaged）、STI-21616DGGPM ×2 @¥1,460、STI-42424DGGPM ×1 @¥2,200、STI-42424DGGPM-U ×1 @¥2,400（Marvell Chip；不含电源，带 Console 线）= 6 台 ¥9,620；进货（凌特 LT-IS6018GP-2GX16GT ¥952 / LT-IS6318GP ¥1,272 / LT-IS6328GP ¥1,912 / -U ¥2,100）= ¥8,460；收货地址 广州白云区白云湖街朗兴路7号 李慧 13416307791。",
+        "why": "第 2 单转到 Marvell 工业线（SmartByte），毛利 (9,620−8,460)/9,620 = **12.1%**；他的广州货代仓 = 白云湖 李慧",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/2nd order/STSC20250116013.xls` + `郑州仨戛…P20250220-01_未税8460RMB.doc`"
+      },
+      {
+        "date": "2025-08-27",
+        "dir": "去",
+        "who": "Saga PI STSC20250827013（第 3 单）+ P20250909-01",
+        "quote": "STI-21616GP ×2 @¥1,050 \"Exactly the same as last order STSC20250116013\" = ¥2,100；进货 LT-IS6018GP-2GX16GT ×2 @¥952 = ¥1,904（DC44-57V 供电）。",
+        "why": "STI-21616GP 成为他的主力复购件：卖 ¥1,050 / 进 ¥952 → **9.3%**",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/STSC20250827013.xls` + `P20250909-01_未税1904RMB.doc`"
+      },
+      {
+        "date": "2025-09-09",
+        "dir": "内",
+        "who": "凌特（SmartByte）销售合同条款（P20250909-01 第八条）",
+        "quote": "「工业级产品质保期【五】年，商业级产品质保期【二】年」。",
+        "why": "上游给 Saga 的是工业 5 年 / 商业 2 年；Saga 对外口径工业 3 年 / 商业 1 年（口径 #5）——有 2 年 / 1 年的缓冲，不往外传",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/P20250909-01.doc`"
+      },
+      {
+        "date": "2025-09-24",
+        "dir": "去",
+        "who": "Saga PI STSC20250924013（第 4 单，Neutral）",
+        "quote": "STC-15XGDGE ×5 @¥238、STC-80XGO ×5 @¥539、STC-108XGDGP ×5 @¥413、STC-18XGDGPW ×3 @¥462 = 18 台 ¥7,336（Realtek 10G 线复购，单价与首单相同）。",
+        "why": "10G 桌面/光纤小机从「样机」变成批量复购（18 台），价格一年未动",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/4th order/STSC20250924013.xls`"
+      },
+      {
+        "date": "2025-12-12",
+        "dir": "去",
+        "who": "Saga PI STSC20251212013（第 5 单）+ P20251215-01",
+        "quote": "STI-42424DGGPM ×1 @¥2,200；进货 LT-IS6328GP-4GX24GT ¥1,912 + 运费 ¥13。",
+        "why": "24 口工业 PoE 管理汇聚：卖 ¥2,200 / 进 ¥1,912 → **13.1%**",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/5th order/STSC20251212013.xls` + `P20251215-01_未税1912RMB.doc`"
+      },
+      {
+        "date": "2026-07-06",
+        "dir": "去",
+        "who": "Saga PI STSC20260706013（第 6 单）+ P20260723-01",
+        "quote": "STI-21616GP ×3 @¥1,050 \"Exactly the same as last order STSC20250827013\" = ¥3,150；进货 ×3 @¥952 + 运费 ¥28 = ¥2,884。",
+        "why": "第三次买同一型号，单价 ¥1,050 三年不变；毛利 **8.4%**（含运费）——全库最低的复购毛利之一",
+        "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/STSC20260706013.xls` + `P20260723-01_未税2884RMB.doc`"
       }
     ],
     "situation": "曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。",
@@ -169,6 +233,24 @@
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
       "body": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
-    }
+    },
+    "saga_now": {
+      "p1": "STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462）",
+      "tier": "RMB 货代走账（不走 USD 三档）",
+      "price": "绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提",
+      "why": "6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄",
+      "repeat": [
+        "STI-21616GP：2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3",
+        "Realtek 10G 小机：2024-10 样机 21 台 → 2025-09 复购 18 台"
+      ],
+      "gaps": [
+        "复购毛利 8–13%，全部低于 20/25 底线（Q：下批是否调价——Simon 定，默认不动）",
+        "他的官网/套餐页仍不见 Saga 型号（U18 监控）",
+        "2026-07 之后的下一批 STI-21616GP 未到（节奏 3–6 个月 → 2026-11 下旬）"
+      ]
+    },
+    "proof_gaps": [
+      "邮件 0 封；证据全部来自 Drive PI 包（6 张 PI + 采购/销售合同 + 入账记录）；WhatsApp 聊天记录不在库"
+    ]
   }
 }

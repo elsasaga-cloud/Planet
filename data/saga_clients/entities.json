@@ -801,7 +801,7 @@
 "saga_now": {
 "p1": "STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付",
 "tier": 20,
-"price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）",
+"price": "STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；**1,000 台时的 PSU 锚**：Saga 自家 DIN 电源表（`Extra Info/Price/Price List_DIN Power Adapter.xls`）STI-PA-20W-24V0.83A 1~49 台 $11 / 50~100 $10 / 101~300 $9 / 301~500 $8 / **501~1000 $7**（塑壳 DIN，CE/RoHS/UKCA/UL）——比样品时按 MEAN WELL HDR-15-24 报的 $10 便宜 30%，标书重报时用这个档；要金属壳 48V 则 STI-PA-75W-48V 501~1000 $14",
 "why": "成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计",
 "repeat": [
 "2025-11-27 样品单（唯一）"
@@ -1337,11 +1337,11 @@
 "saga_now": {
 "p1": "Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-424XGGM.docx + Saga Feature List 7.5.x + Dual AC.jpg，即 STC-424XGGM 24 GE + 4×10G SFP+ L2+，对标 CRS326-24G-2S+RM）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过）",
 "tier": 30,
-"price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）",
+"price": "130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；2026-07-21 Simon 已报 **STC-424XGGM 单 AC $130**（对标 CRS326-24G-2S+RM $209 MSRP / 他的 OEM 成本 $90–120 是 6/12 口 MT）——再谈只能守 $130，不再往下（主表 LT-S8328XG-4XS24GT-S CNY 710 → $127.4 / $132.7 / $138.0，上限 $143：$130 ≈ 分销档，已是底）",
 "why": "J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价｜已发资料（勿重发）：A copy of reply(2024-12-06)、L3 PoE(2024-12-13)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)、STC-424XGGM(2026-07-21)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": [
-"2026-07-21 报价型号（附件名 STC-4…）",
+"2026-07-21 报价型号已核实 = STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE，附 Feature List 7.5.x L2+ + 双 AC 照片）$130 单 AC——对标他自报的 CRS326-24G-2S+RM $209 MSRP",
 "WhatsApp 成交内容未入库——成单型号/数量不明"
 ]
 },
@@ -1412,8 +1412,8 @@
 "date": "2026-07-21",
 "dir": "去",
 "who": "Simon",
-"quote": "We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.",
-"why": "Saga 对位",
+"quote": "We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.  [附件：STC-424XGGM.docx、Saga Feature List_7.5.x_L2+.xlsx、Dual AC.jpg → 报的是 STC-424XGGM 单 AC $130；双 AC 版可做]",
+"why": "Saga 对位；型号 = STC-424XGGM（2026-10-24 从附件名核实）",
 "k": "06610cfbde4173c3"
 }
 ],
@@ -3761,9 +3761,11 @@
 }
 },
 {
-"name": "rio-krsk.ru",
-"name_src": "domain",
-"names": [],
+"name": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
+"name_src": "company",
+"names": [
+"Rio-Import LLC（ООО «РИО-ИМПОРТ»）"
+],
 "country": "俄罗斯",
 "iso": "RU",
 "region": "俄语区",
@@ -3777,30 +3779,49 @@
 "platform_links": [],
 "emails": [
 "rio-2003@mail.ru",
-"rio-pavel@mail.ru"
+"rio-pavel@mail.ru",
+"rio-popov@mail.ru"
 ],
 "corp_emails": [],
-"phones": [],
+"phones": [
+"73912906315"
+],
 "persons": [
-"成单 Igor"
+"成单 Igor",
+"Igor Popov"
 ],
-"positions": [],
+"positions": [
+"负责人"
+],
 "froms": [
-"富通天下"
+"富通天下",
+"补录：PI 包成单客户（T29-U8）"
 ],
-"interests": [],
+"interests": [
+"工业非管理交换机（STI-050GE / STI-080GE 各 2 台）"
+],
 "remarks": [
-"邮件中有详细的联系信息"
+"邮件中有详细的联系信息",
+"已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json"
 ],
-"categories": [],
+"categories": [
+"进口贸易（克拉斯诺亚尔斯克）"
+],
 "tags": [
 "A优质名单(优质俄罗斯客户)",
-"AI评估(RU)"
+"AI评估(RU)",
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg",
+"成交(PI)"
 ],
 "flags": {
-"deal": 2
+"deal": 1
 },
-"fit": {},
+"fit": {
+"switch": 1
+},
 "ai_evals": [
 {
 "file": "Clients/AI客户评估/AI客户评估_RU  09.03.xlsx",
@@ -3812,7 +3833,8 @@
 }
 ],
 "years": [
-2003
+2003,
+2024
 ],
 "sources": [
 {
@@ -3860,6 +3882,33 @@
 "category": "",
 "position": "",
 "ai_eval": "80% A\n俄罗斯区域IT设备分销商，销售网络设备与通信设备（已有合作记录）\n继续维护关系，重点推广稳定供货与新增SKU\n16/24口PoE交换机、10G汇聚交换机\n已有成交记录；历史邮件往来表明其长期采购通信设备",
+"claude_eval": "",
+"followups": 0
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 4,
+"no": "PI-003",
+"tags": [
+"补录",
+"已成单",
+"PI成单",
+"Simon:gg"
+],
+"company": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
+"country": "俄罗斯",
+"person": "Igor Popov",
+"from": "补录：PI 包成单客户（T29-U8）",
+"interest": "工业非管理交换机（STI-050GE / STI-080GE 各 2 台）",
+"contact": "rio-popov@mail.ru",
+"mobile": "+7 (391) 2906-315; 2911-424",
+"website": "",
+"remark": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
+"extra": "",
+"category": "进口贸易（克拉斯诺亚尔斯克）",
+"position": "负责人",
+"ai_eval": "",
 "claude_eval": "",
 "followups": 0
 }
@@ -3943,10 +3992,27 @@
 "merge_keys": [
 "d:rio-krsk.ru",
 "e:rio-2003@mail.ru",
-"e:rio-pavel@mail.ru"
+"e:rio-pavel@mail.ru",
+"m:SA-008+SB-1335"
 ],
+"pi": {
+"code": "SB-1335",
+"keys": [
+"e:rio-popov@mail.ru"
+],
+"new": true,
+"grade": "B",
+"folder": "8 俄罗斯 Igor gg",
+"label": "俄罗斯 Igor gg",
+"simon": "gg",
+"pay": "",
+"bind": "",
+"buyer": "«Rio-Import» LLC",
+"country": "俄罗斯",
+"folder_no": "8"
+},
 "grade_auto": "A",
-"score": 120,
+"score": 128,
 "reasons": [
 "+50 有成单/下单/买过记录（用户备注或跟进表）",
 "+30 实质回复 2 次（问价/要资料/问型号等）",
@@ -3954,20 +4020,24 @@
 "+6 在 A/DONE 优质国家名单（已做过整轮推送）",
 "+2 在 AI 客户评估名单",
 "+15 AI/Claude 评估 A",
+"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
 "+0 仅免费邮箱",
 "+5 有可核实的公司网站/域名",
 "+0 区域 俄语区/俄罗斯",
 "+2 最近活动 2024"
 ],
 "c_sub": "",
-"status": "成交过·维护",
+"status": "成交过·已凉（Simon: gg）",
+"code_aliases": [
+"SB-1335"
+],
 "code": "SA-008",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-008",
 "name_official": "ООО «РИО-ИМПОРТ»（RIO Group, Krasnoyarsk）",
 "website_status": "在线",
-"summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。",
+"summary": "俄罗斯克拉斯诺亚尔斯克工业自动化设备供应商，自称本地区最大的 АСУТП（工业控制系统）设备、机柜设备、电子元件供应商之一（2009 年注册 ОГРН 1092468006047）。用户表：成单客户，A 优质俄罗斯名单。（2026-10-24 并入曾用编号 SB-1335：PI 包补录行 rio-popov@mail.ru / Igor Popov，同一公司）",
 "type": "分销商/经销商（工业自动化）",
 "size": "未见人数；地区性大型供应商（自述）",
 "brands_seen": [
@@ -4085,7 +4155,7 @@
 "revive": "其对 STI-050GE/080GE 的复测结果；RU 收款通道",
 "lane": "RU",
 "cadence": "半年一句话（WhatsApp/邮件由 Simon 定）",
-"evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包"
+"evidence": "PI STSC20240523008（2024-05-23，Quotation.xls：STI-050GE 2×24、STI-080GE 2×31，Sample Testing）；出货照片 STI-050GE/080GE；成本统计 / 货款支付记录 / 运费 在 PI 包；曾用编号 SB-1335（rio-popov@mail.ru）2026-10-24 并入"
 },
 "situation": "2024-05 买了两款最小的工业非管理样机（5 口/8 口），之后无邮件、无复购；Simon 在 PI 包里标了「gg」。",
 "need": "工业 DIN 非管理小口数（自动化分销）。",
@@ -4108,6 +4178,14 @@
 },
 "facts": [
 {
+"date": "2024-05-22",
+"dir": "去",
+"who": "Simon → Igor Popov（Quotation，EXW Russia）",
+"quote": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 working days; warranty 3 years; neutral device, non-brand packing.",
+"why": "样品价锚：STI-050GE $24 / STI-080GE $31（2024-05，老汇率）；工业非管理 3 年保修口径的书面先例",
+"k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
+},
+{
 "date": "2024-05-23",
 "dir": "PI",
 "who": "Simon → Igor Popov",
@@ -4122,6 +4200,22 @@
 "quote": "内部《成本统计.xlsx》：STSC20240523008：成本 626 / 收款 1,140 / 利润 514（45.1%）",
 "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
 "k": "cost_sheet"
+},
+{
+"date": "2024-05-23",
+"dir": "PI",
+"who": "Simon → Igor Popov（PI STSC20240523008，**人民币结算**）",
+"quote": "TOTAL RMB 1,140 = 货 780（4 台）+ \"Shipping Cost 360RMB for about 4Kg volume weight to Russia by Express door-to-door\"。",
+"why": "这张 PI 是 RMB 不是 USD（SB-1335 旧档写「USD 1,140」有误）；俄罗斯客户走人民币收款——与《EXW 对私收款模式》一致；成本表 45.1% 的利润里含 360 RMB 运费收入 vs 实付国内快递 28 RMB",
+"k": "PI 包 `STSC20240523008.xls` + `成本统计.xlsx`"
+},
+{
+"date": "2024-05-25",
+"dir": "内",
+"who": "出货记录（PI 包《运费.jpg》京东快递面单）",
+"quote": "寄件：惠州惠阳镇隆（供应商仓，谢广浓）→ 收件：义乌稠城 兴港小区 80 栋 799 库房「迪马 周军」，3.0 kg，基础运费 ¥28，2024-05-25 揽件。",
+"why": "Igor 的物流线：**义乌俄货集运（迪马）**，不是广州货代——U28 两条物流线之外的第三种（俄罗斯客户自有集运点）；Saga 只付国内段 ¥28",
+"k": "PI 包 `运费.jpg`（OCR）"
 }
 ],
 "proof_gaps": [
@@ -9906,53 +10000,75 @@
 }
 },
 {
-"name": "cxr.com",
-"name_src": "domain",
-"names": [],
+"name": "CXR",
+"name_src": "company",
+"names": [
+"CXR"
+],
 "country": "法国",
 "iso": "FR",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
-"cxr.com"
+"cxr.com",
+"cxr.fr"
 ],
 "urls": [
-"https://www.cxr.com/en/pages/send-an-email-80.html"
+"https://www.cxr.com/en/pages/send-an-email-80.html",
+"https://www.cxr.fr"
 ],
 "platform_links": [],
 "emails": [
 "contact@cxr.com",
-"marco.divalerio@cxr.com"
+"marco.divalerio@cxr.com",
+"marco.divalerio@cxr.fr"
 ],
 "corp_emails": [
 "contact@cxr.com",
-"marco.divalerio@cxr.com"
+"marco.divalerio@cxr.com",
+"marco.divalerio@cxr.fr"
 ],
 "phones": [],
 "persons": [
-"Marco"
+"Marco",
+"Marco Di Valerio"
 ],
-"positions": [],
+"positions": [
+"COO"
+],
 "froms": [
-"谷歌"
+"谷歌",
+"补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）"
 ],
 "interests": [
-"MC 机架 工业FS（很多设备）\n周边产品  自己的牌子"
+"MC 机架 工业FS（很多设备）\n周边产品  自己的牌子",
+"10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）"
 ],
-"remarks": [],
-"categories": [],
+"remarks": [
+"COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。"
+],
+"categories": [
+"电信设备制造商 / 品牌商（cxr.fr）"
+],
 "tags": [
-"S重点"
+"S重点",
+"补录",
+"S邮箱人工往来",
+"法国",
+"品牌商"
 ],
 "flags": {
-"own_brand": 1
+"own_brand": 2
 },
 "fit": {
-"switch": 1,
-"mc_sfp": 1
+"switch": 2,
+"mc_sfp": 2,
+"off": 1
 },
 "ai_evals": [],
-"years": [],
+"years": [
+2024
+],
 "sources": [
 {
 "file": "Clients/S 09.08.xlsx",
@@ -9977,6 +10093,33 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 21
+},
+{
+"file": "补录客户.jsonl",
+"sheet": "(补录)",
+"row": 13,
+"no": "S-补录-2026-10-22-02",
+"tags": [
+"补录",
+"S邮箱人工往来",
+"法国",
+"品牌商"
+],
+"company": "CXR",
+"country": "法国",
+"person": "Marco Di Valerio",
+"from": "补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）",
+"interest": "10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）",
+"contact": "marco.divalerio@cxr.fr",
+"mobile": "",
+"website": "https://www.cxr.fr",
+"remark": "COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。",
+"extra": "",
+"category": "电信设备制造商 / 品牌商（cxr.fr）",
+"position": "COO",
+"ai_eval": "",
+"claude_eval": "",
+"followups": 0
 }
 ],
 "followups": [
@@ -10232,7 +10375,9 @@
 "deal_in_fu": false,
 "fu_sample": false,
 "last_year": 2025,
-"merge_keys": [],
+"merge_keys": [
+"m:SA-019+SB-1340"
+],
 "grade_auto": "A",
 "score": 100,
 "reasons": [
@@ -10248,13 +10393,16 @@
 ],
 "c_sub": "",
 "status": "有回复·跟进中",
+"code_aliases": [
+"SB-1340"
+],
 "code": "SA-019",
 "grade": "A",
 "research": {
 "code": "SA-019",
 "name_official": "CXR Networks（CXR Anderson Jacobson, Abondant, France）",
 "website_status": "在线",
-"summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。",
+"summary": "法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 SB-1340：补录时按 cxr.fr 另建的重复档）",
 "type": "品牌商/贴牌需求（OEM/ODM）——工业网络设备自有品牌",
 "size": "未见人数；历史悠久的中型设备商",
 "brands_seen": [
@@ -10400,7 +10548,7 @@
 "revive": "其工业线补 SKU（非 MC）",
 "lane": "FR/EU",
 "cadence": "2024-05 → 2026-09 去信 26 封；最后来信 2024-05-30",
-"evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca"
+"evidence": "k=afbdeb9d5505018c / 696d6a213ad761ca；曾用编号 SB-1340（cxr.fr 补录重复档）2026-10-24 并入"
 },
 "situation": "COO 亲自回信要规格书，Simon 报 65 USD。之后两年群发无回——COO 不是群发收件对象的合适层级。",
 "need": "10G MC（当时）。",
@@ -13724,8 +13872,22 @@
 "body": "Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge."
 },
 "saga_now": {
-"why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项"
-}
+"why": "毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项",
+"p1": "PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量",
+"tier": "OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）",
+"price": "2025-07-31 PI STSC20250731004 成交价：PRT-SF-1110P $22 ×100（含 Priorat logo 不加价）、PRT-SG-1428PM $130、PRT-SG-1424M $92、PRT-SG-1208PMI $72（各 ×10，中性测试）；该单毛利 14.2%（含挂耳返工 ¥1,309 + 运费）。下一批同型号按原价不动（Simon U28 绑定价）；管理型已切 AC5——STC-4424GCPM 的 AC5 对应款按主表重核再报，别沿用 $130 当默认",
+"repeat": [
+"2023-11 首单 STC-28GPM 小批（$898 收款）→ 2025-07 130 台（$5,165）；间隔 20 个月"
+],
+"gaps": [
+"三款测试机结论未知（WhatsApp）",
+"PRT-SF-1110P（STC-128GFP）在 Marvell 价格主表里没有，但 HRUI 对照表有对应（$22.6）——补货仍走 HRUI 线，按 `docs/reference/价格表_HRUI_三档加价_USD.md` 重核再报",
+"挂耳费用 ¥1,309「后续慢慢拿回来」：下单时把挂耳/包装写成 PI 单项"
+]
+},
+"proof_gaps": [
+"邮件 0 封（WhatsApp 客户）；证据全部来自 Drive PI 包（PI、label_content、售后截图、成本统计、授权书）"
+]
 }
 }
 },
@@ -31677,7 +31839,10 @@
 "price": "按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
 "why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
-"gaps": "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实"
+"gaps": [
+"ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实",
+"信稿里不点名 SmartByte：S/A 两箱出站只对 NYNEX（nynex.de）提过 SmartByte 这个名字，其余客户从未点名——ISO 证书复印件给出去时厂名自然可见，但信里不先说"
+]
 },
 "next_move": {
 "when": "2026-11",
@@ -31724,7 +31889,7 @@
 ],
 "draft_en": {
 "subject": "Re: EN 18031 / supplier documents — wired switches are outside RED scope",
-"body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by the manufacturing partner (SmartByte, Shenzhen); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan"
+"body": "Hi, Mats, hi Anders,\n\nYour document request from November: EN 18031 is the harmonised standard under the Radio Equipment Directive, and our Ethernet switches and media converters contain no radio, so RED/EN 18031 does not apply to them. What applies, and what we hold:\n\n- CE Declaration of Conformity (EMC + LVD), RoHS, REACH — attached\n- FCC, UKCA — attached\n- ISO 9001 / ISO 14001: held by our manufacturing partner (the certificate carries the factory's legal name); copy on request\n\nOne question: is this sufficient for your supplier file, and who at Direktronik owns sourcing of active equipment (switches/MC) so I address the right person next time?\n\nThank you.\nAlan"
 },
 "as_of": "2026-10-24"
 }
@@ -73556,12 +73721,52 @@
 "k": "pi_doc"
 },
 {
+"date": "2026-06-18",
+"dir": "去",
+"who": "Saga PI STEC20260618012（第 10 单，Elsa 开）",
+"quote": "STC-28GPM → BNSC-28GPM ×5 @¥408 = ¥2,040，\"Netstream Brand Customized Packing Box\"；Production Time 1 Month；Warranty 1 year；收货地址 广州市越秀区瑶台西街89号(美泰城)A2038档 亨瑞 13503077498。",
+"why": "2026 年的 BNSC-28GPM 补货节奏：06-18 ×5 → 07-18 ×2 → 08-30 ×12；单价 ¥408 三单不变",
+"k": "PI 包 `12_尼日利亚_Mbata/10th order/STEC20260618012.xls`"
+},
+{
+"date": "2026-06-22",
+"dir": "内",
+"who": "Saga 采购合同 → 深圳洪瑞光祥（HRUI，刘长桂）",
+"quote": "ZX-AFGM-82NS（2×GE SFP + 8×GE PoE af/at 120W，L2 管理，PoE 看门狗，英规电源）×5 @¥355.1 = ¥1,775.5；备注：中性标签写客户型号、用买方提供的说明书双面打印、不放保修卡、中性 PVC 膜、定制包装盒（寄给厂）、管理界面型号改为 BNSC-28GPM 不得出现卖方型号、不加 logo；工厂直发 款到生产 包邮。",
+"why": "**BNSC-28GPM 的真身是 HRUI（Realtek 线）ZX-AFGM-82NS，不是 Marvell**：卖 ¥408 / 进 ¥355.1 → 毛利 ¥52.9 = **13.0%**，低于 Realtek 20% 底线——这条主力补货 SKU 一直在亏底线卖（绑定价，Simon 定）；定制项 7 条是他每单固定要求，照抄即可",
+"k": "PI 包 `10th order/采购合同_STEC20260618012.xls`"
+},
+{
+"date": "2026-07-18",
+"dir": "去",
+"who": "Saga PI STEC20260718012（第 11 单）+ 采购合同（HRUI）",
+"quote": "BNSC-28GPM ×2 @¥408 = ¥816；采购 ZX-AFGM-82NS ×2 @¥355.1 = ¥710.2（同 7 条定制备注）。",
+"why": "2 台也开单、也走工厂直发——他的补货是「项目来一个买一批」，不是囤货",
+"k": "PI 包 `11th order/STEC20260718012.xls` + `采购合同_STEC20260718012.xls`"
+},
+{
 "date": "2026-08-30",
 "dir": "去",
 "who": "Saga PI STEC20260830012（第 12 单）",
 "quote": "STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full",
 "why": "2026 年三单（06-18 ×5 / 07-18 ×2 / 08-30 ×12）都是 BNSC-28GPM 补货，单价从 ¥385（2025）涨到 ¥408（+6%）仍复购——价格弹性低、节奏 1–2 个月；Netstream 线自 2025-11 后没有再买，是下一问",
 "k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
+},
+{
+"date": "2026-08-31",
+"dir": "内",
+"who": "Saga 采购合同 → 深圳凌特华盛（SmartByte，Peter Hu）+ 供方销售合同 P20260831-02",
+"quote": "LT-S8328GP-4GX24GT-S（AC5 爆款，L2+，24×GE PoE + 4×1G/2.5G SFP，280W）→ 买方型号 BNSC-424DGGPM ×1 @¥765（未税）；交货 2026.9.2；发货地址「经双方协商后，直接发给货代处理」；付款 2026-09-07 ¥765 转 罗辉。",
+"why": "第 12 单里那台 24 口：卖 ¥946 / 进 ¥765 → 毛利 ¥181 = **19.1%**（Marvell 底线 25% 也没到）；两条供应线（HRUI 8 口 / SmartByte 24 口）同时给同一客户贴 Netstream/BNSC 标",
+"k": "PI 包 `采购合同_STEC20260830012.xls` + `郑州仨戛…P20260831-02_未税765RMB.doc` + `货款支付记录.png`"
+},
+{
+"date": "2026-09-08",
+"dir": "内",
+"who": "发货信息（Hrui 14 台 / Smartbyte 1 台）+ 加运美面单 JYM800114534793",
+"quote": "收件：陈静怡 Serena 13316225849，广州市花都区花山镇东湖村长怖庄裕丰庄2号E库；品名 商业交换机，14 台/20 kg（HRUI）+ 1 台/4 kg（SmartByte），海关编码 8517622990，品牌 无；客户信息 VALENTINE (LAGOS-NIGERIA) 0803388325；2026-09-08 13:07 广州签收。",
+"why": "他的广州集运点 2026 年换成花都 Serena 仓（PI 抬头仍写越秀美泰城亨瑞）——U28「客户自己的广州货代」线；Saga 只负责国内段，两家工厂各自直发到同一仓",
+"k": "PI 包 `发货信息_Hrui_14台.docx` / `发货信息_Smartbyte_STEC20260830012.docx` / `14pcs_shipping_info.png`（OCR）"
 }
 ],
 "situation": "拉各斯 Biz-Ethics / Valentine Mbata：WhatsApp 客户（+234 702 918 6461），S/A 邮箱 0 封，证据全在 Drive PI 文件夹（12 单 ≈¥101k，2024-09 → 2026-08）。两个自有品牌：BNSC（STC-28GPM / STC-228GP / STC-424DGGPM 贴牌，三款定制盒）与 Netstream（STC-424XGGPM-280W 10G 上联 + CENTEC STH-2C24XF-SFI 2×100G 核心，2025-11）。2026 年三单全是 BNSC-28GPM 补货（¥385→¥408 照买）。",
@@ -73575,7 +73780,24 @@
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
 "body": "Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?"
-}
+},
+"saga_now": {
+"p1": "BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购",
+"tier": "RMB 货代走账（不走 USD 三档）",
+"price": "绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提",
+"why": "12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳",
+"repeat": [
+"BNSC-28GPM：2026-06 ×5 / 07 ×2 / 08 ×12（1–2 个月一批）"
+],
+"gaps": [
+"主力 SKU 毛利 13.0% < Realtek 底线 20%（Q：是否下批调价——Simon 定，默认不动）",
+"Netstream 线（10G 上联 PoE + CENTEC 核心）2025-11 后未复购，没问过使用情况",
+"没有 Simon 的《成本统计.xlsx》，毛利按采购合同反推"
+]
+},
+"proof_gaps": [
+"邮件 0 封，全部证据来自 Drive PI 包（PI + 采购合同 + 发货信息）；WhatsApp 聊天记录不在库"
+]
 }
 }
 },
@@ -73867,6 +74089,70 @@
 "quote": "ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×3 ¥240 / ZX900-AFG-SWTG018ANS ×2 ¥345 / ZX510S-5T ×2 ¥750（25 天）/ ZX-SWTGW2C80N ¥1,040 / ZX-SWTGW2216AS ¥1,020 / ZX-SWTGW2224AS ¥1,140 / ZX-AFGW-SWTG218ANS-100 ¥350；合计 21 台 ¥7,885；交期多为下单后 5 天",
 "why": "PBA（曼谷 CCTV 集成商）首单是 12 个型号 21 台的「全线试吃」，HRUI 侧 5 天交付；后续 5 单（2025-02 ¥8,460 / 2025-09 ¥1,904 / 2025-12 ¥1,912 / 2026-07 ¥2,884）都是从这张表里挑型号复购——报价时直接按这些 ZX 料号对 STC/STI 码，不用再问",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
+},
+{
+"date": "2024-10-14",
+"dir": "去",
+"who": "Saga PI STSC20241014013（第 1 单，Simon 开，RMB）",
+"quote": "21 台 ¥13,083，全部 \"Sample Testing\"：STC-15XGDGE ×3 @¥238、STC-18XGDGE ×3 @¥322、STC-216XGDGE ×1 @¥1,176、STC-224XGDGE ×1 @¥1,330、STC-80XGO ×2 @¥539、STC-114XGDGP ×3 @¥287、STC-108XGDGP ×2 @¥413、STC-05XGWE/08XGWE 等（Realtek 10G 桌面/MC 线）。",
+"why": "首单就是 10G 桌面/光纤小机全系样机（HRUI Realtek 线），人民币结算、货代走账",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/STSC20241014013.xls`"
+},
+{
+"date": "2024-10-14",
+"dir": "内",
+"who": "Saga 采购合同 → HRUI（第 1 单）",
+"quote": "ZX-SWTG015AS ×3 @¥200、ZX-SWTG018AS ×3 @¥270、ZX-SWTG1216AS @¥980、ZX-SWTG1224AS @¥1,100、ZX-SWTG1C8F ×2 @¥450、ZX900-AFG-SWTG015ANS ×3 @¥240、ZX900-AFG-SWTG018ANS ×2 @¥345、ZX510S-5T ×2 @¥750；备注「标签写左边型号（HRUI ZX 型号）、美规插头、说明书 Ethernet/PoE/Managed Switch_STSC20241014013」。",
+"why": "首单毛利 ≈16–17%（¥238/¥200、¥322/¥270、¥1,176/¥980、¥539/¥450…）——低于 Realtek 20% 底线；**标签印的是 HRUI 的 ZX 型号**而非 STC（样机阶段）",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/采购合同.xls` + `交期价格确认_2024.10.14.xlsx`"
+},
+{
+"date": "2025-01-16",
+"dir": "去",
+"who": "Saga PI STSC20250116013（第 2 单）+ 凌特销售合同 P20250220-01",
+"quote": "STI-21616GP ×2 @¥1,050（Unmanaged）、STI-21616DGGPM ×2 @¥1,460、STI-42424DGGPM ×1 @¥2,200、STI-42424DGGPM-U ×1 @¥2,400（Marvell Chip；不含电源，带 Console 线）= 6 台 ¥9,620；进货（凌特 LT-IS6018GP-2GX16GT ¥952 / LT-IS6318GP ¥1,272 / LT-IS6328GP ¥1,912 / -U ¥2,100）= ¥8,460；收货地址 广州白云区白云湖街朗兴路7号 李慧 13416307791。",
+"why": "第 2 单转到 Marvell 工业线（SmartByte），毛利 (9,620−8,460)/9,620 = **12.1%**；他的广州货代仓 = 白云湖 李慧",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/2nd order/STSC20250116013.xls` + `郑州仨戛…P20250220-01_未税8460RMB.doc`"
+},
+{
+"date": "2025-08-27",
+"dir": "去",
+"who": "Saga PI STSC20250827013（第 3 单）+ P20250909-01",
+"quote": "STI-21616GP ×2 @¥1,050 \"Exactly the same as last order STSC20250116013\" = ¥2,100；进货 LT-IS6018GP-2GX16GT ×2 @¥952 = ¥1,904（DC44-57V 供电）。",
+"why": "STI-21616GP 成为他的主力复购件：卖 ¥1,050 / 进 ¥952 → **9.3%**",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/STSC20250827013.xls` + `P20250909-01_未税1904RMB.doc`"
+},
+{
+"date": "2025-09-09",
+"dir": "内",
+"who": "凌特（SmartByte）销售合同条款（P20250909-01 第八条）",
+"quote": "「工业级产品质保期【五】年，商业级产品质保期【二】年」。",
+"why": "上游给 Saga 的是工业 5 年 / 商业 2 年；Saga 对外口径工业 3 年 / 商业 1 年（口径 #5）——有 2 年 / 1 年的缓冲，不往外传",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/P20250909-01.doc`"
+},
+{
+"date": "2025-09-24",
+"dir": "去",
+"who": "Saga PI STSC20250924013（第 4 单，Neutral）",
+"quote": "STC-15XGDGE ×5 @¥238、STC-80XGO ×5 @¥539、STC-108XGDGP ×5 @¥413、STC-18XGDGPW ×3 @¥462 = 18 台 ¥7,336（Realtek 10G 线复购，单价与首单相同）。",
+"why": "10G 桌面/光纤小机从「样机」变成批量复购（18 台），价格一年未动",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/4th order/STSC20250924013.xls`"
+},
+{
+"date": "2025-12-12",
+"dir": "去",
+"who": "Saga PI STSC20251212013（第 5 单）+ P20251215-01",
+"quote": "STI-42424DGGPM ×1 @¥2,200；进货 LT-IS6328GP-4GX24GT ¥1,912 + 运费 ¥13。",
+"why": "24 口工业 PoE 管理汇聚：卖 ¥2,200 / 进 ¥1,912 → **13.1%**",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/5th order/STSC20251212013.xls` + `P20251215-01_未税1912RMB.doc`"
+},
+{
+"date": "2026-07-06",
+"dir": "去",
+"who": "Saga PI STSC20260706013（第 6 单）+ P20260723-01",
+"quote": "STI-21616GP ×3 @¥1,050 \"Exactly the same as last order STSC20250827013\" = ¥3,150；进货 ×3 @¥952 + 运费 ¥28 = ¥2,884。",
+"why": "第三次买同一型号，单价 ¥1,050 三年不变；毛利 **8.4%**（含运费）——全库最低的复购毛利之一",
+"k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/STSC20260706013.xls` + `P20260723-01_未税2884RMB.doc`"
 }
 ],
 "situation": "曼谷 PBA（Peeranun）：WhatsApp 客户，S/A 邮箱 0 封，证据全在 Drive PI 文件夹（6 单 ≈¥37k，2024-10 → 2026-07，货代走账）。首单是 12 个型号 21 台的全线试吃（HRUI 成本 ¥7,885，5 天交付），后续五单从中挑型号复购：STI-21616GP（2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3）、STI-42424DGGPM（2025-01 ×2 / 2025-12 ×1）、10G 桌面系列 STC-15XGDGE / STC-80XGO / STC-108XGDGP（2025-09）。",
@@ -73880,7 +74166,25 @@
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
 "body": "Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)"
-}
+},
+"saga_now": {
+"p1": "STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462）",
+"tier": "RMB 货代走账（不走 USD 三档）",
+"price": "绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提",
+"why": "6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄",
+"repeat": [
+"STI-21616GP：2025-01 ×2 / 2025-08 ×2 / 2026-07 ×3",
+"Realtek 10G 小机：2024-10 样机 21 台 → 2025-09 复购 18 台"
+],
+"gaps": [
+"复购毛利 8–13%，全部低于 20/25 底线（Q：下批是否调价——Simon 定，默认不动）",
+"他的官网/套餐页仍不见 Saga 型号（U18 监控）",
+"2026-07 之后的下一批 STI-21616GP 未到（节奏 3–6 个月 → 2026-11 下旬）"
+]
+},
+"proof_gaps": [
+"邮件 0 封；证据全部来自 Drive PI 包（6 张 PI + 采购/销售合同 + 入账记录）；WhatsApp 聊天记录不在库"
+]
 }
 }
 },
@@ -172021,7 +172325,9 @@
 "price": "按主表（研究档 saga_fit）",
 "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
 "repeat": [],
-"gaps": []
+"gaps": [
+"10G DAC 3 m ×300 单卖：Saga 光模块价目表（Extra Info `Price/Optical Module.xlsx`）没有 DAC/AOC，口径「随整机报、随整机发」——这条询盘本身不是 Saga 的生意；首封只能问他有没有整机（10G 接入/汇聚）需求，不报线缆价"
+]
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
@@ -204727,259 +205033,6 @@
 }
 },
 {
-"name": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
-"name_src": "company",
-"names": [
-"Rio-Import LLC（ООО «РИО-ИМПОРТ»）"
-],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
-"other_countries": [],
-"domains": [],
-"urls": [],
-"platform_links": [],
-"emails": [
-"rio-popov@mail.ru"
-],
-"corp_emails": [],
-"phones": [
-"73912906315"
-],
-"persons": [
-"Igor Popov"
-],
-"positions": [
-"负责人"
-],
-"froms": [
-"补录：PI 包成单客户（T29-U8）"
-],
-"interests": [
-"工业非管理交换机（STI-050GE / STI-080GE 各 2 台）"
-],
-"remarks": [
-"已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json"
-],
-"categories": [
-"进口贸易（克拉斯诺亚尔斯克）"
-],
-"tags": [
-"补录",
-"已成单",
-"PI成单",
-"Simon:gg",
-"成交(PI)"
-],
-"flags": {
-"deal": 1
-},
-"fit": {
-"switch": 1
-},
-"ai_evals": [],
-"years": [
-2024
-],
-"sources": [
-{
-"file": "补录客户.jsonl",
-"sheet": "(补录)",
-"row": 4,
-"no": "PI-003",
-"tags": [
-"补录",
-"已成单",
-"PI成单",
-"Simon:gg"
-],
-"company": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
-"country": "俄罗斯",
-"person": "Igor Popov",
-"from": "补录：PI 包成单客户（T29-U8）",
-"interest": "工业非管理交换机（STI-050GE / STI-080GE 各 2 台）",
-"contact": "rio-popov@mail.ru",
-"mobile": "+7 (391) 2906-315; 2911-424",
-"website": "",
-"remark": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
-"extra": "",
-"category": "进口贸易（克拉斯诺亚尔斯克）",
-"position": "负责人",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2024,
-"merge_keys": [],
-"pi": {
-"code": "SB-1335",
-"keys": [
-"e:rio-popov@mail.ru"
-],
-"new": true,
-"grade": "B",
-"folder": "8 俄罗斯 Igor gg",
-"label": "俄罗斯 Igor gg",
-"simon": "gg",
-"pay": "",
-"bind": "",
-"buyer": "«Rio-Import» LLC",
-"country": "俄罗斯",
-"folder_no": "8"
-},
-"grade_auto": "A",
-"score": 60,
-"reasons": [
-"+50 有成单/下单/买过记录（用户备注或跟进表）",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+0 仅免费邮箱",
-"+0 区域 俄语区/俄罗斯",
-"+2 最近活动 2024"
-],
-"c_sub": "",
-"status": "成交过·已凉（Simon: gg）",
-"code": "SB-1335",
-"grade": "B",
-"research": {
-"code": "SB-1335",
-"name_official": "«Rio-Import» LLC",
-"website_status": "",
-"summary": "已成单 1 次（STSC20240523008，2024-05-23，USD 1,140）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1335.json",
-"type": "进口贸易（克拉斯诺亚尔斯克）",
-"size": "",
-"brands_seen": [],
-"evidence": [
-{
-"kind": "PI",
-"claim": "成交单据 STSC20240523008（PI，2024-05-23）：STI-050GE、STI-080GE 共 4 台，USD 1140.0；采购 SmartByte RMB 626.0；Simon 成本表利润 RMB 514",
-"quote": "",
-"url": "PI.zip:8 俄罗斯 Igor gg/STSC20240523008.xls",
-"date": "2024-05-23"
-},
-{
-"kind": "PI",
-"claim": "PI 包文件夹「俄罗斯 Igor gg」：Simon 标签 gg；单号 1 个，2024-05-23 → 2024-05-23，销售 USD 1140.0 / RMB 0，Simon 成本统计利润合计 RMB 514.0",
-"quote": "",
-"url": "PI.zip:8 俄罗斯 Igor gg",
-"date": "2026-10-22"
-},
-{
-"kind": "公开平台核查（T29-U18）",
-"claim": "rio-krsk.ru 新闻《Прочные коммутаторы PoE》：Phoenix Contact 新增 1000 系列非网管 PoE（30W/口、SFP）与 4000 系列网管 PoE（60W/口，802.3bt），克拉斯诺亚尔斯克有库存；集团自述为该地区最大工控/柜体/电子元件供应商之一",
-"quote": "Группа компаний РИО — одна из крупнейших поставщиков в Красноярском регионе полного спектра оборудования для АСУТП … Phoenix Contact дополняет свой ассортимент промышленных коммутаторов PoE … Склад в Красноярске",
-"url": "http://www.rio-krsk.ru/info/news/prochnye-kommutatory-poe/",
-"date": "2026-10-23"
-},
-{
-"kind": "公开平台核查（T29-U18）",
-"claim": "联系页：Красноярск, ул. Красной Гвардии 21, оф.314；8-(391)-291-14-24 / 290-63-15；rio-import2003@mail.ru",
-"quote": "ООО ”РИО-ИМПОРТ” Адрес г. Красноярск, левый берег ул. Красной Гвардии 21, оф.314 … E-mail rio-import2003@mail.ru",
-"url": "http://www.rio-krsk.ru/contacts/",
-"date": "2026-10-23"
-}
-],
-"kp": [
-{
-"name": "Igor Popov",
-"role": "单据联系人",
-"email": "rio-popov@mail.ru",
-"phone": "",
-"source": "PI.zip 单据"
-}
-],
-"notes": "",
-"researched_at": "2026-10-22",
-"deal_pi": {
-"folder": "8 俄罗斯 Igor gg",
-"simon_label": "gg",
-"pay": "",
-"bind": "",
-"buyer": "«Rio-Import» LLC",
-"orders": 1,
-"first": "2024-05-23",
-"last": "2024-05-23",
-"usd": 1140.0,
-"rmb": 0.0,
-"profit_rmb": 514.0,
-"models": "STI-050GE、STI-080GE"
-},
-"saga_fit": {
-"p1": "",
-"tier": 20,
-"why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
-},
-"grade_override": "B",
-"override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）",
-"channels": {
-"公开动态平台（监控中，T29-U18）": "官网 rio-krsk.ru（集团 РИО：工控/电气元件分销；新闻页 /info/news/）；邮箱 rio-import2003@mail.ru / rio-2003@mail.ru（我方单据 rio-popov@mail.ru）"
-},
-"signals": [
-"2026-10-23 核查：Rio-Import = 克拉斯诺亚尔斯克「集团 РИО」的进口公司，主营 Delta Electronics / OPTIMUS DRIVE / UPUN / WAIN 等工控电气件，新闻页推 Phoenix Contact 1000/4000 系列工业 PoE 交换机（克拉斯诺亚尔斯克有库存）——他们买我方交换机是给工控客户配套；对口 = DIN 导轨工业 PoE（STI-154GP / STI-288DGGPM）替代 Phoenix；gg 维持"
-],
-"watch": {
-"as_of": "2026-10-23",
-"github_watch": [],
-"web_watch_targets": "scripts/web_watch/targets.json#SB-1335",
-"status": "data/customer_watch/当前状态.md",
-"log": "data/customer_watch/变化日志.md"
-},
-"deep": {
-"done_at": "2026-10-23",
-"level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
-},
-"mail_review": {
-"binding": {
-"level": "重复档案——同一实体见 SA-008（ООО «РИО-ИМПОРТ»，PI 包 #8 Igor；2024-05 样品单 $110）；本档不再单独跟进",
-"type": "与 SA-008 同一公司（B 级重复建档）",
-"sieve": "—",
-"stop": "—",
-"revive": "—",
-"lane": "RU",
-"cadence": "—",
-"evidence": "见 SA-008；建议并入（疑似重复待确认.md）"
-},
-"situation": "同 SA-008。",
-"need": "同 SA-008。",
-"breakpoint": "—",
-"saga_now": {
-"p1": "见 SA-008",
-"tier": 20,
-"price": "—",
-"why": "—",
-"repeat": [],
-"gaps": []
-},
-"next_move": {
-"when": "—",
-"channel": "—",
-"action": "并档",
-"one_question": ""
-},
-"facts": [],
-"proof_gaps": [
-"重复档案待人工归并"
-],
-"draft_en": null,
-"as_of": "2026-10-24"
-}
-}
-},
-{
 "name": "Fikes Media",
 "name_src": "company",
 "names": [
@@ -206221,204 +206274,6 @@
 "why": "被动：若再询，24 口 PoE → STC-424DGGPM-280W。"
 },
 "email_hook": "（不主动发送）"
-}
-},
-{
-"name": "CXR",
-"name_src": "company",
-"names": [
-"CXR"
-],
-"country": "法国",
-"iso": "FR",
-"region": "欧洲",
-"other_countries": [],
-"domains": [
-"cxr.fr"
-],
-"urls": [
-"https://www.cxr.fr"
-],
-"platform_links": [],
-"emails": [
-"marco.divalerio@cxr.fr"
-],
-"corp_emails": [
-"marco.divalerio@cxr.fr"
-],
-"phones": [],
-"persons": [
-"Marco Di Valerio"
-],
-"positions": [
-"COO"
-],
-"froms": [
-"补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）"
-],
-"interests": [
-"10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）"
-],
-"remarks": [
-"COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。"
-],
-"categories": [
-"电信设备制造商 / 品牌商（cxr.fr）"
-],
-"tags": [
-"补录",
-"S邮箱人工往来",
-"法国",
-"品牌商"
-],
-"flags": {
-"own_brand": 1
-},
-"fit": {
-"switch": 1,
-"mc_sfp": 1,
-"off": 1
-},
-"ai_evals": [],
-"years": [
-2024
-],
-"sources": [
-{
-"file": "补录客户.jsonl",
-"sheet": "(补录)",
-"row": 13,
-"no": "S-补录-2026-10-22-02",
-"tags": [
-"补录",
-"S邮箱人工往来",
-"法国",
-"品牌商"
-],
-"company": "CXR",
-"country": "法国",
-"person": "Marco Di Valerio",
-"from": "补录：S 邮箱有人工往来但不在客户表（T29-U13 ② F16）",
-"interest": "10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）",
-"contact": "marco.divalerio@cxr.fr",
-"mobile": "",
-"website": "https://www.cxr.fr",
-"remark": "COO 本人回信索要规格书；之后 Saga 4 次群发（工业 PoE 管理 / 24 口无源 PoE / 2+4 Web 管理）均无回。品牌商 → OEM 30% 档候选。",
-"extra": "",
-"category": "电信设备制造商 / 品牌商（cxr.fr）",
-"position": "COO",
-"ai_eval": "",
-"claude_eval": "",
-"followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 2024,
-"merge_keys": [],
-"grade_auto": "B",
-"score": 45,
-"reasons": [
-"+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）",
-"+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线",
-"+10 有企业邮箱",
-"+5 有可核实的公司网站/域名",
-"+8 区域 欧洲/法国",
-"+2 最近活动 2024"
-],
-"c_sub": "",
-"status": "名单内·未触达",
-"code": "SB-1340",
-"grade": "B",
-"research": {
-"code": "SB-1340",
-"name_official": "CXR (cxr.fr)",
-"website_status": "未核（本轮只用 S 邮箱证据）",
-"summary": "法国电信设备制造商 / 品牌商。2024-05-30 COO Marco Di Valerio 回群发索要 10G 媒体转换器规格书，Simon 报 $65/pc；之后 4 次群发无回。S 邮箱 1 进 5 出。",
-"type": "电信设备制造商 / 品牌商",
-"size": "未核",
-"brands_seen": [],
-"evidence": [
-{
-"kind": "email",
-"claim": "COO 本人索要 10G MC 规格书",
-"quote": "Hi Simon, Thanks, please could you send data sheet please — Marco Di Valerio COO",
-"url": "data/gmail_s/messages/2024/2024-05.jsonl（k afbdeb9d5505018c）",
-"date": "2024-05-30"
-},
-{
-"kind": "email",
-"claim": "Simon 报价 10G MC $65/pc（1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含适配器）",
-"quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter.",
-"url": "data/gmail_s/messages/2024/2024-05.jsonl（k 696d6a213ad761ca）",
-"date": "2024-05-30"
-}
-],
-"kp": [
-{
-"name": "Marco Di Valerio",
-"role": "COO",
-"email": "marco.divalerio@cxr.fr",
-"phone": "",
-"source": "S 邮箱签名"
-}
-],
-"notes": "T29-U13 ② F16 补录：S 邮箱有人工往来但不在客户表。品牌商 → 若重开按 OEM 30% 档；先从 10G MC（当年感兴趣的品类）切入，不要再群发。",
-"researched_at": "2026-10-22",
-"saga_fit": {
-"p1": "STC-110XGE（10G MC，价格主表无 → 按最近报价 $65 口径，待厂确认）",
-"tier": 30,
-"why": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类"
-},
-"grade_override": null,
-"override_reason": "",
-"mail_review": {
-"binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
-"type": "电信设备制造商 / 品牌商",
-"sieve": "—（未入筛）",
-"stop": "从未触达",
-"revive": "首封（具名 KP 优先，用研究档 email_hook）",
-"lane": "法国（欧洲全域主攻）",
-"cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0"
-},
-"situation": "法国电信设备制造商 / 品牌商。2024-05-30 COO Marco Di Valerio 回群发索要 10G 媒体转换器规格书，Simon 报 $65/pc；之后 4 次群发无回。S 邮箱 1 进 5 出。",
-"need": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类",
-"breakpoint": "未触达",
-"saga_now": {
-"p1": "STC-110XGE（10G MC，价格主表无 → 按最近报价 $65 口径，待厂确认）",
-"tier": 30,
-"price": "按主表（研究档 saga_fit）",
-"why": "品牌商 + COO 直接回过信；10G MC 是其自己开口问的品类",
-"repeat": [],
-"gaps": []
-},
-"next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
-},
-"facts": [],
-"proof_gaps": [
-"无邮件往来"
-],
-"draft_en": null,
-"as_of": "2026-10-24"
-}
 }
 },
 {
@@ -513454,7 +513309,7 @@
 "saga_now": {
 "p1": "STI-21616GP / STI-21616GPM（已测）→ 项目批量",
 "tier": 25,
-"price": "按 2026-08 成交价（RMB）；项目批量时复核",
+"price": "按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让",
 "why": "刚成交、毛利好、项目型",
 "repeat": [
 "2026-08-21（唯一）"
@@ -513503,6 +513358,14 @@
 "quote": "TOTAL 42 / 5,348 RMB；中性设备，常规 PVC 膜，不放保修卡…管理线放…序列号 202608210001~",
 "why": "成本与贴牌要求",
 "k": "采购合同_STSC20260819019"
+},
+{
+"date": "2026-08-21",
+"dir": "内",
+"who": "凌特（SmartByte）销售合同 P20260821-01（未税 ¥8,525）",
+"quote": "LT-IS3210GP-2GX8T → STI-288GPM ×2 @¥460；LT-IS6018GP-2GX16GT-STI → STI-21616GP ×4 @¥952；LT-IS6318GP-2GX16GT → STI-21616GPM ×1 @¥1,280；明纬 NDR-240-48 ×7 @¥220；工业 SFP STI-G20-SD / STI-G2-MD 各 14 @¥28；货拉拉运费 ¥193；合计 ¥8,525。",
+"why": "对照 PI ¥10,500：整单毛利 **18.8%**；分项 STI-288GPM 550/460 = 16.4%、STI-21616GP 1,140/952 = 16.5%、STI-21616GPM 1,550/1,280 = 17.4%、NDR 270/220 = 18.5%、SFP 50/28 = 44%——整机没到 Marvell 25% 底线，是光模块把整单拉到 18.8%；08-18 报价单里 NDR 报 ¥170、288GP 非管理 ¥400，三天后 PI 改成 NDR ¥270、288GPM 管理 ¥550（客户自己升级）",
+"k": "PI 包 `19_马来西亚_Raja_可发展/郑州仨戛…P20260821-01_未税8525RMB.doc` + `STS-20260818-001.xlsx` + `STSC20260821019.xlsx`"
 }
 ],
 "proof_gaps": [
