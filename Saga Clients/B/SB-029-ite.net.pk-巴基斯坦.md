@@ -43,16 +43,17 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-029` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：have Routers with 1GE and 4 FE ports?」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇
+- **绑定等级：未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）** ｜ 类型：— ｜ 筛子：—（需求路由器，非交换机） ｜ 停点：从未触达 ｜ 复活：不动（需求不对口） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。
 - **对方真实需求（有据）**：交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
-- **断点 / 为什么停在这里**：需求为路由器（缺口）；巴基斯坦 L/C / 外汇
+- **断点 / 为什么停在这里**：产品线不对口（路由器）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 回复：have Routers with 1GE and 4 FE ports? | 表内备注 | `用户表` |
+| 2025-04-09 | 来 | Faisal（International Technology Exchanger，PK） | Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels | 路由器 + VPN 规格 = 守界外（C10）；不设计绕路 | `gmail_e` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

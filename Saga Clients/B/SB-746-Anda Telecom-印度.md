@@ -36,26 +36,31 @@ updated: 2026-10-24
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?
+- **第一问（只问一个）**：Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：2026-11 Elsa 邮箱 → subhash@andatelecom.com（抄 harish@） 只问一句
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-746` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 info@andatelecom.com, info@andatelecomindia.com；主题多为「48 Port PoE Managed Switch、24V poe switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）
+- **绑定等级：轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）** ｜ 类型：— ｜ 筛子：3（要了规格书、给了卡点） ｜ 停点：2026-08-04 对方「will check」后无下文（Elsa 侧） ｜ 复活：一封实话：AC5 固件堆叠的真实边界（见 SB-924 口径）+ 问「堆叠是标书硬条款还是运维习惯」 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。
 - **对方真实需求（有据）**：对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。
-- **断点 / 为什么停在这里**：EDFA 为其兴趣点（Saga 无）
+- **断点 / 为什么停在这里**：堆叠（stacking）被视为必需；AC5 口径与 Versitron 同题
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?
+- **下一步（具体）**：2026-11　Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）　只问一句
+  - 第一问（只问一个）：Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
 | 2025 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24V poe switch | 9 封 / 1 次打开 / 0 回 | `gmail_digest` |
+| 2025-06-17 | 来 | Harish Gupta（Director, ANDA Telecom） | Dear Nitin/Subhash Please reply. | 董事把 Elsa 的 16 口信转给采购两人 = 内部有兴趣 | `gmail_e` |
+| 2026-08-04 | 来 | Subhash（ANDA Telecom） | First share us data sheet for the same | 24 口 PoE（AC5）信当天要规格书 | `gmail_e` |
+| 2026-08-04 | 来 | Subhash | we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory) | 卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需 | `gmail_e` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 2026-08-04 发出的规格书型号未入库
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -34,24 +34,28 @@ updated: 2026-10-24
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；$110（2024-09）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-679` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（5 封来信 2024-09 → 2025-01：Ravi 三次问「managed or unmanaged」、要 24V/48V 管理型 → $110 → 问 30V/55V（否）、要 24 口光纤款数据表；无样无单）** ｜ 类型：印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段 ｜ 筛子：3（问价 + 规格） ｜ 停点：管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持 ｜ 复活：不动；若做印度，用非管理 24V/48V 自动款 + 阶梯价 ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9
+- **绑定等级：轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）** ｜ 类型：印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段 ｜ 筛子：3（问价 + 规格） ｜ 停点：管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持 ｜ 复活：补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进 ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：—
 - **对方真实需求（有据）**：24V/48V 混供 PoE 管理型。
 - **断点 / 为什么停在这里**：价格段。
 - **Saga 现在该推什么**：P1 **—**（30% 档，$110（2024-09））———
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答
+  - 第一问（只问一个）：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-09-18 | 来 | Ravi | I need manage switch for 24V/48V POE. | 需求 | `e3fdaaebc77d14ee` |
+| 2025-12-08 | 来 | Ravi（Apollo Infoways） | How about Console port and management ports. | 问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库 | `gmail_e` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 回复未入库
 
 ## 基本事实（事实/推断/假设分层）
 

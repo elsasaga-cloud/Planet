@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-487` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低
+- **绑定等级：未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。
 - **对方真实需求（有据）**：自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。
 - **断点 / 为什么停在这里**：越南低价市场、AOA 价格基准低
@@ -53,6 +53,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品 | 表内备注 | `用户表` |
+| 2026-02-13 | 来 | Lam Ho（Quang Lam，越南） | （Gmail emoji reaction 💖，无正文） | 非实质 | `gmail_e` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

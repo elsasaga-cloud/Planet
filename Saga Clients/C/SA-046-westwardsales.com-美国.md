@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -37,7 +37,18 @@ updated: 2026-10-23
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）；最近一次客户回复：2025-10-12：Sample
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（深挖对位：平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档）
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-046` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：明确拒绝 + 退订（Elsa 邮箱 2025-10-13 Dawn Gumtow（Westward Sales）先按采购流程回问型号/数量/地址，同日「We are not interested in purchasing this product. Please take us off your emailing list.」）** ｜ 类型：— ｜ 筛子：—（拒） ｜ 停点：2025-10-13 退订 ｜ 复活：不动（退订） ｜ 通路：US 四主但已退订 ｜ 节奏：— ｜ 证据：Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-10-13 | 来 | Dawn Gumtow（Westward Sales, Sales Assistant） | We are not interested in purchasing this product. Please take us off your emailing list. | 明确退订请求——合规：所有三个邮箱停发 | `gmail_e` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -209,8 +220,8 @@ updated: 2026-10-23
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

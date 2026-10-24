@@ -38,24 +38,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：2027-Q1 A 邮箱 季度
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-437` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 customerservice.pkj@gmail.com, info@pancakumala.co.id；主题多为「Industrial PoE Switch、24 Port Fiber Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
+- **绑定等级：未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。
 - **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
 - **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：2027-Q1　A 邮箱　季度
   - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式 | 表内备注 | `用户表` |
 | 2025 | 去 | A 群发 | Industrial PoE Switch、24 Port Fiber Switch | 3 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2025-10-07 | 来 | Dian for Johandi Halim（PT PKJ，雅加达） | （仅签名档，无正文） | 空回复，不计实质 | `gmail_e` |
 
 ## 基本事实（事实/推断/假设分层）
 

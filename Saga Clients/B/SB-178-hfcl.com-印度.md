@@ -34,26 +34,32 @@ updated: 2026-10-24
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-01-08 → 2025-01-08）；最近一次客户回复：2025-01-08：MII
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?
+- **第一问（只问一个）**：Shantanu — straight answer on MII: we ship complete units from China; we do not have Indian assembly, so 60% local content is not achievable from our side unless you have a local assembly partner for SKD kits. Is that a route HFCL uses?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：2026-11（Simon 先定 MII 口径） WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档 一句话定调
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-178` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，无记录打开，0 回；收件 info@hfcl.com, iosales@hfcl.com；主题多为「Marvell Alleycat5 Solution、poe managed switch」）** ｜ 类型：印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） ｜ 筛子：1（只收到群发） ｜ 停点：9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径
+- **绑定等级：轻度触达→明确门槛（Elsa 邮箱 6 封来信 2026-01-08 → 04-06，HFCL DGM Key Strategic Accounts Shantanu Rana：先问「MII 60% 怎么办」，再要「制造国 / 价格 / 型号 / IPR」、「进口到印度的 PO 与销售证明」，最后「text me on WhatsApp」；S/A 邮箱 9 封 0 回 — 之前判「未触达」是因为回信全在 Elsa 邮箱）** ｜ 类型：印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） ｜ 筛子：3（要价要证要 WhatsApp，但 MII 门槛未解） ｜ 停点：Elsa 邮箱 2026-04-06 对方要 WhatsApp 后，邮件侧无记录 ｜ 复活：Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续 ｜ 通路：IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。
 - **对方真实需求（有据）**：自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
-- **断点 / 为什么停在这里**：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径
+- **断点 / 为什么停在这里**：MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?
+- **下一步（具体）**：2026-11（Simon 先定 MII 口径）　WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档　一句话定调
+  - 第一问（只问一个）：Shantanu — straight answer on MII: we ship complete units from China; we do not have Indian assembly, so 60% local content is not achievable from our side unless you have a local assembly partner for SKD kits. Is that a route HFCL uses?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo；回复里有详细联系方式 | 表内备注 | `用户表` |
 | 2025 | 去 | A/S 群发 | Marvell Alleycat5 Solution、poe managed switch | 9 封 / 0 次打开 / 0 回 | `gmail_digest` |
+| 2026-01-08 | 来 | Shantanu Rana（HFCL, DGM Key Strategic Accounts） | How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also. | Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂） | `gmail_e` |
+| 2026-04-03 | 来 | Shantanu Rana | Manufacturing country- Price- Model number IPR- Kindly share details | 四件套问法 = 真实采购评估清单 | `gmail_e` |
+| 2026-04-05 | 来 | Shantanu Rana | if it is imported to India in latest, can we have the PO for reference and the proof of selling. | 要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示） | `gmail_e` |
+| 2026-04-06 | 来 | Shantanu Rana | Can you text me on wats app | 对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库 | `gmail_e` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 2026-01~04 的回复正文未入库（只有索引）；WhatsApp 之后的进展只在 Simon 手机
 
 ## 基本事实（事实/推断/假设分层）
 

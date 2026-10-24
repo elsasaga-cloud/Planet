@@ -20624,7 +20624,37 @@
 },
 "email_hook": "Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.",
 "grade_override": "C",
-"override_reason": "c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现"
+"override_reason": "c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现",
+"mail_review": {
+"binding": {
+"level": "明确拒绝 + 退订（Elsa 邮箱 2025-10-13 Dawn Gumtow（Westward Sales）先按采购流程回问型号/数量/地址，同日「We are not interested in purchasing this product. Please take us off your emailing list.」）",
+"evidence": "Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）",
+"stop": "2025-10-13 退订",
+"revive": "不动（退订）",
+"sieve": "—（拒）",
+"lane": "US 四主但已退订",
+"type": "—",
+"cadence": "—"
+},
+"next_move": {
+"when": "不动",
+"channel": "—",
+"action": "—",
+"one_question": ""
+},
+"saga_now": {},
+"facts": [
+{
+"date": "2025-10-13",
+"dir": "来",
+"who": "Dawn Gumtow（Westward Sales, Sales Assistant）",
+"quote": "We are not interested in purchasing this product. Please take us off your emailing list.",
+"why": "明确退订请求——合规：所有三个邮箱停发",
+"k": "gmail_e"
+}
+],
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -52551,14 +52581,14 @@
 "email_hook": "Сайн байна уу — you said 16 ports rather than 24: the 16-PoE + 2-SFP managed unit is $137.5 EXW (1 pc), and there's a 10G-uplink version if your SFP+ customers need it; truck via Erenhot is fine for small lots. Which uplink do you want?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」）",
+"level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）",
 "type": "贸易商",
-"sieve": "—（未入筛）",
-"stop": "从未触达",
-"revive": "不动（非主攻区；J5：有证据再动）",
+"sieve": "2（问价/MOQ/保修）",
+"stop": "2025-10-30 来信后 Elsa 回复未入库",
+"revive": "补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌",
 "lane": "蒙古国 非主攻",
 "cadence": "不动",
-"evidence": "gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量"
+"evidence": "gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
 "need": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
@@ -52572,10 +52602,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "不动",
-"channel": "—",
-"action": "—",
-"one_question": ""
+"when": "2026-11",
+"channel": "Elsa 或 A 邮箱 → info@topica.mn",
+"action": "补答 + 一问",
+"one_question": "Bayar — list prices attached (MOQ 1 pc, 1-year warranty, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
 },
 "facts": [
 {
@@ -52585,10 +52615,18 @@
 "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-10-30",
+"dir": "来",
+"who": "A.Bayar（Topica LLC）",
+"quote": "May we have your price list, MOQ , Warranty information?",
+"why": "三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
-"无邮件往来"
+"Elsa 回复正文未入库"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -82542,18 +82580,18 @@
 "email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：have Routers with 1GE and 4 FE ports?」）",
+"level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）",
 "type": "—",
-"sieve": "—（未入筛）",
+"sieve": "—（需求路由器，非交换机）",
 "stop": "从未触达",
-"revive": "不动（非主攻区；J5：有证据再动）",
+"revive": "不动（需求不对口）",
 "lane": "巴基斯坦 非主攻",
 "cadence": "不动",
-"evidence": "gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇"
+"evidence": "gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
 "need": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
-"breakpoint": "需求为路由器（缺口）；巴基斯坦 L/C / 外汇",
+"breakpoint": "产品线不对口（路由器）",
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
@@ -82576,6 +82614,14 @@
 "quote": "回复：have Routers with 1GE and 4 FE ports?",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-04-09",
+"dir": "来",
+"who": "Faisal（International Technology Exchanger，PK）",
+"quote": "Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels",
+"why": "路由器 + VPN 规格 = 守界外（C10）；不设计绕路",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
@@ -106376,14 +106422,14 @@
 "email_hook": "Vinod, for the 24-PoE price you asked in June — $134.5 EXW at 1 pc (24 PoE + 4 uplinks, 280 W, Marvell); what carton quantity do you usually pull for CCTV jobs, 10 or 20?",
 "mail_review": {
 "binding": {
-"level": "读而不回（S 邮箱 12 封 2024，其中 3 封被打开，0 回；收件 gunjan@xexagon.co.in, info@xexagon.co.in；被打开主题「10G media converter、48 Port PoE Managed Switch」）",
+"level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）",
 "type": "—",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-"revive": "不动（Q-33）",
+"revive": "Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话",
 "lane": "IN 次级（点名）",
 "cadence": "不动",
-"evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位"
+"evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。",
 "need": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。",
@@ -106397,10 +106443,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "不动",
-"channel": "—",
-"action": "—",
-"one_question": ""
+"when": "待 Simon 定 Q-33",
+"channel": "WhatsApp（Simon）",
+"action": "一句话",
+"one_question": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?"
 },
 "facts": [
 {
@@ -106418,9 +106464,19 @@
 "quote": "10G media converter、48 Port PoE Managed Switch",
 "why": "12 封 / 3 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-06-04",
+"dir": "来",
+"who": "Vinod Tyagi（AGS Plus）",
+"quote": "Share the price. What's App.. Number +91 98105 61477",
+"why": "要价 + 给 WhatsApp = 想谈；但本户标 Q-33（供应商渠道）",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"Q-33 标记依据待核（供应商渠道客户不碰）"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -109720,14 +109776,14 @@
 "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：千兆PoE MC；回复：interested」）",
+"level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
-"revive": "不动（非主攻区；J5：有证据再动）",
+"revive": "不动（非主攻区；一句兴趣无需求）",
 "lane": "肯尼亚 非主攻",
 "cadence": "不动",
-"evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付"
+"evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
 "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
@@ -109754,6 +109810,14 @@
 "quote": "兴趣：千兆PoE MC；回复：interested",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-04-16",
+"dir": "来",
+"who": "Musine（肯尼亚，个人 gmail）",
+"quote": "Am good .... Am interested",
+"why": "一句兴趣，无需求细节；非主攻区",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
@@ -178203,14 +178267,14 @@
 ],
 "mail_review": {
 "binding": {
-"level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 4 封被打开，0 回；收件 lead@vintronsmartvision.com, sales@quippro.kz；被打开主题「48 Port PoE Managed Switch、24 Port PoE Managed Switch」）",
+"level": "合并档（三家不同公司被并成一户：Vintron Smart Vision 印度 / Quip Pro LLP 哈萨克斯坦 / AirLink iLife 台湾）；Elsa 邮箱各有一封实质回复：2026-02-06 Rahul Kansal（Vintron）「share brochure with technical sheet」；2026-03-12 Vadim Rudenko（Quip Pro，项目经理）「share your models for 10/25/100/400/800G switches and prices for MOQ and test samples」；2026-04-27 Leann（AirLink）「send price list」；S/A 邮箱 24 封 4 次打开 0 回",
 "type": "印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购）",
 "sieve": "2（有人在读，无人回）",
 "stop": "读而不回 = 内容未命中或没有当下需求",
-"revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+"revive": "先拆档（三户各自建档）再各回：Quip Pro 发 CENTEC 3 个有价型号 + 样机规则；Vintron 发 CENTEC 规格书；AirLink 发价表（同行，低优先）",
 "lane": "IN 次级（点名）",
 "cadence": "一封；回了再说",
-"evidence": "gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行"
+"evidence": "gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。",
 "need": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
@@ -178224,10 +178288,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "2026-11",
-"channel": "A 邮箱 → lead@vintronsmartvision.com",
-"action": "短信一问（email_hook）",
-"one_question": "Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?"
+"when": "2026-11（拆档后）",
+"channel": "Elsa 邮箱回原线程",
+"action": "拆档 + 各一问",
+"one_question": "Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?"
 },
 "facts": [
 {
@@ -178245,9 +178309,36 @@
 "quote": "48 Port PoE Managed Switch、24 Port PoE Managed Switch",
 "why": "24 封 / 4 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-02-06",
+"dir": "来",
+"who": "Rahul Kansal（Vintron Smart Vision，印度）",
+"quote": "Please share brochure with technical sheet to do further analysis.",
+"why": "CENTEC 核心信触发；印度 CCTV 制造商",
+"k": "gmail_e"
+},
+{
+"date": "2026-03-12",
+"dir": "来",
+"who": "Vadim Rudenko（QUIP PRO LLP，阿拉木图）",
+"quote": "Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples.",
+"why": "哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问",
+"k": "gmail_e"
+},
+{
+"date": "2026-04-27",
+"dir": "来",
+"who": "Leann（AirLink iLife Inc.，台湾）",
+"quote": "Can you send price list for viewing?",
+"why": "台湾同行式问价",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）",
+"Elsa 回复正文未入库"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -215137,14 +215228,14 @@
 "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MC1光2电千兆」）",
+"level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
-"revive": "不动（非主攻区；J5：有证据再动）",
+"revive": "一封目录信（8/16/24/48 口 + 工业款）即可；不追",
 "lane": "坦桑尼亚 非主攻",
 "cadence": "不动",
-"evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量"
+"evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
 "need": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
@@ -215158,10 +215249,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "不动",
-"channel": "—",
-"action": "—",
-"one_question": ""
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "目录 + 一问",
+"one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania?"
 },
 "facts": [
 {
@@ -215171,10 +215262,18 @@
 "quote": "兴趣：MC1光2电千兆",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-10-01",
+"dir": "来",
+"who": "Samuisso（TESCOM，坦桑尼亚）",
+"quote": "you have only 24 port and how many types of switch you have",
+"why": "问产品线广度 = 想要目录；非主攻区",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
-"无邮件往来"
+"Elsa 回复未入库"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -220358,18 +220457,18 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 9 封 2024→2025，无记录打开，0 回；收件 info@hfcl.com, iosales@hfcl.com；主题多为「Marvell Alleycat5 Solution、poe managed switch」）",
+"level": "轻度触达→明确门槛（Elsa 邮箱 6 封来信 2026-01-08 → 04-06，HFCL DGM Key Strategic Accounts Shantanu Rana：先问「MII 60% 怎么办」，再要「制造国 / 价格 / 型号 / IPR」、「进口到印度的 PO 与销售证明」，最后「text me on WhatsApp」；S/A 邮箱 9 封 0 回 — 之前判「未触达」是因为回信全在 Elsa 邮箱）",
 "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
-"sieve": "1（只收到群发）",
-"stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
-"lane": "IN 次级（点名）",
+"sieve": "3（要价要证要 WhatsApp，但 MII 门槛未解）",
+"stop": "Elsa 邮箱 2026-04-06 对方要 WhatsApp 后，邮件侧无记录",
+"revive": "Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续",
+"lane": "IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》）",
 "cadence": "季度",
-"evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径"
+"evidence": "gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。",
 "need": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
-"breakpoint": "体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径",
+"breakpoint": "MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」",
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 30,
@@ -220379,10 +220478,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": "Shantanu, following your reply: for the IO industrial switch line, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units under your label from small lots (−40~75 °C, CE/RoHS; BIS/SKD route to be discussed) — which model would you evaluate first?"
+"when": "2026-11（Simon 先定 MII 口径）",
+"channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
+"action": "一句话定调",
+"one_question": "Shantanu — straight answer on MII: we ship complete units from China; we do not have Indian assembly, so 60% local content is not achievable from our side unless you have a local assembly partner for SKD kits. Is that a route HFCL uses?"
 },
 "facts": [
 {
@@ -220400,9 +220499,44 @@
 "quote": "Marvell Alleycat5 Solution、poe managed switch",
 "why": "9 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2026-01-08",
+"dir": "来",
+"who": "Shantanu Rana（HFCL, DGM Key Strategic Accounts）",
+"quote": "How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also.",
+"why": "Make-in-India 60% 本地含量是 HFCL 采购的硬门槛——这不是价格问题，是「能否在印度组装/贴牌」的结构问题（C10 边界：Saga 不设厂）",
+"k": "gmail_e"
+},
+{
+"date": "2026-04-03",
+"dir": "来",
+"who": "Shantanu Rana",
+"quote": "Manufacturing country- Price- Model number IPR- Kindly share details",
+"why": "四件套问法 = 真实采购评估清单",
+"k": "gmail_e"
+},
+{
+"date": "2026-04-05",
+"dir": "来",
+"who": "Shantanu Rana",
+"quote": "if it is imported to India in latest, can we have the PO for reference and the proof of selling.",
+"why": "要印度进口先例（Saga 有 Sundar Techno 3 张 PI、Apollo 等印度往来可作 proof，但需 Simon 决定是否出示）",
+"k": "gmail_e"
+},
+{
+"date": "2026-04-06",
+"dir": "来",
+"who": "Shantanu Rana",
+"quote": "Can you text me on wats app",
+"why": "对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"Elsa 2026-01~04 的回复正文未入库（只有索引）",
+"WhatsApp 之后的进展只在 Simon 手机"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -306396,14 +306530,14 @@
 "email_hook": "Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?",
 "mail_review": {
 "binding": {
-"level": "未触达（S 邮箱 13 封 2024，无记录打开，0 回；收件 infoautomation18@gmail.com；主题多为「10G media converter、Web managed switch」）",
+"level": "未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"revive": "一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价）",
 "lane": "IN 次级（点名）",
 "cadence": "季度",
-"evidence": "gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS"
+"evidence": "gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。",
 "need": "其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。",
@@ -306417,10 +306551,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": "Azad, after the 2-SFP + 4-PoE datasheet — against the ONV unit you stock, ours is Marvell-based at $35 EXW (1 pc); want 2 samples to run side by side?"
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "补答 + 一问",
+"one_question": "Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW list); is it for a specific automation site?"
 },
 "facts": [
 {
@@ -306438,9 +306572,19 @@
 "quote": "10G media converter、Web managed switch",
 "why": "13 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-04-10",
+"dir": "来",
+"who": "Azad Khan（Automation Systems and Solution）",
+"quote": "Thanks First, we need datasheet",
+"why": "要 2 光 4 电工业 PoE（120W）规格书",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"Elsa 是否已回规格书未入库"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -310019,14 +310163,14 @@
 "email_hook": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 customerservice.pkj@gmail.com, info@pancakumala.co.id；主题多为「Industrial PoE Switch、24 Port Fiber Switch」）",
+"level": "未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"revive": "保持季度群发到 2027-Q1",
 "lane": "印度尼西亚 非主攻",
 "cadence": "季度",
-"evidence": "gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU"
+"evidence": "gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。",
 "need": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
@@ -310040,9 +310184,9 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
+"when": "2027-Q1",
 "channel": "A 邮箱",
-"action": "观察打开",
+"action": "季度",
 "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
 },
 "facts": [
@@ -310061,6 +310205,14 @@
 "quote": "Industrial PoE Switch、24 Port Fiber Switch",
 "why": "3 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-10-07",
+"dir": "来",
+"who": "Dian for Johandi Halim（PT PKJ，雅加达）",
+"quote": "（仅签名档，无正文）",
+"why": "空回复，不计实质",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [],
@@ -317699,14 +317851,14 @@
 "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「（用户表字段）」）",
+"level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
-"revive": "首封（具名 KP 优先，用研究档 email_hook）",
+"revive": "一句实话：无后置端口型号；问场景",
 "lane": "US 主攻（四主）",
 "cadence": "首封后看打开",
-"evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业"
+"evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
 "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
@@ -317720,10 +317872,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?"
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "一问",
+"one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
 },
 "facts": [
 {
@@ -317733,10 +317885,18 @@
 "quote": "（用户表字段）",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2025-06-29",
+"dir": "来",
+"who": "Michael（eminnovate.com）",
+"quote": "Very interesting Any rear facing port switches?",
+"why": "要后置端口机架机（数据中心/机柜走线）——Saga 商用线为前置端口；CENTEC 机型风道前后可选但端口仍前置",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
-"无邮件往来"
+"公司实体未核"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -324850,14 +325010,14 @@
 "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」）",
+"level": "未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
-"revive": "不动（非主攻区；J5：有证据再动）",
+"revive": "不动（非主攻区）",
 "lane": "越南 非主攻",
 "cadence": "不动",
-"evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低"
+"evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。",
 "need": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
@@ -324884,6 +325044,14 @@
 "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-02-13",
+"dir": "来",
+"who": "Lam Ho（Quang Lam，越南）",
+"quote": "（Gmail emoji reaction 💖，无正文）",
+"why": "非实质",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [
@@ -384616,14 +384784,14 @@
 "email_hook": "Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.",
 "mail_review": {
 "binding": {
-"level": "未触达（S 邮箱 3 封 2024，无记录打开，0 回；收件 info@citsindia.com；主题多为「Industrial PoE Switch、10G media converter」）",
+"level": "未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"revive": "一封正式报价单（$65 USD EXW，快照日期）+ 问数量",
 "lane": "IN 次级（点名）",
 "cadence": "季度",
-"evidence": "gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）"
+"evidence": "gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。",
 "need": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。",
@@ -384637,10 +384805,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": "Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet."
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "补答 + 一问",
+"one_question": "The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?"
 },
 "facts": [
 {
@@ -384658,6 +384826,14 @@
 "quote": "Industrial PoE Switch、10G media converter",
 "why": "3 封 / 0 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-06-17",
+"dir": "来",
+"who": "Core IT Solutions（Mumbai）",
+"quote": "Price pls",
+"why": "Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [],
@@ -390431,14 +390607,14 @@
 "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（5 封来信 2024-09 → 2025-01：Ravi 三次问「managed or unmanaged」、要 24V/48V 管理型 → $110 → 问 30V/55V（否）、要 24 口光纤款数据表；无样无单）",
+"level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）",
 "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
 "sieve": "3（问价 + 规格）",
 "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
-"revive": "不动；若做印度，用非管理 24V/48V 自动款 + 阶梯价",
+"revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
 "lane": "IN 非主攻",
 "cadence": "不动",
-"evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9"
+"evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "—",
 "need": "24V/48V 混供 PoE 管理型。",
@@ -390452,10 +390628,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "不动",
-"channel": "—",
-"action": "—",
-"one_question": ""
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "补答",
+"one_question": "Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?"
 },
 "facts": [
 {
@@ -390465,9 +390641,19 @@
 "quote": "I need manage switch for 24V/48V POE.",
 "why": "需求",
 "k": "e3fdaaebc77d14ee"
+},
+{
+"date": "2025-12-08",
+"dir": "来",
+"who": "Ravi（Apollo Infoways）",
+"quote": "How about Console port and management ports.",
+"why": "问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"Elsa 回复未入库"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -407435,18 +407621,18 @@
 "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?",
 "mail_review": {
 "binding": {
-"level": "未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 info@andatelecom.com, info@andatelecomindia.com；主题多为「48 Port PoE Managed Switch、24V poe switch」）",
+"level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）",
 "type": "—",
-"sieve": "1~2（1 次打开）",
-"stop": "只打通用邮箱，无记录打开",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"sieve": "3（要了规格书、给了卡点）",
+"stop": "2026-08-04 对方「will check」后无下文（Elsa 侧）",
+"revive": "一封实话：AC5 固件堆叠的真实边界（见 SB-924 口径）+ 问「堆叠是标书硬条款还是运维习惯」",
 "lane": "IN 次级（点名）",
 "cadence": "季度",
-"evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）"
+"evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的」；研究档 risks：EDFA 为其兴趣点（Saga 无）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。",
 "need": "对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。",
-"breakpoint": "EDFA 为其兴趣点（Saga 无）",
+"breakpoint": "堆叠（stacking）被视为必需；AC5 口径与 Versitron 同题",
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 30,
@@ -407456,10 +407642,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?"
+"when": "2026-11",
+"channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
+"action": "只问一句",
+"one_question": "Subhash — on stacking: our AC5 units stack in firmware but are not Catalyst-class (no dedicated stack ports / single-image chassis). Is stacking a tender clause for your projects, or an operations preference that ERPS + 10G uplinks could satisfy?"
 },
 "facts": [
 {
@@ -407477,9 +407663,35 @@
 "quote": "48 Port PoE Managed Switch、24V poe switch",
 "why": "9 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-06-17",
+"dir": "来",
+"who": "Harish Gupta（Director, ANDA Telecom）",
+"quote": "Dear Nitin/Subhash Please reply.",
+"why": "董事把 Elsa 的 16 口信转给采购两人 = 内部有兴趣",
+"k": "gmail_e"
+},
+{
+"date": "2026-08-04",
+"dir": "来",
+"who": "Subhash（ANDA Telecom）",
+"quote": "First share us data sheet for the same",
+"why": "24 口 PoE（AC5）信当天要规格书",
+"k": "gmail_e"
+},
+{
+"date": "2026-08-04",
+"dir": "来",
+"who": "Subhash",
+"quote": "we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory)",
+"why": "卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需",
+"k": "gmail_e"
 }
 ],
-"proof_gaps": [],
+"proof_gaps": [
+"Elsa 2026-08-04 发出的规格书型号未入库"
+],
 "draft_en": null,
 "as_of": "2026-10-24"
 }
@@ -481266,14 +481478,14 @@
 "email_hook": "（不主动发送）",
 "mail_review": {
 "binding": {
-"level": "未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 dbjcontrad@hotmail.com；主题多为「48 port managed switch、10G media converter」）",
+"level": "未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）",
 "type": "—",
 "sieve": "1~2（1 次打开）",
 "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"revive": "一封规格书即可；不追",
 "lane": "赞比亚 非主攻",
 "cadence": "季度",
-"evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明"
+"evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
 },
 "situation": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
 "need": "Cisco / DAC 需求不在 Saga 线。",
@@ -481287,10 +481499,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": ""
+"when": "2026-11（顺手）",
+"channel": "Elsa 邮箱回原线程",
+"action": "补答",
+"one_question": "Datasheet attached; which project is the 24-SFP unit for, and how many sites?"
 },
 "facts": [
 {
@@ -481308,6 +481520,14 @@
 "quote": "48 port managed switch、10G media converter",
 "why": "8 封 / 1 次打开 / 0 回",
 "k": "gmail_digest"
+},
+{
+"date": "2025-10-05",
+"dir": "来",
+"who": "dbjcontrad（赞比亚）",
+"quote": "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…",
+"why": "要规格书 + 追问；非主攻区，个人邮箱",
+"k": "gmail_e"
 }
 ],
 "proof_gaps": [],

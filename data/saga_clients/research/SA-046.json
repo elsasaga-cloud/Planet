@@ -1,132 +1,162 @@
 {
- "code": "SA-046",
- "name_official": "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）",
- "website_status": "在线",
- "summary": "美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。 【2025-10-13 对方明确退订：Please take us off your emailing list → 改 C，不再触达。】",
- "type": "增值分销商/电商平台（工业）",
- "size": "2–10 人（LinkedIn）",
- "brands_seen": [
-  "Antaira",
-  "TRENDnet",
-  "Lanner",
-  "Axiomtek",
-  "Black Box"
- ],
- "evidence": [
-  {
-   "kind": "官网博客",
-   "claim": "创始人与定位",
-   "quote": "Since founding Westward Sales in 2016, he has grown the company into an award-winning distributor of ruggedized computing, 5G cellular routers, industrial Ethernet switches, and Starlink solutions, serving commercial and government projects across energy, utilities, transportation, and automation.",
-   "url": "https://www.westwardsales.com/blog/exploring-industrial-wi-fi-mesh-network-systems/",
-   "date": "2026-10-21"
+  "code": "SA-046",
+  "name_official": "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）",
+  "website_status": "在线",
+  "summary": "美国科罗拉多的工业电子增值分销商（2016 年由 Kelvin Aist 创立，2–10 人），线上平台销售工业以太网交换机（2–48 口、至 10G）、蜂窝路由器、MC、串口设备服务器、Starlink、工控机，代理 TRENDnet、Antaira、Lanner、Axiomtek、Black Box 等；客户为能源、公用事业、交通、自动化及政府项目。用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS / 光猫 / PoE，主推 Antaira 的销售平台。 【2025-10-13 对方明确退订：Please take us off your emailing list → 改 C，不再触达。】",
+  "type": "增值分销商/电商平台（工业）",
+  "size": "2–10 人（LinkedIn）",
+  "brands_seen": [
+    "Antaira",
+    "TRENDnet",
+    "Lanner",
+    "Axiomtek",
+    "Black Box"
+  ],
+  "evidence": [
+    {
+      "kind": "官网博客",
+      "claim": "创始人与定位",
+      "quote": "Since founding Westward Sales in 2016, he has grown the company into an award-winning distributor of ruggedized computing, 5G cellular routers, industrial Ethernet switches, and Starlink solutions, serving commercial and government projects across energy, utilities, transportation, and automation.",
+      "url": "https://www.westwardsales.com/blog/exploring-industrial-wi-fi-mesh-network-systems/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（LinkedIn）",
+      "claim": "规模",
+      "quote": "Westward Sales … Company size: 2-10 employees · Headquarters: Aurora, CO · Founded: 2016 · Specialties: industrial electronics, SFP modules, media converters, industrial ethernet switches",
+      "url": "https://www.linkedin.com/company/westward-sales",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（Crunchbase）",
+      "claim": "公开销售邮箱与电话",
+      "quote": "720-870-4500 · sales@westwardsales.com",
+      "url": "https://www.crunchbase.com/organization/westward-sales",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Antaira LNP-0800G 平台售价、选项与交期",
+      "quote": "Antaira LNP-0800G (-24 -T) Industrial 8-Port PoE+ Gigabit Unmanaged Ethernet Switch … Availability: 3 - 4 Weeks or Less … $452.00 … 9 to 55 VDC | Standard, -10 to 65°C (+$182.00) … Extended, -40 to 75°C (+$216.00)",
+      "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "IP67 M12 版 $1,618（Saga 不做）",
+      "quote": "Antaira LNP-0800G-M12-67-24 (-T) 8-Port PoE Unmanaged 1Gb Ethernet Switch, IP67 … $1,618.00",
+      "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Gmail 回复（Elsa 邮箱）",
+      "claim": "明确退订",
+      "quote": "We are not interested in purchasing this product. Please take us off your emailing list. WestwardSales.com … Dawn Gumtow Sales Assistant o: 720.870.4500, x705",
+      "url": "gmail:e.sagatelecom thread 19980d2770e487b1",
+      "date": "2025-10-13"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Kelvin Aist",
+      "role": "创始人/负责人",
+      "email": "sales@westwardsales.com",
+      "phone": "+1 720-870-4500",
+      "source": "https://www.crunchbase.com/organization/westward-sales"
+    }
+  ],
+  "notes": "A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
   },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "规模",
-   "quote": "Westward Sales … Company size: 2-10 employees · Headquarters: Aurora, CO · Founded: 2016 · Specialties: industrial electronics, SFP modules, media converters, industrial ethernet switches",
-   "url": "https://www.linkedin.com/company/westward-sales",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "Westward Sales, Inc.",
+    "founded": "2016（Kelvin Aist）",
+    "hq": "Buena Vista / Aurora, Colorado, USA",
+    "staff": "2–10",
+    "other": "工业电子线上增值分销平台（Antaira 为主推，另 TRENDnet/Lanner/Axiomtek/Black Box），Antaira 8 口 PoE 非管理标价 $452 起、IP67 版 $1,618"
   },
-  {
-   "kind": "第三方（Crunchbase）",
-   "claim": "公开销售邮箱与电话",
-   "quote": "720-870-4500 · sales@westwardsales.com",
-   "url": "https://www.crunchbase.com/organization/westward-sales",
-   "date": "2026-10-21"
+  "business_lines": [
+    "工业以太网交换机（2–48 口至 10G）",
+    "蜂窝路由器、MC、串口服务器、Starlink、工控机",
+    "客户：能源、公用事业、交通、自动化、政府项目"
+  ],
+  "products_seen": [
+    {
+      "brand": "Antaira",
+      "model": "LNP-0800G（-24 / -T）",
+      "spec": "工业 8×GE PoE+ 30W/口 非管理，48–55VDC（-24 版 9–55V），IP30，DIN，5 年保；$452 起（-24 +$182，-T +$216）",
+      "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（EXW $140–152 vs 零售 $452–668）"
+    },
+    {
+      "brand": "Antaira",
+      "model": "LNP-0800G-M12-67-24",
+      "spec": "IP67 M12 8 口 PoE，$1,618——Saga 不做 IP67/M12",
+      "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
+      "date": "2026-10-21",
+      "saga": "—（守界）"
+    },
+    {
+      "brand": "Antaira",
+      "model": "LNP-C501G-SFP-bt-24",
+      "spec": "5 口紧凑工业 bt + SFP，$966",
+      "url": "https://www.antaira.com/products/gigabit-unmanaged-poe",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    }
+  ],
+  "channels": {
+    "网站/平台": "https://westwardsales.com/（Request a Volume Quote）",
+    "直邮": "sales@westwardsales.com（Kelvin Aist，用户表）"
   },
-  {
-   "kind": "官网",
-   "claim": "Antaira LNP-0800G 平台售价、选项与交期",
-   "quote": "Antaira LNP-0800G (-24 -T) Industrial 8-Port PoE+ Gigabit Unmanaged Ethernet Switch … Availability: 3 - 4 Weeks or Less … $452.00 … 9 to 55 VDC | Standard, -10 to 65°C (+$182.00) … Extended, -40 to 75°C (+$216.00)",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
-   "date": "2026-10-21"
+  "signals": [
+    "平台 Antaira 交付期标注 3–4 周，价格 $452–668——Saga 10–15 天交期 + EXW 价是明确差异化（2026-10-21）",
+    "用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS/光猫/PoE，主推 Antaira"
+  ],
+  "risks": [
+    "平台型分销商以品牌商品为主，接受无牌/白牌需有产品页素材（英文规格书、UL/FCC 说明、保修条款）",
+    "政府/公用事业项目要 TAA/UL——不报"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档"
   },
-  {
-   "kind": "官网",
-   "claim": "IP67 M12 版 $1,618（Saga 不做）",
-   "quote": "Antaira LNP-0800G-M12-67-24 (-T) 8-Port PoE Unmanaged 1Gb Ethernet Switch, IP67 … $1,618.00",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Gmail 回复（Elsa 邮箱）",
-   "claim": "明确退订",
-   "quote": "We are not interested in purchasing this product. Please take us off your emailing list. WestwardSales.com … Dawn Gumtow Sales Assistant o: 720.870.4500, x705",
-   "url": "gmail:e.sagatelecom thread 19980d2770e487b1",
-   "date": "2025-10-13"
+  "email_hook": "Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.",
+  "grade_override": "C",
+  "override_reason": "c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现",
+  "mail_review": {
+    "binding": {
+      "level": "明确拒绝 + 退订（Elsa 邮箱 2025-10-13 Dawn Gumtow（Westward Sales）先按采购流程回问型号/数量/地址，同日「We are not interested in purchasing this product. Please take us off your emailing list.」）",
+      "evidence": "Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）",
+      "stop": "2025-10-13 退订",
+      "revive": "不动（退订）",
+      "sieve": "—（拒）",
+      "lane": "US 四主但已退订",
+      "type": "—",
+      "cadence": "—"
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "saga_now": {},
+    "facts": [
+      {
+        "date": "2025-10-13",
+        "dir": "来",
+        "who": "Dawn Gumtow（Westward Sales, Sales Assistant）",
+        "quote": "We are not interested in purchasing this product. Please take us off your emailing list.",
+        "why": "明确退订请求——合规：所有三个邮箱停发",
+        "k": "gmail_e"
+      }
+    ],
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Kelvin Aist",
-   "role": "创始人/负责人",
-   "email": "sales@westwardsales.com",
-   "phone": "+1 720-870-4500",
-   "source": "https://www.crunchbase.com/organization/westward-sales"
-  }
- ],
- "notes": "A 维持（美国工业分销 + 已回复 + 名字明确）；它是品牌平台（Antaira 等）而非贴牌，切入点是「平台自有标签入门款 / 价格带补位」；P1 = STI-288DGGPM，20% 分销档；只报 CE/FCC，不承诺 UL/C1D2。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Westward Sales, Inc.",
-  "founded": "2016（Kelvin Aist）",
-  "hq": "Buena Vista / Aurora, Colorado, USA",
-  "staff": "2–10",
-  "other": "工业电子线上增值分销平台（Antaira 为主推，另 TRENDnet/Lanner/Axiomtek/Black Box），Antaira 8 口 PoE 非管理标价 $452 起、IP67 版 $1,618"
- },
- "business_lines": [
-  "工业以太网交换机（2–48 口至 10G）",
-  "蜂窝路由器、MC、串口服务器、Starlink、工控机",
-  "客户：能源、公用事业、交通、自动化、政府项目"
- ],
- "products_seen": [
-  {
-   "brand": "Antaira",
-   "model": "LNP-0800G（-24 / -T）",
-   "spec": "工业 8×GE PoE+ 30W/口 非管理，48–55VDC（-24 版 9–55V），IP30，DIN，5 年保；$452 起（-24 +$182，-T +$216）",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-unmanaged-ethernet-switch",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（EXW $140–152 vs 零售 $452–668）"
-  },
-  {
-   "brand": "Antaira",
-   "model": "LNP-0800G-M12-67-24",
-   "spec": "IP67 M12 8 口 PoE，$1,618——Saga 不做 IP67/M12",
-   "url": "https://westwardsales.com/antaira-lnp-0800g-ethernet-switch",
-   "date": "2026-10-21",
-   "saga": "—（守界）"
-  },
-  {
-   "brand": "Antaira",
-   "model": "LNP-C501G-SFP-bt-24",
-   "spec": "5 口紧凑工业 bt + SFP，$966",
-   "url": "https://www.antaira.com/products/gigabit-unmanaged-poe",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  }
- ],
- "channels": {
-  "网站/平台": "https://westwardsales.com/（Request a Volume Quote）",
-  "直邮": "sales@westwardsales.com（Kelvin Aist，用户表）"
- },
- "signals": [
-  "平台 Antaira 交付期标注 3–4 周，价格 $452–668——Saga 10–15 天交期 + EXW 价是明确差异化（2026-10-21）",
-  "用户表：E 已回复 1 次且回复中有详细联系方式，兴趣工业 FS/光猫/PoE，主推 Antaira"
- ],
- "risks": [
-  "平台型分销商以品牌商品为主，接受无牌/白牌需有产品页素材（英文规格书、UL/FCC 说明、保修条款）",
-  "政府/公用事业项目要 TAA/UL——不报"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "平台主销 Antaira LNP-0800G（8 GE PoE+ 工业非管理 $452）→ Saga STI-288DGGPM（管理型，EXW $139.9 @20%）可作「value line」上架；4+1 位 STI-144GP；分销 20% 档"
- },
- "email_hook": "Next to the Antaira LNP-0800G at 452 dollars with a 3–4 week lead time, a Marvell-based 8-port gigabit PoE+ managed DIN switch shipping in 10–15 days at EXW pricing gives you a value-line listing, so that is the unit I am quoting with a 5-port version as the second SKU.",
- "grade_override": "C",
- "override_reason": "c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list），任何账号不再发；T29-U6 Elsa 邮箱核对发现"
 }

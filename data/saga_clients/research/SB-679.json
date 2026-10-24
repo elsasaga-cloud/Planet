@@ -1,130 +1,140 @@
 {
- "code": "SB-679",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（apolloinfoways.in，快照 2026-10-21）",
- "summary": "印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。",
- "type": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
- "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "丰润达",
-  "AOA"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：WatchDog | Enterprise Networking, Data Center, Cloud & Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
-   "url": "https://www.mywatchdog.in/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "WatchDog：企业网络 / 数据中心 / 云 / 无线 / 安全 / 自动化方案",
-   "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
-   "url": "https://www.mywatchdog.in/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "买丰润达商业 PoE、AOA 工业 FS",
-   "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ravi Prakash",
-   "title": "Founder & CEO",
-   "email": "ravi@apolloinfoways.in",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "印度",
-  "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "企业网络 / 数据中心 / 安全（自有品牌 WatchDog）"
- ],
- "channels": {
-  "role": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
-  "region": "印度",
-  "contact": "ravi@apolloinfoways.in、info@apolloinfoways.in"
- },
- "signals": [
-  "站内型号 WD6822-24X6H / WD6822-48X6H / WD5890 / WD25000AI（自有）",
-  "官网：Enterprise Networking, Data Center, Cloud & Security；品类 Switch / Router / Wireless / Server / Firewall / SFP",
-  "KP：Ravi Prakash / Founder & CEO（表内）"
- ],
- "risks": [
-  "印度 BIS 认证：由客户以其品牌取证（Saga 提供测试报告）",
-  "现供应商丰润达 / AOA：价格基准低；非主攻区（T5）",
-  "数据中心级（WD6822 24×10G + 6×100G）Saga 不做"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做"
- },
- "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（5 封来信 2024-09 → 2025-01：Ravi 三次问「managed or unmanaged」、要 24V/48V 管理型 → $110 → 问 30V/55V（否）、要 24 口光纤款数据表；无样无单）",
-   "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
-   "sieve": "3（问价 + 规格）",
-   "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
-   "revive": "不动；若做印度，用非管理 24V/48V 自动款 + 阶梯价",
-   "lane": "IN 非主攻",
-   "cadence": "不动",
-   "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9"
-  },
-  "situation": "—",
-  "need": "24V/48V 混供 PoE 管理型。",
-  "breakpoint": "价格段。",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "$110（2024-09）",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-09-18",
-    "dir": "来",
-    "who": "Ravi",
-    "quote": "I need manage switch for 24V/48V POE.",
-    "why": "需求",
-    "k": "e3fdaaebc77d14ee"
-   }
+  "code": "SB-679",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（apolloinfoways.in，快照 2026-10-21）",
+  "summary": "印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。",
+  "type": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti",
+    "丰润达",
+    "AOA"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：WatchDog | Enterprise Networking, Data Center, Cloud & Security；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+      "url": "https://www.mywatchdog.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "WatchDog：企业网络 / 数据中心 / 云 / 无线 / 安全 / 自动化方案",
+      "quote": "WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+      "url": "https://www.mywatchdog.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "买丰润达商业 PoE、AOA 工业 FS",
+      "quote": "买丰润达的商业PoE 工业FS AOA的 8 PORT ROUTER WIRED",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ravi Prakash",
+      "title": "Founder & CEO",
+      "email": "ravi@apolloinfoways.in",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 apolloinfoways.in，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "企业网络 / 数据中心 / 安全（自有品牌 WatchDog）"
+  ],
+  "channels": {
+    "role": "印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购）",
+    "region": "印度",
+    "contact": "ravi@apolloinfoways.in、info@apolloinfoways.in"
+  },
+  "signals": [
+    "站内型号 WD6822-24X6H / WD6822-48X6H / WD5890 / WD25000AI（自有）",
+    "官网：Enterprise Networking, Data Center, Cloud & Security；品类 Switch / Router / Wireless / Server / Firewall / SFP",
+    "KP：Ravi Prakash / Founder & CEO（表内）"
+  ],
+  "risks": [
+    "印度 BIS 认证：由客户以其品牌取证（Saga 提供测试报告）",
+    "现供应商丰润达 / AOA：价格基准低；非主攻区（T5）",
+    "数据中心级（WD6822 24×10G + 6×100G）Saga 不做"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "现从丰润达采购商业 PoE、AOA 工业 FS → Saga 作 Marvell 平台二供：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchDog 标；24 口 STC-424DGGPM-280W；10G 汇聚 STC-424XGGM；数据中心 WD6822（24×10G/6×100G）Saga 不做"
+  },
+  "email_hook": "Ravi, for the WatchDog access-switch range you currently source from Fengrunda and AOA, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models under your label from small lots, with CE/RoHS/FCC reports for your BIS file — which model is due for a second source first?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）",
+      "type": "印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段",
+      "sieve": "3（问价 + 规格）",
+      "stop": "管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持",
+      "revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
+      "lane": "IN 非主攻",
+      "cadence": "不动",
+      "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+    },
+    "situation": "—",
+    "need": "24V/48V 混供 PoE 管理型。",
+    "breakpoint": "价格段。",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "$110（2024-09）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11（顺手）",
+      "channel": "Elsa 邮箱回原线程",
+      "action": "补答",
+      "one_question": "Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?"
+    },
+    "facts": [
+      {
+        "date": "2024-09-18",
+        "dir": "来",
+        "who": "Ravi",
+        "quote": "I need manage switch for 24V/48V POE.",
+        "why": "需求",
+        "k": "e3fdaaebc77d14ee"
+      },
+      {
+        "date": "2025-12-08",
+        "dir": "来",
+        "who": "Ravi（Apollo Infoways）",
+        "quote": "How about Console port and management ports.",
+        "why": "问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库",
+        "k": "gmail_e"
+      }
+    ],
+    "proof_gaps": [
+      "Elsa 回复未入库"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

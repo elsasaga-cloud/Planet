@@ -36,25 +36,29 @@ updated: 2026-10-24
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-04 → 2025-10-02）；最近一次客户回复：2025-06-04：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：不动 — —
+- **下一步**：待 Simon 定 Q-33 WhatsApp（Simon） 一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-099` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（S 邮箱 12 封 2024，其中 3 封被打开，0 回；收件 gunjan@xexagon.co.in, info@xexagon.co.in；被打开主题「10G media converter、48 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位
+- **绑定等级：读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话 ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。
 - **对方真实需求（有据）**：24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
 - **断点 / 为什么停在这里**：新桥价格基准低；官网占位
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit））——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：待 Simon 定 Q-33　WhatsApp（Simon）　一句话
+  - 第一问（只问一个）：Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price | 表内备注 | `用户表` |
 | 2024 | 去 | S 群发 | 10G media converter、48 Port PoE Managed Switch | 12 封 / 3 次打开 / 0 回 | `gmail_digest` |
+| 2025-06-04 | 来 | Vinod Tyagi（AGS Plus） | Share the price. What's App.. Number +91 98105 61477 | 要价 + 给 WhatsApp = 想谈；但本户标 Q-33（供应商渠道） | `gmail_e` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Q-33 标记依据待核（供应商渠道客户不碰）
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -34,26 +34,31 @@ updated: 2026-10-24
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?
+- **第一问（只问一个）**：Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → lead@vintronsmartvision.com 短信一问（email_hook）
+- **下一步**：2026-11（拆档后） Elsa 邮箱回原线程 拆档 + 各一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-121` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 4 封被打开，0 回；收件 lead@vintronsmartvision.com, sales@quippro.kz；被打开主题「48 Port PoE Managed Switch、24 Port PoE Managed Switch」）** ｜ 类型：印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：IN 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行
+- **绑定等级：合并档（三家不同公司被并成一户：Vintron Smart Vision 印度 / Quip Pro LLP 哈萨克斯坦 / AirLink iLife 台湾）；Elsa 邮箱各有一封实质回复：2026-02-06 Rahul Kansal（Vintron）「share brochure with technical sheet」；2026-03-12 Vadim Rudenko（Quip Pro，项目经理）「share your models for 10/25/100/400/800G switches and prices for MOQ and test samples」；2026-04-27 Leann（AirLink）「send price list」；S/A 邮箱 24 封 4 次打开 0 回** ｜ 类型：印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：先拆档（三户各自建档）再各回：Quip Pro 发 CENTEC 3 个有价型号 + 样机规则；Vintron 发 CENTEC 规格书；AirLink 发价表（同行，低优先） ｜ 通路：IN 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 4（Simon 群发追踪）；用户表：「PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联」；研究档 risks：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。
 - **对方真实需求（有据）**：自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
 - **断点 / 为什么停在这里**：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
-- **下一步（具体）**：2026-11　A 邮箱 → lead@vintronsmartvision.com　短信一问（email_hook）
-  - 第一问（只问一个）：Varun, for the Vintron PoE switch range (VS-POE series), we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model and supply unmanaged 8/16-port PoE as full units or SKD kits for your Delhi line, with CE/RoHS/FCC reports for your BIS file — which do you need first, the managed 8-port or the unmanaged?
+- **下一步（具体）**：2026-11（拆档后）　Elsa 邮箱回原线程　拆档 + 各一问
+  - 第一问（只问一个）：Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
 | 2026 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24 Port PoE Managed Switch | 24 封 / 4 次打开 / 0 回 | `gmail_digest` |
+| 2026-02-06 | 来 | Rahul Kansal（Vintron Smart Vision，印度） | Please share brochure with technical sheet to do further analysis. | CENTEC 核心信触发；印度 CCTV 制造商 | `gmail_e` |
+| 2026-03-12 | 来 | Vadim Rudenko（QUIP PRO LLP，阿拉木图） | Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples. | 哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问 | `gmail_e` |
+| 2026-04-27 | 来 | Leann（AirLink iLife Inc.，台湾） | Can you send price list for viewing? | 台湾同行式问价 | `gmail_e` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；Elsa 回复正文未入库
 
 ## 基本事实（事实/推断/假设分层）
 

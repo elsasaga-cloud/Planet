@@ -36,26 +36,28 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/蒙古国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-06 → 2025-11-06）；最近一次客户回复：2025-11-06：需要16 port的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Bayar — list prices attached (MOQ 1 pc, 1-year warranty, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：不动 — —
+- **下一步**：2026-11 Elsa 或 A 邮箱 → info@topica.mn 补答 + 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」）** ｜ 类型：贸易商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量
+- **绑定等级：轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）** ｜ 类型：贸易商 ｜ 筛子：2（问价/MOQ/保修） ｜ 停点：2025-10-30 来信后 Elsa 回复未入库 ｜ 复活：补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌 ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。
 - **对方真实需求（有据）**：16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
 - **断点 / 为什么停在这里**：蒙古物流（经二连浩特陆运）与小量
 - **Saga 现在该推什么**：P1 **STC-2216GPM**（20% 档，按主表（研究档 saga_fit））——16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：2026-11　Elsa 或 A 邮箱 → info@topica.mn　补答 + 一问
+  - 第一问（只问一个）：Bayar — list prices attached (MOQ 1 pc, 1-year warranty, lifetime support). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP switch 很多外壳；回复：需要16 port的 | 表内备注 | `用户表` |
+| 2025-10-30 | 来 | A.Bayar（Topica LLC） | May we have your price list, MOQ , Warranty information? | 三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库 | `gmail_e` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 回复正文未入库
 
 ## 基本事实（事实/推断/假设分层）
 
