@@ -6841,7 +6841,7 @@
 "p1": "STC-4168XGGCM（在产第 6 单）",
 "tier": 30,
 "price": "第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd",
-"why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书",
+"why": "唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销",
 "repeat": [
 "STC-4168XGGCM 双 AC（第 5、6 单）",
 "2025-09 AC5 样机 1 台"
@@ -7542,7 +7542,7 @@
 "p1": "STI-288DGGPM 对位 IM-FS280GW",
 "tier": 20,
 "price": "—",
-"why": "已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -9149,7 +9149,7 @@
 "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
 "tier": 30,
 "price": "历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
-"why": "J4：只追 bypass 一条线（差异品），16 口价格战不追。已打开的主题（6/35 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-03-05)、「Re: 16 Port Ethernet Switch」(2025-04-07)、「Managed Optical Bypass Switch」(2025-05-20)、「Re: Managed Optical Bypass Switch」(2025-05-26) → 读者兴趣偏「其他」；当前 P1 属「旁路/Booster」，下一封按「其他」给，不按 P1",
+"why": "J4：只追 bypass 一条线（差异品），16 口价格战不追。已打开的主题（6/35 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-03-05)、「Re: 16 Port Ethernet Switch」(2025-04-07)、「Managed Optical Bypass Switch」(2025-05-20)、「Re: Managed Optical Bypass Switch」(2025-05-26) → 读者兴趣偏「其他」；当前 P1 属「旁路/Booster」，下一封按「其他」给，不按 P1 最近一封去信是 2026-09-23 A 邮箱 16 口 DIN PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "370W 外壳款的 SmartByte 型号与价格未在 `价格主表` 标出",
@@ -12135,7 +12135,7 @@
 "p1": "STI-288DGGPM",
 "tier": 30,
 "price": "—",
-"why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
+"why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -22699,7 +22699,7 @@
 "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
 "tier": 25,
 "price": "按 CENTEC ≥35% 底线复核",
-"why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "STH-8C24XF-HSI 现货状态（Alan 说无货）"
@@ -24319,7 +24319,7 @@
 "p1": "STI-288DGGPM 对位 RF-GP2803PGM",
 "tier": 20,
 "price": "—",
-"why": "已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-25 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -31444,7 +31444,7 @@
 "p1": "STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件",
 "tier": 20,
 "price": "按 20% 分销档",
-"why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+"why": "J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": "ISO 9001/14001 = SmartByte 官网自述（docs/smartbyte/新闻与固件说明），证书文件仓库无 → 信里写 copy on request；RED/EN 18031 不适用于无线电以外设备为法规事实"
 },
@@ -35094,7 +35094,7 @@
 "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
 "tier": 30,
 "price": "按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）",
-"why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
+"why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "Lanberg 现有 MC 型号与售价（官网可查，未做）",
@@ -42789,7 +42789,7 @@
 "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
 "tier": 25,
 "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）",
-"why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1",
+"why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核",
@@ -51386,7 +51386,7 @@
 "p1": "STI-288DGGPM",
 "tier": 25,
 "price": "—",
-"why": "已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+"why": "已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -82526,7 +82526,7 @@
 "p1": "STC-448XGGPM",
 "tier": 20,
 "price": "€280（2024-11）",
-"why": "意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -204618,13 +204618,13 @@
 "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
 "mail_review": {
 "binding": {
-"level": "轻度触达（2026-10-03 一封实质来信：「This actually does have my interest. What levels of customization are offered? …api availability for controller integration」→ Simon 10-04 列出 OEM 定制清单；API 问题未直接回答）",
+"level": "轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回）",
 "type": "美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API",
 "sieve": "2",
 "stop": "API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记）",
 "revive": "直说 SNMP + CLI 自动化可做、REST/云控不做",
 "lane": "US 主攻",
-"cadence": "一封",
+"cadence": "来 1（10-03）/ 去 3（10-03 群发、10-04 长回、10-19 催）；最后动作是 Saga",
 "evidence": "k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）"
 },
 "situation": "新线索（3 周前），技术诉求明确。",
@@ -204641,10 +204641,10 @@
 ]
 },
 "next_move": {
-"when": "现在",
-"channel": "S 邮箱 → cfikes@fikesmedia.com",
-"action": "直说 API 边界",
-"one_question": "Christopher — integration today is SNMP v2/v3 + CLI (scriptable), no REST/cloud controller; which controller are you integrating with, so we can confirm what it can poll/set?"
+"when": "2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发）",
+"channel": "S 邮箱 → cfikes@fikesmedia.com（同一线程）",
+"action": "一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样",
+"one_question": "Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples."
 },
 "facts": [
 {
@@ -204654,12 +204654,28 @@
 "quote": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration.",
 "why": "API 诉求",
 "k": "af638fab0ab5ad29"
+},
+{
+"date": "2026-10-04",
+"dir": "去",
+"who": "Simon → Christopher Fikes",
+"quote": "1. Customization: logo / Packaging / PVC mask / label / model name / SN / manual / default IP / SNMP OID / Web GUI language… firmware customization subject to technical evaluation. 2. Controller Integration / API: could you share a little more about your controller architecture? REST API / SNMP / SSH-CLI / NETCONF / another platform… 3. Datasheet, Web manual, Feature List, MIB Manual attached. 4. \"It's about function, not vendors\" on your website… are you mainly evaluating for: consulting lab / customer deployments / private-label (OEM)?",
+"why": "Simon 已经回了定制清单并把 API 问题反问回去（没有直说「无 REST」）；10-19 又催了一次「Any feedback… Maybe arrange 2 samples?」——两封去信无回。档案原来的「现在：直说 API 边界」已过时：现在不该再发第三封，等到 11 月上旬只补一句「SNMP/CLI 即可，REST 没有」",
+"k": "gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）"
+},
+{
+"date": "2026-10-19",
+"dir": "去",
+"who": "Simon → Christopher Fikes",
+"quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
+"why": "15 天内第二封去信无回；美国 SOHO 咨询商（Owner 一人）10-03 的热情之后沉默——按「只问一句」规则，下一封放到 2026-11 上旬，且要把 10-04 没说清的 API 边界一句说死",
+"k": "gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）"
 }
 ],
 "proof_gaps": [],
 "draft_en": {
-"subject": "Re: customization and API — straight answer",
-"body": "Hi, Christopher,\n\nThank you for your interest in customization and API access for controller integration.\n\nStraight answer: today the switches are managed by SNMP v2/v3 (standard MIBs + private OID), CLI (SSH, scriptable) and the web GUI; there is no REST API or cloud controller. OEM customization covers logo, model name, GUI, default config and packaging.\n\nThe 24-port GbE PoE 280W + 4x 10G SFP+ unit is $180 USD EXW (quoted Oct 2026, valid 15 days).\n\nOne question: which controller or NMS are you integrating with (e.g. LibreNMS/Zabbix, or a vendor controller)? Then I can confirm exactly what it can poll and set.\n\nThank you.\nSimon"
+"subject": "Re: 24 Port PoE Managed Switch — one straight answer on API",
+"body": "Hi Christopher,\n\nOne straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB) and scriptable SSH/CLI — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.\n\nWhich controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).\n\nBest regards,\nSimon"
 },
 "as_of": "2026-10-24"
 }
@@ -224586,7 +224602,7 @@
 "p1": "STH-2C6QX-HSI / STH-2QX4XF48GP-HSI",
 "tier": 25,
 "price": "2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」",
-"why": "CENTEC 对口 + 主动要价",
+"why": "CENTEC 对口 + 主动要价 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": "10G 系列（STH-2C24XF 等）价格仓库无 → Simon 手上若有 Q2 完整表则补；信中不写"
 },
@@ -344940,7 +344956,7 @@
 "p1": "—",
 "tier": 30,
 "price": "—",
-"why": "已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+"why": "已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "新联系人"
@@ -355309,7 +355325,7 @@
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
 "price": "—",
-"why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+"why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": []
 },
@@ -413598,7 +413614,7 @@
 "p1": "STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版）",
 "tier": 20,
 "price": "$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）",
-"why": "数量 + 目标价 + 距今 2 个月",
+"why": "数量 + 目标价 + 距今 2 个月 最近一封去信是 2026-10-07 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
 "repeat": [],
 "gaps": [
 "客户是否已另购",

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。（调研 2026-10-21；表内兴趣：MC 工业FS VC SDI SFP  周边产品 和E-link深度合作）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-11 → 2025-11-11）；最近一次客户回复：2025-11-11：认证INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件 — J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 20% 分销档
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件 — J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板；按 20% 分销档
 - **第一问（只问一个）**：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单） 附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Direktronik 的唯一实质来信是采购合规台的标准函：要 EN 18031（RED 网络安全）声明、CE、RoHS、REACH、ISO。Alan 答「只有 CE/FCC/REACH/RoHS/UKCA」，对方没有再问。这封函说明 Saga 的群发至少进入了其供应商评估流程，但没有人（Mats/Anders/Fredrik）在销售侧接话。
 - **对方真实需求（有据）**：合规文件齐全的工业 PoE / MC 补充 SKU（E-link 之外）；公共部门框架协议要求文件完整。
 - **断点 / 为什么停在这里**：合规文件是北欧分销的第一道门，不是价格。EN 18031 本身不适用于有线交换机，但需要有人把这句话说出来并附 DoC。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件**（20% 档，按 20% 分销档）——J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件**（20% 档，按 20% 分销档）——J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板
   - 做不了 / 要先核的：I；S；O； ；9；0；0；1；/；1；4；0；0；1； ；=； ；S；m；a；r；t；B；y；t；e； ；官；网；自；述；（；d；o；c；s；/；s；m；a；r；t；b；y；t；e；/；新；闻；与；固；件；说；明；）；，；证；书；文；件；仓；库；无； ；→； ；信；里；写； ；c；o；p；y； ；o；n； ；r；e；q；u；e；s；t；；；R；E；D；/；E；N； ；1；8；0；3；1； ；不；适；用；于；无；线；电；以；外；设；备；为；法；规；事；实
 - **下一步（具体）**：2026-11　A 邮箱 → mats.backlund@ + anders.hedin@（抄 info@ 回原工单）　附 CE DoC + EN 18031 不适用一句话 + 问谁管有源设备选品
   - 第一问（只问一个）：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?

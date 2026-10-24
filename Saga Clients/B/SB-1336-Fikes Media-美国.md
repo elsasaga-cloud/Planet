@@ -36,26 +36,28 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B）；自动分级 B：+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）
-- **第一问（只问一个）**：Christopher — integration today is SNMP v2/v3 + CLI (scriptable), no REST/cloud controller; which controller are you integrating with, so we can confirm what it can poll/set?
+- **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 S 邮箱 → cfikes@fikesmedia.com 直说 API 边界
+- **下一步**：2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发） S 邮箱 → cfikes@fikesmedia.com（同一线程） 一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1336` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-10-03 一封实质来信：「This actually does have my interest. What levels of customization are offered? …api availability for controller integration」→ Simon 10-04 列出 OEM 定制清单；API 问题未直接回答）** ｜ 类型：美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API ｜ 筛子：2 ｜ 停点：API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记） ｜ 复活：直说 SNMP + CLI 自动化可做、REST/云控不做 ｜ 通路：US 主攻 ｜ 节奏：一封 ｜ 证据：k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）
+- **绑定等级：轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回）** ｜ 类型：美国小型媒体/IT 集成商（Fikes Media；业主直营）——第四档，但问的是定制 + API ｜ 筛子：2 ｜ 停点：API/控制器集成：Saga 线只有 SNMP/CLI/Web，无 REST/云控——若不直说会吊着（研究档已记） ｜ 复活：直说 SNMP + CLI 自动化可做、REST/云控不做 ｜ 通路：US 主攻 ｜ 节奏：来 1（10-03）/ 去 3（10-03 群发、10-04 长回、10-19 催）；最后动作是 Saga ｜ 证据：k=af638fab0ab5ad29（interest + API）；3c37c75887d3f132（定制清单）
 - **现状一句话**：新线索（3 周前），技术诉求明确。
 - **对方真实需求（有据）**：24 口 PoE + 10G 上联，可 API 集成。
 - **断点 / 为什么停在这里**：API 期望。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$180（2026-10 对同类客户报价））——美国 + 主动
   - 做不了 / 要先核的：他的控制器是什么
-- **下一步（具体）**：现在　S 邮箱 → cfikes@fikesmedia.com　直说 API 边界
-  - 第一问（只问一个）：Christopher — integration today is SNMP v2/v3 + CLI (scriptable), no REST/cloud controller; which controller are you integrating with, so we can confirm what it can poll/set?
+- **下一步（具体）**：2026-11 上旬（距 10-19 催信 ≥2 周后；现在不发）　S 邮箱 → cfikes@fikesmedia.com（同一线程）　一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
+  - 第一问（只问一个）：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-03 | 来 | Christopher Fikes | This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. | API 诉求 | `af638fab0ab5ad29` |
+| 2026-10-04 | 去 | Simon → Christopher Fikes | 1. Customization: logo / Packaging / PVC mask / label / model name / SN / manual / default IP / SNMP OID / Web GUI language… firmware customization subject to technical evaluation. 2. Controller Integration / API: could you share a little more about your controller architecture? REST API / SNMP / SSH-CLI / NETCONF / another platform… 3. Datasheet, Web manual, Feature List, MIB Manual attached. 4. "It's about function, not vendors" on your website… are you mainly evaluating for: consulting lab / customer deployments / private-label (OEM)? | Simon 已经回了定制清单并把 API 问题反问回去（没有直说「无 REST」）；10-19 又催了一次「Any feedback… Maybe arrange 2 samples?」——两封去信无回。档案原来的「现在：直说 API 边界」已过时：现在不该再发第三封，等到 11 月上旬只补一句「SNMP/CLI 即可，REST 没有」 | `gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）` |
+| 2026-10-19 | 去 | Simon → Christopher Fikes | Any feedback about our product information? Maybe arrange 2 samples for testing? | 15 天内第二封去信无回；美国 SOHO 咨询商（Owner 一人）10-03 的热情之后沉默——按「只问一句」规则，下一封放到 2026-11 上旬，且要把 10-04 没说清的 API 边界一句说死 | `gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -198,20 +200,16 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Re: customization and API — straight answer
+**主题**：Re: 24 Port PoE Managed Switch — one straight answer on API
 
 ```text
-Hi, Christopher,
+Hi Christopher,
 
-Thank you for your interest in customization and API access for controller integration.
+One straight answer I owe you from my Oct-4 mail: integration today is SNMP v2/v3 (standard + private MIB) and scriptable SSH/CLI — there is no REST API or cloud controller. OEM customization (logo, model name, GUI, default config, packaging) is standard.
 
-Straight answer: today the switches are managed by SNMP v2/v3 (standard MIBs + private OID), CLI (SSH, scriptable) and the web GUI; there is no REST API or cloud controller. OEM customization covers logo, model name, GUI, default config and packaging.
+Which controller or NMS would you pair it with? With that I can confirm exactly what it can poll and set, and we can ship the 2 evaluation units ($180 USD EXW each, credited against a first order).
 
-The 24-port GbE PoE 280W + 4x 10G SFP+ unit is $180 USD EXW (quoted Oct 2026, valid 15 days).
-
-One question: which controller or NMS are you integrating with (e.g. LibreNMS/Zabbix, or a vendor controller)? Then I can confirm exactly what it can poll and set.
-
-Thank you.
+Best regards,
 Simon
 ```
 

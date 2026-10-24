@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：以色列 ICT 集成商（2012 年起，约 14 人，ISO 认证）：路由交换、企业 WiFi（Ubiquiti 经销商，装机 1 万+ AP）、毫米波无线、LoRa IoT、GPON、智慧城市平台 EKRON；中标耶路撒冷全市毫米波网络；自建站询盘：IM-FS480GW 4 台、2025 年约 150 台，WA 已加，邮件 0 回复 / 5 次。（调研 2026-10-21；表内兴趣：IM-FS480GW）
 - **为什么是 A 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 5 次（2025-06-04 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板；—
 - **第一问（只问一个）**：Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → yoav@smbit.co.il 一句话
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：邮件被打开 1 次（2026-02）；150 台/年的询盘在邮件无痕。
 - **对方真实需求（有据）**：工业 PoE 150 台/年（市政/学校）。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—）——已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，—）——已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续 最近一封去信是 2026-10-07 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板
 - **下一步（具体）**：2026-11　A 邮箱 → yoav@smbit.co.il　一句话
   - 第一问（只问一个）：Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?
 

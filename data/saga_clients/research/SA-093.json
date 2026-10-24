@@ -139,7 +139,7 @@
       "p1": "STH-2C24XFHSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价）",
       "tier": 25,
       "price": "1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）",
-      "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1",
+      "why": "J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板",
       "repeat": [],
       "gaps": [
         "MA 许可是否含在 1,250 内（Alan 原话「With MA License」）——报价单核",
