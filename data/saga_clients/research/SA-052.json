@@ -137,7 +137,7 @@
       "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
       "tier": 20,
       "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD",
-      "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
+      "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
       "repeat": [],
       "gaps": [
         "是否对俄罗斯客户开 Realtek 线——Simon 定",

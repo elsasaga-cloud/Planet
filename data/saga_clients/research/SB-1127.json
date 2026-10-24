@@ -77,7 +77,7 @@
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
       "lane": "南非 非主攻",
       "cadence": "一封；回了再说",
       "evidence": "gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo」；研究档 risks：守界：铁路 / 核电 / 消防 ITS 项目不供（仅矿业 / 制造 / 智慧城市一般节点）"
@@ -89,7 +89,7 @@
       "p1": "STI-288GPM",
       "tier": 20,
       "price": "按主表（研究档 saga_fit）",
-      "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。",
+      "why": "Westermo 之下的工业管理 PoE → STI-288GPM（$78.9 @20%，ERPS 环网）；非 PoE STI-280GM。已打开的主题（2/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-28)、「Marvell Alleycat5 Solution」(2025-06-27) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
@@ -117,7 +117,9 @@
         "k": "gmail_digest"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": {
       "subject": "One question — Marvell Alleycat5 Solution",
       "body": "Hi Anton,\n\nYou opened our mail on \"Marvell Alleycat5 Solution\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor mining and plant-floor nodes where Westermo is over-spec — a Marvell-based managed DIN 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/FCC) at $79 EXW; not for rail or nuclear. Worth one evaluation unit?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"

@@ -1,106 +1,107 @@
 {
- "code": "SB-602",
- "name_official": "Vạn Phát Đạt（vanphatdat.vn，胡志明市）",
- "researched_at": "2026-10-21",
- "website_status": "在线（快照 2026-10-21，越南语）",
- "summary": "胡志明市 IT 外包 / Helpdesk / IT Onsite 服务商（24/7），Hùng Trần；询盘表来源，无兴趣描述；WA 无实质回复。IT 服务商偶发采购。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "IT Helpdesk / IT Onsite / IT Outsourcing（HCMC）",
-   "quote": "Dịch vụ IT Helpdesk, IT Onsite, IT Outsourcing, dịch vụ IT cho doanh nghiệp tại TP. HCM",
-   "url": "https://vanphatdat.vn/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "询盘统计表来源，无兴趣描述",
-   "quote": "（空）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Hùng Trần",
-   "title": "（负责人）",
-   "email": "hungtran@vanphatdat.vn",
-   "phone": "+84 904 711 163",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Công ty Vạn Phát Đạt（待核）",
-  "founded": "",
-  "hq": "Ho Chi Minh City, Vietnam",
-  "size": "小型 IT 服务",
-  "other": ""
- },
- "channels": {
-  "role": "IT 服务商（项目采购）",
-  "region": "越南"
- },
- "risks": [
-  "IT 服务为主，硬件量小"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "企业 IT 配套 8 PoE 管理机。"
- },
- "email_hook": "（低优先）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "越南 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：IT 服务为主，硬件量小"
-  },
-  "situation": "胡志明市 IT 外包 / Helpdesk / IT Onsite 服务商（24/7），Hùng Trần；询盘表来源，无兴趣描述；WA 无实质回复。IT 服务商偶发采购。",
-  "need": "企业 IT 配套 8 PoE 管理机。",
-  "breakpoint": "IT 服务为主，硬件量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "企业 IT 配套 8 PoE 管理机。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（空）",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-602",
+  "name_official": "Vạn Phát Đạt（vanphatdat.vn，胡志明市）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（快照 2026-10-21，越南语）",
+  "summary": "胡志明市 IT 外包 / Helpdesk / IT Onsite 服务商（24/7），Hùng Trần；询盘表来源，无兴趣描述；WA 无实质回复。IT 服务商偶发采购。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "IT Helpdesk / IT Onsite / IT Outsourcing（HCMC）",
+      "quote": "Dịch vụ IT Helpdesk, IT Onsite, IT Outsourcing, dịch vụ IT cho doanh nghiệp tại TP. HCM",
+      "url": "https://vanphatdat.vn/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "询盘统计表来源，无兴趣描述",
+      "quote": "（空）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Hùng Trần",
+      "title": "（负责人）",
+      "email": "hungtran@vanphatdat.vn",
+      "phone": "+84 904 711 163",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Công ty Vạn Phát Đạt（待核）",
+    "founded": "",
+    "hq": "Ho Chi Minh City, Vietnam",
+    "size": "小型 IT 服务",
+    "other": ""
+  },
+  "channels": {
+    "role": "IT 服务商（项目采购）",
+    "region": "越南"
+  },
+  "risks": [
+    "IT 服务为主，硬件量小"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "企业 IT 配套 8 PoE 管理机。"
+  },
+  "email_hook": "（低优先）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「（空）」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "越南 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「（空）」；研究档 risks：IT 服务为主，硬件量小"
+    },
+    "situation": "胡志明市 IT 外包 / Helpdesk / IT Onsite 服务商（24/7），Hùng Trần；询盘表来源，无兴趣描述；WA 无实质回复。IT 服务商偶发采购。",
+    "need": "企业 IT 配套 8 PoE 管理机。",
+    "breakpoint": "IT 服务为主，硬件量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "企业 IT 配套 8 PoE 管理机。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（空）",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

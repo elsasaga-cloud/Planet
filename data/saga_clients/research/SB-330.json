@@ -1,132 +1,132 @@
 {
- "code": "SB-330",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（wirewerks.com，快照 2026-10-21）",
- "summary": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
- "type": "布线制造商（加拿大，自有标 MC 为副线）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Wirewerks | Network innovations；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Network innovations on Wirewerks…",
-   "url": "https://wirewerks.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 自己的logo 别人在卖他们的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Wirewerks 定位",
-   "quote": "Wirewerks | Network innovations ; Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband",
-   "url": "https://wirewerks.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC 自己的 logo",
-   "quote": "MC 自己的logo 别人在卖他们的；可以多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Carl Lindquist",
-   "title": "（职务待核）",
-   "email": "clindquist@wirewerks.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "加拿大",
-  "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）"
- ],
- "channels": {
-  "role": "布线制造商（加拿大，自有标 MC 为副线）",
-  "region": "加拿大",
-  "contact": "clindquist@wirewerks.com、info@wirewerks.com"
- },
- "signals": [
-  "官网：Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband；站内 TIA-568 / TIA-942-B；kw fiber 74 / data center 18",
-  "表内：MC 自己的 logo 别人在卖他们的；可以多跟进一下；KP Carl Lindquist"
- ],
- "risks": [
-  "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
-  "10 次无回复 → 改向 Carl Lindquist 具名首触（职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）"
- },
- "email_hook": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 clindquist@wirewerks.com, info@wirewerks.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "布线制造商（加拿大，自有标 MC 为副线）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "CA 主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC 自己的logo 别人在卖他们的」；研究档 risks：主业结构化布线（Saga 不做）：MC 为副线，契合度低"
-  },
-  "situation": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
-  "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）",
-  "breakpoint": "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 自己的logo 别人在卖他们的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "20 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-330",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（wirewerks.com，快照 2026-10-21）",
+  "summary": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
+  "type": "布线制造商（加拿大，自有标 MC 为副线）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Wirewerks | Network innovations；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Network innovations on Wirewerks…",
+      "url": "https://wirewerks.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 自己的logo 别人在卖他们的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Wirewerks 定位",
+      "quote": "Wirewerks | Network innovations ; Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband",
+      "url": "https://wirewerks.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 自己的 logo",
+      "quote": "MC 自己的logo 别人在卖他们的；可以多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Carl Lindquist",
+      "title": "（职务待核）",
+      "email": "clindquist@wirewerks.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "加拿大",
+    "other": "官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）"
+  ],
+  "channels": {
+    "role": "布线制造商（加拿大，自有标 MC 为副线）",
+    "region": "加拿大",
+    "contact": "clindquist@wirewerks.com、info@wirewerks.com"
+  },
+  "signals": [
+    "官网：Network connectivity starts at the physical layer. ; Copper Network Products ; Optical Fiber Network Products ; Data Centers ; Broadband；站内 TIA-568 / TIA-942-B；kw fiber 74 / data center 18",
+    "表内：MC 自己的 logo 别人在卖他们的；可以多跟进一下；KP Carl Lindquist"
+  ],
+  "risks": [
+    "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
+    "10 次无回复 → 改向 Carl Lindquist 具名首触（职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）"
+  },
+  "email_hook": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 clindquist@wirewerks.com, info@wirewerks.com；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "布线制造商（加拿大，自有标 MC 为副线）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "CA 主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC 自己的logo 别人在卖他们的」；研究档 risks：主业结构化布线（Saga 不做）：MC 为副线，契合度低"
+    },
+    "situation": "加拿大 Wirewerks（蒙特利尔结构化布线制造商：铜缆/光纤网络产品、数据中心、宽带；TIA 标准导向；表内「MC 自己的 logo；别人在卖他们的」「可以多跟进一下」；KP Carl Lindquist）；群发 10 次无回复。",
+    "need": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）",
+    "breakpoint": "主业结构化布线（Saga 不做）：MC 为副线，契合度低",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）；桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 STC-28GM（HRUI 列表价，注明）。已打开的主题（1/20 封有打开记录）：「Managed Optical Bypass Switch」(2025-06-23) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Carl, for the media converters offered under the Wirewerks label with your copper and fibre systems, we can supply gigabit MCs (industrial DIN/wall or desktop) and small SFP-uplink switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your installer customers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 自己的logo 别人在卖他们的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "20 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

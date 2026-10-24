@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **是谁**：立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：Beijer sbjlink的工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）。已打开的主题（1/2 封有打开记录）：「Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：立陶宛 Elseta（pramoninisrysys.lt 为 Elseta 在线商店：面向配电网/公用事业智能电网数字化——Mini RTU、转换器、I/O 模块、软件；表内国别「意大利」有误（.lt 域名、Elseta 为立陶宛公司）；表内「Beijer sbjlink 的工业 FS」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）
 - **断点 / 为什么停在这里**：守界备注：公用事业/配电网场景——只供民用通用工业交换机，IEC 61850-3 认证 Saga 无
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——RTU 配套工业 FS（现 Beijer/Westermo 系）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 5 GE STI-050GE（$17.8）；IEC 61850-3 Saga 无（注明）。已打开的主题（1/2 封有打开记录）：「Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial switches bundled with your Mini RTU and converter kits, we supply Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which port count do your DNO substation kits use most?
 

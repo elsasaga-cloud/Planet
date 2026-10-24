@@ -1,127 +1,127 @@
 {
- "code": "SB-1058",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（anewtech.net，快照 2026-10-21）",
- "summary": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
- "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
- "size": "",
- "brands_seen": [
-  "ORing",
-  "Supermicro"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Anewtech Systems | Industrial PC, Edge PC, Server, Rugged Computer；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise, we provide customized platforms, and IoT-ready systems for smart factorie",
-   "url": "https://www.anewtech.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是Oring的工业系列",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "工业 PC 与服务器方案商，27 年以上",
-   "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0.",
-   "url": "https://www.anewtech.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "主要是 ORing 的工业系列",
-   "quote": "主要是Oring的工业系列",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业 PC / 服务器 / 加固电脑 / 机器视觉分销"
- ],
- "channels": {
-  "role": "工业计算与自动化分销商（新加坡，ORing 工业线）",
-  "region": "新加坡",
-  "contact": "sales@anewtech.com.sg"
- },
- "signals": [
-  "官网：Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise",
-  "站内型号 O-IAP-420（ORing）；kw industrial 121"
- ],
- "risks": [
-  "非主攻区（T5）；现有 ORing（台湾）供货稳定",
-  "站内 EN50155（轨道）：Saga 不做轨道；15 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报"
- },
- "email_hook": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 sales@anewtech.com.sg；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "新加坡 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「主要是Oring的工业系列」；研究档 risks：非主攻区（T5）；现有 ORing（台湾）供货稳定"
-  },
-  "situation": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
-  "need": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
-  "breakpoint": "非主攻区（T5）；现有 ORing（台湾）供货稳定",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是Oring的工业系列",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "25 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1058",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（anewtech.net，快照 2026-10-21）",
+  "summary": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
+  "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
+  "size": "",
+  "brands_seen": [
+    "ORing",
+    "Supermicro"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Anewtech Systems | Industrial PC, Edge PC, Server, Rugged Computer；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise, we provide customized platforms, and IoT-ready systems for smart factorie",
+      "url": "https://www.anewtech.net/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是Oring的工业系列",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "工业 PC 与服务器方案商，27 年以上",
+      "quote": "Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0.",
+      "url": "https://www.anewtech.net/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是 ORing 的工业系列",
+      "quote": "主要是Oring的工业系列",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "新加坡",
+    "other": "官网 anewtech.net，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业 PC / 服务器 / 加固电脑 / 机器视觉分销"
+  ],
+  "channels": {
+    "role": "工业计算与自动化分销商（新加坡，ORing 工业线）",
+    "region": "新加坡",
+    "contact": "sales@anewtech.com.sg"
+  },
+  "signals": [
+    "官网：Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise",
+    "站内型号 O-IAP-420（ORing）；kw industrial 121"
+  ],
+  "risks": [
+    "非主攻区（T5）；现有 ORing（台湾）供货稳定",
+    "站内 EN50155（轨道）：Saga 不做轨道；15 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报"
+  },
+  "email_hook": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 sales@anewtech.com.sg；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "工业计算与自动化分销商（新加坡，ORing 工业线）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "新加坡 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「主要是Oring的工业系列」；研究档 risks：非主攻区（T5）；现有 ORing（台湾）供货稳定"
+    },
+    "situation": "新加坡 Anewtech Systems（工业 PC / Edge PC / Supermicro 服务器 / 加固电脑 / 面板 PC / 机器视觉，27 年以上；表内「主要是 ORing 的工业系列」；站内 EN50155、O-IAP-420（ORing AP））；群发 15 次无回复。",
+    "need": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
+    "breakpoint": "非主攻区（T5）；现有 ORing（台湾）供货稳定",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报。已打开的主题（1/25 封有打开记录）：「16 Port Ethernet Switch」(2025-06-10) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Alongside the ORing industrial switches you supply with your IPC platforms, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which ORing model do your projects use most, so we quote its equivalent?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是Oring的工业系列",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "25 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

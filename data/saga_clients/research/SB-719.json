@@ -1,106 +1,107 @@
 {
- "code": "SB-719",
- "name_official": "MyTec（mytec-iq.com，伊拉克）",
- "researched_at": "2026-10-21",
- "website_status": "域名不可达（my-tec.co / mytec-iq.com）",
- "summary": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "my-tec.co 不可达",
-   "quote": "status unreachable",
-   "url": "http://my-tec.co/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "处理公司产品，有过详细产品交谈",
-   "quote": "兴趣：处理公司产品 有过详细产品交谈",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mushtaq Al Takhakh",
-   "title": "（负责人）",
-   "email": "mushtaq@mytec-iq.com",
-   "phone": "+964 770 270 3008",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照不可达 + 表内）"
- },
- "company_facts": {
-  "legal_name": "MyTec（待核）",
-  "founded": "",
-  "hq": "伊拉克",
-  "size": "小型",
-  "other": "域名失效；yahoo 备用"
- },
- "channels": {
-  "role": "IT 经销 / 工程（推断）",
-  "region": "伊拉克"
- },
- "risks": [
-  "域名失效；伊拉克付款（T/T 预付）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "无明确口型；入门 8 PoE 管理机。"
- },
- "email_hook": "（低优先；若再询再报）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：处理公司产品 有过详细产品交谈」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "伊拉克 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：处理公司产品 有过详细产品交谈」；研究档 risks：域名失效；伊拉克付款（T/T 预付）"
-  },
-  "situation": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
-  "need": "无明确口型；入门 8 PoE 管理机。",
-  "breakpoint": "域名失效；伊拉克付款（T/T 预付）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "无明确口型；入门 8 PoE 管理机。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：处理公司产品 有过详细产品交谈",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-719",
+  "name_official": "MyTec（mytec-iq.com，伊拉克）",
+  "researched_at": "2026-10-21",
+  "website_status": "域名不可达（my-tec.co / mytec-iq.com）",
+  "summary": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "my-tec.co 不可达",
+      "quote": "status unreachable",
+      "url": "http://my-tec.co/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "处理公司产品，有过详细产品交谈",
+      "quote": "兴趣：处理公司产品 有过详细产品交谈",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Mushtaq Al Takhakh",
+      "title": "（负责人）",
+      "email": "mushtaq@mytec-iq.com",
+      "phone": "+964 770 270 3008",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照不可达 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "MyTec（待核）",
+    "founded": "",
+    "hq": "伊拉克",
+    "size": "小型",
+    "other": "域名失效；yahoo 备用"
+  },
+  "channels": {
+    "role": "IT 经销 / 工程（推断）",
+    "region": "伊拉克"
+  },
+  "risks": [
+    "域名失效；伊拉克付款（T/T 预付）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "无明确口型；入门 8 PoE 管理机。"
+  },
+  "email_hook": "（低优先；若再询再报）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：处理公司产品 有过详细产品交谈」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "伊拉克 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：处理公司产品 有过详细产品交谈」；研究档 risks：域名失效；伊拉克付款（T/T 预付）"
+    },
+    "situation": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。",
+    "need": "无明确口型；入门 8 PoE 管理机。",
+    "breakpoint": "域名失效；伊拉克付款（T/T 预付）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "无明确口型；入门 8 PoE 管理机。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：处理公司产品 有过详细产品交谈",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

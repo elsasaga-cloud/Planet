@@ -1,117 +1,117 @@
 {
- "code": "SB-797",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
- "type": "IT 方案/贸易商（美国，有国内联系方式）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE 工业级交换机",
-   "quote": "PoE 工业级交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jehad Alasad",
-   "title": "CEO",
-   "email": "jalasad@it2ss.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 it2ss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "IT 方案 / 贸易（美国）"
- ],
- "channels": {
-  "role": "IT 方案/贸易商（美国，有国内联系方式）",
-  "region": "美国",
-  "contact": "jalasad@it2ss.com"
- },
- "signals": [
-  "表内：PoE 工业级交换机；KP Jehad Alasad / CEO；1 817 896 3203(USA) 151 1888 7211(China)",
-  "快照：http_error"
- ],
- "risks": [
-  "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）"
- },
- "email_hook": "Jehad, for the industrial PoE switches you source, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 jalasad@it2ss.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」）",
-   "type": "IT 方案/贸易商（美国，有国内联系方式）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 29，Opened 标签 1（Simon 群发追踪）；用户表：「PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)」；研究档 risks：有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
-  },
-  "situation": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
-  "need": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Jehad, for the industrial PoE switches you source, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-    "why": "29 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-797",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
+  "type": "IT 方案/贸易商（美国，有国内联系方式）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 工业级交换机",
+      "quote": "PoE 工业级交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Jehad Alasad",
+      "title": "CEO",
+      "email": "jalasad@it2ss.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 it2ss.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "IT 方案 / 贸易（美国）"
+  ],
+  "channels": {
+    "role": "IT 方案/贸易商（美国，有国内联系方式）",
+    "region": "美国",
+    "contact": "jalasad@it2ss.com"
+  },
+  "signals": [
+    "表内：PoE 工业级交换机；KP Jehad Alasad / CEO；1 817 896 3203(USA) 151 1888 7211(China)",
+    "快照：http_error"
+  ],
+  "risks": [
+    "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）"
+  },
+  "email_hook": "Jehad, for the industrial PoE switches you source, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 jalasad@it2ss.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」）",
+      "type": "IT 方案/贸易商（美国，有国内联系方式）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "29 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 29，Opened 标签 1（Simon 群发追踪）；用户表：「PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)」；研究档 risks：有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复"
+    },
+    "situation": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
+    "need": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）",
+    "breakpoint": "有中国手机号（可直接在国内采购，比价激烈）；官网 http_error；18 次无回复",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/29 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Jehad, for the industrial PoE switches you source, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China)",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
+        "why": "29 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

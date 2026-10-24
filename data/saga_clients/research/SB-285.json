@@ -1,159 +1,161 @@
 {
- "code": "SB-285",
- "name_official": "EPE RETELEM SPA（ex-SONATITE）",
- "researched_at": "2026-10-21",
- "website_status": "在线（retelem-dz.com，快照 2026-10-21，法语）",
- "summary": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "定位：关键数字基础设施，1971 年起，EPE SPA，14 分支",
-   "quote": "EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971… Entreprise publique économique Algérie · 14 agences",
-   "url": "https://retelem-dz.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "集团",
-   "claim": "ELEC EL DJAZAIR 控股子公司；电信 / 系统集成 / 培训",
-   "quote": "RETELEM SPA est une entreprise publique économique… filiale de la Holding ELEC EL DJAZAIR… télécommunications, intégration des systèmes d'information et formation technique",
-   "url": "https://eleceldjazair.dz/filiale/retelem/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "地址与联系：Bab El Oued, Alger；info@ / contact@retelem-dz.com",
-   "quote": "Rue Omar Ben Aissa, Bab El Oued, Alger… info@retelem-dz.com contact@retelem-dz.com… 023 05 74 87",
-   "url": "https://elmouchir.caci.dz/entreprise/28213",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "关键词：scada 6 / fibre 8 / data center 11；品牌 Ubiquiti",
-   "quote": "kw scada 6, fibre 8, data center 11; brands Ubiquiti",
-   "url": "https://retelem-dz.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email",
-   "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Hichem Akchiche",
-   "title": "（表内联系人）",
-   "email": "hichem.akchiche@retelem-dz.com",
-   "phone": "+213 770 760 449",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
- },
- "company_facts": {
-  "legal_name": "EPE RETELEM SPA（ex-SONATITE）",
-  "founded": "1971",
-  "hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
-  "size": "国有中大型（14 分支）",
-  "other": "ELEC EL DJAZAIR 控股；法语"
- },
- "business_lines": [
-  "LAN/WAN/Wi-Fi 与光纤传输",
-  "数据中心 / 混合云",
-  "SCADA 与工业网络",
-  "视频监控 / 门禁 / 消防",
-  "PABX / VoIP",
-  "技术培训"
- ],
- "products_seen": [
-  {
-   "brand": "Ubiquiti",
-   "model": "（官网提及）",
-   "spec": "无线/网络",
-   "saga": "无对位（Saga 不做无线）",
-   "url": "https://retelem-dz.com/",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "role": "国有系统集成商（项目 / 招标）",
-  "region": "阿尔及利亚全国"
- },
- "signals": [
-  "明确对 2 光 8 电工业 PoE 有兴趣并要 datasheet",
-  "SCADA / 工业网络是其业务线 → 工业交换机需求真实"
- ],
- "risks": [
-  "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
-  "国有采购走招标，周期长、需本地代理；付款 L/C 或 T/T 预付",
-  "法语沟通"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。"
- },
- "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿尔及利亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email」；研究档 risks：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）"
-  },
-  "situation": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
-  "need": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
-  "breakpoint": "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-285",
+  "name_official": "EPE RETELEM SPA（ex-SONATITE）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（retelem-dz.com，快照 2026-10-21，法语）",
+  "summary": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "定位：关键数字基础设施，1971 年起，EPE SPA，14 分支",
+      "quote": "EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971… Entreprise publique économique Algérie · 14 agences",
+      "url": "https://retelem-dz.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "集团",
+      "claim": "ELEC EL DJAZAIR 控股子公司；电信 / 系统集成 / 培训",
+      "quote": "RETELEM SPA est une entreprise publique économique… filiale de la Holding ELEC EL DJAZAIR… télécommunications, intégration des systèmes d'information et formation technique",
+      "url": "https://eleceldjazair.dz/filiale/retelem/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "地址与联系：Bab El Oued, Alger；info@ / contact@retelem-dz.com",
+      "quote": "Rue Omar Ben Aissa, Bab El Oued, Alger… info@retelem-dz.com contact@retelem-dz.com… 023 05 74 87",
+      "url": "https://elmouchir.caci.dz/entreprise/28213",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "关键词：scada 6 / fibre 8 / data center 11；品牌 Ubiquiti",
+      "quote": "kw scada 6, fibre 8, data center 11; brands Ubiquiti",
+      "url": "https://retelem-dz.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email",
+      "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Hichem Akchiche",
+      "title": "（表内联系人）",
+      "email": "hichem.akchiche@retelem-dz.com",
+      "phone": "+213 770 760 449",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "EPE RETELEM SPA（ex-SONATITE）",
+    "founded": "1971",
+    "hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
+    "size": "国有中大型（14 分支）",
+    "other": "ELEC EL DJAZAIR 控股；法语"
+  },
+  "business_lines": [
+    "LAN/WAN/Wi-Fi 与光纤传输",
+    "数据中心 / 混合云",
+    "SCADA 与工业网络",
+    "视频监控 / 门禁 / 消防",
+    "PABX / VoIP",
+    "技术培训"
+  ],
+  "products_seen": [
+    {
+      "brand": "Ubiquiti",
+      "model": "（官网提及）",
+      "spec": "无线/网络",
+      "saga": "无对位（Saga 不做无线）",
+      "url": "https://retelem-dz.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "国有系统集成商（项目 / 招标）",
+    "region": "阿尔及利亚全国"
+  },
+  "signals": [
+    "明确对 2 光 8 电工业 PoE 有兴趣并要 datasheet",
+    "SCADA / 工业网络是其业务线 → 工业交换机需求真实"
+  ],
+  "risks": [
+    "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
+    "国有采购走招标，周期长、需本地代理；付款 L/C 或 T/T 预付",
+    "法语沟通"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。"
+  },
+  "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "阿尔及利亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email」；研究档 risks：守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）"
+    },
+    "situation": "阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。",
+    "need": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
+    "breakpoint": "守界：国有企业、项目含政府/关键基础设施，按单核对最终用途（不碰军/警）",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
+        "why": "6 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

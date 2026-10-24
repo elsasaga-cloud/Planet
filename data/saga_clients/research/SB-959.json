@@ -1,136 +1,136 @@
 {
- "code": "SB-959",
- "name_official": "JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位与政府资质",
-   "quote": "JM Fiber Optics was established in 1992 as a full service communications company, servicing commercial, and government customers alike … We are an approved Department of Defense supplier/contractor … Headquarters 13941 Ramona Avenue, Suite A, Chino, CA 91710 USA Phone 1-909-628-3445 … Email info@jmfiberoptics.com GSA Schedule – GS-35F-0328S",
-   "url": "https://jmfiberoptics.com/aboutus/",
-   "date": "2024-01-05"
-  },
-  {
-   "kind": "政府名录",
-   "claim": "业务范围（含 CCTV 与交通系统）",
-   "quote": "JM Fiber Optics is a value added reseller and systems integrator of fiber optic and copper voice, video and data communication networks, CCTV and surveillance systems, perimeter and tunnel intrusion detection technology, transit passenger information systems and ETA certified fiber optic installer and technician training courses.",
-   "url": "https://www.navair.navy.mil/osbp/node/4566",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模",
-   "quote": "JM Fiber Optics, Inc. … Company size: 11-50 employees Headquarters: Chino, CA … Founded: 1992",
-   "url": "https://www.linkedin.com/company/jm-fiber-optics-inc",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "营收",
-   "quote": "JM Fiber Optics Inc. … Chino, CA, 91710-8412 … Revenue: $3.02 million Modelled",
-   "url": "https://www.dnb.com/business-directory/company-profiles.jm_fiber_optics_inc.535c7f6135c212ca574c96928b972d77.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "18 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "JM Fiber Optics, Inc.",
-  "founded": "1992（Bloomberg 登记 1993-02-16）",
-  "hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
-  "size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
-  "other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
- },
- "business_lines": [
-  "光纤网络设计、施工、熔接、测试与机架安装",
-  "CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）",
-  "光纤技师培训（ETA 认证）",
-  "政府采购（GSA / DoD）——守界"
- ],
- "channels": {
-  "网站": "https://jmfiberoptics.com/",
-  "电话": "+1 909-628-3445 / 1-888-343-4237（官网公开）",
-  "邮箱（公开）": "info@jmfiberoptics.com",
-  "LinkedIn": "https://www.linkedin.com/company/jm-fiber-optics-inc"
- },
- "signals": [
-  "商用光纤到楼/园区项目需要多 SFP 口汇聚交换机（STC-4168XGGCM 16 SFP + 8 Combo + 4×10G）与 PoE 接入；培训教室亦需光口交换机作教具"
- ],
- "risks": [
-  "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
- ],
- "saga_fit": {
-  "p1": "STC-4168XGGCM",
-  "tier": 25,
-  "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目"
- },
- "email_hook": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 feckardt@jmfiberoptics.com；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
-  },
-  "situation": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
-  "need": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目",
-  "breakpoint": "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进",
-  "saga_now": {
-   "p1": "STC-4168XGGCM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
-    "why": "22 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-959",
+  "name_official": "JM Fiber Optics, Inc.（Chino, CA, USA；jmfiberoptics.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位与政府资质",
+      "quote": "JM Fiber Optics was established in 1992 as a full service communications company, servicing commercial, and government customers alike … We are an approved Department of Defense supplier/contractor … Headquarters 13941 Ramona Avenue, Suite A, Chino, CA 91710 USA Phone 1-909-628-3445 … Email info@jmfiberoptics.com GSA Schedule – GS-35F-0328S",
+      "url": "https://jmfiberoptics.com/aboutus/",
+      "date": "2024-01-05"
+    },
+    {
+      "kind": "政府名录",
+      "claim": "业务范围（含 CCTV 与交通系统）",
+      "quote": "JM Fiber Optics is a value added reseller and systems integrator of fiber optic and copper voice, video and data communication networks, CCTV and surveillance systems, perimeter and tunnel intrusion detection technology, transit passenger information systems and ETA certified fiber optic installer and technician training courses.",
+      "url": "https://www.navair.navy.mil/osbp/node/4566",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模",
+      "quote": "JM Fiber Optics, Inc. … Company size: 11-50 employees Headquarters: Chino, CA … Founded: 1992",
+      "url": "https://www.linkedin.com/company/jm-fiber-optics-inc",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "营收",
+      "quote": "JM Fiber Optics Inc. … Chino, CA, 91710-8412 … Revenue: $3.02 million Modelled",
+      "url": "https://www.dnb.com/business-directory/company-profiles.jm_fiber_optics_inc.535c7f6135c212ca574c96928b972d77.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "18 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "JM Fiber Optics, Inc.",
+    "founded": "1992（Bloomberg 登记 1993-02-16）",
+    "hq": "13941 Ramona Ave, Suite A, Chino, CA 91710, USA（+1 909-628-3445；info@jmfiberoptics.com）",
+    "size": "11–50（LinkedIn）/ 8（Bloomberg）；营收 $3.02M（D&B 模型）",
+    "other": "GSA GS-35F-0328S；DoD 批准供应商（守界）；洛杉矶市少数族裔科技企业奖 2007/2013；ETA 认证培训"
+  },
+  "business_lines": [
+    "光纤网络设计、施工、熔接、测试与机架安装",
+    "CCTV/周界/隧道入侵检测集成（守界：交通/军方项目不供）",
+    "光纤技师培训（ETA 认证）",
+    "政府采购（GSA / DoD）——守界"
+  ],
+  "channels": {
+    "网站": "https://jmfiberoptics.com/",
+    "电话": "+1 909-628-3445 / 1-888-343-4237（官网公开）",
+    "邮箱（公开）": "info@jmfiberoptics.com",
+    "LinkedIn": "https://www.linkedin.com/company/jm-fiber-optics-inc"
+  },
+  "signals": [
+    "商用光纤到楼/园区项目需要多 SFP 口汇聚交换机（STC-4168XGGCM 16 SFP + 8 Combo + 4×10G）与 PoE 接入；培训教室亦需光口交换机作教具"
+  ],
+  "risks": [
+    "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
+  ],
+  "saga_fit": {
+    "p1": "STC-4168XGGCM",
+    "tier": 25,
+    "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目"
+  },
+  "email_hook": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 feckardt@jmfiberoptics.com；主题多为「Marvell Industrial Alert System、OEM Core Switching Solution」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进"
+    },
+    "situation": "加州 Chino 的光纤/无线网络工程与集成商（1992 年成立；11–50 人 / Bloomberg 8 人；D&B 营收 $3.02M；MBE/SBA 8(a) 认证；GSA Schedule GS-35F-0328S；国防部批准供应商，Cage 0VXH8）：光纤设计施工、熔接测试、机架安装、CCTV 与周界/隧道入侵检测、交通乘客信息系统、ETA 认证光纤技师培训（Caltrans 等客户）。商用与政府客户并重——政府/军方/轨道部分守界，商用光纤接入部分可用 Saga 光口交换机。用户表：18 次跟进 0 回复。",
+    "need": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目",
+    "breakpoint": "政府/DoD/交通项目占比高 → TAA/BAA 与守界；18 次跟进 0 回复；仅商用项目可推进",
+    "saga_now": {
+      "p1": "STC-4168XGGCM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成商 25% 档（仅商用项目）：STC-4168XGGCM（16 SFP + 8 Combo + 4×10G，L3，$392.4）作光纤汇聚；接入 STC-28DGGPM；仅供非政府、非交通项目。已打开的主题（1/22 封有打开记录）：「Marvell Industrial Alert System」(2025-12-12) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For your commercial fiber-to-the-building jobs, a 16-SFP + 8-combo L3 aggregation switch with 4×10G uplinks is $392.4 EXW; if a private-campus project is coming up I can quote it with the matching PoE edge units."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、OEM Core Switching Solution",
+        "why": "22 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

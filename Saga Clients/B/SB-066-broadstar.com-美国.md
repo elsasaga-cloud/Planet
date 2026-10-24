@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-066` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 howardb@broadstar.com, hreid@broadstar.com；主题多为「Updated Ethernet Switches Links、Marvell Managed Commercial Switches」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「（用户表字段）」；研究档 risks：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活
+- **绑定等级：未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 howardb@broadstar.com, hreid@broadstar.com；主题多为「Updated Ethernet Switches Links、Marvell Managed Commercial Switches」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「（用户表字段）」；研究档 risks：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活
 - **现状一句话**：佛州西棕榈滩的社区型「bulk」光纤 ISP/电视/VoIP 运营商（1994 年成立，51–200 人，营收 $18.9M 口径）：为 HOA、公寓、公寓楼协会、养老社区、酒店提供 FTTH，**采用 AON（有源光网络）——每户一对专属光纤到中心机房**，最高 5 Gig（2 Gig 为最常见 bulk 档，52 个社区中 24 个）；持续改造社区（2024 Tuscany of Palm Beach、2025 Jupiter Lakes Villas）。AON 架构 = 每个社区机房需要大量 SFP 端口 L3 汇聚交换机——与 Saga 全光 L3 机型强相关。用户表：WhatsApp 已加，23 次跟进 0 回复。
 - **对方真实需求（有据）**：运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM
 - **断点 / 为什么停在这里**：US 运营商常要求 UL/TAA 与长期固件支持；23 次跟进 0 回复——需换角度（AON 全光 L3 机型 + 价格）重新激活
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026 | 去 | A 群发 | Updated Ethernet Switches Links、Marvell Managed Commercial Switches | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

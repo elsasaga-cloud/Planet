@@ -1,140 +1,140 @@
 {
- "code": "SB-755",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（alliedasia.com.sg，快照 2026-10-21）",
- "summary": "新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。",
- "type": "连接产品网店/分销（新加坡，无工业级需求）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Allied Asia – Your Trusted Connectivity Solutions；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Search；New products；Best Selling；WISHLIST；RECENTLY VIEWED",
-   "url": "https://alliedasia.com.sg/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Allied Asia – Your Trusted Connectivity Solutions",
-   "quote": "Allied Asia – Your Trusted Connectivity Solutions ; New products ; Best Selling",
-   "url": "https://alliedasia.com.sg/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "VC / MC / 14 槽机架 / PoE，没工业级",
-   "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Danny Lee",
-   "title": "（表内联系人）",
-   "email": "danny@alliedasia.com.sg",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Kelvin Tan",
-   "title": "Sales Engineer",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "线缆 / 光纤 / MC / SFP / PoE 配件网店"
- ],
- "channels": {
-  "role": "连接产品网店/分销（新加坡，无工业级需求）",
-  "region": "新加坡",
-  "contact": "info@alliedasia.com.sg、danny@alliedasia.com.sg"
- },
- "signals": [
-  "站内 kw：cable 1104 / fiber 253 / switch 292 / poe 264 / media converter 112 / 10g 56",
-  "站内型号 POE-INJ3301ACG（注入器）",
-  "KP：Danny Lee；Kelvin Tan / Sales Engineer（表内）"
- ],
- "risks": [
-  "需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做",
-  "非主攻区（T5）；8 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做"
- },
- "email_hook": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 danny@alliedasia.com.sg, info@alliedasia.com.sg；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-   "type": "连接产品网店/分销（新加坡，无工业级需求）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "新加坡 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的」；研究档 risks：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做"
-  },
-  "situation": "新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。",
-  "need": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做",
-  "breakpoint": "需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-755",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（alliedasia.com.sg，快照 2026-10-21）",
+  "summary": "新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。",
+  "type": "连接产品网店/分销（新加坡，无工业级需求）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Allied Asia – Your Trusted Connectivity Solutions；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Search；New products；Best Selling；WISHLIST；RECENTLY VIEWED",
+      "url": "https://alliedasia.com.sg/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Allied Asia – Your Trusted Connectivity Solutions",
+      "quote": "Allied Asia – Your Trusted Connectivity Solutions ; New products ; Best Selling",
+      "url": "https://alliedasia.com.sg/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "VC / MC / 14 槽机架 / PoE，没工业级",
+      "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Danny Lee",
+      "title": "（表内联系人）",
+      "email": "danny@alliedasia.com.sg",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Kelvin Tan",
+      "title": "Sales Engineer",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "新加坡",
+    "other": "官网 alliedasia.com.sg，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "线缆 / 光纤 / MC / SFP / PoE 配件网店"
+  ],
+  "channels": {
+    "role": "连接产品网店/分销（新加坡，无工业级需求）",
+    "region": "新加坡",
+    "contact": "info@alliedasia.com.sg、danny@alliedasia.com.sg"
+  },
+  "signals": [
+    "站内 kw：cable 1104 / fiber 253 / switch 292 / poe 264 / media converter 112 / 10g 56",
+    "站内型号 POE-INJ3301ACG（注入器）",
+    "KP：Danny Lee；Kelvin Tan / Sales Engineer（表内）"
+  ],
+  "risks": [
+    "需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做",
+    "非主攻区（T5）；8 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做"
+  },
+  "email_hook": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 danny@alliedasia.com.sg, info@alliedasia.com.sg；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+      "type": "连接产品网店/分销（新加坡，无工业级需求）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "新加坡 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的」；研究档 risks：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做"
+    },
+    "situation": "新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。",
+    "need": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做",
+    "breakpoint": "需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-05-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Danny, for the PoE and media-converter section of your catalogue, we supply Marvell-based 8-PoE + 2 SFP L2+ switches from small lots in neutral packing and can check pricing on commercial media converters — which sells more for you, the PoE switch or the converter?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

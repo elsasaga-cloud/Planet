@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德州 College Station 的区域 ISP/CLEC 与 **MDU（多户住宅）/HOA 托管 WiFi 服务商**（2005 年创业、2007-12 注册；创始人 Kyle Leissner；11–50 人 / RocketReach 42 人、营收 $5.1M）：为「全国数百个多户住宅物业」提供最高 1 Gig 互联网（光纤、固定无线、有线、EoC、DSL）、WiFi 部署、语音、电视、安防门禁、托管 IT 与综合布线；SAM 登记 UEI PU66QHF8L5F6（可承接政府业务）。用户表：1 次实质回复，1 次跟进。（调研 2026-10-21；表内兴趣：在找PoE交换机）
 - **为什么是 B 级**：+22 实质回复 1 次；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-01 → 2025-04-01）；最近一次客户回复：2025-04-01：XVLAN or MPLS?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求；按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1；按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd
 - **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串） 发 CENTEC 支持矩阵
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。
 - **对方真实需求（有据）**：运营商汇聚：VXLAN/MPLS + 控制器。
 - **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
-- **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd）——美国运营商 + 创始人直联 + 明确技术需求
+- **Saga 现在该推什么**：P1 **STH 系列 CENTEC（VXLAN/EVPN/MPLS）**（25% 档，按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd）——美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1
   - 做不了 / 要先核的：N；E；T；C；O；N；F；/；控；制；器； ；A；P；I； ；仓；库；无；证； ；→； ；信；里；只；写； ；C；L；I；/；S；N；M；P；；；1；0；G； ；汇；聚；型；号；无；价； ；→； ；不；写
 - **下一步（具体）**：现在　A 邮箱 → kyle@wirestar.net（回到 Marvell Alleycat5 Solution 串）　发 CENTEC 支持矩阵
   - 第一问（只问一个）：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?

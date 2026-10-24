@@ -1,116 +1,116 @@
 {
- "code": "SB-691",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（coredata.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
- "type": "IT 公司（土耳其，待核）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Plesk Obsidian 18.0.81",
-   "quote": "",
-   "url": "https://coredata.com.tr/login_up.php",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "其他",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "其他",
-   "quote": "其他",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "（待核）"
- ],
- "channels": {
-  "role": "IT 公司（土耳其，待核）",
-  "region": "土耳其",
-  "contact": "info@coredata.com.tr、satis@coredata.com.tr"
- },
- "signals": [
-  "快照：Plesk Obsidian 18.0.81（默认页）",
-  "表内：其他"
- ],
- "risks": [
-  "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
- },
- "email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@coredata.com.tr, satis@coredata.com.tr；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "IT 公司（土耳其，待核）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「其他」；研究档 risks：官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
-  },
-  "situation": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
-  "need": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
-  "breakpoint": "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "其他",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "13 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-691",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（coredata.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
+  "type": "IT 公司（土耳其，待核）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Plesk Obsidian 18.0.81",
+      "quote": "",
+      "url": "https://coredata.com.tr/login_up.php",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "其他",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "其他",
+      "quote": "其他",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 coredata.com.tr，语言 en，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "（待核）"
+  ],
+  "channels": {
+    "role": "IT 公司（土耳其，待核）",
+    "region": "土耳其",
+    "contact": "info@coredata.com.tr、satis@coredata.com.tr"
+  },
+  "signals": [
+    "快照：Plesk Obsidian 18.0.81（默认页）",
+    "表内：其他"
+  ],
+  "risks": [
+    "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）"
+  },
+  "email_hook": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@coredata.com.tr, satis@coredata.com.tr；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "IT 公司（土耳其，待核）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 13，Opened 标签 1（Simon 群发追踪）；用户表：「其他」；研究档 risks：官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复"
+    },
+    "situation": "土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。",
+    "need": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）",
+    "breakpoint": "官网为 Plesk 默认页（经营状态待核）；兴趣「其他」；2 次无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2025-10-24) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "其他",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "13 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,108 +1,108 @@
 {
- "code": "SB-958",
- "name_official": "Alam Jaya Management（马来西亚；yahoo）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（yahoo）",
- "summary": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "谈了 1+2+8 商业 POE，问了 OEM",
-   "quote": "兴趣：谈了1+2+8商业POE，问了OEM",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Thiruvaluvar Vajram",
-   "title": "（表内联系人）",
-   "email": "thiru_vajram@yahoo.com",
-   "phone": "+60 17 381 2169",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Alam Jaya Management（待核）",
-  "founded": "",
-  "hq": "Malaysia",
-  "size": "小型",
-  "other": "yahoo"
- },
- "channels": {
-  "role": "（疑经销 / 贴牌）",
-  "region": "马来西亚"
- },
- "signals": [
-  "问 OEM → 贴牌意向"
- ],
- "risks": [
-  "yahoo 邮箱、身份不明"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 30,
-  "why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。"
- },
- "email_hook": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 thiru_vajram@yahoo.com；主题多为「PoE Switch、Industrial fiber switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "马来西亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：谈了1+2+8商业POE，问了OEM」；研究档 risks：yahoo 邮箱、身份不明"
-  },
-  "situation": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
-  "need": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。",
-  "breakpoint": "yahoo 邮箱、身份不明",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：谈了1+2+8商业POE，问了OEM",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "PoE Switch、Industrial fiber switch",
-    "why": "8 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-958",
+  "name_official": "Alam Jaya Management（马来西亚；yahoo）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（yahoo）",
+  "summary": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "谈了 1+2+8 商业 POE，问了 OEM",
+      "quote": "兴趣：谈了1+2+8商业POE，问了OEM",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Thiruvaluvar Vajram",
+      "title": "（表内联系人）",
+      "email": "thiru_vajram@yahoo.com",
+      "phone": "+60 17 381 2169",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Alam Jaya Management（待核）",
+    "founded": "",
+    "hq": "Malaysia",
+    "size": "小型",
+    "other": "yahoo"
+  },
+  "channels": {
+    "role": "（疑经销 / 贴牌）",
+    "region": "马来西亚"
+  },
+  "signals": [
+    "问 OEM → 贴牌意向"
+  ],
+  "risks": [
+    "yahoo 邮箱、身份不明"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 30,
+    "why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。"
+  },
+  "email_hook": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 thiru_vajram@yahoo.com；主题多为「PoE Switch、Industrial fiber switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：谈了1+2+8商业POE，问了OEM」；研究档 risks：yahoo 邮箱、身份不明"
+    },
+    "situation": "马来西亚 Alam Jaya Management（Thiruvaluvar Vajram，yahoo），展会谈了 1+2+8 商用 PoE，问了 OEM；无跟进。",
+    "need": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。",
+    "breakpoint": "yahoo 邮箱、身份不明",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。已打开的主题（1/8 封有打开记录）：「Media Converter」(2024-08-08) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：谈了1+2+8商业POE，问了OEM",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "PoE Switch、Industrial fiber switch",
+        "why": "8 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

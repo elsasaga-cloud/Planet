@@ -97,7 +97,7 @@
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
       "lane": "CA 主攻",
       "cadence": "一封；回了再说",
       "evidence": "gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复"
@@ -109,7 +109,7 @@
       "p1": "STI-288DGGPM",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）",
-      "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线",
+      "why": "OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
@@ -137,7 +137,9 @@
         "k": "gmail_digest"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": {
       "subject": "One question — Mini Industrial PoE Switch",
       "body": "Hi Harshul,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"Commercial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"

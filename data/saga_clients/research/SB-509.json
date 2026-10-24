@@ -101,7 +101,7 @@
       "p1": "STI-288GPM",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）",
-      "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供",
+      "why": "自有 Starlink 标工业 FS/MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标；EoC Saga 不供。已打开的主题（5/35 封有打开记录）：「24 port poe switch」(2024-07-19)、「24 Port Fiber Switch」(2025-02-06)、「Industrial PoE Switch」(2025-07-22)、「Marvell Managed Commercial Switches」(2026-03-18) → 读者兴趣偏「其他」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },

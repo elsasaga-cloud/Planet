@@ -1,104 +1,106 @@
 {
- "code": "SB-912",
- "name_official": "（沙特阿拉伯 · gmail 个人买家 mdirphanmdirphan151）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（免费邮箱/仅电话）",
- "summary": "沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "2光16管理 4pcs；1211 mini → 1212：email发了22mini",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "沙特本地手机 +966 57 173 1310；无公司名"
- },
- "business_lines": [
-  "待核（见表内需求）"
- ],
- "products_seen": [],
- "channels": {
-  "contact": "mdirphanmdirphan151@gmail.com，+966 57 173 1310（WA 已加）"
- },
- "signals": [
-  "2023-12 要 2 光 16 管理型 4 台（小项目）"
- ],
- "risks": [
-  "无公司实体信息，可能是一次性项目",
-  "沙特小额订单清关（SABER）成本高"
- ],
- "saga_fit": {
-  "p1": "STC-2216GPM",
-  "tier": 25,
-  "why": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核"
- },
- "email_hook": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 19 封 2024→2026，1 次记录打开，0 回；收件 mdirphanmdirphan151@gmail.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "沙特阿拉伯 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「2光16管理 4pcs；1211 mini → 1212：email发了22mini」；研究档 risks：无公司实体信息，可能是一次性项目"
-  },
-  "situation": "沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。",
-  "need": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核",
-  "breakpoint": "无公司实体信息，可能是一次性项目",
-  "saga_now": {
-   "p1": "STC-2216GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "2光16管理 4pcs；1211 mini → 1212：email发了22mini",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "19 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-912",
+  "name_official": "（沙特阿拉伯 · gmail 个人买家 mdirphanmdirphan151）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（免费邮箱/仅电话）",
+  "summary": "沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "2光16管理 4pcs；1211 mini → 1212：email发了22mini",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "沙特本地手机 +966 57 173 1310；无公司名"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "mdirphanmdirphan151@gmail.com，+966 57 173 1310（WA 已加）"
+  },
+  "signals": [
+    "2023-12 要 2 光 16 管理型 4 台（小项目）"
+  ],
+  "risks": [
+    "无公司实体信息，可能是一次性项目",
+    "沙特小额订单清关（SABER）成本高"
+  ],
+  "saga_fit": {
+    "p1": "STC-2216GPM",
+    "tier": 25,
+    "why": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核"
+  },
+  "email_hook": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 19 封 2024→2026，1 次记录打开，0 回；收件 mdirphanmdirphan151@gmail.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "沙特阿拉伯 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「2光16管理 4pcs；1211 mini → 1212：email发了22mini」；研究档 risks：无公司实体信息，可能是一次性项目"
+    },
+    "situation": "沙特阿拉伯个人/小商户买家（gmail + 05x 本地手机，WA 已加）。需求「2 光 16 管理 ×4 台」，2023-12 回「email 发了 22 mini」；23 次推送 1 次实质回复。无公司名/域名 → B 慢跟 25%。",
+    "need": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核",
+    "breakpoint": "无公司实体信息，可能是一次性项目",
+    "saga_now": {
+      "p1": "STC-2216GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "表内需求 2 光 16 管理 ×4 → 16 PoE + 2 SFP 管理型（HRUI 列表价）；若非 PoE 则换 16 GE 管理款，待核。已打开的主题（1/19 封有打开记录）：「48 Port PoE Managed Switch」(2025-04-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "2光16管理 4pcs；1211 mini → 1212：email发了22mini",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "19 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

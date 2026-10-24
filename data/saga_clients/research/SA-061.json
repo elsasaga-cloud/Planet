@@ -1,130 +1,130 @@
 {
- "code": "SA-061",
- "name_official": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw，Nettetal, Germany）",
- "website_status": "在线（新域名 walker-security.systems）",
- "summary": "德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。",
- "type": "安防安装商（微型）",
- "size": "UG，注册资本 6,000 €（2 名管理人员）",
- "brands_seen": [
-  "Dahua",
-  "Jablotron",
-  "Ajax"
- ],
- "evidence": [
-  {
-   "kind": "官网 Impressum",
-   "claim": "法人与联系方式",
-   "quote": "Walker Security Systems UG (haftungsbeschränkt) Geschäftsführer: Andrew Walker Ritzbruch 22, 41334 Nettetal Telefonnummer: +49 2153 909 7740 Mobil: +49 177 322 4215 … Registergericht: Krefeld Registernummer: HRB 20953",
-   "url": "https://walker-security.systems/impressum",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（openregister）",
-   "claim": "规模",
-   "quote": "Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €",
-   "url": "https://openregister.de/company/DE-HRB-R3306-95644",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Andrew Walker",
-   "role": "Geschäftsführer/CEO",
-   "email": "info@walker-security.systems",
-   "phone": "+49 177 322 4215",
-   "source": "https://walker-security.systems/impressum"
-  }
- ],
- "grade_override": "B",
- "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
- "notes": "",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
-  "hq": "Nettetal / Mönchengladbach, Germany",
-  "size": "微型 UG（注册资本 €6,000；2 名管理人员）",
-  "other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
- },
- "business_lines": [
-  "视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",
-  "电话系统与智能安防"
- ],
- "channels": {
-  "网站": "https://walker-security.systems/",
-  "Impressum": "https://walker-security.systems/impressum"
- },
- "signals": [
-  "Dahua 认证安装商 → 现用 Dahua PFS 系列 PoE；A 邮箱已有 1 次回复（告知更名）"
- ],
- "risks": [
-  "微型、单量小；偏好品牌原厂 PoE"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP"
- },
- "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（要免费样机被付样规则筛掉）",
-   "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
-   "sieve": "2（「we need to replace a lot of switches」）",
-   "stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回",
-   "revive": "付样 1 台 8 口 PoE 管理型；微型客户复利低，不追",
-   "lane": "DE",
-   "cadence": "2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10",
-   "evidence": "k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c"
-  },
-  "situation": "Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。",
-  "need": "替换一批（数量不明）安防用 PoE 交换机，要管理型。",
-  "breakpoint": "付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。",
-  "saga_now": {
-   "p1": "STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）",
-   "tier": 25,
-   "price": "按规则",
-   "why": "来信再答，不主动",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不主动",
-   "channel": "A 邮箱",
-   "action": "来信时一次报 8 口 PoE 管理型付样价",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-05-13",
-    "dir": "来",
-    "who": "Andrew Walker（CEO）",
-    "quote": "We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem.",
-    "why": "免费样请求",
-    "k": "7136278ff3be94f4"
-   },
-   {
-    "date": "2025-05-13",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "We do not do FREE samples.",
-    "why": "付样规则",
-    "k": "444284f57e12d0d2"
-   },
-   {
-    "date": "2025-06-10",
-    "dir": "来",
-    "who": "Andrew",
-    "quote": "Are the switches manageable ?",
-    "why": "最后一问",
-    "k": "f66547fc66c47b76"
-   }
+  "code": "SA-061",
+  "name_official": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw，Nettetal, Germany）",
+  "website_status": "在线（新域名 walker-security.systems）",
+  "summary": "德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。",
+  "type": "安防安装商（微型）",
+  "size": "UG，注册资本 6,000 €（2 名管理人员）",
+  "brands_seen": [
+    "Dahua",
+    "Jablotron",
+    "Ajax"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网 Impressum",
+      "claim": "法人与联系方式",
+      "quote": "Walker Security Systems UG (haftungsbeschränkt) Geschäftsführer: Andrew Walker Ritzbruch 22, 41334 Nettetal Telefonnummer: +49 2153 909 7740 Mobil: +49 177 322 4215 … Registergericht: Krefeld Registernummer: HRB 20953",
+      "url": "https://walker-security.systems/impressum",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（openregister）",
+      "claim": "规模",
+      "quote": "Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €",
+      "url": "https://openregister.de/company/DE-HRB-R3306-95644",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Andrew Walker",
+      "role": "Geschäftsführer/CEO",
+      "email": "info@walker-security.systems",
+      "phone": "+49 177 322 4215",
+      "source": "https://walker-security.systems/impressum"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
+  "notes": "",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw）",
+    "hq": "Nettetal / Mönchengladbach, Germany",
+    "size": "微型 UG（注册资本 €6,000；2 名管理人员）",
+    "other": "CEO Andrew Walker；Dahua / Jablotron / Ajax 认证安装商；业务：报警、视频监控、门禁、Smart Security、电话系统"
+  },
+  "business_lines": [
+    "视频监控 / 入侵报警 / 门禁安装（Dahua、Jablotron、Ajax）",
+    "电话系统与智能安防"
+  ],
+  "channels": {
+    "网站": "https://walker-security.systems/",
+    "Impressum": "https://walker-security.systems/impressum"
+  },
+  "signals": [
+    "Dahua 认证安装商 → 现用 Dahua PFS 系列 PoE；A 邮箱已有 1 次回复（告知更名）"
+  ],
+  "risks": [
+    "微型、单量小；偏好品牌原厂 PoE"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP"
+  },
+  "email_hook": "For the Dahua video systems you install, a Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP is $84.1 EXW and works with the Dahua NVR auto-discovery; shall I send one unit to Nettetal for a test install?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（要免费样机被付样规则筛掉）",
+      "type": "德国微型安防安装商（UG，注册资本 6,000 €；Dahua/Ajax 认证）——第四档",
+      "sieve": "2（「we need to replace a lot of switches」）",
+      "stop": "2025-05-13 Alan「We do not do FREE samples」→ 2025-06-10 只问「Are the switches manageable?」→ 之后无回",
+      "revive": "付样 1 台 8 口 PoE 管理型；微型客户复利低，不追",
+      "lane": "DE",
+      "cadence": "2025-04 → 2026-09 去信 14 封；最后来信 2025-06-10",
+      "evidence": "k=7136278ff3be94f4 / 444284f57e12d0d2 / f66547fc66c47b76 / 5ed6cfdaf428d52c"
+    },
+    "situation": "Andrew Walker（CEO）2025-05-13 回「要一台免费交换机测试，我们要换一大批」，Alan 按规则拒绝免费样并给热销型号；06-10 他只问了一句「可管理吗」，Alan 答「那是非管理，也有管理系列」后对话结束。",
+    "need": "替换一批（数量不明）安防用 PoE 交换机，要管理型。",
+    "breakpoint": "付样规则是筛子，筛掉了一个微型安装商——符合设计；不改。",
+    "saga_now": {
+      "p1": "STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档）",
+      "tier": 25,
+      "price": "按规则",
+      "why": "来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不主动",
+      "channel": "A 邮箱",
+      "action": "来信时一次报 8 口 PoE 管理型付样价",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-05-13",
+        "dir": "来",
+        "who": "Andrew Walker（CEO）",
+        "quote": "We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we would ordert hem.",
+        "why": "免费样请求",
+        "k": "7136278ff3be94f4"
+      },
+      {
+        "date": "2025-05-13",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "We do not do FREE samples.",
+        "why": "付样规则",
+        "k": "444284f57e12d0d2"
+      },
+      {
+        "date": "2025-06-10",
+        "dir": "来",
+        "who": "Andrew",
+        "quote": "Are the switches manageable ?",
+        "why": "最后一问",
+        "k": "f66547fc66c47b76"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

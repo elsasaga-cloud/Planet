@@ -92,7 +92,7 @@
       "p1": "STC-28DGGPM",
       "tier": 25,
       "price": "按主表（研究档 saga_fit）",
-      "why": "LPR/停车场点位 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；室外箱工业位 STI-154GP / STI-288GPM；16 槽 MC 机架 Saga 无（Q-32）",
+      "why": "LPR/停车场点位 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；室外箱工业位 STI-154GP / STI-288GPM；16 槽 MC 机架 Saga 无（Q-32）。已打开的主题（2/19 封有打开记录）：「10G fiber media converter」(2024-07-26)、「Industrial PoE Switch」(2024-11-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },

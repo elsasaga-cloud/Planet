@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。（调研 2026-10-21；表内兴趣：商业PoE）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/4 封有打开记录）：「Mini Industrial PoE Switch」(2024-10-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。
 - **对方真实需求（有据）**：HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **断点 / 为什么停在这里**：Q-33 口径：HRUI 在售，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；官网 unreachable；未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/4 封有打开记录）：「Mini Industrial PoE Switch」(2024-10-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

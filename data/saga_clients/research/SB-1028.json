@@ -1,115 +1,116 @@
 {
- "code": "SB-1028",
- "name_official": "IT Market（itmarket.co.il，以色列）",
- "researched_at": "2026-10-21",
- "website_status": "在线（快照 2026-10-21，内容空）",
- "summary": "以色列 CCTV 与网络设备供应商（表内：ONV 的工业 FS / MC，网站 CCTV，评估「质量高，50% A」），仅电话 +972 52 647 7172，无邮箱；WA 16 次无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "itmarket.co.il 首页无内容抓取",
-   "quote": "status ok, empty",
-   "url": "https://itmarket.co.il/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV 的工业 FS MC 网站 /CCTV；以色列 CCTV 与网络设备供应商，主营监控设备与工业网络设备；评估质量高 50% A",
-   "quote": "兴趣：ONV的工业FS MC 网站/CCTV;50% A",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "",
-   "phone": "+972 52 647 7172",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内）"
- },
- "company_facts": {
-  "legal_name": "（待核）",
-  "founded": "",
-  "hq": "以色列",
-  "size": "小型经销",
-  "other": "无邮箱，仅 WhatsApp"
- },
- "business_lines": [
-  "CCTV / 工业网络设备经销（ONV）"
- ],
- "channels": {
-  "role": "经销商（已购中国同行 ONV）",
-  "region": "以色列"
- },
- "signals": [
-  "已售 ONV 工业 FS / MC → 同类替换"
- ],
- "risks": [
-  "无邮箱；以色列进口标准（SII）",
-  "WA 无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
- },
- "email_hook": "（无邮箱；WhatsApp：对位 ONV 工业 2 光 8 PoE 报 $57 EXW，附 MC $22）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：ONV的工业FS MC 网站/CCTV;50% A」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "以色列 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：ONV的工业FS MC 网站/CCTV;50% A」；研究档 risks：无邮箱；以色列进口标准（SII）"
-  },
-  "situation": "以色列 CCTV 与网络设备供应商（表内：ONV 的工业 FS / MC，网站 CCTV，评估「质量高，50% A」），仅电话 +972 52 647 7172，无邮箱；WA 16 次无实质回复。",
-  "need": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
-  "breakpoint": "无邮箱；以色列进口标准（SII）",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：ONV的工业FS MC 网站/CCTV;50% A",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1028",
+  "name_official": "IT Market（itmarket.co.il，以色列）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（快照 2026-10-21，内容空）",
+  "summary": "以色列 CCTV 与网络设备供应商（表内：ONV 的工业 FS / MC，网站 CCTV，评估「质量高，50% A」），仅电话 +972 52 647 7172，无邮箱；WA 16 次无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "itmarket.co.il 首页无内容抓取",
+      "quote": "status ok, empty",
+      "url": "https://itmarket.co.il/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ONV 的工业 FS MC 网站 /CCTV；以色列 CCTV 与网络设备供应商，主营监控设备与工业网络设备；评估质量高 50% A",
+      "quote": "兴趣：ONV的工业FS MC 网站/CCTV;50% A",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "",
+      "phone": "+972 52 647 7172",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照空页 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "以色列",
+    "size": "小型经销",
+    "other": "无邮箱，仅 WhatsApp"
+  },
+  "business_lines": [
+    "CCTV / 工业网络设备经销（ONV）"
+  ],
+  "channels": {
+    "role": "经销商（已购中国同行 ONV）",
+    "region": "以色列"
+  },
+  "signals": [
+    "已售 ONV 工业 FS / MC → 同类替换"
+  ],
+  "risks": [
+    "无邮箱；以色列进口标准（SII）",
+    "WA 无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。"
+  },
+  "email_hook": "（无邮箱；WhatsApp：对位 ONV 工业 2 光 8 PoE 报 $57 EXW，附 MC $22）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：ONV的工业FS MC 网站/CCTV;50% A」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "以色列 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：ONV的工业FS MC 网站/CCTV;50% A」；研究档 risks：无邮箱；以色列进口标准（SII）"
+    },
+    "situation": "以色列 CCTV 与网络设备供应商（表内：ONV 的工业 FS / MC，网站 CCTV，评估「质量高，50% A」），仅电话 +972 52 647 7172，无邮箱；WA 16 次无实质回复。",
+    "need": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+    "breakpoint": "无邮箱；以色列进口标准（SII）",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位 ONV 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：ONV的工业FS MC 网站/CCTV;50% A",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

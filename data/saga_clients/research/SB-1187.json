@@ -1,108 +1,108 @@
 {
- "code": "SB-1187",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（fibertronics.com，快照 2026-10-21）",
- "summary": "美国 Fibertronics（美国定制光纤网络方案制造商：MPO 线缆组件、柔性电路、配线、MMC/MDC，面向超大规模/电信/国防/工业；AS9100D；表内「主要是线缆 MC switch VC」）；表内未跟进。",
- "type": "光纤组件制造商（美国，MC/交换机为配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Fiber Optic Connectivity Solutions | Fibertronics；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide.",
-   "url": "https://www.fibertronics.com/",
-   "date": "2026-10-21"
+  "code": "SB-1187",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（fibertronics.com，快照 2026-10-21）",
+  "summary": "美国 Fibertronics（美国定制光纤网络方案制造商：MPO 线缆组件、柔性电路、配线、MMC/MDC，面向超大规模/电信/国防/工业；AS9100D；表内「主要是线缆 MC switch VC」）；表内未跟进。",
+  "type": "光纤组件制造商（美国，MC/交换机为配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Fiber Optic Connectivity Solutions | Fibertronics；品类词 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide.",
+      "url": "https://www.fibertronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是线缆 MC switch VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Fibertronics 定位",
+      "quote": "Fiber Optic Connectivity Solutions | Fibertronics ; USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide",
+      "url": "https://www.fibertronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是线缆 MC switch VC",
+      "quote": "主要是线缆 MC switch VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是线缆 MC switch VC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 fibertronics.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Fibertronics 定位",
-   "quote": "Fiber Optic Connectivity Solutions | Fibertronics ; USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide",
-   "url": "https://www.fibertronics.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "定制光纤线缆组件 / 配线",
+    "MC / 交换机 / VC 配套"
+  ],
+  "channels": {
+    "role": "光纤组件制造商（美国，MC/交换机为配套）",
+    "region": "美国",
+    "contact": "sales@fibertronics.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "主要是线缆 MC switch VC",
-   "quote": "主要是线缆 MC switch VC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide；首页 MPO Cable Assemblies ; Flex Circuit ; Patch Panel Solutions；kw media converter 29 / fiber 151 / cable 82",
+    "表内：主要是线缆 MC switch VC"
+  ],
+  "risks": [
+    "守界备注：客户含国防（defense）——只供民用电信/工业通用 MC/交换机",
+    "主业线缆（Saga 不做），有源为配套；仅 sales@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
+  },
+  "email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "美国光纤组件制造商",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=4e38d41f74d93c9a"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—。已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 fibertronics.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "定制光纤线缆组件 / 配线",
-  "MC / 交换机 / VC 配套"
- ],
- "channels": {
-  "role": "光纤组件制造商（美国，MC/交换机为配套）",
-  "region": "美国",
-  "contact": "sales@fibertronics.com"
- },
- "signals": [
-  "官网：Fibertronics is a USA manufacturer of custom fiber optic network solutions for hyperscale, telecom, defense, and industrial networks nationwide；首页 MPO Cable Assemblies ; Flex Circuit ; Patch Panel Solutions；kw media converter 29 / fiber 151 / cable 82",
-  "表内：主要是线缆 MC switch VC"
- ],
- "risks": [
-  "守界备注：客户含国防（defense）——只供民用电信/工业通用 MC/交换机",
-  "主业线缆（Saga 不做），有源为配套；仅 sales@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "线缆主业配套有源 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 商用 MC 用 HRUI 桌面型（列表价，注明）；国防客户不涉（守界）"
- },
- "email_hook": "Alongside your fibre assemblies, we supply Marvell/Realtek-based gigabit media converters and 8-GE + 2 SFP switches (industrial −40~75 °C or desktop, FCC/CE/RoHS, neutral packing) from small lots, EXW USD — which MC configuration do your telecom and industrial customers bundle most with cable orders?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "美国光纤组件制造商",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=4e38d41f74d93c9a"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

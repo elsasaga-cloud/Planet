@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。（调研 2026-10-21；表内兴趣：N-net的工业FS 刷了自己的标 主要做安防的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰 Avizio（官网快照为空页；表内「N-net 的工业 FS 刷了自己的标，主要做安防的」；邮箱 inquiries@）；表内未跟进。
 - **对方真实需求（有据）**：现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 

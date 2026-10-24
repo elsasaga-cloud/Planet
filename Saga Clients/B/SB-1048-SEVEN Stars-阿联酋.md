@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1048` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 nibu@sevenstarsuae.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「兴趣：工程商 Switch 网站：看着不太相关」；研究档 risks：IT 非主业；WA 无回复
+- **绑定等级：未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 nibu@sevenstarsuae.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「兴趣：工程商 Switch 网站：看着不太相关」；研究档 risks：IT 非主业；WA 无回复
 - **现状一句话**：阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。
 - **对方真实需求（有据）**：通用 CCTV 配套 8 PoE 管理机。
 - **断点 / 为什么停在这里**：IT 非主业；WA 无回复
@@ -55,6 +55,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：工程商 Switch 网站：看着不太相关 | 表内备注 | `用户表` |
 | 2026 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 7 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

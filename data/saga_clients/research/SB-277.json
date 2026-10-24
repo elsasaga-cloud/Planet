@@ -1,134 +1,134 @@
 {
- "code": "SB-277",
- "name_official": "Hamed Electronics LLC（Deira Dubai, UAE；hamedelectronics.com；Nasser Abdullatif Ahmed Lootah Group 弱电集成商）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位、集团、联系方式",
-   "quote": "HAMED ELECTRONICS LLC IS A LEADING SPECIALIZED COMPANY IN LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP. … Approved By Dubai Police … CCTV, SMATV, Security, Access Control, P.A, Central Clock, Telephone … P. O. Box: 379738, Deira Dubai, UAE Telephone: 04-2281214 Email: info@hamedelectronics.com",
-   "url": "https://hamedelectronics.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "规模与 KP 职务",
-   "quote": "Hamed Electronics … <$5M … 1-10 … Anil Joseph Project Manager … clients span across various sectors including hospitality, education, government, and healthcare",
-   "url": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Intersec 2012；PoE 手册；买了 2ch 样品；WA 已加",
-   "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Anil P. Joseph",
-   "role": "Project Manager（ZoomInfo）/ 工程师（用户表）",
-   "email": "agrajan@eim.ae（用户表，待核归属）",
-   "phone": "+971 50 452 6169（用户表）",
-   "source": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106"
-  },
-  {
-   "name": "A.G. Varghese",
-   "role": "Director（用户表）",
-   "email": "—",
-   "phone": "+971 50 654 0470（用户表）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Hamed Electronics LLC",
-  "founded": "1985",
-  "hq": "Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com）",
-  "size": "1–10（ZoomInfo）；营收 <$5M",
-  "other": "Lootah 集团成员；Dubai Police 认证安防承包商"
- },
- "business_lines": [
-  "弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）",
-  "酒店/教育/政府/医疗项目"
- ],
- "channels": {
-  "网站": "https://hamedelectronics.com/",
-  "电话": "+971 4 228 1214（公开）；手机 +971 50 452 6169 / +971 50 654 0470（用户表，WA 已加）",
-  "邮箱（公开）": "info@hamedelectronics.com；agrajan@eim.ae（用户表）"
- },
- "signals": [
-  "已购样品 + 项目型集成商 → CCTV 项目 PoE 交换机复购；政府客户按个案守界"
- ],
- "risks": [
-  "小团队、项目节奏；2012 后无互动；中东非主攻区"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 agajan@eim.ae, agrajan@eim.ae；主题多为「48 port managed switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿联酋 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese d」；研究档 risks：小团队、项目节奏；2012 后无互动；中东非主攻区"
-  },
-  "situation": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
-  "need": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "小团队、项目节奏；2012 后无互动；中东非主攻区",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "48 port managed switch",
-    "why": "1 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-277",
+  "name_official": "Hamed Electronics LLC（Deira Dubai, UAE；hamedelectronics.com；Nasser Abdullatif Ahmed Lootah Group 弱电集成商）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位、集团、联系方式",
+      "quote": "HAMED ELECTRONICS LLC IS A LEADING SPECIALIZED COMPANY IN LOW VOLTAGE SYSTEM INTEGRATION FROM YEAR 1985 AS A PART OF NASSER ABDULLATIF AHMED LOOTAH GROUP. … Approved By Dubai Police … CCTV, SMATV, Security, Access Control, P.A, Central Clock, Telephone … P. O. Box: 379738, Deira Dubai, UAE Telephone: 04-2281214 Email: info@hamedelectronics.com",
+      "url": "https://hamedelectronics.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "规模与 KP 职务",
+      "quote": "Hamed Electronics … <$5M … 1-10 … Anil Joseph Project Manager … clients span across various sectors including hospitality, education, government, and healthcare",
+      "url": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Intersec 2012；PoE 手册；买了 2ch 样品；WA 已加",
+      "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Anil P. Joseph",
+      "role": "Project Manager（ZoomInfo）/ 工程师（用户表）",
+      "email": "agrajan@eim.ae（用户表，待核归属）",
+      "phone": "+971 50 452 6169（用户表）",
+      "source": "https://www.zoominfo.com/c/hamed-electronics-llc/397459106"
+    },
+    {
+      "name": "A.G. Varghese",
+      "role": "Director（用户表）",
+      "email": "—",
+      "phone": "+971 50 654 0470（用户表）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Hamed Electronics LLC",
+    "founded": "1985",
+    "hq": "Deira, Dubai, UAE（P.O. Box 379738；+971 4 228 1214；info@hamedelectronics.com）",
+    "size": "1–10（ZoomInfo）；营收 <$5M",
+    "other": "Lootah 集团成员；Dubai Police 认证安防承包商"
+  },
+  "business_lines": [
+    "弱电集成（CCTV、SMATV、门禁、PA、时钟、电话）",
+    "酒店/教育/政府/医疗项目"
+  ],
+  "channels": {
+    "网站": "https://hamedelectronics.com/",
+    "电话": "+971 4 228 1214（公开）；手机 +971 50 452 6169 / +971 50 654 0470（用户表，WA 已加）",
+    "邮箱（公开）": "info@hamedelectronics.com；agrajan@eim.ae（用户表）"
+  },
+  "signals": [
+    "已购样品 + 项目型集成商 → CCTV 项目 PoE 交换机复购；政府客户按个案守界"
+  ],
+  "risks": [
+    "小团队、项目节奏；2012 后无互动；中东非主攻区"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 agajan@eim.ae, agrajan@eim.ae；主题多为「48 port managed switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "阿联酋 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese d」；研究档 risks：小团队、项目节奏；2012 后无互动；中东非主攻区"
+    },
+    "situation": "迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。",
+    "need": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "小团队、项目节奏；2012 后无互动；中东非主攻区",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "48 port managed switch",
+        "why": "1 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

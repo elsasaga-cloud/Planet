@@ -1,159 +1,161 @@
 {
- "code": "SB-044",
- "name_official": "Tera Technologies and Engineering Limited (TTEL)",
- "researched_at": "2026-10-21",
- "website_status": "在线（teratech.co.tz，快照 2026-10-21）",
- "summary": "坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "LinkedIn",
-   "claim": "注册信息与规模",
-   "quote": "incorporated under Tanzanian Companies Act 2002 on 9th September, 2011 under certificate of Incorporation No: 85715… Telecommunications, ICT, Power and Security Systems solutions… Company size: 11-50 employees… Founded: 2011",
-   "url": "https://tz.linkedin.com/company/tera-technologies-and-engineering-limited",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "CEO 与规模：Eng. Daudi Charles，50+ 员工，达市 + 多多马",
-   "quote": "Daudi Charles is the Chief Executive Office and Co-Founder… the company has more than 50 employees and three offices in Dar es Salaam and Dodoma",
-   "url": "https://ttel.co.tz/about",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "CRB 一级承包商（电信 / ICT / 安防）",
-   "quote": "TTEL is registered with CRB as Class One Contractors in Telecommunications, ICT and Security Systems",
-   "url": "https://clutch.co/profile/tera-technologies-engineering",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务：电信微波基础设施、企业链路、工业自动化 / IoT、安防、软件平台",
-   "quote": "TeraTech designs, installs, and maintains telecom and microwave infrastructure… Industrial Automation, IoT Solutions… 500+ Sites Connected",
-   "url": "https://www.teratech.co.tz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "营收约 $5.3M / 35 人（RocketReach）",
-   "quote": "$5.3 million in revenue and 35 employees",
-   "url": "https://rocketreach.co/tera-technologies-and-engineering-limited-profile_b4497cfdfcd4de6e",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "回复：2 光 2 小壳邮件；18 口 2.5G→是 PoE 吗；Marvell 组合→Are they Giga Ethernet Switches；工业 16/24 口→可能会用到",
-   "quote": "回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ramadhani Ndijuye",
-   "title": "（表内联系人）",
-   "email": "rndijuye@gmail.com",
-   "phone": "+255 769 320 545",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Eng. Daudi Charles",
-   "title": "Co-Founder & CEO",
-   "email": "info@teratech.co.tz",
-   "phone": "+255 754 247 576",
-   "source": "https://ttel.co.tz/about"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "Tera Technologies and Engineering Limited",
-  "founded": "2011-09-09",
-  "hq": "Mbezi Beach / Sinza, Dar es Salaam, Tanzania（P.O. Box 31257）",
-  "size": "35–50+ 人，营收约 $5M",
-  "other": "CRB Class One（Telecom/ICT/Security）；ASIS 会员"
- },
- "business_lines": [
-  "电信与微波基础设施（站点建设、企业链路）",
-  "ICT 网络与安防系统集成",
-  "工业自动化 / IoT",
-  "电力 / HVAC",
-  "自有软件平台（TeraPay、VTS 车辆追踪）"
- ],
- "channels": {
-  "role": "系统集成 / 承包商（项目）",
-  "region": "坦桑尼亚 + 邻国"
- },
- "signals": [
-  "对工业 16/24 口「可能会用到」（2025-02）",
-  "500+ 站点 + 工业自动化线 → 工业交换机真实场景"
- ],
- "risks": [
-  "东非项目付款周期长；T/T 预付",
-  "政府/电信项目按单核对用途（守界：非军警）"
- ],
- "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 25,
-  "why": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。"
- },
- "email_hook": "Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 2 封 2024，无记录打开，0 回；收件 rndijuye@gmail.com；主题多为「Industrial Fiber Switch、8 Port 2.5G Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "坦桑尼亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 2；用户表：「回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到」；研究档 risks：东非项目付款周期长；T/T 预付"
-  },
-  "situation": "坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。",
-  "need": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。",
-  "breakpoint": "东非项目付款周期长；T/T 预付",
-  "saga_now": {
-   "p1": "STI-21616GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "Industrial Fiber Switch、8 Port 2.5G Switch",
-    "why": "2 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-044",
+  "name_official": "Tera Technologies and Engineering Limited (TTEL)",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（teratech.co.tz，快照 2026-10-21）",
+  "summary": "坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "LinkedIn",
+      "claim": "注册信息与规模",
+      "quote": "incorporated under Tanzanian Companies Act 2002 on 9th September, 2011 under certificate of Incorporation No: 85715… Telecommunications, ICT, Power and Security Systems solutions… Company size: 11-50 employees… Founded: 2011",
+      "url": "https://tz.linkedin.com/company/tera-technologies-and-engineering-limited",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "CEO 与规模：Eng. Daudi Charles，50+ 员工，达市 + 多多马",
+      "quote": "Daudi Charles is the Chief Executive Office and Co-Founder… the company has more than 50 employees and three offices in Dar es Salaam and Dodoma",
+      "url": "https://ttel.co.tz/about",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "CRB 一级承包商（电信 / ICT / 安防）",
+      "quote": "TTEL is registered with CRB as Class One Contractors in Telecommunications, ICT and Security Systems",
+      "url": "https://clutch.co/profile/tera-technologies-engineering",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务：电信微波基础设施、企业链路、工业自动化 / IoT、安防、软件平台",
+      "quote": "TeraTech designs, installs, and maintains telecom and microwave infrastructure… Industrial Automation, IoT Solutions… 500+ Sites Connected",
+      "url": "https://www.teratech.co.tz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "营收约 $5.3M / 35 人（RocketReach）",
+      "quote": "$5.3 million in revenue and 35 employees",
+      "url": "https://rocketreach.co/tera-technologies-and-engineering-limited-profile_b4497cfdfcd4de6e",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "回复：2 光 2 小壳邮件；18 口 2.5G→是 PoE 吗；Marvell 组合→Are they Giga Ethernet Switches；工业 16/24 口→可能会用到",
+      "quote": "回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ramadhani Ndijuye",
+      "title": "（表内联系人）",
+      "email": "rndijuye@gmail.com",
+      "phone": "+255 769 320 545",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Eng. Daudi Charles",
+      "title": "Co-Founder & CEO",
+      "email": "info@teratech.co.tz",
+      "phone": "+255 754 247 576",
+      "source": "https://ttel.co.tz/about"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + LinkedIn + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Tera Technologies and Engineering Limited",
+    "founded": "2011-09-09",
+    "hq": "Mbezi Beach / Sinza, Dar es Salaam, Tanzania（P.O. Box 31257）",
+    "size": "35–50+ 人，营收约 $5M",
+    "other": "CRB Class One（Telecom/ICT/Security）；ASIS 会员"
+  },
+  "business_lines": [
+    "电信与微波基础设施（站点建设、企业链路）",
+    "ICT 网络与安防系统集成",
+    "工业自动化 / IoT",
+    "电力 / HVAC",
+    "自有软件平台（TeraPay、VTS 车辆追踪）"
+  ],
+  "channels": {
+    "role": "系统集成 / 承包商（项目）",
+    "region": "坦桑尼亚 + 邻国"
+  },
+  "signals": [
+    "对工业 16/24 口「可能会用到」（2025-02）",
+    "500+ 站点 + 工业自动化线 → 工业交换机真实场景"
+  ],
+  "risks": [
+    "东非项目付款周期长；T/T 预付",
+    "政府/电信项目按单核对用途（守界：非军警）"
+  ],
+  "saga_fit": {
+    "p1": "STI-21616GP",
+    "tier": 25,
+    "why": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。"
+  },
+  "email_hook": "Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 2 封 2024，无记录打开，0 回；收件 rndijuye@gmail.com；主题多为「Industrial Fiber Switch、8 Port 2.5G Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "坦桑尼亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 2；用户表：「回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到」；研究档 risks：东非项目付款周期长；T/T 预付"
+    },
+    "situation": "坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。",
+    "need": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。",
+    "breakpoint": "东非项目付款周期长；T/T 预付",
+    "saga_now": {
+      "p1": "STI-21616GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial Fiber Switch、8 Port 2.5G Switch",
+        "why": "2 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

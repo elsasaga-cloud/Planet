@@ -1,147 +1,148 @@
 {
- "code": "SB-122",
- "name_official": "A Hamson Inc.（ahamson.com；多伦多总部，迪拜 Burjuman Business Tower 与伊斯兰堡办公室）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与办公室",
-   "quote": "Design, Build and Support IT & Telecom networks for many regional leading public and private sector companies. MIDDLE EAST: Office: 920 Burjuman Business Towers Dubai… Pakistan: 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad",
-   "url": "https://www.ahamson.com/contact.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "成立与总部",
-   "quote": "Industry: Information Technology & Services; Company size: 1,001-5,000 employees; Headquarters: Toronto; Founded: 1985; Locations: Toronto, Dubai",
-   "url": "https://ca.linkedin.com/company/ahamson",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "实际规模口径",
-   "quote": "A Hamson Inc. … 67 Employees Found … Founded 1985 … HQ Toronto",
-   "url": "https://contactout.com/company/a-hamson-inc-7728830",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "IBM 伙伴",
-   "quote": "A HAMSON INC. … Address 12th, 3rd Floor Al Babar Center F-8 Markaz, Islamabad … http://www.ahamson.com",
-   "url": "https://www.ibm.com/partnerplus/directory/company/9661",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "需求与回复",
-   "quote": "GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tahmad",
-   "role": "（职位未核；表内联系人）",
-   "email": "tahmad@ahamson.com",
-   "phone": "+971 55 144 9500（WA 已加）",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对）"
- },
- "company_facts": {
-  "legal_name": "A Hamson Inc.（中东：A Hamson Middle East FZE）",
-  "founded": "1985",
-  "hq": "Toronto/Milton, Ontario, Canada；中东：920 Burjuman Business Towers, Dubai；巴基斯坦：3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad",
-  "size": "ContactOut 51–200（67 人可查）；SignalHire ~64；LinkedIn 自报 1,001–5,000（存疑）",
-  "other": "IBM PartnerPlus 目录收录；巴基斯坦 Branches.pk 联系人 Mirza Naveed Hameed naveed@ahamson.com；hr@ahamson.com 招聘"
- },
- "business_lines": [
-  "IT 与电信网络的设计/建设/运维（公共与私营大客户）",
-  "软件开发、BI、DDoS 安全服务",
-  "项目型设备供应（思科光模块等）"
- ],
- "products_seen": [
-  {
-   "brand": "Cisco",
-   "model": "GLC-LH-SMD",
-   "spec": "1000BASE-LX/LH SFP 单模 10 km（表内询 9 只）",
-   "saga": "Saga 价目无光模块（Q-32）；接入交换机可配 STC-424DGGPM-280W",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "official": "info@ahamson.com；ahamson.com/contact.html",
-  "contact": "Tahmad tahmad@ahamson.com，+971 55 144 9500（WA 已加）"
- },
- "signals": [
-  "2024-04 询 Cisco SFP 9 只（项目补料型采购）",
-  "2025-09 对 2.5G 交换机表示会问客户"
- ],
- "risks": [
-  "思科/IBM 生态集成商，品牌替换意愿低",
-  "需求以原厂配件为主；Saga 无光模块价目"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）"
- },
- "email_hook": "When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "阿联酋 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」；研究档 risks：思科/IBM 生态集成商，品牌替换意愿低"
-  },
-  "situation": "网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。",
-  "need": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）",
-  "breakpoint": "思科/IBM 生态集成商，品牌替换意愿低",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-122",
+  "name_official": "A Hamson Inc.（ahamson.com；多伦多总部，迪拜 Burjuman Business Tower 与伊斯兰堡办公室）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与办公室",
+      "quote": "Design, Build and Support IT & Telecom networks for many regional leading public and private sector companies. MIDDLE EAST: Office: 920 Burjuman Business Towers Dubai… Pakistan: 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad",
+      "url": "https://www.ahamson.com/contact.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "成立与总部",
+      "quote": "Industry: Information Technology & Services; Company size: 1,001-5,000 employees; Headquarters: Toronto; Founded: 1985; Locations: Toronto, Dubai",
+      "url": "https://ca.linkedin.com/company/ahamson",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "实际规模口径",
+      "quote": "A Hamson Inc. … 67 Employees Found … Founded 1985 … HQ Toronto",
+      "url": "https://contactout.com/company/a-hamson-inc-7728830",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "IBM 伙伴",
+      "quote": "A HAMSON INC. … Address 12th, 3rd Floor Al Babar Center F-8 Markaz, Islamabad … http://www.ahamson.com",
+      "url": "https://www.ibm.com/partnerplus/directory/company/9661",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "需求与回复",
+      "quote": "GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Tahmad",
+      "role": "（职位未核；表内联系人）",
+      "email": "tahmad@ahamson.com",
+      "phone": "+971 55 144 9500（WA 已加）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对）"
+  },
+  "company_facts": {
+    "legal_name": "A Hamson Inc.（中东：A Hamson Middle East FZE）",
+    "founded": "1985",
+    "hq": "Toronto/Milton, Ontario, Canada；中东：920 Burjuman Business Towers, Dubai；巴基斯坦：3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad",
+    "size": "ContactOut 51–200（67 人可查）；SignalHire ~64；LinkedIn 自报 1,001–5,000（存疑）",
+    "other": "IBM PartnerPlus 目录收录；巴基斯坦 Branches.pk 联系人 Mirza Naveed Hameed naveed@ahamson.com；hr@ahamson.com 招聘"
+  },
+  "business_lines": [
+    "IT 与电信网络的设计/建设/运维（公共与私营大客户）",
+    "软件开发、BI、DDoS 安全服务",
+    "项目型设备供应（思科光模块等）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Cisco",
+      "model": "GLC-LH-SMD",
+      "spec": "1000BASE-LX/LH SFP 单模 10 km（表内询 9 只）",
+      "saga": "Saga 价目无光模块（Q-32）；接入交换机可配 STC-424DGGPM-280W",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "official": "info@ahamson.com；ahamson.com/contact.html",
+    "contact": "Tahmad tahmad@ahamson.com，+971 55 144 9500（WA 已加）"
+  },
+  "signals": [
+    "2024-04 询 Cisco SFP 9 只（项目补料型采购）",
+    "2025-09 对 2.5G 交换机表示会问客户"
+  ],
+  "risks": [
+    "思科/IBM 生态集成商，品牌替换意愿低",
+    "需求以原厂配件为主；Saga 无光模块价目"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）"
+  },
+  "email_hook": "When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "阿联酋 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」；研究档 risks：思科/IBM 生态集成商，品牌替换意愿低"
+    },
+    "situation": "网络集成商 A Hamson Inc.（1985 年创立，总部多伦多，迪拜与伊斯兰堡设办公室；设计/建设/运维企业与运营商网络，IBM 合作伙伴；实际规模 51–200 人量级，LinkedIn 自报 1,001–5,000 存疑）。表内中东实体 A Hamson Middle East FZE，联系人 Tahmad（tahmad@ahamson.com，WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只，2025-09 对 2.5G 交换机回「问一下客户是否需要」；19 次推送 1 次实质回复。思科系集成商，Saga 产品只在边缘/配套项目有机会 → B 25%。",
+    "need": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）",
+    "breakpoint": "思科/IBM 生态集成商，品牌替换意愿低",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成商项目配套：24 口 PoE L2+ 走量款做园区/监控接入；其光模块需求需另向供应商索价（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

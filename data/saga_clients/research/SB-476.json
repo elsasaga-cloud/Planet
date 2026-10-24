@@ -1,135 +1,135 @@
 {
- "code": "SB-476",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（octogate.de，快照 2026-10-21）",
- "summary": "德国 OctoGate（IT 安全方案：防火墙/病毒/垃圾邮件一体机、WLAN、交换机、云服务，「IT-Infrastruktur made in Germany」；表内「飞速（FS.com）的」「可以着重跟一下」；KP Frank Menne（Managing Director，frank.menne@））；群发 7 次无回复。",
- "type": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
- "size": "",
- "brands_seen": [
-  "FS.com"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Die umfassende OctoGate IT-Sicherheitslösung für Ihr Unternehmen；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Lassen Sie die Zukunft einziehen. OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany.",
-   "url": "https://www.octogate.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "飞速的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "OctoGate IT 安全方案",
-   "quote": "Die umfassende OctoGate IT-Sicherheitslösung für Ihr Unternehmen ; OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany.",
-   "url": "https://www.octogate.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "飞速的，可着重跟",
-   "quote": "飞速的；可以着重跟一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Frank Menne",
-   "title": "Managing Director",
-   "email": "frank.menne@octogate.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "防火墙 / 安全一体机",
-  "WLAN / 交换机（贴标）/ 云服务"
- ],
- "channels": {
-  "role": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
-  "region": "德国",
-  "contact": "info@octogate.de、frank.menne@octogate.de"
- },
- "signals": [
-  "官网：OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany；栏目 Firewall / WLAN / Switches / Cloud",
-  "表内：飞速的；可以着重跟一下；KP Frank Menne / Managing Director"
- ],
- "risks": [
-  "现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入",
-  "「made in Germany」宣传：贴标需配合其口径；7 次无回复 → 改向 MD 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 30,
-  "why": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP"
- },
- "email_hook": "Frank, for the switches sold under the OctoGate label alongside your firewalls and APs, we can be a second source on a Marvell L2+ platform (24-GE + 4×10G, PoE+ option) from small lots in your housing, CE/RoHS — which model would you consider dual-sourcing first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 frank.menne@octogate.de, info@octogate.de；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「飞速的」；研究档 risks：现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入"
-  },
-  "situation": "德国 OctoGate（IT 安全方案：防火墙/病毒/垃圾邮件一体机、WLAN、交换机、云服务，「IT-Infrastruktur made in Germany」；表内「飞速（FS.com）的」「可以着重跟一下」；KP Frank Menne（Managing Director，frank.menne@））；群发 7 次无回复。",
-  "need": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP",
-  "breakpoint": "现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Frank, for the switches sold under the OctoGate label alongside your firewalls and APs, we can be a second source on a Marvell L2+ platform (24-GE + 4×10G, PoE+ option) from small lots in your housing, CE/RoHS — which model would you consider dual-sourcing first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "飞速的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-476",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（octogate.de，快照 2026-10-21）",
+  "summary": "德国 OctoGate（IT 安全方案：防火墙/病毒/垃圾邮件一体机、WLAN、交换机、云服务，「IT-Infrastruktur made in Germany」；表内「飞速（FS.com）的」「可以着重跟一下」；KP Frank Menne（Managing Director，frank.menne@））；群发 7 次无回复。",
+  "type": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
+  "size": "",
+  "brands_seen": [
+    "FS.com"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Die umfassende OctoGate IT-Sicherheitslösung für Ihr Unternehmen；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Lassen Sie die Zukunft einziehen. OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany.",
+      "url": "https://www.octogate.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "飞速的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "OctoGate IT 安全方案",
+      "quote": "Die umfassende OctoGate IT-Sicherheitslösung für Ihr Unternehmen ; OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany.",
+      "url": "https://www.octogate.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "飞速的，可着重跟",
+      "quote": "飞速的；可以着重跟一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Frank Menne",
+      "title": "Managing Director",
+      "email": "frank.menne@octogate.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 octogate.de，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "防火墙 / 安全一体机",
+    "WLAN / 交换机（贴标）/ 云服务"
+  ],
+  "channels": {
+    "role": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
+    "region": "德国",
+    "contact": "info@octogate.de、frank.menne@octogate.de"
+  },
+  "signals": [
+    "官网：OctoGate bietet sichere Netzwerklösungen, Clouddienste, WLAN Ausstattung und IT-Infrastruktur made in Germany；栏目 Firewall / WLAN / Switches / Cloud",
+    "表内：飞速的；可以着重跟一下；KP Frank Menne / Managing Director"
+  ],
+  "risks": [
+    "现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入",
+    "「made in Germany」宣传：贴标需配合其口径；7 次无回复 → 改向 MD 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 30,
+    "why": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP"
+  },
+  "email_hook": "Frank, for the switches sold under the OctoGate label alongside your firewalls and APs, we can be a second source on a Marvell L2+ platform (24-GE + 4×10G, PoE+ option) from small lots in your housing, CE/RoHS — which model would you consider dual-sourcing first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 frank.menne@octogate.de, info@octogate.de；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「飞速的」；研究档 risks：现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入"
+    },
+    "situation": "德国 OctoGate（IT 安全方案：防火墙/病毒/垃圾邮件一体机、WLAN、交换机、云服务，「IT-Infrastruktur made in Germany」；表内「飞速（FS.com）的」「可以着重跟一下」；KP Frank Menne（Managing Director，frank.menne@））；群发 7 次无回复。",
+    "need": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP",
+    "breakpoint": "现供 FS.com（深圳飞速）：价格与交期基准强，需以定制/贴标灵活度切入",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 OctoGate 标交换机现由 FS.com 供货 → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）贴 OctoGate 标；PoE 版 STC-424DGGPM-280W（$145.7）配其 WLAN AP。已打开的主题（1/18 封有打开记录）：「Marvell Industrial Alert System」(2025-06-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Frank, for the switches sold under the OctoGate label alongside your firewalls and APs, we can be a second source on a Marvell L2+ platform (24-GE + 4×10G, PoE+ option) from small lots in your housing, CE/RoHS — which model would you consider dual-sourcing first?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "飞速的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

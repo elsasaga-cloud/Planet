@@ -1,99 +1,100 @@
 {
- "code": "SB-1014",
- "name_official": "Eleandro（巴西；仅 WhatsApp +55 54）",
- "researched_at": "2026-10-21",
- "website_status": "无域名、无邮箱",
- "summary": "巴西南里奥格兰德（+55 54）联系人 Eleandro，主动问过千兆 MC 与商用 PoE 价格；无邮箱无公司；WA 6 次无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "主动问了 GMC 和商业 POE 价格",
-   "quote": "兴趣：主动问了GMC和商业POE价格",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Eleandro",
-   "title": "（表内联系人）",
-   "email": "",
-   "phone": "+55 54 8141 3288",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
-  "hq": "巴西（RS）",
+  "code": "SB-1014",
+  "name_official": "Eleandro（巴西；仅 WhatsApp +55 54）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名、无邮箱",
+  "summary": "巴西南里奥格兰德（+55 54）联系人 Eleandro，主动问过千兆 MC 与商用 PoE 价格；无邮箱无公司；WA 6 次无实质回复。",
+  "type": "",
   "size": "",
-  "other": "仅 WhatsApp"
- },
- "channels": {
-  "role": "（疑安装商）",
-  "region": "巴西"
- },
- "risks": [
-  "无邮箱；巴西进口税高、ANATEL 认证"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。"
- },
- "email_hook": "（无邮箱；WhatsApp 报 STC-28DGGPM $84 + GMC $23）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主动问了GMC和商业POE价格」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "巴西 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：主动问了GMC和商业POE价格」；研究档 risks：无邮箱；巴西进口税高、ANATEL 认证"
-  },
-  "situation": "巴西南里奥格兰德（+55 54）联系人 Eleandro，主动问过千兆 MC 与商用 PoE 价格；无邮箱无公司；WA 6 次无实质回复。",
-  "need": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。",
-  "breakpoint": "无邮箱；巴西进口税高、ANATEL 认证",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：主动问了GMC和商业POE价格",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "主动问了 GMC 和商业 POE 价格",
+      "quote": "兴趣：主动问了GMC和商业POE价格",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Eleandro",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "+55 54 8141 3288",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "巴西（RS）",
+    "size": "",
+    "other": "仅 WhatsApp"
+  },
+  "channels": {
+    "role": "（疑安装商）",
+    "region": "巴西"
+  },
+  "risks": [
+    "无邮箱；巴西进口税高、ANATEL 认证"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。"
+  },
+  "email_hook": "（无邮箱；WhatsApp 报 STC-28DGGPM $84 + GMC $23）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主动问了GMC和商业POE价格」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "巴西 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：主动问了GMC和商业POE价格」；研究档 risks：无邮箱；巴西进口税高、ANATEL 认证"
+    },
+    "situation": "巴西南里奥格兰德（+55 54）联系人 Eleandro，主动问过千兆 MC 与商用 PoE 价格；无邮箱无公司；WA 6 次无实质回复。",
+    "need": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。",
+    "breakpoint": "无邮箱；巴西进口税高、ANATEL 认证",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "商用 PoE 询价 → STC-28DGGPM；GMC → STI-110GE。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：主动问了GMC和商业POE价格",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

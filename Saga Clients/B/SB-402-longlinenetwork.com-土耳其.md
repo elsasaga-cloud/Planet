@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。（调研 2026-10-21；表内兴趣：SFP MC（主要）  10GMC 是E-link的 看后边链接）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。已打开的主题（1/11 封有打开记录）：「Industrial poe switch」(2024-08-05) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。
 - **对方真实需求（有据）**：MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。
 - **断点 / 为什么停在这里**：SFP 主业不供；仅 info@
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。已打开的主题（1/11 封有打开记录）：「Industrial poe switch」(2024-08-05) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?
 

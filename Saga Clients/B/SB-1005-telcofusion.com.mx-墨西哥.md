@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1005` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：reverse POE板子；回复：4个」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：墨西哥 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：reverse POE板子；回复：4个」；研究档 risks：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：reverse POE板子；回复：4个」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：墨西哥 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：reverse POE板子；回复：4个」；研究档 risks：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）
 - **现状一句话**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。
 - **对方真实需求（有据）**：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。
 - **断点 / 为什么停在这里**：reverse PoE 板 / 10G MC 均不在 Saga 价目（SmartByte 另询）
@@ -54,7 +54,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：reverse POE板子；回复：4个 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。（调研 2026-10-21；表内兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少 公司地址：No 59-1 & 59-2 Jalan MPK了,Medan Perdagangan Kepayang,70200 Seremban, ）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。
 - **对方真实需求（有据）**：24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。
 - **断点 / 为什么停在这里**：硬件非主业；品牌偏好
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.
 

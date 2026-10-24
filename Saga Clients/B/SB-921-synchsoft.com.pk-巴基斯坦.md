@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-921` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：USB to 1000M media converter」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：USB to 1000M media converter」；研究档 risks：需求 USB MC 不在 Saga 线；价格敏感
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：USB to 1000M media converter」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：USB to 1000M media converter」；研究档 risks：需求 USB MC 不在 Saga 线；价格敏感
 - **现状一句话**：巴基斯坦 IT / 网络公司 SYNCHCOM（站内 PoE 词频 19），Muhammad Babar（价格敏感），需求 USB 转千兆 MC（Saga 无）；WA 4 次无实质回复。
 - **对方真实需求（有据）**：USB 转千兆 MC 不供；无主推型。
 - **断点 / 为什么停在这里**：需求 USB MC 不在 Saga 线；价格敏感
@@ -54,7 +54,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：USB to 1000M media converter | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

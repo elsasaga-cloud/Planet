@@ -1,106 +1,107 @@
 {
- "code": "SB-295",
- "name_official": "OMEGATEC SARL（喀麦隆；gmail）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（免费邮箱/仅电话）",
- "summary": "喀麦隆网络设备转售商 OMEGATEC SARL（Stephane Mbongou，gmail，WA 已加；搜索无公开资料）。要 16 口千兆 PoE 交换机与价格表、自称 Reseller；2024 问多光口交换机、12 光 L3；20 次推送 1 次实质回复。→ B 20%（经销）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12光L3",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Stephane Mbongou",
-   "role": "（表内 Mr.）",
-   "email": "omegatec3@gmail.com",
-   "phone": "+237 6 53 28 33 01（WA 已加）",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "+237 653 283 301（表内 237 532 83301）；法语区"
- },
- "business_lines": [
-  "待核（见表内需求）"
- ],
- "products_seen": [],
- "channels": {
-  "contact": "Stephane Mbongou omegatec3@gmail.com，+237 6 53 28 33 01（WA 已加）"
- },
- "signals": [
-  "2024-04 问多光口交换机；要 12 光 L3（汇聚需求）"
- ],
- "risks": [
-  "无公司资料、gmail",
-  "12 光 L3 不在 Saga 价目（可报 STC-424XGGM(L3)）"
- ],
- "saga_fit": {
-  "p1": "STC-2016GP",
-  "tier": 20,
-  "why": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位"
- },
- "email_hook": "Vous cherchiez un switch 16 ports Gigabit PoE et une liste de prix revendeur — je peux envoyer la grille USD EXW (16 PoE + 2 SFP, et le modèle L3 24 ports + 4×10G). Quelle quantité par commande ?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "喀麦隆 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12」；研究档 risks：无公司资料、gmail"
-  },
-  "situation": "喀麦隆网络设备转售商 OMEGATEC SARL（Stephane Mbongou，gmail，WA 已加；搜索无公开资料）。要 16 口千兆 PoE 交换机与价格表、自称 Reseller；2024 问多光口交换机、12 光 L3；20 次推送 1 次实质回复。→ B 20%（经销）。",
-  "need": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位",
-  "breakpoint": "无公司资料、gmail",
-  "saga_now": {
-   "p1": "STC-2016GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12光L3",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-295",
+  "name_official": "OMEGATEC SARL（喀麦隆；gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（免费邮箱/仅电话）",
+  "summary": "喀麦隆网络设备转售商 OMEGATEC SARL（Stephane Mbongou，gmail，WA 已加；搜索无公开资料）。要 16 口千兆 PoE 交换机与价格表、自称 Reseller；2024 问多光口交换机、12 光 L3；20 次推送 1 次实质回复。→ B 20%（经销）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12光L3",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Stephane Mbongou",
+      "role": "（表内 Mr.）",
+      "email": "omegatec3@gmail.com",
+      "phone": "+237 6 53 28 33 01（WA 已加）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "+237 653 283 301（表内 237 532 83301）；法语区"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "Stephane Mbongou omegatec3@gmail.com，+237 6 53 28 33 01（WA 已加）"
+  },
+  "signals": [
+    "2024-04 问多光口交换机；要 12 光 L3（汇聚需求）"
+  ],
+  "risks": [
+    "无公司资料、gmail",
+    "12 光 L3 不在 Saga 价目（可报 STC-424XGGM(L3)）"
+  ],
+  "saga_fit": {
+    "p1": "STC-2016GP",
+    "tier": 20,
+    "why": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位"
+  },
+  "email_hook": "Vous cherchiez un switch 16 ports Gigabit PoE et une liste de prix revendeur — je peux envoyer la grille USD EXW (16 PoE + 2 SFP, et le modèle L3 24 ports + 4×10G). Quelle quantité par commande ?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "喀麦隆 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12」；研究档 risks：无公司资料、gmail"
+    },
+    "situation": "喀麦隆网络设备转售商 OMEGATEC SARL（Stephane Mbongou，gmail，WA 已加；搜索无公开资料）。要 16 口千兆 PoE 交换机与价格表、自称 Reseller；2024 问多光口交换机、12 光 L3；20 次推送 1 次实质回复。→ B 20%（经销）。",
+    "need": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位",
+    "breakpoint": "无公司资料、gmail",
+    "saga_now": {
+      "p1": "STC-2016GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12光L3",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

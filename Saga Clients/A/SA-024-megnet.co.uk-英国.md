@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。（调研 2026-10-21；表内兴趣：自己的品牌 有人卖他们的 MC SFP AOC等较多）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）；最近一次客户回复：1.16：5个商业24 48口
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0） — J2：功能缺口已闭合是最硬的复活理由；一句话即可；按 20% 分销档（若贴 Chimera 标 → 30%）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0） — J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按 20% 分销档（若贴 Chimera 标 → 30%）
 - **第一问（只问一个）**：Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → jitendra@（招标）+ nasim@（注入器） 给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Megnet 两次来的都是真需求：2025-01 Jitendra 发来 5 项招标规格（24/48 口 PoE+、2×10G SFP+、802.1q/LACP/IPv6/Voice VLAN/SNMPv3/SSHv2），Simon 答「item 3 没有可开发，其余 4 项缺 Voice VLAN，3 月就绪」，对方没再回；2025-12 Nasim 要 HT2500-PSE-BT60 60W 注入器测试单价，Simon 次日报 15 USD/pc（3–5 天交期），对方没再回。Voice VLAN 现已在 7.4.0 固件里。
 - **对方真实需求（有据）**：招标型 L2 接入 PoE+ 交换机（24/48 口 + 10G 上联，Voice VLAN/SNMPv3/SSHv2/IPv6）；60W PoE++ 单口注入器。
 - **断点 / 为什么停在这里**：第一次是功能缺口（现已补齐，但没人告诉他）；第二次是测试单无下文（15 USD 的东西不值得追，但一句话值）。
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）**（20% 档，按 20% 分销档（若贴 Chimera 标 → 30%））——J2：功能缺口已闭合是最硬的复活理由；一句话即可
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）**（20% 档，按 20% 分销档（若贴 Chimera 标 → 30%））——J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
   - 做不了 / 要先核的：7.4/7.5 是否同时满足 SNMPv3 + SSHv2 + IPv6 全项——按 7.5 特性表核一遍再说
 - **下一步（具体）**：2026-11　S 邮箱 → jitendra@（招标）+ nasim@（注入器）　给 Jitendra 一句「Voice VLAN 已上线」+ 问招标是否还开；给 Nasim 一句问测试单
   - 第一问（只问一个）：Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?

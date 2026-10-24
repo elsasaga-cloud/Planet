@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo POE配件 有人在卖他们的 自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-08-15：price   company info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP — 只保活；按 30% 自有标档复核对外价
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP — 只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续；按 30% 自有标档复核对外价
 - **第一问（只问一个）**：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 S 邮箱 → johnson@ 一句话问 2.5G 线是否仍外采
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。
 - **对方真实需求（有据）**：2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。
 - **断点 / 为什么停在这里**：身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。
-- **Saga 现在该推什么**：P1 **STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP**（30% 档，按 30% 自有标档复核对外价）——只保活
+- **Saga 现在该推什么**：P1 **STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP**（30% 档，按 30% 自有标档复核对外价）——只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1　S 邮箱 → johnson@　一句话问 2.5G 线是否仍外采
   - 第一问（只问一个）：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?
 

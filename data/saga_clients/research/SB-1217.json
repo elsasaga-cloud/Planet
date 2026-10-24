@@ -1,130 +1,130 @@
 {
- "code": "SB-1217",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（luxritesecurity.com，快照 2026-10-21）",
- "summary": "英国 Luxrite Ltd（Trade CCTV 分销：HD/IP CCTV、入侵报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；在售 Ruijie RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P / RG-NBS5300、PoE 注入器；表内「主要是 CCTV，少量商业 PoE」「质量一般」）；表内无跟进记录。",
- "type": "英国 Trade 安防分销商（Ruijie PoE）",
- "size": "",
- "brands_seen": [
-  "Ruijie",
-  "Dahua",
-  "Ajax",
-  "Texecom"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Luxrite Ltd - Trade CCTV Distributor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.",
-   "url": "https://www.luxritesecurity.com/",
-   "date": "2026-10-21"
+  "code": "SB-1217",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（luxritesecurity.com，快照 2026-10-21）",
+  "summary": "英国 Luxrite Ltd（Trade CCTV 分销：HD/IP CCTV、入侵报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；在售 Ruijie RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P / RG-NBS5300、PoE 注入器；表内「主要是 CCTV，少量商业 PoE」「质量一般」）；表内无跟进记录。",
+  "type": "英国 Trade 安防分销商（Ruijie PoE）",
+  "size": "",
+  "brands_seen": [
+    "Ruijie",
+    "Dahua",
+    "Ajax",
+    "Texecom"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Luxrite Ltd - Trade CCTV Distributor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.",
+      "url": "https://www.luxritesecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV 少量商业POE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Luxrite Trade 安防分销",
+      "quote": "Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.",
+      "url": "https://www.luxritesecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要 CCTV 少量商业 PoE",
+      "quote": "主要是CCTV 少量商业POE；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 少量商业POE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 luxritesecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Luxrite Trade 安防分销",
-   "quote": "Luxrite - Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield), Video Door Entry systems and Access Control.",
-   "url": "https://www.luxritesecurity.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "Trade 安防分销（CCTV / 报警 / 门禁 / 可视门禁）"
+  ],
+  "channels": {
+    "role": "英国 Trade 安防分销商（Ruijie PoE）",
+    "region": "英国",
+    "contact": "sales@luxritesecurity.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "主要 CCTV 少量商业 PoE",
-   "quote": "主要是CCTV 少量商业POE；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "站内型号 RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P-V2 / RG-NBS5300-8MG2XS-UP（Ruijie）；页面 /rg-poe-af15、/POEINJECTOR",
+    "官网：Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield)"
+  ],
+  "risks": [
+    "CCTV 为主、PoE 少量（表内）：量小",
+    "现卖 Ruijie（锐捷）价格基准低；无具名 KP（sales@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 Ruijie RG-ES210GS-P（8 PoE + 2 SFP）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；RG-NBS3100-24GT4SFP-P → STC-424DGGPM-280W（$134.5）"
+  },
+  "email_hook": "Alongside the Ruijie RG-ES210GS-P and NBS3100-24 PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models from small lots, CE/RoHS/UKCA — which Ruijie size do your trade customers order most, so we quote its equivalent first?",
+  "products_seen": [
+    {
+      "brand": "Ruijie",
+      "model": "RG-ES210GS-P",
+      "spec": "8 PoE + 2 SFP 非管理/云管",
+      "saga": "STC-28DGGPM",
+      "url": "https://www.luxritesecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Ruijie",
+      "model": "RG-NBS3100-24GT4SFP-P-V2",
+      "spec": "24 PoE + 4 SFP L2",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://www.luxritesecurity.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）",
+      "type": "英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团）",
+      "sieve": "0",
+      "stop": "明确「not useful」",
+      "revive": "不动",
+      "lane": "UK",
+      "cadence": "不动",
+      "evidence": "k=2300dd9d2d1f3408"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/1 封有打开记录）：「16 Port PoE Managed Switch」(2025-01-26) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 luxritesecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "Trade 安防分销（CCTV / 报警 / 门禁 / 可视门禁）"
- ],
- "channels": {
-  "role": "英国 Trade 安防分销商（Ruijie PoE）",
-  "region": "英国",
-  "contact": "sales@luxritesecurity.com"
- },
- "signals": [
-  "站内型号 RG-ES210GS-P / RG-ES228GS-P / RG-NBS3100-24GT4SFP-P-V2 / RG-NBS5300-8MG2XS-UP（Ruijie）；页面 /rg-poe-af15、/POEINJECTOR",
-  "官网：Trade Security Distributor. Specialists in HD CCTV, IP CCTV, Intruder Alarm Systems (AJAX, Texecom, Dahua Airshield)"
- ],
- "risks": [
-  "CCTV 为主、PoE 少量（表内）：量小",
-  "现卖 Ruijie（锐捷）价格基准低；无具名 KP（sales@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 Ruijie RG-ES210GS-P（8 PoE + 2 SFP）→ 同口型 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；RG-NBS3100-24GT4SFP-P → STC-424DGGPM-280W（$134.5）"
- },
- "email_hook": "Alongside the Ruijie RG-ES210GS-P and NBS3100-24 PoE switches you stock for installers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models from small lots, CE/RoHS/UKCA — which Ruijie size do your trade customers order most, so we quote its equivalent first?",
- "products_seen": [
-  {
-   "brand": "Ruijie",
-   "model": "RG-ES210GS-P",
-   "spec": "8 PoE + 2 SFP 非管理/云管",
-   "saga": "STC-28DGGPM",
-   "url": "https://www.luxritesecurity.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Ruijie",
-   "model": "RG-NBS3100-24GT4SFP-P-V2",
-   "spec": "24 PoE + 4 SFP L2",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://www.luxritesecurity.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）",
-   "type": "英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团）",
-   "sieve": "0",
-   "stop": "明确「not useful」",
-   "revive": "不动",
-   "lane": "UK",
-   "cadence": "不动",
-   "evidence": "k=2300dd9d2d1f3408"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

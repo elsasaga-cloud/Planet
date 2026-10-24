@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。（调研 2026-10-21；表内兴趣：主要是CCTV 少量商业POE 有Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 21 次无任何回复（聋名单）
 - **历史互动**：推送 21 次（2024-05-13 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供。已打开的主题（3/31 封有打开记录）：「Industrial PoE Switch」(2025-08-15)、「OEM Core Switching Solution」(2026-01-13)、「10G Enterprise SFP Switch」(2026-05-06) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → grmace@ness.com.au 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。
 - **对方真实需求（有据）**：Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚；RCM 由客户侧）；现供 Utepo 价格基准低；官网 unreachable；21 次无回复 → 改向 Supply Manager 具名首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供。已打开的主题（3/31 封有打开记录）：「Industrial PoE Switch」(2025-08-15)、「OEM Core Switching Solution」(2026-01-13)、「10G Enterprise SFP Switch」(2026-05-06) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → grmace@ness.com.au　短信一问（email_hook）
   - 第一问（只问一个）：Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?
 

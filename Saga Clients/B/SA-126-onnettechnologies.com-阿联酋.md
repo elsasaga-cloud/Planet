@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。（调研 2026-10-21；表内兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作）
 - **为什么是 B 级**：**调研后定级 B**（纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-04-25 → 2025-04-25）；最近一次客户回复：2025-04-25：用常见的几个型号
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议；按 30% OEM 档；预期被砍价
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价
 - **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：按 Simon 口径不动 A 邮箱 若动：只答 08-10 六个配置中的 2–3 个有现货对位的
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Saurabh 是 A 邮箱里少见的「来信比去信实在」的客户：2025-04 列出在用 4 款（4G BT+2SFP 管理、8G AT+2SFP 管理、8G+4SFP 管理、4G+1GE+2SFP 非管理，带 PoE 自动重启、250 m），2026-07/08 又列 6 个配置要规格价。Saga 两次都没有对位答复。Simon 对其定性「老说价格高、了解中国市场价」，决定不投入——与证据一致的是他确实只买 OEM、比价成熟；不一致的是他要的恰好是 Saga 工业线的标准品。
 - **对方真实需求（有据）**：4/8/16 口工业 PoE（30W / BT），2×SFP 上联，管理 + 非管理，PoE watchdog + 250 m DIP，Booster（10–30V 入 PoE 出）。
 - **断点 / 为什么停在这里**：不是对方没需求，是 Saga 选择不投入（战略取舍）。记录在案，不改 Simon 口径。
-- **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价）——Simon 口径优先；证据只用于将来复议
+- **Saga 现在该推什么**：P1 **（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给**（30% 档，按 30% OEM 档；预期被砍价）——Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
   - 做不了 / 要先核的：Simon 是否维持「不投入」——不问，按现口径
 - **下一步（具体）**：按 Simon 口径不动　A 邮箱　若动：只答 08-10 六个配置中的 2–3 个有现货对位的
   - 第一问（只问一个）：Which of your six configurations is this year's volume SKU, so we quote that one first?

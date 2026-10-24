@@ -1,127 +1,127 @@
 {
- "code": "SB-237",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（secomp-international.com，快照 2026-10-21）",
- "summary": "瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。",
- "type": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
- "size": "",
- "brands_seen": [
-  "HRUI"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Ac；品类词 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "SECOMP - your reliable and competent B2B partner for IT accessories & network technology, security systems, UPS & power supply, consumer electronics accessories and 19-inch cabinets & accessories.",
-   "url": "https://www.secomp-international.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "SECOMP 定位",
-   "quote": "SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories ; /en/catalog/network-components/network-active-components/ethernet-switches",
-   "url": "https://www.secomp-international.com/en/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "从多家买；有 HRUI 商业 FS",
-   "quote": "工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "瑞士",
-  "other": "官网 secomp-international.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "IT 配件 / 网络技术 B2B 分销",
-  "安防 / UPS / 机柜"
- ],
- "channels": {
-  "role": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
-  "region": "瑞士",
-  "contact": "info@secomp-international.com"
- },
- "signals": [
-  "页面 /en/catalog/network-components/network-active-components/ethernet-switches、…/industrial-networ…；官网：your reliable and competent B2B partner for IT accessories & network technology, security systems, UPS & power supply … 19-inch cabinets",
-  "表内：工业 FS SFP MC SFP 都有 从多家买的 有鸿瑞的商业 FS"
- ],
- "risks": [
-  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购",
-  "6 次跟进无回复，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）"
- },
- "email_hook": "Alongside the industrial and commercial switches you source from several suppliers, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 2 SFP L2+ commercial models (CE/RoHS, neutral packing) from small lots, EXW USD — is there an industrial or managed position you would like a comparative quote for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@secomp-international.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
-   "type": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "瑞士（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购"
-  },
-  "situation": "瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。",
-  "need": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）",
-  "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
-    "why": "16 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-237",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（secomp-international.com，快照 2026-10-21）",
+  "summary": "瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。",
+  "type": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "HRUI"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Ac；品类词 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "SECOMP - your reliable and competent B2B partner for IT accessories & network technology, security systems, UPS & power supply, consumer electronics accessories and 19-inch cabinets & accessories.",
+      "url": "https://www.secomp-international.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "SECOMP 定位",
+      "quote": "SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories ; /en/catalog/network-components/network-active-components/ethernet-switches",
+      "url": "https://www.secomp-international.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "从多家买；有 HRUI 商业 FS",
+      "quote": "工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "瑞士",
+    "other": "官网 secomp-international.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "IT 配件 / 网络技术 B2B 分销",
+    "安防 / UPS / 机柜"
+  ],
+  "channels": {
+    "role": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
+    "region": "瑞士",
+    "contact": "info@secomp-international.com"
+  },
+  "signals": [
+    "页面 /en/catalog/network-components/network-active-components/ethernet-switches、…/industrial-networ…；官网：your reliable and competent B2B partner for IT accessories & network technology, security systems, UPS & power supply … 19-inch cabinets",
+    "表内：工业 FS SFP MC SFP 都有 从多家买的 有鸿瑞的商业 FS"
+  ],
+  "risks": [
+    "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购",
+    "6 次跟进无回复，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）"
+  },
+  "email_hook": "Alongside the industrial and commercial switches you source from several suppliers, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-PoE + 2 SFP L2+ commercial models (CE/RoHS, neutral packing) from small lots, EXW USD — is there an industrial or managed position you would like a comparative quote for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 info@secomp-international.com；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）",
+      "type": "IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "瑞士（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购"
+    },
+    "situation": "瑞士 SECOMP（B2B IT 配件与网络技术、安防、UPS/电源、消费电子配件、19 寸机柜专业商；目录含以太网交换机与工业网络有源/无源组件；表内「工业 FS SFP MC SFP 都有，从多家买的；有鸿瑞（HRUI）的商业 FS」）；表内 6 次跟进无回复。",
+    "need": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）",
+    "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线；多家比价型采购",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "现含 HRUI 商用 FS（Saga 供应商）→ 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）、商用 L2+ STC-28DGGPM（$80.7）。已打开的主题（1/16 封有打开记录）：「48 Port PoE Managed Switch」(2025-05-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、Marvell Alleycat5 Solution",
+        "why": "16 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

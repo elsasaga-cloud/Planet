@@ -1,114 +1,114 @@
 {
- "code": "SB-935",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（comtime-com.de，快照 2026-10-21）",
- "summary": "德国 comtime（IIoT/M2M 工业路由器与调制解调器制造商：5G/LTE/DSL/LAN 路由器、OpenVPN 连接服务器、设备管理 WebCenter，导轨安装；站内 OEM 19 处；KP Josef Dorfer（jd@）；表内「质量高」「比较专业」）；群发 8 次无回复。",
- "type": "工业路由器制造商（德国，自有品牌，交换机为邻近品类）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Industrie-Router fÃ¼r 5G, LTE & DSL | comtime；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "IIOT / M2M Industrie-Router und Modems fÃ¼r die Datenkommunikation und Fernwartung Ã¼ber sichere VPN Verbindungen auf der Hutschiene.",
-   "url": "https://comtime-com.de/",
-   "date": "2026-10-21"
+  "code": "SB-935",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（comtime-com.de，快照 2026-10-21）",
+  "summary": "德国 comtime（IIoT/M2M 工业路由器与调制解调器制造商：5G/LTE/DSL/LAN 路由器、OpenVPN 连接服务器、设备管理 WebCenter，导轨安装；站内 OEM 19 处；KP Josef Dorfer（jd@）；表内「质量高」「比较专业」）；群发 8 次无回复。",
+  "type": "工业路由器制造商（德国，自有品牌，交换机为邻近品类）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Industrie-Router fÃ¼r 5G, LTE & DSL | comtime；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "IIOT / M2M Industrie-Router und Modems fÃ¼r die Datenkommunikation und Fernwartung Ã¼ber sichere VPN Verbindungen auf der Hutschiene.",
+      "url": "https://comtime-com.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "比较专业",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "comtime 定位",
+      "quote": "Industrie-Router für 5G, LTE & DSL | comtime ; IIOT / M2M Industrie-Router und Modems für die Datenkommunikation und Fernwartung über sichere VPN Verbindungen auf der Hutschiene ; /produkte/lan-wan/",
+      "url": "https://comtime-com.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "质量高 比较专业",
+      "quote": "质量高 / 比较专业",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Josef Dorfer",
+      "title": "（职务待核）",
+      "email": "jd@comtime-com.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "comtime 定位",
-   "quote": "Industrie-Router für 5G, LTE & DSL | comtime ; IIOT / M2M Industrie-Router und Modems für die Datenkommunikation und Fernwartung über sichere VPN Verbindungen auf der Hutschiene ; /produkte/lan-wan/",
-   "url": "https://comtime-com.de/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "工业路由器 / 调制解调器（自有品牌 comtime）"
+  ],
+  "channels": {
+    "role": "工业路由器制造商（德国，自有品牌，交换机为邻近品类）",
+    "region": "德国",
+    "contact": "jd@comtime-com.de、sales@comtime-com.de"
   },
-  {
-   "kind": "用户表",
-   "claim": "质量高 比较专业",
-   "quote": "质量高 / 比较专业",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：IIOT / M2M Industrie-Router und Modems für die Datenkommunikation und Fernwartung über sichere VPN Verbindungen auf der Hutschiene；首页 Mobilfunk-Router ; LAN-Router ; DSL-Router ; Modems ; OpenVPN Connectivity Server；kw oem 19 / sfp 16；页面 /produkte/lan-wan/",
+    "表内：质量高 / 比较专业；KP Josef Dorfer"
+  ],
+  "risks": [
+    "自研路由器厂商（交换机为邻近品类，可能已有 OEM 来源）；8 次无回复 → 改向 Josef Dorfer 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "路由器配套工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）/ PoE 版 STI-288GPM（$85.5）贴 comtime 标；5 GE STI-050GE（$18.5）"
+  },
+  "email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封德语休假自动回复）",
+      "type": "德国工业路由器制造商（Comtime）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "DE",
+      "cadence": "不动",
+      "evidence": "k=039b5332d630ba22"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—。已打开的主题（1/16 封有打开记录）：「Marvell Industrial Alert System」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Josef Dorfer",
-   "title": "（职务待核）",
-   "email": "jd@comtime-com.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业路由器 / 调制解调器（自有品牌 comtime）"
- ],
- "channels": {
-  "role": "工业路由器制造商（德国，自有品牌，交换机为邻近品类）",
-  "region": "德国",
-  "contact": "jd@comtime-com.de、sales@comtime-com.de"
- },
- "signals": [
-  "官网：IIOT / M2M Industrie-Router und Modems für die Datenkommunikation und Fernwartung über sichere VPN Verbindungen auf der Hutschiene；首页 Mobilfunk-Router ; LAN-Router ; DSL-Router ; Modems ; OpenVPN Connectivity Server；kw oem 19 / sfp 16；页面 /produkte/lan-wan/",
-  "表内：质量高 / 比较专业；KP Josef Dorfer"
- ],
- "risks": [
-  "自研路由器厂商（交换机为邻近品类，可能已有 OEM 来源）；8 次无回复 → 改向 Josef Dorfer 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "路由器配套工业交换机 → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）/ PoE 版 STI-288GPM（$85.5）贴 comtime 标；5 GE STI-050GE（$18.5）"
- },
- "email_hook": "Josef, to complement your industrial routers on the DIN rail, we can supply Marvell-based 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, redundant 12–57 V, CE/RoHS) under the comtime label from small lots — would a matching switch SKU fit your LAN/WAN range?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封德语休假自动回复）",
-   "type": "德国工业路由器制造商（Comtime）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "DE",
-   "cadence": "不动",
-   "evidence": "k=039b5332d630ba22"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

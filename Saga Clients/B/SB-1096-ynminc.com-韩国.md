@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：韩国 YNM Systems Inc.（「Professional PTZ & POV camera maker in Korea」；站内 C-NK200/ZCB-100；KP MH Lee（Chief Executive Officer）；表内「switch」「可以尝试多跟进一下」）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2025-02-04 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 YNM 标；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 YNM 标。已打开的主题（1/27 封有打开记录）：「Industrial PoE Switch」(2025-05-22) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Mr. Lee, to ship with your PTZ and POV cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE switches under the YNM label from small lots, CE/RoHS; KC by your side — which PoE port count do your camera kits usually need?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：韩国 YNM Systems Inc.（「Professional PTZ & POV camera maker in Korea」；站内 C-NK200/ZCB-100；KP MH Lee（Chief Executive Officer）；表内「switch」「可以尝试多跟进一下」）；群发 17 次无回复。
 - **对方真实需求（有据）**：摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 YNM 标
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；PoE 为摄像机配套（量随产量）；17 次无回复 → 改向 CEO 具名首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 YNM 标
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 YNM 标。已打开的主题（1/27 封有打开记录）：「Industrial PoE Switch」(2025-05-22) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Mr. Lee, to ship with your PTZ and POV cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and compact industrial 4-PoE switches under the YNM label from small lots, CE/RoHS; KC by your side — which PoE port count do your camera kits usually need?
 

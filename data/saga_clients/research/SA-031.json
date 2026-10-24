@@ -1,179 +1,179 @@
 {
- "code": "SA-031",
- "name_official": "BitStream S.A.（Lublin, Poland）",
- "website_status": "在线",
- "summary": "波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。",
- "type": "品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）",
- "size": "小型（trade.gov.pl「Size Small」）",
- "brands_seen": [
-  "BitStream",
-  "Hyperion"
- ],
- "evidence": [
-  {
-   "kind": "第三方（trade.gov.pl 官方出口名录）",
-   "claim": "定位、产品线与公开联系人",
-   "quote": "BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl",
-   "url": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "产品类目含 PoE/L2/L3 交换机与光纤 MC",
-   "quote": "PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów",
-   "url": "https://bitstream.pl/technologie/technika-swiatlowodowa/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 105 规格",
-   "quote": "Industrial managed switch with 8/4x RJ45 10/100Mbps or 4x RJ45 10/100/1000Mbps and 2/4x SFP 100M/1000M/2.5Gbps … PoE ÷ PoE++/High PoE (802.3bt) support up to 90W per UTP port (max. 240W on all ports)",
-   "url": "https://bitstream.pl/en/products/hyperion-105/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 402 机架 L2+ 规格",
-   "quote": "Industrial managed L2 + switches with 4x 10 / 2.5 / 1G and 8/16/24/32 ports 10M / 100M / 1G RJ45 PoE ÷ High PoE or SFP 100 / 1000M slots … 19 ”1U chassis … maximum total PoE power is 500W",
-   "url": "https://bitstream.pl/en/products/hyperion-402/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Hyperion 200 含 PTPv2 服务器、4×10G",
-   "quote": "Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC",
-   "url": "https://bitstream.pl/en/products/hyperion-200/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "M. Beczek（mbeczek@）",
-   "role": "出口/商务联系人（官方名录公开）",
-   "email": "mbeczek@bitstream.pl",
-   "phone": "+48 691 161 866",
-   "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
-  }
- ],
- "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "BitStream S.A.",
-  "founded": "15+ 年（2023 改制股份公司）",
-  "hq": "Lublin, Poland",
-  "staff": "小型（trade.gov.pl）",
-  "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
- },
- "business_lines": [
-  "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",
-  "MC、接口转换器",
-  "PTP/NTP 时间服务器、加密路由器",
-  "出口西欧/北欧/北美/南美/澳洲"
- ],
- "products_seen": [
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 105",
-   "spec": "工业管理 8/4×RJ45（FE 或 4×GE）+ 2/4×SFP（2×2.5G），PoE~bt 90W/口（总 240W），ITU K.44 4kV",
-   "url": "https://bitstream.pl/en/products/hyperion-105/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM / STI-144GP"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 200",
-   "spec": "工业管理 + PTPv2 服务器，4×1/2.5/10G + 8/16×GE PoE~bt（总 500W）或 SFP，DIN，-40~85℃",
-   "url": "https://bitstream.pl/en/products/hyperion-200/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（16 口位，10G 上联待核）"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 300",
-   "spec": "工业 12/10 口（2×2.5G SFP + 6 SFP + 2 RJ45 或 8×GE PoE），RS232/485、DI/DO、1-wire，DIN IP-30",
-   "url": "https://bitstream.pl/en/products/hyperion-300/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "BitStream",
-   "model": "Hyperion 402",
-   "spec": "19\" 1U L2+ 4×10/2.5/1G + 8/16/24/32×GE PoE~bt（总 500W）",
-   "url": "https://bitstream.pl/en/products/hyperion-402/",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
-  }
- ],
- "channels": {
-  "网站": "https://bitstream.pl/en/",
-  "直邮": "mbeczek@bitstream.pl（出口名录）/ ahyz@bitstream.pl / dpietrzyk@bitstream.pl（用户表）"
- },
- "signals": [
-  "Hyperion 全线规格远高于公版（PTPv2、PROFINET、OAM、500W bt）——自研能力强，Saga 可供的是其入门/非管理与机架 PoE 的成本位，而非替换 Hyperion（2026-10-21）",
-  "用户表：A 已回复，自己的牌子，有人卖他们的；回复中有详细联系方式"
- ],
- "risks": [
-  "自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）",
-  "竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 30,
-  "why": "Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档"
- },
- "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文）",
-   "type": "波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU",
-   "sieve": "2",
-   "stop": "140 USD 报价后无回；2026-08 群发只收到休假自动回复",
-   "revive": "其非核心 SKU（非管理工业/MC）补源",
-   "lane": "PL/EU",
-   "cadence": "2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30",
-   "evidence": "k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc"
-  },
-  "situation": "Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。",
-  "need": "工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。",
-  "breakpoint": "同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。",
-  "saga_now": {
-   "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
-   "tier": 30,
-   "price": "按 30%",
-   "why": "换到非核心 SKU 问一次",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱 → tjargielo@ / ahyz@",
-   "action": "一句话问其外采的非核心 SKU",
-   "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?"
-  },
-  "facts": [
-   {
-    "date": "2025-01-30",
-    "dir": "来",
-    "who": "Katarzyna Surowiec",
-    "quote": "What is the price?",
-    "why": "询价",
-    "k": "ab20a2586535bf26"
-   },
-   {
-    "date": "2025-01-30",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
-    "why": "报价后停",
-    "k": "627139dd3ba20af7"
-   }
+  "code": "SA-031",
+  "name_official": "BitStream S.A.（Lublin, Poland）",
+  "website_status": "在线",
+  "summary": "波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。",
+  "type": "品牌商/制造商（工业网络自有品牌；MC/SFP/部分交换机可能外采贴牌）",
+  "size": "小型（trade.gov.pl「Size Small」）",
+  "brands_seen": [
+    "BitStream",
+    "Hyperion"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "第三方（trade.gov.pl 官方出口名录）",
+      "claim": "定位、产品线与公开联系人",
+      "quote": "BitStream S.A. is a leading Polish technology company specializing in the design and manufacturing of advanced data transmission, time synchronization, and industrial networking equipment … Industrial Networking & Ethernet Switches: Managed and unmanaged DIN-rail/rack Ethernet switches supporting zero-failover redundancy protocols (PRP/HSR) … E-mail: mbeczek@bitstream.pl",
+      "url": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "产品类目含 PoE/L2/L3 交换机与光纤 MC",
+      "quote": "PoE, Przełącznik L3, Przełączniki Ethernet, Przełączniki L2 HYPERION-402 … Mediakonwertery, konwertery interfejsów",
+      "url": "https://bitstream.pl/technologie/technika-swiatlowodowa/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Hyperion 105 规格",
+      "quote": "Industrial managed switch with 8/4x RJ45 10/100Mbps or 4x RJ45 10/100/1000Mbps and 2/4x SFP 100M/1000M/2.5Gbps … PoE ÷ PoE++/High PoE (802.3bt) support up to 90W per UTP port (max. 240W on all ports)",
+      "url": "https://bitstream.pl/en/products/hyperion-105/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Hyperion 402 机架 L2+ 规格",
+      "quote": "Industrial managed L2 + switches with 4x 10 / 2.5 / 1G and 8/16/24/32 ports 10M / 100M / 1G RJ45 PoE ÷ High PoE or SFP 100 / 1000M slots … 19 ”1U chassis … maximum total PoE power is 500W",
+      "url": "https://bitstream.pl/en/products/hyperion-402/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Hyperion 200 含 PTPv2 服务器、4×10G",
+      "quote": "Managed industrial Ethernet switch with PTPv2 time synchronization server function and 4x 1/2,5/10 Gbps i 8/16x 10M/100M/1G RJ45 PoE÷High PoE IEEE802.3bt … Power supply 36-60 VDC or 80-360 VDC / 75-270 V AC",
+      "url": "https://bitstream.pl/en/products/hyperion-200/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "M. Beczek（mbeczek@）",
+      "role": "出口/商务联系人（官方名录公开）",
+      "email": "mbeczek@bitstream.pl",
+      "phone": "+48 691 161 866",
+      "source": "https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna"
+    }
+  ],
+  "notes": "A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "BitStream S.A.",
+    "founded": "15+ 年（2023 改制股份公司）",
+    "hq": "Lublin, Poland",
+    "staff": "小型（trade.gov.pl）",
+    "other": "自研自产 Hyperion 工业交换机（PTPv2、PROFINET A、DNP3、OAM、PRP/HSR），DIN 与 19\" 机架，36–60VDC/80–360VDC/AC 宽电源——技术自研型厂商，非纯贴牌"
+  },
+  "business_lines": [
+    "Hyperion 工业交换机（105/200/300/402：4–32 口，PoE/bt 90W，2.5G/10G SFP+）",
+    "MC、接口转换器",
+    "PTP/NTP 时间服务器、加密路由器",
+    "出口西欧/北欧/北美/南美/澳洲"
+  ],
+  "products_seen": [
+    {
+      "brand": "BitStream",
+      "model": "Hyperion 105",
+      "spec": "工业管理 8/4×RJ45（FE 或 4×GE）+ 2/4×SFP（2×2.5G），PoE~bt 90W/口（总 240W），ITU K.44 4kV",
+      "url": "https://bitstream.pl/en/products/hyperion-105/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM / STI-144GP"
+    },
+    {
+      "brand": "BitStream",
+      "model": "Hyperion 200",
+      "spec": "工业管理 + PTPv2 服务器，4×1/2.5/10G + 8/16×GE PoE~bt（总 500W）或 SFP，DIN，-40~85℃",
+      "url": "https://bitstream.pl/en/products/hyperion-200/",
+      "date": "2026-10-21",
+      "saga": "STI-21616GP（16 口位，10G 上联待核）"
+    },
+    {
+      "brand": "BitStream",
+      "model": "Hyperion 300",
+      "spec": "工业 12/10 口（2×2.5G SFP + 6 SFP + 2 RJ45 或 8×GE PoE），RS232/485、DI/DO、1-wire，DIN IP-30",
+      "url": "https://bitstream.pl/en/products/hyperion-300/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "BitStream",
+      "model": "Hyperion 402",
+      "spec": "19\" 1U L2+ 4×10/2.5/1G + 8/16/24/32×GE PoE~bt（总 500W）",
+      "url": "https://bitstream.pl/en/products/hyperion-402/",
+      "date": "2026-10-21",
+      "saga": "STC-424XGGPM-280W / STC-448XGGM(L3)"
+    }
+  ],
+  "channels": {
+    "网站": "https://bitstream.pl/en/",
+    "直邮": "mbeczek@bitstream.pl（出口名录）/ ahyz@bitstream.pl / dpietrzyk@bitstream.pl（用户表）"
+  },
+  "signals": [
+    "Hyperion 全线规格远高于公版（PTPv2、PROFINET、OAM、500W bt）——自研能力强，Saga 可供的是其入门/非管理与机架 PoE 的成本位，而非替换 Hyperion（2026-10-21）",
+    "用户表：A 已回复，自己的牌子，有人卖他们的；回复中有详细联系方式"
+  ],
+  "risks": [
+    "自研厂商对二供要求固件透明度/长期供货承诺（5–10 年）",
+    "竞品定位：若 Saga 以低价工业机切入可能被视为冲突其高端线——定位为「入门级/项目配套」"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGPM-280W",
+    "tier": 30,
+    "why": "Hyperion 402 机架 24 口 PoE + 4×10G 位对位 STC-424XGGPM-280W（成本型项目配套）；DIN 入门位 STI-288DGGPM/STI-144GP；贴 BitStream 标 30% 档"
+  },
+  "email_hook": "Below the Hyperion 402 class, a cost-optimised 24-port gigabit PoE rack switch with 4x 10G SFP+ uplinks is the slot where a Marvell-based second line usually earns its place for project work, so that is the unit I am quoting in BitStream packing first.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（2025-01-30 助理问价 → STI-288DGGPM-2BT 140 USD → 无下文）",
+      "type": "波兰工业网络自有品牌制造商（PRP/HSR 高端自研）——第一档类型但 Saga 只适合其非核心 SKU",
+      "sieve": "2",
+      "stop": "140 USD 报价后无回；2026-08 群发只收到休假自动回复",
+      "revive": "其非核心 SKU（非管理工业/MC）补源",
+      "lane": "PL/EU",
+      "cadence": "2024-06 → 2026-09 去信 20 封；最后人工来信 2025-01-30",
+      "evidence": "k=ab20a2586535bf26 / 627139dd3ba20af7 / 97cffda9f4680ebc"
+    },
+    "situation": "Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。",
+    "need": "工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。",
+    "breakpoint": "同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。",
+    "saga_now": {
+      "p1": "STI-244GP / STI-110GE（非管理工业 / MC）",
+      "tier": 30,
+      "price": "按 30%",
+      "why": "换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "A 邮箱 → tjargielo@ / ahyz@",
+      "action": "一句话问其外采的非核心 SKU",
+      "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?"
+    },
+    "facts": [
+      {
+        "date": "2025-01-30",
+        "dir": "来",
+        "who": "Katarzyna Surowiec",
+        "quote": "What is the price?",
+        "why": "询价",
+        "k": "ab20a2586535bf26"
+      },
+      {
+        "date": "2025-01-30",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "140usd/pc STI-288DGGPM-2BT… L3 managed version si also available",
+        "why": "报价后停",
+        "k": "627139dd3ba20af7"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：加拿大 OVISS CCTV（官网快照为空页；表内「商业 PoE 自己的 logo，主要是 CCTV」「可以多跟进一下」；邮箱 hello@）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：商业POE 自己的logo  主要是CCTV）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 10 次（2024-11-08 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）。已打开的主题（1/20 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-04) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the PoE switches you bundle under your own label with camera systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, FCC/CE/RoHS, EXW USD — which port count do your installers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 OVISS CCTV（官网快照为空页；表内「商业 PoE 自己的 logo，主要是 CCTV」「可以多跟进一下」；邮箱 hello@）；群发 10 次无回复。
 - **对方真实需求（有据）**：自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核，可能改版/关闭）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 logo 商用 PoE（CCTV 配套）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）。已打开的主题（1/20 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-04) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the PoE switches you bundle under your own label with camera systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, FCC/CE/RoHS, EXW USD — which port count do your installers order most?
 

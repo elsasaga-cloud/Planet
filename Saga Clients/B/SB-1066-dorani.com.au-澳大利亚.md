@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Dorani（Australian Security Systems Installer, Wholesaler & Supplier；自有 DORIP 系列摄像机与自有标 8/16 口 PoE 交换机商品页；站内 Bosch；表内「CCTV 相关的都卖，自己的 logo」；KP Pete Monaghan（Founder））；群发 21 次无回复。（调研 2026-10-21；表内兴趣：CCTV相关的都卖 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 21 次无任何回复（聋名单）
 - **历史互动**：推送 21 次（2024-04-30 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W。已打开的主题（2/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「Marvell Industrial Alert System」(2025-12-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Pete, for the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → reception@dorani.com.au 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚 Dorani（Australian Security Systems Installer, Wholesaler & Supplier；自有 DORIP 系列摄像机与自有标 8/16 口 PoE 交换机商品页；站内 Bosch；表内「CCTV 相关的都卖，自己的 logo」；KP Pete Monaghan（Founder））；群发 21 次无回复。
 - **对方真实需求（有据）**：自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：澳洲 RCM 合规：Saga 证书为 CE/RoHS/FCC/REACH/UKCA，RCM 需客户自行申报（提供测试报告）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有标 8/16 口 PoE 商品页 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dorani 标；16 口位 HRUI STC-2016GP（列表价 $88.0，非 SmartByte）；24 口 STC-424DGGPM-280W。已打开的主题（2/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「Marvell Industrial Alert System」(2025-12-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → reception@dorani.com.au　短信一问（email_hook）
   - 第一问（只问一个）：Pete, for the Dorani-branded 8- and 16-port PoE switches on your shop, we build Marvell-based PoE+ L2+ units under your label from small lots (neutral packing, RCM-ready documentation on request) — which one do you reorder more, the 8-port or the 16-port?
 

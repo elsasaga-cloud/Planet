@@ -1,123 +1,123 @@
 {
- "code": "SB-131",
- "name_official": "Katalita UAB（立陶宛）",
- "researched_at": "2026-10-21",
- "website_status": "在线（katalita.lt，快照 2026-10-21）",
- "summary": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "MikroTik",
-  "TP-Link",
-  "Teltonika"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "品牌 Ubiquiti / MikroTik / TP-Link / Teltonika；oem 117；+370 603 03213",
-   "quote": "Katalita.lt… brands Ubiquiti, MikroTik, TP-Link, Teltonika",
-   "url": "https://katalita.lt/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "extralink 是他们的品牌（待核）；有点像洪瑞的",
-   "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Robertas Zubenas",
-   "title": "Chief Financial Officer",
-   "email": "robertas@katalita.lt",
-   "phone": "+370 603 03213",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Katalita UAB",
-  "founded": "",
-  "hq": "Lithuania",
-  "size": "中小型分销",
-  "other": "OEM 词频 117 → 自有标产品"
- },
- "business_lines": [
-  "网络设备分销（ISP / 无线）"
- ],
- "channels": {
-  "role": "分销商（自有标）",
-  "region": "立陶宛（小国名单）"
- },
- "signals": [
-  "OEM 词频高 → 自有标 PoE 产品（类 HRUI）→ 贴牌可能"
- ],
- "risks": [
-  "小国；4 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。"
- },
- "email_hook": "Robertas, for the own-label PoE switches you list — Marvell L2+ 8-PoE + 2-SFP and budget unmanaged 8-PoE under your brand from small lots; which price band sells best in the Baltics?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 robertas@katalita.lt；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：extralink是他们的品牌 有点像洪瑞的」；研究档 risks：小国；4 次群发无回复"
-  },
-  "situation": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
-  "need": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。",
-  "breakpoint": "小国；4 次群发无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、90W PoE Managed Switch",
-    "why": "14 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-131",
+  "name_official": "Katalita UAB（立陶宛）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（katalita.lt，快照 2026-10-21）",
+  "summary": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti",
+    "MikroTik",
+    "TP-Link",
+    "Teltonika"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "品牌 Ubiquiti / MikroTik / TP-Link / Teltonika；oem 117；+370 603 03213",
+      "quote": "Katalita.lt… brands Ubiquiti, MikroTik, TP-Link, Teltonika",
+      "url": "https://katalita.lt/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "extralink 是他们的品牌（待核）；有点像洪瑞的",
+      "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Robertas Zubenas",
+      "title": "Chief Financial Officer",
+      "email": "robertas@katalita.lt",
+      "phone": "+370 603 03213",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Katalita UAB",
+    "founded": "",
+    "hq": "Lithuania",
+    "size": "中小型分销",
+    "other": "OEM 词频 117 → 自有标产品"
+  },
+  "business_lines": [
+    "网络设备分销（ISP / 无线）"
+  ],
+  "channels": {
+    "role": "分销商（自有标）",
+    "region": "立陶宛（小国名单）"
+  },
+  "signals": [
+    "OEM 词频高 → 自有标 PoE 产品（类 HRUI）→ 贴牌可能"
+  ],
+  "risks": [
+    "小国；4 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。"
+  },
+  "email_hook": "Robertas, for the own-label PoE switches you list — Marvell L2+ 8-PoE + 2-SFP and budget unmanaged 8-PoE under your brand from small lots; which price band sells best in the Baltics?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 14 封 2025→2026，1 次记录打开，0 回；收件 robertas@katalita.lt；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "立陶宛（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 14，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：extralink是他们的品牌 有点像洪瑞的」；研究档 risks：小国；4 次群发无回复"
+    },
+    "situation": "立陶宛网络设备分销商（Ubiquiti、MikroTik、TP-Link、Teltonika；poe 363 / sfp 107 / oem 117；+370 603 03213），CFO Robertas Zubenas；表内「Extralink 是他们的品牌（存疑，Extralink 属 Batna24）；有点像洪瑞的」；群发 4 次无回复。小国名单（不主动挖）但表内已有 → 低优先。",
+    "need": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。",
+    "breakpoint": "小国；4 次群发无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有标商用 PoE → STC-28DGGPM（$87.4 @30%）；HRUI 低价线 STC-028GP。已打开的主题（1/14 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：extralink是他们的品牌 有点像洪瑞的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、90W PoE Managed Switch",
+        "why": "14 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

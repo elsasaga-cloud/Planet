@@ -1,120 +1,121 @@
 {
- "code": "SA-162",
- "name_official": "Cansis Teknoloji（Can-Sis Güvenlik ve Bilgisayar Sistemleri，Çumra/科尼亚，土耳其）",
- "website_status": "在线（简页）",
- "summary": "土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。",
- "type": "小型安防/电脑零售安装商",
- "size": "微型",
- "brands_seen": [
-  "Armiya Teknoloji（代理）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "地址与联系人邮箱",
-   "quote": "03324474226… İzzetbey, Hıdır Sk., 42500 Çumra/Konya… acan@cansisteknoloji.com",
-   "url": "http://www.cansisteknoloji.com",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Facebook",
-   "claim": "业务：电脑维修买卖、摄像与报警系统",
-   "quote": "Cansis Teknoloji, Çumra. Bilgisayar Bakım-Onarım ve Alım-Satım Kamera ve Alarm Sistemleri",
-   "url": "https://www.facebook.com/cansisteknoloji/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "行业目录",
-   "claim": "店主 Ahmet Can，电话 0541 541 0010（与用户记录一致）",
-   "quote": "CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ AHMET CAN 03324474226 05415410010",
-   "url": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-firmalari/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ahmet Can",
-   "role": "店主",
-   "email": "acan@cansisteknoloji.com",
-   "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
-   "source": "官网 + 行业目录 + 用户 Clients 表"
-  },
-  {
-   "name": "Ahmet Can",
-   "role": "店主（行业目录公开）",
-   "email": "—（见官网）",
-   "phone": "0541 541 0010",
-   "source": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi"
-  }
- ],
- "grade_override": "B",
- "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
- "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji）",
-  "hq": "Çumra / Konya, Türkiye",
-  "size": "微型（店主 Ahmet Can）",
-  "other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加"
- },
- "business_lines": [
-  "安防摄像与报警安装（科尼亚）",
-  "电脑维修与销售"
- ],
- "channels": {
-  "网站": "http://www.cansisteknoloji.com",
-  "Facebook": "https://www.facebook.com/cansisteknoloji/",
-  "WhatsApp": "已加"
- },
- "signals": [
-  "已报价 $150（12 光 12 电 PoE 网管）→ 等待回音；可用 STC-4168XGGCM 或 Realtek 线对位"
- ],
- "risks": [
-  "微型店；询价可能是一次性项目"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）"
- },
- "email_hook": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
-   "type": "小型安防/电脑零售安装商",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；研究档 risks：微型店；询价可能是一次性项目"
-  },
-  "situation": "土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。",
-  "need": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）",
-  "breakpoint": "微型店；询价可能是一次性项目",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
-  },
-  "facts": [],
-  "proof_gaps": [
-   "无邮件往来"
+  "code": "SA-162",
+  "name_official": "Cansis Teknoloji（Can-Sis Güvenlik ve Bilgisayar Sistemleri，Çumra/科尼亚，土耳其）",
+  "website_status": "在线（简页）",
+  "summary": "土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。",
+  "type": "小型安防/电脑零售安装商",
+  "size": "微型",
+  "brands_seen": [
+    "Armiya Teknoloji（代理）"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "地址与联系人邮箱",
+      "quote": "03324474226… İzzetbey, Hıdır Sk., 42500 Çumra/Konya… acan@cansisteknoloji.com",
+      "url": "http://www.cansisteknoloji.com",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Facebook",
+      "claim": "业务：电脑维修买卖、摄像与报警系统",
+      "quote": "Cansis Teknoloji, Çumra. Bilgisayar Bakım-Onarım ve Alım-Satım Kamera ve Alarm Sistemleri",
+      "url": "https://www.facebook.com/cansisteknoloji/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "行业目录",
+      "claim": "店主 Ahmet Can，电话 0541 541 0010（与用户记录一致）",
+      "quote": "CAN-SİS GÜVENLİK VE BİLGİSAYAR SİSTEMLERİ AHMET CAN 03324474226 05415410010",
+      "url": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-firmalari/",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ahmet Can",
+      "role": "店主",
+      "email": "acan@cansisteknoloji.com",
+      "phone": "+90 541 541 0010（WA）/ +90 332 447 4226",
+      "source": "官网 + 行业目录 + 用户 Clients 表"
+    },
+    {
+      "name": "Ahmet Can",
+      "role": "店主（行业目录公开）",
+      "email": "—（见官网）",
+      "phone": "0541 541 0010",
+      "source": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
+  "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "Can-Sis Güvenlik ve Bilgisayar Sistemleri（Cansis Teknoloji）",
+    "hq": "Çumra / Konya, Türkiye",
+    "size": "微型（店主 Ahmet Can）",
+    "other": "安防摄像/报警 + 电脑维修销售店；Armiya Teknoloji 经销商；ISAF 2025 问 12 光 12 电 PoE 网管，已报 $150；WA 已加"
+  },
+  "business_lines": [
+    "安防摄像与报警安装（科尼亚）",
+    "电脑维修与销售"
+  ],
+  "channels": {
+    "网站": "http://www.cansisteknoloji.com",
+    "Facebook": "https://www.facebook.com/cansisteknoloji/",
+    "WhatsApp": "已加"
+  },
+  "signals": [
+    "已报价 $150（12 光 12 电 PoE 网管）→ 等待回音；可用 STC-4168XGGCM 或 Realtek 线对位"
+  ],
+  "risks": [
+    "微型店；询价可能是一次性项目"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）"
+  },
+  "email_hook": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+      "type": "小型安防/电脑零售安装商",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；研究档 risks：微型店；询价可能是一次性项目"
+    },
+    "situation": "土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。",
+    "need": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）",
+    "breakpoint": "微型店；询价可能是一次性项目",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?"
+    },
+    "facts": [],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

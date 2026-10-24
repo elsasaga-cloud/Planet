@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1046` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 info@osoolct.com；主题多为「24 Port PoE Managed Switch、Marvell Managed Commercial Switches」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：2光8电工业级网管千兆POE FS」；研究档 risks：WA 无回复；小型项目量
+- **绑定等级：未触达（A 邮箱 8 封 2026，无记录打开，0 回；收件 info@osoolct.com；主题多为「24 Port PoE Managed Switch、Marvell Managed Commercial Switches」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：阿联酋 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：2光8电工业级网管千兆POE FS」；研究档 risks：WA 无回复；小型项目量
 - **现状一句话**：阿联酋 RAK（+971 7）IT 服务与弱电集成商（监控、结构化布线、电视 / 电话系统、自动化；有执行 / 在建项目页），Hossam Ayyad；需求 2 光 8 电工业级网管千兆 PoE；WhatsApp 23 次跟进无实质回复。
 - **对方真实需求（有据）**：2 光 8 电工业管理 PoE = STI-288GPM（$82.2 @25%）精确对位。
 - **断点 / 为什么停在这里**：WA 无回复；小型项目量
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：2光8电工业级网管千兆POE FS | 表内备注 | `用户表` |
 | 2026 | 去 | A 群发 | 24 Port PoE Managed Switch、Marvell Managed Commercial Switches | 8 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

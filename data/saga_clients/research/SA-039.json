@@ -1,173 +1,173 @@
 {
- "code": "SA-039",
- "name_official": "Avenger Security / Security Tekton（Austin & Hutto, Texas）",
- "website_status": "在线",
- "summary": "德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。",
- "type": "安防集成/安装商（小型，自装自用采购）",
- "size": "<$5M（ZoomInfo）",
- "brands_seen": [
-  "Eagle Eye Networks",
-  "Brivo",
-  "Alula",
-  "Honeywell"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与联系方式",
-   "quote": "Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com",
-   "url": "https://getsecurityalarm.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网（关联站）",
-   "claim": "员工持股，双牌照，电话与用户表一致",
-   "quote": "Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com",
-   "url": "https://securitytekton.com/pages/about-us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司背景 / 执照 / 地址 / 电话 / 创始人",
-   "quote": "Avenger Security is a private, employee-owned and operated security monitoring service provider based in Austin, Texas. Since 2004 … Texas Private Security License: B12519 & B03064001 … Texas Fire Alarm License: ACR 2370373 … Established: 2004 by Brandon Walter Adams … Address: 501 West Creekbend Cove, Hutto, Texas 78634 … Phone: 512-610-2698",
-   "url": "https://securitytekton.com/pages/about-us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "云视频 = Eagle Eye Networks + PoE IP 摄像机",
-   "quote": "Avenger Security delivers professional cloud video surveillance powered by Eagle Eye Networks. Replace legacy DVR/NVR limitations with a secure, flexible, and scalable cloud VMS that supports leading PoE IP cameras and many existing analog systems via bridge.",
-   "url": "https://securitytekton.com/pages/video-surveillance-austin",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "门禁 = Brivo OnAir 与 Eagle Eye 联动",
-   "quote": "Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs",
-   "url": "https://securitytekton.com/pages/access-control-service",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机",
-   "email": "info@getsecurityalarm.com",
-   "phone": "+1 512-563-5361",
-   "source": "https://securitytekton.com/pages/about-us"
-  },
-  {
-   "name": "Brandon Walter Adams",
-   "role": "Founder / Owner（2004 创立，官网 About）",
-   "email": "—（未公开）",
-   "phone": "+1 512-610-2698（公司）",
-   "source": "https://securitytekton.com/pages/about-us"
-  }
- ],
- "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
- },
- "company_facts": {
-  "legal_name": "Avenger Security Services（Central Security 同族）",
-  "hq": "501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400）",
-  "revenue": "<$5M（ZoomInfo）",
-  "other": "员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行",
-  "founded": "2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010）",
-  "staff": "11–50"
- },
- "business_lines": [
-  "商业/住宅入侵报警与 UL 中心站监控",
-  "消防报警",
-  "门禁",
-  "云视频监控（IP 摄像机 → 需 PoE 接入）",
-  "云视频监控安装（Eagle Eye Networks，PoE IP 摄像机）",
-  "云门禁（Brivo OnAir，$10–20/门/月）",
-  "盗警/消防报警 + UL 中心站监控（消防部分守界：不供生命安全链路设备）"
- ],
- "products_seen": [
-  {
-   "brand": "（安装商自用）",
-   "model": "商业 PoE 交换机（用户表兴趣）",
-   "spec": "摄像机/门禁点位供电",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-28DGGPM"
-  }
- ],
- "channels": {
-  "网站": "https://securitytekton.com/",
-  "直邮": "brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）",
-  "电话": "+1 512-610-2698（奥斯汀）/ +1 281-954-3400（休斯敦）",
-  "LinkedIn": "https://www.linkedin.com/company/central-security（322 followers）"
- },
- "signals": [
-  "用户表：A 已回复，2 次实质回复，兴趣商业 PoE",
-  "Eagle Eye 云 VMS 模式每站点仍需本地 PoE 交换机（桥接器 + 摄像机）——8/24 口 PoE 为标配耗材；两城运营、2025-10 仍在发博客（活跃）"
- ],
- "risks": [
-  "安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景",
-  "消防报警部分守界（生命安全）",
-  "消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
- },
- "email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 15 封 0 来信，但 2 封 Saga 去信带 Replied 标签（2025-09-08 Opened）→ 回复发生在别的地址/渠道）",
-   "type": "奥斯汀安防安装商（Avenger Security）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "WhatsApp/电话（用户表）",
-   "lane": "US",
-   "cadence": "季度",
-   "evidence": "邮件：去信 15 封（2025-01-23 → 2026-09-08），来信 0；Opened 标签 2 次（2025-06-11、2025-09-08）；收件人 brandon@getsecurityalarm.com, info@getsecurityalarm.com"
-  },
-  "situation": "Replied 标签说明 Saga 回过对方——对方来信可能从未关联到本户（私人邮箱）。",
-  "need": "8/16 口 PoE 自装。",
-  "breakpoint": "单量小。",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "S 邮箱 → brandon@",
-   "action": "一句话",
-   "one_question": "Any install this quarter where an 8-port PoE at the 60-USD class fits?"
-  },
-  "facts": [
-   {
-    "date": "2025-06-11",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "ea72575dc36805b9"
-   },
-   {
-    "date": "2025-09-08",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "a993a01057d0d553"
-   }
+  "code": "SA-039",
+  "name_official": "Avenger Security / Security Tekton（Austin & Hutto, Texas）",
+  "website_status": "在线",
+  "summary": "德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。",
+  "type": "安防集成/安装商（小型，自装自用采购）",
+  "size": "<$5M（ZoomInfo）",
+  "brands_seen": [
+    "Eagle Eye Networks",
+    "Brivo",
+    "Alula",
+    "Honeywell"
   ],
-  "proof_gaps": [
-   "Replied 标签对应的来信未关联本户"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与联系方式",
+      "quote": "Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com",
+      "url": "https://getsecurityalarm.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网（关联站）",
+      "claim": "员工持股，双牌照，电话与用户表一致",
+      "quote": "Learn about Avenger Security, Austin’s employee-owned security monitoring company. Dual licensed for private security & fire alarm. … 512-563-5361 … Email: info@getsecurityalarm.com",
+      "url": "https://securitytekton.com/pages/about-us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司背景 / 执照 / 地址 / 电话 / 创始人",
+      "quote": "Avenger Security is a private, employee-owned and operated security monitoring service provider based in Austin, Texas. Since 2004 … Texas Private Security License: B12519 & B03064001 … Texas Fire Alarm License: ACR 2370373 … Established: 2004 by Brandon Walter Adams … Address: 501 West Creekbend Cove, Hutto, Texas 78634 … Phone: 512-610-2698",
+      "url": "https://securitytekton.com/pages/about-us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "云视频 = Eagle Eye Networks + PoE IP 摄像机",
+      "quote": "Avenger Security delivers professional cloud video surveillance powered by Eagle Eye Networks. Replace legacy DVR/NVR limitations with a secure, flexible, and scalable cloud VMS that supports leading PoE IP cameras and many existing analog systems via bridge.",
+      "url": "https://securitytekton.com/pages/video-surveillance-austin",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "门禁 = Brivo OnAir 与 Eagle Eye 联动",
+      "quote": "Avenger Security integrates Brivo OnAir with Eagle Eye Networks cloud video surveillance to attach door video clips to activity logs",
+      "url": "https://securitytekton.com/pages/access-control-service",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机",
+      "email": "info@getsecurityalarm.com",
+      "phone": "+1 512-563-5361",
+      "source": "https://securitytekton.com/pages/about-us"
+    },
+    {
+      "name": "Brandon Walter Adams",
+      "role": "Founder / Owner（2004 创立，官网 About）",
+      "email": "—（未公开）",
+      "phone": "+1 512-610-2698（公司）",
+      "source": "https://securitytekton.com/pages/about-us"
+    }
+  ],
+  "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
+  },
+  "company_facts": {
+    "legal_name": "Avenger Security Services（Central Security 同族）",
+    "hq": "501 West Creekbend Cove, Hutto, TX 78634（+1 512-610-2698）；休斯敦分部 11200 Broadway St Ste 2743, Pearland TX 77584（+1 281-954-3400）",
+    "revenue": "<$5M（ZoomInfo）",
+    "other": "员工持股；德州双证（私人安防 B12519 & B03064001；消防报警 ACR 2370373）；云视频 = Eagle Eye Networks（PoE IP 摄像机 + 旧模拟桥接），门禁 = Brivo OnAir，报警 Alula/Honeywell Vista；「无长期合同、无信用审查」；官网 securitytekton.com（2025-10 仍更新）与 getsecurityalarm.com / avengersecurityhouston.com 并行",
+    "founded": "2004（创始人 Brandon Walter Adams；LinkedIn/Yelp 口径 2010）",
+    "staff": "11–50"
+  },
+  "business_lines": [
+    "商业/住宅入侵报警与 UL 中心站监控",
+    "消防报警",
+    "门禁",
+    "云视频监控（IP 摄像机 → 需 PoE 接入）",
+    "云视频监控安装（Eagle Eye Networks，PoE IP 摄像机）",
+    "云门禁（Brivo OnAir，$10–20/门/月）",
+    "盗警/消防报警 + UL 中心站监控（消防部分守界：不供生命安全链路设备）"
+  ],
+  "products_seen": [
+    {
+      "brand": "（安装商自用）",
+      "model": "商业 PoE 交换机（用户表兴趣）",
+      "spec": "摄像机/门禁点位供电",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STC-28DGGPM"
+    }
+  ],
+  "channels": {
+    "网站": "https://securitytekton.com/",
+    "直邮": "brandon@getsecurityalarm.com / info@getsecurityalarm.com（用户表）",
+    "电话": "+1 512-610-2698（奥斯汀）/ +1 281-954-3400（休斯敦）",
+    "LinkedIn": "https://www.linkedin.com/company/central-security（322 followers）"
+  },
+  "signals": [
+    "用户表：A 已回复，2 次实质回复，兴趣商业 PoE",
+    "Eagle Eye 云 VMS 模式每站点仍需本地 PoE 交换机（桥接器 + 摄像机）——8/24 口 PoE 为标配耗材；两城运营、2025-10 仍在发博客（活跃）"
+  ],
+  "risks": [
+    "安装商自用量小（每项目 1–3 台）；美国商业楼宇低压安装常要求 UL 列名设备（Saga 无 UL）→ 只能供非强制场景",
+    "消防报警部分守界（生命安全）",
+    "消防报警/UL 监控为其业务一部分——Saga 只供摄像机/门禁侧 PoE 交换机，不进入消防链路（守界）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安装商每站点 8–24 口 PoE 自用：STC-28DGGPM（8 PoE+2 SFP）为主，STC-424DGGPM-280W 为大站点；集成商 25% 档"
+  },
+  "email_hook": "For the Eagle Eye bridge and PoE camera drops you install around Austin and Houston, the Marvell-based 8-port PoE+ with 2 SFP uplinks at EXW cost is the unit I am quoting, 24-port for the larger sites.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 15 封 0 来信，但 2 封 Saga 去信带 Replied 标签（2025-09-08 Opened）→ 回复发生在别的地址/渠道）",
+      "type": "奥斯汀安防安装商（Avenger Security）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "WhatsApp/电话（用户表）",
+      "lane": "US",
+      "cadence": "季度",
+      "evidence": "邮件：去信 15 封（2025-01-23 → 2026-09-08），来信 0；Opened 标签 2 次（2025-06-11、2025-09-08）；收件人 brandon@getsecurityalarm.com, info@getsecurityalarm.com"
+    },
+    "situation": "Replied 标签说明 Saga 回过对方——对方来信可能从未关联到本户（私人邮箱）。",
+    "need": "8/16 口 PoE 自装。",
+    "breakpoint": "单量小。",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "—",
+      "why": "—。已打开的主题（2/15 封有打开记录）：「16 Port Ethernet Switch」(2025-06-11)、「Industrial PoE Switch」(2025-09-08) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "S 邮箱 → brandon@",
+      "action": "一句话",
+      "one_question": "Any install this quarter where an 8-port PoE at the 60-USD class fits?"
+    },
+    "facts": [
+      {
+        "date": "2025-06-11",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "ea72575dc36805b9"
+      },
+      {
+        "date": "2025-09-08",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "a993a01057d0d553"
+      }
+    ],
+    "proof_gaps": [
+      "Replied 标签对应的来信未关联本户"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

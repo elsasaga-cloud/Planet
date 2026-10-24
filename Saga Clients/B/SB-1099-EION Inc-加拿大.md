@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1000M单纤双向收发器）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-27 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → harshul@eion.com 短信一问（email_hook）
@@ -44,11 +44,11 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1099` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 18 封 2024→2026，其中 6 封被打开，0 回；收件 harshul@eion.com；被打开主题「Mini Industrial PoE Switch、Commercial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：CA 主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复
+- **绑定等级：读而不回（A/S 邮箱 18 封 2024→2026，其中 6 封被打开，0 回；收件 harshul@eion.com；被打开主题「Mini Industrial PoE Switch、Commercial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：CA 主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 18，Opened 标签 6（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复
 - **现状一句话**：加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。
 - **对方真实需求（有据）**：OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线
 - **断点 / 为什么停在这里**：国防/政府客户线守界；加拿大客户可能要求 cUL——Saga 仅 FCC/CE；8 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，按主表（研究档 saga_fit））——OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，按主表（研究档 saga_fit））——OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → harshul@eion.com　短信一问（email_hook）
   - 第一问（只问一个）：For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list?
 
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026 | 去 | A/S 群发 | Mini Industrial PoE Switch、Commercial PoE Switch | 18 封 / 6 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

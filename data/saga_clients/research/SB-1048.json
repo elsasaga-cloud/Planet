@@ -1,116 +1,118 @@
 {
- "code": "SB-1048",
- "name_official": "Seven Stars Group（阿联酋）",
- "researched_at": "2026-10-21",
- "website_status": "在线（sevenstarsuae.com，快照 2026-10-21）",
- "summary": "阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "多元业务：租车、运输、汽修、汽配、软件与 IT 方案；关键词 cctv 10",
-   "quote": "Seven Stars Group of companies, has diversified business segments such as Car Rental, Transportation, Auto Garage, Auto Spare Parts, Software and IT Solutions",
-   "url": "https://sevenstarsuae.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工程商 Switch；网站看着不太相关",
-   "quote": "兴趣：工程商 Switch 网站：看着不太相关",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Nibu Basheer",
-   "title": "Director",
-   "email": "nibu@sevenstarsuae.com",
-   "phone": "+971 50 441 0530",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：行业相关性低）"
- },
- "company_facts": {
-  "legal_name": "Seven Stars Group",
-  "founded": "",
-  "hq": "UAE",
-  "size": "多元集团（IT 为副业）",
-  "other": ""
- },
- "business_lines": [
-  "IT 方案 / CCTV（副业）",
-  "租车 / 运输 / 汽配"
- ],
- "channels": {
-  "role": "集团 IT 部门 / 小工程",
-  "region": "阿联酋"
- },
- "risks": [
-  "IT 非主业；WA 无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "通用 CCTV 配套 8 PoE 管理机。"
- },
- "email_hook": "（低优先；若再询再报）",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 nibu@sevenstarsuae.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿联酋 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 7；用户表：「兴趣：工程商 Switch 网站：看着不太相关」；研究档 risks：IT 非主业；WA 无回复"
-  },
-  "situation": "阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。",
-  "need": "通用 CCTV 配套 8 PoE 管理机。",
-  "breakpoint": "IT 非主业；WA 无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "通用 CCTV 配套 8 PoE 管理机。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工程商 Switch 网站：看着不太相关",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-    "why": "7 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1048",
+  "name_official": "Seven Stars Group（阿联酋）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sevenstarsuae.com，快照 2026-10-21）",
+  "summary": "阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "多元业务：租车、运输、汽修、汽配、软件与 IT 方案；关键词 cctv 10",
+      "quote": "Seven Stars Group of companies, has diversified business segments such as Car Rental, Transportation, Auto Garage, Auto Spare Parts, Software and IT Solutions",
+      "url": "https://sevenstarsuae.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工程商 Switch；网站看着不太相关",
+      "quote": "兴趣：工程商 Switch 网站：看着不太相关",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Nibu Basheer",
+      "title": "Director",
+      "email": "nibu@sevenstarsuae.com",
+      "phone": "+971 50 441 0530",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照：行业相关性低）"
+  },
+  "company_facts": {
+    "legal_name": "Seven Stars Group",
+    "founded": "",
+    "hq": "UAE",
+    "size": "多元集团（IT 为副业）",
+    "other": ""
+  },
+  "business_lines": [
+    "IT 方案 / CCTV（副业）",
+    "租车 / 运输 / 汽配"
+  ],
+  "channels": {
+    "role": "集团 IT 部门 / 小工程",
+    "region": "阿联酋"
+  },
+  "risks": [
+    "IT 非主业；WA 无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "通用 CCTV 配套 8 PoE 管理机。"
+  },
+  "email_hook": "（低优先；若再询再报）",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 7 封 2026，无记录打开，0 回；收件 nibu@sevenstarsuae.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "7 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "阿联酋 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 7；用户表：「兴趣：工程商 Switch 网站：看着不太相关」；研究档 risks：IT 非主业；WA 无回复"
+    },
+    "situation": "阿联酋多元集团（租车、运输、汽修、汽配、软件与 IT 方案），Director Nibu Basheer，表内「工程商 Switch，网站看着不太相关」；WA 23 次无实质回复。IT 方案为集团副业，低优先。",
+    "need": "通用 CCTV 配套 8 PoE 管理机。",
+    "breakpoint": "IT 非主业；WA 无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "通用 CCTV 配套 8 PoE 管理机。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工程商 Switch 网站：看着不太相关",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+        "why": "7 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

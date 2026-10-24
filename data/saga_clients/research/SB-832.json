@@ -1,144 +1,144 @@
 {
- "code": "SB-832",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（futurereadysolutions.com，快照 2026-10-21）",
- "summary": "美国 Future Ready Solutions（面向住宅/商用集成商的连接产品分销，「TRUSTED BY MORE THAN 3,000 INTEGRATION PROS」：Cleerline 光纤、ROBOfiber、PLANET（23）、AVPro、工业硬化交换机栏目、10G/2.5G、PoE 注入器；表内「MC / SFP / 工业 FS；光路客户」；KP Eric Bodley（CEO，eric@）、Lawrence Davis（VP Business Development））；群发 18 次无回复。",
- "type": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "Cleerline",
-  "ROBOfiber",
-  "AVPro"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Future Ready Solutions；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Future Ready Solutions has assembled the best brands in connectivity for systems integrators and installers that service the residential & commercial integration markets.",
-   "url": "https://futurereadysolutions.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Future Ready Solutions 定位",
-   "quote": "Future Ready Solutions has assembled the best brands in connectivity for systems integrators and installers that service the residential & commercial integration markets. ; TRUSTED BY MORE THAN 3,000 INTEGRATION PROS",
-   "url": "https://futurereadysolutions.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC SFP 工业 FS；Cleerline 和 ROBOfiber；光路客户",
-   "quote": "MC SFP 工业FS；Cleerline和ROBOfiber 光路客户",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Eric Bodley",
-   "title": "CEO",
-   "email": "eric@futurereadysolutions.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Lawrence Davis",
-   "title": "Vice President of Business Development",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 futurereadysolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "集成商连接产品分销（光纤 / 网络 / AV）"
- ],
- "channels": {
-  "role": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
-  "region": "美国",
-  "contact": "eric@futurereadysolutions.com、info@futurereadysolutions.com"
- },
- "signals": [
-  "栏目 /categories-industrial-network-switches-hardened；站内 POE-10G-DIN / INJ-10G-90R / INJ-H2G5-90R；kw fiber 165 / 10g 32 / planet 23",
-  "首页：TRUSTED BY MORE THAN 3,000 INTEGRATION PROS；KP Eric Bodley / CEO；Lawrence Davis / VP BD"
- ],
- "risks": [
-  "PLANET / ROBOfiber 既定货源：白牌需靠价差",
-  "18 次无回复 → 改向 CEO 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）"
- },
- "email_hook": "Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 eric@futurereadysolutions.com, info@futurereadysolutions.com；被打开主题「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
-   "type": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "US 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户」；研究档 risks：PLANET / ROBOfiber 既定货源：白牌需靠价差"
-  },
-  "situation": "美国 Future Ready Solutions（面向住宅/商用集成商的连接产品分销，「TRUSTED BY MORE THAN 3,000 INTEGRATION PROS」：Cleerline 光纤、ROBOfiber、PLANET（23）、AVPro、工业硬化交换机栏目、10G/2.5G、PoE 注入器；表内「MC / SFP / 工业 FS；光路客户」；KP Eric Bodley（CEO，eric@）、Lawrence Davis（VP Business Development））；群发 18 次无回复。",
-  "need": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）",
-  "breakpoint": "PLANET / ROBOfiber 既定货源：白牌需靠价差",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-    "why": "29 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-832",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（futurereadysolutions.com，快照 2026-10-21）",
+  "summary": "美国 Future Ready Solutions（面向住宅/商用集成商的连接产品分销，「TRUSTED BY MORE THAN 3,000 INTEGRATION PROS」：Cleerline 光纤、ROBOfiber、PLANET（23）、AVPro、工业硬化交换机栏目、10G/2.5G、PoE 注入器；表内「MC / SFP / 工业 FS；光路客户」；KP Eric Bodley（CEO，eric@）、Lawrence Davis（VP Business Development））；群发 18 次无回复。",
+  "type": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
+  "size": "",
+  "brands_seen": [
+    "PLANET",
+    "Cleerline",
+    "ROBOfiber",
+    "AVPro"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Future Ready Solutions；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Future Ready Solutions has assembled the best brands in connectivity for systems integrators and installers that service the residential & commercial integration markets.",
+      "url": "https://futurereadysolutions.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Future Ready Solutions 定位",
+      "quote": "Future Ready Solutions has assembled the best brands in connectivity for systems integrators and installers that service the residential & commercial integration markets. ; TRUSTED BY MORE THAN 3,000 INTEGRATION PROS",
+      "url": "https://futurereadysolutions.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC SFP 工业 FS；Cleerline 和 ROBOfiber；光路客户",
+      "quote": "MC SFP 工业FS；Cleerline和ROBOfiber 光路客户",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Eric Bodley",
+      "title": "CEO",
+      "email": "eric@futurereadysolutions.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Lawrence Davis",
+      "title": "Vice President of Business Development",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 futurereadysolutions.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "集成商连接产品分销（光纤 / 网络 / AV）"
+  ],
+  "channels": {
+    "role": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
+    "region": "美国",
+    "contact": "eric@futurereadysolutions.com、info@futurereadysolutions.com"
+  },
+  "signals": [
+    "栏目 /categories-industrial-network-switches-hardened；站内 POE-10G-DIN / INJ-10G-90R / INJ-H2G5-90R；kw fiber 165 / 10g 32 / planet 23",
+    "首页：TRUSTED BY MORE THAN 3,000 INTEGRATION PROS；KP Eric Bodley / CEO；Lawrence Davis / VP BD"
+  ],
+  "risks": [
+    "PLANET / ROBOfiber 既定货源：白牌需靠价差",
+    "18 次无回复 → 改向 CEO 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）"
+  },
+  "email_hook": "Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 29 封 2024→2026，其中 2 封被打开，0 回；收件 eric@futurereadysolutions.com, info@futurereadysolutions.com；被打开主题「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
+      "type": "集成商渠道分销商（美国，PLANET / ROBOfiber 在售）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "US 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 29，Opened 标签 2（Simon 群发追踪）；用户表：「MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户」；研究档 risks：PLANET / ROBOfiber 既定货源：白牌需靠价差"
+    },
+    "situation": "美国 Future Ready Solutions（面向住宅/商用集成商的连接产品分销，「TRUSTED BY MORE THAN 3,000 INTEGRATION PROS」：Cleerline 光纤、ROBOfiber、PLANET（23）、AVPro、工业硬化交换机栏目、10G/2.5G、PoE 注入器；表内「MC / SFP / 工业 FS；光路客户」；KP Eric Bodley（CEO，eric@）、Lawrence Davis（VP Business Development））；群发 18 次无回复。",
+    "need": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）",
+    "breakpoint": "PLANET / ROBOfiber 既定货源：白牌需靠价差",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）。已打开的主题（2/29 封有打开记录）：「48 port managed switch」(2024-07-29)、「Industrial PoE Switch」(2025-01-29) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC SFP 工业FS；MC SFP 工业FS Cleerline和ROBOfiber 光路客户",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+        "why": "29 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,179 +1,188 @@
 {
- "code": "SA-136",
- "name_official": "Aarya ITES Pvt. Ltd.（CIN U72900GJ2008PTC055798，Ahmedabad，印度；a-ites.com）",
- "website_status": "在线（快照 2026-10-21 ok）",
- "summary": "印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。",
- "type": "安防集成/经销商",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "摄像/门禁；2 光 4 电百兆 MC 外壳；WA 已加",
-   "quote": "Cameras, access control / 2光4电百兆MC外壳(外购那款)；91-98250 95206 已加（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "业务线与地址",
-   "quote": "Smart Highway Solutions / Command & Control Centre / IT & Network Solutions / IP Video Surveillance / Entry Control & Monitoring / Fire Alarm & Voice Evacuation / Unified Communication / Emergency Call Box (ECB)… #209, Akshar Stadia… Ahmedabad-380054… info@a-ites.com aaryaites@gmail.com… ISO 9001:2015 I 20000-1:2018 I 27001:2022",
-   "url": "https://www.a-ites.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "规模与成立",
-   "quote": "Industry: Security and Investigations; Company size: 11-50 employees; Headquarters: Ahmedabad, Gujarat; Founded: 2008",
-   "url": "https://in.linkedin.com/company/aarya-ites-pvt-ltd-",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "营收口径",
-   "quote": "AARYA ITES PVT.LTD. … $5.1 million in revenue and 39 employees… Phone · +91 92271 95201",
-   "url": "https://rocketreach.co/aarya-ites-pvtltd-profile_b5d87c6df42e53f1",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "登记",
-   "quote": "AARYA ITES PRIVATE LIMITED (CIN: U72900GJ2008PTC055798) … incorporated on 31 Dec 2008 … paid up capital is Rs. 2464000.00",
-   "url": "https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "需求与回复",
-   "quote": "Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+91 98250 95206（WA）",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Manan Bhavsar",
-   "role": "CEO",
-   "email": "manan@a-ites.com",
-   "phone": "+91 98250 95206（WA 已加）",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Chirag Shah",
-   "role": "Manager",
-   "email": "chirag.s@a-ites.com",
-   "phone": "",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Manish Meghwal",
-   "role": "Manager",
-   "email": "manish.m@a-ites.com",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": "B",
- "override_reason": "需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。",
- "notes": "WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + LinkedIn/登记核对）"
- },
- "company_facts": {
-  "legal_name": "AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798）",
-  "founded": "2008-12-31",
-  "hq": "#209, Akshar Stadia, Opp. Symphony Ltd, Bodakdev, Ahmedabad-380054, Gujarat；+91 79 4899 5206 / +91 98250 95206；info@a-ites.com",
-  "size": "LinkedIn 11–50；RocketReach 39 人 / 营收 $5.1M；实缴资本 ₹24.6 lakh",
-  "other": "ISO 9001:2015 / 20000-1:2018 / 27001:2022；IndiaMART 列为高速公路交通管理系统与 ECB 制造商；官网文字出现 PLANET、Axis、Ubiquiti"
- },
- "business_lines": [
-  "智慧高速：收费管理 TMS、ATMS、VIDS、VMS、ECB 紧急电话（自产，BiDi 光纤接入）",
-  "指挥控制中心、IP 视频监控、门禁与入口监控",
-  "火警与语音疏散、统一通信",
-  "IT 与网络方案、集成软件"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET（官网提及）",
-   "model": "（未列型号）",
-   "spec": "IT & Network 方案页品牌词",
-   "saga": "工业 4/8 口管理型 → STI-288GPM / STI-154GP",
-   "url": "https://www.a-ites.com/",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "official": "info@a-ites.com / aaryaites@gmail.com；+91 79 4899 5206",
-  "contact": "Manan Bhavsar（CEO）manan@a-ites.com；Chirag Shah（Manager）chirag.s@a-ites.com；Manish Meghwal（Manager）manish.m@a-ites.com；+91 98250 95206（WA 已加）",
-  "linkedin": "in.linkedin.com/company/aarya-ites-pvt-ltd-"
- },
- "signals": [
-  "2024-08-12 明确只要 4 & 8 口工业级",
-  "2025-02-26 要 L2 管理 / Web 管理版本",
-  "高速公路 ATMS/ECB 项目持续（路侧机柜 DIN 导轨场景）"
- ],
- "risks": [
-  "印度政府/国道局招标多有本地化与认证要求（按单评估）",
-  "路侧高温环境需宽温与浪涌等级证明",
-  "价格敏感，常比价本地品牌"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核"
- },
- "email_hook": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 」）",
-   "type": "安防集成/经销商",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26」；研究档 risks：印度政府/国道局招标多有本地化与认证要求（按单评估）"
-  },
-  "situation": "印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复",
-  "need": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核",
-  "breakpoint": "印度政府/国道局招标多有本地化与认证要求（按单评估）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SA-136",
+  "name_official": "Aarya ITES Pvt. Ltd.（CIN U72900GJ2008PTC055798，Ahmedabad，印度；a-ites.com）",
+  "website_status": "在线（快照 2026-10-21 ok）",
+  "summary": "印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。",
+  "type": "安防集成/经销商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "摄像/门禁；2 光 4 电百兆 MC 外壳；WA 已加",
+      "quote": "Cameras, access control / 2光4电百兆MC外壳(外购那款)；91-98250 95206 已加（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "业务线与地址",
+      "quote": "Smart Highway Solutions / Command & Control Centre / IT & Network Solutions / IP Video Surveillance / Entry Control & Monitoring / Fire Alarm & Voice Evacuation / Unified Communication / Emergency Call Box (ECB)… #209, Akshar Stadia… Ahmedabad-380054… info@a-ites.com aaryaites@gmail.com… ISO 9001:2015 I 20000-1:2018 I 27001:2022",
+      "url": "https://www.a-ites.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "规模与成立",
+      "quote": "Industry: Security and Investigations; Company size: 11-50 employees; Headquarters: Ahmedabad, Gujarat; Founded: 2008",
+      "url": "https://in.linkedin.com/company/aarya-ites-pvt-ltd-",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "营收口径",
+      "quote": "AARYA ITES PVT.LTD. … $5.1 million in revenue and 39 employees… Phone · +91 92271 95201",
+      "url": "https://rocketreach.co/aarya-ites-pvtltd-profile_b5d87c6df42e53f1",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "登记",
+      "quote": "AARYA ITES PRIVATE LIMITED (CIN: U72900GJ2008PTC055798) … incorporated on 31 Dec 2008 … paid up capital is Rs. 2464000.00",
+      "url": "https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "需求与回复",
+      "quote": "Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+91 98250 95206（WA）",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Manan Bhavsar",
+      "role": "CEO",
+      "email": "manan@a-ites.com",
+      "phone": "+91 98250 95206（WA 已加）",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Chirag Shah",
+      "role": "Manager",
+      "email": "chirag.s@a-ites.com",
+      "phone": "",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Manish Meghwal",
+      "role": "Manager",
+      "email": "manish.m@a-ites.com",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": "B",
+  "override_reason": "需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。",
+  "notes": "WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + LinkedIn/登记核对）"
+  },
+  "company_facts": {
+    "legal_name": "AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798）",
+    "founded": "2008-12-31",
+    "hq": "#209, Akshar Stadia, Opp. Symphony Ltd, Bodakdev, Ahmedabad-380054, Gujarat；+91 79 4899 5206 / +91 98250 95206；info@a-ites.com",
+    "size": "LinkedIn 11–50；RocketReach 39 人 / 营收 $5.1M；实缴资本 ₹24.6 lakh",
+    "other": "ISO 9001:2015 / 20000-1:2018 / 27001:2022；IndiaMART 列为高速公路交通管理系统与 ECB 制造商；官网文字出现 PLANET、Axis、Ubiquiti"
+  },
+  "business_lines": [
+    "智慧高速：收费管理 TMS、ATMS、VIDS、VMS、ECB 紧急电话（自产，BiDi 光纤接入）",
+    "指挥控制中心、IP 视频监控、门禁与入口监控",
+    "火警与语音疏散、统一通信",
+    "IT 与网络方案、集成软件"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET（官网提及）",
+      "model": "（未列型号）",
+      "spec": "IT & Network 方案页品牌词",
+      "saga": "工业 4/8 口管理型 → STI-288GPM / STI-154GP",
+      "url": "https://www.a-ites.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "official": "info@a-ites.com / aaryaites@gmail.com；+91 79 4899 5206",
+    "contact": "Manan Bhavsar（CEO）manan@a-ites.com；Chirag Shah（Manager）chirag.s@a-ites.com；Manish Meghwal（Manager）manish.m@a-ites.com；+91 98250 95206（WA 已加）",
+    "linkedin": "in.linkedin.com/company/aarya-ites-pvt-ltd-"
+  },
+  "signals": [
+    "2024-08-12 明确只要 4 & 8 口工业级",
+    "2025-02-26 要 L2 管理 / Web 管理版本",
+    "高速公路 ATMS/ECB 项目持续（路侧机柜 DIN 导轨场景）"
+  ],
+  "risks": [
+    "印度政府/国道局招标多有本地化与认证要求（按单评估）",
+    "路侧高温环境需宽温与浪涌等级证明",
+    "价格敏感，常比价本地品牌"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核"
+  },
+  "email_hook": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 」）",
+      "type": "安防集成/经销商",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达；manish.m@/chirag.s@a-ites.com 2025-03/04 退信，邮箱失效",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "IN 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26」；研究档 risks：印度政府/国道局招标多有本地化与认证要求（按单评估）"
+    },
+    "situation": "印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复",
+    "need": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核",
+    "breakpoint": "印度政府/国道局招标多有本地化与认证要求（按单评估）",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-21",
+        "dir": "来",
+        "who": "postmaster@a-ites.com",
+        "quote": "Your message to manish.m@a-ites.com couldn't be delivered. manish.m wasn't found at a-ites.com（chirag.s@ 同样；2025-03-12 与 2025-04-21 两次）",
+        "why": "Elsa 邮箱退信（第 21 批连接器抽查）：两个具名邮箱已失效 → 该户目前没有可用邮箱",
+        "k": "gmail_e:19657787c93c8d51"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

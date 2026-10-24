@@ -1,154 +1,156 @@
 {
- "code": "SB-278",
- "name_official": "Proxeet Limited（Paphos, CY；proxeet.com；PoE 配件与 ISP 网络设备品牌）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已加；无跟进。品牌商 → OEM 30%；但 Saga 价格表无 injector SKU → 待核型。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Proxeet / iBlock（自有品牌）",
-  "Chiprian（自有交换机品牌）"
- ],
- "evidence": [
-  {
-   "kind": "公司注册",
-   "claim": "法人与注册日期",
-   "quote": "PROXEET LIMITED Reg. Number ΗΕ 437925 Type Limited Company … Registration Date 31/08/2022 … Neofytou Nikolaidi, 61, YIANNIS COURT, Floor 2, Flat/Office 201 8011, Pafos, Cyprus",
-   "url": "https://i-cyprus.com/company/611007",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与行业",
-   "quote": "ProXeet … Industry: Telecommunications … Company size: 11-50 employees … Headquarters: Paphos … Founded: 2020",
-   "url": "https://www.linkedin.com/company/proxeet",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "自有交换机产品线",
-   "quote": "Chiprian — L3 Managed Switch by PROXEET … Designed and assembled in Cyprus by Proxeet Ltd. … Enterprise-grade switching built for ISPs and SMBs … flexible PoE profiles (incl. 24V/48V passive) … Model / A1-16P … A1-24P … Total PoE Budget 150Watt",
-   "url": "https://chiprian.com/mobile",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "产品手册",
-   "claim": "injector 产品与制造商信息",
-   "quote": "Portable Mid-span PoE injector iBlock Essential … 26v DC (up to 25 watt) Passive PoE. 50v DC (up to 25 watt) at/af … Manufacturer: PROXEET LIMITED … Tel: +357-25100999 Email: info@proxeet.com",
-   "url": "https://proxeet.com/manual/iBlock-ET_P_A.pdf",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "阿里巴巴",
-   "claim": "阿里供应商账号",
-   "quote": "PROXEET LIMITED Products:PoE injector … Pafos, Cyprus Main categories: PoE injector",
-   "url": "https://cy29048306156cmwp.m.fm.alibaba.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "RFQ：30 W PoE injector",
-   "quote": "需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Marina Shkarpetina",
-   "role": "Marketplace（用户表 RFQ）",
-   "email": "marketplace@proxeet.com（用户表）",
-   "phone": "—（WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（公司注册 + 官网核对）"
- },
- "company_facts": {
-  "legal_name": "PROXEET LIMITED（HE 437925）",
-  "founded": "2022-08-31（注册）；LinkedIn 2020",
-  "hq": "Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com）",
-  "size": "11–50（LinkedIn）",
-  "other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158"
- },
- "business_lines": [
-  "PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）",
-  "Chiprian L3 管理交换机 16/24 口（被动 + 标准 PoE）",
-  "ISP 软件与网络设备"
- ],
- "channels": {
-  "网站": "https://proxeet.com/ · https://chiprian.com/ · https://portablepoe.com/",
-  "电话": "+357 25 100999（公开）",
-  "邮箱（公开）": "info@proxeet.com",
-  "LinkedIn": "https://www.linkedin.com/company/proxeet"
- },
- "signals": [
-  "品牌商直接 RFQ 30 W injector → OEM 贴牌量产需求；其 Chiprian 16/24 口 PoE L3 交换机线也可由 Saga OEM 商用机型（STC-424DGGPM-280W）补位",
-  "被动 24/48 V PoE 是 WISP 需求 → Saga 标准 802.3af/at/bt 机型需说明不含被动 PoE"
- ],
- "risks": [
-  "Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 30,
-  "why": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选"
- },
- "email_hook": "Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "塞浦路斯（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高"
-  },
-  "situation": "塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已",
-  "need": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选",
-  "breakpoint": "Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "Industrial PoE Switch",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-278",
+  "name_official": "Proxeet Limited（Paphos, CY；proxeet.com；PoE 配件与 ISP 网络设备品牌）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已加；无跟进。品牌商 → OEM 30%；但 Saga 价格表无 injector SKU → 待核型。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Proxeet / iBlock（自有品牌）",
+    "Chiprian（自有交换机品牌）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "公司注册",
+      "claim": "法人与注册日期",
+      "quote": "PROXEET LIMITED Reg. Number ΗΕ 437925 Type Limited Company … Registration Date 31/08/2022 … Neofytou Nikolaidi, 61, YIANNIS COURT, Floor 2, Flat/Office 201 8011, Pafos, Cyprus",
+      "url": "https://i-cyprus.com/company/611007",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与行业",
+      "quote": "ProXeet … Industry: Telecommunications … Company size: 11-50 employees … Headquarters: Paphos … Founded: 2020",
+      "url": "https://www.linkedin.com/company/proxeet",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "自有交换机产品线",
+      "quote": "Chiprian — L3 Managed Switch by PROXEET … Designed and assembled in Cyprus by Proxeet Ltd. … Enterprise-grade switching built for ISPs and SMBs … flexible PoE profiles (incl. 24V/48V passive) … Model / A1-16P … A1-24P … Total PoE Budget 150Watt",
+      "url": "https://chiprian.com/mobile",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "产品手册",
+      "claim": "injector 产品与制造商信息",
+      "quote": "Portable Mid-span PoE injector iBlock Essential … 26v DC (up to 25 watt) Passive PoE. 50v DC (up to 25 watt) at/af … Manufacturer: PROXEET LIMITED … Tel: +357-25100999 Email: info@proxeet.com",
+      "url": "https://proxeet.com/manual/iBlock-ET_P_A.pdf",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "阿里巴巴",
+      "claim": "阿里供应商账号",
+      "quote": "PROXEET LIMITED Products:PoE injector … Pafos, Cyprus Main categories: PoE injector",
+      "url": "https://cy29048306156cmwp.m.fm.alibaba.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "RFQ：30 W PoE injector",
+      "quote": "需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Marina Shkarpetina",
+      "role": "Marketplace（用户表 RFQ）",
+      "email": "marketplace@proxeet.com（用户表）",
+      "phone": "—（WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（公司注册 + 官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "PROXEET LIMITED（HE 437925）",
+    "founded": "2022-08-31（注册）；LinkedIn 2020",
+    "hq": "Neofytou Nikolaidi 61, Yiannis Court, Office 201, 8011 Paphos, Cyprus（+357 25 100999；info@proxeet.com）",
+    "size": "11–50（LinkedIn）",
+    "other": "自有品牌 PoE injector（iBlock）、Chiprian L3 PoE 交换机；ISP/WISP 客户；RIPE AS201158"
+  },
+  "business_lines": [
+    "PoE 注入器/便携 PoE（自有品牌，亦在阿里巴巴与亚马逊销售）",
+    "Chiprian L3 管理交换机 16/24 口（被动 + 标准 PoE）",
+    "ISP 软件与网络设备"
+  ],
+  "channels": {
+    "网站": "https://proxeet.com/ · https://chiprian.com/ · https://portablepoe.com/",
+    "电话": "+357 25 100999（公开）",
+    "邮箱（公开）": "info@proxeet.com",
+    "LinkedIn": "https://www.linkedin.com/company/proxeet"
+  },
+  "signals": [
+    "品牌商直接 RFQ 30 W injector → OEM 贴牌量产需求；其 Chiprian 16/24 口 PoE L3 交换机线也可由 Saga OEM 商用机型（STC-424DGGPM-280W）补位",
+    "被动 24/48 V PoE 是 WISP 需求 → Saga 标准 802.3af/at/bt 机型需说明不含被动 PoE"
+  ],
+  "risks": [
+    "Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 30,
+    "why": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选"
+  },
+  "email_hook": "Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "塞浦路斯（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高"
+    },
+    "situation": "塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已",
+    "need": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选",
+    "breakpoint": "Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Re your RFQ for a 30 W PoE injector: we can quote the injector together with a 24× PoE+ (280 W) + 4× SFP L2+ switch under your Proxeet/Chiprian label (neutral packing standard) — which quantity per month should the injector quote be based on?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch",
+        "why": "1 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

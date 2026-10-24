@@ -1,152 +1,152 @@
 {
- "code": "SC-545",
- "name_official": "Globall Distribution",
- "researched_at": "2026-10-21",
- "website_status": "在线（globall.ca；并档 Planet 渠道档案 PB-036）",
- "summary": "蒙特利尔北郊的小型进口分销商，自称 PLANET 全线加拿大分销，给经销商/集成商供网络、监控与电话产品。类型：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）。信号：官网 PLANET 专区自述「Canadian Distributor of Planet Networking & Communication products … distributor of the entire product portfolio from Planet Technology」；Mikrotik 仓库 C-015 标「分销（PLANET 授权）」。Planet 渠道档案 PB-036 评级 B（需求：PLANET 全线分销自述 + 进口商 + 经销商渠道；触达：info@globall.ca 官网公开；Corinne Defay（Marketing Manager，Yeastar 新闻稿具名，用 Info@）；体量 2–10 人可赢；区域加拿大（一线）；B）。并档说明：Saga 表内本条 SC-545（加拿大）自动评 C（原因：；Saga 群发已推送 8 次无回复）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "MikroTik"
- ],
- "evidence": [
-  {
-   "kind": "卖方目录",
-   "claim": "PLANET 加拿大分销自述",
-   "quote": "Welcome to Globall Distribution, Canadian Distributor of Planet Networking & Communication products. We are proud to be distributor of the entire product portfolio from Planet Technology. 1-514-374-7117 info@globall.ca … Warehouse 4185 rue Marcel Lacasse, Boisbriand, Qc J7H 1N4",
-   "url": "https://www.globall.ca/collections/planet-technology",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述",
-   "claim": "进口商定位与客户群",
-   "quote": "Globall Distribution is a Canadian importer, distributor, and supplier of data and networking, surveillance, fiber infrastructure and telephony products. The company offers complete solutions to primary B2B IT resellers, integrators, and retailers",
-   "url": "https://www.globall.ca/collections/globall",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "规模",
-   "quote": "Company size: 2-10 employees · Headquarters: Blainville, QC · Founded: 2011（LinkedIn）",
-   "url": "https://ca.linkedin.com/company/globall-distribution",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "具名联系人（新闻稿）",
-   "quote": "Globall Contact Corinne Defay Marketing Manager at Globall Distribution Info@globall.ca 1-514-374-7117",
-   "url": "https://www.yeastar.com/news/globall-distribution-partnership/",
-   "date": "2022-05-11"
-  },
-  {
-   "kind": "Mikrotik 仓库",
-   "claim": "C-015 同户：分销（PLANET 授权），B下放·无邮箱",
-   "quote": "C-015 Globall Distribution 加拿大 分销（PLANET 授权）… B下放·无邮箱（群发触达不到）… ①补到邮箱 可重评",
-   "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
-   "date": "2026-10-19"
-  }
- ],
- "kp": [
-  {
-   "name": "Corinne Defay",
-   "title": "Marketing Manager（Yeastar 新闻稿具名，联系邮箱为 Info@）；具名无个人直邮（新闻稿给 Info@globall.ca）",
-   "email": "",
-   "phone": "+1 514-374-7117",
-   "source": "https://www.yeastar.com/news/globall-distribution-partnership/"
-  }
- ],
- "grade_override": "B",
- "override_reason": "Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Globall Distribution",
-  "founded": "",
-  "hq": "Boisbriand / Blainville, QC, 加拿大",
+  "code": "SC-545",
+  "name_official": "Globall Distribution",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（globall.ca；并档 Planet 渠道档案 PB-036）",
+  "summary": "蒙特利尔北郊的小型进口分销商，自称 PLANET 全线加拿大分销，给经销商/集成商供网络、监控与电话产品。类型：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）。信号：官网 PLANET 专区自述「Canadian Distributor of Planet Networking & Communication products … distributor of the entire product portfolio from Planet Technology」；Mikrotik 仓库 C-015 标「分销（PLANET 授权）」。Planet 渠道档案 PB-036 评级 B（需求：PLANET 全线分销自述 + 进口商 + 经销商渠道；触达：info@globall.ca 官网公开；Corinne Defay（Marketing Manager，Yeastar 新闻稿具名，用 Info@）；体量 2–10 人可赢；区域加拿大（一线）；B）。并档说明：Saga 表内本条 SC-545（加拿大）自动评 C（原因：；Saga 群发已推送 8 次无回复）。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-036（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数"
- },
- "business_lines": [
-  "分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-24P4C",
-   "spec": "24×GE PoE+ + 4 Combo",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://globall.ca",
-   "date": "2026-10-19"
+  "brands_seen": [
+    "PLANET",
+    "MikroTik"
+  ],
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 加拿大分销自述",
+      "quote": "Welcome to Globall Distribution, Canadian Distributor of Planet Networking & Communication products. We are proud to be distributor of the entire product portfolio from Planet Technology. 1-514-374-7117 info@globall.ca … Warehouse 4185 rue Marcel Lacasse, Boisbriand, Qc J7H 1N4",
+      "url": "https://www.globall.ca/collections/planet-technology",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "进口商定位与客户群",
+      "quote": "Globall Distribution is a Canadian importer, distributor, and supplier of data and networking, surveillance, fiber infrastructure and telephony products. The company offers complete solutions to primary B2B IT resellers, integrators, and retailers",
+      "url": "https://www.globall.ca/collections/globall",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "规模",
+      "quote": "Company size: 2-10 employees · Headquarters: Blainville, QC · Founded: 2011（LinkedIn）",
+      "url": "https://ca.linkedin.com/company/globall-distribution",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "具名联系人（新闻稿）",
+      "quote": "Globall Contact Corinne Defay Marketing Manager at Globall Distribution Info@globall.ca 1-514-374-7117",
+      "url": "https://www.yeastar.com/news/globall-distribution-partnership/",
+      "date": "2022-05-11"
+    },
+    {
+      "kind": "Mikrotik 仓库",
+      "claim": "C-015 同户：分销（PLANET 授权），B下放·无邮箱",
+      "quote": "C-015 Globall Distribution 加拿大 分销（PLANET 授权）… B下放·无邮箱（群发触达不到）… ①补到邮箱 可重评",
+      "url": "https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv",
+      "date": "2026-10-19"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Corinne Defay",
+      "title": "Marketing Manager（Yeastar 新闻稿具名，联系邮箱为 Info@）；具名无个人直邮（新闻稿给 Info@globall.ca）",
+      "email": "",
+      "phone": "+1 514-374-7117",
+      "source": "https://www.yeastar.com/news/globall-distribution-partnership/"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20）"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSD-1008HP",
-   "spec": "PLANET 为 8 PoE+2 上联桌面非管理；Saga 以 8 口 PoE+2 SFP 管理型覆盖（形态不同，注明）",
-   "saga": "STC-28DGGPM",
-   "url": "https://globall.ca",
-   "date": "2026-10-19"
+  "company_facts": {
+    "legal_name": "Globall Distribution",
+    "founded": "",
+    "hq": "Boisbriand / Blainville, QC, 加拿大",
+    "size": "",
+    "other": "Planet 渠道档案 PB-036（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数"
   },
-  {
-   "brand": "PLANET",
-   "model": "IGS-504HPT",
-   "spec": "Saga 暂无对应型号，沿用 SmartByte 型号 STI-088GP",
-   "saga": "STI-088GP",
-   "url": "https://globall.ca",
-   "date": "2026-10-19"
+  "business_lines": [
+    "分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-24P4C",
+      "spec": "24×GE PoE+ + 4 Combo",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://globall.ca",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-1008HP",
+      "spec": "PLANET 为 8 PoE+2 上联桌面非管理；Saga 以 8 口 PoE+2 SFP 管理型覆盖（形态不同，注明）",
+      "saga": "STC-28DGGPM",
+      "url": "https://globall.ca",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-504HPT",
+      "spec": "Saga 暂无对应型号，沿用 SmartByte 型号 STI-088GP",
+      "saga": "STI-088GP",
+      "url": "https://globall.ca",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）",
+    "region": "加拿大"
+  },
+  "signals": [
+    "自称 PLANET 全线加拿大分销且是「importer」（已有直接进口能力）；2–10 人决策链极短；Mikrotik 侧「无邮箱」沉 C，本仓补到 info@globall.ca（官网 + Yeastar 新闻稿）"
+  ],
+  "risks": [
+    "PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数",
+    "Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求："
+  },
+  "email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封 2023-11 法语休假自动回复）",
+      "type": "加拿大分销（Globall Distribution）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "CA",
+      "cadence": "不动",
+      "evidence": "k=29a04a217e252a0b"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2026-05-12) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "channels": {
-  "role": "分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）",
-  "region": "加拿大"
- },
- "signals": [
-  "自称 PLANET 全线加拿大分销且是「importer」（已有直接进口能力）；2–10 人决策链极短；Mikrotik 侧「无邮箱」沉 C，本仓补到 info@globall.ca（官网 + Yeastar 新闻稿）"
- ],
- "risks": [
-  "PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数",
-  "Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求："
- },
- "email_hook": "You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封 2023-11 法语休假自动回复）",
-   "type": "加拿大分销（Globall Distribution）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "CA",
-   "cadence": "不动",
-   "evidence": "k=29a04a217e252a0b"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

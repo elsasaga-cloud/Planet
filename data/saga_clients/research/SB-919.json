@@ -1,125 +1,125 @@
 {
- "code": "SB-919",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（solidcable.com，快照 2026-10-21）",
- "summary": "日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。",
- "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
- "size": "",
- "brands_seen": [
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸；品类词 电信 / FTTH / ISP 设备",
-   "quote": "商品カテゴリ；工事用途；おすすめ商品；お役立ちガイド；商品カタログ；ログイン",
-   "url": "https://solidcable.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "ONV的MC 一些周边通讯设备 产品较少",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Solid Cable 定位",
-   "quote": "ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 放送・通信工事材料の卸",
-   "url": "https://solidcable.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "ONV 的 MC",
-   "quote": "ONV的MC 一些周边通讯设备 产品较少",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "日本",
-  "other": "官网 solidcable.com，语言 ja，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "LAN 线缆 / 通信工程材料电商（日本）"
- ],
- "channels": {
-  "role": "通信工程材料电商/批发（日本，MC 现 ONV）",
-  "region": "日本",
-  "contact": "support@solidcable.com"
- },
- "signals": [
-  "官网：ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸；kw ftth 26",
-  "表内：ONV 的 MC 一些周边通讯设备 产品较少"
- ],
- "risks": [
-  "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）"
- },
- "email_hook": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）",
-   "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "日本 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的MC 一些周边通讯设备 产品较少」；研究档 risks：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@"
-  },
-  "situation": "日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。",
-  "need": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）",
-  "breakpoint": "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "ONV的MC 一些周边通讯设备 产品较少",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
-    "why": "21 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-919",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（solidcable.com，快照 2026-10-21）",
+  "summary": "日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。",
+  "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
+  "size": "",
+  "brands_seen": [
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸；品类词 电信 / FTTH / ISP 设备",
+      "quote": "商品カテゴリ；工事用途；おすすめ商品；お役立ちガイド；商品カタログ；ログイン",
+      "url": "https://solidcable.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "ONV的MC 一些周边通讯设备 产品较少",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Solid Cable 定位",
+      "quote": "ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 放送・通信工事材料の卸",
+      "url": "https://solidcable.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "ONV 的 MC",
+      "quote": "ONV的MC 一些周边通讯设备 产品较少",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "日本",
+    "other": "官网 solidcable.com，语言 ja，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "LAN 线缆 / 通信工程材料电商（日本）"
+  ],
+  "channels": {
+    "role": "通信工程材料电商/批发（日本，MC 现 ONV）",
+    "region": "日本",
+    "contact": "support@solidcable.com"
+  },
+  "signals": [
+    "官网：ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸；kw ftth 26",
+    "表内：ONV 的 MC 一些周边通讯设备 产品较少"
+  ],
+  "risks": [
+    "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）"
+  },
+  "email_hook": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）",
+      "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "日本 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 21，Opened 标签 1（Simon 群发追踪）；用户表：「ONV的MC 一些周边通讯设备 产品较少」；研究档 risks：非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@"
+    },
+    "situation": "日本 ソリッドケーブル Solid Cable（LAN 线缆通贩先驱，广播/通信工程材料批发，当日发货；表内「ONV 的 MC 一些周边通讯设备 产品较少」）；表内 2 次跟进无回复。",
+    "need": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）",
+    "breakpoint": "非主攻区（T5，日本；PSE/VCCI 由客户侧）；现供 ONV 价格基准低；有源产品少；2 次无回复，仅 support@",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "MC（现 ONV）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）。已打开的主题（1/21 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-08) → 读者兴趣偏「固件/功能」；当前 P1 属「10G 汇聚/L3」，下一封按「固件/功能」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "ONV的MC 一些周边通讯设备 产品较少",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
+        "why": "21 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

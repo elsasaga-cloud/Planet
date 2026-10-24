@@ -129,7 +129,7 @@
       "p1": "STI-488XGGPM2B-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
       "tier": 25,
       "price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM2B-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd",
-      "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
+      "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单。已打开的主题（21/24 封有打开记录）：「Re: Supported SONiC for Saga Ethernet 」(2026-05-27)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-03)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-05)、「Re: Request for DX1518/DX1548 Chips」(2026-07-02) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1",
       "repeat": [],
       "gaps": [
         "不卖芯片、不做 SONiC 移植、不碰国内冲突项目——三条都已书面说过，别再开口"

@@ -97,7 +97,7 @@
       "p1": "STI-288GPM",
       "tier": 30,
       "price": "按主表（研究档 saga_fit）",
-      "why": "自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做",
+      "why": "自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },

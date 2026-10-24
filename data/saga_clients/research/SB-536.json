@@ -1,128 +1,128 @@
 {
- "code": "SB-536",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（highlink.co.kr，快照 2026-10-21）",
- "summary": "韩国 하이링크 Highlink（工业无线产品与 RF 调制解调器、定制固件，楼宇/工厂自动化有线无线方案；自有 DIVA 品牌 AP（DIVA-IAP-AX）；栏目 PoE 交换机、工业管理/非管理交换机；表内「工业 FS / SFP / 商业 PoE 大口 / MC；有 Diva、Elink 和洪瑞（HRUI）的」「可以尝试多跟进一下」）；群发 23 次无回复。",
- "type": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
- "size": "",
- "brands_seen": [
-  "HRUI",
-  "Elink"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：산업용무선 | 하이링크 | 대한민국；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다. 건물 층간 및 건물과 건물, 각종 설비 사이의 안정적인 네트워크 구성을 위해 고품질 광접속, 접속 후 품질 검사, 정보통신공사 서비스를 제공합니다. 또한 우수한 백본 광 네트워크를 기반으로 편리하고 빠른 네트워크를 구성할 수 있도록 고속 케이블 자재 및 유무선 네트워크",
-   "url": "https://www.highlink.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Highlink 定位",
-   "quote": "하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다 ; DIVA-IAP-AX",
-   "url": "https://www.highlink.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 商业 PoE 大口；有 Elink 和 HRUI 的",
-   "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；有Elink和洪瑞的；可以尝试多跟进一下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业无线 / RF 调制解调器（自有品牌 DIVA）",
-  "工业与 PoE 交换机（Elink / HRUI 供货）"
- ],
- "channels": {
-  "role": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
-  "region": "韩国",
-  "contact": "support@highlink.co.kr"
- },
- "signals": [
-  "页面 /switch-poe、/switch-industrial-managed、/switch-industrial-unmanaged；首页 DIVA-IAP-AX（802.11ax 工业 AP，PoE，DIN 导轨）；kw poe 49 / wifi 17",
-  "表内：工业 FS SFP 模块 商业 PoE 大口 MC 也有 Diva 这个牌子的；有 Elink 和洪瑞的"
- ],
- "risks": [
-  "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "非主攻区（T5，韩国）；KC 由客户申报；23 次无回复，仅 support@"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W"
- },
- "email_hook": "For the DIVA-branded industrial and PoE switches that accompany your industrial wireless products, we can add Marvell-based DIN-rail 8-PoE + 2 SFP managed and 24-PoE + 4×10G L2+ models under your label from small lots, CE/RoHS; KC by your side — which configuration do your factory projects ask for most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 support@highlink.co.kr；主题多为「Industrial PoE Switch、Marvell Software Function List」）",
-   "type": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "KR 次级（点名）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
-  },
-  "situation": "韩国 하이링크 Highlink（工业无线产品与 RF 调制解调器、定制固件，楼宇/工厂自动化有线无线方案；自有 DIVA 品牌 AP（DIVA-IAP-AX）；栏目 PoE 交换机、工业管理/非管理交换机；表内「工业 FS / SFP / 商业 PoE 大口 / MC；有 Diva、Elink 和洪瑞（HRUI）的」「可以尝试多跟进一下」）；群发 23 次无回复。",
-  "need": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W",
-  "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Marvell Software Function List",
-    "why": "35 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-536",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（highlink.co.kr，快照 2026-10-21）",
+  "summary": "韩国 하이링크 Highlink（工业无线产品与 RF 调制解调器、定制固件，楼宇/工厂自动化有线无线方案；自有 DIVA 品牌 AP（DIVA-IAP-AX）；栏目 PoE 交换机、工业管理/非管理交换机；表内「工业 FS / SFP / 商业 PoE 大口 / MC；有 Diva、Elink 和洪瑞（HRUI）的」「可以尝试多跟进一下」）；群发 23 次无回复。",
+  "type": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
+  "size": "",
+  "brands_seen": [
+    "HRUI",
+    "Elink"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：산업용무선 | 하이링크 | 대한민국；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다. 건물 층간 및 건물과 건물, 각종 설비 사이의 안정적인 네트워크 구성을 위해 고품질 광접속, 접속 후 품질 검사, 정보통신공사 서비스를 제공합니다. 또한 우수한 백본 광 네트워크를 기반으로 편리하고 빠른 네트워크를 구성할 수 있도록 고속 케이블 자재 및 유무선 네트워크",
+      "url": "https://www.highlink.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Highlink 定位",
+      "quote": "하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다 ; DIVA-IAP-AX",
+      "url": "https://www.highlink.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 商业 PoE 大口；有 Elink 和 HRUI 的",
+      "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；有Elink和洪瑞的；可以尝试多跟进一下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业无线 / RF 调制解调器（自有品牌 DIVA）",
+    "工业与 PoE 交换机（Elink / HRUI 供货）"
+  ],
+  "channels": {
+    "role": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
+    "region": "韩国",
+    "contact": "support@highlink.co.kr"
+  },
+  "signals": [
+    "页面 /switch-poe、/switch-industrial-managed、/switch-industrial-unmanaged；首页 DIVA-IAP-AX（802.11ax 工业 AP，PoE，DIN 导轨）；kw poe 49 / wifi 17",
+    "表内：工业 FS SFP 模块 商业 PoE 大口 MC 也有 Diva 这个牌子的；有 Elink 和洪瑞的"
+  ],
+  "risks": [
+    "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "非主攻区（T5，韩国）；KC 由客户申报；23 次无回复，仅 support@"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W"
+  },
+  "email_hook": "For the DIVA-branded industrial and PoE switches that accompany your industrial wireless products, we can add Marvell-based DIN-rail 8-PoE + 2 SFP managed and 24-PoE + 4×10G L2+ models under your label from small lots, CE/RoHS; KC by your side — which configuration do your factory projects ask for most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 35 封 2024→2026，1 次记录打开，0 回；收件 support@highlink.co.kr；主题多为「Industrial PoE Switch、Marvell Software Function List」）",
+      "type": "韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "KR 次级（点名）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 35，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的」；研究档 risks：现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线"
+    },
+    "situation": "韩国 하이링크 Highlink（工业无线产品与 RF 调制解调器、定制固件，楼宇/工厂自动化有线无线方案；自有 DIVA 品牌 AP（DIVA-IAP-AX）；栏目 PoE 交换机、工业管理/非管理交换机；表内「工业 FS / SFP / 商业 PoE 大口 / MC；有 Diva、Elink 和洪瑞（HRUI）的」「可以尝试多跟进一下」）；群发 23 次无回复。",
+    "need": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W",
+    "breakpoint": "现供含 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "现交换机含 HRUI/Elink 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 DIVA 标；商用大口位 STC-424XGGPM-280W。已打开的主题（1/35 封有打开记录）：「Marvell Software Function List」(2025-10-27) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Marvell Software Function List",
+        "why": "35 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

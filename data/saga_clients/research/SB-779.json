@@ -1,132 +1,132 @@
 {
- "code": "SB-779",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（netsecurity.com.au，快照 2026-10-21）",
- "summary": "澳大利亚 NetDigital Security（南澳 Marleston 电子安防进口与批发分销：Hikvision 455 / Planet 70 / Ubiquiti 42 / Moxa 14 / Hanwha / Bosch；表内「MC / switch / PoE 配件」）；群发 14 次无回复。",
- "type": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Hanwha",
-  "Bosch",
-  "Moxa",
-  "PLANET",
-  "Planet",
-  "Ubiquiti"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：NetDigital Security | Marleston, South Australia - Electronic Security Distributor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "NetDigital Security, in Marleston South Australia, is an Australian importer and wholesale distributor of leading-brand electronic security products.",
-   "url": "https://www.netsecurity.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC switch POE配件",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "南澳电子安防进口与批发分销商",
-   "quote": "NetDigital Security, in Marleston South Australia, is an Australian importer and wholesale distributor of leading-brand electronic security products.",
-   "url": "https://www.netsecurity.com.au/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC switch PoE 配件",
-   "quote": "MC switch POE配件",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "澳大利亚",
-  "other": "官网 netsecurity.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电子安防进口批发（CCTV / 门禁 / 网络）"
- ],
- "channels": {
-  "role": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
-  "region": "澳大利亚",
-  "contact": "sales@netsecurity.com.au"
- },
- "signals": [
-  "官网：Australian importer and wholesale distributor of leading-brand electronic security products",
-  "站内 kw：hikvision 455 / planet 70 / distributor 71 / ubiquiti 42 / moxa 14"
- ],
- "risks": [
-  "非主攻区（T5）；RCM 合规由客户申报",
-  "现有 Planet / Moxa（台湾）供货稳定；14 次无回复，仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP"
- },
- "email_hook": "Alongside the Planet and Moxa switches you distribute with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which Planet model do your installers order most, so we quote its equivalent first?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 26 封 2025→2026，其中 3 封被打开，0 回；收件 sales@netsecurity.com.au；被打开主题「Mini Industrial PoE Switch、Marvell Industrial Alert System」）",
-   "type": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "澳大利亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 26，Opened 标签 3（Simon 群发追踪）；用户表：「MC switch POE配件」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
-  },
-  "situation": "澳大利亚 NetDigital Security（南澳 Marleston 电子安防进口与批发分销：Hikvision 455 / Planet 70 / Ubiquiti 42 / Moxa 14 / Hanwha / Bosch；表内「MC / switch / PoE 配件」）；群发 14 次无回复。",
-  "need": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP",
-  "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC switch POE配件",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
-    "why": "26 封 / 3 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-779",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（netsecurity.com.au，快照 2026-10-21）",
+  "summary": "澳大利亚 NetDigital Security（南澳 Marleston 电子安防进口与批发分销：Hikvision 455 / Planet 70 / Ubiquiti 42 / Moxa 14 / Hanwha / Bosch；表内「MC / switch / PoE 配件」）；群发 14 次无回复。",
+  "type": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Hanwha",
+    "Bosch",
+    "Moxa",
+    "PLANET",
+    "Planet",
+    "Ubiquiti"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：NetDigital Security | Marleston, South Australia - Electronic Security Distributor；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "NetDigital Security, in Marleston South Australia, is an Australian importer and wholesale distributor of leading-brand electronic security products.",
+      "url": "https://www.netsecurity.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC switch POE配件",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "南澳电子安防进口与批发分销商",
+      "quote": "NetDigital Security, in Marleston South Australia, is an Australian importer and wholesale distributor of leading-brand electronic security products.",
+      "url": "https://www.netsecurity.com.au/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC switch PoE 配件",
+      "quote": "MC switch POE配件",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "澳大利亚",
+    "other": "官网 netsecurity.com.au，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "电子安防进口批发（CCTV / 门禁 / 网络）"
+  ],
+  "channels": {
+    "role": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
+    "region": "澳大利亚",
+    "contact": "sales@netsecurity.com.au"
+  },
+  "signals": [
+    "官网：Australian importer and wholesale distributor of leading-brand electronic security products",
+    "站内 kw：hikvision 455 / planet 70 / distributor 71 / ubiquiti 42 / moxa 14"
+  ],
+  "risks": [
+    "非主攻区（T5）；RCM 合规由客户申报",
+    "现有 Planet / Moxa（台湾）供货稳定；14 次无回复，仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP"
+  },
+  "email_hook": "Alongside the Planet and Moxa switches you distribute with Hikvision, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models from small lots, EXW — which Planet model do your installers order most, so we quote its equivalent first?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 26 封 2025→2026，其中 3 封被打开，0 回；收件 sales@netsecurity.com.au；被打开主题「Mini Industrial PoE Switch、Marvell Industrial Alert System」）",
+      "type": "电子安防批发分销商（澳洲，Planet/Moxa 网络线）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "澳大利亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 26，Opened 标签 3（Simon 群发追踪）；用户表：「MC switch POE配件」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报"
+    },
+    "situation": "澳大利亚 NetDigital Security（南澳 Marleston 电子安防进口与批发分销：Hikvision 455 / Planet 70 / Ubiquiti 42 / Moxa 14 / Hanwha / Bosch；表内「MC / switch / PoE 配件」）；群发 14 次无回复。",
+    "need": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP",
+    "breakpoint": "非主攻区（T5）；RCM 合规由客户申报",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 Planet 商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型白牌位；工业位（Moxa/Planet）STI-288GP。已打开的主题（3/26 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04)、「Booster PoE Switch」(2025-11-03)、「Optional Marvell Chipset Solutions」(2025-12-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC switch POE配件",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Mini Industrial PoE Switch、Marvell Industrial Alert System",
+        "why": "26 封 / 3 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -73,7 +73,7 @@
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
       "lane": "RU 次级（Simon 2026-08 点名）",
       "cadence": "一封；回了再说",
       "evidence": "gmail_digest：out 10，Opened 标签 5（Simon 群发追踪）；用户表：「兴趣：谈过一次4 8口商业POE;摄像头公司」；研究档 risks：俄罗斯收款 / 制裁；小量"
@@ -85,7 +85,7 @@
       "p1": "STC-28DGGPM",
       "tier": 25,
       "price": "按主表（研究档 saga_fit）",
-      "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。",
+      "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。已打开的主题（5/10 封有打开记录）：「8 port poe switch」(2024-08-20)、「Industrial PoE Switch」(2024-09-15)、「Mini Industrial PoE Switch」(2024-11-19)、「L3 Managed Switch」(2025-01-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
@@ -113,7 +113,9 @@
         "k": "gmail_digest"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": {
       "subject": "One question — 10G Enterprise SFP Switch",
       "body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Saga Q3 Product Links\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nСергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $24; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"

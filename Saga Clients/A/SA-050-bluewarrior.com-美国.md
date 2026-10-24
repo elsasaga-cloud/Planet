@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。（调研 2026-10-21；表内兴趣：工业FS 机架式 bypass MC 几乎全线武汉迈威）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-08 → 2025-10-28）；最近一次客户回复：2024-05-28：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：并入 SA-068 的那一封（STI-480XGGM $163.2 @30%） — 去重；同 SA-068
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：并入 SA-068 的那一封（STI-480XGGM $163.2 @30%） — 去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续；同 SA-068
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不单独发；随 SA-068 — 群发名单里 bluewarrior 与 dymec 合并为一户
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：BlueWarrior 2024-05-28 回了两句话：图文不符、多少钱。Simon 报 STI-288DGGPM-2BT 140 USD（2 SFP + 8 PoE，L2+，240W，DI/DO/RS485），没有下文。2025-03 sales@bluewarrior.com 的自动回复署名 Tom West、转 Thom Sherer（DYMEC）——两家是同一组织，29 封群发等于对 DYMEC 重复发。
 - **对方真实需求（有据）**：同 DYMEC：工业温度 L2+/L3 DIN/机架（其零售价 BW7212G $500、BW3020G $662）。
 - **断点 / 为什么停在这里**：重复触达同一组织两套邮箱，且第一封资料图文不符——信任成本已付。
-- **Saga 现在该推什么**：P1 **并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）**（30% 档，同 SA-068）——去重
+- **Saga 现在该推什么**：P1 **并入 SA-068 的那一封（STI-480XGGM $163.2 @30%）**（30% 档，同 SA-068）——去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：BW7212G-4GF-8GT 对位的 Saga 型号与现价（2024 报 140 USD 的 STI-288DGGPM-2BT）
 - **下一步（具体）**：不单独发；随 SA-068　—　群发名单里 bluewarrior 与 dymec 合并为一户
 

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国自有品牌工业以太网供应商：KY- 系列 DIN/机架 L2/L3 工业交换机（含 10G、PoE、bt）、「Economy」线（KY-3120DM $590、KY-2189RG $299、Vitesse 芯片）、部分型号标 TAA 合规与 NSA 端点安全认证，5 年/有限终身保修；面向交通 ITS、工业、铁路。用户表：A 已回复 1 次，联系人 Thom Sherer；兴趣工业 FS / SFP，「有统一的型号」。（调研 2026-10-21；表内兴趣：工业FS SFP 有统一的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-23 → 2025-09-23）；最近一次客户回复：2025-09-23：Not out market
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%） — J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话；$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%） — J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话。已打开的主题（12/29 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-22)、「Re: 10G Enterprise SFP Switch」(2025-09-23)、「Re: 10G L3 Managed Switch」(2026-06-01)、「Re: 10G L3 Managed Switch」(2026-06-03) → 读者兴趣偏「工业」；与 P1 同类，继续；$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）
 - **第一问（只问一个）**：For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 中（一次） A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior） 三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。
 - **对方真实需求（有据）**：ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。
 - **断点 / 为什么停在这里**：群发用同一封信打所有人——对 DYMEC 这种只看温度行的买家，商用款等于自我淘汰。对位比频率重要。
-- **Saga 现在该推什么**：P1 **STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%）**（30% 档，$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效））——J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话
+- **Saga 现在该推什么**：P1 **STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%）**（30% 档，$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效））——J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话。已打开的主题（12/29 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-22)、「Re: 10G Enterprise SFP Switch」(2025-09-23)、「Re: 10G L3 Managed Switch」(2026-06-01)、「Re: 10G L3 Managed Switch」(2026-06-03) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：TAA 是否硬性（其官网部分型号标 TAA）——一句话问；Economy 线 KY-2189RG $299 对应规格——对位时核
 - **下一步（具体）**：2026-11 中（一次）　A 邮箱 → sales.support@dymec.com + thom.sherer@dymec.com（同时覆盖 BlueWarrior）　三行：-40~+75℃ 工业 8GE+4×10G L2+，$163.2 EXW，规格书首页；问 TAA
   - 第一问（只问一个）：For the 8×GE + 4×10G industrial unit rated -40 to +75 °C, is TAA a must for your KY economy line, or only for federal SKUs?

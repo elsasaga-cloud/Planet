@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。（调研 2026-10-21；表内兴趣：工业FS 工业MC Bypass  自己的logo）
 - **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；推送 10 次（2024-05-07 → 2025-03-03）；最近一次客户回复：2025-03-03：只用博通方案
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报 — C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」；CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报 — C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1；CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者
 - **第一问（只问一个）**：Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（一次） A 邮箱 → mark@expresssupply.net 一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。
 - **对方真实需求（有据）**：全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。
 - **断点 / 为什么停在这里**：芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。
-- **Saga 现在该推什么**：P1 **CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报**（30% 档，CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者）——C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」
+- **Saga 现在该推什么**：P1 **CENTEC 全 L3：STH-2C24XFHSI（24×10G + 2×100G，MPLS/EVPN）——仅当 Mark 松口；否则不报**（30% 档，CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者）——C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1
   - 做不了 / 要先核的：2025-02-10 两款 Broadcom 的货源（非 SmartByte/HRUI）未入库——若再问起，不要承诺
 - **下一步（具体）**：2026-11（一次）　A 邮箱 → mark@expresssupply.net　一句话问 Broadcom 是客户规格硬条款还是偏好；若偏好 → 付样 1 台 CENTEC
   - 第一问（只问一个）：Is Broadcom written into your customers' ITS specs, or would a CENTEC full-L3 unit (OSPF/BGP/MPLS) qualify if it clears your lab test?

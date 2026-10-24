@@ -1,133 +1,133 @@
 {
- "code": "SB-085",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（diatrend.com，快照 2026-10-21）",
- "summary": "日本 ダイヤトレンド Diatrend（diatrend.co.jp：现场需求导向的产品厂商：接口电缆、光缆、PoE 产品页（DEPX-G5BT / DEIJ-GBT1 / DEH-GTZ4R2 PoE 注入/延长）、网络方案；表内「工业 FS / MC / SFP 自己的 label」；KP Kiyomasa Miyashita（Managing Director））；表内 2 次跟进无回复。",
- "type": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ãã¤ã¤ãã¬ã³ãæ ªå¼ä¼ç¤¾；品类词 网络交换 / PoE",
-   "quote": "ãã¤ã¤ãã¬ã³ãã®ãªãã£ã·ã£ã«ãµã¤ãã§ããç¾å ´ã®ãã¼ãºãè£½ååãã¡ã¼ã«ã¼ã¨ãã¦ã®æè¡åã¨åç¤¾ã¨ãã¦ã®ææ¡åã§IA(Industrial Automation)ãæ¯æ´ãã¾ãã",
-   "url": "https://diatrend.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS MC SFP 自己的label",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Diatrend 站点（日文，PoE 产品页）",
-   "quote": "diatrend.co.jp /network/poe_index.htm ; DEPX-G5BT ; DEIJ-GBT1 ; DEH-GTZ4R2",
-   "url": "https://diatrend.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS MC SFP 自己的 label",
-   "quote": "工业FS MC SFP 自己的label",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Kiyomasa Miyashita",
-   "title": "Managing Director",
-   "email": "info@diatrend.co.jp",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "日本",
-  "other": "官网 diatrend.com，语言 ja，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "接口/光缆/PoE 配件（自有品牌 Diatrend）",
-  "网络方案"
- ],
- "channels": {
-  "role": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
-  "region": "日本",
-  "contact": "info@diatrend.co.jp、info@diatrend.com"
- },
- "signals": [
-  "页面 /network/poe_index.htm；站内 DEPX-G5BT / DEPX-G3BTS / DEIJ-GBT1 / DEH-GTZ4R2；kw poe 43 / oem 8",
-  "表内：工业 FS MC SFP 自己的 label；KP Kiyomasa Miyashita / Managing Director"
- ],
- "risks": [
-  "非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高",
-  "2 次跟进无回复，具名 KP 为 MD"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）"
- },
- "email_hook": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@diatrend.co.jp, info@diatrend.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
-   "type": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "日本 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的label」；研究档 risks：非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高"
-  },
-  "situation": "日本 ダイヤトレンド Diatrend（diatrend.co.jp：现场需求导向的产品厂商：接口电缆、光缆、PoE 产品页（DEPX-G5BT / DEIJ-GBT1 / DEH-GTZ4R2 PoE 注入/延长）、网络方案；表内「工业 FS / MC / SFP 自己的 label」；KP Kiyomasa Miyashita（Managing Director））；表内 2 次跟进无回复。",
-  "need": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）",
-  "breakpoint": "非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC SFP 自己的label",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
-    "why": "31 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-085",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（diatrend.com，快照 2026-10-21）",
+  "summary": "日本 ダイヤトレンド Diatrend（diatrend.co.jp：现场需求导向的产品厂商：接口电缆、光缆、PoE 产品页（DEPX-G5BT / DEIJ-GBT1 / DEH-GTZ4R2 PoE 注入/延长）、网络方案；表内「工业 FS / MC / SFP 自己的 label」；KP Kiyomasa Miyashita（Managing Director））；表内 2 次跟进无回复。",
+  "type": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ãã¤ã¤ãã¬ã³ãæ ªå¼ä¼ç¤¾；品类词 网络交换 / PoE",
+      "quote": "ãã¤ã¤ãã¬ã³ãã®ãªãã£ã·ã£ã«ãµã¤ãã§ããç¾å ´ã®ãã¼ãºãè£½ååãã¡ã¼ã«ã¼ã¨ãã¦ã®æè¡åã¨åç¤¾ã¨ãã¦ã®ææ¡åã§IA(Industrial Automation)ãæ¯æ´ãã¾ãã",
+      "url": "https://diatrend.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS MC SFP 自己的label",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Diatrend 站点（日文，PoE 产品页）",
+      "quote": "diatrend.co.jp /network/poe_index.htm ; DEPX-G5BT ; DEIJ-GBT1 ; DEH-GTZ4R2",
+      "url": "https://diatrend.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS MC SFP 自己的 label",
+      "quote": "工业FS MC SFP 自己的label",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Kiyomasa Miyashita",
+      "title": "Managing Director",
+      "email": "info@diatrend.co.jp",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "日本",
+    "other": "官网 diatrend.com，语言 ja，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "接口/光缆/PoE 配件（自有品牌 Diatrend）",
+    "网络方案"
+  ],
+  "channels": {
+    "role": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
+    "region": "日本",
+    "contact": "info@diatrend.co.jp、info@diatrend.com"
+  },
+  "signals": [
+    "页面 /network/poe_index.htm；站内 DEPX-G5BT / DEPX-G3BTS / DEIJ-GBT1 / DEH-GTZ4R2；kw poe 43 / oem 8",
+    "表内：工业 FS MC SFP 自己的 label；KP Kiyomasa Miyashita / Managing Director"
+  ],
+  "risks": [
+    "非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高",
+    "2 次跟进无回复，具名 KP 为 MD"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）"
+  },
+  "email_hook": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 31 封 2024→2026，1 次记录打开，0 回；收件 info@diatrend.co.jp, info@diatrend.com；主题多为「Managed Optical Bypass Switch、10G Enterprise SFP Switch」）",
+      "type": "日本自有品牌电缆/PoE 配件厂商（OEM 采购）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "31 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "日本 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 31，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的label」；研究档 risks：非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高"
+    },
+    "situation": "日本 ダイヤトレンド Diatrend（diatrend.co.jp：现场需求导向的产品厂商：接口电缆、光缆、PoE 产品页（DEPX-G5BT / DEIJ-GBT1 / DEH-GTZ4R2 PoE 注入/延长）、网络方案；表内「工业 FS / MC / SFP 自己的 label」；KP Kiyomasa Miyashita（Managing Director））；表内 2 次跟进无回复。",
+    "need": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）",
+    "breakpoint": "非主攻区（T5，日本）：PSE/VCCI 由客户申报，品质门槛高",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 label 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Diatrend 标；MC 位 STI-110GE（$24.3）；SFP/PoE 注入器 Saga 不供（Q-32）。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-22) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Miyashita-san, for the industrial switches and media converters sold under the Diatrend label alongside your PoE and cable products, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC; −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your Japanese customers reorder most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC SFP 自己的label",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+        "why": "31 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

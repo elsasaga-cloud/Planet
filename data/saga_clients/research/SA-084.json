@@ -1,133 +1,133 @@
 {
- "code": "SA-084",
- "name_official": "Erstech Technika Kft.（Tatárszentgyörgy，匈牙利）",
- "website_status": "在线（erstechtechnika.hu；用户记录域 erstech.hu 另属一家土方工程公司，疑为邮箱域混用）",
- "summary": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
- "type": "安装商/小型集成商",
- "size": "微型（营收 ≈2,800 万 HUF/2025；登记员工 0）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "企业登记",
-   "claim": "2003 年成立，电气安装，2025 年营收 27,975 千福林",
-   "quote": "Erstech Technika Kereskedelmi és Szolgáltató Kft… 4321 Villanyszerelés… Alapítás éve 2003… 27 975 ezer Ft (2025)",
-   "url": "https://webshop.opten.hu/erstech-technika-kft-c1309108843.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "承接摄像/报警/空调系统维护；电话 +36 70 708 7930",
-   "quote": "vállalja a nem saját telepítésű kamera- riasztó- és klímarendszerek időszakos karbantartását… Tel: +36 70 708 7930",
-   "url": "https://erstechtechnika.hu/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方",
-   "claim": "erstech.hu 域名对应 Erstech Kft.（2016 年起机械土方），与安防公司非同一主体",
-   "quote": "Cégünk, az Erstech Kft. 2016 óta foglalkozik gépi földmunkával és gépszállítással… info@erstech.hu",
-   "url": "https://tereprendezes-foldmunka.hu/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "升压 5 口、8 口、2 光 10 电、L2/L3 提问；6 次推送 0 回复",
-   "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Janos Hogye",
-   "role": "Managing Director",
-   "email": "jhogye@erstech.hu",
-   "phone": "+36 70 708 7960（用户记录）",
-   "source": "用户 Clients 表（ISAF 2025）"
-  }
- ],
- "grade_override": "B",
- "override_reason": "微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。",
- "notes": "重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "Erstech Technika Kft.",
-  "founded": "2003",
-  "hq": "Tatárszentgyörgy, Hungary（+36 70 708 7930）",
-  "size": "微型（2025 年营收 ≈2,800 万 HUF ≈ €70k）",
-  "other": "电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用）"
- },
- "business_lines": [
-  "电气安装",
-  "摄像/报警/空调系统安装维护"
- ],
- "channels": {
-  "网站": "https://erstechtechnika.hu/",
-  "电话": "+36 70 708 7930（公开）"
- },
- "signals": [
-  "对「升压 5 口」与 2 光 10 电管理型有兴趣、问 L2/L3 → 小型安装商的典型小量采购"
- ],
- "risks": [
-  "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
- ],
- "saga_fit": {
-  "p1": "STI-144GP",
-  "tier": 25,
-  "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）"
- },
- "email_hook": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jhogye@erstech.hu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-   "type": "安装商/小型集成商",
-   "sieve": "1~2（1 次打开）",
-   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "匈牙利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3」；研究档 risks：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
-  },
-  "situation": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
-  "need": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）",
-  "breakpoint": "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓",
-  "saga_now": {
-   "p1": "STI-144GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-    "why": "16 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-084",
+  "name_official": "Erstech Technika Kft.（Tatárszentgyörgy，匈牙利）",
+  "website_status": "在线（erstechtechnika.hu；用户记录域 erstech.hu 另属一家土方工程公司，疑为邮箱域混用）",
+  "summary": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
+  "type": "安装商/小型集成商",
+  "size": "微型（营收 ≈2,800 万 HUF/2025；登记员工 0）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "企业登记",
+      "claim": "2003 年成立，电气安装，2025 年营收 27,975 千福林",
+      "quote": "Erstech Technika Kereskedelmi és Szolgáltató Kft… 4321 Villanyszerelés… Alapítás éve 2003… 27 975 ezer Ft (2025)",
+      "url": "https://webshop.opten.hu/erstech-technika-kft-c1309108843.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "承接摄像/报警/空调系统维护；电话 +36 70 708 7930",
+      "quote": "vállalja a nem saját telepítésű kamera- riasztó- és klímarendszerek időszakos karbantartását… Tel: +36 70 708 7930",
+      "url": "https://erstechtechnika.hu/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方",
+      "claim": "erstech.hu 域名对应 Erstech Kft.（2016 年起机械土方），与安防公司非同一主体",
+      "quote": "Cégünk, az Erstech Kft. 2016 óta foglalkozik gépi földmunkával és gépszállítással… info@erstech.hu",
+      "url": "https://tereprendezes-foldmunka.hu/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "升压 5 口、8 口、2 光 10 电、L2/L3 提问；6 次推送 0 回复",
+      "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Janos Hogye",
+      "role": "Managing Director",
+      "email": "jhogye@erstech.hu",
+      "phone": "+36 70 708 7960（用户记录）",
+      "source": "用户 Clients 表（ISAF 2025）"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。",
+  "notes": "重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "Erstech Technika Kft.",
+    "founded": "2003",
+    "hq": "Tatárszentgyörgy, Hungary（+36 70 708 7930）",
+    "size": "微型（2025 年营收 ≈2,800 万 HUF ≈ €70k）",
+    "other": "电气安装（TEÁOR 4321）+ 摄像/报警/空调维护；域名 erstech.hu 另属土方公司（邮箱域混用）"
+  },
+  "business_lines": [
+    "电气安装",
+    "摄像/报警/空调系统安装维护"
+  ],
+  "channels": {
+    "网站": "https://erstechtechnika.hu/",
+    "电话": "+36 70 708 7930（公开）"
+  },
+  "signals": [
+    "对「升压 5 口」与 2 光 10 电管理型有兴趣、问 L2/L3 → 小型安装商的典型小量采购"
+  ],
+  "risks": [
+    "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
+  ],
+  "saga_fit": {
+    "p1": "STI-144GP",
+    "tier": 25,
+    "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）"
+  },
+  "email_hook": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 jhogye@erstech.hu；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+      "type": "安装商/小型集成商",
+      "sieve": "1~2（1 次打开）",
+      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "匈牙利（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3」；研究档 risks：微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓"
+    },
+    "situation": "匈牙利小型安防/电气安装商（2003 年，主业电气安装 TEÁOR 4321；摄像/报警/空调系统维护），2025 年营收仅 2,798 万福林（≈7 万欧元）；ISAF 2025 到访，MD Janos Hogye 对升压 5 口与 2 光 10 电机型有兴趣，之后 6 次推送 0 回复。",
+    "need": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）",
+    "breakpoint": "微型企业（年营收 €70k）→ 单量极小；6 次推送 0 回复；匈牙利非主动开拓",
+    "saga_now": {
+      "p1": "STI-144GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$130.8）。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $130.8 — for your camera jobs, do you need the 8-port version with PoE or without?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+        "why": "16 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

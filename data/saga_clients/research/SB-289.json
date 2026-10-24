@@ -1,105 +1,107 @@
 {
- "code": "SB-289",
- "name_official": "DG Enterprises（尼泊尔；Dhan Bahadur）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 5 电口 IM-FS280GE；回复 Email 发了商业 PoE 228 信息",
-   "quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Dhan Bahadur",
-   "title": "（表内联系人）",
-   "email": "dtechnic02@gmail.com",
-   "phone": "+977 986 863 1483",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "DG Enterprises",
-  "founded": "",
-  "hq": "尼泊尔",
-  "size": "小型",
-  "other": "gmail"
- },
- "channels": {
-  "role": "经销 / 工程（推断）",
-  "region": "尼泊尔"
- },
- "risks": [
-  "小国小量；低价需求"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。"
- },
- "email_hook": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 2 封 2024，1 次记录打开，0 回；收件 dtechnic02@gmail.com；主题多为「PoE switch、industrial poe switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "尼泊尔 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 2，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息」；研究档 risks：小国小量；低价需求"
-  },
-  "situation": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
-  "need": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。",
-  "breakpoint": "小国小量；低价需求",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "PoE switch、industrial poe switch",
-    "why": "2 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-289",
+  "name_official": "DG Enterprises（尼泊尔；Dhan Bahadur）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail；仅表内信息）",
+  "summary": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 5 电口 IM-FS280GE；回复 Email 发了商业 PoE 228 信息",
+      "quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Dhan Bahadur",
+      "title": "（表内联系人）",
+      "email": "dtechnic02@gmail.com",
+      "phone": "+977 986 863 1483",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "DG Enterprises",
+    "founded": "",
+    "hq": "尼泊尔",
+    "size": "小型",
+    "other": "gmail"
+  },
+  "channels": {
+    "role": "经销 / 工程（推断）",
+    "region": "尼泊尔"
+  },
+  "risks": [
+    "小国小量；低价需求"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 25,
+    "why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。"
+  },
+  "email_hook": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 2 封 2024，1 次记录打开，0 回；收件 dtechnic02@gmail.com；主题多为「PoE switch、industrial poe switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "尼泊尔 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 2，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息」；研究档 risks：小国小量；低价需求"
+    },
+    "situation": "尼泊尔小型网络商 DG Enterprises，需求 5 电口（曾指名竞品 IM-FS280GE 口型），2024-06 收商用 PoE 228 邮件；无域名。",
+    "need": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。",
+    "breakpoint": "小国小量；低价需求",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "5 电口（竞品 IM-FS280GE 口型为 8 口工业）→ Saga STI-050GE / STI-080GE。已打开的主题（1/2 封有打开记录）：「PoE switch」(2024-06-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Dhan, for the 5-port (or 8-port) industrial requirement — DIN-rail, 12–36 V input, ships from 1 pc; want the EXW sheet for both sizes?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：5电口 IM-FS280GE；回复：Email发了商业PoE 228信息",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "PoE switch、industrial poe switch",
+        "why": "2 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

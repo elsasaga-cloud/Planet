@@ -70,7 +70,7 @@
       "p1": "—",
       "tier": 25,
       "price": "按主表（研究档 saga_fit）",
-      "why": "Cisco / DAC 需求不在 Saga 线。",
+      "why": "Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
@@ -106,7 +106,9 @@
         "k": "gmail_e"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": {
       "subject": "Re: 24-port SFP managed switch — datasheet",
       "body": "Hi Kennedy,\n\nYou asked for the datasheet of the 24-port SFP managed switch in October 2025 — attached now, with apologies for the gap. It is a Marvell-based L2+/L3 aggregation unit (24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC).\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"

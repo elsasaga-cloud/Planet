@@ -1,135 +1,137 @@
 {
- "code": "SA-130",
- "name_official": "Rfcom（塞萨洛尼基，希腊）",
- "website_status": "在线（含网店类目）",
- "summary": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
- "type": "经销/集成商",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "取目录、一般性回复；WA 已加；2 次回复 / 19 次",
-   "quote": "take catalog general reply；+30-2310-257337 +30 69725 52502 已加（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址与联系方式",
-   "quote": "Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη 2310 257337 2310 257317 6980089909 2310 257557 info@rfcom.gr",
-   "url": "https://www.rfcom.gr/el/epikoinwnia",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "法人名称",
-   "quote": "Ο υπεύθυνος επεξεργασίας δεδομένων είναι η RFCOM ΞΥΓΚΑΚΗΣ ΗΛ. ΚΩΝΣΤΑΝΤΙΝΟΣ που βρίσκεται στη διεύθυνση Λαγκαδά 301 Σταυρούπολη Θεσσαλονίκη Ελλάδα.",
-   "url": "https://www.rfcom.gr/el/oroi-xrisis",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "网店",
-   "claim": "网络类目含 PoE 交换机",
-   "quote": "Categories - 3G/4G ROUTERS , - ACCESS POINTS , - CONTROLLERS , - MISCELLANEOUS , - POE SWITCH , - POWERLINES , - REPEATERS - EXTENDERS , - ROUTERS , - SWITCH , - WIRELESS LINKS",
-   "url": "https://rfcom.gr/en/networking&filter=1407&specid=439",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "名录",
-   "claim": "行业类别",
-   "quote": "ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ \"RFCOM\" Εμπόριο (Εξοπλισμός Ασφαλείας) … Λαγκαδά 301, 56430, Σταυρούπολη , Θεσσαλονίκη",
-   "url": "https://www.findbiz.gr/el/company-page/param/name/11002358-xygkakis-konstantinos-rfcom",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+30 2310 257337 / +30 697 255 2502（WA）",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）",
-   "role": "业主（Ο.Ε. 合伙企业）",
-   "email": "info@rfcom.gr（公司公开）",
-   "phone": "+30 2310 257337",
-   "source": "https://www.vres.gr/rfcom-connecting-the-future"
-  }
- ],
- "grade_override": "B",
- "override_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
- "notes": "WA 季度触达。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
- },
- "company_facts": {
-  "legal_name": "ΞΥΓΚΑΚΗΣ ΗΛ. ΚΩΝΣΤΑΝΤΙΝΟΣ Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.）",
-  "hq": "Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη（+30 2310 257337 / 257317；info@rfcom.gr）",
-  "other": "塞萨洛尼基安防与网络设备贸易商/网店（名录类别「安防设备贸易」）：网店 NETWORKING 类目含 3G/4G 路由器、AP、控制器、**PoE SWITCH、SWITCH**、电力线、中继/延长器、无线链路；为 Doitech/Novasmart 分销点；有 Android App；业主 Konstantinos Xygkakis"
- },
- "business_lines": [
-  "安防设备（CCTV/报警）批发零售",
-  "网络设备网店（PoE 交换机、路由、无线链路）"
- ],
- "channels": {
-  "网站/网店": "https://www.rfcom.gr/",
-  "电话": "+30 2310 257337（官网公开）",
-  "邮箱（公开）": "info@rfcom.gr"
- },
- "signals": [
-  "网店有独立 PoE SWITCH 类目 → 可直接上架 Saga 8/16 口；WA 在线、2 次回复、已取目录（用户表）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
- },
- "email_hook": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 info@rfcom.gr；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "经销/集成商",
-   "sieve": "1（只收到群发）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "希腊（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 10"
-  },
-  "situation": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
-  "need": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
-  "breakpoint": "无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "10 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-130",
+  "name_official": "Rfcom（塞萨洛尼基，希腊）",
+  "website_status": "在线（含网店类目）",
+  "summary": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
+  "type": "经销/集成商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "取目录、一般性回复；WA 已加；2 次回复 / 19 次",
+      "quote": "take catalog general reply；+30-2310-257337 +30 69725 52502 已加（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址与联系方式",
+      "quote": "Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη 2310 257337 2310 257317 6980089909 2310 257557 info@rfcom.gr",
+      "url": "https://www.rfcom.gr/el/epikoinwnia",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "法人名称",
+      "quote": "Ο υπεύθυνος επεξεργασίας δεδομένων είναι η RFCOM ΞΥΓΚΑΚΗΣ ΗΛ. ΚΩΝΣΤΑΝΤΙΝΟΣ που βρίσκεται στη διεύθυνση Λαγκαδά 301 Σταυρούπολη Θεσσαλονίκη Ελλάδα.",
+      "url": "https://www.rfcom.gr/el/oroi-xrisis",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "网店",
+      "claim": "网络类目含 PoE 交换机",
+      "quote": "Categories - 3G/4G ROUTERS , - ACCESS POINTS , - CONTROLLERS , - MISCELLANEOUS , - POE SWITCH , - POWERLINES , - REPEATERS - EXTENDERS , - ROUTERS , - SWITCH , - WIRELESS LINKS",
+      "url": "https://rfcom.gr/en/networking&filter=1407&specid=439",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "名录",
+      "claim": "行业类别",
+      "quote": "ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ \"RFCOM\" Εμπόριο (Εξοπλισμός Ασφαλείας) … Λαγκαδά 301, 56430, Σταυρούπολη , Θεσσαλονίκη",
+      "url": "https://www.findbiz.gr/el/company-page/param/name/11002358-xygkakis-konstantinos-rfcom",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+30 2310 257337 / +30 697 255 2502（WA）",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）",
+      "role": "业主（Ο.Ε. 合伙企业）",
+      "email": "info@rfcom.gr（公司公开）",
+      "phone": "+30 2310 257337",
+      "source": "https://www.vres.gr/rfcom-connecting-the-future"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
+  "notes": "WA 季度触达。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "ΞΥΓΚΑΚΗΣ ΗΛ. ΚΩΝΣΤΑΝΤΙΝΟΣ Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.）",
+    "hq": "Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη（+30 2310 257337 / 257317；info@rfcom.gr）",
+    "other": "塞萨洛尼基安防与网络设备贸易商/网店（名录类别「安防设备贸易」）：网店 NETWORKING 类目含 3G/4G 路由器、AP、控制器、**PoE SWITCH、SWITCH**、电力线、中继/延长器、无线链路；为 Doitech/Novasmart 分销点；有 Android App；业主 Konstantinos Xygkakis"
+  },
+  "business_lines": [
+    "安防设备（CCTV/报警）批发零售",
+    "网络设备网店（PoE 交换机、路由、无线链路）"
+  ],
+  "channels": {
+    "网站/网店": "https://www.rfcom.gr/",
+    "电话": "+30 2310 257337（官网公开）",
+    "邮箱（公开）": "info@rfcom.gr"
+  },
+  "signals": [
+    "网店有独立 PoE SWITCH 类目 → 可直接上架 Saga 8/16 口；WA 在线、2 次回复、已取目录（用户表）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W"
+  },
+  "email_hook": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 info@rfcom.gr；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "经销/集成商",
+      "sieve": "1（只收到群发）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "希腊（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 10"
+    },
+    "situation": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
+    "need": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
+    "breakpoint": "无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?"
+    },
+    "facts": [
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "10 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

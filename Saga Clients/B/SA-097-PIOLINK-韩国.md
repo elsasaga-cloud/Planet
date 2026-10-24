@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：韩国云数据中心优化厂商（KOSDAQ 上市，ADC、TiFRONT 安全交换机 / 骨干交换机、云管理网络），GM Tae Gu (Jayden) Lee 光博会相识，想要 Realtek 高端系列芯片方案，2025-02 对 24 光口机「让加微信谈」。身份 = 交换机厂商（同行），只能走 ODM/代工补充线。（调研 2026-10-21；表内兴趣：想要realtek高端系列的芯片）
 - **为什么是 B 级**：**调研后定级 B**（品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 24 次（2024-05-01 → 2025-10-29）；最近一次客户回复：2025-02-18：让加微信谈
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 整机 ODM（研究档） — 若 WeChat 已加则在 WeChat；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 整机 ODM（研究档） — 若 WeChat 已加则在 WeChat。已打开的主题（5/24 封有打开记录）：「24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-04-07)、「Re: 24 Port Fiber Switch」(2025-04-28) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 WeChat —
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Jayden 要求转 WeChat（jayden092），Alan 回「我们是 Marvell，你接受吗？附 GPT 写的三种芯片差异」。对方消失。
 - **对方真实需求（有据）**：24 口光聚合（当时）。
 - **断点 / 为什么停在这里**：对方要换渠道，Saga 用筛子问题回应——顺序颠倒。
-- **Saga 现在该推什么**：P1 **HRUI/Realtek 整机 ODM（研究档）**（30% 档，—）——若 WeChat 已加则在 WeChat
+- **Saga 现在该推什么**：P1 **HRUI/Realtek 整机 ODM（研究档）**（30% 档，—）——若 WeChat 已加则在 WeChat。已打开的主题（5/24 封有打开记录）：「24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-02-18)、「Re: 24 Port Fiber Switch」(2025-04-07)、「Re: 24 Port Fiber Switch」(2025-04-28) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
   - 做不了 / 要先核的：WeChat 是否已加
 - **下一步（具体）**：不动　WeChat　—
 

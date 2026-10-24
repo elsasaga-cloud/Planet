@@ -1,106 +1,107 @@
 {
- "code": "SB-276",
- "name_official": "Elhem Trading Co. Sal（mtco-lb.com，黎巴嫩）",
- "researched_at": "2026-10-21",
- "website_status": "未核（mtco-lb.com 未抓取/未搜索）",
- "summary": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内需求与回复",
-   "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Adnan Melhem",
-   "role": "Managing Director",
-   "email": "melhem@mtco-lb.com",
-   "phone": "+961 3 058 000（WA 已加）",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于表内信息 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "+961 3 058 000 / +961 1 245 000；mtco-lb.com（未抓到快照）"
- },
- "business_lines": [
-  "待核（见表内需求）"
- ],
- "products_seen": [],
- "channels": {
-  "contact": "Adnan Melhem（Managing Director）melhem@mtco-lb.com，+961 3 058 000（WA 已加）"
- },
- "signals": [
-  "2024-06 「近期可能会有需求」"
- ],
- "risks": [
-  "黎巴嫩付款/局势风险",
-  "需求描述不清（VC）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清"
- },
- "email_hook": "You mentioned a need might come up soon for commercial switches — I can keep a USD EXW sheet for the 8/16/24-port PoE models on file for you; is the VC price list you asked about for video-conferencing or camera kits?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "黎巴嫩 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求」；研究档 risks：黎巴嫩付款/局势风险"
-  },
-  "situation": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
-  "need": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清",
-  "breakpoint": "黎巴嫩付款/局势风险",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-276",
+  "name_official": "Elhem Trading Co. Sal（mtco-lb.com，黎巴嫩）",
+  "researched_at": "2026-10-21",
+  "website_status": "未核（mtco-lb.com 未抓取/未搜索）",
+  "summary": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内需求与回复",
+      "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Adnan Melhem",
+      "role": "Managing Director",
+      "email": "melhem@mtco-lb.com",
+      "phone": "+961 3 058 000（WA 已加）",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于表内信息 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "待核",
+    "founded": "待核",
+    "hq": "待核",
+    "size": "待核",
+    "other": "+961 3 058 000 / +961 1 245 000；mtco-lb.com（未抓到快照）"
+  },
+  "business_lines": [
+    "待核（见表内需求）"
+  ],
+  "products_seen": [],
+  "channels": {
+    "contact": "Adnan Melhem（Managing Director）melhem@mtco-lb.com，+961 3 058 000（WA 已加）"
+  },
+  "signals": [
+    "2024-06 「近期可能会有需求」"
+  ],
+  "risks": [
+    "黎巴嫩付款/局势风险",
+    "需求描述不清（VC）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清"
+  },
+  "email_hook": "You mentioned a need might come up soon for commercial switches — I can keep a USD EXW sheet for the 8/16/24-port PoE models on file for you; is the VC price list you asked about for video-conferencing or camera kits?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "黎巴嫩 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求」；研究档 risks：黎巴嫩付款/局势风险"
+    },
+    "situation": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
+    "need": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清",
+    "breakpoint": "黎巴嫩付款/局势风险",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

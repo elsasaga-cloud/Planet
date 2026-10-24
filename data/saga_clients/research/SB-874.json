@@ -1,115 +1,115 @@
 {
- "code": "SB-874",
- "name_official": "Vulsan X Sdn Bhd（马来西亚）",
- "researched_at": "2026-10-21",
- "website_status": "在线（vulsanx.com，快照 2026-10-21）",
- "summary": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "Vulsan X – Cyber Security Expert；infosec@vulsanx.com；+606 851 5911",
-   "quote": "Vulsan X – Cyber Security Expert",
-   "url": "https://vulsanx.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang",
-   "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Annamery Raja",
-   "title": "OSINT Researcher",
-   "email": "mery@vulsanx.com",
-   "phone": "+60 11 5652 8663",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Vulsan X Sdn Bhd",
-  "founded": "（待核）",
-  "hq": "Seremban, Negeri Sembilan, Malaysia",
-  "size": "小型网络安全公司",
-  "other": ""
- },
- "business_lines": [
-  "网络安全服务"
- ],
- "channels": {
-  "role": "安全服务商（项目配套）",
-  "region": "马来西亚"
- },
- "risks": [
-  "硬件非主业；品牌偏好"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。"
- },
- "email_hook": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 mery@vulsanx.com；主题多为「PoE switch、48 port managed switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "马来西亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少」；研究档 risks：硬件非主业；品牌偏好"
-  },
-  "situation": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
-  "need": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。",
-  "breakpoint": "硬件非主业；品牌偏好",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "PoE switch、48 port managed switch",
-    "why": "9 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-874",
+  "name_official": "Vulsan X Sdn Bhd（马来西亚）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（vulsanx.com，快照 2026-10-21）",
+  "summary": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "Vulsan X – Cyber Security Expert；infosec@vulsanx.com；+606 851 5911",
+      "quote": "Vulsan X – Cyber Security Expert",
+      "url": "https://vulsanx.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "问了 POE switch，在用有名的牌子，主要是 24 48 口，4 8 口用得少；地址 No 59-1 & 59-2 Jalan MPK, Medan Perdagangan Kepayang",
+      "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Annamery Raja",
+      "title": "OSINT Researcher",
+      "email": "mery@vulsanx.com",
+      "phone": "+60 11 5652 8663",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Vulsan X Sdn Bhd",
+    "founded": "（待核）",
+    "hq": "Seremban, Negeri Sembilan, Malaysia",
+    "size": "小型网络安全公司",
+    "other": ""
+  },
+  "business_lines": [
+    "网络安全服务"
+  ],
+  "channels": {
+    "role": "安全服务商（项目配套）",
+    "region": "马来西亚"
+  },
+  "risks": [
+    "硬件非主业；品牌偏好"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。"
+  },
+  "email_hook": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 mery@vulsanx.com；主题多为「PoE switch、48 port managed switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少」；研究档 risks：硬件非主业；品牌偏好"
+    },
+    "situation": "马来西亚网络安全公司 Vulsan X（Kepayang/Seremban，+60 6 851 5911），OSINT 研究员 Annamery Raja：问 PoE 交换机，在用知名品牌，主要 24/48 口，4/8 口用得少；无跟进。安全公司硬件量小。",
+    "need": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。",
+    "breakpoint": "硬件非主业；品牌偏好",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Annamery, for the 24/48-port PoE sizes you use — Marvell L2+ 24-PoE at $140 and 48-PoE at $321 EXW; if a client project allows a non-big-brand switch, I can send 1 unit for your lab first."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "PoE switch、48 port managed switch",
+        "why": "9 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

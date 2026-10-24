@@ -1,103 +1,105 @@
 {
- "code": "SA-009",
- "name_official": "fhn-na.com（用户备注：烽火美国分公司 / FiberHome North America）",
- "website_status": "未核实（2026-10-21 web_search「fhn-na.com FHN North America」无相关结果，仅返回同缩写的银行/枪械公司）",
- "summary": "用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。",
- "type": "中资大厂海外分公司（终端/项目采购）",
- "size": "母公司为大型企业；分公司规模未核",
- "brands_seen": [
-  "FiberHome（烽火）"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "身份与互动来自用户备注，网页未能核实",
-   "quote": "烽火美国分公司 · 收发器/差点成样品单",
-   "url": "Clients/A/DONE/US.xlsx",
-   "date": "2026-10-21"
-  }
- ],
- "grade_override": "B",
- "override_reason": "母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。",
- "notes": "若用户确认其北美公司独立采购且有持续需求，可改回 A。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
-  "hq": "美国",
-  "size": "母公司大型；分公司规模未核",
-  "other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
- },
- "business_lines": [
-  "电信设备（母公司）",
-  "北美项目/实验室采购（推断）"
- ],
- "channels": {
-  "网站": "fhn-na.com（未核实）"
- },
- "signals": [
-  "曾接近样品单（光模块）→ 以光模块 + 小交换机维持联系"
- ],
- "risks": [
-  "中资大厂分公司，采购走集团渠道；机会型而非渠道型"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 25,
-  "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示"
- },
- "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
-   "type": "中资大厂海外分公司（终端/项目采购）",
-   "sieve": "1（只收到群发）",
-   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 20；用户表：「烽火美国分公司 · 收发器/差点成样品单」；研究档 risks：中资大厂分公司，采购走集团渠道；机会型而非渠道型"
-  },
-  "situation": "用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。",
-  "need": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
-  "breakpoint": "中资大厂分公司，采购走集团渠道；机会型而非渠道型",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "烽火美国分公司 · 收发器/差点成样品单",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
-    "why": "20 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-009",
+  "name_official": "fhn-na.com（用户备注：烽火美国分公司 / FiberHome North America）",
+  "website_status": "未核实（2026-10-21 web_search「fhn-na.com FHN North America」无相关结果，仅返回同缩写的银行/枪械公司）",
+  "summary": "用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。",
+  "type": "中资大厂海外分公司（终端/项目采购）",
+  "size": "母公司为大型企业；分公司规模未核",
+  "brands_seen": [
+    "FiberHome（烽火）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "身份与互动来自用户备注，网页未能核实",
+      "quote": "烽火美国分公司 · 收发器/差点成样品单",
+      "url": "Clients/A/DONE/US.xlsx",
+      "date": "2026-10-21"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。",
+  "notes": "若用户确认其北美公司独立采购且有持续需求，可改回 A。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "FiberHome North America（用户备注「烽火美国分公司」；网页未核实）",
+    "hq": "美国",
+    "size": "母公司大型；分公司规模未核",
+    "other": "兴趣：SFP 收发器；「差点成样品单」；1 次实质回复、19 次推送"
+  },
+  "business_lines": [
+    "电信设备（母公司）",
+    "北美项目/实验室采购（推断）"
+  ],
+  "channels": {
+    "网站": "fhn-na.com（未核实）"
+  },
+  "signals": [
+    "曾接近样品单（光模块）→ 以光模块 + 小交换机维持联系"
+  ],
+  "risks": [
+    "中资大厂分公司，采购走集团渠道；机会型而非渠道型"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 25,
+    "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示"
+  },
+  "email_hook": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 20 封 2024→2026，无记录打开，0 回；收件 ggao@fhn-na.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）",
+      "type": "中资大厂海外分公司（终端/项目采购）",
+      "sieve": "1（只收到群发）",
+      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 20；用户表：「烽火美国分公司 · 收发器/差点成样品单」；研究档 risks：中资大厂分公司，采购走集团渠道；机会型而非渠道型"
+    },
+    "situation": "用户备注为「烽火美国分公司」，兴趣为收发器（SFP），「差点成样品单」，1 次实质回复，19 次推送。烽火（FiberHome）为中国大型电信设备厂，其北美分公司采购光模块更可能走集团内渠道；对 Saga 而言是机会型、非渠道型客户。",
+    "need": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
+    "breakpoint": "中资大厂分公司，采购走集团渠道；机会型而非渠道型",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "机会型 25% 档：光模块订单为主，交换机配 STC-424XGGM（24 GE + 4×10G SFP+，$132.7）作实验室/演示",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Picking up the SFP transceiver sample we nearly closed: I can ship 10 × 10G SR/LR modules with a 24-port 4×10G switch for lab use at $132.7 EXW — which wavelength and reach did your team need?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "烽火美国分公司 · 收发器/差点成样品单",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、Industrial PoE Switch",
+        "why": "20 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

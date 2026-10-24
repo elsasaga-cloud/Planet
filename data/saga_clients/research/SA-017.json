@@ -174,7 +174,7 @@
       "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
       "tier": 30,
       "price": "历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
-      "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追",
+      "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追。已打开的主题（6/35 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-03-05)、「Re: 16 Port Ethernet Switch」(2025-04-07)、「Managed Optical Bypass Switch」(2025-05-20)、「Re: Managed Optical Bypass Switch」(2025-05-26) → 读者兴趣偏「其他」；当前 P1 属「旁路/Booster」，下一封按「其他」给，不按 P1",
       "repeat": [],
       "gaps": [
         "370W 外壳款的 SmartByte 型号与价格未在 `价格主表` 标出",

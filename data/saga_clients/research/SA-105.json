@@ -1,117 +1,119 @@
 {
- "code": "SA-105",
- "name_official": "Tricomp Sp. z o.o.（华沙，波兰，2002 年）",
- "website_status": "在线（公司资料页为主）",
- "summary": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
- "type": "IT/电信工程与咨询公司",
- "size": "小型（1–24 人，D&B 估算）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "Crunchbase",
-   "claim": "业务：咨询/设计/监理/实施，含布线与电信方案、软硬件",
-   "quote": "Tricomp provides services in the fields of consulting, design, management, supervision, and implementation of projects in the fields of real estate, telecommunications, and IT… installation of cabling and telecommunication solutions, hardware and software solutions",
-   "url": "https://www.crunchbase.com/organization/tricomp",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "D&B",
-   "claim": "1–24 人；负责人 Ofwona James Francis",
-   "quote": "Key Principal: Ofwona James Francis… Employees (All sites): 1-24 Modelled",
-   "url": "https://www.dnb.com/business-directory/company-profiles/tricomp-sp-z-o-o.8d31eaeef5c82b804c095fe032e3c8de",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "企业登记",
-   "claim": "2002-07-04 注册，注册资本 5 万 PLN，总裁 James Francis Ofwona",
-   "quote": "Data rejestracji: 04.07.2002… Kapitał zakładowy: 50 000 zł… James Francis Ofwona Prezes Zarządu",
-   "url": "https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "James Francis Ofwona",
-   "role": "Prezes Zarządu（总裁）",
-   "email": "contact@tricomp.com.pl（公开总机邮箱）",
-   "phone": "+48 607 498 206",
-   "source": "D&B / gowork / Crunchbase"
-  }
- ],
- "grade_override": "B",
- "override_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
- "notes": "重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
- },
- "company_facts": {
-  "legal_name": "Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN）",
-  "hq": "Warszawa, Polska",
-  "size": "1–24 人（D&B）/ 51–200（LinkedIn 自报，口径不一）",
-  "other": "总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理"
- },
- "business_lines": [
-  "IT/电信工程咨询与实施（布线、电信方案）",
-  "软硬件方案与项目管理"
- ],
- "channels": {
-  "网站": "tricomp.com.pl",
-  "LinkedIn/名录": "https://www.crunchbase.com/organization/tricomp"
- },
- "signals": [
-  "布线与电信实施项目 → 每项目机柜级接入/汇聚交换机采购；1 次回复说明邮箱有效"
- ],
- "risks": [
-  "规模口径不一（可能仅数人）；14 次推送无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 25,
-  "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W"
- },
- "email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 blozinski@tricomp.com.pl；主题多为「Saga Q3 Product Links、24 Port PoE Managed Switch」）",
-   "type": "IT/电信工程与咨询公司",
-   "sieve": "1（只收到群发）",
-   "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "PL 次级重点",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 3；研究档 risks：规模口径不一（可能仅数人）；14 次推送无回复"
-  },
-  "situation": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
-  "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W",
-  "breakpoint": "规模口径不一（可能仅数人）；14 次推送无回复",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?"
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Saga Q3 Product Links、24 Port PoE Managed Switch",
-    "why": "3 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SA-105",
+  "name_official": "Tricomp Sp. z o.o.（华沙，波兰，2002 年）",
+  "website_status": "在线（公司资料页为主）",
+  "summary": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
+  "type": "IT/电信工程与咨询公司",
+  "size": "小型（1–24 人，D&B 估算）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "Crunchbase",
+      "claim": "业务：咨询/设计/监理/实施，含布线与电信方案、软硬件",
+      "quote": "Tricomp provides services in the fields of consulting, design, management, supervision, and implementation of projects in the fields of real estate, telecommunications, and IT… installation of cabling and telecommunication solutions, hardware and software solutions",
+      "url": "https://www.crunchbase.com/organization/tricomp",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "D&B",
+      "claim": "1–24 人；负责人 Ofwona James Francis",
+      "quote": "Key Principal: Ofwona James Francis… Employees (All sites): 1-24 Modelled",
+      "url": "https://www.dnb.com/business-directory/company-profiles/tricomp-sp-z-o-o.8d31eaeef5c82b804c095fe032e3c8de",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "企业登记",
+      "claim": "2002-07-04 注册，注册资本 5 万 PLN，总裁 James Francis Ofwona",
+      "quote": "Data rejestracji: 04.07.2002… Kapitał zakładowy: 50 000 zł… James Francis Ofwona Prezes Zarządu",
+      "url": "https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "James Francis Ofwona",
+      "role": "Prezes Zarządu（总裁）",
+      "email": "contact@tricomp.com.pl（公开总机邮箱）",
+      "phone": "+48 607 498 206",
+      "source": "D&B / gowork / Crunchbase"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
+  "notes": "重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  },
+  "company_facts": {
+    "legal_name": "Tricomp Sp. z o.o.（华沙；2002-07-04 注册，注册资本 5 万 PLN）",
+    "hq": "Warszawa, Polska",
+    "size": "1–24 人（D&B）/ 51–200（LinkedIn 自报，口径不一）",
+    "other": "总裁 James Francis Ofwona；业务：IT/电信咨询、设计、监理、布线与电信方案实施、项目管理"
+  },
+  "business_lines": [
+    "IT/电信工程咨询与实施（布线、电信方案）",
+    "软硬件方案与项目管理"
+  ],
+  "channels": {
+    "网站": "tricomp.com.pl",
+    "LinkedIn/名录": "https://www.crunchbase.com/organization/tricomp"
+  },
+  "signals": [
+    "布线与电信实施项目 → 每项目机柜级接入/汇聚交换机采购；1 次回复说明邮箱有效"
+  ],
+  "risks": [
+    "规模口径不一（可能仅数人）；14 次推送无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 25,
+    "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W"
+  },
+  "email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 blozinski@tricomp.com.pl；主题多为「Saga Q3 Product Links、24 Port PoE Managed Switch」）",
+      "type": "IT/电信工程与咨询公司",
+      "sieve": "1（只收到群发）",
+      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 3；研究档 risks：规模口径不一（可能仅数人）；14 次推送无回复"
+    },
+    "situation": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
+    "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W",
+    "breakpoint": "规模口径不一（可能仅数人）；14 次推送无回复",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?"
+    },
+    "facts": [
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Saga Q3 Product Links、24 Port PoE Managed Switch",
+        "why": "3 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

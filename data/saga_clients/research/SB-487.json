@@ -88,7 +88,7 @@
       "type": "—",
       "sieve": "—（未入筛）",
       "stop": "从未触达",
-      "revive": "不动（非主攻区）",
+      "revive": "不动（非主攻区）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
       "lane": "越南 非主攻",
       "cadence": "不动",
       "evidence": "gmail_digest：out 0；用户表：「兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品」；研究档 risks：越南低价市场、AOA 价格基准低；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
@@ -129,7 +129,8 @@
       }
     ],
     "proof_gaps": [
-      "无邮件往来"
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
     ],
     "draft_en": null,
     "as_of": "2026-10-24"

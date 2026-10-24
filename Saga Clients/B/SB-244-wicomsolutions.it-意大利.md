@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Wi-Com Solutions（电子元器件/通信部件分销：天线（DAS/Small Cell/专网/RBS）、电池、switch/media converter 栏目（EN50155/EN50121-4/IEC 60255 等规格）；市场为电信、汽车、工业电子与军工；KP Alessandro Padovani（General Manager）；表内「工业 FS MC switch 周边产品」「可以尝试多跟进一下」）；表内 6 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS MC switch 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-29) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Wi-Com Solutions（电子元器件/通信部件分销：天线（DAS/Small Cell/专网/RBS）、电池、switch/media converter 栏目（EN50155/EN50121-4/IEC 60255 等规格）；市场为电信、汽车、工业电子与军工；KP Alessandro Padovani（General Manager）；表内「工业 FS MC switch 周边产品」「可以尝试多跟进一下」）；表内 6 次跟进无回复。
 - **对方真实需求（有据）**：switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）
 - **断点 / 为什么停在这里**：守界备注：军工为其市场之一——只供民用通用工业交换机；EN50155/轨道规格 Saga 不做
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——switch/MC 栏目 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；EN50155 轨道规格 Saga 不做（注明）。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-29) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alessandro, for the switch and media-converter section of your catalogue, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial SKU do your telecom and industrial customers request most?
 

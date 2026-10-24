@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。（调研 2026-10-21；表内兴趣：VC HDMI FS 商业POE 光模块）
 - **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套；按 30% 自有标档
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续；按 30% 自有标档
 - **第一问（只问一个）**：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 S 邮箱 → silvia.flores@ + purchasing@ 三件套一页：4 口 / 8 口价格、交期、FCC
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Optiview 采购 Silvia 2024-10-29 两封：要 4 口/8 口工业 PoE 的规格书、要两款价格。Simon 次日一封「see attached information」（价格是否在附件内不可考）。此后无回。
 - **对方真实需求（有据）**：4/8 口工业 PoE（CCTV 批发 SKU）。
 - **断点 / 为什么停在这里**：采购员要的是「规格 + 价格 + 交期」三件套，回复只给了附件；无跟进问题。
-- **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档）——J2：补一封三件套
+- **Saga 现在该推什么**：P1 **STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表）**（30% 档，按 30% 自有标档）——J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续
   - 做不了 / 要先核的：2024-10-30 附件是否含价格
 - **下一步（具体）**：2026-11　S 邮箱 → silvia.flores@ + purchasing@　三件套一页：4 口 / 8 口价格、交期、FCC
   - 第一问（只问一个）：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?

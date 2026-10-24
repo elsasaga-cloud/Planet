@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-152` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：安防安装/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：不懂英文；规模小
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：安防安装/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：不懂英文；规模小
 - **现状一句话**：土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。
 - **对方真实需求（有据）**：安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价
 - **断点 / 为什么停在这里**：不懂英文；规模小
@@ -52,7 +52,7 @@ updated: 2026-10-24
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
   - 第一问（只问一个）：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $24.2. Kaç kamera için planlıyorsunuz?
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

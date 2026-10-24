@@ -1,131 +1,131 @@
 {
- "code": "SB-1212",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（keydence.com，快照 2026-10-21）",
- "summary": "新加坡 Keydence Systems（安防系统服务商：CCTV、门禁、电气布线、网络与数据布线、通信、护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」；表内「监控摄像 警报 光纤布线 网络」；KP Lawrence）；群发 8 次无回复。",
- "type": "安防/布线集成商（新加坡）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CCTV Camera Installation Solutions Singapore | Keydence Systems；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "As Singapore's trusted Security Systems provider, Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems.",
-   "url": "https://www.keydence.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "监控摄像 警报 光纤布线 网络",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Keydence 定位",
-   "quote": "CCTV Camera Installation Solutions Singapore | Keydence Systems ; CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems",
-   "url": "https://www.keydence.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "监控 警报 布线 网络",
-   "quote": "监控摄像 警报 光纤布线 网络",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Lawrence",
-   "title": "（姓氏/职务待核）",
-   "email": "lawrence@keydence.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "安防系统 / 电气与网络布线（新加坡）"
- ],
- "channels": {
-  "role": "安防/布线集成商（新加坡）",
-  "region": "新加坡",
-  "contact": "lawrence@keydence.com"
- },
- "signals": [
-  "官网：Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems；页面 /post/introducing-cctv-cameras-with-poe-switch；kw cctv 177 / camera 138 / fiber 39",
-  "表内：监控摄像 警报 光纤布线 网络；KP Lawrance（lawrence@）"
- ],
- "risks": [
-  "非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Lawrence, for the PoE switches in your CCTV and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (extend mode for long camera runs, CE/RoHS) from single units, EXW USD — which port count do your Singapore projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-   "type": "安防/布线集成商（新加坡）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "新加坡 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「监控摄像 警报 光纤布线 网络」；研究档 risks：非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核"
-  },
-  "situation": "新加坡 Keydence Systems（安防系统服务商：CCTV、门禁、电气布线、网络与数据布线、通信、护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」；表内「监控摄像 警报 光纤布线 网络」；KP Lawrence）；群发 8 次无回复。",
-  "need": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Lawrence, for the PoE switches in your CCTV and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (extend mode for long camera runs, CE/RoHS) from single units, EXW USD — which port count do your Singapore projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "监控摄像 警报 光纤布线 网络",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-    "why": "19 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1212",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（keydence.com，快照 2026-10-21）",
+  "summary": "新加坡 Keydence Systems（安防系统服务商：CCTV、门禁、电气布线、网络与数据布线、通信、护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」；表内「监控摄像 警报 光纤布线 网络」；KP Lawrence）；群发 8 次无回复。",
+  "type": "安防/布线集成商（新加坡）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：CCTV Camera Installation Solutions Singapore | Keydence Systems；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "As Singapore's trusted Security Systems provider, Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems.",
+      "url": "https://www.keydence.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "监控摄像 警报 光纤布线 网络",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Keydence 定位",
+      "quote": "CCTV Camera Installation Solutions Singapore | Keydence Systems ; CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems",
+      "url": "https://www.keydence.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "监控 警报 布线 网络",
+      "quote": "监控摄像 警报 光纤布线 网络",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Lawrence",
+      "title": "（姓氏/职务待核）",
+      "email": "lawrence@keydence.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "新加坡",
+    "other": "官网 keydence.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "安防系统 / 电气与网络布线（新加坡）"
+  ],
+  "channels": {
+    "role": "安防/布线集成商（新加坡）",
+    "region": "新加坡",
+    "contact": "lawrence@keydence.com"
+  },
+  "signals": [
+    "官网：Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems；页面 /post/introducing-cctv-cameras-with-poe-switch；kw cctv 177 / camera 138 / fiber 39",
+    "表内：监控摄像 警报 光纤布线 网络；KP Lawrance（lawrence@）"
+  ],
+  "risks": [
+    "非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "Lawrence, for the PoE switches in your CCTV and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (extend mode for long camera runs, CE/RoHS) from single units, EXW USD — which port count do your Singapore projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 19 封 2025→2026，1 次记录打开，0 回；收件 joey@keydence.com, lawrence@keydence.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "type": "安防/布线集成商（新加坡）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "新加坡 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 19，Opened 标签 1（Simon 群发追踪）；用户表：「监控摄像 警报 光纤布线 网络」；研究档 risks：非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核"
+    },
+    "situation": "新加坡 Keydence Systems（安防系统服务商：CCTV、门禁、电气布线、网络与数据布线、通信、护士呼叫；自有 KDS- 型号 DVR；博客「CCTV cameras with PoE switch」；表内「监控摄像 警报 光纤布线 网络」；KP Lawrence）；群发 8 次无回复。",
+    "need": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "非主攻区（T5，新加坡）；8 次无回复；KP 姓氏/职务待核",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 项目配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/19 封有打开记录）：「16 Port Industrial PoE Switch」(2026-09-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Lawrence, for the PoE switches in your CCTV and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (extend mode for long camera runs, CE/RoHS) from single units, EXW USD — which port count do your Singapore projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "监控摄像 警报 光纤布线 网络",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+        "why": "19 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

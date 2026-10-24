@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：买丰润达的商业PoE 工业FS AOA的  8 PORT ROUTER WIRED）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd
 - **第一问（只问一个）**：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：24V/48V 混供 PoE 管理型。
 - **断点 / 为什么停在这里**：价格段。
-- **Saga 现在该推什么**：P1 **—**（30% 档，$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd）———
+- **Saga 现在该推什么**：P1 **—**（30% 档，$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd）———。已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答
   - 第一问（只问一个）：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
 

@@ -107,7 +107,7 @@
       "p1": "STH 系列 CENTEC（VXLAN/EVPN/MPLS）",
       "tier": 25,
       "price": "按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd",
-      "why": "美国运营商 + 创始人直联 + 明确技术需求",
+      "why": "美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1",
       "repeat": [],
       "gaps": "NETCONF/控制器 API 仓库无证 → 信里只写 CLI/SNMP；10G 汇聚型号无价 → 不写"
     },

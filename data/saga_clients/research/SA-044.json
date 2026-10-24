@@ -1,166 +1,166 @@
 {
- "code": "SA-044",
- "name_official": "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）",
- "website_status": "在线",
- "summary": "韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。",
- "type": "品牌商（OEM/ODM 需求）",
- "size": "11–50 人（EC21）",
- "brands_seen": [
-  "GT-Wave"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌产品线含 PoE 交换机/工业 AP",
-   "quote": "Intelligent PoE Switch / Outdoor AP / Public WiFi / Antenna / Wireless CCTV / Video Transmission for Drones … PoE Switch · PoE Injector · PoE Extender (repeater) · Network Switch … E-mail : master@gtwave.co.kr",
-   "url": "https://www.gtwave.co.kr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（EC21）",
-   "claim": "规模与联系人",
-   "quote": "Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)",
-   "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "展会目录",
-   "claim": "GTWave 工业 PoE 型号表（iG8P-2SMB/2SB/4SMB/8GE/8FE、DNS8-2SM、iG4P-2SMB）",
-   "quote": "iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP",
-   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
-   "date": "2025-01-16"
-  }
- ],
- "kp": [
-  {
-   "name": "Moonsoo Park",
-   "role": "对外联系人（EC21 供应商页）",
-   "email": "master@gtwave.co.kr",
-   "phone": "+82 31 707 4670",
-   "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
-  }
- ],
- "notes": "A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "GTWAVE Co., Ltd.（(주)지티웨이브）",
-  "founded": "2001",
-  "hq": "Seongnam (Pangyo), Korea",
-  "staff": "11–50",
-  "other": "自有品牌 GT-Wave：智能 PoE（通信故障自恢复）、工业 PoE iG 系列、PoE 注入器/延长器、户外 AP（KCMVP/CC 联动可军用）、无线桥接、无人机图传；2025 SEC 展会目录；用户表「海思的」"
- },
- "business_lines": [
-  "工业 PoE 交换机 iG4P/iG8P 系列（Web 管理、ERPS/EAPS、温湿度监测、-40~80℃）",
-  "商用 PoE GT8P-2G-HA、DNS8-2SM",
-  "PoE 注入/延长器（GAW-i90G 90W、GT2P-EX2）",
-  "户外/工业 AP、无线桥接 GT-Wave860S"
- ],
- "products_seen": [
-  {
-   "brand": "GT-Wave",
-   "model": "iG8P-2SMB / iG8P-4SMB",
-   "spec": "Web 管理 8 GE PoE + 2/4 SFP，智能 PoE，ERPS/EAPS，DC48–52V",
-   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
-   "date": "2025-01-16",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "GT-Wave",
-   "model": "iG8P-2SB / iG8P-8GE / iG8P-8FE",
-   "spec": "非管理 8 PoE（+2 SFP）自恢复",
-   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
-   "date": "2025-01-16",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "GT-Wave",
-   "model": "iG4P-2SMB",
-   "spec": "6 口（4 PoE，3/4 口 90W bt）+ 2 SFP，环网，-40~80℃",
-   "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
-   "date": "2025-01-16",
-   "saga": "STI-144GP（bt 需核）"
-  },
-  {
-   "brand": "GT-Wave",
-   "model": "GT8P-2G-HA",
-   "spec": "商用 8 PoE + 2 GE（EC21）",
-   "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "GT-Wave",
-   "model": "GAW-i90G",
-   "spec": "90W bt 注入器（2026 英文单页）",
-   "url": "https://camerasamsung.com/uploads/tiny_uploads/GAW-i90G_Eng2026_1.pdf",
-   "date": "2026",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站": "https://www.gtwave.co.kr/",
-  "直邮": "master@gtwave.co.kr（用户表）",
-  "展会": "SEC 2025（informamarkets 目录）",
-  "出口": "EC21 店；越南 Trường Sơn（SA-048）为其分销（Non-China/NDAA 卖点）"
- },
- "signals": [
-  "2025 展会目录 + 2026 英文单页——出口活跃；越南分销 SA-048 主打「Non-China」——注意 GTWave 对外可能标榜韩国制造",
-  "用户表：自己的 logo，工业 FS/PoE，海思方案"
- ],
- "risks": [
-  "军用 AP/KCMVP 相关守界；Saga 只供商用/工业 PoE",
-  "其「Non-China」出口卖点与中国 ODM 来源存在张力——OEM 条款需明确中性包装（Saga 本就中性）"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档"
- },
- "email_hook": "Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2025-04 要公司名与目录 → 给了 → 无下文）",
-   "type": "韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park",
-   "sieve": "1",
-   "stop": "2025-04-16 目录后无回",
-   "revive": "其 PoE 交换机换源",
-   "lane": "KR",
-   "cadence": "2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15",
-   "evidence": "k=2cc027d0b96713b6 / e7ae897881e06df3"
-  },
-  "situation": "Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。",
-  "need": "自有品牌 PoE 交换机。",
-  "breakpoint": "身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 30,
-   "price": "—",
-   "why": "保活",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "A 邮箱",
-   "action": "一句话问 PoE 线外采情况",
-   "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one?"
-  },
-  "facts": [
-   {
-    "date": "2025-04-15",
-    "dir": "来",
-    "who": "Moonsoo Park",
-    "quote": "Let me know your company name and send me catalogue.",
-    "why": "「你是谁」",
-    "k": "2cc027d0b96713b6"
-   }
+  "code": "SA-044",
+  "name_official": "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）",
+  "website_status": "在线",
+  "summary": "韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。",
+  "type": "品牌商（OEM/ODM 需求）",
+  "size": "11–50 人（EC21）",
+  "brands_seen": [
+    "GT-Wave"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌产品线含 PoE 交换机/工业 AP",
+      "quote": "Intelligent PoE Switch / Outdoor AP / Public WiFi / Antenna / Wireless CCTV / Video Transmission for Drones … PoE Switch · PoE Injector · PoE Extender (repeater) · Network Switch … E-mail : master@gtwave.co.kr",
+      "url": "https://www.gtwave.co.kr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（EC21）",
+      "claim": "规模与联系人",
+      "quote": "Gtwave Co.,Ltd … Korea · 2001 · 11 - 50 … Main Products PoE Network Switch, 8Port PoE (GT8P-2G-HA) · Industrial PoE Network Switch, 4port Poe … Contact MOONSOO,PARK(Mr.)",
+      "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "展会目录",
+      "claim": "GTWave 工业 PoE 型号表（iG8P-2SMB/2SB/4SMB/8GE/8FE、DNS8-2SM、iG4P-2SMB）",
+      "quote": "iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP",
+      "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+      "date": "2025-01-16"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Moonsoo Park",
+      "role": "对外联系人（EC21 供应商页）",
+      "email": "master@gtwave.co.kr",
+      "phone": "+82 31 707 4670",
+      "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
+    }
+  ],
+  "notes": "A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "GTWAVE Co., Ltd.（(주)지티웨이브）",
+    "founded": "2001",
+    "hq": "Seongnam (Pangyo), Korea",
+    "staff": "11–50",
+    "other": "自有品牌 GT-Wave：智能 PoE（通信故障自恢复）、工业 PoE iG 系列、PoE 注入器/延长器、户外 AP（KCMVP/CC 联动可军用）、无线桥接、无人机图传；2025 SEC 展会目录；用户表「海思的」"
+  },
+  "business_lines": [
+    "工业 PoE 交换机 iG4P/iG8P 系列（Web 管理、ERPS/EAPS、温湿度监测、-40~80℃）",
+    "商用 PoE GT8P-2G-HA、DNS8-2SM",
+    "PoE 注入/延长器（GAW-i90G 90W、GT2P-EX2）",
+    "户外/工业 AP、无线桥接 GT-Wave860S"
+  ],
+  "products_seen": [
+    {
+      "brand": "GT-Wave",
+      "model": "iG8P-2SMB / iG8P-4SMB",
+      "spec": "Web 管理 8 GE PoE + 2/4 SFP，智能 PoE，ERPS/EAPS，DC48–52V",
+      "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+      "date": "2025-01-16",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "GT-Wave",
+      "model": "iG8P-2SB / iG8P-8GE / iG8P-8FE",
+      "spec": "非管理 8 PoE（+2 SFP）自恢复",
+      "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+      "date": "2025-01-16",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "GT-Wave",
+      "model": "iG4P-2SMB",
+      "spec": "6 口（4 PoE，3/4 口 90W bt）+ 2 SFP，环网，-40~80℃",
+      "url": "https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf",
+      "date": "2025-01-16",
+      "saga": "STI-144GP（bt 需核）"
+    },
+    {
+      "brand": "GT-Wave",
+      "model": "GT8P-2G-HA",
+      "spec": "商用 8 PoE + 2 GE（EC21）",
+      "url": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "GT-Wave",
+      "model": "GAW-i90G",
+      "spec": "90W bt 注入器（2026 英文单页）",
+      "url": "https://camerasamsung.com/uploads/tiny_uploads/GAW-i90G_Eng2026_1.pdf",
+      "date": "2026",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.gtwave.co.kr/",
+    "直邮": "master@gtwave.co.kr（用户表）",
+    "展会": "SEC 2025（informamarkets 目录）",
+    "出口": "EC21 店；越南 Trường Sơn（SA-048）为其分销（Non-China/NDAA 卖点）"
+  },
+  "signals": [
+    "2025 展会目录 + 2026 英文单页——出口活跃；越南分销 SA-048 主打「Non-China」——注意 GTWave 对外可能标榜韩国制造",
+    "用户表：自己的 logo，工业 FS/PoE，海思方案"
+  ],
+  "risks": [
+    "军用 AP/KCMVP 相关守界；Saga 只供商用/工业 PoE",
+    "其「Non-China」出口卖点与中国 ODM 来源存在张力——OEM 条款需明确中性包装（Saga 本就中性）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "iG8P-2SMB（8 GE PoE + 2 SFP 管理，ERPS）= STI-288DGGPM；GT8P-2G-HA 商用位 = STC-28DGGPM；OEM 30% 档"
+  },
+  "email_hook": "Your iG8P-2SMB spec sheet, 8 gigabit PoE ports plus 2 SFP with ERPS ring and dual DC, maps one-to-one onto the Marvell-based industrial unit we build, so I am quoting it in neutral GT-Wave-ready packing with the 8-port commercial GT8P class model as a second line.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（2025-04 要公司名与目录 → 给了 → 无下文）",
+      "type": "韩国自有品牌 PoE 交换机/AP（部分军用无线——守界只供硬件）；Moonsoo Park",
+      "sieve": "1",
+      "stop": "2025-04-16 目录后无回",
+      "revive": "其 PoE 交换机换源",
+      "lane": "KR",
+      "cadence": "2024-06 → 2026-09 去信 28 封；最后来信 2025-04-15",
+      "evidence": "k=2cc027d0b96713b6 / e7ae897881e06df3"
+    },
+    "situation": "Park 2025-04-15 回「Let me know your company name and send me catalogue」，Alan 次日给公司名 + 目录；无回。群发邮件没有公司名——对方第一反应是「你是谁」。",
+    "need": "自有品牌 PoE 交换机。",
+    "breakpoint": "身份不清（群发署名只有 Alan/Saga Telecom/OEM Factory）→ 目录后无回。",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 30,
+      "price": "—",
+      "why": "保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "A 邮箱",
+      "action": "一句话问 PoE 线外采情况",
+      "one_question": "Is the GTWAVE PoE switch line bought-in today, and which model is the volume one?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-15",
+        "dir": "来",
+        "who": "Moonsoo Park",
+        "quote": "Let me know your company name and send me catalogue.",
+        "why": "「你是谁」",
+        "k": "2cc027d0b96713b6"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

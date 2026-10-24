@@ -1,117 +1,117 @@
 {
- "code": "SB-199",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
- "type": "系统集成商（德国，PoE + 光口需求）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "有时候需要POE，需要用到带光口的交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "有时候需要 PoE 带光口交换机",
-   "quote": "有时候需要POE，需要用到带光口的交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Lukas Gierlirg",
-   "title": "（职务待核）",
-   "email": "lg@hk-systeme.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "系统集成（德国）"
- ],
- "channels": {
-  "role": "系统集成商（德国，PoE + 光口需求）",
-  "region": "德国",
-  "contact": "lg@hk-systeme.de"
- },
- "signals": [
-  "表内：有时候需要 POE，需要用到带光口的交换机；KP Lukas Gierlirg",
-  "快照：http_error"
- ],
- "risks": [
-  "需求为间歇性（量小）；官网 http_error；7 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
- },
- "email_hook": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 lg@hk-systeme.de；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
-   "type": "系统集成商（德国，PoE + 光口需求）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「有时候需要POE，需要用到带光口的交换机」；研究档 risks：需求为间歇性（量小）；官网 http_error；7 次无回复"
-  },
-  "situation": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
-  "need": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
-  "breakpoint": "需求为间歇性（量小）；官网 http_error；7 次无回复",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "有时候需要POE，需要用到带光口的交换机",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-    "why": "15 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-199",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
+  "type": "系统集成商（德国，PoE + 光口需求）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "有时候需要POE，需要用到带光口的交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "有时候需要 PoE 带光口交换机",
+      "quote": "有时候需要POE，需要用到带光口的交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Lukas Gierlirg",
+      "title": "（职务待核）",
+      "email": "lg@hk-systeme.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 hk-systeme.de，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "系统集成（德国）"
+  ],
+  "channels": {
+    "role": "系统集成商（德国，PoE + 光口需求）",
+    "region": "德国",
+    "contact": "lg@hk-systeme.de"
+  },
+  "signals": [
+    "表内：有时候需要 POE，需要用到带光口的交换机；KP Lukas Gierlirg",
+    "快照：http_error"
+  ],
+  "risks": [
+    "需求为间歇性（量小）；官网 http_error；7 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
+  },
+  "email_hook": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 15 封 2025→2026，1 次记录打开，0 回；收件 lg@hk-systeme.de；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
+      "type": "系统集成商（德国，PoE + 光口需求）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "15 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 15，Opened 标签 1（Simon 群发追踪）；用户表：「有时候需要POE，需要用到带光口的交换机」；研究档 risks：需求为间歇性（量小）；官网 http_error；7 次无回复"
+    },
+    "situation": "德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。",
+    "need": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）",
+    "breakpoint": "需求为间歇性（量小）；官网 http_error；7 次无回复",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "有时候需要POE，需要用到带光口的交换机",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+        "why": "15 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

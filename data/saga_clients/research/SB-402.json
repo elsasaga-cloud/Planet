@@ -1,120 +1,120 @@
 {
- "code": "SB-402",
- "name_official": "Longline Network（土耳其）",
- "researched_at": "2026-10-21",
- "website_status": "在线（longlinenetwork.com，快照 2026-10-21，土耳其语）",
- "summary": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "E-link"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "SFP 收发器、网卡方案、线缆、MC 销售",
-   "quote": "Sfp Transceiver, Nic Solutions Introduction, Cable Solutions, Media Converter Ürünleri Satış",
-   "url": "https://longlinenetwork.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "SFP MC（主要）；10GMC 是 E-link 的",
-   "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@longlinenetwork.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Longline Network（待核）",
-  "founded": "",
-  "hq": "Türkiye",
-  "size": "小型经销 / 网店",
-  "other": "已售 E-link 10G MC"
- },
- "business_lines": [
-  "SFP / MC / 网卡销售"
- ],
- "channels": {
-  "role": "经销商（已售中国同行）",
-  "region": "土耳其"
- },
- "signals": [
-  "已售 E-link MC → 同类替换"
- ],
- "risks": [
-  "SFP 主业不供；仅 info@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。"
- },
- "email_hook": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 11 封 2024→2026，1 次记录打开，0 回；收件 info@longlinenetwork.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 11，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：SFP MC（主要） 10GMC 是E-link的」；研究档 risks：SFP 主业不供；仅 info@"
-  },
-  "situation": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
-  "need": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。",
-  "breakpoint": "SFP 主业不供；仅 info@",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "11 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-402",
+  "name_official": "Longline Network（土耳其）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（longlinenetwork.com，快照 2026-10-21，土耳其语）",
+  "summary": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "E-link"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "SFP 收发器、网卡方案、线缆、MC 销售",
+      "quote": "Sfp Transceiver, Nic Solutions Introduction, Cable Solutions, Media Converter Ürünleri Satış",
+      "url": "https://longlinenetwork.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "SFP MC（主要）；10GMC 是 E-link 的",
+      "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@longlinenetwork.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Longline Network（待核）",
+    "founded": "",
+    "hq": "Türkiye",
+    "size": "小型经销 / 网店",
+    "other": "已售 E-link 10G MC"
+  },
+  "business_lines": [
+    "SFP / MC / 网卡销售"
+  ],
+  "channels": {
+    "role": "经销商（已售中国同行）",
+    "region": "土耳其"
+  },
+  "signals": [
+    "已售 E-link MC → 同类替换"
+  ],
+  "risks": [
+    "SFP 主业不供；仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。"
+  },
+  "email_hook": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 11 封 2024→2026，1 次记录打开，0 回；收件 info@longlinenetwork.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 11，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：SFP MC（主要） 10GMC 是E-link的」；研究档 risks：SFP 主业不供；仅 info@"
+    },
+    "situation": "土耳其 SFP 收发器 / 网卡 / 线缆 / MC 销售商（switch 329 / industrial 227 / sfp 65 / media converter 33），仅 info@；表内「SFP MC（主要）；10G MC 是 E-link 的」；群发 2 次。",
+    "need": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。",
+    "breakpoint": "SFP 主业不供；仅 info@",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "MC 需求 → STI-110GE（$22.4 @20%）；10G MC 按 SmartByte 另询。已打开的主题（1/11 封有打开记录）：「Industrial poe switch」(2024-08-05) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Merhaba — beside the E-link converters, our DIN gigabit MC is $22 EXW and 10G SFP+/RJ45 MCs are available on request; what monthly MC volume do you move?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：SFP MC（主要） 10GMC 是E-link的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "11 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

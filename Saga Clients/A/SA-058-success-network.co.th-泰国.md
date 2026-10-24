@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：曼谷的网络/安防设备综合分销与工程商（2011 年成立，登记规模极小），代理 PLANET、ORing、TRENDnet、Wi-Tek、W-LINK、C-DATA、Utepo（UTP5628S-PSB-L3 等）；页面含 L3 交换机、工业自动化、光纤收发器类目。用户表：A 已回复 1 次；「同行经销商(Smartbyte)」清单——即在售与 SmartByte 同源/同行产品；兴趣工商业 FS，有 Utepo。（调研 2026-10-21；表内兴趣：工商业FS 有Utepo的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-12 → 2025-09-12）；最近一次客户回复：2025-09-12：Thanks for info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不碰；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：唯一来信是礼貌性「Thanks for information」。Q-33 已标注渠道冲突风险。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：Q-33。
-- **Saga 现在该推什么**：P1 **无**（20% 档，—）——不碰
+- **Saga 现在该推什么**：P1 **无**（20% 档，—）——不碰。已打开的主题（3/21 封有打开记录）：「Industrial PoE Switch」(2025-08-12)、「Mini Industrial PoE Switch」(2025-09-12)、「24 Port PoE Managed Switch」(2026-10-20) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

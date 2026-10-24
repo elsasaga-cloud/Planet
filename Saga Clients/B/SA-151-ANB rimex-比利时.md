@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。（调研 2026-10-21；表内兴趣：IP67网口 小体积 PoE为主 拿了很多同行的彩页）
 - **为什么是 B 级**：**调研后定级 B**（核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。
 - **对方真实需求（有据）**：分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
 - **断点 / 为什么停在这里**：IP67 需求 Saga 不满足；6 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-144GP（小体积 DIN 4 PoE + 1 SFP，IP40，$34.1）对应「小体积 PoE 为主」；8 口 STI-288GP（$57.4）；明示无 IP67，推荐配户外箱。已打开的主题（1/16 封有打开记录）：「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Ibrahim, for the compact PoE units you were comparing in Essen: our DIN-rail 4-port gigabit PoE + 1 SFP switch is 32 mm wide, IP40, −40 to +75 °C, $34.1 EXW (IP67 we do not make, so installers pair it with a pole box) — would three pieces for the AnB eShop test range make sense?
 

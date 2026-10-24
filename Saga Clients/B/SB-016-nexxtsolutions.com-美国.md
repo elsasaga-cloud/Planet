@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Nexxt Solutions（拉美导向的网络/基础设施品牌（Intcomex 集团旗下）：connectivity 与 infrastructure 目录、工业方案页；表内「一部分贴牌的商业 PoE，其他周边产品」；KP Paula Aguilera、Luis Garcia）；表内 4 次跟进无回复。（调研 2026-10-21；表内兴趣：一部分贴牌的商业PoE 其他周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 4 次（2025-06-21 → 2025-09-19）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供。已打开的主题（1/19 封有打开记录）：「Managed Optical Bypass Switch」(2025-09-19) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Paula, for the Nexxt-branded PoE switches in your connectivity line, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your Latin-American distributors reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Nexxt Solutions（拉美导向的网络/基础设施品牌（Intcomex 集团旗下）：connectivity 与 infrastructure 目录、工业方案页；表内「一部分贴牌的商业 PoE，其他周边产品」；KP Paula Aguilera、Luis Garcia）；表内 4 次跟进无回复。
 - **对方真实需求（有据）**：贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供
 - **断点 / 为什么停在这里**：体量：Intcomex 集团旗下品牌（采购流程长、既有 ODM 供应链）；4 次无回复 → 改向具名 KP 首触
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——贴牌商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴 Nexxt 标；非管理 PoE 位 HRUI（列表价，注明）；配件 Saga 不供。已打开的主题（1/19 封有打开记录）：「Managed Optical Bypass Switch」(2025-09-19) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Paula, for the Nexxt-branded PoE switches in your connectivity line, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your Latin-American distributors reorder most?
 

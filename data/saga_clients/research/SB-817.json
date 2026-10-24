@@ -101,7 +101,7 @@
       "p1": "STI-110GE",
       "tier": 20,
       "price": "按主表（研究档 saga_fit）",
-      "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE",
+      "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE。已打开的主题（2/27 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18)、「24 Port Fiber Switch」(2025-07-07) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
       "repeat": [],
       "gaps": []
     },

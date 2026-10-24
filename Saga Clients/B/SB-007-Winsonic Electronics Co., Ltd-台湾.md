@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：台湾工业面板 PC / 无风扇工控机 / 工业显示器制造商，站内含「Industrial Switch」网络与边缘连接品类（PoE、SFP、EN50155 关键词）；表内 Rex 在用 **UniPoE（优力普）**工业 FS，2025-11 对升压 PoE 回复 INFO。工控机配套工业交换机 = 贴牌采购 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。（调研 2026-10-21；表内兴趣：在用UniPoE的工业FS；工业FS 优力普的）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；封顶 B：台系品牌商（INH 规则：台湾厂商非终端客户，除非成交或用户 S 名单）
 - **历史互动**：实质回复 1 次；推送 10 次（2025-02-18 → 2025-11-24）；最近一次客户回复：2025-11-24：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM — 制造商二供；$215（2025-12 对 Thor 报价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM — 制造商二供。已打开的主题（7/20 封有打开记录）：「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-15)、「Re: Booster PoE Switch」(2026-01-06)、「Re: Booster PoE Switch」(2026-01-29) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；$215（2025-12 对 Thor 报价）
 - **第一问（只问一个）**：Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → rex.lin@ewinsonic.com 给价表
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：Booster PoE 管理型 + 多芯片平台。
 - **断点 / 为什么停在这里**：回法。
-- **Saga 现在该推什么**：P1 **STI-488XGGBPM**（30% 档，$215（2025-12 对 Thor 报价））——制造商二供
+- **Saga 现在该推什么**：P1 **STI-488XGGBPM**（30% 档，$215（2025-12 对 Thor 报价））——制造商二供。已打开的主题（7/20 封有打开记录）：「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-15)、「Re: Booster PoE Switch」(2026-01-06)、「Re: Booster PoE Switch」(2026-01-29) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → rex.lin@ewinsonic.com　给价表
   - 第一问（只问一个）：Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no.
 

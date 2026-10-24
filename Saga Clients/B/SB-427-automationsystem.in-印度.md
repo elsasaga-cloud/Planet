@@ -58,7 +58,7 @@ updated: 2026-10-24
 | 2024 | 去 | S 群发 | 10G media converter、Web managed switch | 13 封 / 0 次打开 / 0 回 | `gmail_digest` |
 | 2025-04-10 | 来 | Azad Khan（Automation Systems and Solution） | Thanks First, we need datasheet | 要 2 光 4 电工业 PoE（120W）规格书 | `gmail_e` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 是否已回规格书未入库
+- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 是否已回规格书未入库；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

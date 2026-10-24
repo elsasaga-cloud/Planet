@@ -1,123 +1,123 @@
 {
- "code": "SB-327",
- "name_official": "Welotec GmbH（德国拉尔）",
- "researched_at": "2026-10-21",
- "website_status": "在线（welotec.com，快照 2026-10-21）",
- "summary": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Westermo",
-  "Welotec（自有）"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "数字变电站坚固计算与网络：IEC 61850-3 认证服务器、交换机、路由；保护 / 自动化 / SCADA / vPAC",
-   "quote": "Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments… brands Westermo",
-   "url": "https://welotec.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS POE 有好几个牌子，也有自己的牌子，有小壳；可以着重跟一下",
-   "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jos Zenner",
-   "title": "Managing Director / CTO",
-   "email": "j.zenner@welotec.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Welotec GmbH",
-  "founded": "1998（待核）",
-  "hq": "Laer, Germany",
-  "size": "中型方案商（自有品牌）",
-  "other": "IEC 61850-3 变电站线"
- },
- "business_lines": [
-  "变电站计算 / 网络方案（自有品牌 + Westermo）"
- ],
- "channels": {
-  "role": "方案商 + 自有品牌（OEM 采购）",
-  "region": "德国"
- },
- "signals": [
-  "自有品牌小壳工业 FS → 贴 Welotec 标（非 IEC 61850 场景）",
-  "CTO 具名"
- ],
- "risks": [
-  "IEC 61850-3 / 电力守界：仅供非关键节点",
-  "15 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。"
- },
- "email_hook": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 info@welotec.com, j.zenner@welotec.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "DE 主攻（四主）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳」；研究档 risks：IEC 61850-3 / 电力守界：仅供非关键节点"
-  },
-  "situation": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
-  "need": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。",
-  "breakpoint": "IEC 61850-3 / 电力守界：仅供非关键节点",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
-    "why": "23 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-327",
+  "name_official": "Welotec GmbH（德国拉尔）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（welotec.com，快照 2026-10-21）",
+  "summary": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Westermo",
+    "Welotec（自有）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "数字变电站坚固计算与网络：IEC 61850-3 认证服务器、交换机、路由；保护 / 自动化 / SCADA / vPAC",
+      "quote": "Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments… brands Westermo",
+      "url": "https://welotec.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS POE 有好几个牌子，也有自己的牌子，有小壳；可以着重跟一下",
+      "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jos Zenner",
+      "title": "Managing Director / CTO",
+      "email": "j.zenner@welotec.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Welotec GmbH",
+    "founded": "1998（待核）",
+    "hq": "Laer, Germany",
+    "size": "中型方案商（自有品牌）",
+    "other": "IEC 61850-3 变电站线"
+  },
+  "business_lines": [
+    "变电站计算 / 网络方案（自有品牌 + Westermo）"
+  ],
+  "channels": {
+    "role": "方案商 + 自有品牌（OEM 采购）",
+    "region": "德国"
+  },
+  "signals": [
+    "自有品牌小壳工业 FS → 贴 Welotec 标（非 IEC 61850 场景）",
+    "CTO 具名"
+  ],
+  "risks": [
+    "IEC 61850-3 / 电力守界：仅供非关键节点",
+    "15 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。"
+  },
+  "email_hook": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 info@welotec.com, j.zenner@welotec.com；主题多为「10G Enterprise SFP Switch、Managed Optical Bypass Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "23 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "DE 主攻（四主）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳」；研究档 risks：IEC 61850-3 / 电力守界：仅供非关键节点"
+    },
+    "situation": "德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。",
+    "need": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。",
+    "breakpoint": "IEC 61850-3 / 电力守界：仅供非关键节点",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Managed Optical Bypass Switch",
+        "why": "23 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

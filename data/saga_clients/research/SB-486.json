@@ -1,109 +1,111 @@
 {
- "code": "SB-486",
- "name_official": "Bora Teknoloji Dünyası（Ağrı, TR；无域名，Gmail）",
- "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "商业级 2 光 8 PoE 10 pcs；自建站 + WhatsApp",
-   "quote": "商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Bora Erim",
-   "role": "业主（推测）",
-   "email": "boraerim@gmail.com（用户表）",
-   "phone": "+90 542 587 66 85（用户表，WhatsApp 已加）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Bora Teknoloji Dünyası（待核）",
-  "hq": "Ağrı, Türkiye",
-  "size": "微型门店",
-  "other": "仅 Gmail"
- },
- "business_lines": [
-  "IT/安防零售安装（推测，待核）"
- ],
- "channels": {
-  "电话": "+90 542 587 66 85（用户表，WhatsApp 已加）"
- },
- "signals": [
-  "10 台 2 光 8 PoE 商业机 = 可立即成交的小单；价格敏感地区"
- ],
- "risks": [
-  "微型、无域名；运费占比高；无后续跟进"
- ],
- "saga_fit": {
-  "p1": "STC-228GP",
-  "tier": 25,
-  "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）"
- },
- "email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 boraerim@gmail.com；主题多为「Updated Ethernet Switches Links」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加」；研究档 risks：微型、无域名；运费占比高；无后续跟进"
-  },
-  "situation": "自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。",
-  "need": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）",
-  "breakpoint": "微型、无域名；运费占比高；无后续跟进",
-  "saga_now": {
-   "p1": "STC-228GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-486",
+  "name_official": "Bora Teknoloji Dünyası（Ağrı, TR；无域名，Gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "商业级 2 光 8 PoE 10 pcs；自建站 + WhatsApp",
+      "quote": "商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Bora Erim",
+      "role": "业主（推测）",
+      "email": "boraerim@gmail.com（用户表）",
+      "phone": "+90 542 587 66 85（用户表，WhatsApp 已加）",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Bora Teknoloji Dünyası（待核）",
+    "hq": "Ağrı, Türkiye",
+    "size": "微型门店",
+    "other": "仅 Gmail"
+  },
+  "business_lines": [
+    "IT/安防零售安装（推测，待核）"
+  ],
+  "channels": {
+    "电话": "+90 542 587 66 85（用户表，WhatsApp 已加）"
+  },
+  "signals": [
+    "10 台 2 光 8 PoE 商业机 = 可立即成交的小单；价格敏感地区"
+  ],
+  "risks": [
+    "微型、无域名；运费占比高；无后续跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-228GP",
+    "tier": 25,
+    "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）"
+  },
+  "email_hook": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 boraerim@gmail.com；主题多为「Updated Ethernet Switches Links」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1；用户表：「商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加」；研究档 risks：微型、无域名；运费占比高；无后续跟进"
+    },
+    "situation": "自建站询盘 + WhatsApp：Bora Erim（boraerim@gmail.com，+90 542 587 66 85，WhatsApp 已加）——商业级 2 光 8 PoE 10 pcs；无跟进。土耳其东部阿勒（Ağrı）的小型技术门店，无域名、无公开资料 → 仅表内信息；需求明确（10 台）→ 直接报价。",
+    "need": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）",
+    "breakpoint": "微型、无域名；运费占比高；无后续跟进",
+    "saga_now": {
+      "p1": "STC-228GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "小单 25% 档：STC-228GP（Saga Realtek 线 2 SFP + 8 GE PoE 非管理，列表 $30.8）×10；需管理则 STC-28GPM（$62.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Bora Bey, istediğiniz 10 adet 2 SFP + 8 port gigabit PoE switch: yönetilmeyen sürüm 30,8 USD, L2 yönetilebilir sürüm 62,2 USD EXW; Ağrı'ya kargo dahil toplam fiyatı çıkarayım mı — hangisini tercih edersiniz?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业级2光8PoE 10pcs / from: 自建站 / 054258 76685 已加",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Updated Ethernet Switches Links",
+        "why": "1 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

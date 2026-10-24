@@ -1,124 +1,124 @@
 {
- "code": "SB-955",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ssd.ru，快照 2026-10-21）",
- "summary": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
- "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ССД - Разработка и производство материалов для строительства и ремонта линий связи",
-   "quote": "Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудования по всей России",
-   "url": "https://ssd.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 似乎是自己的牌子 switch 电源等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ССД 定位",
-   "quote": "ССД - Разработка и производство материалов для строительства и ремонта линий связи ; СВЯЗЬСТРОЙДЕТАЛЬ — лидер рынка решений для телекоммуникационных сетей",
-   "url": "https://ssd.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC 似乎自己的牌子",
-   "quote": "MC 似乎是自己的牌子 switch 电源等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 ssd.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "通信线路建设 / 维修材料制造（俄罗斯）"
- ],
- "channels": {
-  "role": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
-  "region": "俄罗斯",
-  "contact": "mail@ssd.ru"
- },
- "signals": [
-  "官网：Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта …；首页 лидер рынка решений для телекоммуникационных сетей；页面 /catalog/stroitelstvo-obektov-infrastruktury-svyazi/",
-  "表内：MC 似乎是自己的牌子 switch 电源等"
- ],
- "risks": [
-  "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
-  "17 次无回复，仅 mail@"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望"
- },
- "email_hook": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 mail@ssd.ru；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）",
-   "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「MC 似乎是自己的牌子 switch 电源等」；研究档 risks：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险"
-  },
-  "situation": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
-  "need": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
-  "breakpoint": "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 似乎是自己的牌子 switch 电源等",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "16 Port Ethernet Switch、Marvell Alleycat5 Solution",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-955",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ssd.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
+  "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ССД - Разработка и производство материалов для строительства и ремонта линий связи",
+      "quote": "Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудования по всей России",
+      "url": "https://ssd.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 似乎是自己的牌子 switch 电源等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ССД 定位",
+      "quote": "ССД - Разработка и производство материалов для строительства и ремонта линий связи ; СВЯЗЬСТРОЙДЕТАЛЬ — лидер рынка решений для телекоммуникационных сетей",
+      "url": "https://ssd.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 似乎自己的牌子",
+      "quote": "MC 似乎是自己的牌子 switch 电源等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 ssd.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "通信线路建设 / 维修材料制造（俄罗斯）"
+  ],
+  "channels": {
+    "role": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
+    "region": "俄罗斯",
+    "contact": "mail@ssd.ru"
+  },
+  "signals": [
+    "官网：Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта …；首页 лидер рынка решений для телекоммуникационных сетей；页面 /catalog/stroitelstvo-obektov-infrastruktury-svyazi/",
+    "表内：MC 似乎是自己的牌子 switch 电源等"
+  ],
+  "risks": [
+    "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
+    "17 次无回复，仅 mail@"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望"
+  },
+  "email_hook": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 mail@ssd.ru；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）",
+      "type": "俄罗斯通信建设材料制造商（MC 为边缘品类）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「MC 似乎是自己的牌子 switch 电源等」；研究档 risks：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险"
+    },
+    "situation": "俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。",
+    "need": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望",
+    "breakpoint": "主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 似乎是自己的牌子 switch 电源等",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "16 Port Ethernet Switch、Marvell Alleycat5 Solution",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

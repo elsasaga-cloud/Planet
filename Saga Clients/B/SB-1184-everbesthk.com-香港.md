@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。（调研 2026-10-21；表内兴趣：卖几个有名的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/香港；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-12 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。
 - **对方真实需求（有据）**：品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低
 - **断点 / 为什么停在这里**：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?
 

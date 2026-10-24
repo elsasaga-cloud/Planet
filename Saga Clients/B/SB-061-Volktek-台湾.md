@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。（调研 2026-10-21；表内兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 公司地址：23553 新北市中和区连城路192号4楼 4F, 192 Liancheng Rd. Zhonghe,New Taipei City 23）
 - **为什么是 B 级**：+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-20 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — 其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — 其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。已打开的主题（1/14 封有打开记录）：「Marvell Software Function List」(2025-03-20) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：台湾新北中和 1994 年成立的工业以太网 / PoE 制造商（自有工厂、SMT/DIP 产线；L3 工业交换机、PoE++、10G 等；switch 652 / poe 412 / 10g 77），业务 Karen Hua / 皮凯太：**想 OEM 工业 L2/L3 管理型**、对 bypass 有兴趣（已送样）、了解 CWDM；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。
 - **对方真实需求（有据）**：其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。
 - **断点 / 为什么停在这里**：台系厂商口径；同行竞争敏感
-- **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（30% 档，按主表（研究档 saga_fit））——其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。
+- **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（30% 档，按主表（研究档 saga_fit））——其已评估的 bypass 工业 L2+ 管理 PoE → SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；L3 工业 → STI-41616XGGPM(L3)。已打开的主题（1/14 封有打开记录）：「Marvell Software Function List」(2025-03-20) → 读者兴趣偏「价格/目录」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Karen, following the bypass sample we sent — did the ring-failover test pass on your bench? If Volktek wants that SKU under its own label (L2+ managed, 8 PoE + 4 SFP with optical bypass), I can send OEM pricing by quantity break.
 

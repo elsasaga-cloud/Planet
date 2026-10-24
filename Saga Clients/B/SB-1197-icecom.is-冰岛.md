@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/冰岛
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）。已打开的主题（2/2 封有打开记录）：「Industrial PoE Switch」(2025-01-09)、「Industrial PoE Switch」(2025-02-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 A 邮箱 → icecom@icecom.is 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。
 - **对方真实需求（有据）**：站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：小国（冰岛，非主动挖掘范围）：量有限
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）。已打开的主题（2/2 封有打开记录）：「Industrial PoE Switch」(2025-01-09)、「Industrial PoE Switch」(2025-02-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → icecom@icecom.is　短信一问（email_hook）
   - 第一问（只问一个）：For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?
 

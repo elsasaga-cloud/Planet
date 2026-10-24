@@ -1,146 +1,146 @@
 {
- "code": "SB-968",
- "name_official": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
- "researched_at": "2026-10-21",
- "website_status": "在线（bimel.com.tr；并档 Planet 渠道档案 PB-031）",
- "summary": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "Netgear"
- ],
- "evidence": [
-  {
-   "kind": "卖方目录",
-   "claim": "PLANET 产品页（自有 PL- 货号）",
-   "quote": "bimel :: Ürün :: Planet - PL-GS-4210-24P4C … PL-GS-4210-24PL4C Yönetilebilir Gigabit PoE Switch",
-   "url": "https://www.bimel.com.tr/urun/pl-gs-4210-24p4c",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "卖方目录",
-   "claim": "工业 PoE 在售",
-   "quote": "Planet - PL-IGS-5225-8P2T2S Endüstriyel Tip Yönetilebilir Ethernet Switch … Planet - PL-WGS-5225-8P2SV Endüstriyel Duvar Tip Yönetilebilir Switch",
-   "url": "https://www.bimel.com.tr/urunler/bbyonetilebilir_endustriyel_tip_layer2_poe_switch/planet",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "品牌组合与定位",
-   "quote": "bilgisayar ve yan ürünleri, güvenlik ürünleri, aktif ve pasif network ürünlerinin dağıtıcılığını yapmaktadır. Assmann, Aten, Beek, Netgear, Planet, Ruckus Wireless başlıca markalarımızdan biri.",
-   "url": "https://www.find.com.tr/Company/bimelistanbulelektronikmamulleripazarlamalimitedsirketi",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "公司自述",
-   "claim": "联系方式",
-   "quote": "E-Posta: bimel@bimel.com.tr … İstanbul (Avrupa): (212) 347-7540 … İzmir: (232) 489-0755",
-   "url": "https://www.bimel.com.tr/tr/iletisim",
-   "date": "2026-10-19"
-  },
-  {
-   "kind": "第三方",
-   "claim": "规模与成立",
-   "quote": "Bimel Elektronik Mamulleri Pazarlama A.S. … incorporated on January 27, 1984. There are currently 80 (2026) people employed（EMIS）；LinkedIn 51-200，Founded 1984",
-   "url": "https://www.emis.com/php/company-profile/TR/Bimel_Elektronik_Mamulleri_Pazarlama_AS_en_3358519.html",
-   "date": "2026-05-05"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
-  "founded": "",
-  "hq": "Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其",
+  "code": "SB-968",
+  "name_official": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（bimel.com.tr；并档 Planet 渠道档案 PB-031）",
+  "summary": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-968，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
- },
- "business_lines": [
-  "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "PL-GS-4210-24P4C",
-   "spec": "24×GE PoE+ + 4 Combo",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://bimel.com.tr",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "PL-IGS-5225-8P2T2S",
-   "spec": "工业 8 口 PoE+2 SFP L2+",
-   "saga": "STI-288DGGPM",
-   "url": "https://bimel.com.tr",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）",
-  "region": "土耳其"
- },
- "signals": [
-  "土耳其 PLANET 主力分销（PL- 货号体系说明其为进口方）；80 人规模、家族制 A.Ş.，决策链短于 Arena 等巨头；仅 bimel@ 公开，无具名 PM → B"
- ],
- "risks": [
-  "PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
-  "Planet 首触邮件未发送（Elsa 账号待定）",
-  "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求："
- },
- "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
-  },
-  "situation": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-9",
-  "need": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：",
-  "breakpoint": "PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
-  "saga_now": {
-   "p1": "STC-424DGGPM-280W",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "17 封 / 2 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET",
+    "Netgear"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "卖方目录",
+      "claim": "PLANET 产品页（自有 PL- 货号）",
+      "quote": "bimel :: Ürün :: Planet - PL-GS-4210-24P4C … PL-GS-4210-24PL4C Yönetilebilir Gigabit PoE Switch",
+      "url": "https://www.bimel.com.tr/urun/pl-gs-4210-24p4c",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "卖方目录",
+      "claim": "工业 PoE 在售",
+      "quote": "Planet - PL-IGS-5225-8P2T2S Endüstriyel Tip Yönetilebilir Ethernet Switch … Planet - PL-WGS-5225-8P2SV Endüstriyel Duvar Tip Yönetilebilir Switch",
+      "url": "https://www.bimel.com.tr/urunler/bbyonetilebilir_endustriyel_tip_layer2_poe_switch/planet",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "品牌组合与定位",
+      "quote": "bilgisayar ve yan ürünleri, güvenlik ürünleri, aktif ve pasif network ürünlerinin dağıtıcılığını yapmaktadır. Assmann, Aten, Beek, Netgear, Planet, Ruckus Wireless başlıca markalarımızdan biri.",
+      "url": "https://www.find.com.tr/Company/bimelistanbulelektronikmamulleripazarlamalimitedsirketi",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "公司自述",
+      "claim": "联系方式",
+      "quote": "E-Posta: bimel@bimel.com.tr … İstanbul (Avrupa): (212) 347-7540 … İzmir: (232) 489-0755",
+      "url": "https://www.bimel.com.tr/tr/iletisim",
+      "date": "2026-10-19"
+    },
+    {
+      "kind": "第三方",
+      "claim": "规模与成立",
+      "quote": "Bimel Elektronik Mamulleri Pazarlama A.S. … incorporated on January 27, 1984. There are currently 80 (2026) people employed（EMIS）；LinkedIn 51-200，Founded 1984",
+      "url": "https://www.emis.com/php/company-profile/TR/Bimel_Elektronik_Mamulleri_Pazarlama_AS_en_3358519.html",
+      "date": "2026-05-05"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "Bimel Elektronik Mamulleri Pazarlama A.Ş.",
+    "founded": "",
+    "hq": "Ankara（分部 İstanbul ×2 / İzmir / Bursa）, 土耳其",
+    "size": "",
+    "other": "Planet 渠道档案 PB-031（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
+  },
+  "business_lines": [
+    "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "PL-GS-4210-24P4C",
+      "spec": "24×GE PoE+ + 4 Combo",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://bimel.com.tr",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "PL-IGS-5225-8P2T2S",
+      "spec": "工业 8 口 PoE+2 SFP L2+",
+      "saga": "STI-288DGGPM",
+      "url": "https://bimel.com.tr",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）",
+    "region": "土耳其"
+  },
+  "signals": [
+    "土耳其 PLANET 主力分销（PL- 货号体系说明其为进口方）；80 人规模、家族制 A.Ş.，决策链短于 Arena 等巨头；仅 bimel@ 公开，无具名 PM → B"
+  ],
+  "risks": [
+    "PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
+    "Planet 首触邮件未发送（Elsa 账号待定）",
+    "Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子（勿再用群发模板）"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求："
+  },
+  "email_hook": "Your PL- part numbers show PLANET is a core line for Bimel; a second-source 24-port PoE+ at a lower landed cost protects margin when the lira moves against you. Which PLANET PoE size moves most through your five offices: PL-GS-4210-8P2S, 16-port or 24-port?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 17 封 2024→2026，其中 2 封被打开，0 回；收件 bimel@bimel.com.tr, eleman@bimel.com.tr；被打开主题「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；研究档 risks：PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人"
+    },
+    "situation": "安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-9",
+    "need": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：",
+    "breakpoint": "PLANET 独家条款；进口/汇率压力下对大陆货源态度；采购决策人",
+    "saga_now": {
+      "p1": "STC-424DGGPM-280W",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "对位其在售 PL-GS-4210-24P4C（土耳其安防/办公最走量）；分销走量 → 20%（沿用 Planet 档案 PB-031）；需求：。已打开的主题（2/17 封有打开记录）：「48 port managed switch」(2024-07-24)、「Marvell Industrial Alert System」(2026-01-05) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "17 封 / 2 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

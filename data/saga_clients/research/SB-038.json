@@ -1,113 +1,115 @@
 {
- "code": "SB-038",
- "name_official": "Softline Technology（科威特；Anand Rajendiran）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 2 光 16 电工业 PoE；2014 年国际站；回复 company info, price / useful",
-   "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Anand Rajendiran",
-   "title": "（表内联系人）",
-   "email": "rajaanand42@gmail.com",
-   "phone": "+965 9415 7777",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（待核）",
-  "founded": "",
-  "hq": "科威特",
-  "size": "小型",
-  "other": "gmail；阿里国际站老买家"
- },
- "business_lines": [
-  "网络 / 弱电工程（推断）"
- ],
- "channels": {
-  "role": "工程商",
-  "region": "科威特"
- },
- "signals": [
-  "明确口型需求 2 光 16 电工业 PoE",
-  "2025-11 主动要公司信息 + 价格"
- ],
- "risks": [
-  "gmail 联系、主体不可核",
-  "海湾项目付款：T/T 预付"
- ],
- "saga_fit": {
-  "p1": "STI-21616GP",
-  "tier": 25,
-  "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
- },
- "email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "科威特 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核"
-  },
-  "situation": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
-  "need": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
-  "breakpoint": "gmail 联系、主体不可核",
-  "saga_now": {
-   "p1": "STI-21616GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Industrial PoE Switch、10G L3 Managed Switch",
-    "why": "5 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-038",
+  "name_official": "Softline Technology（科威特；Anand Rajendiran）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail；仅表内信息）",
+  "summary": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 2 光 16 电工业 PoE；2014 年国际站；回复 company info, price / useful",
+      "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Anand Rajendiran",
+      "title": "（表内联系人）",
+      "email": "rajaanand42@gmail.com",
+      "phone": "+965 9415 7777",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（待核）",
+    "founded": "",
+    "hq": "科威特",
+    "size": "小型",
+    "other": "gmail；阿里国际站老买家"
+  },
+  "business_lines": [
+    "网络 / 弱电工程（推断）"
+  ],
+  "channels": {
+    "role": "工程商",
+    "region": "科威特"
+  },
+  "signals": [
+    "明确口型需求 2 光 16 电工业 PoE",
+    "2025-11 主动要公司信息 + 价格"
+  ],
+  "risks": [
+    "gmail 联系、主体不可核",
+    "海湾项目付款：T/T 预付"
+  ],
+  "saga_fit": {
+    "p1": "STI-21616GP",
+    "tier": 25,
+    "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。"
+  },
+  "email_hook": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "科威特 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核"
+    },
+    "situation": "科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。",
+    "need": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
+    "breakpoint": "gmail 联系、主体不可核",
+    "saga_now": {
+      "p1": "STI-21616GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Anand, you asked for our company profile and prices in November — the 16-PoE + 2-SFP industrial unit you specified is in stock; want the EXW price for 1 pc and for 10 pcs?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Industrial PoE Switch、10G L3 Managed Switch",
+        "why": "5 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

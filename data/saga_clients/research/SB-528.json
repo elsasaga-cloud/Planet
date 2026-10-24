@@ -1,123 +1,123 @@
 {
- "code": "SB-528",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（dmsimfg.com，快照 2026-10-21）",
- "summary": "美国 DMSI Manufacturing（官网快照为空页；表内「自己的 logo MC 周边产品」；KP Dustin Hall、Randy Harris（Director, Data Center & Broadband Sales）、Iylin Flock（General Manager）；备注 info@）；群发 19 次无回复。",
- "type": "网络配件品牌商（美国，自有标 MC；官网待核）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：dmsimfg.com",
-   "quote": "",
-   "url": "https://dmsimfg.com/",
-   "date": "2026-10-21"
+  "code": "SB-528",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（dmsimfg.com，快照 2026-10-21）",
+  "summary": "美国 DMSI Manufacturing（官网快照为空页；表内「自己的 logo MC 周边产品」；KP Dustin Hall、Randy Harris（Director, Data Center & Broadband Sales）、Iylin Flock（General Manager）；备注 info@）；群发 19 次无回复。",
+  "type": "网络配件品牌商（美国，自有标 MC；官网待核）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：dmsimfg.com",
+      "quote": "",
+      "url": "https://dmsimfg.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "自己的 logo MC 周边产品",
+      "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Randy Harris",
+      "title": "Director, Data Center & Broadband Sales",
+      "email": "dustin@dmsimfg.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Dustin Hall",
+      "title": "（职务待核）",
+      "email": "dustin@dmsimfg.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Iylin Flock",
+      "title": "General Manager",
+      "email": "evan@dmsimfg.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "用户表",
-   "claim": "自己的 logo MC 周边产品",
-   "quote": "自己的logo MC 周边产品；info@dmsimfg.com",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "business_lines": [
+    "网络配件 / MC（自有品牌 DMSI）"
+  ],
+  "channels": {
+    "role": "网络配件品牌商（美国，自有标 MC；官网待核）",
+    "region": "美国",
+    "contact": "dustin@dmsimfg.com、evan@dmsimfg.com"
+  },
+  "signals": [
+    "表内：自己的 logo MC 周边产品；KP Dustin Hall；Randy Harris / Director, Data Center & Broadband Sales；Iylin Flock / General Manager；info@dmsimfg.com",
+    "快照：标题/描述/栏目均为空（dmsimfg.com）"
+  ],
+  "risks": [
+    "官网快照空页（站点状态待核）；19 次无回复 → 改向销售总监具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP；桌面 MC 用 HRUI（列表价，注明）"
+  },
+  "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（3 封来信 = Kelly 休假/退休自动回复）",
+      "type": "美国网络配件品牌商（DMSI）",
+      "sieve": "0",
+      "stop": "联系人已退休（2024-05-23 自动回复）",
+      "revive": "改发 sales@dmsimfg.com",
+      "lane": "US",
+      "cadence": "一封",
+      "evidence": "k=02e8365a9e7d02a0（RETIRED）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—。已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": [
+        "新联系人"
+      ]
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → sales@dmsimfg.com",
+      "action": "换人",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Randy Harris",
-   "title": "Director, Data Center & Broadband Sales",
-   "email": "dustin@dmsimfg.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Dustin Hall",
-   "title": "（职务待核）",
-   "email": "dustin@dmsimfg.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Iylin Flock",
-   "title": "General Manager",
-   "email": "evan@dmsimfg.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 dmsimfg.com，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络配件 / MC（自有品牌 DMSI）"
- ],
- "channels": {
-  "role": "网络配件品牌商（美国，自有标 MC；官网待核）",
-  "region": "美国",
-  "contact": "dustin@dmsimfg.com、evan@dmsimfg.com"
- },
- "signals": [
-  "表内：自己的 logo MC 周边产品；KP Dustin Hall；Randy Harris / Director, Data Center & Broadband Sales；Iylin Flock / General Manager；info@dmsimfg.com",
-  "快照：标题/描述/栏目均为空（dmsimfg.com）"
- ],
- "risks": [
-  "官网快照空页（站点状态待核）；19 次无回复 → 改向销售总监具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 logo MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP；桌面 MC 用 HRUI（列表价，注明）"
- },
- "email_hook": "Randy, for the media converters sold under the DMSI label to your data-center and broadband customers, we can supply gigabit and PoE MCs (industrial or desktop) and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which MC configuration sells most in your range?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（3 封来信 = Kelly 休假/退休自动回复）",
-   "type": "美国网络配件品牌商（DMSI）",
-   "sieve": "0",
-   "stop": "联系人已退休（2024-05-23 自动回复）",
-   "revive": "改发 sales@dmsimfg.com",
-   "lane": "US",
-   "cadence": "一封",
-   "evidence": "k=02e8365a9e7d02a0（RETIRED）"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": [
-    "新联系人"
-   ]
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → sales@dmsimfg.com",
-   "action": "换人",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

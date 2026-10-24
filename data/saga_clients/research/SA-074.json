@@ -135,7 +135,7 @@
       "p1": "不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回",
       "tier": 20,
       "price": "HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd",
-      "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入",
+      "why": "C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入。已打开的主题（29/40 封有打开记录）：「Re: 24 Port PoE Managed Switch」(2026-08-20)、「Re: 24 Port PoE Managed Switch」(2026-09-03)、「16 Port Industrial PoE Switch」(2026-09-17)、「Re: 16 Port Industrial PoE Switch」(2026-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": [
         "是否对 iotsistem 开 Realtek 线——Simon 定（口号筛子 vs 顺手单）",

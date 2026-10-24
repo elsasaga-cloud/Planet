@@ -1,128 +1,129 @@
 {
- "code": "SA-114",
- "name_official": "Win-Tech Alliance Ltd（孟买；Harvinder Luthra）",
- "website_status": "停放/空站（win-alliance.com 快照为「Welcome to our website」占位）",
- "summary": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
- "type": "设备组装/贸易商",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "5/8 口 2.5G 交换机 CKD 模式；WA 已加",
-   "quote": "5 8口2.5G交换机 CKD模式；91 98199 91960 已加（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "win-alliance.com 为占位页",
-   "quote": "title: Welcome to our website（parked_or_empty）",
-   "url": "http://win-alliance.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "兴趣 5 8 口 2.5G 交换机 CKD 模式；回复暂时没需求 ×2；发邮件给他 他发需求",
-   "quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+91 98199 91960（WA）",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Harvinder Luthra",
-   "title": "（负责人）",
-   "email": "luthra@win-alliance.com",
-   "phone": "+91 98199 91960",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": "B",
- "override_reason": "CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。",
- "notes": "若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Win-Tech Alliance Ltd（待核）",
-  "founded": "",
-  "hq": "Mumbai, India",
-  "size": "小型",
-  "other": "CKD / 本地组装意向"
- },
- "business_lines": [
-  "网络产品进口 / 本地组装（CKD）"
- ],
- "channels": {
-  "role": "进口组装商（OEM/CKD）",
-  "region": "印度"
- },
- "signals": [
-  "CKD 2.5G 交换机 = OEM/ODM 口径（30% 档）",
-  "需邮件正式报需求"
- ],
- "risks": [
-  "CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
-  "官网占位 → 活跃度待核"
- ],
- "saga_fit": {
-  "p1": "STC-114XGDGP",
-  "tier": 30,
-  "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。"
- },
- "email_hook": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」）",
-   "type": "设备组装/贸易商",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」；研究档 risks：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高"
-  },
-  "situation": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
-  "need": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
-  "breakpoint": "CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
-  "saga_now": {
-   "p1": "STC-114XGDGP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SA-114",
+  "name_official": "Win-Tech Alliance Ltd（孟买；Harvinder Luthra）",
+  "website_status": "停放/空站（win-alliance.com 快照为「Welcome to our website」占位）",
+  "summary": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
+  "type": "设备组装/贸易商",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "5/8 口 2.5G 交换机 CKD 模式；WA 已加",
+      "quote": "5 8口2.5G交换机 CKD模式；91 98199 91960 已加（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "win-alliance.com 为占位页",
+      "quote": "title: Welcome to our website（parked_or_empty）",
+      "url": "http://win-alliance.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "兴趣 5 8 口 2.5G 交换机 CKD 模式；回复暂时没需求 ×2；发邮件给他 他发需求",
+      "quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+91 98199 91960（WA）",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Harvinder Luthra",
+      "title": "（负责人）",
+      "email": "luthra@win-alliance.com",
+      "phone": "+91 98199 91960",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": "B",
+  "override_reason": "CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。",
+  "notes": "若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Win-Tech Alliance Ltd（待核）",
+    "founded": "",
+    "hq": "Mumbai, India",
+    "size": "小型",
+    "other": "CKD / 本地组装意向"
+  },
+  "business_lines": [
+    "网络产品进口 / 本地组装（CKD）"
+  ],
+  "channels": {
+    "role": "进口组装商（OEM/CKD）",
+    "region": "印度"
+  },
+  "signals": [
+    "CKD 2.5G 交换机 = OEM/ODM 口径（30% 档）",
+    "需邮件正式报需求"
+  ],
+  "risks": [
+    "CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
+    "官网占位 → 活跃度待核"
+  ],
+  "saga_fit": {
+    "p1": "STC-114XGDGP",
+    "tier": 30,
+    "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。"
+  },
+  "email_hook": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」）",
+      "type": "设备组装/贸易商",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "IN 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求」；研究档 risks：CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高"
+    },
+    "situation": "印度孟买（+91 98199）贸易 / 组装商 Win-Tech Alliance，Harvinder Luthra 提出 **5/8 口 2.5G 交换机 CKD 模式**（散件进口、印度组装，规避关税 / BIS），2024 年多次「暂时没需求」，2024-07 说发邮件给他、他发需求。域名占位页。",
+    "need": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
+    "breakpoint": "CKD 需 SmartByte 配合散件出货与 BIS 认证支持，Saga 作为贸易商协调成本高",
+    "saga_now": {
+      "p1": "STC-114XGDGP",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：5 8口2.5G交换机 CKD模式；回复：发邮件给他 他发需求",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

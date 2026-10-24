@@ -1,106 +1,107 @@
 {
- "code": "SB-911",
- "name_official": "Masstrack Technologies（加纳）",
- "researched_at": "2026-10-21",
- "website_status": "域名停用（masstracktech.com「Account Suspended」）",
- "summary": "加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "masstracktech.com 账户停用",
-   "quote": "title: Account Suspended",
-   "url": "http://masstracktech.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "公司：物流运输；聊天说自己是工程师，谈了 MC；2024-08 4 8 口工业 PoE→154",
-   "quote": "兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "David Opoku Akoto",
-   "title": "（工程师）",
-   "email": "info@masstracktech.com",
-   "phone": "+233 20 648 5957",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照停用 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Masstrack Technologies（待核）",
-  "founded": "",
-  "hq": "加纳",
-  "size": "小型",
-  "other": "物流 / 车队跟踪（推断）；域名停用"
- },
- "channels": {
-  "role": "行业外 / 自用（物流 IT）",
-  "region": "加纳"
- },
- "risks": [
-  "域名停用；行业外；西非付款"
- ],
- "saga_fit": {
-  "p1": "STI-154GP",
-  "tier": 25,
-  "why": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。"
- },
- "email_hook": "（低优先；若再询再报）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "加纳 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154」；研究档 risks：域名停用；行业外；西非付款"
-  },
-  "situation": "加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。",
-  "need": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。",
-  "breakpoint": "域名停用；行业外；西非付款",
-  "saga_now": {
-   "p1": "STI-154GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-911",
+  "name_official": "Masstrack Technologies（加纳）",
+  "researched_at": "2026-10-21",
+  "website_status": "域名停用（masstracktech.com「Account Suspended」）",
+  "summary": "加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "masstracktech.com 账户停用",
+      "quote": "title: Account Suspended",
+      "url": "http://masstracktech.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "公司：物流运输；聊天说自己是工程师，谈了 MC；2024-08 4 8 口工业 PoE→154",
+      "quote": "兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "David Opoku Akoto",
+      "title": "（工程师）",
+      "email": "info@masstracktech.com",
+      "phone": "+233 20 648 5957",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照停用 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Masstrack Technologies（待核）",
+    "founded": "",
+    "hq": "加纳",
+    "size": "小型",
+    "other": "物流 / 车队跟踪（推断）；域名停用"
+  },
+  "channels": {
+    "role": "行业外 / 自用（物流 IT）",
+    "region": "加纳"
+  },
+  "risks": [
+    "域名停用；行业外；西非付款"
+  ],
+  "saga_fit": {
+    "p1": "STI-154GP",
+    "tier": 25,
+    "why": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。"
+  },
+  "email_hook": "（低优先；若再询再报）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "加纳 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154」；研究档 risks：域名停用；行业外；西非付款"
+    },
+    "situation": "加纳物流运输公司 Masstrack（David Opoku Akoto 自称工程师），谈过 MC，2024-08 对 4/8 口工业 PoE 回复「154」（疑指 1 光 5 电 4 PoE 口型）；WA 19 次无实质回复；域名停用。",
+    "need": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。",
+    "breakpoint": "域名停用；行业外；西非付款",
+    "saga_now": {
+      "p1": "STI-154GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "回复「154」对应 1 光 5 电（4 PoE）口型 → STI-154GP（$39.2 @25%）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

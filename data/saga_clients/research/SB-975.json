@@ -1,155 +1,155 @@
 {
- "code": "SB-975",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（erete.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
- "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
- "size": "",
- "brands_seen": [
-  "EtherWAN",
-  "Voscom",
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Erete Bilgi Sistemleri；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "END&#220;STRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING G&#220;VENLİK VE CCTV ANALOG &#220;R&#220;NLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS- NETWORK OPERATING SYSTEM FIBER OPTIK SFP - AOC - DAC MOD&#220;LL",
-   "url": "https://www.erete.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "产品组：工业交换机 / 骨干边缘交换机 / Open Networking / 安防 CCTV / 结构化布线 / 机柜 / NOS",
-   "quote": "ENDÜSTRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING GÜVENLİK VE CCTV ANALOG ÜRÜNLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS",
-   "url": "https://www.erete.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "EtherWAN 工业 FS / MC，Voscom VC，ONV",
-   "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；XP是用ONV的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Murat Soyak",
-   "title": "（表内联系人）",
-   "email": "murat.soyak@erete.com.tr",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Ozen Taylanli",
-   "title": "（表内联系人）",
-   "email": "ozen.taylanli@erete.com.tr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业交换机 / 骨干与边缘交换机 / Open Networking",
-  "安防 CCTV / 结构化布线 / 机柜"
- ],
- "channels": {
-  "role": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
-  "region": "土耳其",
-  "contact": "murat.soyak@erete.com.tr、erete@erete.com.tr"
- },
- "signals": [
-  "站内型号 EX87000 / EX77000 / EX75000 / EX76000（EtherWAN）",
-  "产品组含 Open Networking / NOS → 有白盒交换机认知",
-  "KP：Murat Soyak、Ozen Taylanli（表内邮箱）"
- ],
- "risks": [
-  "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
-  "土耳其：汇率与进口税敏感，报 EXW 美元"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM"
- },
- "email_hook": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?",
- "products_seen": [
-  {
-   "brand": "EtherWAN",
-   "model": "EX75000 / EX77000 / EX87000",
-   "spec": "工业管理型交换机系列",
-   "saga": "STI-288GPM",
-   "url": "https://www.erete.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 erete@erete.com.tr, murat.soyak@erete.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "TR 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr」；研究档 risks：EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入"
-  },
-  "situation": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
-  "need": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM",
-  "breakpoint": "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-975",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（erete.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
+  "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
+  "size": "",
+  "brands_seen": [
+    "EtherWAN",
+    "Voscom",
+    "ONV"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Erete Bilgi Sistemleri；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "END&#220;STRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING G&#220;VENLİK VE CCTV ANALOG &#220;R&#220;NLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS- NETWORK OPERATING SYSTEM FIBER OPTIK SFP - AOC - DAC MOD&#220;LL",
+      "url": "https://www.erete.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "产品组：工业交换机 / 骨干边缘交换机 / Open Networking / 安防 CCTV / 结构化布线 / 机柜 / NOS",
+      "quote": "ENDÜSTRİYEL SWITCHLER OMURGA ve KENAR SWITCHLER OPEN NETWORKING GÜVENLİK VE CCTV ANALOG ÜRÜNLERİ YAPISAL KABLOLAMA FİBER/BAKIR KABİNET VE AKSESUARLARI NOS",
+      "url": "https://www.erete.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "EtherWAN 工业 FS / MC，Voscom VC，ONV",
+      "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；XP是用ONV的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Murat Soyak",
+      "title": "（表内联系人）",
+      "email": "murat.soyak@erete.com.tr",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Ozen Taylanli",
+      "title": "（表内联系人）",
+      "email": "ozen.taylanli@erete.com.tr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 erete.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业交换机 / 骨干与边缘交换机 / Open Networking",
+    "安防 CCTV / 结构化布线 / 机柜"
+  ],
+  "channels": {
+    "role": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
+    "region": "土耳其",
+    "contact": "murat.soyak@erete.com.tr、erete@erete.com.tr"
+  },
+  "signals": [
+    "站内型号 EX87000 / EX77000 / EX75000 / EX76000（EtherWAN）",
+    "产品组含 Open Networking / NOS → 有白盒交换机认知",
+    "KP：Murat Soyak、Ozen Taylanli（表内邮箱）"
+  ],
+  "risks": [
+    "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
+    "土耳其：汇率与进口税敏感，报 EXW 美元"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM"
+  },
+  "email_hook": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?",
+  "products_seen": [
+    {
+      "brand": "EtherWAN",
+      "model": "EX75000 / EX77000 / EX87000",
+      "spec": "工业管理型交换机系列",
+      "saga": "STI-288GPM",
+      "url": "https://www.erete.com.tr/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 erete@erete.com.tr, murat.soyak@erete.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "网络 / 安防集成与经销（EtherWAN 渠道，土耳其）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "TR 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr」；研究档 risks：EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入"
+    },
+    "situation": "土耳其 Erete Bilgi Sistemleri（产品组：工业交换机 / 骨干与边缘交换机 / Open Networking / 安防与 CCTV 模拟 / 结构化布线光铜 / 机柜 / NOS；在售 EtherWAN EX75000–EX87000 工业系列；表内「EtherWAN 的工业 FS 与 MC，Voscom 的 VC，XP 用 ONV 的」；KP Murat Soyak（murat.soyak@）、Ozen Taylanli（ozen.taylanli@））；群发 2 次无回复。",
+    "need": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM",
+    "breakpoint": "EtherWAN 正规渠道：白牌作第二货源，需以交期/价格切入",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Murat, for the industrial Ethernet positions you now fill with EtherWAN EX7000-series, we supply Marvell-based DIN-rail managed 8-PoE + 2 SFP switches and gigabit industrial media converters (−40~75 °C, neutral packing) from small lots — which do you quote more often, the managed PoE switch or the media converter?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "XP Etherwan的工业FS Etherwan的MC voscom的VC；ozen.taylanli@erete.com.tr",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

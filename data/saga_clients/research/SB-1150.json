@@ -1,125 +1,125 @@
 {
- "code": "SB-1150",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（alphaelettronica.com，快照 2026-10-21）",
- "summary": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
- "type": "电子产品与配件分销商（意大利）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Alpha Elettronica - Distribuzione di prodotti e accessori elettronici；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Distribuzione di prodotti e accessori elettronici dal 1975.",
-   "url": "https://www.alphaelettronica.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE为主",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "1975 年起的电子产品与配件分销",
-   "quote": "Distribuzione di prodotti e accessori elettronici dal 1975.",
-   "url": "https://www.alphaelettronica.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 为主",
-   "quote": "商业POE为主；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电子产品与配件分销（多媒体 / 电气 / 安防 / 智能家居）"
- ],
- "channels": {
-  "role": "电子产品与配件分销商（意大利）",
-  "region": "意大利",
-  "contact": "info@alphaelettronica.com"
- },
- "signals": [
-  "品类页 /multimedia/networking/switch.html、/sicurezza/networking/switch-di-rete.html、/elettrico/adattatori/industriali.html",
-  "站内 kw：poe 439 / switch 212 / gigabit 78 / distributor 12"
- ],
- "risks": [
-  "配件型分销（1975 年起，品类极广）：交换机为配套，单品量小",
-  "表内「质量一般」= 现货源低价白牌",
-  "无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）"
- },
- "email_hook": "For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 info@alphaelettronica.com；主题多为「10G Media Converter」）",
-   "type": "电子产品与配件分销商（意大利）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小"
-  },
-  "situation": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
-  "need": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）",
-  "breakpoint": "配件型分销（1975 年起，品类极广）：交换机为配套，单品量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业POE为主",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "10G Media Converter",
-    "why": "1 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1150",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（alphaelettronica.com，快照 2026-10-21）",
+  "summary": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
+  "type": "电子产品与配件分销商（意大利）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Alpha Elettronica - Distribuzione di prodotti e accessori elettronici；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Distribuzione di prodotti e accessori elettronici dal 1975.",
+      "url": "https://www.alphaelettronica.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE为主",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "1975 年起的电子产品与配件分销",
+      "quote": "Distribuzione di prodotti e accessori elettronici dal 1975.",
+      "url": "https://www.alphaelettronica.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 为主",
+      "quote": "商业POE为主；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 alphaelettronica.com，语言 it，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "电子产品与配件分销（多媒体 / 电气 / 安防 / 智能家居）"
+  ],
+  "channels": {
+    "role": "电子产品与配件分销商（意大利）",
+    "region": "意大利",
+    "contact": "info@alphaelettronica.com"
+  },
+  "signals": [
+    "品类页 /multimedia/networking/switch.html、/sicurezza/networking/switch-di-rete.html、/elettrico/adattatori/industriali.html",
+    "站内 kw：poe 439 / switch 212 / gigabit 78 / distributor 12"
+  ],
+  "risks": [
+    "配件型分销（1975 年起，品类极广）：交换机为配套，单品量小",
+    "表内「质量一般」= 现货源低价白牌",
+    "无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）"
+  },
+  "email_hook": "For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2024，1 次记录打开，0 回；收件 info@alphaelettronica.com；主题多为「10G Media Converter」）",
+      "type": "电子产品与配件分销商（意大利）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE为主」；研究档 risks：配件型分销（1975 年起，品类极广）：交换机为配套，单品量小"
+    },
+    "situation": "意大利 Alpha Elettronica（1975 年起的电子产品与配件分销商；品类页 networking/switch、工业适配器、智能家居 Wi-Fi 开关、安防网络交换机；PoE 词频 439、switch 212；表内「商业 PoE 为主，质量一般」）；表内无跟进记录。",
+    "need": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）",
+    "breakpoint": "配件型分销（1975 年起，品类极广）：交换机为配套，单品量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "分销商、商业 PoE 为主 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口 STC-424DGGPM-280W；非管理位 HRUI STC-028GP（$24.2）。已打开的主题（1/1 封有打开记录）：「10G Media Converter」(2024-12-01) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the PoE switch pages in your networking and security categories, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE models plus a budget unmanaged line, neutral packing from small lots, CE/RoHS — which band do your resellers buy most, unmanaged or managed PoE?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业POE为主",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "10G Media Converter",
+        "why": "1 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

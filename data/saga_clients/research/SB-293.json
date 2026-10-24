@@ -1,115 +1,117 @@
 {
- "code": "SB-293",
- "name_official": "Kimberley Telecommunications（肯尼亚）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail；仅表内信息）",
- "summary": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 2 光 16 管理 非标 POE；目前在用 Planet 的设备；回复 price",
-   "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "gadsatoh@gmail.com",
-   "phone": "+254 720 749 670",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Kimberley Telecommunications（待核）",
-  "founded": "",
-  "hq": "肯尼亚",
-  "size": "小型",
-  "other": "gmail；PLANET 用户"
- },
- "business_lines": [
-  "电信 / 网络工程"
- ],
- "channels": {
-  "role": "工程商（PLANET 用户）",
-  "region": "肯尼亚"
- },
- "signals": [
-  "在用 PLANET → 对台系价位敏感，Saga 可直接对价 PLANET GS-4210-16P2S",
-  "要过 passive PoE（24V 非标）价格"
- ],
- "risks": [
-  "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
-  "无姓名、无公司域名"
- ],
- "saga_fit": {
-  "p1": "STC-2216GPM",
-  "tier": 25,
-  "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。"
- },
- "email_hook": "You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "肯尼亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款"
-  },
-  "situation": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
-  "need": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
-  "breakpoint": "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
-  "saga_now": {
-   "p1": "STC-2216GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2024",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "8 port poe switch",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-293",
+  "name_official": "Kimberley Telecommunications（肯尼亚）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail；仅表内信息）",
+  "summary": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "PLANET"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 2 光 16 管理 非标 POE；目前在用 Planet 的设备；回复 price",
+      "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "gadsatoh@gmail.com",
+      "phone": "+254 720 749 670",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Kimberley Telecommunications（待核）",
+    "founded": "",
+    "hq": "肯尼亚",
+    "size": "小型",
+    "other": "gmail；PLANET 用户"
+  },
+  "business_lines": [
+    "电信 / 网络工程"
+  ],
+  "channels": {
+    "role": "工程商（PLANET 用户）",
+    "region": "肯尼亚"
+  },
+  "signals": [
+    "在用 PLANET → 对台系价位敏感，Saga 可直接对价 PLANET GS-4210-16P2S",
+    "要过 passive PoE（24V 非标）价格"
+  ],
+  "risks": [
+    "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
+    "无姓名、无公司域名"
+  ],
+  "saga_fit": {
+    "p1": "STC-2216GPM",
+    "tier": 25,
+    "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。"
+  },
+  "email_hook": "You mentioned running PLANET gear and needing a 16-PoE + 2-SFP managed unit with passive (24 V) PoE — is that for radios/CPEs? If so I'll confirm the passive-PoE variant and price it against the GS-4210-16P2S.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "肯尼亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款"
+    },
+    "situation": "肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。",
+    "need": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
+    "breakpoint": "非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款",
+    "saga_now": {
+      "p1": "STC-2216GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2024",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "8 port poe switch",
+        "why": "1 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

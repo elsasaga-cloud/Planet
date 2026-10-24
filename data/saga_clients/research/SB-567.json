@@ -1,100 +1,100 @@
 {
- "code": "SB-567",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "法国 Uniformatic（工业电源、交换机、工业交换机经销；KP virginie@；官网 http_error）；群发 8 次无回复。",
- "type": "工业电源/网络经销商（法国）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业电源 switch 工业switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-567",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "法国 Uniformatic（工业电源、交换机、工业交换机经销；KP virginie@；官网 http_error）；群发 8 次无回复。",
+  "type": "工业电源/网络经销商（法国）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业电源 switch 工业switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业电源 switch 工业 switch",
+      "quote": "工业电源 switch 工业switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Virginie",
+      "title": "（职务待核）",
+      "email": "virginie@uniformatic.fr",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业电源 switch 工业 switch",
-   "quote": "工业电源 switch 工业switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "法国",
+    "other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "工业电源 / 网络产品经销（法国）"
+  ],
+  "channels": {
+    "role": "工业电源/网络经销商（法国）",
+    "region": "法国",
+    "contact": "virginie@uniformatic.fr"
+  },
+  "signals": [
+    "表内：工业电源 switch 工业 switch；virginie@uniformatic.fr",
+    "快照：http_error"
+  ],
+  "risks": [
+    "官网 http_error（经营状态待核）；工业电源需求 Saga 不供；8 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "工业 switch → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；工业电源 Saga 不供"
+  },
+  "email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "法国工业电源/网络经销（Uniformatic）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "FR",
+      "cadence": "不动",
+      "evidence": "k=d72f15c35fb5204c"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/18 封有打开记录）：「Firmware 7.5 L2+ Feature Update」(2026-07-13) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Virginie",
-   "title": "（职务待核）",
-   "email": "virginie@uniformatic.fr",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "法国",
-  "other": "官网 uniformatic.fr，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "工业电源 / 网络产品经销（法国）"
- ],
- "channels": {
-  "role": "工业电源/网络经销商（法国）",
-  "region": "法国",
-  "contact": "virginie@uniformatic.fr"
- },
- "signals": [
-  "表内：工业电源 switch 工业 switch；virginie@uniformatic.fr",
-  "快照：http_error"
- ],
- "risks": [
-  "官网 http_error（经营状态待核）；工业电源需求 Saga 不供；8 次无回复"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "工业 switch → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；工业电源 Saga 不供"
- },
- "email_hook": "Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "法国工业电源/网络经销（Uniformatic）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "FR",
-   "cadence": "不动",
-   "evidence": "k=d72f15c35fb5204c"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

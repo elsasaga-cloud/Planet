@@ -1,123 +1,125 @@
 {
- "code": "SB-299",
- "name_official": "Zekko Tech Private Limited（孟买）",
- "researched_at": "2026-10-21",
- "website_status": "在线（zekko.co.in，快照 2026-10-21）",
- "summary": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "定位：企业、电信 IT 与自动化；关键词 telecom 27 / industrial 22 / automation 18；sales@zekko.co.in；+91 91360 07767",
-   "quote": "Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation…",
-   "url": "https://zekko.co.in/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业级 / SFP",
-   "quote": "兴趣：工业级/SFP",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Yashraj Sharma",
-   "title": "Manager",
-   "email": "yashraj@zekko.co.in",
-   "phone": "+91 75060 52047",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Santosh Singh",
-   "title": "Manager",
-   "email": "santosh@zekko.co.in",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Zekko Tech Private Limited",
-  "founded": "",
-  "hq": "Mumbai, India",
-  "size": "小型方案商",
-  "other": ""
- },
- "business_lines": [
-  "企业 / 电信 IT 方案",
-  "工业自动化网络"
- ],
- "channels": {
-  "role": "方案商 / 集成",
-  "region": "印度（孟买）"
- },
- "risks": [
-  "SFP 需求 Saga 无；印度 BIS"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 25,
-  "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。"
- },
- "email_hook": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@zekko.co.in, santosh@zekko.co.in；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "IN 次级（点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「兴趣：工业级/SFP」；研究档 risks：SFP 需求 Saga 无；印度 BIS"
-  },
-  "situation": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
-  "need": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
-  "breakpoint": "SFP 需求 Saga 无；印度 BIS",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it."
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业级/SFP",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-299",
+  "name_official": "Zekko Tech Private Limited（孟买）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（zekko.co.in，快照 2026-10-21）",
+  "summary": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "定位：企业、电信 IT 与自动化；关键词 telecom 27 / industrial 22 / automation 18；sales@zekko.co.in；+91 91360 07767",
+      "quote": "Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation…",
+      "url": "https://zekko.co.in/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业级 / SFP",
+      "quote": "兴趣：工业级/SFP",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Yashraj Sharma",
+      "title": "Manager",
+      "email": "yashraj@zekko.co.in",
+      "phone": "+91 75060 52047",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Santosh Singh",
+      "title": "Manager",
+      "email": "santosh@zekko.co.in",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Zekko Tech Private Limited",
+    "founded": "",
+    "hq": "Mumbai, India",
+    "size": "小型方案商",
+    "other": ""
+  },
+  "business_lines": [
+    "企业 / 电信 IT 方案",
+    "工业自动化网络"
+  ],
+  "channels": {
+    "role": "方案商 / 集成",
+    "region": "印度（孟买）"
+  },
+  "risks": [
+    "SFP 需求 Saga 无；印度 BIS"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 25,
+    "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。"
+  },
+  "email_hook": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 sales@zekko.co.in, santosh@zekko.co.in；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "IN 次级（点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「兴趣：工业级/SFP」；研究档 risks：SFP 需求 Saga 无；印度 BIS"
+    },
+    "situation": "印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。",
+    "need": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
+    "breakpoint": "SFP 需求 Saga 无；印度 BIS",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业级/SFP",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "24 Port PoE Managed Switch、16 Port Ethernet Switch",
+        "why": "6 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

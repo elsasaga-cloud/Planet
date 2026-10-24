@@ -125,7 +125,7 @@
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
       "lane": "PL 次级重点",
       "cadence": "一封；回了再说",
       "evidence": "gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复"
@@ -137,7 +137,7 @@
       "p1": "STC-28DGGPM",
       "tier": 20,
       "price": "按主表（研究档 saga_fit）",
-      "why": "网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W",
+      "why": "网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W。已打开的主题（2/17 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-03)、「Managed PoE Switches」(2026-09-28) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
     },
@@ -165,7 +165,9 @@
         "k": "gmail_digest"
       }
     ],
-    "proof_gaps": [],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
     "draft_en": {
       "subject": "One question — 10G Enterprise SFP Switch",
       "body": "Hello,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nBetween the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"

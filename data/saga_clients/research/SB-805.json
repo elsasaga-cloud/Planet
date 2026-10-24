@@ -1,118 +1,118 @@
 {
- "code": "SB-805",
- "name_official": "Sun Energy Enterprise Sdn. Bhd.（吉隆坡）",
- "researched_at": "2026-10-21",
- "website_status": "在线（sunenergy.com.my，快照 2026-10-21，内容空）",
- "summary": "马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "sunenergy.com.my 首页无内容",
-   "quote": "status ok, empty",
-   "url": "https://sunenergy.com.my/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "本地做安防，会说中文，对交换机有兴趣，特别关心电源输入（最大值）和防雷；地址 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong",
-   "quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tan Chan Sun（陈先生）",
-   "title": "Managing Director",
-   "email": "chansun@sunenergy.com.my",
-   "phone": "+60 12 268 2818",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Sun Energy Enterprise Sdn. Bhd.",
-  "founded": "（待核）",
-  "hq": "54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur",
-  "size": "小型安防安装",
-  "other": "中文沟通"
- },
- "business_lines": [
-  "安防系统安装"
- ],
- "channels": {
-  "role": "安防安装商",
-  "region": "马来西亚"
- },
- "signals": [
-  "关心电源与防雷 → 室外 / 工业场景"
- ],
- "risks": [
-  "无跟进；小量"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。"
- },
- "email_hook": "陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 chansun@sunenergy.com.my；主题多为「8 Port Industrial PoE Switch、Industrial PoE media converter」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "马来西亚 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题」；研究档 risks：无跟进；小量"
-  },
-  "situation": "马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。",
-  "need": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。",
-  "breakpoint": "无跟进；小量",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "8 Port Industrial PoE Switch、Industrial PoE media converter",
-    "why": "9 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-805",
+  "name_official": "Sun Energy Enterprise Sdn. Bhd.（吉隆坡）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sunenergy.com.my，快照 2026-10-21，内容空）",
+  "summary": "马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "sunenergy.com.my 首页无内容",
+      "quote": "status ok, empty",
+      "url": "https://sunenergy.com.my/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "本地做安防，会说中文，对交换机有兴趣，特别关心电源输入（最大值）和防雷；地址 54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong",
+      "quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Tan Chan Sun（陈先生）",
+      "title": "Managing Director",
+      "email": "chansun@sunenergy.com.my",
+      "phone": "+60 12 268 2818",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照空页 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Sun Energy Enterprise Sdn. Bhd.",
+    "founded": "（待核）",
+    "hq": "54-1, Jalan Metro Perdana Timur 9, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+    "size": "小型安防安装",
+    "other": "中文沟通"
+  },
+  "business_lines": [
+    "安防系统安装"
+  ],
+  "channels": {
+    "role": "安防安装商",
+    "region": "马来西亚"
+  },
+  "signals": [
+    "关心电源与防雷 → 室外 / 工业场景"
+  ],
+  "risks": [
+    "无跟进；小量"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。"
+  },
+  "email_hook": "陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 chansun@sunenergy.com.my；主题多为「8 Port Industrial PoE Switch、Industrial PoE media converter」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "马来西亚 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题」；研究档 risks：无跟进；小量"
+    },
+    "situation": "马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。",
+    "need": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。",
+    "breakpoint": "无跟进；小量",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。已打开的主题（1/9 封有打开记录）：「Passive PoE Switch」(2024-07-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "8 Port Industrial PoE Switch、Industrial PoE media converter",
+        "why": "9 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

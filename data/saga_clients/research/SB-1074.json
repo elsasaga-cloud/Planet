@@ -1,153 +1,153 @@
 {
- "code": "SB-1074",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（intrising.com.tw，快照 2026-10-21）",
- "summary": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
- "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Intrising Networks；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Smart & Simple Connectivity - Homepage of Intrising Networks",
-   "url": "https://www.intrising.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Intrising：IEC 61850-3 变电站交换机、工业 L3、PTP",
-   "quote": "IEC 61850-3 ; Protecting the Substation Starts with IEC 61850-3-Certified Switches ; Industrial L3 Switches ; Intrising PTP",
-   "url": "https://www.intrising.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 自己的 logo，功能复杂接口多",
-   "quote": "工业控制 工业FS 自己的logo；功能比较复杂一些 接口多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Ken Lee",
-   "title": "（表内联系人）",
-   "email": "kenlee@intrising.com.tw",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 intrising.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "工业 L2/L3 交换机（IEC 61850-3、PTP）",
-  "AV-over-IP / 配件"
- ],
- "channels": {
-  "role": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-  "region": "台湾",
-  "contact": "kenlee@intrising.com.tw"
- },
- "signals": [
-  "官网栏目：IEC 61850-3 / Industrial L3 Switches / Intrising PTP / ISO 9001",
-  "站内型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X",
-  "KP：Ken Lee（kenlee@，表内）"
- ],
- "risks": [
-  "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
-  "IEC 61850-3 变电站 / PTP 线：Saga 无认证且守界，不报",
-  "非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）"
- },
- "email_hook": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?",
- "products_seen": [
-  {
-   "brand": "Intrising（自有）",
-   "model": "DCS-8GP-2GS",
-   "spec": "工业 8 PoE + 2 SFP",
-   "saga": "STI-288GPM",
-   "url": "https://www.intrising.com.tw/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Intrising（自有）",
-   "model": "DAS-8GHP-4X",
-   "spec": "工业 8 PoE + 4×10G",
-   "saga": "STI-488XGGPM",
-   "url": "https://www.intrising.com.tw/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 kenlee@intrising.com.tw；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）",
-   "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "台湾 非主攻",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业控制 工业FS 自己的logo 功能比较复杂一些 接口多」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复"
-  },
-  "situation": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
-  "need": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
-  "breakpoint": "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
-    "why": "22 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1074",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（intrising.com.tw，快照 2026-10-21）",
+  "summary": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
+  "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Intrising Networks；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Smart & Simple Connectivity - Homepage of Intrising Networks",
+      "url": "https://www.intrising.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Intrising：IEC 61850-3 变电站交换机、工业 L3、PTP",
+      "quote": "IEC 61850-3 ; Protecting the Substation Starts with IEC 61850-3-Certified Switches ; Industrial L3 Switches ; Intrising PTP",
+      "url": "https://www.intrising.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 自己的 logo，功能复杂接口多",
+      "quote": "工业控制 工业FS 自己的logo；功能比较复杂一些 接口多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Ken Lee",
+      "title": "（表内联系人）",
+      "email": "kenlee@intrising.com.tw",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "台湾",
+    "other": "官网 intrising.com.tw，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "工业 L2/L3 交换机（IEC 61850-3、PTP）",
+    "AV-over-IP / 配件"
+  ],
+  "channels": {
+    "role": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+    "region": "台湾",
+    "contact": "kenlee@intrising.com.tw"
+  },
+  "signals": [
+    "官网栏目：IEC 61850-3 / Industrial L3 Switches / Intrising PTP / ISO 9001",
+    "站内型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X",
+    "KP：Ken Lee（kenlee@，表内）"
+  ],
+  "risks": [
+    "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
+    "IEC 61850-3 变电站 / PTP 线：Saga 无认证且守界，不报",
+    "非主攻区（T5）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）"
+  },
+  "email_hook": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?",
+  "products_seen": [
+    {
+      "brand": "Intrising（自有）",
+      "model": "DCS-8GP-2GS",
+      "spec": "工业 8 PoE + 2 SFP",
+      "saga": "STI-288GPM",
+      "url": "https://www.intrising.com.tw/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Intrising（自有）",
+      "model": "DAS-8GHP-4X",
+      "spec": "工业 8 PoE + 4×10G",
+      "saga": "STI-488XGGPM",
+      "url": "https://www.intrising.com.tw/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 kenlee@intrising.com.tw；主题多为「Managed Optical Bypass Switch、16 Port Ethernet Switch」）",
+      "type": "台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "台湾 非主攻",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业控制 工业FS 自己的logo 功能比较复杂一些 接口多」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复"
+    },
+    "situation": "台湾 Intrising Networks（工业 L3 交换机、IEC 61850-3 变电站交换机、PTP 时间服务、AV-over-IP、ISO 9001；型号 DAS-8GHP-4X / DBS-16GP-4X / DCS-8GP-2GS / DTS-8GP-4X；表内「工业控制、工业 FS 自己的 logo，功能复杂、接口多」；KP Ken Lee（kenlee@））；群发 19 次无回复。",
+    "need": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）",
+    "breakpoint": "台湾品牌商：自有 ODM 体系，仅二供/补缺；19 次无回复",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 DCS-8GP-2GS（8 PoE + 2 SFP）→ 二供位工业管理 STI-288GPM（$85.5 @30%）；8 PoE + 4×10G（DAS-8GHP-4X）→ STI-488XGGPM（$178.7）；IEC 61850-3 变电站线不报（守界/无认证）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Ken, for the entry models of your industrial line (8-PoE + 2 SFP, 8-PoE + 4×10G), we can be a second source on a Marvell platform from small lots, leaving your IEC 61850-3 and PTP models untouched — is a lower-cost tier something you would consider dual-sourcing?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业控制 工业FS 自己的logo 功能比较复杂一些 接口多",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Managed Optical Bypass Switch、16 Port Ethernet Switch",
+        "why": "22 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,158 +1,158 @@
 {
- "code": "SB-156",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（tyconsystems.com，快照 2026-10-21）",
- "summary": "美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。",
- "type": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
+  "code": "SB-156",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tyconsystems.com，快照 2026-10-21）",
+  "summary": "美国犹他 Tycon Systems（离网太阳能供电 / 移动监控拖车 / PoE 设备制造商；自有 TP- 系列 PoE 产品：TP-SW5G-D DIN 5 口千兆 PoE、TP-DCDC 系列、TPDIN-SC48-20 太阳能控制器；官网有「Managed PoE Switches / Un-managed PoE Switches」品类；表内「工业 FS、PoE 配件、自己的 logo」；KP Daimyn Duong / Scott Parsons / Andy Pierre（Head of BD））；群发 9 次无回复。",
+  "type": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
+      "url": "https://www.tyconsystems.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 一些PoE配件 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "设计制造移动太阳能监控拖车、PoE 设备与远程供电系统",
+      "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
+      "url": "https://www.tyconsystems.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS + PoE 配件 + 自有 logo",
+      "quote": "工业FS 一些PoE配件 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "海关提单(ImportYeti)",
+      "claim": "Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）",
+      "quote": "Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn",
+      "url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
+      "date": "2026-10-22"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Andy Pierre",
+      "title": "Head of BD",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Daimyn Duong",
+      "title": "（表内联系人）",
+      "email": "daimyn@tyconsystems.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Scott Parsons",
+      "title": "（表内联系人）",
+      "email": "scottp@tyconsystems.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 一些PoE配件 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "设计制造移动太阳能监控拖车、PoE 设备与远程供电系统",
-   "quote": "Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "离网太阳能供电与 UPS 系统",
+    "移动太阳能监控拖车",
+    "PoE 交换机 / 注入器 / 延长器（自有 TP- 系列）"
+  ],
+  "channels": {
+    "role": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
+    "region": "美国",
+    "contact": "daimyn@tyconsystems.com、scottp@tyconsystems.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS + PoE 配件 + 自有 logo",
-   "quote": "工业FS 一些PoE配件 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网品类：/categories/poe-switches/、/managed-poe-switches/、/un-managed-poe-switches/、PoE extender",
+    "站内型号 TP-SW5G-D、TP-DCDC-1224/1248、TPDIN-SC48-20",
+    "KP：Daimyn Duong、Scott Parsons、Andy Pierre（Head of BD，表内）"
+  ],
+  "risks": [
+    "自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入",
+    "群发 9 次无回复：改向 Head of BD 具名首触",
+    "【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。"
+  ],
+  "saga_fit": {
+    "p1": "STI-054GP",
+    "tier": 30,
+    "why": "自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM"
   },
-  {
-   "kind": "海关提单(ImportYeti)",
-   "claim": "Tycon Systems 是 HRUI（深圳洪瑞）美国海运直客：2022-08 至 2024-01 共 4 票 PoE 交换机（5–29 箱/票，PO:6456）",
-   "quote": "Tycon Systems Inc, Riverton … 4 shipments … Poe Switch … 01/31/2024 CHKMMZLMSA248500 570 kg 29ctn",
-   "url": "https://www.importyeti.com/supplier/shenzhen-hongrui-optical-technology",
-   "date": "2026-10-22"
+  "email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
+  "products_seen": [
+    {
+      "brand": "Tycon（自有）",
+      "model": "TP-SW5G-D",
+      "spec": "DIN 5 口千兆 PoE 交换机（太阳能/直流供电场景）",
+      "saga": "STI-054GP",
+      "url": "https://www.tyconsystems.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Tycon（自有）",
+      "model": "TP-DCDC-1248",
+      "spec": "DC-DC PoE 注入 12→48V",
+      "saga": "（Q-32：Saga 无注入器 SKU）",
+      "url": "https://www.tyconsystems.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复；ImportYeti 海关提单已入研究档）",
+      "type": "美国离网供电 + PoE 品牌商（Tycon Systems；自有 TP- 系列）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "US",
+      "cadence": "不动",
+      "evidence": "k=7feaa342e0d73d83"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—。已打开的主题（3/28 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-02)、「90W PoE Managed Switch」(2024-12-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Andy Pierre",
-   "title": "Head of BD",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Daimyn Duong",
-   "title": "（表内联系人）",
-   "email": "daimyn@tyconsystems.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Scott Parsons",
-   "title": "（表内联系人）",
-   "email": "scottp@tyconsystems.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 tyconsystems.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "离网太阳能供电与 UPS 系统",
-  "移动太阳能监控拖车",
-  "PoE 交换机 / 注入器 / 延长器（自有 TP- 系列）"
- ],
- "channels": {
-  "role": "品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）",
-  "region": "美国",
-  "contact": "daimyn@tyconsystems.com、scottp@tyconsystems.com"
- },
- "signals": [
-  "官网品类：/categories/poe-switches/、/managed-poe-switches/、/un-managed-poe-switches/、PoE extender",
-  "站内型号 TP-SW5G-D、TP-DCDC-1224/1248、TPDIN-SC48-20",
-  "KP：Daimyn Duong、Scott Parsons、Andy Pierre（Head of BD，表内）"
- ],
- "risks": [
-  "自有产品已有稳定代工来源：需以 12–58 VDC 宽压 + 小批量灵活性切入",
-  "群发 9 次无回复：改向 Head of BD 具名首触",
-  "【2026-10-22 外网复抓】ImportYeti 证实其 2022–2024 直接从 HRUI 进口 PoE 交换机（4 票，小批量，最近一票 2024-01）→ 2024 年后无 HRUI 海运记录，可能换厂或改空运；Saga 跟进时问清现供应商，推工业 DIN 导轨 PoE（STI）而非 HRUI 同款。"
- ],
- "saga_fit": {
-  "p1": "STI-054GP",
-  "tier": 30,
-  "why": "自有 TP-SW5G-D（DIN 5 口千兆 4 PoE）→ Saga STI-054GP（工业 4 PoE + 1 GE，$33.8 @30%）贴 Tycon 标；带 SFP 位 STI-154GP（$40.8）；管理型 STI-288GPM"
- },
- "email_hook": "Andy, for the TP-SW5G-D class DIN-rail PoE switches in your off-grid kits, we build Marvell-based 5-port (4 PoE+) industrial units with 12–58 VDC input under your label from small lots (CE/RoHS/FCC) — do you want the SFP-uplink or the all-copper version first?",
- "products_seen": [
-  {
-   "brand": "Tycon（自有）",
-   "model": "TP-SW5G-D",
-   "spec": "DIN 5 口千兆 PoE 交换机（太阳能/直流供电场景）",
-   "saga": "STI-054GP",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Tycon（自有）",
-   "model": "TP-DCDC-1248",
-   "spec": "DC-DC PoE 注入 12→48V",
-   "saga": "（Q-32：Saga 无注入器 SKU）",
-   "url": "https://www.tyconsystems.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复；ImportYeti 海关提单已入研究档）",
-   "type": "美国离网供电 + PoE 品牌商（Tycon Systems；自有 TP- 系列）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "US",
-   "cadence": "不动",
-   "evidence": "k=7feaa342e0d73d83"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

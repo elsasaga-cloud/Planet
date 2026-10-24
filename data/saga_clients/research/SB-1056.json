@@ -1,120 +1,122 @@
 {
- "code": "SB-1056",
- "name_official": "Al Shuaib Control Equipments L.L.C（Ras Al Khaimah）",
- "researched_at": "2026-10-21",
- "website_status": "在线（alshuaib.ae，快照 2026-10-21）",
- "summary": "阿联酋 RAK 弱电集成商（CCTV 安装测试、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲），Vijith（业务拓展）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "服务：CCTV、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲；+971 7 236 5697/8",
-   "quote": "CCTV SYSTEMS… CCTV Installation, Testing & Commissioning… Home Automation… Structured Cabling… Access Control System Building Management System PA SYSTEM IPTV/SMATV Intercom System",
-   "url": "https://alshuaib.ae/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "兴趣 HDMI 延长器 工业 FS",
-   "quote": "兴趣：HDMI 延长器 工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Vijith",
-   "title": "Business Development",
-   "email": "vijith@alshuaib.ae",
-   "phone": "+971 55 236 1122",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
- },
- "company_facts": {
-  "legal_name": "Al Shuaib Control Equipments L.L.C",
-  "founded": "（待核）",
-  "hq": "Ras Al Khaimah, UAE",
-  "size": "小型集成商",
-  "other": ""
- },
- "business_lines": [
-  "CCTV / 门禁 / BMS 集成",
-  "结构化布线 / IPTV / PA"
- ],
- "channels": {
-  "role": "弱电集成商",
-  "region": "阿联酋北部酋长国"
- },
- "signals": [
-  "工业 FS 需求（CCTV 室外柜场景）"
- ],
- "risks": [
-  "HDMI 延长器 Saga 无（缺口）",
-  "WA 无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。"
- },
- "email_hook": "Vijith, we don't carry HDMI extenders — but for the camera cabinets, the DIN-rail 8-PoE + 2-SFP (−40~75 ℃, 6 kV surge) is $60 EXW at 1 pc; want the sheet for your next RAK villa / plant job?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 vijith@alshuaib.ae；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "阿联酋 非主攻",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 6；用户表：「兴趣：HDMI 延长器 工业FS」；研究档 risks：HDMI 延长器 Saga 无（缺口）"
-  },
-  "situation": "阿联酋 RAK 弱电集成商（CCTV 安装测试、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲），Vijith（业务拓展）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复。",
-  "need": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。",
-  "breakpoint": "HDMI 延长器 Saga 无（缺口）",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Vijith, we don't carry HDMI extenders — but for the camera cabinets, the DIN-rail 8-PoE + 2-SFP (−40~75 ℃, 6 kV surge) is $60 EXW at 1 pc; want the sheet for your next RAK villa / plant job?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：HDMI 延长器 工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
-    "why": "6 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1056",
+  "name_official": "Al Shuaib Control Equipments L.L.C（Ras Al Khaimah）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（alshuaib.ae，快照 2026-10-21）",
+  "summary": "阿联酋 RAK 弱电集成商（CCTV 安装测试、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲），Vijith（业务拓展）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "服务：CCTV、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲；+971 7 236 5697/8",
+      "quote": "CCTV SYSTEMS… CCTV Installation, Testing & Commissioning… Home Automation… Structured Cabling… Access Control System Building Management System PA SYSTEM IPTV/SMATV Intercom System",
+      "url": "https://alshuaib.ae/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "兴趣 HDMI 延长器 工业 FS",
+      "quote": "兴趣：HDMI 延长器 工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Vijith",
+      "title": "Business Development",
+      "email": "vijith@alshuaib.ae",
+      "phone": "+971 55 236 1122",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对）"
+  },
+  "company_facts": {
+    "legal_name": "Al Shuaib Control Equipments L.L.C",
+    "founded": "（待核）",
+    "hq": "Ras Al Khaimah, UAE",
+    "size": "小型集成商",
+    "other": ""
+  },
+  "business_lines": [
+    "CCTV / 门禁 / BMS 集成",
+    "结构化布线 / IPTV / PA"
+  ],
+  "channels": {
+    "role": "弱电集成商",
+    "region": "阿联酋北部酋长国"
+  },
+  "signals": [
+    "工业 FS 需求（CCTV 室外柜场景）"
+  ],
+  "risks": [
+    "HDMI 延长器 Saga 无（缺口）",
+    "WA 无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。"
+  },
+  "email_hook": "Vijith, we don't carry HDMI extenders — but for the camera cabinets, the DIN-rail 8-PoE + 2-SFP (−40~75 ℃, 6 kV surge) is $60 EXW at 1 pc; want the sheet for your next RAK villa / plant job?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 6 封 2026，无记录打开，0 回；收件 vijith@alshuaib.ae；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "阿联酋 非主攻",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 6；用户表：「兴趣：HDMI 延长器 工业FS」；研究档 risks：HDMI 延长器 Saga 无（缺口）"
+    },
+    "situation": "阿联酋 RAK 弱电集成商（CCTV 安装测试、家庭自动化、结构化布线、门禁、BMS、PA、IPTV/SMATV、对讲），Vijith（业务拓展）；需求 HDMI 延长器（Saga 无）+ 工业 FS；WA 22 次无实质回复。",
+    "need": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。",
+    "breakpoint": "HDMI 延长器 Saga 无（缺口）",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "CCTV 室外柜工业 PoE → STI-288GP（$59.8 @25%）；HDMI 延长器不供。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Vijith, we don't carry HDMI extenders — but for the camera cabinets, the DIN-rail 8-PoE + 2-SFP (−40~75 ℃, 6 kV surge) is $60 EXW at 1 pc; want the sheet for your next RAK villa / plant job?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：HDMI 延长器 工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
+        "why": "6 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -1,120 +1,120 @@
 {
- "code": "SB-570",
- "name_official": "WoMaster Technologies（台湾；欧洲站 womaster.eu）",
- "researched_at": "2026-10-21",
- "website_status": "在线（womaster.eu，快照 2026-10-21）",
- "summary": "台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "WoMaster（自有）"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "工业 DIN / 机架以太网交换机、PoE 交换机、室外无线 AP、LTE 路由（IIoT）",
-   "quote": "WoMaster provides Industrial DIN-Rail and rackmount Ethernet switches, PoE switches, outdoor wireless AP, WiFi LTE Cat.4 cellular routers for IIoT.",
-   "url": "https://womaster.eu/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS SFP 1U 机架工业；工业串口；自己的 logo；90W PoE MC / DP101",
-   "quote": "兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（欧洲站）",
-   "title": "",
-   "email": "info@womaster.eu",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "WoMaster Technologies Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台北（欧洲站）",
-  "size": "中小型台系品牌",
-  "other": "台湾厂商口径（OEM 买方）"
- },
- "business_lines": [
-  "工业交换机 / PoE / 无线 / 路由（自有品牌）"
- ],
- "channels": {
-  "role": "台系品牌商（OEM 采购）",
-  "region": "欧洲 / 全球"
- },
- "signals": [
-  "90W PoE MC 需求（STI-111GP 为 30W；BT 版按 SmartByte 另询）"
- ],
- "risks": [
-  "台系品牌口径；16 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。"
- },
- "email_hook": "For the WoMaster DIN PoE range — Marvell-based managed 8-PoE + 2-SFP under your label from small lots, and a 90 W bt PoE media converter on request; which SKU would you like a sample of first?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@womaster.eu；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "欧洲（国别未填） 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo」；研究档 risks：台系品牌口径；16 次群发无回复"
-  },
-  "situation": "台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。",
-  "need": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。",
-  "breakpoint": "台系品牌口径；16 次群发无回复",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-570",
+  "name_official": "WoMaster Technologies（台湾；欧洲站 womaster.eu）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（womaster.eu，快照 2026-10-21）",
+  "summary": "台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "WoMaster（自有）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "工业 DIN / 机架以太网交换机、PoE 交换机、室外无线 AP、LTE 路由（IIoT）",
+      "quote": "WoMaster provides Industrial DIN-Rail and rackmount Ethernet switches, PoE switches, outdoor wireless AP, WiFi LTE Cat.4 cellular routers for IIoT.",
+      "url": "https://womaster.eu/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS SFP 1U 机架工业；工业串口；自己的 logo；90W PoE MC / DP101",
+      "quote": "兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（欧洲站）",
+      "title": "",
+      "email": "info@womaster.eu",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "WoMaster Technologies Co., Ltd.",
+    "founded": "（待核）",
+    "hq": "台北（欧洲站）",
+    "size": "中小型台系品牌",
+    "other": "台湾厂商口径（OEM 买方）"
+  },
+  "business_lines": [
+    "工业交换机 / PoE / 无线 / 路由（自有品牌）"
+  ],
+  "channels": {
+    "role": "台系品牌商（OEM 采购）",
+    "region": "欧洲 / 全球"
+  },
+  "signals": [
+    "90W PoE MC 需求（STI-111GP 为 30W；BT 版按 SmartByte 另询）"
+  ],
+  "risks": [
+    "台系品牌口径；16 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。"
+  },
+  "email_hook": "For the WoMaster DIN PoE range — Marvell-based managed 8-PoE + 2-SFP under your label from small lots, and a 90 W bt PoE media converter on request; which SKU would you like a sample of first?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@womaster.eu；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "欧洲（国别未填） 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo」；研究档 risks：台系品牌口径；16 次群发无回复"
+    },
+    "situation": "台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。",
+    "need": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。",
+    "breakpoint": "台系品牌口径；16 次群发无回复",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Mini Industrial PoE Switch",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

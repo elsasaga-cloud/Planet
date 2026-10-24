@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：台湾电信/工业网络设备制造商（1991 年创立，台交所 3025），自研 TDMoIP、PTN/MPLS-TP、以太网接入、工业与铁路 EN50121-4 交换机（IP6820/IP6828/IP6830 等）。用户表登记为法国（Eric Piaget, V.P. Sales EMEA & India），A 已回复 + A 台湾名单，兴趣工业 FS / MC / 工业物联网。（调研 2026-10-21；表内兴趣：工业FS MC 工业物联网）
 - **为什么是 B 级**：**调研后定级 B**（台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-05-03 → 2025-12-01）；最近一次客户回复：2025-12-01：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入；历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Eric Piaget 对 Booster PoE 群发问「你是说 12V 供电也能输出 PoE？发 brochure」，Alan 发 STI-488XGGBPM 资料并追问样品，Eric 答「No need now, just for information」。
 - **对方真实需求（有据）**：信息收集；无采购。
 - **断点 / 为什么停在这里**：同业信息收集，不是采购。
-- **Saga 现在该推什么**：P1 **无**（30% 档，历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd）——不投入
+- **Saga 现在该推什么**：P1 **无**（30% 档，历史报价（邮件原话，老汇率）：2025-12-01 STI-488XGGBPM 215usd）——不投入。已打开的主题（9/26 封有打开记录）：「Re: Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-04)、「Re: Booster PoE Switch」(2026-01-12)、「Re: Booster PoE Switch」(2026-02-05) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

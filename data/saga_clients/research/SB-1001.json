@@ -1,107 +1,107 @@
 {
- "code": "SB-1001",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
- "summary": "德国 STORDIS（开放网络/白盒交换机分销商，英国有分公司；表内「AC5 芯片交换机很多，高速」；KP Tomasz Sadowski（Technical）、Mariusz Ślęzak；官网 unreachable）；群发 6 次无回复。",
- "type": "开放网络分销商（德国/英国，Marvell AC5 平台）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "AC5芯片交换机很多 高速 英国有个分公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-1001",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（unreachable）",
+  "summary": "德国 STORDIS（开放网络/白盒交换机分销商，英国有分公司；表内「AC5 芯片交换机很多，高速」；KP Tomasz Sadowski（Technical）、Mariusz Ślęzak；官网 unreachable）；群发 6 次无回复。",
+  "type": "开放网络分销商（德国/英国，Marvell AC5 平台）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "AC5芯片交换机很多 高速 英国有个分公司",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "AC5 芯片交换机 高速；英国分公司",
+      "quote": "AC5芯片交换机很多 高速；英国有个分公司",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Tomasz Sadowski",
+      "title": "Technical",
+      "email": "tomasz.sadowski@stordis.com",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "Mariusz Ślęzak",
+      "title": "（职务待核）",
+      "email": "mariusz.szlezak@stordis.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "AC5 芯片交换机 高速；英国分公司",
-   "quote": "AC5芯片交换机很多 高速；英国有个分公司",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  },
+  "business_lines": [
+    "开放网络 / 白盒交换机分销（德国，英国分公司）"
+  ],
+  "channels": {
+    "role": "开放网络分销商（德国/英国，Marvell AC5 平台）",
+    "region": "德国",
+    "contact": "tomasz.sadowski@stordis.com、mariusz.szlezak@stordis.com"
+  },
+  "signals": [
+    "表内：AC5 芯片交换机很多 高速；英国有个分公司；KP Tomasz Technical",
+    "快照：unreachable"
+  ],
+  "risks": [
+    "开放网络/高速导向（Saga 接入层产品为低端位）；官网 unreachable；6 次无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$181.2）"
+  },
+  "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "德/英开放网络分销（STORDIS；Marvell AC5 平台在售）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "DE/UK",
+      "cadence": "不动",
+      "evidence": "k=988c84b55fd3dd07"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/13 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Tomasz Sadowski",
-   "title": "Technical",
-   "email": "tomasz.sadowski@stordis.com",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "Mariusz Ślęzak",
-   "title": "（职务待核）",
-   "email": "mariusz.szlezak@stordis.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
- },
- "business_lines": [
-  "开放网络 / 白盒交换机分销（德国，英国分公司）"
- ],
- "channels": {
-  "role": "开放网络分销商（德国/英国，Marvell AC5 平台）",
-  "region": "德国",
-  "contact": "tomasz.sadowski@stordis.com、mariusz.szlezak@stordis.com"
- },
- "signals": [
-  "表内：AC5 芯片交换机很多 高速；英国有个分公司；KP Tomasz Technical",
-  "快照：unreachable"
- ],
- "risks": [
-  "开放网络/高速导向（Saga 接入层产品为低端位）；官网 unreachable；6 次无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$181.2）"
- },
- "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "德/英开放网络分销（STORDIS；Marvell AC5 平台在售）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "DE/UK",
-   "cadence": "不动",
-   "evidence": "k=988c84b55fd3dd07"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

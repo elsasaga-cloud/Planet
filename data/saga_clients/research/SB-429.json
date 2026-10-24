@@ -1,157 +1,157 @@
 {
- "code": "SB-429",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（bvsecurity.com，快照 2026-10-21）",
- "summary": "BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。",
- "type": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：bvsecurity.com；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Surveillance drives on sale now；WD HARD DRIVES SERIES；PoE SWITCHES & INJECTORS SERIES；CAMERA SERIES；Shop by Category",
-   "url": "https://bvsecurity.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Utepo 有Amazon店铺",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "栏目：监控硬盘 / PoE 交换机与注入器 / 摄像机",
-   "quote": "Surveillance drives on sale now ; WD HARD DRIVES SERIES ; PoE SWITCHES & INJECTORS SERIES ; CAMERA SERIES",
-   "url": "https://bvsecurity.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Utepo，有 Amazon 店铺",
-   "quote": "Utepo 有Amazon店铺",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Zehua W",
-   "title": "Product Manager",
-   "email": "support@bvsecurity.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防电商（硬盘 / 摄像机 / PoE）",
-  "自有标 PoE 交换机（SW 系列）",
-  "Amazon 店铺"
- ],
- "channels": {
-  "role": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
-  "region": "意大利",
-  "contact": "support@bvsecurity.com"
- },
- "signals": [
-  "栏目：PoE SWITCHES & INJECTORS SERIES / WD HARD DRIVES / CAMERA SERIES",
-  "站内型号 SW501G-PLUS / SW502G / SW802G / SW811G-DIN（自有）",
-  "博客 /blogs/poe-purchasing-guide/the-best-ndaa-compliant-power-over-ethernet-poe-switches",
-  "KP：Zehua W / Product Manager（表内）"
- ],
- "risks": [
-  "国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司",
-  "现代工 Utepo（深圳）：价格基准低",
-  "群发 13 次无回复：改向 Product Manager 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）"
- },
- "email_hook": "For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?",
- "products_seen": [
-  {
-   "brand": "BV Security（自有）",
-   "model": "SW802G",
-   "spec": "8 口千兆 PoE",
-   "saga": "STC-28DGGPM",
-   "url": "https://bvsecurity.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "BV Security（自有）",
-   "model": "SW811G-DIN",
-   "spec": "DIN 8 口千兆 PoE 工业",
-   "saga": "STI-288GP",
-   "url": "https://bvsecurity.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」）",
-   "type": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo 有Amazon店铺」；研究档 risks：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司"
-  },
-  "situation": "BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。",
-  "need": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）",
-  "breakpoint": "国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Utepo 有Amazon店铺",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、24 Port Passive PoE Switch",
-    "why": "26 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-429",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（bvsecurity.com，快照 2026-10-21）",
+  "summary": "BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。",
+  "type": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：bvsecurity.com；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Surveillance drives on sale now；WD HARD DRIVES SERIES；PoE SWITCHES & INJECTORS SERIES；CAMERA SERIES；Shop by Category",
+      "url": "https://bvsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Utepo 有Amazon店铺",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "栏目：监控硬盘 / PoE 交换机与注入器 / 摄像机",
+      "quote": "Surveillance drives on sale now ; WD HARD DRIVES SERIES ; PoE SWITCHES & INJECTORS SERIES ; CAMERA SERIES",
+      "url": "https://bvsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Utepo，有 Amazon 店铺",
+      "quote": "Utepo 有Amazon店铺",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Zehua W",
+      "title": "Product Manager",
+      "email": "support@bvsecurity.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 bvsecurity.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防电商（硬盘 / 摄像机 / PoE）",
+    "自有标 PoE 交换机（SW 系列）",
+    "Amazon 店铺"
+  ],
+  "channels": {
+    "role": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
+    "region": "意大利",
+    "contact": "support@bvsecurity.com"
+  },
+  "signals": [
+    "栏目：PoE SWITCHES & INJECTORS SERIES / WD HARD DRIVES / CAMERA SERIES",
+    "站内型号 SW501G-PLUS / SW502G / SW802G / SW811G-DIN（自有）",
+    "博客 /blogs/poe-purchasing-guide/the-best-ndaa-compliant-power-over-ethernet-poe-switches",
+    "KP：Zehua W / Product Manager（表内）"
+  ],
+  "risks": [
+    "国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司",
+    "现代工 Utepo（深圳）：价格基准低",
+    "群发 13 次无回复：改向 Product Manager 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）"
+  },
+  "email_hook": "For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?",
+  "products_seen": [
+    {
+      "brand": "BV Security（自有）",
+      "model": "SW802G",
+      "spec": "8 口千兆 PoE",
+      "saga": "STC-28DGGPM",
+      "url": "https://bvsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "BV Security（自有）",
+      "model": "SW811G-DIN",
+      "spec": "DIN 8 口千兆 PoE 工业",
+      "saga": "STI-288GP",
+      "url": "https://bvsecurity.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 26 封 2024→2026，1 次记录打开，0 回；收件 support@bvsecurity.com；主题多为「Marvell Industrial Alert System、24 Port Passive PoE Switch」）",
+      "type": "安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 26，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo 有Amazon店铺」；研究档 risks：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司"
+    },
+    "situation": "BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。",
+    "need": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）",
+    "breakpoint": "国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）。已打开的主题（1/26 封有打开记录）：「OEM Core Switching Solution」(2026-01-24) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Utepo 有Amazon店铺",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、24 Port Passive PoE Switch",
+        "why": "26 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

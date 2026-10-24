@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。（调研 2026-10-21；表内兴趣：价格 网站比较抽象）
 - **为什么是 B 级**：**调研后定级 B**（品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2023-12-15 → 2025-11-29）；最近一次客户回复：2023-12-15：问问价近期会不会变化
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,13 +49,15 @@ updated: 2026-10-24
 - **现状一句话**：巴塞罗那 Sabadell 的工业用品供应商，两条产品线：自动化（电柜空调、机柜、安全传感器、执行器、气动输送）与 condúctica（拖链、型材、卷线器、集电器、滑触线）；官网无网络/交换机类目。用户表：S 重点名单，1 次回复，18 次跟进；兴趣「价格」，备注「网站比较抽象」；联系人 Hugo Hernàndez。
 - **对方真实需求（有据）**：工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
 - **断点 / 为什么停在这里**：无网络品类经验；1 次回复后 18 次无果
-- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit））——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）
+- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit））——工业 MRO 分销 20% 档：STI-050GE（DIN 5 GE 非管理，12–58 V DC，$24.0）与 STI-140GE（$26.9）作机柜配套 SKU；管理型 STI-280DGGM（$125.6）。已打开的主题（1/17 封有打开记录）：「Industrial Network Switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Next to the cabinets and panel accessories you supply, a DIN-rail 5-port gigabit industrial switch (12–58 V DC, −40 to +75 °C) at $24.0 EXW is an easy add-on line; would a 10-unit trial price help you test it with your panel builders?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026 | 去 | S 群发 | Industrial Network Switch、Power Converter | 17 封 / 1 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。（调研 2026-10-21；表内兴趣：外壳比较特别）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-05 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰工业自动化元件官方分销商（传感器、连接器、交换机、控制系统、编码器；Advantech、Hirschmann；poe 151 / switch 112 / sfp 53；+48 32 256 25 33），Dariusz Piwowar（表内「可着重跟」）；表内「外壳比较特别」；群发 8 次无回复。
 - **对方真实需求（有据）**：工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。
 - **断点 / 为什么停在这里**：8 次群发无回复
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——工业管理 PoE → STI-288GPM（$78.9 @20%）；mini STI-050GE。已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Dariusz, under the Hirschmann/Advantech lines — Marvell DIN managed 8-PoE + 2-SFP at $79 and 5-port mini at $17 EXW (CE/RoHS, −40~75 ℃); one evaluation unit for Katowice?
 

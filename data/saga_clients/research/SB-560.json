@@ -1,133 +1,133 @@
 {
- "code": "SB-560",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sequrinet.us，快照 2026-10-21）",
- "summary": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
- "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
- "size": "",
- "brands_seen": [
-  "Utepo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：SEQURINET；品类词 安防监控（CCTV / 门禁）",
-   "quote": "PRODUCTS；DEMO MOVIE；NX Guide；Genetec Guide；Cortrol Guide",
-   "url": "http://sequrinet.com/En/index.asp",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "SEQURINET 页面",
-   "quote": "SEQURINET ; NX Guide ; Genetec Guide ; Cortrol Guide",
-   "url": "http://sequrinet.com/En/index.asp",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS Utepo",
-   "quote": "工业FS Utepo的；质量高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Eva Christensen",
-   "title": "Team Leader",
-   "email": "ussales@sequrinet.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "VMS / NVR 方案（韩国，美国销售）"
- ],
- "channels": {
-  "role": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
-  "region": "韩国",
-  "contact": "ussales@sequrinet.com"
- },
- "signals": [
-  "官网：SEQURINET ; PRODUCTS ; DEMO MOVIE ; NX Guide ; Genetec Guide ; Cortrol Guide；kw camera 17 / nvr 12",
-  "表内：工业 FS Utepo 的；质量高；KP Eva Christensen / Team Leader"
- ],
- "risks": [
-  "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
- },
- "email_hook": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 ussales@sequrinet.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-   "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-   "lane": "KR 次级（点名）",
-   "cadence": "一封",
-   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的」；研究档 risks：非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
-  },
-  "situation": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
-  "need": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
-  "breakpoint": "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1（换人后）",
-   "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
-   "one_question": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS Utepo的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-    "why": "34 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-560",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sequrinet.us，快照 2026-10-21）",
+  "summary": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
+  "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+  "size": "",
+  "brands_seen": [
+    "Utepo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：SEQURINET；品类词 安防监控（CCTV / 门禁）",
+      "quote": "PRODUCTS；DEMO MOVIE；NX Guide；Genetec Guide；Cortrol Guide",
+      "url": "http://sequrinet.com/En/index.asp",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "SEQURINET 页面",
+      "quote": "SEQURINET ; NX Guide ; Genetec Guide ; Cortrol Guide",
+      "url": "http://sequrinet.com/En/index.asp",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS Utepo",
+      "quote": "工业FS Utepo的；质量高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Eva Christensen",
+      "title": "Team Leader",
+      "email": "ussales@sequrinet.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "VMS / NVR 方案（韩国，美国销售）"
+  ],
+  "channels": {
+    "role": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+    "region": "韩国",
+    "contact": "ussales@sequrinet.com"
+  },
+  "signals": [
+    "官网：SEQURINET ; PRODUCTS ; DEMO MOVIE ; NX Guide ; Genetec Guide ; Cortrol Guide；kw camera 17 / nvr 12",
+    "表内：工业 FS Utepo 的；质量高；KP Eva Christensen / Team Leader"
+  ],
+  "risks": [
+    "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
+  },
+  "email_hook": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 ussales@sequrinet.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
+      "type": "VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+      "lane": "KR 次级（点名）",
+      "cadence": "一封",
+      "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的」；研究档 risks：非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触"
+    },
+    "situation": "SEQURINET（sequrinet.com / sequrinet.us：VMS/NVR 方案商（NX、Genetec、Cortrol 指南，韩文站，美国销售邮箱）；表内「工业 FS Utepo 的」「质量高」；KP Eva Christensen（Team Leader））；群发 21 次无回复。",
+    "need": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）",
+    "breakpoint": "非主攻区（T5，韩国/美国站）；现供 Utepo 价格基准低；21 次无回复 → 改向 Team Leader 具名首触",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/34 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1（换人后）",
+      "channel": "A 邮箱 → 具名 KP",
+      "action": "换收件人再发一封",
+      "one_question": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS Utepo的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+        "why": "34 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

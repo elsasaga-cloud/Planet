@@ -1,140 +1,140 @@
 {
- "code": "SB-709",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（jm.pl，快照 2026-10-21）",
- "summary": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
- "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
- "size": "",
- "brands_seen": [
-  "Teltonika",
-  "D-Link",
-  "ICP DAS",
-  "InHand"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Komputery przemysłowe, automatyka, komponenty, LoRaWAN；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
-   "url": "https://jm.pl/pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "inhand的 试试跟进",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "JM elektronik 工业电子分销",
-   "quote": "Komputery przemysłowe, automatyka, komponenty, LoRaWAN ; JM elektronik - dystrybucja komputerów przemysłowych, automatyki",
-   "url": "https://jm.pl/pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "InHand 的，试试跟进",
-   "quote": "inhand的 试试跟进",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "波兰",
-  "other": "官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "工业计算机 / 自动化 / 元件 / LoRaWAN 分销"
- ],
- "channels": {
-  "role": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
-  "region": "波兰",
-  "contact": "jm@jm.pl"
- },
- "signals": [
-  "官网：JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
-  "新闻 /pl/nsm-208pse-m12_-nowa-wersja-popularnego-ethernetowego-switcha-produkcji-icp-das_…；站内 NS-205 / NS-208PSE-IP67",
-  "表内：inhand 的 试试跟进"
- ],
- "risks": [
-  "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
-  "M12 / IP67 需求 Saga 不做；6 次无回复，无具名 KP（jm@）"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做"
- },
- "email_hook": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?",
- "products_seen": [
-  {
-   "brand": "ICP DAS",
-   "model": "NS-208PSE-IP67",
-   "spec": "工业 8 口 PoE 非管理（IP67 版）",
-   "saga": "STI-288GP（RJ45 版，非 IP67）",
-   "url": "https://jm.pl/pl/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 jm@jm.pl；主题多为「Marvell Industrial Alert System、48 Port PoE Managed Switch」）",
-   "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "PL 次级重点",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「inhand的 试试跟进」；研究档 risks：现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低"
-  },
-  "situation": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
-  "need": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做",
-  "breakpoint": "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "inhand的 试试跟进",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Marvell Industrial Alert System、48 Port PoE Managed Switch",
-    "why": "10 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-709",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（jm.pl，快照 2026-10-21）",
+  "summary": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
+  "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+  "size": "",
+  "brands_seen": [
+    "Teltonika",
+    "D-Link",
+    "ICP DAS",
+    "InHand"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Komputery przemysłowe, automatyka, komponenty, LoRaWAN；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
+      "url": "https://jm.pl/pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "inhand的 试试跟进",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "JM elektronik 工业电子分销",
+      "quote": "Komputery przemysłowe, automatyka, komponenty, LoRaWAN ; JM elektronik - dystrybucja komputerów przemysłowych, automatyki",
+      "url": "https://jm.pl/pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "InHand 的，试试跟进",
+      "quote": "inhand的 试试跟进",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 jm.pl，语言 pl，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "工业计算机 / 自动化 / 元件 / LoRaWAN 分销"
+  ],
+  "channels": {
+    "role": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+    "region": "波兰",
+    "contact": "jm@jm.pl"
+  },
+  "signals": [
+    "官网：JM elektronik - dystrybucja komputerów przemysłowych, automatyki, ogniw, kondensatorów, transformatorów, modułów LED oraz urządzeń LoRaWAN",
+    "新闻 /pl/nsm-208pse-m12_-nowa-wersja-popularnego-ethernetowego-switcha-produkcji-icp-das_…；站内 NS-205 / NS-208PSE-IP67",
+    "表内：inhand 的 试试跟进"
+  ],
+  "risks": [
+    "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
+    "M12 / IP67 需求 Saga 不做；6 次无回复，无具名 KP（jm@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做"
+  },
+  "email_hook": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?",
+  "products_seen": [
+    {
+      "brand": "ICP DAS",
+      "model": "NS-208PSE-IP67",
+      "spec": "工业 8 口 PoE 非管理（IP67 版）",
+      "saga": "STI-288GP（RJ45 版，非 IP67）",
+      "url": "https://jm.pl/pl/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 10 封 2025→2026，1 次记录打开，0 回；收件 jm@jm.pl；主题多为「Marvell Industrial Alert System、48 Port PoE Managed Switch」）",
+      "type": "工业电子与自动化分销商（波兰，ICP DAS / InHand 线）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "PL 次级重点",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 10，Opened 标签 1（Simon 群发追踪）；用户表：「inhand的 试试跟进」；研究档 risks：现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低"
+    },
+    "situation": "波兰 JM elektronik（工业计算机、自动化、元件（电池/电容/变压器/LED 模块）与 LoRaWAN 设备分销，Linecard 制；新闻 ICP DAS NSM-208PSE-M12 交换机；Teltonika / D-Link；表内「InHand 的，试试跟进」）；群发 6 次无回复。",
+    "need": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做",
+    "breakpoint": "现有 ICP DAS（台湾）/ InHand（北京）线价格基准中低",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做。已打开的主题（1/10 封有打开记录）：「Marvell Industrial Alert System」(2025-07-16) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "inhand的 试试跟进",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Marvell Industrial Alert System、48 Port PoE Managed Switch",
+        "why": "10 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

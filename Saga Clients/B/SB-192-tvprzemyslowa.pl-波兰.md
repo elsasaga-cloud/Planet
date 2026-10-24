@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：AHD PoE FS MC SFP 网站：很多周边产品 类目比较乱）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-27 → 2025-10-21）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W。已打开的主题（2/17 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-03)、「Managed PoE Switches」(2026-09-28) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → kontakt@tvprzemyslowa.pl 短信一问（email_hook）
@@ -44,11 +44,11 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-192` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 17 封 2025→2026，其中 2 封被打开，0 回；收件 kontakt@tvprzemyslowa.pl；被打开主题「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
+- **绑定等级：读而不回（A/S 邮箱 17 封 2025→2026，其中 2 封被打开，0 回；收件 kontakt@tvprzemyslowa.pl；被打开主题「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：PL 次级重点 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 17，Opened 标签 2（Simon 群发追踪）；用户表：「（用户表字段）」；研究档 risks：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
 - **现状一句话**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。
 - **对方真实需求（有据）**：网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：波兰市场比价激烈（Dahua 8 口含税 ≈$65）；8 次跟进 0 回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——网店/分销 20% 档：STC-28DGGPM（$80.7，8 GE PoE+ + 2 SFP 管理）填补 Dahua 百兆与 IDIS/Eneo 高价之间的千兆管理空档；16 口 STI-21616GP；24 口 STC-424DGGPM-280W。已打开的主题（2/17 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-03)、「Managed PoE Switches」(2026-09-28) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → kontakt@tvprzemyslowa.pl　短信一问（email_hook）
   - 第一问（只问一个）：Between the Dahua PFS3009 and the IDIS DH-2112PF on tvprzemyslowa.pl there is no gigabit managed 8-port PoE+ with SFP under 400 zł; ours is $80.7 EXW — would you like one unit to list and test?
 
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Mini Industrial PoE Switch | 17 封 / 2 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

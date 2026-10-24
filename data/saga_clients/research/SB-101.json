@@ -1,138 +1,140 @@
 {
- "code": "SB-101",
- "name_official": "Comtek Network Systems GmbH（comtek-de.com；英国 Comtek Network Systems, Deeside 1989 的德国公司）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "德国 Mörfelden-Walldorf（法兰克福机场旁）的电信/网络设备**翻新、维修与二手采购**商（USt-ID DE813812023；母公司英国 Comtek Network Systems, Deeside, 1989 年成立；德国站 1–10 人）：网站以 Cisco 翻新交换机（Nexus N3K/N5K、Catalyst 3750E/3850 等）为主，「直接供货给市场上一些最大的 OEM」。对 Saga 而言属非典型买家（卖翻新 Cisco，不以新品白牌为主业）。用户表：1 次实质回复，15 次跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Cisco（翻新）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "法人与地址",
-   "quote": "Registrierte Adresse: Comtek Netzwerksysteme GmbH Nordendstraße 2 64546 Mörfelden-Walldorf) Deutschland Ust.-ID-Nr:DE813812023",
-   "url": "https://www.comtek-de.com/",
-   "date": "2026-07-13"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务模式（翻新/维修/OEM 供货）",
-   "quote": "Alle von uns gelieferten generalüberholten Geräte werden einem strengen Test- und Generalüberholungsprozess unterzogen … Wir beziehen und liefern eine breite Palette von OEM-Teilen und beliefern einige der größten OEMs auf dem Markt direkt. Unser Lagerbestand umfasst überholte Cisco Switches, Cisco IP-Telefone, gebrauchte Netzwerkhardware",
-   "url": "https://www.comtek-de.com/general%C3%BCberholte-Hardware/",
-   "date": "2024-08-06"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式",
-   "quote": "Comtek Network Systems GmbH Nordendstreet 2 64546 Mörfelden-Walldorf Germany info@comtek-de.com Tel: +49 (0)6105 303 9607",
-   "url": "https://www.comtek-de.com/Kontaktieren-Sie-comtek/",
-   "date": "2026-01-22"
-  },
-  {
-   "kind": "用户表",
-   "claim": "1 次实质回复；15 次跟进",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
- },
- "company_facts": {
-  "legal_name": "Comtek Network Systems GmbH（Comtek Netzwerksysteme GmbH）",
-  "hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf, Deutschland（+49 6105 303 9607；info@comtek-de.com）",
-  "size": "1–10（ContactOut，德国站）",
-  "other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）"
- },
- "business_lines": [
-  "翻新 Cisco 交换机/IP 话机销售",
-  "电信设备维修（Telecom Repair）",
-  "OEM 备件采购供应"
- ],
- "products_seen": [
-  {
-   "brand": "Cisco（翻新）",
-   "model": "N3K-C3232C / N5K-C5696Q / WS-C3750E-48PD-S / WS-C3850-48XS-E / PPS-SW-673",
-   "spec": "数据中心与企业翻新交换机；PPS-SW-673 为 24 GE + 4 SFP L2 管理机",
-   "url": "https://www.comtek-de.com/product/pps-sw-673/",
-   "date": "2025-09-10",
-   "saga": "STC-424XGGM（新品 24 GE + 4×10G，$127.4 @20%，作「新品替代」SKU）"
-  }
- ],
- "channels": {
-  "网站": "https://www.comtek-de.com/",
-  "电话": "+49 6105 303 9607（官网公开）",
-  "邮箱（公开）": "info@comtek-de.com"
- },
- "signals": [
-  "翻新商可能需要「新品低价替代」补位（如 24 GE + 4 上联接入机）——仅作低频尝试"
- ],
- "risks": [
-  "主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM"
- },
- "email_hook": "Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 kushagra.bhardwaj@comtek-de.com；主题多为「Updated Ethernet Switches Links」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 1；用户表：「（用户表字段）」；研究档 risks：主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低"
-  },
-  "situation": "德国 Mörfelden-Walldorf（法兰克福机场旁）的电信/网络设备**翻新、维修与二手采购**商（USt-ID DE813812023；母公司英国 Comtek Network Systems, Deeside, 1989 年成立；德国站 1–10 人）：网站以 Cisco 翻新交换机（Nexus N3K/N5K、Catalyst 3750E/3850 等）为主，「直接供货给市场上一些最大的 OEM」。对 Saga 而言属非典型买家（卖翻新 Cisco，不以新品白牌为主业）。用户表：1 次实质回复，15 次跟进。",
-  "need": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM",
-  "breakpoint": "主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "Updated Ethernet Switches Links",
-    "why": "1 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-101",
+  "name_official": "Comtek Network Systems GmbH（comtek-de.com；英国 Comtek Network Systems, Deeside 1989 的德国公司）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "德国 Mörfelden-Walldorf（法兰克福机场旁）的电信/网络设备**翻新、维修与二手采购**商（USt-ID DE813812023；母公司英国 Comtek Network Systems, Deeside, 1989 年成立；德国站 1–10 人）：网站以 Cisco 翻新交换机（Nexus N3K/N5K、Catalyst 3750E/3850 等）为主，「直接供货给市场上一些最大的 OEM」。对 Saga 而言属非典型买家（卖翻新 Cisco，不以新品白牌为主业）。用户表：1 次实质回复，15 次跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Cisco（翻新）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "法人与地址",
+      "quote": "Registrierte Adresse: Comtek Netzwerksysteme GmbH Nordendstraße 2 64546 Mörfelden-Walldorf) Deutschland Ust.-ID-Nr:DE813812023",
+      "url": "https://www.comtek-de.com/",
+      "date": "2026-07-13"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务模式（翻新/维修/OEM 供货）",
+      "quote": "Alle von uns gelieferten generalüberholten Geräte werden einem strengen Test- und Generalüberholungsprozess unterzogen … Wir beziehen und liefern eine breite Palette von OEM-Teilen und beliefern einige der größten OEMs auf dem Markt direkt. Unser Lagerbestand umfasst überholte Cisco Switches, Cisco IP-Telefone, gebrauchte Netzwerkhardware",
+      "url": "https://www.comtek-de.com/general%C3%BCberholte-Hardware/",
+      "date": "2024-08-06"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式",
+      "quote": "Comtek Network Systems GmbH Nordendstreet 2 64546 Mörfelden-Walldorf Germany info@comtek-de.com Tel: +49 (0)6105 303 9607",
+      "url": "https://www.comtek-de.com/Kontaktieren-Sie-comtek/",
+      "date": "2026-01-22"
+    },
+    {
+      "kind": "用户表",
+      "claim": "1 次实质回复；15 次跟进",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对）"
+  },
+  "company_facts": {
+    "legal_name": "Comtek Network Systems GmbH（Comtek Netzwerksysteme GmbH）",
+    "hq": "Nordendstraße 2, 64546 Mörfelden-Walldorf, Deutschland（+49 6105 303 9607；info@comtek-de.com）",
+    "size": "1–10（ContactOut，德国站）",
+    "other": "业务：电信与网络系统采购、维修、翻新；库存为翻新 Cisco 交换机、IP 话机、二手网络硬件；母公司 Comtek Network Systems Ltd（Deeside, Wales, 1989）"
+  },
+  "business_lines": [
+    "翻新 Cisco 交换机/IP 话机销售",
+    "电信设备维修（Telecom Repair）",
+    "OEM 备件采购供应"
+  ],
+  "products_seen": [
+    {
+      "brand": "Cisco（翻新）",
+      "model": "N3K-C3232C / N5K-C5696Q / WS-C3750E-48PD-S / WS-C3850-48XS-E / PPS-SW-673",
+      "spec": "数据中心与企业翻新交换机；PPS-SW-673 为 24 GE + 4 SFP L2 管理机",
+      "url": "https://www.comtek-de.com/product/pps-sw-673/",
+      "date": "2025-09-10",
+      "saga": "STC-424XGGM（新品 24 GE + 4×10G，$127.4 @20%，作「新品替代」SKU）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.comtek-de.com/",
+    "电话": "+49 6105 303 9607（官网公开）",
+    "邮箱（公开）": "info@comtek-de.com"
+  },
+  "signals": [
+    "翻新商可能需要「新品低价替代」补位（如 24 GE + 4 上联接入机）——仅作低频尝试"
+  ],
+  "risks": [
+    "主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM"
+  },
+  "email_hook": "Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 1 封 2026，无记录打开，0 回；收件 kushagra.bhardwaj@comtek-de.com；主题多为「Updated Ethernet Switches Links」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 1；用户表：「（用户表字段）」；研究档 risks：主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低"
+    },
+    "situation": "德国 Mörfelden-Walldorf（法兰克福机场旁）的电信/网络设备**翻新、维修与二手采购**商（USt-ID DE813812023；母公司英国 Comtek Network Systems, Deeside, 1989 年成立；德国站 1–10 人）：网站以 Cisco 翻新交换机（Nexus N3K/N5K、Catalyst 3750E/3850 等）为主，「直接供货给市场上一些最大的 OEM」。对 Saga 而言属非典型买家（卖翻新 Cisco，不以新品白牌为主业）。用户表：1 次实质回复，15 次跟进。",
+    "need": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM",
+    "breakpoint": "主业翻新 Cisco，新品白牌与其客户期待（Cisco 兼容/IOS）不匹配；成交概率低",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "Updated Ethernet Switches Links",
+        "why": "1 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

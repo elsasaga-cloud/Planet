@@ -1,172 +1,172 @@
 {
- "code": "SA-014",
- "name_official": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.（İstanbul）",
- "website_status": "在线",
- "summary": "土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。",
- "type": "分销商（网络设备，DCN 土耳其分销）",
- "size": "未见人数；自述在土装机 10,000+ 台 DCN",
- "brands_seen": [
-  "DCN",
-  "ONV"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "DCN 分销商身份与装机量",
-   "quote": "Firmamız 2010 yılından beri DCN ürünlerinin distribütörlüğünü yapmaktadır … 2020 yılı itibariyle Türkiye'de çalışan ürün sayısı 10.000'in üzerindedir.",
-   "url": "http://www.coptek.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址/联系方式",
-   "quote": "Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ. … Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL · +90 212-2757953 · info@coptek.com.tr",
-   "url": "https://www.coptek.com.tr/CS6570.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "DCN 导轨工业 PoE 机型 IS2100D-2GFP8GT-P 规格",
-   "quote": "IS2100D(R2) serisi switchler DCNin yeni nesil Ray-Montaj Endüstriyel switchlerdir … 8*10/100/1000M UTP MDI/MDI-X POE + 2*SFP port … 802.3af 15W/802.3at 30W 240W Güç Bütçesi … -40°C - 85°C … 50 ~ 57 VDC",
-   "url": "https://www.coptek.com.tr/IS2100(R2).html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "DCN PoE 组合 8–48 口、125–740W、L2 到 L3、标准到工业",
-   "quote": "DCN POE Switch portföyümüz, 8 porttan 48 porta, 125W-740W güç bütçesi, Layer 2'den Layer 3'e, standarttan endüstriyele çok geniş bir yelpazeye sahiptir.",
-   "url": "http://www.coptek.com.tr/urunler.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "S4600-10P-P-SI：8 口 PoE + 2 SFP，G.8032 环网",
-   "quote": "S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması",
-   "url": "http://www.coptek.com.tr/S4600-10P-P-SI.html",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "总机",
-   "email": "info@coptek.com.tr",
-   "phone": "+90 212 275 79 53",
-   "source": "https://www.coptek.com.tr/CS6570.html"
-  }
- ],
- "notes": "A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.",
-  "founded": "2006（注册）；2010 年起 DCN 土耳其分销",
-  "hq": "İstanbul, Türkiye",
-  "other": "官网自述 2020 年起在土运行 DCN 设备 10,000+ 台；DCN 全线：核心/数据中心/L2/L3/PoE/工业导轨"
- },
- "business_lines": [
-  "DCN 交换机分销（核心、数据中心、L2/L3、PoE 8–48 口 125–740W、工业 IS2100D 导轨系列）",
-  "无线控制器/AP、防火墙（DCN）",
-  "自建站询盘：工业光纤交换机 IM-FS280GW ×100（2026）"
- ],
- "products_seen": [
-  {
-   "brand": "DCN",
-   "model": "IS2100D-2GFP8GT-P(R2)",
-   "spec": "导轨工业 8×GE PoE + 2 SFP，240W，-40~85℃，IP40，DCNOS，50–57VDC",
-   "url": "https://www.coptek.com.tr/IS2100(R2).html",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "DCN",
-   "model": "S4600-10P-P-SI",
-   "spec": "L2 接入 8×GE PoE/PoE+ + 2 SFP，20Gbps，G.8032/MRPP 环网，4K 防雷",
-   "url": "http://www.coptek.com.tr/S4600-10P-P-SI.html",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  },
-  {
-   "brand": "DCN",
-   "model": "CS6200-28X-P-EI / CS6200-52X-P-EI",
-   "spec": "24/48 口 PoE（af/at/bt）+ 10G 上联，L3，740W 预算（52 口）",
-   "url": "http://www.coptek.com.tr/CS6200-28X-P-EI.html",
-   "date": "2026-10-21",
-   "saga": "STC-424XGGPM-280W"
-  },
-  {
-   "brand": "ONV",
-   "model": "工业光纤交换机（用户表：也卖 ONV 工业 FS）",
-   "spec": "—",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM"
-  }
- ],
- "channels": {
-  "网站": "http://www.coptek.com.tr/（产品页按型号独立 URL）",
-  "直邮": "info@coptek.com.tr（用户表 + 官网）",
-  "联系人": "Akgin Inceoglu（用户表）"
- },
- "signals": [
-  "2026：自建站询盘 IM-FS280GW 100 台（工业光纤交换机）——有明确项目量（用户表）",
-  "官网 DCN 产品页仍在更新（IS2100D R2 新一代导轨机型）"
- ],
- "risks": [
-  "DCN 为中国品牌且已有完整 PoE/工业线 → Saga 只能以「非 DCN 项目 / 价格更低的替代」切入，避免正面替换其主代理线",
-  "土耳其进口税与 TL 汇率波动，报价需 USD EXW 并留有效期"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W"
- },
- "email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-10-28；用户表「100 台工业 FS 询盘」在邮件无痕——在 Saga 自己的 TR 重点名单内）",
-   "type": "土耳其网络分销（DCN 分销，Koptek）——主攻区",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "邮件层无互动",
-   "revive": "土耳其主攻：一封针对性（对位 IM-FS280GW 2 光 8 电）",
-   "lane": "TR",
-   "cadence": "一次 + 季度",
-   "evidence": "邮件：去信 17 封（2024-07-08 → 2026-10-06），来信 0；Opened 标签 1 次（2025-10-28）；收件人 info@coptek.com.tr"
-  },
-  "situation": "17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。",
-  "need": "工业光纤交换机 2 光 8 电（100 台级）。",
-  "breakpoint": "渠道未知（WhatsApp/展会？）。",
-  "saga_now": {
-   "p1": "STI-288DGGPM 对位 IM-FS280GW",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → info@coptek.com.tr（+ WA 若有）",
-   "action": "一封对位表 + 问 100 台询盘",
-   "one_question": "Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?"
-  },
-  "facts": [
-   {
-    "date": "2025-10-28",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "04dd529092533295"
-   }
+  "code": "SA-014",
+  "name_official": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.（İstanbul）",
+  "website_status": "在线",
+  "summary": "土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。",
+  "type": "分销商（网络设备，DCN 土耳其分销）",
+  "size": "未见人数；自述在土装机 10,000+ 台 DCN",
+  "brands_seen": [
+    "DCN",
+    "ONV"
   ],
-  "proof_gaps": [
-   "「100 台工业 FS 询盘」出处未见"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "DCN 分销商身份与装机量",
+      "quote": "Firmamız 2010 yılından beri DCN ürünlerinin distribütörlüğünü yapmaktadır … 2020 yılı itibariyle Türkiye'de çalışan ürün sayısı 10.000'in üzerindedir.",
+      "url": "http://www.coptek.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址/联系方式",
+      "quote": "Koptek Bilgisayar ve İletişim Sistemleri LTD.ŞTİ. … Fuat Sarp Sokak.No:5/1 Balmumcu-İSTANBUL · +90 212-2757953 · info@coptek.com.tr",
+      "url": "https://www.coptek.com.tr/CS6570.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "DCN 导轨工业 PoE 机型 IS2100D-2GFP8GT-P 规格",
+      "quote": "IS2100D(R2) serisi switchler DCNin yeni nesil Ray-Montaj Endüstriyel switchlerdir … 8*10/100/1000M UTP MDI/MDI-X POE + 2*SFP port … 802.3af 15W/802.3at 30W 240W Güç Bütçesi … -40°C - 85°C … 50 ~ 57 VDC",
+      "url": "https://www.coptek.com.tr/IS2100(R2).html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "DCN PoE 组合 8–48 口、125–740W、L2 到 L3、标准到工业",
+      "quote": "DCN POE Switch portföyümüz, 8 porttan 48 porta, 125W-740W güç bütçesi, Layer 2'den Layer 3'e, standarttan endüstriyele çok geniş bir yelpazeye sahiptir.",
+      "url": "http://www.coptek.com.tr/urunler.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "S4600-10P-P-SI：8 口 PoE + 2 SFP，G.8032 环网",
+      "quote": "S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması",
+      "url": "http://www.coptek.com.tr/S4600-10P-P-SI.html",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "—",
+      "role": "总机",
+      "email": "info@coptek.com.tr",
+      "phone": "+90 212 275 79 53",
+      "source": "https://www.coptek.com.tr/CS6570.html"
+    }
+  ],
+  "notes": "A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.",
+    "founded": "2006（注册）；2010 年起 DCN 土耳其分销",
+    "hq": "İstanbul, Türkiye",
+    "other": "官网自述 2020 年起在土运行 DCN 设备 10,000+ 台；DCN 全线：核心/数据中心/L2/L3/PoE/工业导轨"
+  },
+  "business_lines": [
+    "DCN 交换机分销（核心、数据中心、L2/L3、PoE 8–48 口 125–740W、工业 IS2100D 导轨系列）",
+    "无线控制器/AP、防火墙（DCN）",
+    "自建站询盘：工业光纤交换机 IM-FS280GW ×100（2026）"
+  ],
+  "products_seen": [
+    {
+      "brand": "DCN",
+      "model": "IS2100D-2GFP8GT-P(R2)",
+      "spec": "导轨工业 8×GE PoE + 2 SFP，240W，-40~85℃，IP40，DCNOS，50–57VDC",
+      "url": "https://www.coptek.com.tr/IS2100(R2).html",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "DCN",
+      "model": "S4600-10P-P-SI",
+      "spec": "L2 接入 8×GE PoE/PoE+ + 2 SFP，20Gbps，G.8032/MRPP 环网，4K 防雷",
+      "url": "http://www.coptek.com.tr/S4600-10P-P-SI.html",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    },
+    {
+      "brand": "DCN",
+      "model": "CS6200-28X-P-EI / CS6200-52X-P-EI",
+      "spec": "24/48 口 PoE（af/at/bt）+ 10G 上联，L3，740W 预算（52 口）",
+      "url": "http://www.coptek.com.tr/CS6200-28X-P-EI.html",
+      "date": "2026-10-21",
+      "saga": "STC-424XGGPM-280W"
+    },
+    {
+      "brand": "ONV",
+      "model": "工业光纤交换机（用户表：也卖 ONV 工业 FS）",
+      "spec": "—",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-288DGGPM"
+    }
+  ],
+  "channels": {
+    "网站": "http://www.coptek.com.tr/（产品页按型号独立 URL）",
+    "直邮": "info@coptek.com.tr（用户表 + 官网）",
+    "联系人": "Akgin Inceoglu（用户表）"
+  },
+  "signals": [
+    "2026：自建站询盘 IM-FS280GW 100 台（工业光纤交换机）——有明确项目量（用户表）",
+    "官网 DCN 产品页仍在更新（IS2100D R2 新一代导轨机型）"
+  ],
+  "risks": [
+    "DCN 为中国品牌且已有完整 PoE/工业线 → Saga 只能以「非 DCN 项目 / 价格更低的替代」切入，避免正面替换其主代理线",
+    "土耳其进口税与 TL 汇率波动，报价需 USD EXW 并留有效期"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "询盘的 IM-FS280GW（8 口工业光纤 PoE）直接对位 STI-288DGGPM；其 DCN 导轨 IS2100D-2GFP8GT-P 同规格；分销商 20% 档；L2 接入 S4600-10P 对位 STC-28DGGPM，24 口 bt 对位 STC-424XGGPM-280W"
+  },
+  "email_hook": "For the 100-unit IM-FS280GW class requirement, our 8-port gigabit PoE DIN switch with 2 SFP uplinks (-40 to 75 C, 240 W) is the direct equivalent to the IS2100D-2GFP8GT-P you list, and I can hold a distributor EXW price for the full quantity.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-10-28；用户表「100 台工业 FS 询盘」在邮件无痕——在 Saga 自己的 TR 重点名单内）",
+      "type": "土耳其网络分销（DCN 分销，Koptek）——主攻区",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "邮件层无互动",
+      "revive": "土耳其主攻：一封针对性（对位 IM-FS280GW 2 光 8 电）",
+      "lane": "TR",
+      "cadence": "一次 + 季度",
+      "evidence": "邮件：去信 17 封（2024-07-08 → 2026-10-06），来信 0；Opened 标签 1 次（2025-10-28）；收件人 info@coptek.com.tr"
+    },
+    "situation": "17 封群发只被打开 1 次（2025-10）。用户表说有 100 台工业光纤交换机询盘——若属实是 TR 最大单一需求之一，但邮件/PI 无痕迹。",
+    "need": "工业光纤交换机 2 光 8 电（100 台级）。",
+    "breakpoint": "渠道未知（WhatsApp/展会？）。",
+    "saga_now": {
+      "p1": "STI-288DGGPM 对位 IM-FS280GW",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → info@coptek.com.tr（+ WA 若有）",
+      "action": "一封对位表 + 问 100 台询盘",
+      "one_question": "Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?"
+    },
+    "facts": [
+      {
+        "date": "2025-10-28",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "04dd529092533295"
+      }
+    ],
+    "proof_gaps": [
+      "「100 台工业 FS 询盘」出处未见"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

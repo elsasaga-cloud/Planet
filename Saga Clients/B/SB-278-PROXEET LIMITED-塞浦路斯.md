@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-278` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 marketplace@proxeet.com；主题多为「Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：塞浦路斯（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com」；研究档 risks：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
 - **现状一句话**：塞浦路斯帕福斯的 PoE/ISP 网络设备品牌商 Proxeet Ltd（公司号 HE 437925，2022-08-31 注册；LinkedIn 11–50 人、2020 年起；产品：iBlock 便携式 PoE 注入器（被动 26 V / 有源 50 V，25 W）、portablepoe.com、Chiprian 系列 L3 管理交换机 16/24 口（802.3af/at/bt + 24/48 V 被动 PoE，「designed and assembled in Cyprus」）；面向 ISP/WISP；+357 25 100999；info@proxeet.com；阿里巴巴供应商账号也在售 PoE injector）。阿里 RFQ：Marina Shkarpetina（marketplace@proxeet.com）需要 30 W PoE injector；WhatsApp 已
 - **对方真实需求（有据）**：OEM 30% 档；RFQ 为 30 W PoE injector —— Saga 暂无 injector SKU（待核型，见 Q-32）；可并行推 STC-424DGGPM-280W（24 PoE+ 4 SFP L2+，$145.7@30）作其 Chiprian A1-24P 的 OEM 备选
 - **断点 / 为什么停在这里**：Saga 价格表无 PoE injector SKU（待 Simon 决定是否向 SmartByte/HRUI 索价）；对方自研/组装、对价格与规格要求高
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 需要30W PoE injector / from: 阿里巴巴RFQ / marketplace@proxeet.com | 表内备注 | `用户表` |
 | 2024 | 去 | S 群发 | Industrial PoE Switch | 1 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

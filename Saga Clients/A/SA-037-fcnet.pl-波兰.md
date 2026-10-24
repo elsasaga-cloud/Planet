@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。（调研 2026-10-21；表内兴趣：自己的logo）
 - **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-02-04 → 2025-09-16）；最近一次客户回复：2025-04-18：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（管理型 PoE，差异品） — 换品类问一次；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（管理型 PoE，差异品） — 换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd
 - **第一问（只问一个）**：For managed PoE switches (not MC), who is your current source and what is the gap you would switch for?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1 A 邮箱 → info@fcnet.pl 一句话问管理型 PoE 的来源
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：FCNET 2025-04-18 问 10G MC 价格，Alan 报 65 USD（Marvell 芯片），04-22 回「别家价格好得多」。A 邮箱补齐后的新增线程里 FCNET 也只有这一段。
 - **对方真实需求（有据）**：10G MC（价格导向）。
 - **断点 / 为什么停在这里**：MC 是最同质化的品类，Marvell 溢价在这里没有故事；筛子正常工作。
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（管理型 PoE，差异品）**（20% 档，按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd）——换品类问一次
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（管理型 PoE，差异品）**（20% 档，按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd）——换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1
 - **下一步（具体）**：2027-Q1　A 邮箱 → info@fcnet.pl　一句话问管理型 PoE 的来源
   - 第一问（只问一个）：For managed PoE switches (not MC), who is your current source and what is the gap you would switch for?
 

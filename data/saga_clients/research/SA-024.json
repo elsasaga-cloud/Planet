@@ -145,7 +145,7 @@
       "p1": "STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0）",
       "tier": 20,
       "price": "按 20% 分销档（若贴 Chimera 标 → 30%）",
-      "why": "J2：功能缺口已闭合是最硬的复活理由；一句话即可",
+      "why": "J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1",
       "repeat": [],
       "gaps": [
         "7.4/7.5 是否同时满足 SNMPv3 + SSHv2 + IPv6 全项——按 7.5 特性表核一遍再说"

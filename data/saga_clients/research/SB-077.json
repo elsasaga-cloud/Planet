@@ -1,127 +1,127 @@
 {
- "code": "SB-077",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（wire.tech，快照 2026-10-21）",
- "summary": "英国 Wire Technologies（wire.tech：光模块、DAC/AOC、光纤与 MPO 线缆、CAT 线、扩展坞、MC、PDU；Cisco/Juniper/H3C 兼容；表内「MC 有光路的外壳 12 机架，好几种外壳 自己的 logo，SFP」；KP Nathan Barrowclough、James）；群发 16 次无回复。",
- "type": "网络配件品牌商（英国，自有标 MC/光模块）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Juniper",
-  "H3C"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Wire Technologies — Wire Technologies；品类词 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
-   "url": "https://wire.tech/",
-   "date": "2026-10-21"
+  "code": "SB-077",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（wire.tech，快照 2026-10-21）",
+  "summary": "英国 Wire Technologies（wire.tech：光模块、DAC/AOC、光纤与 MPO 线缆、CAT 线、扩展坞、MC、PDU；Cisco/Juniper/H3C 兼容；表内「MC 有光路的外壳 12 机架，好几种外壳 自己的 logo，SFP」；KP Nathan Barrowclough、James）；群发 16 次无回复。",
+  "type": "网络配件品牌商（英国，自有标 MC/光模块）",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "Juniper",
+    "H3C"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Wire Technologies — Wire Technologies；品类词 布线 / 线缆 / 光纤 / 媒体转换",
+      "quote": "Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
+      "url": "https://wire.tech/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Wire Technologies 定位",
+      "quote": "Wire Technologies — Wire Technologies ; Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
+      "url": "https://wire.tech/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 多外壳 12 机架 自己的 logo SFP",
+      "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Nathan Barrowclough",
+      "title": "（职务待核）",
+      "email": "nathan@wire.tech",
+      "phone": "",
+      "source": "用户表"
+    },
+    {
+      "name": "James",
+      "title": "（姓氏/职务待核）",
+      "email": "james@wire.tech",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Wire Technologies 定位",
-   "quote": "Wire Technologies — Wire Technologies ; Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
-   "url": "https://wire.tech/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "光模块 / DAC / 光纤线缆（自有品牌）",
+    "MC / PDU / 扩展坞"
+  ],
+  "channels": {
+    "role": "网络配件品牌商（英国，自有标 MC/光模块）",
+    "region": "英国",
+    "contact": "nathan@wire.tech、james@wire.tech"
   },
-  {
-   "kind": "用户表",
-   "claim": "MC 多外壳 12 机架 自己的 logo SFP",
-   "quote": "MC 有光路的外壳 12机架 好几种外壳 自己的logo SFP",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters；首页 Transceivers ; Direct Attach Cables ; Active Optical Cables；kw cable 107 / cisco 30 / media converter 15",
+    "表内：MC 有光路的外壳 12 机架 好几种外壳 自己的 logo SFP；KP Nathan Barrowclough"
+  ],
+  "risks": [
+    "核心需求（桌面 MC 多外壳 + 12 槽机架、SFP）Saga 不供（Q-32）：仅工业 MC 可对位，契合度低",
+    "16 次无回复 → 改向 Nathan 具名首触（职务待核）"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "自有 logo MC（多外壳 + 12 槽机架）→ Saga 无 MC 机架/桌面 MC（Q-32）；工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 可贴标；光模块/DAC Saga 不供"
+  },
+  "email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）",
+      "type": "英国网络配件品牌商（Wire.tech）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "UK",
+      "cadence": "不动",
+      "evidence": "k=54e501928ff8e36a"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—。已打开的主题（4/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-07)、「Managed Optical Bypass Switch」(2025-03-28)、「Managed Optical Bypass Switch」(2025-06-17)、「8 Port Industrial PoE Switch」(2025-08-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Nathan Barrowclough",
-   "title": "（职务待核）",
-   "email": "nathan@wire.tech",
-   "phone": "",
-   "source": "用户表"
-  },
-  {
-   "name": "James",
-   "title": "（姓氏/职务待核）",
-   "email": "james@wire.tech",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 wire.tech，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "光模块 / DAC / 光纤线缆（自有品牌）",
-  "MC / PDU / 扩展坞"
- ],
- "channels": {
-  "role": "网络配件品牌商（英国，自有标 MC/光模块）",
-  "region": "英国",
-  "contact": "nathan@wire.tech、james@wire.tech"
- },
- "signals": [
-  "官网：Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters；首页 Transceivers ; Direct Attach Cables ; Active Optical Cables；kw cable 107 / cisco 30 / media converter 15",
-  "表内：MC 有光路的外壳 12 机架 好几种外壳 自己的 logo SFP；KP Nathan Barrowclough"
- ],
- "risks": [
-  "核心需求（桌面 MC 多外壳 + 12 槽机架、SFP）Saga 不供（Q-32）：仅工业 MC 可对位，契合度低",
-  "16 次无回复 → 改向 Nathan 具名首触（职务待核）"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "自有 logo MC（多外壳 + 12 槽机架）→ Saga 无 MC 机架/桌面 MC（Q-32）；工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 可贴标；光模块/DAC Saga 不供"
- },
- "email_hook": "Nathan, for the media converters sold under your label alongside your transceiver and cable range, we can supply industrial gigabit and PoE MCs (DIN/wall mount, −40~75 °C) in your packaging from small lots, CE/RoHS/UKCA — is there an MC housing or rack-chassis configuration you currently struggle to source?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）",
-   "type": "英国网络配件品牌商（Wire.tech）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "UK",
-   "cadence": "不动",
-   "evidence": "k=54e501928ff8e36a"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

@@ -1,171 +1,171 @@
 {
- "code": "SA-112",
- "name_official": "SMBIT Ltd（Mazkeret Batya，以色列，2012 年）",
- "website_status": "在线",
- "summary": "以色列 ICT 集成商（2012 年起，约 14 人，ISO 认证）：路由交换、企业 WiFi（Ubiquiti 经销商，装机 1 万+ AP）、毫米波无线、LoRa IoT、GPON、智慧城市平台 EKRON；中标耶路撒冷全市毫米波网络；自建站询盘：IM-FS480GW 4 台、2025 年约 150 台，WA 已加，邮件 0 回复 / 5 次。",
- "type": "ICT 系统集成商（含市政智慧城市项目）",
- "size": "小型（≈14 人）",
- "brands_seen": [
-  "Ubiquiti",
-  "EKRON（自有软件）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "2012 年起的 ICT 服务商：路由交换、WiFi、毫米波、IoT、GPON、智慧城市",
-   "quote": "SMBIT has been operating in the field of ICT since 2012… Routing, switching and consolidation of lines… Wireless links in millimeter waves… Fiber optic GPON",
-   "url": "https://www.smbit.co.il/?lang=en",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "中标耶路撒冷全市毫米波网络（连接市政/学校/路口摄像）",
-   "quote": "SMBIT has won a tender to set up a millimeter-wave communications network covering all of Jerusalem… connecting municipal offices, educational institutions, and security cameras",
-   "url": "https://www.smbit.co.il/post/holy-city-to-become-smart-city",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "RocketReach",
-   "claim": "约 14 人，2012 年创立，ICT 集成",
-   "quote": "SMBIT LTD is an ICT integration company… Employees · 14… Founded · 2012",
-   "url": "https://rocketreach.co/smbitltd-profile_b42615b5ff38c478",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "Ubiquiti",
-   "claim": "Ubiquiti 以色列经销商，电话 +972 77 6001070",
-   "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya… +972 77 6001070",
-   "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "业务范围与联系方式",
-   "quote": "SMBIT has been operating in the field of ICT since 2012 … Routing, switching and consolidation of lines - High-performance WIFI for a business environment - Wireless links in millimeter waves - Deployment of IoT networks … Fiber optic GPON … PO Box 1399 Mazkeret Batya 7680400 Tel.: +972.77.6001070 Email: info@smbit.co.il",
-   "url": "https://www.smbit.co.il/?lang=en",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "原厂名录",
-   "claim": "Ubiquiti 官方以色列经销名录列出 SMBIT",
-   "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya 7680400 Israel",
-   "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Ubiquiti 授权经销，含 PoE 交换机",
-   "quote": "SMBIT is an authorized reseller of UBIQUITI products … The company's products include: POE switches, access points, wireless links and a control and management system",
-   "url": "https://www.smbit.co.il/ubiquiti-wifi?lang=en",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（自建站询盘联系人，见 Clients 表）",
-   "role": "",
-   "email": "",
-   "phone": "+972 54 493 7099（WA）",
-   "source": "用户 Clients 表（自建站询盘）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + Ubiquiti 经销名录核对）"
- },
- "company_facts": {
-  "legal_name": "SMBIT Ltd（SMBIT.LTD）",
-  "founded": "2012",
-  "hq": "13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；info@smbit.co.il）",
-  "staff": "14–16",
-  "other": "ICT 集成商：路由交换、企业 Wi-Fi（**Ubiquiti 官方授权经销，列于 ui.com 以色列经销名录**；Ubiquiti 以色列总代为 Lan-Tech）、毫米波无线链路、LoRaWAN IoT、GPON 光纤、安防摄像机、PBX；自有智慧城市平台 EKRON（ekron.city，带网管/网安）；客户：企业、地方政府、教育系统"
- },
- "business_lines": [
-  "企业 WiFi / 路由交换",
-  "毫米波无线 / GPON",
-  "智慧城市平台 EKRON",
-  "Ubiquiti Wi-Fi / 交换 / 控制器 经销与实施",
-  "毫米波点对点链路、GPON",
-  "LoRaWAN IoT + EKRON 智慧城市/校园平台",
-  "安防摄像机、PBX"
- ],
- "products_seen": [
-  {
-   "brand": "（询价）",
-   "model": "IM-FS480GW（用户表型号）",
-   "spec": "工业 48 口？需核对用户表型号含义",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-448XGGM(L3) / STC-424XGGPM-280W（待核）"
-  }
- ],
- "channels": {
-  "网站": "https://www.smbit.co.il/?lang=en",
-  "直邮": "yoav@smbit.co.il（用户表）",
-  "电话": "+972 77 600 1070（官网公开）",
-  "邮箱（公开）": "info@smbit.co.il",
-  "Facebook": "https://www.facebook.com/smbiteam"
- },
- "signals": [
-  "智慧城市/市政项目——守界：仅供商业部分；Ubiquiti 生态偏好",
-  "Ubiquiti 授权经销 + 自有 EKRON 网管——需要可被第三方 SNMP 管理的白牌 PoE 交换机作 Ubiquiti 之外的价格位（2026-10-21）"
- ],
- "risks": [
-  "以色列市政项目守界；Ubiquiti 价格锚",
-  "以色列：物流/支付路径需先确认（EXW 不受影响，货代由客户指定）"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
-  "tier": 25,
-  "why": "IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档"
- },
- "email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 16 封 0 回，Opened 1 次 2026-02-02；用户表「入站询盘 + 年量 ≈150 台工业 PoE」）",
-   "type": "以色列 ICT 集成（SMBIT，Yoav）",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "对 150 台/年问一次",
-   "lane": "IL",
-   "cadence": "一次",
-   "evidence": "邮件：去信 16 封（2025-06-04 → 2026-10-07），来信 0；Opened 标签 1 次（2026-02-02）；收件人 yoav@smbit.co.il"
-  },
-  "situation": "邮件被打开 1 次（2026-02）；150 台/年的询盘在邮件无痕。",
-  "need": "工业 PoE 150 台/年（市政/学校）。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STI-288DGGPM",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → yoav@smbit.co.il",
-   "action": "一句话",
-   "one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
-  },
-  "facts": [
-   {
-    "date": "2026-02-02",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "b55e88e2576e6c73"
-   }
+  "code": "SA-112",
+  "name_official": "SMBIT Ltd（Mazkeret Batya，以色列，2012 年）",
+  "website_status": "在线",
+  "summary": "以色列 ICT 集成商（2012 年起，约 14 人，ISO 认证）：路由交换、企业 WiFi（Ubiquiti 经销商，装机 1 万+ AP）、毫米波无线、LoRa IoT、GPON、智慧城市平台 EKRON；中标耶路撒冷全市毫米波网络；自建站询盘：IM-FS480GW 4 台、2025 年约 150 台，WA 已加，邮件 0 回复 / 5 次。",
+  "type": "ICT 系统集成商（含市政智慧城市项目）",
+  "size": "小型（≈14 人）",
+  "brands_seen": [
+    "Ubiquiti",
+    "EKRON（自有软件）"
   ],
-  "proof_gaps": [
-   "「150 台/年」出处未见"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "2012 年起的 ICT 服务商：路由交换、WiFi、毫米波、IoT、GPON、智慧城市",
+      "quote": "SMBIT has been operating in the field of ICT since 2012… Routing, switching and consolidation of lines… Wireless links in millimeter waves… Fiber optic GPON",
+      "url": "https://www.smbit.co.il/?lang=en",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "中标耶路撒冷全市毫米波网络（连接市政/学校/路口摄像）",
+      "quote": "SMBIT has won a tender to set up a millimeter-wave communications network covering all of Jerusalem… connecting municipal offices, educational institutions, and security cameras",
+      "url": "https://www.smbit.co.il/post/holy-city-to-become-smart-city",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "RocketReach",
+      "claim": "约 14 人，2012 年创立，ICT 集成",
+      "quote": "SMBIT LTD is an ICT integration company… Employees · 14… Founded · 2012",
+      "url": "https://rocketreach.co/smbitltd-profile_b42615b5ff38c478",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "Ubiquiti",
+      "claim": "Ubiquiti 以色列经销商，电话 +972 77 6001070",
+      "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya… +972 77 6001070",
+      "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "业务范围与联系方式",
+      "quote": "SMBIT has been operating in the field of ICT since 2012 … Routing, switching and consolidation of lines - High-performance WIFI for a business environment - Wireless links in millimeter waves - Deployment of IoT networks … Fiber optic GPON … PO Box 1399 Mazkeret Batya 7680400 Tel.: +972.77.6001070 Email: info@smbit.co.il",
+      "url": "https://www.smbit.co.il/?lang=en",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "原厂名录",
+      "claim": "Ubiquiti 官方以色列经销名录列出 SMBIT",
+      "quote": "SMBIT Ltd 13 Haim Meler St Mazkeret Batya 7680400 Israel",
+      "url": "https://www.ui.com/distributors/?country_state=IL&region=mid-e",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Ubiquiti 授权经销，含 PoE 交换机",
+      "quote": "SMBIT is an authorized reseller of UBIQUITI products … The company's products include: POE switches, access points, wireless links and a control and management system",
+      "url": "https://www.smbit.co.il/ubiquiti-wifi?lang=en",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（自建站询盘联系人，见 Clients 表）",
+      "role": "",
+      "email": "",
+      "phone": "+972 54 493 7099（WA）",
+      "source": "用户 Clients 表（自建站询盘）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "入站询盘 + 年量预估（≈150 台工业 PoE）= 可追溯真实需求；集成商尺寸可赢。市政/学校项目属公共部门边缘，但 Saga 卖给集成商为商业交易，可做；不参与投标主体。P1：STI-288DGGPM（IM-FS480GW 对位：8 电 + 光口工业 PoE，核对现行型号），项目价阶 25%。邮件不回 → WA。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + Ubiquiti 经销名录核对）"
+  },
+  "company_facts": {
+    "legal_name": "SMBIT Ltd（SMBIT.LTD）",
+    "founded": "2012",
+    "hq": "13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；info@smbit.co.il）",
+    "staff": "14–16",
+    "other": "ICT 集成商：路由交换、企业 Wi-Fi（**Ubiquiti 官方授权经销，列于 ui.com 以色列经销名录**；Ubiquiti 以色列总代为 Lan-Tech）、毫米波无线链路、LoRaWAN IoT、GPON 光纤、安防摄像机、PBX；自有智慧城市平台 EKRON（ekron.city，带网管/网安）；客户：企业、地方政府、教育系统"
+  },
+  "business_lines": [
+    "企业 WiFi / 路由交换",
+    "毫米波无线 / GPON",
+    "智慧城市平台 EKRON",
+    "Ubiquiti Wi-Fi / 交换 / 控制器 经销与实施",
+    "毫米波点对点链路、GPON",
+    "LoRaWAN IoT + EKRON 智慧城市/校园平台",
+    "安防摄像机、PBX"
+  ],
+  "products_seen": [
+    {
+      "brand": "（询价）",
+      "model": "IM-FS480GW（用户表型号）",
+      "spec": "工业 48 口？需核对用户表型号含义",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STC-448XGGM(L3) / STC-424XGGPM-280W（待核）"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.smbit.co.il/?lang=en",
+    "直邮": "yoav@smbit.co.il（用户表）",
+    "电话": "+972 77 600 1070（官网公开）",
+    "邮箱（公开）": "info@smbit.co.il",
+    "Facebook": "https://www.facebook.com/smbiteam"
+  },
+  "signals": [
+    "智慧城市/市政项目——守界：仅供商业部分；Ubiquiti 生态偏好",
+    "Ubiquiti 授权经销 + 自有 EKRON 网管——需要可被第三方 SNMP 管理的白牌 PoE 交换机作 Ubiquiti 之外的价格位（2026-10-21）"
+  ],
+  "risks": [
+    "以色列市政项目守界；Ubiquiti 价格锚",
+    "以色列：物流/支付路径需先确认（EXW 不受影响，货代由客户指定）"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGPM-280W",
+    "tier": 25,
+    "why": "IM-FS480GW 询价对位 48 口/10G 上联机型（STC-448XGGM(L3) 或 STC-424XGGPM-280W），需核；集成商 25% 档"
+  },
+  "email_hook": "On the IM-FS480GW enquiry, the closest Marvell-based platforms are the 24-port PoE+ with four 10G SFP+ uplinks and the 48-port L3 unit, so I am sending both datasheets with EXW pricing for you to confirm the port mix.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 16 封 0 回，Opened 1 次 2026-02-02；用户表「入站询盘 + 年量 ≈150 台工业 PoE」）",
+      "type": "以色列 ICT 集成（SMBIT，Yoav）",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "对 150 台/年问一次",
+      "lane": "IL",
+      "cadence": "一次",
+      "evidence": "邮件：去信 16 封（2025-06-04 → 2026-10-07），来信 0；Opened 标签 1 次（2026-02-02）；收件人 yoav@smbit.co.il"
+    },
+    "situation": "邮件被打开 1 次（2026-02）；150 台/年的询盘在邮件无痕。",
+    "need": "工业 PoE 150 台/年（市政/学校）。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STI-288DGGPM",
+      "tier": 25,
+      "price": "—",
+      "why": "—。已打开的主题（1/16 封有打开记录）：「OEM Core Switching Solution」(2026-02-02) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → yoav@smbit.co.il",
+      "action": "一句话",
+      "one_question": "Is the ~150-unit/year industrial PoE requirement still live, and which spec did it settle on?"
+    },
+    "facts": [
+      {
+        "date": "2026-02-02",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「OEM Core Switching Solution」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "b55e88e2576e6c73"
+      }
+    ],
+    "proof_gaps": [
+      "「150 台/年」出处未见"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

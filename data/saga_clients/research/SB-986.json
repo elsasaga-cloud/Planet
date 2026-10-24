@@ -1,126 +1,126 @@
 {
- "code": "SB-986",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（lemaxguvenlik.com，快照 2026-10-21）",
- "summary": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
- "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
- "size": "",
- "brands_seen": [
-  "新桥（疑）"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Gece Görüşlü Güvenlik Kamerası Fiyatları, En Kaliteli En Uygun Güvenlik Kamerası Sistemleri Ve Paket Kameralar, Cctv Kamera Fiyatları Lemaxguvenlik.com 'da",
-   "url": "https://www.lemaxguvenlik.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Lemax 网店",
-   "quote": "Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik ; 4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi",
-   "url": "https://www.lemaxguvenlik.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch；新桥的",
-   "quote": "switch；新桥的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "安防摄像机套装网店"
- ],
- "channels": {
-  "role": "CCTV 套装网店（土耳其，PoE 现新桥）",
-  "region": "土耳其",
-  "contact": "satis@lemaxguvenlik.com"
- },
- "signals": [
-  "页面 /urun/4-kamerali-4k-…-poe-ip-kamera-sistemi…、/urun/8-kamerali-…；kw poe 40",
-  "表内：switch；新桥的"
- ],
- "risks": [
-  "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
-  "土耳其：汇率敏感；2 次跟进无回复，仅 satis@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低"
- },
- "email_hook": "For the PoE switches in your 4/6/8-camera 4K kits, we supply budget 4/8-port unmanaged PoE units and a Marvell-based 8-PoE + 2 SFP L2+ model from small lots, CE/RoHS, EXW USD — which kit size sells most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@lemaxguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
-   "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「switch」；研究档 risks：网店套装：量小、价格敏感；现供新桥（深圳）价格基准低"
-  },
-  "situation": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
-  "need": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低",
-  "breakpoint": "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
-    "why": "18 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-986",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lemaxguvenlik.com，快照 2026-10-21）",
+  "summary": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
+  "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
+  "size": "",
+  "brands_seen": [
+    "新桥（疑）"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+      "quote": "Gece Görüşlü Güvenlik Kamerası Fiyatları, En Kaliteli En Uygun Güvenlik Kamerası Sistemleri Ve Paket Kameralar, Cctv Kamera Fiyatları Lemaxguvenlik.com 'da",
+      "url": "https://www.lemaxguvenlik.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Lemax 网店",
+      "quote": "Güvenlik Kamerası Fiyatları, Kamera Sistemleri - Lemax Güvenlik ; 4-kamerali-4k-1440p-full-hd-sesli-poe-ip-kamera-sistemi",
+      "url": "https://www.lemaxguvenlik.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch；新桥的",
+      "quote": "switch；新桥的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 lemaxguvenlik.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "安防摄像机套装网店"
+  ],
+  "channels": {
+    "role": "CCTV 套装网店（土耳其，PoE 现新桥）",
+    "region": "土耳其",
+    "contact": "satis@lemaxguvenlik.com"
+  },
+  "signals": [
+    "页面 /urun/4-kamerali-4k-…-poe-ip-kamera-sistemi…、/urun/8-kamerali-…；kw poe 40",
+    "表内：switch；新桥的"
+  ],
+  "risks": [
+    "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
+    "土耳其：汇率敏感；2 次跟进无回复，仅 satis@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低"
+  },
+  "email_hook": "For the PoE switches in your 4/6/8-camera 4K kits, we supply budget 4/8-port unmanaged PoE units and a Marvell-based 8-PoE + 2 SFP L2+ model from small lots, CE/RoHS, EXW USD — which kit size sells most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 satis@lemaxguvenlik.com；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "type": "CCTV 套装网店（土耳其，PoE 现新桥）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「switch」；研究档 risks：网店套装：量小、价格敏感；现供新桥（深圳）价格基准低"
+    },
+    "situation": "土耳其 Lemax Güvenlik（安防摄像机网店：2/4/6/8 路 4K PoE IP 摄像机套装；表内「switch；新桥的」；邮箱 satis@）；表内 2 次跟进无回复。",
+    "need": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低",
+    "breakpoint": "网店套装：量小、价格敏感；现供新桥（深圳）价格基准低",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "套装配套 PoE（现新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）/ STC-204GP；预期低。已打开的主题（1/18 封有打开记录）：「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
+        "why": "18 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

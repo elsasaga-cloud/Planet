@@ -1,136 +1,136 @@
 {
- "code": "SB-147",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（kti.de，快照 2026-10-21）",
- "summary": "德国 KTI Distribution GmbH（比勒费尔德；「主动网络技术直接来自制造商」——台湾 KTI Networks 的欧洲分销（自有 KTI 品牌 KGS-1060 / KGS-2422 / KGC-310M），兼售 Netsys NV-202G/NV-520G、Ubiquiti；表内「分销，有自己的牌子也有别人的；PoE / MC / 工业 FS / SFP」「质量高」；KP pkaiser@（P. Kaiser））；群发 8 次无回复。",
- "type": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
- "size": "",
- "brands_seen": [
-  "Ubiquiti",
-  "KTI",
-  "Netsys"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr.",
-   "url": "https://kti.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "分销 有自己的牌子 也有别人的 POE MC 工业FS SFP",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "KTI Distribution：主动网络技术直接来自制造商",
-   "quote": "Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr. ; Aktive Netzwerktechnik direkt vom Hersteller.",
-   "url": "https://kti.de/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "分销，有自己的牌子也有别人的；质量高",
-   "quote": "分销 有自己的牌子 也有别人的；POE MC 工业FS SFP；质量高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "P. Kaiser",
-   "title": "（表内邮箱 pkaiser@，姓名待核）",
-   "email": "pkaiser@kti.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 kti.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "网络设备 / 交换机 / MC 分销（KTI 自有品牌 + Netsys + Ubiquiti）"
- ],
- "channels": {
-  "role": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
-  "region": "德国",
-  "contact": "sales@kti.de、pkaiser@kti.de"
- },
- "signals": [
-  "官网：Aktive Netzwerktechnik direkt vom Hersteller. KTI – Wir schaffen Verbindungen；Drei Jahrzehnte aktiv",
-  "站内型号 KGS-1060 / KGS-2422 / KGC-310M（KTI）、NV-202G / NV-520G（Netsys）；kw oem 16 / odm 16"
- ],
- "risks": [
-  "台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺",
-  "8 次无回复；KP 仅邮箱前缀（pkaiser@）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 30,
-  "why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE"
- },
- "email_hook": "For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 chelming@kti.de, pkaiser@kti.de；主题多为「10G Enterprise SFP Switch、Marvell Software Function List」）",
-   "type": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "DE 主攻（四主）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「分销 有自己的牌子 也有别人的 POE MC 工业FS SFP」；研究档 risks：台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺"
-  },
-  "situation": "德国 KTI Distribution GmbH（比勒费尔德；「主动网络技术直接来自制造商」——台湾 KTI Networks 的欧洲分销（自有 KTI 品牌 KGS-1060 / KGS-2422 / KGC-310M），兼售 Netsys NV-202G/NV-520G、Ubiquiti；表内「分销，有自己的牌子也有别人的；PoE / MC / 工业 FS / SFP」「质量高」；KP pkaiser@（P. Kaiser））；群发 8 次无回复。",
-  "need": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE",
-  "breakpoint": "台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "分销 有自己的牌子 也有别人的 POE MC 工业FS SFP",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "10G Enterprise SFP Switch、Marvell Software Function List",
-    "why": "16 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-147",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（kti.de，快照 2026-10-21）",
+  "summary": "德国 KTI Distribution GmbH（比勒费尔德；「主动网络技术直接来自制造商」——台湾 KTI Networks 的欧洲分销（自有 KTI 品牌 KGS-1060 / KGS-2422 / KGC-310M），兼售 Netsys NV-202G/NV-520G、Ubiquiti；表内「分销，有自己的牌子也有别人的；PoE / MC / 工业 FS / SFP」「质量高」；KP pkaiser@（P. Kaiser））；群发 8 次无回复。",
+  "type": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
+  "size": "",
+  "brands_seen": [
+    "Ubiquiti",
+    "KTI",
+    "Netsys"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr.",
+      "url": "https://kti.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "分销 有自己的牌子 也有别人的 POE MC 工业FS SFP",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "KTI Distribution：主动网络技术直接来自制造商",
+      "quote": "Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr. ; Aktive Netzwerktechnik direkt vom Hersteller.",
+      "url": "https://kti.de/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "分销，有自己的牌子也有别人的；质量高",
+      "quote": "分销 有自己的牌子 也有别人的；POE MC 工业FS SFP；质量高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "P. Kaiser",
+      "title": "（表内邮箱 pkaiser@，姓名待核）",
+      "email": "pkaiser@kti.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 kti.de，语言 de-DE，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "网络设备 / 交换机 / MC 分销（KTI 自有品牌 + Netsys + Ubiquiti）"
+  ],
+  "channels": {
+    "role": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
+    "region": "德国",
+    "contact": "sales@kti.de、pkaiser@kti.de"
+  },
+  "signals": [
+    "官网：Aktive Netzwerktechnik direkt vom Hersteller. KTI – Wir schaffen Verbindungen；Drei Jahrzehnte aktiv",
+    "站内型号 KGS-1060 / KGS-2422 / KGC-310M（KTI）、NV-202G / NV-520G（Netsys）；kw oem 16 / odm 16"
+  ],
+  "risks": [
+    "台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺",
+    "8 次无回复；KP 仅邮箱前缀（pkaiser@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 30,
+    "why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE"
+  },
+  "email_hook": "For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 16 封 2025→2026，1 次记录打开，0 回；收件 chelming@kti.de, pkaiser@kti.de；主题多为「10G Enterprise SFP Switch、Marvell Software Function List」）",
+      "type": "台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "16 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "DE 主攻（四主）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 16，Opened 标签 1（Simon 群发追踪）；用户表：「分销 有自己的牌子 也有别人的 POE MC 工业FS SFP」；研究档 risks：台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺"
+    },
+    "situation": "德国 KTI Distribution GmbH（比勒费尔德；「主动网络技术直接来自制造商」——台湾 KTI Networks 的欧洲分销（自有 KTI 品牌 KGS-1060 / KGS-2422 / KGC-310M），兼售 Netsys NV-202G/NV-520G、Ubiquiti；表内「分销，有自己的牌子也有别人的；PoE / MC / 工业 FS / SFP」「质量高」；KP pkaiser@（P. Kaiser））；群发 8 次无回复。",
+    "need": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE",
+    "breakpoint": "台湾品牌欧洲分销：供货来自母公司（SB-774 KTI Networks），白牌仅补缺",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "KTI 自有品牌由台湾母公司供货（见 SB-774）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用 STC-28DGGPM；MC 位 STI-110GE。已打开的主题（1/16 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣偏「其他」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the KTI-branded industrial and PoE switches you distribute from Bielefeld, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 8-PoE + 2 SFP L2+ commercial) from small lots, CE/RoHS — is a lower-cost second line something your German customers ask for?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "分销 有自己的牌子 也有别人的 POE MC 工业FS SFP",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "10G Enterprise SFP Switch、Marvell Software Function List",
+        "why": "16 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

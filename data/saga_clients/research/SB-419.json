@@ -1,150 +1,152 @@
 {
- "code": "SB-419",
- "name_official": "EXXELL VISION SAS（exxell.fr，Boulogne-Billancourt, FR；RCS Nanterre 493 179 089）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务范围与装机量",
-   "quote": "Expert en vidéosurveillance, alarme et contrôle d'accès … VIDEOSURVEILLANCE ALARME INTRUSION & INCENDIE CONTRÔLE D'ACCES RESEAUX INFORMATIQUES ELECTRICITE … + 30.000 Caméras installées + 1.000 Clients satisfaits … 204 Allée du Forum 92100 - Boulogne Billancourt 01 83 83 50 00 hotline@exxell.fr",
-   "url": "https://exxell.fr/",
-   "date": "2026-01-06"
-  },
-  {
-   "kind": "LinkedIn",
-   "claim": "规模与成立年",
-   "quote": "EXXELL VISION est une société créée en 2006 spécialisé dans le courant faible - vidéosurveillance - Alarme - contrôle d'accès … Taille de l'entreprise: 11-50 employés Siège social: Boulogne-Billancourt",
-   "url": "https://fr.linkedin.com/company/exxell-vision",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人形式变更与负责人",
-   "quote": "EXXELL VISION SARL au capital de 15000 € Siège social : 204 ALLEE DU FORUM 92100 BOULOGNE-BILLANCOURT RCS NANTERRE 493179089 Par décision Assemblée Générale Extraordinaire du 24/10/2024, il a été décidé de transformer la société en société par actions simplifiée … Président : Mme LEVY épouse ROZOWYKWIAT Jeannie",
-   "url": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479",
-   "date": "2025-01-06"
-  },
-  {
-   "kind": "登记",
-   "claim": "章程活动（含进口分销）",
-   "quote": "Activité principale déclarée: Importation, exportation, distribution, installation et maintenance de matériels (donné à un sous-traitant) et notamment de matériels de sécurité.",
-   "url": "https://www.societe.com/societe/exxell-vision-493179089.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "WhatsApp 已加；8 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jeannie Rozowykwiat (Levy)",
-   "role": "Présidente（2024-10 起；登记公开）",
-   "email": "commercial@exxell.fr（公司公开）",
-   "phone": "+33 1 83 83 50 00",
-   "source": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479"
-  },
-  {
-   "name": "Jean-Edmond Rozowykwiat",
-   "role": "Président / 原 Gérant（2008–2025；登记公开）",
-   "email": "—（未公开）",
-   "phone": "+33 1 83 83 50 00",
-   "source": "https://www.societe.com/societe/exxell-vision-493179089.html"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 登记核对）"
- },
- "company_facts": {
-  "legal_name": "EXXELL VISION（SAS，原 SARL；RCS Nanterre 493 179 089；资本 €15,000）",
-  "founded": "2006-11-20",
-  "hq": "204 Allée du Forum, 92100 Boulogne-Billancourt, France（01 83 83 50 00；hotline@exxell.fr / commercial@exxell.fr）",
-  "size": "10–19（manageo）/ 11–50（LinkedIn）",
-  "other": "业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92"
- },
- "business_lines": [
-  "视频监控集成（中大型系统）",
-  "入侵/火灾报警、门禁（守界：火灾主系统不供）",
-  "IT 网络与电气；面向商铺的分销"
- ],
- "channels": {
-  "网站": "https://exxell.fr/",
-  "电话": "+33 1 83 83 50 00（官网公开）",
-  "邮箱（公开）": "commercial@exxell.fr / hotline@exxell.fr",
-  "LinkedIn": "https://fr.linkedin.com/company/exxell-vision"
- },
- "signals": [
-  "30,000+ 摄像机装机量 → PoE 交换机为持续耗材；兼分销身份可按 20% 谈量"
- ],
- "risks": [
-  "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%"
- },
- "email_hook": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 jean-edmond@exxell.fr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "法国（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 18；用户表：「（用户表字段）」；研究档 risks：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
-  },
-  "situation": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
-  "need": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
-  "breakpoint": "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "（用户表字段）",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-    "why": "18 封 / 0 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-419",
+  "name_official": "EXXELL VISION SAS（exxell.fr，Boulogne-Billancourt, FR；RCS Nanterre 493 179 089）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务范围与装机量",
+      "quote": "Expert en vidéosurveillance, alarme et contrôle d'accès … VIDEOSURVEILLANCE ALARME INTRUSION & INCENDIE CONTRÔLE D'ACCES RESEAUX INFORMATIQUES ELECTRICITE … + 30.000 Caméras installées + 1.000 Clients satisfaits … 204 Allée du Forum 92100 - Boulogne Billancourt 01 83 83 50 00 hotline@exxell.fr",
+      "url": "https://exxell.fr/",
+      "date": "2026-01-06"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "规模与成立年",
+      "quote": "EXXELL VISION est une société créée en 2006 spécialisé dans le courant faible - vidéosurveillance - Alarme - contrôle d'accès … Taille de l'entreprise: 11-50 employés Siège social: Boulogne-Billancourt",
+      "url": "https://fr.linkedin.com/company/exxell-vision",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "登记",
+      "claim": "法人形式变更与负责人",
+      "quote": "EXXELL VISION SARL au capital de 15000 € Siège social : 204 ALLEE DU FORUM 92100 BOULOGNE-BILLANCOURT RCS NANTERRE 493179089 Par décision Assemblée Générale Extraordinaire du 24/10/2024, il a été décidé de transformer la société en société par actions simplifiée … Président : Mme LEVY épouse ROZOWYKWIAT Jeannie",
+      "url": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479",
+      "date": "2025-01-06"
+    },
+    {
+      "kind": "登记",
+      "claim": "章程活动（含进口分销）",
+      "quote": "Activité principale déclarée: Importation, exportation, distribution, installation et maintenance de matériels (donné à un sous-traitant) et notamment de matériels de sécurité.",
+      "url": "https://www.societe.com/societe/exxell-vision-493179089.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "WhatsApp 已加；8 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Jeannie Rozowykwiat (Levy)",
+      "role": "Présidente（2024-10 起；登记公开）",
+      "email": "commercial@exxell.fr（公司公开）",
+      "phone": "+33 1 83 83 50 00",
+      "source": "https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479"
+    },
+    {
+      "name": "Jean-Edmond Rozowykwiat",
+      "role": "Président / 原 Gérant（2008–2025；登记公开）",
+      "email": "—（未公开）",
+      "phone": "+33 1 83 83 50 00",
+      "source": "https://www.societe.com/societe/exxell-vision-493179089.html"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + 登记核对）"
+  },
+  "company_facts": {
+    "legal_name": "EXXELL VISION（SAS，原 SARL；RCS Nanterre 493 179 089；资本 €15,000）",
+    "founded": "2006-11-20",
+    "hq": "204 Allée du Forum, 92100 Boulogne-Billancourt, France（01 83 83 50 00；hotline@exxell.fr / commercial@exxell.fr）",
+    "size": "10–19（manageo）/ 11–50（LinkedIn）",
+    "other": "业务：视频监控、报警（入侵+火灾）、门禁、网络、电气；中大型视频系统集成见长；2010 年起集成收银系统；2019 迁至 92"
+  },
+  "business_lines": [
+    "视频监控集成（中大型系统）",
+    "入侵/火灾报警、门禁（守界：火灾主系统不供）",
+    "IT 网络与电气；面向商铺的分销"
+  ],
+  "channels": {
+    "网站": "https://exxell.fr/",
+    "电话": "+33 1 83 83 50 00（官网公开）",
+    "邮箱（公开）": "commercial@exxell.fr / hotline@exxell.fr",
+    "LinkedIn": "https://fr.linkedin.com/company/exxell-vision"
+  },
+  "signals": [
+    "30,000+ 摄像机装机量 → PoE 交换机为持续耗材；兼分销身份可按 20% 谈量"
+  ],
+  "risks": [
+    "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%"
+  },
+  "email_hook": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 jean-edmond@exxell.fr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "法国（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 18；用户表：「（用户表字段）」；研究档 risks：8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti"
+    },
+    "situation": "巴黎西郊 Boulogne-Billancourt 的弱电/安防集成商（2006-11 成立；2024-10 由 SARL 转 SAS；10–19 人口径，LinkedIn 11–50；总裁 Jeannie Rozowykwiat，长期经营者 Jean-Edmond Rozowykwiat）：视频监控（自述 30,000+ 摄像机、1,000+ 客户）、入侵/火灾报警、门禁、IT 网络、电气；章程活动含「进口、出口、分销、安装与维护安防设备」——既做工程也做分销（Distribution 栏目面向零售商铺）。用户表：WhatsApp 已加，8 次跟进 0 回复。",
+    "need": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
+    "breakpoint": "8 次跟进 0 回复；法国集成商偏好 Hikvision/Dahua 原厂交换机或 Netgear/Ubiquiti",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "集成商 25% 档：STC-28DGGPM 商铺/中型点位；STC-424DGGPM-280W 大型视频系统汇聚；分销量大时 20%",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "For the shop and multi-site CCTV jobs you run around Paris, the Marvell-based 8-port PoE+ managed switch at $84.1 EXW and the 24-port 280 W unit cover the usual two cabinet sizes; shall I send the French-market CE/RoHS file with the quote?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "（用户表字段）",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+        "why": "18 封 / 0 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

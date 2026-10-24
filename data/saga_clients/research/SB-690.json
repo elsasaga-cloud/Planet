@@ -1,163 +1,163 @@
 {
- "code": "SB-690",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（comxus.com，快照 2026-10-21）",
- "summary": "印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。",
- "type": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
- "size": "",
- "brands_seen": [
-  "Hasivo"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Comxus | Complete Networking Solutions For Harsh Environment；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Comxus is a reliable networking solutions provider with rugged switches and managed devices, built to deliver seamless performance.",
-   "url": "https://comxus.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS 用的hasivo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "恶劣环境网络方案：加固交换机与管理设备",
-   "quote": "Comxus is a reliable networking solutions provider with rugged switches and managed devices, built to deliver seamless performance.",
-   "url": "https://comxus.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS 用 Hasivo 的",
-   "quote": "工业FS 用的hasivo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Umesh Palanpuri",
-   "title": "Deputy GM",
-   "email": "umesh.palanpuri@comxus.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "印度",
-  "other": "官网 comxus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "加固工业交换机（自有品牌 CX 系列）",
-  "行业：油气 / 交通 / 制造 / CCTV"
- ],
- "channels": {
-  "role": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
-  "region": "印度",
-  "contact": "info@comxus.com、umesh.palanpuri@comxus.com"
- },
- "signals": [
-  "站内型号 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3 / CX-PS-487-R",
-  "博客 /why-comxus-8-port-industrial-poe-switch-is-best-for-cctv-systems/、/8-port-vs-16-port-industrial-poe-switch-…",
-  "KP：Umesh Palanpuri / Deputy GM（表内）"
- ],
- "risks": [
-  "印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈",
-  "现代工 Hasivo（深圳）：价格基准极低",
-  "油气/交通行业：守界按单核（只做非关键节点）；非主攻区（T5）"
- ],
- "saga_fit": {
-  "p1": "STI-488DGGPM",
-  "tier": 30,
-  "why": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM"
- },
- "email_hook": "Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?",
- "products_seen": [
-  {
-   "brand": "Comxus（自有）",
-   "model": "CX-NPA-8GS4I-L2",
-   "spec": "工业 8 GE PoE + 4 SFP L2",
-   "saga": "STI-488DGGPM",
-   "url": "https://comxus.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Comxus（自有）",
-   "model": "CX-NPA-16GS2I-L2",
-   "spec": "工业 16 GE PoE + 2 SFP L2",
-   "saga": "STI-21616GP（非管理）/ 管理型待核",
-   "url": "https://comxus.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "Comxus（自有）",
-   "model": "CX-ND-0GSF24S20-L3",
-   "spec": "24 SFP + 4 SFP+ L3",
-   "saga": "（Saga 无商用 24 SFP 标准型）",
-   "url": "https://comxus.com/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "未触达（A 邮箱 8 封 2025→2026，1 次记录打开，0 回；收件 info@comxus.com, umesh.palanpuri@comxus.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）",
-   "type": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
-   "sieve": "1~2（1 次打开）",
-   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "IN 次级（点名）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 用的hasivo的」；研究档 risks：印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈"
-  },
-  "situation": "印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。",
-  "need": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM",
-  "breakpoint": "印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈",
-  "saga_now": {
-   "p1": "STI-488DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS 用的hasivo的",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2026",
-    "dir": "去",
-    "who": "A 群发",
-    "quote": "16 Port Ethernet Switch、Industrial PoE Switch",
-    "why": "8 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-690",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（comxus.com，快照 2026-10-21）",
+  "summary": "印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。",
+  "type": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
+  "size": "",
+  "brands_seen": [
+    "Hasivo"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Comxus | Complete Networking Solutions For Harsh Environment；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Comxus is a reliable networking solutions provider with rugged switches and managed devices, built to deliver seamless performance.",
+      "url": "https://comxus.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS 用的hasivo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "恶劣环境网络方案：加固交换机与管理设备",
+      "quote": "Comxus is a reliable networking solutions provider with rugged switches and managed devices, built to deliver seamless performance.",
+      "url": "https://comxus.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS 用 Hasivo 的",
+      "quote": "工业FS 用的hasivo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Umesh Palanpuri",
+      "title": "Deputy GM",
+      "email": "umesh.palanpuri@comxus.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "印度",
+    "other": "官网 comxus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "加固工业交换机（自有品牌 CX 系列）",
+    "行业：油气 / 交通 / 制造 / CCTV"
+  ],
+  "channels": {
+    "role": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
+    "region": "印度",
+    "contact": "info@comxus.com、umesh.palanpuri@comxus.com"
+  },
+  "signals": [
+    "站内型号 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3 / CX-PS-487-R",
+    "博客 /why-comxus-8-port-industrial-poe-switch-is-best-for-cctv-systems/、/8-port-vs-16-port-industrial-poe-switch-…",
+    "KP：Umesh Palanpuri / Deputy GM（表内）"
+  ],
+  "risks": [
+    "印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈",
+    "现代工 Hasivo（深圳）：价格基准极低",
+    "油气/交通行业：守界按单核（只做非关键节点）；非主攻区（T5）"
+  ],
+  "saga_fit": {
+    "p1": "STI-488DGGPM",
+    "tier": 30,
+    "why": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM"
+  },
+  "email_hook": "Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?",
+  "products_seen": [
+    {
+      "brand": "Comxus（自有）",
+      "model": "CX-NPA-8GS4I-L2",
+      "spec": "工业 8 GE PoE + 4 SFP L2",
+      "saga": "STI-488DGGPM",
+      "url": "https://comxus.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Comxus（自有）",
+      "model": "CX-NPA-16GS2I-L2",
+      "spec": "工业 16 GE PoE + 2 SFP L2",
+      "saga": "STI-21616GP（非管理）/ 管理型待核",
+      "url": "https://comxus.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "Comxus（自有）",
+      "model": "CX-ND-0GSF24S20-L3",
+      "spec": "24 SFP + 4 SFP+ L3",
+      "saga": "（Saga 无商用 24 SFP 标准型）",
+      "url": "https://comxus.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "未触达（A 邮箱 8 封 2025→2026，1 次记录打开，0 回；收件 info@comxus.com, umesh.palanpuri@comxus.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）",
+      "type": "印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）",
+      "sieve": "1~2（1 次打开）",
+      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "IN 次级（点名）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS 用的hasivo的」；研究档 risks：印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈"
+    },
+    "situation": "印度 Comxus（「Complete Networking Solutions For Harsh Environment」：自有品牌加固交换机 CX-NPA-8GS4I-L2 / CX-NPA-16GS2I-L2 / CX-NPA-8GS40I-L3 / CX-ND-0GSF24S20-L3，行业油气 / 交通 / 制造，博客围绕 8/16 口工业 PoE 选型；表内「工业 FS 用的 Hasivo 的」；KP Umesh Palanpuri（Deputy GM，umesh.palanpuri@））；表内无跟进记录。",
+    "need": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM",
+    "breakpoint": "印度 BIS：由 Comxus 以其品牌取证；整机进口关税高 → SKD 可谈",
+    "saga_now": {
+      "p1": "STI-488DGGPM",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Umesh, for the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS 用的hasivo的",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2026",
+        "dir": "去",
+        "who": "A 群发",
+        "quote": "16 Port Ethernet Switch、Industrial PoE Switch",
+        "why": "8 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

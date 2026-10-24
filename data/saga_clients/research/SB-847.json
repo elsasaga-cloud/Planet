@@ -1,116 +1,116 @@
 {
- "code": "SB-847",
- "name_official": "Lanprosa（西语站；表内美国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（lanprosa.com，快照 2026-10-21，西语）",
- "summary": "西语 CCTV / 网络经销商 Lanprosa（Ruijie、Hikvision、TP-Link、MikroTik、Cisco；cctv 106 / switch 113 / poe 76），Samanta Navarro（表内「可多跟进」）；表内「CCTV switch，有海思的」；国别美国待核（西语站，可能为拉美）；群发 15 次无回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Ruijie",
-  "Hikvision",
-  "TP-Link",
-  "MikroTik",
-  "Cisco"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "西语站：基站与无线电话等；品牌 Ruijie / Hikvision / TP-Link / MikroTik / Cisco；关键词 cctv 106",
-   "quote": "Estación base y teléfonos inalámbricos… brands Ruijie, Hikvision, TP-Link, MikroTik, Cisco",
-   "url": "https://lanprosa.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "CCTV switch；有海思的；可以尝试多跟进一下",
-   "quote": "兴趣：CCTV switch 有海思的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Samanta Navarro",
-   "title": "（表内联系人）",
-   "email": "mercadeo@lanprosa.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Lanprosa（待核）",
-  "founded": "",
-  "hq": "（美国 / 拉美，待核）",
-  "size": "中小型经销",
-  "other": "西语运营"
- },
- "business_lines": [
-  "CCTV / 网络经销"
- ],
- "channels": {
-  "role": "经销商",
-  "region": "美国（待核）"
- },
- "signals": [
-  "CCTV 交换机需求；表内建议多跟进"
- ],
- "risks": [
-  "国别待核；15 次群发无回复"
- ],
- "saga_fit": {
-  "p1": "STC-424DGGPM-280W",
-  "tier": 20,
-  "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
- },
- "email_hook": "Samanta, para los proyectos CCTV — switch 24 PoE + 4 uplinks L2+ (Marvell, 280 W) a $135 EXW y 8 PoE + 2 SFP a $81; ¿envían a EE. UU. o a Latinoamérica? Así preparo la cotización correcta.",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2026-06-30 mercadeo@ 回「share price and… do you have router products and cloud management」→ Alan：无云管理，给链接；无后续）",
-   "type": "拉美导向网络产品分销（Lanprosa；市场部回信）",
-   "sieve": "2",
-   "stop": "要路由器 + 云管理——Saga 都没有",
-   "revive": "不动",
-   "lane": "US/拉美",
-   "cadence": "不动",
-   "evidence": "k=4b89ec05a27b2ce4 / 3181580c3de4279b"
-  },
-  "situation": "需求不在 Saga 线上。",
-  "need": "路由器 + 云管理。",
-  "breakpoint": "产品线。",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-06-30",
-    "dir": "来",
-    "who": "Samanta Navarro",
-    "quote": "Can you please share price and point of you have router products and cloud management",
-    "why": "需求错位",
-    "k": "4b89ec05a27b2ce4"
-   }
+  "code": "SB-847",
+  "name_official": "Lanprosa（西语站；表内美国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（lanprosa.com，快照 2026-10-21，西语）",
+  "summary": "西语 CCTV / 网络经销商 Lanprosa（Ruijie、Hikvision、TP-Link、MikroTik、Cisco；cctv 106 / switch 113 / poe 76），Samanta Navarro（表内「可多跟进」）；表内「CCTV switch，有海思的」；国别美国待核（西语站，可能为拉美）；群发 15 次无回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Ruijie",
+    "Hikvision",
+    "TP-Link",
+    "MikroTik",
+    "Cisco"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "西语站：基站与无线电话等；品牌 Ruijie / Hikvision / TP-Link / MikroTik / Cisco；关键词 cctv 106",
+      "quote": "Estación base y teléfonos inalámbricos… brands Ruijie, Hikvision, TP-Link, MikroTik, Cisco",
+      "url": "https://lanprosa.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "CCTV switch；有海思的；可以尝试多跟进一下",
+      "quote": "兴趣：CCTV switch 有海思的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Samanta Navarro",
+      "title": "（表内联系人）",
+      "email": "mercadeo@lanprosa.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Lanprosa（待核）",
+    "founded": "",
+    "hq": "（美国 / 拉美，待核）",
+    "size": "中小型经销",
+    "other": "西语运营"
+  },
+  "business_lines": [
+    "CCTV / 网络经销"
+  ],
+  "channels": {
+    "role": "经销商",
+    "region": "美国（待核）"
+  },
+  "signals": [
+    "CCTV 交换机需求；表内建议多跟进"
+  ],
+  "risks": [
+    "国别待核；15 次群发无回复"
+  ],
+  "saga_fit": {
+    "p1": "STC-424DGGPM-280W",
+    "tier": 20,
+    "why": "CCTV 走量 24 PoE → STC-424DGGPM-280W（$134.5 @20%）；8 PoE STC-28DGGPM。"
+  },
+  "email_hook": "Samanta, para los proyectos CCTV — switch 24 PoE + 4 uplinks L2+ (Marvell, 280 W) a $135 EXW y 8 PoE + 2 SFP a $81; ¿envían a EE. UU. o a Latinoamérica? Así preparo la cotización correcta.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2026-06-30 mercadeo@ 回「share price and… do you have router products and cloud management」→ Alan：无云管理，给链接；无后续）",
+      "type": "拉美导向网络产品分销（Lanprosa；市场部回信）",
+      "sieve": "2",
+      "stop": "要路由器 + 云管理——Saga 都没有",
+      "revive": "不动",
+      "lane": "US/拉美",
+      "cadence": "不动",
+      "evidence": "k=4b89ec05a27b2ce4 / 3181580c3de4279b"
+    },
+    "situation": "需求不在 Saga 线上。",
+    "need": "路由器 + 云管理。",
+    "breakpoint": "产品线。",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（3/28 封有打开记录）：「10G Media Converter」(2024-12-17)、「Firmware 7.5 L2+ Feature Update」(2026-06-25)、「Re: Firmware 7.5 L2+ Feature Update」(2026-06-30) → 读者兴趣偏「固件/功能」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-06-30",
+        "dir": "来",
+        "who": "Samanta Navarro",
+        "quote": "Can you please share price and point of you have router products and cloud management",
+        "why": "需求错位",
+        "k": "4b89ec05a27b2ce4"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

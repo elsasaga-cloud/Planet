@@ -136,7 +136,7 @@
       "p1": "STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）",
       "tier": 25,
       "price": "$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）",
-      "why": "U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有",
+      "why": "U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": [
         "Nate 要不要「管理」——一句话问",

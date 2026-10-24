@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：阿尔巴尼亚 ArfaNet（产品分销 + 系统方案：报警、酒店系统、电视信号、视频监控（Hikvision）；表内「找点特别的光交换机，拍了 bypass 交换机」；KP Fatjon Luniku（administrator，f.luniku@））；群发 6 次无回复。（调研 2026-10-21；表内兴趣：找点特别的光交换机，拍了bypass交换机）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/阿尔巴尼亚；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-03-20 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）。已打开的主题（2/16 封有打开记录）：「90W PoE Managed Switch」(2025-03-20)、「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Fatjon, on the fibre bypass switch you asked about: we can supply an industrial 4-SFP + 8-GE PoE unit with optical bypass on the fibre ring, plus standard DIN-rail 8-PoE + 2 SFP managed models (−40~75 °C, CE/RoHS) from small lots — how many ring nodes does the project need?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → f.luniku@arfanet.al 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：阿尔巴尼亚 ArfaNet（产品分销 + 系统方案：报警、酒店系统、电视信号、视频监控（Hikvision）；表内「找点特别的光交换机，拍了 bypass 交换机」；KP Fatjon Luniku（administrator，f.luniku@））；群发 6 次无回复。
 - **对方真实需求（有据）**：询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：小国（阿尔巴尼亚）量小；bypass 为 SmartByte 型号（Saga 列表无，需注明）
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）。已打开的主题（2/16 封有打开记录）：「90W PoE Managed Switch」(2025-03-20)、「Booster PoE Switch」(2025-11-12) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → f.luniku@arfanet.al　短信一问（email_hook）
   - 第一问（只问一个）：Fatjon, on the fibre bypass switch you asked about: we can supply an industrial 4-SFP + 8-GE PoE unit with optical bypass on the fibre ring, plus standard DIN-rail 8-PoE + 2 SFP managed models (−40~75 °C, CE/RoHS) from small lots — how many ring nodes does the project need?
 

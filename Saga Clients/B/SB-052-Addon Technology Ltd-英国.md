@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。（调研 2026-10-21；表内兴趣：香港出生但一直在英国，会说一些广东话，对产品比较了解，让我做一个presentation,问了一些问题，之前处理过类似的产品线 从网站看还是比较相关的）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-028GP — OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣偏「其他」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。
 - **对方真实需求（有据）**：OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU
 - **断点 / 为什么停在这里**：SOHO 价位极低（Realtek 线更合适）；17 次推送 0 回复
-- **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，按主表（研究档 saga_fit））——OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU
+- **Saga 现在该推什么**：P1 **STC-028GP**（30% 档，按主表（研究档 saga_fit））——OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣偏「其他」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the ADDON wired-networking range, an 8-port gigabit PoE desktop switch (120 W, your label and box) lists at $24.2 EXW and the plain 8-port gigabit at $10.5; which carton size do your e-traders prefer?
 

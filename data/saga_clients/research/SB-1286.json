@@ -1,99 +1,100 @@
 {
- "code": "SB-1286",
- "name_official": "Amine Achoura（阿尔及利亚；个人 gmail）",
- "researched_at": "2026-10-21",
- "website_status": "无域名",
- "summary": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "2023-09 发了 WDM 手册和网页→WDM information",
-   "quote": "兴趣：WDM information",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Amine Achoura",
-   "title": "（表内联系人）",
-   "email": "amineachoura21@gmail.com",
-   "phone": "+213 669 116 595",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
-  "hq": "阿尔及利亚",
+  "code": "SB-1286",
+  "name_official": "Amine Achoura（阿尔及利亚；个人 gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名",
+  "summary": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+  "type": "",
   "size": "",
-  "other": "gmail"
- },
- "channels": {
-  "role": "（未知）",
-  "region": "阿尔及利亚"
- },
- "risks": [
-  "需求 WDM（缺口）；身份不明"
- ],
- "saga_fit": {
-  "p1": null,
-  "tier": 25,
-  "why": "WDM 不在 Saga 线；无主推型。"
- },
- "email_hook": "（不主动发送）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "阿尔及利亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明"
-  },
-  "situation": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
-  "need": "WDM 不在 Saga 线；无主推型。",
-  "breakpoint": "需求 WDM（缺口）；身份不明",
-  "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "WDM 不在 Saga 线；无主推型。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：WDM information",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "2023-09 发了 WDM 手册和网页→WDM information",
+      "quote": "兴趣：WDM information",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Amine Achoura",
+      "title": "（表内联系人）",
+      "email": "amineachoura21@gmail.com",
+      "phone": "+213 669 116 595",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "阿尔及利亚",
+    "size": "",
+    "other": "gmail"
+  },
+  "channels": {
+    "role": "（未知）",
+    "region": "阿尔及利亚"
+  },
+  "risks": [
+    "需求 WDM（缺口）；身份不明"
+  ],
+  "saga_fit": {
+    "p1": null,
+    "tier": 25,
+    "why": "WDM 不在 Saga 线；无主推型。"
+  },
+  "email_hook": "（不主动发送）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "阿尔及利亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明"
+    },
+    "situation": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
+    "need": "WDM 不在 Saga 线；无主推型。",
+    "breakpoint": "需求 WDM（缺口）；身份不明",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "WDM 不在 Saga 线；无主推型。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：WDM information",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

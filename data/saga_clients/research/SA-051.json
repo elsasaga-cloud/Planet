@@ -1,180 +1,180 @@
 {
- "code": "SA-051",
- "name_official": "RFoG（rfog.pl, Poland）",
- "website_status": "在线",
- "summary": "波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。",
- "type": "分销商（自有型号贴牌）",
- "size": "未见人数（中小）",
- "brands_seen": [
-  "PLANET",
-  "MOXA",
-  "N-Net"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有 RF- 型号贴牌 N-Net 工业 PoE 交换机",
-   "quote": "RF-GP2803PGM-INDU-POE-NNT to 10-portowy przełącznik sieciowy PoE o pełnej przepustowości gigabitowej, obsługujący do 8 portów 10/100/1000M PoE oraz 2 porty 1000M SFP. RF-EPG2802-INDU-POE-NNT to 10-portowy przemysłowy przełącznik/switch PoE",
-   "url": "https://www.rfog.pl/oferta,97,media-konwertery-poe-dla-kamer-ip",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "经营范围",
-   "quote": "W ramach prowadzonej działalności firmy RFoG oferuje: urządzenia optyczne, konwertery mediów, multipleksery, przełącznice … elementy pasywne i WDM/DWDM",
-   "url": "https://www.rfog.pl/rfog,2,o-firmie",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "RF-GP2808PGM-INDU-POE-NNT 规格",
-   "quote": "RF-GP2808PGM-INDU-POE-NNT to 10-portowy przemysłowy zarządzalny switch PoE … 8 * 10/100/1000M portów PoE, 2 * 1000M porty SFP UPLINK … Obsługa 2 portów PoE o mocy do 90 W, 6 portów PoE o mocy do 30 W",
-   "url": "https://www.rfog.pl/produkt,3254,przemyslowy-zarzadzalny-switch-gigabit-ethernet-poe-z-10-portami-8-2-rf-gp2808pgm-indu-poe-nnt",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "RF-GP2408PGM 4 口工业管理 PoE",
-   "quote": "RF-GP2408PGM-INDU-POE-NNT to 6-portowy przełącznik przemysłowy PoE, który obsługuje do 4 * 10/100/1000M portów PoE, 1 * 10/100/1000M port uplink i 2 * 1000M SFP",
-   "url": "https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Tomasz Paszkowski",
-   "role": "联系人（用户表邮箱）",
-   "email": "tomasz.paszkowski@rfog.pl",
-   "phone": "+48 602 794 466（官网）",
-   "source": "Clients/A/DONE/PL.xlsx"
-  }
- ],
- "notes": "A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "RFoG（rfog.pl）",
-  "hq": "Poland",
-  "other": "光通信分销商，自有 RF- 型号前缀贴牌（-NNT = N-Net 来源），同时卖 PLANET、MOXA；网店产品 ID 3000+"
- },
- "business_lines": [
-  "光纤 MC（含 10G）、WDM/DWDM、跳线配件",
-  "RF- 贴牌工业 PoE 交换机（N-Net 来源）与商用 PoE 管理交换机",
-  "PLANET / MOXA 分销"
- ],
- "products_seen": [
-  {
-   "brand": "RFoG（N-Net 贴牌）",
-   "model": "RF-GP2808PGM-INDU-POE-NNT / RF-GP2803PGM-INDU-POE-NNT",
-   "spec": "工业管理 8×GE PoE（2×90W + 6×30W）+ 2 SFP",
-   "url": "https://www.rfog.pl/produkt,3254,przemyslowy-zarzadzalny-switch-gigabit-ethernet-poe-z-10-portami-8-2-rf-gp2808pgm-indu-poe-nnt",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "RFoG（N-Net 贴牌）",
-   "model": "RF-GP2408PGM-INDU-POE-NNT",
-   "spec": "工业管理 4×GE PoE（30–90W）+ 1 GE + 2 SFP",
-   "url": "https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "RFoG（N-Net 贴牌）",
-   "model": "RF-EP2406-INDU-POE-NNT",
-   "spec": "工业非管理 4×FE PoE + 2 FE",
-   "url": "https://www.rfog.pl/produkt,3255,przemyslowy-niezarzadzalny-przelacznik-switch-fast-ethernet-poe-z-6-portami-4-2-rf-ep2406-indu-poe-nnt",
-   "date": "2026-10-21",
-   "saga": "STI-144GP（千兆升级位）"
-  },
-  {
-   "brand": "RFoG",
-   "model": "RF-SW-IND-4xRJ45-GE-7204GE-POE-UTP",
-   "spec": "工业 4×GE PoE + 2 GE + 2 SFP（combo）",
-   "url": "https://www.rfog.pl/produkt,3054,switch-przemyslowy-1000m-ethernet-4-porty-rj45-z-zasilaniem-poe-2-x-1000m-rj45-2-x-sfp-1000m-rf-sw-ind-4xrj45-ge-7204ge-poe-utp",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "RFoG",
-   "model": "RF-MC1000-8013N7-INDU-1SFP-8RJ45-POE",
-   "spec": "工业 PoE 交换/转换器 8 RJ45 + 1 SFP，240W",
-   "url": "https://www.rfog.pl/produkt,3161,przemyslowy-switch-konwerter-poe-rf-mc1000-8013n7-indu-1sfp-8rj45-poe-",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "RFoG",
-   "model": "RF-SW-08GE-01CMB-POE-GC",
-   "spec": "商用管理 8×GE PoE 25–30W + 1 combo",
-   "url": "https://www.rfog.pl/produkt,1462,switch-zarzadzalny-z-zasilaniem-poe-25w-8-x-gigabit-ethernet-1-port-combo-rf-sw-08ge-01cmb-poe-gc",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM"
-  }
- ],
- "channels": {
-  "网站/网店": "https://www.rfog.pl/",
-  "直邮": "tomasz.paszkowski@rfog.pl / bok@rfog.pl（用户表）"
- },
- "signals": [
-  "网店近期新增 ID 3254–3384 的 -NNT 工业 PoE 型号——2025–2026 仍在扩工业 PoE 贴牌线（2026-10-21）",
-  "用户表：A 优质名单(PL)，1 次回复，19 次跟进，联系人 Tomasz"
- ],
- "risks": [
-  "已有 N-Net 贴牌来源 + PLANET/MOXA 正牌，Saga 需以 Marvell 平台 + 价格切入「RF-」自有线",
-  "波兰语资料/CE 文件需配齐"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 20,
-  "why": "RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号"
- },
- "email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-04-21；用户表「已回复」无原文）",
-   "type": "波兰分销（自有型号，已贴牌 N-Net 工业 PoE，RFoG）——次重点",
-   "sieve": "0（邮件层无人工回复）",
-   "stop": "—",
-   "revive": "对位 RF-GP2803PGM 一次",
-   "lane": "PL/EU",
-   "cadence": "一次",
-   "evidence": "邮件：去信 17 封（2024-09-30 → 2026-09-25），来信 0；Opened 标签 1 次（2025-04-21）；收件人 bok@rfog.pl, tomasz.paszkowski@rfog.pl"
-  },
-  "situation": "已在贴牌 N-Net（用户表）= 白牌采购惯手；邮件被打开过 1 次。",
-  "need": "8GE PoE + 2SFP 工业管理。",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "STI-288DGGPM 对位 RF-GP2803PGM",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
-   "action": "一封对位表",
-   "one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
-  },
-  "facts": [
-   {
-    "date": "2025-04-21",
-    "dir": "去",
-    "who": "Saga（群发）",
-    "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
-    "why": "唯一的互动痕迹",
-    "k": "8e20d308a9952ad4"
-   }
+  "code": "SA-051",
+  "name_official": "RFoG（rfog.pl, Poland）",
+  "website_status": "在线",
+  "summary": "波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。",
+  "type": "分销商（自有型号贴牌）",
+  "size": "未见人数（中小）",
+  "brands_seen": [
+    "PLANET",
+    "MOXA",
+    "N-Net"
   ],
-  "proof_gaps": [
-   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有 RF- 型号贴牌 N-Net 工业 PoE 交换机",
+      "quote": "RF-GP2803PGM-INDU-POE-NNT to 10-portowy przełącznik sieciowy PoE o pełnej przepustowości gigabitowej, obsługujący do 8 portów 10/100/1000M PoE oraz 2 porty 1000M SFP. RF-EPG2802-INDU-POE-NNT to 10-portowy przemysłowy przełącznik/switch PoE",
+      "url": "https://www.rfog.pl/oferta,97,media-konwertery-poe-dla-kamer-ip",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "经营范围",
+      "quote": "W ramach prowadzonej działalności firmy RFoG oferuje: urządzenia optyczne, konwertery mediów, multipleksery, przełącznice … elementy pasywne i WDM/DWDM",
+      "url": "https://www.rfog.pl/rfog,2,o-firmie",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "RF-GP2808PGM-INDU-POE-NNT 规格",
+      "quote": "RF-GP2808PGM-INDU-POE-NNT to 10-portowy przemysłowy zarządzalny switch PoE … 8 * 10/100/1000M portów PoE, 2 * 1000M porty SFP UPLINK … Obsługa 2 portów PoE o mocy do 90 W, 6 portów PoE o mocy do 30 W",
+      "url": "https://www.rfog.pl/produkt,3254,przemyslowy-zarzadzalny-switch-gigabit-ethernet-poe-z-10-portami-8-2-rf-gp2808pgm-indu-poe-nnt",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "RF-GP2408PGM 4 口工业管理 PoE",
+      "quote": "RF-GP2408PGM-INDU-POE-NNT to 6-portowy przełącznik przemysłowy PoE, który obsługuje do 4 * 10/100/1000M portów PoE, 1 * 10/100/1000M port uplink i 2 * 1000M SFP",
+      "url": "https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Tomasz Paszkowski",
+      "role": "联系人（用户表邮箱）",
+      "email": "tomasz.paszkowski@rfog.pl",
+      "phone": "+48 602 794 466（官网）",
+      "source": "Clients/A/DONE/PL.xlsx"
+    }
+  ],
+  "notes": "A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "RFoG（rfog.pl）",
+    "hq": "Poland",
+    "other": "光通信分销商，自有 RF- 型号前缀贴牌（-NNT = N-Net 来源），同时卖 PLANET、MOXA；网店产品 ID 3000+"
+  },
+  "business_lines": [
+    "光纤 MC（含 10G）、WDM/DWDM、跳线配件",
+    "RF- 贴牌工业 PoE 交换机（N-Net 来源）与商用 PoE 管理交换机",
+    "PLANET / MOXA 分销"
+  ],
+  "products_seen": [
+    {
+      "brand": "RFoG（N-Net 贴牌）",
+      "model": "RF-GP2808PGM-INDU-POE-NNT / RF-GP2803PGM-INDU-POE-NNT",
+      "spec": "工业管理 8×GE PoE（2×90W + 6×30W）+ 2 SFP",
+      "url": "https://www.rfog.pl/produkt,3254,przemyslowy-zarzadzalny-switch-gigabit-ethernet-poe-z-10-portami-8-2-rf-gp2808pgm-indu-poe-nnt",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "RFoG（N-Net 贴牌）",
+      "model": "RF-GP2408PGM-INDU-POE-NNT",
+      "spec": "工业管理 4×GE PoE（30–90W）+ 1 GE + 2 SFP",
+      "url": "https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "RFoG（N-Net 贴牌）",
+      "model": "RF-EP2406-INDU-POE-NNT",
+      "spec": "工业非管理 4×FE PoE + 2 FE",
+      "url": "https://www.rfog.pl/produkt,3255,przemyslowy-niezarzadzalny-przelacznik-switch-fast-ethernet-poe-z-6-portami-4-2-rf-ep2406-indu-poe-nnt",
+      "date": "2026-10-21",
+      "saga": "STI-144GP（千兆升级位）"
+    },
+    {
+      "brand": "RFoG",
+      "model": "RF-SW-IND-4xRJ45-GE-7204GE-POE-UTP",
+      "spec": "工业 4×GE PoE + 2 GE + 2 SFP（combo）",
+      "url": "https://www.rfog.pl/produkt,3054,switch-przemyslowy-1000m-ethernet-4-porty-rj45-z-zasilaniem-poe-2-x-1000m-rj45-2-x-sfp-1000m-rf-sw-ind-4xrj45-ge-7204ge-poe-utp",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "RFoG",
+      "model": "RF-MC1000-8013N7-INDU-1SFP-8RJ45-POE",
+      "spec": "工业 PoE 交换/转换器 8 RJ45 + 1 SFP，240W",
+      "url": "https://www.rfog.pl/produkt,3161,przemyslowy-switch-konwerter-poe-rf-mc1000-8013n7-indu-1sfp-8rj45-poe-",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "RFoG",
+      "model": "RF-SW-08GE-01CMB-POE-GC",
+      "spec": "商用管理 8×GE PoE 25–30W + 1 combo",
+      "url": "https://www.rfog.pl/produkt,1462,switch-zarzadzalny-z-zasilaniem-poe-25w-8-x-gigabit-ethernet-1-port-combo-rf-sw-08ge-01cmb-poe-gc",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://www.rfog.pl/",
+    "直邮": "tomasz.paszkowski@rfog.pl / bok@rfog.pl（用户表）"
+  },
+  "signals": [
+    "网店近期新增 ID 3254–3384 的 -NNT 工业 PoE 型号——2025–2026 仍在扩工业 PoE 贴牌线（2026-10-21）",
+    "用户表：A 优质名单(PL)，1 次回复，19 次跟进，联系人 Tomasz"
+  ],
+  "risks": [
+    "已有 N-Net 贴牌来源 + PLANET/MOXA 正牌，Saga 需以 Marvell 平台 + 价格切入「RF-」自有线",
+    "波兰语资料/CE 文件需配齐"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 20,
+    "why": "RF-GP2808PGM（8 GE PoE + 2 SFP 工业管理）与 STI-288DGGPM 同位；RF-GP2408PGM/7204GE 对位 STI-144GP；商用 RF-SW-08GE 对位 STC-28DGGPM；分销 20% 档可贴 RF- 型号"
+  },
+  "email_hook": "Your RF-GP2808PGM-INDU-POE-NNT is the same 8-port gigabit PoE + 2 SFP industrial managed footprint we build on a Marvell core, so I am quoting it under an RF- label with the 4-port RF-GP2408PGM equivalent as the second SKU.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（邮件 17 封 0 回，Opened 1 次 2025-04-21；用户表「已回复」无原文）",
+      "type": "波兰分销（自有型号，已贴牌 N-Net 工业 PoE，RFoG）——次重点",
+      "sieve": "0（邮件层无人工回复）",
+      "stop": "—",
+      "revive": "对位 RF-GP2803PGM 一次",
+      "lane": "PL/EU",
+      "cadence": "一次",
+      "evidence": "邮件：去信 17 封（2024-09-30 → 2026-09-25），来信 0；Opened 标签 1 次（2025-04-21）；收件人 bok@rfog.pl, tomasz.paszkowski@rfog.pl"
+    },
+    "situation": "已在贴牌 N-Net（用户表）= 白牌采购惯手；邮件被打开过 1 次。",
+    "need": "8GE PoE + 2SFP 工业管理。",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "STI-288DGGPM 对位 RF-GP2803PGM",
+      "tier": 20,
+      "price": "—",
+      "why": "—。已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → tomasz.paszkowski@rfog.pl",
+      "action": "一封对位表",
+      "one_question": "For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-21",
+        "dir": "去",
+        "who": "Saga（群发）",
+        "quote": "「90W PoE Managed Switch」被打开（Mailtrack Opened 标签）",
+        "why": "唯一的互动痕迹",
+        "k": "8e20d308a9952ad4"
+      }
+    ],
+    "proof_gaps": [
+      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

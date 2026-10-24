@@ -1,126 +1,126 @@
 {
- "code": "SA-133",
- "name_official": "Bargas（bargas.ru，俄罗斯网店）",
- "website_status": "在线但反爬（快照为 KillBot 验证页）",
- "summary": "俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。",
- "type": "电商/销售平台",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "工商业 FS 多品牌销售平台；1 次回复 / 10 次",
-   "quote": "工商业FS 好多家的 销售平台（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "站点反爬（KillBot 验证），未取到内容",
-   "quote": "title: KillBot user verification",
-   "url": "https://www.bargas.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested",
-   "quote": "兴趣：工商业FS 好多家的 销售平台；回复：interested",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Александр Гречкин (Alexander Grechkin)",
-   "title": "（表内联系人）",
-   "email": "ag@bargas.ru",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": "B",
- "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
- "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照反爬 + 表内）"
- },
- "company_facts": {
-  "legal_name": "（待核，ООО «Баргас»？）",
-  "founded": "",
-  "hq": "俄罗斯",
-  "size": "网店 / 经销",
-  "other": "info@bargas.ru"
- },
- "business_lines": [
-  "工业 / 商用交换机多品牌网店"
- ],
- "channels": {
-  "role": "网店 / 经销（多品牌）",
-  "region": "俄罗斯"
- },
- "signals": [
-  "对 mini 工业机 interested（2025-12）",
-  "多品牌平台 → 上架门槛低"
- ],
- "risks": [
-  "俄罗斯：制裁 / 收款（第三国或人民币）",
-  "平台价格透明"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 20,
-  "why": "其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。"
- },
- "email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）",
-   "type": "俄罗斯网店",
-   "sieve": "1",
-   "stop": "付样 + 价后无回",
-   "revive": "—",
-   "lane": "RU",
-   "cadence": "2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18",
-   "evidence": "k=d5f6464213d5a032 / 347a1cb99eeabbb1"
-  },
-  "situation": "对方回了一句俄式赞叹，Simon 说明非免费样并报 STI-222GP 33 USD。无回。",
-  "need": "迷你工业 PoE。",
-  "breakpoint": "付样筛子。",
-  "saga_now": {
-   "p1": "无",
-   "tier": 20,
-   "price": "—",
-   "why": "不投入",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-12-18",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "it is not free samples… Price: 33usd/pc, STI-222GP",
-    "why": "付样说明",
-    "k": "347a1cb99eeabbb1"
-   }
+  "code": "SA-133",
+  "name_official": "Bargas（bargas.ru，俄罗斯网店）",
+  "website_status": "在线但反爬（快照为 KillBot 验证页）",
+  "summary": "俄罗斯工商业网络设备网店（表内「工商业 FS 好多家的，销售平台」），联系人 Александр Гречкин（Kruto），2025-12 对 mini 工业机群发回复 interested；站点反爬，内容未取到。",
+  "type": "电商/销售平台",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "工商业 FS 多品牌销售平台；1 次回复 / 10 次",
+      "quote": "工商业FS 好多家的 销售平台（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "站点反爬（KillBot 验证），未取到内容",
+      "quote": "title: KillBot user verification",
+      "url": "https://www.bargas.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工商业 FS 好多家的，销售平台；2025-12 群发 mini→interested",
+      "quote": "兴趣：工商业FS 好多家的 销售平台；回复：interested",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Александр Гречкин (Alexander Grechkin)",
+      "title": "（表内联系人）",
+      "email": "ag@bargas.ru",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
+  "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照反爬 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "（待核，ООО «Баргас»？）",
+    "founded": "",
+    "hq": "俄罗斯",
+    "size": "网店 / 经销",
+    "other": "info@bargas.ru"
+  },
+  "business_lines": [
+    "工业 / 商用交换机多品牌网店"
+  ],
+  "channels": {
+    "role": "网店 / 经销（多品牌）",
+    "region": "俄罗斯"
+  },
+  "signals": [
+    "对 mini 工业机 interested（2025-12）",
+    "多品牌平台 → 上架门槛低"
+  ],
+  "risks": [
+    "俄罗斯：制裁 / 收款（第三国或人民币）",
+    "平台价格透明"
+  ],
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 20,
+    "why": "其回应的 mini 工业机 → Saga STI-050GE（$17.0/17.8/18.5）上架起手；配套 STI-054GP / STI-144GP。"
+  },
+  "email_hook": "Александр, вы отметили интерес к mini промышленным коммутаторам — 5 портов, DIN-рейка, 12–36 В, от 1 шт.; прислать прайс EXW и фото для карточки товара?",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）",
+      "type": "俄罗斯网店",
+      "sieve": "1",
+      "stop": "付样 + 价后无回",
+      "revive": "—",
+      "lane": "RU",
+      "cadence": "2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18",
+      "evidence": "k=d5f6464213d5a032 / 347a1cb99eeabbb1"
+    },
+    "situation": "对方回了一句俄式赞叹，Simon 说明非免费样并报 STI-222GP 33 USD。无回。",
+    "need": "迷你工业 PoE。",
+    "breakpoint": "付样筛子。",
+    "saga_now": {
+      "p1": "无",
+      "tier": 20,
+      "price": "—",
+      "why": "不投入。已打开的主题（2/16 封有打开记录）：「Re: Mini Industrial PoE Switch」(2024-12-18)、「Re: Mini Industrial PoE Switch」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-12-18",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "it is not free samples… Price: 33usd/pc, STI-222GP",
+        "why": "付样说明",
+        "k": "347a1cb99eeabbb1"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

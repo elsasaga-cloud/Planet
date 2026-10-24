@@ -1,120 +1,120 @@
 {
- "code": "SB-1191",
- "name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
- "researched_at": "2026-10-21",
- "website_status": "在线（garmasl.com，快照 2026-10-21）",
- "summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Red Lion"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
-   "quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
-   "url": "https://garmasl.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "redlion Switch I/O module",
-   "quote": "兴趣：redlion Switch I/O module",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@garmasl.com",
-   "phone": "+34 943 291 102",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Garma Electronics S.L.",
-  "founded": "约 2003",
-  "hq": "San Sebastián (Gipuzkoa), Spain",
-  "size": "中小型工业分销",
-  "other": "Red Lion 渠道"
- },
- "business_lines": [
-  "工业仪表 / 控制 / 网络分销"
- ],
- "channels": {
-  "role": "工业分销商",
-  "region": "西班牙"
- },
- "signals": [
-  "Red Lion（N-Tron）之下价位带"
- ],
- "risks": [
-  "I/O 模块不供；无具名"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
- },
- "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开",
-   "revive": "保持季度群发到 2027-Q1；无打开即停",
-   "lane": "西班牙（欧洲全域主攻）",
-   "cadence": "季度",
-   "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名"
-  },
-  "situation": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
-  "need": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。",
-  "breakpoint": "I/O 模块不供；无具名",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "群发节奏",
-   "channel": "A 邮箱",
-   "action": "观察打开",
-   "one_question": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：redlion Switch I/O module",
-    "why": "表内备注",
-    "k": "用户表"
-   },
-   {
-    "date": "2025",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "Passive PoE Switch、Mini Industrial Switch",
-    "why": "7 封 / 1 次打开 / 0 回",
-    "k": "gmail_digest"
-   }
+  "code": "SB-1191",
+  "name_official": "Garma Electronics S.L.（西班牙圣塞巴斯蒂安）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（garmasl.com，快照 2026-10-21）",
+  "summary": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Red Lion"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "20+ 年工业方案：仪表与过程控制；+34 943 291 102",
+      "quote": "With over 20 years of experience, Garma Electronics is your trusted source for industrial solutions. Offering instrumentation and control for demanding processes.",
+      "url": "https://garmasl.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "redlion Switch I/O module",
+      "quote": "兴趣：redlion Switch I/O module",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@garmasl.com",
+      "phone": "+34 943 291 102",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Garma Electronics S.L.",
+    "founded": "约 2003",
+    "hq": "San Sebastián (Gipuzkoa), Spain",
+    "size": "中小型工业分销",
+    "other": "Red Lion 渠道"
+  },
+  "business_lines": [
+    "工业仪表 / 控制 / 网络分销"
+  ],
+  "channels": {
+    "role": "工业分销商",
+    "region": "西班牙"
+  },
+  "signals": [
+    "Red Lion（N-Tron）之下价位带"
+  ],
+  "risks": [
+    "I/O 模块不供；无具名"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。"
+  },
+  "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开",
+      "revive": "保持季度群发到 2027-Q1；无打开即停",
+      "lane": "西班牙（欧洲全域主攻）",
+      "cadence": "季度",
+      "evidence": "gmail_digest：out 7，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：redlion Switch I/O module」；研究档 risks：I/O 模块不供；无具名"
+    },
+    "situation": "西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。",
+    "need": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。",
+    "breakpoint": "I/O 模块不供；无具名",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "群发节奏",
+      "channel": "A 邮箱",
+      "action": "观察打开",
+      "one_question": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：redlion Switch I/O module",
+        "why": "表内备注",
+        "k": "用户表"
+      },
+      {
+        "date": "2025",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Passive PoE Switch、Mini Industrial Switch",
+        "why": "7 封 / 1 次打开 / 0 回",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

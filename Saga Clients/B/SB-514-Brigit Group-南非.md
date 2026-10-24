@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-514` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 deon@brigit.co.za, lyle@brigit.co.za；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：南非 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog」；研究档 risks：无具体需求；WA 无回复
+- **绑定等级：未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 deon@brigit.co.za, lyle@brigit.co.za；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：南非 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 17；用户表：「兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog」；研究档 risks：无具体需求；WA 无回复
 - **现状一句话**：南非 Brigit 集团（MD Deon van Zyl，PM Lyle Olivier），展会上自称来自南非、拿走两本目录并听了差异说明，无具体需求；WA 7 次无实质回复。
 - **对方真实需求（有据）**：无口型；通用 8 PoE 管理机入口。
 - **断点 / 为什么停在这里**：无具体需求；WA 无回复
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog | 表内备注 | `用户表` |
 | 2026 | 去 | A 群发 | Industrial PoE Switch、Mini Industrial PoE Switch | 17 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

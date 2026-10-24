@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1134` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进
+- **绑定等级：未触达（S 邮箱 6 封 2024，无记录打开，0 回；收件 info@infinityhardware.us, sales@infinityhardware.us；主题多为「48 port managed switch、2.5G Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加」；研究档 risks：美国关税成本；小型转售商；无 UL；无后续跟进
 - **现状一句话**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。
 - **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$139.9）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明
 - **断点 / 为什么停在这里**：美国关税成本；小型转售商；无 UL；无后续跟进
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加 | 表内备注 | `用户表` |
 | 2024 | 去 | S 群发 | 48 port managed switch、2.5G Ethernet Switch | 6 封 / 0 次打开 / 0 回 | `gmail_digest` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 

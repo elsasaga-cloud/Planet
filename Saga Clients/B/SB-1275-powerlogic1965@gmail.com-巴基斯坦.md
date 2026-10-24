@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。（调研 2026-10-21；表内兴趣：catalog）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（2025-02-28 → 2025-06-22）；最近一次客户回复：2025-02-28：need info to promote...
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —。已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，—）———。已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

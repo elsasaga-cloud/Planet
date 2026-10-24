@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-162` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：小型安防/电脑零售安装商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：微型店；询价可能是一次性项目
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：小型安防/电脑零售安装商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：TR 主攻（四主） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；研究档 risks：微型店；询价可能是一次性项目
 - **现状一句话**：土耳其科尼亚 Çumra 的小型安防摄像/报警与电脑维修销售店（店主 Ahmet Can；Armiya Teknoloji 经销商）；ISAF 2025 现场问 12 光 12 电带 PoE 网管，已报 $150；WA 已加，无后续互动。
 - **对方真实需求（有据）**：安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）
 - **断点 / 为什么停在这里**：微型店；询价可能是一次性项目
@@ -52,7 +52,7 @@ updated: 2026-10-24
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
   - 第一问（只问一个）：Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 
