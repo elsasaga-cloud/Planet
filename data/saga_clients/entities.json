@@ -351742,7 +351742,7 @@
 },
 "next_move": {
 "when": "2026-11",
-"channel": "A 邮箱 → info@htvision.ru",
+"channel": "A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回）",
 "action": "短信一问（email_hook）",
 "one_question": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?"
 },

@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-11 A 邮箱 → info@htvision.ru 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回） 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供
 - **断点 / 为什么停在这里**：邮箱发不过去（info@ 退信）——邮箱待补；俄罗斯：结算/物流/合规风险；现供 ONV/Utepo/Ewind 价格基准低；官网 http_error
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2026-11　A 邮箱 → info@htvision.ru　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回）　短信一问（email_hook）
   - 第一问（只问一个）：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
